@@ -3,6 +3,17 @@
 
 Each section of the nomenclature will be handled by an independent node/agent.
 
+## Installation
+
+Ensure you have Python 3.8+ installed and activate the Conda environment:
+```bash
+conda activate env-agents
+```
+Then install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
+
 ## Agents
 
 - Section:	Node Name	Prompting Strategy
