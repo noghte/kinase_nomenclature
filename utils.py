@@ -1,3 +1,4 @@
+#TODO: Only include relevant context for each section
 from enum import Enum
 import fitz  # pymupdf
 from langchain.schema import HumanMessage
@@ -6,10 +7,7 @@ import os
 from dotenv import load_dotenv
 load_dotenv() 
 
-llm = ChatOpenAI(model_name="gpt-4.1-nano", temperature=0, 
-    model_kwargs= {
-        "api_key": os.getenv("OPENAI_API_KEY")
-    })
+llm = ChatOpenAI(model_name="gpt-4.1-nano", temperature=0, api_key=os.getenv("OPENAI_API_KEY"))
 
 class Section(Enum):
     STRUCTURE = "Structure"
@@ -25,8 +23,7 @@ class Section(Enum):
         """
         system_msg = HumanMessage(content=f"[Section: {self.value}]\n{prompt}")
         user_msg   = HumanMessage(content=context[:200] + "...")
-        # Use the updated invoke API
-        response = llm.invoke([system_msg, user_msg])
+        response   = llm.invoke([system_msg, user_msg])
         return response.content
 
 def extract_pdf_text(pdf_path: str) -> str:

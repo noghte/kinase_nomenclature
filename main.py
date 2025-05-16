@@ -96,7 +96,7 @@ graph.add_node(
     "extract_gene_location",
     lambda st: {
         "gene_location": extract_gene_location.invoke(
-            {"protein_name": st["protein_name"], "pdf_text": st["pdf_text"]}
+            {"protein_name": st["protein_name"], "name_and_synonyms":  st["name_and_synonyms"], "pdf_text": st["pdf_text"]}
         )
     },
 )
@@ -105,7 +105,7 @@ graph.add_node(
     "extract_structure",
     lambda st: {
         "structure": extract_structure_info.invoke(
-            {"protein_name": st["protein_name"], "pdf_text": st["pdf_text"]}
+            {"protein_name": st["protein_name"], "name_and_synonyms":  st["name_and_synonyms"], "pdf_text": st["pdf_text"]}
         )
     },
 )
@@ -114,7 +114,7 @@ graph.add_node(
     "extract_regulation",
     lambda st: {
         "regulation": extract_regulation_info.invoke(
-            {"protein_name": st["protein_name"], "pdf_text": st["pdf_text"]}
+            {"protein_name": st["protein_name"], "name_and_synonyms":  st["name_and_synonyms"], "pdf_text": st["pdf_text"]}
         )
     },
 )
@@ -123,7 +123,7 @@ graph.add_node(
     "extract_function",
     lambda st: {
         "function": extract_function_info.invoke(
-            {"protein_name": st["protein_name"], "pdf_text": st["pdf_text"]}
+            {"protein_name": st["protein_name"], "name_and_synonyms":  st["name_and_synonyms"], "pdf_text": st["pdf_text"]}
         )
     },
 )
@@ -132,7 +132,7 @@ graph.add_node(
     "extract_specificity",
     lambda st: {
         "specificity": extract_specificity_info.invoke(
-            {"protein_name": st["protein_name"], "pdf_text": st["pdf_text"]}
+            {"protein_name": st["protein_name"], "name_and_synonyms":  st["name_and_synonyms"], "pdf_text": st["pdf_text"]}
         )
     },
 )
