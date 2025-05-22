@@ -1,4 +1,5 @@
 # Information
+
 **Protein Name: {protein_name} / gene: {gene_name} {gene_synonyms}**
 **Uniprot Id: {uniprotid}**
 **Protein alternative names: {protein_alternative_names}**
@@ -6,15 +7,31 @@
 
 ---
 
-# Objective
+# Objective (Task)
 
-Develop a **comprehensive nomenclature and functional profile** for the protein kinase mentioned in the Information section, strictly following the **Reference Template** in structure, formatting, and depth. The output should mirror the organization and style of the template, without introducing new sections such as "Summary" or "Conclusion".
+Develop a **comprehensive nomenclature and functional profile** for the protein introduced in the Information section, strictly following the **Reference Template** in structure and formatting. The output should mirror the organization and style of the template, without introducing new sections such as "Summary" or "Conclusion".
+Also, do not interpret results. For example **DO NOT** add sentences to interpret the findings (such as **suggesting that**, etc.)
+
+---
+
+# Method
+To perform the task, do the following subtasks step-by-step:
+1. Collect all relevant published papers about the the protein introduced in the Information section.
+1.1. Make sure the following papers are included in your collection:
+	- In the Substrate Specifity section, for *serine/threonine kinases* : Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., ... & Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759-766.
+	- In the Substrate Specifity section, for *tyrosine kinases*: Yaron-Barir, T. M., Joughin, B. A., Huntsman, E. M., Kerelsky, A., Cizin, D. M., Cohen, B. M., ... & Johnson, J. L. (2024). The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629(8014), 1174-1181.  
+	- For *Phylogeny* section: 
+        1. Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298(5600), 1912-1934.
+        2. Manning, G., Plowman, G. D., Hunter, T., & Sudarsanam, S. (2002). Evolution of protein kinase signaling from yeast to man. Trends in biochemical sciences, 27(10), 514-520.
+
+3. Read the papers and use them properly based on the **Section Guidelines** described below.
+4. Make the final format and header names aligned with the Reference Template.
 
 ---
 
 # Reference Template
 
-This template provides an example of expected **section headers, structure and writing tone**. Use it solely to guide the format. You are encouraged to improve the depth and comprehensiveness of your response without being repetitive.
+This template provides an example of expected **section headers, structure and writing tone**. Use it solely to guide the format. You are encouraged to improve the depth and comprehensiveness of your response without being repetitive and speculative.
 
 """
 **Accepted name:** Ribosomal S6 kinase (S6K), which usually refers to either S6K1 or S6k2. Genes: Ribosomal protein S6 kinase beta-1 (RPS6KB1, isoforms S6KaI (p85) and S6KaII (p70)) and RPS6KB2 (isoforms S6KbI (p56) and S6KbII (p54)). 
@@ -66,73 +83,73 @@ Follow the **section numbers and headings** below exactly. Each section must pro
 ---
 
 ## 1. Phylogeny  
-Describe the phylogenetic context of the protein introduced in Infomation section. Include:  
+Identify the phylogenetic context of the protein. Include only:  
+- Known orthologs across species
 - Evolutionary relationships with other kinases  
-- Kinome group and family classification  
-- Known orthologs across species  
+- Group and family assignment within the kinome based on the priority publications and data sources below  
+  
+**Priority publications and associated data sources**:  
+- *Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298(5600), 1912-1934.* 
+- *Manning, G., Plowman, G. D., Hunter, T., & Sudarsanam, S. (2002). Evolution of protein kinase signaling from yeast to man. Trends in biochemical sciences, 27(10), 514-520* 
 
 ---
 
 ## 2. Reaction Catalyzed  
-Describe the **chemical reaction** catalyzed by this kinase. Include:  
-- Specific substrates and products  
-- Reaction mechanisms, if available  
+Mention the **chemical reaction** catalyzed by this kinase. Include only:  
+- the reaction catalyzed with ATP substrates and products, as described in the template  
 
 ---
 
 ## 3. Cofactor Requirements  
-Indicate whether the catalytic activity of the protein introduced in Infomation section depends on cofactors. Include:  
-- Metal ion requirements (e.g., Mg²⁺, Mn²⁺)  
-- Any other cofactors or regulatory molecules  
+Indicate whether the catalytic activity of the protein introduced in the Information section depends on cofactors. Include only:  
+- co factor requirement (e.g., Mg²⁺, Mn²⁺), as described in the template    
 
 ---
 
 ## 4. Substrate Specificity
-Detail the substrate specificity of the protein introduced in Infomation section. Include:  
-- Known physiological substrates  
-- Amino acid motifs or structural features critical for substrate recognition  
-- Consensus substrate motifs  
-
-**Priority Data Sources**:  
-- *Johnson et al., Nature 2023* (serine/threonine kinases)  
-- *Yaron-Barir et al., Nature 2024* (tyrosine kinases)  
+Detail the substrate specificity of the protein introduced in the Information section. Include only:  
+- Consensus substrate motifs, if known, based on the priority publication and data source below:  
+- Amino acid preferences in the substrate motif  
+  
+**Priority publication and associated data sources**:  
+- For *serine/threonine kinases*: Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., ... & Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759-766.
+- For *tyrosine kinases*: Yaron-Barir, T. M., Joughin, B. A., Huntsman, E. M., Kerelsky, A., Cizin, D. M., Cohen, B. M., ... & Johnson, J. L. (2024). The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629(8014), 1174-1181.  
 
 ---
 
 ## 5. Structure  
-Describe the structure of the protein introduced in Infomation section. Include:  
+Describe the 3D structure of the protein introduced in the Information section. Include only:  
 - Domain organization and brief function of each domain  
-- 3D structural data from crystal structures or AlphaFold models  
-- Unique structural features or interactions  
-- Key catalytic or regulatory residues  
+- 3D structural organization based on published crystal structures or AlphaFold models    
+- Key catalytic and regulatory features such as the activation loop, hydrophobic spine and C-helix 
+- Unique structural features based on experimentally derived 3D structure or models 
 
 ---
 
 ## 6. Regulation  
-Summarize regulatory mechanisms of the protein introduced in Infomation section. Include:  
+Summarize regulatory mechanisms. Include only:  
 - Post-translational modifications (phosphorylation, ubiquitination, etc.)  
 - Known modification sites  
 - Enzymes responsible for these modifications  
 - Functional effects of modifications (e.g., activation, inhibition)  
-- Allosteric regulation, if any  
+- Allosteric and conformational regulation, if known  
 
 ---
 
 ## 7. Function  
-Explain the biological roles of the protein introduced in Infomation section. Include:  
+Explain the biological roles of the protein introduced in the Information section. Include only:  
 - Expression patterns (tissue or cell-specific)  
-- Core functions and biological processes  
+- Upstream/downstream kinases, substrates and interacting partners
 - Role in signaling pathways  
-- Interactions with substrates and regulators  
+  
 
 ---
 
 ## 8. Other Comments  
-Include any relevant additional information of the protein introduced in Infomation section, such as:  
+Include any relevant additional information, such as:  
 - Known inhibitors (experimental or clinical)  
 - Disease associations  
-- Notable mutations and their functional impact  
-- Current areas of active research  
+- Notable disease mutations and their functional impact    
 
 ## 9. References
 Include all the References used to create this nomenclature with a consistent format.
@@ -146,5 +163,4 @@ Include all the References used to create this nomenclature with a consistent fo
 - Ensure factual accuracy and cite data based on published literature  
 - Do **not** include speculative or inferred content  
 - If multiple sources provide contradictory information, state the contradiction  
-- Do not interpret results. For example **DO NOT** add sentences to interpret the findings (such as **suggesting that**, etc.)
 - Strive for clarity, completeness, and adherence to the style and depth of the reference template
