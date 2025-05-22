@@ -10,45 +10,40 @@ def load_pdf(pdf_path: str) -> str:
     return extract_pdf_text(pdf_path)
 
 @tool
-def extract_name_and_synonyms(protein_name: str,  pdf_text: str) -> str:
-    """
-    Extract EC number, accepted name, and synonyms for the specified protein.
-    """
-    prompt = f"Extract EC number, accepted name, and synonyms for {protein_name}."
+def extract_name_and_synonyms(protein_name: str, pdf_text: str) -> str:
+    with open("./prompts/name_and_synonyms.txt") as f:
+        prompt = f.read()
+    prompt = prompt.replace("{protein_name}", protein_name)
     return Section.NAME_AND_SYNONYMS.ask(prompt, pdf_text)
 
 @tool
-def extract_gene_location(protein_name: str, name_and_synonyms: str,  pdf_text: str) -> str:
-    """
-    Extract gene location information, species, and expression patterns for the specified protein.
-    """
-    prompt = f"Extract gene location, species, and expression patterns for {protein_name}."
+def extract_gene_location(protein_name: str, name_and_synonyms: str, pdf_text: str) -> str:
+    with open("./prompts/gene_location.txt") as f:
+        prompt = f.read()
+    prompt = prompt.replace("{protein_name}", protein_name)
     return Section.GENE_LOCATION.ask(prompt, pdf_text)
 
 @tool
-def extract_structure_info(protein_name: str, name_and_synonyms: str,  pdf_text: str) -> str:
+def extract_structure_info(protein_name: str, name_and_synonyms: str, pdf_text: str) -> str:
     """
     Extract structural information about the specified protein including domain organization and binding sites.
     """
-    prompt = (
-        f"Describe the structure of {protein_name} including domain organization, motifs, and binding sites. "
-        f"Is there information related to conformational changes associated with regulatory functions or residues associated with catalytic or regulatory functions? "
-        f"Can you find mentions of specific structural interactions such as hydrogen bonds, electrostatic, or van der Waals interactions associated with structure, stability or conformation?"
-    )
+    prompt = ""
+    with open("./prompts/structure.txt", "r") as f:
+        prompt = f.read()
+    prompt = prompt.replace("{protein_name}", protein_name)
+    prompt = prompt.replace("{name_and_synonyms}", name_and_synonyms)
     return Section.STRUCTURE.ask(prompt, pdf_text)
 
 @tool
-def extract_function_info(protein_name: str, name_and_synonyms: str,  pdf_text: str) -> str:
+def extract_function_info(protein_name: str, name_and_synonyms: str, pdf_text: str) -> str:
     """
-    Extract functional information about the specified protein including pathways and phosphorylation targets.
+    Extract functional information about the specified protein.
     """
-    prompt = (
-        f"Describe the function of {protein_name} with a focus on its substrates and pathways. "
-        f"What are the known substrates of the {protein_name}? "
-        f"What is the substrate specificity of {protein_name}? "
-        f"Where is {protein_name} expressed, and what is the function of {protein_name} in different cells or tissue types? "
-        f"Which regulatory pathways is {protein_name} involved in?"
-    )
+    with open("./prompts/function.txt", "r") as f:
+        prompt = f.read()
+    prompt = prompt.replace("{protein_name}", protein_name)
+    prompt = prompt.replace("{name_and_synonyms}", name_and_synonyms)
     return Section.FUNCTION.ask(prompt, pdf_text)
 
 @tool
@@ -64,16 +59,11 @@ def extract_regulation_info(protein_name: str, name_and_synonyms: str,  pdf_text
     return Section.REGULATION.ask(prompt, pdf_text)
 
 @tool
-def extract_specificity_info(protein_name: str, name_and_synonyms: str,  pdf_text: str) -> str:
-    """
-    Extract information about the substrate specificity of the specified protein including phosphorylation targets.
-    """
-    prompt = (
-    f"Outline how {protein_name} is regulated by post-translational modifications. "
-    f"At which sites/amino acids is {protein_name} modified? "
-    f"Which proteins phosphorylate {protein_name}? What is the mechanism? "
-    f"How is {protein_name} activated or repressed in pathways?"
-    )
+def extract_specificity_info(protein_name: str, name_and_synonyms: str, pdf_text: str) -> str:
+    with open("./prompts/specificity.txt") as f:
+        prompt = f.read()
+    prompt = prompt.replace("{protein_name}", protein_name)
+    prompt = prompt.replace("{name_and_synonyms}", name_and_synonyms)
     return Section.SPECIFICITY.ask(prompt, pdf_text)
 
 @tool

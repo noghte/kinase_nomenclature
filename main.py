@@ -7,6 +7,8 @@ from typing_extensions import NotRequired
 
 from langgraph.graph import StateGraph, END
 from langchain_core.runnables.graph import MermaidDrawMethod
+
+
 from tools import (
     load_pdf,
     extract_name_and_synonyms,
