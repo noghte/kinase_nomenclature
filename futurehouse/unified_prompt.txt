@@ -1,12 +1,14 @@
-
-**{protein_name}: DCLK1**  
-**{name_and_synonyms}: DCAMKL1, DCDC3A, KIAA0369**
+# Information
+**Protein Name: {protein_name} / gene: {gene_name} {gene_synonyms}**
+**Uniprot Id: {uniprotid}**
+**Protein alternative names: {protein_alternative_names}**
+**Protein Function: {function}**
 
 ---
 
 # Objective
 
-Develop a **comprehensive nomenclature and functional profile** for **{protein_name}**, strictly following the **Reference Template** in structure, formatting, and depth. The output should mirror the organization and style of the template, without introducing new sections such as "Summary" or "Conclusion".
+Develop a **comprehensive nomenclature and functional profile** for the protein kinase mentioned in the Information section, strictly following the **Reference Template** in structure, formatting, and depth. The output should mirror the organization and style of the template, without introducing new sections such as "Summary" or "Conclusion".
 
 ---
 
@@ -64,7 +66,7 @@ Follow the **section numbers and headings** below exactly. Each section must pro
 ---
 
 ## 1. Phylogeny  
-Describe the phylogenetic context of {protein_name} (Synonyms: {name_and_synonyms}). Include:  
+Describe the phylogenetic context of the protein introduced in Infomation section. Include:  
 - Evolutionary relationships with other kinases  
 - Kinome group and family classification  
 - Known orthologs across species  
@@ -79,14 +81,14 @@ Describe the **chemical reaction** catalyzed by this kinase. Include:
 ---
 
 ## 3. Cofactor Requirements  
-Indicate whether the catalytic activity of {protein_name} depends on cofactors. Include:  
+Indicate whether the catalytic activity of the protein introduced in Infomation section depends on cofactors. Include:  
 - Metal ion requirements (e.g., Mg²⁺, Mn²⁺)  
 - Any other cofactors or regulatory molecules  
 
 ---
 
 ## 4. Substrate Specificity
-Detail the substrate specificity of {protein_name}. Include:  
+Detail the substrate specificity of the protein introduced in Infomation section. Include:  
 - Known physiological substrates  
 - Amino acid motifs or structural features critical for substrate recognition  
 - Consensus substrate motifs  
@@ -98,7 +100,7 @@ Detail the substrate specificity of {protein_name}. Include:
 ---
 
 ## 5. Structure  
-Describe the structure of {protein_name}. Include:  
+Describe the structure of the protein introduced in Infomation section. Include:  
 - Domain organization and brief function of each domain  
 - 3D structural data from crystal structures or AlphaFold models  
 - Unique structural features or interactions  
@@ -107,7 +109,7 @@ Describe the structure of {protein_name}. Include:
 ---
 
 ## 6. Regulation  
-Summarize regulatory mechanisms. Include:  
+Summarize regulatory mechanisms of the protein introduced in Infomation section. Include:  
 - Post-translational modifications (phosphorylation, ubiquitination, etc.)  
 - Known modification sites  
 - Enzymes responsible for these modifications  
@@ -117,7 +119,7 @@ Summarize regulatory mechanisms. Include:
 ---
 
 ## 7. Function  
-Explain the biological roles of {protein_name}. Include:  
+Explain the biological roles of the protein introduced in Infomation section. Include:  
 - Expression patterns (tissue or cell-specific)  
 - Core functions and biological processes  
 - Role in signaling pathways  
@@ -126,7 +128,7 @@ Explain the biological roles of {protein_name}. Include:
 ---
 
 ## 8. Other Comments  
-Include any relevant additional information, such as:  
+Include any relevant additional information of the protein introduced in Infomation section, such as:  
 - Known inhibitors (experimental or clinical)  
 - Disease associations  
 - Notable mutations and their functional impact  
