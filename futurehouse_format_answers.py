@@ -33,6 +33,10 @@ def main():
         # output filename
         out_path = os.path.join(prof_dir, f"{gene}.docx")
 
+        # check if file already exists
+        if os.path.exists(out_path):
+            print(f"✖ {out_path} already exists, skipping.")
+            continue
         # convert markdown to docx
         try:
             pypandoc.convert_text(
