@@ -14,7 +14,7 @@ if not API_KEY:
 client = FutureHouseClient(api_key=API_KEY)
 
 # Paths
-task_ids_file  = Path("./futurehouse/task_ids_all.csv")
+task_ids_file  = Path("./futurehouse/task_ids_20250522_171650.csv")
 csv_file       = Path("./data/kinases.csv")
 responses_file = Path("./futurehouse/responses.json")
 
