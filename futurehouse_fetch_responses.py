@@ -14,9 +14,9 @@ if not API_KEY:
 client = FutureHouseClient(api_key=API_KEY)
 
 # Paths
-task_ids_file  = Path("./futurehouse/task_ids_20250523_131601.csv")
+task_ids_file  = Path("./futurehouse/task_ids_20250601_231801.csv")
 csv_file       = Path("./data/kinases.csv")
-responses_file = Path("./futurehouse/responses.json")
+responses_file = Path("./futurehouse/responses_20250601_231801.json")
 
 # Load or initialize responses
 if responses_file.exists():
@@ -78,4 +78,4 @@ for tid in task_ids:
         print(f"{tid} failed with state {state}")
 
 client.close()
-print("Finished polling and updated responses.json")
+print(f"Finished polling and updated {responses_file}")
