@@ -6,6 +6,7 @@ from datetime import datetime
 from pathlib import Path
 from dotenv import load_dotenv
 from futurehouse_client import FutureHouseClient, JobNames
+from futurehouse_client.models.app import TaskRequest
 
 load_dotenv()
 API_KEY = os.getenv("FUTUREHOUSE_API_KEY")
@@ -80,7 +81,27 @@ with open(out_path, "w", encoding="utf-8", newline="") as out:
             protein_alternative_names = row.get("protein_alternative_names", "N/A"),
             function                  = row.get("function", "N/A")
         )
-        tid = client.create_task({"name": job_name, "query": prompt})
+
+        # Add general PDF documents
+        pdf_dir = Path("./pdf/")
+        docs = []
+        if pdf_dir.exists() and pdf_dir.is_dir():
+            for pdf in pdf_dir.glob("*.pdf"):
+                docs.append({"path": str(pdf)})
+
+        # Add gene-specific PDF documents if available
+        pdf_dir = Path("./pdf") / row["gene_name"]
+        if pdf_dir.exists() and pdf_dir.is_dir():
+            for pdf in pdf_dir.glob("*.pdf"):
+                docs.append({"path": str(pdf)})
+
+        task = TaskRequest(
+            name=job_name,
+            query=prompt,
+            runtime_config={"docs": docs} if docs else None
+        )
+
+        tid = client.create_task(task)
         writer.writerow([row["gene_name"], tid])
         print("Submitted", row["gene_name"], "→", tid)
         time.sleep(0.1)
