@@ -3,8 +3,8 @@ import requests
 import time
 import os
 
-input_file = './data/kinases.csv'
-output_file = './data/kinases_enriched.csv'
+input_file = './data/classification.csv'
+output_file = './data/classification_enriched.csv'
 
 api_url = 'https://rest.uniprot.org/uniprotkb/search'
 fields = 'protein_name,gene_names,cc_function'
@@ -86,6 +86,8 @@ for row in source_rows:
                 if texts:
                     function_comment = texts[0].get('value', '')
                     break
+        if len(function_comment) > 500:
+            function_comment = function_comment[:500] + '...'
         row['function'] = function_comment
 
         print(f"Enriched {uniprot_id}")
