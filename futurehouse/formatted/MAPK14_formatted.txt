@@ -1,38 +1,43 @@
-## Proposed EC/sub-subclass:  
-2.7.11.–   *(serine/threonine-protein kinase; subclass not specified in source)*  
+## Proposed EC/Sub-subclass  
+2.7.11.24  
 
-## Accepted name:  
+## Accepted name  
 Mitogen-activated protein kinase 14  
 
-## Synonyms:  
-p38 α (p38 alpha)  
+## Synonyms  
+p38 α; p38 MAPK; MAP kinase 14  
 
-## Phylogeny:  
-Member of the p38 subfamily of stress-activated protein kinases (SAPKs); paralogues are p38 β, p38 γ and p38 δ. Closely related to the yeast HOG1 kinase and shows ~50 % sequence identity with ERK2. Dual-phosphorylation motif and docking regions define a distinct, highly conserved evolutionary branch that has retained key functional residues across vertebrates and other species.  
+## 1. Phylogeny  
+Member of the p38 subfamily of stress-activated protein kinases, which comprises p38 α (MAPK14), β, γ and δ. These isoforms are conserved throughout vertebrate evolution and share ancestry with the yeast stress-responsive kinase HOG1. MAPK14 shows ~50 % sequence identity with ERK2 and resides in the CMGC group of Ser/Thr kinases. Phylogenetic analyses based on the dual-phosphorylation motif and docking regions place MAPK14 on a distinct, ancient branch that has retained key functional residues over hundreds of millions of years (PMID: 21372320, 10881912, 9922379, 9560430).  
 
-## Reaction catalysed:  
-ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein]  
+## 2. Reaction catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (PMID: 9922379, 21372320).  
 
-## Cofactor requirements:  
-Mg²⁺ (essential for ATP coordination and catalysis)  
+## 3. Cofactor requirements  
+Mg²⁺ is essential for ATP coordination and catalysis (PMID: 12057199).  
 
-## Specificity:  
-Phosphorylates Ser/Thr residues followed by Pro (S/T-P motif). Docking interactions refine recognition and allow phosphorylation of an estimated 200–300 substrates, including transcription factors (ATF1, ATF2, MEF2, Elk-1, TP53) and downstream kinases (MK2, MK3, MNK1, MNK2).  
+## 4. Substrate specificity  
+Selectively phosphorylates Ser/Thr residues followed by Pro (S/T-P motif). Docking interactions further refine recognition, enabling phosphorylation of an estimated 200-300 substrates that include transcription factors (ATF1, ATF2, MEF2, Elk-1, TP53) and downstream kinases (MK2, MK3, MNK1, MNK2) (PMID: 21372320, 10881912).  
 
-## Structure:  
-Typical bilobed CMGC-family catalytic domain with a β-stranded N-lobe and α-helical C-lobe. Activation loop bears the conserved Thr-Gly-Tyr (TGY) motif that is dually phosphorylated for full activation. Crystal structures show an ATP-binding cleft, hydrophobic spine, and C-helix residues crucial for catalysis; subtle differences in docking sites distinguish p38 α from its paralogues.  
+## 5. Structure  
+Consists solely of the canonical protein-kinase bilobed catalytic domain: a β-sheet-rich N-lobe and an α-helical C-lobe. The activation loop harbours the conserved Thr-Gly-Tyr (TGY) motif; dual phosphorylation here triggers the conformational change required for full activity. Crystal structures reveal a defined ATP-binding cleft, a hydrophobic spine and C-helix residues that participate in substrate binding; subtle differences in docking sites distinguish p38 α from its paralogues (PMID: 21372320, 9922379).  
 
-## Regulation:  
-Activated by dual phosphorylation of Thr183 and Tyr185 by the upstream MAPKKs MKK3 and MKK6 in response to UV, oxidative stress and inflammatory cytokines. Translocates between cytoplasm and nucleus upon activation. Inactivated by MAP kinase phosphatases (MKPs); additional modulation by interacting proteins such as casein kinase II.  
+## 6. Regulation  
+Activated by dual phosphorylation of Thr183 and Tyr185 by MKK3 and MKK6 in response to UV, oxidative stress and inflammatory cytokines. Upon activation, MAPK14 translocates between cytoplasm and nucleus. Dephosphorylated and inactivated by MAP kinase phosphatases (MKPs). Interactions with other regulators, such as casein kinase II, modulate autophosphorylation and overall activity (PMID: 21372320, 10881912, 15187184, 12057199).  
 
-## Function:  
-Central mediator of cellular stress and inflammatory signalling. Through phosphorylation of transcription factors and downstream kinases, controls inflammation, cell-cycle progression, protein turnover, receptor endocytosis, immediate-early gene induction, chromatin remodelling and regulation of protein degradation pathways (e.g. SIAH2, ADAM17).  
+## 7. Function  
+Key mediator of stress and inflammatory signalling. Through phosphorylation of transcription factors, downstream kinases and chromatin-associated proteins, MAPK14 controls immediate-early gene expression, chromatin remodelling, cell-cycle checkpoints, protein turnover and receptor endocytosis (PMID: 21372320, 9922379).  
 
-## Inhibitors:  
-ATP-competitive compounds SB203580 and SB202190 are widely used experimental inhibitors of MAPK14.  
+## 8. Other comments  
+Widely used ATP-competitive inhibitors include SB203580 and SB202190; these compounds block MAPK14 activity in cells and are tools for dissecting p38 signalling. Dysregulated MAPK14 activity is linked to inflammatory diseases, certain cancers and developmental disorders, making the kinase an ongoing therapeutic target (PMID: 10881912, 9649428, 15187184, 21372320).  
 
-## Other comments:  
-Aberrant MAPK14 activity is linked to inflammatory disorders, certain cancers and developmental anomalies owing to its roles in cytokine expression, apoptosis and stress responses.  
+## 9. References  
+PMID 21372320 – Cargnello M & Roux PP, 2011  
+PMID 10881912 – Martín-Blanco E, 2000  
+PMID 9922379  – Widmann C et al., 1999  
+PMID 9560430  – Kültz D, 1998  
+PMID 12057199 – Theodosiou A & Ashworth A, 2002  
+PMID 15187184 – Roux PP & Blenis J, 2004  
+PMID 9649428  – New L et al., 1998  
 
-## References:  
-Inline citations to cargnello2011activationandfunction; martinblanco2000p38mapksignalling; widmann1999mitogenactivatedproteinkinase; kultz1998phylogeneticandfunctional; orand2023revealingthemechanism; theodosiou2002mapkinasephosphatases; roux2004erkandp38; new1998prakanovel.
+(In-text citations correspond to the PMIDs listed above.)
