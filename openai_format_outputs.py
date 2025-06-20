@@ -71,10 +71,32 @@ def format_nomenclature(nomenclature: str, template: str) -> str:
     """
     system_msg = HumanMessage(content="You are a nomenclature formatting assistant.")
     user_msg   = HumanMessage(content=(
-        "Summarize and reformat the structure and wording and tone of the following nomenclature "
+        "Summarize and reformat the structure and wording and tone of the following nomenclature to be similar to the template. "
         "to be similar to the template. DO NOT add new information or interpret the results. Only use the information provided in Nomenclature section below as the data source:\n\n"
         f"## Nomenclature:\n{nomenclature}\n\n"
         f"## Template:\n{template}"
+        "## 1. Phylogeny"
+        "Summarize and identify the phylogenetic context of the protein based on the provided Nomenclature focusing particularly on the Phylogeny section. "
+        "## 2. Reaction Catalyzed\n"
+        "Summarize and mention the **chemical reaction** catalyzed by this kinase based on the provided Nomenclature focusing particularly on the Reaction Catalyze section. Include only the reaction catalyzed with ATP substrates and products from the provided Nomenclature.\n\n"
+        "## 3. Cofactor Requirements\n"
+        "Include only cofactor requirement (e.g., Mg²⁺, Mn²⁺) based on the provided Nomenclature.\n\n"
+        "## 4. Substrate Specificity\n"
+        "Summarize the substrate specificity of the protein based on the provided Nomenclature focusing particularly on the Substrate Specificity section.\n\n"
+        "## 5. Structure\n"
+        "Summarize the 3D structure of the protein based on the provided Nomenclature.\n\n"
+        "## 6. Regulation\n"
+        "Summarize regulatory mechanisms based on the provided Nomenclature focusing particularly on the Regulation section.\n\n"
+        "## 7. Function\n"
+        "Summarize the biological roles of the protein based on the provided Nomenclature focusing particularly on the Function section.\n\n"
+        "## 8. Other Comments\n"
+        "Summarize the Other Comments section of the provided Nomenclature.\n\n"
+        "## 9. References\n"
+        "Include all the References used to create this nomenclature with a consistent format.\n\n"
+        "---"
+        "# Output Guidelines\n"
+        "- Do not miss inline References (include PubMed ID only)\n"
+        "- Do **not** include speculative or inferred content\n"
     ))
     response = llm.invoke([system_msg, user_msg])
     return response.content
