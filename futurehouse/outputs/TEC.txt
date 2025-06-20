@@ -1,0 +1,150 @@
+1. Phylogeny  
+TEC (UniProt P42680) is a member of the Tec family of non‐receptor tyrosine kinases, a group that is evolutionarily conserved among metazoans and traces its origins to early premetazoan ancestors. The Tec family—comprising Bruton's tyrosine kinase (BTK), interleukin‐2–inducible T cell kinase (ITK), TEC, TXK/RLK, and BMX—forms a distinct clade within the human kinome that is separate from other families such as the Src or Abl kinases (ortutay2008phylogenyoftec pages 18-20). Orthologs of TEC and its close relatives have been identified across vertebrate species, and phylogenetic analyses have established that the diversification of the Tec family occurred early in animal evolution, thereby serving as an ancient signaling module that has been maintained through subsequent evolutionary events (smith2001thetecfamily pages 5-7, miller2002newinsightsinto pages 1-2). This evolutionary conservation underscores the critical regulatory roles that Tec kinases have assumed in various cellular contexts, particularly in hematopoietic lineages.
+
+2. Reaction Catalyzed  
+TEC catalyzes the phosphorylation of specific tyrosine residues on substrate proteins by transferring a phosphate group from ATP to the hydroxyl group of tyrosine, thereby generating ADP, a phosphorylated tyrosine residue on the substrate, and a proton. In chemical terms, the reaction can be formally described as:  
+  ATP + protein (tyrosine residue) → ADP + protein (phosphotyrosine) + H⁺  
+This catalytic activity constitutes the fundamental biochemical reaction of all protein tyrosine kinases and is a key post‐translational modification that modulates signal transduction events in cells (nore2003identificationofphosphorylation pages 1-2, miller2002newinsightsinto pages 10-10).
+
+3. Cofactor Requirements  
+Like most kinases, TEC requires divalent metal ions—most notably Mg²⁺—as cofactors. The presence of Mg²⁺ is essential for the proper binding of ATP within the active site of TEC, thereby enabling the phosphate transfer reaction to proceed efficiently. Although detailed studies on the cofactor requirements of TEC specifically have not been extensively elaborated in the provided literature, the requirement of Mg²⁺ is a well‐documented feature for the catalytic activities of protein kinases in general (amatya2019lipidtargetingpleckstrinhomology pages 1-1, nore2003identificationofphosphorylation pages 1-2).
+
+4. Substrate Specificity  
+TEC has an intrinsic substrate specificity that is characteristic of tyrosine kinases. It phosphorylates tyrosine residues located within substrates that are typically involved in receptor signaling pathways and immune cell activation. Although no single consensus motif has been defined solely for TEC, studies of related Tec family members indicate that substrate recognition is mediated by direct engagement of docking surfaces provided by the SH2 and SH3 domains in conjunction with the active site of the kinase. This docking mechanism favors substrates that contain proline‐rich regions and phosphorylated motifs, ensuring selective phosphorylation of signaling proteins such as DOK1, CD28-specific substrates, STAP1, and GRB10 among others (joseph2010identificationofan pages 6-8, nore2003identificationofphosphorylation pages 1-2, bradshaw2010thesrcsyk pages 7-9).
+
+5. Structure  
+TEC is organized into a modular architecture that is typical of Tec family kinases. Its domain organization is as follows: an N-terminal pleckstrin homology (PH) domain, a Tec homology (TH) domain, an SH3 domain, an SH2 domain, and a C-terminal kinase (SH1) domain.
+
+• The PH domain (located at the N-terminus) binds phosphoinositides such as phosphatidylinositol 3,4,5-trisphosphate (PIP3) and is responsible for localizing TEC to the plasma membrane in response to PI3K activation. In addition to mediating membrane association, the PH domain can also partake in autoinhibitory interactions by occluding the substrate-docking and activation regions of the kinase domain (amatya2019lipidtargetingpleckstrinhomology pages 5-6).  
+• Following the PH domain, the TH domain typically contains a zinc-binding Btk motif and a proline-rich region. This domain contributes to both the structural stability of the molecule and to regulatory protein–protein interactions that fine-tune kinase activity (smith2001thetecfamily pages 1-2, ortutay2008phylogenyoftec pages 4-7).  
+• The SH3 domain serves to bind polyproline motifs, often within the same molecule (intramolecular) or on interacting proteins (intermolecular), and plays a critical role in ensuring proper conformational arrangements necessary for TEC activation (smith2001thetecfamily pages 3-5, brazin2000aspecificintermolecular pages 16-17).  
+• The SH2 domain is responsible for binding phosphotyrosine-containing sequences on substrate or adaptor proteins, thereby contributing to the specificity and fidelity of the downstream signaling cascades.  
+• Finally, the C-terminal kinase (SH1) domain, which contains the catalytic machinery, adopts a bi-lobal structure. The smaller N-terminal lobe mainly consists of β-sheets while the larger C-terminal lobe is predominantly α-helical. Key regulatory features within this kinase domain include:
+  – An activation loop whose phosphorylation is critical for full catalytic activation.
+  – A conserved C-helix that, together with the active site lysine, forms essential interactions for ATP binding and catalysis.
+  – An extended regulatory spine that helps maintain the structural integrity of the active state.
+Structural studies, including crystallographic data from related family members and high-confidence AlphaFold models, further support that TEC’s catalytic domain adopts the classical protein kinase fold, modulated by dynamic interdomain interactions which underlie its switching between inactive and active states (smith2001thetecfamily pages 5-7, ortutay2008phylogenyoftec pages 7-10, bradshaw2010thesrcsyk pages 6-6).
+
+6. Regulation  
+TEC activity is subject to multilayered regulation that operates at both the biochemical and conformational levels. One of the primary regulatory features is autoinhibition, which is mediated by the N-terminal PH domain directly interacting with the kinase domain. This interaction masks essential catalytic and substrate-docking sites, thus preventing premature activation. Engagement of the PH domain with PIP3 relieves this autoinhibition by prompting a conformational rearrangement that promotes membrane localization and subsequent activation of the kinase (amatya2019lipidtargetingpleckstrinhomology pages 5-6).  
+In addition to relief from autoinhibition, TEC’s activity is modulated by phosphorylation events. The activation loop within the kinase domain contains a critical tyrosine residue whose phosphorylation is essential for full catalytic activity; this phosphorylation can be mediated by Src family kinases as well as by autophosphorylation (joseph2010identificationofan pages 6-8, miller2002newinsightsinto pages 7-8). Phosphorylation within the SH3 domain has also been documented in related Tec kinases, which affects the ability of the SH3 domain to engage with proline-rich motifs and consequently influences downstream signaling dynamics (nore2003identificationofphosphorylation pages 1-2, bradshaw2010thesrcsyk pages 7-9). Furthermore, allosteric regulation through shifts in the hydrophobic spine and repositioning of the C-helix contributes to fine-tuning TEC’s enzymatic activity. These collective regulatory mechanisms ensure that TEC activity is tightly restricted to conditions where receptor-mediated PI3K activation generates the appropriate lipid signals, thereby maintaining fidelity in immune and other signaling pathways (bradshaw2010thesrcsyk pages 5-6, joseph2010identificationofan pages 6-8).
+
+7. Function  
+TEC functions as a versatile signal transducer in multiple receptor-mediated pathways. It plays multiple, sometimes redundant, roles in both adaptive and innate immune responses. In T lymphocytes, TEC functions redundantly with ITK to regulate conventional T-cell development and function as well as the differentiation of nonconventional natural killer T (NKT) cells. It is required for T cell receptor (TCR)-dependent interleukin-2 (IL2) gene induction and also phosphorylates substrates such as DOK1 and specific CD28 substrates, contributing to CD28-dependent signaling events (amatya2019lipidtargetingpleckstrinhomology pages 1-1, 5-6, 6-6).  
+In B lymphocytes, TEC acts redundantly with BTK in mediating B cell receptor (BCR) signaling, notably through the phosphorylation of STAP1, thereby influencing B-cell development and activation. TEC’s role in these lymphocyte lineages is integral to controlling adaptive immune responses. Moreover, TEC is required in mast cells where it facilitates efficient cytokine production, and it participates in myeloid signaling downstream of the granulocyte colony-stimulating factor (CSF3), which is fundamental to the growth, differentiation, and activation of myeloid cells (miller2002newinsightsinto pages 6-7, mihara2007roleoftxk pages 1-4).  
+Beyond its roles in immune cells, TEC is involved in platelet signaling downstream of integrin activation and G protein-coupled receptor engagement, thereby contributing to hemostatic and thrombotic processes (amatya2019lipidtargetingpleckstrinhomology pages 6-6, bradshaw2010thesrcsyk pages 7-9). TEC also functions in hepatocytes where it is implicated in proliferation and liver regeneration via the hepatocyte growth factor (HGF)-induced ERK signaling pathway. In addition, TEC regulates unconventional secretion of fibroblast growth factor 2 (FGF2) by phosphorylating its Tyr-215 and is proposed to be involved in osteoclast differentiation, linking it to bone remodeling processes (amatya2019lipidtargetingpleckstrinhomology pages 1-1, 5-6). Together, these roles illustrate that TEC is a multifunctional kinase participating in diverse signaling networks that govern cellular activation, proliferation, differentiation, and cytoskeletal rearrangements (smith2001thetecfamily pages 1-2, 3-5, miller2002newinsightsinto pages 7-8).
+
+8. Other Comments  
+TEC, as a member of the Tec family, is of considerable interest as a potential therapeutic target due to its extensive roles in immune regulation and cellular signaling. Although specific inhibitors designed exclusively for TEC are not well established, the clinical success of BTK inhibitors in various hematological malignancies underscores the therapeutic relevance of targeting Tec kinase activity. The functional redundancy observed between TEC and related kinases such as ITK in T cells and BTK in B cells indicates that modulation of TEC could have wide-ranging impacts on both adaptive and innate immune responses. Furthermore, disease associations linked to mutations in Tec family members—most notably BTK mutations leading to X-linked agammaglobulinemia—highlight the critical nature of these kinases in immune homeostasis and suggest that perturbations in TEC function might contribute to immunodeficiencies or inflammatory conditions. As such, further research to delineate the precise substrate spectrum, regulatory mechanisms, and potential for selective inhibition of TEC is warranted (bradshaw2010thesrcsyk pages 7-9, smith2001thetecfamily pages 7-9, miller2002newinsightsinto pages 7-8).
+
+9. References  
+1. amatya2019lipidtargetingpleckstrinhomology pages 1-1  
+2. amatya2019lipidtargetingpleckstrinhomology pages 5-6  
+3. amatya2019lipidtargetingpleckstrinhomology pages 6-6  
+4. hong2009phylogeneticprofilesreveal pages 4-5  
+5. joseph2010identificationofan pages 1-2  
+6. joseph2010identificationofan pages 6-8  
+7. joseph2010identificationofan pages 10-11  
+8. miller2002newinsightsinto pages 1-2  
+9. miller2002newinsightsinto pages 3-5  
+10. miller2002newinsightsinto pages 6-7  
+11. miller2002newinsightsinto pages 7-8  
+12. miller2002newinsightsinto pages 10-10  
+13. ortutay2008phylogenyoftec pages 18-20  
+14. ortutay2008phylogenyoftec pages 4-7  
+15. ortutay2008phylogenyoftec pages 1-4  
+16. ortutay2008phylogenyoftec pages 10-13  
+17. ortutay2008phylogenyoftec pages 20-22  
+18. ortutay2008phylogenyoftec pages 22-24  
+19. ortutay2008phylogenyoftec pages 24-26  
+20. ortutay2008phylogenyoftec pages 28-30  
+21. ortutay2008phylogenyoftec pages 7-10  
+22. smith2001thetecfamily pages 1-2  
+23. smith2001thetecfamily pages 5-7  
+24. smith2001thetecfamily pages 10-11  
+25. smith2001thetecfamily pages 2-3  
+26. smith2001thetecfamily pages 3-5  
+27. smith2001thetecfamily pages 7-9  
+28. smith2001thetecfamily pages 9-10  
+29. bradshaw2010thesrcsyk pages 3-5  
+30. bradshaw2010thesrcsyk pages 5-6  
+31. bradshaw2010thesrcsyk pages 6-6  
+32. bradshaw2010thesrcsyk pages 7-9  
+33. brazin2000aspecificintermolecular pages 16-17  
+34. chopra2016dynamicallosterymediated pages 1-2  
+35. mihara2007roleoftxk pages 1-4  
+36. nore2003identificationofphosphorylation pages 1-2
+
+References
+
+1. (amatya2019lipidtargetingpleckstrinhomology pages 1-1): Neha Amatya, Thomas E. Wales, Annie Kwon, Wayland Yeung, Raji E. Joseph, D. Bruce Fulton, Natarajan Kannan, John R. Engen, and Amy H. Andreotti. Lipid-targeting pleckstrin homology domain turns its autoinhibitory face toward the tec kinases. Proceedings of the National Academy of Sciences, 116:21539-21544, Oct 2019. URL: https://doi.org/10.1073/pnas.1907566116, doi:10.1073/pnas.1907566116. This article has 23 citations.
+
+2. (amatya2019lipidtargetingpleckstrinhomology pages 5-6): Neha Amatya, Thomas E. Wales, Annie Kwon, Wayland Yeung, Raji E. Joseph, D. Bruce Fulton, Natarajan Kannan, John R. Engen, and Amy H. Andreotti. Lipid-targeting pleckstrin homology domain turns its autoinhibitory face toward the tec kinases. Proceedings of the National Academy of Sciences, 116:21539-21544, Oct 2019. URL: https://doi.org/10.1073/pnas.1907566116, doi:10.1073/pnas.1907566116. This article has 23 citations.
+
+3. (amatya2019lipidtargetingpleckstrinhomology pages 6-6): Neha Amatya, Thomas E. Wales, Annie Kwon, Wayland Yeung, Raji E. Joseph, D. Bruce Fulton, Natarajan Kannan, John R. Engen, and Amy H. Andreotti. Lipid-targeting pleckstrin homology domain turns its autoinhibitory face toward the tec kinases. Proceedings of the National Academy of Sciences, 116:21539-21544, Oct 2019. URL: https://doi.org/10.1073/pnas.1907566116, doi:10.1073/pnas.1907566116. This article has 23 citations.
+
+4. (hong2009phylogeneticprofilesreveal pages 4-5): Yoojin Hong, Dimitra Chalkia, Kyung Dae Ko, Gaurav Bhardwaj, Gue Su Chang, Damian B. van Rossum, and Randen L. Patterson. Phylogenetic profiles reveal structural and functional determinants of lipid-binding. Journal of proteomics & bioinformatics, 2:139-149, Mar 2009. URL: https://doi.org/10.4172/jpb.1000071, doi:10.4172/jpb.1000071. This article has 17 citations.
+
+5. (joseph2010identificationofan pages 6-8): Raji E. Joseph, Qian Xie, and Amy H. Andreotti. Identification of an allosteric signaling network within tec family kinases. Journal of Molecular Biology, 403:231-242, Oct 2010. URL: https://doi.org/10.1016/j.jmb.2010.08.035, doi:10.1016/j.jmb.2010.08.035. This article has 46 citations and is from a domain leading peer-reviewed journal.
+
+6. (miller2002newinsightsinto pages 10-10): Andrew T Miller and Leslie J Berg. New insights into the regulation and functions of tec family tyrosine kinases in the immune system. Current Opinion in Immunology, 14:331-340, Jun 2002. URL: https://doi.org/10.1016/s0952-7915(02)00345-x, doi:10.1016/s0952-7915(02)00345-x. This article has 119 citations and is from a peer-reviewed journal.
+
+7. (miller2002newinsightsinto pages 3-5): Andrew T Miller and Leslie J Berg. New insights into the regulation and functions of tec family tyrosine kinases in the immune system. Current Opinion in Immunology, 14:331-340, Jun 2002. URL: https://doi.org/10.1016/s0952-7915(02)00345-x, doi:10.1016/s0952-7915(02)00345-x. This article has 119 citations and is from a peer-reviewed journal.
+
+8. (miller2002newinsightsinto pages 6-7): Andrew T Miller and Leslie J Berg. New insights into the regulation and functions of tec family tyrosine kinases in the immune system. Current Opinion in Immunology, 14:331-340, Jun 2002. URL: https://doi.org/10.1016/s0952-7915(02)00345-x, doi:10.1016/s0952-7915(02)00345-x. This article has 119 citations and is from a peer-reviewed journal.
+
+9. (miller2002newinsightsinto pages 7-8): Andrew T Miller and Leslie J Berg. New insights into the regulation and functions of tec family tyrosine kinases in the immune system. Current Opinion in Immunology, 14:331-340, Jun 2002. URL: https://doi.org/10.1016/s0952-7915(02)00345-x, doi:10.1016/s0952-7915(02)00345-x. This article has 119 citations and is from a peer-reviewed journal.
+
+10. (ortutay2008phylogenyoftec pages 18-20): Csaba Ortutay, Beston F. Nore, Mauno Vihinen, and C.I. Edvard Smith. Phylogeny of tec family kinases: identification of a premetazoan origin of btk, bmx, itk, tec, txk, and the btk regulator sh3bp5. Advances in Genetics, 64:51-80, Jan 2008. URL: https://doi.org/10.1016/s0065-2660(08)00803-1, doi:10.1016/s0065-2660(08)00803-1. This article has 39 citations and is from a peer-reviewed journal.
+
+11. (ortutay2008phylogenyoftec pages 4-7): Csaba Ortutay, Beston F. Nore, Mauno Vihinen, and C.I. Edvard Smith. Phylogeny of tec family kinases: identification of a premetazoan origin of btk, bmx, itk, tec, txk, and the btk regulator sh3bp5. Advances in Genetics, 64:51-80, Jan 2008. URL: https://doi.org/10.1016/s0065-2660(08)00803-1, doi:10.1016/s0065-2660(08)00803-1. This article has 39 citations and is from a peer-reviewed journal.
+
+12. (smith2001thetecfamily pages 5-7): C.I. Edvard Smith, Tahmina C. Islam, Pekka T. Mattsson, Abdalla J. Mohamed, Beston F. Nore, and Mauno Vihinen. The tec family of cytoplasmic tyrosine kinases: mammalian btk, bmx, itk, tec, txk and homologs in other species. BioEssays, May 2001. URL: https://doi.org/10.1002/bies.1062, doi:10.1002/bies.1062. This article has 406 citations and is from a peer-reviewed journal.
+
+13. (bradshaw2010thesrcsyk pages 3-5): J. Michael Bradshaw. The src, syk, and tec family kinases: distinct types of molecular switches. Cellular Signalling, 22:1175-1184, Aug 2010. URL: https://doi.org/10.1016/j.cellsig.2010.03.001, doi:10.1016/j.cellsig.2010.03.001. This article has 364 citations and is from a peer-reviewed journal.
+
+14. (bradshaw2010thesrcsyk pages 5-6): J. Michael Bradshaw. The src, syk, and tec family kinases: distinct types of molecular switches. Cellular Signalling, 22:1175-1184, Aug 2010. URL: https://doi.org/10.1016/j.cellsig.2010.03.001, doi:10.1016/j.cellsig.2010.03.001. This article has 364 citations and is from a peer-reviewed journal.
+
+15. (bradshaw2010thesrcsyk pages 6-6): J. Michael Bradshaw. The src, syk, and tec family kinases: distinct types of molecular switches. Cellular Signalling, 22:1175-1184, Aug 2010. URL: https://doi.org/10.1016/j.cellsig.2010.03.001, doi:10.1016/j.cellsig.2010.03.001. This article has 364 citations and is from a peer-reviewed journal.
+
+16. (bradshaw2010thesrcsyk pages 7-9): J. Michael Bradshaw. The src, syk, and tec family kinases: distinct types of molecular switches. Cellular Signalling, 22:1175-1184, Aug 2010. URL: https://doi.org/10.1016/j.cellsig.2010.03.001, doi:10.1016/j.cellsig.2010.03.001. This article has 364 citations and is from a peer-reviewed journal.
+
+17. (brazin2000aspecificintermolecular pages 16-17): Kristine N Brazin, D.Bruce Fulton, and Amy H Andreotti. A specific intermolecular association between the regulatory domains of a tec family kinase. Journal of Molecular Biology, 302:607-623, Sep 2000. URL: https://doi.org/10.1006/jmbi.2000.4091, doi:10.1006/jmbi.2000.4091. This article has 110 citations and is from a domain leading peer-reviewed journal.
+
+18. (chopra2016dynamicallosterymediated pages 1-2): Nikita Chopra, Thomas E. Wales, Raji E. Joseph, Scott E. Boyken, John R. Engen, Robert L. Jernigan, and Amy H. Andreotti. Dynamic allostery mediated by a conserved tryptophan in the tec family kinases. PLOS Computational Biology, 12:e1004826, Mar 2016. URL: https://doi.org/10.1371/journal.pcbi.1004826, doi:10.1371/journal.pcbi.1004826. This article has 60 citations and is from a highest quality peer-reviewed journal.
+
+19. (joseph2010identificationofan pages 1-2): Raji E. Joseph, Qian Xie, and Amy H. Andreotti. Identification of an allosteric signaling network within tec family kinases. Journal of Molecular Biology, 403:231-242, Oct 2010. URL: https://doi.org/10.1016/j.jmb.2010.08.035, doi:10.1016/j.jmb.2010.08.035. This article has 46 citations and is from a domain leading peer-reviewed journal.
+
+20. (joseph2010identificationofan pages 10-11): Raji E. Joseph, Qian Xie, and Amy H. Andreotti. Identification of an allosteric signaling network within tec family kinases. Journal of Molecular Biology, 403:231-242, Oct 2010. URL: https://doi.org/10.1016/j.jmb.2010.08.035, doi:10.1016/j.jmb.2010.08.035. This article has 46 citations and is from a domain leading peer-reviewed journal.
+
+21. (mihara2007roleoftxk pages 1-4): Shoji Mihara and Noboru Suzuki. Role of txk, a member of the tec family of tyrosine kinases, in immune-inflammatory diseases. International Reviews of Immunology, 26:333-348, Jan 2007. URL: https://doi.org/10.1080/08830180701690835, doi:10.1080/08830180701690835. This article has 22 citations and is from a peer-reviewed journal.
+
+22. (miller2002newinsightsinto pages 1-2): Andrew T Miller and Leslie J Berg. New insights into the regulation and functions of tec family tyrosine kinases in the immune system. Current Opinion in Immunology, 14:331-340, Jun 2002. URL: https://doi.org/10.1016/s0952-7915(02)00345-x, doi:10.1016/s0952-7915(02)00345-x. This article has 119 citations and is from a peer-reviewed journal.
+
+23. (nore2003identificationofphosphorylation pages 1-2): Beston F. Nore, Pekka T. Mattsson, Per Antonsson, Carl-Magnus Bäckesjö, Anna Westlund, Johan Lennartsson, Henrik Hansson, Peter Löw, Lars Rönnstrand, and C.I.Edvard Smith. Identification of phosphorylation sites within the sh3 domains of tec family tyrosine kinases. Biochimica et biophysica acta, 1645 2:123-32, Feb 2003. URL: https://doi.org/10.1016/s1570-9639(02)00524-1, doi:10.1016/s1570-9639(02)00524-1. This article has 53 citations.
+
+24. (ortutay2008phylogenyoftec pages 1-4): Csaba Ortutay, Beston F. Nore, Mauno Vihinen, and C.I. Edvard Smith. Phylogeny of tec family kinases: identification of a premetazoan origin of btk, bmx, itk, tec, txk, and the btk regulator sh3bp5. Advances in Genetics, 64:51-80, Jan 2008. URL: https://doi.org/10.1016/s0065-2660(08)00803-1, doi:10.1016/s0065-2660(08)00803-1. This article has 39 citations and is from a peer-reviewed journal.
+
+25. (ortutay2008phylogenyoftec pages 10-13): Csaba Ortutay, Beston F. Nore, Mauno Vihinen, and C.I. Edvard Smith. Phylogeny of tec family kinases: identification of a premetazoan origin of btk, bmx, itk, tec, txk, and the btk regulator sh3bp5. Advances in Genetics, 64:51-80, Jan 2008. URL: https://doi.org/10.1016/s0065-2660(08)00803-1, doi:10.1016/s0065-2660(08)00803-1. This article has 39 citations and is from a peer-reviewed journal.
+
+26. (ortutay2008phylogenyoftec pages 20-22): Csaba Ortutay, Beston F. Nore, Mauno Vihinen, and C.I. Edvard Smith. Phylogeny of tec family kinases: identification of a premetazoan origin of btk, bmx, itk, tec, txk, and the btk regulator sh3bp5. Advances in Genetics, 64:51-80, Jan 2008. URL: https://doi.org/10.1016/s0065-2660(08)00803-1, doi:10.1016/s0065-2660(08)00803-1. This article has 39 citations and is from a peer-reviewed journal.
+
+27. (ortutay2008phylogenyoftec pages 22-24): Csaba Ortutay, Beston F. Nore, Mauno Vihinen, and C.I. Edvard Smith. Phylogeny of tec family kinases: identification of a premetazoan origin of btk, bmx, itk, tec, txk, and the btk regulator sh3bp5. Advances in Genetics, 64:51-80, Jan 2008. URL: https://doi.org/10.1016/s0065-2660(08)00803-1, doi:10.1016/s0065-2660(08)00803-1. This article has 39 citations and is from a peer-reviewed journal.
+
+28. (ortutay2008phylogenyoftec pages 24-26): Csaba Ortutay, Beston F. Nore, Mauno Vihinen, and C.I. Edvard Smith. Phylogeny of tec family kinases: identification of a premetazoan origin of btk, bmx, itk, tec, txk, and the btk regulator sh3bp5. Advances in Genetics, 64:51-80, Jan 2008. URL: https://doi.org/10.1016/s0065-2660(08)00803-1, doi:10.1016/s0065-2660(08)00803-1. This article has 39 citations and is from a peer-reviewed journal.
+
+29. (ortutay2008phylogenyoftec pages 28-30): Csaba Ortutay, Beston F. Nore, Mauno Vihinen, and C.I. Edvard Smith. Phylogeny of tec family kinases: identification of a premetazoan origin of btk, bmx, itk, tec, txk, and the btk regulator sh3bp5. Advances in Genetics, 64:51-80, Jan 2008. URL: https://doi.org/10.1016/s0065-2660(08)00803-1, doi:10.1016/s0065-2660(08)00803-1. This article has 39 citations and is from a peer-reviewed journal.
+
+30. (ortutay2008phylogenyoftec pages 7-10): Csaba Ortutay, Beston F. Nore, Mauno Vihinen, and C.I. Edvard Smith. Phylogeny of tec family kinases: identification of a premetazoan origin of btk, bmx, itk, tec, txk, and the btk regulator sh3bp5. Advances in Genetics, 64:51-80, Jan 2008. URL: https://doi.org/10.1016/s0065-2660(08)00803-1, doi:10.1016/s0065-2660(08)00803-1. This article has 39 citations and is from a peer-reviewed journal.
+
+31. (smith2001thetecfamily pages 1-2): C.I. Edvard Smith, Tahmina C. Islam, Pekka T. Mattsson, Abdalla J. Mohamed, Beston F. Nore, and Mauno Vihinen. The tec family of cytoplasmic tyrosine kinases: mammalian btk, bmx, itk, tec, txk and homologs in other species. BioEssays, May 2001. URL: https://doi.org/10.1002/bies.1062, doi:10.1002/bies.1062. This article has 406 citations and is from a peer-reviewed journal.
+
+32. (smith2001thetecfamily pages 10-11): C.I. Edvard Smith, Tahmina C. Islam, Pekka T. Mattsson, Abdalla J. Mohamed, Beston F. Nore, and Mauno Vihinen. The tec family of cytoplasmic tyrosine kinases: mammalian btk, bmx, itk, tec, txk and homologs in other species. BioEssays, May 2001. URL: https://doi.org/10.1002/bies.1062, doi:10.1002/bies.1062. This article has 406 citations and is from a peer-reviewed journal.
+
+33. (smith2001thetecfamily pages 2-3): C.I. Edvard Smith, Tahmina C. Islam, Pekka T. Mattsson, Abdalla J. Mohamed, Beston F. Nore, and Mauno Vihinen. The tec family of cytoplasmic tyrosine kinases: mammalian btk, bmx, itk, tec, txk and homologs in other species. BioEssays, May 2001. URL: https://doi.org/10.1002/bies.1062, doi:10.1002/bies.1062. This article has 406 citations and is from a peer-reviewed journal.
+
+34. (smith2001thetecfamily pages 3-5): C.I. Edvard Smith, Tahmina C. Islam, Pekka T. Mattsson, Abdalla J. Mohamed, Beston F. Nore, and Mauno Vihinen. The tec family of cytoplasmic tyrosine kinases: mammalian btk, bmx, itk, tec, txk and homologs in other species. BioEssays, May 2001. URL: https://doi.org/10.1002/bies.1062, doi:10.1002/bies.1062. This article has 406 citations and is from a peer-reviewed journal.
+
+35. (smith2001thetecfamily pages 7-9): C.I. Edvard Smith, Tahmina C. Islam, Pekka T. Mattsson, Abdalla J. Mohamed, Beston F. Nore, and Mauno Vihinen. The tec family of cytoplasmic tyrosine kinases: mammalian btk, bmx, itk, tec, txk and homologs in other species. BioEssays, May 2001. URL: https://doi.org/10.1002/bies.1062, doi:10.1002/bies.1062. This article has 406 citations and is from a peer-reviewed journal.
+
+36. (smith2001thetecfamily pages 9-10): C.I. Edvard Smith, Tahmina C. Islam, Pekka T. Mattsson, Abdalla J. Mohamed, Beston F. Nore, and Mauno Vihinen. The tec family of cytoplasmic tyrosine kinases: mammalian btk, bmx, itk, tec, txk and homologs in other species. BioEssays, May 2001. URL: https://doi.org/10.1002/bies.1062, doi:10.1002/bies.1062. This article has 406 citations and is from a peer-reviewed journal.

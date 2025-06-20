@@ -1,0 +1,169 @@
+1. Phylogeny  
+MAP3K12, commonly referred to as Dual Leucine Zipper Kinase (DLK) or ZPK, is a member of the mixed lineage kinase (MLK) family that is evolutionarily conserved throughout metazoans. Orthologs of DLK have been identified in invertebrates such as Caenorhabditis elegans—where the homolog is termed DLK-1—and in Drosophila, where the ortholog is known as Wallenda, as well as in vertebrates including mammals (goodwani2020dualleucinezipper pages 1-3, jin2019multitaskingdualleucine pages 1-3). Within the kinome, DLK belongs to a distinct subgroup of MLKs often grouped together with Leucine Zipper Kinase (LZK, also known as MAP3K13), the two sharing significant sequence and structural similarity in their catalytic and leucine zipper domains (jin2019multitaskingdualleucine pages 3-4, koster2024regulationofthe pages 4-6). Comparative genomic analyses have demonstrated that DLK and its close homologs form an evolutionary core set of kinases responsible for relaying stress signals, a function that has been maintained over the course of evolution even as regulatory mechanisms have diversified among species (jin2019multitaskingdualleucine pages 1-3).  
+
+2. Reaction Catalyzed  
+MAP3K12/DLK functions as a serine/threonine protein kinase that catalyzes the transfer of a phosphate group from ATP to protein substrates. The canonical enzymatic reaction can be represented as: ATP + [protein]-(L-serine or L-threonine) → ADP + [protein]-(L-serine/threonine)-phosphate + H⁺ (nihalani2000identificationofstructural pages 1-1). Through this phosphorylation reaction, DLK activates downstream signaling modules, notably by phosphorylating and thereby activating dual specificity MAP kinase kinases (MAP2Ks) such as MKK4 and MKK7, which in turn propagate the activation of the c-Jun N-terminal kinase (JNK) cascade (goodwani2020dualleucinezipper pages 1-3).  
+
+3. Cofactor Requirements  
+As with most protein kinases, the catalytic activity of MAP3K12/DLK depends on the presence of divalent metal ions. In particular, Mg²⁺ is required as a cofactor to facilitate the binding of ATP in the active site and subsequent phosphoryl transfer to substrate proteins (benn2020clinicallyprecedentedprotein pages 5-6).  
+
+4. Substrate Specificity  
+MAP3K12/DLK exhibits substrate specificity predominantly toward proteins within the MAP kinase signaling cascade. Its primary substrates are the MAP2Ks, specifically MKK4 and MKK7, which are phosphorylated on serine/threonine residues and serve as critical intermediates in activating the downstream stress-activated protein kinases (JNKs) (goodwani2020dualleucinezipper pages 1-3, jin2019multitaskingdualleucine pages 4-6). Although a consensus substrate motif has not been defined in precise detail within the provided context, the specificity is inferred by the selective activation of MAP2Ks and subsequent JNK-dependent transcriptional responses that regulate apoptotic and regenerative pathways (handley2005mitogenactivatedproteinkinases pages 64-67).  
+
+5. Structure  
+MAP3K12/DLK has a modular domain organization that underlies its catalytic and regulatory functions. The protein harbors an N-terminal catalytic kinase domain that adopts the typical fold observed in serine/threonine kinases, featuring an activation loop, a hydrophobic spine, and a conserved C-helix that are essential for substrate binding and catalytic activity (nihalani2000identificationofstructural pages 2-3, jin2019multitaskingdualleucine pages 14-15). Adjacent to the kinase domain, DLK contains dual leucine zipper motifs that are critical for homodimerization or oligomerization, a structural requirement for its autophosphorylation and activation (nihalani2000identificationofstructural pages 5-6, koster2024regulationofthe pages 6-8). In addition, the presence of regulatory regions, including a bipartite nuclear localization signal overlapping with the ATP binding pocket, has been described in some studies, underscoring the importance of subcellular localization in modulating DLK function (jin2019multitaskingdualleucine pages 14-15). Structural investigations utilizing high-resolution crystallography and AlphaFold predictive models have provided insights into the arrangement of these domains and have facilitated the design of small-molecule inhibitors targeting the ATP-binding pocket (jin2019multitaskingdualleucine pages 3-4, koster2024regulationofthe pages 6-8).  
+
+6. Regulation  
+The activity of MAP3K12/DLK is tightly regulated through multiple post-translational mechanisms that ensure precise spatial and temporal control in response to cellular stress and developmental cues. One major regulatory mechanism involves ubiquitination mediated by the Pam/Highwire/RPM-1 (PHR) family of E3 ubiquitin ligases, which target DLK for proteasomal degradation and thereby constrain its steady-state levels under non-stressed conditions (goodwani2018homeostaticversuspathological pages 5-8, kwan2011anexpressionanalysis pages 14-19). In parallel, phosphorylation events play a pivotal role in modulating DLK activity; for instance, autophosphorylation and phosphorylation by upstream kinases such as the STE20 family kinases (MAP4K4, MINK1, and TNIK) promote DLK stabilization and activation, while phosphorylation by downstream kinases like JNK further modulates its function by inhibiting ubiquitination processes (goodwani2020dualleucinezipper pages 1-3, koster2024regulationofthe pages 8-9). Additionally, post-translational modifications such as palmitoylation at a conserved cysteine residue influence DLK’s subcellular localization, directing the kinase to transport vesicles in axons and thus linking its activity to axonal injury signaling (goodwani2020dualleucinezipper pages 20-22, koster2024regulationofthe pages 11-12). In Caenorhabditis elegans, regulation of DLK activity is further refined by the expression of an inhibitory isoform (DLK-1S) that forms heteromeric complexes with the active DLK-1L, with calcium-mediated dissociation of these isoforms serving as a rapid switch for activation (yan2012regulationofdlk1 pages 14-17). These regulatory events—ubiquitination, phosphorylation, palmitoylation, and isoform-specific inhibition—collectively fine-tune DLK activity in response to both physiological homeostatic conditions and stress-induced signals (goodwani2018homeostaticversuspathological pages 5-8, yan2012regulationofdlk1 pages 14-17).  
+
+7. Function  
+MAP3K12/DLK participates in a broad range of cellular processes through its role as an upstream activator of MAP kinase cascades. It is a critical mediator of both homeostatic and stress-induced neuronal functions. In neurons, DLK is predominantly localized to axons, growth cones, and presynaptic terminals, where it facilitates retrograde injury signaling that couples axonal damage to transcriptional responses in the nucleus (goodwani2018homeostaticversuspathological pages 5‑8, goodwani2020dualleucinezipper pages 22‑23). Activation of DLK leads to sequential phosphorylation of MAP2Ks (notably MKK7 and, to a lesser extent, MKK4) and downstream activation of JNK, culminating in the phosphorylation of transcription factors such as c-Jun and activation of AP-1-mediated gene expression (goodwani2020dualleucinezipper pages 1‑3, tedeschi2013thedlksignalling pages 5‑6). This signaling cascade is implicated in axon degeneration, apoptosis, and regeneration; for example, in models of acute neuronal injury, DLK activation is essential for initiating axon degeneration as well as axon regrowth via activation of regenerative transcriptional programs (tedeschi2013thedlksignalling pages 5‑6, yan2012regulationofdlk1 pages 14‑17). In addition to its functions in neuronal systems, DLK has been linked to non‐neuronal processes including the modulation of β‑cell function in the pancreas, where it influences insulin gene transcription and cell survival (painer2022identifizierungvonneuena pages 324‑326). Furthermore, DLK is activated by apolipoprotein E (APOE) and contributes to the upregulation of amyloid precursor protein (APP) expression through an AP‑1‐mediated transcriptional mechanism involving MAP2K7 and ERK1/2 (goodwani2020dualleucinezipper pages 22‑23). Thus, DLK serves as a central node in non‑canonical MAPK signaling pathways that integrate stress stimuli, developmental cues, and metabolic signals across diverse cell types (jin2019multitaskingdualleucine pages 6‑7, goodwani2020dualleucinezipper pages 22‑23).  
+
+8. Other Comments  
+A number of small-molecule inhibitors targeting MAP3K12/DLK have been developed, some of which demonstrate brain penetration and efficacy in preclinical models of neurodegenerative diseases. For example, selective inhibitors such as those based on N‑(1H‑pyrazol‑3‑yl)pyridin‑2‑amine derivatives have been reported to inhibit DLK activity and mitigate neuronal degeneration in models of Alzheimer’s disease and other axonopathy-related conditions (siu2018dualleucinezipper pages 10‑10). Disease associations of DLK include its implication in neurodegenerative disorders such as Alzheimer’s disease, Parkinson’s disease, and retinal ganglion cell degeneration, as well as in the modulation of β‑cell apoptosis, which is relevant to diabetes mellitus (painer2022identifizierungvonneuena pages 324‑326, blondeau2016dualleucinezipper pages 10‑11, rattanasinchai2016mlk3signalingin pages 1‑3). Although multiple inhibitors have been developed, further studies comparing inhibitor specificity across the kinome are warranted, as are investigations into the impact of disease-associated genetic variants on DLK function.  
+
+9. References  
+• goodwani2018homeostaticversuspathological pages 5-8  
+• goodwani2020dualleucinezipper pages 1-3  
+• goodwani2020dualleucinezipper pages 20-22  
+• handley2005mitogenactivatedproteinkinases pages 64-67  
+• handley2005mitogenactivatedproteinkinases pages 70-73  
+• jin2019multitaskingdualleucine pages 1-3  
+• jin2019multitaskingdualleucine pages 3-4  
+• jin2019multitaskingdualleucine pages 4-6  
+• jin2019multitaskingdualleucine pages 6-7  
+• koster2024regulationofthe pages 1-2  
+• koster2024regulationofthe pages 4-6  
+• koster2024regulationofthe pages 6-8  
+• koster2024regulationofthe pages 8-9  
+• koster2024regulationofthe pages 11-12  
+• koster2024regulationofthe pages 14-15  
+• koster2024regulationofthe pages 15-16  
+• koster2024regulationofthe pages 16-17  
+• kwan2011anexpressionanalysis pages 14-19  
+• lachance2010implicationdela pages 49-53  
+• li2021activationofmap3k pages 24-26  
+• li2021activationofmap3k pages 26-28  
+• painer2022identifizierungvonneuen pages 321-324  
+• painer2022identifizierungvonneuen pages 324-326  
+• simard2015rôlesdela" pages 203-206  
+• simard2015rôlesdela" pages 89-91  
+• thiriet2013mitogenactivatedproteinkinase pages 14-17  
+• thiriet2013mitogenactivatedproteinkinase pages 25-29  
+• tortosa2022stress‐inducedvesicularassemblies pages 19-20  
+• yan2012regulationofdlk1 pages 8-10  
+• yan2012regulationofdlk1 pages 11-13  
+• yan2012regulationofdlk1 pages 14-17  
+• baker2015thec.elegans pages 71-76  
+• benn2020clinicallyprecedentedprotein pages 5-6  
+• blondeau2016dualleucinezipper pages 10-11  
+• nihalani2000identificationofstructural pages 1-1  
+• nihalani2000identificationofstructural pages 1-2  
+• nihalani2000identificationofstructural pages 2-3  
+• nihalani2000identificationofstructural pages 5-6  
+• nihalani2000identificationofstructural pages 6-6  
+• nihalani2000identificationofstructural pages 6-7  
+• nihalani2001mixedlineagekinasedependent pages 1-2  
+• nihalani2001mixedlineagekinasedependent pages 9-10  
+• rana2013mixedlineagekinasecjun pages 1-2  
+• rattanasinchai2016mlk3signalingin pages 1-3  
+• siu2018dualleucinezipper pages 10-10  
+• tedeschi2013thedlksignalling pages 5-6  
+
+
+
+References
+
+1. (goodwani2018homeostaticversuspathological pages 5-8): Sunil Goodwani, Mary E Hamby, Virginie Buggia-Prevot, Paul Acton, Celia Fernandez, Rami Al-Ouran, Yongying Jiang, Michael Soth, Philip Jones, and William J. Ray. Homeostatic versus pathological functions of dual leucine zipper kinase in the adult mouse brain. bioRxiv, Nov 2018. URL: https://doi.org/10.1101/479378, doi:10.1101/479378. This article has 0 citations.
+
+2. (goodwani2020dualleucinezipper pages 1-3): S. Goodwani, Celia G Fernandez, P. Acton, Virginie Buggia-Prevot, Morgan McReynolds, Jiacheng Ma, C. Hu, Mary E. Hamby, Yongying Jiang, K. Le, M. Soth, Philip D. Jones, and W. Ray. Dual leucine zipper kinase is constitutively active in the adult mouse brain and has both stress-induced and homeostatic functions. International Journal of Molecular Sciences, Jul 2020. URL: https://doi.org/10.3390/ijms21144849, doi:10.3390/ijms21144849. This article has 10 citations and is from a peer-reviewed journal.
+
+3. (goodwani2020dualleucinezipper pages 20-22): S. Goodwani, Celia G Fernandez, P. Acton, Virginie Buggia-Prevot, Morgan McReynolds, Jiacheng Ma, C. Hu, Mary E. Hamby, Yongying Jiang, K. Le, M. Soth, Philip D. Jones, and W. Ray. Dual leucine zipper kinase is constitutively active in the adult mouse brain and has both stress-induced and homeostatic functions. International Journal of Molecular Sciences, Jul 2020. URL: https://doi.org/10.3390/ijms21144849, doi:10.3390/ijms21144849. This article has 10 citations and is from a peer-reviewed journal.
+
+4. (handley2005mitogenactivatedproteinkinases pages 64-67): M Handley. Mitogen-activated protein kinases in dendritic cell maturation and death. Unknown journal, 2005.
+
+5. (handley2005mitogenactivatedproteinkinases pages 70-73): M Handley. Mitogen-activated protein kinases in dendritic cell maturation and death. Unknown journal, 2005.
+
+6. (jin2019multitaskingdualleucine pages 1-3): Yishi Jin and Binhai Zheng. Multitasking: dual leucine zipper–bearing kinases in neuronal development and stress management. Annual Review of Cell and Developmental Biology, 35:501-521, Oct 2019. URL: https://doi.org/10.1146/annurev-cellbio-100617-062644, doi:10.1146/annurev-cellbio-100617-062644. This article has 42 citations and is from a domain leading peer-reviewed journal.
+
+7. (jin2019multitaskingdualleucine pages 3-4): Yishi Jin and Binhai Zheng. Multitasking: dual leucine zipper–bearing kinases in neuronal development and stress management. Annual Review of Cell and Developmental Biology, 35:501-521, Oct 2019. URL: https://doi.org/10.1146/annurev-cellbio-100617-062644, doi:10.1146/annurev-cellbio-100617-062644. This article has 42 citations and is from a domain leading peer-reviewed journal.
+
+8. (jin2019multitaskingdualleucine pages 4-6): Yishi Jin and Binhai Zheng. Multitasking: dual leucine zipper–bearing kinases in neuronal development and stress management. Annual Review of Cell and Developmental Biology, 35:501-521, Oct 2019. URL: https://doi.org/10.1146/annurev-cellbio-100617-062644, doi:10.1146/annurev-cellbio-100617-062644. This article has 42 citations and is from a domain leading peer-reviewed journal.
+
+9. (jin2019multitaskingdualleucine pages 6-7): Yishi Jin and Binhai Zheng. Multitasking: dual leucine zipper–bearing kinases in neuronal development and stress management. Annual Review of Cell and Developmental Biology, 35:501-521, Oct 2019. URL: https://doi.org/10.1146/annurev-cellbio-100617-062644, doi:10.1146/annurev-cellbio-100617-062644. This article has 42 citations and is from a domain leading peer-reviewed journal.
+
+10. (koster2024regulationofthe pages 1-2): Kyra-Alexandra Köster, Marten Dethlefs, Jorge Duque Escobar, and Elke Oetjen. Regulation of the activity of the dual leucine zipper kinase by distinct mechanisms. Cells, 13:333, Feb 2024. URL: https://doi.org/10.3390/cells13040333, doi:10.3390/cells13040333. This article has 4 citations and is from a peer-reviewed journal.
+
+11. (koster2024regulationofthe pages 11-12): Kyra-Alexandra Köster, Marten Dethlefs, Jorge Duque Escobar, and Elke Oetjen. Regulation of the activity of the dual leucine zipper kinase by distinct mechanisms. Cells, 13:333, Feb 2024. URL: https://doi.org/10.3390/cells13040333, doi:10.3390/cells13040333. This article has 4 citations and is from a peer-reviewed journal.
+
+12. (koster2024regulationofthe pages 14-15): Kyra-Alexandra Köster, Marten Dethlefs, Jorge Duque Escobar, and Elke Oetjen. Regulation of the activity of the dual leucine zipper kinase by distinct mechanisms. Cells, 13:333, Feb 2024. URL: https://doi.org/10.3390/cells13040333, doi:10.3390/cells13040333. This article has 4 citations and is from a peer-reviewed journal.
+
+13. (koster2024regulationofthe pages 15-16): Kyra-Alexandra Köster, Marten Dethlefs, Jorge Duque Escobar, and Elke Oetjen. Regulation of the activity of the dual leucine zipper kinase by distinct mechanisms. Cells, 13:333, Feb 2024. URL: https://doi.org/10.3390/cells13040333, doi:10.3390/cells13040333. This article has 4 citations and is from a peer-reviewed journal.
+
+14. (koster2024regulationofthe pages 16-17): Kyra-Alexandra Köster, Marten Dethlefs, Jorge Duque Escobar, and Elke Oetjen. Regulation of the activity of the dual leucine zipper kinase by distinct mechanisms. Cells, 13:333, Feb 2024. URL: https://doi.org/10.3390/cells13040333, doi:10.3390/cells13040333. This article has 4 citations and is from a peer-reviewed journal.
+
+15. (koster2024regulationofthe pages 4-6): Kyra-Alexandra Köster, Marten Dethlefs, Jorge Duque Escobar, and Elke Oetjen. Regulation of the activity of the dual leucine zipper kinase by distinct mechanisms. Cells, 13:333, Feb 2024. URL: https://doi.org/10.3390/cells13040333, doi:10.3390/cells13040333. This article has 4 citations and is from a peer-reviewed journal.
+
+16. (koster2024regulationofthe pages 8-9): Kyra-Alexandra Köster, Marten Dethlefs, Jorge Duque Escobar, and Elke Oetjen. Regulation of the activity of the dual leucine zipper kinase by distinct mechanisms. Cells, 13:333, Feb 2024. URL: https://doi.org/10.3390/cells13040333, doi:10.3390/cells13040333. This article has 4 citations and is from a peer-reviewed journal.
+
+17. (kwan2011anexpressionanalysis pages 14-19): JP Kwan. An expression analysis of the mammalian dual leucine zipper-bearing kinase (dlk) after axonal injury. Unknown journal, 2011.
+
+18. (lachance2010implicationdela pages 49-53): G Lachance. Implication de la mapk kinase kinase dlk dans la différenciation des kératinocytes. Unknown journal, 2010.
+
+19. (li2021activationofmap3k pages 24-26): Yunbo Li, Erin M Ritchie, Christopher L. Steinke, Cai Qi, Lizhen Chen, B. Zheng, and Yishi Jin. Activation of map3k dlk and lzk in purkinje cells causes rapid and slow degeneration depending on signaling strength. eLife, Oct 2021. URL: https://doi.org/10.1101/2020.10.09.332940, doi:10.1101/2020.10.09.332940. This article has 11 citations and is from a domain leading peer-reviewed journal.
+
+20. (li2021activationofmap3k pages 26-28): Yunbo Li, Erin M Ritchie, Christopher L. Steinke, Cai Qi, Lizhen Chen, B. Zheng, and Yishi Jin. Activation of map3k dlk and lzk in purkinje cells causes rapid and slow degeneration depending on signaling strength. eLife, Oct 2021. URL: https://doi.org/10.1101/2020.10.09.332940, doi:10.1101/2020.10.09.332940. This article has 11 citations and is from a domain leading peer-reviewed journal.
+
+21. (painer2022identifizierungvonneuen pages 321-324): CM Painer. Identifizierung von neuen, selektiven inhibitoren der dual leucine zipper kinase (dlk). Unknown journal, 2022.
+
+22. (painer2022identifizierungvonneuen pages 324-326): CM Painer. Identifizierung von neuen, selektiven inhibitoren der dual leucine zipper kinase (dlk). Unknown journal, 2022.
+
+23. (simard2015rôlesdela" pages 203-206): C Simard. Rôles de la" dual leucine zipper-bearing kinase" dans la réorganisation des microtubules et la différenciation des kératinocytes humains. Unknown journal, 2015.
+
+24. (simard2015rôlesdela" pages 89-91): C Simard. Rôles de la" dual leucine zipper-bearing kinase" dans la réorganisation des microtubules et la différenciation des kératinocytes humains. Unknown journal, 2015.
+
+25. (thiriet2013mitogenactivatedproteinkinase pages 14-17): M Thiriet M Thiriet. Mitogen-activated protein kinase module. Biomathematical and Biomechanical Modeling of the Circulatory and Ventilatory Systems, pages 311-378, Jul 2013. URL: https://doi.org/10.1007/978-1-4614-4370-4\_6, doi:10.1007/978-1-4614-4370-4\_6. This article has 6 citations.
+
+26. (thiriet2013mitogenactivatedproteinkinase pages 25-29): M Thiriet M Thiriet. Mitogen-activated protein kinase module. Biomathematical and Biomechanical Modeling of the Circulatory and Ventilatory Systems, pages 311-378, Jul 2013. URL: https://doi.org/10.1007/978-1-4614-4370-4\_6, doi:10.1007/978-1-4614-4370-4\_6. This article has 6 citations.
+
+27. (tortosa2022stress‐inducedvesicularassemblies pages 19-20): Elena Tortosa, Arundhati Sengupta Ghosh, Qingling Li, Weng Ruh Wong, Trent Hinkle, Wendy Sandoval, Christopher M Rose, and Casper C Hoogenraad. Stress‐induced vesicular assemblies of dual leucine zipper kinase are signaling hubs involved in kinase activation and neurodegeneration. The EMBO Journal, May 2022. URL: https://doi.org/10.15252/embj.2021110155, doi:10.15252/embj.2021110155. This article has 23 citations.
+
+28. (yan2012regulationofdlk1 pages 8-10): D. Yan and Yishi Jin. Regulation of dlk-1 kinase activity by calcium-mediated dissociation from an inhibitory isoform. Neuron, 76:534-548, Nov 2012. URL: https://doi.org/10.1016/j.neuron.2012.08.043, doi:10.1016/j.neuron.2012.08.043. This article has 122 citations and is from a highest quality peer-reviewed journal.
+
+29. (baker2015thec.elegans pages 71-76): S Baker. The c. elegans phr protein rpm-1: deciphering the molecular mechanisms of neuronal development by examining a central regulatory molecule. Unknown journal, 2015.
+
+30. (benn2020clinicallyprecedentedprotein pages 5-6): Caroline L. Benn and Lee A. Dawson. Clinically precedented protein kinases: rationale for their use in neurodegenerative disease. Frontiers in Aging Neuroscience, Sep 2020. URL: https://doi.org/10.3389/fnagi.2020.00242, doi:10.3389/fnagi.2020.00242. This article has 50 citations and is from a peer-reviewed journal.
+
+31. (blondeau2016dualleucinezipper pages 10-11): Andréanne Blondeau, Jean-François Lucier, Dominick Matteau, Lauralyne Dumont, Sébastien Rodrigue, Pierre-Étienne Jacques, and Richard Blouin. Dual leucine zipper kinase regulates expression of axon guidance genes in mouse neuronal cells. Neural Development, Jul 2016. URL: https://doi.org/10.1186/s13064-016-0068-8, doi:10.1186/s13064-016-0068-8. This article has 10 citations and is from a peer-reviewed journal.
+
+32. (jin2019multitaskingdualleucine pages 14-15): Yishi Jin and Binhai Zheng. Multitasking: dual leucine zipper–bearing kinases in neuronal development and stress management. Annual Review of Cell and Developmental Biology, 35:501-521, Oct 2019. URL: https://doi.org/10.1146/annurev-cellbio-100617-062644, doi:10.1146/annurev-cellbio-100617-062644. This article has 42 citations and is from a domain leading peer-reviewed journal.
+
+33. (koster2024regulationofthe pages 6-8): Kyra-Alexandra Köster, Marten Dethlefs, Jorge Duque Escobar, and Elke Oetjen. Regulation of the activity of the dual leucine zipper kinase by distinct mechanisms. Cells, 13:333, Feb 2024. URL: https://doi.org/10.3390/cells13040333, doi:10.3390/cells13040333. This article has 4 citations and is from a peer-reviewed journal.
+
+34. (nihalani2000identificationofstructural pages 1-1): Deepak Nihalani, Steven Merritt, and Lawrence B. Holzman. Identification of structural and functional domains in mixed lineage kinase dual leucine zipper-bearing kinase required for complex formation and stress-activated protein kinase activation*. The Journal of Biological Chemistry, 275:7273-7279, Mar 2000. URL: https://doi.org/10.1074/jbc.275.10.7273, doi:10.1074/jbc.275.10.7273. This article has 100 citations.
+
+35. (nihalani2000identificationofstructural pages 1-2): Deepak Nihalani, Steven Merritt, and Lawrence B. Holzman. Identification of structural and functional domains in mixed lineage kinase dual leucine zipper-bearing kinase required for complex formation and stress-activated protein kinase activation*. The Journal of Biological Chemistry, 275:7273-7279, Mar 2000. URL: https://doi.org/10.1074/jbc.275.10.7273, doi:10.1074/jbc.275.10.7273. This article has 100 citations.
+
+36. (nihalani2000identificationofstructural pages 2-3): Deepak Nihalani, Steven Merritt, and Lawrence B. Holzman. Identification of structural and functional domains in mixed lineage kinase dual leucine zipper-bearing kinase required for complex formation and stress-activated protein kinase activation*. The Journal of Biological Chemistry, 275:7273-7279, Mar 2000. URL: https://doi.org/10.1074/jbc.275.10.7273, doi:10.1074/jbc.275.10.7273. This article has 100 citations.
+
+37. (nihalani2000identificationofstructural pages 5-6): Deepak Nihalani, Steven Merritt, and Lawrence B. Holzman. Identification of structural and functional domains in mixed lineage kinase dual leucine zipper-bearing kinase required for complex formation and stress-activated protein kinase activation*. The Journal of Biological Chemistry, 275:7273-7279, Mar 2000. URL: https://doi.org/10.1074/jbc.275.10.7273, doi:10.1074/jbc.275.10.7273. This article has 100 citations.
+
+38. (nihalani2000identificationofstructural pages 6-6): Deepak Nihalani, Steven Merritt, and Lawrence B. Holzman. Identification of structural and functional domains in mixed lineage kinase dual leucine zipper-bearing kinase required for complex formation and stress-activated protein kinase activation*. The Journal of Biological Chemistry, 275:7273-7279, Mar 2000. URL: https://doi.org/10.1074/jbc.275.10.7273, doi:10.1074/jbc.275.10.7273. This article has 100 citations.
+
+39. (nihalani2000identificationofstructural pages 6-7): Deepak Nihalani, Steven Merritt, and Lawrence B. Holzman. Identification of structural and functional domains in mixed lineage kinase dual leucine zipper-bearing kinase required for complex formation and stress-activated protein kinase activation*. The Journal of Biological Chemistry, 275:7273-7279, Mar 2000. URL: https://doi.org/10.1074/jbc.275.10.7273, doi:10.1074/jbc.275.10.7273. This article has 100 citations.
+
+40. (nihalani2001mixedlineagekinasedependent pages 1-2): D. Nihalani, D. Meyer, Sangeeta Pajni, and L. Holzman. Mixed lineage kinase-dependent jnk activation is governed by interactions of scaffold protein jip with mapk module components. The EMBO Journal, 20:3447-3458, Jul 2001. URL: https://doi.org/10.1093/emboj/20.13.3447, doi:10.1093/emboj/20.13.3447. This article has 143 citations.
+
+41. (nihalani2001mixedlineagekinasedependent pages 9-10): D. Nihalani, D. Meyer, Sangeeta Pajni, and L. Holzman. Mixed lineage kinase-dependent jnk activation is governed by interactions of scaffold protein jip with mapk module components. The EMBO Journal, 20:3447-3458, Jul 2001. URL: https://doi.org/10.1093/emboj/20.13.3447, doi:10.1093/emboj/20.13.3447. This article has 143 citations.
+
+42. (rana2013mixedlineagekinasecjun pages 1-2): A. Rana, B. Rana, Rajakishore Mishra, Gautam Sondarva, Velusamy Rangasamy, Subhasis Das, N. Viswakarma, and A. Kanthasamy. Mixed lineage kinase-c-jun n-terminal kinase axis: a potential therapeutic target in cancer. Genes &amp; Cancer, 4:334-341, Apr 2013. URL: https://doi.org/10.1177/1947601913485415, doi:10.1177/1947601913485415. This article has 42 citations.
+
+43. (rattanasinchai2016mlk3signalingin pages 1-3): Chotirat Rattanasinchai and Kathleen Gallo. Mlk3 signaling in cancer invasion. Cancers, 8:51, May 2016. URL: https://doi.org/10.3390/cancers8050051, doi:10.3390/cancers8050051. This article has 53 citations and is from a peer-reviewed journal.
+
+44. (siu2018dualleucinezipper pages 10-10): Michael Siu, Arundhati Sengupta Ghosh, and Joseph W. Lewcock. Dual leucine zipper kinase inhibitors for the treatment of neurodegeneration. Journal of Medicinal Chemistry, 61:8078-8087, Jun 2018. URL: https://doi.org/10.1021/acs.jmedchem.8b00370, doi:10.1021/acs.jmedchem.8b00370. This article has 53 citations and is from a highest quality peer-reviewed journal.
+
+45. (tedeschi2013thedlksignalling pages 5-6): Andrea Tedeschi and Frank Bradke. The dlk signalling pathway—a double‐edged sword in neural development and regeneration. EMBO reports, Jul 2013. URL: https://doi.org/10.1038/embor.2013.64, doi:10.1038/embor.2013.64. This article has 141 citations and is from a highest quality peer-reviewed journal.
+
+46. (yan2012regulationofdlk1 pages 11-13): D. Yan and Yishi Jin. Regulation of dlk-1 kinase activity by calcium-mediated dissociation from an inhibitory isoform. Neuron, 76:534-548, Nov 2012. URL: https://doi.org/10.1016/j.neuron.2012.08.043, doi:10.1016/j.neuron.2012.08.043. This article has 122 citations and is from a highest quality peer-reviewed journal.
+
+47. (yan2012regulationofdlk1 pages 14-17): D. Yan and Yishi Jin. Regulation of dlk-1 kinase activity by calcium-mediated dissociation from an inhibitory isoform. Neuron, 76:534-548, Nov 2012. URL: https://doi.org/10.1016/j.neuron.2012.08.043, doi:10.1016/j.neuron.2012.08.043. This article has 122 citations and is from a highest quality peer-reviewed journal.

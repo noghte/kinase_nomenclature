@@ -1,0 +1,112 @@
+1. Phylogeny  
+SRPK1 (Serine/arginine‐rich protein‐specific kinase 1) is an evolutionarily conserved serine/threonine kinase that belongs to the CMGC group of the kinome, a group which includes MAPKs, CDKs, GSKs, and DYRKs. Members of the SR protein kinase family are found in organisms ranging from yeast to mammals, with yeast orthologs such as Sky1p providing early evidence for the conserved function of phosphorylating arginine/serine‐rich (RS) domains (zhou2013regulationofsplicing pages 11-12). SRPK1 and its paralogs (including SRPK2 and testis‐specific SRPK1a) have diversified during metazoan evolution; their expression patterns are tissue-specific, with ubiquitously expressed SRPK1 contrasted by SRPK2’s prominent expression in neural tissues and SRPK3 in muscle (zhou2013regulationofsplicing pages 11-12, wan2022srsplicingfactors pages 7-8). Phylogenetic analyses place SRPK1 in an evolutionarily ancient kinase subfamily that has maintained its substrate specificity for RS proteins over hundreds of millions of years, paralleling the conservation observed in other CMGC kinases (lipp2015srproteinkinases pages 2-2, zhou2013regulationofsplicing pages 11-12).
+
+2. Reaction Catalyzed  
+SRPK1 catalyzes the ATP-dependent phosphorylation of serine residues within RS domains of its substrate proteins. This reaction can be represented as:  
+ATP + [protein]-(L-serine) → ADP + [protein]-(L-serine)-phosphate + H⁺  
+During this process, the gamma-phosphate of ATP is transferred to the hydroxyl group of target serine residues in RS repeats, resulting in the accumulation of multiple phosphate groups on a single substrate molecule via a combination of processive and distributive phosphorylation events (aubol2012nucleotidereleasesequences pages 1-2, ngo2006srproteinkinase pages 15-22).
+
+3. Cofactor Requirements  
+The catalytic activity of SRPK1 depends on the presence of magnesium ions (Mg²⁺), which are required to coordinate ATP binding in the active site and stabilize the negative charges of the phosphate groups during the phosphotransfer reaction. This cofactor requirement is consistent with the biochemical properties of most protein kinases, where Mg²⁺ serves to facilitate the binding and proper orientation of ATP for efficient catalysis (aubol2012nucleotidereleasesequences pages 1-2, zhou2013regulationofsplicing pages 11-12).
+
+4. Substrate Specificity  
+SRPK1 exhibits high substrate specificity for proteins containing arginine/serine-rich (RS) domains, a hallmark feature of splicing factors such as SRSF1 (ASF/SF2). The enzyme recognizes and binds contiguous RS dipeptide repeats through a specialized docking groove on its large lobe, thereby positioning the substrate for efficient phosphorylation. Studies have demonstrated that phosphorylation occurs in a directional manner, proceeding from the C-terminal end of the RS domain toward the N-terminal region. This directional and processive mechanism allows SRPK1 to phosphorylate multiple serine residues during a single enzyme–substrate binding event. The consensus substrate motif is defined by serine residues flanked by arginine, enabling both processive phosphorylation and subsequent modulation of splicing factor activity (hagopian2008adaptablemolecularinteractions pages 1-2, plocinik2011regulatingsrprotein pages 4-5, long2019distinctmechanismsgovern pages 1-2).
+
+5. Structure  
+SRPK1 is characterized by a central bilobal kinase domain that is uniquely interrupted by a long, non-catalytic spacer insert domain (SID) of approximately 250 amino acids. This SID, along with a short N-terminal extension, constitutes regulatory regions that are not present in most canonical protein kinases. The catalytic core features the typical architecture of serine/threonine kinases—an N-terminal lobe primarily composed of β-sheets and a C-terminal lobe dominated by α-helices—with key elements including the glycine-rich ATP-binding loop, the catalytic loop, and the activation segment. Notably, SRPK1 contains nucleotide release sequences within the N-terminal region and portions of the SID, which accelerate ADP release and thereby enhance multisite phosphorylation kinetics (aubol2012nucleotidereleasesequences pages 2-4, plocinik2011regulatingsrprotein pages 1-2). Structural studies using X-ray crystallography and complementary biochemical analyses have revealed that SRPK1 also possesses a conserved docking groove that mediates the binding and “sliding” of RS domain substrates. This sliding docking interaction is essential for the sequential, processive phosphorylation of RS dipeptides, ensuring rapid and efficient modification of splicing factors (ngo2008aslidingdocking pages 1-2, aubol2012nucleotidereleasesequences pages 9-11). The overall 3D structure, as deduced from crystallographic data, underscores the importance of both the conserved kinase core and the flexible regulatory regions in orchestrating substrate recognition and catalysis.
+
+6. Regulation  
+SRPK1 is constitutively active; however, its activity is finely tuned by several regulatory mechanisms that control both its catalytic efficiency and subcellular localization. One major regulatory feature is the influence of its non-catalytic regions—the N-terminus and the SID—which enhance substrate binding affinity and modulate catalytic turnover. Deletion studies have shown that removal of the N-terminal extension dramatically increases the Km for RS substrates, whereas loss of the SID leads to a less pronounced decrease in binding affinity, indicating that both regions cooperate to stabilize enzyme–substrate interactions (plocinik2011regulatingsrprotein pages 5-7). Additionally, SRPK1’s subcellular localization is regulated by the SID, which acts as a cytoplasmic anchor; under normal conditions, SRPK1 is predominantly confined to the cytoplasm. Interactions with molecular chaperones such as Hsp70 and Hsp90 further contribute to its spatial regulation, and alterations in these interactions (for example, following auto-phosphorylation events) can trigger nuclear translocation during specific cell cycle phases (ding2006regulatedcellularpartitioning pages 1-2, plocinik2011regulatingsrprotein pages 5-7). SRPK1 is not subjected to the typical activation loop phosphorylation seen in many kinases; rather, its regulatory control is exerted primarily through conformational changes driven by interactions with its regulatory domains and binding partners. These structural and localization-based regulatory mechanisms ensure that phosphorylation of RS substrates and subsequent splicing modulation occur in a temporally and spatially controlled manner (aubol2012nucleotidereleasesequences pages 11-12, zhou2013regulationofsplicing pages 7-8).
+
+7. Function  
+SRPK1 plays a central role in modulating pre-mRNA splicing by phosphorylating serine residues within the RS domains of SR proteins, which are vital components of the splicing machinery. Phosphorylation by SRPK1 influences the subcellular distribution of SR proteins, promoting their nuclear import and proper localization to nuclear speckles where spliceosome assembly occurs. This regulation of splicing factor localization, as well as the processive phosphorylation of RS domains, is critical for both constitutive and alternative splicing events (hagopian2008adaptablemolecularinteractions pages 1-2, zhou2013regulationofsplicing pages 9-11). In addition to its canonical role in splicing, SRPK1 is implicated in a number of other cellular processes. It contributes to mRNA maturation steps, including splicing coupled with mRNA export and, potentially, regulation of mRNA translation. SRPK1 activity also interfaces with cell cycle control, as its nuclear translocation and resultant changes in splicing activity have been observed during the G2/M transition. Furthermore, SRPK1 has been reported to influence chromatin reorganization in both somatic and sperm cells, linking splicing regulation to broader aspects of gene expression and cellular differentiation (zhou2013regulationofsplicing pages 11-12, odunsi2012elevatedexpressionof pages 10-10). Expression studies have shown that SRPK1 is ubiquitously expressed in many tissues, consistent with its fundamental role in RNA processing. Its substrates include not only classical SR splicing factors such as SRSF1 and SRSF2 but also other RS domain-containing proteins involved in diverse cellular functions, thereby integrating splicing control with other aspects of mRNA metabolism (ngo2006srproteinkinase pages 34-40, plocinik2011regulatingsrprotein pages 5-7).
+
+8. Other Comments  
+Selective inhibition of SRPK1 has been achieved with small-molecule inhibitors such as SRPKIN-1, SPHINX31, and SRPIN340, which modulate its kinase activity and consequently alter splicing patterns. These inhibitors have been instrumental in dissecting the role of SRPK1 in cellular processes and also highlight its potential as a therapeutic target, particularly in cancers where aberrant splicing contributes to tumor progression and chemoresistance (pastor2021interplaybetweencmgc pages 11-12, odunsi2012elevatedexpressionof pages 10-10). Elevated expression and activity of SRPK1 have been correlated with altered chemosensitivity in ovarian cancers and retinoblastoma, suggesting that proper regulation of SRPK1 is important for maintaining normal splicing homeostasis. In addition, because SRPK1-mediated phosphorylation controls the intranuclear distribution of splicing factors, dysregulation of its activity has been implicated in various pathologies including neurodevelopmental disorders and proliferative diseases. Ongoing research into the development of more potent and selective SRPK1 inhibitors is expected to provide further insight into its roles in disease and may offer avenues for therapeutic intervention (odunsi2012elevatedexpressionof pages 10-10, pastor2021interplaybetweencmgc pages 17-17).
+
+9. References  
+- aubol2012nucleotidereleasesequences pages 1-2  
+- aubol2012nucleotidereleasesequences pages 2-4  
+- aubol2012nucleotidereleasesequences pages 9-11  
+- ding2006regulatedcellularpartitioning pages 1-2  
+- ding2006regulatedcellularpartitioning pages 10-10  
+- hagopian2008adaptablemolecularinteractions pages 1-2  
+- lipp2015srproteinkinases pages 2-2  
+- long2019distinctmechanismsgovern pages 1-2  
+- long2019distinctmechanismsgovern pages 2-3  
+- long2019distinctmechanismsgovern pages 16-17  
+- ngo2006srproteinkinase pages 15-22  
+- ngo2006srproteinkinase pages 28-34  
+- ngo2006srproteinkinase pages 34-40  
+- ngo2008aslidingdocking pages 1-2  
+- pastor2021interplaybetweencmgc pages 11-12  
+- pastor2021interplaybetweencmgc pages 17-17  
+- pastor2021interplaybetweencmgc pages 3-5  
+- plocinik2011regulatingsrprotein pages 1-2  
+- plocinik2011regulatingsrprotein pages 4-5  
+- plocinik2011regulatingsrprotein pages 5-7  
+- odunsi2012elevatedexpressionof pages 10-10  
+- wan2022srsplicingfactors pages 7-8  
+- zhou2013regulationofsplicing pages 5-7  
+- zhou2013regulationofsplicing pages 7-8  
+- zhou2013regulationofsplicing pages 9-11  
+- zhou2013regulationofsplicing pages 11-12  
+- zhou2013regulationofsplicing pages 19-20
+
+References
+
+1. (hagopian2008adaptablemolecularinteractions pages 1-2): J. Hagopian, Chen-Ting Ma, Bryan R. Meade, Claudio P. Albuquerque, J. Ngo, G. Ghosh, P. Jennings, Xiang-Dong Fu, and J. Adams. Adaptable molecular interactions guide phosphorylation of the sr protein asf/sf2 by srpk1. Journal of molecular biology, 382 4:894-909, Oct 2008. URL: https://doi.org/10.1016/j.jmb.2008.07.055, doi:10.1016/j.jmb.2008.07.055. This article has 69 citations and is from a domain leading peer-reviewed journal.
+
+2. (ngo2006srproteinkinase pages 15-22): JCK Ngo. Sr protein kinase 1: conformation, substrate recognition and catalysis. Unknown journal, 2006.
+
+3. (ngo2006srproteinkinase pages 28-34): JCK Ngo. Sr protein kinase 1: conformation, substrate recognition and catalysis. Unknown journal, 2006.
+
+4. (ngo2006srproteinkinase pages 34-40): JCK Ngo. Sr protein kinase 1: conformation, substrate recognition and catalysis. Unknown journal, 2006.
+
+5. (ngo2008aslidingdocking pages 1-2): J. Ngo, Kayla Giang, Sutapa Chakrabarti, Chen-Ting Ma, Nhat Huynh, J. Hagopian, P. Dorrestein, Xiang-Dong Fu, J. Adams, and G. Ghosh. A sliding docking interaction is essential for sequential and processive phosphorylation of an sr protein by srpk1. Molecular cell, 29 5:563-76, Mar 2008. URL: https://doi.org/10.1016/j.molcel.2007.12.017, doi:10.1016/j.molcel.2007.12.017. This article has 136 citations and is from a highest quality peer-reviewed journal.
+
+6. (pastor2021interplaybetweencmgc pages 11-12): Florentin Pastor, Lulzim Shkreta, Benoit Chabot, David Durantel, and Anna Salvetti. Interplay between cmgc kinases targeting sr proteins and viral replication: splicing and beyond. Frontiers in Microbiology, Mar 2021. URL: https://doi.org/10.3389/fmicb.2021.658721, doi:10.3389/fmicb.2021.658721. This article has 25 citations and is from a peer-reviewed journal.
+
+7. (pastor2021interplaybetweencmgc pages 17-17): Florentin Pastor, Lulzim Shkreta, Benoit Chabot, David Durantel, and Anna Salvetti. Interplay between cmgc kinases targeting sr proteins and viral replication: splicing and beyond. Frontiers in Microbiology, Mar 2021. URL: https://doi.org/10.3389/fmicb.2021.658721, doi:10.3389/fmicb.2021.658721. This article has 25 citations and is from a peer-reviewed journal.
+
+8. (pastor2021interplaybetweencmgc pages 3-5): Florentin Pastor, Lulzim Shkreta, Benoit Chabot, David Durantel, and Anna Salvetti. Interplay between cmgc kinases targeting sr proteins and viral replication: splicing and beyond. Frontiers in Microbiology, Mar 2021. URL: https://doi.org/10.3389/fmicb.2021.658721, doi:10.3389/fmicb.2021.658721. This article has 25 citations and is from a peer-reviewed journal.
+
+9. (plocinik2011regulatingsrprotein pages 1-2): Ryan M. Plocinik, Sheng Li, Tong Liu, Kendra L. Hailey, Jennifer Whitesides, Chen-Ting Ma, Xiang-Dong Fu, G. Gosh, Virgil L. Woods, P. Jennings, and J. Adams. Regulating sr protein phosphorylation through regions outside the kinase domain of srpk1. Journal of molecular biology, 410 1:131-45, Jul 2011. URL: https://doi.org/10.1016/j.jmb.2011.04.077, doi:10.1016/j.jmb.2011.04.077. This article has 27 citations and is from a domain leading peer-reviewed journal.
+
+10. (wan2022srsplicingfactors pages 7-8): Ledong Wan, Min Deng, and Honghe Zhang. Sr splicing factors promote cancer via multiple regulatory mechanisms. Genes, Sep 2022. URL: https://doi.org/10.3390/genes13091659, doi:10.3390/genes13091659. This article has 18 citations and is from a peer-reviewed journal.
+
+11. (zhou2013regulationofsplicing pages 11-12): Zhihong Zhou and Xiang-Dong Fu. Regulation of splicing by sr proteins and sr protein-specific kinases. Chromosoma, 122:191-207, Mar 2013. URL: https://doi.org/10.1007/s00412-013-0407-z, doi:10.1007/s00412-013-0407-z. This article has 538 citations and is from a peer-reviewed journal.
+
+12. (zhou2013regulationofsplicing pages 19-20): Zhihong Zhou and Xiang-Dong Fu. Regulation of splicing by sr proteins and sr protein-specific kinases. Chromosoma, 122:191-207, Mar 2013. URL: https://doi.org/10.1007/s00412-013-0407-z, doi:10.1007/s00412-013-0407-z. This article has 538 citations and is from a peer-reviewed journal.
+
+13. (zhou2013regulationofsplicing pages 5-7): Zhihong Zhou and Xiang-Dong Fu. Regulation of splicing by sr proteins and sr protein-specific kinases. Chromosoma, 122:191-207, Mar 2013. URL: https://doi.org/10.1007/s00412-013-0407-z, doi:10.1007/s00412-013-0407-z. This article has 538 citations and is from a peer-reviewed journal.
+
+14. (zhou2013regulationofsplicing pages 7-8): Zhihong Zhou and Xiang-Dong Fu. Regulation of splicing by sr proteins and sr protein-specific kinases. Chromosoma, 122:191-207, Mar 2013. URL: https://doi.org/10.1007/s00412-013-0407-z, doi:10.1007/s00412-013-0407-z. This article has 538 citations and is from a peer-reviewed journal.
+
+15. (zhou2013regulationofsplicing pages 9-11): Zhihong Zhou and Xiang-Dong Fu. Regulation of splicing by sr proteins and sr protein-specific kinases. Chromosoma, 122:191-207, Mar 2013. URL: https://doi.org/10.1007/s00412-013-0407-z, doi:10.1007/s00412-013-0407-z. This article has 538 citations and is from a peer-reviewed journal.
+
+16. (aubol2012nucleotidereleasesequences pages 1-2): Brandon E. Aubol, Ryan M. Plocinik, Maria L. McGlone, and Joseph A. Adams. Nucleotide release sequences in the protein kinase srpk1 accelerate substrate phosphorylation. Biochemistry, 51 33:6584-94, Aug 2012. URL: https://doi.org/10.1021/bi300876h, doi:10.1021/bi300876h. This article has 16 citations and is from a peer-reviewed journal.
+
+17. (aubol2012nucleotidereleasesequences pages 11-12): Brandon E. Aubol, Ryan M. Plocinik, Maria L. McGlone, and Joseph A. Adams. Nucleotide release sequences in the protein kinase srpk1 accelerate substrate phosphorylation. Biochemistry, 51 33:6584-94, Aug 2012. URL: https://doi.org/10.1021/bi300876h, doi:10.1021/bi300876h. This article has 16 citations and is from a peer-reviewed journal.
+
+18. (aubol2012nucleotidereleasesequences pages 9-11): Brandon E. Aubol, Ryan M. Plocinik, Maria L. McGlone, and Joseph A. Adams. Nucleotide release sequences in the protein kinase srpk1 accelerate substrate phosphorylation. Biochemistry, 51 33:6584-94, Aug 2012. URL: https://doi.org/10.1021/bi300876h, doi:10.1021/bi300876h. This article has 16 citations and is from a peer-reviewed journal.
+
+19. (ding2006regulatedcellularpartitioning pages 1-2): Jian-Hua Ding, Xiang-Yang Zhong, Jonathan C. Hagopian, Marissa M. Cruz, Gourisankar Ghosh, James Feramisco, Joseph A. Adams, and Xiang-Dong Fu. Regulated cellular partitioning of sr protein-specific kinases in mammalian cells. Molecular Biology of the Cell, 17:876-885, Feb 2006. URL: https://doi.org/10.1091/mbc.e05-10-0963, doi:10.1091/mbc.e05-10-0963. This article has 163 citations and is from a domain leading peer-reviewed journal.
+
+20. (ding2006regulatedcellularpartitioning pages 10-10): Jian-Hua Ding, Xiang-Yang Zhong, Jonathan C. Hagopian, Marissa M. Cruz, Gourisankar Ghosh, James Feramisco, Joseph A. Adams, and Xiang-Dong Fu. Regulated cellular partitioning of sr protein-specific kinases in mammalian cells. Molecular Biology of the Cell, 17:876-885, Feb 2006. URL: https://doi.org/10.1091/mbc.e05-10-0963, doi:10.1091/mbc.e05-10-0963. This article has 163 citations and is from a domain leading peer-reviewed journal.
+
+21. (lipp2015srproteinkinases pages 2-2): Jesse J Lipp, Michael C Marvin, Kevan M Shokat, and Christine Guthrie. Sr protein kinases promote splicing of nonconsensus introns. Nature Structural &amp; Molecular Biology, 22:611-617, Jul 2015. URL: https://doi.org/10.1038/nsmb.3057, doi:10.1038/nsmb.3057. This article has 55 citations.
+
+22. (plocinik2011regulatingsrprotein pages 4-5): Ryan M. Plocinik, Sheng Li, Tong Liu, Kendra L. Hailey, Jennifer Whitesides, Chen-Ting Ma, Xiang-Dong Fu, G. Gosh, Virgil L. Woods, P. Jennings, and J. Adams. Regulating sr protein phosphorylation through regions outside the kinase domain of srpk1. Journal of molecular biology, 410 1:131-45, Jul 2011. URL: https://doi.org/10.1016/j.jmb.2011.04.077, doi:10.1016/j.jmb.2011.04.077. This article has 27 citations and is from a domain leading peer-reviewed journal.
+
+23. (aubol2012nucleotidereleasesequences pages 2-4): Brandon E. Aubol, Ryan M. Plocinik, Maria L. McGlone, and Joseph A. Adams. Nucleotide release sequences in the protein kinase srpk1 accelerate substrate phosphorylation. Biochemistry, 51 33:6584-94, Aug 2012. URL: https://doi.org/10.1021/bi300876h, doi:10.1021/bi300876h. This article has 16 citations and is from a peer-reviewed journal.
+
+24. (long2019distinctmechanismsgovern pages 1-2): Yunxin Long, Weng Hong Sou, Kristen Wing Yu Yung, Haizhen Liu, Stephanie Winn Chee Wan, Qingyun Li, Chuyue Zeng, Carmen Oi Kwan Law, Gordon Ho Ching Chan, Terrence Chi Kong Lau, and Jacky Chi Ki Ngo. Distinct mechanisms govern the phosphorylation of different sr protein splicing factors. Journal of Biological Chemistry, 294:1312-1327, Jan 2019. URL: https://doi.org/10.1074/jbc.ra118.003392, doi:10.1074/jbc.ra118.003392. This article has 67 citations and is from a domain leading peer-reviewed journal.
+
+25. (long2019distinctmechanismsgovern pages 16-17): Yunxin Long, Weng Hong Sou, Kristen Wing Yu Yung, Haizhen Liu, Stephanie Winn Chee Wan, Qingyun Li, Chuyue Zeng, Carmen Oi Kwan Law, Gordon Ho Ching Chan, Terrence Chi Kong Lau, and Jacky Chi Ki Ngo. Distinct mechanisms govern the phosphorylation of different sr protein splicing factors. Journal of Biological Chemistry, 294:1312-1327, Jan 2019. URL: https://doi.org/10.1074/jbc.ra118.003392, doi:10.1074/jbc.ra118.003392. This article has 67 citations and is from a domain leading peer-reviewed journal.
+
+26. (long2019distinctmechanismsgovern pages 2-3): Yunxin Long, Weng Hong Sou, Kristen Wing Yu Yung, Haizhen Liu, Stephanie Winn Chee Wan, Qingyun Li, Chuyue Zeng, Carmen Oi Kwan Law, Gordon Ho Ching Chan, Terrence Chi Kong Lau, and Jacky Chi Ki Ngo. Distinct mechanisms govern the phosphorylation of different sr protein splicing factors. Journal of Biological Chemistry, 294:1312-1327, Jan 2019. URL: https://doi.org/10.1074/jbc.ra118.003392, doi:10.1074/jbc.ra118.003392. This article has 67 citations and is from a domain leading peer-reviewed journal.
+
+27. (odunsi2012elevatedexpressionof pages 10-10): K. Odunsi, P. Mhawech-Fauceglia, Christopher A. Andrews, A. Beck, Olajumoke Amuwo, S. Lele, J. Black, and R. Huang. Elevated expression of the serine-arginine protein kinase 1 gene in ovarian cancer and its role in cisplatin cytotoxicity in vitro. PLoS ONE, Dec 2012. URL: https://doi.org/10.1371/journal.pone.0051030, doi:10.1371/journal.pone.0051030. This article has 60 citations and is from a peer-reviewed journal.
+
+28. (plocinik2011regulatingsrprotein pages 5-7): Ryan M. Plocinik, Sheng Li, Tong Liu, Kendra L. Hailey, Jennifer Whitesides, Chen-Ting Ma, Xiang-Dong Fu, G. Gosh, Virgil L. Woods, P. Jennings, and J. Adams. Regulating sr protein phosphorylation through regions outside the kinase domain of srpk1. Journal of molecular biology, 410 1:131-45, Jul 2011. URL: https://doi.org/10.1016/j.jmb.2011.04.077, doi:10.1016/j.jmb.2011.04.077. This article has 27 citations and is from a domain leading peer-reviewed journal.

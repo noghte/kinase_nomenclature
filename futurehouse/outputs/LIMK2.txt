@@ -1,0 +1,182 @@
+1. Phylogeny  
+LIM domain kinase 2 (LIMK2) is a member of the LIM kinase family that is evolutionarily conserved across vertebrates, including mammals (human, mouse, rat), amphibians (e.g., Xenopus laevis), birds, and even certain invertebrates such as Drosophila species and Anopheles, although its distribution is largely confined to organisms requiring sophisticated cytoskeletal regulation. LIMK2 shares approximately 50% overall sequence identity with its paralog LIMK1 and is most closely related to TESK kinases, which also regulate cofilin activity (goyal2005dualfunctionof pages 24-28, scott2010limkinaseregulationa pages 16-20). Phylogenetic analyses indicate that LIMK2 emerged through gene duplication events early in vertebrate evolution and forms part of the kinome “core” set of regulatory enzymes that have been maintained to control actin dynamics (ribba2022theroleof pages 1-2, scott2010limkinaseregulation pages 11-16).
+
+2. Reaction Catalyzed  
+LIMK2 catalyzes the transfer of the γ-phosphate group from ATP to specific serine and, in some contexts, tyrosine residues in its substrates. The canonical reaction can be written as:  
+ATP + protein-(L-serine or L-threonine) → ADP + protein-(L-serine/threonine)-phosphate + H⁺.  
+A primary physiological target of LIMK2 is the actin depolymerizing factor cofilin, which is phosphorylated at serine 3; this modification inactivates cofilin’s actin-severing activity, resulting in stabilization of actin filaments (brion2021limkinasesin pages 2-4).
+
+3. Cofactor Requirements  
+The catalytic activity of LIMK2 is dependent on ATP as the phosphate donor and requires divalent metal ions—most commonly Mg²⁺—to facilitate nucleotide binding and proper orientation of the ATP for phosphotransfer reactions. These cofactor requirements are typical of serine/threonine kinases and support LIMK2’s function in phosphorylating substrates such as cofilin (brion2021limkinasesin pages 2-4, goyal2005dualfunctionof pages 24-28).
+
+4. Substrate Specificity  
+LIMK2 exhibits a pronounced substrate specificity for members of the ADF/cofilin family, phosphorylating them on a specific serine residue (serine 3). This phosphorylation event blocks the actin filament–severing activity of cofilin, thereby controlling actin filament turnover and stabilization. Although detailed consensus motifs are not as comprehensively defined as for some other kinases, LIMK2 displays a marked preference for sequences that present the cofilin N-terminus in a conformation amenable to phosphorylation (chatterjee2022structuralaspectsof pages 10-11, ribba2022theroleof pages 13-15).
+
+5. Structure  
+LIMK2 contains a modular domain organization that is essential for its function and regulation. The protein architecture comprises two N-terminal LIM domains—each containing double zinc finger motifs that mediate protein–protein interactions and provide structural stabilization—followed by a central PDZ domain that contributes to subcellular localization and further protein binding. Adjacent to the PDZ domain is a serine/proline-rich (S/P) region that may serve as a flexible linker and regulatory module, leading into the C-terminal kinase domain responsible for catalytic activity (goyal2005dualfunctionof pages 24-28, villalonga2023limkinaseslimk1 pages 1-2).  
+Structural studies and homology modelling indicate that the kinase domain adopts the characteristic bilobal architecture seen in protein kinases, with a smaller N-terminal lobe featuring a glycine-rich P loop, a larger C-terminal lobe, and an activation loop that undergoes phosphorylation-dependent transitions between inactive (DFG-out) and active (DFG-in) conformations (chatterjee2022structuralaspectsof pages 8-10, mittelstaedt2012structuralandfunctional pages 38-46). A unique feature of LIMK2 is the presence of a distinctive catalytic loop motif (DLNSHN) in subdomain VIB, which is rarely encountered among typical serine/threonine kinases and may contribute to its substrate specificity and regulation (manetti2012limkinasesare pages 3-6, sooreshjani2021identifyingtheversatile pages 23-28). Additionally, LIMK2 has been reported to form homodimers through interactions involving its LIM domains, a process that facilitates autophosphorylation and stabilization of the active kinase conformation (chatterjee2022structuralaspectsof pages 11-12, goyal2005dualfunctionofa pages 24-28).
+
+6. Regulation  
+LIMK2 activity is tightly regulated by multiple mechanisms that ensure spatial and temporal control of actin cytoskeleton remodeling. One critical mechanism is phosphorylation of the activation loop; most notably, phosphorylation at threonine 505 by upstream kinases such as ROCK (Rho-associated protein kinase), p21-activated kinases (PAKs), and MRCKα serves to enhance LIMK2 kinase activity (brion2021limkinasesin pages 2-4, chatterjee2022structuralaspectsof pages 11-12). In addition, Aurora-A kinase has been identified as an activator of LIMK2, capable of phosphorylating multiple serine and threonine residues, which further modulate its activity (rak2014novellimk2inhibitor pages 1-2).  
+Autoinhibitory interactions also play a role in regulating kinase activity; the N-terminal LIM domains and the adjacent PDZ domain form intramolecular contacts that can restrain kinase activity until appropriate upstream signals trigger a conformational change (goyal2005dualfunctionof pages 24-28, ribba2022theroleof pages 12-13). Furthermore, stabilization and proper dimerization—a process promoted by interaction with molecular chaperones such as Hsp90—are essential for full kinase activation; inhibition of Hsp90 leads to decreased LIMK2 levels and consequent reduction in cofilin phosphorylation (chatterjee2022structuralaspectsof pages 1-3, manetti2012limkinasesare pages 3-6). Additional layers of regulation are provided by phosphatases, including PP1 and PP2A, which can dephosphorylate both LIMK2 and its substrates to restore basal actin dynamics (brion2021limkinasesin pages 2-4).
+
+7. Function  
+LIMK2 plays an essential role in regulating actin filament dynamics through its ability to phosphorylate and inactivate cofilin, thereby modulating the balance between actin polymerization and depolymerization. The phosphorylation of cofilin stabilizes filamentous actin, contributing to proper cell morphology, migration, and adhesion (brion2021limkinasesin pages 2-4, chatterjee2022structuralaspectsof pages 10-11). Beyond its canonical role in actin dynamics, LIMK2 has been implicated in the regulation of microtubule dynamics; for instance, its phosphorylation of TPPP affects tubulin polymerization and is involved in the orientation of the mitotic spindle during early mitosis, thereby influencing cell division and cytokinesis (brion2021limkinasesin pages 2-4, podkowa2010characterizationofbmp pages 65-70).  
+LIMK2 is also involved in processes beyond direct cytoskeletal remodeling. It functions downstream of Rho family GTPases, thus integrating extracellular signals that govern cell migration, proliferation, and differentiation. Its activity has been linked to oncogenic signaling pathways in various cancers, where dysregulated actin remodeling can promote tumor invasion and metastasis (rak2014novellimk2inhibitor pages 1-2, ribba2022theroleof pages 13-15). In addition, LIMK2 has a role in suppressing ciliogenesis by phosphorylating CFL1, by controlling the directional trafficking of ciliary vesicles, and by promoting the nuclear localization of YAP1, where it functions as a transcriptional corepressor for genes such as AURKA and PLK1 (Protein Information section). Expression of LIMK2 is ubiquitous, with a broader tissue distribution compared to LIMK1, which is more restricted; this suggests that LIMK2 may have functions in multiple cell types ranging from neuronal to muscle and epithelial cells (villalonga2023limkinaseslimk1 pages 1-2, shah2023limk2amultifaceted pages 1-3).
+
+8. Other Comments  
+Several small-molecule inhibitors targeting LIMK2 have been developed in preclinical models, with compounds such as T56-LIMKi demonstrating selective inhibition of LIMK2 activity without impairing LIMK1 function (rak2014novellimk2inhibitor pages 1-2). These inhibitors have been used to reduce phosphorylated cofilin levels and consequently affect tumor cell migration and proliferation, highlighting LIMK2 as a promising target in cancer therapy. Disease associations for LIMK2 include its implication in various cancers, where its dysregulated activity contributes to tumor growth, metastasis, and chemoresistance. Furthermore, LIMK2 is involved in cell cycle regulation during mitosis through its roles in astral microtubule organization and spindle orientation; defects in these processes may be associated with developmental abnormalities and proliferative disorders (brion2021limkinasesin pages 2-4, shah2023limk2amultifaceted pages 13-16). Beyond cancer, LIMK2’s suppression of ciliogenesis via multiple pathways also connects it to disorders of ciliopathy. No specific disease-causing mutations have been consistently reported in the literature for LIMK2; however, alterations in its regulation or expression levels have been linked to pathological conditions (chatterjee2022structuralaspectsof pages 11-12, ribba2022theroleof pages 13-15).
+
+9. References  
+1. brion2021limkinasesin pages 2-4  
+2. chatterjee2022structuralaspectsof pages 10-11  
+3. chatterjee2022structuralaspectsof pages 11-12  
+4. goyal2005dualfunctionof pages 24-28  
+5. goyal2005dualfunctionofa pages 24-28  
+6. manetti2012limkinasesare pages 3-6  
+7. rak2014novellimk2inhibitor pages 1-2  
+8. ribba2022theroleof pages 1-2  
+9. ribba2022theroleof pages 12-13  
+10. ribba2022theroleof pages 13-15  
+11. scott2010limkinaseregulation pages 16-20  
+12. scott2010limkinaseregulationa pages 16-20  
+13. scott2010limkinaseregulationa pages 20-25  
+14. shah2023limk2amultifaceted pages 1-3  
+15. shah2023limk2amultifaceted pages 10-11  
+16. shah2023limk2amultifaceted pages 13-16  
+17. sooreshjani2021identifyingtheversatile pages 23-28  
+18. velthuis2007pdzandlim pages 21-23  
+19. villalonga2023limkinaseslimk1 pages 1-2  
+20. beltrami2012structuralandfunctional pages 17-21  
+21. berabez2022limkinasespromising pages 3-5  
+22. casanovasepulveda2023autoregulationofthe pages 1-2  
+23. chatterjee2022structuralaspectsof pages 1-3  
+24. chatterjee2022structuralaspectsof pages 3-4  
+25. chatterjee2022structuralaspectsof pages 6-8  
+26. chatterjee2022structuralaspectsof pages 8-10  
+27. goyal2005dualfunctionof pages 30-33  
+28. goyal2005dualfunctionofa pages 30-33  
+29. goyal2005dualfunctionofb pages 30-33  
+30. hanke2022developmentandcharacterization pages 1-3  
+31. jiang2023pdzandlim pages 13-14  
+32. jiang2023pdzandlim pages 16-17  
+33. manetti2012limkinasesare pages 1-3  
+34. manetti2012limkinasesare pages 23-25  
+35. mittelstaedt2012structuralandfunctional pages 38-46  
+36. mittelstaedt2012structuralandfunctionala pages 38-46  
+37. mittelstaedt2012structuralandfunctionalc pages 38-46  
+38. podkowa2010characterizationofbmp pages 65-70  
+39. podkowa2010characterizationofbmp pages 70-75  
+40. salah2019lessonsfromlimk1 pages 1-2  
+41. salah2019lessonsfromlimk1 pages 2-2  
+42. scott2010limkinaseregulation pages 11-16  
+43. scott2010limkinaseregulation pages 20-25  
+44. scott2010limkinaseregulation pages 30-34  
+45. scott2010limkinaseregulationa pages 11-16  
+46. scott2010limkinaseregulationa pages 30-34  
+47. scott2010limkinaseregulationa pages 34-38  
+48. shah2023limk2amultifaceted pages 3-4  
+49. sooreshjani2021identifyingtheversatile pages 20-23  
+50. velthuis2007pdzandlim pages 9-11
+
+References
+
+1. (brion2021limkinasesin pages 2-4): Régis Brion, Laura Regnier, Mathilde Mullard, Jérome Amiaud, Françoise Rédini, and Franck Verrecchia. Lim kinases in osteosarcoma development. Cells, 10:3542, Dec 2021. URL: https://doi.org/10.3390/cells10123542, doi:10.3390/cells10123542. This article has 10 citations and is from a peer-reviewed journal.
+
+2. (chatterjee2022structuralaspectsof pages 10-11): Deep Chatterjee, Franziska Preuss, Verena Dederer, Stefan Knapp, and Sebastian Mathea. Structural aspects of limk regulation and pharmacology. Cells, 11:142, Jan 2022. URL: https://doi.org/10.3390/cells11010142, doi:10.3390/cells11010142. This article has 23 citations and is from a peer-reviewed journal.
+
+3. (chatterjee2022structuralaspectsof pages 11-12): Deep Chatterjee, Franziska Preuss, Verena Dederer, Stefan Knapp, and Sebastian Mathea. Structural aspects of limk regulation and pharmacology. Cells, 11:142, Jan 2022. URL: https://doi.org/10.3390/cells11010142, doi:10.3390/cells11010142. This article has 23 citations and is from a peer-reviewed journal.
+
+4. (goyal2005dualfunctionof pages 24-28): P Goyal. Dual function of limk2 in endothelial cells. Unknown journal, 2005.
+
+5. (goyal2005dualfunctionofa pages 24-28): P Goyal. Dual function of limk2 in endothelial cells. Unknown journal, 2005.
+
+6. (manetti2012limkinasesare pages 3-6): Fabrizio Manetti. Lim kinases are attractive targets with many macromolecular partners and only a few small molecule regulators. Medicinal Research Reviews, Sep 2012. URL: https://doi.org/10.1002/med.20230, doi:10.1002/med.20230. This article has 145 citations and is from a domain leading peer-reviewed journal.
+
+7. (rak2014novellimk2inhibitor pages 1-2): Roni Rak, Roni Haklai, Galit Elad-Tzfadia, Haim J. Wolfson, Shmuel Carmeli, and Yoel Kloog. Novel limk2 inhibitor blocks panc-1 tumor growth in a mouse xenograft model. Oncoscience, 1:39-48, Jan 2014. URL: https://doi.org/10.18632/oncoscience.7, doi:10.18632/oncoscience.7. This article has 39 citations and is from a peer-reviewed journal.
+
+8. (ribba2022theroleof pages 1-2): Anne-Sophie Ribba, Sandrine Fraboulet, Karin Sadoul, and Laurence Lafanechère. The role of lim kinases during development: a lens to get a glimpse of their implication in pathologies. Cells, 11:403, Jan 2022. URL: https://doi.org/10.3390/cells11030403, doi:10.3390/cells11030403. This article has 14 citations and is from a peer-reviewed journal.
+
+9. (ribba2022theroleof pages 12-13): Anne-Sophie Ribba, Sandrine Fraboulet, Karin Sadoul, and Laurence Lafanechère. The role of lim kinases during development: a lens to get a glimpse of their implication in pathologies. Cells, 11:403, Jan 2022. URL: https://doi.org/10.3390/cells11030403, doi:10.3390/cells11030403. This article has 14 citations and is from a peer-reviewed journal.
+
+10. (ribba2022theroleof pages 13-15): Anne-Sophie Ribba, Sandrine Fraboulet, Karin Sadoul, and Laurence Lafanechère. The role of lim kinases during development: a lens to get a glimpse of their implication in pathologies. Cells, 11:403, Jan 2022. URL: https://doi.org/10.3390/cells11030403, doi:10.3390/cells11030403. This article has 14 citations and is from a peer-reviewed journal.
+
+11. (scott2010limkinaseregulation pages 16-20): RW Scott. Lim kinase regulation of cell motility and invasion. Unknown journal, 2010.
+
+12. (scott2010limkinaseregulationa pages 16-20): RW Scott. Lim kinase regulation of cell motility and invasion. Unknown journal, 2010.
+
+13. (scott2010limkinaseregulationa pages 20-25): RW Scott. Lim kinase regulation of cell motility and invasion. Unknown journal, 2010.
+
+14. (shah2023limk2amultifaceted pages 1-3): Kavita Shah and Mason Cook. Limk2: a multifaceted kinase with pleiotropic roles in human physiology and pathologies. Cancer Letters, 565:216207, Jul 2023. URL: https://doi.org/10.1016/j.canlet.2023.216207, doi:10.1016/j.canlet.2023.216207. This article has 7 citations and is from a peer-reviewed journal.
+
+15. (shah2023limk2amultifaceted pages 10-11): Kavita Shah and Mason Cook. Limk2: a multifaceted kinase with pleiotropic roles in human physiology and pathologies. Cancer Letters, 565:216207, Jul 2023. URL: https://doi.org/10.1016/j.canlet.2023.216207, doi:10.1016/j.canlet.2023.216207. This article has 7 citations and is from a peer-reviewed journal.
+
+16. (shah2023limk2amultifaceted pages 13-16): Kavita Shah and Mason Cook. Limk2: a multifaceted kinase with pleiotropic roles in human physiology and pathologies. Cancer Letters, 565:216207, Jul 2023. URL: https://doi.org/10.1016/j.canlet.2023.216207, doi:10.1016/j.canlet.2023.216207. This article has 7 citations and is from a peer-reviewed journal.
+
+17. (sooreshjani2021identifyingtheversatile pages 23-28): MA Sooreshjani. Identifying the versatile roles of nkx3.1 phosphorylation to explore new castration-resistant prostate cancer therapy. Unknown journal, Apr 2021. URL: https://doi.org/10.25394/pgs.14519691.v1, doi:10.25394/pgs.14519691.v1. This article has 0 citations.
+
+18. (velthuis2007pdzandlim pages 21-23): Aartjan J. W. te Velthuis and Christoph P. Bagowski. Pdz and lim domain-encoding genes: molecular interactions and their role in development. The Scientific World Journal, 7:1470-1492, Sep 2007. URL: https://doi.org/10.1100/tsw.2007.232, doi:10.1100/tsw.2007.232. This article has 115 citations.
+
+19. (villalonga2023limkinaseslimk1 pages 1-2): Elodie Villalonga, Christine Mosrin, Thierry Normand, Caroline Girardin, Amandine Serrano, Bojan Žunar, Michel Doudeau, Fabienne Godin, Hélène Bénédetti, and Béatrice Vallée. Lim kinases, limk1 and limk2, are crucial node actors of the cell fate: molecular to pathological features. Cells, 12:805, Mar 2023. URL: https://doi.org/10.3390/cells12050805, doi:10.3390/cells12050805. This article has 34 citations and is from a peer-reviewed journal.
+
+20. (beltrami2012structuralandfunctional pages 17-21): A Beltrami. Structural and functional analysis of cgmp dependent protein kinase i (cgki) and lim kinase 1 (limk1) engaged in bmp signaling crosstalk. Unknown journal, 2012. URL: https://doi.org/10.17169/refubium-8147, doi:10.17169/refubium-8147. This article has 1 citations.
+
+21. (berabez2022limkinasespromising pages 3-5): Rayan Berabez, Sylvain Routier, Hélène Bénédetti, Karen Plé, and Béatrice Vallée. Lim kinases, promising but reluctant therapeutic targets: chemistry and preclinical validation in vivo. Cells, 11:2090, Jun 2022. URL: https://doi.org/10.3390/cells11132090, doi:10.3390/cells11132090. This article has 16 citations and is from a peer-reviewed journal.
+
+22. (casanovasepulveda2023autoregulationofthe pages 1-2): Gabriela Casanova-Sepúlveda, Joel A. Sexton, Benjamin E. Turk, and Titus J. Boggon. Autoregulation of the lim kinases by their pdz domain. Nature Communications, Dec 2023. URL: https://doi.org/10.1038/s41467-023-44148-4, doi:10.1038/s41467-023-44148-4. This article has 4 citations and is from a highest quality peer-reviewed journal.
+
+23. (chatterjee2022structuralaspectsof pages 1-3): Deep Chatterjee, Franziska Preuss, Verena Dederer, Stefan Knapp, and Sebastian Mathea. Structural aspects of limk regulation and pharmacology. Cells, 11:142, Jan 2022. URL: https://doi.org/10.3390/cells11010142, doi:10.3390/cells11010142. This article has 23 citations and is from a peer-reviewed journal.
+
+24. (chatterjee2022structuralaspectsof pages 3-4): Deep Chatterjee, Franziska Preuss, Verena Dederer, Stefan Knapp, and Sebastian Mathea. Structural aspects of limk regulation and pharmacology. Cells, 11:142, Jan 2022. URL: https://doi.org/10.3390/cells11010142, doi:10.3390/cells11010142. This article has 23 citations and is from a peer-reviewed journal.
+
+25. (chatterjee2022structuralaspectsof pages 6-8): Deep Chatterjee, Franziska Preuss, Verena Dederer, Stefan Knapp, and Sebastian Mathea. Structural aspects of limk regulation and pharmacology. Cells, 11:142, Jan 2022. URL: https://doi.org/10.3390/cells11010142, doi:10.3390/cells11010142. This article has 23 citations and is from a peer-reviewed journal.
+
+26. (chatterjee2022structuralaspectsof pages 8-10): Deep Chatterjee, Franziska Preuss, Verena Dederer, Stefan Knapp, and Sebastian Mathea. Structural aspects of limk regulation and pharmacology. Cells, 11:142, Jan 2022. URL: https://doi.org/10.3390/cells11010142, doi:10.3390/cells11010142. This article has 23 citations and is from a peer-reviewed journal.
+
+27. (goyal2005dualfunctionof pages 30-33): P Goyal. Dual function of limk2 in endothelial cells. Unknown journal, 2005.
+
+28. (goyal2005dualfunctionofa pages 30-33): P Goyal. Dual function of limk2 in endothelial cells. Unknown journal, 2005.
+
+29. (goyal2005dualfunctionofb pages 30-33): P Goyal. Dual function of limk2 in endothelial cells. Unknown journal, 2005.
+
+30. (hanke2022developmentandcharacterization pages 1-3): Thomas Hanke, Sebastian Mathea, Julia Woortman, Eidarus Salah, Benedict-Tilman Berger, Anthony Tumber, Risa Kashima, Akiko Hata, Bernhard Kuster, Susanne Müller, and Stefan Knapp. Development and characterization of type i, type ii, and type iii lim-kinase chemical probes. Journal of Medicinal Chemistry, 65:13264-13287, Sep 2022. URL: https://doi.org/10.1021/acs.jmedchem.2c01106, doi:10.1021/acs.jmedchem.2c01106. This article has 16 citations and is from a highest quality peer-reviewed journal.
+
+31. (jiang2023pdzandlim pages 13-14): Xinyuan Jiang, Zhiyong Xu, Sujing Jiang, Huan Wang, Mingshu Xiao, Yuelin Shi, and Kai Wang. Pdz and lim domain-encoding genes: their role in cancer development. Cancers, 15:5042, Oct 2023. URL: https://doi.org/10.3390/cancers15205042, doi:10.3390/cancers15205042. This article has 9 citations and is from a peer-reviewed journal.
+
+32. (jiang2023pdzandlim pages 16-17): Xinyuan Jiang, Zhiyong Xu, Sujing Jiang, Huan Wang, Mingshu Xiao, Yuelin Shi, and Kai Wang. Pdz and lim domain-encoding genes: their role in cancer development. Cancers, 15:5042, Oct 2023. URL: https://doi.org/10.3390/cancers15205042, doi:10.3390/cancers15205042. This article has 9 citations and is from a peer-reviewed journal.
+
+33. (manetti2012limkinasesare pages 1-3): Fabrizio Manetti. Lim kinases are attractive targets with many macromolecular partners and only a few small molecule regulators. Medicinal Research Reviews, Sep 2012. URL: https://doi.org/10.1002/med.20230, doi:10.1002/med.20230. This article has 145 citations and is from a domain leading peer-reviewed journal.
+
+34. (manetti2012limkinasesare pages 23-25): Fabrizio Manetti. Lim kinases are attractive targets with many macromolecular partners and only a few small molecule regulators. Medicinal Research Reviews, Sep 2012. URL: https://doi.org/10.1002/med.20230, doi:10.1002/med.20230. This article has 145 citations and is from a domain leading peer-reviewed journal.
+
+35. (mittelstaedt2012structuralandfunctional pages 38-46): KYMK Mittelstaedt. Structural and functional characterisation of lim kinases. Unknown journal, 2012.
+
+36. (mittelstaedt2012structuralandfunctionala pages 38-46): KYMK Mittelstaedt. Structural and functional characterisation of lim kinases. Unknown journal, 2012.
+
+37. (mittelstaedt2012structuralandfunctionalc pages 38-46): KYMK Mittelstaedt. Structural and functional characterisation of lim kinases. Unknown journal, 2012.
+
+38. (podkowa2010characterizationofbmp pages 65-70): M Podkowa. Characterization of bmp signalling pathways mediated by the bmp type ii receptor, bmprii, regulating neuronal morphogenesis. Unknown journal, 2010.
+
+39. (podkowa2010characterizationofbmp pages 70-75): M Podkowa. Characterization of bmp signalling pathways mediated by the bmp type ii receptor, bmprii, regulating neuronal morphogenesis. Unknown journal, 2010.
+
+40. (salah2019lessonsfromlimk1 pages 1-2): Eidarus Salah, Deep Chatterjee, Alessandra Beltrami, Anthony Tumber, Franziska Preuss, Peter Canning, Apirat Chaikuad, Petra Knaus, Stefan Knapp, Alex N. Bullock, and Sebastian Mathea. Lessons from limk1 enzymology and their impact on inhibitor design. Biochemical Journal, 476:3197-3209, Nov 2019. URL: https://doi.org/10.1042/bcj20190517, doi:10.1042/bcj20190517. This article has 25 citations and is from a domain leading peer-reviewed journal.
+
+41. (salah2019lessonsfromlimk1 pages 2-2): Eidarus Salah, Deep Chatterjee, Alessandra Beltrami, Anthony Tumber, Franziska Preuss, Peter Canning, Apirat Chaikuad, Petra Knaus, Stefan Knapp, Alex N. Bullock, and Sebastian Mathea. Lessons from limk1 enzymology and their impact on inhibitor design. Biochemical Journal, 476:3197-3209, Nov 2019. URL: https://doi.org/10.1042/bcj20190517, doi:10.1042/bcj20190517. This article has 25 citations and is from a domain leading peer-reviewed journal.
+
+42. (scott2010limkinaseregulation pages 11-16): RW Scott. Lim kinase regulation of cell motility and invasion. Unknown journal, 2010.
+
+43. (scott2010limkinaseregulation pages 20-25): RW Scott. Lim kinase regulation of cell motility and invasion. Unknown journal, 2010.
+
+44. (scott2010limkinaseregulation pages 30-34): RW Scott. Lim kinase regulation of cell motility and invasion. Unknown journal, 2010.
+
+45. (scott2010limkinaseregulationa pages 11-16): RW Scott. Lim kinase regulation of cell motility and invasion. Unknown journal, 2010.
+
+46. (scott2010limkinaseregulationa pages 30-34): RW Scott. Lim kinase regulation of cell motility and invasion. Unknown journal, 2010.
+
+47. (scott2010limkinaseregulationa pages 34-38): RW Scott. Lim kinase regulation of cell motility and invasion. Unknown journal, 2010.
+
+48. (shah2023limk2amultifaceted pages 3-4): Kavita Shah and Mason Cook. Limk2: a multifaceted kinase with pleiotropic roles in human physiology and pathologies. Cancer Letters, 565:216207, Jul 2023. URL: https://doi.org/10.1016/j.canlet.2023.216207, doi:10.1016/j.canlet.2023.216207. This article has 7 citations and is from a peer-reviewed journal.
+
+49. (sooreshjani2021identifyingtheversatile pages 20-23): MA Sooreshjani. Identifying the versatile roles of nkx3.1 phosphorylation to explore new castration-resistant prostate cancer therapy. Unknown journal, Apr 2021. URL: https://doi.org/10.25394/pgs.14519691.v1, doi:10.25394/pgs.14519691.v1. This article has 0 citations.
+
+50. (velthuis2007pdzandlim pages 9-11): Aartjan J. W. te Velthuis and Christoph P. Bagowski. Pdz and lim domain-encoding genes: molecular interactions and their role in development. The Scientific World Journal, 7:1470-1492, Sep 2007. URL: https://doi.org/10.1100/tsw.2007.232, doi:10.1100/tsw.2007.232. This article has 115 citations.

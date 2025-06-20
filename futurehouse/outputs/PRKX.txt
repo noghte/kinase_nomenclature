@@ -1,0 +1,177 @@
+1. Phylogeny  
+PRKX is a member of the AGC family of serine/threonine kinases and is classified as a cAMP‐dependent protein kinase catalytic subunit that is distinct from the classical PKA isoforms, with its sequence divergence supporting an evolutionarily ancient line within the PKA clade (huang2016prkxanovel pages 1-2). PRKX is conserved among eukaryotes, and its mouse ortholog, Pkare, has been identified with a similar but slightly truncated sequence, thereby underlining its conservation across mammalian species (huang2016prkxanovel pages 1-2). Phylogenetic analyses indicate that while PRKX shares key catalytic domain features with canonical PKA subunits, several amino acids critical for regulatory subunit binding are not conserved, suggesting that PRKX diverged early during the expansion of the PKA kinase family (li2002prkxaphylogenetically pages 3-4). Comparative genomic studies reveal that PRKX clusters separately from the main catalytic subunits (PRKACA and PRKACB) in phylogenetic trees and forms a distinct branch that is also represented in divergent species such as Dictyostelium and Drosophila (li2002prkxaphylogenetically pages 1-2, li2002prkxaphylogenetically pages 5-6). The evolutionary history of PRKX is also linked to its localization on the human X chromosome at region Xp22.3, where its unique phylogenetic placement is supported by chromosomal mapping and sequence analysis (huang2016prkxanovel pages 1-2, søberg2013evolutionarypathsof pages 2-2). Furthermore, the high degree of sequence conservation observed in the catalytic domains of PRKX reinforces its assignment as a core component of the cAMP-dependent signaling network that evolved from a common ancestor of eukaryotes (turnham2016proteinkinasea pages 3-4, søberg2017evolutionofthe pages 1-2).
+
+2. Reaction Catalyzed  
+PRKX catalyzes the phosphorylation of protein substrates by transferring the γ-phosphate group from ATP to specific L-serine or L-threonine residues, yielding ADP and a phosphorylated protein product (li2002prkxaphylogenetically pages 1-2). This catalytic reaction can be summarized by the equation: ATP + [protein]-(L-serine or L-threonine) → ADP + [protein]-(L-serine/threonine)-phosphate + H⁺, which is characteristic of serine/threonine kinases in the PKA family (huang2016prkxanovel pages 1-2). The catalytic mechanism utilizes a spatial arrangement of conserved motifs to coordinate the binding of ATP in proximity to the substrate’s hydroxyl group, thereby ensuring efficient phosphoryl transfer (li2002prkxaphylogenetically pages 3-4).
+
+3. Cofactor Requirements  
+The enzyme requires Mg²⁺ ions as essential cofactors that stabilize ATP in the active site and facilitate the phosphoryl transfer reaction (li2002prkxaphylogenetically pages 2-3). In addition to Mg²⁺, the presence of ATP is indispensable for the catalytic activity, in line with the biochemical mechanisms observed in other cAMP-dependent kinases (huang2016prkxanovel pages 1-2).
+
+4. Substrate Specificity  
+PRKX exhibits substrate specificity for serine/threonine residues and phosphorylates several substrates involved in critical cellular processes. It catalyzes the phosphorylation of transcription factors such as CREB, regulatory molecules including SMAD6, and proteins associated with kidney development such as PKD1, thereby influencing downstream signaling pathways (huang2016prkxanovel pages 7-8, huberman2006smad6isa pages 3-4). The enzyme’s substrate recognition appears to share similarities with classical PKA isoforms, typically favoring a consensus sequence that includes basic residues upstream of the phosphoacceptor site; however, distinct amino acid differences in key regulatory regions set PRKX apart by modulating its interaction with specific substrates (li2002prkxaphylogenetically pages 3-4, huberman2006smad6isa pages 2-3). For instance, studies have demonstrated that the phosphorylation of SMAD6 by PRKX is essential for myeloid cell differentiation, indicating a functional selectivity toward regulatory proteins involved in the TGF-β signaling cascade (huberman2006smad6isa pages 3-4). In addition, the overlap with PKA substrate preference in assays using peptide substrates such as kemptide has been noted, yet PRKX appears to have unique substrate determinants that may result in differential regulation under distinct physiological conditions (li2002prkxaphylogenetically pages 1-2, huang2016prkxanovel pages 1-2). The consensus sequence recognized by many cAMP‐dependent kinases generally involves basic amino acids at positions −2 to −4 relative to the serine/threonine residue, and this pattern is thought to be partially conserved in PRKX, though experimental data suggest that its substrate repertoire extends to proteins critical for epithelial morphogenesis and vascular development (huang2016prkxanovel pages 4-6, huberman2006smad6isa pages 3-4).
+
+5. Structure  
+PRKX is organized around a conserved catalytic domain that adopts the typical bilobal fold seen in AGC kinases, with a smaller N-terminal lobe and a larger C-terminal lobe; the former mainly comprises β-sheets and an αC helix, while the latter contains mainly α-helices and the substrate binding region (li2002prkxaphylogenetically pages 3-4, welsh2023interactionnetworksexplain pages 5-6). Within the catalytic domain, key structural features such as the ATP-binding pocket, the catalytic loop, and the activation segment are highly conserved, ensuring the enzyme’s competence in phosphoryl transfer (li2002prkxaphylogenetically pages 4-5, pearce2010thenutsand pages 1-2). Notably, PRKX contains two putative proline-rich WW domain binding sites, represented by phospho-SP/-TP and PPxY motifs, which are thought to mediate protein–protein interactions and may contribute to its functional specificity in signaling complexes (huang2016prkxanovel pages 4-6). In addition to these motifs, a conserved PxxP sequence, which conforms to an SH3 domain binding consensus, has been identified in the structure, potentially providing a platform for binding regulatory or scaffold proteins (li2002prkxaphylogenetically pages 5-6). Structural studies indicate that PRKX, like its more extensively characterized homologs, likely lacks canonical protein–protein or protein–lipid interaction modules aside from the conserved dimerization and docking (D/D) domain observed in regulatory subunits, and its subcellular localization is guided by anchoring interactions with regulatory partners (welsh2023interactionnetworksexplain pages 5-6). Available crystallographic data and AlphaFold predictions support a model in which the activation loop and the hydrophobic spine are correctly aligned for catalytic activity upon relief of autoinhibition by regulatory subunit binding (turnham2016proteinkinasea pages 6-8, li2002prkxaphylogenetically pages 3-4).
+
+6. Regulation  
+Regulation of PRKX activity is tightly coupled to intracellular cAMP levels, a mechanism that is shared among cAMP‐dependent protein kinases; binding of cAMP to the regulatory subunit RIα results in the dissociation of the holoenzyme and release of the active catalytic subunit (huang2016prkxanovel pages 1-2, turnham2016proteinkinasea pages 3-4). The catalytic activity of PRKX is further modulated by autoinhibitory interactions, as the RIα subunit binds and induces a conformational change that suppresses enzymatic activity in the absence of elevated cAMP levels (li2002prkxaphylogenetically pages 2-3, huang2016prkxanovel pages 7-7). Pharmacological studies have demonstrated that general PKA inhibitors such as H89 can inhibit PRKX activity, indicating that the catalytic site retains features common to the PKA family (li2002prkxaphylogenetically pages 4-5, huberman2006smad6isa pages 3-4). Moreover, PRKX demonstrates responsiveness to cAMP analogs that induce nuclear translocation, a regulatory behavior that underscores the enzyme’s role in shifting between cytoplasmic and nuclear compartments upon activation (li2002prkxaphylogenetically pages 2-3, huang2016prkxanovel pages 6-7). Although post-translational modifications outside of cAMP-mediated activation are not comprehensively detailed for PRKX, its modulation by redox processes has been implicated in studies of related kinases, suggesting a possible role for reversible cysteine oxidation in fine-tuning its activity (ekhator2025redoxregulationof pages 2-5, ekhator2025redoxregulationof pages 20-21).
+
+7. Function  
+PRKX functions as a serine/threonine kinase that mediates cAMP-dependent signaling events central to multiple cellular processes, including differentiation, morphogenesis, and cell migration (huang2016prkxanovel pages 1-2, huang2016prkxanovel pages 2-4). In the context of myeloid cell differentiation, PRKX phosphorylates SMAD6, a key regulator of TGF-β signaling, thereby contributing to the differentiation process in HL-60 cells (huberman2006smad6isa pages 3-4). In addition, PRKX plays an essential role in nephrogenesis by stimulating renal epithelial cell migration and tubulogenesis, processes that are critical for proper kidney development and tissue morphogenesis (li2002prkxaphylogenetically pages 4-5, huang2016prkxanovel pages 4-6). PRKX also exerts effects on angiogenesis, as it promotes endothelial cell proliferation, migration, and the formation of vascular-like structures, all of which are important for the maintenance of vascular integrity and the formation of new blood vessels (huang2016prkxanovel pages 4-6, huang2016prkxanovel pages 7-7). Moreover, PRKX is reported to activate CREB-dependent transcription, thereby influencing gene expression patterns related to cellular differentiation and tumorigenesis, particularly in renal carcinoma cells where its activity has been linked to sunitinib resistance (huang2016prkxanovel pages 7-8, schmidt2002adenoassociatedvirustype pages 1-2). Further functional roles of PRKX include participation in epithelial morphogenesis, which is evident from its effects on cell shape changes and epithelial branching in three-dimensional models of organ development (huang2016prkxanovel pages 4-6, li2002prkxaphylogenetically pages 4-5). The expression patterns of PRKX are developmentally regulated, with high expression observed in fetal tissues such as kidney, brain, lung, and heart, while its expression diminishes in the normal adult kidney yet reappears aberrantly in disease states such as autosomal dominant polycystic kidney disease (ADPKD) (huang2016prkxanovel pages 1-2, li2002prkxaphylogenetically pages 1-2). Additionally, PRKX is implicated in sex development disorders as genomic rearrangements involving PRKX and its Y-linked homolog PRKY have been associated with sex reversal conditions, reflecting its involvement in developmental signaling pathways that determine sexual differentiation (huang2016prkxanovel pages 6-7, søberg2013evolutionarypathsof pages 2-2). Collectively, the multifunctional roles of PRKX underscore its importance in cAMP-mediated signaling networks that orchestrate diverse aspects of cell proliferation, differentiation, and tissue patterning (turnham2016proteinkinasea pages 6-8, welsh2023interactionnetworksexplain pages 5-6).
+
+8. Other Comments  
+Inhibitory studies have demonstrated that PRKX can be targeted by general PKA inhibitors such as H89, although no inhibitors have been developed that are specific solely for PRKX (li2002prkxaphylogenetically pages 4-5, schmidt2002adenoassociatedvirustype pages 6-8). In addition, the adenovirus-associated viral protein Rep78 has been shown to bind to and inhibit PRKX through a pseudosubstrate mechanism, which further establishes the functional similarities between PRKX and classical PKA catalytic subunits (schmidt2002adenoassociatedvirustype pages 6-8, bender2012prkxttbk2and pages 11-11). PRKX has been linked to several disease states including ADPKD, developmental defects in renal morphogenesis, and sex reversal disorders due to its genomic localization and involvement in essential signaling pathways (huang2016prkxanovel pages 6-7, pontecorvi2021alteredexpressionof pages 15-17). Moreover, its activity has been associated with resistance to cancer therapeutics such as sunitinib in renal carcinoma and melanoma cell lines, thereby making it a potential target of interest in oncology research (bender2012prkxttbk2and pages 11-11, turnham2016proteinkinasea pages 9-11). Although redox regulation is well described for other cAMP-dependent kinases, similar regulatory mechanisms may apply to PRKX, yet detailed studies specifically addressing its redox sensitivity remain limited (ekhator2025redoxregulationof pages 2-5, ekhator2025redoxregulationof pages 20-21). Finally, despite extensive studies on the PKA family, PRKX remains less characterized in comparison to its homologs, and further research is warranted to elucidate its precise substrate repertoire, regulatory modifications, and potential clinical implications (søberg2013evolutionarypathsof pages 12-13, turnham2016proteinkinasea pages 8-9).
+
+9. References  
+1. huang2016prkxanovel pages 1-2  
+2. huang2016prkxanovel pages 2-4  
+3. huang2016prkxanovel pages 4-6  
+4. huang2016prkxanovel pages 6-7  
+5. huang2016prkxanovel pages 7-7  
+6. li2002prkxaphylogenetically pages 1-2  
+7. li2002prkxaphylogenetically pages 2-3  
+8. li2002prkxaphylogenetically pages 3-4  
+9. li2002prkxaphylogenetically pages 4-5  
+10. li2002prkxaphylogenetically pages 5-6  
+11. turnham2016proteinkinasea pages 3-4  
+12. welsh2023interactionnetworksexplain pages 5-6  
+13. bender2012prkxttbk2and pages 11-11  
+14. ekhator2025redoxregulationof pages 2-5  
+15. ekhator2025redoxregulationof pages 20-21  
+16. huang2016prkxanovel pages 4-4  
+17. huang2016prkxanovel pages 7-8  
+18. huberman2006smad6isa pages 10-10  
+19. huberman2006smad6isa pages 2-3  
+20. huberman2006smad6isa pages 3-4  
+21. peng2015spatialorganizationin pages 4-4  
+22. pontecorvi2021alteredexpressionof pages 15-17  
+23. schmidt2002adenoassociatedvirustype pages 1-2  
+24. schmidt2002adenoassociatedvirustype pages 2-2  
+25. schmidt2002adenoassociatedvirustype pages 6-8  
+26. skroblin2010mechanismsofprotein pages 4-6  
+27. søberg2012identificationandcharacterization pages 11-11  
+28. welsh2023interactionnetworksexplain pages 20-21  
+29. bathon2019alterationsinprotein pages 7-8  
+30. ekhator2025redoxregulationof pages 27-28  
+31. gesellchen2006analysisofposttranslational pages 10-11  
+32. glebovmccloud2024proteinkinasea pages 1-2  
+33. glebovmccloud2024proteinkinasea pages 8-9  
+34. pearce2010thenutsand pages 1-2  
+35. pontecorvi2021alteredexpressionof pages 21-22  
+36. søberg2012identificationandcharacterization pages 1-2  
+37. søberg2013evolutionarypathsof pages 12-12  
+38. søberg2013evolutionarypathsof pages 2-2  
+39. søberg2017evolutionofthe pages 15-16  
+40. søberg2018themolecularbasis pages 21-22  
+41. turnham2016proteinkinasea pages 11-12  
+42. turnham2016proteinkinasea pages 6-8  
+43. turnham2016proteinkinasea pages 9-11  
+44. welsh2023interactionnetworksexplain pages 2-5  
+45. bathon2019alterationsinprotein pages 6-7  
+46. ekhator2025redoxregulationof pages 1-2  
+47. ekhator2025redoxregulationof pages 18-20  
+48. søberg2013evolutionarypathsof pages 12-13  
+49. søberg2017evolutionofthe pages 1-2  
+50. turnham2016proteinkinasea pages 8-9
+
+References
+
+1. (huang2016prkxanovel pages 1-2): Sizhou Huang, Qian Li, Ian Alberts, and Xiaohong Li. Prkx, a novel camp‐dependent protein kinase member, plays an important role in development. Journal of Cellular Biochemistry, Mar 2016. URL: https://doi.org/10.1002/jcb.25304, doi:10.1002/jcb.25304. This article has 27 citations and is from a peer-reviewed journal.
+
+2. (huang2016prkxanovel pages 2-4): Sizhou Huang, Qian Li, Ian Alberts, and Xiaohong Li. Prkx, a novel camp‐dependent protein kinase member, plays an important role in development. Journal of Cellular Biochemistry, Mar 2016. URL: https://doi.org/10.1002/jcb.25304, doi:10.1002/jcb.25304. This article has 27 citations and is from a peer-reviewed journal.
+
+3. (huang2016prkxanovel pages 4-6): Sizhou Huang, Qian Li, Ian Alberts, and Xiaohong Li. Prkx, a novel camp‐dependent protein kinase member, plays an important role in development. Journal of Cellular Biochemistry, Mar 2016. URL: https://doi.org/10.1002/jcb.25304, doi:10.1002/jcb.25304. This article has 27 citations and is from a peer-reviewed journal.
+
+4. (huang2016prkxanovel pages 6-7): Sizhou Huang, Qian Li, Ian Alberts, and Xiaohong Li. Prkx, a novel camp‐dependent protein kinase member, plays an important role in development. Journal of Cellular Biochemistry, Mar 2016. URL: https://doi.org/10.1002/jcb.25304, doi:10.1002/jcb.25304. This article has 27 citations and is from a peer-reviewed journal.
+
+5. (huang2016prkxanovel pages 7-7): Sizhou Huang, Qian Li, Ian Alberts, and Xiaohong Li. Prkx, a novel camp‐dependent protein kinase member, plays an important role in development. Journal of Cellular Biochemistry, Mar 2016. URL: https://doi.org/10.1002/jcb.25304, doi:10.1002/jcb.25304. This article has 27 citations and is from a peer-reviewed journal.
+
+6. (li2002prkxaphylogenetically pages 1-2): Xiaohong Li, Hsi-Ping Li, Kurt Amsler, Deborah Hyink, Patricia D. Wilson, and Christopher R. Burrow. Prkx, a phylogenetically and functionally distinct camp-dependent protein kinase, activates renal epithelial cell migration and morphogenesis. Proceedings of the National Academy of Sciences, 99:9260-9265, Jun 2002. URL: https://doi.org/10.1073/pnas.132051799, doi:10.1073/pnas.132051799. This article has 73 citations.
+
+7. (li2002prkxaphylogenetically pages 2-3): Xiaohong Li, Hsi-Ping Li, Kurt Amsler, Deborah Hyink, Patricia D. Wilson, and Christopher R. Burrow. Prkx, a phylogenetically and functionally distinct camp-dependent protein kinase, activates renal epithelial cell migration and morphogenesis. Proceedings of the National Academy of Sciences, 99:9260-9265, Jun 2002. URL: https://doi.org/10.1073/pnas.132051799, doi:10.1073/pnas.132051799. This article has 73 citations.
+
+8. (li2002prkxaphylogenetically pages 3-4): Xiaohong Li, Hsi-Ping Li, Kurt Amsler, Deborah Hyink, Patricia D. Wilson, and Christopher R. Burrow. Prkx, a phylogenetically and functionally distinct camp-dependent protein kinase, activates renal epithelial cell migration and morphogenesis. Proceedings of the National Academy of Sciences, 99:9260-9265, Jun 2002. URL: https://doi.org/10.1073/pnas.132051799, doi:10.1073/pnas.132051799. This article has 73 citations.
+
+9. (li2002prkxaphylogenetically pages 4-5): Xiaohong Li, Hsi-Ping Li, Kurt Amsler, Deborah Hyink, Patricia D. Wilson, and Christopher R. Burrow. Prkx, a phylogenetically and functionally distinct camp-dependent protein kinase, activates renal epithelial cell migration and morphogenesis. Proceedings of the National Academy of Sciences, 99:9260-9265, Jun 2002. URL: https://doi.org/10.1073/pnas.132051799, doi:10.1073/pnas.132051799. This article has 73 citations.
+
+10. (li2002prkxaphylogenetically pages 5-6): Xiaohong Li, Hsi-Ping Li, Kurt Amsler, Deborah Hyink, Patricia D. Wilson, and Christopher R. Burrow. Prkx, a phylogenetically and functionally distinct camp-dependent protein kinase, activates renal epithelial cell migration and morphogenesis. Proceedings of the National Academy of Sciences, 99:9260-9265, Jun 2002. URL: https://doi.org/10.1073/pnas.132051799, doi:10.1073/pnas.132051799. This article has 73 citations.
+
+11. (turnham2016proteinkinasea pages 3-4): Rigney E. Turnham and John D. Scott. Protein kinase a catalytic subunit isoform prkaca; history, function and physiology. Gene, 577 2:101-8, Feb 2016. URL: https://doi.org/10.1016/j.gene.2015.11.052, doi:10.1016/j.gene.2015.11.052. This article has 259 citations and is from a peer-reviewed journal.
+
+12. (welsh2023interactionnetworksexplain pages 5-6): Colin L. Welsh, Abigail E. Conklin, and Lalima K. Madan. Interaction networks explain holoenzyme allostery in protein kinase a. Kinases and Phosphatases, 1:265-287, Oct 2023. URL: https://doi.org/10.3390/kinasesphosphatases1040016, doi:10.3390/kinasesphosphatases1040016. This article has 3 citations.
+
+13. (bender2012prkxttbk2and pages 11-11): Claus Bender and Axel Ullrich. Prkx, ttbk2 and rsk4 expression causes sunitinib resistance in kidney carcinoma‐ and melanoma‐cell lines. International Journal of Cancer, Jul 2012. URL: https://doi.org/10.1002/ijc.26486, doi:10.1002/ijc.26486. This article has 102 citations and is from a domain leading peer-reviewed journal.
+
+14. (ekhator2025redoxregulationof pages 2-5): Ese S. Ekhator, Marco Fazzari, and Robert H. Newman. Redox regulation of camp-dependent protein kinase and its role in health and disease. Life, 15:655, Apr 2025. URL: https://doi.org/10.3390/life15040655, doi:10.3390/life15040655. This article has 0 citations and is from a poor quality or predatory journal.
+
+15. (ekhator2025redoxregulationof pages 20-21): Ese S. Ekhator, Marco Fazzari, and Robert H. Newman. Redox regulation of camp-dependent protein kinase and its role in health and disease. Life, 15:655, Apr 2025. URL: https://doi.org/10.3390/life15040655, doi:10.3390/life15040655. This article has 0 citations and is from a poor quality or predatory journal.
+
+16. (huang2016prkxanovel pages 4-4): Sizhou Huang, Qian Li, Ian Alberts, and Xiaohong Li. Prkx, a novel camp‐dependent protein kinase member, plays an important role in development. Journal of Cellular Biochemistry, Mar 2016. URL: https://doi.org/10.1002/jcb.25304, doi:10.1002/jcb.25304. This article has 27 citations and is from a peer-reviewed journal.
+
+17. (huang2016prkxanovel pages 7-8): Sizhou Huang, Qian Li, Ian Alberts, and Xiaohong Li. Prkx, a novel camp‐dependent protein kinase member, plays an important role in development. Journal of Cellular Biochemistry, Mar 2016. URL: https://doi.org/10.1002/jcb.25304, doi:10.1002/jcb.25304. This article has 27 citations and is from a peer-reviewed journal.
+
+18. (huberman2006smad6isa pages 10-10): E Huberman D Glesne. Smad6 is a protein kinase x phosphorylation substrate and is required for hl-60 cell differentiation. Oncogene, 25:4086-4098, Jul 2006. URL: https://doi.org/10.1038/sj.onc.1209436, doi:10.1038/sj.onc.1209436. This article has 39 citations and is from a domain leading peer-reviewed journal.
+
+19. (huberman2006smad6isa pages 2-3): E Huberman D Glesne. Smad6 is a protein kinase x phosphorylation substrate and is required for hl-60 cell differentiation. Oncogene, 25:4086-4098, Jul 2006. URL: https://doi.org/10.1038/sj.onc.1209436, doi:10.1038/sj.onc.1209436. This article has 39 citations and is from a domain leading peer-reviewed journal.
+
+20. (huberman2006smad6isa pages 3-4): E Huberman D Glesne. Smad6 is a protein kinase x phosphorylation substrate and is required for hl-60 cell differentiation. Oncogene, 25:4086-4098, Jul 2006. URL: https://doi.org/10.1038/sj.onc.1209436, doi:10.1038/sj.onc.1209436. This article has 39 citations and is from a domain leading peer-reviewed journal.
+
+21. (peng2015spatialorganizationin pages 4-4): Mao Peng, Thin Thin Aye, Berend Snel, Bas van Breukelen, Arjen Scholten, and Albert J. R. Heck. Spatial organization in protein kinase a signaling emerged at the base of animal evolution. Journal of Proteome Research, 14:2976-2987, Jun 2015. URL: https://doi.org/10.1021/acs.jproteome.5b00370, doi:10.1021/acs.jproteome.5b00370. This article has 23 citations and is from a peer-reviewed journal.
+
+22. (pontecorvi2021alteredexpressionof pages 15-17): P. Pontecorvi, F. Megiorni, S. Camero, S. Ceccarelli, L. Bernardini, A. Capalbo, E. Anastasiadou, G. Gerini, E. Messina, G. Perniola, P. Benedetti Panici, P. Grammatico, A. Pizzuti, and C. Marchese. Altered expression of candidate genes in mayer–rokitansky–küster–hauser syndrome may influence vaginal keratinocytes biology: a focus on protein kinase x. Biology, May 2021. URL: https://doi.org/10.3390/biology10060450, doi:10.3390/biology10060450. This article has 9 citations and is from a peer-reviewed journal.
+
+23. (schmidt2002adenoassociatedvirustype pages 1-2): Michael Schmidt, John A. Chiorini, Sandra Afione, and Robert Kotin. Adeno-associated virus type 2 rep78 inhibition of pka and prkx: fine mapping and analysis of mechanism. Journal of Virology, 76:1033-1042, Feb 2002. URL: https://doi.org/10.1128/jvi.76.3.1033-1042.2002, doi:10.1128/jvi.76.3.1033-1042.2002. This article has 22 citations and is from a domain leading peer-reviewed journal.
+
+24. (schmidt2002adenoassociatedvirustype pages 2-2): Michael Schmidt, John A. Chiorini, Sandra Afione, and Robert Kotin. Adeno-associated virus type 2 rep78 inhibition of pka and prkx: fine mapping and analysis of mechanism. Journal of Virology, 76:1033-1042, Feb 2002. URL: https://doi.org/10.1128/jvi.76.3.1033-1042.2002, doi:10.1128/jvi.76.3.1033-1042.2002. This article has 22 citations and is from a domain leading peer-reviewed journal.
+
+25. (schmidt2002adenoassociatedvirustype pages 6-8): Michael Schmidt, John A. Chiorini, Sandra Afione, and Robert Kotin. Adeno-associated virus type 2 rep78 inhibition of pka and prkx: fine mapping and analysis of mechanism. Journal of Virology, 76:1033-1042, Feb 2002. URL: https://doi.org/10.1128/jvi.76.3.1033-1042.2002, doi:10.1128/jvi.76.3.1033-1042.2002. This article has 22 citations and is from a domain leading peer-reviewed journal.
+
+26. (skroblin2010mechanismsofprotein pages 4-6): Philipp Skroblin, Solveig Grossmann, Gesa Schäfer, Walter Rosenthal, and Enno Klussmann. Mechanisms of protein kinase a anchoring. International Review of Cell and Molecular Biology, pages 235-330, Jan 2010. URL: https://doi.org/10.1016/s1937-6448(10)83005-9, doi:10.1016/s1937-6448(10)83005-9. This article has 249 citations and is from a peer-reviewed journal.
+
+27. (søberg2012identificationandcharacterization pages 11-11): Kristoffer Søberg, Anja C. V. Larsen, Mandy Diskar, Paul H. Backe, Magnar Bjørås, Tore Jahnsen, Jon K. Laerdahl, Torbjørn Rognes, Friedrich W. Herberg, and Bjørn S. Skålhegg. Identification and characterization of novel mutations in the human gene encoding the catalytic subunit calpha of protein kinase a (pka). PLoS ONE, 7:e34838, Apr 2012. URL: https://doi.org/10.1371/journal.pone.0034838, doi:10.1371/journal.pone.0034838. This article has 15 citations and is from a peer-reviewed journal.
+
+28. (welsh2023interactionnetworksexplain pages 20-21): Colin L. Welsh, Abigail E. Conklin, and Lalima K. Madan. Interaction networks explain holoenzyme allostery in protein kinase a. Kinases and Phosphatases, 1:265-287, Oct 2023. URL: https://doi.org/10.3390/kinasesphosphatases1040016, doi:10.3390/kinasesphosphatases1040016. This article has 3 citations.
+
+29. (bathon2019alterationsinprotein pages 7-8): Kerstin Bathon, Isabel Weigand, Jens T Vanselow, Cristina L Ronchi, Silviu Sbiera, Andreas Schlosser, Martin Fassnacht, and Davide Calebiro. Alterations in protein kinase a substrate specificity as a potential cause of cushing syndrome. Endocrinology, 160:447-459, Jan 2019. URL: https://doi.org/10.1210/en.2018-00775, doi:10.1210/en.2018-00775. This article has 44 citations and is from a domain leading peer-reviewed journal.
+
+30. (ekhator2025redoxregulationof pages 27-28): Ese S. Ekhator, Marco Fazzari, and Robert H. Newman. Redox regulation of camp-dependent protein kinase and its role in health and disease. Life, 15:655, Apr 2025. URL: https://doi.org/10.3390/life15040655, doi:10.3390/life15040655. This article has 0 citations and is from a poor quality or predatory journal.
+
+31. (gesellchen2006analysisofposttranslational pages 10-11): F. Gesellchen, Oliver Bertinetti, and F. Herberg. Analysis of posttranslational modifications exemplified using protein kinase a. Biochimica et biophysica acta, 1764 12:1788-800, Dec 2006. URL: https://doi.org/10.1016/j.bbapap.2006.10.001, doi:10.1016/j.bbapap.2006.10.001. This article has 31 citations.
+
+32. (glebovmccloud2024proteinkinasea pages 1-2): Alexander G. P. Glebov-McCloud, Walter S. Saide, Marie E. Gaine, and Stefan Strack. Protein kinase a in neurological disorders. Journal of Neurodevelopmental Disorders, Mar 2024. URL: https://doi.org/10.1186/s11689-024-09525-0, doi:10.1186/s11689-024-09525-0. This article has 12 citations and is from a peer-reviewed journal.
+
+33. (glebovmccloud2024proteinkinasea pages 8-9): Alexander G. P. Glebov-McCloud, Walter S. Saide, Marie E. Gaine, and Stefan Strack. Protein kinase a in neurological disorders. Journal of Neurodevelopmental Disorders, Mar 2024. URL: https://doi.org/10.1186/s11689-024-09525-0, doi:10.1186/s11689-024-09525-0. This article has 12 citations and is from a peer-reviewed journal.
+
+34. (pearce2010thenutsand pages 1-2): Laura R. Pearce, David Komander, and Dario R. Alessi. The nuts and bolts of agc protein kinases. Nature Reviews Molecular Cell Biology, 11:9-22, Jan 2010. URL: https://doi.org/10.1038/nrm2822, doi:10.1038/nrm2822. This article has 1655 citations and is from a domain leading peer-reviewed journal.
+
+35. (pontecorvi2021alteredexpressionof pages 21-22): P. Pontecorvi, F. Megiorni, S. Camero, S. Ceccarelli, L. Bernardini, A. Capalbo, E. Anastasiadou, G. Gerini, E. Messina, G. Perniola, P. Benedetti Panici, P. Grammatico, A. Pizzuti, and C. Marchese. Altered expression of candidate genes in mayer–rokitansky–küster–hauser syndrome may influence vaginal keratinocytes biology: a focus on protein kinase x. Biology, May 2021. URL: https://doi.org/10.3390/biology10060450, doi:10.3390/biology10060450. This article has 9 citations and is from a peer-reviewed journal.
+
+36. (søberg2012identificationandcharacterization pages 1-2): Kristoffer Søberg, Anja C. V. Larsen, Mandy Diskar, Paul H. Backe, Magnar Bjørås, Tore Jahnsen, Jon K. Laerdahl, Torbjørn Rognes, Friedrich W. Herberg, and Bjørn S. Skålhegg. Identification and characterization of novel mutations in the human gene encoding the catalytic subunit calpha of protein kinase a (pka). PLoS ONE, 7:e34838, Apr 2012. URL: https://doi.org/10.1371/journal.pone.0034838, doi:10.1371/journal.pone.0034838. This article has 15 citations and is from a peer-reviewed journal.
+
+37. (søberg2013evolutionarypathsof pages 12-12): Kristoffer Søberg, Tore Jahnsen, Torbjørn Rognes, Bjørn S. Skålhegg, and Jon K. Laerdahl. Evolutionary paths of the camp-dependent protein kinase (pka) catalytic subunits. PLoS ONE, 8:e60935, Apr 2013. URL: https://doi.org/10.1371/journal.pone.0060935, doi:10.1371/journal.pone.0060935. This article has 67 citations and is from a peer-reviewed journal.
+
+38. (søberg2013evolutionarypathsof pages 2-2): Kristoffer Søberg, Tore Jahnsen, Torbjørn Rognes, Bjørn S. Skålhegg, and Jon K. Laerdahl. Evolutionary paths of the camp-dependent protein kinase (pka) catalytic subunits. PLoS ONE, 8:e60935, Apr 2013. URL: https://doi.org/10.1371/journal.pone.0060935, doi:10.1371/journal.pone.0060935. This article has 67 citations and is from a peer-reviewed journal.
+
+39. (søberg2017evolutionofthe pages 15-16): Kristoffer Søberg, Line Victoria Moen, Bjørn Steen Skålhegg, and Jon Kristen Laerdahl. Evolution of the camp-dependent protein kinase (pka) catalytic subunit isoforms. PLOS ONE, 12:e0181091, Jul 2017. URL: https://doi.org/10.1371/journal.pone.0181091, doi:10.1371/journal.pone.0181091. This article has 59 citations and is from a peer-reviewed journal.
+
+40. (søberg2018themolecularbasis pages 21-22): Kristoffer Søberg and Bjørn Steen Skålhegg. The molecular basis for specificity at the level of the protein kinase a catalytic subunit. Frontiers in Endocrinology, Sep 2018. URL: https://doi.org/10.3389/fendo.2018.00538, doi:10.3389/fendo.2018.00538. This article has 96 citations and is from a peer-reviewed journal.
+
+41. (turnham2016proteinkinasea pages 11-12): Rigney E. Turnham and John D. Scott. Protein kinase a catalytic subunit isoform prkaca; history, function and physiology. Gene, 577 2:101-8, Feb 2016. URL: https://doi.org/10.1016/j.gene.2015.11.052, doi:10.1016/j.gene.2015.11.052. This article has 259 citations and is from a peer-reviewed journal.
+
+42. (turnham2016proteinkinasea pages 6-8): Rigney E. Turnham and John D. Scott. Protein kinase a catalytic subunit isoform prkaca; history, function and physiology. Gene, 577 2:101-8, Feb 2016. URL: https://doi.org/10.1016/j.gene.2015.11.052, doi:10.1016/j.gene.2015.11.052. This article has 259 citations and is from a peer-reviewed journal.
+
+43. (turnham2016proteinkinasea pages 9-11): Rigney E. Turnham and John D. Scott. Protein kinase a catalytic subunit isoform prkaca; history, function and physiology. Gene, 577 2:101-8, Feb 2016. URL: https://doi.org/10.1016/j.gene.2015.11.052, doi:10.1016/j.gene.2015.11.052. This article has 259 citations and is from a peer-reviewed journal.
+
+44. (welsh2023interactionnetworksexplain pages 2-5): Colin L. Welsh, Abigail E. Conklin, and Lalima K. Madan. Interaction networks explain holoenzyme allostery in protein kinase a. Kinases and Phosphatases, 1:265-287, Oct 2023. URL: https://doi.org/10.3390/kinasesphosphatases1040016, doi:10.3390/kinasesphosphatases1040016. This article has 3 citations.
+
+45. (bathon2019alterationsinprotein pages 6-7): Kerstin Bathon, Isabel Weigand, Jens T Vanselow, Cristina L Ronchi, Silviu Sbiera, Andreas Schlosser, Martin Fassnacht, and Davide Calebiro. Alterations in protein kinase a substrate specificity as a potential cause of cushing syndrome. Endocrinology, 160:447-459, Jan 2019. URL: https://doi.org/10.1210/en.2018-00775, doi:10.1210/en.2018-00775. This article has 44 citations and is from a domain leading peer-reviewed journal.
+
+46. (ekhator2025redoxregulationof pages 1-2): Ese S. Ekhator, Marco Fazzari, and Robert H. Newman. Redox regulation of camp-dependent protein kinase and its role in health and disease. Life, 15:655, Apr 2025. URL: https://doi.org/10.3390/life15040655, doi:10.3390/life15040655. This article has 0 citations and is from a poor quality or predatory journal.
+
+47. (ekhator2025redoxregulationof pages 18-20): Ese S. Ekhator, Marco Fazzari, and Robert H. Newman. Redox regulation of camp-dependent protein kinase and its role in health and disease. Life, 15:655, Apr 2025. URL: https://doi.org/10.3390/life15040655, doi:10.3390/life15040655. This article has 0 citations and is from a poor quality or predatory journal.
+
+48. (søberg2013evolutionarypathsof pages 12-13): Kristoffer Søberg, Tore Jahnsen, Torbjørn Rognes, Bjørn S. Skålhegg, and Jon K. Laerdahl. Evolutionary paths of the camp-dependent protein kinase (pka) catalytic subunits. PLoS ONE, 8:e60935, Apr 2013. URL: https://doi.org/10.1371/journal.pone.0060935, doi:10.1371/journal.pone.0060935. This article has 67 citations and is from a peer-reviewed journal.
+
+49. (søberg2017evolutionofthe pages 1-2): Kristoffer Søberg, Line Victoria Moen, Bjørn Steen Skålhegg, and Jon Kristen Laerdahl. Evolution of the camp-dependent protein kinase (pka) catalytic subunit isoforms. PLOS ONE, 12:e0181091, Jul 2017. URL: https://doi.org/10.1371/journal.pone.0181091, doi:10.1371/journal.pone.0181091. This article has 59 citations and is from a peer-reviewed journal.
+
+50. (turnham2016proteinkinasea pages 8-9): Rigney E. Turnham and John D. Scott. Protein kinase a catalytic subunit isoform prkaca; history, function and physiology. Gene, 577 2:101-8, Feb 2016. URL: https://doi.org/10.1016/j.gene.2015.11.052, doi:10.1016/j.gene.2015.11.052. This article has 259 citations and is from a peer-reviewed journal.

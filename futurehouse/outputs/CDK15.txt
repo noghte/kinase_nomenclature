@@ -1,0 +1,80 @@
+1. Phylogeny  
+Cyclin-dependent kinase 15 (CDK15), also known as PFTK2 or ALS2CR7 (UniProt Q96Q40), is a member of the cyclin-dependent kinase family that falls within the broadly conserved CMGC group of serine/threonine kinases. In evolutionary terms, CDK15 is classified among the atypical CDKs that include kinases such as CDK14, CDK16, CDK17, and CDK18, and it shares sequence conservation within its catalytic domain with other CDKs that originated from a common eukaryotic ancestor (Manning et al. 2002). Specifically, phylogenetic analysis has demonstrated that CDK15 is closely related to other PFTAIRE subfamily members and is evolutionarily linked to the CDK5-related sub-branch. Although CDK15 has appeared later in evolution relative to CDK14, its domain architecture—marked by extended N- and C-terminal regions—reflects adaptations that distinguish it from canonical cell cycle regulators, while preserving the core features of serine/threonine kinase activity (alonso2021caracterizacióndecdk1418 pages 114-118, chowdhury2023cmgckinasesin pages 1-2).
+
+2. Reaction Catalyzed  
+CDK15 catalyzes the phosphorylation reaction characteristic of serine/threonine kinases. The overall chemical reaction is: ATP + [protein substrate] → ADP + [protein substrate phosphorylated on a serine or threonine residue] + H⁺. In the case of CDK15, one of the documented substrates is the antiapoptotic protein BIRC5 (survivin), which is phosphorylated at Thr-34, thereby mediating an antiapoptotic effect against TRAIL/TNFSF10-induced apoptosis (chowdhury2023cmgckinasesin pages 21-22).
+
+3. Cofactor Requirements  
+The kinase activity of CDK15, in common with other cyclin-dependent kinases, is dependent on the presence of divalent cations, primarily Mg²⁺. Magnesium ions are required to coordinate ATP binding within the active site and to facilitate the transfer of the phosphate group during catalysis (knockaert2002pharmacologicalinhibitorsof pages 1-2).
+
+4. Substrate Specificity  
+CDK15 exhibits substrate specificity that is typical of serine/threonine-protein kinases within the CDK family. Its activity demonstrates a preference for phosphorylating serine or threonine residues that are followed by a proline residue. In particular, CDK15 is known to phosphorylate the antiapoptotic factor survivin (BIRC5) at threonine 34. This phosphorylation event is consistent with the proline-directed specificity derived from a recognition motif commonly observed in the human serine/threonine kinome, as evidenced by substrate specificity profiles that highlight conserved motifs surrounding phosphorylation sites (johnson2023anatlasof pages 4-4, chowdhury2023cmgckinasesin pages 21-22).
+
+5. Structure  
+The three-dimensional structure of CDK15 features the conserved bilobal kinase fold typical of cyclin-dependent kinases. It possesses a smaller N-terminal lobe primarily comprised of beta-sheets that contains the glycine-rich loop (G-loop), which is responsible for ATP binding, and a larger C-terminal lobe rich in alpha-helices that forms the catalytic cleft. Within this cleft, key regulatory features such as the activation loop and the DFG motif are present and are crucial for the proper positioning of substrates and the coordination of magnesium ions. CDK15 contains a characteristic PFTAIRE motif located within its cyclin-interaction helix; this motif is a signature of atypical CDKs and distinguishes members of this subfamily from canonical CDKs such as CDK2 (alonso2021caracterizacióndecdk1418 pages 32-35, wood2018structuralinsightsinto pages 2-3). In addition to the central kinase domain of approximately 300 amino acids that houses the catalytic machinery, CDK15 possesses extended N- and C-terminal regions that are likely to be involved in regulatory interactions and subcellular localization. Although no high-resolution crystal structure exclusively for CDK15 is available in the literature, its domain organization is inferred from homology models and comparative structural analysis with closely related kinases. Key catalytic residues, such as those forming the catalytic loop and hydrophobic spine, are conserved, and the conformation of the activation segment is presumed to be subject to dynamic control by cyclin binding and phosphorylation events (alonso2021caracterizacióndecdk1418 pages 32-35, wood2018structuralinsightsinto pages 2-3).
+
+6. Regulation  
+Regulation of CDK15 appears to follow the general paradigm established for cyclin-dependent kinases. Its full activation is contingent upon binding to regulatory cyclins, with Cyclin Y being the most prominent candidate based on parallels with related kinases within the PFTAIRE subfamily. Cyclin binding induces conformational changes that facilitate the repositioning of the C-helix and activation loop into an active conformation, making the catalytic site competent for ATP binding and phosphoryl transfer. Moreover, CDK15 is subject to regulatory phosphorylation events; specific phosphorylation of residues within the activation loop is typically required to stabilize its active conformation, although the exact phospho-sites for CDK15 remain to be definitively characterized in the literature. Similar to other atypical CDKs such as CDK16, regulatory phosphorylation may also affect the interaction of CDK15 with 14-3-3 proteins, which in turn modulate its stability and subcellular distribution. Additionally, CDK15 has been implicated in antiapoptotic signaling pathways, whereby its phosphorylation of survivin on Thr-34 constitutes a regulatory mechanism to counteract TRAIL/TNFSF10-induced apoptosis (alonso2021caracterizacióndecdk1418 pages 29-32, chowdhury2023cmgckinasesin pages 21-22).
+
+7. Function  
+CDK15 functions as a serine/threonine-protein kinase with an antiapoptotic role. Its most well-documented function is the phosphorylation of the antiapoptotic protein BIRC5 (survivin) at threonine 34, which decreases the sensitivity of cells to apoptosis induced by TRAIL/TNFSF10. This antiapoptotic activity implicates CDK15 in the regulation of cellular survival pathways and may impact tumor cell resistance mechanisms. Although detailed tissue-specific expression patterns have not been exhaustively characterized, available data suggest that, like other atypical CDKs, CDK15 may exhibit preferential expression in differentiated tissues such as neurons and germ cells. The protein is positioned within a network of signaling cascades where it potentially interacts with cyclins—most notably Cyclin Y—and other regulatory proteins that modulate its catalytic activity. Its role in phosphorylating a key inhibitor of apoptosis reflects a function within cell survival and may contribute to oncogenic processes if dysregulated (chowdhury2023cmgckinasesin pages 21-22, pluta2024cyclin‐dependentkinasesmasters pages 41-42).
+
+8. Other Comments  
+Currently, specific inhibitors targeting CDK15 have not been well established in the literature, and its regulatory mechanisms as well as substrate spectrum remain less defined compared to more extensively characterized CDKs such as CDK4/6 or CDK5. Nevertheless, CDK15’s involvement in phosphorylation of survivin suggests it could represent a potential therapeutic target in contexts where the antiapoptotic function contributes to disease states such as cancer. There is evidence from related studies that phenotypes associated with dysregulation of atypical CDKs can influence cell survival, and hence, the development of selective small molecule inhibitors may eventually be of therapeutic interest. In terms of disease associations, while CDK15’s antiapoptotic role hints at a potential link to cancer progression and resistance to apoptotic signals, detailed studies on disease-related mutations or precise expression profiles in human tumors have yet to be reported in peer-reviewed sources (peyressatre2015targetingcyclindependentkinases pages 4-6, karimbayli2022dissectingtherole pages 16-19).
+
+9. References  
+1. alonso2021caracterizacióndecdk1418 pages 114-118  
+2. alonso2021caracterizacióndecdk1418 pages 29-32  
+3. alonso2021caracterizacióndecdk1418 pages 32-35  
+4. chowdhury2023cmgckinasesin pages 1-2  
+5. chowdhury2023cmgckinasesin pages 2-4  
+6. chowdhury2023cmgckinasesin pages 21-22  
+7. johnson2023anatlasof pages 4-4  
+8. wood2018structuralinsightsinto pages 2-3  
+9. knockaert2002pharmacologicalinhibitorsof pages 1-2  
+10. malumbres2005mammaliancyclindependentkinases pages 3-3  
+11. malumbres2005mammaliancyclindependentkinases pages 6-7  
+12. malumbres2014cyclindependentkinases pages 6-7  
+13. peyressatre2015targetingcyclindependentkinases pages 1-4  
+14. peyressatre2015targetingcyclindependentkinases pages 4-6  
+15. karimbayli2022dissectingtherole pages 16-19  
+16. colas2020cyclindependentkinasesand pages 1-2  
+17. colas2020cyclindependentkinasesand pages 2-3
+
+References
+
+1. (alonso2021caracterizacióndecdk1418 pages 114-118): D Martínez Alonso. Caracterización de cdk14-18 como dianas terapéuticas en carcinoma hepatocelular. Unknown journal, 2021.
+
+2. (johnson2023anatlasof pages 4-4): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 422 citations and is from a highest quality peer-reviewed journal.
+
+3. (wood2018structuralinsightsinto pages 2-3): Daniel J. Wood and Jane A. Endicott. Structural insights into the functional diversity of the cdk–cyclin family. Open Biology, Sep 2018. URL: https://doi.org/10.1098/rsob.180112, doi:10.1098/rsob.180112. This article has 266 citations and is from a peer-reviewed journal.
+
+4. (alonso2021caracterizacióndecdk1418 pages 29-32): D Martínez Alonso. Caracterización de cdk14-18 como dianas terapéuticas en carcinoma hepatocelular. Unknown journal, 2021.
+
+5. (chowdhury2023cmgckinasesin pages 1-2): Iftekhar Chowdhury, Giovanna Dashi, and Salla Keskitalo. Cmgc kinases in health and cancer. Cancers, 15:3838, Jul 2023. URL: https://doi.org/10.3390/cancers15153838, doi:10.3390/cancers15153838. This article has 18 citations and is from a peer-reviewed journal.
+
+6. (chowdhury2023cmgckinasesin pages 2-4): Iftekhar Chowdhury, Giovanna Dashi, and Salla Keskitalo. Cmgc kinases in health and cancer. Cancers, 15:3838, Jul 2023. URL: https://doi.org/10.3390/cancers15153838, doi:10.3390/cancers15153838. This article has 18 citations and is from a peer-reviewed journal.
+
+7. (chowdhury2023cmgckinasesin pages 21-22): Iftekhar Chowdhury, Giovanna Dashi, and Salla Keskitalo. Cmgc kinases in health and cancer. Cancers, 15:3838, Jul 2023. URL: https://doi.org/10.3390/cancers15153838, doi:10.3390/cancers15153838. This article has 18 citations and is from a peer-reviewed journal.
+
+8. (karimbayli2022dissectingtherole pages 16-19): J Karimbayli. Dissecting the role of cdk17 in epithelial ovarian cancer. Unknown journal, 2022.
+
+9. (knockaert2002pharmacologicalinhibitorsof pages 1-2): Marie Knockaert, Paul Greengard, and Laurent Meijer. Pharmacological inhibitors of cyclin-dependent kinases. Trends in Pharmacological Sciences, 23:417-425, Sep 2002. URL: https://doi.org/10.1016/s0165-6147(02)02071-0, doi:10.1016/s0165-6147(02)02071-0. This article has 741 citations and is from a highest quality peer-reviewed journal.
+
+10. (malumbres2005mammaliancyclindependentkinases pages 3-3): Marcos Malumbres and Mariano Barbacid. Mammalian cyclin-dependent kinases. Trends in Biochemical Sciences, 30:630-641, Nov 2005. URL: https://doi.org/10.1016/j.tibs.2005.09.005, doi:10.1016/j.tibs.2005.09.005. This article has 1760 citations and is from a domain leading peer-reviewed journal.
+
+11. (malumbres2005mammaliancyclindependentkinases pages 6-7): Marcos Malumbres and Mariano Barbacid. Mammalian cyclin-dependent kinases. Trends in Biochemical Sciences, 30:630-641, Nov 2005. URL: https://doi.org/10.1016/j.tibs.2005.09.005, doi:10.1016/j.tibs.2005.09.005. This article has 1760 citations and is from a domain leading peer-reviewed journal.
+
+12. (malumbres2014cyclindependentkinases pages 6-7): Marcos Malumbres. Cyclin-dependent kinases. Genome Biology, 15:122-122, Jun 2014. URL: https://doi.org/10.1186/gb4184, doi:10.1186/gb4184. This article has 1882 citations and is from a highest quality peer-reviewed journal.
+
+13. (peyressatre2015targetingcyclindependentkinases pages 1-4): Marion Peyressatre, Camille Prével, Morgan Pellerano, and May Morris. Targeting cyclin-dependent kinases in human cancers: from small molecules to peptide inhibitors. Cancers, 7:179-237, Jan 2015. URL: https://doi.org/10.3390/cancers7010179, doi:10.3390/cancers7010179. This article has 402 citations and is from a peer-reviewed journal.
+
+14. (peyressatre2015targetingcyclindependentkinases pages 4-6): Marion Peyressatre, Camille Prével, Morgan Pellerano, and May Morris. Targeting cyclin-dependent kinases in human cancers: from small molecules to peptide inhibitors. Cancers, 7:179-237, Jan 2015. URL: https://doi.org/10.3390/cancers7010179, doi:10.3390/cancers7010179. This article has 402 citations and is from a peer-reviewed journal.
+
+15. (alonso2021caracterizacióndecdk1418 pages 32-35): D Martínez Alonso. Caracterización de cdk14-18 como dianas terapéuticas en carcinoma hepatocelular. Unknown journal, 2021.
+
+16. (colas2020cyclindependentkinasesand pages 1-2): Pierre Colas. Cyclin-dependent kinases and rare developmental disorders. Orphanet Journal of Rare Diseases, Aug 2020. URL: https://doi.org/10.1186/s13023-020-01472-y, doi:10.1186/s13023-020-01472-y. This article has 33 citations and is from a peer-reviewed journal.
+
+17. (colas2020cyclindependentkinasesand pages 2-3): Pierre Colas. Cyclin-dependent kinases and rare developmental disorders. Orphanet Journal of Rare Diseases, Aug 2020. URL: https://doi.org/10.1186/s13023-020-01472-y, doi:10.1186/s13023-020-01472-y. This article has 33 citations and is from a peer-reviewed journal.
+
+18. (pluta2024cyclin‐dependentkinasesmasters pages 41-42): Aleksandra J. Pluta, Cécilia Studniarek, Shona Murphy, and Chris J. Norbury. Cyclin‐dependent kinases: masters of the eukaryotic universe. WIREs RNA, Sep 2024. URL: https://doi.org/10.1002/wrna.1816, doi:10.1002/wrna.1816. This article has 20 citations.

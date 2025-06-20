@@ -1,0 +1,93 @@
+1. Phylogeny  
+Phosphatidylinositol 5‐phosphate 4‐kinase type-2 gamma (PIP4K2C), also known as PIP5K2C or PI5P4Kγ, is a member of the Type II phosphatidylinositol 5‐phosphate 4‐kinase family, which also includes the isoforms PIP4K2A and PIP4K2B. Orthologs of PIP4K2C have been identified across metazoans, and phylogenomic analyses indicate that the PIP4K family diversified via gene duplication events early in vertebrate evolution, resulting in isoform specialization among family members (brown2011phylogenomicsofphosphoinositide pages 4-6, arora2022expandingroleof pages 2-4). In the broader kinome, PIP4K2C forms part of a distinct subset of lipid kinases that diverge significantly from the Type I PIP5Ks based on substrate specificity and structural organization, thus positioning it as a conserved regulator of intracellular phosphoinositide metabolism (brown2011phylogenomicsofphosphoinositide pages 4-6).
+
+2. Reaction Catalyzed  
+PIP4K2C catalyzes the phosphorylation of phosphatidylinositol 5‐phosphate (PI5P) by transferring a phosphate group from ATP (or, as noted, potentially from GTP) to the 4‐hydroxyl position on the inositol ring, thereby generating phosphatidylinositol 4,5‐bisphosphate [PI(4,5)P2] along with the production of ADP and H⁺ (burke2023beyondpi3kstargeting pages 1-2, gupta2013phosphatidylinositol5phosphate4kinase pages 5-6).
+
+3. Cofactor Requirements  
+The kinase activity of PIP4K2C is dependent on ATP as the phosphate donor and requires divalent cations, most notably Mg²⁺, to facilitate efficient phosphate transfer. Additionally, available evidence suggests that in certain assay conditions the enzyme exhibits higher GTP-dependent kinase activity compared to its ATP-dependent activity; however, the canonical cofactor requirement remains the presence of Mg²⁺ along with nucleotide substrate (burke2023beyondpi3kstargeting pages 7-8, muftuoglu2016mechanismofsubstrate pages 1-2).
+
+4. Substrate Specificity  
+PIP4K2C is specifically directed toward phosphatidylinositol 5‐phosphate (PI5P), phosphorylating the D4 position of the inositol ring to produce PI(4,5)P2. Although the enzyme’s intrinsic catalytic activity is low relative to other family members, its substrate specificity is well defined, and the enzyme demonstrates a higher activity when utilizing GTP over ATP in some cases, supporting its proposed role as a GTP sensor. This substrate specificity distinguishes PIP4K2C from Type I kinases, which preferentially phosphorylate phosphatidylinositol 4‐phosphate (PI4P) (burke2023beyondpi3kstargeting pages 1-2, arora2022expandingroleof pages 12-14).
+
+5. Structure  
+PIP4K2C features a central, conserved kinase domain that adopts a protein kinase fold, as evidenced by crystallographic studies with its structure available under PDB accession code 2GK9. This kinase domain is responsible for ATP binding and catalytic activity and contains an activation loop that, together with elements of the nucleotide-binding G-loop, accounts for its low intrinsic activity compared to its α and β isoforms (wang2020pip4khasa pages 15-21, burke2023beyondpi3kstargeting pages 27-28). In addition to the catalytic domain, PIP4K2C possesses a distinct dimerization domain that facilitates both homo- and heterodimer formation with other PIP4K family members, which plays a role in modulating its subcellular localization and functional output. The overall 3D structural organization reveals a flat and positively charged surface that is essential for membrane association, a feature common to lipid kinases that operate at interfacial sites (burke2023beyondpi3kstargeting pages 7-8, arora2022expandingroleof pages 2-4, muftuoglu2016mechanismofsubstrate pages 3-4).
+
+6. Regulation  
+Regulation of PIP4K2C occurs through several mechanisms. Post-translationally, phosphorylation plays a prominent role; for instance, mTORC1-mediated phosphorylation has been reported at serine residues such as Ser324 and Ser328, which serve to integrate nutrient status with kinase activity (burke2023beyondpi3kstargeting pages 7-8). In addition to phosphorylation, PIP4K2C is subject to allosteric regulation through its interaction with PIP5K enzymes. This interaction mediates a catalytic-independent inhibitory effect on PIP5K-driven synthesis of PtdIns(4,5)P2, thereby influencing downstream insulin signaling events (wang2019pip4kssuppressinsulin pages 10-14, arora2022expandingroleof pages 15-17). Furthermore, the protein’s dimerization is functionally relevant, as heterodimer formation with more catalytically active isoforms can modulate not only its enzymatic output but also its spatial distribution within the cell (burke2023beyondpi3kstargeting pages 13-14).
+
+7. Function  
+PIP4K2C functions primarily in the regulation of intracellular phosphoinositide pools by catalyzing the conversion of PI5P to PI(4,5)P2. Despite its low intrinsic catalytic activity, PIP4K2C exerts a significant regulatory influence through a catalytic-independent mechanism whereby it interacts with and inhibits PIP5K-mediated production of PtdIns(4,5)P2. This suppression of PtdIns(4,5)P2 synthesis consequently modulates insulin signaling by limiting the availability of substrate for PI3K-mediated conversion to PI(3,4,5)P3. In addition, PIP4K2C’s higher GTP-dependent kinase activity compared to ATP-dependent activity positions it as a potential cellular GTP sensor, thereby linking nucleotide status to lipid second messenger regulation (burke2023beyondpi3kstargeting pages 1-2, wang2019pip4kssuppressinsulin pages 10-14). Beyond its role in insulin signaling, PIP4K2C has been implicated in the regulation of autophagy, immune system responses, and possibly in neural function, with genetic deletion studies demonstrating immune hyperactivation in its absence (shim2016deletionofthe pages 1-1, rameh202325yearsof pages 8-9). Expression of PIP4K2C appears to be tissue specific, with enrichment in certain cell types that require tight regulation of phosphoinositide signaling for metabolic and stress-related functions (burke2023beyondpi3kstargeting pages 7-8, arora2022expandingroleof pages 1-2).
+
+8. Other Comments  
+Selective small-molecule inhibitors have been developed that target the PI5P4K family, including PIP4K2C. For example, the allosteric inhibitor UNC3230 exhibits binding affinities in the low nanomolar range (Kd ≈ 4 nM), and compounds such as NIH-12848 and its derivative compound 40 have been characterized based on their selective inhibition of PI5P4Kγ via non-ATP-competitive mechanisms (burke2023beyondpi3kstargeting pages 10-13, bura2023aplethoraof pages 5-7, manz2020discoveryandstructure–activity pages 13-14). PIP4K2C is associated with several disease processes; its role in negatively regulating insulin signaling through suppression of PIP5K-mediated lipid synthesis links it to metabolic homeostasis, while its broader involvement in autophagy and immune regulation has highlighted potential relevance in cancer and neurodegenerative disorders. Although specific disease-associated mutations have not been detailed in the available literature, genetic deletion studies have consistently demonstrated significant immune system alterations upon loss of PIP4K2C (shim2016deletionofthe pages 1-1). As such, PIP4K2C remains a promising candidate for therapeutic targeting in settings where dysregulated phosphoinositide metabolism contributes to pathology.
+
+9. References  
+1. burke2023beyondpi3kstargeting pages 14-15  
+2. burke2023beyondpi3kstargeting pages 27-28  
+3. burke2023beyondpi3kstargeting pages 7-8  
+4. arora2022expandingroleof pages 12-14  
+5. arora2022expandingroleof pages 15-17  
+6. arora2022expandingroleof pages 2-4  
+7. burke2023beyondpi3kstargeting pages 1-2  
+8. burke2023beyondpi3kstargeting pages 13-14  
+9. shim2016deletionofthe pages 1-1  
+10. gupta2013phosphatidylinositol5phosphate4kinase pages 5-6  
+11. muftuoglu2016mechanismofsubstrate pages 1-2  
+12. muftuoglu2016mechanismofsubstrate pages 3-4  
+13. rameh202325yearsof pages 1-2  
+14. rameh202325yearsof pages 2-3  
+15. rameh202325yearsof pages 8-8  
+16. rameh202325yearsof pages 8-9  
+17. wang2019pip4kssuppressinsulin pages 10-14  
+18. brown2011phylogenomicsofphosphoinositide pages 4-6  
+19. bura2023aplethoraof pages 5-7  
+20. manz2020discoveryandstructure–activity pages 13-14
+
+References
+
+1. (burke2023beyondpi3kstargeting pages 14-15): John E. Burke, Joanna Triscott, Brooke M. Emerling, and Gerald R. V. Hammond. Beyond pi3ks: targeting phosphoinositide kinases in disease. Nature Reviews Drug Discovery, 22:357-386, Nov 2023. URL: https://doi.org/10.1038/s41573-022-00582-5, doi:10.1038/s41573-022-00582-5. This article has 89 citations and is from a highest quality peer-reviewed journal.
+
+2. (burke2023beyondpi3kstargeting pages 27-28): John E. Burke, Joanna Triscott, Brooke M. Emerling, and Gerald R. V. Hammond. Beyond pi3ks: targeting phosphoinositide kinases in disease. Nature Reviews Drug Discovery, 22:357-386, Nov 2023. URL: https://doi.org/10.1038/s41573-022-00582-5, doi:10.1038/s41573-022-00582-5. This article has 89 citations and is from a highest quality peer-reviewed journal.
+
+3. (burke2023beyondpi3kstargeting pages 7-8): John E. Burke, Joanna Triscott, Brooke M. Emerling, and Gerald R. V. Hammond. Beyond pi3ks: targeting phosphoinositide kinases in disease. Nature Reviews Drug Discovery, 22:357-386, Nov 2023. URL: https://doi.org/10.1038/s41573-022-00582-5, doi:10.1038/s41573-022-00582-5. This article has 89 citations and is from a highest quality peer-reviewed journal.
+
+4. (arora2022expandingroleof pages 12-14): Gurpreet K. Arora, Lavinia Palamiuc, and Brooke M. Emerling. Expanding role of pi5p4ks in cancer: a promising druggable target. FEBS Letters, 596:3-16, Dec 2022. URL: https://doi.org/10.1002/1873-3468.14237, doi:10.1002/1873-3468.14237. This article has 34 citations and is from a peer-reviewed journal.
+
+5. (arora2022expandingroleof pages 15-17): Gurpreet K. Arora, Lavinia Palamiuc, and Brooke M. Emerling. Expanding role of pi5p4ks in cancer: a promising druggable target. FEBS Letters, 596:3-16, Dec 2022. URL: https://doi.org/10.1002/1873-3468.14237, doi:10.1002/1873-3468.14237. This article has 34 citations and is from a peer-reviewed journal.
+
+6. (arora2022expandingroleof pages 2-4): Gurpreet K. Arora, Lavinia Palamiuc, and Brooke M. Emerling. Expanding role of pi5p4ks in cancer: a promising druggable target. FEBS Letters, 596:3-16, Dec 2022. URL: https://doi.org/10.1002/1873-3468.14237, doi:10.1002/1873-3468.14237. This article has 34 citations and is from a peer-reviewed journal.
+
+7. (burke2023beyondpi3kstargeting pages 1-2): John E. Burke, Joanna Triscott, Brooke M. Emerling, and Gerald R. V. Hammond. Beyond pi3ks: targeting phosphoinositide kinases in disease. Nature Reviews Drug Discovery, 22:357-386, Nov 2023. URL: https://doi.org/10.1038/s41573-022-00582-5, doi:10.1038/s41573-022-00582-5. This article has 89 citations and is from a highest quality peer-reviewed journal.
+
+8. (burke2023beyondpi3kstargeting pages 10-13): John E. Burke, Joanna Triscott, Brooke M. Emerling, and Gerald R. V. Hammond. Beyond pi3ks: targeting phosphoinositide kinases in disease. Nature Reviews Drug Discovery, 22:357-386, Nov 2023. URL: https://doi.org/10.1038/s41573-022-00582-5, doi:10.1038/s41573-022-00582-5. This article has 89 citations and is from a highest quality peer-reviewed journal.
+
+9. (burke2023beyondpi3kstargeting pages 13-14): John E. Burke, Joanna Triscott, Brooke M. Emerling, and Gerald R. V. Hammond. Beyond pi3ks: targeting phosphoinositide kinases in disease. Nature Reviews Drug Discovery, 22:357-386, Nov 2023. URL: https://doi.org/10.1038/s41573-022-00582-5, doi:10.1038/s41573-022-00582-5. This article has 89 citations and is from a highest quality peer-reviewed journal.
+
+10. (gupta2013phosphatidylinositol5phosphate4kinase pages 5-6): Amit Gupta, Sarah Toscano, Deepti Trivedi, David R. Jones, Swarna Mathre, Jonathan H. Clarke, Nullin Divecha, and Padinjat Raghu. Phosphatidylinositol 5-phosphate 4-kinase (pip4k) regulates tor signaling and cell growth during <i>drosophila</i> development. Proceedings of the National Academy of Sciences, 110:5963-5968, Mar 2013. URL: https://doi.org/10.1073/pnas.1219333110, doi:10.1073/pnas.1219333110. This article has 84 citations.
+
+11. (muftuoglu2016mechanismofsubstrate pages 1-2): Yagmur Muftuoglu, Yi Xue, Xiang Gao, Dianqing Wu, and Ya Ha. Mechanism of substrate specificity of phosphatidylinositol phosphate kinases. Proceedings of the National Academy of Sciences, 113:8711-8716, Jul 2016. URL: https://doi.org/10.1073/pnas.1522112113, doi:10.1073/pnas.1522112113. This article has 39 citations.
+
+12. (muftuoglu2016mechanismofsubstrate pages 3-4): Yagmur Muftuoglu, Yi Xue, Xiang Gao, Dianqing Wu, and Ya Ha. Mechanism of substrate specificity of phosphatidylinositol phosphate kinases. Proceedings of the National Academy of Sciences, 113:8711-8716, Jul 2016. URL: https://doi.org/10.1073/pnas.1522112113, doi:10.1073/pnas.1522112113. This article has 39 citations.
+
+13. (rameh202325yearsof pages 1-2): Lucia E. Rameh and Raymond D. Blind. 25 years of pi5p. Frontiers in Cell and Developmental Biology, Oct 2023. URL: https://doi.org/10.3389/fcell.2023.1272911, doi:10.3389/fcell.2023.1272911. This article has 9 citations and is from a peer-reviewed journal.
+
+14. (rameh202325yearsof pages 2-3): Lucia E. Rameh and Raymond D. Blind. 25 years of pi5p. Frontiers in Cell and Developmental Biology, Oct 2023. URL: https://doi.org/10.3389/fcell.2023.1272911, doi:10.3389/fcell.2023.1272911. This article has 9 citations and is from a peer-reviewed journal.
+
+15. (rameh202325yearsof pages 8-8): Lucia E. Rameh and Raymond D. Blind. 25 years of pi5p. Frontiers in Cell and Developmental Biology, Oct 2023. URL: https://doi.org/10.3389/fcell.2023.1272911, doi:10.3389/fcell.2023.1272911. This article has 9 citations and is from a peer-reviewed journal.
+
+16. (rameh202325yearsof pages 8-9): Lucia E. Rameh and Raymond D. Blind. 25 years of pi5p. Frontiers in Cell and Developmental Biology, Oct 2023. URL: https://doi.org/10.3389/fcell.2023.1272911, doi:10.3389/fcell.2023.1272911. This article has 9 citations and is from a peer-reviewed journal.
+
+17. (shim2016deletionofthe pages 1-1): Hyeseok Shim, Chuan Wu, Shivan Ramsamooj, Kaitlyn N. Bosch, Zuojia Chen, Brooke M. Emerling, Jihye Yun, Hui Liu, Rayman Choo-Wing, Zhiwei Yang, Gerburg M. Wulf, Vijay Kumar Kuchroo, and Lewis C. Cantley. Deletion of the gene <i>pip4k2c</i> , a novel phosphatidylinositol kinase, results in hyperactivation of the immune system. Proceedings of the National Academy of Sciences, 113:7596-7601, Jun 2016. URL: https://doi.org/10.1073/pnas.1600934113, doi:10.1073/pnas.1600934113. This article has 63 citations.
+
+18. (wang2019pip4kssuppressinsulin pages 10-14): Diana G. Wang, Marcia N. Paddock, Mark R. Lundquist, Janet Y. Sun, Oksana Mashadova, Solomon Amadiume, Timothy W. Bumpus, Cindy Hodakoski, Benjamin D. Hopkins, Matthew Fine, Amanda Hill, T. Jonathan Yang, Jeremy M. Baskin, Lukas E. Dow, and Lewis C. Cantley. Pip4ks suppress insulin signaling through a catalytic-independent mechanism. Cell reports, 27:1991-2001.e5, Jul 2019. URL: https://doi.org/10.1101/370544, doi:10.1101/370544. This article has 54 citations and is from a highest quality peer-reviewed journal.
+
+19. (wang2020pip4khasa pages 15-21): D Wang. Pip4k has a catalytic-independent role in modulating pip5k and the pi3k pathway. Unknown journal, 2020.
+
+20. (arora2022expandingroleof pages 1-2): Gurpreet K. Arora, Lavinia Palamiuc, and Brooke M. Emerling. Expanding role of pi5p4ks in cancer: a promising druggable target. FEBS Letters, 596:3-16, Dec 2022. URL: https://doi.org/10.1002/1873-3468.14237, doi:10.1002/1873-3468.14237. This article has 34 citations and is from a peer-reviewed journal.
+
+21. (brown2011phylogenomicsofphosphoinositide pages 4-6): James R Brown and Kurt R Auger. Phylogenomics of phosphoinositide lipid kinases: perspectives on the evolution of second messenger signaling and drug discovery. BMC Evolutionary Biology, 11:4-4, Jan 2011. URL: https://doi.org/10.1186/1471-2148-11-4, doi:10.1186/1471-2148-11-4. This article has 129 citations.
+
+22. (bura2023aplethoraof pages 5-7): Anica Bura, Sara Čabrijan, Iris Đurić, Tea Bruketa, and Antonija Jurak Begonja. A plethora of functions condensed into tiny phospholipids: the story of pi4p and pi(4,5)p2. Cells, 12:1411, May 2023. URL: https://doi.org/10.3390/cells12101411, doi:10.3390/cells12101411. This article has 9 citations and is from a peer-reviewed journal.
+
+23. (manz2020discoveryandstructure–activity pages 13-14): Theresa D. Manz, Sindhu Carmen Sivakumaren, Fleur M. Ferguson, Tinghu Zhang, Adam Yasgar, Hyuk-Soo Seo, Scott B. Ficarro, Joseph D. Card, Hyeseok Shim, Chandrasekhar V. Miduturu, Anton Simeonov, Min Shen, Jarrod A. Marto, Sirano Dhe-Paganon, Matthew D. Hall, Lewis C. Cantley, and Nathanael S. Gray. Discovery and structure–activity relationship study of (<i>z</i>)-5-methylenethiazolidin-4-one derivatives as potent and selective pan-phosphatidylinositol 5-phosphate 4-kinase inhibitors. Journal of Medicinal Chemistry, 63:4880-4895, Apr 2020. URL: https://doi.org/10.1021/acs.jmedchem.0c00227, doi:10.1021/acs.jmedchem.0c00227. This article has 20 citations and is from a highest quality peer-reviewed journal.

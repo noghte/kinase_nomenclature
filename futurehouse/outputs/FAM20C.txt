@@ -1,0 +1,186 @@
+1. Phylogeny  
+Extracellular serine/threonine protein kinase FAM20C belongs to the FAM20 family of secretory kinases, which also includes Fam20A and Fam20B. FAM20C orthologs have been identified across a range of species, including Caenorhabditis elegans (ceFam20), Danio rerio (drFam20C), and Hydra magnipapillata, reflecting a high degree of evolutionary conservation in the kinase domain and overall fold (zhang2018structureandevolution pages 1-2, cui2017structureoffam20a pages 1-2). Phylogenetic analyses indicate that the Fam20 kinases form a distinct clade within the human kinome that diverges from canonical protein kinases and is primarily associated with the secretory pathway. This family is evolutionarily related to ancient kinases, having undergone diversification that culminated in functionally distinct members: Fam20B, a glycosylation-related xylosylkinase, and Fam20C, which functions as a bona fide protein kinase (filatova2015theroleof pages 17-20, zhang2018structureandevolution pages 2-3). The evolutionary studies based on sequence alignments and structural modelling further suggest that the emergence of Fam20C coincided with the advent of vertebrate-specific biomineralization processes, consistent with its key role in bone and tooth formation (palmalara2023potentialroleof pages 1-2).
+
+2. Reaction Catalyzed  
+FAM20C catalyzes the phosphorylation of serine/threonine residues in secreted substrates. The chemical reaction can be described as follows:  
+ATP + [protein]–(L-serine or L-threonine) → ADP + [protein]–(L-serine/threonine)-phosphate + H⁺.  
+This reaction occurs predominantly on secretory proteins, thereby generating the majority of the extracellular phosphoproteome (xu2021fam20cinhuman pages 1-2, da2019invitrophosphorylation pages 1-2).
+
+3. Cofactor Requirements  
+The kinase activity of FAM20C depends on divalent cations for optimal ATP binding and catalysis. Although many kinases utilize magnesium ions (Mg²⁺), FAM20C exhibits a preference for manganese ions (Mn²⁺), which enhance its catalytic efficiency in the Golgi environment (zhang2018secretorykinasefam20c pages 1-2, xiao2013crystalstructureof pages 1-1).
+
+4. Substrate Specificity  
+FAM20C phosphorylates secretory pathway proteins with a high degree of substrate specificity. Its primary consensus phosphorylation motif is Ser-x-Glu/pSer, where ‘x’ represents any amino acid. In addition to this canonical motif, FAM20C demonstrates a broader substrate specificity and is capable of phosphorylating residues within similar variants such as Ser-x-Sp motifs, as observed in secreted salivary proteins (messana2023theposttranslationalmodifications pages 12-13, cui2015asecretorykinase pages 1-2). The specificity for these motifs underlies the enzyme’s role in modulating phosphorylation patterns on proteins involved in biomineralization, extracellular matrix remodeling, and additional extracellular processes (palmalara2023potentialroleof pages 9-10).
+
+5. Structure  
+FAM20C is synthesized with an N-terminal signal peptide that directs the polypeptide into the secretory pathway, where the mature enzyme is predominantly localized to the Golgi apparatus. The mature protein contains a central kinase domain that adopts a two-lobed structure characteristic of the protein kinase-like (PKL) fold. Within this domain, key structural features include a glycine-rich loop that covers the ATP-binding pocket, a catalytic loop with a conserved aspartate residue, and an αC helix that contributes to the proper positioning of residues involved in catalysis (filatova2015theroleof pages 20-24, xiao2013crystalstructureof pages 1-3).  
+Crystal structures of Fam20 family orthologs, such as ceFam20 from Caenorhabditis elegans, reveal that the catalytic core is flanked by an N-terminal segment and an insertion domain. The N-terminal segment wraps around the lower half of the molecule and forms the base of the C-lobe, whereas the insertion domain forms a cap-like structure over the N-lobe. Unique features of FAM20C’s structural organization include the absence of a canonical activation loop, which contributes to its constitutive catalytic activity, and specific residue substitutions (e.g., within the glycine-rich loop) that determine the enzyme’s binding orientation for ATP and substrate peptides (xiao2013crystalstructureof pages 4-5, xiao2013crystalstructureof pages 5-6).  
+AlphaFold-predicted models further reinforce these observations by illustrating that FAM20C retains the overall kinase fold with a well-defined ATP-binding site and conserved catalytic residues, while also accommodating secretory pathway-specific modifications such as potential glycosylation and disulfide bonds that are essential for its stability and function in the Golgi (xu2021fam20cinhuman pages 1-2, cui2017structureoffam20a pages 2-5).
+
+6. Regulation  
+The regulation of FAM20C activity is mediated by several mechanisms that ensure precise control over extracellular protein phosphorylation. A key regulatory mechanism involves the formation of homo- or heterodimeric complexes. Fam20A, a closely related pseudokinase that lacks key catalytic residues, acts as an allosteric activator of FAM20C by forming a complex that enhances its kinase activity (cui2015asecretorykinase pages 11-13, cui2017structureoffam20a pages 15-16). This dimerization not only potentiates enzymatic activity but also contributes to the stabilization of FAM20C, including mutant forms that are associated with disease phenotypes.  
+In addition to its regulation by Fam20A, FAM20C exhibits autophosphorylation events that may play a role in modulating its activity within the Golgi, as suggested by studies on its kinase parameters (ishikawa2012therainesyndrome pages 1-2). Under conditions of endoplasmic reticulum stress, FAM20C also phosphorylates specific ER-resident proteins such as P4HB/PDIA1; this post-translational modification induces a functional switch in P4HB from an oxidoreductase to a molecular chaperone and contributes to the overall maintenance of ER proteostasis (liu2023fam20cregulatesthe pages 19-20, cui2015asecretorykinase pages 1-2).  
+The regulatory network further extends to the modulation of redox homeostasis via the phosphorylation of ERO1A, which enhances its oxidase activity and is required for oxidative protein folding. This phosphorylation event is crucial for maintaining the ER redox state under various stress conditions (fulcher2020functionsandregulation pages 14-15, xu2021fam20cinhuman pages 1-2).
+
+7. Function  
+FAM20C plays a central role in the phosphorylation of secretory proteins, thereby contributing to a wide array of physiological processes. Its most well‐characterized role is in biomineralization, where it phosphorylates proteins such as casein, amelogenin (AMELX), ameloblastin (AMTN), enamelin (ENAM), and osteopontin (SPP1/OPN) to regulate the formation and mineralization of bone and dental tissues (filatova2015theroleof pages 20-24, xiao2013crystalstructureof pages 5-6).  
+In addition to its functions in bone and tooth formation, FAM20C is critical in maintaining endoplasmic reticulum homeostasis. By phosphorylating ERO1A, FAM20C enhances oxidative protein folding, which is essential for proper ER function. Under stress conditions, phosphorylation of P4HB/PDIA1 alters its functional role, thereby reducing ER stress and preventing cell death (liu2023fam20cregulatesthe pages 19-20, xu2021fam20cinhuman pages 1-2).  
+FAM20C is also involved in lipid homeostasis, wound healing, and the regulation of cell migration and adhesion through phosphorylation of a broad spectrum of extracellular proteins; this activity establishes FAM20C as the principal kinase responsible for generating the secreted phosphoproteome (palmalara2023potentialroleof pages 1-2, brutsch2022thesecretedkinase pages 37-41). A consequence of its central role is that mutations or loss-of-function events in FAM20C are linked to severe developmental disorders, most notably Raine syndrome, which is characterized by osteosclerotic dysplasia, hypophosphatemia, and defects in bone mineralization (ishikawa2012therainesyndrome pages 1-2, palmalara2023potentialroleof pages 10-13).
+
+8. Other Comments  
+FAM20C is known by several alternative names including Dentin Matrix Protein 4 (DMP4), Golgi casein kinase, and Golgi-enriched fraction casein kinase. Although inhibitors specifically targeting FAM20C are not extensively characterized, experimental data indicate that the enzyme is insensitive to broad-spectrum kinase inhibitors such as staurosporine, suggesting a unique inhibitor profile (zhang2018secretorykinasefam20c pages 1-2).  
+Clinically, mutations in FAM20C are associated with Raine syndrome, a rare skeletal dysplasia that can present in both lethal and non-lethal forms. These mutations typically disrupt key residues within the kinase domain, leading to impaired substrate phosphorylation and subsequent defects in biomineralization processes. In addition, FAM20C dysfunction has been implicated in dental anomalies due to its role in enamel formation (filatova2015theroleof pages 17-20, palmalara2023potentialroleof pages 13-14).  
+The enzyme’s broad substrate repertoire also extends into pathways involved in cell adhesion and migration, highlighting its potential as a therapeutic target in diseases related to extracellular matrix dysregulation (du2023regulationofsecretory pages 4-5). Further research into the development of specific inhibitors may provide new avenues for modulating FAM20C activity in pathological contexts.
+
+9. References  
+1. filatova2015theroleof pages 17-20  
+2. palmalara2023potentialroleof pages 1-2  
+3. thomas2019otolithbiochemistry—areview pages 13-15  
+4. walker2024theintricaciesof pages 15-16  
+5. xiao2013crystalstructureof pages 1-1  
+6. xiao2013crystalstructureof pages 1-3  
+7. xiao2013crystalstructureof pages 4-5  
+8. xiao2013crystalstructureof pages 5-6  
+9. xu2021fam20cinhuman pages 1-2  
+10. zhang2018structureandevolution pages 1-2  
+11. zhang2018structureandevolution pages 2-3  
+12. zhang2018structureandevolution pages 3-4  
+13. zhang2018structureandevolution pages 7-8  
+14. zhang2018structureandevolution pages 8-9  
+15. brutsch2022thesecretedkinase pages 37-41  
+16. cozza2016caseinkinasesas pages 13-14  
+17. cui2015asecretorykinase pages 1-2  
+18. cui2015asecretorykinase pages 11-13  
+19. cui2015asecretorykinase pages 18-18  
+20. cui2017structureoffam20a pages 1-2  
+21. cui2017structureoffam20a pages 15-16  
+22. cui2017structureoffam20a pages 2-5  
+23. cui2017structureoffam20a pages 6-8  
+24. da2019invitrophosphorylation pages 10-11  
+25. da2019invitrophosphorylation pages 6-7  
+26. du2023regulationofsecretory pages 4-5  
+27. ishikawa2012therainesyndrome pages 1-2  
+28. liu2023fam20cregulatesthe pages 1-2  
+29. liu2023fam20cregulatesthe pages 19-20  
+30. liu2023fam20cregulatesthe pages 20-21  
+31. messana2023theposttranslationalmodifications pages 12-13  
+32. palmalara2023potentialroleof pages 10-13  
+33. palmalara2023potentialroleof pages 13-14  
+34. palmalara2023potentialroleof pages 24-26  
+35. palmalara2023potentialroleof pages 26-27  
+36. palmalara2023potentialroleof pages 9-10  
+37. walker2024theintricaciesof pages 37-38  
+38. walker2024theintricaciesof pages 38-39  
+39. yalak2015proteomicdatabasemining pages 7-9  
+40. zhang2018secretorykinasefam20c pages 1-2  
+41. zhang2018structureandevolution pages 10-11  
+42. zhang2018structureandevolution pages 6-7  
+43. zhang2018structureandevolution pages 9-10  
+44. bordoli2014asecretedtyrosine pages 14-15  
+45. cui2017structureoffam20a pages 13-14  
+46. da2019invitrophosphorylation pages 1-2  
+47. da2019invitrophosphorylation pages 11-12  
+48. dudkiewicz2013anovelpredicted pages 8-8  
+49. fulcher2020functionsandregulation pages 14-15
+
+References
+
+1. (filatova2015theroleof pages 20-24): A Filatova. The role of fam20a in the generation of amelogenesis imperfecta. Unknown journal, 2015. URL: https://doi.org/10.5167/uzh-121801, doi:10.5167/uzh-121801. This article has 1 citations.
+
+2. (palmalara2023potentialroleof pages 1-2): Icela Palma-Lara, Patricia García Alonso-Themann, Javier Pérez-Durán, Ricardo Godínez-Aguilar, José Bonilla-Delgado, Damián Gómez-Archila, Ana María Espinosa-García, Manuel Nolasco-Quiroga, Georgina Victoria-Acosta, Adolfo López-Ornelas, Juan Carlos Serrano-Bello, María Guadalupe Olguín-García, and Carmen Palacios-Reyes. Potential role of protein kinase fam20c on the brain in raine syndrome, an in silico analysis. International Journal of Molecular Sciences, 24:8904, May 2023. URL: https://doi.org/10.3390/ijms24108904, doi:10.3390/ijms24108904. This article has 2 citations and is from a peer-reviewed journal.
+
+3. (thomas2019otolithbiochemistry—areview pages 13-15): Oliver R. B. Thomas and Stephen E. Swearer. Otolith biochemistry—a review. Reviews in Fisheries Science &amp; Aquaculture, 27:458-489, Jul 2019. URL: https://doi.org/10.1080/23308249.2019.1627285, doi:10.1080/23308249.2019.1627285. This article has 127 citations.
+
+4. (walker2024theintricaciesof pages 15-16): Valerie Walker. The intricacies of renal phosphate reabsorption—an overview. International Journal of Molecular Sciences, 25:4684, Apr 2024. URL: https://doi.org/10.3390/ijms25094684, doi:10.3390/ijms25094684. This article has 6 citations and is from a peer-reviewed journal.
+
+5. (xiao2013crystalstructureof pages 1-1): Junyu Xiao, Vincent S. Tagliabracci, Jianzhong Wen, Soo-A Kim, and Jack E. Dixon. Crystal structure of the golgi casein kinase. Proceedings of the National Academy of Sciences, 110:10574-10579, Jun 2013. URL: https://doi.org/10.1073/pnas.1309211110, doi:10.1073/pnas.1309211110. This article has 78 citations.
+
+6. (xiao2013crystalstructureof pages 1-3): Junyu Xiao, Vincent S. Tagliabracci, Jianzhong Wen, Soo-A Kim, and Jack E. Dixon. Crystal structure of the golgi casein kinase. Proceedings of the National Academy of Sciences, 110:10574-10579, Jun 2013. URL: https://doi.org/10.1073/pnas.1309211110, doi:10.1073/pnas.1309211110. This article has 78 citations.
+
+7. (xiao2013crystalstructureof pages 4-5): Junyu Xiao, Vincent S. Tagliabracci, Jianzhong Wen, Soo-A Kim, and Jack E. Dixon. Crystal structure of the golgi casein kinase. Proceedings of the National Academy of Sciences, 110:10574-10579, Jun 2013. URL: https://doi.org/10.1073/pnas.1309211110, doi:10.1073/pnas.1309211110. This article has 78 citations.
+
+8. (xiao2013crystalstructureof pages 5-6): Junyu Xiao, Vincent S. Tagliabracci, Jianzhong Wen, Soo-A Kim, and Jack E. Dixon. Crystal structure of the golgi casein kinase. Proceedings of the National Academy of Sciences, 110:10574-10579, Jun 2013. URL: https://doi.org/10.1073/pnas.1309211110, doi:10.1073/pnas.1309211110. This article has 78 citations.
+
+9. (xu2021fam20cinhuman pages 1-2): Rongsheng Xu, Huidan Tan, Jiahui Zhang, Zhaoxin Yuan, Qiang Xie, and Lan Zhang. Fam20c in human diseases: emerging biological functions and therapeutic implications. Frontiers in Molecular Biosciences, Dec 2021. URL: https://doi.org/10.3389/fmolb.2021.790172, doi:10.3389/fmolb.2021.790172. This article has 17 citations and is from a peer-reviewed journal.
+
+10. (zhang2018structureandevolution pages 1-2): Hui Zhang, Qinyu Zhu, Jixin Cui, Yuxin Wang, Mark J. Chen, Xing Guo, Vincent S. Tagliabracci, Jack E. Dixon, and Junyu Xiao. Structure and evolution of the fam20 kinases. Nature Communications, Mar 2018. URL: https://doi.org/10.1038/s41467-018-03615-z, doi:10.1038/s41467-018-03615-z. This article has 80 citations and is from a highest quality peer-reviewed journal.
+
+11. (zhang2018structureandevolution pages 2-3): Hui Zhang, Qinyu Zhu, Jixin Cui, Yuxin Wang, Mark J. Chen, Xing Guo, Vincent S. Tagliabracci, Jack E. Dixon, and Junyu Xiao. Structure and evolution of the fam20 kinases. Nature Communications, Mar 2018. URL: https://doi.org/10.1038/s41467-018-03615-z, doi:10.1038/s41467-018-03615-z. This article has 80 citations and is from a highest quality peer-reviewed journal.
+
+12. (zhang2018structureandevolution pages 3-4): Hui Zhang, Qinyu Zhu, Jixin Cui, Yuxin Wang, Mark J. Chen, Xing Guo, Vincent S. Tagliabracci, Jack E. Dixon, and Junyu Xiao. Structure and evolution of the fam20 kinases. Nature Communications, Mar 2018. URL: https://doi.org/10.1038/s41467-018-03615-z, doi:10.1038/s41467-018-03615-z. This article has 80 citations and is from a highest quality peer-reviewed journal.
+
+13. (zhang2018structureandevolution pages 7-8): Hui Zhang, Qinyu Zhu, Jixin Cui, Yuxin Wang, Mark J. Chen, Xing Guo, Vincent S. Tagliabracci, Jack E. Dixon, and Junyu Xiao. Structure and evolution of the fam20 kinases. Nature Communications, Mar 2018. URL: https://doi.org/10.1038/s41467-018-03615-z, doi:10.1038/s41467-018-03615-z. This article has 80 citations and is from a highest quality peer-reviewed journal.
+
+14. (zhang2018structureandevolution pages 8-9): Hui Zhang, Qinyu Zhu, Jixin Cui, Yuxin Wang, Mark J. Chen, Xing Guo, Vincent S. Tagliabracci, Jack E. Dixon, and Junyu Xiao. Structure and evolution of the fam20 kinases. Nature Communications, Mar 2018. URL: https://doi.org/10.1038/s41467-018-03615-z, doi:10.1038/s41467-018-03615-z. This article has 80 citations and is from a highest quality peer-reviewed journal.
+
+15. (brutsch2022thesecretedkinase pages 37-41): SM Brütsch. The secreted kinase vlk is a regulator of lung organogenesis. Unknown journal, 2022.
+
+16. (cozza2016caseinkinasesas pages 13-14): Giorgio Cozza and Lorenzo A Pinna. Casein kinases as potential therapeutic targets. Expert Opinion on Therapeutic Targets, 20:319-340, Mar 2016. URL: https://doi.org/10.1517/14728222.2016.1091883, doi:10.1517/14728222.2016.1091883. This article has 103 citations and is from a peer-reviewed journal.
+
+17. (cui2015asecretorykinase pages 1-2): Jixin Cui, Junyu Xiao, Vincent S Tagliabracci, Jianzhong Wen, Meghdad Rahdar, and Jack E Dixon. A secretory kinase complex regulates extracellular protein phosphorylation. eLife, Mar 2015. URL: https://doi.org/10.7554/elife.06120, doi:10.7554/elife.06120. This article has 124 citations and is from a domain leading peer-reviewed journal.
+
+18. (cui2015asecretorykinase pages 11-13): Jixin Cui, Junyu Xiao, Vincent S Tagliabracci, Jianzhong Wen, Meghdad Rahdar, and Jack E Dixon. A secretory kinase complex regulates extracellular protein phosphorylation. eLife, Mar 2015. URL: https://doi.org/10.7554/elife.06120, doi:10.7554/elife.06120. This article has 124 citations and is from a domain leading peer-reviewed journal.
+
+19. (cui2015asecretorykinase pages 18-18): Jixin Cui, Junyu Xiao, Vincent S Tagliabracci, Jianzhong Wen, Meghdad Rahdar, and Jack E Dixon. A secretory kinase complex regulates extracellular protein phosphorylation. eLife, Mar 2015. URL: https://doi.org/10.7554/elife.06120, doi:10.7554/elife.06120. This article has 124 citations and is from a domain leading peer-reviewed journal.
+
+20. (cui2017structureoffam20a pages 1-2): Jixin Cui, Qinyu Zhu, Hui Zhang, Michael A Cianfrocco, Andres E Leschziner, Jack E Dixon, and Junyu Xiao. Structure of fam20a reveals a pseudokinase featuring a unique disulfide pattern and inverted atp-binding. eLife, Apr 2017. URL: https://doi.org/10.7554/elife.23990, doi:10.7554/elife.23990. This article has 46 citations and is from a domain leading peer-reviewed journal.
+
+21. (cui2017structureoffam20a pages 15-16): Jixin Cui, Qinyu Zhu, Hui Zhang, Michael A Cianfrocco, Andres E Leschziner, Jack E Dixon, and Junyu Xiao. Structure of fam20a reveals a pseudokinase featuring a unique disulfide pattern and inverted atp-binding. eLife, Apr 2017. URL: https://doi.org/10.7554/elife.23990, doi:10.7554/elife.23990. This article has 46 citations and is from a domain leading peer-reviewed journal.
+
+22. (cui2017structureoffam20a pages 2-5): Jixin Cui, Qinyu Zhu, Hui Zhang, Michael A Cianfrocco, Andres E Leschziner, Jack E Dixon, and Junyu Xiao. Structure of fam20a reveals a pseudokinase featuring a unique disulfide pattern and inverted atp-binding. eLife, Apr 2017. URL: https://doi.org/10.7554/elife.23990, doi:10.7554/elife.23990. This article has 46 citations and is from a domain leading peer-reviewed journal.
+
+23. (cui2017structureoffam20a pages 6-8): Jixin Cui, Qinyu Zhu, Hui Zhang, Michael A Cianfrocco, Andres E Leschziner, Jack E Dixon, and Junyu Xiao. Structure of fam20a reveals a pseudokinase featuring a unique disulfide pattern and inverted atp-binding. eLife, Apr 2017. URL: https://doi.org/10.7554/elife.23990, doi:10.7554/elife.23990. This article has 46 citations and is from a domain leading peer-reviewed journal.
+
+24. (da2019invitrophosphorylation pages 10-11): Qi Da, Hyojeong Han, Christian Valladolid, María Fernández, Tanvir Khatlani, Subhashree Pradhan, Jennifer Nolasco, Risë K. Matsunami, David A. Engler, Miguel A. Cruz, and K. Vinod Vijayan. In vitro phosphorylation of von willebrand factor by fam20c enhances its ability to support platelet adhesion. Journal of Thrombosis and Haemostasis, 17:866-877, Jun 2019. URL: https://doi.org/10.1111/jth.14426, doi:10.1111/jth.14426. This article has 12 citations and is from a peer-reviewed journal.
+
+25. (da2019invitrophosphorylation pages 6-7): Qi Da, Hyojeong Han, Christian Valladolid, María Fernández, Tanvir Khatlani, Subhashree Pradhan, Jennifer Nolasco, Risë K. Matsunami, David A. Engler, Miguel A. Cruz, and K. Vinod Vijayan. In vitro phosphorylation of von willebrand factor by fam20c enhances its ability to support platelet adhesion. Journal of Thrombosis and Haemostasis, 17:866-877, Jun 2019. URL: https://doi.org/10.1111/jth.14426, doi:10.1111/jth.14426. This article has 12 citations and is from a peer-reviewed journal.
+
+26. (du2023regulationofsecretory pages 4-5): Shaonan Du, Chen Zhu, Xiaolin Ren, Xin Chen, Xiaohui Cui, and Shu Guan. Regulation of secretory pathway kinase or kinase-like proteins in human cancers. Frontiers in Immunology, Feb 2023. URL: https://doi.org/10.3389/fimmu.2023.942849, doi:10.3389/fimmu.2023.942849. This article has 3 citations and is from a peer-reviewed journal.
+
+27. (ishikawa2012therainesyndrome pages 1-2): Hiroyuki O. Ishikawa, Aiguo Xu, Eri Ogura, Gerard Manning, and Kenneth D. Irvine. The raine syndrome protein fam20c is a golgi kinase that phosphorylates bio-mineralization proteins. PLoS ONE, 7:e42988, Aug 2012. URL: https://doi.org/10.1371/journal.pone.0042988, doi:10.1371/journal.pone.0042988. This article has 173 citations and is from a peer-reviewed journal.
+
+28. (liu2023fam20cregulatesthe pages 1-2): Xinpeng Liu, Lili Jiang, Wenxuan Zhang, Jiahui Zhang, Xinrui Luan, Yuanbo Zhan, Tuo Wang, Junlong Da, Lixue Liu, Shujian Zhang, Yuyao Guo, Kai Zhang, Zhiping Wang, Nan Miao, Xiaohua Xie, Peihong Liu, Ying Li, Han jin, and Bin Zhang. Fam20c regulates the calpain proteolysis system through phosphorylating calpasatatin to maintain cell homeostasis. Journal of Translational Medicine, Jun 2023. URL: https://doi.org/10.1186/s12967-023-04275-4, doi:10.1186/s12967-023-04275-4. This article has 4 citations and is from a peer-reviewed journal.
+
+29. (liu2023fam20cregulatesthe pages 19-20): Xinpeng Liu, Lili Jiang, Wenxuan Zhang, Jiahui Zhang, Xinrui Luan, Yuanbo Zhan, Tuo Wang, Junlong Da, Lixue Liu, Shujian Zhang, Yuyao Guo, Kai Zhang, Zhiping Wang, Nan Miao, Xiaohua Xie, Peihong Liu, Ying Li, Han jin, and Bin Zhang. Fam20c regulates the calpain proteolysis system through phosphorylating calpasatatin to maintain cell homeostasis. Journal of Translational Medicine, Jun 2023. URL: https://doi.org/10.1186/s12967-023-04275-4, doi:10.1186/s12967-023-04275-4. This article has 4 citations and is from a peer-reviewed journal.
+
+30. (liu2023fam20cregulatesthe pages 20-21): Xinpeng Liu, Lili Jiang, Wenxuan Zhang, Jiahui Zhang, Xinrui Luan, Yuanbo Zhan, Tuo Wang, Junlong Da, Lixue Liu, Shujian Zhang, Yuyao Guo, Kai Zhang, Zhiping Wang, Nan Miao, Xiaohua Xie, Peihong Liu, Ying Li, Han jin, and Bin Zhang. Fam20c regulates the calpain proteolysis system through phosphorylating calpasatatin to maintain cell homeostasis. Journal of Translational Medicine, Jun 2023. URL: https://doi.org/10.1186/s12967-023-04275-4, doi:10.1186/s12967-023-04275-4. This article has 4 citations and is from a peer-reviewed journal.
+
+31. (messana2023theposttranslationalmodifications pages 12-13): Irene Messana, Barbara Manconi, Tiziana Cabras, Mozhgan Boroumand, Maria Teresa Sanna, Federica Iavarone, Alessandra Olianas, Claudia Desiderio, Diana Valeria Rossetti, Federica Vincenzoni, Cristina Contini, Giulia Guadalupi, Antonella Fiorita, Gavino Faa, and Massimo Castagnola. The post-translational modifications of human salivary peptides and proteins evidenced by top-down platforms. International Journal of Molecular Sciences, 24:12776, Aug 2023. URL: https://doi.org/10.3390/ijms241612776, doi:10.3390/ijms241612776. This article has 6 citations and is from a peer-reviewed journal.
+
+32. (palmalara2023potentialroleof pages 10-13): Icela Palma-Lara, Patricia García Alonso-Themann, Javier Pérez-Durán, Ricardo Godínez-Aguilar, José Bonilla-Delgado, Damián Gómez-Archila, Ana María Espinosa-García, Manuel Nolasco-Quiroga, Georgina Victoria-Acosta, Adolfo López-Ornelas, Juan Carlos Serrano-Bello, María Guadalupe Olguín-García, and Carmen Palacios-Reyes. Potential role of protein kinase fam20c on the brain in raine syndrome, an in silico analysis. International Journal of Molecular Sciences, 24:8904, May 2023. URL: https://doi.org/10.3390/ijms24108904, doi:10.3390/ijms24108904. This article has 2 citations and is from a peer-reviewed journal.
+
+33. (palmalara2023potentialroleof pages 13-14): Icela Palma-Lara, Patricia García Alonso-Themann, Javier Pérez-Durán, Ricardo Godínez-Aguilar, José Bonilla-Delgado, Damián Gómez-Archila, Ana María Espinosa-García, Manuel Nolasco-Quiroga, Georgina Victoria-Acosta, Adolfo López-Ornelas, Juan Carlos Serrano-Bello, María Guadalupe Olguín-García, and Carmen Palacios-Reyes. Potential role of protein kinase fam20c on the brain in raine syndrome, an in silico analysis. International Journal of Molecular Sciences, 24:8904, May 2023. URL: https://doi.org/10.3390/ijms24108904, doi:10.3390/ijms24108904. This article has 2 citations and is from a peer-reviewed journal.
+
+34. (palmalara2023potentialroleof pages 24-26): Icela Palma-Lara, Patricia García Alonso-Themann, Javier Pérez-Durán, Ricardo Godínez-Aguilar, José Bonilla-Delgado, Damián Gómez-Archila, Ana María Espinosa-García, Manuel Nolasco-Quiroga, Georgina Victoria-Acosta, Adolfo López-Ornelas, Juan Carlos Serrano-Bello, María Guadalupe Olguín-García, and Carmen Palacios-Reyes. Potential role of protein kinase fam20c on the brain in raine syndrome, an in silico analysis. International Journal of Molecular Sciences, 24:8904, May 2023. URL: https://doi.org/10.3390/ijms24108904, doi:10.3390/ijms24108904. This article has 2 citations and is from a peer-reviewed journal.
+
+35. (palmalara2023potentialroleof pages 26-27): Icela Palma-Lara, Patricia García Alonso-Themann, Javier Pérez-Durán, Ricardo Godínez-Aguilar, José Bonilla-Delgado, Damián Gómez-Archila, Ana María Espinosa-García, Manuel Nolasco-Quiroga, Georgina Victoria-Acosta, Adolfo López-Ornelas, Juan Carlos Serrano-Bello, María Guadalupe Olguín-García, and Carmen Palacios-Reyes. Potential role of protein kinase fam20c on the brain in raine syndrome, an in silico analysis. International Journal of Molecular Sciences, 24:8904, May 2023. URL: https://doi.org/10.3390/ijms24108904, doi:10.3390/ijms24108904. This article has 2 citations and is from a peer-reviewed journal.
+
+36. (palmalara2023potentialroleof pages 9-10): Icela Palma-Lara, Patricia García Alonso-Themann, Javier Pérez-Durán, Ricardo Godínez-Aguilar, José Bonilla-Delgado, Damián Gómez-Archila, Ana María Espinosa-García, Manuel Nolasco-Quiroga, Georgina Victoria-Acosta, Adolfo López-Ornelas, Juan Carlos Serrano-Bello, María Guadalupe Olguín-García, and Carmen Palacios-Reyes. Potential role of protein kinase fam20c on the brain in raine syndrome, an in silico analysis. International Journal of Molecular Sciences, 24:8904, May 2023. URL: https://doi.org/10.3390/ijms24108904, doi:10.3390/ijms24108904. This article has 2 citations and is from a peer-reviewed journal.
+
+37. (walker2024theintricaciesof pages 37-38): Valerie Walker. The intricacies of renal phosphate reabsorption—an overview. International Journal of Molecular Sciences, 25:4684, Apr 2024. URL: https://doi.org/10.3390/ijms25094684, doi:10.3390/ijms25094684. This article has 6 citations and is from a peer-reviewed journal.
+
+38. (walker2024theintricaciesof pages 38-39): Valerie Walker. The intricacies of renal phosphate reabsorption—an overview. International Journal of Molecular Sciences, 25:4684, Apr 2024. URL: https://doi.org/10.3390/ijms25094684, doi:10.3390/ijms25094684. This article has 6 citations and is from a peer-reviewed journal.
+
+39. (yalak2015proteomicdatabasemining pages 7-9): Garif Yalak and Bjorn R Olsen. Proteomic database mining opens up avenues utilizing extracellular protein phosphorylation for novel therapeutic applications. Journal of Translational Medicine, Apr 2015. URL: https://doi.org/10.1186/s12967-015-0482-4, doi:10.1186/s12967-015-0482-4. This article has 31 citations and is from a peer-reviewed journal.
+
+40. (zhang2018secretorykinasefam20c pages 1-2): Jianchao Zhang, Qinyu Zhu, Xi’e Wang, Jiaojiao Yu, Xinxin Chen, Jifeng Wang, Xi Wang, Junyu Xiao, Chih‐chen Wang, and Lei Wang. Secretory kinase fam20c tunes endoplasmic reticulum redox state via phosphorylation of ero1α. The EMBO Journal, Jun 2018. URL: https://doi.org/10.15252/embj.201798699, doi:10.15252/embj.201798699. This article has 50 citations.
+
+41. (zhang2018structureandevolution pages 10-11): Hui Zhang, Qinyu Zhu, Jixin Cui, Yuxin Wang, Mark J. Chen, Xing Guo, Vincent S. Tagliabracci, Jack E. Dixon, and Junyu Xiao. Structure and evolution of the fam20 kinases. Nature Communications, Mar 2018. URL: https://doi.org/10.1038/s41467-018-03615-z, doi:10.1038/s41467-018-03615-z. This article has 80 citations and is from a highest quality peer-reviewed journal.
+
+42. (zhang2018structureandevolution pages 6-7): Hui Zhang, Qinyu Zhu, Jixin Cui, Yuxin Wang, Mark J. Chen, Xing Guo, Vincent S. Tagliabracci, Jack E. Dixon, and Junyu Xiao. Structure and evolution of the fam20 kinases. Nature Communications, Mar 2018. URL: https://doi.org/10.1038/s41467-018-03615-z, doi:10.1038/s41467-018-03615-z. This article has 80 citations and is from a highest quality peer-reviewed journal.
+
+43. (zhang2018structureandevolution pages 9-10): Hui Zhang, Qinyu Zhu, Jixin Cui, Yuxin Wang, Mark J. Chen, Xing Guo, Vincent S. Tagliabracci, Jack E. Dixon, and Junyu Xiao. Structure and evolution of the fam20 kinases. Nature Communications, Mar 2018. URL: https://doi.org/10.1038/s41467-018-03615-z, doi:10.1038/s41467-018-03615-z. This article has 80 citations and is from a highest quality peer-reviewed journal.
+
+44. (bordoli2014asecretedtyrosine pages 14-15): Mattia R. Bordoli, Jina Yum, Susanne B. Breitkopf, Jonathan N. Thon, Joseph E. Italiano, Junyu Xiao, Carolyn Worby, Swee-Kee Wong, Grace Lin, Maja Edenius, Tracy L. Keller, John M. Asara, Jack E. Dixon, Chang-Yeol Yeo, and Malcolm Whitman. A secreted tyrosine kinase acts in the extracellular environment. Cell, 159:955, Nov 2014. URL: https://doi.org/10.1016/j.cell.2014.10.038, doi:10.1016/j.cell.2014.10.038. This article has 135 citations and is from a highest quality peer-reviewed journal.
+
+45. (cui2017structureoffam20a pages 13-14): Jixin Cui, Qinyu Zhu, Hui Zhang, Michael A Cianfrocco, Andres E Leschziner, Jack E Dixon, and Junyu Xiao. Structure of fam20a reveals a pseudokinase featuring a unique disulfide pattern and inverted atp-binding. eLife, Apr 2017. URL: https://doi.org/10.7554/elife.23990, doi:10.7554/elife.23990. This article has 46 citations and is from a domain leading peer-reviewed journal.
+
+46. (da2019invitrophosphorylation pages 1-2): Qi Da, Hyojeong Han, Christian Valladolid, María Fernández, Tanvir Khatlani, Subhashree Pradhan, Jennifer Nolasco, Risë K. Matsunami, David A. Engler, Miguel A. Cruz, and K. Vinod Vijayan. In vitro phosphorylation of von willebrand factor by fam20c enhances its ability to support platelet adhesion. Journal of Thrombosis and Haemostasis, 17:866-877, Jun 2019. URL: https://doi.org/10.1111/jth.14426, doi:10.1111/jth.14426. This article has 12 citations and is from a peer-reviewed journal.
+
+47. (da2019invitrophosphorylation pages 11-12): Qi Da, Hyojeong Han, Christian Valladolid, María Fernández, Tanvir Khatlani, Subhashree Pradhan, Jennifer Nolasco, Risë K. Matsunami, David A. Engler, Miguel A. Cruz, and K. Vinod Vijayan. In vitro phosphorylation of von willebrand factor by fam20c enhances its ability to support platelet adhesion. Journal of Thrombosis and Haemostasis, 17:866-877, Jun 2019. URL: https://doi.org/10.1111/jth.14426, doi:10.1111/jth.14426. This article has 12 citations and is from a peer-reviewed journal.
+
+48. (dudkiewicz2013anovelpredicted pages 8-8): Małgorzata Dudkiewicz, Anna Lenart, and Krzysztof Pawłowski. A novel predicted calcium-regulated kinase family implicated in neurological disorders. PLoS ONE, 8:e66427, Jun 2013. URL: https://doi.org/10.1371/journal.pone.0066427, doi:10.1371/journal.pone.0066427. This article has 56 citations and is from a peer-reviewed journal.
+
+49. (filatova2015theroleof pages 17-20): A Filatova. The role of fam20a in the generation of amelogenesis imperfecta. Unknown journal, 2015. URL: https://doi.org/10.5167/uzh-121801, doi:10.5167/uzh-121801. This article has 1 citations.
+
+50. (fulcher2020functionsandregulation pages 14-15): Luke J. Fulcher and Gopal P. Sapkota. Functions and regulation of the serine/threonine protein kinase ck1 family: moving beyond promiscuity. Biochemical Journal, 477:4603-4621, Dec 2020. URL: https://doi.org/10.1042/bcj20200506, doi:10.1042/bcj20200506. This article has 57 citations and is from a domain leading peer-reviewed journal.

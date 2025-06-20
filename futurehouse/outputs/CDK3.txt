@@ -1,0 +1,89 @@
+1. Phylogeny  
+Cyclin‐dependent kinase 3 (CDK3, gene: CDK3/CDKN3; UniProt: Q00526) is classified as a classical cell cycle regulatory CDK and belongs to the CDK1/2/3 subfamily within the human kinome. Phylogenetic analyses using both Maximum Likelihood and Bayesian approaches have demonstrated that CDK3 shares a closer evolutionary relationship with CDK2 than with CDK1, with gene duplication in metazoans ultimately giving rise to distinct CDK1 and CDK2/3 clades. CDK3 orthologs are found in a wide range of metazoan organisms—from basal metazoans such as Amphimedon queenslandica and Trichoplax adhaerens to mammals—reflecting its deep evolutionary origin among eukaryotic cell cycle kinases (cao2014phylogeneticanalysisof pages 3-6, malumbres2014cyclindependentkinases pages 1-2). In comparison with unicellular eukaryotes where the ancestral CDK1/2/3 gene remains unduplicated, the metazoan lineage exhibits distinct separation into CDK1 and CDK2/3 clades, thereby situating CDK3 as a conserved component of cell cycle regulation in complex organisms (cao2014phylogeneticanalysisof pages 6-9, liu2000evolutionofcyclindependent pages 3-3).
+
+2. Reaction Catalyzed  
+CDK3 catalyzes the transfer of a phosphate group from ATP to specific serine or threonine residues on target proteins. The general chemical reaction is as follows:  
+  ATP + [protein]-(L-serine or L-threonine) → ADP + [protein]-(L-serine/threonine)-phosphate + H⁺  
+This phosphorylation reaction underpins CDK3’s role in modifying key substrates such as ATF1, RB1, histone H1, and CABLES1 to elicit alterations in their function during cell cycle progression (malumbres2014cyclindependentkinases pages 1-2).
+
+3. Cofactor Requirements  
+The kinase activity of CDK3 is dependent on the presence of divalent metal ions, with Mg²⁺ serving as the essential cofactor. Mg²⁺ coordinates with ATP within the active site, facilitating the transfer of the phosphate group to the substrate protein (huwe2003smallmoleculesas pages 1-3).
+
+4. Substrate Specificity  
+CDK3 phosphorylates serine/threonine residues within specific protein substrates that modulate cell cycle transitions. Its substrates include histone H1, activating transcription factor 1 (ATF1), retinoblastoma protein (RB1), and CABLES1. Although a detailed consensus motif for CDK3 has not been fully delineated, its substrate specificity mirrors that of other cell cycle CDKs, whereby phosphorylation typically occurs in a context that supports cell cycle progression. In particular, phosphorylation of ATF1 by CDK3 promotes ATF1 transactivation and transcriptional activity, while CDK3-mediated phosphorylation of RB1 is required for the G0-to-G1 transition (peyressatre2015targetingcyclindependentkinases pages 17-19, pluta2024cyclin‐dependentkinasesmasters pages 12-14).
+
+5. Structure  
+CDK3 contains the conserved protein kinase domain typical of classical cyclin-dependent kinases. This domain is organized into an N-terminal lobe primarily composed of α-helices and β-strands and a C-terminal lobe that houses the catalytic machinery. Key structural features include:  
+ • The activation loop (T-loop), which requires phosphorylation for full kinase activation.  
+ • A conserved DFG motif at the beginning of the activation segment that coordinates both the binding of Mg²⁺ and ATP.  
+ • A C-helix that is important for cyclin binding and proper orientation of catalytic residues.  
+ • A segment analogous to the canonical PSTAIRE motif found in other cell cycle CDKs, although CDK3 exhibits subtle differences in amino acid composition when compared with CDK2 (shafiq2011molecularmodellingand pages 97-103, endicott2013structuralcharacterizationof pages 3-5).  
+
+Additionally, CDK3 forms an active complex with cyclin C, which is required for its proper conformational arrangement and catalytic efficiency. Structural studies of related CDKs—supported by crystallographic and AlphaFold models—indicate that the overall fold and spatial arrangement of catalytic elements in CDK3 are highly conserved within the CDK family, ensuring a similar mechanism of action for phosphoryl transfer (wood2018structuralinsightsinto pages 1-2).
+
+6. Regulation  
+The regulation of CDK3 activity is primarily mediated via its association with cyclin C, an interaction that facilitates the necessary conformational rearrangements for kinase activation. Phosphorylation of specific residues within the activation loop—typically performed by upstream CDK-activating kinases such as CDK7—further promotes full activation of CDK3. Functionally, the cyclin C/CDK3 complex is essential for the phosphorylation of substrates that drive the transition from the quiescent (G0) phase into the G1 phase of the cell cycle. In addition to cyclin binding and phosphorylation, CDK3 activity may be modulated by interactions with specific inhibitors and proteins that affect its stability and localization, although detailed regulatory mechanisms beyond cyclin association and activation phosphorylation have not been extensively characterized (peyressatre2015targetingcyclindependentkinases pages 32-34, chowdhury2023cmgckinasesin pages 4-6).
+
+7. Function  
+CDK3 plays a critical role in the regulation of the eukaryotic cell cycle. Its enzymatic activity is central to the G0–G1 and G1–S transitions. Specifically, CDK3 phosphorylates RB1, which is a prerequisite for releasing E2F transcription factors that are necessary for subsequent DNA synthesis and cell cycle progression. Furthermore, phosphorylation of ATF1 by CDK3 stimulates its transactivation potential, thereby facilitating transcriptional programs that contribute to cell proliferation and, in some contexts, cell transformation. In addition to RB1 and ATF1, CDK3 phosphorylates histone H1 and CABLES1, underscoring its role in chromatin modulation and signal propagation required for cell cycle re-entry from quiescence. The biological activity of CDK3 is thus closely linked to cell cycle control mechanisms and proliferative signaling pathways, and its expression and activation are tightly orchestrated to ensure proper cell division (malumbres2014cyclindependentkinases pages 1-2, peyressatre2015targetingcyclindependentkinases pages 17-19, pluta2024cyclin‐dependentkinasesmasters pages 3-5).
+
+8. Other Comments  
+Elevated levels of CDK3 activity have been observed in various human cancer cell lines and tissues, including glioblastoma, suggesting a potential role in oncogenic transformation and proliferation. Although selective inhibitors specifically targeting CDK3 have not yet been fully developed, studies have implicated CDK3 as a promising therapeutic target for cancer treatment. Inhibitor efforts targeting other cyclin-dependent kinases have led to the development of compounds with certain selectivities, and similar strategies may eventually yield selective agents for CDK3. Consequently, continued research into the structural nuances and regulatory mechanisms of CDK3 is anticipated to facilitate the design of specific inhibitors that could be effective in controlling cancer progression (peyressatre2015targetingcyclindependentkinases pages 32-34, chowdhury2023cmgckinasesin pages 21-22).
+
+9. References  
+1. cao2014phylogeneticanalysisof pages 3-6  
+2. cao2014phylogeneticanalysisof pages 6-9  
+3. malumbres2014cyclindependentkinases pages 1-2  
+4. peyressatre2015targetingcyclindependentkinases pages 17-19  
+5. peyressatre2015targetingcyclindependentkinases pages 32-34  
+6. chowdhury2023cmgckinasesin pages 2-4  
+7. chowdhury2023cmgckinasesin pages 4-6  
+8. chowdhury2023cmgckinasesin pages 21-22  
+9. endicott2013structuralcharacterizationof pages 3-5  
+10. liu2000evolutionofcyclindependent pages 3-3  
+11. shafiq2011molecularmodellingand pages 97-103  
+12. pluta2024cyclin‐dependentkinasesmasters pages 12-14  
+13. pluta2024cyclin‐dependentkinasesmasters pages 3-5  
+14. wood2018structuralinsightsinto pages 1-2  
+15. huwe2003smallmoleculesas pages 1-3  
+16. canning2018cdklfamilykinases pages 1-3  
+17. milletti2023cyclers’kinasesin pages 2-3  
+18. liu2000evolutionofcyclindependent pages 4-5
+
+References
+
+1. (cao2014phylogeneticanalysisof pages 3-6): Lihuan Cao, Fang Chen, Xian-mei Yang, Weijin Xu, Jun Xie, and Long Yu. Phylogenetic analysis of cdk and cyclin proteins in premetazoan lineages. BMC Evolutionary Biology, Jan 2014. URL: https://doi.org/10.1186/1471-2148-14-10, doi:10.1186/1471-2148-14-10. This article has 177 citations.
+
+2. (malumbres2014cyclindependentkinases pages 1-2): Marcos Malumbres. Cyclin-dependent kinases. Genome Biology, 15:122-122, Jun 2014. URL: https://doi.org/10.1186/gb4184, doi:10.1186/gb4184. This article has 1882 citations and is from a highest quality peer-reviewed journal.
+
+3. (cao2014phylogeneticanalysisof pages 6-9): Lihuan Cao, Fang Chen, Xian-mei Yang, Weijin Xu, Jun Xie, and Long Yu. Phylogenetic analysis of cdk and cyclin proteins in premetazoan lineages. BMC Evolutionary Biology, Jan 2014. URL: https://doi.org/10.1186/1471-2148-14-10, doi:10.1186/1471-2148-14-10. This article has 177 citations.
+
+4. (chowdhury2023cmgckinasesin pages 2-4): Iftekhar Chowdhury, Giovanna Dashi, and Salla Keskitalo. Cmgc kinases in health and cancer. Cancers, 15:3838, Jul 2023. URL: https://doi.org/10.3390/cancers15153838, doi:10.3390/cancers15153838. This article has 18 citations and is from a peer-reviewed journal.
+
+5. (chowdhury2023cmgckinasesin pages 21-22): Iftekhar Chowdhury, Giovanna Dashi, and Salla Keskitalo. Cmgc kinases in health and cancer. Cancers, 15:3838, Jul 2023. URL: https://doi.org/10.3390/cancers15153838, doi:10.3390/cancers15153838. This article has 18 citations and is from a peer-reviewed journal.
+
+6. (chowdhury2023cmgckinasesin pages 4-6): Iftekhar Chowdhury, Giovanna Dashi, and Salla Keskitalo. Cmgc kinases in health and cancer. Cancers, 15:3838, Jul 2023. URL: https://doi.org/10.3390/cancers15153838, doi:10.3390/cancers15153838. This article has 18 citations and is from a peer-reviewed journal.
+
+7. (endicott2013structuralcharacterizationof pages 3-5): Jane A. Endicott and Martin E.M. Noble. Structural characterization of the cyclin-dependent protein kinase family. Biochemical Society transactions, 41 4:1008-16, Aug 2013. URL: https://doi.org/10.1042/bst20130097, doi:10.1042/bst20130097. This article has 48 citations and is from a peer-reviewed journal.
+
+8. (liu2000evolutionofcyclindependent pages 3-3): Ji Liu and Edward T. Kipreos. Evolution of cyclin-dependent kinases (cdks) and cdk-activating kinases (caks): differential conservation of caks in yeast and metazoa. Molecular Biology and Evolution, 17:1061-1074, Jul 2000. URL: https://doi.org/10.1093/oxfordjournals.molbev.a026387, doi:10.1093/oxfordjournals.molbev.a026387. This article has 180 citations and is from a highest quality peer-reviewed journal.
+
+9. (liu2000evolutionofcyclindependent pages 4-5): Ji Liu and Edward T. Kipreos. Evolution of cyclin-dependent kinases (cdks) and cdk-activating kinases (caks): differential conservation of caks in yeast and metazoa. Molecular Biology and Evolution, 17:1061-1074, Jul 2000. URL: https://doi.org/10.1093/oxfordjournals.molbev.a026387, doi:10.1093/oxfordjournals.molbev.a026387. This article has 180 citations and is from a highest quality peer-reviewed journal.
+
+10. (peyressatre2015targetingcyclindependentkinases pages 17-19): Marion Peyressatre, Camille Prével, Morgan Pellerano, and May Morris. Targeting cyclin-dependent kinases in human cancers: from small molecules to peptide inhibitors. Cancers, 7:179-237, Jan 2015. URL: https://doi.org/10.3390/cancers7010179, doi:10.3390/cancers7010179. This article has 402 citations and is from a peer-reviewed journal.
+
+11. (peyressatre2015targetingcyclindependentkinases pages 32-34): Marion Peyressatre, Camille Prével, Morgan Pellerano, and May Morris. Targeting cyclin-dependent kinases in human cancers: from small molecules to peptide inhibitors. Cancers, 7:179-237, Jan 2015. URL: https://doi.org/10.3390/cancers7010179, doi:10.3390/cancers7010179. This article has 402 citations and is from a peer-reviewed journal.
+
+12. (shafiq2011molecularmodellingand pages 97-103): MI Shafiq. Molecular modelling and bioinformatics studies of cdk4 and related proteins. Unknown journal, 2011. URL: https://doi.org/10104464/1, doi:10104464/1.
+
+13. (wood2018structuralinsightsinto pages 1-2): Daniel J. Wood and Jane A. Endicott. Structural insights into the functional diversity of the cdk–cyclin family. Open Biology, Sep 2018. URL: https://doi.org/10.1098/rsob.180112, doi:10.1098/rsob.180112. This article has 266 citations and is from a peer-reviewed journal.
+
+14. (huwe2003smallmoleculesas pages 1-3): Axel Huwe, Ralph Mazitschek, and Athanassios Giannis. Small molecules as inhibitors of cyclin-dependent kinases. Angewandte Chemie, 42 19:2122-38, May 2003. URL: https://doi.org/10.1002/anie.200200540, doi:10.1002/anie.200200540. This article has 235 citations and is from a highest quality peer-reviewed journal.
+
+15. (milletti2023cyclers’kinasesin pages 2-3): Giacomo Milletti, Valeria Colicchia, and Francesco Cecconi. Cyclers’ kinases in cell division: from molecules to cancer therapy. Cell Death &amp; Differentiation, 30:2035-2052, Jul 2023. URL: https://doi.org/10.1038/s41418-023-01196-z, doi:10.1038/s41418-023-01196-z. This article has 17 citations.
+
+16. (pluta2024cyclin‐dependentkinasesmasters pages 12-14): Aleksandra J. Pluta, Cécilia Studniarek, Shona Murphy, and Chris J. Norbury. Cyclin‐dependent kinases: masters of the eukaryotic universe. WIREs RNA, Sep 2024. URL: https://doi.org/10.1002/wrna.1816, doi:10.1002/wrna.1816. This article has 20 citations.
+
+17. (pluta2024cyclin‐dependentkinasesmasters pages 3-5): Aleksandra J. Pluta, Cécilia Studniarek, Shona Murphy, and Chris J. Norbury. Cyclin‐dependent kinases: masters of the eukaryotic universe. WIREs RNA, Sep 2024. URL: https://doi.org/10.1002/wrna.1816, doi:10.1002/wrna.1816. This article has 20 citations.
+
+18. (canning2018cdklfamilykinases pages 1-3): Peter Canning, Kwangjin Park, João Gonçalves, Chunmei Li, Conor J. Howard, Timothy D. Sharpe, Liam J. Holt, Laurence Pelletier, Alex N. Bullock, and Michel R. Leroux. Cdkl family kinases have evolved distinct structural features and ciliary function. Cell Reports, 22:885-894, Jan 2018. URL: https://doi.org/10.1016/j.celrep.2017.12.083, doi:10.1016/j.celrep.2017.12.083. This article has 80 citations and is from a highest quality peer-reviewed journal.

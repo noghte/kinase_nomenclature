@@ -1,0 +1,161 @@
+1. Phylogeny  
+MAP4K1, commonly known as HPK1, is a member of the MAP4K subfamily within the mammalian Ste20-like kinases and belongs to the larger germinal center kinase (GCK) family, subfamily I, which is evolutionarily conserved across vertebrates and traceable to the common ancestor of eukaryotes (chuang2016map4kfamilykinases pages 1-4, dan2001theste20group pages 5-6). HPK1 is predominantly expressed in hematopoietic cells, particularly in leukocytes, and its orthologs are observed in numerous mammalian species, underscoring its central role in immune system signaling (arnold2005activationofhematopoietic pages 2-3, chuang2016map4kfamilykinases pages 4-8). The evolutionary relationships of HPK1 with other kinases in the Ste20 family are defined by its conserved N-terminal kinase domain and C-terminal citron-homology domain, features that are shared with related MAP4Ks (boomer2005functionalinteractionsof pages 1-3, dan2001theste20group pages 2-3).
+
+2. Reaction Catalyzed  
+HPK1 catalyzes the transfer of a phosphate group from ATP to protein substrates by phosphorylating serine and threonine residues, following the canonical reaction:  
+ ATP + [protein]-(L-serine or L-threonine) → ADP + [protein]-(L-serine/threonine)-phosphate + H⁺ (arnold2005activationofhematopoietic pages 11-13).
+
+3. Cofactor Requirements  
+The catalytic activity of HPK1 is dependent on divalent metal ions; like most serine/threonine kinases, its activity requires Mg²⁺ as a cofactor to facilitate ATP binding and subsequent phosphoryl transfer (dan2001theste20group pages 5-6).
+
+4. Substrate Specificity  
+HPK1 exhibits substrate specificity for serine/threonine residues and demonstrates a pronounced preference for phosphorylation at threonine sites within its own activation loop, including T165, S171, and T175, which are essential for autophosphorylation and full kinase activation (arnold2005activationofhematopoietic pages 10-11, arnold2005activationofhematopoietic pages 11-13). In addition, HPK1 phosphorylates downstream adaptor proteins such as SLP-76, with phosphorylation of SLP-76 at serine 376 playing a critical role in modulating T-cell receptor signaling (shui2007hematopoieticprogenitorkinase pages 7-8, chuang2019map4kfamilykinases pages 3-5). Although a precise consensus sequence has not been fully delineated in the literature provided, the importance of serine/threonine motifs in modulating HPK1’s activity is evident from mutational analyses that underscore the enzyme’s reliance on these residues (arnold2005activationofhematopoietic pages 10-11).
+
+5. Structure  
+HPK1 is organized into distinct domains that confer both catalytic and regulatory functions. Its N-terminal region, comprising approximately the first 232 amino acids, contains the kinase domain with all the canonical catalytic motifs, including a conserved ATP-binding lysine (K46) and a regulatory activation loop enriched with critical phosphorylation sites (T165, S171, and T175) that modulate its activity (arnold2005activationofhematopoietic pages 10-11, arnold2005activationofhematopoietic pages 11-13). Beyond the kinase domain, HPK1 includes several proline-rich regions that mediate binding to SH3 domain–containing adaptor proteins, contributing to its recruitment into immunoreceptor signaling complexes (arnold2005activationofhematopoietic pages 2-3, boomer2005functionalinteractionsof pages 1-3). The C-terminal portion of HPK1 encompasses the citron-homology domain (CHD), which has been experimentally validated to adopt a seven-bladed β-propeller fold; this domain plays a key role in stabilizing the protein and modulating its catalytic function through intramolecular interactions with the kinase domain (chitre2024hpk1citronhomology pages 1-2, chitre2024hpk1citronhomology pages 8-9). Recent biochemical and biophysical studies have demonstrated that the kinase domain and CHD interact dynamically, with the CHD influencing kinase domain dimerization and overall enzymatic activity (chitre2024hpk1citronhomology pages 4-5, chitre2024hpk1citronhomology pages 7-8). Structural context provided by AlphaFold modeling, although not explicitly detailed in the early publications, complements these experimental findings by reinforcing the domain boundaries and the presence of short intrinsically disordered regions within the activation loop that help regulate activity (bludau2022thestructuralcontext pages 8-9).
+
+6. Regulation  
+HPK1 activity is intricately regulated by multiple layers of post-translational modifications and protein–protein interactions. Autophosphorylation of key residues within its activation loop—specifically T165, S171, and T175—is critical for its catalytic activation, and mutational studies have demonstrated that substitution of these sites significantly impairs kinase function (arnold2005activationofhematopoietic pages 10-11, arnold2005activationofhematopoietic pages 11-13). In addition to autophosphorylation, transphosphorylation by protein kinase D1 (PKD1) specifically at S171 plays a priming role that is necessary for subsequent autophosphorylation events that fully activate HPK1 (arnold2005activationofhematopoietic pages 16-16, arnold2005activationofhematopoietic pages 18-19). Regulatory control is further mediated by caspase-3–dependent proteolytic cleavage at a defined recognition site within the proline-rich region, resulting in an N-terminal fragment with altered activity and potential shifts in downstream signaling, including changes in NF-κB regulation (chitre2024hpk1citronhomology pages 1-2, boomer2005functionalinteractionsof pages 1-3). Intramolecular interactions between the kinase domain and the CHD also exert allosteric control over catalytic efficiency by modulating the accessibility of the active site and stabilizing the active conformation of HPK1 (chitre2024hpk1citronhomology pages 4-5, chitre2024hpk1citronhomology pages 6-7). Additionally, recruitment to signaling complexes via adaptor proteins such as SLP-76 and CLNK influences HPK1’s subcellular localization and maintains its appropriate activation threshold in immune cells (arnold2005activationofhematopoietic pages 2-3, chitre2024hpk1citronhomology pages 7-8).
+
+7. Function  
+HPK1 plays a central role as a serine/threonine kinase in mediating cellular responses to environmental stress and immune receptor engagement. It functions upstream of the JUN N-terminal kinase (JNK) cascade, thereby contributing to the activation of stress-activated protein kinase (SAPK/JNK) and NF-κB pathways (arnold2005activationofhematopoietic pages 1-2, chuang2016map4kfamilykinases pages 1-4). In hematopoietic cells, HPK1 modulates T-cell receptor (TCR) signaling; its interaction with adaptor proteins facilitates the phosphorylation of downstream targets that regulate T-cell activation and cytokine production, including IL2 (boomer2005functionalinteractionsof pages 1-3, chitre2024hpk1citronhomology pages 7-8). Moreover, by acting as an activator of the Hippo signaling pathway, HPK1 contributes to organ size control and tumor suppression through the phosphorylation and activation of LATS1/2, which are pivotal for restricting cell proliferation and promoting apoptosis (Information, chuang2019map4kfamilykinases pages 1-3). HPK1 also has roles in hematopoietic lineage decisions and growth regulation, functions that have been substantiated by its ability to integrate signals from diverse stimuli, including stress, cytokines, and immune receptor engagement (Information, chuang2016map4kfamilykinases pages 34-36). Its regulation of adaptive immune responses, in conjunction with proteins such as CLNK, underscores its importance in tuning T-cell activation thresholds (chitre2024hpk1citronhomology pages 2-3, shui2007hematopoieticprogenitorkinase pages 7-8).
+
+8. Other Comments  
+HPK1 is associated with several disease-related contexts; dysregulation of its kinase activity has been implicated in immune-related disorders as well as in cancer, owing to its role in the Hippo signaling pathway and tumor suppression mechanisms (Information, chuang2019map4kfamilykinases pages 1-3, arnold2005activationofhematopoietic pages 1-2). Although specific inhibitors targeting HPK1 have not been detailed in the provided reports, its significant role in T-cell receptor signaling and immune modulation makes it a potential candidate for therapeutic intervention, particularly in immunotherapy and oncological applications (boomer2005functionalinteractionsof pages 1-3, shui2007hematopoieticprogenitorkinase pages 7-8). Notable regulatory mechanisms such as phosphorylation by PKD1 and caspase-mediated cleavage further emphasize the tight control of HPK1 activity in cellular contexts, highlighting the need for targeted approaches that modulate its function without broadly disrupting immune homeostasis (arnold2005activationofhematopoietic pages 16-16, chitre2024hpk1citronhomology pages 1-2). The conservation of HPK1’s domain architecture, including its kinase and citron-homology domains, underscores its evolutionary importance and functional indispensability in signaling networks that govern cell growth, stress response, and immune regulation (chuang2016map4kfamilykinases pages 1-4, dan2001theste20group pages 5-6).
+
+9. References  
+1. arnold2005activationofhematopoietic pages 1-2  
+2. arnold2005activationofhematopoietic pages 2-3  
+3. arnold2005activationofhematopoietic pages 8-9  
+4. arnold2005activationofhematopoietic pages 10-11  
+5. arnold2005activationofhematopoietic pages 11-13  
+6. arnold2005activationofhematopoietic pages 14-16  
+7. arnold2005activationofhematopoietic pages 16-16  
+8. arnold2005activationofhematopoietic pages 18-19  
+9. boomer2005functionalinteractionsof pages 1-3  
+10. chitre2024hpk1citronhomology pages 1-2  
+11. chitre2024hpk1citronhomology pages 2-3  
+12. chitre2024hpk1citronhomology pages 3-4  
+13. chitre2024hpk1citronhomology pages 4-5  
+14. chitre2024hpk1citronhomology pages 6-7  
+15. chitre2024hpk1citronhomology pages 7-8  
+16. chitre2024hpk1citronhomology pages 8-9  
+17. chitre2024hpk1citronhomology pages 9-10  
+18. chuang2016map4kfamilykinases pages 1-4  
+19. chuang2016map4kfamilykinases pages 11-14  
+20. chuang2016map4kfamilykinases pages 29-31  
+21. chuang2016map4kfamilykinases pages 31-34  
+22. chuang2016map4kfamilykinases pages 4-8  
+23. chuang2016map4kfamilykinases pages 8-11  
+24. chuang2016map4kfamilykinases pages 14-18  
+25. chuang2016map4kfamilykinases pages 18-21  
+26. chuang2016map4kfamilykinases pages 34-36  
+27. chuang2016map4kfamilykinases pages 36-38  
+28. chuang2016map4kfamilykinases pages 38-38  
+29. chuang2019map4k3glkinautoimmune pages 1-2  
+30. chuang2019map4kfamilykinases pages 1-3  
+31. chuang2019map4kfamilykinases pages 3-5  
+32. chuang2019map4kfamilykinases pages 10-11  
+33. dan2001theste20group pages 5-6  
+34. dan2001theste20group pages 2-2  
+35. dan2001theste20group pages 2-3  
+36. dan2001theste20group pages 6-7  
+37. dan2001theste20group pages 7-8  
+38. pei2023computationalanalysisof pages 6-8  
+39. shui2007hematopoieticprogenitorkinase pages 5-6  
+40. shui2007hematopoieticprogenitorkinase pages 7-8  
+41. shui2007hematopoieticprogenitorkinase pages 8-8  
+42. thiriet2013cytoplasmicproteinserinethreonine pages 4-7  
+43. cargnello2011activationandfunction pages 1-1  
+
+
+
+References
+
+1. (arnold2005activationofhematopoietic pages 10-11): Rüdiger Arnold, Irene M. Patzak, Brit Neuhaus, Sadia Vancauwenbergh, André Veillette, Johan Van Lint, and Friedemann Kiefer. Activation of hematopoietic progenitor kinase 1 involves relocation, autophosphorylation, and transphosphorylation by protein kinase d1. Molecular and Cellular Biology, 25:2364-2383, Mar 2005. URL: https://doi.org/10.1128/mcb.25.6.2364-2383.2005, doi:10.1128/mcb.25.6.2364-2383.2005. This article has 88 citations and is from a domain leading peer-reviewed journal.
+
+2. (arnold2005activationofhematopoietic pages 2-3): Rüdiger Arnold, Irene M. Patzak, Brit Neuhaus, Sadia Vancauwenbergh, André Veillette, Johan Van Lint, and Friedemann Kiefer. Activation of hematopoietic progenitor kinase 1 involves relocation, autophosphorylation, and transphosphorylation by protein kinase d1. Molecular and Cellular Biology, 25:2364-2383, Mar 2005. URL: https://doi.org/10.1128/mcb.25.6.2364-2383.2005, doi:10.1128/mcb.25.6.2364-2383.2005. This article has 88 citations and is from a domain leading peer-reviewed journal.
+
+3. (bludau2022thestructuralcontext pages 8-9): Isabell Bludau, Sander Willems, Wen-feng Zeng, Maximilian T. Strauss, Fynn M. Hansen, M. Tanzer, Ozge Karayel, B. Schulman, and Matthias Mann. The structural context of posttranslational modifications at a proteome-wide scale. PLoS Biology, May 2022. URL: https://doi.org/10.1371/journal.pbio.3001636, doi:10.1371/journal.pbio.3001636. This article has 113 citations and is from a highest quality peer-reviewed journal.
+
+4. (boomer2005functionalinteractionsof pages 1-3): Jonathan S. Boomer and Tse‐Hua Tan. Functional interactions of hpk1 with adaptor proteins. Journal of Cellular Biochemistry, May 2005. URL: https://doi.org/10.1002/jcb.20401, doi:10.1002/jcb.20401. This article has 76 citations and is from a peer-reviewed journal.
+
+5. (chitre2024hpk1citronhomology pages 1-2): Avantika S. Chitre, Ping Wu, Benjamin T. Walters, Xiangdan Wang, Alexandre Bouyssou, Xiangnan Du, Isabelle Lehoux, Rina Fong, Alisa Arata, Joyce Chan, Die Wang, Yvonne Franke, Jane L. Grogan, Ira Mellman, Laetitia Comps-Agrar, and Weiru Wang. Hpk1 citron homology domain regulates phosphorylation of slp76 and modulates kinase domain interaction dynamics. Nature Communications, May 2024. URL: https://doi.org/10.1038/s41467-024-48014-9, doi:10.1038/s41467-024-48014-9. This article has 5 citations and is from a highest quality peer-reviewed journal.
+
+6. (chitre2024hpk1citronhomology pages 2-3): Avantika S. Chitre, Ping Wu, Benjamin T. Walters, Xiangdan Wang, Alexandre Bouyssou, Xiangnan Du, Isabelle Lehoux, Rina Fong, Alisa Arata, Joyce Chan, Die Wang, Yvonne Franke, Jane L. Grogan, Ira Mellman, Laetitia Comps-Agrar, and Weiru Wang. Hpk1 citron homology domain regulates phosphorylation of slp76 and modulates kinase domain interaction dynamics. Nature Communications, May 2024. URL: https://doi.org/10.1038/s41467-024-48014-9, doi:10.1038/s41467-024-48014-9. This article has 5 citations and is from a highest quality peer-reviewed journal.
+
+7. (chitre2024hpk1citronhomology pages 4-5): Avantika S. Chitre, Ping Wu, Benjamin T. Walters, Xiangdan Wang, Alexandre Bouyssou, Xiangnan Du, Isabelle Lehoux, Rina Fong, Alisa Arata, Joyce Chan, Die Wang, Yvonne Franke, Jane L. Grogan, Ira Mellman, Laetitia Comps-Agrar, and Weiru Wang. Hpk1 citron homology domain regulates phosphorylation of slp76 and modulates kinase domain interaction dynamics. Nature Communications, May 2024. URL: https://doi.org/10.1038/s41467-024-48014-9, doi:10.1038/s41467-024-48014-9. This article has 5 citations and is from a highest quality peer-reviewed journal.
+
+8. (chitre2024hpk1citronhomology pages 6-7): Avantika S. Chitre, Ping Wu, Benjamin T. Walters, Xiangdan Wang, Alexandre Bouyssou, Xiangnan Du, Isabelle Lehoux, Rina Fong, Alisa Arata, Joyce Chan, Die Wang, Yvonne Franke, Jane L. Grogan, Ira Mellman, Laetitia Comps-Agrar, and Weiru Wang. Hpk1 citron homology domain regulates phosphorylation of slp76 and modulates kinase domain interaction dynamics. Nature Communications, May 2024. URL: https://doi.org/10.1038/s41467-024-48014-9, doi:10.1038/s41467-024-48014-9. This article has 5 citations and is from a highest quality peer-reviewed journal.
+
+9. (chitre2024hpk1citronhomology pages 8-9): Avantika S. Chitre, Ping Wu, Benjamin T. Walters, Xiangdan Wang, Alexandre Bouyssou, Xiangnan Du, Isabelle Lehoux, Rina Fong, Alisa Arata, Joyce Chan, Die Wang, Yvonne Franke, Jane L. Grogan, Ira Mellman, Laetitia Comps-Agrar, and Weiru Wang. Hpk1 citron homology domain regulates phosphorylation of slp76 and modulates kinase domain interaction dynamics. Nature Communications, May 2024. URL: https://doi.org/10.1038/s41467-024-48014-9, doi:10.1038/s41467-024-48014-9. This article has 5 citations and is from a highest quality peer-reviewed journal.
+
+10. (chitre2024hpk1citronhomology pages 9-10): Avantika S. Chitre, Ping Wu, Benjamin T. Walters, Xiangdan Wang, Alexandre Bouyssou, Xiangnan Du, Isabelle Lehoux, Rina Fong, Alisa Arata, Joyce Chan, Die Wang, Yvonne Franke, Jane L. Grogan, Ira Mellman, Laetitia Comps-Agrar, and Weiru Wang. Hpk1 citron homology domain regulates phosphorylation of slp76 and modulates kinase domain interaction dynamics. Nature Communications, May 2024. URL: https://doi.org/10.1038/s41467-024-48014-9, doi:10.1038/s41467-024-48014-9. This article has 5 citations and is from a highest quality peer-reviewed journal.
+
+11. (chuang2016map4kfamilykinases pages 1-4): Huai-Chia Chuang, Xiaohong Wang, and Tse-Hua Tan. Map4k family kinases in immunity and inflammation. Advances in Immunology, pages 277-314, Jan 2016. URL: https://doi.org/10.1016/bs.ai.2015.09.006, doi:10.1016/bs.ai.2015.09.006. This article has 180 citations and is from a peer-reviewed journal.
+
+12. (chuang2016map4kfamilykinases pages 11-14): Huai-Chia Chuang, Xiaohong Wang, and Tse-Hua Tan. Map4k family kinases in immunity and inflammation. Advances in Immunology, pages 277-314, Jan 2016. URL: https://doi.org/10.1016/bs.ai.2015.09.006, doi:10.1016/bs.ai.2015.09.006. This article has 180 citations and is from a peer-reviewed journal.
+
+13. (chuang2016map4kfamilykinases pages 29-31): Huai-Chia Chuang, Xiaohong Wang, and Tse-Hua Tan. Map4k family kinases in immunity and inflammation. Advances in Immunology, pages 277-314, Jan 2016. URL: https://doi.org/10.1016/bs.ai.2015.09.006, doi:10.1016/bs.ai.2015.09.006. This article has 180 citations and is from a peer-reviewed journal.
+
+14. (chuang2016map4kfamilykinases pages 31-34): Huai-Chia Chuang, Xiaohong Wang, and Tse-Hua Tan. Map4k family kinases in immunity and inflammation. Advances in Immunology, pages 277-314, Jan 2016. URL: https://doi.org/10.1016/bs.ai.2015.09.006, doi:10.1016/bs.ai.2015.09.006. This article has 180 citations and is from a peer-reviewed journal.
+
+15. (chuang2016map4kfamilykinases pages 4-8): Huai-Chia Chuang, Xiaohong Wang, and Tse-Hua Tan. Map4k family kinases in immunity and inflammation. Advances in Immunology, pages 277-314, Jan 2016. URL: https://doi.org/10.1016/bs.ai.2015.09.006, doi:10.1016/bs.ai.2015.09.006. This article has 180 citations and is from a peer-reviewed journal.
+
+16. (chuang2016map4kfamilykinases pages 8-11): Huai-Chia Chuang, Xiaohong Wang, and Tse-Hua Tan. Map4k family kinases in immunity and inflammation. Advances in Immunology, pages 277-314, Jan 2016. URL: https://doi.org/10.1016/bs.ai.2015.09.006, doi:10.1016/bs.ai.2015.09.006. This article has 180 citations and is from a peer-reviewed journal.
+
+17. (dan2001theste20group pages 5-6): Ippeita Dan, Norinobu M. Watanabe, and Akihiro Kusumi. The ste20 group kinases as regulators of map kinase cascades. Trends in Cell Biology, 11:220-230, May 2001. URL: https://doi.org/10.1016/s0962-8924(01)01980-8, doi:10.1016/s0962-8924(01)01980-8. This article has 821 citations and is from a domain leading peer-reviewed journal.
+
+18. (shui2007hematopoieticprogenitorkinase pages 5-6): Jr-Wen Shui, Jonathan S Boomer, Jin Han, Jun Xu, Gregory A Dement, Guisheng Zhou, and Tse-Hua Tan. Hematopoietic progenitor kinase 1 negatively regulates t cell receptor signaling and t cell–mediated immune responses. Nature Immunology, 8:84-91, Nov 2007. URL: https://doi.org/10.1038/ni1416, doi:10.1038/ni1416. This article has 218 citations and is from a highest quality peer-reviewed journal.
+
+19. (arnold2005activationofhematopoietic pages 1-2): Rüdiger Arnold, Irene M. Patzak, Brit Neuhaus, Sadia Vancauwenbergh, André Veillette, Johan Van Lint, and Friedemann Kiefer. Activation of hematopoietic progenitor kinase 1 involves relocation, autophosphorylation, and transphosphorylation by protein kinase d1. Molecular and Cellular Biology, 25:2364-2383, Mar 2005. URL: https://doi.org/10.1128/mcb.25.6.2364-2383.2005, doi:10.1128/mcb.25.6.2364-2383.2005. This article has 88 citations and is from a domain leading peer-reviewed journal.
+
+20. (arnold2005activationofhematopoietic pages 11-13): Rüdiger Arnold, Irene M. Patzak, Brit Neuhaus, Sadia Vancauwenbergh, André Veillette, Johan Van Lint, and Friedemann Kiefer. Activation of hematopoietic progenitor kinase 1 involves relocation, autophosphorylation, and transphosphorylation by protein kinase d1. Molecular and Cellular Biology, 25:2364-2383, Mar 2005. URL: https://doi.org/10.1128/mcb.25.6.2364-2383.2005, doi:10.1128/mcb.25.6.2364-2383.2005. This article has 88 citations and is from a domain leading peer-reviewed journal.
+
+21. (arnold2005activationofhematopoietic pages 16-16): Rüdiger Arnold, Irene M. Patzak, Brit Neuhaus, Sadia Vancauwenbergh, André Veillette, Johan Van Lint, and Friedemann Kiefer. Activation of hematopoietic progenitor kinase 1 involves relocation, autophosphorylation, and transphosphorylation by protein kinase d1. Molecular and Cellular Biology, 25:2364-2383, Mar 2005. URL: https://doi.org/10.1128/mcb.25.6.2364-2383.2005, doi:10.1128/mcb.25.6.2364-2383.2005. This article has 88 citations and is from a domain leading peer-reviewed journal.
+
+22. (arnold2005activationofhematopoietic pages 18-19): Rüdiger Arnold, Irene M. Patzak, Brit Neuhaus, Sadia Vancauwenbergh, André Veillette, Johan Van Lint, and Friedemann Kiefer. Activation of hematopoietic progenitor kinase 1 involves relocation, autophosphorylation, and transphosphorylation by protein kinase d1. Molecular and Cellular Biology, 25:2364-2383, Mar 2005. URL: https://doi.org/10.1128/mcb.25.6.2364-2383.2005, doi:10.1128/mcb.25.6.2364-2383.2005. This article has 88 citations and is from a domain leading peer-reviewed journal.
+
+23. (arnold2005activationofhematopoietic pages 8-9): Rüdiger Arnold, Irene M. Patzak, Brit Neuhaus, Sadia Vancauwenbergh, André Veillette, Johan Van Lint, and Friedemann Kiefer. Activation of hematopoietic progenitor kinase 1 involves relocation, autophosphorylation, and transphosphorylation by protein kinase d1. Molecular and Cellular Biology, 25:2364-2383, Mar 2005. URL: https://doi.org/10.1128/mcb.25.6.2364-2383.2005, doi:10.1128/mcb.25.6.2364-2383.2005. This article has 88 citations and is from a domain leading peer-reviewed journal.
+
+24. (chitre2024hpk1citronhomology pages 3-4): Avantika S. Chitre, Ping Wu, Benjamin T. Walters, Xiangdan Wang, Alexandre Bouyssou, Xiangnan Du, Isabelle Lehoux, Rina Fong, Alisa Arata, Joyce Chan, Die Wang, Yvonne Franke, Jane L. Grogan, Ira Mellman, Laetitia Comps-Agrar, and Weiru Wang. Hpk1 citron homology domain regulates phosphorylation of slp76 and modulates kinase domain interaction dynamics. Nature Communications, May 2024. URL: https://doi.org/10.1038/s41467-024-48014-9, doi:10.1038/s41467-024-48014-9. This article has 5 citations and is from a highest quality peer-reviewed journal.
+
+25. (chitre2024hpk1citronhomology pages 7-8): Avantika S. Chitre, Ping Wu, Benjamin T. Walters, Xiangdan Wang, Alexandre Bouyssou, Xiangnan Du, Isabelle Lehoux, Rina Fong, Alisa Arata, Joyce Chan, Die Wang, Yvonne Franke, Jane L. Grogan, Ira Mellman, Laetitia Comps-Agrar, and Weiru Wang. Hpk1 citron homology domain regulates phosphorylation of slp76 and modulates kinase domain interaction dynamics. Nature Communications, May 2024. URL: https://doi.org/10.1038/s41467-024-48014-9, doi:10.1038/s41467-024-48014-9. This article has 5 citations and is from a highest quality peer-reviewed journal.
+
+26. (chuang2016map4kfamilykinases pages 14-18): Huai-Chia Chuang, Xiaohong Wang, and Tse-Hua Tan. Map4k family kinases in immunity and inflammation. Advances in Immunology, pages 277-314, Jan 2016. URL: https://doi.org/10.1016/bs.ai.2015.09.006, doi:10.1016/bs.ai.2015.09.006. This article has 180 citations and is from a peer-reviewed journal.
+
+27. (chuang2016map4kfamilykinases pages 18-21): Huai-Chia Chuang, Xiaohong Wang, and Tse-Hua Tan. Map4k family kinases in immunity and inflammation. Advances in Immunology, pages 277-314, Jan 2016. URL: https://doi.org/10.1016/bs.ai.2015.09.006, doi:10.1016/bs.ai.2015.09.006. This article has 180 citations and is from a peer-reviewed journal.
+
+28. (chuang2016map4kfamilykinases pages 34-36): Huai-Chia Chuang, Xiaohong Wang, and Tse-Hua Tan. Map4k family kinases in immunity and inflammation. Advances in Immunology, pages 277-314, Jan 2016. URL: https://doi.org/10.1016/bs.ai.2015.09.006, doi:10.1016/bs.ai.2015.09.006. This article has 180 citations and is from a peer-reviewed journal.
+
+29. (chuang2016map4kfamilykinases pages 36-38): Huai-Chia Chuang, Xiaohong Wang, and Tse-Hua Tan. Map4k family kinases in immunity and inflammation. Advances in Immunology, pages 277-314, Jan 2016. URL: https://doi.org/10.1016/bs.ai.2015.09.006, doi:10.1016/bs.ai.2015.09.006. This article has 180 citations and is from a peer-reviewed journal.
+
+30. (chuang2016map4kfamilykinases pages 38-38): Huai-Chia Chuang, Xiaohong Wang, and Tse-Hua Tan. Map4k family kinases in immunity and inflammation. Advances in Immunology, pages 277-314, Jan 2016. URL: https://doi.org/10.1016/bs.ai.2015.09.006, doi:10.1016/bs.ai.2015.09.006. This article has 180 citations and is from a peer-reviewed journal.
+
+31. (chuang2019map4k3glkinautoimmune pages 1-2): Huai-Chia Chuang and Tse-Hua Tan. Map4k3/glk in autoimmune disease, cancer and aging. Journal of Biomedical Science, Oct 2019. URL: https://doi.org/10.1186/s12929-019-0570-5, doi:10.1186/s12929-019-0570-5. This article has 47 citations and is from a domain leading peer-reviewed journal.
+
+32. (chuang2019map4kfamilykinases pages 1-3): Huai-Chia Chuang and Tse-Hua Tan. Map4k family kinases and dusp family phosphatases in t-cell signaling and systemic lupus erythematosus. Cells, 8:1433, Nov 2019. URL: https://doi.org/10.3390/cells8111433, doi:10.3390/cells8111433. This article has 88 citations and is from a peer-reviewed journal.
+
+33. (chuang2019map4kfamilykinases pages 10-11): Huai-Chia Chuang and Tse-Hua Tan. Map4k family kinases and dusp family phosphatases in t-cell signaling and systemic lupus erythematosus. Cells, 8:1433, Nov 2019. URL: https://doi.org/10.3390/cells8111433, doi:10.3390/cells8111433. This article has 88 citations and is from a peer-reviewed journal.
+
+34. (chuang2019map4kfamilykinases pages 3-5): Huai-Chia Chuang and Tse-Hua Tan. Map4k family kinases and dusp family phosphatases in t-cell signaling and systemic lupus erythematosus. Cells, 8:1433, Nov 2019. URL: https://doi.org/10.3390/cells8111433, doi:10.3390/cells8111433. This article has 88 citations and is from a peer-reviewed journal.
+
+35. (dan2001theste20group pages 2-2): Ippeita Dan, Norinobu M. Watanabe, and Akihiro Kusumi. The ste20 group kinases as regulators of map kinase cascades. Trends in Cell Biology, 11:220-230, May 2001. URL: https://doi.org/10.1016/s0962-8924(01)01980-8, doi:10.1016/s0962-8924(01)01980-8. This article has 821 citations and is from a domain leading peer-reviewed journal.
+
+36. (dan2001theste20group pages 2-3): Ippeita Dan, Norinobu M. Watanabe, and Akihiro Kusumi. The ste20 group kinases as regulators of map kinase cascades. Trends in Cell Biology, 11:220-230, May 2001. URL: https://doi.org/10.1016/s0962-8924(01)01980-8, doi:10.1016/s0962-8924(01)01980-8. This article has 821 citations and is from a domain leading peer-reviewed journal.
+
+37. (dan2001theste20group pages 6-7): Ippeita Dan, Norinobu M. Watanabe, and Akihiro Kusumi. The ste20 group kinases as regulators of map kinase cascades. Trends in Cell Biology, 11:220-230, May 2001. URL: https://doi.org/10.1016/s0962-8924(01)01980-8, doi:10.1016/s0962-8924(01)01980-8. This article has 821 citations and is from a domain leading peer-reviewed journal.
+
+38. (dan2001theste20group pages 7-8): Ippeita Dan, Norinobu M. Watanabe, and Akihiro Kusumi. The ste20 group kinases as regulators of map kinase cascades. Trends in Cell Biology, 11:220-230, May 2001. URL: https://doi.org/10.1016/s0962-8924(01)01980-8, doi:10.1016/s0962-8924(01)01980-8. This article has 821 citations and is from a domain leading peer-reviewed journal.
+
+39. (pei2023computationalanalysisof pages 6-8): Jimin Pei and Qian Cong. Computational analysis of regulatory regions in human protein kinases. Protein Science, Sep 2023. URL: https://doi.org/10.1002/pro.4764, doi:10.1002/pro.4764. This article has 3 citations and is from a peer-reviewed journal.
+
+40. (shui2007hematopoieticprogenitorkinase pages 7-8): Jr-Wen Shui, Jonathan S Boomer, Jin Han, Jun Xu, Gregory A Dement, Guisheng Zhou, and Tse-Hua Tan. Hematopoietic progenitor kinase 1 negatively regulates t cell receptor signaling and t cell–mediated immune responses. Nature Immunology, 8:84-91, Nov 2007. URL: https://doi.org/10.1038/ni1416, doi:10.1038/ni1416. This article has 218 citations and is from a highest quality peer-reviewed journal.
+
+41. (shui2007hematopoieticprogenitorkinase pages 8-8): Jr-Wen Shui, Jonathan S Boomer, Jin Han, Jun Xu, Gregory A Dement, Guisheng Zhou, and Tse-Hua Tan. Hematopoietic progenitor kinase 1 negatively regulates t cell receptor signaling and t cell–mediated immune responses. Nature Immunology, 8:84-91, Nov 2007. URL: https://doi.org/10.1038/ni1416, doi:10.1038/ni1416. This article has 218 citations and is from a highest quality peer-reviewed journal.
+
+42. (thiriet2013cytoplasmicproteinserinethreonine pages 4-7): M Thiriet M Thiriet. Cytoplasmic protein serine/threonine kinases. Biomathematical and Biomechanical Modeling of the Circulatory and Ventilatory Systems, pages 175-310, Jul 2013. URL: https://doi.org/10.1007/978-1-4614-4370-4\_5, doi:10.1007/978-1-4614-4370-4\_5. This article has 11 citations.
+
+43. (arnold2005activationofhematopoietic pages 14-16): Rüdiger Arnold, Irene M. Patzak, Brit Neuhaus, Sadia Vancauwenbergh, André Veillette, Johan Van Lint, and Friedemann Kiefer. Activation of hematopoietic progenitor kinase 1 involves relocation, autophosphorylation, and transphosphorylation by protein kinase d1. Molecular and Cellular Biology, 25:2364-2383, Mar 2005. URL: https://doi.org/10.1128/mcb.25.6.2364-2383.2005, doi:10.1128/mcb.25.6.2364-2383.2005. This article has 88 citations and is from a domain leading peer-reviewed journal.
+
+44. (cargnello2011activationandfunction pages 1-1): Marie Cargnello and Philippe P. Roux. Activation and function of the mapks and their substrates, the mapk-activated protein kinases. Microbiology and Molecular Biology Reviews, 75:50-83, Mar 2011. URL: https://doi.org/10.1128/mmbr.00031-10, doi:10.1128/mmbr.00031-10. This article has 4026 citations and is from a domain leading peer-reviewed journal.

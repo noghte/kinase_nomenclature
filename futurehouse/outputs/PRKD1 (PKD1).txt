@@ -1,0 +1,144 @@
+1. Phylogeny  
+Serine/threonine‐protein kinase D1 (PKD1), also known as PRKD1 or PKCµ, is a member of the Protein Kinase D family that comprises three closely related isoforms (PKD1, PKD2, and PKD3). Initially classified as a member of the protein kinase C (PKC) family because of its conserved diacylglycerol (DAG)‐binding C1 domains, further phylogenetic analysis revealed that PKD1 is more accurately assigned to the Ca²⁺/calmodulin‐dependent kinase (CAMK) superfamily. This revised classification is based on the low homology of its catalytic domain with classical PKCs, the presence of unique regulatory modules such as the pleckstrin homology (PH) domain, and distinct substrate and inhibitor specificities (ardeshiri2025investigationofaa pages 15-21, ardeshiri2025investigationofab pages 15-21). Orthologs of PKD1 have been identified in a wide range of eukaryotic species—including mammals such as human, mouse, and rat—which indicates its evolutionary conservation and fundamental role in cellular signaling (hernandez2022molecularmechanismsof pages 6-12, ren2016proteinkinased1 pages 1-2). Together, these features place PKD1 within an evolutionarily conserved kinase arm that diverged from the classical PKC enzymes during early metazoan evolution, in line with the kinase complement and evolutionary analyses described in the seminal work on the human kinome (bradley2019evolutionofprotein pages 1-2).
+
+2. Reaction Catalyzed  
+PKD1 catalyzes the transfer of a phosphate group from adenosine triphosphate (ATP) to specific serine and threonine residues on substrate proteins. The general chemical reaction can be described as follows:  
+  ATP + [protein]-(L-serine or L-threonine) → ADP + [protein]-(L-serine/threonine)-phosphate + H⁺  
+This phosphate transfer is essential for modulating the structure and function of target proteins involved in various signaling pathways (endicott2012thestructuralbasis pages 1-2, ardeshiri2025investigationofaa pages 15-21).
+
+3. Cofactor Requirements  
+The catalytic activity of PKD1 is dependent on the presence of divalent metal ions, primarily magnesium (Mg²⁺). Mg²⁺ functions as a cofactor by coordinating with ATP within the active site, thereby facilitating the proper orientation of phosphoryl groups for effective phosphotransfer to the substrate’s hydroxyl group (endicott2012thestructuralbasis pages 1-2, babisz2025exploringkinasesubstrate pages 16-20).
+
+4. Substrate Specificity  
+PKD1 displays a defined substrate specificity that enables selective phosphorylation of serine/threonine residues within particular amino acid contexts. The established substrate phosphorylation motif for members of the PKD family is typically described as (L/V/I)X(R/K)XX(S/T)XX, where X represents any amino acid. This motif suggests a preference for a hydrophobic residue at the –5 position, followed by a basic residue at the –3 position, and serine or threonine occupying the phospho-acceptor site (lieb2020functionsofprotein pages 16-22, babisz2025exploringkinasesubstrate pages 11-16). Such sequence constraints ensure that PKD1 phosphorylates a set of functionally related target proteins, including those involved in cellular trafficking, survival, and gene expression regulation.
+
+5. Structure  
+PKD1 exhibits a modular architecture that is central to its regulatory and catalytic functions. Its overall structure consists of an N-terminal regulatory region and a C-terminal catalytic (kinase) domain. The N-terminal region includes several distinct domains:
+ • NTDD (N-terminal dimerization domain): Promotes homodimerization, which may be involved in autoinhibitory interactions.
+ • Two cysteine-rich domains (designated C1A and C1B): These zinc finger–like motifs bind diacylglycerol (DAG) and related lipid molecules, dictating membrane localization and contributing to the spatial control of kinase activation (ardeshiri2025investigationofaa pages 15-21, ardeshiri2025investigationofab pages 15-21).
+ • Pleckstrin homology (PH) domain: Serves as an autoinhibitory module by interacting with the catalytic domain in the absence of activating signals; it also facilitates protein–protein interactions that are important for subcellular targeting (hernandez2022molecularmechanismsof pages 6-12, sundram2011emergingrolesof pages 1-3).
+The C-terminal catalytic domain contains the conserved kinase fold characterized by an N-lobe for ATP binding and a C-lobe that positions the substrate peptide for phosphotransfer. Within this catalytic domain, key structural elements include the activation loop (bearing phosphorylation sites such as Ser738 and Ser742 in human PKD1, corresponding to species-specific numbering), a hydrophobic spine, and the C-helix, which collectively control the conformational state of the enzyme (ardeshiri2025investigationofaa pages 10-15, hernandez2022molecularmechanismsof pages 6-12). Additionally, PKD1 and PKD2 uniquely possess a C-terminal autophosphorylation motif that may function as a PDZ-binding sequence, influencing trafficking and signaling outcomes (ardeshiri2025investigationofaa pages 15-21). To date, no full-length crystal structure for PKD1 has been reported; however, high-resolution models based on individual domains and computational predictions (such as those generated by AlphaFold) provide valuable insights into its molecular organization (kienzle2012proteinkinased pages 12-15, zhang2021multifacetedfunctionsof pages 20-22).
+
+6. Regulation  
+PKD1 activity is tightly regulated by a variety of post-translational modifications and conformational mechanisms that ensure precise control of its kinase function. Under resting conditions, PKD1 is maintained in an autoinhibited conformation primarily through intramolecular interactions between the PH domain and the catalytic core. Activation is triggered by increased intracellular levels of diacylglycerol (DAG), generated in response to extracellular stimuli such as receptor engagement, which induces the translocation of PKD1 to membranes (ardeshiri2025investigationofaa pages 15-21, sundram2011emergingrolesof pages 1-3). At the membrane, PKD1 undergoes phosphorylation at two evolutionarily conserved serine residues located within the activation loop (typically Ser738 and Ser742 in human PKD1) by novel PKC isoforms—most notably PKCε. This phosphorylation relieves the autoinhibitory constraint imposed by the PH domain and stabilizes the active conformation of the enzyme (ardeshiri2025investigationofaa pages 15-21, hernandez2022molecularmechanismsof pages 6-12, steinberg2012regulationofprotein pages 1-2). In addition to PKC-dependent activation, PKD1 can also be activated through autophosphorylation at C-terminal sites (e.g., Ser910 in human PKD1), particularly under conditions of oxidative stress or apoptotic signaling (hernandez2022molecularmechanismsof pages 6-12, lv2021smallmoleculeinhibitortargeting pages 6-8). Furthermore, phosphorylation events in other regulatory regions, as well as interactions with scaffold proteins such as 14-3-3, modulate both the subcellular localization and duration of PKD1 signaling (sundram2011emergingrolesof pages 3-4, ardeshiri2025investigationofa pages 85-88).
+
+7. Function  
+PKD1 functions as a key integrator of signals generated by transient elevations in diacylglycerol (DAG), effectively converting these short-lived lipid signals into sustained biological responses. Its diverse roles include:  
+ • Regulation of Golgi membrane integrity and vesicle trafficking – PKD1 phosphorylates proteins that control the fission of transport vesicles from the trans-Golgi network, ensuring proper cargo delivery and Golgi complex dynamics (ardeshiri2025investigationofaa pages 15-21, gutierrezgalindo2023membranetraffickingin pages 2-4).  
+ • Modulation of cell survival and inflammatory responses – By activating the NF-κB signaling pathway, PKD1 promotes cell survival under stress and contributes to inflammatory signaling cascades, as exemplified by its role in flagellin-stimulated responses (ardeshiri2025investigationofaa pages 15-21, rozengurt2011proteinkinased pages 1-2).  
+ • Control of cell proliferation and differentiation – PKD1 participates in mitogen-activated protein kinase (MAPK) cascades, including modulation of MAPK1/3 (ERK1/2) signaling that drives proliferation, and by mediating the nuclear export of class IIa histone deacetylases (HDACs), it contributes to differentiation processes (ardeshiri2025investigationofaa pages 15-21, hernandez2022molecularmechanismsof pages 6-12).  
+ • Cardiac signaling – High expression of PKD1 in cardiomyocytes is correlated with its involvement in the regulation of calcium handling, contractility, and pathological cardiac hypertrophy (hernandez2022molecularmechanismsof pages 6-12, wood2017emergencyspatiotemporalshift pages 1-2).  
+ • Modulation of receptor signaling – PKD1 phosphorylates the epidermal growth factor receptor (EGFR) on specific dual threonine residues, leading to suppression of EGF-induced MAPK8/JNK1 activation and subsequent downstream signaling events (ardeshiri2025investigationofaa pages 15-21).  
+ • Regulation of small GTPase signaling – Through the phosphorylation of RIN1, PKD1 facilitates the binding of this substrate to 14-3-3 proteins, further influencing cell migration and intracellular dynamics (ardeshiri2025investigationofab pages 10-15).  
+These multifaceted functions underscore the role of PKD1 as a central node in numerous signaling networks that govern cell survival, growth, differentiation, migration, and stress responses (durand2015functionalandtherapeutic pages 1-2, zhang2021multifacetedfunctionsof pages 1-2).
+
+8. Other Comments  
+Given its central role in numerous cellular pathways, PKD1 has attracted considerable attention as a potential therapeutic target in cancer, cardiovascular disease, metabolic disorders, and inflammatory conditions. Several small molecule inhibitors have been developed that target the catalytic domain of PKD isoforms; however, these inhibitors are generally pan-PKD inhibitors with limited isoform selectivity. For example, compounds such as CRT0066101 have shown efficacy in preclinical models by reducing tumor growth and angiogenesis (lv2021smallmoleculeinhibitortargeting pages 6-8, gilles2021developmentsinthe pages 1-3). Owing to its involvement in oncogenic processes such as abnormal cell proliferation, survival, and migration, aberrant PKD1 activity is implicated in various malignancies including breast, pancreatic, and prostate cancers (durand2015functionalandtherapeutic pages 1-2, lieb2020functionsofprotein pages 16-22). Additionally, mutations and dysregulated expression of PKD1 have been associated with the development of cardiac hypertrophy and inflammatory diseases (hernandez2022molecularmechanismsofc pages 6-12, silnitsky2023anupdateon pages 1-2). Although several inhibitors have been advanced into preclinical studies, ongoing research aims to develop agents with improved isoform specificity and pharmacokinetic profiles (lv2021smallmoleculeinhibitortargeting pages 6-8, zhang2021multifacetedfunctionsof pages 22-23).  
+Furthermore, recent studies have employed advanced methodologies such as fluorescence resonance energy transfer (FRET) and proximity biotinylation to elucidate the dynamic interactions and subcellular localization of PKD1, providing deeper insights into its regulation and function within intact cells (ardeshiri2025investigationofa pages 85-88, gomez2024illuminatingfunctionof pages 7-9).
+
+9. References  
+1. Ardeshiri, R. R. (2025). Investigation of a potential interaction between PKD3 and MP-GAP utilizing fluorescent microscopy and FRET. Unknown journal, pages 15-21.  
+2. Ardeshiri, R. R. (2025). Investigation of a potential interaction between PKD3 and MP-GAP utilizing fluorescent microscopy and FRET. Unknown journal, pages 15-21.  
+3. Hernandez, J. M. (2022). Molecular mechanisms of protein kinase D1 regulation of calcium handling in ventricular myocytes. Unknown journal, pages 6-12.  
+4. Hernandez, J. M. (2022). Molecular mechanisms of protein kinase D1 regulation of calcium handling in ventricular myocytes. Unknown journal, pages 6-12.  
+5. Lieb, W. S. (2020). Functions of protein kinase D in β-cell regulation and breast cancer stem cell maintenance. Unknown journal, pages 16-22.  
+6. Lv, D. et al. (2021). Small-molecule inhibitor targeting protein kinase D: a potential therapeutic strategy. Frontiers in Oncology, pages 6-8.  
+7. Ren, B. (2016). Protein kinase D1 signaling in angiogenic gene expression and VEGF-mediated angiogenesis. Frontiers in Cell and Developmental Biology, pages 1-2.  
+8. Steinberg, S. F. (2012). Regulation of protein kinase D1 activity. Molecular Pharmacology, pages 1-2.  
+9. Sundram, V. et al. (2011). Emerging roles of protein kinase D1 in cancer. Molecular Cancer Research, pages 1-3.  
+10. Sundram, V. et al. (2011). Emerging roles of protein kinase D1 in cancer. Molecular Cancer Research, pages 3-4.  
+11. Ardeshiri, R. R. (2025). Investigation of a potential interaction between PKD3 and MP-GAP utilizing fluorescent microscopy and FRET. Unknown journal, pages 15-21.  
+12. Ardeshiri, R. R. (2025). Investigation of a potential interaction between PKD3 and MP-GAP utilizing fluorescent microscopy and FRET. Unknown journal, pages 85-88.  
+13. Ardeshiri, R. R. (2025). Investigation of a potential interaction between PKD3 and MP-GAP utilizing fluorescent microscopy and FRET. Unknown journal, pages 10-15.  
+14. Ardeshiri, R. R. (2025). Investigation of a potential interaction between PKD3 and MP-GAP utilizing fluorescent microscopy and FRET. Unknown journal, pages 10-15.  
+15. Durand, N., Borges, S., & Storz, P. (2015). Functional and therapeutic significance of protein kinase D enzymes in invasive breast cancer. Cellular and Molecular Life Sciences, pages 1-2.  
+16. Gilles, P. et al. (2021). Developments in the discovery and design of protein kinase D inhibitors. ChemMedChem, pages 1-3.  
+17. Gutierrez-Galindo, E. et al. (2023). Membrane trafficking in breast cancer progression: protein kinase D comes into play. Frontiers in Cell and Developmental Biology, pages 2-4.  
+18. Hernandez, J. M. (2022). Molecular mechanisms of protein kinase D1 regulation of calcium handling in ventricular myocytes. Unknown journal, pages 6-12.  
+19. Hernandez, J. M. (2022). Molecular mechanisms of protein kinase D1 regulation of calcium handling in ventricular myocytes. Unknown journal, pages 6-12.  
+20. Kienzle, C. (2012). Protein kinase D controls mitotic Golgi complex fragmentation through a Raf-MEK1 pathway. Unknown journal, pages 12-15.  
+21. Lieb, W. S. (2020). Functions of protein kinase D in β-cell regulation and breast cancer stem cell maintenance. Unknown journal, pages 16-22.  
+22. Rozengurt, E. (2011). Protein kinase D signaling: multiple biological functions in health and disease. Physiology, pages 1-2.  
+23. Silnitsky, S. et al. (2023). An update on protein kinases as therapeutic targets—part i: protein kinase C activation and its role in cancer and cardiovascular diseases. International Journal of Molecular Sciences, pages 1-2.  
+24. Steup, C. D. (2022). The role of protein kinase D1 in progression and metastasis of pancreatic ductal adenocarcinoma. Unknown journal, pages 6-10.  
+25. Steup, C. D. (2022). The role of protein kinase D1 in progression and metastasis of pancreatic ductal adenocarcinoma. Unknown journal, pages 6-10.  
+26. Steup, C. D. (2022). The role of protein kinase D1 in progression and metastasis of pancreatic ductal adenocarcinoma. Unknown journal, pages 6-10.  
+27. Webb, B. L. J. et al. (2000). Protein kinase C isoenzymes: a review of their structure, regulation and role in regulating airway smooth muscle tone and mitogenesis. British Journal of Pharmacology, pages 1-2.  
+28. Webb, B. L. J. et al. (2000). Protein kinase C isoenzymes: a review of their structure, regulation and role in regulating airway smooth muscle tone and mitogenesis. British Journal of Pharmacology, pages 2-3.  
+29. Wood, B. M., & Bossuyt, J. (2017). Emergency spatiotemporal shift: the response of protein kinase D to stress signals in the cardiovascular system. Frontiers in Pharmacology, pages 1-2.  
+30. Zhang, X. et al. (2021). Multifaceted functions of protein kinase D in pathological processes and human diseases. Biomolecules, pages 1-2.  
+31. Zhang, X. et al. (2021). Multifaceted functions of protein kinase D in pathological processes and human diseases. Biomolecules, pages 2-4.  
+32. Zhang, X. et al. (2021). Multifaceted functions of protein kinase D in pathological processes and human diseases. Biomolecules, pages 20-22.  
+33. Zhang, X. et al. (2021). Multifaceted functions of protein kinase D in pathological processes and human diseases. Biomolecules, pages 22-23.  
+34. Babisz, C. (2025). Exploring kinase substrate selectivity and novel mechanisms of kinase regulation. Unknown journal, pages 16-20.  
+35. Bradley, D. et al. (2019). Evolution of protein kinase substrate recognition at the active site. PLOS Biology, pages 2-3.  
+36. Fabbro, D., Cowan-Jacob, S. W., & Moebitz, H. (2015). Ten things you should know about protein kinases: IUPHAR review 14. British Journal of Pharmacology, pages 4-5.  
+37. Gomez, S. M. et al. (2024). Illuminating function of the understudied druggable kinome. Drug Discovery Today, pages 7-9.  
+38. Kienzle, C. (2012). Protein kinase D controls mitotic Golgi complex fragmentation through a Raf-MEK1 pathway. Unknown journal, pages 8-12.  
+39. Kornev, A. P., & Taylor, S. S. (2015). Dynamics-driven allostery in protein kinases. Trends in Biochemical Sciences, pages 15-17.  
+40. Krupa, A., & Srinivasan, N. (2002). The repertoire of protein kinases encoded in the draft version of the human genome: atypical variations and uncommon domain combinations. Genome Biology, pages 13-14.  
+41. Silnitsky, S. et al. (2023). An update on protein kinases as therapeutic targets—part i: protein kinase C activation and its role in cancer and cardiovascular diseases. International Journal of Molecular Sciences, pages 10-11.  
+42. Blazquez, A., & Saiz, J.-C. (2020). Potential for protein kinase pharmacological regulation in Flaviviridae infections. International Journal of Molecular Sciences, pages 1-2.  
+43. Eldar-Finkelman, H., & Eisenstein, M. (2009). Peptide inhibitors targeting protein kinases. Current Pharmaceutical Design, pages 1-2.  
+44. Eldar-Finkelman, H., & Eisenstein, M. (2009). Peptide inhibitors targeting protein kinases. Current Pharmaceutical Design, pages 2-3.  
+45. Endicott, J. A. et al. (2012). The structural basis for control of eukaryotic protein kinases. Annual Review of Biochemistry, pages 1-2.  
+
+
+
+References
+
+1. (ardeshiri2025investigationofaa pages 15-21): R Rouhani Ardeshiri. Investigation of a potential interaction between pkd3 and mp-gap utilizing fluorescent microscopy and fret. Unknown journal, 2025.
+
+2. (ardeshiri2025investigationofab pages 15-21): R Rouhani Ardeshiri. Investigation of a potential interaction between pkd3 and mp-gap utilizing fluorescent microscopy and fret. Unknown journal, 2025.
+
+3. (hernandez2022molecularmechanismsof pages 6-12): J Mira Hernandez. Molecular mechanisms of protein kinase d1 regulation of calcium handling in ventricular myocytes. Unknown journal, 2022.
+
+4. (lieb2020functionsofprotein pages 16-22): WS Lieb. Functions of protein kinase d in β-cell regulation and breast cancer stem cell maintenance. Unknown journal, 2020.
+
+5. (lv2021smallmoleculeinhibitortargeting pages 6-8): Die Lv, Hong-li Chen, Yun Feng, Bomiao Cui, Yingzhu Kang, Ping Zhang, Min Luo, and Jiao Chen. Small-molecule inhibitor targeting protein kinase d: a potential therapeutic strategy. Frontiers in Oncology, Jun 2021. URL: https://doi.org/10.3389/fonc.2021.680221, doi:10.3389/fonc.2021.680221. This article has 19 citations and is from a peer-reviewed journal.
+
+6. (ren2016proteinkinased1 pages 1-2): Bin Ren. Protein kinase d1 signaling in angiogenic gene expression and vegf-mediated angiogenesis. Frontiers in Cell and Developmental Biology, May 2016. URL: https://doi.org/10.3389/fcell.2016.00037, doi:10.3389/fcell.2016.00037. This article has 46 citations and is from a peer-reviewed journal.
+
+7. (steinberg2012regulationofprotein pages 1-2): SF Steinberg. Regulation of protein kinase d1 activity. Molecular Pharmacology, 81:284-291, Mar 2012. URL: https://doi.org/10.1124/mol.111.075986, doi:10.1124/mol.111.075986. This article has 106 citations and is from a domain leading peer-reviewed journal.
+
+8. (sundram2011emergingrolesof pages 1-3): Vasudha Sundram, S. Chauhan, and M. Jaggi. Emerging roles of protein kinase d1 in cancer. Molecular Cancer Research, 9:985-996, Jun 2011. URL: https://doi.org/10.1158/1541-7786.mcr-10-0365, doi:10.1158/1541-7786.mcr-10-0365. This article has 119 citations and is from a peer-reviewed journal.
+
+9. (sundram2011emergingrolesof pages 3-4): Vasudha Sundram, S. Chauhan, and M. Jaggi. Emerging roles of protein kinase d1 in cancer. Molecular Cancer Research, 9:985-996, Jun 2011. URL: https://doi.org/10.1158/1541-7786.mcr-10-0365, doi:10.1158/1541-7786.mcr-10-0365. This article has 119 citations and is from a peer-reviewed journal.
+
+10. (ardeshiri2025investigationofa pages 85-88): R Rouhani Ardeshiri. Investigation of a potential interaction between pkd3 and mp-gap utilizing fluorescent microscopy and fret. Unknown journal, 2025.
+
+11. (ardeshiri2025investigationofaa pages 10-15): R Rouhani Ardeshiri. Investigation of a potential interaction between pkd3 and mp-gap utilizing fluorescent microscopy and fret. Unknown journal, 2025.
+
+12. (ardeshiri2025investigationofab pages 10-15): R Rouhani Ardeshiri. Investigation of a potential interaction between pkd3 and mp-gap utilizing fluorescent microscopy and fret. Unknown journal, 2025.
+
+13. (durand2015functionalandtherapeutic pages 1-2): Nisha Durand, Sahra Borges, and Peter Storz. Functional and therapeutic significance of protein kinase d enzymes in invasive breast cancer. Cellular and Molecular Life Sciences, 72:4369-4382, Aug 2015. URL: https://doi.org/10.1007/s00018-015-2011-2, doi:10.1007/s00018-015-2011-2. This article has 41 citations and is from a domain leading peer-reviewed journal.
+
+14. (gilles2021developmentsinthe pages 1-3): Philippe Gilles, Lauren Voets, Johan Van Lint, and Wim M. De Borggraeve. Developments in the discovery and design of protein kinase d inhibitors. ChemMedChem, 16:2158-2171, May 2021. URL: https://doi.org/10.1002/cmdc.202100110, doi:10.1002/cmdc.202100110. This article has 13 citations and is from a peer-reviewed journal.
+
+15. (gutierrezgalindo2023membranetraffickingin pages 2-4): Elena Gutiérrez-Galindo, Zeynep Hazal Yilmaz, and Angelika Hausser. Membrane trafficking in breast cancer progression: protein kinase d comes into play. Frontiers in Cell and Developmental Biology, May 2023. URL: https://doi.org/10.3389/fcell.2023.1173387, doi:10.3389/fcell.2023.1173387. This article has 7 citations and is from a peer-reviewed journal.
+
+16. (hernandez2022molecularmechanismsofc pages 6-12): J Mira Hernandez. Molecular mechanisms of protein kinase d1 regulation of calcium handling in ventricular myocytes. Unknown journal, 2022.
+
+17. (kienzle2012proteinkinased pages 12-15): Christine Kienzle. Protein kinase d controls mitotic golgi complex fragmentation through a raf-mek1 pathway. Unknown journal, 2012. URL: https://doi.org/10.18419/opus-2025, doi:10.18419/opus-2025. This article has 0 citations.
+
+18. (rozengurt2011proteinkinased pages 1-2): Enrique Rozengurt. Protein kinase d signaling: multiple biological functions in health and disease. Physiology, 26:23-33, Feb 2011. URL: https://doi.org/10.1152/physiol.00037.2010, doi:10.1152/physiol.00037.2010. This article has 307 citations and is from a peer-reviewed journal.
+
+19. (silnitsky2023anupdateon pages 1-2): Shmuel Silnitsky, Samuel J. S. Rubin, Mulate Zerihun, and Nir Qvit. An update on protein kinases as therapeutic targets—part i: protein kinase c activation and its role in cancer and cardiovascular diseases. International Journal of Molecular Sciences, 24:17600, Dec 2023. URL: https://doi.org/10.3390/ijms242417600, doi:10.3390/ijms242417600. This article has 24 citations and is from a peer-reviewed journal.
+
+20. (wood2017emergencyspatiotemporalshift pages 1-2): Brent M. Wood and Julie Bossuyt. Emergency spatiotemporal shift: the response of protein kinase d to stress signals in the cardiovascular system. Frontiers in Pharmacology, Jan 2017. URL: https://doi.org/10.3389/fphar.2017.00009, doi:10.3389/fphar.2017.00009. This article has 31 citations and is from a peer-reviewed journal.
+
+21. (zhang2021multifacetedfunctionsof pages 1-2): Xuejing Zhang, Jaclyn Connelly, Yapeng Chao, and Qiming Jane Wang. Multifaceted functions of protein kinase d in pathological processes and human diseases. Biomolecules, 11:483, Mar 2021. URL: https://doi.org/10.3390/biom11030483, doi:10.3390/biom11030483. This article has 52 citations and is from a peer-reviewed journal.
+
+22. (zhang2021multifacetedfunctionsof pages 20-22): Xuejing Zhang, Jaclyn Connelly, Yapeng Chao, and Qiming Jane Wang. Multifaceted functions of protein kinase d in pathological processes and human diseases. Biomolecules, 11:483, Mar 2021. URL: https://doi.org/10.3390/biom11030483, doi:10.3390/biom11030483. This article has 52 citations and is from a peer-reviewed journal.
+
+23. (zhang2021multifacetedfunctionsof pages 22-23): Xuejing Zhang, Jaclyn Connelly, Yapeng Chao, and Qiming Jane Wang. Multifaceted functions of protein kinase d in pathological processes and human diseases. Biomolecules, 11:483, Mar 2021. URL: https://doi.org/10.3390/biom11030483, doi:10.3390/biom11030483. This article has 52 citations and is from a peer-reviewed journal.
+
+24. (babisz2025exploringkinasesubstrate pages 16-20): C Babisz. Exploring kinase substrate selectivity and novel mechanisms of kinase regulation. Unknown journal, 2025.
+
+25. (gomez2024illuminatingfunctionof pages 7-9): Shawn M. Gomez, Alison D. Axtman, Timothy M. Willson, Michael B. Major, Reid R. Townsend, Peter K. Sorger, and Gary L. Johnson. Illuminating function of the understudied druggable kinome. Drug Discovery Today, 29:103881, Mar 2024. URL: https://doi.org/10.1016/j.drudis.2024.103881, doi:10.1016/j.drudis.2024.103881. This article has 5 citations and is from a domain leading peer-reviewed journal.
+
+26. (babisz2025exploringkinasesubstrate pages 11-16): C Babisz. Exploring kinase substrate selectivity and novel mechanisms of kinase regulation. Unknown journal, 2025.
+
+27. (bradley2019evolutionofprotein pages 1-2): David Bradley and Pedro Beltrao. Evolution of protein kinase substrate recognition at the active site. PLOS Biology, 17:e3000341, Jun 2019. URL: https://doi.org/10.1371/journal.pbio.3000341, doi:10.1371/journal.pbio.3000341. This article has 75 citations and is from a highest quality peer-reviewed journal.
+
+28. (endicott2012thestructuralbasis pages 1-2): Jane A. Endicott, Martin E.M. Noble, and Louise N. Johnson. The structural basis for control of eukaryotic protein kinases. Annual Review of Biochemistry, 81:587-613, Jul 2012. URL: https://doi.org/10.1146/annurev-biochem-052410-090317, doi:10.1146/annurev-biochem-052410-090317. This article has 524 citations and is from a domain leading peer-reviewed journal.

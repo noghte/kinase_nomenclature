@@ -1,0 +1,155 @@
+1. Phylogeny  
+Serine/threonine‐protein kinase Chk2 is highly conserved across eukaryotes and is the mammalian homolog of the yeast checkpoint kinases Rad53 and Cds1. Its evolutionary conservation indicates that it emerged early in eukaryotic evolution and has been maintained as a critical component of the DNA damage response (DDR) network. Within the human kinome, Chk2 belongs to the CMGC group of kinases, which comprises cyclin‐dependent kinases (CDKs), mitogen-activated protein kinases (MAPKs), glycogen synthase kinases (GSKs), and CDK-like kinases. Phylogenetic studies show that orthologs of CHEK2 are present in all mammals, and more distantly related organisms such as yeast contain functionally analogous proteins (Rad53/Cds1), underscoring an evolutionary relationship that reflects conserved checkpoint mechanisms from yeast to man (buscemi2014chk2kinasein pages 3-4, nevanlinna2006thechek2gene pages 5-6).
+
+2. Reaction Catalyzed  
+Chk2 catalyzes the transfer of the γ-phosphate from ATP to a serine or threonine residue in a protein substrate. In chemical terms, the reaction can be represented as:  
+
+  ATP + [protein]-OH → ADP + [protein]-O‑phosphate + H⁺  
+
+This reaction is central to its role as a signaling kinase and is critical for the phosphorylation of numerous substrates involved in cell cycle checkpoint arrest, DNA repair, and apoptosis (li2005regulationofchk2 pages 1-2).
+
+3. Cofactor Requirements  
+The catalytic activity of Chk2, like most serine/threonine kinases, depends on the presence of divalent cations as cofactors. In particular, Mg²⁺ is required to coordinate ATP binding and facilitate the transfer of the phosphate group during kinase activity (seo2003determinationofsubstrate pages 1-2, li2005regulationofchk2 pages 1-2).
+
+4. Substrate Specificity  
+Chk2 exhibits a distinct substrate specificity characterized by a consensus sequence that directs phosphorylation on serine/threonine residues. The protein preferentially phosphorylates substrates that contain the motif L-X-R-X-X-S/T, where “L” is leucine in the –5 position and “R” is arginine in the –3 position relative to the phosphoacceptor serine/threonine residue. This substrate preference is supported by studies showing that Chk2 phosphorylates key regulatory proteins involved in cell cycle progression and DNA repair functions, including CDC25 phosphatases, p53, BRCA1/2, and others (bell2007geneticandfunctional pages 6-7, buscemi2014chk2kinasein pages 15-16, kim2007identificationofnovel pages 1-2). Recent substrate specificity atlases using oriented peptide libraries further define the amino acid requirements surrounding the phosphorylated residue, underlining the importance of hydrophobic and basic residues in the positions upstream of the phosphoacceptor (buscemi2014chk2kinasein pages 13-14, seo2003determinationofsubstrate pages 1-2).
+
+5. Structure  
+Chk2 is a 543–amino acid protein that is organized into three distinct functional domains. The N-terminal region comprises an SQ/TQ cluster domain (SCD) that contains multiple serine/threonine-glutamine motifs, which are targets for phosphorylation by upstream kinases such as ATM. Immediately following the SCD is the forkhead-associated (FHA) domain, a highly conserved phosphopeptide-binding module that is critical for mediating protein-protein interactions and for facilitating the dimerization of Chk2 upon activation. The C-terminal portion harbors the kinase domain, which is responsible for the catalytic activity of the enzyme. Within the kinase domain, key structural features include the activation loop—harboring threonine residues such as T383 and T387—and a conserved catalytic core that supports ATP binding and phosphate transfer. Crystallographic studies and structural models (including those derived from AlphaFold) highlight the overall bilobal architecture typical of protein kinases, with the smaller N-terminal lobe primarily binding ATP and the larger C-terminal lobe serving as the substrate recognition surface. Unique features include the intricate arrangement of the FHA domain that facilitates efficient dimerization as well as autophosphorylation events necessary for full kinase activity (buscemi2014chk2kinasein pages 3-4, stolarova2020chek2germlinevariants pages 7-9, wu2006characterizationofchek2 pages 4-6).
+
+6. Regulation  
+The regulation of Chk2 is multifaceted and is predominantly controlled by phosphorylation events. In response to DNA double-strand breaks, ATM kinase phosphorylates Chk2 at threonine 68 (T68), an event that promotes homodimerization through interactions mediated by the FHA and SCD domains. This initial phosphorylation event is essential for subsequent autophosphorylations at residues such as T383, T387 in the activation loop and at serine 516, all of which are required for full activation of the kinase. In addition to phosphorylation, Chk2 regulation can involve ubiquitination—the process through which its stability is modulated—and dephosphorylation by specific phosphatases such as PP2A and WIP1, which act to return Chk2 to its basal inactive state once DNA repair is accomplished. Moreover, post-translational modifications may influence subcellular localization, as interactions with proteins such as karyopherin-alpha have been implicated in the nuclear import of Chk2. Such regulation ensures that Chk2 functions in a precise and timely manner to control cell cycle arrest, DNA repair, and apoptosis (li2005regulationofchk2 pages 1-2, wu2006characterizationofchek2 pages 3-4, stolarova2020chek2germlinevariants pages 30-31).
+
+7. Function  
+Chk2 plays a central role in maintaining genomic integrity by acting as a key mediator of the DNA damage response. Upon activation by DNA double-strand breaks, Chk2 phosphorylates a variety of substrates to enforce cell cycle arrest at both the G1/S and G2/M checkpoints. For example, phosphorylation of the CDC25 family of phosphatases (including CDC25A, CDC25B, and CDC25C) leads to their inhibition, resulting in the accumulation of inhibitory phosphates on CDK-cyclin complexes and subsequently halting cell cycle progression. In addition, Chk2 phosphorylates the tumor suppressor p53—specifically at serine 20—which alleviates the inhibitory effect of MDM2 and facilitates the stabilization and activation of p53. Activated p53 then drives the transcription of target genes involved in DNA repair, cell cycle arrest, and apoptosis. Furthermore, Chk2 regulates the DNA repair machinery by phosphorylating proteins such as BRCA2, thereby enhancing the recruitment of RAD51 to sites of damage and promoting homologous recombination repair. Beyond its canonical DDR functions, Chk2 also plays roles in mitotic spindle assembly through phosphorylation of proteins like BRCA1 and has been implicated in the regulation of autophagy under conditions of oxidative stress via phosphorylation of E3 ubiquitin ligases such as TRIM32. Its activity has been linked to the transcriptional regulation of genes involved in DNA repair by modulating transcription factors including FOXM1. Collectively, Chk2 functions as a tumor suppressor by coordinating cell cycle checkpoint activation, DNA repair, and apoptosis in response to genomic stress (bell2007geneticandfunctional pages 6-7, buscemi2014chk2kinasein pages 7-8, smith2020dnadamagecheckpoint pages 1-2).
+
+8. Other Comments  
+Several inhibitors targeting Chk2 have been developed, and these are of particular interest in cancer therapy. While some small-molecule inhibitors such as PV1019, VRX0466617, and bis-guanylhydrazone derivatives have been evaluated in preclinical settings, many of these compounds also affect related kinases like Chk1, complicating efforts to achieve absolute selectivity (lountos2011structuralcharacterizationof pages 10-10, stolz2011tumorsuppressorchk2 pages 3-5). Mutations in CHEK2, notably the 1100delC truncation and the I157T missense variant, have been robustly associated with an increased risk of several cancers, including breast, prostate, and colorectal carcinomas, as well as in familial cancer predisposition syndromes (bell2007geneticandfunctional pages 6-7, stolarova2020chek2germlinevariants pages 3-5, wu2006characterizationofchek2 pages 4-6). Owing to its crucial role in safeguarding genomic integrity, alterations in Chk2 function may contribute to chromosomal instability observed in tumors. Moreover, its involvement in modulating the balance between cell survival and apoptosis through the p53 pathway further underscores its significance as a tumor suppressor. In addition to its canonical functions in DDR, emerging evidence suggests that Chk2 may have roles in DNA damage-independent processes such as mitotic spindle assembly and autophagosome regulation under oxidative stress conditions (buscemi2014chk2kinasein pages 16-16, buscemi2014chk2kinasein pages 8-10). These findings render Chk2 a key target for tailoring therapeutic strategies, particularly those aimed at sensitizing tumor cells to DNA-damaging agents (chrisanthar2008chek2mutationsaffecting pages 9-10, mustofa2020rolesofchk2chek2 pages 1-4).
+
+9. References  
+• bell2007geneticandfunctional pages 6-7  
+• buscemi2014chk2kinasein pages 3-4  
+• buscemi2014chk2kinasein pages 7-8  
+• buscemi2014chk2kinasein pages 11-12  
+• buscemi2014chk2kinasein pages 13-14  
+• buscemi2014chk2kinasein pages 15-16  
+• buscemi2014chk2kinasein pages 16-16  
+• buscemi2014chk2kinasein pages 5-6  
+• buscemi2014chk2kinasein pages 6-7  
+• li2005regulationofchk2 pages 1-2  
+• lountos2011structuralcharacterizationof pages 1-2  
+• lountos2011structuralcharacterizationof pages 10-10  
+• ow2014identificationoftwo pages 20-20  
+• seo2003determinationofsubstrate pages 1-2  
+• seo2003determinationofsubstrate pages 4-5  
+• seo2003determinationofsubstrate pages 5-5  
+• smith2020dnadamagecheckpoint pages 1-2  
+• smith2020dnadamagecheckpoint pages 3-4  
+• stolarova2020chek2germlinevariants pages 3-5  
+• stolarova2020chek2germlinevariants pages 5-7  
+• stolarova2020chek2germlinevariants pages 7-9  
+• stolarova2020chek2germlinevariants pages 28-30  
+• stolarova2020chek2germlinevariants pages 30-31  
+• stolarova2020chek2germlinevariants pages 31-33  
+• stolz2011tumorsuppressorchk2 pages 1-2  
+• stolz2011tumorsuppressorchk2 pages 2-3  
+• stolz2011tumorsuppressorchk2 pages 3-5  
+• stolz2011tumorsuppressorchk2 pages 5-5  
+• wu2006characterizationofchek2 pages 3-4  
+• wu2006characterizationofchek2 pages 4-6  
+• wu2006characterizationofchek2 pages 6-6  
+• badgujar2019computationalanalysisof pages 1-2  
+• badgujar2019computationalanalysisof pages 13-15  
+• bychkovsky2022differencesincancer pages 8-8  
+• chrisanthar2008chek2mutationsaffecting pages 9-10  
+• kim2007identificationofnovel pages 1-2  
+• kim2007identificationofnovel pages 2-3  
+• mcgowan2002checkinginon pages 1-2  
+• mustofa2020rolesofchk2chek2 pages 1-4  
+• nevanlinna2006thechek2gene pages 5-6  
+
+
+
+References
+
+1. (bell2007geneticandfunctional pages 6-7): Daphne W. Bell, Sang H. Kim, Andrew K. Godwin, Taryn A. Schiripo, Patricia L. Harris, Sara M. Haserlat, Doke C.R. Wahrer, Christopher A. Haiman, Mary B. Daly, Kristin B. Niendorf, Matthew R. Smith, Dennis C. Sgroi, Judy E. Garber, Olufunmilayo I. Olopade, Loic Le Marchand, Brian E. Henderson, David Altshuler, Daniel A. Haber, and Matthew L. Freedman. Genetic and functional analysis of chek2 (chk2) variants in multiethnic cohorts. International Journal of Cancer, Dec 2007. URL: https://doi.org/10.1002/ijc.23026, doi:10.1002/ijc.23026. This article has 101 citations and is from a domain leading peer-reviewed journal.
+
+2. (buscemi2014chk2kinasein pages 15-16): G Buscemi L Zannini, D Delia. Chk2 kinase in the dna damage response and beyond. Journal of Molecular Cell Biology, 6:442-457, Nov 2014. URL: https://doi.org/10.1093/jmcb/mju045, doi:10.1093/jmcb/mju045. This article has 565 citations and is from a peer-reviewed journal.
+
+3. (buscemi2014chk2kinasein pages 16-16): G Buscemi L Zannini, D Delia. Chk2 kinase in the dna damage response and beyond. Journal of Molecular Cell Biology, 6:442-457, Nov 2014. URL: https://doi.org/10.1093/jmcb/mju045, doi:10.1093/jmcb/mju045. This article has 565 citations and is from a peer-reviewed journal.
+
+4. (buscemi2014chk2kinasein pages 3-4): G Buscemi L Zannini, D Delia. Chk2 kinase in the dna damage response and beyond. Journal of Molecular Cell Biology, 6:442-457, Nov 2014. URL: https://doi.org/10.1093/jmcb/mju045, doi:10.1093/jmcb/mju045. This article has 565 citations and is from a peer-reviewed journal.
+
+5. (buscemi2014chk2kinasein pages 7-8): G Buscemi L Zannini, D Delia. Chk2 kinase in the dna damage response and beyond. Journal of Molecular Cell Biology, 6:442-457, Nov 2014. URL: https://doi.org/10.1093/jmcb/mju045, doi:10.1093/jmcb/mju045. This article has 565 citations and is from a peer-reviewed journal.
+
+6. (li2005regulationofchk2 pages 1-2): Jia Li and David F. Stern. Regulation of chk2 by dna-dependent protein kinase. Journal of Biological Chemistry, 280:12041-12050, Mar 2005. URL: https://doi.org/10.1074/jbc.m412445200, doi:10.1074/jbc.m412445200. This article has 131 citations and is from a domain leading peer-reviewed journal.
+
+7. (lountos2011structuralcharacterizationof pages 1-2): George T. Lountos, Andrew G. Jobson, Joseph E. Tropea, Christopher R. Self, Guangtao Zhang, Yves Pommier, Robert H. Shoemaker, and David S. Waugh. Structural characterization of inhibitor complexes with checkpoint kinase 2 (chk2), a drug target for cancer therapy. Journal of Structural Biology, 176:292-301, Dec 2011. URL: https://doi.org/10.1016/j.jsb.2011.09.008, doi:10.1016/j.jsb.2011.09.008. This article has 25 citations and is from a peer-reviewed journal.
+
+8. (lountos2011structuralcharacterizationof pages 10-10): George T. Lountos, Andrew G. Jobson, Joseph E. Tropea, Christopher R. Self, Guangtao Zhang, Yves Pommier, Robert H. Shoemaker, and David S. Waugh. Structural characterization of inhibitor complexes with checkpoint kinase 2 (chk2), a drug target for cancer therapy. Journal of Structural Biology, 176:292-301, Dec 2011. URL: https://doi.org/10.1016/j.jsb.2011.09.008, doi:10.1016/j.jsb.2011.09.008. This article has 25 citations and is from a peer-reviewed journal.
+
+9. (ow2014identificationoftwo pages 20-20): Ghim Siong Ow, Anna V Ivshina, Gloria Fuentes, and Vladimir A Kuznetsov. Identification of two poorly prognosed ovarian carcinoma subtypes associated with<i>chek2</i>germ-line mutation and non-<i>chek2</i>somatic mutation gene signatures. Cell Cycle, 13:2262-2280, May 2014. URL: https://doi.org/10.4161/cc.29271, doi:10.4161/cc.29271. This article has 39 citations and is from a peer-reviewed journal.
+
+10. (seo2003determinationofsubstrate pages 1-2): Gil-Ju Seo, Se-Eun Kim, Young-Man Lee, Jeong-Won Lee, Jae-Rin Lee, Myong-Joon Hahn, and Seong-Tae Kim. Determination of substrate specificity and putative substrates of chk2 kinase. Biochemical and biophysical research communications, 304 2:339-43, May 2003. URL: https://doi.org/10.1016/s0006-291x(03)00589-8, doi:10.1016/s0006-291x(03)00589-8. This article has 66 citations and is from a peer-reviewed journal.
+
+11. (smith2020dnadamagecheckpoint pages 1-2): Hannah L. Smith, Harriet Southgate, Deborah A. Tweddle, and Nicola J. Curtin. Dna damage checkpoint kinases in cancer. Expert Reviews in Molecular Medicine, Jun 2020. URL: https://doi.org/10.1017/erm.2020.3, doi:10.1017/erm.2020.3. This article has 298 citations and is from a peer-reviewed journal.
+
+12. (stolarova2020chek2germlinevariants pages 3-5): Lenka Stolarova, Petra Kleiblova, Marketa Janatova, Jana Soukupova, Petra Zemankova, Libor Macurek, and Zdenek Kleibl. Chek2 germline variants in cancer predisposition: stalemate rather than checkmate. Cells, 9:2675, Dec 2020. URL: https://doi.org/10.3390/cells9122675, doi:10.3390/cells9122675. This article has 180 citations and is from a peer-reviewed journal.
+
+13. (stolarova2020chek2germlinevariants pages 31-33): Lenka Stolarova, Petra Kleiblova, Marketa Janatova, Jana Soukupova, Petra Zemankova, Libor Macurek, and Zdenek Kleibl. Chek2 germline variants in cancer predisposition: stalemate rather than checkmate. Cells, 9:2675, Dec 2020. URL: https://doi.org/10.3390/cells9122675, doi:10.3390/cells9122675. This article has 180 citations and is from a peer-reviewed journal.
+
+14. (stolarova2020chek2germlinevariants pages 5-7): Lenka Stolarova, Petra Kleiblova, Marketa Janatova, Jana Soukupova, Petra Zemankova, Libor Macurek, and Zdenek Kleibl. Chek2 germline variants in cancer predisposition: stalemate rather than checkmate. Cells, 9:2675, Dec 2020. URL: https://doi.org/10.3390/cells9122675, doi:10.3390/cells9122675. This article has 180 citations and is from a peer-reviewed journal.
+
+15. (stolarova2020chek2germlinevariants pages 7-9): Lenka Stolarova, Petra Kleiblova, Marketa Janatova, Jana Soukupova, Petra Zemankova, Libor Macurek, and Zdenek Kleibl. Chek2 germline variants in cancer predisposition: stalemate rather than checkmate. Cells, 9:2675, Dec 2020. URL: https://doi.org/10.3390/cells9122675, doi:10.3390/cells9122675. This article has 180 citations and is from a peer-reviewed journal.
+
+16. (stolz2011tumorsuppressorchk2 pages 1-2): Ailine Stolz, Norman Ertych, and Holger Bastians. Tumor suppressor <i>chk2</i>: regulator of dna damage response and mediator of chromosomal stability. Clinical Cancer Research, 17:401-405, Feb 2011. URL: https://doi.org/10.1158/1078-0432.ccr-10-1215, doi:10.1158/1078-0432.ccr-10-1215. This article has 152 citations and is from a highest quality peer-reviewed journal.
+
+17. (stolz2011tumorsuppressorchk2 pages 2-3): Ailine Stolz, Norman Ertych, and Holger Bastians. Tumor suppressor <i>chk2</i>: regulator of dna damage response and mediator of chromosomal stability. Clinical Cancer Research, 17:401-405, Feb 2011. URL: https://doi.org/10.1158/1078-0432.ccr-10-1215, doi:10.1158/1078-0432.ccr-10-1215. This article has 152 citations and is from a highest quality peer-reviewed journal.
+
+18. (stolz2011tumorsuppressorchk2 pages 3-5): Ailine Stolz, Norman Ertych, and Holger Bastians. Tumor suppressor <i>chk2</i>: regulator of dna damage response and mediator of chromosomal stability. Clinical Cancer Research, 17:401-405, Feb 2011. URL: https://doi.org/10.1158/1078-0432.ccr-10-1215, doi:10.1158/1078-0432.ccr-10-1215. This article has 152 citations and is from a highest quality peer-reviewed journal.
+
+19. (wu2006characterizationofchek2 pages 4-6): Xianglin Wu, Xiang-yang Dong, Wanguo Liu, and Junjie Chen. Characterization of chek2 mutations in prostate cancer. Human Mutation, Aug 2006. URL: https://doi.org/10.1002/humu.20321, doi:10.1002/humu.20321. This article has 53 citations and is from a domain leading peer-reviewed journal.
+
+20. (badgujar2019computationalanalysisof pages 1-2): Nutan V. Badgujar, Bhoomi V. Tarapara, and Franky D. Shah. Computational analysis of high-risk snps in human chk2 gene responsible for hereditary breast cancer: a functional and structural impact. PLOS ONE, 14:e0220711, Aug 2019. URL: https://doi.org/10.1371/journal.pone.0220711, doi:10.1371/journal.pone.0220711. This article has 26 citations and is from a peer-reviewed journal.
+
+21. (badgujar2019computationalanalysisof pages 13-15): Nutan V. Badgujar, Bhoomi V. Tarapara, and Franky D. Shah. Computational analysis of high-risk snps in human chk2 gene responsible for hereditary breast cancer: a functional and structural impact. PLOS ONE, 14:e0220711, Aug 2019. URL: https://doi.org/10.1371/journal.pone.0220711, doi:10.1371/journal.pone.0220711. This article has 26 citations and is from a peer-reviewed journal.
+
+22. (buscemi2014chk2kinasein pages 11-12): G Buscemi L Zannini, D Delia. Chk2 kinase in the dna damage response and beyond. Journal of Molecular Cell Biology, 6:442-457, Nov 2014. URL: https://doi.org/10.1093/jmcb/mju045, doi:10.1093/jmcb/mju045. This article has 565 citations and is from a peer-reviewed journal.
+
+23. (buscemi2014chk2kinasein pages 13-14): G Buscemi L Zannini, D Delia. Chk2 kinase in the dna damage response and beyond. Journal of Molecular Cell Biology, 6:442-457, Nov 2014. URL: https://doi.org/10.1093/jmcb/mju045, doi:10.1093/jmcb/mju045. This article has 565 citations and is from a peer-reviewed journal.
+
+24. (buscemi2014chk2kinasein pages 5-6): G Buscemi L Zannini, D Delia. Chk2 kinase in the dna damage response and beyond. Journal of Molecular Cell Biology, 6:442-457, Nov 2014. URL: https://doi.org/10.1093/jmcb/mju045, doi:10.1093/jmcb/mju045. This article has 565 citations and is from a peer-reviewed journal.
+
+25. (buscemi2014chk2kinasein pages 8-10): G Buscemi L Zannini, D Delia. Chk2 kinase in the dna damage response and beyond. Journal of Molecular Cell Biology, 6:442-457, Nov 2014. URL: https://doi.org/10.1093/jmcb/mju045, doi:10.1093/jmcb/mju045. This article has 565 citations and is from a peer-reviewed journal.
+
+26. (bychkovsky2022differencesincancer pages 8-8): Brittany L. Bychkovsky, Nihat B. Agaoglu, Carolyn Horton, Jing Zhou, Amal Yussuf, Parichehr Hemyari, Marcy E. Richardson, Colin Young, Holly LaDuca, Deborah L. McGuinness, Rochelle Scheib, Judy E. Garber, and Huma Q. Rana. Differences in cancer phenotypes among frequent <i>chek2</i> variants and implications for clinical care—checking <i>chek2</i>. JAMA Oncology, 8:1598, Nov 2022. URL: https://doi.org/10.1001/jamaoncol.2022.4071, doi:10.1001/jamaoncol.2022.4071. This article has 65 citations and is from a highest quality peer-reviewed journal.
+
+27. (chrisanthar2008chek2mutationsaffecting pages 9-10): Ranjan Chrisanthar, Stian Knappskog, Erik Løkkevik, Gun Anker, Bjørn Østenstad, Steinar Lundgren, Elisabet O. Berge, Terje Risberg, Ingvil Mjaaland, Lovise Mæhle, Lars Fredrik Engebretsen, Johan Richard Lillehaug, and Per Eystein Lønning. Chek2 mutations affecting kinase activity together with mutations in tp53 indicate a functional pathway associated with resistance to epirubicin in primary breast cancer. PLoS ONE, 3:e3062, Aug 2008. URL: https://doi.org/10.1371/journal.pone.0003062, doi:10.1371/journal.pone.0003062. This article has 112 citations and is from a peer-reviewed journal.
+
+28. (kim2007identificationofnovel pages 1-2): Myoung-Ae Kim, Hyun-Ju Kim, Alexandra L Brown, Min-Young Lee, Yoe-Sik Bae, Joo-In Park, Jong-Young Kwak, Jay H Chung, and Jeanho Yun. Identification of novel substrates for human checkpoint kinase chk1 and chk2 through genome-wide screening using a consensus chk phosphorylation motif. Experimental &amp; Molecular Medicine, 39:205-212, Apr 2007. URL: https://doi.org/10.1038/emm.2007.23, doi:10.1038/emm.2007.23. This article has 60 citations.
+
+29. (mcgowan2002checkinginon pages 1-2): Clare H. McGowan. Checking in on cds1 (chk2): a checkpoint kinase and tumor suppressor. BioEssays, Jun 2002. URL: https://doi.org/10.1002/bies.10101, doi:10.1002/bies.10101. This article has 153 citations and is from a peer-reviewed journal.
+
+30. (mustofa2020rolesofchk2chek2 pages 1-4): Md. Kawsar Mustofa, Yuki Tanoue, Chie Tateishi, Cyrus Vaziri, and Satoshi Tateishi. Roles of <scp>chk2</scp>/<scp>chek2</scp> in guarding against environmentally induced <scp>dna</scp> damage and replication‐stress. Environmental and Molecular Mutagenesis, 61:730-735, Jul 2020. URL: https://doi.org/10.1002/em.22397, doi:10.1002/em.22397. This article has 35 citations and is from a peer-reviewed journal.
+
+31. (nevanlinna2006thechek2gene pages 5-6): H Nevanlinna and J Bartek. The chek2 gene and inherited breast cancer susceptibility. Oncogene, 25:5912-5919, Sep 2006. URL: https://doi.org/10.1038/sj.onc.1209877, doi:10.1038/sj.onc.1209877. This article has 300 citations and is from a domain leading peer-reviewed journal.
+
+32. (seo2003determinationofsubstrate pages 4-5): Gil-Ju Seo, Se-Eun Kim, Young-Man Lee, Jeong-Won Lee, Jae-Rin Lee, Myong-Joon Hahn, and Seong-Tae Kim. Determination of substrate specificity and putative substrates of chk2 kinase. Biochemical and biophysical research communications, 304 2:339-43, May 2003. URL: https://doi.org/10.1016/s0006-291x(03)00589-8, doi:10.1016/s0006-291x(03)00589-8. This article has 66 citations and is from a peer-reviewed journal.
+
+33. (seo2003determinationofsubstrate pages 5-5): Gil-Ju Seo, Se-Eun Kim, Young-Man Lee, Jeong-Won Lee, Jae-Rin Lee, Myong-Joon Hahn, and Seong-Tae Kim. Determination of substrate specificity and putative substrates of chk2 kinase. Biochemical and biophysical research communications, 304 2:339-43, May 2003. URL: https://doi.org/10.1016/s0006-291x(03)00589-8, doi:10.1016/s0006-291x(03)00589-8. This article has 66 citations and is from a peer-reviewed journal.
+
+34. (smith2020dnadamagecheckpoint pages 3-4): Hannah L. Smith, Harriet Southgate, Deborah A. Tweddle, and Nicola J. Curtin. Dna damage checkpoint kinases in cancer. Expert Reviews in Molecular Medicine, Jun 2020. URL: https://doi.org/10.1017/erm.2020.3, doi:10.1017/erm.2020.3. This article has 298 citations and is from a peer-reviewed journal.
+
+35. (stolarova2020chek2germlinevariants pages 28-30): Lenka Stolarova, Petra Kleiblova, Marketa Janatova, Jana Soukupova, Petra Zemankova, Libor Macurek, and Zdenek Kleibl. Chek2 germline variants in cancer predisposition: stalemate rather than checkmate. Cells, 9:2675, Dec 2020. URL: https://doi.org/10.3390/cells9122675, doi:10.3390/cells9122675. This article has 180 citations and is from a peer-reviewed journal.
+
+36. (stolarova2020chek2germlinevariants pages 30-31): Lenka Stolarova, Petra Kleiblova, Marketa Janatova, Jana Soukupova, Petra Zemankova, Libor Macurek, and Zdenek Kleibl. Chek2 germline variants in cancer predisposition: stalemate rather than checkmate. Cells, 9:2675, Dec 2020. URL: https://doi.org/10.3390/cells9122675, doi:10.3390/cells9122675. This article has 180 citations and is from a peer-reviewed journal.
+
+37. (stolz2011tumorsuppressorchk2 pages 5-5): Ailine Stolz, Norman Ertych, and Holger Bastians. Tumor suppressor <i>chk2</i>: regulator of dna damage response and mediator of chromosomal stability. Clinical Cancer Research, 17:401-405, Feb 2011. URL: https://doi.org/10.1158/1078-0432.ccr-10-1215, doi:10.1158/1078-0432.ccr-10-1215. This article has 152 citations and is from a highest quality peer-reviewed journal.
+
+38. (wu2006characterizationofchek2 pages 3-4): Xianglin Wu, Xiang-yang Dong, Wanguo Liu, and Junjie Chen. Characterization of chek2 mutations in prostate cancer. Human Mutation, Aug 2006. URL: https://doi.org/10.1002/humu.20321, doi:10.1002/humu.20321. This article has 53 citations and is from a domain leading peer-reviewed journal.
+
+39. (wu2006characterizationofchek2 pages 6-6): Xianglin Wu, Xiang-yang Dong, Wanguo Liu, and Junjie Chen. Characterization of chek2 mutations in prostate cancer. Human Mutation, Aug 2006. URL: https://doi.org/10.1002/humu.20321, doi:10.1002/humu.20321. This article has 53 citations and is from a domain leading peer-reviewed journal.
+
+40. (buscemi2014chk2kinasein pages 6-7): G Buscemi L Zannini, D Delia. Chk2 kinase in the dna damage response and beyond. Journal of Molecular Cell Biology, 6:442-457, Nov 2014. URL: https://doi.org/10.1093/jmcb/mju045, doi:10.1093/jmcb/mju045. This article has 565 citations and is from a peer-reviewed journal.
+
+41. (kim2007identificationofnovel pages 2-3): Myoung-Ae Kim, Hyun-Ju Kim, Alexandra L Brown, Min-Young Lee, Yoe-Sik Bae, Joo-In Park, Jong-Young Kwak, Jay H Chung, and Jeanho Yun. Identification of novel substrates for human checkpoint kinase chk1 and chk2 through genome-wide screening using a consensus chk phosphorylation motif. Experimental &amp; Molecular Medicine, 39:205-212, Apr 2007. URL: https://doi.org/10.1038/emm.2007.23, doi:10.1038/emm.2007.23. This article has 60 citations.

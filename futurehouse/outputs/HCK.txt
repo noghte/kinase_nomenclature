@@ -1,0 +1,96 @@
+1. Phylogeny  
+Tyrosine‐protein kinase HCK belongs to the Src family of non‐receptor tyrosine kinases, which are evolutionarily conserved signaling enzymes that first emerged in early metazoans. HCK is expressed primarily in hematopoietic cells and its orthologs can be found in other mammalian species, indicating a conserved function among vertebrates. Within the human kinome, HCK is grouped together with other Src family members such as c-Src, Lyn, Fgr, Fyn, Blk, Lck, and Yes. Comparative analyses that outline the protein kinase complement in humans demonstrate that Src family kinases share a common evolutionary origin that traces back to early eukaryotes, and their conservation is underscored by the high sequence homology observed in their catalytic domains (ayrapetov2006structuralandfunctional pages 14-18, lin2005probingtheregulatory pages 26-30).
+
+2. Reaction Catalyzed  
+HCK catalyzes the transfer of the γ-phosphate from ATP to specific tyrosine residues on substrate proteins. The overall chemical reaction can be represented as:  
+  ATP + [protein]-tyrosine → ADP + [protein]-phosphotyrosine + H⁺.  
+This reaction is a hallmark of protein tyrosine kinases and underpins the regulation of multiple signaling pathways by altering protein conformation and function through phosphorylation (ayrapetov2006structuralandfunctional pages 14-18, corwin2016decipheringhumancytoplasmic pages 13-16).
+
+3. Cofactor Requirements  
+The catalytic activity of HCK, like that of other protein kinases, is dependent on the presence of divalent metal ions. In particular, Mg²⁺ ions are required to coordinate the binding of ATP within the active site and to facilitate the phosphoryl transfer reaction. This requirement for Mg²⁺ is typical for kinases that utilize ATP as a phosphate donor (ayrapetov2006structuralandfunctional pages 14-18, lin2005probingtheregulatory pages 22-26).
+
+4. Substrate Specificity  
+HCK exhibits substrate specificity that is characteristic of Src family kinases. Its substrate recognition is determined not only by the catalytic pocket but also by its modular SH2 and SH3 domains, which interact with phosphotyrosine‐containing sequences and proline-rich regions, respectively. HCK phosphorylates a range of substrates including adaptor proteins and signaling molecules such as CBL, ADAM15, BCR, ELMO1, FCGR2A, GAB1, GAB2, RAPGEF1, STAT5B, TP73, VAV1, and WAS. The intrinsic substrate specificity of human tyrosine kinases has been delineated through peptide microarrays and motif analysis, with the substrates of HCK generally displaying a context that is recognized via docking interactions mediated by its SH2 domain following an initial phosphorylation event. Thus, the substrate motif does not rely solely on a simple linear consensus but is dictated by the spatial arrangement of amino acids that flank the phosphorylated tyrosine and by additional protein–protein interaction modules (bhanumathy2021proteintyrosinekinases pages 2-4, corwin2016decipheringhumancytoplasmic pages 152-155).
+
+5. Structure  
+HCK is organized into several distinct structural domains, which together mediate its localization, substrate binding, and catalytic activity. At the N-terminus, HCK contains an SH4 domain that undergoes co-translational myristoylation and, in some cases, palmitoylation; these lipid modifications are critical for anchoring the kinase to the inner leaflet of the plasma membrane (ayrapetov2006structuralandfunctional pages 25-29, lin2005probingtheregulatory pages 26-30). Immediately following the SH4 domain is a unique region that contributes to isoform-specific interactions. Next, HCK possesses an SH3 domain that binds proline-rich sequences, contributing to its autoinhibitory conformation through intramolecular interactions with a linker region; the SH3-mediated interactions also facilitate the assembly of signaling complexes (ayrapetov2006structuralandfunctional pages 21-25, ayrapetov2006structuralandfunctional pages 33-36). Adjacent to the SH3 domain is the SH2 domain, which recognizes phosphotyrosine motifs on target proteins or within the kinase itself. The central catalytic (kinase) domain is responsible for the phosphoryl transfer reaction; it shows the canonical bilobal structure observed in protein kinases, with a smaller N-terminal lobe that binds ATP and a larger C-terminal lobe that binds the substrate. Key structural features include the activation loop, which must be phosphorylated at an activating tyrosine residue for full catalytic activity, a hydrophobic spine that stabilizes the active conformation, and the C-helix, whose proper positioning is essential for ATP binding and catalysis (ayrapetov2006structuralandfunctional pages 39-42, lin2005probingtheregulatory pages 72-75). The C-terminal regulatory tail contains a specific tyrosine residue that, when phosphorylated by C-terminal Src kinase (Csk), participates in the intramolecular autoinhibition of HCK by binding to its own SH2 domain. This structural arrangement is crucial for maintaining the kinase in an inactive state under basal conditions and allowing prompt activation in response to extracellular signals (ayrapetov2006structuralandfunctional pages 148-150, corwin2016decipheringhumancytoplasmic pages 137-141).
+
+6. Regulation  
+The regulatory mechanisms governing HCK activity involve multiple levels of control that include post-translational modifications and intramolecular domain interactions. HCK is subject to both activating and inhibitory phosphorylation events. Autophosphorylation within the activation loop (analogous to Tyr416 in c-Src) leads to a conformational rearrangement that stimulates catalytic activity, whereas phosphorylation of the C-terminal tyrosine (comparable to Tyr527 in c-Src) by regulatory kinases such as Csk results in a closed, inactive conformation by promoting intramolecular binding between the phosphorylated tail and the SH2 domain (ayrapetov2006structuralandfunctional pages 148-150, lin2005probingtheregulatory pages 34-37). In addition, allosteric regulation occurs through the displacement of the SH3 domain by competing ligands, as evidenced by engineered variants of HCK that incorporate insertions in the kinase domain to allow external modulation. For example, experiments using an engineered variant of HCK (HckFL-Bad) demonstrated that disrupting autoinhibitory domain interactions can robustly activate the kinase, an effect that was reversible upon treatment with a selective small molecule disruptor (A-1155463) (bienick2019engineeredcontrolover pages 68-73). These regulatory modifications are crucial for ensuring that HCK activity is tightly controlled in hematopoietic cells, thereby preventing aberrant signaling that could lead to oncogenic transformation (corwin2016decipheringhumancytoplasmic pages 152-155, lin2005probingtheregulatory pages 139-141).
+
+7. Function  
+HCK plays a central role in the regulation of innate immune responses within hematopoietic cells. Its expression is primarily detected in neutrophils, monocytes, macrophages, and mast cells, where it transmits signals downstream of a variety of cell surface receptors. These receptors include Fcγ receptors (such as FCGR1A and FCGR2A), CSF3R (colony-stimulating factor 3 receptor), receptors for interferon-γ (IFNG), interleukins (IL2, IL6, IL8), and integrins (ITGB1 and ITGB2). By phosphorylating a multitude of substrates—including the E3 ubiquitin ligase CBL, the metalloprotease ADAM15, B-cell receptor (BCR) components, ELMO1, GAB1, GAB2, RAPGEF1, STAT5B, transcriptional regulator TP73, VAV1, and the Wiskott–Aldrich syndrome protein (WAS)—HCK orchestrates diverse cellular processes (Information section; bhanumathy2021proteintyrosinekinases pages 7-9, ubau2013functionalcharacterizationof pages 15-18). In the context of the phagocytic process, HCK mediates the mobilization of secretory lysosomes, degranulation, and the activation of NADPH oxidase, which collectively facilitate the respiratory burst critical for pathogen clearance. Additionally, HCK influences cell adhesion and migration by promoting actin cytoskeletal reorganization, including the formation of podosomes and cell protrusions. Beyond these roles, HCK negatively regulates TP73-mediated transcription and apoptosis, thereby contributing to cell survival. These diverse functions underscore the kinase’s role as an integral mediator in immune cell signaling and innate host defense (Information section; bhanumathy2021proteintyrosinekinases pages 7-9, corwin2016decipheringhumancytoplasmic pages 10-13).
+
+8. Other Comments  
+Experimental efforts and structural studies underscore the potential utility of HCK as a therapeutic target. Selective inhibitors and engineered modulation strategies have been designed to regulate its activity; for instance, modified forms of HCK that enable controllable kinase function have been tested in cell-based assays with small molecule disruptors (bienick2019engineeredcontrolover pages 68-73). Dysregulation of HCK activity has been implicated in leukemogenesis and other hematological malignancies, rendering it an attractive candidate for drug targeting in such diseases. Although specific HCK inhibitors are not yet as well characterized as those for some other tyrosine kinases, the design principles extrapolated from Src family kinase regulation have guided the discovery of small molecules that inhibit or modulate HCK activity. Furthermore, mutations affecting either the ATP-binding site or the regulatory domains of HCK may have profound effects on its activity, and such mutations are currently the object of ongoing research in the context of immune dysregulation and cancer. The interconnected nature of HCK with signaling networks involving upstream receptors and downstream substrates emphasizes its central position in coordinating cellular responses and highlights the continuing need to refine pharmacological strategies targeting this kinase to treat conditions such as leukemia and chronic inflammatory disorders (bhanumathy2021proteintyrosinekinases pages 7-9, corwin2016decipheringhumancytoplasmic pages 152-155).
+
+9. References  
+1. ayrapetov2006structuralandfunctional pages 14-18  
+2. ayrapetov2006structuralandfunctional pages 21-25  
+3. ayrapetov2006structuralandfunctional pages 25-29  
+4. ayrapetov2006structuralandfunctional pages 33-36  
+5. ayrapetov2006structuralandfunctional pages 39-42  
+6. ayrapetov2006structuralandfunctional pages 148-150  
+7. ayrapetov2006structuralandfunctional pages 153-155  
+8. bhanumathy2021proteintyrosinekinases pages 1-2  
+9. bhanumathy2021proteintyrosinekinases pages 2-4  
+10. bhanumathy2021proteintyrosinekinases pages 7-9  
+11. bienick2019engineeredcontrolover pages 68-73  
+12. corwin2016decipheringhumancytoplasmic pages 10-13  
+13. corwin2016decipheringhumancytoplasmic pages 13-16  
+14. corwin2016decipheringhumancytoplasmic pages 137-141  
+15. corwin2016decipheringhumancytoplasmic pages 152-155  
+16. lin2005probingtheregulatory pages 22-26  
+17. lin2005probingtheregulatory pages 26-30  
+18. lin2005probingtheregulatory pages 34-37  
+19. lin2005probingtheregulatory pages 72-75  
+20. lin2005probingtheregulatory pages 139-141  
+21. kwon2019tracingtheevolution pages 10-15  
+
+
+
+References
+
+1. (bhanumathy2021proteintyrosinekinases pages 2-4): Kalpana K. Bhanumathy, Amrutha Balagopal, Frederick S. Vizeacoumar, Franco J. Vizeacoumar, Andrew Freywald, and Vincenzo Giambra. Protein tyrosine kinases: their roles and their targeting in leukemia. Cancers, 13:184, Jan 2021. URL: https://doi.org/10.3390/cancers13020184, doi:10.3390/cancers13020184. This article has 74 citations and is from a peer-reviewed journal.
+
+2. (bienick2019engineeredcontrolover pages 68-73): M Bienick. Engineered control over enzyme activity. Unknown journal, 2019.
+
+3. (corwin2016decipheringhumancytoplasmic pages 13-16): T Corwin. Deciphering human cytoplasmic protein tyrosine kinase phosphorylation specificity in yeast. Unknown journal, 2016.
+
+4. (ayrapetov2006structuralandfunctional pages 14-18): Marina K. Ayrapetov. Structural and functional studies of the Csk and *Src family protein tyrosine kinases. PhD thesis, University of Rhode Island, 2006. URL: https://doi.org/10.23860/diss-2090, doi:10.23860/diss-2090. This article has 0 citations.
+
+5. (ayrapetov2006structuralandfunctional pages 148-150): Marina K. Ayrapetov. Structural and functional studies of the Csk and *Src family protein tyrosine kinases. PhD thesis, University of Rhode Island, 2006. URL: https://doi.org/10.23860/diss-2090, doi:10.23860/diss-2090. This article has 0 citations.
+
+6. (ayrapetov2006structuralandfunctional pages 153-155): Marina K. Ayrapetov. Structural and functional studies of the Csk and *Src family protein tyrosine kinases. PhD thesis, University of Rhode Island, 2006. URL: https://doi.org/10.23860/diss-2090, doi:10.23860/diss-2090. This article has 0 citations.
+
+7. (ayrapetov2006structuralandfunctional pages 25-29): Marina K. Ayrapetov. Structural and functional studies of the Csk and *Src family protein tyrosine kinases. PhD thesis, University of Rhode Island, 2006. URL: https://doi.org/10.23860/diss-2090, doi:10.23860/diss-2090. This article has 0 citations.
+
+8. (ayrapetov2006structuralandfunctional pages 39-42): Marina K. Ayrapetov. Structural and functional studies of the Csk and *Src family protein tyrosine kinases. PhD thesis, University of Rhode Island, 2006. URL: https://doi.org/10.23860/diss-2090, doi:10.23860/diss-2090. This article has 0 citations.
+
+9. (bhanumathy2021proteintyrosinekinases pages 1-2): Kalpana K. Bhanumathy, Amrutha Balagopal, Frederick S. Vizeacoumar, Franco J. Vizeacoumar, Andrew Freywald, and Vincenzo Giambra. Protein tyrosine kinases: their roles and their targeting in leukemia. Cancers, 13:184, Jan 2021. URL: https://doi.org/10.3390/cancers13020184, doi:10.3390/cancers13020184. This article has 74 citations and is from a peer-reviewed journal.
+
+10. (corwin2016decipheringhumancytoplasmic pages 137-141): T Corwin. Deciphering human cytoplasmic protein tyrosine kinase phosphorylation specificity in yeast. Unknown journal, 2016.
+
+11. (corwin2016decipheringhumancytoplasmic pages 152-155): T Corwin. Deciphering human cytoplasmic protein tyrosine kinase phosphorylation specificity in yeast. Unknown journal, 2016.
+
+12. (kwon2019tracingtheevolution pages 10-15): HA Kwon. Tracing the evolution of the tyrosine kinome from sequence to function. Unknown journal, 2019.
+
+13. (lin2005probingtheregulatory pages 139-141): Xiaofeng Lin. Probing the regulatory mechanisms of protein tyrosine kinases, using c-terminal Src kinase (Csk) as a model system. PhD thesis, University of Rhode Island, 2005. URL: https://doi.org/10.23860/diss-2047, doi:10.23860/diss-2047. This article has 0 citations.
+
+14. (lin2005probingtheregulatory pages 22-26): Xiaofeng Lin. Probing the regulatory mechanisms of protein tyrosine kinases, using c-terminal Src kinase (Csk) as a model system. PhD thesis, University of Rhode Island, 2005. URL: https://doi.org/10.23860/diss-2047, doi:10.23860/diss-2047. This article has 0 citations.
+
+15. (lin2005probingtheregulatory pages 26-30): Xiaofeng Lin. Probing the regulatory mechanisms of protein tyrosine kinases, using c-terminal Src kinase (Csk) as a model system. PhD thesis, University of Rhode Island, 2005. URL: https://doi.org/10.23860/diss-2047, doi:10.23860/diss-2047. This article has 0 citations.
+
+16. (lin2005probingtheregulatory pages 72-75): Xiaofeng Lin. Probing the regulatory mechanisms of protein tyrosine kinases, using c-terminal Src kinase (Csk) as a model system. PhD thesis, University of Rhode Island, 2005. URL: https://doi.org/10.23860/diss-2047, doi:10.23860/diss-2047. This article has 0 citations.
+
+17. (ubau2013functionalcharacterizationof pages 15-18): AX Pernudy Ubau. Functional characterization of non-receptor tyrosine kinase dependent signal transduction in acute lymphoblastic leukemia of childhood. Unknown journal, 2013.
+
+18. (ayrapetov2006structuralandfunctional pages 21-25): Marina K. Ayrapetov. Structural and functional studies of the Csk and *Src family protein tyrosine kinases. PhD thesis, University of Rhode Island, 2006. URL: https://doi.org/10.23860/diss-2090, doi:10.23860/diss-2090. This article has 0 citations.
+
+19. (ayrapetov2006structuralandfunctional pages 33-36): Marina K. Ayrapetov. Structural and functional studies of the Csk and *Src family protein tyrosine kinases. PhD thesis, University of Rhode Island, 2006. URL: https://doi.org/10.23860/diss-2090, doi:10.23860/diss-2090. This article has 0 citations.
+
+20. (bhanumathy2021proteintyrosinekinases pages 7-9): Kalpana K. Bhanumathy, Amrutha Balagopal, Frederick S. Vizeacoumar, Franco J. Vizeacoumar, Andrew Freywald, and Vincenzo Giambra. Protein tyrosine kinases: their roles and their targeting in leukemia. Cancers, 13:184, Jan 2021. URL: https://doi.org/10.3390/cancers13020184, doi:10.3390/cancers13020184. This article has 74 citations and is from a peer-reviewed journal.
+
+21. (lin2005probingtheregulatory pages 34-37): Xiaofeng Lin. Probing the regulatory mechanisms of protein tyrosine kinases, using c-terminal Src kinase (Csk) as a model system. PhD thesis, University of Rhode Island, 2005. URL: https://doi.org/10.23860/diss-2047, doi:10.23860/diss-2047. This article has 0 citations.
+
+22. (corwin2016decipheringhumancytoplasmic pages 10-13): T Corwin. Deciphering human cytoplasmic protein tyrosine kinase phosphorylation specificity in yeast. Unknown journal, 2016.

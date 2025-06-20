@@ -1,0 +1,121 @@
+1. Phylogeny  
+DNA‐dependent protein kinase catalytic subunit (DNA‐PKcs), encoded by the PRKDC gene, is a member of the phosphatidylinositol 3‐kinase‐related kinase (PIKK) family that includes ATM, ATR, SMG1, mTOR, and TRRAP. DNA‐PKcs is evolutionarily conserved among vertebrates – it is present in humans, mice, chickens, dogs, and other higher vertebrates – while orthologs in lower eukaryotes such as yeast, Drosophila, and Caenorhabditis elegans are absent or highly divergent. A putative ortholog has been reported in Dictyostelium discoideum, suggesting that the PIKK‐mediated mechanisms of DNA damage sensing and repair originated in early eukaryotes. This conservation and the shared domain architecture, comprising extensive HEAT repeats, FAT, kinase and FATC domains, indicate that DNA‐PKcs plays an ancient and fundamental role in genome maintenance (bartlett2018establishedandemerging pages 1-4, matsumoto2021dnadependentproteinkinase pages 2-4).
+
+2. Reaction Catalyzed  
+DNA‐PKcs catalyzes the transfer of a phosphate group from ATP to the hydroxyl group of serine or threonine residues on substrate proteins. In biochemical terms, the reaction can be represented as:  
+  ATP + [protein]‐(L‐serine or L‐threonine) → ADP + [protein]‐(L‐serine/threonine)‐phosphate + H⁺.  
+This phosphorylation event is central to the activation or modulation of numerous proteins that participate in DNA repair and cell signaling processes (bartlett2018establishedandemerging pages 7-9, matsumoto2021dnadependentproteinkinase pages 1-2).
+
+3. Cofactor Requirements  
+The catalytic function of DNA‐PKcs is strictly dependent on the presence of essential cofactors. First, divalent metal ions—most notably Mg²⁺—are required to facilitate proper ATP binding and catalysis. In addition, DNA‐PKcs activation depends on its binding to double‐stranded DNA ends, which serve as an allosteric effector; this binding is mediated by the Ku70/80 heterodimer that recruits the kinase to sites of DNA damage. Hence, both Mg²⁺ and the DNA/Ku complex are critical for DNA‐PKcs catalytic activity (matsumoto2021dnadependentproteinkinase pages 1-2, bartlett2018establishedandemerging pages 22-24).
+
+4. Substrate Specificity  
+DNA‐PKcs phosphorylates protein substrates at serine/threonine residues. It exhibits a preference for substrates that contain the conserved sequence motif in which the phosphorylatable serine or threonine is immediately followed by a glutamine, forming the classic SQ/TQ motif. This motif is characteristic of several PIKK family members. Moreover, evidence indicates that DNA‐PKcs is also capable of phosphorylating non‐canonical motifs such as those in which a serine or threonine is followed by a hydrophobic residue and then an acidic residue (S/T‐ψ‐D/E). These substrate preferences allow the kinase to operate on a diverse set of target proteins involved in DNA repair, transcriptional regulation, and cell cycle control (bartlett2018establishedandemerging pages 9-12, dylgjeri2022dnapkcsatargetable pages 2-3).
+
+5. Structure  
+DNA‐PKcs is a very large protein, comprising over 4,000 amino acids, and its molecular weight is approximately 460 kDa. Its domain organization is typical of PIKK family members and includes an extensive N‐terminal region composed of HEAT repeats that provide a flexible scaffold for protein–protein interactions. Adjacent to these repeats, the FAT domain contributes to structural stability and regulatory interactions. Central to the molecule is the kinase domain, which houses the catalytic site and is flanked at its C‑terminus by the FATC domain; both are essential for catalytic activity and substrate engagement. High‐resolution cryo‐electron microscopy studies have revealed an enclosed central cavity that accommodates double‐stranded DNA ends, positioning the kinase for activation by the Ku70/80 heterodimer. In addition, several clusters of autophosphorylation sites (notably the ABCDE and PQR clusters) have been identified and are critical in modulating the conformational dynamics and regulatory state of DNA‐PKcs during the DNA repair process (bartlett2018establishedandemerging pages 1-4, bartlett2018establishedandemerging pages 4-7, dylgjeri2022dnapkcsatargetable pages 3-4).
+
+6. Regulation  
+DNA‐PKcs activity is controlled by an intricate network of regulatory mechanisms. A predominant mode of regulation is autophosphorylation; DNA‐PKcs autophosphorylates at multiple sites organized into distinct clusters. The ABCDE cluster (centered around Thr2609) is associated with conformational changes that reduce affinity for the DNA–Ku complex, thereby facilitating the progression of downstream end processing required for repair. Conversely, phosphorylation at the PQR cluster (around Ser2056) tends to stabilize DNA‐PKcs at DNA ends, moderating end processing. In addition to autophosphorylation, DNA‐PKcs is subject to phosphorylation by other kinases—including ATM and ATR—which further refine its activity and integration into the cellular DNA damage response network. The initial recruitment and activation of DNA‐PKcs are also strictly dependent on its interaction with the Ku70/80 heterodimer that binds DNA double‐strand break ends. Beyond phosphorylation, other post‐translational modifications such as ubiquitination, acetylation, and neddylation have been reported, contributing to the regulation of enzyme stability and activity during different cellular responses (bartlett2018establishedandemerging pages 12-15, bartlett2018establishedandemerging pages 15-17, dylgjeri2022dnapkcsatargetable pages 1-2).
+
+7. Function  
+DNA‐PKcs is a central component of the non‐homologous end joining (NHEJ) pathway, the principal mechanism for repairing DNA double‐strand breaks (DSBs) in mammalian cells. Upon the occurrence of DNA damage, the Ku70/80 heterodimer rapidly binds to exposed DNA ends and recruits DNA‐PKcs to form the DNA‐PK holoenzyme. Once activated, the kinase phosphorylates a number of substrates, including Artemis, thereby promoting the processing of complex DNA structures such as hairpins that arise during V(D)J recombination. This function is critical during lymphocyte development for the generation of diverse antigen receptors. In addition to its catalytic role, DNA‐PKcs serves as a scaffold protein that organizes the assembly of additional repair factors at sites of DSBs, protects the broken DNA ends from degradation, and functions in the alignment of these ends to facilitate ligation. Beyond direct repair functions, DNA‐PKcs is involved in transcriptional regulation by phosphorylating transcription factors and components of the RNA polymerase II machinery, and it also contributes to telomere maintenance by interacting with telomere‐associated proteins. Collectively, these roles underscore the importance of DNA‐PKcs in preserving genomic stability as well as in modulating cellular responses to genotoxic stress (bartlett2018establishedandemerging pages 7-9, bartlett2018establishedandemerging pages 19-22, camfield2024secretsofdnapkcs pages 1-2, dylgjeri2022dnapkcsatargetable pages 1-1, matsumoto2021dnadependentproteinkinase pages 20-21).
+
+8. Other Comments  
+DNA‐PKcs has emerged as a promising therapeutic target, especially in oncology, due to its protumorigenic role in promoting the survival of cancer cells through efficient DNA repair. Inhibitors such as NU7441, VX‐984, and M3814 have been developed with the aim of sensitizing cancer cells to radiation and chemotherapeutic regimens by impairing the NHEJ pathway. In addition to its role in DNA repair, aberrations in DNA‐PKcs activity have been associated with severe combined immunodeficiency (SCID), radiosensitivity, and increased cancer risk. Its multifaceted functions extend into the regulation of transcription, telomere maintenance, and possibly metabolic signaling, thereby influencing both genomic stability and cellular homeostasis. These features collectively highlight the potential of DNA‐PKcs as a target in precision oncology and immunotherapy (OpenTargets Search: -PRKDC, bartlett2018establishedandemerging pages 22-24, dylgjeri2022dnapkcsatargetable pages 5-5).
+
+9. References  
+OpenTargets Search: -PRKDC  
+bartlett2018establishedandemerging pages 1-4  
+bartlett2018establishedandemerging pages 4-7  
+bartlett2018establishedandemerging pages 7-9  
+bartlett2018establishedandemerging pages 9-12  
+bartlett2018establishedandemerging pages 12-15  
+bartlett2018establishedandemerging pages 15-17  
+bartlett2018establishedandemerging pages 17-19  
+bartlett2018establishedandemerging pages 19-22  
+bartlett2018establishedandemerging pages 22-24  
+dylgjeri2022dnapkcsatargetable pages 1-1  
+dylgjeri2022dnapkcsatargetable pages 1-2  
+dylgjeri2022dnapkcsatargetable pages 2-3  
+dylgjeri2022dnapkcsatargetable pages 3-4  
+dylgjeri2022dnapkcsatargetable pages 4-4  
+dylgjeri2022dnapkcsatargetable pages 4-5  
+dylgjeri2022dnapkcsatargetable pages 7-8  
+dylgjeri2022dnapkcsatargetable pages 8-8  
+dylgjeri2022dnapkcsatargetable pages 8-9  
+dylgjeri2022dnapkcsatargetable pages 9-9  
+camfield2024secretsofdnapkcs pages 1-2  
+camfield2024secretsofdnapkcs pages 2-3  
+camfield2024secretsofdnapkcs pages 9-10  
+camfield2024secretsofdnapkcs pages 10-11  
+camfield2024secretsofdnapkcs pages 11-12  
+matsumoto2021dnadependentproteinkinase pages 1-2  
+matsumoto2021dnadependentproteinkinase pages 2-4  
+matsumoto2021dnadependentproteinkinase pages 12-14  
+matsumoto2021dnadependentproteinkinase pages 14-15  
+matsumoto2021dnadependentproteinkinase pages 20-21
+
+References
+
+1. (OpenTargets Search: -PRKDC): Open Targets Query (-PRKDC, 7 results). Buniello, A. et al. (2025). Open Targets Platform: facilitating therapeutic hypotheses building in drug discovery. Nucleic Acids Research.
+
+2. (bartlett2018establishedandemerging pages 1-4): Edward J. Bartlett and Susan P. Lees-Miller. Established and emerging roles of the dna-dependent protein kinase catalytic subunit (dna-pkcs). Cancer Drug Discovery and Development, pages 315-338, Jan 2018. URL: https://doi.org/10.1007/978-3-319-75836-7\_12, doi:10.1007/978-3-319-75836-7\_12. This article has 5 citations.
+
+3. (bartlett2018establishedandemerging pages 12-15): Edward J. Bartlett and Susan P. Lees-Miller. Established and emerging roles of the dna-dependent protein kinase catalytic subunit (dna-pkcs). Cancer Drug Discovery and Development, pages 315-338, Jan 2018. URL: https://doi.org/10.1007/978-3-319-75836-7\_12, doi:10.1007/978-3-319-75836-7\_12. This article has 5 citations.
+
+4. (bartlett2018establishedandemerging pages 15-17): Edward J. Bartlett and Susan P. Lees-Miller. Established and emerging roles of the dna-dependent protein kinase catalytic subunit (dna-pkcs). Cancer Drug Discovery and Development, pages 315-338, Jan 2018. URL: https://doi.org/10.1007/978-3-319-75836-7\_12, doi:10.1007/978-3-319-75836-7\_12. This article has 5 citations.
+
+5. (bartlett2018establishedandemerging pages 17-19): Edward J. Bartlett and Susan P. Lees-Miller. Established and emerging roles of the dna-dependent protein kinase catalytic subunit (dna-pkcs). Cancer Drug Discovery and Development, pages 315-338, Jan 2018. URL: https://doi.org/10.1007/978-3-319-75836-7\_12, doi:10.1007/978-3-319-75836-7\_12. This article has 5 citations.
+
+6. (bartlett2018establishedandemerging pages 19-22): Edward J. Bartlett and Susan P. Lees-Miller. Established and emerging roles of the dna-dependent protein kinase catalytic subunit (dna-pkcs). Cancer Drug Discovery and Development, pages 315-338, Jan 2018. URL: https://doi.org/10.1007/978-3-319-75836-7\_12, doi:10.1007/978-3-319-75836-7\_12. This article has 5 citations.
+
+7. (bartlett2018establishedandemerging pages 22-24): Edward J. Bartlett and Susan P. Lees-Miller. Established and emerging roles of the dna-dependent protein kinase catalytic subunit (dna-pkcs). Cancer Drug Discovery and Development, pages 315-338, Jan 2018. URL: https://doi.org/10.1007/978-3-319-75836-7\_12, doi:10.1007/978-3-319-75836-7\_12. This article has 5 citations.
+
+8. (bartlett2018establishedandemerging pages 4-7): Edward J. Bartlett and Susan P. Lees-Miller. Established and emerging roles of the dna-dependent protein kinase catalytic subunit (dna-pkcs). Cancer Drug Discovery and Development, pages 315-338, Jan 2018. URL: https://doi.org/10.1007/978-3-319-75836-7\_12, doi:10.1007/978-3-319-75836-7\_12. This article has 5 citations.
+
+9. (bartlett2018establishedandemerging pages 7-9): Edward J. Bartlett and Susan P. Lees-Miller. Established and emerging roles of the dna-dependent protein kinase catalytic subunit (dna-pkcs). Cancer Drug Discovery and Development, pages 315-338, Jan 2018. URL: https://doi.org/10.1007/978-3-319-75836-7\_12, doi:10.1007/978-3-319-75836-7\_12. This article has 5 citations.
+
+10. (bartlett2018establishedandemerging pages 9-12): Edward J. Bartlett and Susan P. Lees-Miller. Established and emerging roles of the dna-dependent protein kinase catalytic subunit (dna-pkcs). Cancer Drug Discovery and Development, pages 315-338, Jan 2018. URL: https://doi.org/10.1007/978-3-319-75836-7\_12, doi:10.1007/978-3-319-75836-7\_12. This article has 5 citations.
+
+11. (camfield2024secretsofdnapkcs pages 1-2): Sydney Camfield, Sayan Chakraborty, Shailendra Kumar Dhar Dwivedi, Pijush Kanti Pramanik, Priyabrata Mukherjee, and Resham Bhattacharya. Secrets of dna-pkcs beyond dna repair. npj Precision Oncology, Jul 2024. URL: https://doi.org/10.1038/s41698-024-00655-1, doi:10.1038/s41698-024-00655-1. This article has 8 citations and is from a peer-reviewed journal.
+
+12. (camfield2024secretsofdnapkcs pages 10-11): Sydney Camfield, Sayan Chakraborty, Shailendra Kumar Dhar Dwivedi, Pijush Kanti Pramanik, Priyabrata Mukherjee, and Resham Bhattacharya. Secrets of dna-pkcs beyond dna repair. npj Precision Oncology, Jul 2024. URL: https://doi.org/10.1038/s41698-024-00655-1, doi:10.1038/s41698-024-00655-1. This article has 8 citations and is from a peer-reviewed journal.
+
+13. (camfield2024secretsofdnapkcs pages 11-12): Sydney Camfield, Sayan Chakraborty, Shailendra Kumar Dhar Dwivedi, Pijush Kanti Pramanik, Priyabrata Mukherjee, and Resham Bhattacharya. Secrets of dna-pkcs beyond dna repair. npj Precision Oncology, Jul 2024. URL: https://doi.org/10.1038/s41698-024-00655-1, doi:10.1038/s41698-024-00655-1. This article has 8 citations and is from a peer-reviewed journal.
+
+14. (camfield2024secretsofdnapkcs pages 2-3): Sydney Camfield, Sayan Chakraborty, Shailendra Kumar Dhar Dwivedi, Pijush Kanti Pramanik, Priyabrata Mukherjee, and Resham Bhattacharya. Secrets of dna-pkcs beyond dna repair. npj Precision Oncology, Jul 2024. URL: https://doi.org/10.1038/s41698-024-00655-1, doi:10.1038/s41698-024-00655-1. This article has 8 citations and is from a peer-reviewed journal.
+
+15. (camfield2024secretsofdnapkcs pages 9-10): Sydney Camfield, Sayan Chakraborty, Shailendra Kumar Dhar Dwivedi, Pijush Kanti Pramanik, Priyabrata Mukherjee, and Resham Bhattacharya. Secrets of dna-pkcs beyond dna repair. npj Precision Oncology, Jul 2024. URL: https://doi.org/10.1038/s41698-024-00655-1, doi:10.1038/s41698-024-00655-1. This article has 8 citations and is from a peer-reviewed journal.
+
+16. (dylgjeri2022dnapkcsatargetable pages 1-1): Emanuela Dylgjeri and Karen E. Knudsen. Dna-pkcs: a targetable protumorigenic protein kinase. Cancer Research, 82:523-533, Dec 2022. URL: https://doi.org/10.1158/0008-5472.can-21-1756, doi:10.1158/0008-5472.can-21-1756. This article has 51 citations and is from a highest quality peer-reviewed journal.
+
+17. (dylgjeri2022dnapkcsatargetable pages 1-2): Emanuela Dylgjeri and Karen E. Knudsen. Dna-pkcs: a targetable protumorigenic protein kinase. Cancer Research, 82:523-533, Dec 2022. URL: https://doi.org/10.1158/0008-5472.can-21-1756, doi:10.1158/0008-5472.can-21-1756. This article has 51 citations and is from a highest quality peer-reviewed journal.
+
+18. (dylgjeri2022dnapkcsatargetable pages 2-3): Emanuela Dylgjeri and Karen E. Knudsen. Dna-pkcs: a targetable protumorigenic protein kinase. Cancer Research, 82:523-533, Dec 2022. URL: https://doi.org/10.1158/0008-5472.can-21-1756, doi:10.1158/0008-5472.can-21-1756. This article has 51 citations and is from a highest quality peer-reviewed journal.
+
+19. (dylgjeri2022dnapkcsatargetable pages 3-4): Emanuela Dylgjeri and Karen E. Knudsen. Dna-pkcs: a targetable protumorigenic protein kinase. Cancer Research, 82:523-533, Dec 2022. URL: https://doi.org/10.1158/0008-5472.can-21-1756, doi:10.1158/0008-5472.can-21-1756. This article has 51 citations and is from a highest quality peer-reviewed journal.
+
+20. (dylgjeri2022dnapkcsatargetable pages 4-4): Emanuela Dylgjeri and Karen E. Knudsen. Dna-pkcs: a targetable protumorigenic protein kinase. Cancer Research, 82:523-533, Dec 2022. URL: https://doi.org/10.1158/0008-5472.can-21-1756, doi:10.1158/0008-5472.can-21-1756. This article has 51 citations and is from a highest quality peer-reviewed journal.
+
+21. (dylgjeri2022dnapkcsatargetable pages 4-5): Emanuela Dylgjeri and Karen E. Knudsen. Dna-pkcs: a targetable protumorigenic protein kinase. Cancer Research, 82:523-533, Dec 2022. URL: https://doi.org/10.1158/0008-5472.can-21-1756, doi:10.1158/0008-5472.can-21-1756. This article has 51 citations and is from a highest quality peer-reviewed journal.
+
+22. (dylgjeri2022dnapkcsatargetable pages 7-8): Emanuela Dylgjeri and Karen E. Knudsen. Dna-pkcs: a targetable protumorigenic protein kinase. Cancer Research, 82:523-533, Dec 2022. URL: https://doi.org/10.1158/0008-5472.can-21-1756, doi:10.1158/0008-5472.can-21-1756. This article has 51 citations and is from a highest quality peer-reviewed journal.
+
+23. (dylgjeri2022dnapkcsatargetable pages 8-8): Emanuela Dylgjeri and Karen E. Knudsen. Dna-pkcs: a targetable protumorigenic protein kinase. Cancer Research, 82:523-533, Dec 2022. URL: https://doi.org/10.1158/0008-5472.can-21-1756, doi:10.1158/0008-5472.can-21-1756. This article has 51 citations and is from a highest quality peer-reviewed journal.
+
+24. (dylgjeri2022dnapkcsatargetable pages 8-9): Emanuela Dylgjeri and Karen E. Knudsen. Dna-pkcs: a targetable protumorigenic protein kinase. Cancer Research, 82:523-533, Dec 2022. URL: https://doi.org/10.1158/0008-5472.can-21-1756, doi:10.1158/0008-5472.can-21-1756. This article has 51 citations and is from a highest quality peer-reviewed journal.
+
+25. (dylgjeri2022dnapkcsatargetable pages 9-9): Emanuela Dylgjeri and Karen E. Knudsen. Dna-pkcs: a targetable protumorigenic protein kinase. Cancer Research, 82:523-533, Dec 2022. URL: https://doi.org/10.1158/0008-5472.can-21-1756, doi:10.1158/0008-5472.can-21-1756. This article has 51 citations and is from a highest quality peer-reviewed journal.
+
+26. (matsumoto2021dnadependentproteinkinase pages 1-2): Y. Matsumoto, A. D. D. Asa, Chaity Modak, and M. Shimada. Dna-dependent protein kinase catalytic subunit: the sensor for dna double-strand breaks structurally and functionally related to ataxia telangiectasia mutated. Genes, Jul 2021. URL: https://doi.org/10.3390/genes12081143, doi:10.3390/genes12081143. This article has 20 citations and is from a peer-reviewed journal.
+
+27. (matsumoto2021dnadependentproteinkinase pages 12-14): Y. Matsumoto, A. D. D. Asa, Chaity Modak, and M. Shimada. Dna-dependent protein kinase catalytic subunit: the sensor for dna double-strand breaks structurally and functionally related to ataxia telangiectasia mutated. Genes, Jul 2021. URL: https://doi.org/10.3390/genes12081143, doi:10.3390/genes12081143. This article has 20 citations and is from a peer-reviewed journal.
+
+28. (matsumoto2021dnadependentproteinkinase pages 14-15): Y. Matsumoto, A. D. D. Asa, Chaity Modak, and M. Shimada. Dna-dependent protein kinase catalytic subunit: the sensor for dna double-strand breaks structurally and functionally related to ataxia telangiectasia mutated. Genes, Jul 2021. URL: https://doi.org/10.3390/genes12081143, doi:10.3390/genes12081143. This article has 20 citations and is from a peer-reviewed journal.
+
+29. (matsumoto2021dnadependentproteinkinase pages 2-4): Y. Matsumoto, A. D. D. Asa, Chaity Modak, and M. Shimada. Dna-dependent protein kinase catalytic subunit: the sensor for dna double-strand breaks structurally and functionally related to ataxia telangiectasia mutated. Genes, Jul 2021. URL: https://doi.org/10.3390/genes12081143, doi:10.3390/genes12081143. This article has 20 citations and is from a peer-reviewed journal.
+
+30. (matsumoto2021dnadependentproteinkinase pages 20-21): Y. Matsumoto, A. D. D. Asa, Chaity Modak, and M. Shimada. Dna-dependent protein kinase catalytic subunit: the sensor for dna double-strand breaks structurally and functionally related to ataxia telangiectasia mutated. Genes, Jul 2021. URL: https://doi.org/10.3390/genes12081143, doi:10.3390/genes12081143. This article has 20 citations and is from a peer-reviewed journal.
+
+31. (dylgjeri2022dnapkcsatargetable pages 5-5): Emanuela Dylgjeri and Karen E. Knudsen. Dna-pkcs: a targetable protumorigenic protein kinase. Cancer Research, 82:523-533, Dec 2022. URL: https://doi.org/10.1158/0008-5472.can-21-1756, doi:10.1158/0008-5472.can-21-1756. This article has 51 citations and is from a highest quality peer-reviewed journal.

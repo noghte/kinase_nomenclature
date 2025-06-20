@@ -1,5 +1,4 @@
 import os
-import time
 import json
 import csv
 from pathlib import Path
@@ -11,35 +10,39 @@ API_KEY = os.getenv("FUTUREHOUSE_API_KEY")
 if not API_KEY:
     raise RuntimeError("FUTUREHOUSE_API_KEY missing")
 
+# change this prefix to match your files in futurehouse/
+PREFIX = "task_ids_20250616_"
+TASKS_DIR      = Path("./futurehouse")
+CSV_FILE       = Path("./data/kinases.csv")
+RESPONSES_FILE = TASKS_DIR / "responses_20250616_235156.json"
+
 client = FutureHouseClient(api_key=API_KEY)
 
-# Paths
-task_ids_file  = Path("./futurehouse/task_ids_20250601_231801.csv")
-csv_file       = Path("./data/kinases.csv")
-responses_file = Path("./futurehouse/responses_20250601_231801.json")
-
-# Load or initialize responses
-if responses_file.exists():
-    with open(responses_file, encoding="utf-8") as f:
+# load or initialize existing responses
+if RESPONSES_FILE.exists():
+    with open(RESPONSES_FILE, encoding="utf-8") as f:
         responses = json.load(f)
 else:
     responses = {}
 
-# Read task‐to‐gene mapping
-with open(task_ids_file, encoding="utf-8") as f:
-    reader = csv.DictReader(f)
-    task_to_gene = { row["task_id"]: row["gene_name"] for row in reader }
+# collect task_id → protein from all matching CSVs (original + retries)
+task_to_protein = {}
+for csv_path in TASKS_DIR.glob(f"*{PREFIX}*.csv"):
+    with open(csv_path, encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            task_to_protein[row["task_id"]] = row["protein"]
 
-task_ids = list(task_to_gene.keys())
+task_ids = list(task_to_protein.keys())
 
-# Read CSV rows
-with open(csv_file, encoding="utf-8") as f:
-    reader = csv.DictReader(f)
-    all_rows    = list(reader)
-    row_by_gene = { row["gene_name"]: row for row in all_rows }
+# load the master kinases.csv so we can look up uniprot etc
+with open(CSV_FILE, encoding="utf-8") as f:
+    reader         = csv.DictReader(f)
+    all_rows       = list(reader)
+    row_by_protein = { row["protein"]: row for row in all_rows }
 
+# poll every task
 for tid in task_ids:
-    # skip only if we already have a non-error result
+    # skip if already have a non-error result
     if tid in responses and "error" not in responses[tid]:
         continue
 
@@ -47,35 +50,34 @@ for tid in task_ids:
     state  = status.status.lower()
 
     if state == "success":
-        gene = task_to_gene[tid]
-        row  = row_by_gene.get(gene)
+        protein = task_to_protein[tid]
+        row     = row_by_protein.get(protein)
         if row is None:
-            raise RuntimeError(f"No CSV row for gene {gene!r}, task {tid}")
+            raise RuntimeError(f"No CSV row for protein {protein!r}, task {tid}")
 
         record = {
-            "uniprotid":  row.get("uniprotid", ""),
-            "gene_name":  gene,
-            "professor":  row.get("\ufeffprofessor", ""),
+            "uniprot":    row.get("uniprot", ""),
+            "protein":    protein,
             "successful": status.has_successful_answer,
             "answer":     status.formatted_answer,
             "reasoning":  getattr(status, "answer_reasoning", None),
         }
         responses[tid] = record
-        with open(responses_file, "w", encoding="utf-8") as out:
+        with open(RESPONSES_FILE, "w", encoding="utf-8") as out:
             json.dump(responses, out, indent=2, ensure_ascii=False)
 
-        print(f"{tid} done for gene {gene}")
+        print(f"{tid} done for protein {protein}")
 
     elif state in ("pending", "running", "in progress"):
-        print(f"{tid} is still '{state}', skipping for now.")
-        continue
+        print(f"{tid} is still '{state}', skipping for now")
 
     else:
         # terminal failure
         responses[tid] = {"task_id": tid, "error": state}
-        with open(responses_file, "w", encoding="utf-8") as out:
+        with open(RESPONSES_FILE, "w", encoding="utf-8") as out:
             json.dump(responses, out, indent=2, ensure_ascii=False)
+
         print(f"{tid} failed with state {state}")
 
 client.close()
-print(f"Finished polling and updated {responses_file}")
+print(f"Finished polling and updated {RESPONSES_FILE}")

@@ -1,0 +1,74 @@
+1. Phylogeny  
+MAP3K19, also referred to as MEKK15, RCK, or YSK4, is a member of the mitogen‐activated protein kinase kinase kinase (MAP3K) family. It is evolutionarily conserved across a broad range of species, being present in all multicellular animals and even in some protist species, and its orthologs have been identified in plants such as rice, where the gene is known as RCK and shows stress‐responsive expression during early stages of reproductive development (Chang2009functionalconservationof pages 4-5, Boehme2016map3k19isoverexpressed pages 17-19). Within the human kinome, MAP3K19 belongs to the subgroup of STE family MAP3Ks that share a conserved kinase domain and similar regulatory architecture. Its conservation suggests that MAP3K19 forms part of an evolutionary core set of MAP kinase regulators that emerged early in eukaryotic evolution, in line with established analyses of kinase evolution from yeast to man (Boehme2016map3k19isoverexpressed pages 2-4, Boehme2016map3k19isoverexpressed pages 17-19).
+
+2. Reaction Catalyzed  
+MAP3K19 functions as a serine/threonine protein kinase. In its catalytic cycle, MAP3K19 transfers the γ-phosphate from ATP to specific serine or threonine residues in its substrate proteins. This reaction can be summarized as:  
+  ATP + [protein]-(L-serine or L-threonine) → ADP + [protein]-(L-serine/threonine)-phosphate + H⁺  
+The phosphorylation event modulates the activity, localization, or interaction potential of the substrate, thereby promoting downstream signaling events (Boehme2016map3k19isoverexpressed pages 10-12, Cargnello2011activationandfunction pages 1-2).
+
+3. Cofactor Requirements  
+As with most protein kinases, MAP3K19 requires a divalent cation cofactor for its catalytic activity. In particular, Mg²⁺ is necessary to facilitate ATP binding and proper orientation within the active site, thus promoting the phosphoryl transfer reaction (Boehme2016map3k19isoverexpressed pages 10-12, Cargnello2011activationandfunction pages 1-2).
+
+4. Substrate Specificity  
+The precise substrate consensus motif for MAP3K19 has not been fully defined by experimental studies. However, functional data indicate that MAP3K19 plays a role in modulating key signaling cascades such as the TGF-β and NF-κB pathways. For instance, MAP3K19 regulates the nuclear translocation of phospho-Smad2/3 proteins in TGF-β signaling and activates NF-κB, leading to increased expression of pro-inflammatory chemokines such as CXCL-8 (IL-8), CCL-7 (MCP-3) and CCL-20 (MIP-3α) (Boehme2016map3k19isoverexpressed pages 2-4, Boehme2016map3k19isoverexpressed pages 12-15). Moreover, deep learning-based substrate predictions, as exemplified by the KolossuS framework, suggest that kinases within the MAP3K family, including MAP3K19, may recognize substrates with specific amino acid preferences; however, explicit consensus motifs and amino acid positional preferences for MAP3K19 remain to be experimentally validated (Jha2025deeplearningcoupledproximity pages 11-12).
+
+5. Structure  
+MAP3K19 is predicted to exhibit a canonical kinase domain organization common to the MAP3K family. Its structure is characterized by an N-terminal catalytic (kinase) domain that likely contains the typical bilobal architecture observed in protein kinases, including a smaller N-terminal lobe primarily composed of β-sheets and a larger C-terminal lobe predominantly consisting of α-helices. Key catalytic features such as the activation loop, which is thought to contain the conserved TXY motif observed in related MAP3Ks, a hydrophobic splice (commonly referred to as the hydrophobic spine) and a C-helix that is essential for catalytic activation, are presumed to be present. Although detailed experimental crystallographic data for MAP3K19 are not available, computational predictions and comparisons with related RCK family kinases suggest the presence of regulatory regions outside the core kinase domain. These may include intrinsically disordered regions that facilitate protein–protein interactions and modulation by upstream effectors. Additionally, some studies using immunohistochemical and transfection approaches have verified the presence of MAP3K19 protein in various lung cells, supporting a structural organization that is functional in vivo (Boehme2016map3k19isoverexpressed pages 1-2, Boehme2016map3k19isoverexpressed pages 26-26, Broekhuis2014regulationofcilium pages 1-2).
+
+6. Regulation  
+Regulatory control of MAP3K19 occurs predominantly at the transcriptional level and through modulation of its kinase activity. MAP3K19 expression is strongly inducible by several environmental stressors including cigarette smoke extract, oxidative stress (e.g., treatment with H₂O₂), osmotic stress, and certain Toll-like receptor ligands such as poly I:C, as well as TGF-β1 exposure (Boehme2016map3k19isoverexpressed pages 9-10, Boehme2016map3k19isoverexpressed pages 10-12). These findings indicate that MAP3K19 acts as a stress-responsive kinase bridging external insults to intracellular signaling cascades. In vitro experiments demonstrate that overexpression of MAP3K19 activates the NF-κB pathway, whereas kinase-dead mutants fail to do so, underscoring the importance of its catalytic activity. In addition to transcriptional regulation, post-translational modifications—while not yet fully characterized for MAP3K19—are common among MAP3Ks and may include phosphorylation events that further control its activation state. Functional inhibition by siRNA or small molecule compounds has been shown to reduce cigarette smoke-induced inflammatory responses, which substantiates the kinase’s role in modulating downstream inflammatory signaling (Boehme2016map3k19isoverexpressed pages 10-12, Boehme2016map3k19isoverexpressed pages 19-21, Guan2023functionsofmap3ks pages 2-4).
+
+7. Function  
+MAP3K19 is primarily expressed in lung and tracheal tissues, where it is highly localized to bronchial epithelial cells, alveolar and interstitial macrophages, type II pneumocytes, and neutrophils (Boehme2016map3k19isoverexpressed pages 1-2, Boehme2016map3k19isoverexpressed pages 9-10). In the context of pulmonary diseases, MAP3K19 is markedly overexpressed in lung tissue from patients with chronic obstructive pulmonary disease (COPD) and correlates with the inflammatory status observed in such conditions. Experimental models show that environmental exposures—most notably cigarette smoke—induce MAP3K19 expression, leading to enhanced activation of pro-inflammatory transcription factors such as NF-κB and the nuclear translocation of phospho-Smad2/3 in the TGF-β signaling pathway (Boehme2016map3k19isoverexpressed pages 2-4, Boehme2016map3k19isoverexpressed pages 12-15). This activation results in the production of several neutrophil chemoattractants (e.g., CXCL-8, CCL-7, and CCL-20), thereby contributing to pulmonary inflammation and airway destruction. In preclinical models, inhibition of MAP3K19—either by siRNA or by small molecule inhibitors—attenuates both acute and chronic inflammatory responses induced by cigarette smoke, and even reduces viral load during influenza exacerbations in the COPD setting (Boehme2016map3k19isoverexpressed pages 12-15, Boehme2016map3k19isoverexpressed pages 19-21).
+
+Outside the pulmonary system, MAP3K19 has been implicated in oncogenic processes. In ovarian cancer cell lines, overexpression of the chemokine CCL2 leads to upregulation of MAP3K19 via activation of the MEK/ERK signaling pathway. Knockout studies using CRISPR/Cas9 demonstrate that loss of MAP3K19 markedly inhibits cancer cell proliferation, migration, and invasion, suggesting that the kinase contributes to tumor progression by promoting downstream signal transduction cascades (Liu2023ccchemokine2 pages 8-10, Liu2023ccchemokine2 pages 10-12, Liu2023ccchemokine2 pages 14-15, Liu2023ccchemokine2 pages 6-8).
+
+An additional functional aspect of MAP3K19 (when referred to as RCK) involves its role as an RNA helicase in translational repression. In cooperation with tristetraprolin (TTP), MAP3K19/RCK contributes to the post-transcriptional regulation of AU-rich element (ARE)-containing mRNAs such as TNF-α and GM-CSF. Experiments indicate that the helicase activity of RCK is essential for effective TTP-mediated translational repression, thereby impacting the production of pro-inflammatory cytokines (Qi2012aurichelementdependenttranslationrepression pages 11-13, Qi2012aurichelementdependenttranslationrepression pages 13-15, Qi2012aurichelementdependenttranslationrepression pages 9-11).
+
+Furthermore, evidence from studies on related RCK kinases in ciliary function, including the regulation of primary cilium length and intraflagellar transport, supports a role for MAP3K19 in cellular structural dynamics. Although MAP3K19-specific data are limited in this context, its shared homology with kinases such as ICK and MOK—known regulators of ciliary assembly and maintenance—suggests a possible contributory role in cilium-associated signaling processes (Broekhuis2014regulationofcilium pages 1-2, Broekhuis2014regulationofcilium pages 2-3, Broekhuis2014regulationofcilium pages 3-4).
+
+8. Other Comments  
+Several small molecule inhibitors targeting MAP3K19, including a series of proprietary compounds with low nanomolar IC50 values (e.g., Compound B with an IC50 of 5.2 nM), have been developed to modulate its activity in preclinical models (Boehme2016map3k19isoverexpressed pages 2-4). Additionally, the compound BAY-985—originally designed as an inhibitor for TBK1—has been noted to exert off-target inhibition on MAP3K19, highlighting the challenges of achieving selectivity in kinase inhibition (Serafim2021chemicalprobesfor pages 19-23). In experimental settings, both siRNA-mediated knockdown and pharmacological inhibition of MAP3K19 have been shown to reduce inflammatory chemokine production, lower neutrophil recruitment, and alleviate cigarette smoke-induced lung tissue damage as well as viral exacerbation effects.  
+
+MAP3K19 is clinically relevant due to its pronounced overexpression in pathological conditions. In the respiratory system, its upregulation is a hallmark of COPD and has been linked to the perpetuation of smoke-induced pulmonary inflammation and lower airway destruction. It is also associated with idiopathic pulmonary fibrosis, where its inhibition correlates with reduced fibroblast activation and fibrotic remodeling (Boehme2016map3k19isoverexpressed pages 9-10, Liu2023ccchemokine2 pages 8-10). In the context of oncogenesis, particularly in ovarian cancer, MAP3K19 acts downstream of CCL2-driven MEK/ERK signaling to enhance cell proliferation, migration, and invasion, suggesting a potential target for anti-cancer strategies (Liu2023ccchemokine2 pages 8-10, Liu2023ccchemokine2 pages 14-15).  
+
+No detailed information regarding specific point mutations or genetic variants affecting MAP3K19 function has been provided in the current literature sources. However, its broad involvement in inflammatory signaling and stress responses, coupled with emerging evidence from both pulmonary and oncogenic contexts, underscores its potential as a therapeutic target. Efforts continue to better define its kinase active site and to develop inhibitors with high specificity and potency.  
+
+9. References  
+1. Boehme2016map3k19isoverexpressed pages 1-2  
+2. Boehme2016map3k19isoverexpressed pages 2-4  
+3. Boehme2016map3k19isoverexpressed pages 9-10  
+4. Boehme2016map3k19isoverexpressed pages 10-12  
+5. Boehme2016map3k19isoverexpressed pages 12-15  
+6. Boehme2016map3k19isoverexpressed pages 17-19  
+7. Boehme2016map3k19isoverexpressed pages 19-21  
+8. Boehme2016map3k19isoverexpressed pages 26-26  
+9. Liu2023ccchemokine2 pages 1-2  
+10. Liu2023ccchemokine2 pages 6-8  
+11. Liu2023ccchemokine2 pages 8-10  
+12. Liu2023ccchemokine2 pages 10-12  
+13. Liu2023ccchemokine2 pages 12-14  
+14. Liu2023ccchemokine2 pages 14-15  
+15. Qi2012aurichelementdependenttranslationrepression pages 9-11  
+16. Qi2012aurichelementdependenttranslationrepression pages 11-13  
+17. Qi2012aurichelementdependenttranslationrepression pages 13-15  
+18. Serafim2021chemicalprobesfor pages 19-23  
+19. Broekhuis2014regulationofcilium pages 1-2  
+20. Broekhuis2014regulationofcilium pages 2-3  
+21. Broekhuis2014regulationofcilium pages 3-4  
+22. Broekhuis2014regulationofcilium pages 4-6  
+23. Broekhuis2014regulationofcilium pages 6-8  
+24. Broekhuis2014regulationofcilium pages 8-8  
+25. Chang2009functionalconservationof pages 4-5  
+26. Johansen2023computationalandfunctional pages 2-4  
+27. Johansen2023computationalandfunctional pages 6-9  
+28. Guan2023functionsofmap3ks pages 2-4  
+29. Hurst2013dynamicubiquitinationof pages 6-6  
+30. Hurst2013dynamicubiquitinationof pages 6-8  
+31. Hurst2013dynamicubiquitinationof pages 8-8  
+32. Wiedemann2012involvementofcsrc pages 2-2  
+33. Cargnello2011activationandfunction pages 1-2  
+34. Cargnello2011activationandfunction pages 13-15  
+35. Jha2025deeplearningcoupledproximity pages 7-10  
+36. Jha2025deeplearningcoupledproximity pages 10-11  
+37. Jha2025deeplearningcoupledproximity pages 4-7

@@ -1,0 +1,218 @@
+1. Phylogeny  
+EIF2AK3, commonly known as PERK (protein kinase RNA‐like endoplasmic reticulum kinase), is a serine/threonine protein kinase that belongs to the eIF2α kinase family. This family comprises several closely related stress‐sensing kinases including EIF2AK1 (HRI), EIF2AK2 (PKR) and EIF2AK4 (GCN2), and PERK is consistently found in metazoans, reflecting its fundamental role in the cellular response to endoplasmic reticulum (ER) stress (axten2013discoveryofgsk2656157 pages 4-5, cui2011thestructureof pages 1-2). Phylogenetic studies indicate that PERK is evolutionarily conserved across species, and its orthologs can be identified in organisms ranging from invertebrates to mammals. PERK forms part of an evolutionarily ancient set of kinases that mediate the integrated stress response (ISR) and unfolded protein response (UPR), a network that has been maintained from the last eukaryotic common ancestor (LECA) or earlier (marton2017asystemsbiological pages 1-3). Its conservation, together with other eIF2α kinases, underscores its critical role as a sensor that modulates translational control under adverse conditions (cui2011thestructureof pages 1-2).
+
+2. Reaction Catalyzed  
+The primary biochemical reaction catalyzed by EIF2AK3/PERK is the transfer of a phosphate group from ATP to the hydroxyl group of a serine residue on its substrate. Specifically, PERK phosphorylates the alpha subunit of eukaryotic initiation factor 2 (eIF2α) at serine 51. In this reaction, ATP and eIF2α serve as substrates and the products are ADP and phosphorylated eIF2α, along with the release of a proton. This reaction is central to the ISR, as the phosphorylation of eIF2α results in a reduction of global protein synthesis while selectively permitting the translation of stress‐responsive mRNAs (axten2013discoveryofgsk2656157 pages 4-5, cui2011thestructureof pages 2-4).
+
+3. Cofactor Requirements  
+The catalytic activity of PERK requires divalent cations as cofactors, with Mg²⁺ typically playing an essential role in facilitating its kinase function. As with most protein kinases, Mg²⁺ interacts with ATP to form a Mg²⁺–ATP complex, which is the actual substrate for the phosphorylation reaction. Although explicit experimental details in the provided context are limited, standard kinase biochemistry supports that Mg²⁺ is required for the optimal activity of PERK (stokes2022optimizationofa pages 18-20, cui2011thestructureof pages 5-6).
+
+4. Substrate Specificity  
+EIF2AK3/PERK exhibits a high degree of substrate specificity for the alpha subunit of eukaryotic initiation factor 2 (eIF2α). PERK phosphorylates eIF2α at serine 51, a modification that is critical for mediating the translational repression observed during the unfolded protein response. There is no broad consensus motif beyond the requirement for the serine residue at this key regulatory position; rather, eIF2α is recognized by PERK as its primary and physiologically relevant substrate (axten2013discoveryofgsk2656157 pages 4-5, cui2011thestructureof pages 2-4).
+
+5. Structure  
+EIF2AK3/PERK is a type I transmembrane protein composed of several distinct domains that underlie its dual roles in stress sensing and signal transduction. The N-terminal region is located in the endoplasmic reticulum lumen and functions as a stress-sensing domain. Under non-stress conditions, this luminal domain is bound by the chaperone BiP/GRP78, which maintains PERK in an inactive state. In response to ER stress caused by the accumulation of misfolded proteins, BiP dissociates and the luminal domain mediates dimerization and sometimes transient tetramerization of PERK, events that are crucial for its activation (cui2011thestructureof pages 4-5, carrara2015crystalstructuresreveal pages 9-10).
+
+The single transmembrane segment anchors PERK to the ER membrane and connects the luminal stress-sensing region to the cytoplasmic portion. The C-terminal cytoplasmic domain contains the catalytic kinase domain, which is organized into a classical bilobal structure composed of an N-terminal lobe and a C-terminal lobe separated by a hinge region. Key structural features include the phosphate-binding P-loop, a well-defined activation loop that contains the critical autophosphorylation site threonine 980, and structural elements such as the C-helix that participate in forming the hydrophobic core necessary for catalytic activity (cui2011thestructureof pages 4-5, axten2013discoveryofgsk2656157 pages 4-5). Crystal structures and biochemical assays have revealed that, following dimerization, trans-autophosphorylation—particularly at Thr980—is essential for stabilizing the active conformation of the kinase domain. Additionally, specific residues within the kinase domain, such as those forming parts of the active site, contribute to the high selectivity of small-molecule inhibitors designed to target PERK (cui2011thestructureof pages 5-6, carrara2015crystalstructuresreveal pages 11-12).
+
+6. Regulation  
+The regulation of PERK activity is tightly coupled to the protein folding status within the ER. Under basal conditions, PERK is maintained in an inactive state through its association with the chaperone BiP/GRP78. When misfolded or unfolded proteins accumulate, BiP is sequestered away from PERK, enabling its homodimerization and subsequent autophosphorylation at key residues such as Thr980, which is essential for full activation of the kinase (cui2011thestructureof pages 1-2, mounir2011aktdeterminescell pages 1-2).
+
+In addition to stress-induced activation, PERK is subject to post-translational modification by other kinases. For example, Akt has been shown to negatively regulate PERK by phosphorylating it at threonine 799. This phosphorylation event by Akt impairs PERK’s ability to autophosphorylate at Thr980, thereby downregulating eIF2α phosphorylation and modulating cell fate decisions during stress (mounir2011aktdeterminescell pages 2-4, mounir2011aktdeterminescell pages 4-5). Thus, PERK activity is governed by a balance between activation via unfolded protein accumulation and inhibitory signals from other stress-related kinases. The reversible nature of PERK phosphorylation—and the subsequent dephosphorylation processes, mediated in part by phosphatase complexes such as those containing GADD34—ensures that its signaling is transient and can be attenuated once homeostasis is restored (mounir2011aktdeterminescell pages 7-8, mounir2011aktdeterminescell pages 8-10).
+
+7. Function  
+EIF2AK3/PERK plays a central role in the unfolded protein response (UPR) and integrated stress response (ISR). Upon activation by ER stress, PERK phosphorylates eIF2α at serine 51, leading to a marked attenuation of global cap-dependent protein synthesis. This reduction in protein translation helps to alleviate the burden of newly synthesized proteins entering the stressed ER, thereby allowing the cell time to repair damaged proteins and restore normal function (axten2013discoveryofgsk2656157 pages 4-5, cui2011thestructureof pages 2-4).
+
+Concomitantly, the phosphorylation of eIF2α leads to the preferential translation of specific mRNAs that contain upstream open reading frames (uORFs) in their 5′ untranslated regions. Notably, mRNAs encoding transcription factors such as ATF4 and QRICH1 are selectively translated under these conditions. Once synthesized, ATF4 transactivates a host of genes involved in amino acid metabolism, redox homeostasis, and protein folding, thereby reprogramming the cell’s gene expression profile to better cope with the stress (baird2014selectivemrnatranslation pages 1-2, axten2013discoveryofgsk2656157 pages 4-5).
+
+PERK signaling is also implicated in the regulation of cell survival versus apoptosis. In cases of prolonged or overwhelming ER stress, the initially adaptive reductions in protein synthesis give way to the induction of pro-apoptotic signals mediated by factors such as CHOP. Thus, the functional output of PERK activation depends on the duration and severity of ER stress, with transient activation favoring cell survival and chronic activation often leading to apoptosis (mounir2011aktdeterminescell pages 5-7, smedley2021theroleof pages 1-2).
+
+Beyond its canonical role in translational control during ER stress, PERK has been implicated in various physiological and pathological settings, including the regulation of pancreatic β-cell function, neurodegeneration (notably tauopathies such as Alzheimer’s disease and progressive supranuclear palsy), and cancer. In these contexts, PERK’s ability to modulate global protein synthesis and repair mechanisms positions it as a key mediator of cellular homeostasis under metabolic stress (park2023neurodegenerationriskfactor pages 1-2, perea2023perksignalingpromotes pages 1-2).
+
+8. Other Comments  
+Several small-molecule inhibitors have been developed that target the kinase domain of PERK. For instance, compounds such as GSK2656157 and other optimized molecules from mandelamide-derived pyrrolopyrimidine series have demonstrated potent and selective inhibition of PERK activity in preclinical settings, with detailed structure–activity relationship studies guiding the optimization of such inhibitors (axten2013discoveryofgsk2656157 pages 4-5, stokes2022optimizationofa pages 1-2). Inhibitors that target PERK have been used to probe its function in cancer models and have revealed that pharmacological inhibition of PERK can reduce tumor growth by downregulating eIF2α phosphorylation and its downstream signaling cascades. However, the clinical translation of PERK inhibitors has been complicated by observations of pancreatic toxicity, which appears to be mediated in part by dysregulated type I interferon signaling and increased IFNAR1 stability in pancreatic tissues (yu2015typeiinterferons pages 1-3).
+
+Genetic mutations in EIF2AK3 are causally linked to Wolcott–Rallison syndrome, a rare autosomal recessive disorder characterized by early-onset diabetes, exocrine pancreatic dysfunction, and skeletal dysplasia. In contrast, hypomorphic variants of PERK have been associated with an increased risk of neurodegenerative tauopathies, where impaired ER stress signaling contributes to the pathological aggregation of tau protein (park2023neurodegenerationriskfactor pages 2-3, smedley2021theroleof pages 7-9). Thus, PERK serves not only as a critical mediator of ER stress responses but also as a promising therapeutic target in diseases where ER homeostasis is perturbed.
+
+9. References  
+1. axten2013discoveryofgsk2656157 pages 4-5  
+2. axten2013discoveryofgsk2656157 pages 5-5  
+3. cui2011thestructureof pages 1-2  
+4. cui2011thestructureof pages 2-4  
+5. cui2011thestructureof pages 4-5  
+6. cui2011thestructureof pages 5-6  
+7. mounir2011aktdeterminescell pages 1-2  
+8. mounir2011aktdeterminescell pages 2-4  
+9. mounir2011aktdeterminescell pages 5-7  
+10. mounir2011aktdeterminescell pages 16-19  
+11. mounir2011aktdeterminescell pages 4-5  
+12. mounir2011aktdeterminescell pages 7-8  
+13. mounir2011aktdeterminescell pages 8-10  
+14. park2023neurodegenerationriskfactor pages 1-2  
+15. park2023neurodegenerationriskfactor pages 2-3  
+16. park2023neurodegenerationriskfactor pages 3-5  
+17. park2023neurodegenerationriskfactor pages 8-9  
+18. park2023neurodegenerationriskfactor pages 9-10  
+19. park2023neurodegenerationriskfactor pages 10-11  
+20. park2023neurodegenerationriskfactor pages 11-12  
+21. park2023neurodegenerationriskfactor pages 14-15  
+22. perea2023perksignalingpromotes pages 1-2  
+23. perea2023perksignalingpromotes pages 12-13  
+24. smedley2021theroleof pages 1-2  
+25. smedley2021theroleof pages 2-4  
+26. smedley2021theroleof pages 4-5  
+27. smedley2021theroleof pages 5-7  
+28. smedley2021theroleof pages 7-9  
+29. stokes2022optimizationofa pages 1-2  
+30. stokes2022optimizationofa pages 2-4  
+31. stokes2022optimizationofa pages 6-8  
+32. stokes2022optimizationofa pages 8-11  
+33. stokes2022optimizationofa pages 14-17  
+34. stokes2022optimizationofa pages 18-20  
+35. taalab2018mechanismsofdisordered pages 3-5  
+36. taalab2018mechanismsofdisordered pages 8-10  
+37. wang2015proteinkinaserlike pages 1-2  
+38. wang2015proteinkinaserlike pages 2-3  
+39. wang2015proteinkinaserlike pages 3-5  
+40. wang2015proteinkinaserlike pages 5-6  
+41. wang2015proteinkinaserlike pages 6-7  
+42. wang2015proteinkinaserlike pages 7-8  
+43. wang2015proteinkinaserlike pages 8-8  
+44. yu2015typeiinterferons pages 1-3  
+45. yu2015typeiinterferons pages 1-1  
+46. baird2014selectivemrnatranslation pages 1-2  
+47. carrara2015crystalstructuresreveal pages 3-4  
+48. carrara2015crystalstructuresreveal pages 9-10  
+49. carrara2015crystalstructuresreveal pages 11-12  
+50. dang2023phosphorylationofeif2s1 pages 32-32  
+51. mao2020denovoeif2ak1 pages 19-21  
+52. marton2017asystemsbiological pages 1-3  
+53. marton2017asystemsbiological pages 3-5  
+54. popovic2021combinedtranscriptomicand pages 1-2  
+55. popovic2021combinedtranscriptomicand pages 2-4  
+56. popovic2021combinedtranscriptomicand pages 5-8  
+57. popovic2021combinedtranscriptomicand pages 8-10  
+58. popovic2021combinedtranscriptomicand pages 15-16  
+59. avivarvalderas2011perkintegratesautophagy pages 1-2  
+
+Each reference provided above represents a peer-reviewed source used to establish the nomenclature and functional profile of EIF2AK3/PERK.
+
+References
+
+1. (axten2013discoveryofgsk2656157 pages 4-5): Jeffrey M. Axten, Stuart P. Romeril, Arthur Shu, Jeffrey Ralph, Jesús R. Medina, Yanhong Feng, William Hoi Hong Li, Seth W. Grant, Dirk A. Heerding, Elisabeth Minthorn, Thomas Mencken, Nathan Gaul, Aaron Goetz, Thomas Stanley, Annie M. Hassell, Robert T. Gampe, Charity Atkins, and Rakesh Kumar. Discovery of gsk2656157: an optimized perk inhibitor selected for preclinical development. ACS Medicinal Chemistry Letters, 4:964-968, Aug 2013. URL: https://doi.org/10.1021/ml400228e, doi:10.1021/ml400228e. This article has 257 citations and is from a peer-reviewed journal.
+
+2. (axten2013discoveryofgsk2656157 pages 5-5): Jeffrey M. Axten, Stuart P. Romeril, Arthur Shu, Jeffrey Ralph, Jesús R. Medina, Yanhong Feng, William Hoi Hong Li, Seth W. Grant, Dirk A. Heerding, Elisabeth Minthorn, Thomas Mencken, Nathan Gaul, Aaron Goetz, Thomas Stanley, Annie M. Hassell, Robert T. Gampe, Charity Atkins, and Rakesh Kumar. Discovery of gsk2656157: an optimized perk inhibitor selected for preclinical development. ACS Medicinal Chemistry Letters, 4:964-968, Aug 2013. URL: https://doi.org/10.1021/ml400228e, doi:10.1021/ml400228e. This article has 257 citations and is from a peer-reviewed journal.
+
+3. (cui2011thestructureof pages 1-2): Wenjun Cui, Jingzhi Li, David Ron, and Bingdong Sha. The structure of the perk kinase domain suggests the mechanism for its activation. Acta Crystallographica Section D Biological Crystallography, 67:423-428, Apr 2011. URL: https://doi.org/10.1107/s0907444911006445, doi:10.1107/s0907444911006445. This article has 192 citations.
+
+4. (cui2011thestructureof pages 2-4): Wenjun Cui, Jingzhi Li, David Ron, and Bingdong Sha. The structure of the perk kinase domain suggests the mechanism for its activation. Acta Crystallographica Section D Biological Crystallography, 67:423-428, Apr 2011. URL: https://doi.org/10.1107/s0907444911006445, doi:10.1107/s0907444911006445. This article has 192 citations.
+
+5. (cui2011thestructureof pages 4-5): Wenjun Cui, Jingzhi Li, David Ron, and Bingdong Sha. The structure of the perk kinase domain suggests the mechanism for its activation. Acta Crystallographica Section D Biological Crystallography, 67:423-428, Apr 2011. URL: https://doi.org/10.1107/s0907444911006445, doi:10.1107/s0907444911006445. This article has 192 citations.
+
+6. (mounir2011aktdeterminescell pages 1-2): Zineb Mounir, Jothi Latha Krishnamoorthy, Shuo Wang, Barbara Papadopoulou, Shirley Campbell, William J. Muller, Maria Hatzoglou, and Antonis E. Koromilas. Akt determines cell fate through inhibition of the perk-eif2α phosphorylation pathway. Science Signaling, 4:ra62-ra62, Sep 2011. URL: https://doi.org/10.1126/scisignal.2001630, doi:10.1126/scisignal.2001630. This article has 143 citations and is from a domain leading peer-reviewed journal.
+
+7. (mounir2011aktdeterminescell pages 2-4): Zineb Mounir, Jothi Latha Krishnamoorthy, Shuo Wang, Barbara Papadopoulou, Shirley Campbell, William J. Muller, Maria Hatzoglou, and Antonis E. Koromilas. Akt determines cell fate through inhibition of the perk-eif2α phosphorylation pathway. Science Signaling, 4:ra62-ra62, Sep 2011. URL: https://doi.org/10.1126/scisignal.2001630, doi:10.1126/scisignal.2001630. This article has 143 citations and is from a domain leading peer-reviewed journal.
+
+8. (mounir2011aktdeterminescell pages 5-7): Zineb Mounir, Jothi Latha Krishnamoorthy, Shuo Wang, Barbara Papadopoulou, Shirley Campbell, William J. Muller, Maria Hatzoglou, and Antonis E. Koromilas. Akt determines cell fate through inhibition of the perk-eif2α phosphorylation pathway. Science Signaling, 4:ra62-ra62, Sep 2011. URL: https://doi.org/10.1126/scisignal.2001630, doi:10.1126/scisignal.2001630. This article has 143 citations and is from a domain leading peer-reviewed journal.
+
+9. (park2023neurodegenerationriskfactor pages 1-2): G. Park, Ke Xu, Leon Chea, Kyle Kim, Lance A. Safarta, Keon-Hyoung Song, Jian Wu, Soyoung Park, Hyejung Min, N. Hiramatsu, Jaeseok Han, and Jonathan H. Lin. Neurodegeneration risk factor, eif2ak3 (perk), influences tau protein aggregation. The Journal of Biological Chemistry, Dec 2023. URL: https://doi.org/10.1016/j.jbc.2022.102821, doi:10.1016/j.jbc.2022.102821. This article has 18 citations.
+
+10. (park2023neurodegenerationriskfactor pages 3-5): G. Park, Ke Xu, Leon Chea, Kyle Kim, Lance A. Safarta, Keon-Hyoung Song, Jian Wu, Soyoung Park, Hyejung Min, N. Hiramatsu, Jaeseok Han, and Jonathan H. Lin. Neurodegeneration risk factor, eif2ak3 (perk), influences tau protein aggregation. The Journal of Biological Chemistry, Dec 2023. URL: https://doi.org/10.1016/j.jbc.2022.102821, doi:10.1016/j.jbc.2022.102821. This article has 18 citations.
+
+11. (perea2023perksignalingpromotes pages 1-2): Valerie Perea, Christian Cole, Justine Lebeau, Vivian Dolina, Kelsey R Baron, Aparajita Madhavan, Jeffery W Kelly, Danielle A Grotjahn, and R Luke Wiseman. <scp>perk</scp> signaling promotes mitochondrial elongation by remodeling membrane phosphatidic acid. The EMBO Journal, Jun 2023. URL: https://doi.org/10.15252/embj.2023113908, doi:10.15252/embj.2023113908. This article has 38 citations.
+
+12. (perea2023perksignalingpromotes pages 12-13): Valerie Perea, Christian Cole, Justine Lebeau, Vivian Dolina, Kelsey R Baron, Aparajita Madhavan, Jeffery W Kelly, Danielle A Grotjahn, and R Luke Wiseman. <scp>perk</scp> signaling promotes mitochondrial elongation by remodeling membrane phosphatidic acid. The EMBO Journal, Jun 2023. URL: https://doi.org/10.15252/embj.2023113908, doi:10.15252/embj.2023113908. This article has 38 citations.
+
+13. (smedley2021theroleof pages 2-4): G. D. Smedley, Keenan E Walker, and Shauna H. Yuan. The role of perk in understanding development of neurodegenerative diseases. International Journal of Molecular Sciences, Jul 2021. URL: https://doi.org/10.3390/ijms22158146, doi:10.3390/ijms22158146. This article has 29 citations and is from a peer-reviewed journal.
+
+14. (smedley2021theroleof pages 5-7): G. D. Smedley, Keenan E Walker, and Shauna H. Yuan. The role of perk in understanding development of neurodegenerative diseases. International Journal of Molecular Sciences, Jul 2021. URL: https://doi.org/10.3390/ijms22158146, doi:10.3390/ijms22158146. This article has 29 citations and is from a peer-reviewed journal.
+
+15. (stokes2022optimizationofa pages 1-2): Michael E. Stokes, M. Surman, Verónica Calvo, D. Surguladze, An-Hu Li, Jennifer Gasparek, M. Betzenhauser, Guangyu Zhu, Hongwen Du, A. C. Rigby, and M. Mulvihill. Optimization of a novel mandelamide-derived pyrrolopyrimidine series of perk inhibitors. Pharmaceutics, Oct 2022. URL: https://doi.org/10.3390/pharmaceutics14102233, doi:10.3390/pharmaceutics14102233. This article has 7 citations and is from a peer-reviewed journal.
+
+16. (taalab2018mechanismsofdisordered pages 8-10): Yasmeen M. Taalab, Nour Ibrahim, Ahmed Maher, Mubashir Hassan, Wael Mohamed, Ahmed A. Moustafa, Mohamed Salama, Dina Johar, and Larry Bernstein. Mechanisms of disordered neurodegenerative function: concepts and facts about the different roles of the protein kinase rna-like endoplasmic reticulum kinase (perk). Reviews in the Neurosciences, 29:387-415, Jan 2018. URL: https://doi.org/10.1515/revneuro-2017-0071, doi:10.1515/revneuro-2017-0071. This article has 31 citations and is from a peer-reviewed journal.
+
+17. (yu2015typeiinterferons pages 1-3): Qiujing Yu, Bin Zhao, Jun Gui, Kanstantsin V. Katlinski, Angela Brice, Yan Gao, ChangHong Li, Jake A. Kushner, Constantinos Koumenis, J. Alan Diehl, and Serge Y. Fuchs. Type i interferons mediate pancreatic toxicities of perk inhibition. Proceedings of the National Academy of Sciences, 112:15420-15425, Dec 2015. URL: https://doi.org/10.1073/pnas.1516362112, doi:10.1073/pnas.1516362112. This article has 70 citations.
+
+18. (baird2014selectivemrnatranslation pages 1-2): Thomas D. Baird, Lakshmi Reddy Palam, Michael E. Fusakio, Jeffrey A. Willy, Christopher M. Davis, Jeanette N. McClintick, Tracy G. Anthony, and Ronald C. Wek. Selective mrna translation during eif2 phosphorylation induces expression of <i>ibtkα</i>. Molecular Biology of the Cell, 25:1686-1697, May 2014. URL: https://doi.org/10.1091/mbc.e14-02-0704, doi:10.1091/mbc.e14-02-0704. This article has 142 citations and is from a domain leading peer-reviewed journal.
+
+19. (carrara2015crystalstructuresreveal pages 11-12): Marta Carrara, Filippo Prischi, Piotr R Nowak, and Maruf MU Ali. Crystal structures reveal transient <scp>perk</scp> luminal domain tetramerization in endoplasmic reticulum stress signaling. The EMBO Journal, 34:1589-1600, Apr 2015. URL: https://doi.org/10.15252/embj.201489183, doi:10.15252/embj.201489183. This article has 119 citations.
+
+20. (carrara2015crystalstructuresreveal pages 3-4): Marta Carrara, Filippo Prischi, Piotr R Nowak, and Maruf MU Ali. Crystal structures reveal transient <scp>perk</scp> luminal domain tetramerization in endoplasmic reticulum stress signaling. The EMBO Journal, 34:1589-1600, Apr 2015. URL: https://doi.org/10.15252/embj.201489183, doi:10.15252/embj.201489183. This article has 119 citations.
+
+21. (carrara2015crystalstructuresreveal pages 9-10): Marta Carrara, Filippo Prischi, Piotr R Nowak, and Maruf MU Ali. Crystal structures reveal transient <scp>perk</scp> luminal domain tetramerization in endoplasmic reticulum stress signaling. The EMBO Journal, 34:1589-1600, Apr 2015. URL: https://doi.org/10.15252/embj.201489183, doi:10.15252/embj.201489183. This article has 119 citations.
+
+22. (cui2011thestructureof pages 5-6): Wenjun Cui, Jingzhi Li, David Ron, and Bingdong Sha. The structure of the perk kinase domain suggests the mechanism for its activation. Acta Crystallographica Section D Biological Crystallography, 67:423-428, Apr 2011. URL: https://doi.org/10.1107/s0907444911006445, doi:10.1107/s0907444911006445. This article has 192 citations.
+
+23. (dang2023phosphorylationofeif2s1 pages 32-32): Thao Thi Dang, Mi-Jeong Kim, Yoon Young Lee, Hien Thi Le, Kook Hwan Kim, Somi Nam, Seung Hwa Hyun, Hong Lim Kim, Su Wol Chung, Hun Taeg Chung, Eek-Hoon Jho, Hiderou Yoshida, Kyoungmi Kim, Chan Young Park, Myung-Shik Lee, and Sung Hoon Back. Phosphorylation of eif2s1 (eukaryotic translation initiation factor 2 subunit alpha) is indispensable for nuclear translocation of tfeb and tfe3 during er stress. Autophagy, 19:2111-2142, Feb 2023. URL: https://doi.org/10.1080/15548627.2023.2173900, doi:10.1080/15548627.2023.2173900. This article has 25 citations and is from a domain leading peer-reviewed journal.
+
+24. (mao2020denovoeif2ak1 pages 19-21): D. Mao, C. Reuter, M. Ruzhnikov, A. Beck, E. Farrow, Lisa T. Emrick, J. Rosenfeld, Katherine M. Mackenzie, L. Robak, M. Wheeler, L. Burrage, Mahim Jain, Pengfei Liu, D. Calame, S. Küry, M. Sillesen, K. Schmitz-Abe, D. Tonduti, L. Spaccini, M. Iascone, C. Genetti, Madeline Graf, Alyssa A. Tran, Mercedes E. Alejandro, Brendan H. Lee, I. Thiffault, P. Agrawal, J. Bernstein, H. Bellen, and Hsiao-Tuan Chao. De novo eif2ak1 and eif2ak2 variants are associated with developmental delay, leukoencephalopathy, and neurologic decompensation. bioRxiv, Sep 2020. URL: https://doi.org/10.1101/757039, doi:10.1101/757039. This article has 64 citations.
+
+25. (marton2017asystemsbiological pages 1-3): Margita Márton, Anita Kurucz, Beáta Lizák, Éva Margittai, Gábor Bánhegyi, and Orsolya Kapuy. A systems biological view of life-and-death decision with respect to endoplasmic reticulum stress—the role of perk pathway. International Journal of Molecular Sciences, 18:58, Jan 2017. URL: https://doi.org/10.3390/ijms18010058, doi:10.3390/ijms18010058. This article has 49 citations and is from a peer-reviewed journal.
+
+26. (marton2017asystemsbiological pages 3-5): Margita Márton, Anita Kurucz, Beáta Lizák, Éva Margittai, Gábor Bánhegyi, and Orsolya Kapuy. A systems biological view of life-and-death decision with respect to endoplasmic reticulum stress—the role of perk pathway. International Journal of Molecular Sciences, 18:58, Jan 2017. URL: https://doi.org/10.3390/ijms18010058, doi:10.3390/ijms18010058. This article has 49 citations and is from a peer-reviewed journal.
+
+27. (mounir2011aktdeterminescell pages 16-19): Zineb Mounir, Jothi Latha Krishnamoorthy, Shuo Wang, Barbara Papadopoulou, Shirley Campbell, William J. Muller, Maria Hatzoglou, and Antonis E. Koromilas. Akt determines cell fate through inhibition of the perk-eif2α phosphorylation pathway. Science Signaling, 4:ra62-ra62, Sep 2011. URL: https://doi.org/10.1126/scisignal.2001630, doi:10.1126/scisignal.2001630. This article has 143 citations and is from a domain leading peer-reviewed journal.
+
+28. (mounir2011aktdeterminescell pages 4-5): Zineb Mounir, Jothi Latha Krishnamoorthy, Shuo Wang, Barbara Papadopoulou, Shirley Campbell, William J. Muller, Maria Hatzoglou, and Antonis E. Koromilas. Akt determines cell fate through inhibition of the perk-eif2α phosphorylation pathway. Science Signaling, 4:ra62-ra62, Sep 2011. URL: https://doi.org/10.1126/scisignal.2001630, doi:10.1126/scisignal.2001630. This article has 143 citations and is from a domain leading peer-reviewed journal.
+
+29. (mounir2011aktdeterminescell pages 7-8): Zineb Mounir, Jothi Latha Krishnamoorthy, Shuo Wang, Barbara Papadopoulou, Shirley Campbell, William J. Muller, Maria Hatzoglou, and Antonis E. Koromilas. Akt determines cell fate through inhibition of the perk-eif2α phosphorylation pathway. Science Signaling, 4:ra62-ra62, Sep 2011. URL: https://doi.org/10.1126/scisignal.2001630, doi:10.1126/scisignal.2001630. This article has 143 citations and is from a domain leading peer-reviewed journal.
+
+30. (mounir2011aktdeterminescell pages 8-10): Zineb Mounir, Jothi Latha Krishnamoorthy, Shuo Wang, Barbara Papadopoulou, Shirley Campbell, William J. Muller, Maria Hatzoglou, and Antonis E. Koromilas. Akt determines cell fate through inhibition of the perk-eif2α phosphorylation pathway. Science Signaling, 4:ra62-ra62, Sep 2011. URL: https://doi.org/10.1126/scisignal.2001630, doi:10.1126/scisignal.2001630. This article has 143 citations and is from a domain leading peer-reviewed journal.
+
+31. (park2023neurodegenerationriskfactor pages 10-11): G. Park, Ke Xu, Leon Chea, Kyle Kim, Lance A. Safarta, Keon-Hyoung Song, Jian Wu, Soyoung Park, Hyejung Min, N. Hiramatsu, Jaeseok Han, and Jonathan H. Lin. Neurodegeneration risk factor, eif2ak3 (perk), influences tau protein aggregation. The Journal of Biological Chemistry, Dec 2023. URL: https://doi.org/10.1016/j.jbc.2022.102821, doi:10.1016/j.jbc.2022.102821. This article has 18 citations.
+
+32. (park2023neurodegenerationriskfactor pages 11-12): G. Park, Ke Xu, Leon Chea, Kyle Kim, Lance A. Safarta, Keon-Hyoung Song, Jian Wu, Soyoung Park, Hyejung Min, N. Hiramatsu, Jaeseok Han, and Jonathan H. Lin. Neurodegeneration risk factor, eif2ak3 (perk), influences tau protein aggregation. The Journal of Biological Chemistry, Dec 2023. URL: https://doi.org/10.1016/j.jbc.2022.102821, doi:10.1016/j.jbc.2022.102821. This article has 18 citations.
+
+33. (park2023neurodegenerationriskfactor pages 14-15): G. Park, Ke Xu, Leon Chea, Kyle Kim, Lance A. Safarta, Keon-Hyoung Song, Jian Wu, Soyoung Park, Hyejung Min, N. Hiramatsu, Jaeseok Han, and Jonathan H. Lin. Neurodegeneration risk factor, eif2ak3 (perk), influences tau protein aggregation. The Journal of Biological Chemistry, Dec 2023. URL: https://doi.org/10.1016/j.jbc.2022.102821, doi:10.1016/j.jbc.2022.102821. This article has 18 citations.
+
+34. (park2023neurodegenerationriskfactor pages 2-3): G. Park, Ke Xu, Leon Chea, Kyle Kim, Lance A. Safarta, Keon-Hyoung Song, Jian Wu, Soyoung Park, Hyejung Min, N. Hiramatsu, Jaeseok Han, and Jonathan H. Lin. Neurodegeneration risk factor, eif2ak3 (perk), influences tau protein aggregation. The Journal of Biological Chemistry, Dec 2023. URL: https://doi.org/10.1016/j.jbc.2022.102821, doi:10.1016/j.jbc.2022.102821. This article has 18 citations.
+
+35. (park2023neurodegenerationriskfactor pages 8-9): G. Park, Ke Xu, Leon Chea, Kyle Kim, Lance A. Safarta, Keon-Hyoung Song, Jian Wu, Soyoung Park, Hyejung Min, N. Hiramatsu, Jaeseok Han, and Jonathan H. Lin. Neurodegeneration risk factor, eif2ak3 (perk), influences tau protein aggregation. The Journal of Biological Chemistry, Dec 2023. URL: https://doi.org/10.1016/j.jbc.2022.102821, doi:10.1016/j.jbc.2022.102821. This article has 18 citations.
+
+36. (park2023neurodegenerationriskfactor pages 9-10): G. Park, Ke Xu, Leon Chea, Kyle Kim, Lance A. Safarta, Keon-Hyoung Song, Jian Wu, Soyoung Park, Hyejung Min, N. Hiramatsu, Jaeseok Han, and Jonathan H. Lin. Neurodegeneration risk factor, eif2ak3 (perk), influences tau protein aggregation. The Journal of Biological Chemistry, Dec 2023. URL: https://doi.org/10.1016/j.jbc.2022.102821, doi:10.1016/j.jbc.2022.102821. This article has 18 citations.
+
+37. (popovic2021combinedtranscriptomicand pages 1-2): Rebeka Popovic, Ivana Celardo, Yizhou Yu, Ana C. Costa, Samantha H. Y. Loh, and L. Miguel Martins. Combined transcriptomic and proteomic analysis of perk toxicity pathways. International Journal of Molecular Sciences, 22:4598, Apr 2021. URL: https://doi.org/10.3390/ijms22094598, doi:10.3390/ijms22094598. This article has 13 citations and is from a peer-reviewed journal.
+
+38. (popovic2021combinedtranscriptomicand pages 2-4): Rebeka Popovic, Ivana Celardo, Yizhou Yu, Ana C. Costa, Samantha H. Y. Loh, and L. Miguel Martins. Combined transcriptomic and proteomic analysis of perk toxicity pathways. International Journal of Molecular Sciences, 22:4598, Apr 2021. URL: https://doi.org/10.3390/ijms22094598, doi:10.3390/ijms22094598. This article has 13 citations and is from a peer-reviewed journal.
+
+39. (popovic2021combinedtranscriptomicand pages 8-10): Rebeka Popovic, Ivana Celardo, Yizhou Yu, Ana C. Costa, Samantha H. Y. Loh, and L. Miguel Martins. Combined transcriptomic and proteomic analysis of perk toxicity pathways. International Journal of Molecular Sciences, 22:4598, Apr 2021. URL: https://doi.org/10.3390/ijms22094598, doi:10.3390/ijms22094598. This article has 13 citations and is from a peer-reviewed journal.
+
+40. (smedley2021theroleof pages 1-2): G. D. Smedley, Keenan E Walker, and Shauna H. Yuan. The role of perk in understanding development of neurodegenerative diseases. International Journal of Molecular Sciences, Jul 2021. URL: https://doi.org/10.3390/ijms22158146, doi:10.3390/ijms22158146. This article has 29 citations and is from a peer-reviewed journal.
+
+41. (smedley2021theroleof pages 4-5): G. D. Smedley, Keenan E Walker, and Shauna H. Yuan. The role of perk in understanding development of neurodegenerative diseases. International Journal of Molecular Sciences, Jul 2021. URL: https://doi.org/10.3390/ijms22158146, doi:10.3390/ijms22158146. This article has 29 citations and is from a peer-reviewed journal.
+
+42. (smedley2021theroleof pages 7-9): G. D. Smedley, Keenan E Walker, and Shauna H. Yuan. The role of perk in understanding development of neurodegenerative diseases. International Journal of Molecular Sciences, Jul 2021. URL: https://doi.org/10.3390/ijms22158146, doi:10.3390/ijms22158146. This article has 29 citations and is from a peer-reviewed journal.
+
+43. (stokes2022optimizationofa pages 14-17): Michael E. Stokes, M. Surman, Verónica Calvo, D. Surguladze, An-Hu Li, Jennifer Gasparek, M. Betzenhauser, Guangyu Zhu, Hongwen Du, A. C. Rigby, and M. Mulvihill. Optimization of a novel mandelamide-derived pyrrolopyrimidine series of perk inhibitors. Pharmaceutics, Oct 2022. URL: https://doi.org/10.3390/pharmaceutics14102233, doi:10.3390/pharmaceutics14102233. This article has 7 citations and is from a peer-reviewed journal.
+
+44. (stokes2022optimizationofa pages 18-20): Michael E. Stokes, M. Surman, Verónica Calvo, D. Surguladze, An-Hu Li, Jennifer Gasparek, M. Betzenhauser, Guangyu Zhu, Hongwen Du, A. C. Rigby, and M. Mulvihill. Optimization of a novel mandelamide-derived pyrrolopyrimidine series of perk inhibitors. Pharmaceutics, Oct 2022. URL: https://doi.org/10.3390/pharmaceutics14102233, doi:10.3390/pharmaceutics14102233. This article has 7 citations and is from a peer-reviewed journal.
+
+45. (stokes2022optimizationofa pages 6-8): Michael E. Stokes, M. Surman, Verónica Calvo, D. Surguladze, An-Hu Li, Jennifer Gasparek, M. Betzenhauser, Guangyu Zhu, Hongwen Du, A. C. Rigby, and M. Mulvihill. Optimization of a novel mandelamide-derived pyrrolopyrimidine series of perk inhibitors. Pharmaceutics, Oct 2022. URL: https://doi.org/10.3390/pharmaceutics14102233, doi:10.3390/pharmaceutics14102233. This article has 7 citations and is from a peer-reviewed journal.
+
+46. (taalab2018mechanismsofdisordered pages 3-5): Yasmeen M. Taalab, Nour Ibrahim, Ahmed Maher, Mubashir Hassan, Wael Mohamed, Ahmed A. Moustafa, Mohamed Salama, Dina Johar, and Larry Bernstein. Mechanisms of disordered neurodegenerative function: concepts and facts about the different roles of the protein kinase rna-like endoplasmic reticulum kinase (perk). Reviews in the Neurosciences, 29:387-415, Jan 2018. URL: https://doi.org/10.1515/revneuro-2017-0071, doi:10.1515/revneuro-2017-0071. This article has 31 citations and is from a peer-reviewed journal.
+
+47. (wang2015proteinkinaserlike pages 1-2): Z. Liu, Ying Lv, N. Zhao, G. Guan, and J. Wang. Protein kinase r-like er kinase and its role in endoplasmic reticulum stress-decided cell fate. Cell Death &amp; Disease, 6:e1822-e1822, Jul 2015. URL: https://doi.org/10.1038/cddis.2015.183, doi:10.1038/cddis.2015.183. This article has 337 citations.
+
+48. (wang2015proteinkinaserlike pages 2-3): Z. Liu, Ying Lv, N. Zhao, G. Guan, and J. Wang. Protein kinase r-like er kinase and its role in endoplasmic reticulum stress-decided cell fate. Cell Death &amp; Disease, 6:e1822-e1822, Jul 2015. URL: https://doi.org/10.1038/cddis.2015.183, doi:10.1038/cddis.2015.183. This article has 337 citations.
+
+49. (wang2015proteinkinaserlike pages 3-5): Z. Liu, Ying Lv, N. Zhao, G. Guan, and J. Wang. Protein kinase r-like er kinase and its role in endoplasmic reticulum stress-decided cell fate. Cell Death &amp; Disease, 6:e1822-e1822, Jul 2015. URL: https://doi.org/10.1038/cddis.2015.183, doi:10.1038/cddis.2015.183. This article has 337 citations.
+
+50. (wang2015proteinkinaserlike pages 5-6): Z. Liu, Ying Lv, N. Zhao, G. Guan, and J. Wang. Protein kinase r-like er kinase and its role in endoplasmic reticulum stress-decided cell fate. Cell Death &amp; Disease, 6:e1822-e1822, Jul 2015. URL: https://doi.org/10.1038/cddis.2015.183, doi:10.1038/cddis.2015.183. This article has 337 citations.
+
+51. (wang2015proteinkinaserlike pages 6-7): Z. Liu, Ying Lv, N. Zhao, G. Guan, and J. Wang. Protein kinase r-like er kinase and its role in endoplasmic reticulum stress-decided cell fate. Cell Death &amp; Disease, 6:e1822-e1822, Jul 2015. URL: https://doi.org/10.1038/cddis.2015.183, doi:10.1038/cddis.2015.183. This article has 337 citations.
+
+52. (wang2015proteinkinaserlike pages 7-8): Z. Liu, Ying Lv, N. Zhao, G. Guan, and J. Wang. Protein kinase r-like er kinase and its role in endoplasmic reticulum stress-decided cell fate. Cell Death &amp; Disease, 6:e1822-e1822, Jul 2015. URL: https://doi.org/10.1038/cddis.2015.183, doi:10.1038/cddis.2015.183. This article has 337 citations.
+
+53. (wang2015proteinkinaserlike pages 8-8): Z. Liu, Ying Lv, N. Zhao, G. Guan, and J. Wang. Protein kinase r-like er kinase and its role in endoplasmic reticulum stress-decided cell fate. Cell Death &amp; Disease, 6:e1822-e1822, Jul 2015. URL: https://doi.org/10.1038/cddis.2015.183, doi:10.1038/cddis.2015.183. This article has 337 citations.
+
+54. (yu2015typeiinterferons pages 1-1): Qiujing Yu, Bin Zhao, Jun Gui, Kanstantsin V. Katlinski, Angela Brice, Yan Gao, ChangHong Li, Jake A. Kushner, Constantinos Koumenis, J. Alan Diehl, and Serge Y. Fuchs. Type i interferons mediate pancreatic toxicities of perk inhibition. Proceedings of the National Academy of Sciences, 112:15420-15425, Dec 2015. URL: https://doi.org/10.1073/pnas.1516362112, doi:10.1073/pnas.1516362112. This article has 70 citations.
+
+55. (avivarvalderas2011perkintegratesautophagy pages 1-2): Alvaro Avivar-Valderas, Eduardo Salas, Ekaterina Bobrovnikova-Marjon, J. Alan Diehl, Chandandeep Nagi, Jayanta Debnath, and Julio A. Aguirre-Ghiso. Perk integrates autophagy and oxidative stress responses to promote survival during extracellular matrix detachment. Molecular and Cellular Biology, 31:3616-3629, Sep 2011. URL: https://doi.org/10.1128/mcb.05164-11, doi:10.1128/mcb.05164-11. This article has 347 citations and is from a domain leading peer-reviewed journal.
+
+56. (popovic2021combinedtranscriptomicand pages 15-16): Rebeka Popovic, Ivana Celardo, Yizhou Yu, Ana C. Costa, Samantha H. Y. Loh, and L. Miguel Martins. Combined transcriptomic and proteomic analysis of perk toxicity pathways. International Journal of Molecular Sciences, 22:4598, Apr 2021. URL: https://doi.org/10.3390/ijms22094598, doi:10.3390/ijms22094598. This article has 13 citations and is from a peer-reviewed journal.
+
+57. (popovic2021combinedtranscriptomicand pages 5-8): Rebeka Popovic, Ivana Celardo, Yizhou Yu, Ana C. Costa, Samantha H. Y. Loh, and L. Miguel Martins. Combined transcriptomic and proteomic analysis of perk toxicity pathways. International Journal of Molecular Sciences, 22:4598, Apr 2021. URL: https://doi.org/10.3390/ijms22094598, doi:10.3390/ijms22094598. This article has 13 citations and is from a peer-reviewed journal.
+
+58. (stokes2022optimizationofa pages 2-4): Michael E. Stokes, M. Surman, Verónica Calvo, D. Surguladze, An-Hu Li, Jennifer Gasparek, M. Betzenhauser, Guangyu Zhu, Hongwen Du, A. C. Rigby, and M. Mulvihill. Optimization of a novel mandelamide-derived pyrrolopyrimidine series of perk inhibitors. Pharmaceutics, Oct 2022. URL: https://doi.org/10.3390/pharmaceutics14102233, doi:10.3390/pharmaceutics14102233. This article has 7 citations and is from a peer-reviewed journal.
+
+59. (stokes2022optimizationofa pages 8-11): Michael E. Stokes, M. Surman, Verónica Calvo, D. Surguladze, An-Hu Li, Jennifer Gasparek, M. Betzenhauser, Guangyu Zhu, Hongwen Du, A. C. Rigby, and M. Mulvihill. Optimization of a novel mandelamide-derived pyrrolopyrimidine series of perk inhibitors. Pharmaceutics, Oct 2022. URL: https://doi.org/10.3390/pharmaceutics14102233, doi:10.3390/pharmaceutics14102233. This article has 7 citations and is from a peer-reviewed journal.

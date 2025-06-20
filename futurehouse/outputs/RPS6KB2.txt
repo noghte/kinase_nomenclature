@@ -1,0 +1,98 @@
+**1. Phylogeny:**  
+RPS6KB2, encoding ribosomal protein S6 kinase beta‑2 (S6K2, also known as STK14B, p70 ribosomal protein S6 kinase β), is a member of the AGC kinase family that can be traced back to the last eukaryotic common ancestor. Orthologs of S6K2 have been identified across diverse mammalian species and its evolutionary history parallels that of other AGC kinases such as PDK1, PKB (AKT), p90 ribosomal S6 kinase (RSK) and SGK1. Its close evolutionary relationship with S6K1 is evident from the high sequence conservation in the central kinase domain even though distinct regulatory regions have diverged over time. S6K2 and related kinases are part of an evolutionarily conserved core of TOR pathway genes, which include not only S6K but also TOR, RAPTOR, LST8, PTEN, and TSC2, among others (magnuson2012regulationandfunction pages 2-3, khalil2024s6k2infocus pages 1-3).
+
+**2. Reaction Catalyzed:**  
+S6K2 is a serine/threonine-protein kinase that catalyzes the phosphorylation reaction in which ATP and a protein substrate containing serine or threonine residues are converted into ADP and the phosphorylated protein, releasing a proton in the process. The reaction can be summarized as: ATP + [protein]-(L-serine or L-threonine) → ADP + [protein]-(L-serine/threonine)-phosphate + H⁺ (khalil2024s6k2infocus pages 7-9, magnuson2012regulationandfunction pages 2-3).
+
+**3. Cofactor Requirements:**  
+The kinase activity of S6K2 requires the divalent cation Mg²⁺ as a cofactor, which is essential for ATP binding and proper catalytic function. This requirement for Mg²⁺ is consistent with the behavior of most serine/threonine kinases and is noted in detailed enzymatic studies of S6 kinases (magnuson2012regulationandfunction pages 2-3, pende2014ribosomalproteins6 pages 1-3).
+
+**4. Substrate Specificity:**  
+S6K2 exhibits substrate specificity by recognizing and phosphorylating a consensus motif characterized by the sequence RxRxx[pS/T], where the serine or threonine is phosphorylated. This substrate preference has been demonstrated through studies that map the kinase domain’s substrate interactions and is similar to that observed for other members of the S6K family (yi2021ribosomalproteins6 pages 4-6, phin2003mutationalanalysisof pages 2-3).
+
+**5. Structure:**  
+S6K2 possesses a central kinase domain that is highly conserved among AGC kinases and is flanked by regulatory regions that differ from those found in S6K1. The N-terminal portion of S6K2 contains a TOR signaling (TOS) motif that is required for interaction with the RAPTOR subunit of mTORC1 and ensures proper mTOR-mediated phosphorylation. Unlike S6K1, which features a C-terminal PDZ-binding motif, S6K2 is characterized by a C-terminal proline-rich region followed by a nuclear localization signal (NLS), a feature that contributes to its predominantly nuclear distribution. Structural analyses and computational models reveal that the kinase domain adopts a classical bilobed organization with an N-terminal lobe containing a five-stranded β-sheet and a C-terminal lobe that is primarily helical, with a well-defined activation loop and hydrophobic motif critical for catalytic activity. Key catalytic features include the ATP-binding P-loop, the catalytic loop, and an activation segment that requires phosphorylation for full kinase activation (khalil2024s6k2infocus pages 7-9, leefruman1999characterizationofs6k2 pages 1-2, magnuson2012regulationandfunction pages 6-7).
+
+**6. Regulation:**  
+Full activation of S6K2 is achieved through a series of phosphorylation events. Initially, regulatory serine residues within the autoinhibitory region—such as Ser-410, Ser-417, and Ser-423—are phosphorylated, which relieves the inhibitory conformation. This event is followed by phosphorylation of a critical residue in the hydrophobic motif (Thr-388 in S6K2), which is mediated by mTORC1—a process that confers resistance to rapamycin in certain contexts. Finally, phosphorylation by PDK1 at the activation loop residue (Thr-228) is required for complete activation of the kinase. In addition to phosphorylation, S6K2 is subject to further post-translational modifications such as acetylation, methylation, and ubiquitination, which influence its protein stability, subcellular localization, and interaction with other signaling molecules. Protein arginine methyltransferases (PRMT1, PRMT3, and PRMT6) methylate arginine residues in the nuclear localization signal region, thereby promoting nuclear retention and enhancing its pro-survival functions. Moreover, the serine/threonine phosphatase PP2A has been shown to dephosphorylate S6K2, contributing to its inactivation and cytoplasmic exclusion under certain conditions (khalil2024s6k2infocus pages 4-6, myronova2016theroleof pages 25-30, phin2003mutationalanalysisof pages 4-5).
+
+**7. Function:**  
+S6K2 functions downstream of mTOR signaling in response to growth factors and nutrient availability, playing a critical role in the regulation of protein synthesis, cell proliferation, cell size, and cell cycle progression. This kinase phosphorylates ribosomal protein S6, a key component of the 40S ribosomal subunit, thereby enhancing the translation of mRNAs that contain a 5′ oligopyrimidine tract (5′TOP mRNAs). In addition, S6K2 participates in the regulation of various cellular processes including apoptosis and cell survival by modulating the expression levels of anti-apoptotic proteins such as Mcl-1, Bcl-xL, and others. Its expression patterns and specific cellular localization—predominantly nuclear compared to the cytoplasmic localization of S6K1—suggest that S6K2 may have additional roles in nuclear events such as RNA processing. Furthermore, through its integration into upstream signaling pathways—including those mediated by PI3K, mTOR, and MAPK—S6K2 contributes to growth and survival signaling in cancer cells. Functional studies have implicated S6K2 in therapeutic resistance, particularly in breast cancer, where selective silencing of S6K2 enhances apoptosis and reduces the levels of pro-survival proteins. Its role in mediating distinct cellular responses to stress and growth stimuli further underscores its importance as a mediator of mTOR-driven anabolic processes (khalil2024s6k2infocus pages 9-11, myronova2016theroleof pages 41-46, sridharan2020distinctrolesof pages 1-3).
+
+**8. Other Comments:**  
+Although several inhibitors have been developed for the S6 kinase family, most of the commercially available inhibitors such as PF‑4708671 and LY2584702 display higher specificity for S6K1 rather than S6K2, thereby limiting the direct pharmacological targeting of S6K2. Recently, compound discovery efforts have led to the identification of a highly selective S6K2 inhibitor that exploits a unique cysteine residue in the hinge region via a covalent inhibition mechanism; however, the available functional data on this inhibitor are still limited in terms of in vitro and in vivo validation. S6K2 is implicated in cancer, with overexpression and gene amplification observed in several malignancies including breast, lung, and prostate cancers. Silencing of S6K2 in cancer-derived cell lines results in reduced cellular proliferation, increased apoptosis, and improved sensitivity to chemotherapeutic agents, highlighting its potential as a therapeutic target for overcoming drug resistance. No specific disease mutations in RPS6KB2 have been firmly established in the literature, and available studies primarily focus on its deregulated expression and abnormal activation in cancer cells. Its involvement in alternative signaling pathways, such as those regulated by MEAK7, further suggests a distinct yet complementary role to S6K1 in promoting cell proliferation and survival (gerstenecker2021discoveryofa pages 9-10, yi2021ribosomalproteins6 pages 4-6, khalil2024s6k2infocus pages 11-12).
+
+**9. References:**  
+1. khalil2024s6k2infocus pages 1-3  
+2. khalil2024s6k2infocus pages 4-6  
+3. khalil2024s6k2infocus pages 7-9  
+4. khalil2024s6k2infocus pages 9-11  
+5. khalil2024s6k2infocus pages 11-12  
+6. leefruman1999characterizationofs6k2 pages 1-2  
+7. myronova2016theroleof pages 25-30  
+8. myronova2016theroleof pages 30-36  
+9. myronova2016theroleof pages 36-41  
+10. myronova2016theroleof pages 41-46  
+11. myronova2016theroleof pages 46-51  
+12. sridharan2020distinctrolesof pages 1-3  
+13. sridharan2020distinctrolesof pages 3-5  
+14. yi2021ribosomalproteins6 pages 4-6  
+15. yi2021ribosomalproteins6 pages 41-43  
+16. gerstenecker2021discoveryofa pages 1-2  
+17. gerstenecker2021discoveryofa pages 9-10  
+18. magnuson2012regulationandfunction pages 2-3  
+19. magnuson2012regulationandfunction pages 6-7  
+20. pende2014ribosomalproteins6 pages 1-3  
+21. phin2003mutationalanalysisof pages 2-3  
+22. phin2003mutationalanalysisof pages 4-5  
+23. rebholz2006receptorassociationand pages 19-23  
+
+
+
+References
+
+1. (khalil2024s6k2infocus pages 4-6): Mahmoud I. Khalil, Mohamed Helal, Ahmed F. El-Sayed, Rana El Hajj, Jasmine Holail, Marwa Houssein, Ahmed Waraky, and Olivier E. Pardo. S6k2 in focus: signaling pathways, post-translational modifications, and computational analysis. International Journal of Molecular Sciences, 26:176, Dec 2024. URL: https://doi.org/10.3390/ijms26010176, doi:10.3390/ijms26010176. This article has 0 citations and is from a peer-reviewed journal.
+
+2. (khalil2024s6k2infocus pages 7-9): Mahmoud I. Khalil, Mohamed Helal, Ahmed F. El-Sayed, Rana El Hajj, Jasmine Holail, Marwa Houssein, Ahmed Waraky, and Olivier E. Pardo. S6k2 in focus: signaling pathways, post-translational modifications, and computational analysis. International Journal of Molecular Sciences, 26:176, Dec 2024. URL: https://doi.org/10.3390/ijms26010176, doi:10.3390/ijms26010176. This article has 0 citations and is from a peer-reviewed journal.
+
+3. (leefruman1999characterizationofs6k2 pages 1-2): Kay K Lee-Fruman, Calvin J Kuo, John Lippincott, Naohiro Terada, and John Blenis. Characterization of s6k2, a novel kinase homologous to s6k1. Oncogene, 18:5108-5114, Sep 1999. URL: https://doi.org/10.1038/sj.onc.1202894, doi:10.1038/sj.onc.1202894. This article has 194 citations and is from a domain leading peer-reviewed journal.
+
+4. (myronova2016theroleof pages 25-30): O Myronova. The role of the s6k2 splice isoform in mtor/s6k signalling and cellular functions. Unknown journal, 2016.
+
+5. (sridharan2020distinctrolesof pages 1-3): Savitha Sridharan and Alakananda Basu. Distinct roles of mtor targets s6k1 and s6k2 in breast cancer. International Journal of Molecular Sciences, 21:1199, Feb 2020. URL: https://doi.org/10.3390/ijms21041199, doi:10.3390/ijms21041199. This article has 95 citations and is from a peer-reviewed journal.
+
+6. (yi2021ribosomalproteins6 pages 4-6): Yong Weon Yi, Kyu Sic You, Jeong-Soo Park, Seok-Geun Lee, and Yeon-Sun Seong. Ribosomal protein s6: a potential therapeutic target against cancer? International Journal of Molecular Sciences, 23:48, Dec 2021. URL: https://doi.org/10.3390/ijms23010048, doi:10.3390/ijms23010048. This article has 95 citations and is from a peer-reviewed journal.
+
+7. (gerstenecker2021discoveryofa pages 1-2): Stefan Gerstenecker, Lisa Haarer, Martin Schröder, Mark Kudolo, Martin P. Schwalm, Valentin Wydra, Ricardo A. M. Serafim, Apirat Chaikuad, Stefan Knapp, Stefan Laufer, and Matthias Gehringer. Discovery of a potent and highly isoform-selective inhibitor of the neglected ribosomal protein s6 kinase beta 2 (s6k2). Cancers, 13:5133, Oct 2021. URL: https://doi.org/10.3390/cancers13205133, doi:10.3390/cancers13205133. This article has 19 citations and is from a peer-reviewed journal.
+
+8. (gerstenecker2021discoveryofa pages 9-10): Stefan Gerstenecker, Lisa Haarer, Martin Schröder, Mark Kudolo, Martin P. Schwalm, Valentin Wydra, Ricardo A. M. Serafim, Apirat Chaikuad, Stefan Knapp, Stefan Laufer, and Matthias Gehringer. Discovery of a potent and highly isoform-selective inhibitor of the neglected ribosomal protein s6 kinase beta 2 (s6k2). Cancers, 13:5133, Oct 2021. URL: https://doi.org/10.3390/cancers13205133, doi:10.3390/cancers13205133. This article has 19 citations and is from a peer-reviewed journal.
+
+9. (khalil2024s6k2infocus pages 1-3): Mahmoud I. Khalil, Mohamed Helal, Ahmed F. El-Sayed, Rana El Hajj, Jasmine Holail, Marwa Houssein, Ahmed Waraky, and Olivier E. Pardo. S6k2 in focus: signaling pathways, post-translational modifications, and computational analysis. International Journal of Molecular Sciences, 26:176, Dec 2024. URL: https://doi.org/10.3390/ijms26010176, doi:10.3390/ijms26010176. This article has 0 citations and is from a peer-reviewed journal.
+
+10. (khalil2024s6k2infocus pages 9-11): Mahmoud I. Khalil, Mohamed Helal, Ahmed F. El-Sayed, Rana El Hajj, Jasmine Holail, Marwa Houssein, Ahmed Waraky, and Olivier E. Pardo. S6k2 in focus: signaling pathways, post-translational modifications, and computational analysis. International Journal of Molecular Sciences, 26:176, Dec 2024. URL: https://doi.org/10.3390/ijms26010176, doi:10.3390/ijms26010176. This article has 0 citations and is from a peer-reviewed journal.
+
+11. (magnuson2012regulationandfunction pages 2-3): Brian Magnuson, Bilgen Ekim, and Diane C. Fingar. Regulation and function of ribosomal protein s6 kinase (s6k) within mtor signalling networks. Biochemical Journal, 441:1-21, Dec 2012. URL: https://doi.org/10.1042/bj20110892, doi:10.1042/bj20110892. This article has 1232 citations and is from a domain leading peer-reviewed journal.
+
+12. (magnuson2012regulationandfunction pages 6-7): Brian Magnuson, Bilgen Ekim, and Diane C. Fingar. Regulation and function of ribosomal protein s6 kinase (s6k) within mtor signalling networks. Biochemical Journal, 441:1-21, Dec 2012. URL: https://doi.org/10.1042/bj20110892, doi:10.1042/bj20110892. This article has 1232 citations and is from a domain leading peer-reviewed journal.
+
+13. (myronova2016theroleof pages 30-36): O Myronova. The role of the s6k2 splice isoform in mtor/s6k signalling and cellular functions. Unknown journal, 2016.
+
+14. (myronova2016theroleof pages 36-41): O Myronova. The role of the s6k2 splice isoform in mtor/s6k signalling and cellular functions. Unknown journal, 2016.
+
+15. (myronova2016theroleof pages 41-46): O Myronova. The role of the s6k2 splice isoform in mtor/s6k signalling and cellular functions. Unknown journal, 2016.
+
+16. (myronova2016theroleof pages 46-51): O Myronova. The role of the s6k2 splice isoform in mtor/s6k signalling and cellular functions. Unknown journal, 2016.
+
+17. (pende2014ribosomalproteins6 pages 1-3): Mario Pende and Caroline Treins. Ribosomal protein s6 and s6 kinases. Translation and Its Regulation in Cancer Biology and Medicine, pages 345-362, Jan 2014. URL: https://doi.org/10.1007/978-94-017-9078-9\_16, doi:10.1007/978-94-017-9078-9\_16. This article has 1 citations.
+
+18. (phin2003mutationalanalysisof pages 2-3): Sopheap PHIN, Deborah KUPFERWASSER, Joseph LAM, and Kay K. LEE-FRUMAN. Mutational analysis of ribosomal s6 kinase 2 shows differential regulation of its kinase activity from that of ribosomal s6 kinase 1. Biochemical Journal, 373:583-591, Jul 2003. URL: https://doi.org/10.1042/bj20021794, doi:10.1042/bj20021794. This article has 41 citations and is from a domain leading peer-reviewed journal.
+
+19. (phin2003mutationalanalysisof pages 4-5): Sopheap PHIN, Deborah KUPFERWASSER, Joseph LAM, and Kay K. LEE-FRUMAN. Mutational analysis of ribosomal s6 kinase 2 shows differential regulation of its kinase activity from that of ribosomal s6 kinase 1. Biochemical Journal, 373:583-591, Jul 2003. URL: https://doi.org/10.1042/bj20021794, doi:10.1042/bj20021794. This article has 41 citations and is from a domain leading peer-reviewed journal.
+
+20. (rebholz2006receptorassociationand pages 19-23): Heike Rebholz, Ganna Panasyuk, Timothy Fenton, Ivan Nemazanyy, Taras Valovka, Marc Flajolet, Lars Ronnstrand, Len Stephens, Andrew West, and Ivan T Gout. Receptor association and tyrosine phosphorylation of s6 kinases. The FEBS Journal, 273:2023-2036, Apr 2006. URL: https://doi.org/10.1111/j.1742-4658.2006.05219.x, doi:10.1111/j.1742-4658.2006.05219.x. This article has 24 citations.
+
+21. (sridharan2020distinctrolesof pages 3-5): Savitha Sridharan and Alakananda Basu. Distinct roles of mtor targets s6k1 and s6k2 in breast cancer. International Journal of Molecular Sciences, 21:1199, Feb 2020. URL: https://doi.org/10.3390/ijms21041199, doi:10.3390/ijms21041199. This article has 95 citations and is from a peer-reviewed journal.
+
+22. (khalil2024s6k2infocus pages 11-12): Mahmoud I. Khalil, Mohamed Helal, Ahmed F. El-Sayed, Rana El Hajj, Jasmine Holail, Marwa Houssein, Ahmed Waraky, and Olivier E. Pardo. S6k2 in focus: signaling pathways, post-translational modifications, and computational analysis. International Journal of Molecular Sciences, 26:176, Dec 2024. URL: https://doi.org/10.3390/ijms26010176, doi:10.3390/ijms26010176. This article has 0 citations and is from a peer-reviewed journal.
+
+23. (yi2021ribosomalproteins6 pages 41-43): Yong Weon Yi, Kyu Sic You, Jeong-Soo Park, Seok-Geun Lee, and Yeon-Sun Seong. Ribosomal protein s6: a potential therapeutic target against cancer? International Journal of Molecular Sciences, 23:48, Dec 2021. URL: https://doi.org/10.3390/ijms23010048, doi:10.3390/ijms23010048. This article has 95 citations and is from a peer-reviewed journal.

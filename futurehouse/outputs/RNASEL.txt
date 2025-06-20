@@ -1,0 +1,141 @@
+1. Phylogeny  
+RNase L, encoded by the human RNASEL gene (also known as RNS4), is evolutionarily conserved among mammals and represents a key member of the 2′–5′-dependent ribonuclease family that is central to the interferon-induced antiviral response (chakrabarti2011newinsightsinto pages 1-3, liang2006rnaselits pages 1-3). Comparative studies have demonstrated that the N-terminal ankyrin repeat domain, which is essential for binding the activator 2′–5′ oligoadenylate (2–5A), is among the most highly conserved regions of the protein across mammalian species (chakrabarti2011newinsightsinto pages 3-4, liang2006rnaselits pages 1-3). Phylogenetically, RNase L shares structural and sequence similarities with other innate immune ribonucleases such as IRE1 and the dsRNA-dependent protein kinase (PKR), indicating that these proteins originated from a common ancestral gene and have maintained key regulatory and catalytic features through evolutionary time (chakrabarti2011newinsightsinto pages 6-7, liang2006rnaselits pages 3-4). Such conservation underscores the protein’s pivotal role in the interferon network and antiviral defense system.
+
+2. Reaction Catalyzed  
+RNase L functions as an endoribonuclease that catalyzes the cleavage of single-stranded RNA (ssRNA) molecules. Upon activation, the enzyme cleaves the phosphodiester bonds within its RNA substrates, producing RNA fragments that typically bear a 5′-hydroxyl terminus and 2′,3′-cyclic phosphate ends (cooper2014ribonucleaseland pages 2-2, ezelle2016therolesof pages 5-6). This endonucleolytic reaction, by degrading viral genomic RNA, cellular mRNAs, and ribosomal RNA (rRNA), leads to inhibition of protein synthesis and contributes to the antiviral and apoptotic responses triggered by interferon signaling (borgelt2023targetingribonucleaseswith pages 5-5, liang2006rnaselits pages 5-6).
+
+3. Cofactor Requirements  
+The activation and catalytic function of RNase L critically depend on its binding to 2′–5′-linked oligoadenylates (2–5A), which are synthesized from ATP by the oligoadenylate synthetases (OASs) in response to viral double-stranded RNA (dsRNA) exposure (borgelt2023targetingribonucleaseswith pages 5-5, chakrabarti2011newinsightsinto pages 6-7). Unlike many nucleases that require divalent metal ions such as Mg²⁺ for catalysis, RNase L exhibits a metal-ion–independent mechanism for RNA cleavage (cooper2014ribonucleaseland pages 2-2). In addition to the essential role of the 2–5A ligands, the pseudo-kinase domain of RNase L binds ATP, although it lacks catalytic kinase activity; this ATP binding may serve as an additional regulatory input for fine-tuning enzyme activation (borgelt2023targetingribonucleaseswith pages 5-5).
+
+4. Substrate Specificity  
+RNase L displays a marked substrate specificity for single-stranded RNA. It preferentially cleaves RNA at sites enriched in uridine residues, with a strong bias for dinucleotide sequences such as UU and UA, which are commonly found in AU-rich elements within viral and cellular RNAs (ezelle2016therolesof pages 5-6, chakrabarti2011newinsightsinto pages 3-4). This substrate preference allows RNase L to target viral genomic RNA and crucial cellular RNAs—including rRNA and mRNAs regulating survival and proliferation—resulting in a rapid shutdown of translation upon its activation (cooper2014ribonucleaseland pages 2-2, liang2006rnaselits pages 5-6).
+
+5. Structure  
+Human RNase L (UniProt: Q05823) is an approximately 83.5 kDa protein composed of 741 amino acids and is organized in three modular domains that together orchestrate its activation and catalytic function. First, the N-terminal region contains an ankyrin repeat domain comprising nine repeats (with the final repeat being incomplete) that is responsible for binding the 2–5A activators; key residues within repeats 2 through 4 (including W60, K89, F126, E131, and R155) are essential for ligand interaction and subsequent enzyme activation (chakrabarti2011newinsightsinto pages 3-4, tanaka2004structuralbasisfor pages 1-2). Second, a central pseudo-protein kinase (kinase homology) domain occupies a significant portion of the protein; although this domain lacks critical catalytic residues for phosphorylation, it retains ATP binding capability and exhibits structural homology with kinases such as PKR and IRE1, thereby playing a regulatory role in modulating enzymatic activity (borgelt2023targetingribonucleaseswith pages 5-5, chakrabarti2011newinsightsinto pages 1-3). Third, the C-terminal ribonuclease domain contains the catalytic machinery that becomes active upon dimerization; structural studies have shown that binding of 2–5A to the ankyrin repeat domain induces a conformational change that facilitates RNase L dimerization, aligning the catalytic sites for efficient RNA cleavage (liang2006rnaselits pages 1-3, huang2014dimericstructureof pages 14-14). Experimental crystallographic data from the isolated N-terminal domain (tanaka2004structuralbasisfor pages 1-2) and the recently determined dimeric structure in complex with 2–5A (huang2014dimericstructureof pages 13-14) support a model whereby RNase L undergoes allosteric reorganization; this reorganization involves rearrangements in the relative positions of the regulatory and catalytic domains that are necessary for its full enzymatic activation.
+
+6. Regulation  
+RNase L is subject to precise regulatory mechanisms that ensure its endoribonuclease activity is tightly controlled. Its principal mode of activation is via binding of 2–5A molecules, a process that disrupts intramolecular autoinhibition imposed by the ankyrin repeat domain and promotes homodimerization, a structural configuration required for catalytic function (borgelt2023targetingribonucleaseswith pages 5-5). In addition, post-translational modifications contribute to the regulation of RNase L. For instance, hydroxylation of asparagine residues—specifically at positions such as asparagine-233 in one of the ankyrin repeats—by factor inhibiting hypoxia-inducible factor (FIH) has been reported; although the precise functional consequences of this modification remain to be fully elucidated, it may affect protein stability or ligand binding (chakrabarti2011newinsightsinto pages 3-4). Moreover, RNase L protein levels are modulated by proteasome-mediated degradation pathways, which are likely initiated via ubiquitination, thereby preventing excessive or prolonged RNA cleavage that could be deleterious to the cell (ezelle2016therolesof pages 1-3, hassel2012pathologiceffectsof pages 1-2). RNase L activity is also inhibited through direct protein-protein interactions; binding of the RNase L inhibitor (RLI/ABCE1) suppresses its nuclease function without interfering with 2–5A binding, thereby serving as an additional checkpoint in the antiviral response (ezelle2016therolesof pages 3-5). Finally, the ATP-binding capacity of the pseudo-kinase domain may provide an allosteric mechanism for fine-tuning enzyme activation in response to cellular energy states (borgelt2023targetingribonucleaseswith pages 5-5).
+
+7. Function  
+RNase L serves as a central effector within the interferon-induced antiviral response. Its endoribonuclease activity is pivotal in degrading single-stranded RNAs, including viral genomes, mRNAs for essential proteins, and rRNAs, thereby rapidly inhibiting protein synthesis during viral infection (borgelt2023targetingribonucleaseswith pages 5-5, liang2006rnaselits pages 1-3). This degradation of RNA not only directly curtails viral replication but also generates small RNA fragments that engage intracellular pattern-recognition receptors such as RIG-I and MDA5, amplifying interferon production and bolstering the antiviral response (chakrabarti2011newinsightsinto pages 6-7, silverman2007ascientificjourney pages 9-10). In addition to its role in direct RNA cleavage, RNase L activation triggers apoptotic pathways; the enzyme initiates a JNK-dependent stress response that leads to cytochrome c release from mitochondria and caspase-dependent apoptosis, thereby contributing to the elimination of compromised, virus-infected cells (borgelt2023targetingribonucleaseswith pages 5-5, silverman2007ascientificjourney pages 9-10). RNase L is also implicated in the regulation of cellular mRNA turnover, influencing gene expression patterns related to cell proliferation and survival (brennanlaun2014rnaselcontrolof pages 1-3, ezelle2016therolesof pages 16-18). Under basal conditions, the enzyme is expressed at low levels in most tissues, but its expression is upregulated by interferon signaling upon viral infection, ensuring a swift and robust antiviral response (chakrabarti2011newinsightsinto pages 1-3, liang2006rnaselits pages 1-3).
+
+8. Other Comments  
+Several small molecules have been identified that modulate RNase L activity. For example, sunitinib, an FDA-approved receptor tyrosine kinase inhibitor, has been shown to bind the pseudo-kinase domain and destabilize the active dimeric form of RNase L, exhibiting inhibitory activity with IC₅₀ values ranging from 1.4 to 33 µM (borgelt2023targetingribonucleaseswith pages 5-5). Other inhibitors, including natural compounds such as ellagic acid and hyperoside, have also been characterized for their potency in inhibiting RNase L function. Conversely, activators including thiophenone C1 and thienopyrimidinone C2 have been reported with EC₅₀ values in the mid-micromolar range, and novel activators identified via DNA-encoded library screening further underscore the therapeutic potential of modulating RNase L activity (borgelt2023targetingribonucleaseswith pages 5-5, huang2014dimericstructureof pages 14-14). Mutations in RNASEL, such as the R462Q variant, have been associated with an increased risk of hereditary prostate cancer as well as altered apoptotic responses, highlighting the clinical significance of proper RNase L regulation (liang2006rnaselits pages 6-7, silverman2007ascientificjourney pages 4-5). In addition, dysregulation of RNase L has been implicated in chronic fatigue syndrome and other immune-related conditions, making it a target of interest for therapeutic intervention. Recent advances in the development of bifunctional molecules (RIBOTACs) aim to harness the RNA cleavage capability of RNase L for targeted mRNA degradation, thereby extending its potential utility beyond antiviral defense into broader gene-regulatory applications (borgelt2023targetingribonucleaseswith pages 8-9).
+
+9. References  
+1. borgelt2023targetingribonucleaseswith pages 5-5  
+2. borgelt2023targetingribonucleaseswith pages 8-9  
+3. brennanlaun2014rnaselcontrolof pages 1-3  
+4. chakrabarti2011newinsightsinto pages 1-3  
+5. chakrabarti2011newinsightsinto pages 3-4  
+6. chakrabarti2011newinsightsinto pages 4-5  
+7. chakrabarti2011newinsightsinto pages 6-7  
+8. cooper2014ribonucleaseland pages 2-2  
+9. ezelle2016therolesof pages 1-3  
+10. ezelle2016therolesof pages 16-18  
+11. ezelle2016therolesof pages 3-5  
+12. ezelle2016therolesof pages 5-6  
+13. ezelle2016therolesof pages 8-10  
+14. han2014structureofhuman pages 1-1  
+15. huang2014dimericstructureof pages 1-2  
+16. huang2014dimericstructureof pages 13-14  
+17. huang2014dimericstructureof pages 14-14  
+18. liang2006rnaselits pages 1-3  
+19. liang2006rnaselits pages 3-4  
+20. liang2006rnaselits pages 5-6  
+21. liang2006rnaselits pages 6-7  
+22. silverman2007ascientificjourney pages 2-4  
+23. silverman2007ascientificjourney pages 4-5  
+24. silverman2007ascientificjourney pages 9-10  
+25. silverman2007ascientificjourney pages 14-15  
+26. silverman2007diversefunctionsof pages 1-2  
+27. silverman2007diversefunctionsof pages 5-6  
+28. silverman2007diversefunctionsof pages 6-8  
+29. silverman2007diversefunctionsof pages 8-9  
+30. tanaka2004structuralbasisfor pages 1-2  
+31. tanaka2004structuralbasisfor pages 2-3  
+32. hassel2012pathologiceffectsof pages 1-2  
+33. hassel2012pathologiceffectsof pages 6-8  
+34. hassel2012pathologiceffectsof pages 8-9  
+35. rios2007characterizationofthe pages 13-13  
+36. andersen2009ribosomalproteinmrnas pages 10-11  
+37. brennanlaun2014rnaselcontrolof pages 14-14  
+38. silverman2007ascientificjourney pages 4-5  
+
+
+
+References
+
+1. (borgelt2023targetingribonucleaseswith pages 5-5): Lydia Borgelt and Peng Wu. Targeting ribonucleases with small molecules and bifunctional molecules. ACS Chemical Biology, 18:2101-2113, Jun 2023. URL: https://doi.org/10.1021/acschembio.3c00191, doi:10.1021/acschembio.3c00191. This article has 10 citations and is from a domain leading peer-reviewed journal.
+
+2. (brennanlaun2014rnaselcontrolof pages 1-3): Sarah E. Brennan-Laun, Heather J. Ezelle, Xiao-Ling Li, and Bret A. Hassel. Rnase-l control of cellular mrnas: roles in biologic functions and mechanisms of substrate targeting. Journal of interferon & cytokine research : the official journal of the International Society for Interferon and Cytokine Research, 34 4:275-88, Apr 2014. URL: https://doi.org/10.1089/jir.2013.0147, doi:10.1089/jir.2013.0147. This article has 60 citations.
+
+3. (chakrabarti2011newinsightsinto pages 1-3): Arindam Chakrabarti, Babal Kant Jha, and Robert H. Silverman. New insights into the role of rnase l in innate immunity. Journal of interferon & cytokine research : the official journal of the International Society for Interferon and Cytokine Research, 31 1:49-57, Jan 2011. URL: https://doi.org/10.1089/jir.2010.0120, doi:10.1089/jir.2010.0120. This article has 410 citations.
+
+4. (chakrabarti2011newinsightsinto pages 3-4): Arindam Chakrabarti, Babal Kant Jha, and Robert H. Silverman. New insights into the role of rnase l in innate immunity. Journal of interferon & cytokine research : the official journal of the International Society for Interferon and Cytokine Research, 31 1:49-57, Jan 2011. URL: https://doi.org/10.1089/jir.2010.0120, doi:10.1089/jir.2010.0120. This article has 410 citations.
+
+5. (chakrabarti2011newinsightsinto pages 4-5): Arindam Chakrabarti, Babal Kant Jha, and Robert H. Silverman. New insights into the role of rnase l in innate immunity. Journal of interferon & cytokine research : the official journal of the International Society for Interferon and Cytokine Research, 31 1:49-57, Jan 2011. URL: https://doi.org/10.1089/jir.2010.0120, doi:10.1089/jir.2010.0120. This article has 410 citations.
+
+6. (chakrabarti2011newinsightsinto pages 6-7): Arindam Chakrabarti, Babal Kant Jha, and Robert H. Silverman. New insights into the role of rnase l in innate immunity. Journal of interferon & cytokine research : the official journal of the International Society for Interferon and Cytokine Research, 31 1:49-57, Jan 2011. URL: https://doi.org/10.1089/jir.2010.0120, doi:10.1089/jir.2010.0120. This article has 410 citations.
+
+7. (cooper2014ribonucleaseland pages 2-2): Daphne A. Cooper, Babal K. Jha, Robert H. Silverman, Jay R. Hesselberth, and David J. Barton. Ribonuclease l and metal-ion–independent endoribonuclease cleavage sites in host and viral rnas. Nucleic Acids Research, 42:5202-5216, Feb 2014. URL: https://doi.org/10.1093/nar/gku118, doi:10.1093/nar/gku118. This article has 74 citations and is from a highest quality peer-reviewed journal.
+
+8. (ezelle2016therolesof pages 1-3): Heather Ezelle, Krishnamurthy Malathi, and Bret Hassel. The roles of rnase-l in antimicrobial immunity and the cytoskeleton-associated innate response. International Journal of Molecular Sciences, 17:74, Jan 2016. URL: https://doi.org/10.3390/ijms17010074, doi:10.3390/ijms17010074. This article has 47 citations and is from a peer-reviewed journal.
+
+9. (ezelle2016therolesof pages 16-18): Heather Ezelle, Krishnamurthy Malathi, and Bret Hassel. The roles of rnase-l in antimicrobial immunity and the cytoskeleton-associated innate response. International Journal of Molecular Sciences, 17:74, Jan 2016. URL: https://doi.org/10.3390/ijms17010074, doi:10.3390/ijms17010074. This article has 47 citations and is from a peer-reviewed journal.
+
+10. (ezelle2016therolesof pages 3-5): Heather Ezelle, Krishnamurthy Malathi, and Bret Hassel. The roles of rnase-l in antimicrobial immunity and the cytoskeleton-associated innate response. International Journal of Molecular Sciences, 17:74, Jan 2016. URL: https://doi.org/10.3390/ijms17010074, doi:10.3390/ijms17010074. This article has 47 citations and is from a peer-reviewed journal.
+
+11. (ezelle2016therolesof pages 5-6): Heather Ezelle, Krishnamurthy Malathi, and Bret Hassel. The roles of rnase-l in antimicrobial immunity and the cytoskeleton-associated innate response. International Journal of Molecular Sciences, 17:74, Jan 2016. URL: https://doi.org/10.3390/ijms17010074, doi:10.3390/ijms17010074. This article has 47 citations and is from a peer-reviewed journal.
+
+12. (ezelle2016therolesof pages 8-10): Heather Ezelle, Krishnamurthy Malathi, and Bret Hassel. The roles of rnase-l in antimicrobial immunity and the cytoskeleton-associated innate response. International Journal of Molecular Sciences, 17:74, Jan 2016. URL: https://doi.org/10.3390/ijms17010074, doi:10.3390/ijms17010074. This article has 47 citations and is from a peer-reviewed journal.
+
+13. (han2014structureofhuman pages 1-1): Yuchen Han, Jesse Donovan, Sneha Rath, Gena Whitney, Alisha Chitrakar, and Alexei Korennykh. Structure of human rnase l reveals the basis for regulated rna decay in the ifn response. Science, 343:1244-1248, Mar 2014. URL: https://doi.org/10.1126/science.1249845, doi:10.1126/science.1249845. This article has 200 citations and is from a highest quality peer-reviewed journal.
+
+14. (huang2014dimericstructureof pages 1-2): Hao Huang, Elton Zeqiraj, Beihua Dong, Babal Kant Jha, Nicole M. Duffy, Stephen Orlicky, Neroshan Thevakumaran, Manisha Talukdar, Monica C. Pillon, Derek F. Ceccarelli, Leo C.K. Wan, Yu-Chi Juang, Daniel Y.L. Mao, Christina Gaughan, Margo A. Brinton, Andrey A. Perelygin, Igor Kourinov, Alba Guarné, Robert H. Silverman, and Frank Sicheri. Dimeric structure of pseudokinase rnase l bound to 2-5a reveals a basis for interferon-induced antiviral activity. Molecular Cell, 53:221-234, Jan 2014. URL: https://doi.org/10.1016/j.molcel.2013.12.025, doi:10.1016/j.molcel.2013.12.025. This article has 155 citations and is from a highest quality peer-reviewed journal.
+
+15. (liang2006rnaselits pages 1-3): Shu-Ling Liang, David Quirk, and Aimin Zhou. Rnase l: its biological roles and regulation. IUBMB Life (International Union of Biochemistry and Molecular Biology: Life), 58:508-514, Sep 2006. URL: https://doi.org/10.1080/15216540600838232, doi:10.1080/15216540600838232. This article has 157 citations.
+
+16. (liang2006rnaselits pages 3-4): Shu-Ling Liang, David Quirk, and Aimin Zhou. Rnase l: its biological roles and regulation. IUBMB Life (International Union of Biochemistry and Molecular Biology: Life), 58:508-514, Sep 2006. URL: https://doi.org/10.1080/15216540600838232, doi:10.1080/15216540600838232. This article has 157 citations.
+
+17. (liang2006rnaselits pages 5-6): Shu-Ling Liang, David Quirk, and Aimin Zhou. Rnase l: its biological roles and regulation. IUBMB Life (International Union of Biochemistry and Molecular Biology: Life), 58:508-514, Sep 2006. URL: https://doi.org/10.1080/15216540600838232, doi:10.1080/15216540600838232. This article has 157 citations.
+
+18. (liang2006rnaselits pages 6-7): Shu-Ling Liang, David Quirk, and Aimin Zhou. Rnase l: its biological roles and regulation. IUBMB Life (International Union of Biochemistry and Molecular Biology: Life), 58:508-514, Sep 2006. URL: https://doi.org/10.1080/15216540600838232, doi:10.1080/15216540600838232. This article has 157 citations.
+
+19. (silverman2007ascientificjourney pages 2-4): RH Silverman. A scientific journey through the 2-5a/rnase l system. Cytokine & growth factor reviews, 18 5-6:381-8, Oct 2007. URL: https://doi.org/10.1016/j.cytogfr.2007.06.012, doi:10.1016/j.cytogfr.2007.06.012. This article has 192 citations.
+
+20. (silverman2007ascientificjourney pages 4-5): RH Silverman. A scientific journey through the 2-5a/rnase l system. Cytokine & growth factor reviews, 18 5-6:381-8, Oct 2007. URL: https://doi.org/10.1016/j.cytogfr.2007.06.012, doi:10.1016/j.cytogfr.2007.06.012. This article has 192 citations.
+
+21. (silverman2007ascientificjourney pages 9-10): RH Silverman. A scientific journey through the 2-5a/rnase l system. Cytokine & growth factor reviews, 18 5-6:381-8, Oct 2007. URL: https://doi.org/10.1016/j.cytogfr.2007.06.012, doi:10.1016/j.cytogfr.2007.06.012. This article has 192 citations.
+
+22. (silverman2007diversefunctionsof pages 1-2): RH Silverman C Bisbal. Diverse functions of rnase l and implications in pathology. Biochimie, 89 6-7:789-98, Jun 2007. URL: https://doi.org/10.1016/j.biochi.2007.02.006, doi:10.1016/j.biochi.2007.02.006. This article has 175 citations and is from a peer-reviewed journal.
+
+23. (silverman2007diversefunctionsof pages 5-6): RH Silverman C Bisbal. Diverse functions of rnase l and implications in pathology. Biochimie, 89 6-7:789-98, Jun 2007. URL: https://doi.org/10.1016/j.biochi.2007.02.006, doi:10.1016/j.biochi.2007.02.006. This article has 175 citations and is from a peer-reviewed journal.
+
+24. (silverman2007diversefunctionsof pages 6-8): RH Silverman C Bisbal. Diverse functions of rnase l and implications in pathology. Biochimie, 89 6-7:789-98, Jun 2007. URL: https://doi.org/10.1016/j.biochi.2007.02.006, doi:10.1016/j.biochi.2007.02.006. This article has 175 citations and is from a peer-reviewed journal.
+
+25. (silverman2007diversefunctionsof pages 8-9): RH Silverman C Bisbal. Diverse functions of rnase l and implications in pathology. Biochimie, 89 6-7:789-98, Jun 2007. URL: https://doi.org/10.1016/j.biochi.2007.02.006, doi:10.1016/j.biochi.2007.02.006. This article has 175 citations and is from a peer-reviewed journal.
+
+26. (tanaka2004structuralbasisfor pages 1-2): Nobutada Tanaka, Masayuki Nakanishi, Yoshio Kusakabe, Yoshikuni Goto, Yukio Kitade, and Kazuo T Nakamura. Structural basis for recognition of 2′,5′‐linked oligoadenylates by human ribonuclease l. The EMBO Journal, Oct 2004. URL: https://doi.org/10.1038/sj.emboj.7600420, doi:10.1038/sj.emboj.7600420. This article has 143 citations.
+
+27. (tanaka2004structuralbasisfor pages 2-3): Nobutada Tanaka, Masayuki Nakanishi, Yoshio Kusakabe, Yoshikuni Goto, Yukio Kitade, and Kazuo T Nakamura. Structural basis for recognition of 2′,5′‐linked oligoadenylates by human ribonuclease l. The EMBO Journal, Oct 2004. URL: https://doi.org/10.1038/sj.emboj.7600420, doi:10.1038/sj.emboj.7600420. This article has 143 citations.
+
+28. (borgelt2023targetingribonucleaseswith pages 8-9): Lydia Borgelt and Peng Wu. Targeting ribonucleases with small molecules and bifunctional molecules. ACS Chemical Biology, 18:2101-2113, Jun 2023. URL: https://doi.org/10.1021/acschembio.3c00191, doi:10.1021/acschembio.3c00191. This article has 10 citations and is from a domain leading peer-reviewed journal.
+
+29. (hassel2012pathologiceffectsof pages 1-2): BA Hassel HJ Ezelle. Pathologic effects of rnase-l dysregulation in immunity and proliferative control. Frontiers in bioscience, 4:767-86, 2012. URL: https://doi.org/10.2741/s298, doi:10.2741/s298. This article has 33 citations and is from a peer-reviewed journal.
+
+30. (hassel2012pathologiceffectsof pages 6-8): BA Hassel HJ Ezelle. Pathologic effects of rnase-l dysregulation in immunity and proliferative control. Frontiers in bioscience, 4:767-86, 2012. URL: https://doi.org/10.2741/s298, doi:10.2741/s298. This article has 33 citations and is from a peer-reviewed journal.
+
+31. (hassel2012pathologiceffectsof pages 8-9): BA Hassel HJ Ezelle. Pathologic effects of rnase-l dysregulation in immunity and proliferative control. Frontiers in bioscience, 4:767-86, 2012. URL: https://doi.org/10.2741/s298, doi:10.2741/s298. This article has 33 citations and is from a peer-reviewed journal.
+
+32. (huang2014dimericstructureof pages 13-14): Hao Huang, Elton Zeqiraj, Beihua Dong, Babal Kant Jha, Nicole M. Duffy, Stephen Orlicky, Neroshan Thevakumaran, Manisha Talukdar, Monica C. Pillon, Derek F. Ceccarelli, Leo C.K. Wan, Yu-Chi Juang, Daniel Y.L. Mao, Christina Gaughan, Margo A. Brinton, Andrey A. Perelygin, Igor Kourinov, Alba Guarné, Robert H. Silverman, and Frank Sicheri. Dimeric structure of pseudokinase rnase l bound to 2-5a reveals a basis for interferon-induced antiviral activity. Molecular Cell, 53:221-234, Jan 2014. URL: https://doi.org/10.1016/j.molcel.2013.12.025, doi:10.1016/j.molcel.2013.12.025. This article has 155 citations and is from a highest quality peer-reviewed journal.
+
+33. (huang2014dimericstructureof pages 14-14): Hao Huang, Elton Zeqiraj, Beihua Dong, Babal Kant Jha, Nicole M. Duffy, Stephen Orlicky, Neroshan Thevakumaran, Manisha Talukdar, Monica C. Pillon, Derek F. Ceccarelli, Leo C.K. Wan, Yu-Chi Juang, Daniel Y.L. Mao, Christina Gaughan, Margo A. Brinton, Andrey A. Perelygin, Igor Kourinov, Alba Guarné, Robert H. Silverman, and Frank Sicheri. Dimeric structure of pseudokinase rnase l bound to 2-5a reveals a basis for interferon-induced antiviral activity. Molecular Cell, 53:221-234, Jan 2014. URL: https://doi.org/10.1016/j.molcel.2013.12.025, doi:10.1016/j.molcel.2013.12.025. This article has 155 citations and is from a highest quality peer-reviewed journal.
+
+34. (rios2007characterizationofthe pages 13-13): Jonathan J Rios, Andrey A Perelygin, Maureen T Long, Teri L Lear, Andrey A Zharkikh, Margo A Brinton, and David L Adelson. Characterization of the equine 2'-5' oligoadenylate synthetase 1 (oas1) and ribonuclease l (rnasel) innate immunity genes. BMC Genomics, 8:313-313, Sep 2007. URL: https://doi.org/10.1186/1471-2164-8-313, doi:10.1186/1471-2164-8-313. This article has 24 citations and is from a peer-reviewed journal.
+
+35. (andersen2009ribosomalproteinmrnas pages 10-11): Jesper B. Andersen, Krystyna Mazan-Mamczarz, Ming Zhan, Myriam Gorospe, and Bret A. Hassel. Ribosomal protein mrnas are primary targets of regulation in rnase-l-induced senescence. RNA Biology, 6:305-315, Jul 2009. URL: https://doi.org/10.4161/rna.6.3.8526, doi:10.4161/rna.6.3.8526. This article has 65 citations and is from a peer-reviewed journal.
+
+36. (brennanlaun2014rnaselcontrolof pages 14-14): Sarah E. Brennan-Laun, Heather J. Ezelle, Xiao-Ling Li, and Bret A. Hassel. Rnase-l control of cellular mrnas: roles in biologic functions and mechanisms of substrate targeting. Journal of interferon & cytokine research : the official journal of the International Society for Interferon and Cytokine Research, 34 4:275-88, Apr 2014. URL: https://doi.org/10.1089/jir.2013.0147, doi:10.1089/jir.2013.0147. This article has 60 citations.
+
+37. (silverman2007ascientificjourney pages 14-15): RH Silverman. A scientific journey through the 2-5a/rnase l system. Cytokine & growth factor reviews, 18 5-6:381-8, Oct 2007. URL: https://doi.org/10.1016/j.cytogfr.2007.06.012, doi:10.1016/j.cytogfr.2007.06.012. This article has 192 citations.

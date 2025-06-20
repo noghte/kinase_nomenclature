@@ -1,0 +1,131 @@
+1. Phylogeny  
+BRSK2, also known as Brain‐selective kinase 2, Brain‐specific serine/threonine‐protein kinase 2, STK29, SAD-A, and PEN11B, belongs to the CAMK (calcium/calmodulin‐dependent protein kinase) group of serine/threonine kinases and is classified within the AMPK‐related subfamily. Its evolutionary conservation is demonstrated by the presence of an ortholog in Caenorhabditis elegans known as Sad-1, and its close paralog BRSK1 is also found in vertebrates. BRSK2’s phylogenetic context positions it among kinases that regulate neuronal functions, with its evolutionary relationships being delineated by studies that trace kinase families from yeast to man (jha2025deeplearningcoupledproximity pages 12-14, asiain2012regulaciónyfunción pages 82-89, babot2014regulaciódela pages 221-225).
+
+2. Reaction Catalyzed  
+BRSK2 catalyzes the phosphorylation reaction in which ATP and a protein substrate containing serine or threonine residues are converted to ADP and the phosphorylated protein along with the release of a proton. Thus, its catalytic activity can be summarized by the following reaction: ATP + [protein]-(Ser/Thr) → ADP + [protein]-(Ser/Thr)-phosphate + H⁺ (jha2025deeplearningcoupledproximity pages 12-14).
+
+3. Cofactor Requirements  
+The enzymatic activity of BRSK2 is dependent on divalent metal ions, with magnesium ion (Mg²⁺) being required as the essential cofactor. In kinase assays, the presence of Mg²⁺ facilitates the binding of ATP and proper substrate turnover, while experimental evidence from related serine/threonine kinases indicates that manganese (Mn²⁺) can also support catalytic activity, albeit with different kinetic parameters (knape2017divalentmetalions pages 7-8, li2012apcccdh1targetsbrainspecific pages 3-4).
+
+4. Substrate Specificity  
+BRSK2 exhibits substrate specificity that is characterized by a consensus assembly of amino acid preferences surrounding the phosphorylation site. Deep learning-based analyses have predicted that the consensus phosphorylation motif for BRSK2 includes a preference for a non-polar amino acid at the −5 position relative to the target serine or threonine, basic residues (arginine and lysine) at the −3 and −2 positions, and acidic residues (aspartic acid and glutamic acid) from the +1 through +3 positions (jha2025deeplearningcoupledproximity pages 12-14). In addition, BRSK2 phosphorylates several substrates that play critical roles in neuronal polarity and cell cycle regulation, including MAPT/TAU, CDC25C, WEE1, CDK16, and PAK1 (tamir2020gainoffunctiongeneticscreen pages 3-5, jha2025deeplearningcoupledproximity pages 12-14).
+
+5. Structure  
+BRSK2 is composed of multiple conserved domains that determine its catalytic and regulatory functions. The protein has an N‐terminal kinase domain that contains the conserved catalytic core essential for ATP binding and phosphoryl transfer. Within this domain, critical structural features such as the activation loop are present; phosphorylation of the activation loop residue (Thr-174) is necessary for kinase activation. Following the kinase domain, BRSK2 contains a ubiquitin-associated (UBA) domain that contributes to an autoinhibitory mechanism. This UBA domain, along with an auto-inhibitory sequence (AIS) that is part of the C-terminal kinase-associated 1 (KA1) domain, cooperatively maintain the kinase in an inactive conformation by positioning the αC helix in an “αC-out” conformation (wu2015structuralinsightinto pages 1-2, wu2015structuralinsightinto pages 6-7, tamir2020gainoffunctiongeneticscreen pages 3-5). Additionally, BRSK2 harbors a proline-rich region (PRR) between the UBA and KA1 domains. The modular organization—with a catalytic core followed by regulatory domains that mediate auto-inhibition and likely membrane localization—parallels the domain architecture observed in other AMPK-related kinases (jha2025deeplearningcoupledproximity pages 4-7, babot2014regulaciódela pages 221-225).
+
+6. Regulation  
+Activation of BRSK2 is primarily controlled by post-translational phosphorylation. The upstream kinase STK11 (also known as LKB1) phosphorylates BRSK2 at a conserved threonine residue in its activation loop (Thr-174), which is critical for relieving autoinhibition and activating the kinase (li2012apcccdh1targetsbrainspecific pages 5-8, thiriet2013cytoplasmicproteinserinethreonine pages 76-78). In addition to LKB1-mediated phosphorylation, BRSK2 is differentially phosphorylated at other residues with distinct functional outcomes; for instance, phosphorylation at Thr-174 has been shown to inhibit insulin secretion, whereas phosphorylation at Thr-260 promotes insulin secretion (information provided in the protein function description). Furthermore, BRSK2 is regulated via ubiquitination and subsequent proteasomal degradation mediated by the APC/C complex through recognition of a conserved KEN box motif, thereby modulating its stability during cell cycle progression (li2012apcccdh1targetsbrainspecific pages 3-4). Autoinhibition mediated by the UBA domain and the AIS within the KA1 domain contributes to conformational control, ensuring that kinase activity is tightly regulated until appropriate upstream signals relieve this inhibition (wu2015structuralinsightinto pages 6-7, tamir2020gainoffunctiongeneticscreen pages 3-5).
+
+7. Function  
+BRSK2 plays key roles in several fundamental cellular processes. It is critically involved in neuronal polarization and axonogenesis, where its phosphorylation of substrates such as the microtubule-associated protein Tau (MAPT/TAU) at specific residues (e.g., Thr-529 and Ser-579) contributes to the establishment and maintenance of neuronal polarity (jha2025deeplearningcoupledproximity pages 12-14, thiriet2013cytoplasmicproteinserinethreonine pages 76-78). In postmitotic neurons, BRSK2 phosphorylates the cell cycle regulator WEE1 at Ser-642, leading to its down-regulation and thereby influencing the transition from the G2 phase to mitosis in developing neurons (jha2025deeplearningcoupledproximity pages 12-14, tamir2020gainoffunctiongeneticscreen pages 3-5). Moreover, BRSK2 is implicated in cell cycle progression through its regulation of CDC25C and in the modulation of insulin secretion via phosphorylation of CDK16 and PAK1. Differential phosphorylation events on BRSK2 (for instance, at Thr-174 versus Thr-260) yield opposing effects on insulin secretion in response to elevated glucose levels (information provided in the protein function description, tamir2020gainoffunctiongeneticscreen pages 5-6). BRSK2 also plays roles in reorganizing the actin cytoskeleton and may participate in apoptotic responses triggered by endoplasmic reticulum (ER) stress. Expression of BRSK2 is primarily observed in neuronal tissues, although it has also been reported in certain tumor cell lines, indicating its multifunctionality across different cell types (li2012apcccdh1targetsbrainspecific pages 5-8, tamir2020gainoffunctiongeneticscreen pages 3-5).
+
+8. Other Comments  
+BRSK2 has been linked to neurodevelopmental disorders; genetic variants in BRSK2 have been associated with developmental delay, autism spectrum disorders, and intellectual disability (jha2025deeplearningcoupledproximity pages 12-14). Despite its critical biological roles, selective small-molecule inhibitors that target BRSK2 remain underdeveloped, and there are currently no widely accepted tool compounds for therapeutic modulation of this kinase (liu2021leveragingdiversedata pages 56-60, moret2020aresourcefor pages 17-20, tamir2020gainoffunctiongeneticscreen pages 8-9). In addition, altered BRSK2 activity has been observed to influence cell cycle progression and insulin secretion, linking it to metabolic regulation and potentially to oncogenic processes observed in certain cancers. The modulation of BRSK2 via phosphorylation by upstream kinases such as LKB1 and its regulation by the ubiquitin-proteasome pathway further underscore the complexity of its control mechanisms. The potential for targeting the kinase–substrate interactions of BRSK2 in disease contexts, particularly in neurological and metabolic disorders, remains an area of active investigation (banerjee2013phosphorylationubiquitylationand pages 35-39, southekal2021integrativeanalysisof pages 114-120).
+
+9. References  
+1. jha2025deeplearningcoupledproximity pages 12-14  
+2. li2012apcccdh1targetsbrainspecific pages 5-8  
+3. li2012apcccdh1targetsbrainspecific pages 8-9  
+4. lyn2011theregulationof pages 65-70  
+5. tamir2020gainoffunctiongeneticscreen pages 3-5  
+6. tamir2020gainoffunctiongeneticscreen pages 5-6  
+7. tamir2020gainoffunctiongeneticscreen pages 6-8  
+8. wu2015structuralinsightinto pages 1-2  
+9. wu2015structuralinsightinto pages 2-3  
+10. wu2015structuralinsightinto pages 6-7  
+11. asiain2012regulaciónyfunción pages 82-89  
+12. banerjee2013phosphorylationubiquitylationand pages 35-39  
+13. jha2025deeplearningcoupledproximity pages 11-12  
+14. jha2025deeplearningcoupledproximity pages 4-7  
+15. knape2017divalentmetalions pages 7-8  
+16. li2012apcccdh1targetsbrainspecific pages 3-4  
+17. liu2021leveragingdiversedata pages 56-60  
+18. lyn2011theregulationof pages 59-65  
+19. moret2020aresourcefor pages 10-13  
+20. southekal2021integrativeanalysisof pages 114-120  
+21. thiriet2013cytoplasmicproteinserinethreonine pages 76-78  
+22. babot2014regulaciódela pages 221-225  
+23. banerjee2013phosphorylationubiquitylationand pages 29-35  
+24. cargnello2011activationandfunction pages 17-18  
+25. knape2017divalentmetalions pages 4-5  
+26. knape2017divalentmetalions pages 5-7  
+27. liu2021leveragingdiversedata pages 28-33  
+28. liu2021leveragingdiversedata pages 33-36  
+29. liu2021leveragingdiversedata pages 74-78  
+30. lovitt2010differentialeffectsof pages 3-4  
+31. minchenko2012snf1ampactivatedproteinkinases pages 1-3  
+32. moret2020aresourcefor pages 13-17  
+33. moret2020aresourcefor pages 17-20  
+34. moret2020aresourcefor pages 20-23
+
+References
+
+1. (jha2025deeplearningcoupledproximity pages 12-14): Kanchan Jha, Daichi Shonai, Aditya Parekh, Akiyoshi Uezu, Tomoyuki Fujiyama, Hikari Yamamoto, Pooja Parameswaran, Masashi Yanagisawa, Rohit Singh, and Scott H. Soderling. Deep learning-coupled proximity proteomics to deconvolve kinase signaling in vivo. BioRxiv, Apr 2025. URL: https://doi.org/10.1101/2025.04.27.650849, doi:10.1101/2025.04.27.650849. This article has 0 citations.
+
+2. (li2012apcccdh1targetsbrainspecific pages 5-8): Ruwei Li, Bo Wan, Jun Zhou, Yingli Wang, Ting Luo, Xiuting Gu, Fang Chen, and Long Yu. Apc/ccdh1 targets brain-specific kinase 2 (brsk2) for degradation via the ubiquitin-proteasome pathway. PLoS ONE, 7:e45932, Sep 2012. URL: https://doi.org/10.1371/journal.pone.0045932, doi:10.1371/journal.pone.0045932. This article has 15 citations and is from a peer-reviewed journal.
+
+3. (li2012apcccdh1targetsbrainspecific pages 8-9): Ruwei Li, Bo Wan, Jun Zhou, Yingli Wang, Ting Luo, Xiuting Gu, Fang Chen, and Long Yu. Apc/ccdh1 targets brain-specific kinase 2 (brsk2) for degradation via the ubiquitin-proteasome pathway. PLoS ONE, 7:e45932, Sep 2012. URL: https://doi.org/10.1371/journal.pone.0045932, doi:10.1371/journal.pone.0045932. This article has 15 citations and is from a peer-reviewed journal.
+
+4. (lyn2011theregulationof pages 65-70): CL Lyn. The regulation of tau-dependent neurodegeneration by brain selective/sad kinases. Unknown journal, 2011.
+
+5. (tamir2020gainoffunctiongeneticscreen pages 3-5): Tigist Y Tamir, Brittany M Bowman, Megan J Agajanian, Dennis Goldfarb, Travis P Schrank, Trent Stohrer, Andrew E Hale, Priscila F Siesser, Seth J Weir, Ryan M Murphy, Kyle M LaPak, Bernard E Weissman, Nathaniel J Moorman, and M. Ben Major. Gain-of-function genetic screen of the kinome reveals brsk2 as an inhibitor of the nrf2 transcription factor. Journal of Cell Science, Jan 2020. URL: https://doi.org/10.1242/jcs.241356, doi:10.1242/jcs.241356. This article has 26 citations and is from a domain leading peer-reviewed journal.
+
+6. (tamir2020gainoffunctiongeneticscreen pages 5-6): Tigist Y Tamir, Brittany M Bowman, Megan J Agajanian, Dennis Goldfarb, Travis P Schrank, Trent Stohrer, Andrew E Hale, Priscila F Siesser, Seth J Weir, Ryan M Murphy, Kyle M LaPak, Bernard E Weissman, Nathaniel J Moorman, and M. Ben Major. Gain-of-function genetic screen of the kinome reveals brsk2 as an inhibitor of the nrf2 transcription factor. Journal of Cell Science, Jan 2020. URL: https://doi.org/10.1242/jcs.241356, doi:10.1242/jcs.241356. This article has 26 citations and is from a domain leading peer-reviewed journal.
+
+7. (tamir2020gainoffunctiongeneticscreen pages 6-8): Tigist Y Tamir, Brittany M Bowman, Megan J Agajanian, Dennis Goldfarb, Travis P Schrank, Trent Stohrer, Andrew E Hale, Priscila F Siesser, Seth J Weir, Ryan M Murphy, Kyle M LaPak, Bernard E Weissman, Nathaniel J Moorman, and M. Ben Major. Gain-of-function genetic screen of the kinome reveals brsk2 as an inhibitor of the nrf2 transcription factor. Journal of Cell Science, Jan 2020. URL: https://doi.org/10.1242/jcs.241356, doi:10.1242/jcs.241356. This article has 26 citations and is from a domain leading peer-reviewed journal.
+
+8. (wu2015structuralinsightinto pages 1-2): Jing-Xiang Wu, Yun-Sheng Cheng, Jue Wang, Lei Chen, Mei Ding, and Jia-Wei Wu. Structural insight into the mechanism of synergistic autoinhibition of sad kinases. Nature Communications, Dec 2015. URL: https://doi.org/10.1038/ncomms9953, doi:10.1038/ncomms9953. This article has 29 citations and is from a highest quality peer-reviewed journal.
+
+9. (wu2015structuralinsightinto pages 2-3): Jing-Xiang Wu, Yun-Sheng Cheng, Jue Wang, Lei Chen, Mei Ding, and Jia-Wei Wu. Structural insight into the mechanism of synergistic autoinhibition of sad kinases. Nature Communications, Dec 2015. URL: https://doi.org/10.1038/ncomms9953, doi:10.1038/ncomms9953. This article has 29 citations and is from a highest quality peer-reviewed journal.
+
+10. (wu2015structuralinsightinto pages 6-7): Jing-Xiang Wu, Yun-Sheng Cheng, Jue Wang, Lei Chen, Mei Ding, and Jia-Wei Wu. Structural insight into the mechanism of synergistic autoinhibition of sad kinases. Nature Communications, Dec 2015. URL: https://doi.org/10.1038/ncomms9953, doi:10.1038/ncomms9953. This article has 29 citations and is from a highest quality peer-reviewed journal.
+
+11. (asiain2012regulaciónyfunción pages 82-89): A Rodríguez Asiain. Regulación y función de las brain-specific kinases 1 y 2 (brsk1 y brsk2, también llamadas sad quinasas) en la diferenciación y sinapsis neuronales. Unknown journal, 2012.
+
+12. (banerjee2013phosphorylationubiquitylationand pages 35-39): S Banerjee. Phosphorylation, ubiquitylation and characterisation of specific inhibitors of ampk-related kinase nuak1/ark5. Unknown journal, 2013.
+
+13. (jha2025deeplearningcoupledproximity pages 11-12): Kanchan Jha, Daichi Shonai, Aditya Parekh, Akiyoshi Uezu, Tomoyuki Fujiyama, Hikari Yamamoto, Pooja Parameswaran, Masashi Yanagisawa, Rohit Singh, and Scott H. Soderling. Deep learning-coupled proximity proteomics to deconvolve kinase signaling in vivo. BioRxiv, Apr 2025. URL: https://doi.org/10.1101/2025.04.27.650849, doi:10.1101/2025.04.27.650849. This article has 0 citations.
+
+14. (jha2025deeplearningcoupledproximity pages 4-7): Kanchan Jha, Daichi Shonai, Aditya Parekh, Akiyoshi Uezu, Tomoyuki Fujiyama, Hikari Yamamoto, Pooja Parameswaran, Masashi Yanagisawa, Rohit Singh, and Scott H. Soderling. Deep learning-coupled proximity proteomics to deconvolve kinase signaling in vivo. BioRxiv, Apr 2025. URL: https://doi.org/10.1101/2025.04.27.650849, doi:10.1101/2025.04.27.650849. This article has 0 citations.
+
+15. (knape2017divalentmetalions pages 7-8): Matthias J. Knape, Mike Ballez, Nicole C. Burghardt, Bastian Zimmermann, Daniela Bertinetti, Alexandr P. Kornev, and Friedrich W. Herberg. Divalent metal ions control activity and inhibition of protein kinases. Metallomics, 9:1576-1584, Jan 2017. URL: https://doi.org/10.1039/c7mt00204a, doi:10.1039/c7mt00204a. This article has 63 citations and is from a peer-reviewed journal.
+
+16. (li2012apcccdh1targetsbrainspecific pages 3-4): Ruwei Li, Bo Wan, Jun Zhou, Yingli Wang, Ting Luo, Xiuting Gu, Fang Chen, and Long Yu. Apc/ccdh1 targets brain-specific kinase 2 (brsk2) for degradation via the ubiquitin-proteasome pathway. PLoS ONE, 7:e45932, Sep 2012. URL: https://doi.org/10.1371/journal.pone.0045932, doi:10.1371/journal.pone.0045932. This article has 15 citations and is from a peer-reviewed journal.
+
+17. (liu2021leveragingdiversedata pages 56-60): C Liu. Leveraging diverse data modalities to study kinase inhibitor polypharmacology. Unknown journal, 2021.
+
+18. (lyn2011theregulationof pages 59-65): CL Lyn. The regulation of tau-dependent neurodegeneration by brain selective/sad kinases. Unknown journal, 2011.
+
+19. (moret2020aresourcefor pages 10-13): Nienke Moret, Changchang Liu, Benjamin M. Gyori, John A. Bachman, Albert Steppi, Clemens Hug, Rahil Taujale, Liang-Chin Huang, Matthew E. Berginski, Shawn M. Gomez, Natarajan Kannan, and Peter K. Sorger. A resource for exploring the understudied human kinome for research and therapeutic opportunities. BioRxiv, Apr 2020. URL: https://doi.org/10.1101/2020.04.02.022277, doi:10.1101/2020.04.02.022277. This article has 28 citations.
+
+20. (southekal2021integrativeanalysisof pages 114-120): S Southekal. Integrative analysis of multi-omics kinome data and virtual screening of identified targets with pan-cancer application. Unknown journal, 2021.
+
+21. (tamir2020gainoffunctiongeneticscreen pages 8-9): Tigist Y Tamir, Brittany M Bowman, Megan J Agajanian, Dennis Goldfarb, Travis P Schrank, Trent Stohrer, Andrew E Hale, Priscila F Siesser, Seth J Weir, Ryan M Murphy, Kyle M LaPak, Bernard E Weissman, Nathaniel J Moorman, and M. Ben Major. Gain-of-function genetic screen of the kinome reveals brsk2 as an inhibitor of the nrf2 transcription factor. Journal of Cell Science, Jan 2020. URL: https://doi.org/10.1242/jcs.241356, doi:10.1242/jcs.241356. This article has 26 citations and is from a domain leading peer-reviewed journal.
+
+22. (thiriet2013cytoplasmicproteinserinethreonine pages 76-78): M Thiriet M Thiriet. Cytoplasmic protein serine/threonine kinases. Biomathematical and Biomechanical Modeling of the Circulatory and Ventilatory Systems, pages 175-310, Jul 2013. URL: https://doi.org/10.1007/978-1-4614-4370-4\_5, doi:10.1007/978-1-4614-4370-4\_5. This article has 11 citations.
+
+23. (babot2014regulaciódela pages 221-225): G Ruiz Babot. Regulació de la brain-specific kinase 1 (brsk1) neuronal per sulfàtid i modificacions post-traduccionals. Unknown journal, 2014.
+
+24. (banerjee2013phosphorylationubiquitylationand pages 29-35): S Banerjee. Phosphorylation, ubiquitylation and characterisation of specific inhibitors of ampk-related kinase nuak1/ark5. Unknown journal, 2013.
+
+25. (cargnello2011activationandfunction pages 17-18): Marie Cargnello and Philippe P. Roux. Activation and function of the mapks and their substrates, the mapk-activated protein kinases. Microbiology and Molecular Biology Reviews, 75:50-83, Mar 2011. URL: https://doi.org/10.1128/mmbr.00031-10, doi:10.1128/mmbr.00031-10. This article has 3999 citations and is from a domain leading peer-reviewed journal.
+
+26. (knape2017divalentmetalions pages 4-5): Matthias J. Knape, Mike Ballez, Nicole C. Burghardt, Bastian Zimmermann, Daniela Bertinetti, Alexandr P. Kornev, and Friedrich W. Herberg. Divalent metal ions control activity and inhibition of protein kinases. Metallomics, 9:1576-1584, Jan 2017. URL: https://doi.org/10.1039/c7mt00204a, doi:10.1039/c7mt00204a. This article has 63 citations and is from a peer-reviewed journal.
+
+27. (knape2017divalentmetalions pages 5-7): Matthias J. Knape, Mike Ballez, Nicole C. Burghardt, Bastian Zimmermann, Daniela Bertinetti, Alexandr P. Kornev, and Friedrich W. Herberg. Divalent metal ions control activity and inhibition of protein kinases. Metallomics, 9:1576-1584, Jan 2017. URL: https://doi.org/10.1039/c7mt00204a, doi:10.1039/c7mt00204a. This article has 63 citations and is from a peer-reviewed journal.
+
+28. (liu2021leveragingdiversedata pages 28-33): C Liu. Leveraging diverse data modalities to study kinase inhibitor polypharmacology. Unknown journal, 2021.
+
+29. (liu2021leveragingdiversedata pages 33-36): C Liu. Leveraging diverse data modalities to study kinase inhibitor polypharmacology. Unknown journal, 2021.
+
+30. (liu2021leveragingdiversedata pages 74-78): C Liu. Leveraging diverse data modalities to study kinase inhibitor polypharmacology. Unknown journal, 2021.
+
+31. (lovitt2010differentialeffectsof pages 3-4): Brian T Lovitt, Erica C Vanderporten, Zejuan Sheng, Haitao Zhu, Jason Drummond, and Yichin Liu. Differential effects of divalent manganese and magnesium on the kinase activity of leucine-rich repeat kinase 2 (lrrk2). Biochemistry, 49 14:3092-100, Apr 2010. URL: https://doi.org/10.1021/bi901726c, doi:10.1021/bi901726c. This article has 53 citations and is from a peer-reviewed journal.
+
+32. (minchenko2012snf1ampactivatedproteinkinases pages 1-3): DO Minchenko and OH Minchenko. Snf1/amp-activated protein kinases: genes, expression and biological role. Unknown journal, Jun 2012. URL: https://doi.org/10.5772/37820, doi:10.5772/37820. This article has 5 citations.
+
+33. (moret2020aresourcefor pages 13-17): Nienke Moret, Changchang Liu, Benjamin M. Gyori, John A. Bachman, Albert Steppi, Clemens Hug, Rahil Taujale, Liang-Chin Huang, Matthew E. Berginski, Shawn M. Gomez, Natarajan Kannan, and Peter K. Sorger. A resource for exploring the understudied human kinome for research and therapeutic opportunities. BioRxiv, Apr 2020. URL: https://doi.org/10.1101/2020.04.02.022277, doi:10.1101/2020.04.02.022277. This article has 28 citations.
+
+34. (moret2020aresourcefor pages 17-20): Nienke Moret, Changchang Liu, Benjamin M. Gyori, John A. Bachman, Albert Steppi, Clemens Hug, Rahil Taujale, Liang-Chin Huang, Matthew E. Berginski, Shawn M. Gomez, Natarajan Kannan, and Peter K. Sorger. A resource for exploring the understudied human kinome for research and therapeutic opportunities. BioRxiv, Apr 2020. URL: https://doi.org/10.1101/2020.04.02.022277, doi:10.1101/2020.04.02.022277. This article has 28 citations.
+
+35. (moret2020aresourcefor pages 20-23): Nienke Moret, Changchang Liu, Benjamin M. Gyori, John A. Bachman, Albert Steppi, Clemens Hug, Rahil Taujale, Liang-Chin Huang, Matthew E. Berginski, Shawn M. Gomez, Natarajan Kannan, and Peter K. Sorger. A resource for exploring the understudied human kinome for research and therapeutic opportunities. BioRxiv, Apr 2020. URL: https://doi.org/10.1101/2020.04.02.022277, doi:10.1101/2020.04.02.022277. This article has 28 citations.

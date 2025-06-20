@@ -1,0 +1,89 @@
+1. Phylogeny  
+LATS2 is an evolutionarily conserved serine/threonine‐protein kinase that belongs to the AGC kinase family and is classified within the NDR/LATS subfamily. Its orthologs are found in diverse eukaryotic lineages, ranging from yeast (with proteins such as Dbf2p and Orb6) to the Drosophila melanogaster tumor suppressor gene warts (Wts) and ultimately to mammals, where it is present as LATS2 alongside its closely related paralog LATS1. Structural conservation is highest in the C‐terminal kinase domain, while the N‐terminal regions display lower conservation and harbor unique motifs such as PPxY and PAPA repeats, suggesting that the family arose early in eukaryotic evolution and has diverged to accommodate specialized regulatory functions in multicellular organisms (yabuta2000structureexpressionand pages 1-3, furth2017thelats1and pages 1-2, visser2010latstumorsuppressor pages 1-2).
+
+2. Reaction Catalyzed  
+LATS2 catalyzes the transfer of a phosphate group from ATP to specific L‐serine or L‐threonine residues on substrate proteins. In chemical terms, the reaction proceeds as follows:  
+ATP + [protein]–(L‐serine or L‐threonine) → ADP + [protein]–(L‐serine/threonine phosphate) + H⁺.  
+This phosphorylation reaction underpins its role in the Hippo signaling cascade by modulating the activity of downstream effectors such as YAP1, thereby regulating cell proliferation and apoptosis (chan2007exploringtheregulation pages 45-49, furth2017thelats1and pages 1-2).
+
+3. Cofactor Requirements  
+The catalytic activity of LATS2, like that of other AGC family serine/threonine kinases, requires divalent metal ions to facilitate the binding and proper orientation of ATP. Specifically, Mg²⁺ serves as a critical cofactor for its kinase activity, coordinating the phosphates of ATP and promoting efficient phosphoryl transfer (gerrits2012dmpkeand pages 17-20, visser2010latstumorsuppressor pages 4-5).
+
+4. Substrate Specificity  
+LATS2 exhibits substrate specificity for serine/threonine residues within target proteins that often localize within regions enriched in basic amino acids. Its functional substrates include key effectors of the Hippo pathway such as YAP1 and WWTR1/TAZ. For instance, LATS2 phosphorylates YAP1 at residues including Ser127—a modification that creates binding sites for 14-3-3 proteins and leads to cytoplasmic retention or degradation of YAP1. Although a definitive consensus substrate motif for LATS2 has not been fully delineated, available data suggest that substrates targeted by this kinase typically present a local environment enriched for basic residues preceding the phospho-acceptor serine/threonine (kuhn2021thelats1and pages 121-124, furth2017thelats1and pages 3-4).
+
+5. Structure  
+LATS2 is organized into multiple domains that coordinate its regulatory and catalytic functions. Its overall structure comprises a less-conserved N-terminal region that contains motifs such as PPxY and PAPA repeats, which mediate protein–protein interactions with partners harboring WW domains. This regulatory region is followed by a highly conserved C-terminal serine/threonine kinase domain responsible for catalytic activity. Within the kinase domain, critical features include the activation loop and the hydrophobic motif, both of which are essential for kinase activation through phosphorylation. Predicted structural models indicate that the kinase domain adopts a typical bilobal fold common to AGC kinases, with the N-lobe containing a conserved C-helix and the C-lobe forming the catalytic cleft. In addition, nuclear localization signals within LATS2 contribute to its predominantly nuclear localization in certain cell types, as observed by immunoblotting studies (yabuta2000structureexpressionand pages 1-3, yabuta2000structureexpressionand pages 3-4, visser2010latstumorsuppressor pages 12-12, yabuta2000structureexpressionand pages 6-8).
+
+6. Regulation  
+Regulation of LATS2 is achieved through a multi-layered network of post-translational modifications and protein–protein interactions. Its activity is primarily modulated by phosphorylation. Upstream kinases—most notably MST1/2 in complex with SAV1—phosphorylate LATS2 on conserved residues located within the activation loop and hydrophobic motif. This phosphorylation event is further enhanced by binding of the adaptor protein MOB1, which relieves autoinhibition in the kinase domain. During mitosis, LATS2 is also phosphorylated by Aurora kinases, such as Aurora-A, which influences its subcellular localization and function. In addition to phosphorylation, LATS2 levels are regulated post-transcriptionally by microRNAs (for example, miR-372 and miR-373) and by ubiquitin-mediated proteasomal degradation through specific E3 ubiquitin ligases. Transcriptional regulation by tumor suppressors such as p53 further adds to the complex regulatory network governing LATS2 activity (chan2007exploringtheregulation pages 45-49, furth2018tumorsuppressorsderegulation pages 76-77, furth2017thelats1and pages 7-8).
+
+7. Function  
+As a core component of the Hippo signaling pathway, LATS2 plays a pivotal role in controlling cell proliferation, apoptosis, and organ size. Its principal function is to phosphorylate and thereby inactivate the transcriptional coactivator YAP1 (and its paralog TAZ), preventing their nuclear translocation and subsequent activation of genes that drive cell growth, survival, and migration. In addition to its role in the canonical Hippo pathway, LATS2 has functions that extend beyond YAP regulation; it is involved in cell cycle checkpoint control, p53-mediated transcriptional regulation, and responses to DNA damage. Differential expression of LATS2 has been observed in various tissues, with notable expression in heart, muscle, and specific developmental stages. Loss of LATS2 function or its downregulation by epigenetic silencing is frequently associated with tumorigenesis in breast, lung, colorectal, and other cancers, underscoring its importance as a tumor suppressor (furth2017thelats1and pages 1-2, furth2018tumorsuppressorsderegulation pages 81-82, visser2010latstumorsuppressor pages 11-12, kuhn2021thelats1and pages 17-20, kuhn2021thelats1and pages 121-124).
+
+8. Other Comments  
+Aberrant expression of LATS2, most commonly through promoter hypermethylation or microRNA-mediated repression, has been linked to a variety of cancers including breast, lung, and colorectal carcinomas. Although no specific small-molecule inhibitors directly targeting LATS2 have been well established to date, modulation of its upstream regulators or interacting partners represents a potential therapeutic strategy for restoring Hippo pathway activity in tumors. Importantly, pathogenic mutations in LATS2 are not frequently observed; rather, deregulation occurs predominantly through altered expression levels. Data from Open Targets indicate that genetic alterations and somatic mutations in LATS2 are implicated in diseases such as pleural mesothelioma and basal cell carcinoma, further highlighting its role in tumor suppression (rusnak2018largetumorsuppressor pages 1-3, furth2018tumorsuppressorsderegulation pages 86-87, luo2014aberrantlargetumor pages 8-10, OpenTargets Search: -LATS2).
+
+9. References  
+chan2007exploringtheregulation pages 45-49  
+furth2017thelats1and pages 1-2  
+furth2017thelats1and pages 3-4  
+furth2018tumorsuppressorsderegulation pages 76-77  
+visser2010latstumorsuppressor pages 1-2  
+yabuta2000structureexpressionand pages 1-3  
+gerrits2012dmpkeand pages 17-20  
+visser2010latstumorsuppressor pages 4-5  
+kuhn2021thelats1and pages 121-124  
+furth2018tumorsuppressorsderegulation pages 81-82  
+visser2010latstumorsuppressor pages 11-12  
+kuhn2021thelats1and pages 17-20  
+rusnak2018largetumorsuppressor pages 1-3  
+furth2018tumorsuppressorsderegulation pages 86-87  
+luo2014aberrantlargetumor pages 8-10  
+OpenTargets Search: -LATS2  
+yabuta2000structureexpressionand pages 3-4  
+yabuta2000structureexpressionand pages 6-8  
+visser2010latstumorsuppressor pages 12-12  
+furth2017thelats1and pages 7-8
+
+References
+
+1. (chan2007exploringtheregulation pages 45-49): HY Chan. Exploring the regulation and function of human lats1 and aurora a kinases in mitosis. Unknown journal, 2007.
+
+2. (furth2017thelats1and pages 1-2): Noa Furth and Yael Aylon. The lats1 and lats2 tumor suppressors: beyond the hippo pathway. Cell Death &amp; Differentiation, 24:1488-1501, Jun 2017. URL: https://doi.org/10.1038/cdd.2017.99, doi:10.1038/cdd.2017.99. This article has 248 citations.
+
+3. (furth2017thelats1and pages 3-4): Noa Furth and Yael Aylon. The lats1 and lats2 tumor suppressors: beyond the hippo pathway. Cell Death &amp; Differentiation, 24:1488-1501, Jun 2017. URL: https://doi.org/10.1038/cdd.2017.99, doi:10.1038/cdd.2017.99. This article has 248 citations.
+
+4. (furth2018tumorsuppressorsderegulation pages 76-77): N Furth. Tumor suppressors deregulation in cancer: p53 and the hippo pathway. Unknown journal, 2018.
+
+5. (furth2018tumorsuppressorsderegulation pages 81-82): N Furth. Tumor suppressors deregulation in cancer: p53 and the hippo pathway. Unknown journal, 2018.
+
+6. (gerrits2012dmpkeand pages 17-20): JW Gerrits. Dmpk e and lats2 in the cell division cycle. study of two agc kinases. Unknown journal, 2012.
+
+7. (kuhn2021thelats1and pages 17-20): BJ Kuhn. The lats1 and lats2 tumor suppressor kinases: a comprehensive multilayered ms-based analysis of their functional roles in breast cancer. Unknown journal, 2021.
+
+8. (rusnak2018largetumorsuppressor pages 1-3): Lauren Rusnak, Cong Tang, Q. Qi, Xiulei Mo, and H. Fu. Large tumor suppressor 2, lats2, activates jnk in a kinase-independent mechanism through ask1. Journal of Molecular Cell Biology, 10:549–558, Nov 2018. URL: https://doi.org/10.1093/jmcb/mjy061, doi:10.1093/jmcb/mjy061. This article has 13 citations and is from a peer-reviewed journal.
+
+9. (visser2010latstumorsuppressor pages 11-12): Stacy Visser and Xiaolong Yang. Lats tumor suppressor: a new governor of cellular homeostasis. Cell Cycle, 9:3892-3903, Oct 2010. URL: https://doi.org/10.4161/cc.9.19.13386, doi:10.4161/cc.9.19.13386. This article has 255 citations and is from a peer-reviewed journal.
+
+10. (visser2010latstumorsuppressor pages 12-12): Stacy Visser and Xiaolong Yang. Lats tumor suppressor: a new governor of cellular homeostasis. Cell Cycle, 9:3892-3903, Oct 2010. URL: https://doi.org/10.4161/cc.9.19.13386, doi:10.4161/cc.9.19.13386. This article has 255 citations and is from a peer-reviewed journal.
+
+11. (visser2010latstumorsuppressor pages 4-5): Stacy Visser and Xiaolong Yang. Lats tumor suppressor: a new governor of cellular homeostasis. Cell Cycle, 9:3892-3903, Oct 2010. URL: https://doi.org/10.4161/cc.9.19.13386, doi:10.4161/cc.9.19.13386. This article has 255 citations and is from a peer-reviewed journal.
+
+12. (OpenTargets Search: -LATS2): Open Targets Query (-LATS2, 5 results). Buniello, A. et al. (2025). Open Targets Platform: facilitating therapeutic hypotheses building in drug discovery. Nucleic Acids Research.
+
+13. (furth2017thelats1and pages 7-8): Noa Furth and Yael Aylon. The lats1 and lats2 tumor suppressors: beyond the hippo pathway. Cell Death &amp; Differentiation, 24:1488-1501, Jun 2017. URL: https://doi.org/10.1038/cdd.2017.99, doi:10.1038/cdd.2017.99. This article has 248 citations.
+
+14. (furth2018tumorsuppressorsderegulation pages 86-87): N Furth. Tumor suppressors deregulation in cancer: p53 and the hippo pathway. Unknown journal, 2018.
+
+15. (kuhn2021thelats1and pages 121-124): BJ Kuhn. The lats1 and lats2 tumor suppressor kinases: a comprehensive multilayered ms-based analysis of their functional roles in breast cancer. Unknown journal, 2021.
+
+16. (luo2014aberrantlargetumor pages 8-10): S. Luo, Ko-Yung Sit, A. Sihoe, W. Suen, W. Au, Ximing Tang, E. Ma, W. Chan, I. Wistuba, J. Minna, G. Tsao, and D. Lam. Aberrant large tumor suppressor 2 (lats2) gene expression correlates with egfr mutation and survival in lung adenocarcinomas. Lung cancer, 85 2:282-92, Aug 2014. URL: https://doi.org/10.1016/j.lungcan.2014.05.025, doi:10.1016/j.lungcan.2014.05.025. This article has 36 citations and is from a peer-reviewed journal.
+
+17. (visser2010latstumorsuppressor pages 1-2): Stacy Visser and Xiaolong Yang. Lats tumor suppressor: a new governor of cellular homeostasis. Cell Cycle, 9:3892-3903, Oct 2010. URL: https://doi.org/10.4161/cc.9.19.13386, doi:10.4161/cc.9.19.13386. This article has 255 citations and is from a peer-reviewed journal.
+
+18. (yabuta2000structureexpressionand pages 1-3): N. Yabuta, Takayuki Fujii, N. G. Copeland, D. J. Gilbert, Nancy A. Jenkins, Hiroaki Nishiguchi, Yuichi Endo, Shingo Toji, Hiromitsu Tanaka, Yoshitake Nishimune, and Hiroshi Nojima. Structure, expression, and chromosome mapping of lats2, a mammalian homologue of the drosophila tumor suppressor gene lats/warts. Genomics, 63 2:263-70, Jan 2000. URL: https://doi.org/10.1006/geno.1999.6065, doi:10.1006/geno.1999.6065. This article has 132 citations and is from a peer-reviewed journal.
+
+19. (yabuta2000structureexpressionand pages 3-4): N. Yabuta, Takayuki Fujii, N. G. Copeland, D. J. Gilbert, Nancy A. Jenkins, Hiroaki Nishiguchi, Yuichi Endo, Shingo Toji, Hiromitsu Tanaka, Yoshitake Nishimune, and Hiroshi Nojima. Structure, expression, and chromosome mapping of lats2, a mammalian homologue of the drosophila tumor suppressor gene lats/warts. Genomics, 63 2:263-70, Jan 2000. URL: https://doi.org/10.1006/geno.1999.6065, doi:10.1006/geno.1999.6065. This article has 132 citations and is from a peer-reviewed journal.
+
+20. (yabuta2000structureexpressionand pages 6-8): N. Yabuta, Takayuki Fujii, N. G. Copeland, D. J. Gilbert, Nancy A. Jenkins, Hiroaki Nishiguchi, Yuichi Endo, Shingo Toji, Hiromitsu Tanaka, Yoshitake Nishimune, and Hiroshi Nojima. Structure, expression, and chromosome mapping of lats2, a mammalian homologue of the drosophila tumor suppressor gene lats/warts. Genomics, 63 2:263-70, Jan 2000. URL: https://doi.org/10.1006/geno.1999.6065, doi:10.1006/geno.1999.6065. This article has 132 citations and is from a peer-reviewed journal.

@@ -1,0 +1,182 @@
+**1. Phylogeny:**  
+Fibroblast growth factor receptor 3 (FGFR3), also known as JTK4 and indexed as UniProt P22607, is a member of the receptor tyrosine kinase (RTK) superfamily that is specifically classified within the FGFR subfamily. Orthologs of FGFR3 have been identified throughout vertebrate species, from mammals to birds and amphibians, which demonstrates its deep evolutionary conservation and fundamental role in developmental signaling (xu2015identifyingthreedimensionalstructures pages 17-19, cowanjacob2006structuralbiologyof pages 1-2). FGFR3 shares a high degree of sequence and structural homology with FGFR1, FGFR2, and FGFR4, and these paralogous receptors are thought to have arisen by gene duplication during early vertebrate evolution (boubeva2011understandingtyrosinekinase pages 204-206, cowanjacob2006structuralbiologyof pages 2-4). Comprehensive kinome analyses place FGFR3 in the tyrosine kinase group, a subset of the human kinome that includes receptors responsible for mediating key growth factor signals (boubeva2011understandingtyrosinekinase pages 208-211, agrawal2020designofhfgf1 pages 163-166).
+
+**2. Reaction Catalyzed:**  
+FGFR3 functions as a tyrosine-protein kinase that catalyzes the phosphorylation reaction by transferring the γ‑phosphate group from ATP to specific tyrosine residues on substrate proteins. The chemical reaction it mediates is represented by the equation:  
+ATP + [protein]‑L‑tyrosine → ADP + [protein]‑L‑tyrosine‑phosphate + H⁺ (agrawal2020designofhfgf1 pages 163-166, cowanjacob2006structuralbiologyof pages 1-2).  
+This phosphotransfer activity is central to initiating intracellular signaling cascades through the generation of phosphotyrosine docking sites, which in turn recruit downstream adaptor proteins (xu2015identifyingthreedimensionalstructures pages 17-19).
+
+**3. Cofactor Requirements:**  
+The catalytic activity of FGFR3 is dependent upon the presence of divalent metal ions, with Mg²⁺ being the primary cofactor required to coordinate ATP binding within the active site. In some catalytic contexts Mn²⁺ may also support phosphoryl transfer, although Mg²⁺ is considered the predominant metal ion in FGFR3-mediated reactions (dai2019fibroblastgrowthfactor pages 10-12, cowanjacob2006structuralbiologyof pages 1-2).
+
+**4. Substrate Specificity:**  
+FGFR3 exhibits substrate specificity characteristic of receptor tyrosine kinases by phosphorylating tyrosine residues within particular sequence contexts. Although specific consensus motifs for FGFR3 have not been completely defined, several studies indicate that FGFR family kinases preferentially target substrates that display tyrosine residues flanked by hydrophobic and acidic amino acids. Known physiological substrates for FGFR3 include phospholipase C gamma 1 (PLCG1), the E3 ubiquitin ligase CBL, and fibroblast growth factor receptor substrate 2 (FRS2), all of which contain phosphotyrosine sites that serve as docking sites for SH2 domain‐containing proteins (jha2025deeplearningcoupledproximity pages 24-26, patani2018assessmentoffibroblast pages 57-60). The intrinsic substrate specificity of human tyrosine kinases, as delineated by recent kinome-wide screens, supports that FGFR3 recognizes motifs that enable efficient phosphorylation and propagation of downstream signals (reinhardt2023acriticalevaluation pages 25-26).
+
+**5. Structure:**  
+FGFR3 is a modular transmembrane receptor composed of distinct extracellular, transmembrane, and intracellular regions. Its extracellular region consists of three immunoglobulin-like (Ig-like) domains that are responsible for selective binding to fibroblast growth factors (FGFs) and associated heparan sulfate proteoglycans, thereby ensuring ligand specificity (irion2024regulationoffibroblast pages 77-80, patani2018assessmentoffibroblasta pages 9-13). Following the extracellular region, FGFR3 possesses a single transmembrane helix that anchors the receptor within the plasma membrane and facilitates receptor dimerization upon ligand binding (boubeva2011understandingtyrosinekinase pages 208-211). 
+
+The intracellular region of FGFR3 contains a split tyrosine kinase domain that displays the canonical bilobal architecture common to protein kinases. The smaller N-terminal lobe is characterized by a glycine-rich (Gly-rich) loop and a critical αC-helix that positions essential catalytic residues, while the larger C-terminal lobe harbors the activation loop (A-loop), catalytic loop, and substrate-binding regions (kung2016structuralbasisfor pages 1-2, cowanjacob2006structuralbiologyof pages 2-4). Key regulatory features within the kinase domain include the activation loop—a segment whose phosphorylation induces a conformational switch from an inactive to an active state—and a hydrophobic spine, which is essential for maintaining the active conformation of the kinase (mohanty2016hydrophobiccorevariations pages 4-5, chen2020molecularbasisfor pages 14-17). Unique structural features of FGFR3 include the arrangement of extracellular Ig-like domains that contribute to ligand-induced dimerization and the split nature of its kinase domain, which is implicated in both autoinhibitory and activation mechanisms (irion2024regulationoffibroblast pages 104-106, kung2016structuralbasisfor pages 4-5).
+
+**6. Regulation:**  
+The activity of FGFR3 is tightly regulated by multiple mechanisms that control its catalytic state and downstream signaling. Ligand binding by fibroblast growth factors (FGFs) to the extracellular Ig-like domains promotes receptor dimerization, which in turn facilitates trans-autophosphorylation of specific tyrosine residues within the intracellular kinase domain (irion2024regulationoffibroblast pages 104-106, agrawal2020designofhfgf1 pages 163-166). These phosphorylation events occur prominently within the activation loop and at additional docking sites and serve to increase the catalytic efficiency of the receptor. 
+
+Autophosphorylation not only activates FGFR3 but also creates specific binding sites for downstream adaptor proteins such as FRS2, PLCG1, and CBL. Phosphorylated FRS2, for example, recruits a complex of GRB2, GAB1, PIK3R1, and SOS1, which is essential for the propagation of RAS/MAPK and PI3K/AKT signaling cascades (reinhardt2023acriticalevaluation pages 24-25, orozco2017investigatingtheroles pages 52-59). Negative regulation of FGFR3 is mediated through ubiquitination, primarily by the E3 ubiquitin ligase CBL, which targets the receptor for internalization and lysosomal degradation (irion2024regulationoffibroblasta pages 104-106, roskoski2020theroleof pages 43-47). Furthermore, certain mutations, including alterations of the gatekeeper residue, can destabilize the autoinhibited state of the kinase and lead to constitutive activation, thereby altering the normal regulatory balance (besch2023gatekeepermutationsactivate pages 11-12, reinhardt2023acriticalevaluation pages 25-26).
+
+**7. Function:**  
+FGFR3 functions as a cell-surface receptor that is essential in mediating the biological actions of fibroblast growth factors (FGFs). Upon ligand binding and subsequent receptor activation, FGFR3 phosphorylates key intracellular substrates such as PLCG1, CBL, and FRS2, which then propagate multiple downstream signaling pathways (agrawal2020designofhfgf1 pages 163-166, orozco2017investigatingtheroles pages 46-52). Activation of PLCG1 leads to the production of the second messengers diacylglycerol (DAG) and inositol 1,4,5-trisphosphate (IP₃), which are involved in modulating intracellular calcium levels and other signaling events (roskoski2020theroleof pages 11-15). Phosphorylation of FRS2 facilitates the recruitment of adaptor proteins including GRB2, GAB1, PIK3R1, and SOS1, which in turn activate the RAS/MAPK and PI3K/AKT pathways that regulate cell proliferation, differentiation, and survival (patani2018assessmentoffibroblast pages 57-60, roskoski2020theroleof pages 47-52).
+
+In skeletal tissues, FGFR3 plays a critical role in chondrocyte differentiation, proliferation, and apoptosis, thereby ensuring proper normal skeletal development and bone mineralization by osteoblasts (dai2019fibroblastgrowthfactor pages 10-12, patani2018assessmentoffibroblasta pages 9-13). FGFR3 signaling is also necessary for the normal development of the inner ear. Although FGFR3 typically promotes apoptosis in chondrocytes, its aberrant activation has been shown to enhance cancer cell proliferation and is implicated in the pathogenesis of certain malignancies (roskoski2020theroleof pages 43-47, orozco2017investigatingtheroles pages 52-59).
+
+**8. Other Comments:**  
+FGFR3 is clinically relevant due to its implication in both developmental disorders and cancers. Activating mutations in FGFR3 are the molecular basis for skeletal dysplasias such as achondroplasia and thanatophoric dysplasia, where gain-of-function mutations lead to abnormal receptor signaling and impaired skeletal growth (roskoski2020theroleof pages 43-47, patani2018assessmentoffibroblast pages 9-13). In oncology, constitutive activation of FGFR3—often driven by point mutations or gene fusions—has been observed in various cancers, including bladder carcinoma and multiple myeloma (roskoski2020theroleof pages 47-52, karl2022sheddinglighton pages 205-208). Several selective small-molecule inhibitors targeting FGFR3 kinase activity, such as erdafitinib, have been developed and clinically approved for the treatment of FGFR-altered cancers, while others remain in various stages of clinical trials (roskoski2020theroleof pages 52-56, karl2022sheddinglighton pages 205-208). Resistance mutations that emerge during kinase inhibitor therapy have also been documented, underscoring the necessity for continued research into the mechanisms governing FGFR3 regulation and inhibitor binding (besch2023gatekeepermutationsactivate pages 11-12, roskoski2020theroleof pages 43-47).
+
+**9. References:**  
+xu2015identifyingthreedimensionalstructures pages 17-19;  
+agrawal2020designofhfgf1 pages 163-166;  
+besch2023gatekeepermutationsactivate pages 11-12;  
+besch2023gatekeepermutationsactivate pages 12-12;  
+boubeva2011understandingtyrosinekinase pages 204-206;  
+boubeva2011understandingtyrosinekinase pages 208-211;  
+chen2020molecularbasisfor pages 14-17;  
+cowanjacob2006structuralbiologyof pages 1-2;  
+cowanjacob2006structuralbiologyof pages 2-4;  
+cunningham2020differentialresponsesto pages 12-13;  
+dai2019fibroblastgrowthfactor pages 10-12;  
+irion2024regulationoffibroblast pages 104-106;  
+irion2024regulationoffibroblast pages 77-80;  
+irion2024regulationoffibroblasta pages 104-106;  
+irion2024regulationoffibroblasta pages 77-80;  
+irion2024regulationoffibroblastb pages 104-106;  
+irion2024regulationoffibroblastb pages 77-80;  
+jha2025deeplearningcoupledproximity pages 12-14;  
+jha2025deeplearningcoupledproximity pages 20-22;  
+jha2025deeplearningcoupledproximity pages 24-26;  
+karl2022sheddinglighton pages 198-202;  
+karl2022sheddinglighton pages 205-208;  
+karl2022sheddinglighton pages 24-31;  
+kung2016structuralbasisfor pages 1-2;  
+kung2016structuralbasisfor pages 4-5;  
+mohanty2016hydrophobiccorevariations pages 1-2;  
+mohanty2016hydrophobiccorevariations pages 16-17;  
+mohanty2016hydrophobiccorevariations pages 20-21;  
+mohanty2016hydrophobiccorevariations pages 21-23;  
+mohanty2016hydrophobiccorevariations pages 23-24;  
+mohanty2016hydrophobiccorevariations pages 24-24;  
+mohanty2016hydrophobiccorevariations pages 4-5;  
+orozco2017investigatingtheroles pages 46-52;  
+orozco2017investigatingtheroles pages 52-59;  
+patani2018assessmentoffibroblast pages 57-60;  
+patani2018assessmentoffibroblast pages 9-13;  
+patani2018assessmentoffibroblasta pages 57-60;  
+patani2018assessmentoffibroblasta pages 9-13;  
+reinhardt2023acriticalevaluation pages 22-23;  
+reinhardt2023acriticalevaluation pages 24-25;  
+reinhardt2023acriticalevaluation pages 25-26;  
+reinhardt2023acriticalevaluation pages 26-27;  
+reinhardt2023acriticalevaluation pages 27-27;  
+reinhardt2023acriticalevaluation pages 3-4;  
+roskoski2020theroleof pages 11-15;  
+roskoski2020theroleof pages 39-43;  
+roskoski2020theroleof pages 43-47;  
+roskoski2020theroleof pages 47-52;  
+roskoski2020theroleof pages 52-56.
+
+References
+
+1. (xu2015identifyingthreedimensionalstructures pages 17-19): Qifang Xu, Kimberly L. Malecka, Lauren Fink, E. Joseph Jordan, Erin Duffy, Samuel Kolander, Jeffrey R. Peterson, and Roland L. Dunbrack. Identifying three-dimensional structures of autophosphorylation complexes in crystals of protein kinases. Science Signaling, 8:rs13-rs13, Dec 2015. URL: https://doi.org/10.1126/scisignal.aaa6711, doi:10.1126/scisignal.aaa6711. This article has 47 citations and is from a domain leading peer-reviewed journal.
+
+2. (agrawal2020designofhfgf1 pages 163-166): SP Agrawal. Design of hfgf1 variant (s) with increased stability and enhanced bioactivity. Unknown journal, 2020.
+
+3. (besch2023gatekeepermutationsactivate pages 11-12): Alida Besch, William M. Marsiglia, Moosa Mohammadi, Yingkai Zhang, and Nathaniel J. Traaseth. Gatekeeper mutations activate fgf receptor tyrosine kinases by destabilizing the autoinhibited state. Proceedings of the National Academy of Sciences, Feb 2023. URL: https://doi.org/10.1073/pnas.2213090120, doi:10.1073/pnas.2213090120. This article has 8 citations.
+
+4. (besch2023gatekeepermutationsactivate pages 12-12): Alida Besch, William M. Marsiglia, Moosa Mohammadi, Yingkai Zhang, and Nathaniel J. Traaseth. Gatekeeper mutations activate fgf receptor tyrosine kinases by destabilizing the autoinhibited state. Proceedings of the National Academy of Sciences, Feb 2023. URL: https://doi.org/10.1073/pnas.2213090120, doi:10.1073/pnas.2213090120. This article has 8 citations.
+
+5. (boubeva2011understandingtyrosinekinase pages 204-206): R Boubeva. Understanding tyrosine kinase domain plasticity through identification of protein residues involved in the control of the conformational transition. Unknown journal, 2011. URL: https://doi.org/10.13097/archive-ouverte/unige:17314, doi:10.13097/archive-ouverte/unige:17314. This article has 1 citations.
+
+6. (boubeva2011understandingtyrosinekinase pages 208-211): R Boubeva. Understanding tyrosine kinase domain plasticity through identification of protein residues involved in the control of the conformational transition. Unknown journal, 2011. URL: https://doi.org/10.13097/archive-ouverte/unige:17314, doi:10.13097/archive-ouverte/unige:17314. This article has 1 citations.
+
+7. (chen2020molecularbasisfor pages 14-17): Lingfeng Chen, William M. Marsiglia, Huaibin Chen, Joseph Katigbak, Hediye Erdjument-Bromage, David J. Kemble, Lili Fu, Jinghong Ma, Gongqin Sun, Yingkai Zhang, Guang Liang, Thomas A. Neubert, Xiaokun Li, Nathaniel J. Traaseth, and Moosa Mohammadi. Molecular basis for receptor tyrosine kinase a-loop tyrosine transphosphorylation. Nature Chemical Biology, 16:267-277, Jan 2020. URL: https://doi.org/10.1038/s41589-019-0455-7, doi:10.1038/s41589-019-0455-7. This article has 41 citations and is from a highest quality peer-reviewed journal.
+
+8. (cowanjacob2006structuralbiologyof pages 1-2): S. W. Cowan-Jacob. Structural biology of protein tyrosine kinases. Cellular and Molecular Life Sciences, 63:2608-2625, Oct 2006. URL: https://doi.org/10.1007/s00018-006-6202-8, doi:10.1007/s00018-006-6202-8. This article has 155 citations and is from a domain leading peer-reviewed journal.
+
+9. (cowanjacob2006structuralbiologyof pages 2-4): S. W. Cowan-Jacob. Structural biology of protein tyrosine kinases. Cellular and Molecular Life Sciences, 63:2608-2625, Oct 2006. URL: https://doi.org/10.1007/s00018-006-6202-8, doi:10.1007/s00018-006-6202-8. This article has 155 citations and is from a domain leading peer-reviewed journal.
+
+10. (cunningham2020differentialresponsesto pages 12-13): Debbie L. Cunningham, Adil R. Sarhan, Andrew J. Creese, Katherine P. B. Larkins, Hongyan Zhao, Harriet R. Ferguson, Katie Brookes, Anna A. Marusiak, Helen J. Cooper, and John K. Heath. Differential responses to kinase inhibition in fgfr2-addicted triple negative breast cancer cells: a quantitative phosphoproteomics study. Scientific Reports, May 2020. URL: https://doi.org/10.1038/s41598-020-64534-y, doi:10.1038/s41598-020-64534-y. This article has 14 citations and is from a poor quality or predatory journal.
+
+11. (dai2019fibroblastgrowthfactor pages 10-12): Shuyan Dai, Zhan Zhou, Zhuchu Chen, Guangyu Xu, and Yongheng Chen. Fibroblast growth factor receptors (fgfrs): structures and small molecule inhibitors. Cells, 8:614, Jun 2019. URL: https://doi.org/10.3390/cells8060614, doi:10.3390/cells8060614. This article has 293 citations and is from a peer-reviewed journal.
+
+12. (irion2024regulationoffibroblast pages 104-106): K Irion. Regulation of fibroblast growth factor receptor (fgfr) signaling. Unknown journal, 2024.
+
+13. (irion2024regulationoffibroblast pages 77-80): K Irion. Regulation of fibroblast growth factor receptor (fgfr) signaling. Unknown journal, 2024.
+
+14. (irion2024regulationoffibroblasta pages 104-106): K Irion. Regulation of fibroblast growth factor receptor (fgfr) signaling. Unknown journal, 2024.
+
+15. (irion2024regulationoffibroblasta pages 77-80): K Irion. Regulation of fibroblast growth factor receptor (fgfr) signaling. Unknown journal, 2024.
+
+16. (irion2024regulationoffibroblastb pages 104-106): K Irion. Regulation of fibroblast growth factor receptor (fgfr) signaling. Unknown journal, 2024.
+
+17. (irion2024regulationoffibroblastb pages 77-80): K Irion. Regulation of fibroblast growth factor receptor (fgfr) signaling. Unknown journal, 2024.
+
+18. (jha2025deeplearningcoupledproximity pages 12-14): Kanchan Jha, Daichi Shonai, Aditya Parekh, Akiyoshi Uezu, Tomoyuki Fujiyama, Hikari Yamamoto, Pooja Parameswaran, Masashi Yanagisawa, Rohit Singh, and Scott H. Soderling. Deep learning-coupled proximity proteomics to deconvolve kinase signaling in vivo. BioRxiv, Apr 2025. URL: https://doi.org/10.1101/2025.04.27.650849, doi:10.1101/2025.04.27.650849. This article has 0 citations.
+
+19. (jha2025deeplearningcoupledproximity pages 20-22): Kanchan Jha, Daichi Shonai, Aditya Parekh, Akiyoshi Uezu, Tomoyuki Fujiyama, Hikari Yamamoto, Pooja Parameswaran, Masashi Yanagisawa, Rohit Singh, and Scott H. Soderling. Deep learning-coupled proximity proteomics to deconvolve kinase signaling in vivo. BioRxiv, Apr 2025. URL: https://doi.org/10.1101/2025.04.27.650849, doi:10.1101/2025.04.27.650849. This article has 0 citations.
+
+20. (jha2025deeplearningcoupledproximity pages 24-26): Kanchan Jha, Daichi Shonai, Aditya Parekh, Akiyoshi Uezu, Tomoyuki Fujiyama, Hikari Yamamoto, Pooja Parameswaran, Masashi Yanagisawa, Rohit Singh, and Scott H. Soderling. Deep learning-coupled proximity proteomics to deconvolve kinase signaling in vivo. BioRxiv, Apr 2025. URL: https://doi.org/10.1101/2025.04.27.650849, doi:10.1101/2025.04.27.650849. This article has 0 citations.
+
+21. (karl2022sheddinglighton pages 198-202): KA Karl. Shedding light on ligand bias in receptor tyrosine kinase signaling. Unknown journal, 2022.
+
+22. (karl2022sheddinglighton pages 205-208): KA Karl. Shedding light on ligand bias in receptor tyrosine kinase signaling. Unknown journal, 2022.
+
+23. (karl2022sheddinglighton pages 24-31): KA Karl. Shedding light on ligand bias in receptor tyrosine kinase signaling. Unknown journal, 2022.
+
+24. (kung2016structuralbasisfor pages 1-2): Jennifer E. Kung and Natalia Jura. Structural basis for the non-catalytic functions of protein kinases. Structure, 24 1:7-24, Jan 2016. URL: https://doi.org/10.1016/j.str.2015.10.020, doi:10.1016/j.str.2015.10.020. This article has 184 citations and is from a domain leading peer-reviewed journal.
+
+25. (kung2016structuralbasisfor pages 4-5): Jennifer E. Kung and Natalia Jura. Structural basis for the non-catalytic functions of protein kinases. Structure, 24 1:7-24, Jan 2016. URL: https://doi.org/10.1016/j.str.2015.10.020, doi:10.1016/j.str.2015.10.020. This article has 184 citations and is from a domain leading peer-reviewed journal.
+
+26. (mohanty2016hydrophobiccorevariations pages 1-2): Smita Mohanty, Krishnadev Oruganty, Annie Kwon, Dominic P. Byrne, Samantha Ferries, Zheng Ruan, Laura E. Hanold, Samiksha Katiyar, Eileen J. Kennedy, Patrick A. Eyers, and Natarajan Kannan. Hydrophobic core variations provide a structural framework for tyrosine kinase evolution and functional specialization. PLOS Genetics, 12:e1005885, Feb 2016. URL: https://doi.org/10.1371/journal.pgen.1005885, doi:10.1371/journal.pgen.1005885. This article has 42 citations and is from a domain leading peer-reviewed journal.
+
+27. (mohanty2016hydrophobiccorevariations pages 16-17): Smita Mohanty, Krishnadev Oruganty, Annie Kwon, Dominic P. Byrne, Samantha Ferries, Zheng Ruan, Laura E. Hanold, Samiksha Katiyar, Eileen J. Kennedy, Patrick A. Eyers, and Natarajan Kannan. Hydrophobic core variations provide a structural framework for tyrosine kinase evolution and functional specialization. PLOS Genetics, 12:e1005885, Feb 2016. URL: https://doi.org/10.1371/journal.pgen.1005885, doi:10.1371/journal.pgen.1005885. This article has 42 citations and is from a domain leading peer-reviewed journal.
+
+28. (mohanty2016hydrophobiccorevariations pages 20-21): Smita Mohanty, Krishnadev Oruganty, Annie Kwon, Dominic P. Byrne, Samantha Ferries, Zheng Ruan, Laura E. Hanold, Samiksha Katiyar, Eileen J. Kennedy, Patrick A. Eyers, and Natarajan Kannan. Hydrophobic core variations provide a structural framework for tyrosine kinase evolution and functional specialization. PLOS Genetics, 12:e1005885, Feb 2016. URL: https://doi.org/10.1371/journal.pgen.1005885, doi:10.1371/journal.pgen.1005885. This article has 42 citations and is from a domain leading peer-reviewed journal.
+
+29. (mohanty2016hydrophobiccorevariations pages 21-23): Smita Mohanty, Krishnadev Oruganty, Annie Kwon, Dominic P. Byrne, Samantha Ferries, Zheng Ruan, Laura E. Hanold, Samiksha Katiyar, Eileen J. Kennedy, Patrick A. Eyers, and Natarajan Kannan. Hydrophobic core variations provide a structural framework for tyrosine kinase evolution and functional specialization. PLOS Genetics, 12:e1005885, Feb 2016. URL: https://doi.org/10.1371/journal.pgen.1005885, doi:10.1371/journal.pgen.1005885. This article has 42 citations and is from a domain leading peer-reviewed journal.
+
+30. (mohanty2016hydrophobiccorevariations pages 23-24): Smita Mohanty, Krishnadev Oruganty, Annie Kwon, Dominic P. Byrne, Samantha Ferries, Zheng Ruan, Laura E. Hanold, Samiksha Katiyar, Eileen J. Kennedy, Patrick A. Eyers, and Natarajan Kannan. Hydrophobic core variations provide a structural framework for tyrosine kinase evolution and functional specialization. PLOS Genetics, 12:e1005885, Feb 2016. URL: https://doi.org/10.1371/journal.pgen.1005885, doi:10.1371/journal.pgen.1005885. This article has 42 citations and is from a domain leading peer-reviewed journal.
+
+31. (mohanty2016hydrophobiccorevariations pages 24-24): Smita Mohanty, Krishnadev Oruganty, Annie Kwon, Dominic P. Byrne, Samantha Ferries, Zheng Ruan, Laura E. Hanold, Samiksha Katiyar, Eileen J. Kennedy, Patrick A. Eyers, and Natarajan Kannan. Hydrophobic core variations provide a structural framework for tyrosine kinase evolution and functional specialization. PLOS Genetics, 12:e1005885, Feb 2016. URL: https://doi.org/10.1371/journal.pgen.1005885, doi:10.1371/journal.pgen.1005885. This article has 42 citations and is from a domain leading peer-reviewed journal.
+
+32. (mohanty2016hydrophobiccorevariations pages 4-5): Smita Mohanty, Krishnadev Oruganty, Annie Kwon, Dominic P. Byrne, Samantha Ferries, Zheng Ruan, Laura E. Hanold, Samiksha Katiyar, Eileen J. Kennedy, Patrick A. Eyers, and Natarajan Kannan. Hydrophobic core variations provide a structural framework for tyrosine kinase evolution and functional specialization. PLOS Genetics, 12:e1005885, Feb 2016. URL: https://doi.org/10.1371/journal.pgen.1005885, doi:10.1371/journal.pgen.1005885. This article has 42 citations and is from a domain leading peer-reviewed journal.
+
+33. (orozco2017investigatingtheroles pages 46-52): J Lopez Orozco. Investigating the roles of phosphorylation in modulating argonaute 2 activity and localization. Unknown journal, 2017.
+
+34. (orozco2017investigatingtheroles pages 52-59): J Lopez Orozco. Investigating the roles of phosphorylation in modulating argonaute 2 activity and localization. Unknown journal, 2017.
+
+35. (patani2018assessmentoffibroblast pages 57-60): HH Patani. Assessment of fibroblast growth factor receptor cancer-associated mutations and characterisation of endocrine signalling complexes. Unknown journal, 2018.
+
+36. (patani2018assessmentoffibroblast pages 9-13): HH Patani. Assessment of fibroblast growth factor receptor cancer-associated mutations and characterisation of endocrine signalling complexes. Unknown journal, 2018.
+
+37. (patani2018assessmentoffibroblasta pages 57-60): HH Patani. Assessment of fibroblast growth factor receptor cancer-associated mutations and characterisation of endocrine signalling complexes. Unknown journal, 2018.
+
+38. (patani2018assessmentoffibroblasta pages 9-13): HH Patani. Assessment of fibroblast growth factor receptor cancer-associated mutations and characterisation of endocrine signalling complexes. Unknown journal, 2018.
+
+39. (reinhardt2023acriticalevaluation pages 22-23): Ronja Reinhardt and Thomas A Leonard. A critical evaluation of protein kinase regulation by activation loop autophosphorylation. eLife, Jul 2023. URL: https://doi.org/10.7554/elife.88210, doi:10.7554/elife.88210. This article has 45 citations and is from a domain leading peer-reviewed journal.
+
+40. (reinhardt2023acriticalevaluation pages 24-25): Ronja Reinhardt and Thomas A Leonard. A critical evaluation of protein kinase regulation by activation loop autophosphorylation. eLife, Jul 2023. URL: https://doi.org/10.7554/elife.88210, doi:10.7554/elife.88210. This article has 45 citations and is from a domain leading peer-reviewed journal.
+
+41. (reinhardt2023acriticalevaluation pages 25-26): Ronja Reinhardt and Thomas A Leonard. A critical evaluation of protein kinase regulation by activation loop autophosphorylation. eLife, Jul 2023. URL: https://doi.org/10.7554/elife.88210, doi:10.7554/elife.88210. This article has 45 citations and is from a domain leading peer-reviewed journal.
+
+42. (reinhardt2023acriticalevaluation pages 26-27): Ronja Reinhardt and Thomas A Leonard. A critical evaluation of protein kinase regulation by activation loop autophosphorylation. eLife, Jul 2023. URL: https://doi.org/10.7554/elife.88210, doi:10.7554/elife.88210. This article has 45 citations and is from a domain leading peer-reviewed journal.
+
+43. (reinhardt2023acriticalevaluation pages 27-27): Ronja Reinhardt and Thomas A Leonard. A critical evaluation of protein kinase regulation by activation loop autophosphorylation. eLife, Jul 2023. URL: https://doi.org/10.7554/elife.88210, doi:10.7554/elife.88210. This article has 45 citations and is from a domain leading peer-reviewed journal.
+
+44. (reinhardt2023acriticalevaluation pages 3-4): Ronja Reinhardt and Thomas A Leonard. A critical evaluation of protein kinase regulation by activation loop autophosphorylation. eLife, Jul 2023. URL: https://doi.org/10.7554/elife.88210, doi:10.7554/elife.88210. This article has 45 citations and is from a domain leading peer-reviewed journal.
+
+45. (roskoski2020theroleof pages 11-15): Robert Roskoski. The role of fibroblast growth factor receptor (fgfr) protein-tyrosine kinase inhibitors in the treatment of cancers including those of the urinary bladder. Pharmacological Research, 151:104567, Jan 2020. URL: https://doi.org/10.1016/j.phrs.2019.104567, doi:10.1016/j.phrs.2019.104567. This article has 145 citations and is from a highest quality peer-reviewed journal.
+
+46. (roskoski2020theroleof pages 39-43): Robert Roskoski. The role of fibroblast growth factor receptor (fgfr) protein-tyrosine kinase inhibitors in the treatment of cancers including those of the urinary bladder. Pharmacological Research, 151:104567, Jan 2020. URL: https://doi.org/10.1016/j.phrs.2019.104567, doi:10.1016/j.phrs.2019.104567. This article has 145 citations and is from a highest quality peer-reviewed journal.
+
+47. (roskoski2020theroleof pages 43-47): Robert Roskoski. The role of fibroblast growth factor receptor (fgfr) protein-tyrosine kinase inhibitors in the treatment of cancers including those of the urinary bladder. Pharmacological Research, 151:104567, Jan 2020. URL: https://doi.org/10.1016/j.phrs.2019.104567, doi:10.1016/j.phrs.2019.104567. This article has 145 citations and is from a highest quality peer-reviewed journal.
+
+48. (roskoski2020theroleof pages 47-52): Robert Roskoski. The role of fibroblast growth factor receptor (fgfr) protein-tyrosine kinase inhibitors in the treatment of cancers including those of the urinary bladder. Pharmacological Research, 151:104567, Jan 2020. URL: https://doi.org/10.1016/j.phrs.2019.104567, doi:10.1016/j.phrs.2019.104567. This article has 145 citations and is from a highest quality peer-reviewed journal.
+
+49. (roskoski2020theroleof pages 52-56): Robert Roskoski. The role of fibroblast growth factor receptor (fgfr) protein-tyrosine kinase inhibitors in the treatment of cancers including those of the urinary bladder. Pharmacological Research, 151:104567, Jan 2020. URL: https://doi.org/10.1016/j.phrs.2019.104567, doi:10.1016/j.phrs.2019.104567. This article has 145 citations and is from a highest quality peer-reviewed journal.

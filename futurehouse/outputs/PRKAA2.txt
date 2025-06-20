@@ -1,0 +1,178 @@
+**1. Phylogeny:**  
+5′-AMP-activated protein kinase catalytic subunit alpha‑2 (PRKAA2, also known as AMPKα2, AMPK2, Acetyl‑CoA carboxylase kinase, or Hydroxymethylglutaryl‑CoA reductase kinase) belongs to the highly conserved AMP‑activated protein kinase family, which in turn is part of the larger family of serine/threonine kinases within the CAMK group of the human kinome (henriksson2012lkb1signalingpathways pages 30-33). Orthologs of PRKAA2 are present throughout eukaryotes, ranging from yeast and plants to vertebrates, indicating that the core energy‐sensing machinery originated in the Last Eukaryotic Common Ancestor (LECA) (jain2018studyingampkin pages 25-28, yan2018structureandphysiological pages 14-15). In mammals, two catalytic subunit isoforms—AMPKα1 and AMPKα2—form mutually exclusive heterotrimeric complexes with regulatory β and γ subunits, and these isoforms display partly overlapping but distinct tissue expression patterns and functional roles (russo2013ampactivatedproteinkinase pages 1-6, henriksson2012lkb1signalingpathwaysa pages 30-33). Phylogenetically, the AMPK family clusters together with other energy‑sensing kinases such as SNF1 in yeast and SnRK1 in plants, underscoring its central evolutionary role in metabolic regulation (minchenko2012snf1ampactivatedproteinkinases pages 1-3).
+
+**2. Reaction Catalyzed:**  
+AMPKα2 catalyzes the phosphorylation of serine or threonine residues in substrate proteins using ATP as the phosphate donor. The canonical reaction can be summarized as follows:  
+ATP + [protein]-(L-serine or L-threonine) → ADP + [protein]-(L-serine/threonine)-phosphate + H⁺ (hawley2023bay3827andsbi0206965 pages 19-20).
+
+**3. Cofactor Requirements:**  
+The catalytic activity of AMPKα2 requires the presence of divalent metal ions, most notably Mg²⁺, which coordinates with ATP in the kinase active site during the phosphotransfer reaction (hawley2023bay3827andsbi0206965 pages 19-20).
+
+**4. Substrate Specificity:**  
+AMPKα2 shows a substrate specificity that preferentially targets serine/threonine residues within defined consensus motifs characterized by a basic residue enrichment upstream of the target site and hydrophobic residues at specific positions relative to the phosphoacceptor. In many substrates, a basic amino acid at the –3 or –4 position relative to the serine/threonine residue is common, which is consistent with the substrate specificity defined for AMPK in broader serine/threonine kinome studies (rana2015smallmoleculeadenosine pages 12-15, yan2018structureandphysiological pages 14-15). Substrates phosphorylated by AMPKα2 include key enzymes in lipid and carbohydrate metabolism, transcription regulators, and proteins involved in cell growth and autophagy; examples include acetyl‑CoA carboxylases (ACACA and ACACB), hormone‑sensitive lipase (LIPE), and regulators such as CRTC2, FOXO3, and components of mTORC1 signaling (russo2013ampactivatedproteinkinase pages 38-41).
+
+**5. Structure:**  
+The 3D structure of AMPKα2 is defined by a modular architecture with several distinct domains. The protein contains an N‑terminal catalytic kinase domain that exhibits the typical bilobal fold of serine/threonine kinases, including an N‑lobe responsible for ATP binding and a larger C‑lobe that accommodates substrate binding (li2015structuralbasisof pages 16-17, kurumbail2016structureandregulation pages 1-4). Within the kinase domain, key structural features include the activation loop, which contains the critical regulatory threonine (Thr172 in AMPKα2) whose phosphorylation is essential for full kinase activation, a hydrophobic α‑C helix that contributes to ATP binding, and a hydrophobic spine that stabilizes the active conformation (steinberg2023newinsightsinto pages 9-13, yan2018structureandphysiological pages 10-12). Beyond the kinase domain, AMPKα2 contains additional C‑terminal regions that mediate interaction with regulatory β and γ subunits; these interactions are necessary for the formation of the intact heterotrimeric complex (henriksson2012lkb1signalingpathwaysa pages 36-40, kurumbail2016structureandregulation pages 4-6). Notably, the regulatory gamma subunit contains multiple cystathionine‑β‑synthase (CBS) domains that bind AMP, ADP, or ATP, thereby allosterically modulating the conformation of the catalytic alpha subunit (yan2018structureandphysiological pages 1-4). Structural studies, including crystallographic and AlphaFold models, reveal that upon nucleotide binding, conformational shifts occur that increase the exposure and stability of the activation loop, thus promoting full activation (kurumbail2016structureandregulation pages 6-9).
+
+**6. Regulation:**  
+AMPKα2 is subject to a complex regulatory network involving both covalent and allosteric mechanisms. The most critical regulatory modification is the phosphorylation of the activation loop at Thr172 by upstream kinases such as LKB1, CaMKKβ, and TAK1, which results in a dramatic (up to 500–1000‑fold) increase in kinase activity (lu2021ampkα2activationby pages 26-33, steinberg2023newinsightsinto pages 13-17). In addition, AMPKα2 is allosterically regulated by the binding of adenine nucleotides to the gamma subunit; increased levels of AMP or ADP promote a conformational change that not only allosterically enhances activity by approximately 2‑ to 5‑fold but also protects the phosphorylated Thr172 from dephosphorylation by protein phosphatases (ovens2021posttranslationalmodificationsof pages 2-5, yan2018structureandphysiological pages 14-15). Inhibitory phosphorylation events on other sites of AMPKα2, such as Ser485/491, mediated by kinases including Akt and PKA, can counteract the activation by Thr172 phosphorylation, providing a fine‑tuned control over its activity (lu2021ampkα2activationby pages 33-36, ovens2021posttranslationalmodificationsof pages 20-21). Additional post‑translational modifications, including ubiquitination, have been reported to influence the stability and turnover of the protein, further modulating its cellular levels and the duration of its signaling (ovens2021posttranslationalmodificationsof pages 21-22, rana2015smallmoleculeadenosine pages 60-64). Small molecule activators such as A‑769662 and MK‑8722 have been shown to bind distinct allosteric sites, including the ADaM site, thereby promoting AMPK activation independently of upstream kinases (rana2015smallmoleculeadenosine pages 5-8).
+
+**7. Function:**  
+AMPKα2 serves as the catalytic engine of the AMPK heterotrimer, functioning as a master cellular energy sensor that orchestrates metabolic homeostasis. Upon a decrease in intracellular ATP levels and the concomitant rise in AMP or ADP, AMPKα2 becomes activated and shifts cellular metabolism from energy-consuming anabolic processes to energy-generating catabolic processes (hawley2023bay3827andsbi0206965 pages 19-20, russo2013ampactivatedproteinkinase pages 38-41). In terms of metabolism, activated AMPKα2 phosphorylates and inactivates acetyl‑CoA carboxylases (ACACA and ACACB), thereby inhibiting fatty acid synthesis and promoting fatty acid oxidation; it also phosphorylates hormone‑sensitive lipase (LIPE) to regulate cholesterol synthesis and lipolysis (hawley2023bay3827andsbi0206965 pages 19-20, russo2013ampactivatedproteinkinase pages 34-36). Moreover, AMPKα2 plays a pivotal role in the regulation of glucose metabolism by modulating insulin signaling through phosphorylation of IRS1 and promoting the translocation of the glucose transporter GLUT4 via substrates such as TBC1D4/AS160, thereby enhancing glucose uptake particularly in skeletal muscle (russo2013ampactivatedproteinkinase pages 38-41, yan2018structureandphysiological pages 1-4). At the transcriptional level, AMPKα2 influences gene expression by phosphorylating transcriptional regulators including CRTC2, FOXO3, and p53, which in turn coordinate the expression of genes involved in mitochondrial biogenesis, energy expenditure, and cellular stress responses (hawley2023bay3827andsbi0206965 pages 19-20, ovens2021posttranslationalmodificationsof pages 5-6). In response to nutrient and energy stress, AMPKα2 negatively regulates mTORC1 signaling by phosphorylating key components such as RPTOR and TSC2, thereby inhibiting anabolic processes such as protein, carbohydrate, and lipid biosynthesis and reducing cell growth and proliferation (russo2013ampactivatedproteinkinase pages 38-41, steinberg2023newinsightsinto pages 6-9). AMPKα2 is also involved in the regulation of autophagy through direct phosphorylation of ULK1 and associated autophagic proteins, facilitating the recycling of cellular components under stress conditions (lu2021ampkα2activationby pages 36-37, ovens2021posttranslationalmodificationsof pages 6-7). In addition, AMPKα2 has roles in modulating mitochondrial dynamics, circadian rhythm control via CRY1 phosphorylation, and actin cytoskeleton remodeling, which collectively contribute to its central role in maintaining cellular energy balance (steinberg2023newinsightsinto pages 9-13, sukumaran2020insightontranscriptional pages 2-3).
+
+**8. Other Comments:**  
+Beyond its well‑established roles in metabolic regulation, AMPKα2 has been implicated in various disease contexts including type 2 diabetes, obesity, cancer, and cardiovascular diseases. The dysregulation of AMPKα2 activity—either through impaired activation via mutations in upstream kinases like LKB1 or through aberrant inhibitory modifications—can disrupt normal energy homeostasis and contribute to pathological states (russo2013ampactivatedproteinkinase pages 38-41, yan2018structureandphysiological pages 1-4). Several pharmacological activators of AMPK are under development or in clinical use; metformin, for instance, is thought to exert part of its anti‑diabetic effects through upregulation of AMPK activity, although its precise mechanism remains complex (russell2020ampactivatedproteinkinase pages 2-4, rana2015smallmoleculeadenosine pages 68-72). There is also ongoing research into the development of allosteric activators and other small molecules that directly target AMPKα2 to enhance its activity for therapeutic benefit, particularly in cancers characterized by metabolic reprogramming and in metabolic syndrome (rana2015smallmoleculeadenosine pages 68-72, steinberg2023newinsightsinto pages 13-17). Additionally, AMPKα2 is subject to degradation by ubiquitin‑mediated pathways that may serve as potential targets for intervention (ovens2021posttranslationalmodificationsof pages 21-22). Its central role in integrating energy stress signals with metabolic and growth control pathways makes AMPKα2 a major focus of research in the development of strategies for metabolic disorders and as a potential tumor suppressor in oncology (sukumaran2020insightontranscriptional pages 2-3).
+
+**9. References:**  
+- hawley2023bay3827andsbi0206965 pages 19-20  
+- hawley2023bay3827andsbi0206965 pages 20-21  
+- henriksson2012lkb1signalingpathways pages 30-33  
+- henriksson2012lkb1signalingpathways pages 36-40  
+- henriksson2012lkb1signalingpathways pages 58-61  
+- henriksson2012lkb1signalingpathways pages 87-89  
+- henriksson2012lkb1signalingpathwaysa pages 30-33  
+- henriksson2012lkb1signalingpathwaysa pages 36-40  
+- henriksson2012lkb1signalingpathwaysa pages 58-61  
+- jain2018studyingampkin pages 25-28  
+- klaus2012atwodimensionalscreen pages 10-11  
+- kurumbail2016structureandregulation pages 1-4  
+- kurumbail2016structureandregulation pages 4-6  
+- kurumbail2016structureandregulation pages 6-9  
+- li2015structuralbasisof pages 16-17  
+- lu2021ampkα2activationby pages 26-33  
+- lu2021ampkα2activationby pages 33-36  
+- lu2021ampkα2activationby pages 36-37  
+- marin2015identificationofampactivated pages 8-9  
+- minchenko2012snf1ampactivatedproteinkinases pages 1-3  
+- ovens2021posttranslationalmodificationsof pages 1-2  
+- ovens2021posttranslationalmodificationsof pages 2-5  
+- ovens2021posttranslationalmodificationsof pages 20-21  
+- ovens2021posttranslationalmodificationsof pages 21-22  
+- ovens2021posttranslationalmodificationsof pages 5-6  
+- ovens2021posttranslationalmodificationsof pages 6-7  
+- rana2015smallmoleculeadenosine pages 12-15  
+- rana2015smallmoleculeadenosine pages 5-8  
+- rana2015smallmoleculeadenosine pages 60-64  
+- rana2015smallmoleculeadenosine pages 68-72  
+- russell2020ampactivatedproteinkinase pages 2-4  
+- russo2013ampactivatedproteinkinase pages 1-6  
+- russo2013ampactivatedproteinkinase pages 34-36  
+- russo2013ampactivatedproteinkinase pages 38-41  
+- russo2013ampactivatedproteinkinase pages 6-10  
+- smiles2024themetabolicsensor pages 1-2  
+- smiles2024themetabolicsensor pages 2-3  
+- smiles2024themetabolicsensor pages 26-27  
+- smiles2024themetabolicsensor pages 8-9  
+- smiles2025ampkphosphositeprofiling pages 1-2  
+- smiles2025ampkphosphositeprofiling pages 20-21  
+- steinberg2023newinsightsinto pages 1-4  
+- steinberg2023newinsightsinto pages 6-9  
+- steinberg2023newinsightsinto pages 9-13  
+- steinberg2023newinsightsinto pages 13-17  
+- sukumaran2020insightontranscriptional pages 2-3  
+- yan2018structureandphysiological pages 1-4  
+- yan2018structureandphysiological pages 10-12  
+- yan2018structureandphysiological pages 14-15  
+- zhu2016invitromethods pages 16-18
+
+References
+
+1. (hawley2023bay3827andsbi0206965 pages 19-20): Simon A. Hawley, Fiona M. Russell, Fiona A. Ross, and D. Grahame Hardie. Bay-3827 and sbi-0206965: potent ampk inhibitors that paradoxically increase thr172 phosphorylation. International Journal of Molecular Sciences, 25:453, Dec 2023. URL: https://doi.org/10.3390/ijms25010453, doi:10.3390/ijms25010453. This article has 11 citations and is from a peer-reviewed journal.
+
+2. (hawley2023bay3827andsbi0206965 pages 20-21): Simon A. Hawley, Fiona M. Russell, Fiona A. Ross, and D. Grahame Hardie. Bay-3827 and sbi-0206965: potent ampk inhibitors that paradoxically increase thr172 phosphorylation. International Journal of Molecular Sciences, 25:453, Dec 2023. URL: https://doi.org/10.3390/ijms25010453, doi:10.3390/ijms25010453. This article has 11 citations and is from a peer-reviewed journal.
+
+3. (henriksson2012lkb1signalingpathways pages 30-33): E Henriksson. Lkb1 signaling pathways in adipocytes-focus on the ampk-related kinase sik2. Unknown journal, 2012.
+
+4. (henriksson2012lkb1signalingpathways pages 36-40): E Henriksson. Lkb1 signaling pathways in adipocytes-focus on the ampk-related kinase sik2. Unknown journal, 2012.
+
+5. (henriksson2012lkb1signalingpathways pages 58-61): E Henriksson. Lkb1 signaling pathways in adipocytes-focus on the ampk-related kinase sik2. Unknown journal, 2012.
+
+6. (henriksson2012lkb1signalingpathways pages 87-89): E Henriksson. Lkb1 signaling pathways in adipocytes-focus on the ampk-related kinase sik2. Unknown journal, 2012.
+
+7. (henriksson2012lkb1signalingpathwaysa pages 30-33): E Henriksson. Lkb1 signaling pathways in adipocytes-focus on the ampk-related kinase sik2. Unknown journal, 2012.
+
+8. (henriksson2012lkb1signalingpathwaysa pages 36-40): E Henriksson. Lkb1 signaling pathways in adipocytes-focus on the ampk-related kinase sik2. Unknown journal, 2012.
+
+9. (henriksson2012lkb1signalingpathwaysa pages 58-61): E Henriksson. Lkb1 signaling pathways in adipocytes-focus on the ampk-related kinase sik2. Unknown journal, 2012.
+
+10. (jain2018studyingampkin pages 25-28): Arpit Jain, Valentin Roustan, Wolfram Weckwerth, and Ingo Ebersberger. Studying ampk in an evolutionary context. Methods in Molecular Biology, 1732:111-142, Jan 2018. URL: https://doi.org/10.1007/978-1-4939-7598-3\_8, doi:10.1007/978-1-4939-7598-3\_8. This article has 4 citations and is from a peer-reviewed journal.
+
+11. (klaus2012atwodimensionalscreen pages 10-11): Anna Klaus, Cécile Polge, Sarah Zorman, Yolanda Auchli, René Brunisholz, and Uwe Schlattner. A two-dimensional screen for ampk substrates identifies tumor suppressor fumarate hydratase as a preferential ampkα2 substrate. Journal of proteomics, 75 11:3304-13, Jun 2012. URL: https://doi.org/10.1016/j.jprot.2012.03.040, doi:10.1016/j.jprot.2012.03.040. This article has 22 citations and is from a peer-reviewed journal.
+
+12. (kurumbail2016structureandregulation pages 1-4): Ravi G. Kurumbail and Matthew F. Calabrese. Structure and regulation of ampk. Experientia Supplementum, 107:3-22, Jan 2016. URL: https://doi.org/10.1007/978-3-319-43589-3\_1, doi:10.1007/978-3-319-43589-3\_1. This article has 51 citations.
+
+13. (kurumbail2016structureandregulation pages 4-6): Ravi G. Kurumbail and Matthew F. Calabrese. Structure and regulation of ampk. Experientia Supplementum, 107:3-22, Jan 2016. URL: https://doi.org/10.1007/978-3-319-43589-3\_1, doi:10.1007/978-3-319-43589-3\_1. This article has 51 citations.
+
+14. (kurumbail2016structureandregulation pages 6-9): Ravi G. Kurumbail and Matthew F. Calabrese. Structure and regulation of ampk. Experientia Supplementum, 107:3-22, Jan 2016. URL: https://doi.org/10.1007/978-3-319-43589-3\_1, doi:10.1007/978-3-319-43589-3\_1. This article has 51 citations.
+
+15. (li2015structuralbasisof pages 16-17): Xiaodan Li, Lili Wang, X Edward Zhou, Jiyuan Ke, Parker W de Waal, Xin Gu, M H Eileen Tan, Dongye Wang, Donghai Wu, H Eric Xu, and Karsten Melcher. Structural basis of ampk regulation by adenine nucleotides and glycogen. Cell Research, 25:50-66, Nov 2015. URL: https://doi.org/10.1038/cr.2014.150, doi:10.1038/cr.2014.150. This article has 205 citations and is from a domain leading peer-reviewed journal.
+
+16. (lu2021ampkα2activationby pages 26-33): Jianlin Lu, Yuanyuan Huang, Li Zhan, Ming Wang, Leilei Xu, McKay Mullen, Jianye Zang, Guowei Fang, Zhen Dou, Xing Liu, Wei Liu, Minerva Garcia-Barrio, and Xuebiao Yao. Ampkα2 activation by an energy-independent signal ensures chromosomal stability during mitosis. iScience, 24:102363, Apr 2021. URL: https://doi.org/10.1016/j.isci.2021.102363, doi:10.1016/j.isci.2021.102363. This article has 6 citations and is from a peer-reviewed journal.
+
+17. (lu2021ampkα2activationby pages 33-36): Jianlin Lu, Yuanyuan Huang, Li Zhan, Ming Wang, Leilei Xu, McKay Mullen, Jianye Zang, Guowei Fang, Zhen Dou, Xing Liu, Wei Liu, Minerva Garcia-Barrio, and Xuebiao Yao. Ampkα2 activation by an energy-independent signal ensures chromosomal stability during mitosis. iScience, 24:102363, Apr 2021. URL: https://doi.org/10.1016/j.isci.2021.102363, doi:10.1016/j.isci.2021.102363. This article has 6 citations and is from a peer-reviewed journal.
+
+18. (lu2021ampkα2activationby pages 36-37): Jianlin Lu, Yuanyuan Huang, Li Zhan, Ming Wang, Leilei Xu, McKay Mullen, Jianye Zang, Guowei Fang, Zhen Dou, Xing Liu, Wei Liu, Minerva Garcia-Barrio, and Xuebiao Yao. Ampkα2 activation by an energy-independent signal ensures chromosomal stability during mitosis. iScience, 24:102363, Apr 2021. URL: https://doi.org/10.1016/j.isci.2021.102363, doi:10.1016/j.isci.2021.102363. This article has 6 citations and is from a peer-reviewed journal.
+
+19. (marin2015identificationofampactivated pages 8-9): Traci L Marin, Brendan Gongol, Marcy Martin, Stephanie J King, Lemar Smith, David A Johnson, Shankar Subramaniam, Shu Chien, and John Y-J Shyy. Identification of amp-activated protein kinase targets by a consensus sequence search of the proteome. BMC Systems Biology, Mar 2015. URL: https://doi.org/10.1186/s12918-015-0156-0, doi:10.1186/s12918-015-0156-0. This article has 40 citations and is from a peer-reviewed journal.
+
+20. (minchenko2012snf1ampactivatedproteinkinases pages 1-3): DO Minchenko and OH Minchenko. Snf1/amp-activated protein kinases: genes, expression and biological role. Unknown journal, Jun 2012. URL: https://doi.org/10.5772/37820, doi:10.5772/37820. This article has 5 citations.
+
+21. (ovens2021posttranslationalmodificationsof pages 1-2): Ashley J. Ovens, John W. Scott, Christopher G. Langendorf, Bruce E. Kemp, Jonathan S. Oakhill, and William J. Smiles. Post-translational modifications of the energy guardian amp-activated protein kinase. International Journal of Molecular Sciences, 22:1229, Jan 2021. URL: https://doi.org/10.3390/ijms22031229, doi:10.3390/ijms22031229. This article has 35 citations and is from a peer-reviewed journal.
+
+22. (ovens2021posttranslationalmodificationsof pages 2-5): Ashley J. Ovens, John W. Scott, Christopher G. Langendorf, Bruce E. Kemp, Jonathan S. Oakhill, and William J. Smiles. Post-translational modifications of the energy guardian amp-activated protein kinase. International Journal of Molecular Sciences, 22:1229, Jan 2021. URL: https://doi.org/10.3390/ijms22031229, doi:10.3390/ijms22031229. This article has 35 citations and is from a peer-reviewed journal.
+
+23. (ovens2021posttranslationalmodificationsof pages 20-21): Ashley J. Ovens, John W. Scott, Christopher G. Langendorf, Bruce E. Kemp, Jonathan S. Oakhill, and William J. Smiles. Post-translational modifications of the energy guardian amp-activated protein kinase. International Journal of Molecular Sciences, 22:1229, Jan 2021. URL: https://doi.org/10.3390/ijms22031229, doi:10.3390/ijms22031229. This article has 35 citations and is from a peer-reviewed journal.
+
+24. (ovens2021posttranslationalmodificationsof pages 21-22): Ashley J. Ovens, John W. Scott, Christopher G. Langendorf, Bruce E. Kemp, Jonathan S. Oakhill, and William J. Smiles. Post-translational modifications of the energy guardian amp-activated protein kinase. International Journal of Molecular Sciences, 22:1229, Jan 2021. URL: https://doi.org/10.3390/ijms22031229, doi:10.3390/ijms22031229. This article has 35 citations and is from a peer-reviewed journal.
+
+25. (ovens2021posttranslationalmodificationsof pages 5-6): Ashley J. Ovens, John W. Scott, Christopher G. Langendorf, Bruce E. Kemp, Jonathan S. Oakhill, and William J. Smiles. Post-translational modifications of the energy guardian amp-activated protein kinase. International Journal of Molecular Sciences, 22:1229, Jan 2021. URL: https://doi.org/10.3390/ijms22031229, doi:10.3390/ijms22031229. This article has 35 citations and is from a peer-reviewed journal.
+
+26. (ovens2021posttranslationalmodificationsof pages 6-7): Ashley J. Ovens, John W. Scott, Christopher G. Langendorf, Bruce E. Kemp, Jonathan S. Oakhill, and William J. Smiles. Post-translational modifications of the energy guardian amp-activated protein kinase. International Journal of Molecular Sciences, 22:1229, Jan 2021. URL: https://doi.org/10.3390/ijms22031229, doi:10.3390/ijms22031229. This article has 35 citations and is from a peer-reviewed journal.
+
+27. (rana2015smallmoleculeadenosine pages 12-15): Sandeep Rana, Elizabeth C. Blowers, and Amarnath Natarajan. Small molecule adenosine 5'-monophosphate activated protein kinase (ampk) modulators and human diseases. Journal of medicinal chemistry, 58 1:2-29, Jan 2015. URL: https://doi.org/10.1021/jm401994c, doi:10.1021/jm401994c. This article has 79 citations and is from a highest quality peer-reviewed journal.
+
+28. (rana2015smallmoleculeadenosine pages 5-8): Sandeep Rana, Elizabeth C. Blowers, and Amarnath Natarajan. Small molecule adenosine 5'-monophosphate activated protein kinase (ampk) modulators and human diseases. Journal of medicinal chemistry, 58 1:2-29, Jan 2015. URL: https://doi.org/10.1021/jm401994c, doi:10.1021/jm401994c. This article has 79 citations and is from a highest quality peer-reviewed journal.
+
+29. (rana2015smallmoleculeadenosine pages 60-64): Sandeep Rana, Elizabeth C. Blowers, and Amarnath Natarajan. Small molecule adenosine 5'-monophosphate activated protein kinase (ampk) modulators and human diseases. Journal of medicinal chemistry, 58 1:2-29, Jan 2015. URL: https://doi.org/10.1021/jm401994c, doi:10.1021/jm401994c. This article has 79 citations and is from a highest quality peer-reviewed journal.
+
+30. (rana2015smallmoleculeadenosine pages 68-72): Sandeep Rana, Elizabeth C. Blowers, and Amarnath Natarajan. Small molecule adenosine 5'-monophosphate activated protein kinase (ampk) modulators and human diseases. Journal of medicinal chemistry, 58 1:2-29, Jan 2015. URL: https://doi.org/10.1021/jm401994c, doi:10.1021/jm401994c. This article has 79 citations and is from a highest quality peer-reviewed journal.
+
+31. (russell2020ampactivatedproteinkinase pages 2-4): Fiona M. Russell and David Grahame Hardie. Amp-activated protein kinase: do we need activators or inhibitors to treat or prevent cancer? International Journal of Molecular Sciences, 22:186, Dec 2020. URL: https://doi.org/10.3390/ijms22010186, doi:10.3390/ijms22010186. This article has 52 citations and is from a peer-reviewed journal.
+
+32. (russo2013ampactivatedproteinkinase pages 1-6): Gian Luigi Russo, Maria Russo, and Paola Ungaro. Amp-activated protein kinase: a target for old drugs against diabetes and cancer. Biochemical Pharmacology, 86:339-350, Aug 2013. URL: https://doi.org/10.1016/j.bcp.2013.05.023, doi:10.1016/j.bcp.2013.05.023. This article has 153 citations and is from a domain leading peer-reviewed journal.
+
+33. (russo2013ampactivatedproteinkinase pages 34-36): Gian Luigi Russo, Maria Russo, and Paola Ungaro. Amp-activated protein kinase: a target for old drugs against diabetes and cancer. Biochemical Pharmacology, 86:339-350, Aug 2013. URL: https://doi.org/10.1016/j.bcp.2013.05.023, doi:10.1016/j.bcp.2013.05.023. This article has 153 citations and is from a domain leading peer-reviewed journal.
+
+34. (russo2013ampactivatedproteinkinase pages 38-41): Gian Luigi Russo, Maria Russo, and Paola Ungaro. Amp-activated protein kinase: a target for old drugs against diabetes and cancer. Biochemical Pharmacology, 86:339-350, Aug 2013. URL: https://doi.org/10.1016/j.bcp.2013.05.023, doi:10.1016/j.bcp.2013.05.023. This article has 153 citations and is from a domain leading peer-reviewed journal.
+
+35. (russo2013ampactivatedproteinkinase pages 6-10): Gian Luigi Russo, Maria Russo, and Paola Ungaro. Amp-activated protein kinase: a target for old drugs against diabetes and cancer. Biochemical Pharmacology, 86:339-350, Aug 2013. URL: https://doi.org/10.1016/j.bcp.2013.05.023, doi:10.1016/j.bcp.2013.05.023. This article has 153 citations and is from a domain leading peer-reviewed journal.
+
+36. (smiles2024themetabolicsensor pages 1-2): William J. Smiles, Ashley J. Ovens, Jonathan S. Oakhill, and Barbara Kofler. The metabolic sensor ampk: twelve enzymes in one. Molecular Metabolism, 90:102042, Dec 2024. URL: https://doi.org/10.1016/j.molmet.2024.102042, doi:10.1016/j.molmet.2024.102042. This article has 7 citations and is from a domain leading peer-reviewed journal.
+
+37. (smiles2024themetabolicsensor pages 2-3): William J. Smiles, Ashley J. Ovens, Jonathan S. Oakhill, and Barbara Kofler. The metabolic sensor ampk: twelve enzymes in one. Molecular Metabolism, 90:102042, Dec 2024. URL: https://doi.org/10.1016/j.molmet.2024.102042, doi:10.1016/j.molmet.2024.102042. This article has 7 citations and is from a domain leading peer-reviewed journal.
+
+38. (smiles2024themetabolicsensor pages 26-27): William J. Smiles, Ashley J. Ovens, Jonathan S. Oakhill, and Barbara Kofler. The metabolic sensor ampk: twelve enzymes in one. Molecular Metabolism, 90:102042, Dec 2024. URL: https://doi.org/10.1016/j.molmet.2024.102042, doi:10.1016/j.molmet.2024.102042. This article has 7 citations and is from a domain leading peer-reviewed journal.
+
+39. (smiles2024themetabolicsensor pages 8-9): William J. Smiles, Ashley J. Ovens, Jonathan S. Oakhill, and Barbara Kofler. The metabolic sensor ampk: twelve enzymes in one. Molecular Metabolism, 90:102042, Dec 2024. URL: https://doi.org/10.1016/j.molmet.2024.102042, doi:10.1016/j.molmet.2024.102042. This article has 7 citations and is from a domain leading peer-reviewed journal.
+
+40. (smiles2025ampkphosphositeprofiling pages 1-2): William J. Smiles, Ashley J. Ovens, Dingyi Yu, Naomi X. Y. Ling, Andrea C. Poblete Goycoolea, Kaitlin R. Morrison, Emmanuel O. Murphy, Astrid Glaser, Sophie F. Monks O’Byrne, Scott Taylor, Alistair M. Chalk, Carl R. Walkley, Luke M. McAloon, John W. Scott, Bruce E. Kemp, Ashfaqul Hoque, Christopher G. Langendorf, Janni Petersen, Sandra Galic, and Jonathan S. Oakhill. Ampk phosphosite profiling by label-free mass spectrometry reveals a multitude of mtorc1-regulated substrates. npj Metabolic Health and Disease, Mar 2025. URL: https://doi.org/10.1038/s44324-025-00052-7, doi:10.1038/s44324-025-00052-7. This article has 0 citations.
+
+41. (smiles2025ampkphosphositeprofiling pages 20-21): William J. Smiles, Ashley J. Ovens, Dingyi Yu, Naomi X. Y. Ling, Andrea C. Poblete Goycoolea, Kaitlin R. Morrison, Emmanuel O. Murphy, Astrid Glaser, Sophie F. Monks O’Byrne, Scott Taylor, Alistair M. Chalk, Carl R. Walkley, Luke M. McAloon, John W. Scott, Bruce E. Kemp, Ashfaqul Hoque, Christopher G. Langendorf, Janni Petersen, Sandra Galic, and Jonathan S. Oakhill. Ampk phosphosite profiling by label-free mass spectrometry reveals a multitude of mtorc1-regulated substrates. npj Metabolic Health and Disease, Mar 2025. URL: https://doi.org/10.1038/s44324-025-00052-7, doi:10.1038/s44324-025-00052-7. This article has 0 citations.
+
+42. (steinberg2023newinsightsinto pages 1-4): Gregory R. Steinberg and D. Grahame Hardie. New insights into activation and function of the ampk. Nature Reviews Molecular Cell Biology, 24:255-272, Oct 2023. URL: https://doi.org/10.1038/s41580-022-00547-x, doi:10.1038/s41580-022-00547-x. This article has 567 citations and is from a domain leading peer-reviewed journal.
+
+43. (steinberg2023newinsightsinto pages 13-17): Gregory R. Steinberg and D. Grahame Hardie. New insights into activation and function of the ampk. Nature Reviews Molecular Cell Biology, 24:255-272, Oct 2023. URL: https://doi.org/10.1038/s41580-022-00547-x, doi:10.1038/s41580-022-00547-x. This article has 567 citations and is from a domain leading peer-reviewed journal.
+
+44. (steinberg2023newinsightsinto pages 6-9): Gregory R. Steinberg and D. Grahame Hardie. New insights into activation and function of the ampk. Nature Reviews Molecular Cell Biology, 24:255-272, Oct 2023. URL: https://doi.org/10.1038/s41580-022-00547-x, doi:10.1038/s41580-022-00547-x. This article has 567 citations and is from a domain leading peer-reviewed journal.
+
+45. (steinberg2023newinsightsinto pages 9-13): Gregory R. Steinberg and D. Grahame Hardie. New insights into activation and function of the ampk. Nature Reviews Molecular Cell Biology, 24:255-272, Oct 2023. URL: https://doi.org/10.1038/s41580-022-00547-x, doi:10.1038/s41580-022-00547-x. This article has 567 citations and is from a domain leading peer-reviewed journal.
+
+46. (sukumaran2020insightontranscriptional pages 2-3): Abitha Sukumaran, Kwangmin Choi, and Biplab Dasgupta. Insight on transcriptional regulation of the energy sensing ampk and biosynthetic mtor pathway genes. Frontiers in Cell and Developmental Biology, Jul 2020. URL: https://doi.org/10.3389/fcell.2020.00671, doi:10.3389/fcell.2020.00671. This article has 45 citations and is from a peer-reviewed journal.
+
+47. (yan2018structureandphysiological pages 1-4): Yan Yan, X. Edward Zhou, H. Eric Xu, and Karsten Melcher. Structure and physiological regulation of ampk. International Journal of Molecular Sciences, 19:3534, Nov 2018. URL: https://doi.org/10.3390/ijms19113534, doi:10.3390/ijms19113534. This article has 259 citations and is from a peer-reviewed journal.
+
+48. (yan2018structureandphysiological pages 10-12): Yan Yan, X. Edward Zhou, H. Eric Xu, and Karsten Melcher. Structure and physiological regulation of ampk. International Journal of Molecular Sciences, 19:3534, Nov 2018. URL: https://doi.org/10.3390/ijms19113534, doi:10.3390/ijms19113534. This article has 259 citations and is from a peer-reviewed journal.
+
+49. (yan2018structureandphysiological pages 14-15): Yan Yan, X. Edward Zhou, H. Eric Xu, and Karsten Melcher. Structure and physiological regulation of ampk. International Journal of Molecular Sciences, 19:3534, Nov 2018. URL: https://doi.org/10.3390/ijms19113534, doi:10.3390/ijms19113534. This article has 259 citations and is from a peer-reviewed journal.
+
+50. (zhu2016invitromethods pages 16-18): Xiaoqing Zhu, J. Willem Voncken, and Dietbert Neumann. In vitro methods to study ampk. Experientia Supplementum, 107:471-489, Jan 2016. URL: https://doi.org/10.1007/978-3-319-43589-3\_19, doi:10.1007/978-3-319-43589-3\_19. This article has 0 citations.

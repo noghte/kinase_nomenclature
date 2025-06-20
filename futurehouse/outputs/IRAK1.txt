@@ -1,0 +1,168 @@
+1. Phylogeny  
+IRAK1 (Interleukin-1 receptor-associated kinase 1) is a conserved serine/threonine kinase that belongs to the IRAK family within the human kinome. Orthologs of IRAK1 have been identified across mammalian species and are evolutionarily related to other members of the IRAK family, including IRAK4, IRAK2, and the inactive pseudokinase IRAK-M. In addition, sequence homology has been observed with the Drosophila Pelle kinase, indicating that the ancestral gene duplication events leading to the current IRAK family occurred early in animal evolution. Thus, IRAK1 is part of an evolutionarily conserved signaling machinery that mediates innate immune responses through Toll-like receptor (TLR) and interleukin-1 receptor (IL-1R) pathways (gosu2012molecularevolutionand pages 1-2, janssens2003functionaldiversityand pages 1-2, gottipati2008irak1acritical pages 1-2).
+
+2. Reaction Catalyzed  
+IRAK1 catalyzes a phosphorylation reaction in which ATP and a protein substrate containing serine or threonine residues are converted to ADP and a phosphorylated protein. In biochemical terms, the reaction can be summarized as:  
+ATP + [protein] – (L-serine or L-threonine) → ADP + [protein] – (L-serine/threonine)-phosphate + H⁺.  
+In the context of innate immune signaling, IRAK1 phosphorylates several downstream targets. Its substrates include the E3 ubiquitin ligases of the Pellino family, leading to Pellino-mediated polyubiquitination events, as well as adaptor proteins such as TIRAP and regulators such as interferon regulatory factor 7 (IRF7). These phosphorylation events are central to propagating the signal that ultimately activates transcription factors such as NF-κB and interferon-regulatory factors (flannery2010theinterleukin1receptorassociated pages 43-47, jain2014il1receptorassociatedkinase pages 2-3).
+
+3. Cofactor Requirements  
+The kinase activity of IRAK1 requires divalent metal ions. As is common for serine/threonine kinases, IRAK1 depends on Mg²⁺ as a cofactor for efficient ATP binding and catalysis. The presence of Mg²⁺ facilitates proper orientation of ATP within the active site, thereby enabling the transfer of the phosphoryl group to the substrate (flannery2010theinterleukin1receptorassociated pages 43-47, wang2017crystalstructureof pages 5-5).
+
+4. Substrate Specificity  
+IRAK1 exhibits substrate specificity for serine and threonine residues within its target proteins, though a detailed consensus motif has not been completely defined in the literature presently available. However, IRAK1 is well known to phosphorylate substrates that are crucial for downstream signal propagation in innate immune signaling. In particular, IRAK1 phosphorylates the E3 ubiquitin ligases in the Pellino family (PELI1, PELI2, and PELI3), thereby promoting Pellino-mediated polyubiquitination events that facilitate the assembly of downstream kinase complexes. In addition, IRAK1 phosphorylates the adaptor molecule TIRAP to promote its ubiquitination and eventual degradation, as well as IRF7, thereby inducing its activation and nuclear translocation. Furthermore, when modified by sumoylation, IRAK1 translocates to the nucleus and phosphorylates STAT3. These reactions underscore IRAK1’s role in recognizing specific serine/threonine-rich regions on its substrates within the TLR/IL-1 receptor signaling pathways (gottipati2008irak1acritical pages 2-3, flannery2010theinterleukin1receptorassociated pages 43-47, jain2014il1receptorassociatedkinase pages 2-3).
+
+5. Structure  
+IRAK1 is organized into several distinctive domains that are critical for its function in innate immunity. At its N-terminus, IRAK1 contains a death domain (DD) which mediates homotypic protein-protein interactions, especially enabling binding to adaptor proteins such as MyD88. Immediately following the death domain is the proline/serine/threonine-rich (ProST) region, which is implicated in regulatory functions such as autophosphorylation and interactions leading to subsequent ubiquitination and degradation. The central portion of the protein is composed of a conserved kinase domain that is responsible for catalytic activity. Key residues within the kinase domain include an invariant lysine, for example K239, which is located in the ATP binding site, as well as an essential aspartate, D340, required for catalysis. In the activation loop of the kinase domain, phosphorylation sites such as T209 and T387 have been identified; these sites are phosphorylated first by IRAK4 and subsequently undergo autophosphorylation, thereby promoting full activation of IRAK1. The kinase domain also possesses a unique tyrosine gatekeeper residue (Y288 in IRAK1) that controls access to a hydrophobic pocket near the ATP binding site; this feature is a defining structural characteristic of the IRAK family kinases and has been used to inform structure-based inhibitor design (flannery2010theinterleukin1receptorassociated pages 43-47, jain2014il1receptorassociatedkinase pages 1-2, wang2017crystalstructureof pages 4-5).
+
+The overall three‐dimensional structure, as inferred from crystallography studies of human IRAK1 kinase domain constructs, reveals that the catalytic core adopts the typical bilobal architecture found in most protein kinases where the N-lobe is predominantly β-sheet and the C-lobe is mainly helical. The activation loop in IRAK1 is critical for regulating its kinase activity; its phosphorylation status determines whether the enzyme is in an active conformation with an assembled regulatory spine that includes hydrophobic and polar interactions among key residues such as the catalytic lysine, the gatekeeper tyrosine, and the aspartate of the DFG motif. There is also evidence suggesting that full-length IRAK1, which contains additional regulatory regions at the N- and C-termini, may be autoinhibited by intramolecular interactions that are relieved upon phosphorylation-driven conformational changes (wang2017crystalstructureof pages 5-5, flannery2010theinterleukin1receptorassociated pages 43-47).
+
+6. Regulation  
+IRAK1 activity is tightly regulated by various post-translational modifications and protein–protein interaction events that ensure a controlled immune response. One of the primary modes of regulation is phosphorylation. Upon activation of TLRs or IL-1Rs, MyD88 is recruited to the receptor complex, and IRAK4 phosphorylates IRAK1 at specific threonine residues (for example, T209 and T387) within the kinase domain activation loop. This event is followed by IRAK1 autophosphorylation, which enhances its catalytic activity. These phosphorylation events also serve as triggers for subsequent modifications: once hyperphosphorylated, IRAK1 dissociates from the myddosome complex to interact with downstream signaling molecules such as TRAF6, Pellino proteins, and other components of the NF-κB activating cascade (gottipati2008irak1acritical pages 2-3, flannery2010theinterleukin1receptorassociated pages 43-47).
+
+IRAK1 is also subject to ubiquitination. Ubiquitin ligases such as Pellino are recruited following IRAK1 phosphorylation, leading to polyubiquitination of IRAK1 on lysine residues. The polyubiquitinated form of IRAK1 is then recognized by the ubiquitin-binding domain of NEMO (IKKγ), which helps bridge the complex with subsequent kinases including TAK1, ultimately resulting in the activation of the IKK complex and nuclear translocation of NF-κB. Concurrently, IRAK1 contains PEST sequences—regions rich in proline, glutamate, serine, and threonine—that serve as degradation signals. These sequences promote proteasomal degradation of IRAK1, thereby providing a negative feedback mechanism to curb prolonged signaling (flannery2010theinterleukin1receptorassociated pages 5-9, suzuki2005irakskeyregulatory pages 1-2).
+
+In addition to phosphorylation and ubiquitination, IRAK1 undergoes sumoylation. The sumoylated form of IRAK1 is capable of translocating to the nucleus, where it has distinct functions including the phosphorylation of STAT3. Nuclear IRAK1 contributes to the transcriptional regulation of anti-inflammatory cytokines, such as interleukin-10, and is involved in promoting an antiviral state through the activation of interferon regulatory factors (singer2018inhibitionofinterleukin1 pages 1-2, li2005novelroleand pages 1-2).
+
+Furthermore, alternative splicing of IRAK1 mRNA leads to the generation of splice variants, such as IRAK1b, which, despite being kinase-inactive, retain the capacity to participate in signaling complexes and can modulate NF-κB activation. Such splice variants underscore the complex regulation of IRAK1 function by different mechanisms (gottipati2008irak1acritical pages 3-5, martin2001interleukin1receptorassociatedkinase1 pages 2-4).
+
+7. Function  
+IRAK1 serves as a central mediator in the innate immune response, particularly in the context of TLR and IL-1 receptor signaling pathways. Upon engagement of these receptors by pathogen-associated molecular patterns (PAMPs) or interleukin-1 ligands, MyD88 is recruited to the receptor complex. IRAK1 is then rapidly brought in via its death domain, where it is phosphorylated by IRAK4. This phosphorylation initiates a cascade of events including IRAK1 autophosphorylation, dissociation from the receptor complex, and subsequent interactions with downstream effector proteins (flannery2010theinterleukin1receptorassociated pages 5-9, jain2014il1receptorassociatedkinase pages 1-2).
+
+Downstream of these events, IRAK1 phosphorylates key substrates:
+– It targets Pellino E3 ubiquitin ligases (PELI1, PELI2, and PELI3), thereby enabling these enzymes to ubiquitinate IRAK1 and associated proteins. This polyubiquitination is pivotal for bridging the IRAK1-MAP3K7/TAK1-TRAF6 complex with the NEMO-IKK complex, leading to NF-κB activation and the subsequent induction of pro-inflammatory gene expression.  
+– IRAK1 also phosphorylates adaptor proteins such as TIRAP, marking them for ubiquitination and degradation, which is part of the feedback regulation controlling signal duration.  
+– In the antiviral response branch, IRAK1 phosphorylates IRF7 to facilitate its activation and nuclear localization, thereby triggering the expression of type I interferon genes.  
+– Moreover, when IRAK1 is sumoylated and translocates to the nucleus, it phosphorylates STAT3, contributing to additional transcriptional responses that modulate immune responses (flannery2010theinterleukin1receptorassociated pages 43-47, singer2018inhibitionofinterleukin1 pages 18-19).
+
+IRAK1 is ubiquitously expressed in various cell types, including monocytes, macrophages, dendritic cells, T cells, and B cells, which supports its role as a key regulator in both innate and adaptive immunity. The kinase is essential for the timely activation of NF-κB and other transcription factors involved in immune and inflammatory responses, while also being implicated in post-transcriptional regulation such as mRNA stabilization of inflammatory cytokines (gottipati2008irak1acritical pages 1-2, pereira2023regulationofinnate pages 1-2, singer2018inhibitionofinterleukin1 pages 1-2).
+
+8. Other Comments  
+Several pharmacological inhibitors targeting IRAK1 (and closely related IRAK4) have been identified and are under investigation for therapeutic applications in inflammatory diseases and certain cancers. Pacritinib, originally developed as a JAK2/FLT3 inhibitor, has been shown to potently inhibit IRAK1 in addition to its primary targets, thereby reducing levels of pro-inflammatory cytokines in models of diseases such as myelofibrosis and certain lymphomas. Other small molecule inhibitors have been designed to target the kinase domain of IRAK1 by exploiting the unique tyrosine gatekeeper residue which modulates access to the ATP-binding pocket. These studies underscore the therapeutic interest in modulating IRAK1 activity to reduce aberrant inflammation and immune activation (singer2018inhibitionofinterleukin1 pages 1-2, rhyasen2015iraksignallingin pages 5-6).
+
+Dysregulation of IRAK1 signaling has been implicated in several disease conditions including autoimmune disorders, chronic inflammatory states, and malignancies. Alterations in IRAK1 expression or activity can lead to improper NF-κB activation, contributing to the pathogenesis of diseases such as systemic lupus erythematosus, rheumatoid arthritis, and inflammatory bowel disease. Furthermore, certain cancer subtypes show a dependency on IRAK1-mediated signaling pathways for tumor progression and survival, which makes IRAK1 a potential target for cancer therapeutics. Notably, splice variants like IRAK1b, which lack kinase activity but retain adaptor function, may contribute to the complexity of IRAK1-mediated signaling and its association with disease phenotypes (flannery2010theinterleukin1receptorassociated pages 24-28, singer2018inhibitionofinterleukin1 pages 2-6, li2005novelroleand pages 4-4).
+
+9. References  
+1. flannery2010theinterleukin1receptorassociated pages 5-9  
+2. gottipati2008irak1acritical pages 1-2  
+3. gottipati2008irak1acritical pages 2-3  
+4. jain2014il1receptorassociatedkinase pages 6-7  
+5. li2005novelroleand pages 2-3  
+6. pereira2023regulationofinnate pages 1-2  
+7. pereira2023regulationofinnate pages 8-9  
+8. rhyasen2015iraksignallingin pages 2-3  
+9. singer2018inhibitionofinterleukin1 pages 1-2  
+10. singer2018inhibitionofinterleukin1 pages 18-19  
+11. singer2018inhibitionofinterleukin1 pages 2-6  
+12. suzuki2005irakskeyregulatory pages 2-3  
+13. vollmer2017themechanismof pages 1-3  
+14. wang2017crystalstructureof pages 1-1  
+15. wang2017crystalstructureof pages 4-5  
+16. wang2017crystalstructureof pages 5-5  
+17. bahia2015interleukin1receptorassociated pages 5-8  
+18. flannery2010theinterleukin1receptorassociated pages 24-28  
+19. flannery2010theinterleukin1receptorassociated pages 43-47  
+20. gosu2012molecularevolutionand pages 1-2  
+21. gottipati2008irak1acritical pages 3-5  
+22. jain2014il1receptorassociatedkinase pages 1-2  
+23. jain2014il1receptorassociatedkinase pages 2-3  
+24. janssens2003functionaldiversityand pages 1-2  
+25. janssens2003functionaldiversityand pages 2-3  
+26. janssens2003functionaldiversityand pages 6-7  
+27. jensen2001irak1banovel pages 1-1  
+28. martin2001interleukin1receptorassociatedkinase1 pages 1-2  
+29. martin2001interleukin1receptorassociatedkinase1 pages 2-4  
+30. rhyasen2015iraksignallingin pages 1-2  
+31. rhyasen2015iraksignallingin pages 5-5  
+32. rhyasen2015iraksignallingin pages 5-6  
+33. singer2018inhibitionofinterleukin1 pages 16-17  
+34. suzuki2005irakskeyregulatory pages 1-2  
+35. wang2006crystalstructuresof pages 5-7  
+36. wang2009irak4inhibitorsfor pages 4-6  
+37. wang2017crystalstructureof pages 2-3  
+38. wang2017crystalstructureof pages 5-6  
+39. wang2017crystalstructureof pages 6-6
+
+References
+
+1. (flannery2010theinterleukin1receptorassociated pages 5-9): Sinead Flannery and Andrew G. Bowie. The interleukin-1 receptor-associated kinases: critical regulators of innate immune signalling. Biochemical Pharmacology, 80:1981-1991, Dec 2010. URL: https://doi.org/10.1016/j.bcp.2010.06.020, doi:10.1016/j.bcp.2010.06.020. This article has 393 citations and is from a domain leading peer-reviewed journal.
+
+2. (gottipati2008irak1acritical pages 1-2): Sridevi Gottipati, Navin L. Rao, and Wai-Ping Fung-Leung. Irak1: a critical signaling mediator of innate immunity. Cellular Signalling, 20:269-276, Feb 2008. URL: https://doi.org/10.1016/j.cellsig.2007.08.009, doi:10.1016/j.cellsig.2007.08.009. This article has 312 citations and is from a peer-reviewed journal.
+
+3. (gottipati2008irak1acritical pages 2-3): Sridevi Gottipati, Navin L. Rao, and Wai-Ping Fung-Leung. Irak1: a critical signaling mediator of innate immunity. Cellular Signalling, 20:269-276, Feb 2008. URL: https://doi.org/10.1016/j.cellsig.2007.08.009, doi:10.1016/j.cellsig.2007.08.009. This article has 312 citations and is from a peer-reviewed journal.
+
+4. (jain2014il1receptorassociatedkinase pages 6-7): Ajay Jain, Sabina Kaczanowska, and Eduardo Davila. Il-1 receptor-associated kinase signaling and its role in inflammation, cancer progression, and therapy resistance. Frontiers in Immunology, Nov 2014. URL: https://doi.org/10.3389/fimmu.2014.00553, doi:10.3389/fimmu.2014.00553. This article has 218 citations and is from a peer-reviewed journal.
+
+5. (li2005novelroleand pages 2-3): LW Li. Novel role and regulation of the interleukin-1 receptor associated kinase (irak) family proteins. Unknown journal, 2005.
+
+6. (pereira2023regulationofinnate pages 1-2): Milton Pereira and Ricardo T. Gazzinelli. Regulation of innate immune signaling by irak proteins. Frontiers in Immunology, Feb 2023. URL: https://doi.org/10.3389/fimmu.2023.1133354, doi:10.3389/fimmu.2023.1133354. This article has 54 citations and is from a peer-reviewed journal.
+
+7. (pereira2023regulationofinnate pages 8-9): Milton Pereira and Ricardo T. Gazzinelli. Regulation of innate immune signaling by irak proteins. Frontiers in Immunology, Feb 2023. URL: https://doi.org/10.3389/fimmu.2023.1133354, doi:10.3389/fimmu.2023.1133354. This article has 54 citations and is from a peer-reviewed journal.
+
+8. (rhyasen2015iraksignallingin pages 2-3): Garrett W. Rhyasen, Garrett W. Rhyasen, Garrett W. Rhyasen, D. Starczynowski, and D. Starczynowski. Irak signalling in cancer. British Journal of Cancer, 112:232-237, Oct 2015. URL: https://doi.org/10.1038/bjc.2014.513, doi:10.1038/bjc.2014.513. This article has 199 citations and is from a domain leading peer-reviewed journal.
+
+9. (singer2018inhibitionofinterleukin1 pages 1-2): Jack W. Singer, Angela Fleischman, Suliman Al-Fayoumi, John O. Mascarenhas, Qiang Yu, and Anupriya Agarwal. Inhibition of interleukin-1 receptor-associated kinase 1 (irak1) as a therapeutic strategy. Oncotarget, 9:33416-33439, Sep 2018. URL: https://doi.org/10.18632/oncotarget.26058, doi:10.18632/oncotarget.26058. This article has 146 citations and is from a poor quality or predatory journal.
+
+10. (singer2018inhibitionofinterleukin1 pages 18-19): Jack W. Singer, Angela Fleischman, Suliman Al-Fayoumi, John O. Mascarenhas, Qiang Yu, and Anupriya Agarwal. Inhibition of interleukin-1 receptor-associated kinase 1 (irak1) as a therapeutic strategy. Oncotarget, 9:33416-33439, Sep 2018. URL: https://doi.org/10.18632/oncotarget.26058, doi:10.18632/oncotarget.26058. This article has 146 citations and is from a poor quality or predatory journal.
+
+11. (singer2018inhibitionofinterleukin1 pages 2-6): Jack W. Singer, Angela Fleischman, Suliman Al-Fayoumi, John O. Mascarenhas, Qiang Yu, and Anupriya Agarwal. Inhibition of interleukin-1 receptor-associated kinase 1 (irak1) as a therapeutic strategy. Oncotarget, 9:33416-33439, Sep 2018. URL: https://doi.org/10.18632/oncotarget.26058, doi:10.18632/oncotarget.26058. This article has 146 citations and is from a poor quality or predatory journal.
+
+12. (suzuki2005irakskeyregulatory pages 2-3): Nobutaka Suzuki, Shinobu Suzuki, and Takashi Saito. Iraks: key regulatory kinases of innate immunity. Current Medicinal Chemistry - Anti-Inflammatory &amp; Anti-Allergy Agents, 4:13-20, Feb 2005. URL: https://doi.org/10.2174/1568014053005345, doi:10.2174/1568014053005345. This article has 15 citations.
+
+13. (vollmer2017themechanismof pages 1-3): Stefan Vollmer, Sam Strickson, Tinghu Zhang, Nathanael Gray, Katherine L. Lee, Vikram R. Rao, and Philip Cohen. The mechanism of activation of irak1 and irak4 by interleukin-1 and toll-like receptor agonists. Biochemical Journal, 474:2027-2038, Jun 2017. URL: https://doi.org/10.1042/bcj20170097, doi:10.1042/bcj20170097. This article has 105 citations and is from a domain leading peer-reviewed journal.
+
+14. (wang2017crystalstructureof pages 1-1): Li Wang, Qi Qiao, Ryan Ferrao, Chen Shen, John M. Hatcher, Sara J. Buhrlage, Nathanael S. Gray, and Hao Wu. Crystal structure of human irak1. Proceedings of the National Academy of Sciences, 114:13507-13512, Dec 2017. URL: https://doi.org/10.1073/pnas.1714386114, doi:10.1073/pnas.1714386114. This article has 80 citations.
+
+15. (wang2017crystalstructureof pages 4-5): Li Wang, Qi Qiao, Ryan Ferrao, Chen Shen, John M. Hatcher, Sara J. Buhrlage, Nathanael S. Gray, and Hao Wu. Crystal structure of human irak1. Proceedings of the National Academy of Sciences, 114:13507-13512, Dec 2017. URL: https://doi.org/10.1073/pnas.1714386114, doi:10.1073/pnas.1714386114. This article has 80 citations.
+
+16. (wang2017crystalstructureof pages 5-5): Li Wang, Qi Qiao, Ryan Ferrao, Chen Shen, John M. Hatcher, Sara J. Buhrlage, Nathanael S. Gray, and Hao Wu. Crystal structure of human irak1. Proceedings of the National Academy of Sciences, 114:13507-13512, Dec 2017. URL: https://doi.org/10.1073/pnas.1714386114, doi:10.1073/pnas.1714386114. This article has 80 citations.
+
+17. (bahia2015interleukin1receptorassociated pages 5-8): Malkeet Singh Bahia, Maninder Kaur, Pragati Silakari, and Om Silakari. Interleukin-1 receptor associated kinase inhibitors: potential therapeutic agents for inflammatory- and immune-related disorders. Cellular Signalling, 27:1039-1055, Jun 2015. URL: https://doi.org/10.1016/j.cellsig.2015.02.025, doi:10.1016/j.cellsig.2015.02.025. This article has 57 citations and is from a peer-reviewed journal.
+
+18. (flannery2010theinterleukin1receptorassociated pages 24-28): Sinead Flannery and Andrew G. Bowie. The interleukin-1 receptor-associated kinases: critical regulators of innate immune signalling. Biochemical Pharmacology, 80:1981-1991, Dec 2010. URL: https://doi.org/10.1016/j.bcp.2010.06.020, doi:10.1016/j.bcp.2010.06.020. This article has 393 citations and is from a domain leading peer-reviewed journal.
+
+19. (flannery2010theinterleukin1receptorassociated pages 43-47): Sinead Flannery and Andrew G. Bowie. The interleukin-1 receptor-associated kinases: critical regulators of innate immune signalling. Biochemical Pharmacology, 80:1981-1991, Dec 2010. URL: https://doi.org/10.1016/j.bcp.2010.06.020, doi:10.1016/j.bcp.2010.06.020. This article has 393 citations and is from a domain leading peer-reviewed journal.
+
+20. (gosu2012molecularevolutionand pages 1-2): Vijayakumar Gosu, Shaherin Basith, Prasannavenkatesh Durai, and Sangdun Choi. Molecular evolution and structural features of irak family members. PLoS ONE, 7:e49771, Nov 2012. URL: https://doi.org/10.1371/journal.pone.0049771, doi:10.1371/journal.pone.0049771. This article has 64 citations and is from a peer-reviewed journal.
+
+21. (gottipati2008irak1acritical pages 3-5): Sridevi Gottipati, Navin L. Rao, and Wai-Ping Fung-Leung. Irak1: a critical signaling mediator of innate immunity. Cellular Signalling, 20:269-276, Feb 2008. URL: https://doi.org/10.1016/j.cellsig.2007.08.009, doi:10.1016/j.cellsig.2007.08.009. This article has 312 citations and is from a peer-reviewed journal.
+
+22. (jain2014il1receptorassociatedkinase pages 1-2): Ajay Jain, Sabina Kaczanowska, and Eduardo Davila. Il-1 receptor-associated kinase signaling and its role in inflammation, cancer progression, and therapy resistance. Frontiers in Immunology, Nov 2014. URL: https://doi.org/10.3389/fimmu.2014.00553, doi:10.3389/fimmu.2014.00553. This article has 218 citations and is from a peer-reviewed journal.
+
+23. (jain2014il1receptorassociatedkinase pages 2-3): Ajay Jain, Sabina Kaczanowska, and Eduardo Davila. Il-1 receptor-associated kinase signaling and its role in inflammation, cancer progression, and therapy resistance. Frontiers in Immunology, Nov 2014. URL: https://doi.org/10.3389/fimmu.2014.00553, doi:10.3389/fimmu.2014.00553. This article has 218 citations and is from a peer-reviewed journal.
+
+24. (janssens2003functionaldiversityand pages 1-2): Sophie Janssens and Rudi Beyaert. Functional diversity and regulation of different interleukin-1 receptor-associated kinase (irak) family members. Molecular Cell, 11:293-302, Feb 2003. URL: https://doi.org/10.1016/s1097-2765(03)00053-4, doi:10.1016/s1097-2765(03)00053-4. This article has 756 citations and is from a highest quality peer-reviewed journal.
+
+25. (janssens2003functionaldiversityand pages 2-3): Sophie Janssens and Rudi Beyaert. Functional diversity and regulation of different interleukin-1 receptor-associated kinase (irak) family members. Molecular Cell, 11:293-302, Feb 2003. URL: https://doi.org/10.1016/s1097-2765(03)00053-4, doi:10.1016/s1097-2765(03)00053-4. This article has 756 citations and is from a highest quality peer-reviewed journal.
+
+26. (janssens2003functionaldiversityand pages 6-7): Sophie Janssens and Rudi Beyaert. Functional diversity and regulation of different interleukin-1 receptor-associated kinase (irak) family members. Molecular Cell, 11:293-302, Feb 2003. URL: https://doi.org/10.1016/s1097-2765(03)00053-4, doi:10.1016/s1097-2765(03)00053-4. This article has 756 citations and is from a highest quality peer-reviewed journal.
+
+27. (jensen2001irak1banovel pages 1-1): Liselotte E. Jensen and Alexander S. Whitehead. Irak1b, a novel alternative splice variant of interleukin-1 receptor-associated kinase (irak), mediates interleukin-1 signaling and has prolonged stability*. The Journal of Biological Chemistry, 276:29037-29044, Aug 2001. URL: https://doi.org/10.1074/jbc.m103815200, doi:10.1074/jbc.m103815200. This article has 116 citations.
+
+28. (martin2001interleukin1receptorassociatedkinase1 pages 1-2): Michael U. Martin and Christian Kollewe. Interleukin-1 receptor-associated kinase-1 (irak-1): a self-regulatory adapter molecule in the signaling cascade of the toll/il-1 receptor family. Signal Transduction, 1:37-50, Nov 2001. URL: https://doi.org/10.1002/1615-4061(200111)1:1/2<37::aid-sita37>3.0.co;2-k, doi:10.1002/1615-4061(200111)1:1/2<37::aid-sita37>3.0.co;2-k. This article has 22 citations and is from a peer-reviewed journal.
+
+29. (martin2001interleukin1receptorassociatedkinase1 pages 2-4): Michael U. Martin and Christian Kollewe. Interleukin-1 receptor-associated kinase-1 (irak-1): a self-regulatory adapter molecule in the signaling cascade of the toll/il-1 receptor family. Signal Transduction, 1:37-50, Nov 2001. URL: https://doi.org/10.1002/1615-4061(200111)1:1/2<37::aid-sita37>3.0.co;2-k, doi:10.1002/1615-4061(200111)1:1/2<37::aid-sita37>3.0.co;2-k. This article has 22 citations and is from a peer-reviewed journal.
+
+30. (rhyasen2015iraksignallingin pages 1-2): Garrett W. Rhyasen, Garrett W. Rhyasen, Garrett W. Rhyasen, D. Starczynowski, and D. Starczynowski. Irak signalling in cancer. British Journal of Cancer, 112:232-237, Oct 2015. URL: https://doi.org/10.1038/bjc.2014.513, doi:10.1038/bjc.2014.513. This article has 199 citations and is from a domain leading peer-reviewed journal.
+
+31. (rhyasen2015iraksignallingin pages 5-5): Garrett W. Rhyasen, Garrett W. Rhyasen, Garrett W. Rhyasen, D. Starczynowski, and D. Starczynowski. Irak signalling in cancer. British Journal of Cancer, 112:232-237, Oct 2015. URL: https://doi.org/10.1038/bjc.2014.513, doi:10.1038/bjc.2014.513. This article has 199 citations and is from a domain leading peer-reviewed journal.
+
+32. (rhyasen2015iraksignallingin pages 5-6): Garrett W. Rhyasen, Garrett W. Rhyasen, Garrett W. Rhyasen, D. Starczynowski, and D. Starczynowski. Irak signalling in cancer. British Journal of Cancer, 112:232-237, Oct 2015. URL: https://doi.org/10.1038/bjc.2014.513, doi:10.1038/bjc.2014.513. This article has 199 citations and is from a domain leading peer-reviewed journal.
+
+33. (singer2018inhibitionofinterleukin1 pages 16-17): Jack W. Singer, Angela Fleischman, Suliman Al-Fayoumi, John O. Mascarenhas, Qiang Yu, and Anupriya Agarwal. Inhibition of interleukin-1 receptor-associated kinase 1 (irak1) as a therapeutic strategy. Oncotarget, 9:33416-33439, Sep 2018. URL: https://doi.org/10.18632/oncotarget.26058, doi:10.18632/oncotarget.26058. This article has 146 citations and is from a poor quality or predatory journal.
+
+34. (suzuki2005irakskeyregulatory pages 1-2): Nobutaka Suzuki, Shinobu Suzuki, and Takashi Saito. Iraks: key regulatory kinases of innate immunity. Current Medicinal Chemistry - Anti-Inflammatory &amp; Anti-Allergy Agents, 4:13-20, Feb 2005. URL: https://doi.org/10.2174/1568014053005345, doi:10.2174/1568014053005345. This article has 15 citations.
+
+35. (wang2006crystalstructuresof pages 5-7): Zhulun Wang, Jinsong Liu, Athena Sudom, Merrill Ayres, Shyun Li, Holger Wesche, Jay P. Powers, and Nigel P.C. Walker. Crystal structures of irak-4 kinase in complex with inhibitors: a serine/threonine kinase with tyrosine as a gatekeeper. Structure, 14:1835-1844, Dec 2006. URL: https://doi.org/10.1016/j.str.2006.11.001, doi:10.1016/j.str.2006.11.001. This article has 187 citations and is from a domain leading peer-reviewed journal.
+
+36. (wang2009irak4inhibitorsfor pages 4-6): Zhulun Wang, Holger Wesche, Tracey Stevens, Nigel Walker, and Wen-Chen Yeh. Irak-4 inhibitors for inflammation. Current Topics in Medicinal Chemistry, 9:724-737, May 2009. URL: https://doi.org/10.2174/156802609789044407, doi:10.2174/156802609789044407. This article has 183 citations and is from a peer-reviewed journal.
+
+37. (wang2017crystalstructureof pages 2-3): Li Wang, Qi Qiao, Ryan Ferrao, Chen Shen, John M. Hatcher, Sara J. Buhrlage, Nathanael S. Gray, and Hao Wu. Crystal structure of human irak1. Proceedings of the National Academy of Sciences, 114:13507-13512, Dec 2017. URL: https://doi.org/10.1073/pnas.1714386114, doi:10.1073/pnas.1714386114. This article has 80 citations.
+
+38. (wang2017crystalstructureof pages 5-6): Li Wang, Qi Qiao, Ryan Ferrao, Chen Shen, John M. Hatcher, Sara J. Buhrlage, Nathanael S. Gray, and Hao Wu. Crystal structure of human irak1. Proceedings of the National Academy of Sciences, 114:13507-13512, Dec 2017. URL: https://doi.org/10.1073/pnas.1714386114, doi:10.1073/pnas.1714386114. This article has 80 citations.
+
+39. (wang2017crystalstructureof pages 6-6): Li Wang, Qi Qiao, Ryan Ferrao, Chen Shen, John M. Hatcher, Sara J. Buhrlage, Nathanael S. Gray, and Hao Wu. Crystal structure of human irak1. Proceedings of the National Academy of Sciences, 114:13507-13512, Dec 2017. URL: https://doi.org/10.1073/pnas.1714386114, doi:10.1073/pnas.1714386114. This article has 80 citations.
+
+40. (li2005novelroleand pages 1-2): LW Li. Novel role and regulation of the interleukin-1 receptor associated kinase (irak) family proteins. Unknown journal, 2005.
+
+41. (li2005novelroleand pages 4-4): LW Li. Novel role and regulation of the interleukin-1 receptor associated kinase (irak) family proteins. Unknown journal, 2005.

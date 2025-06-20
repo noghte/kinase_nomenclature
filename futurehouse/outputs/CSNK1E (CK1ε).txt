@@ -1,0 +1,151 @@
+1. Phylogeny  
+Casein kinase I isoform epsilon (CK1ε), encoded by the CSNK1E gene (Uniprot: P49674), is a member of the evolutionarily conserved Casein Kinase I (CK1) family of serine/threonine protein kinases. Orthologs of CK1ε have been identified throughout eukaryotes, ranging from yeast—where kinases such as Hrr25 represent the ancestral counterpart—to invertebrates and vertebrates, including mammals. Within the human kinome, the CK1 family comprises several isoforms such as CK1α, CK1δ, and CK1ε that share a highly conserved catalytic domain while differing in their flanking regulatory regions. Phylogenetic studies have traced the origin of the CK1 family back to the Last Eukaryotic Common Ancestor (LECA), with subsequent gene duplication and divergence events leading to distinct but related isoforms that participate in overlapping signaling pathways, notably in circadian rhythm regulation and Wnt signaling (fulcher2020functionsandregulation pages 1-2, schittek2014biologicalfunctionsof pages 1-2).
+
+2. Reaction Catalyzed  
+CK1ε catalyzes the phosphorylation reaction in which the γ–phosphate group from adenosine triphosphate (ATP) is transferred to the hydroxyl group of serine or threonine residues on substrate proteins. The chemical reaction can be represented as follows:  
+  ATP + [protein]–(L-serine or L-threonine) → ADP + [protein]–(L-serine/threonine)-phosphate + H⁺  
+This reaction is fundamental to the role of CK1ε in modifying its substrates, thereby altering their functional properties, subcellular localization, and protein stability (baier2022ck2andprotein pages 21-21, fulcher2020functionsandregulation pages 1-2).
+
+3. Cofactor Requirements  
+The catalytic activity of CK1ε requires ATP as the phosphate donor and depends on the presence of divalent metal ions, most notably magnesium (Mg²⁺). Mg²⁺ acts as an essential cofactor by coordinating with the phosphate groups of ATP, thus stabilizing the nucleotide in the active site and facilitating the efficient transfer of the phosphate group to the substrate (fulcher2020functionsandregulation pages 1-2, xu2019structureregulationand pages 22-24).
+
+4. Substrate Specificity  
+CK1ε exhibits a marked substrate specificity characterized by a preference for substrates that either contain pre-phosphorylated serine/threonine residues or bear clusters of acidic amino acids that mimic a phosphorylated state. This preference is reflected in the recognition motif, whereby a priming phosphorylation at a position three residues upstream (−3) or the presence of acidic residues such as aspartate or glutamate enhances substrate recognition. In many cases, the consensus motif can be described by patterns such as pSxx(S/T) or variants wherein acidic residues serve as determinants for efficient phosphorylation (francisco2022caseinkinase1 pages 1-2, fulcher2020functionsandregulation pages 2-4). Functionally, CK1ε phosphorylates proteins central to key signaling pathways. In the Wnt pathway, it targets Dishevelled proteins DVL1 and DVL2, while in the circadian clock system, it phosphorylates PERIOD proteins PER1 and PER2, thereby influencing their degradation and nuclear transport. By similarity, phosphorylation of NEDD9/HEF1 is also attributed to CK1ε (baier2022ck2andprotein pages 8-10, yang2008inhibitionofcasein pages 7-9).
+
+5. Structure  
+CK1ε is organized around a central, highly conserved kinase domain of approximately 300 amino acids that is responsible for its catalytic activity. This domain contains all the classical features of serine/threonine kinases, including an ATP-binding pocket formed by a glycine-rich loop (P-loop), a catalytic loop with invariant residues—such as a conserved lysine critical for positioning ATP—and an activation segment that includes the DFG motif, which coordinates Mg²⁺ ions essential for catalysis (choi2023structurebaseddevelopmentof pages 1-3, fulcher2020functionsandregulation pages 2-4). The kinase domain is flanked by N-terminal and C-terminal regions that are markedly more variable among CK1 isoforms. The C-terminal tail, in particular, serves as a regulatory module that can be autophosphorylated, acting as an autoinhibitory segment that modulates overall kinase activity and substrate binding (schittek2014biologicalfunctionsof pages 12-13, fulcher2020functionsandregulation pages 13-14). Structural studies, including crystallographic analyses and structure-based inhibitor design efforts, have revealed subtle conformational differences between CK1ε and its closest paralog CK1δ; such differences, for instance in the ATP-binding cleft configuration, underpin efforts to develop isoform-selective inhibitors (choi2023structurebaseddevelopmentof pages 3-4, cozza2016caseinkinasesas pages 21-21). Moreover, the overall three-dimensional fold of CK1ε is consistent with the canonical bilobal structure seen in other protein kinases, featuring an N-terminal lobe mainly consisting of β-sheets and a C-terminal lobe predominantly composed of α-helices. Key catalytic features such as the hydrophobic spine and the orientation of the C-helix are preserved, providing the structural basis for its enzymatic activity and regulation (fulcher2020functionsandregulation pages 4-5).
+
+6. Regulation  
+The regulatory mechanisms governing CK1ε activity are multi-layered. One of the primary regulatory mechanisms is autophosphorylation of its C-terminal region; this modification serves as an autoinhibitory mechanism by masking the catalytic site, thereby reducing enzyme activity until appropriate dephosphorylation occurs (fulcher2020functionsandregulation pages 7-10, guo2019autokinaseactivityof pages 1-2). In addition to autophosphorylation, CK1ε is regulated by interactions with specific regulatory proteins that determine its subcellular localization and substrate access. For example, binding partners from the FAM83 family and the RNA helicase DDX3 have been implicated in targeting CK1 isoforms to distinct cellular compartments where they exert their functions in pathways such as Wnt signaling and circadian rhythm regulation (schittek2014biologicalfunctionsof pages 13-13, fulcher2020functionsandregulation pages 15-16). Within the circadian clock, CK1ε works in balance with phosphatases—particularly protein phosphatase 1 (PP1)—to finely tune the phosphorylation status of PER proteins, thereby controlling their nuclear entry and stability. This dynamic phosphorylation-dephosphorylation cycle is central to determining the speed and rhythmicity of the circadian period (baier2022ck2andprotein pages 8-10, fulcher2020functionsandregulation pages 18-19).
+
+7. Function  
+CK1ε plays several critical roles in cellular physiology, acting as an integral regulator of multiple signaling cascades. Its best‐characterized function is its role in the circadian clock. By phosphorylating core clock proteins such as PER1 and PER2, CK1ε regulates their stability, nuclear transport, and subsequent degradation. This phosphorylation acts as a timing mechanism that sets the pace and maintains the rhythmicity of the circadian cycle (baier2022ck2andprotein pages 8-10, guo2019autokinaseactivityof pages 1-2). In the context of Wnt signaling, CK1ε phosphorylates Dishevelled proteins DVL1 and DVL2, thereby modulating downstream β-catenin stabilization and transcriptional activation events. This activity is crucial for proper regulation of cell proliferation and differentiation linked to the canonical Wnt pathway (francisco2022caseinkinase1 pages 1-2, fulcher2020functionsandregulation pages 7-10). In addition, by similarity to other CK1 family members, CK1ε is believed to phosphorylate NEDD9/HEF1, an adaptor protein involved in cell adhesion and motility, which may have implications in processes such as cell migration and invasion. CK1ε is ubiquitously expressed and, due to its dual roles in temporal regulation and signal transduction, it has been associated with various pathophysiological conditions, including disruptions in circadian rhythms, oncogenic transformation through dysregulated Wnt signaling, and inhibition of cytokine-induced granulocytic differentiation as observed in hematopoietic contexts (information provided, baier2022ck2andprotein pages 8-10, fulcher2020functionsandregulation pages 7-10, yang2008inhibitionofcasein pages 7-9).
+
+8. Other Comments  
+Experimental efforts to target CK1ε with small molecule inhibitors have yielded several ATP-competitive compounds that show differential selectivity for CK1ε relative to other CK1 isoforms. Notable examples include inhibitors such as PF-4800567 and PF-670462, which have been developed through structure-based design approaches that exploit subtle conformational differences between CK1ε and the highly homologous CK1δ (choi2023structurebaseddevelopmentof pages 3-4, janovska2020targetingcaseinkinase pages 1-3, walton2009selectiveinhibitionof pages 1-3). The therapeutic potential of CK1ε inhibition is underscored by its involvement in regulating both circadian rhythm and oncogenic signaling pathways; dysregulation of CK1ε activity has been implicated in neurodegenerative disorders—via its role in tau phosphorylation—as well as in various cancers where aberrant Wnt signaling plays a contributory role. As research continues to refine inhibitor specificity and potency, the development of selective CK1ε-targeted agents remains a promising avenue for modulating pathological processes associated with its multifaceted signaling roles (long2023targetingcaseinkinase pages 1-2, venerando2022editorialcaseinkinases pages 1-3).
+
+9. References  
+• baier2022ck2andprotein pages 21-21  
+• baier2022ck2andprotein pages 8-10  
+• choi2023structurebaseddevelopmentof pages 1-3  
+• choi2023structurebaseddevelopmentof pages 3-4  
+• francisco2022caseinkinase1 pages 1-2  
+• fulcher2020functionsandregulation pages 1-2  
+• fulcher2020functionsandregulation pages 2-4  
+• fulcher2020functionsandregulation pages 4-5  
+• fulcher2020functionsandregulation pages 7-10  
+• fulcher2020functionsandregulation pages 13-14  
+• fulcher2020functionsandregulation pages 15-16  
+• fulcher2020functionsandregulation pages 18-19  
+• guo2019autokinaseactivityof pages 1-2  
+• knippschild2005theroleof pages 1-2  
+• schittek2014biologicalfunctionsof pages 1-2  
+• schittek2014biologicalfunctionsof pages 11-12  
+• schittek2014biologicalfunctionsof pages 12-13  
+• schittek2014biologicalfunctionsof pages 13-13  
+• walton2009selectiveinhibitionof pages 1-3  
+• xu2019structureregulationand pages 22-24  
+• xu2019structureregulationand pages 39-40  
+• xu2019structureregulationand pages 41-43  
+• xu2019structureregulationand pages 45-47  
+• xu2019structureregulationand pages 52-53  
+• yang2008inhibitionofcasein pages 7-9  
+• yin2006dysbindinstructuralhomologue pages 10-10  
+• agajanian2022proteinproximitynetworks pages 1-2  
+• cozza2016caseinkinasesas pages 20-21  
+• cozza2016caseinkinasesas pages 21-21  
+• cozza2016caseinkinasesas pages 21-22  
+• cullati2022kinasedomainautophosphorylation pages 23-24  
+• cullati2022kinasedomainautophosphorylation pages 27-29  
+• fulcher2020functionsandregulation pages 19-19  
+• venerando2022editorialcaseinkinases pages 1-3  
+• xu2019structureregulationand pages 37-39  
+• xu2019structureregulationand pages 4-6  
+• janovska2020targetingcaseinkinase pages 1-3  
+• long2023targetingcaseinkinase pages 1-2  
+• randoll2016diecaseinkinase1delta(ck1delta) pages 67-70  
+• vielhaber2001caseinkinasei pages 1-2  
+
+
+
+References
+
+1. (baier2022ck2andprotein pages 21-21): Andrea Baier and Ryszard Szyszka. Ck2 and protein kinases of the ck1 superfamily as targets for neurodegenerative disorders. Frontiers in Molecular Biosciences, Oct 2022. URL: https://doi.org/10.3389/fmolb.2022.916063, doi:10.3389/fmolb.2022.916063. This article has 14 citations and is from a peer-reviewed journal.
+
+2. (baier2022ck2andprotein pages 8-10): Andrea Baier and Ryszard Szyszka. Ck2 and protein kinases of the ck1 superfamily as targets for neurodegenerative disorders. Frontiers in Molecular Biosciences, Oct 2022. URL: https://doi.org/10.3389/fmolb.2022.916063, doi:10.3389/fmolb.2022.916063. This article has 14 citations and is from a peer-reviewed journal.
+
+3. (choi2023structurebaseddevelopmentof pages 1-3): Jun Yong Choi, Yoshihiko Noguchi, James M. Alburger, Simon Bayle, Eugene Chung, Wayne Grant, Apirat Chaikuad, Stefan Knapp, Derek R. Duckett, and William R. Roush. Structure-based development of isoform-selective inhibitors of casein kinase 1ε vs casein kinase 1δ. Journal of Medicinal Chemistry, 66:7162-7178, May 2023. URL: https://doi.org/10.1021/acs.jmedchem.2c01180, doi:10.1021/acs.jmedchem.2c01180. This article has 7 citations and is from a highest quality peer-reviewed journal.
+
+4. (francisco2022caseinkinase1 pages 1-2): Joel C. Francisco and David M. Virshup. Casein kinase 1 and human disease: insights from the circadian phosphoswitch. Frontiers in Molecular Biosciences, Jun 2022. URL: https://doi.org/10.3389/fmolb.2022.911764, doi:10.3389/fmolb.2022.911764. This article has 16 citations and is from a peer-reviewed journal.
+
+5. (fulcher2020functionsandregulation pages 1-2): Luke J. Fulcher and Gopal P. Sapkota. Functions and regulation of the serine/threonine protein kinase ck1 family: moving beyond promiscuity. Biochemical Journal, 477:4603-4621, Dec 2020. URL: https://doi.org/10.1042/bcj20200506, doi:10.1042/bcj20200506. This article has 58 citations and is from a domain leading peer-reviewed journal.
+
+6. (fulcher2020functionsandregulation pages 18-19): Luke J. Fulcher and Gopal P. Sapkota. Functions and regulation of the serine/threonine protein kinase ck1 family: moving beyond promiscuity. Biochemical Journal, 477:4603-4621, Dec 2020. URL: https://doi.org/10.1042/bcj20200506, doi:10.1042/bcj20200506. This article has 58 citations and is from a domain leading peer-reviewed journal.
+
+7. (fulcher2020functionsandregulation pages 2-4): Luke J. Fulcher and Gopal P. Sapkota. Functions and regulation of the serine/threonine protein kinase ck1 family: moving beyond promiscuity. Biochemical Journal, 477:4603-4621, Dec 2020. URL: https://doi.org/10.1042/bcj20200506, doi:10.1042/bcj20200506. This article has 58 citations and is from a domain leading peer-reviewed journal.
+
+8. (fulcher2020functionsandregulation pages 7-10): Luke J. Fulcher and Gopal P. Sapkota. Functions and regulation of the serine/threonine protein kinase ck1 family: moving beyond promiscuity. Biochemical Journal, 477:4603-4621, Dec 2020. URL: https://doi.org/10.1042/bcj20200506, doi:10.1042/bcj20200506. This article has 58 citations and is from a domain leading peer-reviewed journal.
+
+9. (guo2019autokinaseactivityof pages 1-2): Gaili Guo, Kankan Wang, Shan-Shan Hu, Tian Tian, Peng Liu, Tetsuya Mori, Peng Chen, Carl Hirschie Johnson, and Ximing Qin. Autokinase activity of casein kinase 1 δ/ε governs the period of mammalian circadian rhythms. Journal of Biological Rhythms, 34:482-496, Aug 2019. URL: https://doi.org/10.1177/0748730419865406, doi:10.1177/0748730419865406. This article has 26 citations and is from a peer-reviewed journal.
+
+10. (janovska2020targetingcaseinkinase pages 1-3): Pavlína Janovská, Emmanuel Normant, Hari Miskin, and Vítězslav Bryja. Targeting casein kinase 1 (ck1) in hematological cancers. International Journal of Molecular Sciences, 21:9026, Nov 2020. URL: https://doi.org/10.3390/ijms21239026, doi:10.3390/ijms21239026. This article has 65 citations and is from a peer-reviewed journal.
+
+11. (schittek2014biologicalfunctionsof pages 1-2): Birgit Schittek and Tobias Sinnberg. Biological functions of casein kinase 1 isoforms and putative roles in tumorigenesis. Molecular Cancer, Oct 2014. URL: https://doi.org/10.1186/1476-4598-13-231, doi:10.1186/1476-4598-13-231. This article has 291 citations and is from a highest quality peer-reviewed journal.
+
+12. (schittek2014biologicalfunctionsof pages 11-12): Birgit Schittek and Tobias Sinnberg. Biological functions of casein kinase 1 isoforms and putative roles in tumorigenesis. Molecular Cancer, Oct 2014. URL: https://doi.org/10.1186/1476-4598-13-231, doi:10.1186/1476-4598-13-231. This article has 291 citations and is from a highest quality peer-reviewed journal.
+
+13. (schittek2014biologicalfunctionsof pages 12-13): Birgit Schittek and Tobias Sinnberg. Biological functions of casein kinase 1 isoforms and putative roles in tumorigenesis. Molecular Cancer, Oct 2014. URL: https://doi.org/10.1186/1476-4598-13-231, doi:10.1186/1476-4598-13-231. This article has 291 citations and is from a highest quality peer-reviewed journal.
+
+14. (schittek2014biologicalfunctionsof pages 13-13): Birgit Schittek and Tobias Sinnberg. Biological functions of casein kinase 1 isoforms and putative roles in tumorigenesis. Molecular Cancer, Oct 2014. URL: https://doi.org/10.1186/1476-4598-13-231, doi:10.1186/1476-4598-13-231. This article has 291 citations and is from a highest quality peer-reviewed journal.
+
+15. (walton2009selectiveinhibitionof pages 1-3): Kevin M. Walton, Katherine Fisher, David Rubitski, Michael Marconi, Qing-Jun Meng, Martin Sládek, Jessica Adams, Michael Bass, Rama Chandrasekaran, Todd Butler, Matt Griffor, Francis Rajamohan, Megan Serpa, Yuhpyng Chen, Michelle Claffey, Michael Hastings, Andrew Loudon, Elizabeth Maywood, Jeffrey Ohren, Angela Doran, and Travis T. Wager. Selective inhibition of casein kinase 1ϵ minimally alters circadian clock period. The Journal of Pharmacology and Experimental Therapeutics, 330:430-439, Aug 2009. URL: https://doi.org/10.1124/jpet.109.151415, doi:10.1124/jpet.109.151415. This article has 222 citations.
+
+16. (xu2019structureregulationand pages 22-24): Pengfei Xu, Chiara Ianes, Fabian Gärtner, Congxing Liu, Timo Burster, Vasiliy Bakulev, Najma Rachidi, Uwe Knippschild, and Joachim Bischof. Structure, regulation, and (patho-)physiological functions of the stress-induced protein kinase ck1 delta (csnk1d). Gene, 715:144005, Oct 2019. URL: https://doi.org/10.1016/j.gene.2019.144005, doi:10.1016/j.gene.2019.144005. This article has 81 citations and is from a peer-reviewed journal.
+
+17. (xu2019structureregulationand pages 39-40): Pengfei Xu, Chiara Ianes, Fabian Gärtner, Congxing Liu, Timo Burster, Vasiliy Bakulev, Najma Rachidi, Uwe Knippschild, and Joachim Bischof. Structure, regulation, and (patho-)physiological functions of the stress-induced protein kinase ck1 delta (csnk1d). Gene, 715:144005, Oct 2019. URL: https://doi.org/10.1016/j.gene.2019.144005, doi:10.1016/j.gene.2019.144005. This article has 81 citations and is from a peer-reviewed journal.
+
+18. (xu2019structureregulationand pages 41-43): Pengfei Xu, Chiara Ianes, Fabian Gärtner, Congxing Liu, Timo Burster, Vasiliy Bakulev, Najma Rachidi, Uwe Knippschild, and Joachim Bischof. Structure, regulation, and (patho-)physiological functions of the stress-induced protein kinase ck1 delta (csnk1d). Gene, 715:144005, Oct 2019. URL: https://doi.org/10.1016/j.gene.2019.144005, doi:10.1016/j.gene.2019.144005. This article has 81 citations and is from a peer-reviewed journal.
+
+19. (xu2019structureregulationand pages 45-47): Pengfei Xu, Chiara Ianes, Fabian Gärtner, Congxing Liu, Timo Burster, Vasiliy Bakulev, Najma Rachidi, Uwe Knippschild, and Joachim Bischof. Structure, regulation, and (patho-)physiological functions of the stress-induced protein kinase ck1 delta (csnk1d). Gene, 715:144005, Oct 2019. URL: https://doi.org/10.1016/j.gene.2019.144005, doi:10.1016/j.gene.2019.144005. This article has 81 citations and is from a peer-reviewed journal.
+
+20. (xu2019structureregulationand pages 52-53): Pengfei Xu, Chiara Ianes, Fabian Gärtner, Congxing Liu, Timo Burster, Vasiliy Bakulev, Najma Rachidi, Uwe Knippschild, and Joachim Bischof. Structure, regulation, and (patho-)physiological functions of the stress-induced protein kinase ck1 delta (csnk1d). Gene, 715:144005, Oct 2019. URL: https://doi.org/10.1016/j.gene.2019.144005, doi:10.1016/j.gene.2019.144005. This article has 81 citations and is from a peer-reviewed journal.
+
+21. (yang2008inhibitionofcasein pages 7-9): Wan Seok Yang and Brent R Stockwell. Inhibition of casein kinase 1-epsilon induces cancer-cell-selective, period2-dependent growth arrest. Genome Biology, 9:R92-R92, Jun 2008. URL: https://doi.org/10.1186/gb-2008-9-6-r92, doi:10.1186/gb-2008-9-6-r92. This article has 131 citations and is from a highest quality peer-reviewed journal.
+
+22. (yin2006dysbindinstructuralhomologue pages 10-10): Haishan Yin, Kelly A. Laguna, Guibin Li, and Jeff Kuret. Dysbindin structural homologue ck1bp is an isoform-selective binding partner of human casein kinase-1. Biochemistry, 45:5297-5308, Mar 2006. URL: https://doi.org/10.1021/bi052354e, doi:10.1021/bi052354e. This article has 34 citations and is from a peer-reviewed journal.
+
+23. (agajanian2022proteinproximitynetworks pages 1-2): Megan J. Agajanian, Frances M. Potjewyd, Brittany M. Bowman, Smaranda Solomon, Kyle M. LaPak, Dhaval P. Bhatt, Jeffery L. Smith, Dennis Goldfarb, Alison D. Axtman, and Michael B. Major. Protein proximity networks and functional evaluation of the casein kinase 1 gamma family reveal unique roles for ck1γ3 in wnt signaling. Journal of Biological Chemistry, 298:101986, Jun 2022. URL: https://doi.org/10.1016/j.jbc.2022.101986, doi:10.1016/j.jbc.2022.101986. This article has 8 citations and is from a domain leading peer-reviewed journal.
+
+24. (choi2023structurebaseddevelopmentof pages 3-4): Jun Yong Choi, Yoshihiko Noguchi, James M. Alburger, Simon Bayle, Eugene Chung, Wayne Grant, Apirat Chaikuad, Stefan Knapp, Derek R. Duckett, and William R. Roush. Structure-based development of isoform-selective inhibitors of casein kinase 1ε vs casein kinase 1δ. Journal of Medicinal Chemistry, 66:7162-7178, May 2023. URL: https://doi.org/10.1021/acs.jmedchem.2c01180, doi:10.1021/acs.jmedchem.2c01180. This article has 7 citations and is from a highest quality peer-reviewed journal.
+
+25. (cozza2016caseinkinasesas pages 20-21): Giorgio Cozza and Lorenzo A Pinna. Casein kinases as potential therapeutic targets. Expert Opinion on Therapeutic Targets, 20:319-340, Mar 2016. URL: https://doi.org/10.1517/14728222.2016.1091883, doi:10.1517/14728222.2016.1091883. This article has 103 citations and is from a peer-reviewed journal.
+
+26. (cozza2016caseinkinasesas pages 21-21): Giorgio Cozza and Lorenzo A Pinna. Casein kinases as potential therapeutic targets. Expert Opinion on Therapeutic Targets, 20:319-340, Mar 2016. URL: https://doi.org/10.1517/14728222.2016.1091883, doi:10.1517/14728222.2016.1091883. This article has 103 citations and is from a peer-reviewed journal.
+
+27. (cozza2016caseinkinasesas pages 21-22): Giorgio Cozza and Lorenzo A Pinna. Casein kinases as potential therapeutic targets. Expert Opinion on Therapeutic Targets, 20:319-340, Mar 2016. URL: https://doi.org/10.1517/14728222.2016.1091883, doi:10.1517/14728222.2016.1091883. This article has 103 citations and is from a peer-reviewed journal.
+
+28. (cullati2022kinasedomainautophosphorylation pages 23-24): Sierra Cullati, Apirat Chaikuad, Jun‐Song Chen, Jakob Gebel, Laura Tesmer, Rezart Zhubi, Jose Navarrete‐Perea, Rodrigo X. Guillen, Steven P. Gygi, Gerhard Hummer, Volker Dotsch, Stefan Knapp, and Kathleen L. Gould. Kinase domain autophosphorylation rewires the activity and substrate specificity of ck1 enzymes. The FASEB Journal, May 2022. URL: https://doi.org/10.1096/fasebj.2022.36.s1.0r463, doi:10.1096/fasebj.2022.36.s1.0r463. This article has 31 citations.
+
+29. (cullati2022kinasedomainautophosphorylation pages 27-29): Sierra Cullati, Apirat Chaikuad, Jun‐Song Chen, Jakob Gebel, Laura Tesmer, Rezart Zhubi, Jose Navarrete‐Perea, Rodrigo X. Guillen, Steven P. Gygi, Gerhard Hummer, Volker Dotsch, Stefan Knapp, and Kathleen L. Gould. Kinase domain autophosphorylation rewires the activity and substrate specificity of ck1 enzymes. The FASEB Journal, May 2022. URL: https://doi.org/10.1096/fasebj.2022.36.s1.0r463, doi:10.1096/fasebj.2022.36.s1.0r463. This article has 31 citations.
+
+30. (fulcher2020functionsandregulation pages 13-14): Luke J. Fulcher and Gopal P. Sapkota. Functions and regulation of the serine/threonine protein kinase ck1 family: moving beyond promiscuity. Biochemical Journal, 477:4603-4621, Dec 2020. URL: https://doi.org/10.1042/bcj20200506, doi:10.1042/bcj20200506. This article has 58 citations and is from a domain leading peer-reviewed journal.
+
+31. (fulcher2020functionsandregulation pages 15-16): Luke J. Fulcher and Gopal P. Sapkota. Functions and regulation of the serine/threonine protein kinase ck1 family: moving beyond promiscuity. Biochemical Journal, 477:4603-4621, Dec 2020. URL: https://doi.org/10.1042/bcj20200506, doi:10.1042/bcj20200506. This article has 58 citations and is from a domain leading peer-reviewed journal.
+
+32. (fulcher2020functionsandregulation pages 4-5): Luke J. Fulcher and Gopal P. Sapkota. Functions and regulation of the serine/threonine protein kinase ck1 family: moving beyond promiscuity. Biochemical Journal, 477:4603-4621, Dec 2020. URL: https://doi.org/10.1042/bcj20200506, doi:10.1042/bcj20200506. This article has 58 citations and is from a domain leading peer-reviewed journal.
+
+33. (knippschild2005theroleof pages 1-2): Uwe Knippschild, Sonja Wolff, Georgios Giamas, Claas Brockschmidt, Mathias Wittau, Peter Uwe Würl, Thorsten Eismann, and Martin Stöter. The role of the casein kinase 1 (ck1) family in different signaling pathways linked to cancer development. Oncology Research and Treatment, 28:508-514, Sep 2005. URL: https://doi.org/10.1159/000087137, doi:10.1159/000087137. This article has 167 citations and is from a peer-reviewed journal.
+
+34. (long2023targetingcaseinkinase pages 1-2): Ngo Hoang Long and Sook-Jeong Lee. Targeting casein kinase 1 for cancer therapy: current strategies and future perspectives. Frontiers in Oncology, Nov 2023. URL: https://doi.org/10.3389/fonc.2023.1244775, doi:10.3389/fonc.2023.1244775. This article has 5 citations and is from a peer-reviewed journal.
+
+35. (randoll2016diecaseinkinase1delta(ck1delta) pages 67-70): Sven-Jannis Randoll. Die casein-kinase-1delta (ck1delta): identifizierung von regulationsmechanismen. Unknown journal, Jan 2016. URL: https://doi.org/10.18725/oparu-3039, doi:10.18725/oparu-3039. This article has 0 citations.
+
+36. (vielhaber2001caseinkinasei pages 1-2): Erica Vielhaber and David M. Virshup. Casein kinase i: from obscurity to center stage. IUBMB Life, 51:73-78, Feb 2001. URL: https://doi.org/10.1080/15216540117461, doi:10.1080/15216540117461. This article has 105 citations and is from a peer-reviewed journal.
+
+37. (fulcher2020functionsandregulation pages 19-19): Luke J. Fulcher and Gopal P. Sapkota. Functions and regulation of the serine/threonine protein kinase ck1 family: moving beyond promiscuity. Biochemical Journal, 477:4603-4621, Dec 2020. URL: https://doi.org/10.1042/bcj20200506, doi:10.1042/bcj20200506. This article has 58 citations and is from a domain leading peer-reviewed journal.
+
+38. (venerando2022editorialcaseinkinases pages 1-3): Andrea Venerando, Victor H. Bustos, Lorenzo A. Pinna, and Giorgio Cozza. Editorial: casein kinases in human diseases. Frontiers in Molecular Biosciences, Dec 2022. URL: https://doi.org/10.3389/fmolb.2022.1094922, doi:10.3389/fmolb.2022.1094922. This article has 2 citations and is from a peer-reviewed journal.
+
+39. (xu2019structureregulationand pages 37-39): Pengfei Xu, Chiara Ianes, Fabian Gärtner, Congxing Liu, Timo Burster, Vasiliy Bakulev, Najma Rachidi, Uwe Knippschild, and Joachim Bischof. Structure, regulation, and (patho-)physiological functions of the stress-induced protein kinase ck1 delta (csnk1d). Gene, 715:144005, Oct 2019. URL: https://doi.org/10.1016/j.gene.2019.144005, doi:10.1016/j.gene.2019.144005. This article has 81 citations and is from a peer-reviewed journal.
+
+40. (xu2019structureregulationand pages 4-6): Pengfei Xu, Chiara Ianes, Fabian Gärtner, Congxing Liu, Timo Burster, Vasiliy Bakulev, Najma Rachidi, Uwe Knippschild, and Joachim Bischof. Structure, regulation, and (patho-)physiological functions of the stress-induced protein kinase ck1 delta (csnk1d). Gene, 715:144005, Oct 2019. URL: https://doi.org/10.1016/j.gene.2019.144005, doi:10.1016/j.gene.2019.144005. This article has 81 citations and is from a peer-reviewed journal.

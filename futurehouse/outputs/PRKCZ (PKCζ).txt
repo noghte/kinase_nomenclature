@@ -1,0 +1,96 @@
+1. Phylogeny  
+Protein kinase C zeta type (PKCζ), encoded by the PRKCZ gene and identified as Q05513, is a member of the atypical subgroup of the Protein Kinase C (PKC) family that belongs to the AGC kinase superfamily. Unlike conventional and novel PKCs, which are characterized by their dependence on calcium and diacylglycerol (DAG) for activation, PKCζ is distinguished by its evolutionary divergence; it lacks functional C2 domains and contains only a single, atypical C1 domain that does not bind DAG, thereby establishing its independent regulatory mechanism. Phylogenetic analyses trace its origin back to a common eukaryotic ancestor, with orthologs conserved among mammalian species and other eukaryotes, and it is closely related to other AGC kinases such as Akt and PDK1, forming part of a core signaling module that emerged early in evolutionary history (newton2001proteinkinasec pages 1-2, newton2018proteinkinasec pages 1-3).
+
+2. Reaction Catalyzed  
+PKCζ catalyzes the ATP-dependent phosphorylation of serine and threonine residues present in protein substrates. The general chemical reaction can be formulated as:  
+  ATP + [protein]-(L-serine or L-threonine) → ADP + [protein]-(L-serine/threonine)-phosphate + H⁺  
+This fundamental reaction underpins its ability to modulate various signaling pathways (newton1995proteinkinasec pages 1-2).
+
+3. Cofactor Requirements  
+The catalytic activity of PKCζ is dependent on the presence of magnesium ions (Mg²⁺), which facilitate the proper coordination of ATP within the active site. In contrast to classical PKCs, PKCζ does not require calcium ions (Ca²⁺) or diacylglycerol for its activation, reflecting its atypical nature and unique regulatory mechanism (newton1995proteinkinasec pages 1-2, newton2018proteinkinasec pages 1-3).
+
+4. Substrate Specificity  
+PKCζ preferentially phosphorylates serine/threonine residues within its target proteins and contributes to the modulation of several signaling cascades. Although a detailed consensus motif for PKCζ is not as extensively characterized as those for higher‐resolution kinases, available evidence indicates that substrate recognition often involves the presence of proximal basic residues adjacent to the phosphorylated serine or threonine. Functionally, PKCζ phosphorylates substrates involved in the mitogen-activated protein kinase (MAPK) cascade—such as components of the MAP2K1/MEK1-MAPK1/ERK2 pathway—and has been reported to modify proteins such as β-Catenin and Yap, which are integral to cell polarity and transcriptional control (yeo2017phosphorylatedproteinkinase pages 7-7, aquino2023proteinkinasec pages 22-24).
+
+5. Structure  
+The overall structure of PKCζ is organized into a modular architecture consisting of an N-terminal regulatory region and a C-terminal catalytic kinase domain. The regulatory region contains a PB1 (Phox and Bem1) domain that mediates specific protein–protein interactions with scaffold proteins such as p62/ZIP and PAR6; these interactions are critical for the spatial regulation of kinase activity. In addition, PKCζ harbors an atypical C1 domain that, unlike its classical counterparts, does not bind DAG, and it includes an autoinhibitory pseudosubstrate region that occupies the substrate-binding cleft under basal conditions. The catalytic domain exhibits the common bilobal kinase fold with a small N-terminal lobe primarily responsible for ATP binding and a larger C-terminal lobe that binds substrates, and it contains conserved motifs such as the nucleotide-binding P-loop and an activation loop that is constitutively phosphorylated. A notable structural feature of PKCζ is its hydrophobic motif, which contains a phosphomimetic glutamic acid residue replacing the serine/threonine phosphorylation site found in other PKC isoforms; this unique feature circumvents the need for further phosphorylation at that motif and is central to its regulation (newton2018proteinkinasec pages 3-4, newton2018proteinkinasec pages 4-6, parker2014atypicalproteinkinase pages 2-4).
+
+6. Regulation  
+The regulation of PKCζ is achieved predominantly through phosphorylation and protein–protein interactions. Key phosphorylation events occur on the activation loop (for example, at Thr410) through the activity of phosphoinositide-dependent kinase 1 (PDK1), and on the turn motif (for example, at Thr560) through mechanisms involving the mTOR complex 2 (mTORC2); these phosphorylation steps are constitutive, ensuring that PKCζ remains catalytically competent (newton2018proteinkinasec pages 27-28, newton1995proteinkinasec pages 1-2). The autoinhibitory pseudosubstrate sequence within the regulatory domain maintains the kinase in an inactive conformation until binding of scaffold proteins such as p62 and PAR6 via the PB1 domain displaces the pseudosubstrate, thereby relieving inhibition. Additionally, regulation is further fine-tuned by interactions with lipid cofactors such as phosphatidylserine and phosphatidic acid, and under certain cellular conditions, redox modifications may also modulate its activity; however, unlike many kinases, PKCζ is not activated by calcium or DAG (newton2018proteinkinasec pages 27-28, silnitsky2023anupdateon pages 18-19).
+
+7. Function  
+PKCζ fulfills a multifaceted role in intracellular signaling by acting as a critical mediator downstream of phosphoinositide 3-kinase (PI3K). It participates in the activation of several MAP kinase cascades; for example, following mitogenic stimuli or lipopolysaccharide (LPS) treatment in macrophages, PKCζ functions downstream of PI3K to activate the MAP2K1/MEK1-MAPK1/ERK2 signaling pathway independently of RAF1 activation. In addition, PKCζ is required for the insulin-dependent activation of AKT3 and contributes to the process of glucose transporter (GLUT4) translocation in adipocytes, thereby facilitating glucose uptake. In EGF-stimulated cells, PKCζ has been shown to bind and activate the MAP2K5/MEK5-MAPK7/ERK5 cascade independently of its catalytic activity, and it can also contribute to the activation of JUN signaling. Beyond its role in mitogenic and metabolic pathways, PKCζ is involved in the regulation of cell proliferation, cell polarity, and the inflammatory response, and it plays a part in the maintenance of long-term potentiation (LTP) in neuronal systems. These diverse functions are mediated by its ability to phosphorylate key substrates, such as β-Catenin and Yap, which in turn impact gene expression and cellular differentiation processes (aquino2023proteinkinasec pages 22-24, yeo2017phosphorylatedproteinkinase pages 7-7, newton2018proteinkinasec pages 27-28).
+
+8. Other Comments  
+Small-molecule inhibitors targeting PKCζ have been under investigation due to its emerging role in diseases such as cancer, metabolic disorders, and cardiovascular conditions. For example, certain indazole–benzimidazole derivatives have been reported to selectively inhibit atypical PKCs by interfering with the catalytic domain or disrupting PB1 domain-mediated protein interactions. Altered expression and activity of PKCζ have been associated with oncogenic processes, including aberrant activation of NF-κB and modifications in cell polarity that contribute to tumor progression and metastasis. In addition, changes in its signaling dynamics have been linked to insulin resistance and other metabolic dysregulations. Ongoing research continues to explore the therapeutic potential of PKCζ inhibitors with an emphasis on developing agents that specifically target its unique regulatory features without affecting other PKC isoforms (kawano2021activatorsandinhibitors pages 24-25, kawano2022proteinkinasec pages 28-30, silnitsky2023anupdateon pages 19-21).
+
+9. References  
+aquino2023proteinkinasec pages 1-2;  
+kawano2021activatorsandinhibitors pages 24-25;  
+newton2001proteinkinasec pages 1-2;  
+newton2018proteinkinasec pages 1-3;  
+newton2018proteinkinasec pages 3-4;  
+newton2018proteinkinasec pages 4-6;  
+newton1995proteinkinasec pages 1-2;  
+parker2014atypicalproteinkinase pages 2-4;  
+giorgi2010redoxcontrolof pages 1-2;  
+kawano2022proteinkinasec pages 2-4;  
+kawano2022proteinkinasec pages 28-30;  
+mukherjee2016spatiotemporalregulationof pages 5-6;  
+yeo2017phosphorylatedproteinkinase pages 7-7;  
+silnitsky2023anupdateon pages 5-7;  
+silnitsky2023anupdateon pages 10-11;  
+silnitsky2023anupdateon pages 18-19;  
+silnitsky2023anupdateon pages 19-21;  
+silnitsky2023anupdateon pages 3-5;  
+silnitsky2023anupdateon pages 7-9;  
+xiao2013atypicalproteinkinase pages 8-9;  
+newton1995proteinkinasec pages 3-3.
+
+References
+
+1. (aquino2023proteinkinasec pages 1-2): Angelo Aquino, Nicoletta Bianchi, Anna Terrazzan, and Ornella Franzese. Protein kinase c at the crossroad of mutations, cancer, targeted therapy and immune response. Biology, 12:1047, Jul 2023. URL: https://doi.org/10.3390/biology12081047, doi:10.3390/biology12081047. This article has 11 citations and is from a peer-reviewed journal.
+
+2. (kawano2021activatorsandinhibitors pages 24-25): Takahito Kawano, Junichi Inokuchi, Masatoshi Eto, Masaharu Murata, and Jeong-Hun Kang. Activators and inhibitors of protein kinase c (pkc): their applications in clinical trials. Pharmaceutics, 13:1748, Oct 2021. URL: https://doi.org/10.3390/pharmaceutics13111748, doi:10.3390/pharmaceutics13111748. This article has 99 citations and is from a peer-reviewed journal.
+
+3. (newton2001proteinkinasec pages 1-2): Alexandra C. Newton. Protein kinase c: structural and spatial regulation by phosphorylation, cofactors, and macromolecular interactions. Chemical Reviews, 101:2353-2364, Jun 2001. URL: https://doi.org/10.1021/cr0002801, doi:10.1021/cr0002801. This article has 1267 citations and is from a highest quality peer-reviewed journal.
+
+4. (newton2018proteinkinasec pages 1-3): Alexandra C. Newton. Protein kinase c: perfectly balanced. Critical Reviews in Biochemistry and Molecular Biology, 53:208-230, Mar 2018. URL: https://doi.org/10.1080/10409238.2018.1442408, doi:10.1080/10409238.2018.1442408. This article has 318 citations and is from a peer-reviewed journal.
+
+5. (newton2018proteinkinasec pages 3-4): Alexandra C. Newton. Protein kinase c: perfectly balanced. Critical Reviews in Biochemistry and Molecular Biology, 53:208-230, Mar 2018. URL: https://doi.org/10.1080/10409238.2018.1442408, doi:10.1080/10409238.2018.1442408. This article has 318 citations and is from a peer-reviewed journal.
+
+6. (newton2018proteinkinasec pages 4-6): Alexandra C. Newton. Protein kinase c: perfectly balanced. Critical Reviews in Biochemistry and Molecular Biology, 53:208-230, Mar 2018. URL: https://doi.org/10.1080/10409238.2018.1442408, doi:10.1080/10409238.2018.1442408. This article has 318 citations and is from a peer-reviewed journal.
+
+7. (parker2014atypicalproteinkinase pages 2-4): Peter J. Parker, Verline Justilien, Philippe Riou, Mark Linch, and Alan P. Fields. Atypical protein kinase cι as a human oncogene and therapeutic target. Biochemical Pharmacology, 88:1-11, Mar 2014. URL: https://doi.org/10.1016/j.bcp.2013.10.023, doi:10.1016/j.bcp.2013.10.023. This article has 115 citations and is from a domain leading peer-reviewed journal.
+
+8. (silnitsky2023anupdateon pages 5-7): Shmuel Silnitsky, Samuel J. S. Rubin, Mulate Zerihun, and Nir Qvit. An update on protein kinases as therapeutic targets—part i: protein kinase c activation and its role in cancer and cardiovascular diseases. International Journal of Molecular Sciences, 24:17600, Dec 2023. URL: https://doi.org/10.3390/ijms242417600, doi:10.3390/ijms242417600. This article has 24 citations and is from a peer-reviewed journal.
+
+9. (aquino2023proteinkinasec pages 22-24): Angelo Aquino, Nicoletta Bianchi, Anna Terrazzan, and Ornella Franzese. Protein kinase c at the crossroad of mutations, cancer, targeted therapy and immune response. Biology, 12:1047, Jul 2023. URL: https://doi.org/10.3390/biology12081047, doi:10.3390/biology12081047. This article has 11 citations and is from a peer-reviewed journal.
+
+10. (giorgi2010redoxcontrolof pages 1-2): Carlotta Giorgi, Chiara Agnoletto, Claudio Baldini, Angela Bononi, Massimo Bonora, Saverio Marchi, Sonia Missiroli, Simone Patergnani, Federica Poletti, Alessandro Rimessi, Barbara Zavan, and Paolo Pinton. Redox control of protein kinase c: cell- and disease-specific aspects. Antioxidants &amp; Redox Signaling, 13:1051-1085, Oct 2010. URL: https://doi.org/10.1089/ars.2009.2825, doi:10.1089/ars.2009.2825. This article has 177 citations.
+
+11. (kawano2022proteinkinasec pages 2-4): Takahito Kawano, Junichi Inokuchi, Masatoshi Eto, Masaharu Murata, and Jeong-Hun Kang. Protein kinase c (pkc) isozymes as diagnostic and prognostic biomarkers and therapeutic targets for cancer. Cancers, 14:5425, Nov 2022. URL: https://doi.org/10.3390/cancers14215425, doi:10.3390/cancers14215425. This article has 27 citations and is from a peer-reviewed journal.
+
+12. (kawano2022proteinkinasec pages 28-30): Takahito Kawano, Junichi Inokuchi, Masatoshi Eto, Masaharu Murata, and Jeong-Hun Kang. Protein kinase c (pkc) isozymes as diagnostic and prognostic biomarkers and therapeutic targets for cancer. Cancers, 14:5425, Nov 2022. URL: https://doi.org/10.3390/cancers14215425, doi:10.3390/cancers14215425. This article has 27 citations and is from a peer-reviewed journal.
+
+13. (mukherjee2016spatiotemporalregulationof pages 5-6): Arkajyoti Mukherjee, Sayoni Roy, Bhaskar Saha, and Debasri Mukherjee. Spatio-temporal regulation of pkc isoforms imparts signaling specificity. Frontiers in Immunology, Feb 2016. URL: https://doi.org/10.3389/fimmu.2016.00045, doi:10.3389/fimmu.2016.00045. This article has 31 citations and is from a peer-reviewed journal.
+
+14. (newton1995proteinkinasec pages 1-2): Alexandra C. Newton. Protein kinase c: structure, function, and regulation. Journal of Biological Chemistry, 270:28495-28498, Dec 1995. URL: https://doi.org/10.1074/jbc.270.48.28495, doi:10.1074/jbc.270.48.28495. This article has 2378 citations and is from a domain leading peer-reviewed journal.
+
+15. (newton1995proteinkinasec pages 3-3): Alexandra C. Newton. Protein kinase c: structure, function, and regulation. Journal of Biological Chemistry, 270:28495-28498, Dec 1995. URL: https://doi.org/10.1074/jbc.270.48.28495, doi:10.1074/jbc.270.48.28495. This article has 2378 citations and is from a domain leading peer-reviewed journal.
+
+16. (newton2018proteinkinasec pages 27-28): Alexandra C. Newton. Protein kinase c: perfectly balanced. Critical Reviews in Biochemistry and Molecular Biology, 53:208-230, Mar 2018. URL: https://doi.org/10.1080/10409238.2018.1442408, doi:10.1080/10409238.2018.1442408. This article has 318 citations and is from a peer-reviewed journal.
+
+17. (silnitsky2023anupdateon pages 10-11): Shmuel Silnitsky, Samuel J. S. Rubin, Mulate Zerihun, and Nir Qvit. An update on protein kinases as therapeutic targets—part i: protein kinase c activation and its role in cancer and cardiovascular diseases. International Journal of Molecular Sciences, 24:17600, Dec 2023. URL: https://doi.org/10.3390/ijms242417600, doi:10.3390/ijms242417600. This article has 24 citations and is from a peer-reviewed journal.
+
+18. (silnitsky2023anupdateon pages 18-19): Shmuel Silnitsky, Samuel J. S. Rubin, Mulate Zerihun, and Nir Qvit. An update on protein kinases as therapeutic targets—part i: protein kinase c activation and its role in cancer and cardiovascular diseases. International Journal of Molecular Sciences, 24:17600, Dec 2023. URL: https://doi.org/10.3390/ijms242417600, doi:10.3390/ijms242417600. This article has 24 citations and is from a peer-reviewed journal.
+
+19. (silnitsky2023anupdateon pages 19-21): Shmuel Silnitsky, Samuel J. S. Rubin, Mulate Zerihun, and Nir Qvit. An update on protein kinases as therapeutic targets—part i: protein kinase c activation and its role in cancer and cardiovascular diseases. International Journal of Molecular Sciences, 24:17600, Dec 2023. URL: https://doi.org/10.3390/ijms242417600, doi:10.3390/ijms242417600. This article has 24 citations and is from a peer-reviewed journal.
+
+20. (silnitsky2023anupdateon pages 3-5): Shmuel Silnitsky, Samuel J. S. Rubin, Mulate Zerihun, and Nir Qvit. An update on protein kinases as therapeutic targets—part i: protein kinase c activation and its role in cancer and cardiovascular diseases. International Journal of Molecular Sciences, 24:17600, Dec 2023. URL: https://doi.org/10.3390/ijms242417600, doi:10.3390/ijms242417600. This article has 24 citations and is from a peer-reviewed journal.
+
+21. (silnitsky2023anupdateon pages 7-9): Shmuel Silnitsky, Samuel J. S. Rubin, Mulate Zerihun, and Nir Qvit. An update on protein kinases as therapeutic targets—part i: protein kinase c activation and its role in cancer and cardiovascular diseases. International Journal of Molecular Sciences, 24:17600, Dec 2023. URL: https://doi.org/10.3390/ijms242417600, doi:10.3390/ijms242417600. This article has 24 citations and is from a peer-reviewed journal.
+
+22. (xiao2013atypicalproteinkinase pages 8-9): Helan Xiao and Mingyao Liu. Atypical protein kinase c in cell motility. Cellular and Molecular Life Sciences, 70:3057-3066, Oct 2013. URL: https://doi.org/10.1007/s00018-012-1192-1, doi:10.1007/s00018-012-1192-1. This article has 62 citations and is from a domain leading peer-reviewed journal.
+
+23. (yeo2017phosphorylatedproteinkinase pages 7-7): Min-kyung Yeo, Ji Yeon Kim, In-ock Seong, Jin-Man Kim, and Kyung-Hee Kim. Phosphorylated protein kinase c (zeta/lambda) expression in colorectal adenocarcinoma and its correlation with clinicopathologic characteristics and prognosis. Journal of Cancer, 8:3371-3377, Sep 2017. URL: https://doi.org/10.7150/jca.20983, doi:10.7150/jca.20983. This article has 3 citations and is from a peer-reviewed journal.

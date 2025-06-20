@@ -1,0 +1,130 @@
+1. Phylogeny  
+Cyclin‐dependent kinase 4 (CDK4) belongs to the CMGC group of protein kinases and is a member of the cell‐cycle regulatory subfamily that also includes CDK6. CDK4 and CDK6 are absent in yeasts such as Saccharomyces cerevisiae, and their appearance is associated with the evolution of multicellular organisms. In mammals, CDK4 is found in a distinct evolutionary lineage that diverged from the more ancestral CDC2/CDK1‐like kinases. Phylogenetic analyses indicate that the CDK4/CDK6 subfamily emerged following gene duplication events that occurred after the divergence from unicellular eukaryotes, underscoring their role in the control of the complex cell cycle of metazoans (malumbres2014cyclindependentkinases pages 1-2, malumbres2014cyclindependentkinases pages 2-3). In addition, comparative studies have demonstrated that CDK4 is evolutionarily related to other serine/threonine kinases through conserved structural features in the catalytic domain and regulatory regions. Its grouping with D‐type cyclin partners and its absence in organisms with a simplified cell cycle regulation further support its specialized role in multicellular organisms (pluta2024cyclin‐dependentkinasesmasters pages 3-5, jacques2023roadmaptothe pages 22-25).
+
+2. Reaction Catalyzed  
+CDK4 functions as a serine/threonine protein kinase that catalyzes the transfer of a phosphate group from ATP to specific serine or threonine residues on target proteins. The reaction can be summarized as follows: ATP + [protein substrate] → ADP + [protein substrate]-(phospho-serine/threonine) + H⁺. This phosphorylation event often occurs on substrates bearing a proline immediately following the phosphoacceptor residue, consistent with CDK4’s classification as a proline-directed kinase (baker2012cdk4akey pages 2-3).
+
+3. Cofactor Requirements  
+The catalytic activity of CDK4 is dependent on the presence of divalent cations, with Mg²⁺ being the primary cofactor. The magnesium ion coordinates with ATP in the active site to facilitate the proper orientation and transfer of the phosphate group onto substrate proteins. This requirement is characteristic of most kinases in this family, including those within the CMGC group (baker2012cdk4akey pages 2-3).
+
+4. Substrate Specificity  
+CDK4 exhibits substrate specificity that is mediated by both its catalytic domain and its association with D‐type cyclins. The kinase phosphorylates proteins whose phosphorylation sites generally conform to a serine or threonine followed immediately by a proline (S/T-P motif). In many cases, optimal substrate phosphorylation occurs when a basic residue is present at the P+3 position relative to the phosphoacceptor site, although CDK4 has been shown to phosphorylate substrates even when these full consensus motifs are not strictly met (anders2011asystematicscreen pages 1-2, suryadinata2010controlofcell pages 5-6). Notably, the retinoblastoma protein (RB1) contains several phosphorylation sites that are targeted by CDK4. These sites, including Ser780 and Ser795, are embedded within sequence environments that allow the formation of a consensus motif necessary for efficient phosphate transfer. The specificity is further refined by cyclin D association, which facilitates substrate docking via RXL- or similar linear motifs, and by additional substrate-binding interactions that promote an ordered phosphorylation cycle (johnson2023anatlasof pages 23-26, harper2001cyclindependentkinases pages 12-13).
+
+5. Structure  
+The three-dimensional architecture of CDK4 is organized around a typical kinase fold composed of two lobes. The smaller N-terminal lobe consists of a five-stranded β-sheet structure and a conserved C-helix, while the larger C-terminal lobe is predominantly α-helical. The active site is located in the cleft between these two lobes. In crystal structures of CDK4 bound to cyclin D1, CDK4 adopts an inactive, or “intermediate,” conformation even when its T-loop is phosphorylated on Thr172. Structural studies have revealed that, unlike other CDKs such as CDK2 where cyclin association induces a canonical active conformation characterized by a repositioned C-helix and an open activation loop, the CDK4/cyclin D complex maintains an arrangement that does not allow full substrate access (day2009crystalstructureof pages 1-1, takaki2009thestructureof pages 1-1). The crystal structure shows that the cyclin binds predominantly to the N-lobe and interacts with the C-helix through conserved interfaces. Additionally, a modified loop region in CDK4 (used in crystallographic constructs) has been employed to stabilize the overall structure; however, this engineered modification does not significantly alter the overall domain organization. Key structural features include the ATP-binding site, the glycine-rich P-loop, and the activation segment (T-loop), whose conformation is critical for regulating kinase activity. The distinct inactive conformation observed in CDK4 supports the concept that additional regulatory interactions or substrate binding may be required to fully trigger its enzymatic activity (day2009crystalstructureof pages 1-3, takaki2009thestructureof pages 1-3, wood2018structuralinsightsinto pages 7-8).
+
+6. Regulation  
+CDK4 regulation is achieved through multiple layers of control that include both post-translational modifications and protein–protein interactions. Phosphorylation of the T-loop residue, Thr172, is essential for catalytic activity, although in isolation this modification does not induce the fully active conformation commonly seen in other kinases (baker2022cdk4amaster pages 1-2, takaki2009thestructureof pages 3-3). Binding of D-type cyclins (D1, D2, or D3) is required to form the CDK4/cyclin complex, and this association is integral to both substrate recognition and activity regulation. Endogenous inhibitors such as the INK4 family proteins—most notably p16INK4A—bind to CDK4 and block its association with cyclin D, thereby inhibiting kinase activity by distorting the active site and preventing proper conformational rearrangements (bockstaele2006regulationofcdk4 pages 1-2, baker2012cdk4akey pages 2-3). In addition, members of the CIP/KIP family, such as p21CIP1 and p27KIP1, interact with already formed CDK-cyclin complexes, acting as modulators that can either inhibit or stabilize the enzyme depending on their phosphorylation state. The interplay between these inhibitors, cyclin binding, and T-loop phosphorylation establishes a finely tuned regulatory system, ensuring that CDK4 activity is tightly controlled during the G1 phase of the cell cycle (baker2022cdk4amaster pages 2-4, hallett2017structuralandfunctional pages 30-34).
+
+7. Function  
+CDK4 plays an essential role in cell-cycle progression by mediating the G1 to S phase transition. In complex with D-type cyclins, CDK4 phosphorylates key substrates such as the retinoblastoma family of proteins (including RB1, p107, and p130), which results in the dissociation of E2F transcription factors from their complexes. This leads to the transcriptional activation of genes required for S-phase entry and DNA replication (anders2011asystematicscreen pages 1-2, baker2012cdk4akey pages 2-3). In early G1 phase, cyclin D-CDK4 complexes hypophosphorylate RB1, setting the stage for subsequent hyperphosphorylation by other kinases (such as cyclin E-CDK2) that effectively inactivate RB-mediated repression. Beyond RB phosphorylation, CDK4 also targets other substrates. For instance, it phosphorylates SMAD3 in a cell-cycle-dependent manner, thereby repressing SMAD3’s transcriptional activity, and it has been implicated in phosphorylating transcription factors such as FOXM1, which plays a role in senescence suppression in cancer cells (anders2011asystematicscreen pages 1-2). The integration of divergent mitogenic and antimitogenic signals by CDK4–cyclin D complexes underlies its status as a major integrator of cell cycle control. This functional role is also supported by observations that mutations affecting CDK4, including those that impair inhibitor binding (for example, mutations at residue R24), lead to increased kinase activity and have been associated with oncogenic phenotypes (sheppard2013thecellcycleregulator pages 1-3, malumbres2014cyclindependentkinases pages 5-6).
+
+8. Other Comments  
+CDK4 is a clinically relevant target in oncology due to its pivotal role in cell cycle regulation and the frequent dysregulation of the cyclin D/CDK4/6–RB pathway in various cancers, including melanoma, breast cancer, and renal cell carcinoma (lee2015cdk4inhibitorsan pages 4-6, sager2022therapeuticpotentialof pages 31-34). Several small-molecule inhibitors, such as palbociclib, ribociclib, and abemaciclib, have been developed to selectively inhibit CDK4/6 activity by targeting the ATP-binding site, and these inhibitors have shown efficacy in preclinical and clinical settings (sager2022therapeuticpotentialof pages 7-9, sheppard2013thecellcycleregulator pages 1-3). CDK4 inhibitors have demonstrated the capacity to induce G1 cell-cycle arrest and reduce cell proliferation in tumors that depend on this pathway. In addition to kinase inhibition, strategies targeting the chaperone machinery responsible for stabilizing CDK4, such as the HSP90–CDC37 complex, are being explored to promote CDK4 degradation in cancer cells (bockstaele2006regulationofcdk4 pages 1-2, wood2018structuralinsightsinto pages 10-11). CDK4 mutations, such as those altering the binding interface for inhibitory proteins like p16, can confer resistance to cell-cycle arrest and contribute to tumorigenesis, further emphasizing the therapeutic importance of developing agents that can effectively target aberrant CDK4 activity (baker2012cdk4akey pages 2-3).
+
+9. References  
+1. anders2011asystematicscreen pages 1-2  
+2. baker2012cdk4akey pages 2-3  
+3. baker2022cdk4amaster pages 1-2  
+4. bockstaele2006regulationofcdk4 pages 1-2  
+5. chowdhury2023cmgckinasesin pages 21-22  
+6. day2009crystalstructureof pages 1-1  
+7. day2009crystalstructureof pages 1-3  
+8. echalier2010recentdevelopmentsin pages 7-8  
+9. hallett2017structuralandfunctional pages 30-34  
+10. harper2001cyclindependentkinases pages 12-13  
+11. jacques2023roadmaptothe pages 22-25  
+12. johnson2023anatlasof pages 23-26  
+13. lee2015cdk4inhibitorsan pages 4-6  
+14. malumbres2014cyclindependentkinases pages 1-2  
+15. malumbres2014cyclindependentkinases pages 2-3  
+16. malumbres2014cyclindependentkinases pages 3-5  
+17. malumbres2014cyclindependentkinases pages 5-6  
+18. ord2024highthroughputdiscoveryand pages 1-3  
+19. ord2024highthroughputdiscoveryand pages 10-12  
+20. pluta2024cyclin‐dependentkinasesmasters pages 3-5  
+21. pluta2024cyclin‐dependentkinasesmasters pages 23-25  
+22. rowland2024cryoemstructureof pages 18-21  
+23. sager2022therapeuticpotentialof pages 31-34  
+24. sager2022therapeuticpotentialof pages 4-6  
+25. sager2022therapeuticpotentialof pages 7-9  
+26. sheppard2013thecellcycleregulator pages 1-3  
+27. suryadinata2010controlofcell pages 5-6  
+28. takaki2009thestructureof pages 1-1  
+29. takaki2009thestructureof pages 1-3  
+30. takaki2009thestructureof pages 3-3  
+31. wood2018structuralinsightsinto pages 7-8  
+32. wood2018structuralinsightsinto pages 9-10  
+33. wood2018structuralinsightsinto pages 10-11  
+
+Each of the sections above has incorporated findings and details strictly based on published literature from peer-reviewed sources as provided in the context.
+
+References
+
+1. (anders2011asystematicscreen pages 1-2): Lars Anders, Nan Ke, Per Hydbring, Yoon J. Choi, Hans R. Widlund, Joel M. Chick, Huili Zhai, Marc Vidal, Stephen P. Gygi, Pascal Braun, and Piotr Sicinski. A systematic screen for cdk4/6 substrates links foxm1 phosphorylation to senescence suppression in cancer cells. Cancer cell, 20 5:620-34, Nov 2011. URL: https://doi.org/10.1016/j.ccr.2011.10.001, doi:10.1016/j.ccr.2011.10.001. This article has 588 citations and is from a highest quality peer-reviewed journal.
+
+2. (baker2012cdk4akey pages 2-3): S. J. Baker and E. P. Reddy. Cdk4: a key player in the cell cycle, development, and cancer. Genes &amp; Cancer, 3:658-669, Nov 2012. URL: https://doi.org/10.1177/1947601913478972, doi:10.1177/1947601913478972. This article has 213 citations.
+
+3. (baker2022cdk4amaster pages 1-2): Stacey J. Baker, Poulikos I. Poulikakos, Hanna Y. Irie, Samir Parekh, and E. Premkumar Reddy. Cdk4: a master regulator of the cell cycle and its role in cancer. Genes &amp; Cancer, 13:21-45, Aug 2022. URL: https://doi.org/10.18632/genesandcancer.221, doi:10.18632/genesandcancer.221. This article has 65 citations.
+
+4. (baker2022cdk4amaster pages 2-4): Stacey J. Baker, Poulikos I. Poulikakos, Hanna Y. Irie, Samir Parekh, and E. Premkumar Reddy. Cdk4: a master regulator of the cell cycle and its role in cancer. Genes &amp; Cancer, 13:21-45, Aug 2022. URL: https://doi.org/10.18632/genesandcancer.221, doi:10.18632/genesandcancer.221. This article has 65 citations.
+
+5. (bockstaele2006regulationofcdk4 pages 1-2): Laurence Bockstaele, Katia Coulonval, Hugues Kooken, Sabine Paternot, and Pierre P Roger. Regulation of cdk4. Cell Division, 1:25-25, Nov 2006. URL: https://doi.org/10.1186/1747-1028-1-25, doi:10.1186/1747-1028-1-25. This article has 97 citations and is from a peer-reviewed journal.
+
+6. (chowdhury2023cmgckinasesin pages 21-22): Iftekhar Chowdhury, Giovanna Dashi, and Salla Keskitalo. Cmgc kinases in health and cancer. Cancers, 15:3838, Jul 2023. URL: https://doi.org/10.3390/cancers15153838, doi:10.3390/cancers15153838. This article has 18 citations and is from a peer-reviewed journal.
+
+7. (day2009crystalstructureof pages 1-1): Philip J. Day, Anne Cleasby, Ian J. Tickle, Marc O'Reilly, Joe E. Coyle, Finn P. Holding, Rachel L. McMenamin, Jeff Yon, Rajiv Chopra, Christoph Lengauer, and Harren Jhoti. Crystal structure of human cdk4 in complex with a d-type cyclin. Proceedings of the National Academy of Sciences, 106:4166-4170, Mar 2009. URL: https://doi.org/10.1073/pnas.0809645106, doi:10.1073/pnas.0809645106. This article has 275 citations.
+
+8. (day2009crystalstructureof pages 1-3): Philip J. Day, Anne Cleasby, Ian J. Tickle, Marc O'Reilly, Joe E. Coyle, Finn P. Holding, Rachel L. McMenamin, Jeff Yon, Rajiv Chopra, Christoph Lengauer, and Harren Jhoti. Crystal structure of human cdk4 in complex with a d-type cyclin. Proceedings of the National Academy of Sciences, 106:4166-4170, Mar 2009. URL: https://doi.org/10.1073/pnas.0809645106, doi:10.1073/pnas.0809645106. This article has 275 citations.
+
+9. (echalier2010recentdevelopmentsin pages 7-8): Aude Echalier, Jane A. Endicott, and Martin E.M. Noble. Recent developments in cyclin-dependent kinase biochemical and structural studies. Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics, 1804:511-519, Mar 2010. URL: https://doi.org/10.1016/j.bbapap.2009.10.002, doi:10.1016/j.bbapap.2009.10.002. This article has 162 citations.
+
+10. (hallett2017structuralandfunctional pages 30-34): ST Hallett. Structural and functional characterisation of cyclin-dependent kinase 6-cyclin d complexes. Unknown journal, 2017.
+
+11. (harper2001cyclindependentkinases pages 12-13): and J. W. Harper and P. Adams. Cyclin-dependent kinases. Chemical Reviews, 101:2511-2526, Jul 2001. URL: https://doi.org/10.1021/cr0001030, doi:10.1021/cr0001030. This article has 311 citations and is from a highest quality peer-reviewed journal.
+
+12. (jacques2023roadmaptothe pages 22-25): Florian Jacques, Paulina Bolivar, Kristian Pietras, and Emma U. Hammarlund. Roadmap to the study of gene and protein phylogeny and evolution—a practical guide. PLOS ONE, 18:e0279597, Feb 2023. URL: https://doi.org/10.1371/journal.pone.0279597, doi:10.1371/journal.pone.0279597. This article has 17 citations and is from a peer-reviewed journal.
+
+13. (johnson2023anatlasof pages 23-26): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 422 citations and is from a highest quality peer-reviewed journal.
+
+14. (lee2015cdk4inhibitorsan pages 4-6): Belinda Lee and Grant A McArthur. Cdk4 inhibitors an emerging strategy for the treatment of melanoma. Melanoma management, 2 3:255-266, Aug 2015. URL: https://doi.org/10.2217/mmt.15.14, doi:10.2217/mmt.15.14. This article has 28 citations.
+
+15. (malumbres2014cyclindependentkinases pages 1-2): Marcos Malumbres. Cyclin-dependent kinases. Genome Biology, 15:122-122, Jun 2014. URL: https://doi.org/10.1186/gb4184, doi:10.1186/gb4184. This article has 1882 citations and is from a highest quality peer-reviewed journal.
+
+16. (malumbres2014cyclindependentkinases pages 2-3): Marcos Malumbres. Cyclin-dependent kinases. Genome Biology, 15:122-122, Jun 2014. URL: https://doi.org/10.1186/gb4184, doi:10.1186/gb4184. This article has 1882 citations and is from a highest quality peer-reviewed journal.
+
+17. (malumbres2014cyclindependentkinases pages 3-5): Marcos Malumbres. Cyclin-dependent kinases. Genome Biology, 15:122-122, Jun 2014. URL: https://doi.org/10.1186/gb4184, doi:10.1186/gb4184. This article has 1882 citations and is from a highest quality peer-reviewed journal.
+
+18. (malumbres2014cyclindependentkinases pages 5-6): Marcos Malumbres. Cyclin-dependent kinases. Genome Biology, 15:122-122, Jun 2014. URL: https://doi.org/10.1186/gb4184, doi:10.1186/gb4184. This article has 1882 citations and is from a highest quality peer-reviewed journal.
+
+19. (ord2024highthroughputdiscoveryand pages 1-3): Mihkel Örd, Matthew J. Winters, Mythili S. Subbanna, Natalia de Martin Garrido, Victoria I. Cushing, Johanna Kliche, Caroline Benz, Ylva Ivarsson, Basil J. Greber, Peter M. Pryciak, and Norman E. Davey. High-throughput discovery and deep characterization of cyclin-cdk docking motifs. BioRxiv, Dec 2024. URL: https://doi.org/10.1101/2024.12.03.625240, doi:10.1101/2024.12.03.625240. This article has 0 citations.
+
+20. (ord2024highthroughputdiscoveryand pages 10-12): Mihkel Örd, Matthew J. Winters, Mythili S. Subbanna, Natalia de Martin Garrido, Victoria I. Cushing, Johanna Kliche, Caroline Benz, Ylva Ivarsson, Basil J. Greber, Peter M. Pryciak, and Norman E. Davey. High-throughput discovery and deep characterization of cyclin-cdk docking motifs. BioRxiv, Dec 2024. URL: https://doi.org/10.1101/2024.12.03.625240, doi:10.1101/2024.12.03.625240. This article has 0 citations.
+
+21. (pluta2024cyclin‐dependentkinasesmasters pages 23-25): Aleksandra J. Pluta, Cécilia Studniarek, Shona Murphy, and Chris J. Norbury. Cyclin‐dependent kinases: masters of the eukaryotic universe. WIREs RNA, Sep 2024. URL: https://doi.org/10.1002/wrna.1816, doi:10.1002/wrna.1816. This article has 20 citations.
+
+22. (pluta2024cyclin‐dependentkinasesmasters pages 3-5): Aleksandra J. Pluta, Cécilia Studniarek, Shona Murphy, and Chris J. Norbury. Cyclin‐dependent kinases: masters of the eukaryotic universe. WIREs RNA, Sep 2024. URL: https://doi.org/10.1002/wrna.1816, doi:10.1002/wrna.1816. This article has 20 citations.
+
+23. (rowland2024cryoemstructureof pages 18-21): Rhianna J. Rowland, Svitlana Korolchuk, Marco Salamina, James R. Ault, Sam Hart, Johan P. Turkenburg, James N. Blaza, Martin E.M. Noble, and Jane A. Endicott. Cryo-em structure of the cdk2-cyclin a-cdc25a complex. BioRxiv, Oct 2024. URL: https://doi.org/10.1101/2023.10.17.562665, doi:10.1101/2023.10.17.562665. This article has 3 citations.
+
+24. (sager2022therapeuticpotentialof pages 31-34): Rebecca A. Sager, Sarah J. Backe, Elham Ahanin, Garrett Smith, Imad Nsouli, Mark R. Woodford, Gennady Bratslavsky, Dimitra Bourboulia, and Mehdi Mollapour. Therapeutic potential of cdk4/6 inhibitors in renal cell carcinoma. Nature Reviews Urology, 19:305-320, Mar 2022. URL: https://doi.org/10.1038/s41585-022-00571-8, doi:10.1038/s41585-022-00571-8. This article has 24 citations and is from a domain leading peer-reviewed journal.
+
+25. (sager2022therapeuticpotentialof pages 4-6): Rebecca A. Sager, Sarah J. Backe, Elham Ahanin, Garrett Smith, Imad Nsouli, Mark R. Woodford, Gennady Bratslavsky, Dimitra Bourboulia, and Mehdi Mollapour. Therapeutic potential of cdk4/6 inhibitors in renal cell carcinoma. Nature Reviews Urology, 19:305-320, Mar 2022. URL: https://doi.org/10.1038/s41585-022-00571-8, doi:10.1038/s41585-022-00571-8. This article has 24 citations and is from a domain leading peer-reviewed journal.
+
+26. (sager2022therapeuticpotentialof pages 7-9): Rebecca A. Sager, Sarah J. Backe, Elham Ahanin, Garrett Smith, Imad Nsouli, Mark R. Woodford, Gennady Bratslavsky, Dimitra Bourboulia, and Mehdi Mollapour. Therapeutic potential of cdk4/6 inhibitors in renal cell carcinoma. Nature Reviews Urology, 19:305-320, Mar 2022. URL: https://doi.org/10.1038/s41585-022-00571-8, doi:10.1038/s41585-022-00571-8. This article has 24 citations and is from a domain leading peer-reviewed journal.
+
+27. (sheppard2013thecellcycleregulator pages 1-3): Karen E. Sheppard and Grant A. McArthur. The cell-cycle regulator cdk4: an emerging therapeutic target in melanoma. Clinical Cancer Research, 19:5320-5328, Oct 2013. URL: https://doi.org/10.1158/1078-0432.ccr-13-0259, doi:10.1158/1078-0432.ccr-13-0259. This article has 325 citations and is from a highest quality peer-reviewed journal.
+
+28. (suryadinata2010controlofcell pages 5-6): Randy Suryadinata, Martin Sadowski, and Boris Sarcevic. Control of cell cycle progression by phosphorylation of cyclin-dependent kinase (cdk) substrates. Bioscience reports, 30 4:243-55, Aug 2010. URL: https://doi.org/10.1042/bsr20090171, doi:10.1042/bsr20090171. This article has 227 citations and is from a peer-reviewed journal.
+
+29. (takaki2009thestructureof pages 1-1): T. Takaki, A. Echalier, N. R. Brown, T. Hunt, J. A. Endicott, and M. E. M. Noble. The structure of cdk4/cyclin d3 has implications for models of cdk activation. Proceedings of the National Academy of Sciences, 106:4171-4176, Mar 2009. URL: https://doi.org/10.1073/pnas.0809674106, doi:10.1073/pnas.0809674106. This article has 147 citations.
+
+30. (takaki2009thestructureof pages 1-3): T. Takaki, A. Echalier, N. R. Brown, T. Hunt, J. A. Endicott, and M. E. M. Noble. The structure of cdk4/cyclin d3 has implications for models of cdk activation. Proceedings of the National Academy of Sciences, 106:4171-4176, Mar 2009. URL: https://doi.org/10.1073/pnas.0809674106, doi:10.1073/pnas.0809674106. This article has 147 citations.
+
+31. (takaki2009thestructureof pages 3-3): T. Takaki, A. Echalier, N. R. Brown, T. Hunt, J. A. Endicott, and M. E. M. Noble. The structure of cdk4/cyclin d3 has implications for models of cdk activation. Proceedings of the National Academy of Sciences, 106:4171-4176, Mar 2009. URL: https://doi.org/10.1073/pnas.0809674106, doi:10.1073/pnas.0809674106. This article has 147 citations.
+
+32. (wood2018structuralinsightsinto pages 10-11): Daniel J. Wood and Jane A. Endicott. Structural insights into the functional diversity of the cdk–cyclin family. Open Biology, Sep 2018. URL: https://doi.org/10.1098/rsob.180112, doi:10.1098/rsob.180112. This article has 266 citations and is from a peer-reviewed journal.
+
+33. (wood2018structuralinsightsinto pages 7-8): Daniel J. Wood and Jane A. Endicott. Structural insights into the functional diversity of the cdk–cyclin family. Open Biology, Sep 2018. URL: https://doi.org/10.1098/rsob.180112, doi:10.1098/rsob.180112. This article has 266 citations and is from a peer-reviewed journal.
+
+34. (wood2018structuralinsightsinto pages 9-10): Daniel J. Wood and Jane A. Endicott. Structural insights into the functional diversity of the cdk–cyclin family. Open Biology, Sep 2018. URL: https://doi.org/10.1098/rsob.180112, doi:10.1098/rsob.180112. This article has 266 citations and is from a peer-reviewed journal.

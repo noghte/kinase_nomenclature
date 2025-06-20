@@ -1,0 +1,154 @@
+1. Phylogeny  
+Cyclin‐dependent kinase 9 (CDK9) is a member of the serine/threonine protein kinase family that has evolved as part of the transcriptional regulatory subgroup of CDKs. CDK9 is highly conserved across eukaryotes, with orthologs identified in mammals, basal metazoans, fungi, and even some unicellular lineages, reflecting its ancient origin and preserved function in transcription regulation (cao2014phylogeneticanalysisof pages 1-2, paparidis2017theemergingpicture pages 6-8). Evolutionary analyses classify CDK9 in the transcriptional CDK group alongside kinases such as CDK7, CDK8, CDK11, CDK12, and CDK13, and phylogenetic studies indicate that CDK9 is most closely related to CDK12 and CDK13, sharing significant sequence identity in their catalytic domains (malumbres2014cyclindependentkinases pages 2-3, paparidis2017theemergingpicture pages 6-8). The kinase has also been compared to its yeast counterpart, Bur1, which underscores its origin prior to the divergence of yeast and animal lineages (cao2014phylogeneticanalysisof pages 3-6, napolitano2002roleofcyclintcdk9 pages 1-2). In the context of the kinome, CDK9 is firmly placed within the group of transcriptional regulators that are part of an evolutionary core of kinases present even in the Last Eukaryotic Common Ancestor (LECA) (cao2014phylogeneticanalysisof pages 6-9, gorman2020phylogeneticanalysisof pages 3-4).
+
+2. Reaction Catalyzed  
+CDK9 catalyzes the ATP‐dependent phosphorylation of specific serine/threonine residues on target proteins. The canonical reaction can be summarized as follows:  
+  ATP + [protein]‐(L‐serine/threonine) → ADP + [protein]‐(L‐serine/threonine)‐phosphate + H⁺  
+In cellular contexts, CDK9 phosphorylates the C-terminal domain (CTD) of RNA polymerase II (RNAP II), which contains heptad repeats; this phosphorylation (predominantly on serine 2 residues) is essential for the transition from transcription initiation to productive elongation. In addition, CDK9 phosphorylates other substrates such as DSIF, NELF, EP300, MYOD1, and the androgen receptor (AR) to modulate their function in transcription and chromatin modification (adderley2022comparativeanalysisof pages 7-9, napolitano2002roleofcyclintcdk9 pages 1-2).
+
+3. Cofactor Requirements  
+The enzymatic activity of CDK9 is dependent on the presence of divalent metal ions, with Mg²⁺ being required as a cofactor. Mg²⁺ coordinates the phosphate groups of ATP within the active site, thus allowing for proper substrate positioning and efficient phosphoryl transfer (baumli2008thestructureof pages 1-2, paparidis2017theemergingpicture pages 6-8).
+
+4. Substrate Specificity  
+CDK9 exhibits substrate specificity that is largely determined by its catalytic domain structure and the conformations of its active and substrate binding sites. The kinase displays a preference for phosphorylating serine/threonine residues followed immediately by a proline (S/T-P motif) found in substrates such as the RNA polymerase II CTD. This specificity is enforced by a hydrophobic pocket that accommodates a proline residue adjacent to the phosphorylation site and is similar to the substrate recognition observed in other cyclin-dependent kinases (echalier2010recentdevelopmentsin pages 5-7, anshabo2021cdk9acomprehensive pages 2-4). Additionally, CDK9 recognizes substrates that bear specific post-translational modifications or secondary structural elements, which further refine its selectivity towards components involved in transcriptional elongation and co-transcriptional processes (bacon2019cdk9asignaling pages 3-4).
+
+5. Structure  
+CDK9 is characterized by a highly conserved kinase domain of approximately 250–300 amino acids that adopts a bilobal tertiary structure. The smaller N-terminal lobe, composed primarily of beta sheets and one alpha helix (specifically the αC helix), is responsible for binding to cyclin partners such as cyclin T1, with the interaction largely mediated through a conserved PITALRE motif. The larger C-terminal lobe, predominantly composed of alpha helices with interspersed beta strands, houses the ATP binding site in a cleft between the two lobes. Within this cleft, key residues such as Asp104 and Cys106—located in the hinge region—as well as Asp167 (within the DFG motif) play critical roles in coordination of ATP and catalysis (anshabo2021cdk9acomprehensive pages 2-4, baumli2008thestructureof pages 1-2).  
+Activation of CDK9 is closely linked to the phosphorylation of its activation loop, in particular at Thr186, which can occur via auto-phosphorylation or be mediated by upstream kinases such as CDK7. This phosphorylation event induces a conformational change that stabilizes the active site, promotes substrate binding, and facilitates interactions with cyclin T1 (mandal2021targetingcdk9for pages 29-30, baumli2008thestructureof pages 10-11). Furthermore, the structural arrangement of the cyclin binding interface in CDK9 is distinct from that in cell cycle CDKs, featuring a rotation of the cyclin subunit relative to the kinase domain that results in a smaller interface area; this unique orientation is thought to contribute to the precise regulation and substrate specificity observed in transcriptional regulation (bacon2019cdk9asignaling pages 1-3, krystof2010pharmacologicaltargetingof pages 7-8).
+
+6. Regulation  
+The regulatory mechanisms that control CDK9 activity are multifaceted and include several levels of post-translational modifications as well as interactions with regulatory protein complexes. A critical regulatory step is the phosphorylation of the T-loop at Thr186, which is necessary for full kinase activation. This phosphorylation event stabilizes the enzyme’s active conformation and is essential for productive binding to cyclin T1; mutations in Thr186 result in severely compromised kinase activity (mandal2021targetingcdk9for pages 4-5, anshabo2021cdk9acomprehensive pages 4-6).  
+In addition to T-loop phosphorylation, CDK9 function is modulated by its sequestration within the 7SK snRNP complex. In its inactive form, CDK9 is bound to 7SK small nuclear RNA and inhibitory proteins such as HEXIM1, which prevent premature or unscheduled phosphorylation activity. Release from this inhibitory complex is mediated by various cellular signals and post-translational modifications, thereby enabling CDK9 to join its cognate cyclin T1 in the formation of the active positive transcription elongation factor b (P-TEFb) complex (adderley2022comparativeanalysisof pages 7-9, brasier2008perspectiveexpandingrole pages 1-2). Other regulatory inputs include phosphorylation at additional sites within CDK9 (such as Ser175) that further modulate its interaction with substrates and regulatory partners, as well as acetylation events on cyclin T1 that affect the stability and release of P-TEFb from the 7SK complex (anshabo2021cdk9acomprehensive pages 9-11). The dynamic interplay of these modifications provides a complex network that finely tunes CDK9 activity in response to cellular conditions.
+
+7. Function  
+CDK9 plays a central role in the regulation of mRNA transcription by RNA polymerase II. As the catalytic subunit of the P-TEFb complex, CDK9 phosphorylates the C-terminal domain (CTD) of RNAP II, specifically on Ser2 residues within the heptad repeats, thereby facilitating the transition from transcription initiation to productive elongation. This phosphorylation event also promotes the recruitment of RNA processing factors, cotranscriptional histone modifications, and mRNA export complexes, contributing to coordinated gene expression (adderley2022comparativeanalysisof pages 7-9, napolitano2002roleofcyclintcdk9 pages 1-2).  
+Additionally, CDK9 phosphorylates negative elongation factors such as DSIF and NELF, alleviating their inhibitory effects and further enabling efficient transcription elongation (bacon2019cdk9asignaling pages 1-3, papardis2017theemergingpicture pages 1-2). Beyond its canonical role in transcription, CDK9 phosphorylates other substrates including EP300, MYOD1, and the androgen receptor (AR), thereby impacting diverse transcription programs involved in cell growth, differentiation, and viral pathogenesis. The phosphorylation of MYOD1, for example, enhances its transcriptional activity and promotes muscle differentiation, while AR phosphorylation influences promoter selectivity and cell proliferation (anshabo2021cdk9acomprehensive pages 9-11, napolitano2002roleofcyclintcdk9 pages 1-2).  
+CDK9 activity also has ramifications in the DNA damage response and replication stress. In complex with cyclin K, CDK9 contributes to genome integrity maintenance by promoting cell cycle recovery following replication arrest and by limiting the accumulation of single-stranded DNA, thereby preventing the collapse of stalled replication forks and reducing DNA damage (adderley2022comparativeanalysisof pages 7-9). Furthermore, CDK9-mediated phosphorylation is involved in co-transcriptional histone modifications—including histone H2B monoubiquitination, H3 lysine 4 trimethylation, and H3K36 trimethylation—which integrate transcription with chromatin structure and function (adderley2022comparativeanalysisof pages 7-9).
+
+8. Other Comments  
+Several small molecule inhibitors targeting CDK9 have been developed and are in various stages of preclinical and clinical evaluation, particularly in the context of cancer treatment. Flavopiridol, one of the first CDK9 inhibitors tested in clinical trials, competes with ATP for binding to the kinase and has demonstrated efficacy in various malignancies, including acute leukemias and solid tumors (huang2022cdk9inhibitorsin pages 1-2, krystof2010pharmacologicaltargetingof pages 7-8). Other selective inhibitors such as BAY 1251152, VIP152, and SNS-032 have shown promise in early clinical studies, while emerging compounds are being developed with improved specificity and reduced toxicity (mandal2021targetingcdk9for pages 18-20, boffo2018cdk9inhibitorsin pages 2-4).  
+Disease associations for CDK9 include its roles in oncogenesis, inflammatory diseases, cardiac hypertrophy, and viral infections; for instance, CDK9 is exploited by HIV through its interaction with the viral Tat protein, which hijacks P-TEFb to promote viral transcription (bacon2019cdk9asignaling pages 1-3, napolitano2002roleofcyclintcdk9 pages 1-2). In cancer, dysregulated CDK9 activity and overexpression have been linked to poor prognosis in several tumor types, driving interest in the development of CDK9 inhibitors as anticancer therapeutics (mandal2021targetingcdk9for pages 18-20, krystof2012perspectiveofcyclindependent pages 1-2).
+
+9. References  
+1. adderley2022comparativeanalysisof pages 7-9  
+2. anshabo2021cdk9acomprehensive pages 2-4  
+3. anshabo2021cdk9acomprehensive pages 4-6  
+4. anshabo2021cdk9acomprehensive pages 9-11  
+5. bacon2019cdk9asignaling pages 1-3  
+6. bacon2019cdk9asignaling pages 3-4  
+7. baumli2008thestructureof pages 1-2  
+8. baumli2008thestructureof pages 5-6  
+9. baumli2008thestructureof pages 6-7  
+10. baumli2008thestructureof pages 8-10  
+11. baumli2008thestructureof pages 10-11  
+12. boffo2018cdk9inhibitorsin pages 2-4  
+13. bosken2014thestructureand pages 10-11  
+14. brasier2008perspectiveexpandingrole pages 1-2  
+15. cao2014phylogeneticanalysisof pages 1-2  
+16. cao2014phylogeneticanalysisof pages 3-6  
+17. cao2014phylogeneticanalysisof pages 6-9  
+18. echalier2010recentdevelopmentsin pages 5-7  
+19. falco1998cdk9(pitalre)a pages 3-4  
+20. falco2002cdk9frombasal pages 2-3  
+21. gorman2020phylogeneticanalysisof pages 3-4  
+22. hellec2024kinextaportable pages 1-2  
+23. huang2021kinorthoamethod pages 13-15  
+24. huang2022cdk9inhibitorsin pages 1-2  
+25. krystof2010pharmacologicaltargetingof pages 7-8  
+26. krystof2012perspectiveofcyclindependent pages 1-2  
+27. krystof2012perspectiveofcyclindependent pages 2-2  
+28. larochelle2012cyclindependentkinasecontrol pages 2-4  
+29. larochelle2012cyclindependentkinasecontrol pages 9-11  
+30. malumbres2014cyclindependentkinases pages 2-3  
+31. mandal2021targetingcdk9for pages 18-20  
+32. mandal2021targetingcdk9for pages 2-4  
+33. mandal2021targetingcdk9for pages 29-30  
+34. mandal2021targetingcdk9for pages 4-5  
+35. mandal2021targetingcdk9for pages 5-7  
+36. napolitano2002roleofcyclintcdk9 pages 1-2  
+37. paparidis2017theemergingpicture pages 1-2  
+38. paparidis2017theemergingpicture pages 5-6  
+39. paparidis2017theemergingpicture pages 6-8  
+40. paparidis2017theemergingpicture pages 10-12
+
+References
+
+1. (adderley2022comparativeanalysisof pages 7-9): Jack Adderley and Christian Doerig. Comparative analysis of the kinomes of plasmodium falciparum, plasmodium vivax and their host homo sapiens. BMC Genomics, Mar 2022. URL: https://doi.org/10.1186/s12864-022-08457-0, doi:10.1186/s12864-022-08457-0. This article has 22 citations and is from a peer-reviewed journal.
+
+2. (anshabo2021cdk9acomprehensive pages 2-4): Abel Tesfaye Anshabo, Robert Milne, Shudong Wang, and Hugo Albrecht. Cdk9: a comprehensive review of its biology, and its role as a potential target for anti-cancer agents. Frontiers in Oncology, May 2021. URL: https://doi.org/10.3389/fonc.2021.678559, doi:10.3389/fonc.2021.678559. This article has 124 citations and is from a peer-reviewed journal.
+
+3. (anshabo2021cdk9acomprehensive pages 4-6): Abel Tesfaye Anshabo, Robert Milne, Shudong Wang, and Hugo Albrecht. Cdk9: a comprehensive review of its biology, and its role as a potential target for anti-cancer agents. Frontiers in Oncology, May 2021. URL: https://doi.org/10.3389/fonc.2021.678559, doi:10.3389/fonc.2021.678559. This article has 124 citations and is from a peer-reviewed journal.
+
+4. (anshabo2021cdk9acomprehensive pages 9-11): Abel Tesfaye Anshabo, Robert Milne, Shudong Wang, and Hugo Albrecht. Cdk9: a comprehensive review of its biology, and its role as a potential target for anti-cancer agents. Frontiers in Oncology, May 2021. URL: https://doi.org/10.3389/fonc.2021.678559, doi:10.3389/fonc.2021.678559. This article has 124 citations and is from a peer-reviewed journal.
+
+5. (bacon2019cdk9asignaling pages 1-3): Curtis W. Bacon and Iván D’Orso. Cdk9: a signaling hub for transcriptional control. Transcription, 10:57-75, Oct 2019. URL: https://doi.org/10.1080/21541264.2018.1523668, doi:10.1080/21541264.2018.1523668. This article has 211 citations and is from a peer-reviewed journal.
+
+6. (bacon2019cdk9asignaling pages 3-4): Curtis W. Bacon and Iván D’Orso. Cdk9: a signaling hub for transcriptional control. Transcription, 10:57-75, Oct 2019. URL: https://doi.org/10.1080/21541264.2018.1523668, doi:10.1080/21541264.2018.1523668. This article has 211 citations and is from a peer-reviewed journal.
+
+7. (baumli2008thestructureof pages 1-2): Sonja Baumli, Graziano Lolli, Edward D Lowe, Sonia Troiani, Luisa Rusconi, Alex N Bullock, Judit É Debreczeni, Stefan Knapp, and Louise N Johnson. The structure of p‐tefb (cdk9/cyclin t1), its complex with flavopiridol and regulation by phosphorylation. The EMBO Journal, Jul 2008. URL: https://doi.org/10.1038/emboj.2008.121, doi:10.1038/emboj.2008.121. This article has 391 citations.
+
+8. (baumli2008thestructureof pages 10-11): Sonja Baumli, Graziano Lolli, Edward D Lowe, Sonia Troiani, Luisa Rusconi, Alex N Bullock, Judit É Debreczeni, Stefan Knapp, and Louise N Johnson. The structure of p‐tefb (cdk9/cyclin t1), its complex with flavopiridol and regulation by phosphorylation. The EMBO Journal, Jul 2008. URL: https://doi.org/10.1038/emboj.2008.121, doi:10.1038/emboj.2008.121. This article has 391 citations.
+
+9. (baumli2008thestructureof pages 5-6): Sonja Baumli, Graziano Lolli, Edward D Lowe, Sonia Troiani, Luisa Rusconi, Alex N Bullock, Judit É Debreczeni, Stefan Knapp, and Louise N Johnson. The structure of p‐tefb (cdk9/cyclin t1), its complex with flavopiridol and regulation by phosphorylation. The EMBO Journal, Jul 2008. URL: https://doi.org/10.1038/emboj.2008.121, doi:10.1038/emboj.2008.121. This article has 391 citations.
+
+10. (baumli2008thestructureof pages 6-7): Sonja Baumli, Graziano Lolli, Edward D Lowe, Sonia Troiani, Luisa Rusconi, Alex N Bullock, Judit É Debreczeni, Stefan Knapp, and Louise N Johnson. The structure of p‐tefb (cdk9/cyclin t1), its complex with flavopiridol and regulation by phosphorylation. The EMBO Journal, Jul 2008. URL: https://doi.org/10.1038/emboj.2008.121, doi:10.1038/emboj.2008.121. This article has 391 citations.
+
+11. (baumli2008thestructureof pages 8-10): Sonja Baumli, Graziano Lolli, Edward D Lowe, Sonia Troiani, Luisa Rusconi, Alex N Bullock, Judit É Debreczeni, Stefan Knapp, and Louise N Johnson. The structure of p‐tefb (cdk9/cyclin t1), its complex with flavopiridol and regulation by phosphorylation. The EMBO Journal, Jul 2008. URL: https://doi.org/10.1038/emboj.2008.121, doi:10.1038/emboj.2008.121. This article has 391 citations.
+
+12. (boffo2018cdk9inhibitorsin pages 2-4): Silvia Boffo, Angela Damato, Luigi Alfano, and Antonio Giordano. Cdk9 inhibitors in acute myeloid leukemia. Journal of Experimental &amp; Clinical Cancer Research, Feb 2018. URL: https://doi.org/10.1186/s13046-018-0704-8, doi:10.1186/s13046-018-0704-8. This article has 169 citations.
+
+13. (bosken2014thestructureand pages 10-11): Christian A. Bösken, Lucas Farnung, Corinna Hintermair, Miriam Merzel Schachter, Karin Vogel-Bachmayr, Dalibor Blazek, Kanchan Anand, Robert P. Fisher, Dirk Eick, and Matthias Geyer. The structure and substrate specificity of human cdk12/cyclin k. Nature Communications, Mar 2014. URL: https://doi.org/10.1038/ncomms4505, doi:10.1038/ncomms4505. This article has 212 citations and is from a highest quality peer-reviewed journal.
+
+14. (brasier2008perspectiveexpandingrole pages 1-2): Allan R. Brasier. Perspective: expanding role of cyclin dependent kinases in cytokine inducible gene expression. Cell Cycle, 7:2661-2666, Sep 2008. URL: https://doi.org/10.4161/cc.7.17.6594, doi:10.4161/cc.7.17.6594. This article has 53 citations and is from a peer-reviewed journal.
+
+15. (cao2014phylogeneticanalysisof pages 1-2): Lihuan Cao, Fang Chen, Xian-mei Yang, Weijin Xu, Jun Xie, and Long Yu. Phylogenetic analysis of cdk and cyclin proteins in premetazoan lineages. BMC Evolutionary Biology, Jan 2014. URL: https://doi.org/10.1186/1471-2148-14-10, doi:10.1186/1471-2148-14-10. This article has 177 citations.
+
+16. (cao2014phylogeneticanalysisof pages 3-6): Lihuan Cao, Fang Chen, Xian-mei Yang, Weijin Xu, Jun Xie, and Long Yu. Phylogenetic analysis of cdk and cyclin proteins in premetazoan lineages. BMC Evolutionary Biology, Jan 2014. URL: https://doi.org/10.1186/1471-2148-14-10, doi:10.1186/1471-2148-14-10. This article has 177 citations.
+
+17. (cao2014phylogeneticanalysisof pages 6-9): Lihuan Cao, Fang Chen, Xian-mei Yang, Weijin Xu, Jun Xie, and Long Yu. Phylogenetic analysis of cdk and cyclin proteins in premetazoan lineages. BMC Evolutionary Biology, Jan 2014. URL: https://doi.org/10.1186/1471-2148-14-10, doi:10.1186/1471-2148-14-10. This article has 177 citations.
+
+18. (echalier2010recentdevelopmentsin pages 5-7): Aude Echalier, Jane A. Endicott, and Martin E.M. Noble. Recent developments in cyclin-dependent kinase biochemical and structural studies. Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics, 1804:511-519, Mar 2010. URL: https://doi.org/10.1016/j.bbapap.2009.10.002, doi:10.1016/j.bbapap.2009.10.002. This article has 162 citations.
+
+19. (falco1998cdk9(pitalre)a pages 3-4): Giulia De Falco and Antonio Giordano. Cdk9 (pitalre): a multifunctional cdc2-related kinase. Journal of Cellular Physiology, 177:501-506, Dec 1998. URL: https://doi.org/10.1002/(sici)1097-4652(199812)177:4<501::aid-jcp1>3.0.co;2-4, doi:10.1002/(sici)1097-4652(199812)177:4<501::aid-jcp1>3.0.co;2-4. This article has 81 citations and is from a peer-reviewed journal.
+
+20. (falco2002cdk9frombasal pages 2-3): Giulia De Falco and Antonio Giordano. Cdk9: from basal transcription to cancer and aids. Cancer Biology &amp; Therapy, 1:341-346, Jul 2002. URL: https://doi.org/10.4161/cbt.1.4.6113, doi:10.4161/cbt.1.4.6113. This article has 105 citations.
+
+21. (gorman2020phylogeneticanalysisof pages 3-4): Lucy M. Gorman, Shaun P. Wilkinson, Sheila A. Kitchen, Clinton A. Oakley, Arthur R. Grossman, Virginia M. Weis, and Simon K. Davy. Phylogenetic analysis of cell-cycle regulatory proteins within the symbiodiniaceae. Scientific Reports, Nov 2020. URL: https://doi.org/10.1038/s41598-020-76621-1, doi:10.1038/s41598-020-76621-1. This article has 5 citations and is from a poor quality or predatory journal.
+
+22. (hellec2024kinextaportable pages 1-2): Elisabeth Hellec, Flavia Nunes, Charlotte Corporeau, and Alexandre Cormier. Kinext: a portable and scalable workflow for the identification and classification of protein kinases. BMC Bioinformatics, Oct 2024. URL: https://doi.org/10.1186/s12859-024-05953-w, doi:10.1186/s12859-024-05953-w. This article has 0 citations and is from a peer-reviewed journal.
+
+23. (huang2021kinorthoamethod pages 13-15): Liang-Chin Huang, Rahil Taujale, Nathan Gravel, Aarya Venkat, Wayland Yeung, Dominic P. Byrne, Patrick A. Eyers, and Natarajan Kannan. Kinortho: a method for mapping human kinase orthologs across the tree of life and illuminating understudied kinases. BMC Bioinformatics, Sep 2021. URL: https://doi.org/10.1186/s12859-021-04358-3, doi:10.1186/s12859-021-04358-3. This article has 22 citations and is from a peer-reviewed journal.
+
+24. (huang2022cdk9inhibitorsin pages 1-2): Zhi Huang, Tianqi Wang, Cheng Wang, and Yan Fan. Cdk9 inhibitors in cancer research. RSC Medicinal Chemistry, 13:688-710, Jan 2022. URL: https://doi.org/10.1039/d2md00040g, doi:10.1039/d2md00040g. This article has 22 citations and is from a peer-reviewed journal.
+
+25. (krystof2010pharmacologicaltargetingof pages 7-8): Vladimír Kryštof, Ivo Chamrád, Radek Jorda, and Jiří Kohoutek. Pharmacological targeting of cdk9 in cardiac hypertrophy. Medicinal Research Reviews, 30:646-666, Sep 2010. URL: https://doi.org/10.1002/med.20172, doi:10.1002/med.20172. This article has 69 citations and is from a domain leading peer-reviewed journal.
+
+26. (krystof2012perspectiveofcyclindependent pages 1-2): Vladimir Krystof, Sonja Baumli, and Robert Furst. Perspective of cyclin-dependent kinase 9 (cdk9) as a drug target. Current Pharmaceutical Design, 18:2883-2890, May 2012. URL: https://doi.org/10.2174/138161212800672750, doi:10.2174/138161212800672750. This article has 137 citations and is from a peer-reviewed journal.
+
+27. (krystof2012perspectiveofcyclindependent pages 2-2): Vladimir Krystof, Sonja Baumli, and Robert Furst. Perspective of cyclin-dependent kinase 9 (cdk9) as a drug target. Current Pharmaceutical Design, 18:2883-2890, May 2012. URL: https://doi.org/10.2174/138161212800672750, doi:10.2174/138161212800672750. This article has 137 citations and is from a peer-reviewed journal.
+
+28. (larochelle2012cyclindependentkinasecontrol pages 2-4): Stéphane Larochelle, Ramon Amat, Kira Glover-Cutter, Miriam Sansó, Chao Zhang, Jasmina J Allen, Kevan M Shokat, David L Bentley, and Robert P Fisher. Cyclin-dependent kinase control of the initiation-to-elongation switch of rna polymerase ii. Nature Structural &amp; Molecular Biology, 19:1108-1115, Oct 2012. URL: https://doi.org/10.1038/nsmb.2399, doi:10.1038/nsmb.2399. This article has 417 citations.
+
+29. (larochelle2012cyclindependentkinasecontrol pages 9-11): Stéphane Larochelle, Ramon Amat, Kira Glover-Cutter, Miriam Sansó, Chao Zhang, Jasmina J Allen, Kevan M Shokat, David L Bentley, and Robert P Fisher. Cyclin-dependent kinase control of the initiation-to-elongation switch of rna polymerase ii. Nature Structural &amp; Molecular Biology, 19:1108-1115, Oct 2012. URL: https://doi.org/10.1038/nsmb.2399, doi:10.1038/nsmb.2399. This article has 417 citations.
+
+30. (malumbres2014cyclindependentkinases pages 2-3): Marcos Malumbres. Cyclin-dependent kinases. Genome Biology, 15:122-122, Jun 2014. URL: https://doi.org/10.1186/gb4184, doi:10.1186/gb4184. This article has 1882 citations and is from a highest quality peer-reviewed journal.
+
+31. (mandal2021targetingcdk9for pages 18-20): Ranadip Mandal, Sven Becker, and Klaus Strebhardt. Targeting cdk9 for anti-cancer therapeutics. Cancers, 13:2181, May 2021. URL: https://doi.org/10.3390/cancers13092181, doi:10.3390/cancers13092181. This article has 107 citations and is from a peer-reviewed journal.
+
+32. (mandal2021targetingcdk9for pages 2-4): Ranadip Mandal, Sven Becker, and Klaus Strebhardt. Targeting cdk9 for anti-cancer therapeutics. Cancers, 13:2181, May 2021. URL: https://doi.org/10.3390/cancers13092181, doi:10.3390/cancers13092181. This article has 107 citations and is from a peer-reviewed journal.
+
+33. (mandal2021targetingcdk9for pages 29-30): Ranadip Mandal, Sven Becker, and Klaus Strebhardt. Targeting cdk9 for anti-cancer therapeutics. Cancers, 13:2181, May 2021. URL: https://doi.org/10.3390/cancers13092181, doi:10.3390/cancers13092181. This article has 107 citations and is from a peer-reviewed journal.
+
+34. (mandal2021targetingcdk9for pages 4-5): Ranadip Mandal, Sven Becker, and Klaus Strebhardt. Targeting cdk9 for anti-cancer therapeutics. Cancers, 13:2181, May 2021. URL: https://doi.org/10.3390/cancers13092181, doi:10.3390/cancers13092181. This article has 107 citations and is from a peer-reviewed journal.
+
+35. (mandal2021targetingcdk9for pages 5-7): Ranadip Mandal, Sven Becker, and Klaus Strebhardt. Targeting cdk9 for anti-cancer therapeutics. Cancers, 13:2181, May 2021. URL: https://doi.org/10.3390/cancers13092181, doi:10.3390/cancers13092181. This article has 107 citations and is from a peer-reviewed journal.
+
+36. (napolitano2002roleofcyclintcdk9 pages 1-2): Giuliana Napolitano, Barbara Majello, and Luigi Lania. Role of cyclint/cdk9 complex in basal and regulated transcription (review). International Journal of Oncology, 21 1:171-7, Jul 2002. URL: https://doi.org/10.3892/ijo.21.1.171, doi:10.3892/ijo.21.1.171. This article has 44 citations and is from a peer-reviewed journal.
+
+37. (paparidis2017theemergingpicture pages 1-2): Nikolas Ferreira dos Santos Paparidis, Maxwell Castro Durvale, and Fernanda Canduri. The emerging picture of cdk9/p-tefb: more than 20 years of advances since pitalre. Molecular bioSystems, 13 2:246-276, Jan 2017. URL: https://doi.org/10.1039/c6mb00387g, doi:10.1039/c6mb00387g. This article has 80 citations and is from a peer-reviewed journal.
+
+38. (paparidis2017theemergingpicture pages 10-12): Nikolas Ferreira dos Santos Paparidis, Maxwell Castro Durvale, and Fernanda Canduri. The emerging picture of cdk9/p-tefb: more than 20 years of advances since pitalre. Molecular bioSystems, 13 2:246-276, Jan 2017. URL: https://doi.org/10.1039/c6mb00387g, doi:10.1039/c6mb00387g. This article has 80 citations and is from a peer-reviewed journal.
+
+39. (paparidis2017theemergingpicture pages 5-6): Nikolas Ferreira dos Santos Paparidis, Maxwell Castro Durvale, and Fernanda Canduri. The emerging picture of cdk9/p-tefb: more than 20 years of advances since pitalre. Molecular bioSystems, 13 2:246-276, Jan 2017. URL: https://doi.org/10.1039/c6mb00387g, doi:10.1039/c6mb00387g. This article has 80 citations and is from a peer-reviewed journal.
+
+40. (paparidis2017theemergingpicture pages 6-8): Nikolas Ferreira dos Santos Paparidis, Maxwell Castro Durvale, and Fernanda Canduri. The emerging picture of cdk9/p-tefb: more than 20 years of advances since pitalre. Molecular bioSystems, 13 2:246-276, Jan 2017. URL: https://doi.org/10.1039/c6mb00387g, doi:10.1039/c6mb00387g. This article has 80 citations and is from a peer-reviewed journal.

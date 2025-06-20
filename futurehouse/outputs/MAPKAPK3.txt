@@ -1,0 +1,171 @@
+1. Phylogeny  
+MAP kinase‐activated protein kinase 3 (MAPKAPK3), also known as Chromosome 3p kinase, is a member of the MAPK‐activated protein kinase family that falls within the MK2/3 subgroup. It shares approximately 75% amino acid identity with MAPKAPK2 and is believed to have evolved from a common ancestral gene, with homologs identified in diverse species such as Drosophila and C. elegans, indicating a deep evolutionary conservation among metazoans (cargnello2011activationandfunction pages 24-25, ludwig19963pkanovel pages 1-2). This kinase is classified within the larger kinome framework originally reported by Manning et al. and forms part of the signaling apparatus downstream of stress‐activated MAP kinases. Like many other serine/threonine kinases, MAPKAPK3 occupies a central node in the eukaryotic signaling network that evolved early in animal evolution and is co‐expressed and functionally intertwined with other stress‐responsive kinases (cargnello2011activationandfunction pages 1-1, cargnello2011activationandfunction pages 1-2). Its genomic localization on chromosome 3p is notable given that this region is frequently deleted in certain cancers, suggesting that the evolutionary pressures that have maintained MAPKAPK3 in vertebrates may also be linked to its roles in stress and inflammatory response pathways (ludwig19963pkanovel pages 1-2).
+
+2. Reaction Catalyzed  
+MAPKAPK3 catalyzes the ATP‐dependent phosphorylation of protein substrates on serine and, in some contexts, threonine residues. The general chemical reaction involves the transfer of the γ‐phosphate group from ATP to an –OH group on the substrate protein, yielding ADP and a phosphorylated protein product along with the release of a proton: ATP + [protein] –OH → ADP + [protein] –O–PO3^2– + H⁺ (cargnello2011activationandfunction pages 24-25, meloche2010inhibitionofcdk1cyclin pages 270-272).
+
+3. Cofactor Requirements  
+Like most serine/threonine kinases, the catalytic activity of MAPKAPK3 is dependent on the presence of divalent metal ions that coordinate the ATP molecule during the phosphoryl transfer reaction. In this context, magnesium ions (Mg²⁺) are required as an essential cofactor to facilitate the proper binding and orientation of ATP within the kinase active site, ensuring efficient phosphorylation of protein substrates (cargnello2011activationandfunction pages 4-5, meloche2010inhibitionofcdk1cyclin pages 270-272).
+
+4. Substrate Specificity  
+MAPKAPK3 exhibits a substrate specificity that largely overlaps with that of MAPKAPK2. It preferentially phosphorylates serine residues within a consensus peptide motif characterized as Hyd–X–R–X₂–S, where “Hyd” denotes a large hydrophobic residue, “X” represents any amino acid, and “S” is the target serine residue undergoing phosphorylation (cargnello2011activationandfunction pages 24-25, ludwig19963pkanovel pages 1-2). This motif defines a binding and catalytic preference that directs MAPKAPK3 to a subset of substrates involved in stress responses. Notably, substrates identified include small heat shock proteins such as HSP27/HSPB1, where phosphorylation by MAPKAPK3 leads to dissociation of large small heat‐shock protein oligomers and a diminution of their chaperone activities (cargnello2011activationandfunction pages 24-25, williams2017emergingrolesof pages 31-35). In addition, MAPKAPK3 mediates the phosphorylation of several structural and regulatory proteins including KRT18, KRT20, RCSD1, RPS6KA3, TAB3, and the RNA‐binding protein TTP/ZFP36, thereby influencing processes such as cytoskeletal dynamics and inflammatory cytokine production (cargnello2011activationandfunction pages 25-26, ludwig19963pkanovel pages 1-2).
+
+5. Structure  
+The structural organization of MAPKAPK3 is reminiscent of its close paralog MAPKAPK2. It primarily consists of a centralized kinase domain that shows significant homology to calcium/calmodulin‐dependent protein kinases (CAMKs) (cargnello2011activationandfunction pages 12-13, ludwig19963pkanovel pages 2-2). Within this domain, several conserved subdomains can be identified, including a glycine-rich ATP-binding loop, a conserved catalytic loop containing a critical aspartate involved in proton transfer, and an activation loop that undergoes phosphorylation-dependent conformational changes (cargnello2011activationandfunction pages 23-24). In addition to the catalytic core, MAPKAPK3 possesses a proline‐rich N-terminal region that is capable of interacting with Src homology 3 (SH3) domains of proteins such as c-Abl, and a C-terminal region that harbors sequences functioning as a bipartite nuclear localization signal (NLS) as well as a nuclear export signal (NES) (cargnello2011activationandfunction pages 23-24, ludwig19963pkanovel pages 7-8). These regulatory motifs facilitate nucleocytoplasmic shuttling in response to stress stimuli. The overall three-dimensional configuration, as inferred from crystallographic studies of related kinases and supported by AlphaFold predictions, reveals a bilobal organization with a smaller N-terminal lobe predominantly involved in ATP binding and a larger C-terminal lobe responsible for substrate engagement, with the activation loop bridging these functional regions (cargnello2011activationandfunction pages 12-13, ludwig19963pkanovel pages 7-8).
+
+6. Regulation  
+MAPKAPK3 is principally regulated by phosphorylation events that are mediated by upstream MAP kinases, most notably p38‐alpha (MAPK14). Upon exposure to stress stimuli such as oxidative stress, UV irradiation, or inflammatory cytokines, p38 MAPK becomes activated through dual phosphorylation within its conserved activation loop and, in turn, phosphorylates MAPKAPK3 on key threonine residues within its activation loop (cargnello2011activationandfunction pages 24-25, meloche2010inhibitionofcdk1cyclin pages 267-270). This phosphorylation relieves autoinhibitory conformations present in the kinase and promotes its catalytic activity. In addition, MAPKAPK3 may be subject to regulation by other MAPK pathways, including the ERK cascade and SAPK/JNK, albeit its physiological activity is primarily coupled with the p38 pathway (ludwig19963pkanovel pages 8-10, meloche2010inhibitionofcdk1cyclin pages 267-270). Post‐translational modifications that dictate subcellular localization are also significant; MAPKAPK3 harbors a functional bipartite NLS and an NES that together modulate its nucleocytoplasmic trafficking. Under resting conditions, MAPKAPK3 predominantly localizes to the nucleus but can be rapidly exported to the cytoplasm in a CRM1‐dependent manner following stress‐induced phosphorylation (cargnello2011activationandfunction pages 23-24). These regulatory modifications ensure that MAPKAPK3 is present in the appropriate cellular compartment to engage its substrates during stress responses (cargnello2011activationandfunction pages 21-23).
+
+7. Function  
+MAPKAPK3 functions as a stress‐activated serine/threonine kinase with diverse roles in cellular homeostasis. It is involved in mediating responses to environmental and inflammatory stress by modulating the phosphorylation state of substrates that regulate cytokine production, endocytosis, cell migration, chromatin remodeling, and transcriptional regulation (cargnello2011activationandfunction pages 24-25, ludwig19963pkanovel pages 1-2). Upon activation by p38 MAP kinase, MAPKAPK3 phosphorylates substrates such as HSP27/HSPB1, leading to their dissociation from large oligomeric complexes, a process that diminishes the chaperone activity of these heat‐shock proteins and diminishes cellular protection against oxidative stress (cargnello2011activationandfunction pages 24-25, ludwig19963pkanovel pages 1-2). In addition, MAPKAPK3 has been shown to phosphorylate proteins including KRT18, KRT20, RCSD1, RPS6KA3, TAB3, and TTP/ZFP36, which are involved in maintaining cytoskeletal integrity, modulating inflammatory signaling cascades, and influencing post‐transcriptional regulation of gene expression (cargnello2011activationandfunction pages 25-26, williams2017emergingrolesof pages 31-35). Its role in the inflammatory response is highlighted by its involvement in regulating the production of key cytokines such as tumor necrosis factor (TNF) and interleukin-6 (IL6) through the phosphorylation of RNA-binding proteins that control mRNA stability (cargnello2011activationandfunction pages 29-30, ludwig19963pkanovel pages 1-2). Although MAPKAPK3 typically exhibits lower intrinsic kinase activity and lower protein expression compared to MAPKAPK2, its functional contributions are critical in fine-tuning stress and inflammatory responses within the cell (cargnello2011activationandfunction pages 21-23, ludwig19963pkanovel pages 1-2).
+
+8. Other Comments  
+MAPKAPK3 is of considerable interest due to its potential roles in various stress-related and inflammatory diseases. The kinase’s localization on chromosome 3p and its reduced expression compared to MAPKAPK2 have drawn attention to its possible involvement in tumor suppression pathways, with deletions in this chromosomal region being observed in certain malignancies (ludwig19963pkanovel pages 1-2, waldman2010effectsofoncogenic pages 90-93). Although there are currently fewer highly selective inhibitors specifically targeting MAPKAPK3 compared to other kinases in the MAPKAPK family, the development of ATP-competitive compounds that affect both MK2 and MK3 has provided useful experimental tools to dissect its biological function (meloche2010inhibitionofcdk1cyclin pages 267-270, cargnello2011activationandfunction pages 30-31). Moreover, ongoing research continues to elucidate the spectrum of physiological substrates for MAPKAPK3, its impact on cytoskeletal rearrangements, and its modulation of cytokine production. In addition, the interplay between MAPKAPK3 and other MAPKAP kinases in regulating inflammatory and stress response pathways underlines the complexity of kinase signaling networks in human health and disease (ludwig19963pkanovel pages 1-2, cargnello2011activationandfunction pages 24-25). The dual role of MAPKAPK3 in modulating both protective stress responses and pro-inflammatory signaling makes it a potential candidate for therapeutic intervention in diseases where these pathways are dysregulated (cargnello2011activationandfunction pages 24-25, meloche2010inhibitionofcdk1cyclin pages 270-272).
+
+9. References  
+1. cargnello2011activationandfunction pages 24-25  
+2. ludwig19963pkanovel pages 1-2  
+3. ludwig19963pkanovel pages 8-10  
+4. cargnello2011activationandfunction pages 1-1  
+5. cargnello2011activationandfunction pages 1-2  
+6. cargnello2011activationandfunction pages 12-13  
+7. cargnello2011activationandfunction pages 13-15  
+8. cargnello2011activationandfunction pages 21-23  
+9. cargnello2011activationandfunction pages 23-24  
+10. cargnello2011activationandfunction pages 30-31  
+11. crowde2013aninvestigationof pages 43-47  
+12. kostenko2011physiologicalrolesof pages 11-13  
+13. ludwig19963pkanovel pages 2-3  
+14. ludwig19963pkanovel pages 7-8  
+15. meloche2010inhibitionofcdk1cyclin pages 267-270  
+16. meloche2010inhibitionofcdk1cyclin pages 293-296  
+17. meloche2010inhibitionofcdk1cyclin pages 322-325  
+18. waldman2010effectsofoncogenic pages 90-93  
+19. williams2017emergingrolesof pages 31-35  
+20. cargnello2011activationandfunction pages 10-12  
+21. cargnello2011activationandfunction pages 25-26  
+22. cargnello2011activationandfunction pages 28-29  
+23. cargnello2011activationandfunction pages 29-30  
+24. cargnello2011activationandfunction pages 4-5  
+25. kostenko2011physiologicalrolesof pages 8-9  
+26. meloche2010inhibitionofcdk1cyclin pages 270-272  
+27. meloche2010inhibitionofcdk1cyclin pages 280-285  
+28. meloche2010inhibitionofcdk1cyclin pages 296-300  
+29. meloche2010inhibitionofcdk1cyclin pages 318-322  
+30. meloche2010inhibitionofcdk1cyclin pages 325-329  
+31. niswander2004molecularcorrelatesof pages 15-19  
+32. perez1999extracellularnucleotidesactivate pages 36-40  
+33. rousseau2009caractérisationdela pages 25-29  
+34. rousseau2009caractérisationdela pages 69-71  
+35. rousseau2009caractérisationdela pages 73-76  
+36. rousseau2009caractérisationdela pages 76-78  
+37. waldman2010effectsofoncogenic pages 88-90  
+38. cargnello2011activationandfunction pages 17-18  
+39. cargnello2011activationandfunction pages 33-34  
+40. cargnello2011activationandfunction pages 8-9  
+41. cargnello2011activationandfunction pages 9-10  
+42. chowdhury2023cmgckinasesin pages 8-9  
+43. kostenko2011physiologicalrolesof pages 1-2  
+44. kostenko2011physiologicalrolesof pages 10-11  
+45. kostenko2011physiologicalrolesof pages 15-16  
+46. kostenko2011physiologicalrolesof pages 3-4  
+47. kostenko2011physiologicalrolesof pages 9-10  
+48. meloche2010inhibitionofcdk1cyclin pages 272-275
+
+References
+
+1. (cargnello2011activationandfunction pages 24-25): Marie Cargnello and Philippe P. Roux. Activation and function of the mapks and their substrates, the mapk-activated protein kinases. Microbiology and Molecular Biology Reviews, 75:50-83, Mar 2011. URL: https://doi.org/10.1128/mmbr.00031-10, doi:10.1128/mmbr.00031-10. This article has 4026 citations and is from a domain leading peer-reviewed journal.
+
+2. (ludwig19963pkanovel pages 2-2): Stephan Ludwig, Katrin Engel, Angelika Hoffmeyer, Gunamani Sithanandam, Bernd Neufeld, Dieter Palm, Matthias Gaestel, and Ulf R. Rapp. 3pk, a novel mitogen-activated protein (map) kinase-activated protein kinase, is targeted by three map kinase pathways. Molecular and Cellular Biology, 16:6687-6697, Dec 1996. URL: https://doi.org/10.1128/mcb.16.12.6687, doi:10.1128/mcb.16.12.6687. This article has 239 citations and is from a domain leading peer-reviewed journal.
+
+3. (ludwig19963pkanovel pages 8-10): Stephan Ludwig, Katrin Engel, Angelika Hoffmeyer, Gunamani Sithanandam, Bernd Neufeld, Dieter Palm, Matthias Gaestel, and Ulf R. Rapp. 3pk, a novel mitogen-activated protein (map) kinase-activated protein kinase, is targeted by three map kinase pathways. Molecular and Cellular Biology, 16:6687-6697, Dec 1996. URL: https://doi.org/10.1128/mcb.16.12.6687, doi:10.1128/mcb.16.12.6687. This article has 239 citations and is from a domain leading peer-reviewed journal.
+
+4. (cargnello2011activationandfunction pages 1-1): Marie Cargnello and Philippe P. Roux. Activation and function of the mapks and their substrates, the mapk-activated protein kinases. Microbiology and Molecular Biology Reviews, 75:50-83, Mar 2011. URL: https://doi.org/10.1128/mmbr.00031-10, doi:10.1128/mmbr.00031-10. This article has 4026 citations and is from a domain leading peer-reviewed journal.
+
+5. (cargnello2011activationandfunction pages 1-2): Marie Cargnello and Philippe P. Roux. Activation and function of the mapks and their substrates, the mapk-activated protein kinases. Microbiology and Molecular Biology Reviews, 75:50-83, Mar 2011. URL: https://doi.org/10.1128/mmbr.00031-10, doi:10.1128/mmbr.00031-10. This article has 4026 citations and is from a domain leading peer-reviewed journal.
+
+6. (cargnello2011activationandfunction pages 12-13): Marie Cargnello and Philippe P. Roux. Activation and function of the mapks and their substrates, the mapk-activated protein kinases. Microbiology and Molecular Biology Reviews, 75:50-83, Mar 2011. URL: https://doi.org/10.1128/mmbr.00031-10, doi:10.1128/mmbr.00031-10. This article has 4026 citations and is from a domain leading peer-reviewed journal.
+
+7. (cargnello2011activationandfunction pages 13-15): Marie Cargnello and Philippe P. Roux. Activation and function of the mapks and their substrates, the mapk-activated protein kinases. Microbiology and Molecular Biology Reviews, 75:50-83, Mar 2011. URL: https://doi.org/10.1128/mmbr.00031-10, doi:10.1128/mmbr.00031-10. This article has 4026 citations and is from a domain leading peer-reviewed journal.
+
+8. (cargnello2011activationandfunction pages 21-23): Marie Cargnello and Philippe P. Roux. Activation and function of the mapks and their substrates, the mapk-activated protein kinases. Microbiology and Molecular Biology Reviews, 75:50-83, Mar 2011. URL: https://doi.org/10.1128/mmbr.00031-10, doi:10.1128/mmbr.00031-10. This article has 4026 citations and is from a domain leading peer-reviewed journal.
+
+9. (cargnello2011activationandfunction pages 23-24): Marie Cargnello and Philippe P. Roux. Activation and function of the mapks and their substrates, the mapk-activated protein kinases. Microbiology and Molecular Biology Reviews, 75:50-83, Mar 2011. URL: https://doi.org/10.1128/mmbr.00031-10, doi:10.1128/mmbr.00031-10. This article has 4026 citations and is from a domain leading peer-reviewed journal.
+
+10. (cargnello2011activationandfunction pages 30-31): Marie Cargnello and Philippe P. Roux. Activation and function of the mapks and their substrates, the mapk-activated protein kinases. Microbiology and Molecular Biology Reviews, 75:50-83, Mar 2011. URL: https://doi.org/10.1128/mmbr.00031-10, doi:10.1128/mmbr.00031-10. This article has 4026 citations and is from a domain leading peer-reviewed journal.
+
+11. (kostenko2011physiologicalrolesof pages 11-13): Sergiy Kostenko, Gianina Dumitriu, Kari Jenssen Lægreid, and U. Moens. Physiological roles of mitogen-activated-protein-kinase-activated p38-regulated/activated protein kinase. World journal of biological chemistry, 2 5:73-89, May 2011. URL: https://doi.org/10.4331/wjbc.v2.i5.73, doi:10.4331/wjbc.v2.i5.73. This article has 65 citations.
+
+12. (ludwig19963pkanovel pages 1-2): Stephan Ludwig, Katrin Engel, Angelika Hoffmeyer, Gunamani Sithanandam, Bernd Neufeld, Dieter Palm, Matthias Gaestel, and Ulf R. Rapp. 3pk, a novel mitogen-activated protein (map) kinase-activated protein kinase, is targeted by three map kinase pathways. Molecular and Cellular Biology, 16:6687-6697, Dec 1996. URL: https://doi.org/10.1128/mcb.16.12.6687, doi:10.1128/mcb.16.12.6687. This article has 239 citations and is from a domain leading peer-reviewed journal.
+
+13. (ludwig19963pkanovel pages 2-3): Stephan Ludwig, Katrin Engel, Angelika Hoffmeyer, Gunamani Sithanandam, Bernd Neufeld, Dieter Palm, Matthias Gaestel, and Ulf R. Rapp. 3pk, a novel mitogen-activated protein (map) kinase-activated protein kinase, is targeted by three map kinase pathways. Molecular and Cellular Biology, 16:6687-6697, Dec 1996. URL: https://doi.org/10.1128/mcb.16.12.6687, doi:10.1128/mcb.16.12.6687. This article has 239 citations and is from a domain leading peer-reviewed journal.
+
+14. (ludwig19963pkanovel pages 7-8): Stephan Ludwig, Katrin Engel, Angelika Hoffmeyer, Gunamani Sithanandam, Bernd Neufeld, Dieter Palm, Matthias Gaestel, and Ulf R. Rapp. 3pk, a novel mitogen-activated protein (map) kinase-activated protein kinase, is targeted by three map kinase pathways. Molecular and Cellular Biology, 16:6687-6697, Dec 1996. URL: https://doi.org/10.1128/mcb.16.12.6687, doi:10.1128/mcb.16.12.6687. This article has 239 citations and is from a domain leading peer-reviewed journal.
+
+15. (meloche2010inhibitionofcdk1cyclin pages 267-270): S Meloche. Inhibition of cdk1/cyclin b activity by mk5 delays entry into mitosis after replicative stress. Unknown journal, 2010.
+
+16. (meloche2010inhibitionofcdk1cyclin pages 293-296): S Meloche. Inhibition of cdk1/cyclin b activity by mk5 delays entry into mitosis after replicative stress. Unknown journal, 2010.
+
+17. (meloche2010inhibitionofcdk1cyclin pages 322-325): S Meloche. Inhibition of cdk1/cyclin b activity by mk5 delays entry into mitosis after replicative stress. Unknown journal, 2010.
+
+18. (waldman2010effectsofoncogenic pages 90-93): LK Waldman. Effects of oncogenic ras and p38 mitogen-activated protein kinase on the adhesion of normal human cells. Unknown journal, 2010.
+
+19. (williams2017emergingrolesof pages 31-35): Patrick Allen Williams, Michael Bouchard, and Todd Strochlic. Emerging Roles of the Protein Kinase MK2 in Spermatogenesis. PhD thesis, Drexel University Libraries, 2017. URL: https://doi.org/10.17918/etd-7528, doi:10.17918/etd-7528.
+
+20. (cargnello2011activationandfunction pages 10-12): Marie Cargnello and Philippe P. Roux. Activation and function of the mapks and their substrates, the mapk-activated protein kinases. Microbiology and Molecular Biology Reviews, 75:50-83, Mar 2011. URL: https://doi.org/10.1128/mmbr.00031-10, doi:10.1128/mmbr.00031-10. This article has 4026 citations and is from a domain leading peer-reviewed journal.
+
+21. (cargnello2011activationandfunction pages 25-26): Marie Cargnello and Philippe P. Roux. Activation and function of the mapks and their substrates, the mapk-activated protein kinases. Microbiology and Molecular Biology Reviews, 75:50-83, Mar 2011. URL: https://doi.org/10.1128/mmbr.00031-10, doi:10.1128/mmbr.00031-10. This article has 4026 citations and is from a domain leading peer-reviewed journal.
+
+22. (cargnello2011activationandfunction pages 28-29): Marie Cargnello and Philippe P. Roux. Activation and function of the mapks and their substrates, the mapk-activated protein kinases. Microbiology and Molecular Biology Reviews, 75:50-83, Mar 2011. URL: https://doi.org/10.1128/mmbr.00031-10, doi:10.1128/mmbr.00031-10. This article has 4026 citations and is from a domain leading peer-reviewed journal.
+
+23. (cargnello2011activationandfunction pages 29-30): Marie Cargnello and Philippe P. Roux. Activation and function of the mapks and their substrates, the mapk-activated protein kinases. Microbiology and Molecular Biology Reviews, 75:50-83, Mar 2011. URL: https://doi.org/10.1128/mmbr.00031-10, doi:10.1128/mmbr.00031-10. This article has 4026 citations and is from a domain leading peer-reviewed journal.
+
+24. (cargnello2011activationandfunction pages 4-5): Marie Cargnello and Philippe P. Roux. Activation and function of the mapks and their substrates, the mapk-activated protein kinases. Microbiology and Molecular Biology Reviews, 75:50-83, Mar 2011. URL: https://doi.org/10.1128/mmbr.00031-10, doi:10.1128/mmbr.00031-10. This article has 4026 citations and is from a domain leading peer-reviewed journal.
+
+25. (kostenko2011physiologicalrolesof pages 8-9): Sergiy Kostenko, Gianina Dumitriu, Kari Jenssen Lægreid, and U. Moens. Physiological roles of mitogen-activated-protein-kinase-activated p38-regulated/activated protein kinase. World journal of biological chemistry, 2 5:73-89, May 2011. URL: https://doi.org/10.4331/wjbc.v2.i5.73, doi:10.4331/wjbc.v2.i5.73. This article has 65 citations.
+
+26. (meloche2010inhibitionofcdk1cyclin pages 270-272): S Meloche. Inhibition of cdk1/cyclin b activity by mk5 delays entry into mitosis after replicative stress. Unknown journal, 2010.
+
+27. (meloche2010inhibitionofcdk1cyclin pages 280-285): S Meloche. Inhibition of cdk1/cyclin b activity by mk5 delays entry into mitosis after replicative stress. Unknown journal, 2010.
+
+28. (meloche2010inhibitionofcdk1cyclin pages 296-300): S Meloche. Inhibition of cdk1/cyclin b activity by mk5 delays entry into mitosis after replicative stress. Unknown journal, 2010.
+
+29. (meloche2010inhibitionofcdk1cyclin pages 318-322): S Meloche. Inhibition of cdk1/cyclin b activity by mk5 delays entry into mitosis after replicative stress. Unknown journal, 2010.
+
+30. (meloche2010inhibitionofcdk1cyclin pages 325-329): S Meloche. Inhibition of cdk1/cyclin b activity by mk5 delays entry into mitosis after replicative stress. Unknown journal, 2010.
+
+31. (niswander2004molecularcorrelatesof pages 15-19): JM Niswander. Molecular correlates of adaptation and apoptosis: p38 signaling in hippocampus. Unknown journal, 2004.
+
+32. (perez1999extracellularnucleotidesactivate pages 36-40): LIS Perez. Extracellular nucleotides activate mitogen-activated protein kinase signaling cascades in human u937 cells. Unknown journal, 1999.
+
+33. (rousseau2009caractérisationdela pages 25-29): J Rousseau. Caractérisation de la map kinase atypique erk4: activation et fonction physiologique. Unknown journal, 2009.
+
+34. (rousseau2009caractérisationdela pages 69-71): J Rousseau. Caractérisation de la map kinase atypique erk4: activation et fonction physiologique. Unknown journal, 2009.
+
+35. (rousseau2009caractérisationdela pages 73-76): J Rousseau. Caractérisation de la map kinase atypique erk4: activation et fonction physiologique. Unknown journal, 2009.
+
+36. (rousseau2009caractérisationdela pages 76-78): J Rousseau. Caractérisation de la map kinase atypique erk4: activation et fonction physiologique. Unknown journal, 2009.
+
+37. (waldman2010effectsofoncogenic pages 88-90): LK Waldman. Effects of oncogenic ras and p38 mitogen-activated protein kinase on the adhesion of normal human cells. Unknown journal, 2010.
+
+38. (cargnello2011activationandfunction pages 17-18): Marie Cargnello and Philippe P. Roux. Activation and function of the mapks and their substrates, the mapk-activated protein kinases. Microbiology and Molecular Biology Reviews, 75:50-83, Mar 2011. URL: https://doi.org/10.1128/mmbr.00031-10, doi:10.1128/mmbr.00031-10. This article has 4026 citations and is from a domain leading peer-reviewed journal.
+
+39. (cargnello2011activationandfunction pages 33-34): Marie Cargnello and Philippe P. Roux. Activation and function of the mapks and their substrates, the mapk-activated protein kinases. Microbiology and Molecular Biology Reviews, 75:50-83, Mar 2011. URL: https://doi.org/10.1128/mmbr.00031-10, doi:10.1128/mmbr.00031-10. This article has 4026 citations and is from a domain leading peer-reviewed journal.
+
+40. (cargnello2011activationandfunction pages 8-9): Marie Cargnello and Philippe P. Roux. Activation and function of the mapks and their substrates, the mapk-activated protein kinases. Microbiology and Molecular Biology Reviews, 75:50-83, Mar 2011. URL: https://doi.org/10.1128/mmbr.00031-10, doi:10.1128/mmbr.00031-10. This article has 4026 citations and is from a domain leading peer-reviewed journal.
+
+41. (cargnello2011activationandfunction pages 9-10): Marie Cargnello and Philippe P. Roux. Activation and function of the mapks and their substrates, the mapk-activated protein kinases. Microbiology and Molecular Biology Reviews, 75:50-83, Mar 2011. URL: https://doi.org/10.1128/mmbr.00031-10, doi:10.1128/mmbr.00031-10. This article has 4026 citations and is from a domain leading peer-reviewed journal.
+
+42. (chowdhury2023cmgckinasesin pages 8-9): Iftekhar Chowdhury, Giovanna Dashi, and S. Keskitalo. Cmgc kinases in health and cancer. Cancers, Jul 2023. URL: https://doi.org/10.3390/cancers15153838, doi:10.3390/cancers15153838. This article has 19 citations and is from a peer-reviewed journal.
+
+43. (kostenko2011physiologicalrolesof pages 1-2): Sergiy Kostenko, Gianina Dumitriu, Kari Jenssen Lægreid, and U. Moens. Physiological roles of mitogen-activated-protein-kinase-activated p38-regulated/activated protein kinase. World journal of biological chemistry, 2 5:73-89, May 2011. URL: https://doi.org/10.4331/wjbc.v2.i5.73, doi:10.4331/wjbc.v2.i5.73. This article has 65 citations.
+
+44. (kostenko2011physiologicalrolesof pages 10-11): Sergiy Kostenko, Gianina Dumitriu, Kari Jenssen Lægreid, and U. Moens. Physiological roles of mitogen-activated-protein-kinase-activated p38-regulated/activated protein kinase. World journal of biological chemistry, 2 5:73-89, May 2011. URL: https://doi.org/10.4331/wjbc.v2.i5.73, doi:10.4331/wjbc.v2.i5.73. This article has 65 citations.
+
+45. (kostenko2011physiologicalrolesof pages 15-16): Sergiy Kostenko, Gianina Dumitriu, Kari Jenssen Lægreid, and U. Moens. Physiological roles of mitogen-activated-protein-kinase-activated p38-regulated/activated protein kinase. World journal of biological chemistry, 2 5:73-89, May 2011. URL: https://doi.org/10.4331/wjbc.v2.i5.73, doi:10.4331/wjbc.v2.i5.73. This article has 65 citations.
+
+46. (kostenko2011physiologicalrolesof pages 3-4): Sergiy Kostenko, Gianina Dumitriu, Kari Jenssen Lægreid, and U. Moens. Physiological roles of mitogen-activated-protein-kinase-activated p38-regulated/activated protein kinase. World journal of biological chemistry, 2 5:73-89, May 2011. URL: https://doi.org/10.4331/wjbc.v2.i5.73, doi:10.4331/wjbc.v2.i5.73. This article has 65 citations.
+
+47. (kostenko2011physiologicalrolesof pages 9-10): Sergiy Kostenko, Gianina Dumitriu, Kari Jenssen Lægreid, and U. Moens. Physiological roles of mitogen-activated-protein-kinase-activated p38-regulated/activated protein kinase. World journal of biological chemistry, 2 5:73-89, May 2011. URL: https://doi.org/10.4331/wjbc.v2.i5.73, doi:10.4331/wjbc.v2.i5.73. This article has 65 citations.
+
+48. (meloche2010inhibitionofcdk1cyclin pages 272-275): S Meloche. Inhibition of cdk1/cyclin b activity by mk5 delays entry into mitosis after replicative stress. Unknown journal, 2010.

@@ -1,0 +1,127 @@
+1. Phylogeny  
+MARK3 is a serine/threonine kinase belonging to the microtubule affinity‐regulating kinase (MARK) family, which is a subfamily within the AMP‐activated protein kinase (AMPK)–related kinases, part of the larger calcium/calmodulin‐dependent protein kinase (CAMK) group. MARK3 is one of four mammalian isoforms (MARK1–MARK4) and is evolutionarily conserved from yeast through invertebrates (e.g., the Par-1 kinases of Caenorhabditis elegans and Drosophila) to mammals, reflecting its ancient origin in early eukaryotes (matenia2009thetauof pages 4-6, annadurai2017microtubuleaffinityregulatingkinases pages 1-2). Within the kinome, MARK3 shows high sequence conservation in its catalytic domain compared to its paralogs, with structural and functional similarities to MARK1 and MARK2, although MARK4 displays distinct regulatory features. This evolutionary conservation underscores its role in fundamental cellular processes such as microtubule organization and cell polarity (matenia2009thetauof pages 4-6, timm2008structureandregulation pages 1-2).
+
+2. Reaction Catalyzed  
+MARK3 catalyzes the phosphorylation reaction in which the terminal phosphate group is transferred from ATP to a serine or threonine residue on substrate proteins. The chemical reaction can be summarized as:  
+  ATP + [protein]-(L-serine or L-threonine) → ADP + [protein]-(L-serine/threonine)-phosphate + H⁺  
+This reaction underlies the enzyme’s ability to modulate the function of various substrates, especially those involved in microtubule dynamics, by covalently modifying specific serine/threonine residues (timm2008structureandregulation pages 1-2, goransson2006regulationofthe pages 2-3).
+
+3. Cofactor Requirements  
+The kinase activity of MARK3 is dependent on the presence of specific divalent metal ions that facilitate ATP binding and phosphoryl transfer. In particular, MARK3 requires Mg²⁺ as a cofactor, a requirement that is typical for serine/threonine kinases. Mg²⁺ ions coordinate with ATP in the active site, thereby stabilizing the transfer of the γ-phosphate to the target substrate (annadurai2017microtubuleaffinityregulatingkinases pages 5-6, timm2008structureandregulation pages 2-4).
+
+4. Substrate Specificity  
+MARK3 exhibits substrate specificity that is defined by its preference for serine/threonine residues within defined sequence motifs present in its substrates. A well‐characterized consensus is the KXGS motif, found in the microtubule-binding domains of key substrates such as the microtubule-associated protein tau (MAPT) and MAP2/MAP4. For tau, phosphorylation of serine residues (for example, at Ser262 within a KXGS motif) by MARK3 leads to a reduction in its affinity for microtubules, thereby modulating microtubule stability and dynamics (matenia2009thetauof pages 4-6, li2006regulationofthe pages 77-81). In addition to tau, MARK3 phosphorylates CDC25C on Ser216, which plays an important role in the regulation of cell cycle progression by creating a binding site for 14-3-3 proteins; it also targets regulatory proteins such as histone deacetylase HDAC7 and the microphthalmia-associated transcription factor MITF, thereby affecting their subcellular localization through induced interactions with 14-3-3 proteins (goransson2006regulationofthe pages 2-3). This specificity allows MARK3 to exert precise control over cytoskeletal structure and cell cycle checkpoints.
+
+5. Structure  
+The three-dimensional structure of MARK3 is defined by a modular domain architecture that is critical to its function and regulation. Its N-terminal region harbors the catalytic (kinase) domain, which adopts the typical bilobed structure observed in other serine/threonine kinases. The kinase domain consists of a smaller N-terminal lobe primarily composed of β-strands including the ATP-binding glycine-rich “P-loop” and a larger C-terminal lobe composed mainly of α-helices. Key structural elements within this domain include the catalytic loop, which contains a conserved aspartate necessary for catalysis, and the activation (T-) loop whose phosphorylation is essential to induce a conformational change that allows substrate and ATP access (goransson2006regulationofthe pages 2-3, timm2008structureandregulation pages 2-4).
+
+Immediately following the catalytic domain, MARK3 contains a ubiquitin‐associated (UBA) domain. Although UBA domains are traditionally known for their role in binding ubiquitin, the UBA domain in MARK3 exhibits a unique, noncanonical fold that does not support tight ubiquitin binding; instead, it is thought to participate in intramolecular interactions that regulate kinase activity by stabilizing specific conformations of the catalytic domain (emptage2017moleculardeterminantsof pages 1-2, nugoor2008structuralvariationsina pages 11-14).
+
+Beyond the UBA domain, a long, variable spacer region is present, which is implicated in determining the subcellular localization of the kinase and is subject to regulatory phosphorylation by enzymes such as atypical protein kinase C (aPKC). This spacers’ regulatory phosphorylation modulates interactions with scaffold proteins, notably the 14-3-3 proteins, and ultimately influences MARK3's distribution within the cell (goransson2006regulationofthe pages 8-9, novielli2010differentialinvolvementof pages 10-13).
+
+At its extreme C-terminus, MARK3 harbors a kinase-associated (KA1) domain, which is implicated in targeting the kinase to membranes through interaction with anionic phospholipids and may also contribute to autoinhibition by interacting with the catalytic domain under resting conditions (matenia2009thetauof pages 6-8, sonntag2019thekldptactivation pages 10-11). Recent crystallographic studies and AlphaFold models of related MARK isoforms have reinforced the conservation of these structural features, including the hydrophobic spine and the DFG motif within the activation loop that are essential for catalytic function (timm2008structureandregulation pages 2-4, marx2006structuralvariationsin pages 1-1).
+
+6. Regulation  
+The regulation of MARK3 is achieved through a complex interplay of phosphorylation events, protein–protein interactions, and autoinhibitory mechanisms that ensure its activity is precisely tuned in response to cellular cues. A key regulatory event is the phosphorylation of a conserved threonine residue in the activation loop (analogous to Thr208 in MARK2 and typically referred to as Thr211 in MARK3). This phosphorylation, catalyzed by upstream kinases such as LKB1 and MARKK (also known as TAO-1), induces a conformational change in the kinase domain, thereby promoting substrate access and full catalytic activity (goransson2006regulationofthe pages 2-3, timm2008structureandregulation pages 1-2).
+
+In contrast, inhibitory phosphorylation events also modulate MARK3 function. For example, phosphorylation of an adjacent serine residue by glycogen synthase kinase 3β (GSK3β) has been shown to inhibit activity even in the presence of activating phosphorylation on the T-loop, likely by disrupting proper positioning of catalytic residues (sonntag2019thekldptactivation pages 1-2, rovina2014newinsightsintoa pages 14-17).
+
+MARK3 also interacts with 14-3-3 proteins in a phosphorylation-dependent manner; these adaptor proteins bind to specific phospho-serine/threonine motifs, thereby influencing the subcellular localization of MARK3 by sequestering it in the cytoplasm and preventing its association with target membranes or substrates (matenia2009thetauof pages 8-9, sandi2017mark3mediatedphosphorylationof pages 3-4). Moreover, the binding of regulatory proteins such as PAK5 to the catalytic domain can further attenuate MARK3 activity, integrating signals from actin cytoskeletal pathways with microtubule regulation (timm2006signalingfrommark pages 5-6).
+
+Additional intramolecular regulatory mechanisms involve the UBA and KA1 domains. The UBA domain, although not functioning as a conventional ubiquitin-binding module, may stabilize an autoinhibited conformation of MARK3 by interacting with elements of the kinase domain. Likewise, the KA1 domain can contribute to autoinhibition by mediating interactions between the C-terminal regulatory region and the catalytic core until appropriate activating signals, such as membrane lipids or phosphorylation events, disrupt these contacts (nugoor2008structuralvariationsina pages 14-18, naz2013microtubuleaffinityregulatingkinase pages 5-7).
+
+7. Function  
+MARK3 plays diverse roles in cellular physiology through its activity as a serine/threonine protein kinase. One of its primary functions is the regulation of microtubule dynamics. By phosphorylating microtubule-associated proteins (MAPs) such as tau, MAP2, and MAP4 at conserved KXGS motifs, MARK3 decreases their affinity for microtubules, leading to enhanced microtubule dynamic instability. This mechanism is crucial for processes requiring rapid cytoskeletal reorganization, including neurite outgrowth and cell polarity establishment (matenia2009thetauof pages 4-6, goransson2006regulationofthe pages 2-3).
+
+In addition to its role in microtubule regulation, MARK3 phosphorylates CDC25C on Ser216. This modification promotes the binding of 14-3-3 proteins, thereby sequestering CDC25C in the cytoplasm and preventing its premature activation of the cyclin-dependent kinases required for mitotic entry. This function positions MARK3 as an important regulator of the cell cycle (goransson2006regulationofthe pages 2-3).
+
+Another critical role of MARK3 is in the regulation of transcriptional programs through modulation of the subcellular localization of key regulators. For instance, MARK3 phosphorylates histone deacetylase HDAC7, which subsequently leads to the binding of 14-3-3 proteins and nuclear export of HDAC7. This relocalization lifts repression on target genes, thereby impacting differentiation processes (goransson2006regulationofthe pages 2-3). Similarly, MARK3 phosphorylates the microphthalmia-associated transcription factor (MITF), thereby promoting its interaction with 14-3-3 proteins and retention in the cytosol, which modulates its transcriptional activity (goransson2006regulationofthe pages 2-3).
+
+Recent studies have also implicated MARK3 in the negative regulation of the Hippo signaling pathway. MARK3 antagonizes the phosphorylation of LATS1, a core component of the Hippo pathway. Through cooperation with proteins such as DLG5, MARK3 can inhibit the activity of upstream kinases like STK3/MST2 toward LATS1, thus influencing the balance between cell proliferation and apoptosis (goransson2006regulationofthe pages 2-3).
+
+Furthermore, MARK3 phosphorylates additional substrates such as plakophilin 2 (PKP2) and KSR1. The phosphorylation of these substrates not only affects their subcellular distribution but also integrates MARK3 activity into broader signaling networks, including those that control cell–cell adhesion and Ras/MAPK signaling cascades. Collectively, these functions underscore the multifaceted role of MARK3: it acts as a central regulator of cytoskeletal dynamics, cell cycle progression, and signal transduction pathways that govern cell polarity and transcriptional control (matenia2009thetauof pages 4-6, timm2006signalingfrommark pages 5-6, annadurai2017microtubuleaffinityregulatingkinases pages 6-8).
+
+Expression studies have demonstrated that MARK3 is present in various tissues, and its activity appears to be modulated in accordance with the needs of dynamic cellular events such as neuronal differentiation, migration, and division. The involvement of MARK3 in tau phosphorylation also links it to the pathogenesis of neurodegenerative diseases like Alzheimer’s disease, where aberrant phosphorylation of tau contributes to the formation of neurofibrillary tangles (matenia2009thetauof pages 4-6, timm2008structureandregulation pages 1-2).
+
+8. Other Comments  
+Several small-molecule inhibitors have been identified that target members of the MARK family, although most reported compounds display activity across more than one isoform, and specific inhibitors exclusive for MARK3 are still under active investigation. ATP-competitive inhibitors and molecules such as hymenialdisine have demonstrated inhibitory effects on MARK kinase activity; however, the specificity of these compounds remains under evaluation (annadurai2017microtubuleaffinityregulatingkinases pages 6-8, sonntag2019thekldptactivation pages 10-11).
+
+MARK3’s dysregulation has been implicated in several disease contexts. In neurodegenerative disease, particularly Alzheimer’s disease, MARK3-mediated phosphorylation of tau contributes to tau hyperphosphorylation and the consequent destabilization of microtubules—a process that underlies neurofibrillary tangle formation. In addition, alterations in MARK3 activity can impact cell cycle control and signaling pathways, suggesting potential roles in oncogenesis and other proliferative disorders. Although detailed functional studies specific to MARK3 in cancer remain limited, its integration into Hippo signaling and interactions with key regulatory proteins underscore its potential relevance as a drug target (matenia2009thetauof pages 4-6, annadurai2017microtubuleaffinityregulatingkinases pages 4-5).
+
+Given its broad regulatory influence, MARK3 is also being explored as a potential therapeutic target for modulating cytoskeletal dynamics and cell polarity in pathological settings. Ongoing research aims to develop inhibitors with improved specificity against MARK3, which may hold promise for the treatment of neurodegenerative diseases or cancers where its signaling is deregulated (sandi2017mark3mediatedphosphorylationof pages 21-23).
+
+9. References  
+• Goransson2006regulationofthe pages 2-3  
+• Matenia2009thetauof pages 4-6  
+• Timm2008structureandregulation pages 1-2  
+• Timm2008structureandregulation pages 4-5  
+• Wu2017regulationofcell pages 1-3  
+• Annadurai2017microtubuleaffinityregulatingkinases pages 5-6  
+• Annadurai2017microtubuleaffinityregulatingkinases pages 6-8  
+• Annunziata2020phosphorylationsitesin pages 5-7  
+• Emptage2017moleculardeterminantsof pages 1-2  
+• Marx2006structuralvariationsin pages 1-1  
+• Naz2013microtubuleaffinityregulatingkinase pages 13-14  
+• Naz2013microtubuleaffinityregulatingkinase pages 8-10  
+• Sandi2017mark3mediatedphosphorylationof pages 1-3  
+• Sandi2017mark3mediatedphosphorylationof pages 21-23  
+• Sandi2017mark3mediatedphosphorylationof pages 3-4  
+• Sonntag2019thekldptactivation pages 1-2  
+• Sonntag2019thekldptactivation pages 10-11  
+• Timm2006signalingfrommark pages 1-2  
+• Timm2006signalingfrommark pages 4-5  
+• Timm2006signalingfrommark pages 5-6  
+• Trinczek2004mark4isa pages 1-1  
+• Naz2015designingnewkinase pages 1-2  
+
+
+
+References
+
+1. (goransson2006regulationofthe pages 2-3): Olga Göransson, Maria Deak, Stephan Wullschleger, Nick A. Morrice, Alan R. Prescott, and Dario R. Alessi. Regulation of the polarity kinases par-1/mark by 14-3-3 interaction and phosphorylation. Journal of Cell Science, 119:4059-4070, Oct 2006. URL: https://doi.org/10.1242/jcs.03097, doi:10.1242/jcs.03097. This article has 77 citations and is from a domain leading peer-reviewed journal.
+
+2. (li2006regulationofthe pages 77-81): X Li. Regulation of the kinase mark from rattus norvegicus (berkenhout, 1769): activation by markk and inhibition by pak5. Unknown journal, 2006.
+
+3. (matenia2009thetauof pages 4-6): Dorthe Matenia and Eva-Maria Mandelkow. The tau of mark: a polarized view of the cytoskeleton. Trends in Biochemical Sciences, 34:332-342, Jul 2009. URL: https://doi.org/10.1016/j.tibs.2009.03.008, doi:10.1016/j.tibs.2009.03.008. This article has 251 citations and is from a domain leading peer-reviewed journal.
+
+4. (novielli2010differentialinvolvementof pages 10-13): C Novielli. Differential involvement of s and l isoforms of the centrosomal mark4 kinase in glioma initiation and progression. Unknown journal, Dec 2010. URL: https://doi.org/10.13130/novielli-chiara\_phd2010-12-20, doi:10.13130/novielli-chiara\_phd2010-12-20. This article has 0 citations.
+
+5. (nugoor2008structuralvariationsina pages 11-14): C Nugoor. Structural variations in catalytic and ubiquitin–associated domains of human protein kinase mark1 and mark3. Unknown journal, 2008.
+
+6. (rovina2014newinsightsintoa pages 14-17): D Rovina. New insights into the role of the centrosomal mark4 kinase in regulating the dynamics and remodelling of cytoskeleton from …. Unknown journal, 2014.
+
+7. (timm2008structureandregulation pages 1-2): Thomas Timm, Alexander Marx, Saravanan Panneerselvam, Eckhard Mandelkow, and Eva-Maria Mandelkow. Structure and regulation of mark, a kinase involved in abnormal phosphorylation of tau protein. BMC Neuroscience, Dec 2008. URL: https://doi.org/10.1186/1471-2202-9-s2-s9, doi:10.1186/1471-2202-9-s2-s9. This article has 83 citations and is from a peer-reviewed journal.
+
+8. (annadurai2017microtubuleaffinityregulatingkinases pages 5-6): Narendran Annadurai, Khushboo Agrawal, Petr Džubák, Marián Hajdúch, and Viswanath Das. Microtubule affinity-regulating kinases are potential druggable targets for alzheimer’s disease. Cellular and Molecular Life Sciences, 74:4159-4169, Jun 2017. URL: https://doi.org/10.1007/s00018-017-2574-1, doi:10.1007/s00018-017-2574-1. This article has 47 citations and is from a domain leading peer-reviewed journal.
+
+9. (annadurai2017microtubuleaffinityregulatingkinases pages 6-8): Narendran Annadurai, Khushboo Agrawal, Petr Džubák, Marián Hajdúch, and Viswanath Das. Microtubule affinity-regulating kinases are potential druggable targets for alzheimer’s disease. Cellular and Molecular Life Sciences, 74:4159-4169, Jun 2017. URL: https://doi.org/10.1007/s00018-017-2574-1, doi:10.1007/s00018-017-2574-1. This article has 47 citations and is from a domain leading peer-reviewed journal.
+
+10. (emptage2017moleculardeterminantsof pages 1-2): Ryan P. Emptage, Mark A. Lemmon, and Kathryn M. Ferguson. Molecular determinants of ka1 domain-mediated autoinhibition and phospholipid activation of mark1 kinase. The Biochemical journal, 474 3:385-398, Feb 2017. URL: https://doi.org/10.1042/bcj20160792, doi:10.1042/bcj20160792. This article has 25 citations.
+
+11. (goransson2006regulationofthe pages 8-9): Olga Göransson, Maria Deak, Stephan Wullschleger, Nick A. Morrice, Alan R. Prescott, and Dario R. Alessi. Regulation of the polarity kinases par-1/mark by 14-3-3 interaction and phosphorylation. Journal of Cell Science, 119:4059-4070, Oct 2006. URL: https://doi.org/10.1242/jcs.03097, doi:10.1242/jcs.03097. This article has 77 citations and is from a domain leading peer-reviewed journal.
+
+12. (marx2006structuralvariationsin pages 1-1): Alexander Marx, Chanakya Nugoor, Jens Müller, Saravanan Panneerselvam, Thomas Timm, Matthias Bilang, Efstratios Mylonas, Dmitri I. Svergun, Eva-Maria Mandelkow, and Eckhard Mandelkow. Structural variations in the catalytic and ubiquitin-associated domains of microtubule-associated protein/microtubule affinity regulating kinase (mark) 1 and mark2*. Journal of Biological Chemistry, 281:27586-27599, Sep 2006. URL: https://doi.org/10.1074/jbc.m604865200, doi:10.1074/jbc.m604865200. This article has 71 citations and is from a domain leading peer-reviewed journal.
+
+13. (matenia2009thetauof pages 6-8): Dorthe Matenia and Eva-Maria Mandelkow. The tau of mark: a polarized view of the cytoskeleton. Trends in Biochemical Sciences, 34:332-342, Jul 2009. URL: https://doi.org/10.1016/j.tibs.2009.03.008, doi:10.1016/j.tibs.2009.03.008. This article has 251 citations and is from a domain leading peer-reviewed journal.
+
+14. (matenia2009thetauof pages 8-9): Dorthe Matenia and Eva-Maria Mandelkow. The tau of mark: a polarized view of the cytoskeleton. Trends in Biochemical Sciences, 34:332-342, Jul 2009. URL: https://doi.org/10.1016/j.tibs.2009.03.008, doi:10.1016/j.tibs.2009.03.008. This article has 251 citations and is from a domain leading peer-reviewed journal.
+
+15. (nugoor2008structuralvariationsina pages 14-18): C Nugoor. Structural variations in catalytic and ubiquitin–associated domains of human protein kinase mark1 and mark3. Unknown journal, 2008.
+
+16. (sandi2017mark3mediatedphosphorylationof pages 21-23): María-José Sandí, Christopher B. Marshall, Marc Balan, Étienne Coyaud, Ming Zhou, Daniel M. Monson, Noboru Ishiyama, Arun A. Chandrakumar, José La Rose, Amber L. Couzens, Anne-Claude Gingras, Brian Raught, Wei Xu, Mitsuhiko Ikura, Deborah K. Morrison, and Robert Rottapel. Mark3-mediated phosphorylation of arhgef2 couples microtubules to the actin cytoskeleton to establish cell polarity. Science Signaling, Oct 2017. URL: https://doi.org/10.1126/scisignal.aan3286, doi:10.1126/scisignal.aan3286. This article has 61 citations and is from a domain leading peer-reviewed journal.
+
+17. (sandi2017mark3mediatedphosphorylationof pages 3-4): María-José Sandí, Christopher B. Marshall, Marc Balan, Étienne Coyaud, Ming Zhou, Daniel M. Monson, Noboru Ishiyama, Arun A. Chandrakumar, José La Rose, Amber L. Couzens, Anne-Claude Gingras, Brian Raught, Wei Xu, Mitsuhiko Ikura, Deborah K. Morrison, and Robert Rottapel. Mark3-mediated phosphorylation of arhgef2 couples microtubules to the actin cytoskeleton to establish cell polarity. Science Signaling, Oct 2017. URL: https://doi.org/10.1126/scisignal.aan3286, doi:10.1126/scisignal.aan3286. This article has 61 citations and is from a domain leading peer-reviewed journal.
+
+18. (sonntag2019thekldptactivation pages 1-2): Tim Sonntag, James J. Moresco, John R. Yates, and Marc Montminy. The kldpt activation loop motif is critical for mark kinase activity. PLOS ONE, 14:e0225727, Dec 2019. URL: https://doi.org/10.1371/journal.pone.0225727, doi:10.1371/journal.pone.0225727. This article has 4 citations and is from a peer-reviewed journal.
+
+19. (sonntag2019thekldptactivation pages 10-11): Tim Sonntag, James J. Moresco, John R. Yates, and Marc Montminy. The kldpt activation loop motif is critical for mark kinase activity. PLOS ONE, 14:e0225727, Dec 2019. URL: https://doi.org/10.1371/journal.pone.0225727, doi:10.1371/journal.pone.0225727. This article has 4 citations and is from a peer-reviewed journal.
+
+20. (timm2006signalingfrommark pages 5-6): T. Timm, D. Matenia, X.-Y. Li, B. Griesshaber, and E.-M. Mandelkow. Signaling from mark to tau: regulation, cytoskeletal crosstalk, and pathological phosphorylation. Neurodegenerative Diseases, 3:207-217, Oct 2006. URL: https://doi.org/10.1159/000095258, doi:10.1159/000095258. This article has 63 citations and is from a peer-reviewed journal.
+
+21. (timm2008structureandregulation pages 2-4): Thomas Timm, Alexander Marx, Saravanan Panneerselvam, Eckhard Mandelkow, and Eva-Maria Mandelkow. Structure and regulation of mark, a kinase involved in abnormal phosphorylation of tau protein. BMC Neuroscience, Dec 2008. URL: https://doi.org/10.1186/1471-2202-9-s2-s9, doi:10.1186/1471-2202-9-s2-s9. This article has 83 citations and is from a peer-reviewed journal.
+
+22. (annadurai2017microtubuleaffinityregulatingkinases pages 1-2): Narendran Annadurai, Khushboo Agrawal, Petr Džubák, Marián Hajdúch, and Viswanath Das. Microtubule affinity-regulating kinases are potential druggable targets for alzheimer’s disease. Cellular and Molecular Life Sciences, 74:4159-4169, Jun 2017. URL: https://doi.org/10.1007/s00018-017-2574-1, doi:10.1007/s00018-017-2574-1. This article has 47 citations and is from a domain leading peer-reviewed journal.
+
+23. (annadurai2017microtubuleaffinityregulatingkinases pages 4-5): Narendran Annadurai, Khushboo Agrawal, Petr Džubák, Marián Hajdúch, and Viswanath Das. Microtubule affinity-regulating kinases are potential druggable targets for alzheimer’s disease. Cellular and Molecular Life Sciences, 74:4159-4169, Jun 2017. URL: https://doi.org/10.1007/s00018-017-2574-1, doi:10.1007/s00018-017-2574-1. This article has 47 citations and is from a domain leading peer-reviewed journal.
+
+24. (naz2013microtubuleaffinityregulatingkinase pages 5-7): Farha Naz, Farah Anjum, Asimul Islam, Faizan Ahmad, and Md. Imtaiyaz Hassan. Microtubule affinity-regulating kinase 4: structure, function, and regulation. Cell Biochemistry and Biophysics, 67:485-499, Mar 2013. URL: https://doi.org/10.1007/s12013-013-9550-7, doi:10.1007/s12013-013-9550-7. This article has 119 citations and is from a peer-reviewed journal.

@@ -1,0 +1,86 @@
+1. Phylogeny  
+PRKACB encodes the catalytic subunit beta (PKAβ) of the cyclic AMP-dependent protein kinase A (PKA) and belongs to the highly conserved AGC family of serine/threonine protein kinases. Its evolutionary history indicates that it shares a common ancestry with PRKACA (encoding the PKAα isoform) as a result of an ancient gene duplication event that occurred in early vertebrate evolution. Exons 2–10, which encode the catalytic core common to all functional isoforms, are extremely well conserved among chordates and other bilaterian species, demonstrating strong purifying selection over evolutionary timescales (moen2017functionandevolution pages 13-17, søberg2013evolutionarypathsof pages 1-2). Alternative splicing of the 5′ exons of PRKACB generates multiple isoforms – notably Cβ1, Cβ2, Cβ3, and Cβ4 – with distinct N-terminal extensions that exhibit tissue-specific expression patterns, whereby Cβ1 is expressed ubiquitously, Cβ2 is preferentially found in lymphoid and immune tissues, and the Cβ3 and Cβ4 variants are predominantly neuronal (moen2017functionandevolution pages 13-17, søberg2013evolutionarypathsof pages 2-4). Phylogenetic analyses further indicate that the divergence between the PRKACB and PRKACA genes occurred over 500 million years ago, underscoring the ancient origin of PKA as an essential regulator of diverse cellular processes (moen2017functionandevolution pages 7-13, søberg2013evolutionarypathsof pages 1-2).
+
+2. Reaction Catalyzed  
+PRKACB catalyzes the phosphorylation of serine and threonine residues within substrate proteins by transferring the γ-phosphate group from ATP. The reaction can be formally represented as:  
+  ATP + [protein]-(L-serine or L-threonine) → ADP + [protein]-(L-serine/threonine)-phosphate + H⁺  
+This fundamental reaction – characteristic of protein kinases – is central to the propagation of cAMP-dependent signals throughout the cell, thereby modulating protein function and cellular behavior (endicott2012thestructuralbasis pages 12-13, newton2003regulationofthe pages 1-2).
+
+3. Cofactor Requirements  
+The catalytic activity of PRKACB is strictly dependent on the presence of divalent metal cations, with Mg²⁺ being the primary cofactor required for stabilizing the ATP substrate within the active site. In certain experimental contexts, Mn²⁺ may substitute for Mg²⁺; however, Mg²⁺ remains the physiologically relevant cofactor that facilitates the proper positioning of ATP for efficient phosphotransfer (endicott2012thestructuralbasis pages 12-13, taylor2022thetailsof pages 7-9).
+
+4. Substrate Specificity  
+PRKACB exhibits a substrate specificity that is characteristic of cAMP-dependent protein kinases. The kinase typically recognizes and phosphorylates serine/threonine residues located within consensus motifs enriched with basic amino acids. In many cases, substrates present a motif with arginine residues at the −3 and −2 positions relative to the target serine or threonine, yielding a consensus sequence resembling R–R–X–[S/T] (søberg2018themolecularbasis pages 10-12, endicott2012thestructuralbasis pages 12-13). This intrinsic substrate preference directs the phosphorylation of a wide array of intracellular proteins involved in diverse regulatory pathways.
+
+5. Structure  
+The overall structure of PRKACB is defined by a central, highly conserved kinase domain of approximately 350 amino acids, which is organized in a bi-lobal fashion consisting of an N-terminal lobe and a larger C-terminal lobe. The catalytic core – primarily encoded by exons 2–10 – contains several critical structural elements:  
+ • The N-terminal lobe, which is predominantly composed of β-sheets and harbors the glycine-rich loop responsible for ATP phosphate positioning.  
+ • The C-terminal lobe, formed largely by α-helices, provides the substrate-binding site and houses key catalytic residues such as a conserved lysine from the β3 strand and an aspartate from the DFG motif, essential for coordinating metal ion binding and catalysis.  
+Alternative splicing at the N-terminus leads to the production of multiple PRKACB isoforms that differ in their regulatory N-terminal extensions. For instance, the Cβ1 isoform contains a myristoylation site at Gly1, which facilitates membrane association in certain holoenzyme configurations, whereas isoforms like Cβ2 possess a longer N-terminal extension lacking a classical myristoylation signal and are differentially regulated (moen2017functionandevolution pages 13-17, søberg2018themolecularbasis pages 2-4, taylor2022thetailsof pages 7-9). Additional structural features include a flexible activation loop, whose phosphorylation is critical for catalytic activity, and a C-terminal tail that plays an allosteric regulatory role by stabilizing the active conformation of the kinase through formation of hydrophobic spines and interaction with the C-helix (endicott2012thestructuralbasis pages 4-6, taylor2022thetailsof pages 14-16).
+
+6. Regulation  
+The activity of PRKACB is subject to multilayered regulatory controls. Under basal conditions, the catalytic subunits, including those encoded by PRKACB, are maintained in an inactive state through the formation of a holoenzyme complex with regulatory (R) subunits, which contain pseudosubstrate regions that block substrate access (newton2003regulationofthe pages 1-2, pidoux2010specificityandspatial pages 9-10). Activation occurs when extracellular signals trigger GPCR-mediated stimulation of adenylyl cyclase, leading to an increase in intracellular cAMP levels. The binding of cAMP to the R subunits induces a conformational shift that results in the dissociation and liberation of the active catalytic subunits (moen2017functionandevolution pages 7-13, newton2003regulationofthe pages 1-2).
+
+Post-translational modifications further modulate PRKACB function. Phosphorylation of residues within the activation loop—analogous to Thr197 in other PKA catalytic subunits—is essential for full kinase activation, as it stabilizes the active conformation and correctly orients catalytic residues for phosphotransfer (søberg2018themolecularbasis pages 10-12, taylor2022thetailsof pages 7-9). In addition, modifications in the N-terminal region, including myristoylation (present in isoforms such as Cβ1) and phosphorylation (for example, on Ser10), influence both subcellular localization and the assembly of specific signaling complexes through interactions with anchoring proteins such as AKAPs (taylor2022thetailsof pages 17-19, moen2017functionandevolution pages 45-49). Furthermore, PRKACB activity can be indirectly modulated by its role in phosphorylating proteins that regulate its own regulatory subunits; for example, phosphorylation of the E3 ligase adaptor PJA2 leads to ubiquitination and degradation of compartmentalized R subunits, thereby fine-tuning the balance between active and inactive pools of PKA (moen2017functionandevolution pages 42-45).
+
+7. Function  
+PRKACB plays a central role in mediating cAMP-dependent signals following GPCR activation. Once liberated from the inactive holoenzyme in response to elevated levels of cAMP, the catalytic subunits phosphorylate a broad spectrum of substrates, thereby regulating a variety of cellular processes. These processes include, but are not limited to, cell proliferation, progression through the cell cycle, and cellular differentiation; dynamic regulation of microtubule assembly and disassembly; chromatin condensation and decondensation; disassembly and reassembly of the nuclear envelope; and the modulation of intracellular transport mechanisms as well as ion flux across membranes (moen2017functionandevolution pages 7-13, moen2017functionandevolution pages 42-45).
+
+Furthermore, PRKACB is involved in the regulation of compartmentalized pools of its own regulatory subunits. It does this via the phosphorylation of PJA2, which binds these regulatory subunits, targets them for ubiquitination, and promotes their proteolysis—thus ensuring that local concentrations of regulatory and catalytic components are appropriately balanced (moen2017functionandevolution pages 42-45). In addition, PRKACB-mediated phosphorylation of the RNA-binding protein GPKOW modulates its ability to bind RNA, thereby influencing gene expression at the post-transcriptional level (moen2017functionandevolution pages 42-45). Another key function of PRKACB is its role as a negative regulator of mTOR Complex 1 (mTORC1); it phosphorylates RPTOR, one of the scaffolding proteins of mTORC1, which in turn dampens mTOR signaling (moen2017functionandevolution pages 42-45, moen2017functionandevolution pages 49-52). Expression patterns of PRKACB isoforms further contribute to its functional versatility: for example, the immune-enriched Cβ2 variant is associated with regulation of T-cell functions and inflammatory responses, whereas brain-specific Cβ3 and Cβ4 variants participate in neuronal signaling and plasticity (moen2017functionandevolution pages 13-17, søberg2018themolecularbasis pages 13-15).
+
+8. Other Comments  
+A range of inhibitors targeting PKA catalytic subunits have been utilized experimentally, with many of these compounds acting as ATP-competitive inhibitors or as pseudosubstrate peptides that mimic the binding of regulatory subunits (newton2003regulationofthe pages 1-2, pidoux2010specificityandspatial pages 9-10). However, specific inhibitors that selectively target the various PRKACB splice variants remain less well defined. Disease associations related to dysregulation of PKA signaling include endocrine disorders such as Cushing’s syndrome, fibrolamellar hepatocellular carcinoma, and Carney complex, as well as specific alterations noted in certain cancers including prostate cancer and non-small cell lung cancer (moen2017functionandevolution pages 49-52, taylor2022thetailsof pages 11-13). Moreover, mutations or aberrations that alter the balance of catalytic and regulatory subunits have been implicated in developmental and metabolic pathologies. In addition to these direct disease associations, PRKACB contributes to the regulation of cellular processes such as nuclear envelope dynamics and intracellular transport, alterations of which can have widespread pathological consequences (moen2017functionandevolution pages 42-45, newton2003regulationofthe pages 1-2).
+
+9. References  
+1. moen2017functionandevolution pages 13-17  
+2. moen2017functionandevolution pages 42-45  
+3. moen2017functionandevolution pages 45-49  
+4. moen2017functionandevolution pages 7-13  
+5. søberg2013evolutionarypathsof pages 1-2  
+6. søberg2013evolutionarypathsof pages 2-4  
+7. søberg2018themolecularbasis pages 2-4  
+8. søberg2018themolecularbasis pages 10-12  
+9. endicott2012thestructuralbasis pages 12-13  
+10. newton2003regulationofthe pages 1-2  
+11. pidoux2010specificityandspatial pages 9-10  
+12. taylor2022thetailsof pages 7-9  
+13. taylor2022thetailsof pages 14-16  
+14. taylor2022thetailsof pages 17-19
+
+References
+
+1. (moen2017functionandevolution pages 13-17): LV Moen. Function and evolution of protein kinase a splice variant cβ2 and its role as a biomarker in prostate cancer. Unknown journal, 2017.
+
+2. (moen2017functionandevolution pages 42-45): LV Moen. Function and evolution of protein kinase a splice variant cβ2 and its role as a biomarker in prostate cancer. Unknown journal, 2017.
+
+3. (moen2017functionandevolution pages 45-49): LV Moen. Function and evolution of protein kinase a splice variant cβ2 and its role as a biomarker in prostate cancer. Unknown journal, 2017.
+
+4. (moen2017functionandevolution pages 7-13): LV Moen. Function and evolution of protein kinase a splice variant cβ2 and its role as a biomarker in prostate cancer. Unknown journal, 2017.
+
+5. (søberg2018themolecularbasis pages 13-15): Kristoffer Søberg and Bjørn Steen Skålhegg. The molecular basis for specificity at the level of the protein kinase a catalytic subunit. Frontiers in Endocrinology, Sep 2018. URL: https://doi.org/10.3389/fendo.2018.00538, doi:10.3389/fendo.2018.00538. This article has 96 citations and is from a peer-reviewed journal.
+
+6. (søberg2018themolecularbasis pages 2-4): Kristoffer Søberg and Bjørn Steen Skålhegg. The molecular basis for specificity at the level of the protein kinase a catalytic subunit. Frontiers in Endocrinology, Sep 2018. URL: https://doi.org/10.3389/fendo.2018.00538, doi:10.3389/fendo.2018.00538. This article has 96 citations and is from a peer-reviewed journal.
+
+7. (taylor2022thetailsof pages 14-16): Susan S. Taylor, Kristoffer Søberg, Evan Kobori, Jian Wu, Sabine Pautz, Friedrich W. Herberg, and Bjørn Steen Skålhegg. The tails of protein kinase a. Molecular Pharmacology, 101:219-225, Apr 2022. URL: https://doi.org/10.1124/molpharm.121.000315, doi:10.1124/molpharm.121.000315. This article has 30 citations and is from a domain leading peer-reviewed journal.
+
+8. (taylor2022thetailsof pages 17-19): Susan S. Taylor, Kristoffer Søberg, Evan Kobori, Jian Wu, Sabine Pautz, Friedrich W. Herberg, and Bjørn Steen Skålhegg. The tails of protein kinase a. Molecular Pharmacology, 101:219-225, Apr 2022. URL: https://doi.org/10.1124/molpharm.121.000315, doi:10.1124/molpharm.121.000315. This article has 30 citations and is from a domain leading peer-reviewed journal.
+
+9. (taylor2022thetailsof pages 7-9): Susan S. Taylor, Kristoffer Søberg, Evan Kobori, Jian Wu, Sabine Pautz, Friedrich W. Herberg, and Bjørn Steen Skålhegg. The tails of protein kinase a. Molecular Pharmacology, 101:219-225, Apr 2022. URL: https://doi.org/10.1124/molpharm.121.000315, doi:10.1124/molpharm.121.000315. This article has 30 citations and is from a domain leading peer-reviewed journal.
+
+10. (endicott2012thestructuralbasis pages 12-13): Jane A. Endicott, Martin E.M. Noble, and Louise N. Johnson. The structural basis for control of eukaryotic protein kinases. Annual Review of Biochemistry, 81:587-613, Jul 2012. URL: https://doi.org/10.1146/annurev-biochem-052410-090317, doi:10.1146/annurev-biochem-052410-090317. This article has 524 citations and is from a domain leading peer-reviewed journal.
+
+11. (endicott2012thestructuralbasis pages 4-6): Jane A. Endicott, Martin E.M. Noble, and Louise N. Johnson. The structural basis for control of eukaryotic protein kinases. Annual Review of Biochemistry, 81:587-613, Jul 2012. URL: https://doi.org/10.1146/annurev-biochem-052410-090317, doi:10.1146/annurev-biochem-052410-090317. This article has 524 citations and is from a domain leading peer-reviewed journal.
+
+12. (moen2017functionandevolution pages 49-52): LV Moen. Function and evolution of protein kinase a splice variant cβ2 and its role as a biomarker in prostate cancer. Unknown journal, 2017.
+
+13. (newton2003regulationofthe pages 1-2): Alexandra C. NEWTON. Regulation of the abc kinases by phosphorylation: protein kinase c as a paradigm. Biochemical Journal, 370:361-371, Mar 2003. URL: https://doi.org/10.1042/bj20021626, doi:10.1042/bj20021626. This article has 1070 citations and is from a domain leading peer-reviewed journal.
+
+14. (pidoux2010specificityandspatial pages 9-10): Guillaume Pidoux and Kjetil Taskén. Specificity and spatial dynamics of protein kinase a signaling organized by a-kinase-anchoring proteins. Journal of Molecular Endocrinology, 44:271-284, Feb 2010. URL: https://doi.org/10.1677/jme-10-0010, doi:10.1677/jme-10-0010. This article has 244 citations and is from a peer-reviewed journal.
+
+15. (søberg2013evolutionarypathsof pages 1-2): Kristoffer Søberg, Tore Jahnsen, Torbjørn Rognes, Bjørn S. Skålhegg, and Jon K. Laerdahl. Evolutionary paths of the camp-dependent protein kinase (pka) catalytic subunits. PLoS ONE, 8:e60935, Apr 2013. URL: https://doi.org/10.1371/journal.pone.0060935, doi:10.1371/journal.pone.0060935. This article has 67 citations and is from a peer-reviewed journal.
+
+16. (søberg2013evolutionarypathsof pages 2-4): Kristoffer Søberg, Tore Jahnsen, Torbjørn Rognes, Bjørn S. Skålhegg, and Jon K. Laerdahl. Evolutionary paths of the camp-dependent protein kinase (pka) catalytic subunits. PLoS ONE, 8:e60935, Apr 2013. URL: https://doi.org/10.1371/journal.pone.0060935, doi:10.1371/journal.pone.0060935. This article has 67 citations and is from a peer-reviewed journal.
+
+17. (søberg2018themolecularbasis pages 10-12): Kristoffer Søberg and Bjørn Steen Skålhegg. The molecular basis for specificity at the level of the protein kinase a catalytic subunit. Frontiers in Endocrinology, Sep 2018. URL: https://doi.org/10.3389/fendo.2018.00538, doi:10.3389/fendo.2018.00538. This article has 96 citations and is from a peer-reviewed journal.
+
+18. (taylor2022thetailsof pages 11-13): Susan S. Taylor, Kristoffer Søberg, Evan Kobori, Jian Wu, Sabine Pautz, Friedrich W. Herberg, and Bjørn Steen Skålhegg. The tails of protein kinase a. Molecular Pharmacology, 101:219-225, Apr 2022. URL: https://doi.org/10.1124/molpharm.121.000315, doi:10.1124/molpharm.121.000315. This article has 30 citations and is from a domain leading peer-reviewed journal.

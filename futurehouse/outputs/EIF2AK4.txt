@@ -1,0 +1,136 @@
+1. Phylogeny  
+GCN2 (EIF2AK4) is a highly conserved serine/threonine kinase present from yeast to mammals, and its orthologs are found in plants, fungi, and animals. It belongs to the family of eIF2α kinases, which includes other stress‐responsive members such as PKR, HRI, and PERK. Phylogenetic analyses indicate that GCN2 is among the most ancestral and ubiquitous of these kinases, with its domain architecture and regulatory features preserved across eukaryotes (rothenburg2016evolutionofeif2α pages 1-4, tatara2024emergingroleof pages 1-2). Its evolutionary lineage is defined by the presence of a histidyl-tRNA synthetase-related (HisRS-like) domain and an N-terminal RWD domain, which together mediate protein–protein interactions and help integrate environmental signals with translational control. Comparative studies suggest that GCN2 arose before the divergence of the other eIF2α kinases, underscoring its importance as a metabolic stress sensor across diverse species (rothenburg2016evolutionofeif2α pages 21-23, donnelly2013theeif2αkinases pages 18-19).
+
+2. Reaction Catalyzed  
+GCN2 catalyzes the phosphorylation of the alpha subunit of eukaryotic initiation factor 2 (eIF2α) using ATP as a phosphate donor. The reaction is as follows:  
+ATP + eIF2α → ADP + eIF2α–phosphate + H⁺  
+This phosphorylation occurs predominantly at a conserved serine residue (Ser51 in mammals) and converts eIF2α into an inhibitor of its guanine nucleotide exchange factor, eIF2B, thereby reducing the formation of the active eIF2-GTP ternary complex (xu2011thegcn2eif2alpha pages 9-14).
+
+3. Cofactor Requirements  
+The kinase activity of GCN2 depends on the presence of divalent cations, with Mg²⁺ being the critical cofactor required for binding ATP and catalyzing the phosphorylation reaction. Although the literature does not elaborate extensively on additional cofactors beyond this requirement, Mg²⁺ is understood to be essential for most protein kinases, including GCN2 (rothenburg2016evolutionofeif2α pages 4-8).
+
+4. Substrate Specificity  
+GCN2 exhibits substrate specificity for eIF2α, a central component of the translation initiation machinery. Its kinase domain phosphorylates eIF2α at a specific serine residue (Ser51 in mammalian proteins), an event that is critical for its role in translational control. Although a detailed consensus substrate motif for GCN2 has not been provided in the context sources, its substrate specificity is defined by its ability to distinguish eIF2α from other potential substrates based on both the surrounding amino acid sequence and the structural context provided by its regulatory domains (zhao2023multiplerolesof pages 1-2, dey2012transcriptionalregulationof pages 24-28).
+
+5. Structure  
+GCN2 is organized into several distinct domains which each contribute to its function as a stress sensor and kinase. Its domain architecture comprises:  
+– An N-terminal RWD domain, which mediates interactions with regulatory proteins such as GCN1 and possibly GCN20, thereby facilitating optimal activation by amino acid starvation (tatara2024emergingroleof pages 4-5, altintas2024generalcontrolnonderepressible pages 8-8).  
+– A pseudokinase domain that, while not catalytically active, is thought to play a role in the regulation of GCN2’s catalytic activity and may participate in allosteric interactions.  
+– A catalytic kinase domain responsible for the transfer of the phosphate group from ATP to eIF2α; this domain displays structural features common to Ser/Thr kinases, including a bi-lobal fold, an activation loop that undergoes autophosphorylation, and conserved motifs such as the DFG motif that are essential for catalysis (miles2021gcn2eif2kinase pages 29-36, rothenburg2016evolutionofeif2α pages 8-11).  
+– A histidyl-tRNA synthetase (HisRS)-like domain is critical for binding uncharged tRNAs that accumulate upon amino acid deprivation; binding of these tRNAs relieves autoinhibition and triggers a conformational change that facilitates dimerization and subsequent autophosphorylation of the kinase domain (altintas2024generalcontrolnonderepressible pages 1-2, zhao2023multiplerolesof pages 2-4).  
+– A C-terminal domain that contributes to dimerization and stable ribosome association, further linking GCN2 activation to translational stresses such as stalled ribosomes (altintas2024generalcontrolnonderepressible pages 7-8, lokdarshi2022reviewemergingroles pages 3-4).  
+The overall three-dimensional structure, as predicted by crystallographic and AlphaFold models, reveals a parallel, back-to-back kinase dimer where the regulatory domains are oriented to sense molecular signals in the cytoplasm, particularly via uncharged tRNA binding (rothenburg2016evolutionofeif2α pages 4-8, lokdarshi2022reviewemergingroles pages 14-16). Key catalytic features include an autophosphorylation site in the activation loop and structural elements, such as the C-helix and hydrophobic spine, that are essential for achieving the active conformation (miles2021gcn2eif2kinase pages 29-36).
+
+6. Regulation  
+The regulation of GCN2 activity is multifaceted and tightly linked to the cell’s metabolic state. Its primary mode of activation occurs in response to amino acid deprivation, when uncharged (deacylated) tRNAs accumulate in the cytoplasm. These uncharged tRNAs bind directly to the HisRS-like domain and the C-terminal dimerization domain, relieving an autoinhibited state and promoting kinase dimerization and autophosphorylation (altintas2024generalcontrolnonderepressible pages 1-2, zhao2023multiplerolesof pages 2-4).  
+Additional regulatory mechanisms include its interaction with GCN1 and GCN20. GCN1 acts as a scaffold, recruiting GCN2 to ribosomes and facilitating the transfer of uncharged tRNAs from the ribosomal A-site to GCN2. This association is critical for full activation of the kinase under stress conditions such as both amino acid starvation and UV irradiation (tatara2024emergingroleof pages 4-5, donnelly2013theeif2αkinases pages 18-19).  
+Post-translational modifications also play an important role in modulating GCN2 activity. Autophosphorylation within the activation loop is essential for full catalytic activation, while additional phosphorylation events may fine-tune its activity or serve as feedback inhibition mechanisms. Other stress signals, such as glucose deprivation, oxidative stress, and ribosome stalling, can also indirectly modulate GCN2 via alterations in tRNA charging or alterations in GCN1/GCN20 interactions (anda2017activationofgcn2 pages 12-13, zhao2023multiplerolesof pages 4-6).  
+GCN2 is further regulated in concert with other nutrient-sensing pathways such as the mTOR pathway; under amino acid-rich conditions, mTORC1 activity helps maintain translation while inhibiting stress responses, thereby indirectly exerting negative regulation over GCN2’s activation (zhao2023multiplerolesof pages 9-11, altintas2024generalcontrolnonderepressible pages 8-8).
+
+7. Function  
+GCN2 serves as a central metabolic stress sensor that transduces signals of amino acid deprivation and other cellular stresses into a coordinated translational response. Upon activation, the phosphorylation of eIF2α by GCN2 leads to a global reduction in cap-dependent protein synthesis, thereby conserving amino acids and reducing the burden on the protein synthesis machinery (altintas2024generalcontrolnonderepressible pages 1-2, xu2011thegcn2eif2alpha pages 9-14).  
+At the same time, phosphorylation of eIF2α paradoxically promotes the selective translation of stress-responsive mRNAs containing upstream open reading frames (uORFs), such as that encoding the transcription factor ATF4. The increased expression of ATF4 subsequently reprograms gene expression to enhance amino acid biosynthesis, cellular redox balance, autophagy, and other processes associated with the integrated stress response (ISR) (zhao2023multiplerolesof pages 1-2, dey2012transcriptionalregulationof pages 24-28).  
+GCN2 also contributes to other biological processes beyond the ISR. It is implicated in cell cycle regulation through modulation of cyclin D1 and CDKN1A/p21 mRNA translation during unfolded protein response activation, and it plays roles in neuronal plasticity, learning, memory consolidation, and neurite outgrowth inhibition. Furthermore, GCN2 activity has been connected to proapoptotic signaling during glucose deprivation and antiviral responses by inhibiting early viral mRNA translation, thereby contributing to an innate defense against alphavirus infections (altintas2024generalcontrolnonderepressible pages 1-2, dey2012transcriptionalregulationof pages 13-19, goodman2019therolesof pages 101-105).
+
+8. Other Comments  
+Several experimental approaches have identified small molecule inhibitors that modulate GCN2 kinase activity, although most reports note that such inhibitors may have off-target effects. Inhibitors that impact uncharged tRNA binding or kinase autophosphorylation have been described in the literature, and ongoing research seeks to improve selectivity for therapeutic applications (joshi2013smallmoleculemodulators pages 1-2, joshi2013smallmoleculemodulators pages 7-9).  
+Disease associations for GCN2 include its involvement in conditions linked to metabolic stress, immune responses, and oncogenesis. Mutations in EIF2AK4 have been associated with pulmonary veno-occlusive disease and pulmonary arterial hypertension, while aberrant ISR signaling has also been implicated in cancer, neurodegeneration, and inflammatory disorders. Functional mutations that compromise GCN2’s activation or substrate phosphorylation can perturb the balance of protein synthesis and stress adaptation, impacting cell survival under adverse conditions (altintas2024generalcontrolnonderepressible pages 8-8, zhao2023multiplerolesof pages 15-16, tatara2024emergingroleof pages 17-18).
+
+9. References  
+Altintas2024GeneralControlNonDrepressible, Ozlem Altintas and Michael R. MacArthur. General control nonderepressible 2 (gcn2) as a therapeutic target in age-related diseases. Frontiers in Aging, Sep 2024. pages 1-2.
+
+Altintas2024GeneralControlNonDrepressible, Ozlem Altintas and Michael R. MacArthur. General control nonderepressible 2 (gcn2) as a therapeutic target in age-related diseases. Frontiers in Aging, Sep 2024. pages 6-6.
+
+Altintas2024GeneralControlNonDrepressible, Ozlem Altintas and Michael R. MacArthur. General control nonderepressible 2 (gcn2) as a therapeutic target in age-related diseases. Frontiers in Aging, Sep 2024. pages 6-7.
+
+Donnelly2013TheeIF2αKinases, Neysan Donnelly, Adrienne M. Gorman, Sanjeev Gupta, and Afshin Samali. The eif2α kinases: their structures and functions. Cellular and Molecular Life Sciences, Jan 2013. pages 18-19.
+
+Harding2019TheRibosomalPStalk, Heather P Harding et al. The ribosomal p-stalk couples amino acid starvation to gcn2 activation in mammalian cells. eLife, Nov 2019. pages 18-19.
+
+Lokdarshi2022ReviewEmergingRoles, Ansul Lokdarshi and Albrecht G. von Arnim. Review: emerging roles of the signaling network of the protein kinase gcn2 in the plant stress response. Plant Science, Jul 2022. pages 22-28.
+
+Miles2021GCN2eIF2Kinase, RR Miles. Gcn2 eif2 kinase is critical for keratinocyte collective migration and wound healing. 2021. pages 29-36.
+
+Rothenburg2016EvolutionofeIF2α, Stefan Rothenburg, Millie M. Georgiadis, and Ronald C. Wek. Evolution of eif2α kinases: adapting translational control to diverse stresses. Jan 2016. pages 1-4.
+
+Rothenburg2016EvolutionofeIF2α, Stefan Rothenburg, Millie M. Georgiadis, and Ronald C. Wek. Evolution of eif2α kinases: adapting translational control to diverse stresses. Jan 2016. pages 21-23.
+
+Tatara2024EmergingRoleof, Yota Tatara et al. Emerging role of gcn1 in disease and homeostasis. International Journal of Molecular Sciences, Mar 2024. pages 1-2.
+
+Donnelly2013TheeIF2αKinases, Neysan Donnelly et al. The eif2α kinases: their structures and functions. Cellular and Molecular Life Sciences, Jan 2013. pages 5-6.
+
+Zhao2023MultipleRolesOf, Chenxu Zhao et al. Multiple roles of the stress sensor gcn2 in immune cells. International Journal of Molecular Sciences, Feb 2023. pages 1-2.
+
+Zhao2023MultipleRolesOf, Chenxu Zhao et al. Multiple roles of the stress sensor gcn2 in immune cells. International Journal of Molecular Sciences, Feb 2023. pages 2-4.
+
+Zhao2023MultipleRolesOf, Chenxu Zhao et al. Multiple roles of the stress sensor gcn2 in immune cells. International Journal of Molecular Sciences, Feb 2023. pages 4-6.
+
+Zhao2023MultipleRolesOf, Chenxu Zhao et al. Multiple roles of the stress sensor gcn2 in immune cells. International Journal of Molecular Sciences, Feb 2023. pages 9-11.
+
+Anda2017ActivationOfGCN2, Silje Anda et al. Activation of gcn2 in response to different stresses. PLOS ONE, Aug 2017. pages 12-13.
+
+Coots2016EvaluationofmRNA, R Coots. Evaluation of mrna translation initiation control mechanisms under cellular stress conditions. pages 120-124.
+
+Coots2016EvaluationofmRNA, R Coots. Evaluation of mrna translation initiation control mechanisms under cellular stress conditions. pages 161-166.
+
+Dey2012TranscriptionalRegulationOf, S Dey. Transcriptional regulation of atf4 is critical for controlling the integrated stress response during eif2 phosphorylation. pages 24-28.
+
+Xu2011TheGCN2eIF2Alpha, X Xu. The gcn2 eif2alpha kinase regulates lipid and glucose homeostasis. pages 9-14.
+
+Zhao2023MultipleRolesOf, Chenxu Zhao et al. Multiple roles of the stress sensor gcn2 in immune cells. International Journal of Molecular Sciences, Feb 2023. pages 15-16.
+
+Wek2023SurvivingAndAdapting, Ronald C. Wek et al. Surviving and adapting to stress: translational control and the integrated stress response. Antioxidants & Redox Signaling, Aug 2023. pages 17-18.
+
+References
+
+1. (altintas2024generalcontrolnonderepressible pages 1-2): Ozlem Altintas and Michael R. MacArthur. General control nonderepressible 2 (gcn2) as a therapeutic target in age-related diseases. Frontiers in Aging, Sep 2024. URL: https://doi.org/10.3389/fragi.2024.1447370, doi:10.3389/fragi.2024.1447370. This article has 0 citations and is from a peer-reviewed journal.
+
+2. (donnelly2013theeif2αkinases pages 18-19): Neysan Donnelly, Adrienne M. Gorman, Sanjeev Gupta, and Afshin Samali. The eif2α kinases: their structures and functions. Cellular and Molecular Life Sciences, 70:3493-3511, Jan 2013. URL: https://doi.org/10.1007/s00018-012-1252-6, doi:10.1007/s00018-012-1252-6. This article has 1033 citations and is from a domain leading peer-reviewed journal.
+
+3. (miles2021gcn2eif2kinase pages 29-36): RR Miles. Gcn2 eif2 kinase is critical for keratinocyte collective migration and wound healing. Unknown journal, 2021.
+
+4. (rothenburg2016evolutionofeif2α pages 1-4): Stefan Rothenburg, Millie M. Georgiadis, and Ronald C. Wek. Evolution of eif2α kinases: adapting translational control to diverse stresses. Evolution of the Protein Synthesis Machinery and Its Regulation, pages 235-260, Jan 2016. URL: https://doi.org/10.1007/978-3-319-39468-8\_11, doi:10.1007/978-3-319-39468-8\_11. This article has 14 citations.
+
+5. (rothenburg2016evolutionofeif2α pages 21-23): Stefan Rothenburg, Millie M. Georgiadis, and Ronald C. Wek. Evolution of eif2α kinases: adapting translational control to diverse stresses. Evolution of the Protein Synthesis Machinery and Its Regulation, pages 235-260, Jan 2016. URL: https://doi.org/10.1007/978-3-319-39468-8\_11, doi:10.1007/978-3-319-39468-8\_11. This article has 14 citations.
+
+6. (zhao2023multiplerolesof pages 1-2): Chenxu Zhao, Han Guo, Yangxiao Hou, Tong Lei, Dong Wei, and Yong Zhao. Multiple roles of the stress sensor gcn2 in immune cells. International Journal of Molecular Sciences, 24:4285, Feb 2023. URL: https://doi.org/10.3390/ijms24054285, doi:10.3390/ijms24054285. This article has 22 citations and is from a peer-reviewed journal.
+
+7. (zhao2023multiplerolesof pages 2-4): Chenxu Zhao, Han Guo, Yangxiao Hou, Tong Lei, Dong Wei, and Yong Zhao. Multiple roles of the stress sensor gcn2 in immune cells. International Journal of Molecular Sciences, 24:4285, Feb 2023. URL: https://doi.org/10.3390/ijms24054285, doi:10.3390/ijms24054285. This article has 22 citations and is from a peer-reviewed journal.
+
+8. (zhao2023multiplerolesof pages 4-6): Chenxu Zhao, Han Guo, Yangxiao Hou, Tong Lei, Dong Wei, and Yong Zhao. Multiple roles of the stress sensor gcn2 in immune cells. International Journal of Molecular Sciences, 24:4285, Feb 2023. URL: https://doi.org/10.3390/ijms24054285, doi:10.3390/ijms24054285. This article has 22 citations and is from a peer-reviewed journal.
+
+9. (zhao2023multiplerolesof pages 9-11): Chenxu Zhao, Han Guo, Yangxiao Hou, Tong Lei, Dong Wei, and Yong Zhao. Multiple roles of the stress sensor gcn2 in immune cells. International Journal of Molecular Sciences, 24:4285, Feb 2023. URL: https://doi.org/10.3390/ijms24054285, doi:10.3390/ijms24054285. This article has 22 citations and is from a peer-reviewed journal.
+
+10. (altintas2024generalcontrolnonderepressible pages 7-8): Ozlem Altintas and Michael R. MacArthur. General control nonderepressible 2 (gcn2) as a therapeutic target in age-related diseases. Frontiers in Aging, Sep 2024. URL: https://doi.org/10.3389/fragi.2024.1447370, doi:10.3389/fragi.2024.1447370. This article has 0 citations and is from a peer-reviewed journal.
+
+11. (altintas2024generalcontrolnonderepressible pages 8-8): Ozlem Altintas and Michael R. MacArthur. General control nonderepressible 2 (gcn2) as a therapeutic target in age-related diseases. Frontiers in Aging, Sep 2024. URL: https://doi.org/10.3389/fragi.2024.1447370, doi:10.3389/fragi.2024.1447370. This article has 0 citations and is from a peer-reviewed journal.
+
+12. (anda2017activationofgcn2 pages 12-13): Silje Anda, Róbert Zach, and Beáta Grallert. Activation of gcn2 in response to different stresses. PLOS ONE, 12:e0182143, Aug 2017. URL: https://doi.org/10.1371/journal.pone.0182143, doi:10.1371/journal.pone.0182143. This article has 98 citations and is from a peer-reviewed journal.
+
+13. (dey2012transcriptionalregulationof pages 13-19): S Dey. Transcriptional regulation of atf4 is critical for controlling the integrated stress response during eif2 phosphorylation. Unknown journal, 2012.
+
+14. (dey2012transcriptionalregulationof pages 24-28): S Dey. Transcriptional regulation of atf4 is critical for controlling the integrated stress response during eif2 phosphorylation. Unknown journal, 2012.
+
+15. (goodman2019therolesof pages 101-105): D Goodman. The roles of eif2 kinases pkr and gcn2 during mouse adenovirus type 1 infection. Unknown journal, 2019.
+
+16. (joshi2013smallmoleculemodulators pages 1-2): Manali Joshi, Abhijeet Kulkarni, and Jayanta K. Pal. Small molecule modulators of eukaryotic initiation factor 2α kinases, the key regulators of protein synthesis. Biochimie, 95:1980-1990, Nov 2013. URL: https://doi.org/10.1016/j.biochi.2013.07.030, doi:10.1016/j.biochi.2013.07.030. This article has 47 citations and is from a peer-reviewed journal.
+
+17. (joshi2013smallmoleculemodulators pages 7-9): Manali Joshi, Abhijeet Kulkarni, and Jayanta K. Pal. Small molecule modulators of eukaryotic initiation factor 2α kinases, the key regulators of protein synthesis. Biochimie, 95:1980-1990, Nov 2013. URL: https://doi.org/10.1016/j.biochi.2013.07.030, doi:10.1016/j.biochi.2013.07.030. This article has 47 citations and is from a peer-reviewed journal.
+
+18. (lokdarshi2022reviewemergingroles pages 14-16): Ansul Lokdarshi and Albrecht G. von Arnim. Review: emerging roles of the signaling network of the protein kinase gcn2 in the plant stress response. Plant Science, 320:111280, Jul 2022. URL: https://doi.org/10.1016/j.plantsci.2022.111280, doi:10.1016/j.plantsci.2022.111280. This article has 16 citations and is from a peer-reviewed journal.
+
+19. (lokdarshi2022reviewemergingroles pages 3-4): Ansul Lokdarshi and Albrecht G. von Arnim. Review: emerging roles of the signaling network of the protein kinase gcn2 in the plant stress response. Plant Science, 320:111280, Jul 2022. URL: https://doi.org/10.1016/j.plantsci.2022.111280, doi:10.1016/j.plantsci.2022.111280. This article has 16 citations and is from a peer-reviewed journal.
+
+20. (rothenburg2016evolutionofeif2α pages 4-8): Stefan Rothenburg, Millie M. Georgiadis, and Ronald C. Wek. Evolution of eif2α kinases: adapting translational control to diverse stresses. Evolution of the Protein Synthesis Machinery and Its Regulation, pages 235-260, Jan 2016. URL: https://doi.org/10.1007/978-3-319-39468-8\_11, doi:10.1007/978-3-319-39468-8\_11. This article has 14 citations.
+
+21. (rothenburg2016evolutionofeif2α pages 8-11): Stefan Rothenburg, Millie M. Georgiadis, and Ronald C. Wek. Evolution of eif2α kinases: adapting translational control to diverse stresses. Evolution of the Protein Synthesis Machinery and Its Regulation, pages 235-260, Jan 2016. URL: https://doi.org/10.1007/978-3-319-39468-8\_11, doi:10.1007/978-3-319-39468-8\_11. This article has 14 citations.
+
+22. (tatara2024emergingroleof pages 1-2): Yota Tatara, Shuya Kasai, Daichi Kokubu, Tadayuki Tsujita, Junsei Mimura, and Ken Itoh. Emerging role of gcn1 in disease and homeostasis. International Journal of Molecular Sciences, 25:2998, Mar 2024. URL: https://doi.org/10.3390/ijms25052998, doi:10.3390/ijms25052998. This article has 3 citations and is from a peer-reviewed journal.
+
+23. (tatara2024emergingroleof pages 17-18): Yota Tatara, Shuya Kasai, Daichi Kokubu, Tadayuki Tsujita, Junsei Mimura, and Ken Itoh. Emerging role of gcn1 in disease and homeostasis. International Journal of Molecular Sciences, 25:2998, Mar 2024. URL: https://doi.org/10.3390/ijms25052998, doi:10.3390/ijms25052998. This article has 3 citations and is from a peer-reviewed journal.
+
+24. (tatara2024emergingroleof pages 4-5): Yota Tatara, Shuya Kasai, Daichi Kokubu, Tadayuki Tsujita, Junsei Mimura, and Ken Itoh. Emerging role of gcn1 in disease and homeostasis. International Journal of Molecular Sciences, 25:2998, Mar 2024. URL: https://doi.org/10.3390/ijms25052998, doi:10.3390/ijms25052998. This article has 3 citations and is from a peer-reviewed journal.
+
+25. (xu2011thegcn2eif2alpha pages 9-14): X Xu. The gcn2 eif2alpha kinase regulates lipid and glucose homeostasis. Unknown journal, 2011.
+
+26. (zhao2023multiplerolesof pages 15-16): Chenxu Zhao, Han Guo, Yangxiao Hou, Tong Lei, Dong Wei, and Yong Zhao. Multiple roles of the stress sensor gcn2 in immune cells. International Journal of Molecular Sciences, 24:4285, Feb 2023. URL: https://doi.org/10.3390/ijms24054285, doi:10.3390/ijms24054285. This article has 22 citations and is from a peer-reviewed journal.
