@@ -116,12 +116,13 @@ def format_nomenclature(nomenclature: str, template: str) -> str:
         "## Other Comments\n"
         "Summarize the Other Comments section of the provided Nomenclature. If Inhibitors are found in the provided Nomenclature, include them.\n\n"
         "## 9. References\n"
-        "Include all the References used to create this nomenclature with a consistent format.\n\n"
+        "Include all the References used to create this nomenclature with APA 7th edition format, similar to the `Tempalte`.\n\n"
         "---\n"
         "# Output Guidelines\n"
         "- The Inhibitors section is optional. Only include this section if inhibitors are available in the Nomenclature (particularly in the Other Comments section).\n"
         "- Other than Inhibitors, use the exact section names (do not remove or add new sections)\n"
         "- Do **not** include speculative or inferred content\n"
+        "- Include relevant in-text citations that are mentioned in the `Nomenclature`, even if it is summarized. The citation style should be similar to the `Template`. \n"
     ))
     response = llm.invoke([system_msg, user_msg])
     return response.content
@@ -136,6 +137,8 @@ def main():
     for txt_path in INPUT_DIR.glob("*.txt"):
         protein_name = txt_path.stem
         safe_name    = sanitize_filename(protein_name)
+        if safe_name != "MAPK14":
+            continue  # Skip if not MAPK14
         out_path     = FORMATTED_DIR / f"{safe_name}_formatted.txt"
 
         # if out_path.exists():
@@ -152,7 +155,7 @@ def main():
             print(f"✔ Saved {out_path.name}")
 
                 # Convert markdown to DOCX
-            docx_path = out_path.with_name(out_path.stem + ".docx")
+            docx_path = out_path.with_name(out_path.stem + "_ref2.docx")
             pypandoc.convert_text(
                 formatted,
                 to="docx",

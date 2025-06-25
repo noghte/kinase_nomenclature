@@ -1,45 +1,42 @@
 ## Phylogeny  
-Mitogen-activated protein kinase 14 (MAPK14, p38 α) is a member of the p38 subfamily of stress-activated protein kinases (SAPKs), which also includes the β, γ and δ isoforms. The entire p38 branch is conserved throughout vertebrate evolution and is phylogenetically related to the yeast stress-responsive kinase HOG1. MAPK14 shares ~50 % sequence identity with ERK2 and, together with other MAPKs, resides in the conserved CMGC group of serine/threonine kinases. Conserved dual-phosphorylation motifs and docking regions place MAPK14 on a distinct evolutionary branch that has retained critical functional residues for cellular stress responses over hundreds of millions of years.
+MAPK14 (p38 α) is a member of the p38 sub-family of stress-activated protein kinases (SAPKs) that also includes p38 β, p38 γ and p38 δ. The four paralogues form a distinct branch within the CMGC group of serine/threonine kinases and descend from the yeast stress-responsive HOG1 kinase (Cargnello & Roux, 2011, pp. 4–5; Martín-Blanco, 2000, pp. 1–2; Widmann et al., 1999, pp. 5–6). Approximately 50 % sequence identity with ERK2 and conservation of the dual-phosphorylation TGY motif indicate deep evolutionary conservation across vertebrates (Kültz, 1998, pp. 2–3; Widmann et al., 1999, pp. 5–6).  
 
 ## Reaction Catalyzed  
-ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein]
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Widmann et al., 1999, pp. 1–2; Orand, 2023, pp. 33–38).  
 
 ## Cofactor Requirements  
-Mg²⁺
+Requires Mg²⁺ for ATP coordination and efficient phosphate transfer (Theodosiou & Ashworth, 2002, pp. 1–2).  
 
 ## Substrate Specificity  
-MAPK14 preferentially phosphorylates serine or threonine residues immediately followed by proline (S/T-P motif). Docking interactions between the kinase and its targets refine this core preference, allowing phosphorylation of an estimated 200–300 substrates, including:  
-• Transcription factors: ATF1, ATF2, MEF2, Elk-1, TP53  
-• Down-stream kinases: MK2, MK3, MNK1, MNK2  
+MAPK14 preferentially phosphorylates Ser/Thr residues followed by Pro (S/T-P motif). Docking interactions refine recognition, allowing phosphorylation of an estimated 200–300 substrates that include transcription factors ATF1/2, MEF2, Elk-1 and TP53, and protein kinases MK2, MK3, MNK1 and MNK2 (Cargnello & Roux, 2011, pp. 4–5; Martín-Blanco, 2000, pp. 2–3; Orand, 2023, pp. 38–41).  
 
 ## Structure  
-MAPK14 possesses the bilobed protein-kinase fold characteristic of CMGC kinases: a β-strand-rich N-terminal lobe and an α-helical C-terminal lobe. The activation loop carries the conserved Thr-Gly-Tyr (TGY) motif that is dually phosphorylated for full activation. Crystal structures reveal a defined ATP-binding cleft, a hydrophobic spine and key catalytic residues within the C-helix; subtle variations in docking sites distinguish p38 α from its paralogues.
+The kinase adopts the canonical bilobed CMGC fold: a β-stranded N-lobe and an α-helical C-lobe with a central ATP-binding cleft. The activation loop contains the conserved T 183-G-Y 185 motif that undergoes dual phosphorylation by MKK3/6, triggering conformational changes required for activity. Structural studies reveal a hydrophobic spine, key C-helix residues for catalysis and subtle docking-site differences that distinguish p38 α from its paralogues (Cargnello & Roux, 2011, pp. 4–5; Orand, 2023, pp. 41–45).  
 
 ## Regulation  
-• Activation: dual phosphorylation of Thr183 and Tyr185 by the upstream MAPKKs MKK3 and MKK6 in response to stimuli such as UV light, oxidative stress and inflammatory cytokines.  
-• Localization: stress-induced shuttling between cytoplasm and nucleus.  
-• Negative regulation: dephosphorylation by MAP kinase phosphatases (MKPs).  
-• Additional modulation: interactions with proteins such as casein kinase II can influence autophosphorylation and activity.
+• Activation: dual phosphorylation of Thr183 and Tyr185 by upstream MKK3 and MKK6 in response to UV, oxidative stress and inflammatory cytokines (Cargnello & Roux, 2011, pp. 4–5; Martín-Blanco, 2000, pp. 1–2).  
+• Subcellular distribution: activated MAPK14 translocates between cytoplasm and nucleus to access distinct substrates (Cargnello & Roux, 2011, pp. 23–24; Roux & Blenis, 2004, pp. 17–18).  
+• Negative regulation: MAP kinase phosphatases dephosphorylate the activation loop; casein kinase II and other protein interactions modulate autophosphorylation and activity (Theodosiou & Ashworth, 2002, pp. 1–2; Roux & Blenis, 2004, pp. 17–18).  
 
 ## Function  
-MAPK14 is a core component of MAPK signalling cascades that mediate cellular responses to pro-inflammatory cytokines and environmental stress. By phosphorylating numerous substrates (e.g. ATF1/2, MEF2, TP53, MK2/3, MNK1/2), it controls inflammation, cell-cycle regulation, protein turnover and receptor endocytosis. In the nucleus, it promotes immediate-early gene induction and chromatin remodelling; in the cytoplasm, it regulates protein degradation pathways through substrates such as the ubiquitin ligase SIAH2 and the metalloprotease ADAM17.
+MAPK14 is a central mediator of cellular responses to pro-inflammatory cytokines and environmental stress. By phosphorylating nuclear transcription factors (ATF1/2, MEF2, Elk-1, TP53) it drives immediate-early gene expression and chromatin remodelling (Cargnello & Roux, 2011, pp. 19–20; Orand, 2023, pp. 25–29). Cytoplasmic targets include MK2/3 and MNK1/2 as well as proteins involved in protein degradation (e.g., SIAH2) and receptor endocytosis/shedding (e.g., ADAM17), thereby influencing inflammation, cell-cycle progression and receptor signalling (Cargnello & Roux, 2011, pp. 23–25; Widmann et al., 1999, pp. 22–24).  
 
 ## Inhibitors  
-ATP-competitive inhibitors SB203580 and SB202190 are widely used experimental compounds that block MAPK14 catalytic activity.
+Competitive ATP-site inhibitors SB203580 and SB202190 are widely used experimental tools to block MAPK14 activity (Martín-Blanco, 2000, pp. 1–2; New et al., 1998, pp. 1–3).  
 
 ## Other Comments  
-Aberrant MAPK14 activity is linked to inflammatory diseases, certain cancers and developmental defects, motivating ongoing efforts to develop anti-inflammatory and anti-cancer therapeutics targeting this kinase.
+Aberrant MAPK14 signalling is linked to inflammatory diseases, cancers and developmental disorders, making the kinase an attractive target for anti-inflammatory and anti-cancer drug development (Widmann et al., 1999, pp. 24–25; Roux & Blenis, 2004, pp. 16–17; Cargnello & Roux, 2011, pp. 24–25).  
 
-## 9. References  
+## References  
 Cargnello, M., & Roux, P. P. (2011). Activation and function of the MAPKs and their substrates, the MAPK-activated protein kinases. Microbiology and Molecular Biology Reviews, 75, 50–83. https://doi.org/10.1128/mmbr.00031-10  
 
-Kültz, D. (1998). Phylogenetic and functional classification of mitogen- and stress-activated protein kinases. Journal of Molecular Evolution, 46, 571–588. https://doi.org/10.1007/pl00006338  
+Kültz, D. (1998). Phylogenetic and functional classification of mitogen- and stress-activated protein kinases. Journal of Molecular Evolution, 46, 571–588. https://doi.org/10.1007/PL00006338  
 
 Martín-Blanco, E. (2000). p38 MAPK signalling cascades: ancient roles and new functions. BioEssays, 22, 637–645. https://doi.org/10.1002/1521-1878(200007)22:7<637::AID-BIES6>3.0.CO;2-E  
 
-New, L. et al. (1998). PRAK, a novel protein kinase regulated by the p38 MAP kinase. The EMBO Journal, 17, 3372–3384. https://doi.org/10.1093/emboj/17.12.3372  
+New, L., Jiang, Y., Zhao, M.-Z., Liu, K. Z., Zhu, W., Flood, L. J., … Han, J. (1998). PRAK, a novel protein kinase regulated by the p38 MAP kinase. The EMBO Journal, 17, 3372–3384. https://doi.org/10.1093/emboj/17.12.3372  
 
-Orand, T. (2023). Revealing the mechanism of action of intrinsically disordered proteins in MAPK cell signalling. (pages 25–45, 33–41).  
+Orand, T. (2023). Revealing the mechanism of action of intrinsically disordered proteins in MAPK cell signalling. [Journal unknown], pp. 25–45.  
 
 Roux, P. P., & Blenis, J. (2004). ERK and p38 MAPK-activated protein kinases: a family of protein kinases with diverse biological functions. Microbiology and Molecular Biology Reviews, 68, 320–344. https://doi.org/10.1128/mmbr.68.2.320-344.2004  
 
