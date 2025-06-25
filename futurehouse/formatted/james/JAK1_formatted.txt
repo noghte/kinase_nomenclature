@@ -1,0 +1,75 @@
+## Phylogeny  
+JAK1 (UniProt P23458) belongs to the Janus kinase (JAK) subfamily of non-receptor tyrosine kinases that also comprises JAK2, JAK3 and TYK2. Orthologues are found throughout vertebrates and more distantly across metazoans, reflecting origin from early eukaryotic ancestors and retention of essential catalytic motifs (Kwon, 2019; Liu et al., 2017). Gene-duplication events generated the four human paralogues; conserved FERM–SH2, pseudokinase (JH2) and kinase (JH1) modules underpin their shared role in cytokine signalling (Corey & Anderson, 1999; Kwon, 2019).
+
+## Reaction Catalyzed  
+ATP + L-tyrosyl-[protein] ⇄ ADP + H⁺ + O-phospho-L-tyrosyl-[protein] (Banerjee, 2013; Guye, 2006).
+
+## Cofactor Requirements  
+Mg²⁺ is required for ATP coordination and efficient catalysis (Loris, 2007; Banerjee, 2013).
+
+## Substrate Specificity  
+Peptide-based assays indicate broad, relatively non-stringent sequence recognition; many JAK1 substrate-derived peptides are also phosphorylated by other tyrosine kinases (Pineda, 2012). In cells, specificity is refined by receptor docking motifs, adaptor proteins and intracomplex interactions that position substrates near the active site (Pineda, 2012; Corey & Anderson, 1999).
+
+## Structure  
+JAK1 displays a four-domain architecture:  
+• N-terminal FERM domain and adjacent SH2-like domain bind receptor box 1/box 2 motifs, mediating membrane localisation (Bajusz, 2017; Lv et al., 2024).  
+• Central pseudokinase domain (JH2) adopts a kinase-like fold but lacks catalytic residues and maintains autoinhibition of the C-terminal kinase domain (Min et al., 2015; Raivola, n.d.).  
+• C-terminal kinase domain (JH1) exhibits the canonical bilobal protein-kinase fold with glycine-rich loop, hinge, catalytic and DFG motifs controlling ATP/substrate access (Loris, 2007; Bajusz, 2017).  
+Cryo-EM of full-length JAK1–receptor complexes reveals an inward-facing pseudokinase dimer beneath FERM–SH2 pairs; this organisation enables trans-activation of the kinase domains (Glassman et al., 2022; Lv et al., 2024).
+
+## Regulation  
+• Activation-loop tyrosines Y1038/Y1039 must be autophosphorylated for full activity (Zhong et al., 2012; Raivola, n.d.).  
+• The JH2 pseudokinase imposes basal autoinhibition; point mutations here modulate enzymatic output (Raivola, n.d.; Kwon, 2019).  
+• SOCS1 binds JAK1 and suppresses signalling, partly by targeting the kinase for degradation (Liau et al., 2018).  
+• Cytokine-induced receptor dimerisation juxtaposes receptor-bound JAKs, permitting trans-phosphorylation and activation (Corey & Anderson, 1999; Lv et al., 2024).  
+• Protein tyrosine phosphatases SHP1/2 dephosphorylate JAK1 and downstream components to terminate signalling (Guye, 2006).  
+
+## Function  
+Widely expressed, with prominent roles in immune cells, JAK1 couples class I/II cytokine receptors (e.g., IFNAR, IL-2R, IL-10R) to intracellular signal transducer and activator of transcription (STAT) proteins (Corey & Anderson, 1999; Bajusz, 2017). JAK1 phosphorylates receptor tails and STAT1, STAT5 and others, driving antiviral, proliferative and differentiation programs (Glassman et al., 2022; Lv et al., 2024). In the IL-2 pathway, JAK1 partners with JAK3 to support T-cell growth and survival (Corey & Anderson, 1999).
+
+## Inhibitors  
+Clinically used ATP-competitive inhibitors such as tofacitinib and ruxolitinib target JAK1 and related family members; optimisation of selectivity leverages structural insights from crystallography and simulation (Open Targets, 2023; Faisal et al., 2020; Kondratyev et al., 2022). Additional small-molecule programs aim to improve potency and isoform discrimination (Wang et al., 2025).
+
+## Other Comments  
+Dysregulated JAK1 activity contributes to autoimmune disorders, inflammatory diseases and oncogenesis in haematological and solid tumours, underscoring its value as a therapeutic target (Zhang, 2014; Hu et al., 2021). Ongoing studies map phosphorylation sites and feedback loops to better understand normal and pathological signalling (Kwon, 2019).
+
+## References  
+Bajusz, D. (2017). Discovery of novel Janus kinase inhibitors by virtual screening. *Unknown Journal*, 15-20.  
+
+Banerjee, S. (2013). Phosphorylation, ubiquitylation and characterisation of specific inhibitors of AMPK-related kinase NUAK1/ARK5. *Unknown Journal*, 20-29.  
+
+Corey, S. J., & Anderson, S. M. (1999). Src-related protein tyrosine kinases in hematopoiesis. *Blood*, 93, 1-14. https://doi.org/10.1182/blood.v93.1.1.401a45_1_14  
+
+Faisal, M., Kim, J. H., Yoo, K. H., Roh, E. J., Hong, S. S., & Lee, S. H. (2020). Development and therapeutic potential of NUAKs inhibitors. *Journal of Medicinal Chemistry*, 64, 2-25. https://doi.org/10.1021/acs.jmedchem.0c00533  
+
+Glassman, C. R., Tsutsumi, N., Saxton, R. A., Lupardus, P. J., Jude, K. M., & Garcia, K. C. (2022). Structure of a Janus kinase cytokine receptor complex reveals the basis for dimeric activation. *Science*, 376, 163-169. https://doi.org/10.1126/science.abn8933  
+
+Guye, P. (2006). Proteins injected by the bacterial pathogen *Bartonella* subvert eukaryotic cell signaling. *Unknown Journal*, 10-14.  
+
+Hu, X., Li, J., Fu, M., Zhao, X., & Wang, W. (2021). The JAK/STAT signaling pathway: from bench to clinic. *Signal Transduction and Targeted Therapy*, 6, Article 402. https://doi.org/10.1038/s41392-021-00791-1  
+
+Kondratyev, M., Rudnev, V. R., Nikolsky, K. S., Stepanov, A. A., Petrovsky, D. V., Kulikova, L. I., … Kaysheva, A. L. (2022). Atomic simulation of the binding of JAK1 and JAK2 with the selective inhibitor ruxolitinib. *International Journal of Molecular Sciences*, 23, 10466. https://doi.org/10.3390/ijms231810466  
+
+Kwon, H. A. (2019). Tracing the evolution of the tyrosine kinome from sequence to function. *Unknown Journal*, 10-23, 160-171.  
+
+Liau, N. P. D., Laktyushin, A., Lucet, I. S., Murphy, J. M., Yao, S., Whitlock, E., … Babon, J. J. (2018). The molecular basis of JAK/STAT inhibition by SOCS1. *Nature Communications*, 9, Article 170. https://doi.org/10.1038/s41467-018-04013-1  
+
+Liu, A., He, F., & Gu, X. (2017). Identification and characterization of tyrosine kinases in anole lizard indicate the conserved tyrosine kinase repertoire in vertebrates. *Molecular Genetics and Genomics*, 292, 1405-1418. https://doi.org/10.1007/s00438-017-1356-7  
+
+Loris, M. (2007). Exploring structure and plasticity of tyrosine kinase domains for drug discovery. *Unknown Journal*, 33-63, 138-152.  
+
+Lv, Y., Qi, J., Babon, J. J., Cao, L., Fan, G., Lang, J., … Wang, F. (2024). The JAK-STAT pathway: from structural biology to cytokine engineering. *Signal Transduction and Targeted Therapy*, 9, Article 142. https://doi.org/10.1038/s41392-024-01934-w  
+
+Min, X., Ungureanu, D., Maxwell, S., Hammarén, H., Thibault, S., Hillert, E.-K., … Wang, Z. (2015). Structural and functional characterization of the JH2 pseudokinase domain of TYK2. *Journal of Biological Chemistry*, 290, 27261-27270. https://doi.org/10.1074/jbc.M115.672048  
+
+Open Targets Platform. (2023). *JAK1 query (17 results).* https://www.targetvalidation.org  
+
+Pineda, M. L. (2012). Substrate specificity of receptor tyrosine kinases is critical for selective signaling. *Unknown Journal*, 30-36.  
+
+Raivola, J. (n.d.). Molecular regulation of Janus kinases (JAKs). *Unknown Journal*, 30-64, 105-127.  
+
+Wang, J., Lomakin, I. B., Batista, V. S., & Bunick, C. G. (2025). A triple-action inhibitory mechanism of allosteric TYK2-specific inhibitors. *Journal of Investigative Dermatology*. https://doi.org/10.1016/j.jid.2025.04.025  
+
+Zhang, H.-Y. (2014). Identification of KSR1 as a novel target and decoding tyrosine kinase proteome in breast cancer. *Unknown Journal*, 27-210. https://doi.org/10.25560/34315  
+
+Zhong, J., Kim, M. S., Chaerkady, R., Wu, X., & Huang, T. C. (2012). TSLP signaling network. *Unknown Journal*, 30-36.

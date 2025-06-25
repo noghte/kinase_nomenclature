@@ -1,0 +1,54 @@
+## Proposed EC/sub-subclass  
+EC 2.7.11.– (protein-serine/threonine kinase)  
+
+## Accepted name  
+Cyclin-dependent kinase 18  
+
+## Synonyms  
+PCTAIRE3; PCTK3  
+
+## Phylogeny  
+CDK18 is a member of the PCTAIRE sub-family of cyclin-dependent kinases that diverged from the canonical cell-cycle CDKs (e.g. CDK1, CDK2). Orthologues are conserved across higher eukaryotes and are enriched in post-mitotic tissues such as brain and testis (Cole, 2009; Karimbayli et al., 2024). A defining feature is the PCTAIRE helix motif (Ser substituted for the Pro of the classical PSTAIRE sequence), which groups these kinases with other atypical CDKs (Cole, 2009).  
+
+## Reaction catalysed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Barone et al., 2016)  
+
+## Cofactor requirements  
+Mg²⁺ is required for catalytic activity (Shah et al., 2020).  
+
+## Substrate Specificity  
+CDK18 phosphorylates serine or threonine residues within proline-directed motifs. A full consensus sequence is not yet defined, but documented substrates include RAD9, tau (Thr231, Ser235) and focal adhesion kinase, consistent with a preference for Pro at +1 of the phospho-acceptor (Cole, 2009; Pepino et al., 2021).  
+
+## Structure  
+The protein is ~500 aa and contains the canonical bilobed kinase core with conserved HRD (sub-domain VI) and DFG (sub-domain VII) motifs. An extended N-terminus harbours the PCTAIRE box that mediates cyclin binding and a putative PKA phosphorylation motif (Pepino et al., 2021). No crystal structure is available; homology models based on CDK16 predict a typical CDK fold with an activation loop requiring phosphorylation for full activity (Endicott & Noble, 2013; Karimbayli et al., 2024).  
+
+## Regulation  
+• Cyclin binding: activation by cyclin A2 (and possibly cyclin Y).  
+• Phosphorylation: PKA-mediated phosphorylation at Ser12 can stimulate activity independently of cyclin; additional activation-loop phosphorylation is inferred (Barone et al., 2016; Karimbayli et al., 2024).  
+• Protein interactions: association with 14-3-3 proteins and ubiquitin ligase STUB1 influences localization and stability (Pepino et al., 2021).  
+
+## Function  
+CDK18 supports ATR-mediated replication-stress signalling by stabilising RAD9 and RAD17 on chromatin, thereby protecting stalled replication forks and genome integrity (Barone et al., 2016). In the nervous system, it is highly expressed in neurons and oligodendrocytes where it phosphorylates tau and may regulate neurite outgrowth and synaptic activity (Cole, 2009; Pepino et al., 2021). CDK18 also modulates focal adhesion dynamics and cell migration through effects on FAK phosphorylation, with reported expression in brain, heart, testis and spinal cord and altered levels in cancer, metabolic and neurodegenerative conditions (Pepino et al., 2021; Karimbayli et al., 2024).  
+
+## Inhibitors  
+Highly selective inhibitors have not yet been described, although ongoing efforts aim to exploit structural features unique to CDK18 (Pepino et al., 2021).  
+
+## Other Comments  
+CDK18 shows copy-number gain in a subset of breast cancers and contributes to resistance against replication-stress-inducing chemotherapy in glioblastoma. Differential expression links it to pancreatic islet metabolism, depression, Alzheimer’s disease and demyelinating disorders, highlighting potential utility as both biomarker and therapeutic target (Pepino et al., 2021; Chaput et al., 2016; Karimbayli et al., 2024).  
+
+## References  
+Barone, G. J., Staples, C. J., Ganesh, A., Patterson, K. W., Bryne, D. P., Myers, K. N., … Collis, S. J. (2016). Human CDK18 promotes replication stress signalling and genome stability. Nucleic Acids Research, 44, 8772–8785. https://doi.org/10.1093/nar/gkw615  
+
+Chaput, D., Kirouac, L., Stevens, S. M., & Padmanabhan, J. (2016). Potential role of PCTAIRE-2, PCTAIRE-3 and p-Histone H4 in amyloid precursor protein-dependent Alzheimer pathology. Oncotarget, 7, 8481–8497. https://doi.org/10.18632/oncotarget.7380  
+
+Cole, A. R. (2009). PCTK proteins: the forgotten brain kinases? Neurosignals, 17, 288–297. https://doi.org/10.1159/000231895  
+
+Endicott, J. A., & Noble, M. E. M. (2013). Structural characterization of the cyclin-dependent protein kinase family. Biochemical Society Transactions, 41, 1008–1016. https://doi.org/10.1042/BST20130097  
+
+Karimbayli, J., Pellarin, I., Belletti, B., & Baldassarre, G. (2024). Insights into the structural and functional activities of forgotten kinases: PCTAIREs CDKs. Molecular Cancer. https://doi.org/10.1186/s12943-024-02043-6  
+
+Pepino, R. O., Coelho, F., Buzanello Janku, T. A., Alencar, D. P., de Azevedo, W. F., & Canduri, F. (2021). Overview of PCTK3/CDK18: a cyclin-dependent kinase involved in specific functions in post-mitotic cells. Current Medicinal Chemistry, 28, 6846–6865. https://doi.org/10.2174/0929867328666210329122147  
+
+Shah, M. Z., Qureshi, M. F. H., Mohammad, D., Lakhani, M., Urooj, T., & Mushtaq, S. (2020). CDKs family – a glimpse into the past and present: from cell cycle control to current biological functions. Asian Pacific Journal of Cancer Biology, 5, 1–9. https://doi.org/10.31557/apjcb.2020.5.1.1-9  
+
+Chowdhury, I., Dashi, G., & Keskitalo, S. (2023). CMGC kinases in health and cancer. Cancers, 15, 3838. https://doi.org/10.3390/cancers15153838

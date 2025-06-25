@@ -1,0 +1,74 @@
+## Phylogeny  
+5′-AMP-activated protein kinase catalytic subunit α2 (PRKAA2; AMPKα2) is a member of the highly conserved AMP-activated protein kinase family within the CAMK group of serine/threonine kinases (Henriksson, 2012; Steinberg & Hardie, 2023). Orthologues are present across eukaryotes—from yeast SNF1 to plant SnRK1—indicating origin in the last eukaryotic common ancestor (Jain et al., 2018; Yan et al., 2018). Mammals encode two catalytic isoforms, AMPKα1 and AMPKα2, which form mutually exclusive heterotrimers with β and γ subunits and display overlapping yet distinct tissue-specific roles (Russo et al., 2013; Henriksson, 2012).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Hawley et al., 2023).
+
+## Cofactor Requirements  
+Requires Mg²⁺ for coordination with ATP during phosphotransfer (Hawley et al., 2023).
+
+## Substrate Specificity  
+AMPKα2 prefers Ser/Thr residues within motifs enriched in basic residues (often at –3/–4) and with hydrophobic residues at defined positions (Rana et al., 2015; Yan et al., 2018). Validated substrates include ACACA, ACACB, LIPE, CRTC2, FOXO3, TSC2, RPTOR and ULK1, spanning lipid, carbohydrate and autophagy pathways (Russo et al., 2013).
+
+## Structure  
+AMPKα2 contains an N-terminal bilobal kinase domain with an activation loop harbouring Thr172, an α-C helix and catalytic spine (Li et al., 2015; Kurumbail & Calabrese, 2016). C-terminal regions mediate assembly with regulatory β/γ subunits; the γ subunit’s CBS domains bind AMP/ADP/ATP to allosterically modulate the catalytic core (Yan et al., 2018). Nucleotide binding induces conformational changes that stabilise the phosphorylated activation loop and promote activity (Kurumbail & Calabrese, 2016).
+
+## Regulation  
+• Activating phosphorylation of Thr172 by upstream kinases LKB1, CaMKKβ and TAK1 increases activity up to 1000-fold (Lu et al., 2021; Steinberg & Hardie, 2023).  
+• AMP or ADP binding to the γ subunit allosterically stimulates the enzyme (≈2–5-fold) and protects Thr172 from dephosphorylation (Ovens et al., 2021; Yan et al., 2018).  
+• Inhibitory phosphorylation at Ser485/491 by Akt or PKA counteracts activation (Lu et al., 2021; Ovens et al., 2021).  
+• Additional post-translational modifications (e.g., ubiquitination) influence stability and turnover (Ovens et al., 2021).  
+• Small-molecule ligands can activate (A-769662, MK-8722) or inhibit (Bay-3827, SBI-0206965) activity through distinct allosteric or catalytic-site interactions (Hawley et al., 2023; Rana et al., 2015).
+
+## Function  
+AMPKα2 is a master energy sensor that switches metabolism from anabolic to catabolic during energy stress. Activated AMPKα2:  
+• inhibits fatty-acid synthesis and promotes β-oxidation via phosphorylation of ACACA/B (Hawley et al., 2023).  
+• regulates glucose uptake by modulating IRS1 and GLUT4 trafficking (Russo et al., 2013).  
+• suppresses mTORC1-driven anabolism through phosphorylation of RPTOR and TSC2 (Steinberg & Hardie, 2023).  
+• promotes autophagy via ULK1 phosphorylation (Lu et al., 2021).  
+• affects transcription (CRTC2, FOXO3, p53) and mitochondrial biogenesis, circadian rhythm (CRY1) and cytoskeletal dynamics (Steinberg & Hardie, 2023; Sukumaran et al., 2020).
+
+## Inhibitors  
+ATP-competitive inhibitors Bay-3827 and SBI-0206965 decrease catalytic activity but paradoxically elevate Thr172 phosphorylation (Hawley et al., 2023). Additional direct activators/ligands include A-769662, MK-8722 and the anti-diabetic drug metformin, which elevate AMPKα2 signalling via distinct mechanisms (Rana et al., 2015; Russell & Hardie, 2020).
+
+## Other Comments  
+Dysregulated AMPKα2 activity contributes to type 2 diabetes, obesity, cancer and cardiovascular disease. Pharmacological modulation (activators or inhibitors) is being explored for metabolic disorders and oncology (Russo et al., 2013; Steinberg & Hardie, 2023; Rana et al., 2015). Ubiquitin-mediated degradation pathways present additional therapeutic targets (Ovens et al., 2021).
+
+## References  
+Hawley, S. A., Russell, F. M., Ross, F. A., & Hardie, D. G. (2023). Bay-3827 and SBI-0206965: potent AMPK inhibitors that paradoxically increase Thr172 phosphorylation. *International Journal of Molecular Sciences, 25*, 453. https://doi.org/10.3390/ijms25010453  
+
+Henriksson, E. (2012). *LKB1 signaling pathways in adipocytes—focus on the AMPK-related kinase SIK2*. [Unpublished doctoral dissertation].  
+
+Jain, A., Roustan, V., Weckwerth, W., & Ebersberger, I. (2018). Studying AMPK in an evolutionary context. *Methods in Molecular Biology, 1732*, 111–142. https://doi.org/10.1007/978-1-4939-7598-3_8  
+
+Klaus, A., Polge, C., Zorman, S., Auchli, Y., Brunisholz, R., & Schlattner, U. (2012). A two-dimensional screen for AMPK substrates identifies tumour-suppressor fumarate hydratase as a preferential AMPKα2 substrate. *Journal of Proteomics, 75*, 3304–3313. https://doi.org/10.1016/j.jprot.2012.03.040  
+
+Kurumbail, R. G., & Calabrese, M. F. (2016). Structure and regulation of AMPK. *Experientia Supplementum, 107*, 3–22. https://doi.org/10.1007/978-3-319-43589-3_1  
+
+Li, X., Wang, L., Zhou, X. E., et al. (2015). Structural basis of AMPK regulation by adenine nucleotides and glycogen. *Cell Research, 25*, 50–66. https://doi.org/10.1038/cr.2014.150  
+
+Lu, J., Huang, Y., Zhan, L., et al. (2021). AMPKα2 activation by an energy-independent signal ensures chromosomal stability during mitosis. *iScience, 24*, 102363. https://doi.org/10.1016/j.isci.2021.102363  
+
+Marin, T. L., Gongol, B., Martin, M., et al. (2015). Identification of AMPK targets by a consensus sequence search of the proteome. *BMC Systems Biology, 9*, 13. https://doi.org/10.1186/s12918-015-0156-0  
+
+Minchenko, D. O., & Minchenko, O. H. (2012). SNF1/AMP-activated protein kinases: genes, expression and biological role. *InTechOpen*. https://doi.org/10.5772/37820  
+
+Ovens, A. J., Scott, J. W., Langendorf, C. G., et al. (2021). Post-translational modifications of the energy guardian AMP-activated protein kinase. *International Journal of Molecular Sciences, 22*, 1229. https://doi.org/10.3390/ijms22031229  
+
+Rana, S., Blowers, E. C., & Natarajan, A. (2015). Small-molecule AMPK modulators and human diseases. *Journal of Medicinal Chemistry, 58*, 2–29. https://doi.org/10.1021/jm401994c  
+
+Russell, F. M., & Hardie, D. G. (2020). AMP-activated protein kinase: Do we need activators or inhibitors to treat or prevent cancer? *International Journal of Molecular Sciences, 22*, 186. https://doi.org/10.3390/ijms22010186  
+
+Russo, G. L., Russo, M., & Ungaro, P. (2013). AMP-activated protein kinase: A target for old drugs against diabetes and cancer. *Biochemical Pharmacology, 86*, 339–350. https://doi.org/10.1016/j.bcp.2013.05.023  
+
+Smiles, W. J., Ovens, A. J., Oakhill, J. S., & Kofler, B. (2024). The metabolic sensor AMPK: twelve enzymes in one. *Molecular Metabolism, 90*, 102042. https://doi.org/10.1016/j.molmet.2024.102042  
+
+Smiles, W. J., Ovens, A. J., Yu, D., et al. (2025). AMPK phosphosite profiling by label-free mass spectrometry reveals a multitude of mTORC1-regulated substrates. *NPJ Metabolic Health and Disease*. https://doi.org/10.1038/s44324-025-00052-7  
+
+Steinberg, G. R., & Hardie, D. G. (2023). New insights into activation and function of the AMPK. *Nature Reviews Molecular Cell Biology, 24*, 255–272. https://doi.org/10.1038/s41580-022-00547-x  
+
+Sukumaran, A., Choi, K., & Dasgupta, B. (2020). Insight on transcriptional regulation of the energy sensing AMPK and biosynthetic mTOR pathway genes. *Frontiers in Cell and Developmental Biology, 8*, 671. https://doi.org/10.3389/fcell.2020.00671  
+
+Yan, Y., Zhou, X. E., Xu, H. E., & Melcher, K. (2018). Structure and physiological regulation of AMPK. *International Journal of Molecular Sciences, 19*, 3534. https://doi.org/10.3390/ijms19113534  
+
+Zhu, X., Voncken, J. W., & Neumann, D. (2016). In vitro methods to study AMPK. *Experientia Supplementum, 107*, 471–489. https://doi.org/10.1007/978-3-319-43589-3_19

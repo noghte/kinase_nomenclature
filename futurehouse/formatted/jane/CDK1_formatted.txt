@@ -1,0 +1,43 @@
+## Phylogeny  
+Cyclin-dependent kinase 1 (CDK1) is an evolutionarily conserved serine/threonine kinase present in all examined eukaryotes. Orthologues include Cdc2 in Schizosaccharomyces pombe and Cdc28 in Saccharomyces cerevisiae. Phylogenetic analyses place CDK1 within the CMGC group of protein kinases and trace it back to the last eukaryotic common ancestor, underscoring its essential role in cell-cycle control across fungi, plants and metazoans (Liu & Kipreos, 2000; Malumbres et al., 2014; Hanks & Hunter, 1995).
+
+## Reaction Catalyzed  
+ATP + [L-seryl/threonyl-protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Malumbres et al., 2014; Hanks & Hunter, 1995).
+
+## Cofactor Requirements  
+Mg²⁺ is required for optimal catalytic activity, coordinating the ATP phosphate groups during transfer (Malumbres et al., 2014; Hanks & Hunter, 1995).
+
+## Substrate Specificity  
+CDK1 preferentially phosphorylates serine or threonine residues immediately followed by proline (consensus S/T-P). Cyclin binding further refines substrate recognition and can expand specificity depending on the cyclin partner and prior phosphorylation events within the substrate (Malumbres et al., 2014; Wood & Endicott, 2018).
+
+## Structure  
+CDK1 comprises the canonical bilobal protein kinase fold: a β-sheet–rich N-terminal lobe and an α-helical C-terminal lobe. Key structural features include:  
+• the conserved PSTAIRE motif within the αC-helix that mediates cyclin binding,  
+• an activation (T-) loop whose phosphorylation by CDK-activating kinases (CAKs) is required for full activity, and  
+• a catalytic cleft between the two lobes accommodating ATP and substrate.  
+Crystal structures of CDK–cyclin complexes reveal conformational shifts in the T-loop upon cyclin engagement that align catalytic residues for phosphotransfer (Wood & Endicott, 2018; Malumbres et al., 2014).
+
+## Regulation  
+Activation requires binding to mitotic cyclins (notably cyclin B) and phosphorylation of a conserved threonine in the T-loop by CAKs (e.g., CDK7 in higher eukaryotes). Inhibitory phosphorylation at Thr14 and Tyr15 by WEE1 or MYT1 kinases keeps CDK1 inactive until these phosphates are removed by CDC25 phosphatases. Additional regulation involves fluctuating cyclin levels, association with CDK inhibitors, and controlled subcellular localization, ensuring CDK1 activity peaks at the G2/M transition (Wang et al., 2023; Malumbres & Barbacid, 2005; Hanks & Hunter, 1995).
+
+## Function  
+CDK1 is the master regulator of mitotic entry and progression. Once activated, it phosphorylates substrates that drive centrosome separation, nuclear envelope breakdown, chromosome condensation, and Golgi fragmentation. CDK1 activity integrates DNA-damage checkpoints (allowing repair before mitosis) and is essential for embryonic development; complete loss is embryonically lethal. CDK1 is ubiquitously expressed in proliferating cells and partners with upstream regulators (cyclins, CAKs) and downstream effectors such as the APC, lamins, spindle assembly factors and RB1 to coordinate orderly cell division (Malumbres et al., 2014; Wang et al., 2023; Wood & Endicott, 2018).
+
+## Inhibitors  
+ATP-competitive small molecules—including dinaciclib and flavopiridol—have been evaluated clinically to exploit CDK1 dependence in cancer cells, though most exhibit off-target activity towards other CDKs (Wang et al., 2023; Malumbres & Barbacid, 2005).
+
+## Other Comments  
+CDK1 dysregulation (overexpression or aberrant activation) is linked to tumorigenesis, genomic instability and therapy resistance. Consequently, CDK1 remains a high-priority target for combination anticancer strategies that aim to improve therapeutic outcomes while mitigating toxicity to normal proliferating tissues (Wang et al., 2023; Malumbres & Barbacid, 2005).
+
+## 9. References  
+Hanks, S. K., & Hunter, T. (1995). The eukaryotic protein kinase superfamily: Kinase (catalytic) domain structure and classification. *The FASEB Journal, 9*(8), 576–596. https://doi.org/10.1096/fasebj.9.8.7768349  
+
+Liu, J., & Kipreos, E. T. (2000). Evolution of cyclin-dependent kinases (CDKs) and CDK-activating kinases (CAKs): Differential conservation of CAKs in yeast and metazoa. *Molecular Biology and Evolution, 17*(7), 1061–1074. https://doi.org/10.1093/oxfordjournals.molbev.a026387  
+
+Malumbres, M., et al. (2014). Cyclin-dependent kinases. *Genome Biology, 15*, 122. https://doi.org/10.1186/gb4184  
+
+Malumbres, M., & Barbacid, M. (2005). Mammalian cyclin-dependent kinases. *Trends in Biochemical Sciences, 30*, 630–641. https://doi.org/10.1016/j.tibs.2005.09.005  
+
+Wang, Q., Bode, A. M., & Zhang, T. (2023). Targeting CDK1 in cancer: Mechanisms and implications. *NPJ Precision Oncology*. https://doi.org/10.1038/s41698-023-00407-7  
+
+Wood, D. J., & Endicott, J. A. (2018). Structural insights into the functional diversity of the CDK–cyclin family. *Open Biology, 8*(9), 180112. https://doi.org/10.1098/rsob.180112

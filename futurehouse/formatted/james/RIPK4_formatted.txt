@@ -1,0 +1,57 @@
+## Phylogeny  
+Receptor-interacting serine/threonine-protein kinase 4 (RIPK4) belongs to the receptor-interacting protein kinase family (RIPK1-RIPK5) and retains the conserved N-terminal kinase domain that defines the group (Buyse, n.d.; Urwyler-Rösselet et al., 2023). Comparative phylogenetic analyses place RIPK4 (and RIPK5) on a distinct branch characterized by an eleven-ankyrin-repeat C-terminal region that is absent from RIPK1, RIPK2 and RIPK3 (Buyse, n.d.; Lv et al., 2022). Orthologues are present throughout vertebrates, consistent with an evolutionarily conserved role in epithelial and skin biology (Urwyler-Rösselet et al., 2023; Lv et al., 2022).
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + H⁺ + protein-O-phospho-Ser/Thr (Huang et al., 2013).
+
+## Cofactor Requirements  
+Mg²⁺ is required for ATP coordination and catalysis (Cuny & Degterev, 2021).
+
+## Substrate Specificity  
+RIPK4 phosphorylates serine/threonine residues on several keratinocyte proteins. Documented substrates include interferon regulatory factor 6 (Ser413, Ser424) and plakophilin-1, events that foster epidermal differentiation and cell adhesion (Buyse, n.d.; Kwa et al., 2014). Although a strict consensus motif is not defined, the kinase displays general Ser/Thr selectivity typical of the family (Chirieleison, 2016).
+
+## Structure  
+The protein is modular: (i) an N-terminal catalytic kinase domain containing canonical catalytic motifs and an activation loop; (ii) a short intermediate segment with putative regulatory sites; and (iii) a C-terminal domain harbouring eleven ankyrin repeats that mediate protein-protein interactions (Chirieleison, 2016; Cuny & Degterev, 2021). Full activation requires kinase-domain dimerisation, as demonstrated by structural and biochemical studies (Chirieleison, 2016). High-confidence AlphaFold models and crystallographic data of the kinase region support this architecture (Chirieleison, 2016).
+
+## Regulation  
+• Autophosphorylation and dimerisation are essential for maximal catalytic activity (Chirieleison, 2016; Cuny & Degterev, 2021).  
+• SCF^β-TrCP-mediated ubiquitination targets phosphorylated serines 379/382/383, controlling protein stability and cortical actin organisation (Tanghe et al., 2018).  
+• Caspase-8 cleavage under apoptotic conditions disables NF-κB activation and shifts signalling towards cell death (Torre et al., 2021).  
+
+## Function  
+RIPK4 is a key regulator of keratinocyte differentiation and epidermal homeostasis. As a TP63 transcriptional target, it phosphorylates substrates such as PKP1 and IRF6 to promote cell adhesion and stratification (Buyse, n.d.; Kwa et al., 2014). RIPK4 also activates NF-κB and can modulate Wnt/β-catenin signalling via Dishevelled phosphorylation (Huang et al., 2013). Expression is highest in epithelial tissues, particularly skin; loss in mice causes epidermal defects and perinatal lethality (Urwyler-Rösselet et al., 2023). Tumour-suppressive roles are reported in cutaneous squamous-cell carcinoma, where reduced RIPK4 correlates with tumour aggressiveness (Wolnicka-Głubisz et al., 2021).
+
+## Inhibitors  
+The BRAF inhibitors vemurafenib and dabrafenib lower RIPK4 protein levels in melanoma cells, indicating an off-target down-regulatory effect (Madej et al., 2023).
+
+## Other Comments  
+Loss-of-function mutations in RIPK4 cause autosomal-recessive popliteal pterygium syndrome and Bartsocas-Papas syndrome (Kalay et al., 2012). RIPK4 interacts with keratin-14, potentially influencing filament turnover, without affecting heterodimer assembly (Sümer et al., 2019).  
+
+## 9. References  
+Buyse, E. (n.d.). Investigating the PKCη–RIPK4 signalling axis in keratinocyte differentiation. Unpublished manuscript.  
+
+Chirieleison, S. M. (2016). Synthetic biology reveals the uniqueness of the RIP kinase domain. *[Journal unknown]*. https://doi.org/10.4291/43038  
+
+Cuny, G. D., & Degterev, A. (2021). RIPK protein kinase family: atypical lives of typical kinases. *Seminars in Cell & Developmental Biology, 109*, 96–105. https://doi.org/10.1016/j.semcdb.2020.06.014  
+
+Huang, X. D., McGann, J. C., Liu, B. Y., et al. (2013). Phosphorylation of Dishevelled by protein kinase RIPK4 regulates Wnt signaling. *Science, 339*, 1441–1445. https://doi.org/10.1126/science.1232253  
+
+Kalay, E., Sezgin, O., Chellappa, V., et al. (2012). Mutations in RIPK4 cause the autosomal-recessive form of popliteal pterygium syndrome. *American Journal of Human Genetics, 90*(1), 76–85. https://doi.org/10.1016/j.ajhg.2011.11.014  
+
+Kwa, M. Q., Huynh, J., Aw, J., et al. (2014). Receptor-interacting protein kinase 4 and interferon regulatory factor 6 function as a signalling axis to regulate keratinocyte differentiation. *Journal of Biological Chemistry, 289*, 31077–31087. https://doi.org/10.1074/jbc.M114.589382  
+
+Lv, S., Jiang, Y., Li, Y., et al. (2022). Comparative and evolutionary analysis of RIP kinases in immune responses. *Frontiers in Genetics.* https://doi.org/10.3389/fgene.2022.796291  
+
+Madej, E., Brożyna, A. A., Adamczyk, A., et al. (2023). Vemurafenib and dabrafenib downregulate RIPK4 level. *Cancers, 15*(3), 918. https://doi.org/10.3390/cancers15030918  
+
+Sümer, C., Boz Er, A. B., & Dinçer, T. (2019). Keratin 14 is a novel interaction partner of keratinocyte differentiation regulator RIPK4. *Turkish Journal of Biology, 43*, 225–234. https://doi.org/10.3906/biy-1904-37  
+
+Tanghe, G., Urwyler-Rösselet, C., De Groote, P., et al. (2018). RIPK4 activity in keratinocytes is controlled by the SCFβ-TrCP ubiquitin ligase to maintain cortical actin organisation. *Cellular and Molecular Life Sciences, 75*, 2827–2841. https://doi.org/10.1007/s00018-018-2763-6  
+
+Torre, L. D., Nebbioso, A., Stunnenberg, H. G., et al. (2021). The role of necroptosis: biological relevance and its involvement in cancer. *Cancers, 13*(4), 684. https://doi.org/10.3390/cancers13040684  
+
+Urwyler-Rösselet, C., Tanghe, G., Devos, M., et al. (2023). Functions of the RIP kinase family members in the skin. *Cellular and Molecular Life Sciences.* https://doi.org/10.1007/s00018-023-04917-2  
+
+Wolnicka-Głubisz, A., Madej, E., & Lisek, A. (2021). Rola białka RIPK4 w fizjologii naskórka. *Postępy Biochemii, 67*(1), 64–71. https://doi.org/10.18388/pb.2021_370  
+
+Fransen, M. (2011). Exploring the role of caspases and RIPK4 during Xenopus development. *[Journal unknown]*.

@@ -1,0 +1,51 @@
+## Phylogeny  
+MAPK10 (c-Jun N-terminal kinase 3; JNK3) is a stress-activated mitogen-activated protein kinase that descended from the ancestral serine/threonine kinase repertoire present in the last eukaryotic common ancestor. Subsequent gene duplications produced the three mammalian JNK paralogues; while JNK1 and JNK2 are ubiquitously expressed, JNK3 expression is largely confined to neurons and, to a lesser extent, heart and testes (Kyriakis & Avruch, 2012; Ansideri, 2018). Sequence conservation is high within the catalytic core, whereas peripheral regions have diverged to mediate isoform-specific protein interactions.
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr ⇌ ADP + protein-L-Ser/Thr-phosphate + H⁺  
+(Bardwell, 2006)
+
+## Cofactor Requirements  
+Mg²⁺ is essential for ATP coordination and phosphotransfer (Bardwell, 2006).
+
+## Substrate Specificity  
+JNK3 phosphorylates serine/threonine residues followed by proline (S/T-P) but achieves high selectivity through short basic-hydrophobic “D-site” docking motifs on its substrates (Whisenant et al., 2010; Gordon et al., 2013). Canonical neuronal targets include the transcription factors c-Jun and ATF2 as well as STMN2, amyloid-β precursor protein (APP), and additional proteins enriched in the central nervous system (Ansideri, 2018; Kyriakis & Avruch, 2012).
+
+## Structure  
+The kinase adopts the conserved bilobed MAPK fold: a β-sheet-rich N-lobe with a glycine-rich loop and αC-helix abuts an α-helical C-lobe. Activation depends on dual phosphorylation of Thr183 and Tyr185 within the TxY motif of the activation loop by MAP2K4/7 (Lu et al., 2023; Messoussi et al., 2016). High-resolution crystal structures and AlphaFold models reveal substrate-binding grooves on the ordered catalytic core, whereas the C-terminal tail contains intrinsically disordered regions that provide flexible interfaces for scaffolds and substrates (Giới, 2022; Whisenant et al., 2010).
+
+## Regulation  
+• Activation: dual phosphorylation of the TxY motif by MAP2K4 and MAP2K7.  
+• Docking control: substrate D-sites increase local concentration and catalytic efficiency (Gordon et al., 2013).  
+• Scaffolds: neuronal JIP1 and β-arrestin2 organize JNK3 signalling complexes and direct localisation (Musi et al., 2022).  
+• Inhibition: protein–protein interaction with MEN1 can reduce phosphorylation of specific substrates such as JUND (Kyriakis & Avruch, 2012).
+
+## Function  
+Predominantly neuronal, JNK3 links extracellular stress (e.g., pro-inflammatory cytokines, physical insults) to transcriptional and structural responses. Phosphorylation of c-Jun, ATF2 and other AP-1 components modulates gene programmes governing neuronal differentiation, migration and apoptosis (Kyriakis & Avruch, 2012; Musi et al., 2022). Additional substrates extend its influence to neurite outgrowth (STMN2), APP-mediated signalling during differentiation, and circadian regulation via CLOCK–BMAL1 (Ansideri, 2018; Lu et al., 2023).
+
+## Inhibitors  
+Structure-guided campaigns have produced ATP-competitive and covalent inhibitors that preferentially inhibit JNK2/3 over JNK1 by exploiting subtle active-site differences (Lu et al., 2023; Messoussi et al., 2016). Virtual-screening studies propose additional chemotypes targeting promiscuous binding pockets (Sailapathi et al., 2020). Disruption of scaffold interactions (e.g., JIP1 or β-arrestin2 binding surfaces) is also being explored as an alternative inhibitory strategy (Ansideri, 2018).
+
+## Other Comments  
+JNK3 is under active investigation as a therapeutic target in neurodegenerative disorders, where aberrant stress-induced apoptosis contributes to neuronal loss. Computational tools such as the D-finder algorithm continue to expand the catalogue of JNK3 substrates and docking motifs, enriching our understanding of its signalling network (Whisenant et al., 2010; Gordon et al., 2013).
+
+## 9. References  
+Ansideri, F. (2018). Multiple strategies targeting c-Jun N-terminal kinases: synthesis of novel inhibitors and development of a new binding assay methodology. [Journal unknown].  
+
+Bardwell, L. (2006). Mechanisms of MAPK signalling specificity. Biochemical Society Transactions, 34, 837–841. https://doi.org/10.1042/BST0340837  
+
+Giới, L. (2022). Intrinsic disorder in MAPK10/JNK3 and its role in protein interactions. [Journal unknown].  
+
+Gordon, E. A., Whisenant, T. C., Zeller, M., Kaake, R. M., Gordon, W. M., Krotee, P., et al. (2013). Combining docking site and phosphosite predictions to find new substrates: Identification of Smoothelin-like-2 as a c-Jun N-terminal kinase substrate. Cellular Signalling, 25, 2518–2529. https://doi.org/10.1016/j.cellsig.2013.08.004  
+
+Kyriakis, J. M., & Avruch, J. (2012). Mammalian MAPK signal transduction pathways activated by stress and inflammation: A 10-year update. Physiological Reviews, 92, 689–737. https://doi.org/10.1152/physrev.00028.2011  
+
+Lu, W., Liu, Y., Gao, Y., Geng, Q., Gurbani, D., Li, L., et al. (2023). Development of a covalent inhibitor of c-Jun N-terminal protein kinase 2/3 with selectivity over JNK1. Journal of Medicinal Chemistry, 66, 3356–3371. https://doi.org/10.1021/acs.jmedchem.2c01834  
+
+Messoussi, A., Chevé, G., Bougrin, K., & Yasri, A. (2016). Insight into the selective inhibition of JNK family members through structure-based drug design. MedChemComm, 7, 686–692. https://doi.org/10.1039/C5MD00562K  
+
+Musi, C. A., Marchini, G., Giani, A., Tomaselli, G., Priori, E. C., Colnaghi, L., & Borsello, T. (2022). Colocalization and interaction study of neuronal JNK3, JIP1, and β-arrestin2 together with PSD95. International Journal of Molecular Sciences, 23, 4113. https://doi.org/10.3390/ijms23084113  
+
+Sailapathi, A., Murugan, G., Somarathinam, K., Gunalan, S., Jagadeesan, R., Yoosuf, N., et al. (2020). Proposing the promiscuous protein structures in JNK1 and JNK3 for virtual screening in pursuit of potential leads. ACS Omega, 5, 3969–3978. https://doi.org/10.1021/acsomega.9b03458  
+
+Whisenant, T. C., Ho, D. T., Benz, R. W., Rogers, J. S., Kaake, R. M., Gordon, E. A., et al. (2010). Computational prediction and experimental verification of new MAP kinase docking sites and substrates including Gli transcription factors. PLoS Computational Biology, 6, e1000908. https://doi.org/10.1371/journal.pcbi.1000908

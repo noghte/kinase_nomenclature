@@ -1,0 +1,73 @@
+## Phylogeny  
+Tyrosine-protein kinase Fyn belongs to the Src family kinases (SFKs), a metazoan-conserved group of non-receptor tyrosine kinases present in all examined mammals (Huculeci et al., 2016). Sequence/structural comparison places Fyn with the Src/Yes/Fgr branch and apart from the Lyn/Hck/Lck subgroup (Register et al., 2014). Two splice variants, Fyn1 and Fyn2, differ in the SH2–catalytic domain linker and provide additional intra-family diversity (Brignatz et al., 2009; Register et al., 2014).
+
+## Reaction Catalyzed  
+ATP + L-tyrosyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-tyrosyl-[protein] (Sakkiah et al., 2017).
+
+## Cofactor Requirements  
+Requires divalent cations; Mg²⁺ is essential for ATP binding and phosphate transfer (Sakkiah et al., 2017).
+
+## Substrate Specificity  
+Fyn phosphorylates tyrosine residues within specific sequence contexts. Documented substrates include tau (Tyr18), β-catenin, δ-catenin and PIKE-A, implicating motifs that favour SH2-mediated engagement (Bhaskar et al., 2005; Tang et al., 2007; Demuro et al., 2022). A strict consensus motif has not been defined, but local amino-acid composition around the target tyrosine governs recognition (Brignatz et al., 2009).
+
+## Structure  
+Fyn comprises an N-terminal SH4 domain (myristoylation/palmitoylation; membrane targeting), followed by SH3, SH2, a kinase (SH1) domain and a C-terminal regulatory tail (Ouyang et al., 2018; Jelić et al., 2007).  
+• SH3 binds proline-rich motifs; SH2 recognises phosphotyrosine sequences and both participate in autoinhibition (Register et al., 2014; Huculeci et al., 2016).  
+• The catalytic domain contains the ATP-binding pocket, αC helix and activation loop (Demuro et al., 2022; Jelić et al., 2007).  
+• Phosphorylation of the C-terminal tyrosine by Csk stabilises an autoinhibited conformation, while membrane localisation concentrates the kinase in lipid rafts (Andoniou et al., 2000; Ouyang et al., 2018).  
+Homology models and X-ray structures reveal dynamic coupling among SH2, SH3 and SH1 domains (Jelić et al., 2007; Register et al., 2014).
+
+## Regulation  
+Autoinhibition is mediated by intramolecular SH2 binding to the phosphorylated C-terminal tail and SH3 engagement of the linker, restraining catalytic activity (Register et al., 2014; Brignatz et al., 2009). Activation involves:  
+1. Dephosphorylation of the inhibitory tail tyrosine.  
+2. Autophosphorylation of the activation-loop tyrosine (Demuro et al., 2022).  
+Alternative splicing (Fyn1 vs Fyn2) alters SH2–kinase coupling and regulatory flexibility (Brignatz et al., 2009; Register et al., 2014).  
+Additional controls include:  
+• Novel autophosphorylation sites in the SH2 domain (Tyr185, Tyr213, Tyr214) modulating kinase activity and phosphotyrosine binding (Weir et al., 2016).  
+• Negative regulation by c-Cbl-mediated ubiquitination and degradation (Andoniou et al., 2000).  
+• Upstream kinases/phosphatases: Csk phosphorylates the inhibitory tail; PKA can enhance activity indirectly via focal adhesion kinase association (Demuro et al., 2022).
+
+## Function  
+Widely expressed, with high levels in neural and immune tissues.  
+Neuronal roles: phosphorylation of MAPT, MAP2 and DAB1 drives cytoskeletal rearrangement, axon guidance and synaptic plasticity (Demuro et al., 2022; Brignatz et al., 2009).  
+Immune roles: critical in T-cell receptor, mast cell and NK cell signalling through substrates such as VAV1 and CD28 pathway components (Marotta et al., 2022; Mkaddem et al., 2017).  
+Cell adhesion/motility: phosphorylates β- and δ-catenin to regulate focal adhesion turnover (Demuro et al., 2022; Marotta et al., 2022).  
+Cell survival: phosphorylation of PIKE-A promotes Akt-mediated anti-apoptotic signalling (Tang et al., 2007; Saminathan et al., 2021).  
+Renal filtration integrity: targets NPHS1 and TRPC6 in podocytes (Demuro et al., 2022).  
+
+## Inhibitors  
+ATP-competitive inhibitors such as dasatinib and saracatinib inhibit Fyn but lack SFK selectivity (Marotta et al., 2022; Comba et al., 2020). Rosmarinic acid, identified by in silico docking and enzymatic assays, acts as a mixed-type inhibitor, potentially engaging an allosteric site (Jelić et al., 2007).  
+
+## Other Comments  
+Fyn dysregulation is linked to Alzheimer’s disease (tau phosphorylation) and to oncogenic processes involving aberrant survival and migration signalling. Genetic/biochemical data also associate Fyn with immune deficiencies and neurodevelopmental disorders (Demuro et al., 2022; Mkaddem et al., 2017; Ouyang et al., 2018).  
+
+## 9. References  
+Andoniou, C. E., Lill, N. L., Thien, C. B. F., Lupher, M. L., Ota, S., Bowtell, D. D. L., … Band, H. (2000). The Cbl proto-oncogene product negatively regulates the Src-family tyrosine kinase Fyn by enhancing its degradation. Molecular and Cellular Biology, 20, 851–867. https://doi.org/10.1128/MCB.20.3.851-867.2000  
+
+Bhaskar, K., Yen, S.-H., & Lee, G. (2005). Disease-related modifications in tau affect the interaction between Fyn and tau. Journal of Biological Chemistry, 280, 35119–35125. https://doi.org/10.1074/jbc.M505895200  
+
+Brignatz, C., Paronetto, M., Opi, S., Cappellari, M., Audebert, S., Feuillet, V., … Collette, Y. (2009). Alternative splicing modulates autoinhibition and SH3 accessibility in the Src kinase Fyn. Molecular and Cellular Biology, 29, 6438–6448. https://doi.org/10.1128/MCB.00398-09  
+
+Comba, A., Dunn, P. J., & Argento, A. E. (2020). Fyn tyrosine kinase, a downstream target of receptor tyrosine kinases, modulates antiglioma immune responses. Neuro-Oncology. https://doi.org/10.1093/neuonc/noaa006  
+
+Demuro, S., Sauvey, C., Tripathi, S. K., Di Martino, R. M. C., Shi, D., Ortega, J. A., … Cavalli, A. (2022). ARN25068, a versatile starting point towards triple GSK-3β/Fyn/DYRK1A inhibitors to tackle tau-related neurological disorders. European Journal of Medicinal Chemistry, 229, 114054. https://doi.org/10.1016/j.ejmech.2021.114054  
+
+Huculeci, R., Cilia, E., Lyczek, A., Buts, L., Houben, K., Seeliger, M. A., … Lenaerts, T. (2016). Dynamically coupled residues within the SH2 domain of Fyn are key to unlocking its activity. Structure, 24, 1947–1959. https://doi.org/10.1016/j.str.2016.08.016  
+
+Jelić, D., Mildner, B., Koštrun, S., Nujić, K., Verbanac, D., Čulić, O., … Brandt, W. (2007). Homology modeling of human Fyn kinase structure: discovery of rosmarinic acid as a new Fyn kinase inhibitor and in silico study of its possible binding modes. Journal of Medicinal Chemistry, 50, 1090–1100. https://doi.org/10.1021/jm0607202  
+
+Marotta, G., Basagni, F., Rosini, M., & Minarini, A. (2022). Role of Fyn kinase inhibitors in switching neuroinflammatory pathways. Current Medicinal Chemistry, 29, 4738–4755. https://doi.org/10.2174/0929867329666211221153719  
+
+Mkaddem, S. B., Murua, A., Flament, H., Titeca-Beauport, D., Bounaix, C., Danelli, L., … Monteiro, R. C. (2017). Lyn and Fyn function as molecular switches that control immunoreceptors to direct homeostasis or inflammation. Nature Communications, 8, 2255. https://doi.org/10.1038/s41467-017-00294-0  
+
+Ouyang, M., Wan, R., Qin, Q., Peng, Q., Wang, P., Wu, J., … Wang, Y. (2018). Sensitive FRET biosensor reveals Fyn kinase regulation by submembrane localization. ACS Sensors, 4, 76–86. https://doi.org/10.1021/acssensors.8b00896  
+
+Register, A. C., Leonard, S. E., & Maly, D. J. (2014). SH2-catalytic domain linker heterogeneity influences allosteric coupling across the SFK family. Biochemistry, 53, 6910–6923. https://doi.org/10.1021/bi5008194  
+
+Sakkiah, S., Cao, G. P., Gupta, S. P., & Lee, K. W. (2017). Overview of the structure and function of protein kinases. Current Enzyme Inhibition, 13, 81–88. https://doi.org/10.2174/1573408013666161226155608  
+
+Saminathan, H., Ghosh, A., Zhang, D., Song, C., Jin, H., Anantharam, V., … Kanthasamy, A. G. (2021). Fyn kinase-mediated PKCδ Y311 phosphorylation induces dopaminergic degeneration: implications for a new pharmacological target for Parkinson’s disease. Frontiers in Pharmacology. https://doi.org/10.3389/fphar.2021.631375  
+
+Tang, X., Feng, Y., & Ye, K. (2007). Fyn phosphorylates phosphatidylinositol 3-kinase enhancer-activating Akt, preventing its apoptotic cleavage and promoting cell survival. Cell Death and Differentiation, 14, 368–377. https://doi.org/10.1038/sj.cdd.4402011  
+
+Weir, M. E., Mann, J. E., Corwin, T., Fulton, Z. W., Hao, J. M., Maniscalco, J. F., … Hinkle, K. L. (2016). Novel autophosphorylation sites of Src family kinases regulate kinase activity and SH2 domain-binding capacity. FEBS Letters, 590, 1042–1052. https://doi.org/10.1002/1873-3468.12144

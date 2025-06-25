@@ -1,0 +1,54 @@
+Phylogeny  
+BRSK2 (Brain-selective kinase 2; synonyms: STK29, SAD-A, PEN11B) belongs to the CAMK group and the AMPK-related subfamily of serine/threonine kinases. The enzyme is conserved from Caenorhabditis elegans (ortholog Sad-1) to vertebrates, where its closest paralog is BRSK1. Phylogenetic analyses place BRSK2 among kinases that regulate neuronal functions (Jha et al., 2025; Asiain, 2012; Ruiz Babot, 2014).
+
+Reaction Catalyzed  
+ATP + [protein]-(Ser/Thr) ⇌ ADP + H⁺ + [protein]-(Ser/Thr)-phosphate (Jha et al., 2025).
+
+Cofactor Requirements  
+Mg²⁺ is essential; Mn²⁺ can substitute with altered kinetics (Knape et al., 2017; Li et al., 2012).
+
+Substrate Specificity  
+Deep-learning motif mapping indicates a preference for a non-polar residue at –5, basic residues (Arg/Lys) at –3 and –2, and acidic residues (Asp/Glu) at +1 to +3 relative to the phospho-Ser/Thr. Verified cellular substrates include MAPT/TAU, CDC25C, WEE1, CDK16 and PAK1 (Jha et al., 2025; Tamir et al., 2020).
+
+Structure  
+The protein contains an N-terminal catalytic domain with an activation loop phosphorylated on Thr-174, followed by a ubiquitin-associated (UBA) domain, a proline-rich region, and a C-terminal KA1 domain that harbours an auto-inhibitory sequence (AIS). Cooperative interaction between the UBA domain and AIS locks the αC helix in an “αC-out” conformation, maintaining the kinase in an autoinhibited state (Wu et al., 2015; Tamir et al., 2020; Jha et al., 2025; Ruiz Babot, 2014).
+
+Regulation  
+• Activation-loop phosphorylation by upstream kinase LKB1 (Thr-174) relieves autoinhibition (Li et al., 2012; Thiriet, 2013).  
+• Site-specific phosphorylation yields opposite effects on insulin secretion (Thr-174 inhibits, Thr-260 promotes) (protein-function notes; Tamir et al., 2020).  
+• APC/C-Cdh1 mediates ubiquitination and proteasomal degradation via a KEN box, regulating protein stability during the cell cycle (Li et al., 2012).  
+• Intramolecular autoinhibition is enforced by the UBA domain and AIS within the KA1 domain (Wu et al., 2015).
+
+Function  
+BRSK2 orchestrates neuronal polarization and axonogenesis by phosphorylating MAPT/TAU (Thr-529, Ser-579) (Jha et al., 2025; Thiriet, 2013). In developing neurons it down-regulates WEE1 (Ser-642), influencing G2/M progression, and modulates CDC25C activity (Jha et al., 2025; Tamir et al., 2020). In pancreatic β-cells, phosphorylation of CDK16 and PAK1 differentially affects glucose-stimulated insulin secretion. Additional roles include actin cytoskeleton reorganisation and ER-stress-induced apoptosis. Expression is highest in neuronal tissues but is also detected in certain tumour cell lines (Li et al., 2012; Tamir et al., 2020).
+
+Inhibitors  
+Selective small-molecule inhibitors are currently lacking; no widely accepted tool compound is available (Liu, 2021; Moret et al., 2020; Tamir et al., 2020).
+
+Other Comments  
+Genetic variants in BRSK2 are associated with developmental delay, autism spectrum disorder and intellectual disability (Jha et al., 2025). Altered activity influences metabolic regulation and may contribute to oncogenic processes (Southekal, 2021; Banerjee, 2013). The kinase–substrate network of BRSK2 is being explored as a potential therapeutic target in neurological and metabolic diseases (Moret et al., 2020).
+
+9. References  
+Asiain, A. R. (2012). Regulación y función de las brain-specific kinases 1 y 2 (BRSK1 y BRSK2, también llamadas SAD quinasas) en la diferenciación y sinapsis neuronales. *Unknown journal*.  
+
+Banerjee, S. (2013). Phosphorylation, ubiquitylation and characterisation of specific inhibitors of AMPK-related kinase NUAK1/ARK5. *Unknown journal*.  
+
+Jha, K., Shonai, D., Parekh, A., Uezu, A., Fujiyama, T., Yamamoto, H., … Soderling, S. H. (2025). Deep learning-coupled proximity proteomics to deconvolve kinase signaling in vivo. *bioRxiv*. https://doi.org/10.1101/2025.04.27.650849  
+
+Knape, M. J., Ballez, M., Burghardt, N. C., Zimmermann, B., Bertinetti, D., Kornev, A. P., & Herberg, F. W. (2017). Divalent metal ions control activity and inhibition of protein kinases. *Metallomics, 9*, 1576–1584. https://doi.org/10.1039/c7mt00204a  
+
+Li, R., Wan, B., Zhou, J., Wang, Y., Luo, T., Gu, X., … Yu, L. (2012). APC/C-Cdh1 targets brain-specific kinase 2 (BRSK2) for degradation via the ubiquitin-proteasome pathway. *PLoS ONE, 7*, e45932. https://doi.org/10.1371/journal.pone.0045932  
+
+Liu, C. (2021). Leveraging diverse data modalities to study kinase inhibitor polypharmacology. *Unknown journal*.  
+
+Moret, N., Liu, C., Gyori, B. M., Bachman, J. A., Steppi, A., Hug, C., … Sorger, P. K. (2020). A resource for exploring the understudied human kinome for research and therapeutic opportunities. *bioRxiv*. https://doi.org/10.1101/2020.04.02.022277  
+
+Ruiz Babot, G. (2014). Regulació de la brain-specific kinase 1 (BRSK1) neuronal per sulfàtid i modificacions post-traduccionals. *Unknown journal*.  
+
+Southekal, S. (2021). Integrative analysis of multi-omics kinome data and virtual screening of identified targets with pan-cancer application. *Unknown journal*.  
+
+Tamir, T. Y., Bowman, B. M., Agajanian, M. J., Goldfarb, D., Schrank, T. P., Stohrer, T., … Major, M. B. (2020). Gain-of-function genetic screen of the kinome reveals BRSK2 as an inhibitor of the NRF2 transcription factor. *Journal of Cell Science*. https://doi.org/10.1242/jcs.241356  
+
+Thiriet, M. (2013). Cytoplasmic protein serine/threonine kinases. In *Biomathematical and Biomechanical Modeling of the Circulatory and Ventilatory Systems* (pp. 175–310). https://doi.org/10.1007/978-1-4614-4370-4_5  
+
+Wu, J.-X., Cheng, Y.-S., Wang, J., Chen, L., Ding, M., & Wu, J.-W. (2015). Structural insight into the mechanism of synergistic autoinhibition of SAD kinases. *Nature Communications, 6*, 8953. https://doi.org/10.1038/ncomms9953

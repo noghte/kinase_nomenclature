@@ -1,0 +1,68 @@
+## Proposed EC/sub-subclass:
+2.7.11.– (protein-serine/threonine kinase)
+
+## Accepted name:
+Serine/threonine-protein kinase mTOR
+
+## Synonyms:
+mammalian target of rapamycin (mTOR)
+
+## Phylogeny  
+Member of the phosphatidylinositol-3-kinase-related kinase (PIKK) family. Orthologues occur throughout eukaryotes—from yeast to mammals—indicating that its nutrient-sensing role arose in the Last Eukaryotic Common Ancestor (Alexander et al., 2015; Elias-Villalobos et al., 2019). In phylogenetic trees, mTOR clusters with other PIKKs such as ATM and ATR but is functionally distinguished by its integration of nutrient, energy and hormone cues (Alexander et al., 2017). The extensive, evolutionarily conserved HEAT repeats and preserved kinase domain reinforce the ancient, conserved function of mTOR (Tobak, 2007; Panwar et al., 2023).
+
+## Reaction catalyzed
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Alexander et al., 2015; Alexander et al., 2017).
+
+## Cofactor requirements  
+Mg²⁺ is required for ATP binding and catalysis (Alexander et al., 2015; Liu et al., 2012).
+
+## Substrate specificity  
+mTOR directly or indirectly controls phosphorylation of > 800 proteins. Well-characterised direct substrates include EIF4EBP1 and RPS6KB1/2, which govern cap-dependent translation, and numerous regulators of lipid metabolism and autophagy. Although a strict consensus motif is not defined, substrate selection depends on complex context (mTORC1 vs mTORC2) and surrounding regulatory sequences involved in anabolic pathways (Alexander et al., 2015; Alexander et al., 2017; Liu et al., 2012; Armando et al., 2022).
+
+## Structure  
+• N-terminal ~20 HEAT repeats form an elongated solenoid mediating protein–protein interactions and complex assembly (Tobak, 2007).  
+• FAT domain adjacent to HEAT repeats supports folding and intramolecular contacts.  
+• Central catalytic kinase domain shares fold with PI3Ks and contains the ATP-binding pocket, activation loop, hydrophobic spine and C-helix (Tobak, 2007; Alexander et al., 2017).  
+• FRB domain is embedded within the kinase core and binds the FKBP12-rapamycin complex.  
+• C-terminal FATC segment is essential for full activity and structural integrity.  
+Homology modelling, using PI3Kγ as a template, confirms conservation of these catalytic features (Tobak, 2007).
+
+## Regulation  
+mTOR operates in two multiprotein assemblies.  
+• mTORC1: RAPTOR scaffolding, lysosomal localisation and activation by RHEB-GTP under nutrient sufficiency. Phosphorylates EIF4EBP1, RPS6KB1 and ULK1, thereby stimulating protein synthesis and inhibiting autophagy; also feeds back on insulin signalling via GRB10 (Alexander et al., 2015; Rowland, 2010; Panwar et al., 2023; Shams et al., 2021).  
+• mTORC2: Contains RICTOR and SIN1 and responds mainly to growth factors. Phosphorylates AKT (Thr450, Ser473, Ser477, Thr479), PKC and SGK1, enabling full AKT activation (Alexander et al., 2017; Liu et al., 2012).  
+mTOR can autophosphorylate and dynamically exchange regulatory partners, adding further control layers (Alexander et al., 2015; Shams et al., 2021).
+
+## Function  
+Master regulator that coordinates anabolic growth with nutrient and energy status.  
+• mTORC1 promotes translation (via EIF4EBP1, RPS6KB1/2), ribosome biogenesis, lipid and nucleotide synthesis, and suppresses autophagy (Alexander et al., 2015; Elias-Villalobos et al., 2019; Panwar et al., 2023).  
+• mTORC2 transduces growth-factor signals controlling survival, metabolism and cytoskeletal organisation through AGC kinases (Alexander et al., 2017; Armando et al., 2022).  
+Ubiquitously expressed, mTOR sits at the core of the PI3K/AKT/mTOR pathway, balancing anabolic and catabolic processes in most cell types (Alexander et al., 2015; Panwar et al., 2023).
+
+## Inhibitors  
+• Allosteric: Rapamycin (and rapalogs) bind the FRB domain in complex with FKBP12, mainly inhibiting mTORC1 (Tobak, 2007; Panwar et al., 2023).  
+• ATP-competitive (‘second-generation’): Torin1, PP242 and related compounds target the catalytic site and suppress both complexes (Tobak, 2007; Panwar et al., 2023).
+
+## Other Comments  
+Hyperactivation of mTOR signalling, driven by mutations in PI3K, PTEN or MTOR itself, is frequent in cancer and metabolic disease, underpinning intense drug-discovery efforts. Structural insights from PI3K-based homology models aid design of more selective inhibitors (Tobak, 2007). Beyond oncology, mTOR activity links to metabolic, neurodegenerative and immunological disorders, emphasising the need for continued mechanistic investigation (Safi et al., 2023; Shams et al., 2021).
+
+## References  
+Alexander, S. P. H., Fabbro, D., Kelly, E., Marrion, N. V., Peters, J. A., Benson, H. E., … Davies, J. A. (2015). The concise guide to pharmacology 2015/16: enzymes. British Journal of Pharmacology, 172, 6024–6109. https://doi.org/10.1111/bph.13354  
+
+Alexander, S. P. H., Fabbro, D., Kelly, E., Marrion, N. V., Peters, J. A., Faccenda, E., … Davies, J. A. (2017). The concise guide to pharmacology 2017/18: enzymes. British Journal of Pharmacology, 174(Suppl 1), S272–S359. https://doi.org/10.1111/bph.13877  
+
+Armando, I., Cuevas, S., Fan, C., Kumar, M., Izzi, Z., Jose, P. A., & Konkalmatt, P. R. (2022). G protein-coupled receptor 37L1 modulates epigenetic changes in human renal proximal tubule cells. International Journal of Molecular Sciences, 23, 14456. https://doi.org/10.3390/ijms232214456  
+
+Elias-Villalobos, A., Fort, P., & Helmlinger, D. (2019). New insights into the evolutionary conservation of the sole PIKK pseudokinase Tra1/TRRAP. Biochemical Society Transactions, 47, 1597–1608. https://doi.org/10.1042/BST20180496  
+
+Liu, Q., Kirubakaran, S., Hur, W., Niepel, M., Westover, K., Thoreen, C. C., … Gray, N. S. (2012). Kinome-wide selectivity profiling of ATP-competitive mammalian target of rapamycin inhibitors and characterization of their binding kinetics. Journal of Biological Chemistry, 287, 9742–9752. https://doi.org/10.1074/jbc.M111.304485  
+
+Panwar, V., Singh, A., Bhatt, M., Tonk, R. K., Azizov, S., Raza, A. S., … Garg, M. (2023). Multifaceted role of mTOR signalling pathway in human health and disease. Signal Transduction and Targeted Therapy. https://doi.org/10.1038/s41392-023-01608-z  
+
+Rowland, A. F. (2010). Identification of the Rac GTPase-activating protein RhoGAP22 as a new Akt substrate defines a novel mechanism for insulin regulation of cell motility. [Journal details not provided].  
+
+Safi, A., Smagghe, W., Gonçalves, A., Xu, K., Fernandez, A. I., Cappe, B., … Vanneste, S. (2023). Phase separation-based visualization of protein–protein interactions and kinase activities in plants. bioRxiv. https://doi.org/10.1101/2022.09.06.506782  
+
+Shams, R., Ito, Y., & Miyatake, H. (2021). Evaluation of the binding kinetics of Rheb with mTORC1 by in-cell and in vitro assays. International Journal of Molecular Sciences. https://doi.org/10.20944/preprints202106.0309.v1  
+
+Tobak, A. T. (2007). Construction of the 3D structure of the mTOR kinase domain and discovery of novel mTOR inhibitors. [Journal details not provided]. https://doi.org/10.7282/t3dn45hp

@@ -1,0 +1,64 @@
+## Proposed EC/sub-subclass  
+2.7.11.– (protein‐serine/threonine kinases)
+
+## Accepted name  
+Serine/threonine-protein kinase DCLK1
+
+## Synonyms  
+Doublecortin-like kinase 1; DCAMKL1; DCDC3A; KIAA0369
+
+## Phylogeny  
+DCLK1 is a member of the serine/threonine kinase superfamily that combines two N-terminal doublecortin (DCX) microtubule-binding domains with a C-terminal CaMK-related catalytic module (Burgess & Reiner, 2001; Burgess & Reiner, 2002; Ohmae et al., 2006). The DCX domains are evolutionarily conserved across vertebrates, while the kinase domain shares ~45 % sequence identity with CaMKI/IV family members, positioning DCLK1 as an intermediate within the CaMK clade (Burgess & Reiner, 2002; Ohmae et al., 2006). Orthologues are widespread in mammals, and alternative splicing generates multiple isoforms that fine-tune cytoskeletal binding and kinase activity in tissue- and stage-specific contexts (Burgess & Reiner, 2002; Reiner et al., 2006; Venkat et al., 2023).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Patel et al., 2016; Venkat et al., 2023)
+
+## Cofactor Requirements  
+Mg²⁺ is required for coordination of ATP and efficient phosphotransfer (Patel et al., 2016).
+
+## Substrate Specificity  
+Peptide studies indicate a preference for basic residues, especially Arg at the −3/−2 positions relative to the target Ser/Thr, which enhance phosphorylation efficiency (Burgess & Reiner, 2002; Ramkumar et al., 2018). A definitive consensus motif has not yet been established.
+
+## Structure  
+DCLK1 consists of tandem DCX domains that adopt β-grasp folds for tubulin binding, a bilobal kinase domain containing conserved G-loop, HRD, and DFG motifs, and an intrinsically disordered C-terminal tail (Burgess & Reiner, 2001; Patel et al., 2016; Shang et al., 2003). Docking of the phosphorylated C-tail against the catalytic core stabilises the hydrophobic spine and occludes the ATP site, providing an autoinhibitory mechanism (Rogers et al., 2020; Venkat et al., 2023).
+
+## Regulation  
+1. Autophosphorylation of specific Ser/Thr residues—particularly within the C-tail—promotes tail docking and autoinhibition of kinase activity (Rogers et al., 2020).  
+2. Phosphorylation of residues inside the DCX domains reduces microtubule binding (Rogers et al., 2020).  
+3. Alternative splicing alters DCX copy number and C-tail length, modulating ATP affinity and catalytic turnover among isoforms (Burgess & Reiner, 2002; Rogers et al., 2021).
+
+## Function  
+• Neuronal development: DCX domains stabilise microtubules to support neuronal migration, axon guidance, and dendritic patterning, while kinase activity further modulates cytoskeletal dynamics (Burgess & Reiner, 2001; Ohmae et al., 2006; Ramkumar et al., 2018).  
+• Mature neurons: contributes to dendritic architecture and synaptic plasticity (Chhetri et al., 2022).  
+• Cancer biology: over-expression or aberrant splicing of DCLK1 isoforms correlates with enhanced tumor cell migration, invasion, and cancer stem-cell properties (Burgess & Reiner, 2002; Chhetri et al., 2022).
+
+## Inhibitors  
+Structure-guided efforts are underway to design small-molecule ATP-competitive inhibitors and compounds that disrupt C-tail docking, but no specific inhibitors are detailed in the cited literature (Venkat et al., 2023).
+
+## Other Comments  
+DCLK1 lacks a canonical calmodulin-binding region found in related CaMKI/IV kinases; consequently, autophosphorylation and C-tail docking dominate its regulatory landscape (Rogers et al., 2020; Rogers et al., 2021). The protein’s dual microtubule-binding and kinase activities, together with its cancer associations, make isoform-selective inhibition an active therapeutic research goal (Venkat et al., 2023; Carli et al., 2023).
+
+## References  
+Burgess, H. A., & Reiner, O. (2001). Cleavage of doublecortin-like kinase by calpain releases an active kinase fragment from a microtubule anchorage domain. The Journal of Biological Chemistry, 276, 36397–36403. https://doi.org/10.1074/jbc.M105153200  
+
+Burgess, H. A., & Reiner, O. (2002). Alternative splice variants of doublecortin-like kinase are differentially expressed and have different kinase activities. The Journal of Biological Chemistry, 277, 17696–17705. https://doi.org/10.1074/jbc.M111981200  
+
+Carli, A. L. E., Hardy, J. M., Hoblos, H., Ernst, M., Lucet, I. S., & Buchert, M. (2023). Structure-guided prediction of the functional impact of DCLK1 mutations on tumorigenesis. Biomedicines, 11, 990. https://doi.org/10.3390/biomedicines11030990  
+
+Chhetri, D., Vengadassalapathy, S., Venkadassalapathy, S., Balachandran, V., Umapathy, V. R., Veeraraghavan, V. P., … Gnanasampanthapandian, D. (2022). Pleiotropic effects of DCLK1 in cancer and cancer stem cells. Frontiers in Molecular Biosciences. https://doi.org/10.3389/fmolb.2022.965730  
+
+Ohmae, S., Takemoto-Kimura, S., Okamura, M., Adachi-Morishima, A., Nonaka, M., Fuse, T., … Bito, H. (2006). Molecular identification and characterization of a family of kinases with homology to Ca²⁺/calmodulin-dependent protein kinases I/IV. The Journal of Biological Chemistry, 281, 20427–20439. https://doi.org/10.1074/jbc.M513212200  
+
+Patel, O., Dai, W., Mentzel, M., Griffin, M. D. W., Serindoux, J., Gay, Y., … Lucet, I. S. (2016). Biochemical and structural insights into doublecortin-like kinase domain 1. Structure, 24, 1550–1561. https://doi.org/10.1016/j.str.2016.07.008  
+
+Ramkumar, A., Jong, B. Y., & Ori-McKenney, K. M. (2018). Remapping the microtubule landscape: How phosphorylation dictates the activities of microtubule-associated proteins. Developmental Dynamics. https://doi.org/10.1002/dvdy.24599  
+
+Reiner, O., Coquelle, F. M., Peter, B., Levy, T., Kaplan, A., Sapir, T., … Bergmann, S. (2006). The evolving doublecortin (DCX) superfamily. BMC Genomics, 7, 188. https://doi.org/10.1186/1471-2164-7-188  
+
+Rogers, M. M., Ramkumar, A., Downing, A. M., Bodin, H., Castro, J., Nowakowski, D. W., & Ori-McKenney, K. M. (2020). Autoregulatory control of microtubule binding in the oncogene, doublecortin-like kinase 1. bioRxiv. https://doi.org/10.1101/2020.06.12.149252  
+
+Rogers, M., Tan, T., Ramkumar, A., Downing, A., Bodin, H., Castro, J., … Ori-McKenney, K. M. (2021). Autoregulatory control of microtubule binding in doublecortin-like kinase 1. Biophysical Journal, 120, 12a. https://doi.org/10.1016/j.bpj.2020.11.336  
+
+Shang, L., Kwon, Y.-G., Nandy, S., Lawrence, D. S., & Edelman, A. M. (2003). Catalytic and regulatory domains of doublecortin kinase-1. Biochemistry, 42, 2185–2194. https://doi.org/10.1021/bi026913i  
+
+Venkat, A., Watterson, G., Byrne, D. P., O’Boyle, B., Shrestha, S., Gravel, N., … Kannan, N. (2023). Mechanistic and evolutionary insights into isoform-specific ‘supercharging’ in DCLK family kinases. bioRxiv. https://doi.org/10.7554/eLife.87958.1

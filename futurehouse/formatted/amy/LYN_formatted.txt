@@ -1,0 +1,74 @@
+## Proposed EC/sub-subclass:
+Not specified in the provided Nomenclature.  
+
+## Accepted name:
+Tyrosine-protein kinase Lyn  
+
+## Synonyms:  
+Lck/Yes-related novel protein tyrosine kinase; p53Lyn; p56Lyn  
+
+## Phylogeny  
+Member of the Src family kinases (SFKs), an ancient clade of non-receptor tyrosine kinases traceable to the Last Eukaryotic Common Ancestor (LECA) (Hanks & Hunter, 1995). Lyn clusters with other canonical SFKs (Src, Fyn, Yes, Lck) and retains the conserved SH4–SH3–SH2–kinase domain architecture and key regulatory tyrosines that have been maintained throughout vertebrate evolution (Hanks & Hunter, 1995; Ingley, 2008; Berndt et al., 2019).  
+
+## Reaction Catalyzed  
+ATP + protein-(L-tyrosine) ⇌ ADP + H⁺ + protein-(L-tyrosine-phosphate) (Hanks & Hunter, 1995; Berndt et al., 2019).  
+
+## Cofactor Requirements  
+Mg²⁺ is essential for ATP binding and catalysis (Blouin et al., 2011).  
+
+## Substrate Specificity  
+Displays typical SFK preference for tyrosine residues embedded in basic and hydrophobic sequence contexts. Physiological substrates include B-cell receptor components (CD79A, CD79B), regulatory receptors (CD5, CD19, CD22), and downstream signalling proteins such as BTK, SYK and CBL (Al-Obeidi et al., 1998; Cowan-Jacob, 2006; Jin et al., 2015). High-throughput peptide profiling confirms the absence of a strict consensus but highlights sequences enriched in basic/hydrophobic residues flanking the target Tyr (Blouin et al., 2011).  
+
+## Structure  
+Follows the canonical SFK layout:  
+• SH4 domain (N-myristoylated; required for membrane association).  
+• Unique region (isoform-specific interactions).  
+• SH3 domain (binds proline-rich motifs).  
+• SH2 domain (binds phosphotyrosine motifs).  
+• Bilobal kinase (SH1) domain with conserved ATP-binding pocket, DFG motif and activation loop tyrosine (Cowan-Jacob, 2006; Berndt et al., 2019).  
+Crystal structures reveal inter-domain contacts that stabilise either the inactive autoinhibited conformation or the active state following activation loop phosphorylation (Berndt et al., 2019; Miyano et al., 2009).  
+
+## Regulation  
+• Autophosphorylation of the activation loop tyrosine activates the kinase (Donella-Deana et al., 1998).  
+• Phosphorylation of the C-terminal inhibitory tyrosine by CSK creates an intramolecular SH2 interaction that suppresses activity (Ingley, 2012).  
+• SH3/SH2 intramolecular binding further supports the inactive conformation; release occurs upon competitive ligand binding or dephosphorylation.  
+• Lipid modifications: N-myristoylation targets Lyn to membranes and permits additional regulation such as Ser-13 phosphorylation by CK1γ at the Golgi (Kinoshita-Kikuta et al., 2020).  
+
+## Function  
+Predominantly expressed in hematopoietic/immune lineages where it acts as a central signalling hub.  
+• B cells: initiates and later attenuates B-cell receptor signalling by phosphorylating CD79A/B, CD5, CD19, CD22 and ITIM-containing inhibitory receptors, thereby modulating PI3K/AKT, MAPK and STAT5 pathways (Ingley, 2012; Jin et al., 2015).  
+• Myeloid and dendritic cells: transduces signals from Fc, Toll-like, cytokine and growth-factor receptors (Al-Obeidi et al., 1998; Invergo et al., 2020).  
+• Recruits phosphatases SHP-1, SHP-2 and SHIP-1 to dampen immune activation (Donella-Deana et al., 1998).  
+
+## Inhibitors  
+Clinically used multi-kinase inhibitors dasatinib and bosutinib inhibit Lyn activity (Kim et al., 2019).  
+
+## Other Comments  
+Constitutive or dysregulated Lyn signalling is implicated in leukemias, lymphomas and autoimmune diseases. Mutations that disrupt SH2/SH3 autoinhibition can yield chronic activation and oncogenic transformation. Novel spatial regulation via N-myristoylation-dependent Ser-13 phosphorylation suggests additional therapeutic entry points (Ingley, 2012; Kinoshita-Kikuta et al., 2020).  
+
+## References  
+Al-Obeidi, F. A., Wu, J. J., & Lam, K. S. (1998). Protein tyrosine kinases: structure, substrate specificity, and drug discovery. Biopolymers, 47, 197-223. https://doi.org/10.1002/(SICI)1097-0282(1998)47:3<197::AID-BIP2>3.0.CO;2-H  
+
+Berndt, S., Gurevich, V. V., & Iverson, T. M. (2019). Crystal structure of the SH3 domain of human Lyn non-receptor tyrosine kinase. PLOS ONE, 14, e0215140. https://doi.org/10.1371/journal.pone.0215140  
+
+Blouin, J., Roby, P., Arcand, M., Beaudet, L., & Lipari, F. (2011). Catalytic specificity of human protein tyrosine kinases revealed by peptide substrate profiling. Current Chemical Genomics, 5, 115-121. https://doi.org/10.2174/1875397301105010115  
+
+Cowan-Jacob, S. W. (2006). Structural biology of protein tyrosine kinases. Cellular and Molecular Life Sciences, 63, 2608-2625. https://doi.org/10.1007/s00018-006-6202-8  
+
+Donella-Deana, A., Cesaro, L., Ruzzene, M., Brunati, A. M., Marin, O., & Pinna, L. A. (1998). Spontaneous autophosphorylation of Lyn tyrosine kinase at both its activation segment and C-terminal tail confers altered substrate specificity. Biochemistry, 37, 1438-1446. https://doi.org/10.1021/bi971332s  
+
+Hanks, S. K., & Hunter, T. (1995). The eukaryotic protein kinase superfamily: kinase (catalytic) domain structure and classification. FASEB Journal, 9, 576-596. https://doi.org/10.1096/fasebj.9.8.7768349  
+
+Ingley, E. (2008). Src family kinases: regulation of their activities, levels and identification of new pathways. Biochimica et Biophysica Acta-Proteins and Proteomics, 1784, 56-65. https://doi.org/10.1016/j.bbapap.2007.08.012  
+
+Ingley, E. (2012). Functions of the Lyn tyrosine kinase in health and disease. Cell Communication and Signaling, 10, 21. https://doi.org/10.1186/1478-811x-10-21  
+
+Invergo, B. M., Petursson, B., Akhtar, N., Bradley, D., Giudice, G., Hijazi, M., Cutillas, P., Petsalaki, E., & Beltrao, P. (2020). Prediction of signed protein kinase regulatory circuits. Cell Systems, 10, 384-396.e9. https://doi.org/10.1016/j.cels.2020.04.005  
+
+Jin, L. L., Wybenga-Groot, L. E., Tong, J., Taylor, P., Minden, M. D., Trudel, S., McGlade, C. J., & Moran, M. F. (2015). Tyrosine phosphorylation of the Lyn Src homology 2 (SH2) domain modulates its binding affinity and specificity. Molecular & Cellular Proteomics, 14, 695-706. https://doi.org/10.1074/mcp.M114.044404  
+
+Kim, D., Sun, Y., Xie, D., Denton, K. E., Chen, H., Lin, H., Wendt, M. K., Post, C. B., & Krusemark, C. J. (2019). Application of a substrate-mediated selection with c-Src tyrosine kinase to a DNA-encoded chemical library. Molecules, 24, 2764. https://doi.org/10.3390/molecules24152764  
+
+Kinoshita-Kikuta, E., Utsumi, T., Miyazaki, A., Tokumoto, C., Doi, K., Harada, H., Kinoshita, E., & Koike, T. (2020). Protein-N-myristoylation-dependent phosphorylation of serine 13 of tyrosine kinase Lyn by casein kinase 1γ at the Golgi during intracellular protein traffic. Scientific Reports, 10, 16049. https://doi.org/10.1038/s41598-020-73248-0  
+
+Miyano, N., Kinoshita, T., Nakai, R., Kirii, Y., Yokota, K., & Tada, T. (2009). Structural basis for the inhibitor recognition of human Lyn kinase domain. Bioorganic & Medicinal Chemistry Letters, 19, 6557-6560. https://doi.org/10.1016/j.bmcl.2009.10.038

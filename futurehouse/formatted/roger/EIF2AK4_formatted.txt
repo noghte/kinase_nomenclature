@@ -1,0 +1,74 @@
+## Proposed EC/sub-subclass:
+–
+
+## Accepted name:
+General Control Nonderepressible-2 protein kinase (GCN2)
+
+## Synonyms:
+EIF2AK4; eIF2α kinase 4; General control nonderepressible-2; GCN2p (yeast)
+
+## Phylogeny  
+GCN2 is one of the most ancient and ubiquitous eIF2α kinases, with orthologues in yeast, plants, fungi, and animals (Rothenburg et al., 2016; Tatara et al., 2024). Its evolutionary lineage pre-dates the divergence of the other eIF2α-kinase family members (PKR, HRI, PERK) and is characterized by a conserved N-terminal RWD domain and a HisRS-like module that couple environmental cues to translational control (Rothenburg et al., 2016; Donnelly et al., 2013).
+
+## Reaction catalysed  
+ATP + eIF2α → ADP + eIF2α-P + H⁺  
+Phosphorylation occurs at the conserved Ser-51 residue of eIF2α (Xu, 2011).
+
+## Cofactor requirements  
+Mg²⁺ is essential for ATP binding and catalysis (Rothenburg et al., 2016).
+
+## Substrate specificity  
+The kinase selectively phosphorylates the α-subunit of eIF2 at Ser-51; recognition depends on local sequence context and structural contacts afforded by GCN2 regulatory domains (Zhao et al., 2023; Dey, 2012).
+
+## Structure  
+Multidomain protein comprising:  
+• N-terminal RWD domain for interaction with GCN1/GCN20 (Tatara et al., 2024).  
+• Pseudokinase domain that modulates catalytic output.  
+• Canonical serine/threonine kinase domain with bi-lobed fold, activation loop autophosphorylation site, and conserved DFG motif (Miles, 2021; Rothenburg et al., 2016).  
+• HisRS-like domain that binds uncharged tRNA and relieves autoinhibition (Lokdarshi & von Arnim, 2022).  
+• C-terminal dimerisation/ribosome-association region (Lokdarshi & von Arnim, 2022).  
+Crystallographic and AlphaFold models reveal a back-to-back dimer in which regulatory modules are positioned to sense uncharged tRNA and stalled ribosomes (Rothenburg et al., 2016).
+
+## Regulation  
+• Activation by accumulation of uncharged tRNAs that bind the HisRS-like and C-terminal regions, promoting dimerisation and autophosphorylation (Altintas & MacArthur, 2024; Zhao et al., 2023).  
+• GCN1 serves as a ribosomal scaffold, transferring uncharged tRNA from the A-site to GCN2; GCN20 assists this process (Tatara et al., 2024).  
+• Additional inputs include glucose limitation, oxidative stress, UV irradiation and ribosome stalling, which impinge on tRNA charging state or GCN1/GCN20 interactions (Anda et al., 2017; Zhao et al., 2023).  
+• Crosstalk with mTORC1: amino-acid sufficiency via mTORC1 suppresses GCN2 signalling (Zhao et al., 2023; Altintas & MacArthur, 2024).
+
+## Function  
+Activated GCN2 phosphorylates eIF2α, globally dampening cap-dependent translation while enabling selective translation of stress-adaptive mRNAs (e.g., ATF4) (Altintas & MacArthur, 2024; Dey, 2012). This integrated stress response supports amino-acid biosynthesis, redox balance, autophagy and survival during nutrient deprivation. Additional reported roles include:  
+• Cell-cycle modulation through cyclin D1 and CDKN1A/p21 translation (Dey, 2012).  
+• Neuronal plasticity, learning and memory (Goodman, 2019).  
+• Pro-apoptotic signalling during glucose starvation (Altintas & MacArthur, 2024).  
+• Antiviral defence by restricting early viral mRNA translation (Goodman, 2019).
+
+## Inhibitors  
+Small-molecule inhibitors that block uncharged-tRNA binding or impede autophosphorylation have been described, though many display off-target activities; optimisation for selectivity is ongoing (Joshi et al., 2013).
+
+## Other comments  
+Loss-of-function EIF2AK4 mutations cause pulmonary veno-occlusive disease/pulmonary arterial hypertension, and dysregulated GCN2-ISR signalling is linked to cancer, neurodegeneration and inflammatory disorders (Altintas & MacArthur, 2024; Zhao et al., 2023).
+
+## References  
+Altintas, O., & MacArthur, M. R. (2024). General control nonderepressible 2 (GCN2) as a therapeutic target in age-related diseases. Frontiers in Aging. https://doi.org/10.3389/fragi.2024.1447370  
+
+Anda, S., Zach, R., & Grallert, B. (2017). Activation of GCN2 in response to different stresses. PLOS ONE, 12, e0182143. https://doi.org/10.1371/journal.pone.0182143  
+
+Dey, S. (2012). Transcriptional regulation of ATF4 is critical for controlling the integrated stress response during eIF2 phosphorylation.  
+
+Donnelly, N., Gorman, A. M., Gupta, S., & Samali, A. (2013). The eIF2α kinases: Their structures and functions. Cellular and Molecular Life Sciences, 70, 3493–3511. https://doi.org/10.1007/s00018-012-1252-6  
+
+Goodman, D. (2019). The roles of eIF2 kinases PKR and GCN2 during mouse adenovirus type 1 infection.  
+
+Joshi, M., Kulkarni, A., & Pal, J. K. (2013). Small molecule modulators of eukaryotic initiation factor 2α kinases, the key regulators of protein synthesis. Biochimie, 95, 1980–1990. https://doi.org/10.1016/j.biochi.2013.07.030  
+
+Lokdarshi, A., & von Arnim, A. G. (2022). Emerging roles of the signalling network of the protein kinase GCN2 in the plant stress response. Plant Science, 320, 111280. https://doi.org/10.1016/j.plantsci.2022.111280  
+
+Miles, R. R. (2021). GCN2 eIF2 kinase is critical for keratinocyte collective migration and wound healing.  
+
+Rothenburg, S., Georgiadis, M. M., & Wek, R. C. (2016). Evolution of eIF2α kinases: Adapting translational control to diverse stresses. In Evolution of the Protein Synthesis Machinery and Its Regulation (pp. 235–260). https://doi.org/10.1007/978-3-319-39468-8_11  
+
+Tatara, Y., Kasai, S., Kokubu, D., Tsujita, T., Mimura, J., & Itoh, K. (2024). Emerging role of GCN1 in disease and homeostasis. International Journal of Molecular Sciences, 25, 2998. https://doi.org/10.3390/ijms25052998  
+
+Xu, X. (2011). The GCN2 eIF2α kinase regulates lipid and glucose homeostasis.  
+
+Zhao, C., Guo, H., Hou, Y., Lei, T., Wei, D., & Zhao, Y. (2023). Multiple roles of the stress sensor GCN2 in immune cells. International Journal of Molecular Sciences, 24, 4285. https://doi.org/10.3390/ijms24054285

@@ -1,0 +1,56 @@
+## Phylogeny  
+ABL1 (c-Abl) is one of two ubiquitously expressed Abl family kinases in mammals (the other is ABL2/Arg). A single ortholog functions in Drosophila, illustrating conservation of Abl kinases throughout metazoans (Hantschel, 2012; Rogers et al., 2020). Phylogenetic analyses place ABL1 within the tyrosine kinase group alongside Src-related families, indicating an origin early in eukaryotic evolution (Superti-Furga & Courtneidge, 1995).
+
+## Reaction Catalyzed  
+ATP + protein-(L-tyrosine) ⇌ ADP + protein-(L-tyrosine)-phosphate + H⁺ (Roskoski, 2003)
+
+## Cofactor Requirements  
+Mg²⁺ is essential for ATP coordination and catalysis (Roskoski, 2003).
+
+## Substrate Specificity  
+ABL1 phosphorylates tyrosine residues on diverse targets that regulate the actin cytoskeleton, receptor endocytosis, and DNA damage responses. Substrate recognition is refined by its SH3 domain, which binds proline-rich motifs, and its SH2 domain, which engages phosphotyrosine sequences, promoting multisite phosphorylation. Reported substrates include WASF3, CBL, CRK/CRKL, EGFR and RIN1 (Hantschel, 2012; Roskoski, 2003; Tse & Verkhivker, 2015).
+
+## Structure  
+ABL1 displays a modular architecture: N-terminal myristoylation signal and cap, contiguous SH3 and SH2 domains, the bilobed kinase (SH1) domain, and an intrinsically disordered, proline-rich C-terminal tail (Hantschel, 2012; Rogers et al., 2021). Autoinhibition is achieved when the myristoyl group docks into a hydrophobic pocket of the kinase C-lobe and the SH3 domain binds the SH2-kinase linker, locking the enzyme in an inactive conformation (Hantschel, 2012). The activation loop within the kinase domain contains Tyr412, whose autophosphorylation switches the enzyme to an active state. The C-terminal disordered region mediates additional protein-protein interactions and influences stability and localization (Rogers et al., 2020; Kornev & Taylor, 2015).
+
+## Regulation  
+1. Autoinhibition via myristoyl/SH3-linker interactions maintains the inactive state (Hantschel, 2012).  
+2. Activating autophosphorylation on Tyr412 (activation loop) and Tyr245 (SH2-kinase linker) disrupts inhibitory contacts and promotes activity (Hantschel, 2012; Roskoski, 2003).  
+3. Ubiquitination by CBL family ligases targets ABL1 for degradation under stress (Rogers et al., 2021).  
+4. Allosteric and ATP-competitive inhibitors bias the conformational equilibrium (Roskoski, 2003; Tse & Verkhivker, 2015).  
+5. Nuclear localization and export signals mediate shuttling; nuclear ABL1 participates in DNA repair and apoptosis, whereas cytoplasmic ABL1 regulates cytoskeletal remodeling and endocytosis (Hantschel, 2012).
+
+## Function  
+ABL1 acts as a versatile signaling hub:  
+• Cytoskeleton – phosphorylates WASF3, CRK/CRKL and other regulators to drive lamellipodia formation and cell migration (Hantschel, 2012).  
+• Receptor endocytosis – modulates EGFR internalization via phosphorylation of CBL and RIN1 (Lund, 2013; Hantschel, 2012).  
+• DNA damage response – interacts with DDB1/2, RAD51 and TP73, balancing repair and apoptosis in the nucleus (Hantschel, 2012).  
+• Autophagy – influences lysosomal trafficking during late autophagy (information in Nomenclature).  
+• Oxidative stress – translocates to mitochondria to phosphorylate PRKD2, promoting cell death (Rogers et al., 2021).  
+• Host–pathogen interactions – phosphorylates viral and bacterial proteins (e.g., Vaccinia A36R, H. pylori CagA) to remodel host actin (information in Nomenclature).  
+ABL1 is ubiquitously expressed in mammalian tissues (Hantschel, 2012).
+
+## Inhibitors  
+Clinically used ATP-competitive inhibitors include imatinib (binds inactive DFG-out conformation), dasatinib, nilotinib and ponatinib; they are central to chronic myelogenous leukemia therapy and to overcoming resistance mutations such as T315I (Roskoski, 2003; Hantschel, 2012; Wong & Witte, 2004). Allosteric inhibitors targeting the myristate pocket illustrate alternative therapeutic strategies (Tse & Verkhivker, 2015).
+
+## Other Comments  
+Oncogenic BCR-ABL fusions delete autoinhibitory regions, yielding constitutive kinase activity that drives leukemogenesis. Kinase-domain mutations can confer drug resistance. Insights from ABL1 structure and regulation underpin modern kinase-inhibitor design paradigms (Wong & Witte, 2004; Roskoski, 2003).
+
+## 9. References  
+Hantschel, O. (2012). Structure, regulation, signaling, and targeting of Abl kinases in cancer. Genes & Cancer, 3, 436–446. https://doi.org/10.1177/1947601912458584  
+
+Kornev, A. P., & Taylor, S. S. (2015). Dynamics-driven allostery in protein kinases. Trends in Biochemical Sciences, 40, 628–647. https://doi.org/10.1016/j.tibs.2015.09.002  
+
+Lund, B. A. (2013). Biotech applications of protein kinase affinity interactions. [Journal unidentified].  
+
+Rogers, E. M., Allred, S. C., & Peifer, M. (2020). Abelson kinase’s intrinsically disordered linker plays important roles in protein function and protein stability. bioRxiv. https://doi.org/10.1101/2020.05.20.106708  
+
+Rogers, E. M., Allred, S. C., & Peifer, M. (2021). Abelson kinase’s intrinsically disordered region plays essential roles in protein function and protein stability. Cell Communication and Signaling, 19, 1–29. https://doi.org/10.1186/s12964-020-00703-w  
+
+Roskoski, R. (2003). STI-571: An anticancer protein-tyrosine kinase inhibitor. Biochemical and Biophysical Research Communications, 309, 709–717. https://doi.org/10.1016/j.bbrc.2003.08.055  
+
+Superti-Furga, G., & Courtneidge, S. A. (1995). Structure-function relationships in Src family and related protein tyrosine kinases. BioEssays, 17, 321–330. https://doi.org/10.1002/bies.950170408  
+
+Tse, A., & Verkhivker, G. M. (2015). Molecular determinants underlying binding specificities of the Abl kinase inhibitors. PLOS ONE, 10, e0130203. https://doi.org/10.1371/journal.pone.0130203  
+
+Wong, S., & Witte, O. N. (2004). The BCR-ABL story: Bench to bedside and back. Annual Review of Immunology, 22, 247–306. https://doi.org/10.1146/annurev.immunol.22.012703.104753

@@ -1,0 +1,73 @@
+## Proposed EC/sub-subclass  
+2.7.11.– (protein-serine/threonine kinases)
+
+## Accepted name  
+Interleukin-1 receptor-associated kinase 1
+
+## Synonyms  
+IRAK1; Pelle-like kinase; Interleukin-1 receptor-associated kinase-1; IL-1R-associated kinase-1
+
+## Phylogeny  
+IRAK1 is a conserved serine/threonine kinase found throughout mammals and evolutionarily related to the other IRAK paralogues (IRAK4, IRAK2 and the pseudokinase IRAK-M). Homology with the Drosophila Pelle kinase indicates that the gene duplication events producing the present IRAK family pre-date the vertebrate lineage, highlighting an ancient, conserved role in Toll-like receptor (TLR) and interleukin-1 receptor (IL-1R) signalling (Gosu et al., 2012; Janssens & Beyaert, 2003; Gottipati et al., 2008).
+
+## Reaction catalysed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Flannery & Bowie, 2010; Jain et al., 2014)
+
+## Cofactor requirements  
+Mg²⁺ is required for efficient ATP binding and catalysis (Flannery & Bowie, 2010; Wang et al., 2017).
+
+## Substrate specificity  
+IRAK1 phosphorylates serine/threonine residues within several signalling proteins, although a strict consensus motif has not been defined. Confirmed cellular substrates include Pellino family E3 ligases (PELI1-3), the adaptor TIRAP/MAL, interferon-regulatory factor 7 (IRF7) and, after SUMO modification and nuclear translocation, STAT3. These phosphorylation events promote downstream polyubiquitination, adaptor turnover or transcription-factor activation in TLR/IL-1R pathways (Gottipati et al., 2008; Flannery & Bowie, 2010; Jain et al., 2014).
+
+## Structure  
+Full-length IRAK1 comprises  
+• N-terminal death domain that docks to MyD88;  
+• Proline/Ser/Thr-rich (ProST) segment involved in autophosphorylation and ubiquitin-dependent turnover;  
+• Central bilobal kinase domain with catalytic Lys239, gatekeeper Tyr288 and catalytic Asp340;  
+• Activation-loop residues Thr209 and Thr387 that are phosphorylated first by IRAK4 then by IRAK1 itself to achieve full activity.  
+
+Crystal structures of the isolated kinase domain reveal a canonical protein-kinase fold and a Tyr gatekeeper that defines the ATP-pocket architecture unique to the IRAK family. Biochemical and structural analyses suggest autoinhibition in the full-length protein that is relieved upon activation-loop phosphorylation (Wang et al., 2017; Flannery & Bowie, 2010; Jain et al., 2014).
+
+## Regulation  
+• Upstream activation: IRAK4 phosphorylates Thr209/Thr387 after receptor engagement, triggering IRAK1 autophosphorylation and dissociation from the MyD88 “myddosome” (Gottipati et al., 2008; Flannery & Bowie, 2010).  
+• Ubiquitination: Pellino-dependent polyubiquitination recruits TAK1 and the IKK complex via NEMO, propagating NF-κB activation; PEST motifs foster proteasomal degradation for negative feedback (Suzuki et al., 2005; Flannery & Bowie, 2010).  
+• Sumoylation: promotes nuclear import where IRAK1 phosphorylates STAT3 and modulates IL-10 and interferon responses (Li, 2005; Singer et al., 2018).  
+• Alternative splicing: the kinase-inactive variant IRAK1b can still participate in signalling complexes and modulate NF-κB output (Jensen & Whitehead, 2001; Gottipati et al., 2008).
+
+## Function  
+Broadly expressed in monocytes, macrophages, dendritic cells, T and B lymphocytes, IRAK1 is a pivotal kinase in innate immunity. Following TLR or IL-1R stimulation, IRAK1 phosphorylates:  
+– Pellino E3 ligases to enable K63-linked polyubiquitination and assembly of the IRAK1–TRAF6–TAK1 complex leading to NF-κB activation;  
+– TIRAP to tag it for ubiquitin-mediated degradation, curbing signal duration;  
+– IRF7 to drive type I interferon gene transcription in antiviral responses;  
+– STAT3 (after SUMO-mediated nuclear translocation) to modulate anti-inflammatory cytokine production (Flannery & Bowie, 2010; Singer et al., 2018).  
+
+## Inhibitors  
+Pacritinib, developed as a JAK2/FLT3 inhibitor, potently inhibits IRAK1 and suppresses pro-inflammatory cytokine production. Additional small-molecule ATP-competitive inhibitors exploit the unique Tyr gatekeeper to achieve selectivity and are being explored for inflammatory disorders and malignancies (Singer et al., 2018; Rhyasen & Starczynowski, 2015; Bahia et al., 2015).
+
+## Other Comments  
+Aberrant IRAK1 activity is implicated in autoimmune diseases (e.g., systemic lupus erythematosus, rheumatoid arthritis), chronic inflammatory conditions and several cancers. Splice variants such as IRAK1b add complexity to disease-related signalling phenotypes (Flannery & Bowie, 2010; Singer et al., 2018; Gottipati et al., 2008).
+
+## References  
+Bahia, M. S., Kaur, M., Silakari, P., & Silakari, O. (2015). Interleukin-1 receptor associated kinase inhibitors: potential therapeutic agents for inflammatory- and immune-related disorders. Cellular Signalling, 27, 1039–1055. https://doi.org/10.1016/j.cellsig.2015.02.025  
+
+Flannery, S., & Bowie, A. G. (2010). The interleukin-1 receptor-associated kinases: critical regulators of innate immune signalling. Biochemical Pharmacology, 80, 1981–1991. https://doi.org/10.1016/j.bcp.2010.06.020  
+
+Gottipati, S., Rao, N. L., & Fung-Leung, W.-P. (2008). IRAK1: a critical signaling mediator of innate immunity. Cellular Signalling, 20, 269–276. https://doi.org/10.1016/j.cellsig.2007.08.009  
+
+Gosu, V., Basith, S., Durai, P., & Choi, S. (2012). Molecular evolution and structural features of IRAK family members. PLoS ONE, 7, e49771. https://doi.org/10.1371/journal.pone.0049771  
+
+Jain, A., Kaczanowska, S., & Davila, E. (2014). IL-1 receptor-associated kinase signalling and its role in inflammation, cancer progression, and therapy resistance. Frontiers in Immunology. https://doi.org/10.3389/fimmu.2014.00553  
+
+Janssens, S., & Beyaert, R. (2003). Functional diversity and regulation of different interleukin-1 receptor-associated kinase (IRAK) family members. Molecular Cell, 11, 293–302. https://doi.org/10.1016/S1097-2765(03)00053-4  
+
+Jensen, L. E., & Whitehead, A. S. (2001). IRAK1b, a novel alternative splice variant of interleukin-1 receptor-associated kinase 1, mediates interleukin-1 signalling and has prolonged stability. Journal of Biological Chemistry, 276, 29037–29044. https://doi.org/10.1074/jbc.M103815200  
+
+Li, L. W. (2005). Novel role and regulation of the interleukin-1 receptor-associated kinase family proteins. [Journal unknown].  
+
+Rhyasen, G. W., & Starczynowski, D. (2015). IRAK signalling in cancer. British Journal of Cancer, 112, 232–237. https://doi.org/10.1038/bjc.2014.513  
+
+Singer, J. W., Fleischman, A., Al-Fayoumi, S., Mascarenhas, J. O., Yu, Q., & Agarwal, A. (2018). Inhibition of interleukin-1 receptor-associated kinase 1 as a therapeutic strategy. Oncotarget, 9, 33416–33439. https://doi.org/10.18632/oncotarget.26058  
+
+Suzuki, N., Suzuki, S., & Saito, T. (2005). IRAKs: key regulatory kinases of innate immunity. Current Medicinal Chemistry – Anti-Inflammatory & Anti-Allergy Agents, 4, 13–20. https://doi.org/10.2174/1568014053005345  
+
+Wang, L., Qiao, Q., Ferrao, R., Shen, C., Hatcher, J. M., Buhrlage, S. J., Gray, N. S., & Wu, H. (2017). Crystal structure of human IRAK1. Proceedings of the National Academy of Sciences, 114, 13507–13512. https://doi.org/10.1073/pnas.1714386114

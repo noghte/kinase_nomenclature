@@ -1,0 +1,39 @@
+## Phylogeny  
+Cyclin-dependent kinase 10 (CDK10) is a metazoan serine/threonine protein kinase that diverged within the transcriptional CDK branch (Düster et al., 2022; Malumbres, 2014). It shares high sequence homology with CDK11 (53 % identity, 82 % similarity in the kinase domain) and forms an obligate complex with its conserved partner cyclin Q/M (Düster et al., 2022).  
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H(+) + O-phospho-L-seryl/threonyl-[protein] (Düster et al., 2022).  
+
+## Cofactor Requirements  
+Mg²⁺ is required for catalysis, coordinating ATP in the active site (Düster et al., 2022).  
+
+## Substrate Specificity  
+CDK10 phosphorylates several regulators of transcription and the cell cycle, including the RNA polymerase II C-terminal domain (CTD), c-MYC, RB1, ETS2 and PKN2 (Düster et al., 2022; Guen et al., 2017). Enhanced CTD phosphorylation is observed when Ser7 is replaced by Lys, indicating a preference for a positively charged residue at this position and disfavoring pre-phosphorylation (Düster et al., 2022). Phosphorylation of ETS2 triggers its proteasomal degradation, whereas modification of PKN2 influences actin dynamics and ciliogenesis (Guen et al., 2017).  
+
+## Structure  
+The 360-residue human CDK10 contains a classic bi-lobed kinase fold with an N-terminal β-sheet lobe and a predominantly α-helical C-terminal lobe (Düster et al., 2022). The activation loop (T-loop) harbors Thr196; phosphorylation of this residue is essential for full activity but not for cyclin binding (Düster et al., 2022). Mass spectrometry additionally detects phosphorylation at Ser276. CDK10 binds stoichiometrically to cyclin Q/M, whose cyclin-box domains and bipartite nuclear localization signal stabilize the active kinase conformation and may aid substrate recognition (Düster et al., 2022; Guen et al., 2017).  
+
+## Regulation  
+• Activation-loop phosphorylation at Thr196 is required for catalytic activity; its mutation abolishes kinase function despite intact cyclin association (Düster et al., 2022).  
+• Additional phosphorylation at Ser276 is detected, though its role is unresolved (Düster et al., 2022).  
+• Cyclin Q/M binding stabilizes CDK10 and shields it from ubiquitin-mediated degradation (Guen et al., 2017).  
+• CDK1 and CDK5 can phosphorylate CDK10 in vitro, suggesting cross-talk with other CDKs (Düster et al., 2022).  
+• CDK10-mediated phosphorylation of ETS2 indirectly regulates transcription by promoting ETS2 degradation (Guen et al., 2017).  
+
+## Function  
+CDK10 suppresses ETS2-dependent transcription through phosphorylation-induced ETS2 degradation (Guen et al., 2017; Malumbres, 2014). By targeting RNA Pol II CTD, c-MYC and RB1, it links transcriptional regulation with cell-cycle control (Düster et al., 2022). Phosphorylation of PKN2 modulates RhoA signaling, actin stress fiber formation and negatively regulates ciliogenesis, coordinating cytoskeletal dynamics with cell-cycle re-entry (Guen et al., 2017). CDK10 activity has been implicated in neural development and exhibits tumour-suppressive behaviour in selected cancers (Düster et al., 2022; Robert et al., 2020).  
+
+## Inhibitors  
+Pan-CDK ATP-competitive compounds such as flavopiridol, dinaciclib, SNS-032 and NVP-2 inhibit CDK10 with sub- to low-micromolar IC₅₀ values but are 5–20 fold more potent toward CDK9 (Düster et al., 2022). The CDK11 inhibitor OTS964 shows modest yet relatively selective activity against CDK10 (Robert et al., 2020). No highly potent or selective CDK10 inhibitor is currently available.  
+
+## Other Comments  
+Mutations in cyclin M (partner of CDK10) cause STAR syndrome, highlighting the complex’s developmental importance (Guen et al., 2017). Altered CDK10 levels correlate with endocrine therapy resistance in breast cancer (Düster et al., 2022). Structure-guided drug discovery is needed to achieve selective CDK10 inhibition (Robert et al., 2020).  
+
+## References  
+Düster, R., Ji, Y., Pan, K.-T., Urlaub, H., & Geyer, M. (2022). Functional characterization of the human CDK10/cyclin Q complex. Open Biology, 12, 210381. https://doi.org/10.1098/rsob.210381  
+
+Guen, V. J., Gamble, C., Lees, J. A., & Colas, P. (2017). The awakening of the CDK10/cyclin M protein kinase. Oncotarget, 8, 50174–50186. https://doi.org/10.18632/oncotarget.15024  
+
+Malumbres, M. (2014). Cyclin-dependent kinases. Genome Biology, 15, 122. https://doi.org/10.1186/gb-2014-15-6-122  
+
+Robert, T., Johnson, J. L., Guichaoua, R., Yaron, T. M., Bach, S., Cantley, L. C., & Colas, P. (2020). Development of a CDK10/CycM in vitro kinase screening assay and identification of first small-molecule inhibitors. Frontiers in Chemistry, 8, 147. https://doi.org/10.3389/fchem.2020.00147

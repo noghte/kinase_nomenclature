@@ -1,0 +1,64 @@
+## Phylogeny  
+Cyclin-dependent kinase 4 (CDK4) is a member of the CMGC protein-kinase group and forms a distinct cell-cycle subfamily together with CDK6. The CDK4/6 branch arose after the divergence of unicellular eukaryotes; consequently, homologues are absent from yeasts such as Saccharomyces cerevisiae and Schizosaccharomyces pombe (Malumbres, 2014; Pluta et al., 2024). Phylogenetic analyses place CDK4 in a lineage that split from the ancestral CDC2/CDK1-like kinases following gene-duplication events associated with the evolution of multicellularity (Malumbres, 2014; Jacques et al., 2023).
+
+## Reaction Catalyzed  
+ATP + [protein] → ADP + H⁺ + [protein]-O-phospho-Ser/Thr (Baker & Reddy, 2012).
+
+## Cofactor Requirements  
+Mg²⁺ is required for catalysis, coordinating ATP in the active site (Baker & Reddy, 2012).
+
+## Substrate Specificity  
+CDK4, in complex with a D-type cyclin, preferentially phosphorylates Ser/Thr followed immediately by Pro (S/T-P). A basic residue at the +3 position enhances efficiency, but strict consensus is not obligatory (Anders et al., 2011; Suryadinata et al., 2010). Canonical substrates include multiple sites on the retinoblastoma protein (e.g., Ser780, Ser795). Cyclin-D docking motifs (e.g., RXL) and supplementary substrate-binding surfaces further refine specificity (Johnson et al., 2023; Harper & Adams, 2001).
+
+## Structure  
+CDK4 adopts the classical bilobal protein-kinase fold: an N-terminal β-sheet/C-helix lobe and a predominantly α-helical C-terminal lobe with the active site in the inter-lobe cleft. Crystal structures of CDK4 bound to cyclin D1 or D3 reveal an “intermediate” (partially inactive) conformation even when the activation loop is phosphorylated on Thr172 (Day et al., 2009; Takaki et al., 2009). The cyclin engages the N-lobe and stabilises the C-helix, while engineered loop substitutions used for crystallography do not alter overall topology. Key elements include the glycine-rich P-loop, ATP-binding pocket and the activation segment (Wood & Endicott, 2018).
+
+## Regulation  
+• Activation requires binding of a D-type cyclin and phosphorylation of Thr172 in the activation loop; phosphorylation alone does not generate the fully active conformation (Takaki et al., 2009; Baker et al., 2022).  
+• INK4 family inhibitors (e.g., p16^INK4A) bind monomeric CDK4, distort the active site and prevent cyclin association (Bockstaele et al., 2006).  
+• CIP/KIP proteins (p21^CIP1, p27^KIP1) interact with assembled CDK4-cyclin complexes and can inhibit or stabilise them depending on their own phosphorylation status (Baker et al., 2022; Hallett, 2017).  
+These layers integrate mitogenic and anti-mitogenic cues to confine CDK4 activity to the early G₁ phase.
+
+## Function  
+CDK4–cyclin D complexes drive the G₁/S transition by hypophosphorylating RB-family proteins, thereby releasing E2F transcription factors and initiating S-phase gene expression (Baker & Reddy, 2012; Anders et al., 2011). Additional substrates include SMAD3, whose phosphorylation suppresses TGF-β signalling, and the transcription factor FOXM1, which contributes to senescence bypass in cancer cells (Anders et al., 2011). Mutations that weaken inhibitor binding (e.g., R24 variants) elevate kinase activity and are linked to oncogenesis (Sheppard & McArthur, 2013; Malumbres, 2014).
+
+## Inhibitors  
+Clinically approved ATP-competitive inhibitors—palbociclib, ribociclib and abemaciclib—selectively target CDK4/6 and induce G₁ arrest in tumours dependent on the cyclin D–CDK4/6–RB axis (Lee & McArthur, 2015; Sager et al., 2022). Additional strategies aim to destabilise CDK4 by disrupting its HSP90–CDC37 chaperone complex (Bockstaele et al., 2006; Wood & Endicott, 2018).
+
+## Other Comments  
+CDK4 dysregulation is frequent in melanoma, breast and renal cancers, underscoring its therapeutic relevance (Lee & McArthur, 2015; Sager et al., 2022). Resistance can arise from CDK4 mutations that abrogate p16 binding, reinforcing the need for effective inhibitor design (Sheppard & McArthur, 2013; Baker & Reddy, 2012).
+
+## 9. References  
+Anders, L., Ke, N., Hydbring, P., Choi, Y. J., Widlund, H. R., Chick, J. M., … Sicinski, P. (2011). A systematic screen for CDK4/6 substrates links FOXM1 phosphorylation to senescence suppression in cancer cells. Cancer Cell, 20(5), 620–634. https://doi.org/10.1016/j.ccr.2011.10.001  
+
+Baker, S. J., & Reddy, E. P. (2012). CDK4: A key player in the cell cycle, development, and cancer. Genes & Cancer, 3, 658–669. https://doi.org/10.1177/1947601913478972  
+
+Baker, S. J., Poulikakos, P. I., Irie, H. Y., Parekh, S., & Reddy, E. P. (2022). CDK4: A master regulator of the cell cycle and its role in cancer. Genes & Cancer, 13, 21–45. https://doi.org/10.18632/genesandcancer.221  
+
+Bockstaele, L., Coulonval, K., Kooken, H., Paternot, S., & Roger, P. P. (2006). Regulation of CDK4. Cell Division, 1, 25. https://doi.org/10.1186/1747-1028-1-25  
+
+Day, P. J., Cleasby, A., Tickle, I. J., O’Reilly, M., Coyle, J. E., Holding, F. P., … Jhoti, H. (2009). Crystal structure of human CDK4 in complex with a D-type cyclin. Proceedings of the National Academy of Sciences, 106, 4166–4170. https://doi.org/10.1073/pnas.0809645106  
+
+Hallett, S. T. (2017). Structural and functional characterisation of cyclin-dependent kinase 6–cyclin D complexes. [Doctoral dissertation].  
+
+Harper, J. W., & Adams, P. (2001). Cyclin-dependent kinases. Chemical Reviews, 101(8), 2511–2526. https://doi.org/10.1021/cr0001030  
+
+Jacques, F., Bolivar, P., Pietras, K., & Hammarlund, E. U. (2023). Roadmap to the study of gene and protein phylogeny and evolution—a practical guide. PLOS ONE, 18(2), e0279597. https://doi.org/10.1371/journal.pone.0279597  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Lee, B., & McArthur, G. A. (2015). CDK4 inhibitors: An emerging strategy for the treatment of melanoma. Melanoma Management, 2(3), 255–266. https://doi.org/10.2217/mmt.15.14  
+
+Malumbres, M. (2014). Cyclin-dependent kinases. Genome Biology, 15, 122. https://doi.org/10.1186/gb4184  
+
+Pluta, A. J., Studniarek, C., Murphy, S., & Norbury, C. J. (2024). Cyclin-dependent kinases: Masters of the eukaryotic universe. WIREs RNA. https://doi.org/10.1002/wrna.1816  
+
+Sager, R. A., Backe, S. J., Ahanin, E., Smith, G., Nsouli, I., Woodford, M. R., … Mollapour, M. (2022). Therapeutic potential of CDK4/6 inhibitors in renal cell carcinoma. Nature Reviews Urology, 19, 305–320. https://doi.org/10.1038/s41585-022-00571-8  
+
+Sheppard, K. E., & McArthur, G. A. (2013). The cell-cycle regulator CDK4: An emerging therapeutic target in melanoma. Clinical Cancer Research, 19(19), 5320–5328. https://doi.org/10.1158/1078-0432.CCR-13-0259  
+
+Suryadinata, R., Sadowski, M., & Sarcevic, B. (2010). Control of cell cycle progression by phosphorylation of CDK substrates. Bioscience Reports, 30(4), 243–255. https://doi.org/10.1042/BSR20090171  
+
+Takaki, T., Echalier, A., Brown, N. R., Hunt, T., Endicott, J. A., & Noble, M. E. M. (2009). The structure of CDK4/cyclin D3 has implications for models of CDK activation. Proceedings of the National Academy of Sciences, 106, 4171–4176. https://doi.org/10.1073/pnas.0809674106  
+
+Wood, D. J., & Endicott, J. A. (2018). Structural insights into the functional diversity of the CDK–cyclin family. Open Biology, 8(9), 180112. https://doi.org/10.1098/rsob.180112

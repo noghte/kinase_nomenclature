@@ -1,0 +1,66 @@
+## Proposed EC/sub-subclass  
+2.7.11.22  
+
+## Accepted name  
+Cyclin-dependent kinase 5  
+
+## Synonyms  
+CDK5; p35/p39-activated serine/threonine kinase  
+
+## Phylogeny  
+CDK5 is an evolutionarily ancient member of the CDK family that clusters separately from classical cell-cycle CDKs. Sequence homology with the yeast kinase Pho85 and the presence of orthologues across metazoans indicate an early metazoan origin and strong conservation throughout mammalian species (Malumbres, 2014; Su & Tsai, 2011). Unlike other CDKs, CDK5 employs neuron-specific activators (p35, p39) instead of canonical cyclins, reflecting a branch that specialised for neuronal signalling rather than cell-cycle control (Łukasik et al., 2021).  
+
+## Reaction catalysed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Shukla & Singh, 2020).  
+
+## Cofactor requirements  
+Mg²⁺ is essential for catalytic activity (Malumbres, 2014).  
+
+## Specificity  
+CDK5 is a proline-directed Ser/Thr kinase that favours motifs in which the phospho-acceptor residue is followed by Pro; optimal sites conform to S/TPXK/R (Sharma et al., 1999). Substrate choice is further tuned by binding to p35 or p39, directing phosphorylation toward neuronal proteins such as tau, neurofilaments, MAP1B/MAP2 and other cytoskeletal or synaptic regulators (Dhariwala & Rajadhyaksha, 2008; Cheung & Ip, 2012). Basic residues near the +3 position enhance recognition.  
+
+## Structure  
+The kinase adopts the canonical bilobed fold: a β-sheet-rich N-lobe and an α-helical C-lobe (Malumbres, 2014). Unlike other CDKs, activation-segment phosphorylation by CAK is not required; binding of p35/p39 alone induces the active conformation (Dhariwala & Rajadhyaksha, 2008). A glycine-rich loop positions ATP, and a cyclin-box–like interface accommodates p35/p39, replacing classical cyclins (Su & Tsai, 2011). Inhibitory phosphorylation sites common in cell-cycle CDKs are absent or functionally altered (Malumbres, 2014).  
+
+## Regulation  
+• Activation by tight binding to p35 or p39 provides spatial and temporal control in post-mitotic neurons (Su & Tsai, 2011).  
+• Calpain-mediated cleavage of p35 generates p25, which forms a hyper-stable complex with CDK5, prolonging activity and contributing to neurodegeneration (Dhariwala & Rajadhyaksha, 2008; Mapelli et al., 2005).  
+• CDK5 autophosphorylates p35, promoting its turnover and establishing negative feedback (Dhariwala & Rajadhyaksha, 2008).  
+• Additional modulation arises from interactions with proteins such as p53, HDAC1 and small GTPases, integrating stress and developmental signals (Cheung & Ip, 2012; Łukasik et al., 2021).  
+
+## Function  
+Highly expressed in neurons, CDK5 governs neuronal migration, neurite outgrowth, axon guidance, synaptogenesis and synaptic plasticity via phosphorylation of cytoskeletal and vesicle-cycling proteins (Dhariwala & Rajadhyaksha, 2008; Su & Tsai, 2011). It also:  
+• Regulates neurotransmitter release through synapsin-1, dynamin-1, amphiphysin and synaptojanin-1 (Peyressatre et al., 2015).  
+• Controls endothelial cell migration and angiogenesis by affecting Rac1-dependent lamellipodia formation (Liebl et al., 2010).  
+• Stabilises p53 under genotoxic stress, linking CDK5 to apoptosis (Dhariwala & Rajadhyaksha, 2008).  
+• Modulates circadian rhythms via phosphorylation of CLOCK (Dhariwala & Rajadhyaksha, 2008).  
+Its interactome includes vimentin, paxillin and multiple small GTPases, highlighting roles beyond the nervous system (Łukasik et al., 2021).  
+
+## Inhibitors  
+The ATP-competitive inhibitor roscovitine (also known as seliciclib) is widely used experimentally to inhibit CDK5 activity (Peyressatre et al., 2015).  
+
+## Other Comments  
+Hyperactivation of CDK5—particularly through p25 formation—is implicated in Alzheimer’s, Parkinson’s and ALS, making the kinase a therapeutic target (Cheung & Ip, 2012; Dhariwala & Rajadhyaksha, 2008). Dysregulated activity can drive aberrant neuronal cell-cycle re-entry and apoptosis, and emerging proteomic data suggest additional roles in cancer cell migration and proliferation (Xu et al., 2014; Łukasik et al., 2021).  
+
+## References  
+Cheung, Z. H., & Ip, N. Y. (2012). Cdk5: A multifaceted kinase in neurodegenerative diseases. Trends in Cell Biology, 22, 169–175. https://doi.org/10.1016/j.tcb.2011.11.003  
+
+Dhariwala, F. A., & Rajadhyaksha, M. S. (2008). An unusual member of the CDK family: CDK5. Cellular and Molecular Neurobiology, 28, 351–369. https://doi.org/10.1007/s10571-007-9242-1  
+
+Liebl, J., Weitensteiner, S. B., Vereb, G., Takács, L., Fürst, R., Vollmar, A. M., & Zahler, S. (2010). Cyclin-dependent kinase 5 regulates endothelial cell migration and angiogenesis. Journal of Biological Chemistry, 285, 35932–35943. https://doi.org/10.1074/jbc.M110.126177  
+
+Łukasik, P., Załuski, M., & Gutowska, I. (2021). Cyclin-dependent kinases (CDK) and their role in diseases development – Review. International Journal of Molecular Sciences, 22, 2935. https://doi.org/10.3390/ijms22062935  
+
+Malumbres, M. (2014). Cyclin-dependent kinases. Genome Biology, 15, 122. https://doi.org/10.1186/gb-2014-15-6-122  
+
+Mapelli, M., Massimiliano, L., Crovace, C., Seeliger, M. A., Tsai, L.-H., Meijer, L., & Musacchio, A. (2005). Mechanism of CDK5/p25 binding by CDK inhibitors. Journal of Medicinal Chemistry, 48, 671–679. https://doi.org/10.1021/jm049323m  
+
+Peyressatre, M., Prével, C., Pellerano, M., & Morris, M. (2015). Targeting cyclin-dependent kinases in human cancers: From small molecules to peptide inhibitors. Cancers, 7, 179–237. https://doi.org/10.3390/cancers7010179  
+
+Sharma, P., Steinbach, P. J., Sharma, M., Amin, N. D., Barchi, J. J., & Pant, H. C. (1999). Identification of substrate binding site of cyclin-dependent kinase 5. Journal of Biological Chemistry, 274, 9600–9606. https://doi.org/10.1074/jbc.274.14.9600  
+
+Shukla, R., & Singh, T. R. (2020). Virtual screening, pharmacokinetics, molecular dynamics and binding free energy analysis for small natural molecules against cyclin-dependent kinase 5 for Alzheimer’s disease. Journal of Biomolecular Structure and Dynamics, 38, 248–262. https://doi.org/10.1080/07391102.2019.1571947  
+
+Su, S. C., & Tsai, L.-H. (2011). Cyclin-dependent kinases in brain development and disease. Annual Review of Cell and Developmental Biology, 27, 465–491. https://doi.org/10.1146/annurev-cellbio-092910-154023  
+
+Xu, S., Li, X., Gong, Z., Wang, W., Li, Y., Nair, B. C., … Chen, J. (2014). Proteomic analysis of the human cyclin-dependent kinase family reveals a novel CDK5 complex involved in cell growth and migration. Molecular & Cellular Proteomics, 13, 2986–3000. https://doi.org/10.1074/mcp.M113.036699

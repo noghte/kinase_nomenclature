@@ -1,0 +1,54 @@
+## Phylogeny  
+Tyrosine-protein kinase TXK (gene TXK; also called PTK4 or RLK) belongs to the Tec family of non-receptor tyrosine kinases and is conserved across mammals. Phylogenetic analyses based on SH3, SH2 and catalytic (SH1) domains place TXK in a Tec sub-branch dedicated to T-cell receptor (TCR) signalling. Its closest paralogue is interleukin-2-inducible kinase (Itk), with which it shares partially redundant functions in T-cell activation (Bolen & Brugge, 1997, pp. 6-9; Mamand, 2018, pp. 32-35; Mahajan et al., 1995, pp. 7-8).
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + protein-L-tyrosine-phosphate + H⁺ (Template).
+
+## Cofactor Requirements  
+Mg²⁺ is required for catalytic activity (Template).
+
+## Substrate Specificity  
+TXK phosphorylates substrates central to T-cell activation, including:  
+• Phospholipase C γ1 (PLCG1) at Tec-family sites to trigger Ca²⁺ release and NFAT activation (Min, 2008, pp. 35-39, 73-78).  
+• Lymphocyte cytosolic protein 2 (LCP2), enhancing interleukin-2 production (Bolen & Brugge, 1997, pp. 9-11).  
+• CTLA4 Tyr-201, promoting PI3-kinase recruitment (Min, 2008, pp. 39-44).  
+Specificity is governed by long-range docking interactions involving TXK non-catalytic domains and complementary surfaces on the substrate rather than solely by local sequence motifs (Min, 2008, pp. 57-63).
+
+## Structure  
+TXK exhibits the canonical Tec-kinase modular layout:  
+1  N-terminal proline-/cysteine-rich segment (replaces the pleckstrin homology domain present in other Tec kinases) (Bolen & Brugge, 1997, pp. 6-9; Mahajan et al., 1995, pp. 7-8).  
+2  SH3 domain (binds PxxP motifs).  
+3  SH2 domain (engages substrates via non-canonical contacts) (Min, 2008, pp. 35-39, 73-78).  
+4  C-terminal kinase (SH1) domain containing the activation loop; phosphorylation of Tyr-420 is required for full activity (Joseph et al., 2010, pp. 6-8; Min, 2008, pp. 63-73).  
+No high-resolution crystal structure is available; biochemical and AlphaFold models indicate the standard bilobal kinase fold (Bolen & Brugge, 1997, pp. 6-9).
+
+## Regulation  
+• Phosphorylation: membrane-recruited TXK is activated by autophosphorylation/ trans-phosphorylation on Tyr-420 following TCR engagement (Mamand, 2018, pp. 211-214).  
+• Docking interactions: SH2-kinase domain interfaces and substrate SH2 docking enhance catalytic efficiency (Min, 2008, pp. 35-39, 73-78).  
+• Allosteric control: assembly of a hydrophobic regulatory spine, stabilised by SH2-kinase contacts, gates activity (Joseph et al., 2010, pp. 6-8).
+
+## Function  
+Predominantly expressed in T-lymphocytes, TXK propagates TCR signalling. Together with Itk, it regulates development and activation of conventional T cells and NKT cells. Key roles include:  
+• Phosphorylation of PLCG1 → lipid-raft localisation → Ca²⁺ influx → NFAT-dependent transcription (Min, 2008, pp. 35-39, 78-82).  
+• Phosphorylation of LCP2 → IL-2 production (Bolen & Brugge, 1997, pp. 9-11).  
+• Phosphorylation of CTLA4 → PI3-kinase recruitment (Min, 2008, pp. 39-44).  
+• Participation in a PARP1/EEF1A1 complex that activates IFNG transcription in Th1 cells (Mamand, 2018, pp. 32-35; Siveen et al., 2018, pp. 6-8).
+
+## Inhibitors  
+Selective TXK inhibitors are not yet well characterised, but the kinase is considered a potential therapeutic target in immune disorders and haematological malignancies (Mamand, 2018, pp. 32-35; Bolen & Brugge, 1997, pp. 6-9).
+
+## Other Comments  
+The absence of a pleckstrin homology domain may offer unique opportunities to develop TXK-selective inhibitors that disrupt its distinctive protein–protein interaction surfaces. Dysregulated Tec-family signalling contributes to autoimmune disease and T-cell malignancies, although direct TXK mutations are rare (Mamand, 2018, pp. 32-35; Bolen & Brugge, 1997, pp. 6-9).
+
+## References  
+Bolen, J. B., & Brugge, J. S. (1997). Leukocyte protein tyrosine kinases: potential targets for drug discovery. Annual Review of Immunology, 15, 371–404. https://doi.org/10.1146/annurev.immunol.15.1.371  
+
+Joseph, R. E., Xie, Q., & Andreotti, A. H. (2010). Identification of an allosteric signaling network within Tec family kinases. Journal of Molecular Biology, 403, 231–242. https://doi.org/10.1016/j.jmb.2010.08.035  
+
+Mahajan, S., et al. (1995). Src family protein interactions in Tec kinases. *Journal details unavailable*.
+
+Mamand, S. M. (2018). Characterising interleukin-2-inducible kinase (Itk) inhibitors and their potential for moulding CD4 T-cell plasticity. *Journal/Thesis*, https://doi.org/10214849/1  
+
+Min, L. (2008). Interleukin-2-tyrosine kinase substrate docking and its regulation by an intramolecular interaction in phospholipase C γ1 (Doctoral dissertation, Iowa State University). https://doi.org/10.31274/etd-180810-1277  
+
+Siveen, K. S., Prabhu, K. S., Achkar, I. W., et al. (2018). Role of non-receptor tyrosine kinases in haematological malignancies and its targeting by natural products. Molecular Cancer, 17, 57. https://doi.org/10.1186/s12943-018-0788-y

@@ -1,0 +1,46 @@
+## Phylogeny  
+CDK14 is a member of the atypical CDK14-18 (PFTAIRE) subfamily within the CMGC protein-kinase group. It carries the signature PFTAIRE helix and shares a common ancestor with kinases such as CDK5 and CDK16 (Alonso, 2021; Malumbres et al., 2009; Mikolcevic et al., 2012). Orthologues are conserved across metazoans and the highest expression is reported in brain tissue and other post-mitotic cells; additional expression occurs in testis, heart, kidney, pancreas, and ovary (Alonso, 2021; Mikolcevic et al., 2012).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Alonso, 2021; Ferguson et al., 2019).
+
+## Cofactor Requirements  
+Mg²⁺ is required for catalytic activity and proper ATP coordination (Alonso, 2021; Ferguson et al., 2019).
+
+## Substrate Specificity  
+CDK14 phosphorylates Ser/Thr residues within proline-directed motifs. The CDK14–cyclin Y complex phosphorylates LRP6 at Ser1490 during G2/M (Alonso, 2021; Ferguson et al., 2019). In vitro, RB1 is also a substrate, though in-vivo significance remains unconfirmed (Alonso, 2021). Kinome-wide analyses predict a general S/T-P consensus preference, consistent with CMGC kinases (Johnson et al., 2023; Janáčková, 2023).
+
+## Structure  
+The protein comprises a ~300-residue bilobal serine/threonine kinase domain with a β-sheet-rich N-lobe and an α-helical C-lobe. Conserved elements include the P-loop, DFG motif, catalytic loop, activation (T)-loop, C-helix and hydrophobic spines (Kamkar, 2015; Korolchuk, 2018). The unique PFTAIRE motif governs cyclin specificity. CDK14 forms an active complex with cyclin Y, whose N-myristoylation targets the complex to membranes (Alonso, 2021; Ferguson et al., 2019). AlphaFold models align with other CDKs, confirming the presence of the canonical catalytic architecture (Kamkar, 2015; Mikolcevic et al., 2012).
+
+## Regulation  
+• Activation requires binding to cyclin Y, which dictates both kinase activity and plasma-membrane localisation (Alonso, 2021; Mikolcevic et al., 2012).  
+• Phosphorylation of cyclin Y (Ser71/Ser73) negatively regulates complex stability (Alonso, 2021; Ferguson et al., 2019).  
+• Autophosphorylation and additional, yet-unresolved, phosphorylation events on CDK14 likely fine-tune activity, as seen for other CDKs.  
+• Potential interaction with 14-3-3 proteins has been noted but mechanistic details remain to be clarified (Alonso, 2021; Mikolcevic et al., 2012).  
+
+## Function  
+CDK14 is a serine/threonine kinase implicated in cell-cycle regulation and Wnt signalling. During G2/M, the CDK14–cyclin Y complex primes LRP6 phosphorylation, linking Wnt pathway activation to cell-cycle progression (Alonso, 2021; Ferguson et al., 2019). CDK14 expression in brain and other post-mitotic tissues suggests additional roles in neuronal differentiation and possibly meiosis (Alonso, 2021). It also acts as a negative regulator of insulin-responsive glucose transport (Alonso, 2021). Dysregulated CDK14 expression correlates with hepatocellular carcinoma, colorectal cancer and other tumours, influencing proliferation, migration and cytoskeletal dynamics (Alonso, 2021; Ferguson et al., 2019).
+
+## Inhibitors  
+Covalent inhibitors such as FMF-04-159-2 irreversibly bind Cys218 in the ATP-binding pocket and display pan-TAIRE specificity, providing chemical probes for CDK14 function. No CDK14-selective drug is clinically approved (Ferguson et al., 2019).
+
+## Other Comments  
+Genetic alterations and abnormal regulatory mechanisms affecting CDK14 have been reported in several cancers, but detailed mutation spectra remain to be defined (Alonso, 2021; Mikolcevic et al., 2012).
+
+## 9. References  
+Alonso, D. M. (2021). Caracterización de CDK14-18 como dianas terapéuticas en carcinoma hepatocelular (pp. 29-44, 114-118).  
+
+Ferguson, F. M., Doctor, Z. M., Ficarro, S. B., Browne, C. M., Marto, J. A., Johnson, J. L., Yaron, T. M., Cantley, L. C., Kim, N. D., Sim, T., Berberich, M. J., Kalocsay, M., Sorger, P. K., & Gray, N. S. (2019). Discovery of covalent CDK14 inhibitors with pan-TAIRE family specificity. Cell Chemical Biology, 26, 804-817.e12. https://doi.org/10.1016/j.chembiol.2019.02.015  
+
+Janáčková, Z. (2023). Mechanismus regulace cyklin-dependentní kinasy 16 prostřednictvím komplexu cyklin Y/14-3-3 (pp. 20-24).  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759-766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Kamkar, F. (2015). PFTAIRE1 (cyclin-dependent kinase 14): role and function in axonal outgrowth during CNS development (pp. 29-40). https://doi.org/10.20381/ruor-4143  
+
+Korolchuk, S. M. (2018). Structural and functional characterisation of cyclin-dependent kinase 1 containing complexes (pp. 35-40).  
+
+Malumbres, M., Harlow, E., Hunt, T., Hunter, T., Lahti, J. M., Manning, G., Morgan, D. O., Tsai, L.-H., & Wolgemuth, D. J. (2009). Cyclin-dependent kinases: a family portrait. Nature Cell Biology, 11, 1275-1276. https://doi.org/10.1038/ncb1109-1275  
+
+Mikolcevic, P., Rainer, J., & Geley, S. (2012). Orphan kinases turn eccentric. Cell Cycle, 11, 3758-3768. https://doi.org/10.4161/cc.21592

@@ -1,18 +1,31 @@
-#!/usr/bin/env python3
 import os
-import pypandoc
+import csv
 from pathlib import Path
+
+import pypandoc
 from dotenv import load_dotenv
 from langchain.schema import HumanMessage
 from langchain_openai import ChatOpenAI
 
-load_dotenv()
+# ─── Settings ──────────────────────────────────────────────────────────────────
+EIGHTY_PROFESSORS = True  # True: enable the filter, False: all kinases
 
-# where your raw .txt files live
-INPUT_DIR      = Path("./futurehouse/outputs")
-# where formatted results will be written
-FORMATTED_DIR  = Path("./futurehouse/formatted")
-FORMATTED_DIR.mkdir(parents=True, exist_ok=True)
+INPUT_DIR   = Path("./futurehouse/outputs")
+OUTPUT_ROOT = Path("./futurehouse/formatted")
+OUTPUT_ROOT.mkdir(parents=True, exist_ok=True)
+
+CSV_PATH = Path("./data/kinases_professors.csv")
+
+# ─── Load optional professor mapping ───────────────────────────────────────────
+gene_to_prof: dict[str, str] = {}
+
+if EIGHTY_PROFESSORS:
+    if not CSV_PATH.exists():
+        raise FileNotFoundError(f"CSV file not found: {CSV_PATH}")
+    with CSV_PATH.open(newline="", encoding="utf-8-sig") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            gene_to_prof[row["gene_name"].strip()] = row["professor"].strip().lower()
 
 # your fixed template string
 TEMPLATE = """
@@ -80,6 +93,7 @@ Stern, B., & Nurse, P. (1996). A quantitative model for the cdc2 control of S ph
 Wood, D. J., Korolchuk, S., Tatum, N. J., Wang, L. Z., Endicott, J. A., Noble, M. E. M., & Martin, M. P. (2019). Differences in the Conformational Energy Landscape of CDK1 and CDK2 Suggest a Mechanism for Achieving Selective CDK Inhibition. Cell chemical biology, 26(1), 121–130.e5. https://doi.org/10.1016/j.chembiol.2018.10.015 
 """
 
+load_dotenv()
 # initialize the LLM client
 llm = ChatOpenAI(
     model_name="o3",
@@ -92,7 +106,7 @@ def format_nomenclature(nomenclature: str, template: str) -> str:
     Send the combined prompt to the LLM and return its formatted response.
     """
     system_msg = HumanMessage(content="You are a nomenclature formatting assistant.")
-    user_msg   = HumanMessage(content=(
+    user_msg   =     user_msg   = HumanMessage(content=(
         "Summarize and reformat the structure and wording and tone of the following nomenclature to be similar to the template. "
         "to be similar to the template. DO NOT add new information or interpret the results. Only use the information provided in Nomenclature section below as the data source:\n\n"
         f"## Nomenclature:\n{nomenclature}\n\n"
@@ -133,36 +147,33 @@ def sanitize_filename(name: str) -> str:
     """
     return "".join(c for c in name if c.isalnum() or c in " -_()").strip()
 
-def main():
+# ─── Main ──────────────────────────────────────────────────────────────────────
+def main() -> None:
     for txt_path in INPUT_DIR.glob("*.txt"):
-        protein_name = txt_path.stem
-        safe_name    = sanitize_filename(protein_name)
-        if safe_name != "MAPK14":
-            continue  # Skip if not MAPK14
-        out_path     = FORMATTED_DIR / f"{safe_name}_formatted.txt"
+        gene = txt_path.stem
 
-        # if out_path.exists():
-        #     print(f"✔ Skipping {txt_path.name}, formatted exists.")
-        #     continue
+        if EIGHTY_PROFESSORS and gene not in gene_to_prof:
+            continue
 
-        nomenclature = txt_path.read_text(encoding="utf-8")
-        if not nomenclature.strip():
+        out_dir = OUTPUT_ROOT / gene_to_prof.get(gene, "")
+        out_dir.mkdir(parents=True, exist_ok=True)
+
+        safe_gene = sanitize_filename(gene)
+        txt_out   = out_dir / f"{safe_gene}_formatted.txt"
+
+        raw = txt_path.read_text(encoding="utf-8").strip()
+        if not raw:
             continue
 
         try:
-            formatted = format_nomenclature(nomenclature, TEMPLATE)
-            out_path.write_text(formatted, encoding="utf-8")
-            print(f"✔ Saved {out_path.name}")
+            formatted = format_nomenclature(raw, TEMPLATE)
+            txt_out.write_text(formatted, encoding="utf-8")
+            print(f"✔ Saved {txt_out.relative_to(OUTPUT_ROOT)}")
 
-                # Convert markdown to DOCX
-            docx_path = out_path.with_name(out_path.stem + "_ref2.docx")
-            pypandoc.convert_text(
-                formatted,
-                to="docx",
-                format="md",
-                outputfile=str(docx_path)
-            )
-            print(f"✔ Saved {docx_path.name}")
+            doc_out = txt_out.with_suffix(".docx")
+            pypandoc.convert_text(formatted, to="docx", format="md",
+                                  outputfile=str(doc_out))
+            print(f"✔ Saved {doc_out.relative_to(OUTPUT_ROOT)}")
         except Exception as e:
             print(f"✖ Error processing {txt_path.name}: {e}")
 

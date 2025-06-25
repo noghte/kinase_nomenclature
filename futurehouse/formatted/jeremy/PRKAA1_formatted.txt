@@ -1,0 +1,70 @@
+## Phylogeny  
+AMP-activated protein kinase catalytic subunit α1 (PRKAA1, AMPK-α1) is a member of the highly conserved AMP-activated protein kinase family that predates the divergence of yeast, plants and animals. Orthologues are found in yeast SNF1 and plant SnRK1, indicating an origin prior to the Last Eukaryotic Common Ancestor (Sanz, 2008; Arad et al., 2007). In mammals two catalytic isoforms (α1, α2) exist; α1 is ubiquitously expressed and forms the core of an ancient energy-sensing kinase module conserved across the eukaryotic kinome (Hardie, 2012; Kurumbail & Calabrese, 2016).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Sanz, 2008; Arad et al., 2007).
+
+## Cofactor Requirements  
+Mg²⁺ is essential for ATP binding and catalysis (Hardie, 2012; Sanz, 2008).
+
+## Substrate Specificity  
+AMPK-α1 phosphorylates a broad panel of metabolic regulators, including acetyl-CoA carboxylase (ACACA/ACACB), hormone-sensitive lipase (LIPE), and proteins governing insulin signalling and autophagy (Arad et al., 2007; Sanz, 2008; Li & Chen, 2019). Although a strict consensus sequence is not defined in the provided text, targets are typically Ser/Thr residues located in regulatory regions of metabolic enzymes.
+
+## Structure  
+The ~63 kDa α1 subunit contains:  
+• N-terminal serine/threonine kinase domain with canonical N- and C-lobes and an activation loop harbouring Thr174, whose phosphorylation stimulates activity >100-fold (Hardie, 2011; Saiu, 2010).  
+• Autoinhibitory domain (AID) immediately C-terminal to the kinase core that restrains activity in the absence of allosteric signals (Kurumbail & Calabrese, 2016).  
+• Flexible linker with α-RIM1/2 motifs connecting to the C-terminal region that mediates binding to β and γ regulatory subunits.  
+• C-terminal domain containing nuclear export sequences and a Ser/Thr-rich loop subject to additional post-translational modifications.  
+Crystal and AlphaFold models reveal a well-defined ATP-binding cleft, correctly positioned C-helix and hydrophobic spine, supporting an elongated arrangement that accommodates inter-subunit interactions within the heterotrimer (Kurumbail & Calabrese, 2016; Sanz, 2008).
+
+## Regulation  
+Activation involves multiple, interlocking mechanisms (Hardie, 2011; Kurumbail & Calabrese, 2016; Salt & Hardie, 2017):  
+• Phosphorylation of Thr174 by upstream kinases LKB1, CaMKKβ, and, under certain stresses, TAK1.  
+• Allosteric binding of AMP (and ADP) to the γ-subunit, which both stimulates activity and protects p-Thr174 from PP2A/PP2C-mediated dephosphorylation.  
+• Relief of AID-mediated autoinhibition upon nucleotide binding.  
+• Post-translational modifications: ubiquitination promotes degradation, while additional phosphorylations within the Ser/Thr-rich loop can inhibit LKB1-dependent activation (Ovens et al., 2021).  
+These layers ensure AMPK-α1 is engaged only during energetic stress.
+
+## Function  
+AMPK-α1 is the catalytic core of the AMPK heterotrimer that restores energy balance when cellular ATP falls. Upon activation it:  
+• Promotes catabolic ATP-generating pathways and suppresses anabolic ATP-consuming pathways (Arad et al., 2007; Wang et al., 2012).  
+• Directly phosphorylates ACC (fatty-acid synthesis/oxidation), LIPE (lipid mobilisation), and regulators of glucose uptake (GLUT4 translocation) (Sanz, 2008; Tarasiuk et al., 2022).  
+• Modulates gene expression via phosphorylation of transcription factors and co-activators (FOXO3, p53, TORC2) to stimulate mitochondrial biogenesis, autophagy and cell-cycle checkpoints (Li & Chen, 2019; Sanz, 2008).  
+• Inhibits mTORC1 through RPTOR phosphorylation and TSC2 activation, thereby restraining growth and proliferation (Arad et al., 2007; Tarasiuk et al., 2022).  
+• Is widely expressed in heart, skeletal muscle, liver, brain and pancreas, and is activated during exercise, ischemia, nutrient deprivation and other stresses (Steinberg & Kemp, 2009; Russell & Hardie, 2020).
+
+## Inhibitors  
+Small molecules that bind the allosteric drug-and-metabolite (ADaM) site at the α-β interface act as direct activators; metformin and salicylate activate AMPK indirectly and are under investigation for treating metabolic disorders (Kurumbail & Calabrese, 2016; Wang et al., 2012; Smiles et al., 2024).
+
+## Other Comments  
+Altered AMPK-α1 regulation is linked to cancer, cardiac hypertrophy, neurodegeneration, metabolic syndrome and insulin resistance (Steinberg & Kemp, 2009; Russell & Hardie, 2020; Ovens et al., 2021). The kinase also shows tau-protein kinase activity, although its in-vivo significance remains unresolved (Arad et al., 2007). The breadth of disease associations underscores AMPK-α1 as an attractive therapeutic target (Smiles et al., 2024).
+
+## 9. References  
+Arad, M., Seidman, C. E., & Seidman, J. G. (2007). AMP-activated protein kinase in the heart. Circulation Research, 100, 474–488. https://doi.org/10.1161/01.RES.0000258446.23525.37  
+
+Hardie, D. G. (2011). AMP-activated protein kinase: a cellular energy sensor with a key role in metabolic disorders and in cancer. Biochemical Society Transactions, 39, 1–13. https://doi.org/10.1042/BST0390001  
+
+Hardie, D. G., Ross, F. A., & Hawley, S. A. (2012). AMP-activated protein kinase: a target for drugs both ancient and modern. Chemistry & Biology, 19, 1222–1236. https://doi.org/10.1016/j.chembiol.2012.08.019  
+
+Kurumbail, R. G., & Calabrese, M. F. (2016). Structure and regulation of AMPK. Experientia Supplementum, 107, 3–22. https://doi.org/10.1007/978-3-319-43589-3_1  
+
+Li, Y., & Chen, Y. (2019). AMPK and autophagy. Advances in Experimental Medicine and Biology, 1206, 85–108. https://doi.org/10.1007/978-981-15-0602-4_4  
+
+Ovens, A. J., Scott, J. W., Langendorf, C. G., Kemp, B. E., Oakhill, J. S., & Smiles, W. J. (2021). Post-translational modifications of the energy guardian AMP-activated protein kinase. International Journal of Molecular Sciences, 22, 1229. https://doi.org/10.3390/ijms22031229  
+
+Saiu, P. (2010). Structural and functional studies on nucleotide binding to AMP-activated protein kinase. [Unpublished doctoral dissertation].  
+
+Salt, I. P., & Hardie, D. G. (2017). AMP-activated protein kinase. Circulation Research, 120, 1825–1841. https://doi.org/10.1161/CIRCRESAHA.117.309633  
+
+Sanz, P. (2008). AMP-activated protein kinase: structure and regulation. Current Protein & Peptide Science, 9, 478–492. https://doi.org/10.2174/138920308785915254  
+
+Smiles, W. J., Ovens, A. J., Oakhill, J. S., & Kofler, B. (2024). The metabolic sensor AMPK: twelve enzymes in one. Molecular Metabolism, 90, 102042. https://doi.org/10.1016/j.molmet.2024.102042  
+
+Steinberg, G. R., & Kemp, B. E. (2009). AMPK in health and disease. Physiological Reviews, 89, 1025–1078. https://doi.org/10.1152/physrev.00011.2008  
+
+Tarasiuk, O., Miceli, M., Di Domizio, A., & Nicolini, G. (2022). AMPK and diseases: state of the art regulation by AMPK-targeting molecules. Biology, 11, 1041. https://doi.org/10.3390/biology11071041  
+
+Wang, S., Song, P., & Zou, M.-H. (2012). AMP-activated protein kinase, stress responses and cardiovascular diseases. Clinical Science, 122, 555–573. https://doi.org/10.1042/CS20110625  
+
+Russell, F. M., & Hardie, D. G. (2020). AMP-activated protein kinase: do we need activators or inhibitors to treat or prevent cancer? International Journal of Molecular Sciences, 22, 186. https://doi.org/10.3390/ijms22010186

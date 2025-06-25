@@ -1,0 +1,51 @@
+## Phylogeny  
+Interleukin-1 receptor-associated kinase 4 (IRAK4) is a serine/threonine protein kinase that forms the ancestral active branch of the IRAK family. Orthologues are conserved throughout vertebrates and are also detectable in some invertebrates (e.g., Pelle/Tube-like kinases), underscoring a common evolutionary origin in innate-immune signalling (Gosu et al., 2012; Dossang et al., 2016). Sequence-based phylogenetic comparisons show strong purifying selection on both the N-terminal death domain and the C-terminal kinase domain, indicating evolutionary pressure to preserve catalytic and scaffolding roles (Gosu et al., 2012). Subsequent gene-duplication events generated the paralogues IRAK1, IRAK2 and the pseudokinase IRAKM.
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Hekmat-Nejad et al., 2010; Wang et al., 2009).
+
+## Cofactor Requirements  
+Catalysis is Mg²⁺-dependent; Mg²⁺ coordinates ATP within the active site and is essential for optimal activity (Hekmat-Nejad et al., 2010).
+
+## Substrate Specificity  
+Primary physiological substrates include IRAK1 (activation-loop threonine residues, e.g., T209) and E3 ubiquitin ligases of the Pellino family (PELI1-3) (Li et al., 2023; Behairy et al., 2023). Although a strict consensus motif has not been fully defined, the kinase active site accommodates polar/charged residues flanking the target Ser/Thr, consistent with typical serine/threonine kinase preferences (Wang et al., 2009).
+
+## Structure  
+IRAK4 comprises  
+• N-terminal death domain (DD) – mediates homotypic interactions with MyD88 for Myddosome assembly (Dossang et al., 2016).  
+• Pro-Ser-Thr–rich linker – confers flexibility.  
+• C-terminal bilobal kinase domain – contains a glycine-rich “G-loop,” catalytic loop (Asp essential for catalysis), activation segment harbouring Thr345/Ser346 regulatory sites, and a hydrophobic regulatory spine (Behairy et al., 2023; Wang et al., 2019).  
+
+A distinctive Tyr262 gatekeeper occludes a hydrophobic pocket and influences inhibitor selectivity (Wang et al., 2009). Crystal and biophysical studies show interchange between an inactive “open” and an active “closed” conformation upon autophosphorylation (Behairy et al., 2023; Wang et al., 2019).
+
+## Regulation  
+1. Myddosome recruitment: DD-mediated binding to MyD88 brings IRAK4 into proximity for dimerisation.  
+2. Trans-autophosphorylation: phosphorylation of Thr345/Ser346 relieves autoinhibition and aligns the catalytic spine (Behairy et al., 2023; Wang et al., 2019).  
+3. Protein–protein interactions: phosphorylated Pellino ligases subsequently ubiquitinate IRAK1, amplifying downstream signalling (Behairy et al., 2023).  
+4. Conformational cycling: ATP binding or inhibitor engagement stabilises distinct inactive/active states (Hekmat-Nejad et al., 2010; Wang et al., 2019).
+
+## Function  
+IRAK4 is the proximal kinase that initiates Toll-like receptor (TLR) and interleukin-1 receptor (IL-1R) signalling. Following receptor stimulation, IRAK4 phosphorylates IRAK1, which—together with phosphorylated Pellino proteins—drives polyubiquitination events that recruit the NEMO–IKK complex, leading to NF-κB and MAPK activation and transcription of pro-inflammatory genes (Behairy et al., 2023; Li et al., 2023). Beyond canonical innate immunity, an ATR-dependent, MyD88-independent pathway activates IRAK4 after DNA damage, allowing phosphorylated IRAK1 to translocate to the nucleus and counter apoptosis (Li et al., 2023). IRAK4 is highly expressed in immune-competent tissues with robust innate-immune activity (Wang et al., 2009).
+
+## Inhibitors  
+Multiple ATP-competitive small molecules (e.g., HG-12-6; type I and type II scaffolds) exploit the unique Tyr262 gatekeeper and activation-loop conformations to achieve selectivity (Wang et al., 2009; Wang et al., 2019). Structural insights guide ongoing pre-clinical development aimed at inflammatory and autoimmune disorders.
+
+## Other Comments  
+Pathogenic loss-of-function variants in IRAK4 cause childhood immunodeficiency characterised by recurrent pyogenic infections, whereas hyperactivation is linked to chronic inflammation (Behairy et al., 2023). Somatic or inherited variants that destabilise the kinase domain may alter inhibitor efficacy. IRAK4 activity also contributes to tumour cell survival following genotoxic stress, positioning IRAK4 inhibitors as potential adjuncts in cancer therapy (Li et al., 2023; Behairy et al., 2023).
+
+## References  
+Behairy, M. Y., Eid, R. A., Otifi, H. M., Mohammed, H. M., Alshehri, M. A., Asiri, A., … Eldeen, M. A. (2023). Unravelling extremely damaging IRAK4 variants and their potential implications for IRAK4 inhibitor efficacy. Journal of Personalized Medicine, 13, 1648. https://doi.org/10.3390/jpm13121648  
+
+Dossang, A. C. G., Motshwene, P. G., Yang, Y., Symmons, M. F., Bryant, C. E., Borman, S., … Gay, N. J. (2016). The N-terminal loop of IRAK-4 death domain regulates ordered assembly of the Myddosome signalling scaffold. Scientific Reports, 6, 37267. https://doi.org/10.1038/srep37267  
+
+Gosu, V., Basith, S., Durai, P., & Choi, S. (2012). Molecular evolution and structural features of IRAK family members. PLoS ONE, 7(11), e49771. https://doi.org/10.1371/journal.pone.0049771  
+
+Hekmat-Nejad, M., Cai, T., & Swinney, D. C. (2010). Steady-state kinetic characterization of kinase activity and requirements for Mg²⁺ of interleukin-1 receptor-associated kinase-4. Biochemistry, 49(7), 1495–1506. https://doi.org/10.1021/bi901609m  
+
+Koziczak-Holbro, M., Joyce, C., Glück, A., Kinzel, B., Müller, M., Tschopp, C., … Gram, H. (2007). IRAK-4 kinase activity is required for interleukin-1 receptor- and Toll-like receptor 7-mediated signalling and gene expression. Journal of Biological Chemistry, 282(18), 13552–13560. https://doi.org/10.1074/jbc.M700548200  
+
+Li, Y., Shah, R. B., Sarti, S., Belcher, A. L., Lee, B. J., Gorbatenko, A., … Sidi, S. (2023). A non-canonical IRAK4–IRAK1 pathway counters DNA damage-induced apoptosis independently of TLR/IL-1R signalling. Science Signaling, 16(815), eadh3449. https://doi.org/10.1126/scisignal.adh3449  
+
+Wang, Z., Wesche, H., Stevens, T., Walker, N., & Yeh, W.-C. (2009). IRAK-4 inhibitors for inflammation. Current Topics in Medicinal Chemistry, 9(9), 724–737. https://doi.org/10.2174/156802609789044407  
+
+Wang, L., Ferrao, R., Li, Q., Hatcher, J. M., Choi, H. G., Buhrlage, S. J., … Wu, H. (2019). Conformational flexibility and inhibitor binding to unphosphorylated interleukin-1 receptor-associated kinase 4. Journal of Biological Chemistry, 294(12), 4511–4519. https://doi.org/10.1074/jbc.RA118.005428

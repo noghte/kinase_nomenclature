@@ -1,0 +1,76 @@
+## Proposed EC/sub-subclass:
+— (not specified in the source material)
+
+## Accepted name:
+Mitogen-activated protein kinase 12 (MAPK12)
+
+## Synonyms:
+ERK6; SAPK3; p38 γ (p38 gamma)
+
+## Phylogeny  
+MAPK12 belongs to the p38 mitogen-activated protein kinase subfamily, which also includes the p38 α, β and δ isoforms (Arbabi & Maier, 2002; Cargnello & Roux, 2011). Orthologs are conserved across vertebrates—e.g., human, mouse and rat—where similar stress-signalling roles are maintained (Cargnello & Roux, 2011; Kültz, 1998). Within the kinome, MAPK12 clusters on the p38 branch, distinct from ERK and JNK families, consistent with phylogenetic analyses tracing MAPK modules from early eukaryotes (Kyriakis & Avruch, 1996; Kültz, 1998).  
+
+## Reaction catalysed  
+ATP + L-seryl/threonyl-[protein] ⇄ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Johnson & Lapadat, 2002; Arbabi & Maier, 2002)
+
+## Cofactor requirements  
+Mg²⁺ is essential for ATP binding and phosphoryl transfer (Cuschieri & Maier, 2005).
+
+## Substrate Specificity  
+MAPK12 is a proline-directed Ser/Thr kinase that preferentially phosphorylates sites with the consensus [S/T]P motif (Enslen et al., 1998; Tibbles & Woodgett, 1999). Documented cellular substrates include transcription factors ATF2 and ELK1 and the downstream kinase MAPKAPK2; overall, up to ~200–300 potential substrates are estimated for p38 isoforms (Arbabi & Maier, 2002; Cargnello & Roux, 2011; Goedert et al., 1997).
+
+## Structure  
+MAPK12 comprises a canonical ~300–370-residue kinase domain flanked by variable N- and C-termini (Cargnello & Roux, 2011; Kültz, 1998). Key structural elements include:  
+• An N-terminal lobe harbouring the glycine-rich ATP-binding loop  
+• A C-terminal lobe that forms the substrate-binding cleft  
+• A dual-phosphorylation Thr-Gly-Tyr (TGY) motif in the activation loop, required for activity (Arbabi & Maier, 2002; Cuenda et al., 1997)  
+Distinct residues around the ATP pocket render MAPK12 resistant to pyridinyl-imidazole inhibitors that target other p38 isoforms (Kyriakis & Avruch, 2001; Cuenda et al., 1997). Homology models based on related p38 structures predict the characteristic N-terminal β-sheet and C-terminal α-helical fold (Cargnello & Roux, 2011).
+
+## Regulation  
+Activation occurs via a three-tier MAPK cascade: upstream MAP2Ks MKK6 (primary) and MKK3 (secondary) dually phosphorylate the TGY motif (Cuenda et al., 1997; Arbabi & Maier, 2002). Cellular stresses (e.g., osmotic shock) and pro-inflammatory cytokines stimulate this pathway (Cargnello & Roux, 2011). Additional regulatory features include:  
+• Nuclear translocation and binding to DLG1 after osmotic stress, modulating DLG1–SFPQ complexes independently of catalytic activity (Arbabi & Maier, 2002).  
+• Roles in DNA-damage checkpoints, UV-repair and G2 arrest after γ-irradiation (Kyriakis & Avruch, 2001; Tibbles & Woodgett, 1999).  
+• Negative modulation of c-Jun phosphorylation, influencing AP-1 activity (Kyriakis & Avruch, 2001).  
+Phosphatases (MAPK phosphatases) and scaffold proteins further fine-tune signalling dynamics (Cuenda et al., 1997; Kyriakis & Avruch, 2001).
+
+## Function  
+MAPK12 orchestrates cellular responses to pro-inflammatory cytokines and diverse physical stresses. Documented roles include:  
+• Phosphorylation of ELK1 and ATF2 to trigger stress-responsive gene expression (Arbabi & Maier, 2002; Cargnello & Roux, 2011).  
+• Essential contribution to myoblast differentiation and skeletal-muscle regeneration (Cargnello & Roux, 2011; Tibbles & Woodgett, 1999).  
+• Hypoxia-induced down-regulation of cyclin D1 in adrenal cells, linking MAPK12 to proliferation control (Arbabi & Maier, 2002; Kyriakis & Avruch, 2001).  
+• Regulation of osmotic-shock adaptation via disruption of DLG1–SFPQ nuclear complexes (Arbabi & Maier, 2002).  
+• Maintenance of chromosomal stability through control of PLK1 kinetochore localisation during mitosis (Kyriakis & Avruch, 2001).  
+• Modulation of glucose transporter (SLC2A1, SLC2A4) expression, affecting basal and contraction-mediated glucose uptake in muscle (Arbabi & Maier, 2002; Tibbles & Woodgett, 1999).  
+
+## Inhibitors  
+Pyridinyl-imidazole compounds (e.g., SB203580) potently inhibit p38 α/β/δ but are ineffective against MAPK12 owing to unique residues in the ATP pocket (Cuenda et al., 1997; Kyriakis & Avruch, 2001). This differential sensitivity provides an avenue for developing MAPK12-selective modulators (Roux & Blenis, 2004; Sugden & Clerk, 1998).
+
+## Other Comments  
+Aberrant MAPK12 signalling is linked to inflammatory disorders, dysregulated proliferation and impaired DNA-repair processes that may contribute to cancer and metabolic diseases (Arbabi & Maier, 2002; Kyriakis & Avruch, 2001; Tibbles & Woodgett, 1999). No specific disease-causing mutations are detailed in the source material.
+
+## References  
+Arbabi, S., & Maier, R. V. (2002). Mitogen-activated protein kinases. Critical Care Medicine, 30(Suppl.), S74–S79. https://doi.org/10.1097/00003246-200201001-00010  
+
+Cargnello, M., & Roux, P. P. (2011). Activation and function of the MAPKs and their substrates, the MAPK-activated protein kinases. Microbiology and Molecular Biology Reviews, 75(1), 50–83. https://doi.org/10.1128/MMBR.00031-10  
+
+Cuenda, A., Cohen, P., Buée-Scherrer, V., & Goedert, M. (1997). Activation of stress-activated protein kinase-3 (SAPK3) by cytokines and cellular stresses is mediated via SAPKK3 (MKK6); comparison of the specificities of SAPK3 and SAPK2 (RK/p38). The EMBO Journal, 16(2), 295–305. https://doi.org/10.1093/emboj/16.2.295  
+
+Cuschieri, J., & Maier, R. V. (2005). Mitogen-activated protein kinase (MAPK). Critical Care Medicine, 33(12 Suppl.), S417–S419. https://doi.org/10.1097/01.CCM.0000191714.39495.A6  
+
+Enslen, H., Raingeaud, J., & Davis, R. J. (1998). Selective activation of p38 MAP kinase isoforms by the MAP kinase kinases MKK3 and MKK6. Journal of Biological Chemistry, 273(3), 1741–1748. https://doi.org/10.1074/jbc.273.3.1741  
+
+Goedert, M., Cuenda, A., Craxton, M., Jakes, R., & Cohen, P. R. (1997). Activation of the novel stress-activated protein kinase SAPK4 by cytokines and cellular stresses is mediated by SKK3 (MKK6); comparison of its substrate specificity with that of other SAP kinases. The EMBO Journal, 16(12), 3563–3571. https://doi.org/10.1093/emboj/16.12.3563  
+
+Johnson, G. L., & Lapadat, R. (2002). Mitogen-activated protein kinase pathways mediated by ERK, JNK, and p38 protein kinases. Science, 298(5600), 1911–1912. https://doi.org/10.1126/science.1072682  
+
+Kültz, D. (1998). Phylogenetic and functional classification of mitogen- and stress-activated protein kinases. Journal of Molecular Evolution, 46(5), 571–588. https://doi.org/10.1007/PL00006338  
+
+Kyriakis, J. M., & Avruch, J. (1996). Protein kinase cascades activated by stress and inflammatory cytokines. BioEssays, 18(7), 567–577. https://doi.org/10.1002/bies.950180708  
+
+Kyriakis, J. M., & Avruch, J. (2001). Mammalian mitogen-activated protein kinase signal transduction pathways activated by stress and inflammation. Physiological Reviews, 81(2), 807–869. https://doi.org/10.1152/physrev.2001.81.2.807  
+
+Roux, P. P., & Blenis, J. (2004). ERK and p38 MAPK-activated protein kinases: a family of protein kinases with diverse biological functions. Microbiology and Molecular Biology Reviews, 68(2), 320–344. https://doi.org/10.1128/MMBR.68.2.320-344.2004  
+
+Sugden, P. H., & Clerk, A. (1998). “Stress-responsive” mitogen-activated protein kinases in the myocardium. Circulation Research, 83(4), 345–352. https://doi.org/10.1161/01.RES.83.4.345  
+
+Tibbles, L. A., & Woodgett, J. R. (1999). The stress-activated protein kinase pathways. Cellular and Molecular Life Sciences, 55(10), 1230–1254. https://doi.org/10.1007/s000180050369

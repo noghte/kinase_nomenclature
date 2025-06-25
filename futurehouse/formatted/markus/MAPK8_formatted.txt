@@ -1,0 +1,57 @@
+## Proposed EC/sub-subclass  
+2.7.11.24  
+
+## Accepted name  
+Mitogen-activated protein kinase 8 (MAPK8)  
+
+## Synonyms  
+c-Jun N-terminal kinase 1 (JNK1); stress-activated protein kinase 1 (SAPK1); JNK1α/β; jnk1a and jnk1b (zebrafish paralogs)  
+
+## Phylogeny  
+JNK1 is one branch of the stress-activated MAPK subfamily that arose early in eukaryotic evolution and is conserved from invertebrates to mammals (Caffrey et al., 2008; Messoussi et al., 2016). Mammals express three closely related isoforms (JNK1-3). JNK1 is ubiquitous, whereas JNK3 is largely restricted to brain, heart and testes (Chrystal, 2015). Orthologs occur in human, mouse, rat and zebrafish; the zebrafish paralogs jnk1a and jnk1b retain high sequence identity with human JNK1 (Chrystal, 2015; Santos-Ledo et al., 2020).  
+
+## Reaction catalyzed  
+ATP + [L-serine/threonine]-protein ⇌ ADP + [L-serine/threonine]-phosphate + H⁺ (Latham et al., 2022).  
+
+## Cofactor requirements  
+Requires divalent Mg²⁺ for optimal ATP binding and catalysis (Latham et al., 2022).  
+
+## Substrate specificity  
+Proline-directed Ser/Thr kinase that prefers a Ser/Thr-Pro motif. Substrates include AP-1 family transcription factors (c-Jun, ATF2, JDP2) and other proteins carrying docking motifs that engage the JNK “D-site” outside the catalytic cleft, thereby enhancing selectivity (Chrystal, 2015; Latham et al., 2022).  
+
+## Structure  
+The protein consists solely of the canonical protein-kinase fold: a β-sheet-rich N-lobe, an α-helical C-lobe and an intervening hinge that forms the ATP pocket (Wu et al., 2018). Key features include  
+• Activation loop bearing the dual-phosphorylation TPY motif essential for activity (Latham et al., 2022).  
+• A defined docking (D-) site that mediates contacts with upstream kinases and substrates (Wu et al., 2018).  
+Crystal and modelling studies highlight conformational plasticity of the ATP site and activation segment that influences inhibitor binding (Caffrey et al., 2008; Messoussi et al., 2016; Wu et al., 2018).  
+
+## Regulation  
+Activation requires dual phosphorylation of Thr-Pro-Tyr by MAP2K4 (MKK4) and MAP2K7 (MKK7) (Latham et al., 2022; Wu et al., 2018). Scaffold proteins (e.g., JIP1, SH3BP5) assemble JNK with its activators and substrates, modulating localization and specificity (Latham et al., 2022; Gehi et al., 2022). Additional regulation arises from further phosphorylation, ubiquitination and other post-translational modifications that alter activity, interactions and stability (Kragelj et al., 2021; Latham et al., 2022; Messoussi et al., 2016).  
+
+## Function  
+JNK1 transduces extracellular stress cues to nuclear responses and governs proliferation, differentiation, migration and apoptosis. Principal substrates are AP-1 transcription factors, whose phosphorylation alters gene programmes linked to inflammation, cell-cycle control and cell death (Chrystal, 2015; Latham et al., 2022). Other reported targets include CDT1 (replication licensing), STMN2 (cytoskeleton) and CLOCK-BMAL1 (circadian clock) (Latham et al., 2022; Wu et al., 2018). Activity contributes to stress-induced p53 and YAP1 phosphorylation, T-cell differentiation and erythroid cell survival (Chrystal, 2015; Gehi et al., 2022; Latham et al., 2022).  
+
+## Inhibitors  
+Both ATP-competitive and substrate/interaction-competitive inhibitors have been developed. Peptide or small-molecule agents that disrupt the JIP–JNK interface provide selectivity by avoiding the highly conserved ATP pocket (Latham et al., 2022; Wu et al., 2018). Structure-guided campaigns have yielded compounds that differentially inhibit JNK1 versus JNK2/3 (Lu et al., 2023; Messoussi et al., 2016).  
+
+## Other Comments  
+Dysregulated JNK1 signalling is implicated in cancer, diabetes, neurodegeneration and inflammatory diseases, driving efforts to design modulators targeting protein–protein interactions within JNK complexes (Latham et al., 2022).  
+
+## References  
+Caffrey, D. R., Shields, D. C., & O’Neill, L. A. J. (2008). A method to predict residues conferring functional differences between related proteins: Application to MAP kinase pathways. Protein Science, 17, 655–664. https://doi.org/10.1110/ps.9.4.655  
+
+Chrystal, P. W. (2015). The role of JNK1 during zebrafish development.  
+
+Gehi, B. R., Gadhave, K., Uversky, V. N., & Giri, R. (2022). Intrinsic disorder in proteins associated with oxidative stress-induced JNK signalling. Cellular and Molecular Life Sciences, 79, 1823–1836. https://doi.org/10.1007/s00018-022-04230-4  
+
+Kragelj, J., Orand, T., Delaforge, E., Tengo, L., Blackledge, M., Palencia, A., & Jensen, M. R. (2021). Enthalpy–entropy compensation in the promiscuous interaction of an intrinsically disordered protein with homologous protein partners. Biomolecules, 11, 1204. https://doi.org/10.3390/biom11081204  
+
+Latham, S. L., O’Donnell, Y. E. I., & Croucher, D. R. (2022). Non-kinase targeting of oncogenic c-Jun N-terminal kinase (JNK) signalling: The future of clinically viable cancer treatments. Biochemical Society Transactions, 50, 1823–1836. https://doi.org/10.1042/BST20220808  
+
+Lu, W., Liu, Y., Gao, Y., Geng, Q., Gurbani, D., Li, L., … Gray, N. S. (2023). Development of a covalent inhibitor of c-Jun N-terminal protein kinase (JNK) 2/3 with selectivity over JNK1. Journal of Medicinal Chemistry, 66, 3356–3371. https://doi.org/10.1021/acs.jmedchem.2c01834  
+
+Messoussi, A., Chevé, G., Bougrin, K., & Yasri, A. (2016). Insight into the selective inhibition of JNK family members through structure-based drug design. MedChemComm, 7, 686–692. https://doi.org/10.1039/C5MD00562K  
+
+Santos-Ledo, A., Washer, S., Dhanaseelan, T., Eley, L., Alqatani, A., Chrystal, P. W., … Chaudhry, B. (2020). Alternative splicing of jnk1a in zebrafish determines first heart field ventricular cardiomyocyte numbers through modulation of hand2 expression. PLOS Genetics, 16, e1008782. https://doi.org/10.1371/journal.pgen.1008782  
+
+Wu, Y., Honegger, A., Batyuk, A., Mittl, P. R. E., & Plückthun, A. (2018). Structural basis for the selective inhibition of c-Jun N-terminal kinase 1 determined by rigid DARPin–DARPin fusions. Journal of Molecular Biology, 430, 2128–2138. https://doi.org/10.1016/j.jmb.2017.10.032

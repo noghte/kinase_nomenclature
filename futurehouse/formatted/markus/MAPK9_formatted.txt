@@ -1,0 +1,56 @@
+## Proposed EC/sub-subclass:
+Not specified in the provided material
+
+## Accepted name:
+Mitogen-activated protein kinase 9 (MAPK9)
+
+## Synonyms:
+JNK2; c-Jun N-terminal kinase 2; Stress-activated protein kinase (SAPK) isoform
+
+## Phylogeny  
+MAPK9/JNK2 belongs to the c-Jun N-terminal kinase (JNK) subgroup of the mitogen-activated protein kinase (MAPK) family. Three vertebrate paralogues arose from duplication of a single ancestral JNK gene: MAPK8/JNK1, MAPK9/JNK2 and MAPK10/JNK3. These isoforms share >85 % sequence identity (Bogoyevitch & Kobe, 2006; Zeke et al., 2016). JNK2 is ubiquitously expressed, whereas JNK3 is largely restricted to brain, heart and testes (Barr & Bogoyevitch, 2001; Bogoyevitch & Kobe, 2006). Alternative splicing yields p46 and p54 variants that differ in C-terminal length and tissue distribution (Zeke et al., 2016). JNKs are classified as stress-activated protein kinases within the CMGC group of Ser/Thr kinases, a conserved signaling module from yeast to humans (Bogoyevitch & Kobe, 2006; Zeke et al., 2016).
+
+## Reaction catalyzed
+ATP + L-seryl/threonyl-[protein] ⇄ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Barr & Bogoyevitch, 2001; Zeke et al., 2016)
+
+## Cofactor requirements 
+Mg²⁺ is essential for ATP binding and phosphoryl transfer (Barr & Bogoyevitch, 2001).
+
+## Substrate specificity  
+JNK2 is a proline-directed Ser/Thr kinase that preferentially phosphorylates the S/T-P consensus motif (Barr & Bogoyevitch, 2001; Bogoyevitch & Kobe, 2006; Cicenas et al., 2017). Docking motifs (D-domains) in substrates and scaffold proteins enhance recognition. Key substrates include transcription factors c-Jun and ATF2, mitochondrial and cytoplasmic apoptosis regulators (Bcl-2, Bcl-xL, Mcl-1, Bad, Bim, Bax) and signalling adaptors such as IRS1/2 (Barr & Bogoyevitch, 2001; Bogoyevitch & Kobe, 2006; Zeke et al., 2016).
+
+## Structure  
+MAPK9/JNK2 adopts the canonical two-lobed protein-kinase fold with a glycine-rich loop, catalytic loop and αC-helix. The activation loop contains the Thr-Pro-Tyr (TPY) motif required for dual phosphorylation-dependent activation (Barr & Bogoyevitch, 2001; Heo et al., 2004). Surface common-docking and hydrophobic grooves bind D-motif-containing partners, including the scaffold JIP1 (Zeke et al., 2016). Alternative splicing alters the C-terminal extension (p46 vs p54), influencing regulatory interactions (Bogoyevitch & Kobe, 2006; Zeke et al., 2016).
+
+## Regulation  
+Activation requires dual phosphorylation of the TPY motif by MAP2Ks MKK4 (Tyr site) and MKK7 (Thr site) (Barr & Bogoyevitch, 2001; Fleming et al., 2000; Cargnello & Roux, 2011). Scaffold proteins such as JIP1 assemble MAP3Ks, MAP2Ks and JNK2, ensuring signal fidelity and spatial control (Willoughby et al., 2003; Heo et al., 2004). Activity is reversed by dual-specificity phosphatases (e.g., MKP1, MKP5) (Zeke et al., 2016). Feedback phosphorylation of adaptor or upstream proteins fine-tunes signaling, and additional post-translational modifications and auto-phosphorylation events modulate kinase output (Barr & Bogoyevitch, 2001; Zeke et al., 2016).
+
+## Function  
+MAPK9/JNK2 transduces a wide spectrum of stress signals (UV, cytokines, osmotic and oxidative stress) to regulate gene expression, apoptosis, immune responses, epithelial barrier integrity, circadian rhythms and neuronal development (Barr & Bogoyevitch, 2001; Bogoyevitch & Kobe, 2006; Zeke et al., 2016).  
+• Expression: broadly expressed across tissues (Barr & Bogoyevitch, 2001).  
+• Upstream kinases: MAP3Ks activate MKK4/MKK7, which activate JNK2.  
+• Downstream substrates/partners: c-Jun, ATF2, TP53, YAP1, Bcl-2 family proteins, IRS1/2; scaffold JIP1 coordinates signaling (Bogoyevitch & Kobe, 2006; Zeke et al., 2016).  
+• Pathways: regulates AP-1 transcription, mitochondrial apoptosis, T-cell receptor signaling (Th1 differentiation), Wnt/β-catenin suppression and CLOCK-BMAL1 circadian components (Barr & Bogoyevitch, 2001; Bogoyevitch & Kobe, 2006; Zeke et al., 2016).
+
+## Inhibitors  
+SP600125 is a widely used ATP-competitive JNK inhibitor with limited isoform selectivity; CEP-1347 has been examined clinically for neurodegenerative indications (Cicenas et al., 2017; Heo et al., 2004; Bogoyevitch & Kobe, 2006).
+
+## Other Comments  
+Dysregulated JNK2 activity is implicated in neurodegeneration, cancer, metabolic and inflammatory disorders. Scaffold interactions (e.g., JIP1) and disease-linked signaling outputs highlight MAPK9/JNK2 as a potential therapeutic target (Bogoyevitch & Kobe, 2006; Zeke et al., 2016).
+
+## References  
+Barr, R. K., & Bogoyevitch, M. A. (2001). The c-Jun N-terminal protein kinase family of mitogen-activated protein kinases (JNK MAPKs). The International Journal of Biochemistry & Cell Biology, 33, 1047–1063. https://doi.org/10.1016/S1357-2725(01)00093-0  
+
+Bogoyevitch, M. A., & Kobe, B. (2006). Uses for JNK: The many and varied substrates of the c-Jun N-terminal kinases. Microbiology and Molecular Biology Reviews, 70, 1061–1095. https://doi.org/10.1128/MMBR.00025-06  
+
+Cargnello, M., & Roux, P. P. (2011). Activation and function of the MAPKs and their substrates, the MAPK-activated protein kinases. Microbiology and Molecular Biology Reviews, 75, 50–83. https://doi.org/10.1128/MMBR.00031-10  
+
+Cicenas, J., Zalyte, E., Rimkus, A., et al. (2017). JNK, p38, ERK, and SGK1 inhibitors in cancer. Cancers, 10(1), 1. https://doi.org/10.3390/cancers10010001  
+
+Fleming, Y., Armstrong, C. G., Morrice, N., et al. (2000). Synergistic activation of stress-activated protein kinase 1/c-Jun N-terminal kinase isoforms by MKK4 and MKK7. Biochemical Journal, 352, 145–154. https://doi.org/10.1042/bj3520145  
+
+Heo, Y.-S., Kim, S.-K., Seo, C. I., et al. (2004). Structural basis for the selective inhibition of JNK1 by the scaffolding protein JIP1 and SP600125. The EMBO Journal, 23, 2185–2195. https://doi.org/10.1038/sj.emboj.7600212  
+
+Willoughby, E. A., Perkins, G. R., Collins, M. K., & Whitmarsh, A. J. (2003). The JNK-interacting protein-1 scaffold protein targets MAPK phosphatase-7 to dephosphorylate JNK. Journal of Biological Chemistry, 278, 10731–10736. https://doi.org/10.1074/jbc.M207324200  
+
+Zeke, A., Misheva, M., Reményi, A., & Bogoyevitch, M. A. (2016). JNK signaling: Regulation and functions based on complex protein–protein partnerships. Microbiology and Molecular Biology Reviews, 80, 793–835. https://doi.org/10.1128/MMBR.00043-14

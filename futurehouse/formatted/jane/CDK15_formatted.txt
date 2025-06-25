@@ -1,0 +1,39 @@
+## Phylogeny  
+Cyclin-dependent kinase 15 (CDK15; also termed PFTK2 or ALS2CR7, UniProt Q96Q40) belongs to the CMGC group of serine/threonine protein kinases and clusters within the atypical PFTAIRE subfamily together with CDK14, CDK16, CDK17 and CDK18 (Alonso, 2021; Chowdhury et al., 2023). Phylogenetic analyses place CDK15 on a CDK5-related branch, indicating emergence after CDK14 but retention of the conserved catalytic core shared by ancestral eukaryotic CDKs. Extended N- and C-terminal regions differentiate CDK15 from canonical cell-cycle CDKs while maintaining hallmark kinase motifs (Alonso, 2021).
+
+## Reaction Catalyzed  
+ATP + [protein] ⇌ ADP + H⁺ + [protein-O-phospho-Ser/Thr]  
+Documented example: phosphorylation of the anti-apoptotic protein survivin (BIRC5) on Thr-34 (Chowdhury et al., 2023).
+
+## Cofactor Requirements  
+Mg²⁺ is required for ATP coordination and phosphate transfer (Knockaert et al., 2002).
+
+## Substrate Specificity  
+CDK15 acts as a proline-directed serine/threonine kinase, favouring Ser/Thr followed by Pro (+1) (Johnson et al., 2023). Verified substrate survivin is phosphorylated at Thr-34, consistent with this consensus (Chowdhury et al., 2023).
+
+## Structure  
+Homology modelling and comparative studies indicate a classical bilobal kinase fold with an N-terminal β-sheet lobe containing the glycine-rich ATP-binding loop and a C-terminal α-helical lobe that forms the catalytic cleft (Alonso, 2021; Wood & Endicott, 2018). Conserved structural features include the DFG motif, activation segment and a PFTAIRE helix that mediates cyclin interaction, distinguishing atypical CDKs from CDK2-type kinases. No high-resolution crystal structure has been reported; the 300-residue catalytic domain is flanked by long N- and C-terminal extensions thought to mediate regulation and localisation.
+
+## Regulation  
+Full catalytic activity depends on binding to a regulatory cyclin, with Cyclin Y proposed as the principal partner (Alonso, 2021). Cyclin engagement re-positions the C-helix and activation loop, while activating phosphorylation within the activation segment is presumed but has not yet been mapped (Alonso, 2021). Additional regulatory inputs may include 14-3-3 binding following phosphorylation at undefined sites, influencing stability and localisation (Alonso, 2021). Functionally, CDK15-mediated Thr-34 phosphorylation of survivin confers resistance to TRAIL/TNFSF10-induced apoptosis (Chowdhury et al., 2023).
+
+## Function  
+CDK15 is a serine/threonine kinase with an anti-apoptotic role in mammalian cells. By phosphorylating survivin on Thr-34, it diminishes sensitivity to extrinsic apoptotic cues (Chowdhury et al., 2023). Expression data are limited, but atypical CDKs frequently display higher abundance in differentiated tissues such as neurons and germ cells (Chowdhury et al., 2023). Interaction with Cyclin Y and potential association with 14-3-3 proteins place CDK15 within signalling networks that modulate cell survival and may contribute to tumour resistance mechanisms (Alonso, 2021).
+
+## Other Comments  
+Selective chemical inhibitors have not yet been described; consequently, CDK15 remains less characterised than canonical CDKs (Peyressatre et al., 2015). Given its role in survivin regulation, CDK15 represents a possible therapeutic target in cancers where anti-apoptotic signalling is advantageous, yet disease-linked mutations or expression profiles are still largely unexplored (Karimbayli, 2022).
+
+## 9. References  
+Alonso, D. M. (2021). Caracterización de CDK14-18 como dianas terapéuticas en carcinoma hepatocelular. *[Journal unknown]*.
+
+Chowdhury, I., Dashi, G., & Keskitalo, S. (2023). CMGC kinases in health and cancer. *Cancers, 15*, 3838. https://doi.org/10.3390/cancers15153838  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. *Nature, 613*, 759-766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Knockaert, M., Greengard, P., & Meijer, L. (2002). Pharmacological inhibitors of cyclin-dependent kinases. *Trends in Pharmacological Sciences, 23*, 417-425. https://doi.org/10.1016/S0165-6147(02)02071-0  
+
+Wood, D. J., & Endicott, J. A. (2018). Structural insights into the functional diversity of the CDK–cyclin family. *Open Biology, 8*, 180112. https://doi.org/10.1098/rsob.180112  
+
+Karimbayli, J. (2022). Dissecting the role of CDK17 in epithelial ovarian cancer. *[Journal unknown]*.
+
+Peyressatre, M., Prével, C., Pellerano, M., & Morris, M. (2015). Targeting cyclin-dependent kinases in human cancers: From small molecules to peptide inhibitors. *Cancers, 7*, 179-237. https://doi.org/10.3390/cancers7010179

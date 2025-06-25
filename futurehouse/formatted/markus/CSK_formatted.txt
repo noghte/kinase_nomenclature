@@ -1,0 +1,52 @@
+## Phylogeny  
+Tyrosine-protein kinase CSK (gene CSK, UniProt P41240) is a cytosolic non-receptor tyrosine kinase that forms a distinct, evolutionarily conserved branch within the cytoplasmic tyrosine kinase clade. Clear orthologs occur throughout vertebrates (e.g., human, mouse, rat) and in lower metazoans. CSK and its Src-family kinase (SFK) substrates have co-evolved: CSK appeared early in metazoan evolution as an intrinsic inhibitory counterpart that restrains SFK activity, and its domain architecture has remained highly conserved (Fortner et al., 2022; Ia et al., 2010).
+
+## Reaction Catalyzed  
+ATP + [protein]-L-tyrosine ⇌ ADP + H⁺ + [protein]-L-tyrosine-phosphate  
+CSK specifically phosphorylates the conserved C-terminal tail tyrosine of SFKs (e.g., Tyr-527 of c-Src), thereby imposing autoinhibition on the target kinase (Fortner et al., 2022; Ia et al., 2010).
+
+## Cofactor Requirements  
+Mg²⁺ is required for ATP coordination and efficient phosphoryl transfer (Ia et al., 2010).
+
+## Substrate Specificity  
+CSK displays high specificity for the inhibitory C-terminal tyrosine of SFKs. Combinatorial peptide studies indicate a preference for acidic determinants combined with hydrophobic residues flanking the target tyrosine, features that reinforce selectivity toward SFK tail motifs and minimize off-target phosphorylation (Ia et al., 2010; Yaron-Barir et al., 2024).
+
+## Structure  
+CSK is a modular protein composed of:  
+• N-terminal SH3 domain – β-barrel fold binding proline-rich motifs; can mediate homodimerization.  
+• Central SH2 domain – binds phosphotyrosine motifs, directing membrane recruitment via adaptors such as Cbp/PAG.  
+• C-terminal kinase domain – classical bi-lobed fold; Lys-222 in the β3-strand coordinates ATP, and the DFG motif binds Mg²⁺. CSK lacks an activation-loop autophosphorylation site typical of many tyrosine kinases, consistent with its inhibitory role. Linker regions enable allosteric communication among the three domains (Ia et al., 2010; Superti-Furga & Courtneidge, 1995; Kan et al., 2023).
+
+## Regulation  
+• Localization: SH2-mediated binding to phosphotyrosine adaptors (e.g., Cbp/PAG) recruits CSK to the plasma membrane, placing it near membrane-anchored SFKs (Fortner et al., 2022; Hunter & Manning, 2015).  
+• Post-translational modification: PKA-dependent phosphorylation at Ser364 modulates catalytic efficiency and substrate interactions (Sun & Ayrapetov, 2023).  
+• Allostery: Inter-domain rearrangements triggered by SH2 ligand binding or possible redox-sensitive disulfide formation adjust kinase activity (Sun & Ayrapetov, 2023; Shah et al., 2018).
+
+## Function  
+CSK enforces negative regulation of SFKs by phosphorylating their C-terminal inhibitory tyrosine, stabilizing an autoinhibited conformation. This control:  
+• Sets activation thresholds in T-cell and B-cell receptor signaling by restraining LCK and FYN.  
+• Modulates cell adhesion and migration through downstream effectors such as FAK and paxillin.  
+• Acts as a barrier against oncogenic transformation driven by hyperactive SFKs (Fortner et al., 2022; Hunter & Manning, 2015).
+
+## Inhibitors  
+No highly selective CSK inhibitors are currently available; existing small-molecule probes target broader components of the Src pathway. The absence of CSK-specific inhibitors highlights an active area of therapeutic interest (Fortner et al., 2022; Sun & Ayrapetov, 2023; Superti-Furga & Courtneidge, 1995).
+
+## Other Comments  
+Loss of CSK function via mutation, altered expression, or mislocalization is linked to cancers and cardiovascular or neurological disorders characterized by excessive SFK signaling, underscoring the importance of developing CSK-targeted modulators (Fortner et al., 2022).
+
+## References  
+Fortner, A., Chera, A., Tanca, A., & Bucur, O. (2022). Apoptosis regulation by the tyrosine-protein kinase CSK. Frontiers in Cell and Developmental Biology. https://doi.org/10.3389/fcell.2022.1078180  
+
+Hunter, T., & Manning, G. (2015). The eukaryotic protein kinase superfamily and the emergence of receptor tyrosine kinases. In Receptor Tyrosine Kinases: Structure, Functions and Role in Human Disease (pp. 1–41). Springer. https://doi.org/10.1007/978-1-4939-2053-2_1  
+
+Ia, K. K., Mills, R. D., Hossain, M. I., Chan, K.-C., Jarasrassamee, B., Jorissen, R. N., & Cheng, H.-C. (2010). Structural elements and allosteric mechanisms governing regulation and catalysis of CSK-family kinases and their inhibition of Src-family kinases. Growth Factors, 28, 329–350. https://doi.org/10.3109/08977194.2010.484424  
+
+Kan, Y., Paung, Y.-T., Seeliger, M. A., & Miller, W. T. (2023). Domain architecture of the nonreceptor tyrosine kinase Ack1. Cells, 12, 900. https://doi.org/10.3390/cells12060900  
+
+Shah, N. H., Amacher, J. F., Nocka, L. M., & Kuriyan, J. (2018). The Src module: an ancient scaffold in the evolution of cytoplasmic tyrosine kinases. Critical Reviews in Biochemistry and Molecular Biology, 53, 535–563. https://doi.org/10.1080/10409238.2018.1495173  
+
+Sun, G., & Ayrapetov, M. K. (2023). Dissection of the catalytic and regulatory structure-function relationships of CSK protein tyrosine kinase. Frontiers in Cell and Developmental Biology. https://doi.org/10.3389/fcell.2023.1148352  
+
+Superti-Furga, G., & Courtneidge, S. A. (1995). Structure-function relationships in Src family and related protein tyrosine kinases. BioEssays, 17, 321–330. https://doi.org/10.1002/bies.950170408  
+
+Yaron-Barir, T. M., Joughin, B. A., Huntsman, E. M., Kerelsky, A., Cizin, D. M., Cohen, B. M., … Johnson, J. L. (2024). The intrinsic substrate specificity of the human tyrosine kinome. Nature. https://doi.org/10.1038/s41586-024-07407-y

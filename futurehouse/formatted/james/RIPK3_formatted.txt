@@ -1,0 +1,63 @@
+## Phylogeny  
+Receptor-interacting serine/threonine-protein kinase 3 (RIPK3) belongs to the receptor-interacting protein kinase family, a distinct branch of the serine/threonine kinase superfamily conserved across vertebrates (Fay et al., 2025; Lv et al., 2022). Orthologs are present in diverse mammalian species. While RIPK3 retains core catalytic features shared with RIPK1, it has diverged to acquire a C-terminal RIP homotypic interaction motif (RHIM) that enables selective interactions with other RHIM-containing proteins and underpins its specialized roles in innate immunity and programmed cell death (Dardick & Ronald, 2006; Fay et al., 2025).
+
+## Reaction Catalyzed  
+ATP + [protein]-L-serine/threonine ⇌ ADP + H⁺ + [protein]-O-phospho-L-serine/threonine (Wu et al., 2012; Zu et al., 2021).
+
+## Cofactor Requirements  
+Mg²⁺ is essential for ATP binding and efficient phosphoryl transfer (Wu et al., 2012; Zu et al., 2021).
+
+## Substrate Specificity  
+RIPK3 phosphorylates serine/threonine residues on substrates assembled within death-signaling complexes. Its best-characterized target is the pseudokinase MLKL, whose phosphorylation initiates necroptosis. RIPK3 also undergoes reciprocal phosphorylation with RIPK1. A strict linear consensus motif has not been defined; substrate selection is largely governed by 3-D context within RHIM-mediated assemblies (Johnson et al., 2023; Licheva et al., 2022; Martens et al., 2020).
+
+## Structure  
+The protein comprises an N-terminal bilobal kinase domain and a C-terminal RHIM. The kinase domain contains the canonical catalytic Lys and a DFG motif within the activation loop; conformational changes in this loop and the C-helix control activity. Crystallographic and AlphaFold models reveal that the RHIM forms amyloid-like contacts with partner proteins (e.g., RIPK1) to build the necrosome (Lopez et al., 2019; Mace & Murphy, 2021; Johnson et al., 2023).
+
+## Regulation  
+Activity is modulated by multi-layered mechanisms:  
+• Auto- and trans-phosphorylation between RIPK3 and RIPK1 drive necrosome assembly (Du et al., 2021; Martens et al., 2020).  
+• PLK1 phosphorylates S369 during G2/M, linking kinase activity to the cell cycle (Gupta & Liu, 2021).  
+• Interactions with metabolic enzymes (GLUL, GLUD1, PYGL) provide metabolic feedback (Mace & Murphy, 2021).  
+• Kinase-inactive RIPK3 can scaffold apoptotic complexes with RIPK1, FADD and CASP8 (Mace & Murphy, 2021; Moriwaki & Chan, 2017).
+
+## Function  
+RIPK3 is a central hub for necroptotic and inflammatory signaling. Upon stimulation by TNF-family ligands or viral ZBP1 sensing, RIPK3 phosphorylates MLKL, whose oligomerization disrupts plasma-membrane integrity, causing inflammatory cell death (Liu et al., 2021; Zu et al., 2021). Kinase-dead RIPK3 can promote apoptosis via RIPK1-FADD-CASP8 complexes. In Zika-virus-infected neurons, RIPK3 cooperates with ZBP1 to induce ACOD1/IRG1 expression and itaconate production, thereby restricting viral replication. Binding to GLUL, GLUD1 and PYGL may stimulate the TCA cycle and elevate reactive oxygen species, linking metabolic state to inflammatory responses (Dardick & Ronald, 2006; Liu et al., 2021).
+
+## Inhibitors  
+Small-molecule inhibitors that block RIPK3’s ATP-binding pocket are under development; most efforts parallel those targeting RIPK1 (Martens et al., 2020). Broader necroptosis inhibitors have been reviewed, highlighting therapeutic potential in inflammatory and neurodegenerative diseases (Zhuang & Chen, 2020).
+
+## Other Comments  
+Mutations in the DFG motif or RHIM disrupt necrosome formation and downstream signaling. Aberrant RIPK3 activation contributes to acute tissue injury, chronic inflammation and viral pathogenesis, underscoring the need to balance catalytic inhibition with preservation of essential scaffold functions (Martens et al., 2020; Mace & Murphy, 2021).
+
+## 9. References  
+Alexa, A., Gógl, G., Glatz, G., … Reményi, A. (2015). Structural assembly of the signaling competent ERK2–RSK1 heterodimeric protein kinase complex. Proceedings of the National Academy of Sciences, 112, 2711–2716. https://doi.org/10.1073/pnas.1417571112  
+
+Dardick, C., & Ronald, P. (2006). Plant and animal pathogen recognition receptors signal through non-RD kinases. PLoS Pathogens, 2, e2. https://doi.org/10.1371/journal.ppat.0020002  
+
+Du, J., Xiang, Y., Liu, H., … Wang, Z. (2021). RIPK1 dephosphorylation and kinase activation by PPP1R3G/PP1γ promote apoptosis and necroptosis. Nature Communications. https://doi.org/10.1038/s41467-021-27367-5  
+
+Fay, E. J., Isterabadi, K., Rezanka, C. M., Le, J., & Daugherty, M. D. (2025). Evolutionary and functional analyses reveal a role for the RHIM in tuning RIPK3 activity across vertebrates. bioRxiv. https://doi.org/10.1101/2024.05.09.593370  
+
+Gupta, K., & Liu, B. (2021). PLK1-mediated S369 phosphorylation of RIPK3 during G2 and M phases enables its ripoptosome incorporation and activity. iScience, 24, 102320. https://doi.org/10.1016/j.isci.2021.102320  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Licheva, M., Raman, B., Kraft, C., & Reggiori, F. (2022). Phosphoregulation of the autophagy machinery by kinases and phosphatases. Autophagy, 18, 104–123. https://doi.org/10.1080/15548627.2021.1909407  
+
+Liu, S., Joshi, K., Denning, M. F., & Zhang, J. (2021). RIPK3 signaling and its role in the pathogenesis of cancers. Cellular and Molecular Life Sciences, 78, 7199–7217. https://doi.org/10.1007/s00018-021-03947-y  
+
+Lopez, M. L., Lo, M., Kung, J. E., … Jura, N. (2019). PEAK3/C19orf35 pseudokinase, a new NFK3 kinase family member, inhibits CRKII through dimerization. Proceedings of the National Academy of Sciences, 116, 15495–15504. https://doi.org/10.1073/pnas.1906360116  
+
+Lv, S., Jiang, Y., Li, Y., … Yan, J. (2022). Comparative and evolutionary analysis of RIP kinases in immune responses. Frontiers in Genetics. https://doi.org/10.3389/fgene.2022.796291  
+
+Mace, P. D., & Murphy, J. M. (2021). There’s more to death than life: noncatalytic functions in kinase and pseudokinase signaling. The Journal of Biological Chemistry. https://doi.org/10.1016/j.jbc.2021.100705  
+
+Martens, S., Hofmans, S., Declercq, W., Augustyns, K., & Vandenabeele, P. (2020). Inhibitors targeting RIPK1/RIPK3: Old and new drugs. Trends in Pharmacological Sciences, 41, 209–224. https://doi.org/10.1016/j.tips.2020.01.002  
+
+Moriwaki, K., & Chan, F. K.-M. (2017). The inflammatory signal adaptor RIPK3: Functions beyond necroptosis. International Review of Cell and Molecular Biology, 253–275. https://doi.org/10.1016/bs.ircmb.2016.08.007  
+
+Wu, X., Tian, L., Li, J., … Zhong, C.-Q. (2012). Investigation of receptor interacting protein (RIP3)-dependent protein phosphorylation by quantitative phosphoproteomics. Molecular & Cellular Proteomics, 11, 1640–1651. https://doi.org/10.1074/mcp.m112.019091  
+
+Zhuang, C., & Chen, F.-E. (2020). Small-molecule inhibitors of necroptosis: Current status and perspectives. Journal of Medicinal Chemistry. https://doi.org/10.1021/acs.jmedchem.9b01317  
+
+Zu, R., Yu, Z., Zhao, J., … Shan, B. (2021). Quantitative analysis of phosphoproteome in necroptosis reveals a role of TRIM28 phosphorylation in promoting necroptosis-induced cytokine production. Cell Death & Disease. https://doi.org/10.1038/s41419-021-04290-7

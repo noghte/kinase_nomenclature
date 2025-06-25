@@ -1,0 +1,65 @@
+## Phylogeny  
+Tyrosine-protein kinase TYK2 is one of four Janus kinases (JAK1, JAK2, JAK3, TYK2) that arose from ancient gene-duplication events in early metazoan evolution (Min et al., 2015; Li, 2017).  Orthologues are present throughout vertebrates and the TYK2 sequence retains the canonical JAK module of N-terminal FERM, SH2-like, pseudokinase (JH2) and catalytically active kinase (JH1) domains (Min et al., 2015; Eshaq et al., 2024).  High sequence identity across the regulatory and catalytic regions, together with its broad but immune-cell-enriched expression pattern, indicates strong evolutionary pressure to preserve TYK2-dependent cytokine signalling (Li, 2017; Borcherding et al., 2021).
+
+## Reaction Catalyzed  
+ATP + [protein]-L-tyrosine → ADP + [protein]-L-tyrosine-phosphate + H⁺ (Li, 2017; Creeden et al., 2020).
+
+## Cofactor Requirements  
+Mg²⁺ is required to coordinate ATP in the active site (Min et al., 2015; Eshaq et al., 2024).
+
+## Substrate Specificity  
+Substrate selection is dictated mainly by the cytokine-receptor complex that recruits TYK2 rather than by a strict peptide consensus.  TYK2 phosphorylates tyrosines on the cytoplasmic tails of receptor subunits (e.g., IFNAR1, IL12RB1, IL10RB, IL13RA1) and on downstream STAT proteins (STAT1, STAT3, STAT4, STAT6), generating docking sites that drive STAT dimerisation and nuclear translocation (Li, 2017; Creeden et al., 2020; Eshaq et al., 2024).
+
+## Structure  
+TYK2 is a multidomain kinase with:  
+• FERM domain (membrane-proximal receptor binding).  
+• SH2-like domain (additional receptor/partner contacts).  
+• Pseudokinase JH2 domain that binds ATP in a non-canonical manner and autoinhibits JH1.  
+• C-terminal JH1 kinase domain with the typical bilobal fold, Gly-rich loop, C-helix, activation loop and hydrophobic regulatory spine (Wallweber et al., 2014; Min et al., 2015; Mingione et al., 2023; Wang et al., 2025).  
+Crystal structures and AlphaFold models show that, in the basal state, JH2 restrains JH1; receptor engagement relieves this constraint, enabling activation-loop phosphorylation and full catalytic activity (Niranjan, 2014; Wang et al., 2025).
+
+## Regulation  
+1. Autoinhibition: the JH2 domain locks JH1 in an inactive conformation (Niranjan, 2014).  
+2. Activation-loop phosphorylation of JH1 reorients the loop and C-helix to align catalytic residues (Niranjan, 2014; Wang et al., 2025).  
+3. Trans-phosphorylation: within receptor dimers TYK2 phosphorylates receptor chains and STATs, often cooperating with JAK1 or JAK2 (Borcherding et al., 2021; Creeden et al., 2020).  
+4. Additional control: TYK2 can phosphorylate an inhibitory tyrosine on STAT3, dampening STAT3 activity (Eshaq et al., 2024; Sohn et al., 2013).
+
+## Function  
+TYK2 is an essential mediator of type I interferon and multiple interleukin (IL-12, IL-10, IL-13) pathways.  Upon cytokine binding, TYK2-associated receptor chains dimerise with partners bound by JAK1/JAK2, triggering TYK2 activation, receptor phosphorylation and STAT recruitment.  Activated STAT dimers drive gene programmes that coordinate innate and adaptive immunity, cell proliferation and differentiation (Borcherding et al., 2021; Muromoto et al., 2021).  TYK2 is highly expressed in immune cells and its dysregulation contributes to autoimmune and inflammatory diseases (Borcherding et al., 2021).
+
+## Inhibitors  
+Selective allosteric inhibitors that bind the JH2 pseudokinase domain (e.g., deucravacitinib, PF-06826647) stabilise the autoinhibited state and attenuate pathological cytokine signalling with reduced off-target JAK activity (Wang et al., 2025; Gerstenberger et al., 2020; Rusiñol & Puig, 2023).
+
+## Other Comments  
+Genetic TYK2 variants modulate cytokine responsiveness and disease susceptibility; TYK2 also serves a structural role in maintaining cytokine-receptor surface expression (Borcherding et al., 2021; Sohn et al., 2013).  Ongoing clinical trials targeting TYK2 aim to balance efficacy and safety in psoriasis, inflammatory bowel disease and related disorders (Chen et al., 2023; Hromadová et al., 2021).
+
+## 9. References  
+Borcherding, D. C., He, K., Amin, N. V., & Hirbe, A. C. (2021). Tyk2 in cancer metastases: Genomic and proteomic discovery. Cancers, 13, 4171. https://doi.org/10.3390/cancers13164171  
+
+Chen, C. X.-J., Zhang, W., Qu, S., Xia, F., Zhu, Y., & Chen, B. (2023). A novel highly selective allosteric inhibitor of tyrosine kinase 2 (TYK2) can block inflammation- and autoimmune-related pathways. Cell Communication and Signaling. https://doi.org/10.1186/s12964-023-01299-7  
+
+Creeden, J. F., Alganem, K., Imami, A. S., Brunicardi, F. C., Liu, S.-H., Shukla, R., Tomar, T., Naji, F., & McCullumsmith, R. E. (2020). Kinome array profiling of patient-derived pancreatic ductal adenocarcinoma identifies differentially active protein tyrosine kinases. International Journal of Molecular Sciences, 21, 8679. https://doi.org/10.3390/ijms21228679  
+
+Eshaq, A. M., Flanagan, T. W., Hassan, S.-Y., Al Asheikh, S. A., Al-Amoudi, W. A., Santourlidis, S., Hassan, S.-L., Alamodi, M. O., Bendhack, M. L., Alamodi, M. O., Haikel, Y., Megahed, M., & Hassan, M. (2024). Non-receptor tyrosine kinases: Their structure and mechanistic role in tumour progression and resistance. Cancers, 16, 2754. https://doi.org/10.3390/cancers16152754  
+
+Gerstenberger, B. S., Ambler, C., Arnold, E. P., Banker, M.-E., Brown, M. F., Clark, J. D., … Wright, S. W. (2020). Discovery of tyrosine kinase 2 (TYK2) inhibitor (PF-06826647) for the treatment of autoimmune diseases. Journal of Medicinal Chemistry, 63, 13561–13577. https://doi.org/10.1021/acs.jmedchem.0c00948  
+
+Hromadová, D., Elewaut, D., Inman, R. D., Strobl, B., & Gracey, E. (2021). From science to success? Targeting tyrosine kinase 2 in spondyloarthritis and related chronic inflammatory diseases. Frontiers in Genetics. https://doi.org/10.3389/fgene.2021.685280  
+
+Li, Z. (2017). Insights on type I IFN signalling and regulation: Studies of disease-associated TYK2 variants and of the negative regulators USP18/ISG15. [Doctoral dissertation].  
+
+Min, X., Ungureanu, D., Maxwell, S., Hammarén, H., Thibault, S., Hillert, E.-K., Ayres, M., Greenfield, B., Eksterowicz, J., Gabel, C., Walker, N., Silvennoinen, O., & Wang, Z. (2015). Structural and functional characterization of the JH2 pseudokinase domain of JAK family tyrosine kinase 2 (TYK2). Journal of Biological Chemistry, 290, 27261–27270. https://doi.org/10.1074/jbc.M115.672048  
+
+Mingione, V. R., Paung, Y., Outhwaite, I. R., & Seeliger, M. A. (2023). Allosteric regulation and inhibition of protein kinases. Biochemical Society Transactions, 51, 373–385. https://doi.org/10.1042/BST20220940  
+
+Muromoto, R., Shimoda, K., Oritani, K., & Matsuda, T. (2021). Therapeutic advantage of TYK2 inhibition for treating autoimmune and chronic inflammatory diseases. Biological and Pharmaceutical Bulletin, 44, 1585–1592. https://doi.org/10.1248/bpb.B21-00609  
+
+Niranjan, Y. (2014). Functional characterization of the kinase and pseudokinase domains in the Janus tyrosine kinase (JAK) 2. [Doctoral dissertation].  
+
+Rusiñol, L., & Puig, L. (2023). TYK2 targeting in immune-mediated inflammatory diseases. International Journal of Molecular Sciences, 24, 3391. https://doi.org/10.3390/ijms24043391  
+
+Sohn, S. J., Barrett, K., Van Abbema, A., Chang, C., Kohli, P. B., Kanda, H., … Wu, L. C. (2013). A restricted role for TYK2 catalytic activity in human cytokine responses revealed by novel TYK2-selective inhibitors. The Journal of Immunology, 191, 2205–2216. https://doi.org/10.4049/jimmunol.1202859  
+
+Wallweber, H. J. A., Tam, C., Franke, Y., Starovasnik, M. A., & Lupardus, P. J. (2014). Structural basis of recognition of interferon-α receptor by tyrosine kinase 2. Nature Structural & Molecular Biology, 21, 443–448. https://doi.org/10.1038/nsmb.2807  
+
+Wang, J., Lomakin, I. B., Batista, V. S., & Bunick, C. G. (2025). A triple-action inhibitory mechanism of allosteric TYK2-specific inhibitors. Journal of Investigative Dermatology. https://doi.org/10.1016/j.jid.2025.04.025

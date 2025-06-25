@@ -1,0 +1,69 @@
+## Proposed EC/sub-subclass:  
+Not specified in the source material  
+
+## Accepted name:  
+Ribosomal protein S6 kinase β-1  
+
+## Synonyms:  
+70 kDa ribosomal protein S6 kinase 1; p70 ribosomal S6 kinase; S6K1; S6 kinase α  
+
+## Phylogeny  
+RPS6KB1 is an AGC-family serine/threonine kinase that arose early in eukaryotic evolution, with orthologues traceable to the Last Eukaryotic Common Ancestor (LECA). Gene-duplication events in the animal/fungal lineage generated the separate S6K and RSK branches (Karlsson, 2014, pp. 116-117; LaPenas, 2023, pp. 166-168; Domanova et al., 2016, pp. 12-13). In mammals the enzyme is ubiquitously expressed, forming part of the conserved TOR-signalling core.  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr → ADP + [protein]-Ser/Thr-phosphate + H⁺ (Beltman, 2022, pp. 318-322; Tchevkina, 2012, pp. 19-21).  
+
+## Cofactor Requirements  
+Requires Mg²⁺ for ATP binding and phosphotransfer (LaPenas, 2023, pp. 171-173; Tchevkina, 2012, pp. 19-21).  
+
+## Substrate Specificity  
+Prefers the consensus motif RxRxxp[Ser/Thr] with critical Arg residues at −5 and −3. Verified cellular substrates include ribosomal protein S6, eIF4B and EEF2K (Beltman, 2022, pp. 35-40; Tchevkina, 2012, pp. 19-21).  
+
+## Structure  
+S6K1 contains an N-terminal TOR-signalling (TOS) motif (FDIDL, residues 5–9) that engages RAPTOR of mTORC1, a bi-lobed catalytic domain with an activation loop (Thr229) and a hydrophobic motif (Thr389), and a C-terminal PDZ-binding segment that distinguishes it from the paralog S6K2. Full activity requires phosphorylation of Thr229 by PDK1 and Thr389 by mTORC1 (Gerstenecker et al., 2021, pp. 9-10; Jülich, 2008, pp. 15-19; Khalil et al., 2024, pp. 7-9; Pende & Fumagalli, 2014, pp. 1-3).  
+
+## Regulation  
+Under nutrient deprivation S6K1 is held inactive in an EIF3 complex. Mitogenic cues activate mTORC1, which phosphorylates Thr389, creating a docking site for PDK1 that phosphorylates Thr229 and fully activates the kinase. Active S6K1 feeds back on the pathway by phosphorylating SIN1, mTOR, RICTOR, DEPTOR and IRS1, the latter leading to proteasomal degradation and contributing to insulin-signalling attenuation. Additional control involves ubiquitination, acetylation and dephosphorylation of Thr412 via PPP1CC released from phosphorylated URI1 (Hsu, 2011, pp. 71-75; Majeed et al., 2019, pp. 17-21; Bdzhola et al., 2025, pp. 9-10; Murphy, 2021, pp. 111-114; Sridhar, 2022, pp. 11-16).  
+
+## Function  
+Principal mTORC1 effector that drives anabolic growth by phosphorylating components of the translational machinery (S6, eIF4B, EEF2K), translation regulators (PDCD4, POLDIP3/SKAR), metabolic enzymes (CAD, EPRS) and survival factor BAD. Through IRS1 phosphorylation it contributes to insulin resistance, and by targeting mTORC2 subunits it modulates AKT signalling (Cronin, 2023, pp. 27-34; Pende & Fumagalli, 2014, pp. 1-3; Murphy, 2021, pp. 11-15).  
+
+## Inhibitors  
+PF-4708671 selectively inhibits S6K1, reducing phosphorylation of S6 and IRS1 without affecting upstream mTORC1 or PDK1 events (Karlsson, 2014, pp. 42-45; Sridhar, 2022, pp. 14-16; Scott et al., 2020, pp. 24-29).  
+
+## Other Comments  
+Dysregulated S6K1 activity is linked to cancer, obesity, insulin resistance and other metabolic disorders. Suppressing S6K1 can mimic aspects of caloric restriction, making the kinase a promising therapeutic target; ongoing efforts aim to develop isoform-selective inhibitors (Karlsson, 2014, pp. 42-45; Sridhar, 2022, pp. 14-16).  
+
+## 9. References  
+
+Bdzhola, A., Malanchuk, O., Palchevskyi, S., Gout, I., Filonenko, V., & Zhyvoloup, A. (2025). Co-expression of the RPS6KB1 and PDPK1 genes for production of activated p70S6K1 using Bac-to-Bac baculovirus expression system. Molecular Biology Reports. https://doi.org/10.1007/s11033-024-10136-0  
+
+Beltman, R. (2022). Kinase-catalyzed labeling to identify kinase-substrate pairs using γ-phosphate modified ATP analogs (pp. 318-322; pp. 35-40). [Journal name not provided].  
+
+Cronin, R. J. (2023). A mechanistic approach to understand the role of p90 ribosomal S6 kinases in prostate cancer (pp. 27-34). [Journal name not provided].  
+
+Domanova, W., Krycer, J., Chaudhuri, R., et al. (2016). Unraveling kinase activation dynamics using kinase-substrate relationships from temporal large-scale phosphoproteomics studies. PLOS ONE, 11, e0157763. https://doi.org/10.1371/journal.pone.0157763  
+
+Gerstenecker, S., Haarer, L., Schröder, M., et al. (2021). Discovery of a potent and highly isoform-selective inhibitor of the neglected ribosomal protein S6 kinase β 2 (S6K2). Cancers, 13, 5133. https://doi.org/10.3390/cancers13205133  
+
+Hsu, P. P. (2011). The identification of the mTOR-regulated phosphoproteome and a mediator of feedback inhibition to PI3K-AKT (pp. 71-75). [Journal name not provided].  
+
+Jülich, K. (2008). SKAR: a novel target of S6 kinase 1 (pp. 15-19). [Journal name not provided].  
+
+Karlsson, E. (2014). Clinical potential of the mTOR effectors S6K1, S6K2 and 4EBP1 in breast cancer (pp. 42-45; pp. 116-117). Linköping University Electronic Press. https://doi.org/10.3384/diss.diva-104180  
+
+Khalil, M. I., Helal, M., El-Sayed, A. F., et al. (2024). S6K2 in focus: signalling pathways, post-translational modifications, and computational analysis. International Journal of Molecular Sciences, 26, 176. https://doi.org/10.3390/ijms26010176  
+
+LaPenas, K. (2023). Of the vulnerability of orphan proteins: the case study of the Arabidopsis thaliana p70 ribosomal S6 kinase 2 (pp. 166-168; pp. 171-173). [Journal name not provided].  
+
+Majeed, S. T., Majeed, R., Shah, G., & Andrabi, K. I. (2019). S6 kinase: a compelling prospect for therapeutic interventions (pp. 17-21). Homeostasis – An Integrated Vision. https://doi.org/10.5772/intechopen.75209  
+
+Murphy, B. (2021). The role of Arabidopsis thaliana ribosomal-protein S6 kinase 1 (AtS6K1) under abiotic stresses (pp. 11-15; pp. 111-114). [Journal name not provided].  
+
+Pende, M., & Fumagalli, S. (2014). Ribosomal protein S6 kinase 1 at the central node of cell size and ageing (pp. 1-3). Frontiers in Cell and Developmental Biology. https://doi.org/10.3389/fcell.2022.949196  
+
+Scott, D. T., Korolchuk, S., Tatum, N. J., et al. (2020). Development of PKN2 inhibitors (pp. 24-29). [Journal name not provided].  
+
+Sridhar, A., et al. (2022). Targeting RPS6K1 for therapeutic benefit (pp. 11-16). [Journal name not provided].  
+
+Tchevkina, E. (2012). Protein phosphorylation as a mechanism of regulation (pp. 19-21). [Journal name not provided].

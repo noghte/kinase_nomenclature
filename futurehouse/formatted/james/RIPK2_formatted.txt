@@ -1,0 +1,47 @@
+## Phylogeny  
+Receptor-interacting serine/threonine-protein kinase 2 (RIPK2; also called CARDIAK, RICK or RIP2) is a member of the receptor-interacting protein (RIP) kinase family within the tyrosine kinase-like (TKL) group and is classified as a non-RD kinase (Dardick & Ronald, 2006). Orthologues are present throughout vertebrates, and the domain architecture is conserved across species that use innate-immune signalling pathways. Phylogenetically, RIPK2 clusters with other RIP kinases (RIPK1, RIPK3, RIPK4) and is related to innate-immunity kinases of the IRAK family (Lv et al., 2022).
+
+## Reaction Catalyzed  
+ATP + [L-serine/-threonine/-tyrosine]-[protein] ⇄ ADP + H⁺ + O-phospho-L-serine/-threonine/-tyrosine-[protein] (Pellegrini et al., 2017).
+
+## Cofactor Requirements  
+Mg²⁺ is required for nucleotide binding and catalysis; no requirement for Mn²⁺ has been reported (Pellegrini et al., 2017; Lethier et al., 2022).
+
+## Substrate Specificity  
+Kinase-substrate profiling places RIPK2 in a motif cluster enriched for basic residues flanking the phospho-acceptor Ser/Thr and an aromatic residue at the +3 position (Johnson et al., 2023).
+
+## Structure  
+The protein comprises an N-terminal bilobal kinase domain and a C-terminal caspase-recruitment domain (CARD) (Gong et al., 2018; Pellegrini et al., 2017).  
+• Kinase domain: contains the canonical DFG motif (Mg²⁺ coordination), an activation loop with multiple autophosphorylation sites, and an αC-helix that forms the invariant Lys-Glu salt bridge in the active conformation (Dardick & Ronald, 2006; Pellegrini et al., 2017).  
+• Dimerisation: RIPK2 kinase domains form an antiparallel dimer; the interface involves the αC-helix and adjacent loops and is the binding site for the BIR2 domain of XIAP (Lethier et al., 2022, 2023).  
+• CARD: mediates CARD–CARD interactions with NOD1/2 and drives filamentous “RIPosome” assembly essential for downstream signalling (Gong et al., 2018).  
+
+## Regulation  
+Activation involves autophosphorylation within the activation segment followed by extensive Lys63-linked and linear (Met1-linked) poly-ubiquitination by XIAP, BIRC2/3 and the LUBAC complex. These modifications convert RIPK2 into a scaffold that recruits IKBKG/NEMO and other signalling factors (Dardick & Ronald, 2006; Pellegrini et al., 2017). Binding of XIAP BIR2 across the kinase-domain dimer interface is critical for ubiquitination (Lethier et al., 2022).
+
+## Function  
+RIPK2 is the key effector kinase downstream of the intracellular pattern-recognition receptors NOD1 and NOD2. On binding to these receptors via CARD–CARD interactions, RIPK2 oligomerises, undergoes autophosphorylation/ubiquitination, and assembles complexes that activate MAP3K7/TAK1 and the canonical NF-κB pathway (Gong et al., 2018; Pellegrini et al., 2017). Additional roles include:  
+• Adaptive immunity—participation in T-cell receptor signalling through BCL10 phosphorylation and NF-κB activation (Dardick & Ronald, 2006).  
+• Non-canonical pathways—tyrosine phosphorylation of ARHGEF2 (via Src) and RHOA inactivation in nerve-growth-factor receptor signalling (Dardick & Ronald, 2006).  
+RIPK2 is broadly expressed in immune cells, linking pathogen recognition to inflammatory responses (Pellegrini et al., 2017).
+
+## Inhibitors  
+Type II ATP-competitive inhibitors such as ponatinib can modulate RIPK2 activity. Additional strategies aim to block CARD-mediated oligomerisation or disrupt the XIAP-binding interface (Gong et al., 2018; Lethier et al., 2023).
+
+## Other Comments  
+RIPK2 signalling is implicated in inflammatory conditions, including Crohn’s disease and other autoinflammatory syndromes. Mapping of its phospho-substrates continues to refine understanding of its signaling network (Johnson et al., 2023).  
+
+## References  
+Dardick, C., & Ronald, P. (2006). Plant and animal pathogen recognition receptors signal through non-RD kinases. PLoS Pathogens, 2, e2. https://doi.org/10.1371/journal.ppat.0020002  
+
+Gong, Q., Long, Z., Zhong, F. L., Teo, D. E. T., Jin, Y., Yin, Z., … Wu, B. (2018). Structural basis of RIP2 activation and signaling. Nature Communications. https://doi.org/10.1038/s41467-018-07447-9  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Lethier, M., Hons, M., Favier, A., Brutscher, B., Boeri Erba, E., Cusack, S., & Pellegrini, E. (2022). Structural analysis shows that the BIR2 domain of E3 ligase XIAP binds across the RIP2 kinase dimer interface. bioRxiv. https://doi.org/10.1101/2022.10.14.512215  
+
+Lethier, M., Huard, K., Hons, M., Favier, A., Brutscher, B., Boeri Erba, E., … Pellegrini, E. (2023). Structure shows that the BIR2 domain of E3 ligase XIAP binds across the RIPK2 kinase dimer interface. Life Science Alliance, 6, e202201784. https://doi.org/10.26508/lsa.202201784  
+
+Lv, S., Jiang, Y., Li, Y., Huang, R. H., Peng, L., Ma, Z., … Yan, J. (2022). Comparative and evolutionary analysis of RIP kinases in immune responses. Frontiers in Genetics. https://doi.org/10.3389/fgene.2022.796291  
+
+Pellegrini, E., Signor, L., Singh, S., Boeri Erba, E., & Cusack, S. (2017). Structures of the inactive and active states of RIP2 kinase inform on the mechanism of activation. PLOS ONE, 12, e0177161. https://doi.org/10.1371/journal.pone.0177161

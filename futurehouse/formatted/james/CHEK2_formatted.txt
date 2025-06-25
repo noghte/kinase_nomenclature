@@ -1,0 +1,59 @@
+## Phylogeny  
+Serine/threonine-protein kinase Chk2 is a member of the CMGC kinase group and is the mammalian ortholog of the yeast checkpoint kinases Rad53 (S. cerevisiae) and Cds1 (S. pombe). Orthologs are found in all mammals and functionally analogous proteins exist in more distant eukaryotes, indicating an early evolutionary origin and strong conservation of the DNA-damage checkpoint from yeast to humans (Buscemi et al., 2014; Nevanlinna & Bartek, 2006).
+
+## Reaction Catalyzed  
+ATP + [protein]-OH ⇌ ADP + [protein]-O-phosphate + H⁺ (Li & Stern, 2005)
+
+## Cofactor Requirements  
+Mg²⁺ is required for catalytic activity (Seo et al., 2003; Li & Stern, 2005).
+
+## Substrate Specificity  
+Chk2 preferentially phosphorylates serine or threonine residues within the motif L-X-R-X-X-S/T (Leu at –5, Arg at –3). Hydrophobic and basic residues upstream of the phospho-acceptor enhance recognition. Confirmed cellular substrates include CDC25A/B/C, p53, BRCA1/2 and other DNA-damage response factors (Buscemi et al., 2014; Kim et al., 2007; Seo et al., 2003).
+
+## Structure  
+The 543-residue protein contains:  
+• N-terminal SQ/TQ cluster domain (SCD) phosphorylated by ATM  
+• Central forkhead-associated (FHA) phosphopeptide-binding domain that mediates dimerization and substrate docking  
+• C-terminal bilobal kinase domain with an activation loop carrying T383 and T387.  
+Crystallographic and AlphaFold models confirm the canonical kinase fold and show the FHA domain positioned to facilitate activation-dependent dimerization and autophosphorylation (Buscemi et al., 2014; Stolarova et al., 2020; Wu et al., 2006).
+
+## Regulation  
+DNA double-strand breaks trigger ATM-dependent phosphorylation of Chk2 at T68, inducing FHA/SCD-mediated homodimerization. Dimerization enables autophosphorylation at T383, T387 and S516, producing full kinase activity. Activity is attenuated by ubiquitination-driven proteolysis and by dephosphorylation through PP2A or WIP1. Nuclear import can be modulated by karyopherin-α interactions (Li & Stern, 2005; Wu et al., 2006; Stolarova et al., 2020).
+
+## Function  
+Activated Chk2 enforces cell-cycle arrest at the G1/S and G2/M checkpoints and promotes DNA repair and apoptosis. Key actions include:  
+• Phosphorylation-dependent inhibition of CDC25 phosphatases, preventing CDK activation.  
+• Phosphorylation of p53 (Ser20) leading to p53 stabilization and transcriptional activation of repair and apoptotic genes.  
+• Modulation of homologous recombination via BRCA2 phosphorylation and RAD51 recruitment.  
+Non-canonical roles include regulation of mitotic spindle assembly and autophagy under oxidative stress. Collectively, Chk2 acts as a tumor suppressor safeguarding genomic integrity (Bell et al., 2007; Buscemi et al., 2014; Smith et al., 2020).
+
+## Inhibitors  
+Several small-molecule inhibitors (e.g., PV1019, VRX0466617, bis-guanylhydrazone derivatives) bind the ATP site of Chk2, but many also inhibit the related kinase Chk1 (Lountos et al., 2011; Stolz et al., 2011).
+
+## Other Comments  
+Germ-line and somatic CHEK2 variants such as 1100delC and I157T are linked to elevated risks of breast, prostate and colorectal cancers. Loss or attenuation of Chk2 function contributes to chromosomal instability and therapy resistance, making the kinase a potential target for sensitizing tumors to DNA-damaging agents (Stolarova et al., 2020; Bell et al., 2007; Chrisanthar et al., 2008).
+
+## 9. References  
+Bell, D. W., Kim, S. H., Godwin, A. K., Schiripo, T. A., Harris, P. L., Haserlat, S. M., … Freedman, M. L. (2007). Genetic and functional analysis of CHEK2 (CHK2) variants in multiethnic cohorts. International Journal of Cancer, 121(12), 2661–2667. https://doi.org/10.1002/ijc.23026  
+
+Buscemi, G., Zannini, L., & Delia, D. (2014). Chk2 kinase in the DNA damage response and beyond. Journal of Molecular Cell Biology, 6(6), 442–457. https://doi.org/10.1093/jmcb/mju045  
+
+Chrisanthar, R., Knappskog, S., Løkkevik, E., Anker, G., Østenstad, B., Lundgren, S., … Lønning, P. E. (2008). CHEK2 mutations affecting kinase activity together with mutations in TP53 indicate a functional pathway associated with resistance to epirubicin in primary breast cancer. PLoS ONE, 3(8), e3062. https://doi.org/10.1371/journal.pone.0003062  
+
+Kim, M.-A., Kim, H.-J., Brown, A. L., Lee, M.-Y., Bae, Y.-S., Park, J.-I., … Yun, J. (2007). Identification of novel substrates for human checkpoint kinase Chk1 and Chk2 through genome-wide screening using a consensus Chk phosphorylation motif. Experimental & Molecular Medicine, 39(2), 205–212. https://doi.org/10.1038/emm.2007.23  
+
+Li, J., & Stern, D. F. (2005). Regulation of Chk2 by DNA-dependent protein kinase. Journal of Biological Chemistry, 280(13), 12041–12050. https://doi.org/10.1074/jbc.M412445200  
+
+Lountos, G. T., Jobson, A. G., Tropea, J. E., Self, C. R., Zhang, G., Pommier, Y., … Waugh, D. S. (2011). Structural characterization of inhibitor complexes with checkpoint kinase 2 (Chk2), a drug target for cancer therapy. Journal of Structural Biology, 176(3), 292–301. https://doi.org/10.1016/j.jsb.2011.09.008  
+
+Nevanlinna, H., & Bartek, J. (2006). The CHEK2 gene and inherited breast cancer susceptibility. Oncogene, 25(43), 5912–5919. https://doi.org/10.1038/sj.onc.1209877  
+
+Seo, G.-J., Kim, S.-E., Lee, Y.-M., Lee, J.-W., Lee, J.-R., Hahn, M.-J., & Kim, S.-T. (2003). Determination of substrate specificity and putative substrates of Chk2 kinase. Biochemical and Biophysical Research Communications, 304(2), 339–343. https://doi.org/10.1016/S0006-291X(03)00589-8  
+
+Smith, H. L., Southgate, H., Tweddle, D. A., & Curtin, N. J. (2020). DNA damage checkpoint kinases in cancer. Expert Reviews in Molecular Medicine, 22, e2. https://doi.org/10.1017/erm.2020.3  
+
+Stolarova, L., Kleiblova, P., Janatova, M., Soukupova, J., Zemankova, P., Macurek, L., & Kleibl, Z. (2020). CHEK2 germline variants in cancer predisposition: stalemate rather than checkmate. Cells, 9(12), 2675. https://doi.org/10.3390/cells9122675  
+
+Stolz, A., Ertych, N., & Bastians, H. (2011). Tumor suppressor Chk2: regulator of DNA damage response and mediator of chromosomal stability. Clinical Cancer Research, 17(3), 401–405. https://doi.org/10.1158/1078-0432.CCR-10-1215  
+
+Wu, X., Dong, X.-Y., Liu, W., & Chen, J. (2006). Characterization of CHEK2 mutations in prostate cancer. Human Mutation, 27(10), 1042–1049. https://doi.org/10.1002/humu.20321

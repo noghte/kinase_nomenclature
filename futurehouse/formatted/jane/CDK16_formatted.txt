@@ -1,0 +1,59 @@
+## Phylogeny  
+CDK16 (also called PCTAIRE1 or PCTK1) is a member of the PCTAIRE subfamily of cyclin-dependent kinases. Orthologues are found only in eumetazoans and are highly conserved across vertebrates and other nervous-system–containing animals (Amrhein et al., 2022; Mikolcevic et al., 2012). Together with CDK17 and CDK18, it forms a subfamily that diverged from canonical cell-cycle CDKs (Cole, 2009; Karimbayli et al., 2024). The catalytic domain shares ~52–57 % sequence identity with mitotic CDK2 and CDK5 but contains extended regulatory regions absent from classical CDKs (Endicott & Noble, 2013; Karimbayli et al., 2024).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Endicott & Noble, 2013)
+
+## Cofactor Requirements  
+Mg²⁺ is essential for ATP binding and phosphoryl transfer (Amrhein et al., 2022; Endicott & Noble, 2013).
+
+## Substrate Specificity  
+A proline-directed Ser/Thr kinase that preferentially targets vesicle-trafficking proteins. Experimentally verified substrates include:  
+• N-ethylmaleimide–sensitive fusion protein (NSF), whose phosphorylation controls oligomerisation (Cole, 2009).  
+• Cyclin Y at Ser336 (Amrhein et al., 2022).  
+• p27^Kip1 (Yanagi et al., 2014).  
+Preference for proline at +1 is typical, and NSF phosphorylation is the most firmly established event relevant to its core functions.
+
+## Structure  
+The enzyme comprises a conserved kinase core (residues ~205–473 solved by X-ray crystallography) containing the HRD and DFG motifs (Endicott & Noble, 2013; Karimbayli et al., 2024). Unique features include:  
+• An N-terminal extension that mediates cyclin Y binding.  
+• A PCTAIRE helix replacing the canonical PSTAIRE.  
+• A short C-terminal tail implicated in protein interactions.  
+• A partially inverted DFG motif and altered C-helix that render the apo-enzyme inactive; ordering occurs upon cyclin Y binding (Amrhein et al., 2022; Mikolcevic et al., 2012; Karimbayli et al., 2024).
+
+## Regulation  
+Full activity requires association with cyclin Y via the N-terminal extension (Amrhein et al., 2022; Mikolcevic et al., 2012). Key phosphorylation events modulate activity:  
+• Ser153 phosphorylation by PKA blocks cyclin Y binding and inhibits the kinase (Amrhein et al., 2022; Kamkar, 2015).  
+• Ser95 phosphorylation by CDK5 enhances activity (Mikolcevic et al., 2012).  
+Interactions with 14-3-3 proteins and p11 may sequester or alter substrate access (Cole, 2009; Karimbayli et al., 2024). Regulation is tissue-specific, being most pronounced in neurons and spermatids (Amrhein et al., 2022).
+
+## Function  
+Highly expressed in brain and testis, CDK16:  
+• Phosphorylates NSF to support vesicle trafficking/exocytosis and growth-hormone release from neurons (Amrhein et al., 2022; Cole, 2009).  
+• Is essential for spermatid maturation and normal spermatogenesis (Mikolcevic et al., 2012; Karimbayli et al., 2024).  
+• Contributes to neuronal differentiation and dendrite development (Amrhein et al., 2022; Mikolcevic et al., 2012).  
+• Modulates insulin secretion via effects on the secretory pathway (Amrhein et al., 2022; Karimbayli et al., 2024).  
+Upstream regulators include PKA and CDK5; downstream effects centre on vesicle-mediated transport and secretory processes.
+
+## Inhibitors  
+Selective 3-amino-1H-pyrazole compounds exhibit nanomolar cellular potency against CDK16 (Amrhein et al., 2022). Repurposing studies identify Dabrafenib and Rebastinib as additional potent inhibitors (Karimbayli et al., 2024).
+
+## Other Comments  
+CDK16 dysregulation is linked to progression of breast, prostate and lung cancers, yet the kinase is indispensable for normal neuronal and reproductive functions. Ongoing work seeks highly selective inhibitors and deeper insight into substrate recognition (Amrhein et al., 2022; Yanagi et al., 2014; Karimbayli et al., 2024; Pepino et al., 2021).
+
+## 9. References  
+Amrhein, J. A., Berger, L. M., Tjaden, A., Krämer, A., Elson, L., Tolvanen, T., … Hanke, T. (2022). Discovery of 3-amino-1H-pyrazole-based kinase inhibitors to illuminate the understudied PCTAIRE family. International Journal of Molecular Sciences, 23, 14834. https://doi.org/10.3390/ijms232314834  
+
+Cole, A. R. (2009). PCTK proteins: The forgotten brain kinases? Neurosignals, 17, 288–297. https://doi.org/10.1159/000231895  
+
+Endicott, J. A., & Noble, M. E. M. (2013). Structural characterization of the cyclin-dependent protein kinase family. Biochemical Society Transactions, 41, 1008–1016. https://doi.org/10.1042/BST20130097  
+
+Kamkar, F. (2015). PFTAIRE1 (cyclin-dependent kinase 14): Role and function in axonal outgrowth during CNS development. https://doi.org/10.20381/ruor-4143  
+
+Karimbayli, J., Pellarin, I., Belletti, B., & Baldassarre, G. (2024). Insights into the structural and functional activities of forgotten kinases: PCTAIREs CDKs. Molecular Cancer. https://doi.org/10.1186/s12943-024-02043-6  
+
+Mikolcevic, P., Rainer, J., & Geley, S. (2012). Orphan kinases turn eccentric. Cell Cycle, 11, 3758–3768. https://doi.org/10.4161/cc.21592  
+
+Pepino, R. de O., Coelho, F., Buzanello Janku, T. A., Alencar, D. P., Figueira de Azevedo, W., & Canduri, F. (2021). Overview of PCTK3/CDK18: A cyclin-dependent kinase involved in specific functions in post-mitotic cells. Current Medicinal Chemistry, 28, 6846–6865. https://doi.org/10.2174/0929867328666210329122147  
+
+Yanagi, T., Krajewska, M., Matsuzawa, S., & Reed, J. C. (2014). PCTAIRE1 phosphorylates p27 and regulates mitosis in cancer cells. Cancer Research, 74, 5795–5807. https://doi.org/10.1158/0008-5472.CAN-14-0872

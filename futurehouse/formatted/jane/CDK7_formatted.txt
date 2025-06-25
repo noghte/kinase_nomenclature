@@ -1,0 +1,68 @@
+## Proposed EC/sub-subclass  
+Not specified in the provided data  
+
+## Accepted name  
+Cyclin-dependent kinase 7  
+
+## Synonyms  
+CDK7; catalytic subunit of CDK-activating kinase (CAK)  
+
+## Phylogeny  
+CDK7 is a member of the cyclin-dependent kinase (CDK) family within the CMGC group of protein kinases. Orthologues occur from yeast to mammals, indicating an ancient, conserved role (Hunter & Manning, 2015; Malumbres, 2014). Throughout evolution the enzyme retained dual functionality: (i) activation of other CDKs that drive cell-cycle transitions and (ii) regulation of RNA polymerase II transcription as part of the TFIIH complex (Hunter & Manning, 2015).  
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Alexander, 2008)  
+
+## Cofactor Requirements  
+Mg²⁺ is essential for coordinating ATP and enabling phosphoryl transfer (Alexander, 2008).  
+
+## Substrate Specificity  
+CDK7 phosphorylates:  
+• Activation-loop threonine residues of CDK1, CDK2, CDK4 and CDK6, enabling their full activity (Johnson et al., 2023).  
+• Ser⁵ (and other serines) within the Y₁S₂P₃T₄S₅P₆S₇ heptad repeats of the RNA polymerase II C-terminal domain, promoting transcription initiation (Al-Rawi et al., 2023).  
+• Additional transcription/processing factors such as SPT5, SF1 and p53 (Johnson et al., 2023; Al-Rawi et al., 2023).  
+High-throughput profiling shows preference for Ser-Pro motifs and local structural elements that favour kinase docking (Johnson et al., 2023).  
+
+## Structure  
+CDK7 contains the canonical bilobal protein-kinase fold with an N-terminal β-sheet lobe and a predominantly helical C-terminal lobe. The ATP-binding cleft lies between the lobes, and a conserved catalytic Asp in the catalytic loop acts as the base. Activity requires phosphorylation of the activation (T-) loop (Lolli et al., 2004). In cells, CDK7 forms a heterotrimeric CAK complex with cyclin H and MAT1; cyclin H realigns catalytic motifs, whereas MAT1 stabilises the active conformation and influences substrate orientation (Düster et al., 2024).  
+
+## Regulation  
+1. Complex assembly – Binding to cyclin H and MAT1 is mandatory for proper folding and catalytic activation (Fisher, 2005).  
+2. Activation-loop phosphorylation – Dual phosphorylation of the T-loop stabilises the active state (Düster et al., 2024).  
+3. Feedback from DNA-damage signalling – CDK7-mediated activation of p53 leads to p53-dependent inhibition of CDK7, integrating the DNA-damage response with cell-cycle control (Fisher, 2017).  
+
+## Function  
+• Cell-cycle control: As the CAK catalytic subunit, CDK7 activates CDK1/2/4/6, thereby governing G1-S and G2-M transitions (Al-Rawi et al., 2023).  
+• Transcription initiation: Within TFIIH, CDK7 phosphorylates RNA polymerase II CTD Ser⁵, enabling promoter clearance and transition to productive elongation (Aquino, 2022).  
+• DNA-damage response: Phosphorylation of p53 and other factors links transcriptional regulation to genome-integrity checkpoints (Fisher, 2017).  
+
+## Inhibitors  
+The covalent ATP-competitive inhibitor THZ1 and related compounds selectively target CDK7, blocking phosphorylation of downstream CDKs and the RNA polymerase II CTD (Ramani, 2020).  
+
+## Other Comments  
+Because CDK7 coordinates cell-cycle progression and transcription, it is an attractive anticancer target. Inhibition disrupts both CDK activation and transcriptional programs in tumour cells (Pellarin et al., 2025). No specific disease-linked CDK7 mutations are detailed, but dysregulated activity is implicated in oncogenesis (Ramani, 2020).  
+
+## References  
+Alexander, J. (2008). Roles for motifs of cell cycle regulating kinases beyond substrate selection of individual kinases (pp. 4–9, 90–94).  
+
+Al-Rawi, A., Korolchuk, S., Endicott, J. A., & Ly, T. (2023). Cyclin A and Cks1 promote kinase consensus switching to non-proline-directed CDK1 phosphorylation. BioRxiv. https://doi.org/10.1101/2022.05.24.493195  
+
+Aquino, C. (2022). New molecular mechanisms involved in cell cycle control (pp. 24–27).  
+
+Düster, R., Anand, K., Binder, S. C., … & Geyer, M. (2024). Structural basis of CDK7 activation by dual T-loop phosphorylation. BioRxiv. https://doi.org/10.1101/2024.02.14.580246  
+
+Fisher, R. P. (2005). Secrets of a double agent: CDK7 in cell-cycle control and transcription. Journal of Cell Science, 118, 5171–5180. https://doi.org/10.1242/jcs.02718  
+
+Fisher, R. P. (2017). CDK regulation of transcription by RNAP II: not over ‘til it's over? Transcription, 8, 81–90. https://doi.org/10.1080/21541264.2016.1268244  
+
+Hunter, T., & Manning, G. (2015). The eukaryotic protein kinase superfamily and the emergence of receptor tyrosine kinases (pp. 1–6). In Receptor Tyrosine Kinases: Structure, Functions and Role in Human Disease. https://doi.org/10.1007/978-1-4939-2053-2_1  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., … & Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Lolli, G., Lowe, E. D., Brown, N. R., & Johnson, L. N. (2004). The crystal structure of human CDK7 and its protein recognition properties. Structure, 12, 2067–2079. https://doi.org/10.1016/j.str.2004.08.013  
+
+Malumbres, M. (2014). Cyclin-dependent kinases. Genome Biology, 15, 122. https://doi.org/10.1186/gb4184  
+
+Pellarin, I., Dall’Acqua, A., Favero, A., … & Baldassarre, G. (2025). Cyclin-dependent protein kinases and cell cycle regulation in biology and disease. Signal Transduction and Targeted Therapy. https://doi.org/10.1038/s41392-024-02080-z  
+
+Ramani, K. (2020). Structural motifs for selective inhibition of CDK7 (pp. 46–53).

@@ -1,0 +1,45 @@
+## Phylogeny  
+BRSK1 (Brain-selective kinase 1; SAD-B) belongs to the AMP-activated protein kinase (AMPK)-related subfamily of serine/threonine protein kinases. Orthologues are present throughout metazoans, including mammals, Caenorhabditis elegans and Drosophila, indicating descent from a common ancestral AMP-activated kinase (Bright et al., 2008).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Bright et al., 2008).
+
+## Cofactor Requirements  
+Mg²⁺ is essential for ATP coordination and catalysis (Bright et al., 2008).
+
+## Substrate Specificity  
+Known cellular substrates include CDC25B, CDC25C, MAPT/TAU (Thr 529, Ser 579), RIMS1, γ-tubulins TUBG1 and TUBG2, and WEE1 (Ser 642). Although a strict consensus motif has not been established, BRSK1 targets serine or threonine residues embedded in sequence contexts that support efficient recognition (Bright et al., 2008).
+
+## Structure  
+The protein comprises:  
+• N-terminal kinase domain with GxGxxG glycine-rich loop, VAIK catalytic lysine motif and activation loop Thr 189.  
+• Adjacent ubiquitin-associated (UBA) domain that contributes to regulatory conformations.  
+• Central proline-rich region.  
+• C-terminal KA1 domain containing an autoinhibitory sequence.  
+
+An atypical CPE (rather than APE) motif in the activation segment introduces redox-sensitive cysteines capable of forming intramolecular disulfide bonds. AlphaFold and biochemical data show a catalytic core stabilized by a hydrophobic spine and an ordered C-helix, with surrounding regulatory domains modulating activity (Bendzunas et al., 2025).
+
+## Regulation  
+• Phosphorylation: Constitutively active LKB1 phosphorylates Thr 189 in the activation loop, switching the kinase on (Bright et al., 2008).  
+• Redox control: Reducing agents (e.g., DTT) enhance, whereas oxidizing agents (e.g., H₂O₂) inhibit activity through reversible oxidation of conserved cysteines that form disulfide bonds and restrain the catalytic conformation (Bendzunas et al., 2025).
+
+## Function  
+Enriched in brain tissue, BRSK1 integrates metabolic and redox cues to coordinate:  
+• Neuronal polarity and axon specification via MAPT/TAU phosphorylation.  
+• Cell-cycle checkpoint responses in neurons through CDC25B/C and WEE1.  
+• Centrosome duplication and γ-tubulin complex translocation by modifying TUBG1/TUBG2.  
+• Neurotransmitter release by phosphorylating RIMS1.  
+Upstream activator: LKB1; downstream effects: modulation of neuronal development, synaptic transmission and cell-cycle control (Bright et al., 2008; Bendzunas et al., 2025).
+
+## Inhibitors  
+No highly selective inhibitors are currently available. The AMPK-related kinase inhibitor GW296115, which inhibits BRSK2, is suggested as a potential starting point for BRSK1 inhibitor development (Tamir et al., 2020).
+
+## Other Comments  
+Dysregulation of BRSK1 activity may contribute to neurodegeneration (via aberrant TAU phosphorylation) and to cell-cycle defects. While direct BRSK1 disease mutations are not documented, alterations in the upstream kinase LKB1 are associated with cancer, implicating BRSK1 signaling in related pathologies (Bright et al., 2008; Bendzunas et al., 2025).
+
+## References  
+Bendzunas, G. N., Byrne, D. P., Shrestha, S., Daly, L. A., Oswald, S. O., Katiyar, S., Venkat, A., Yeung, W., Eyers, C. E., Eyers, P. A., & Kannan, N. (2025). Redox regulation and dynamic control of brain-selective kinases BRSK1/2 in the AMPK family through cysteine-based mechanisms. eLife. https://doi.org/10.7554/eLife.92536.4  
+
+Bright, N. J., Carling, D., & Thornton, C. (2008). Investigating the regulation of brain-specific kinases 1 and 2 by phosphorylation. Journal of Biological Chemistry, 283, 14946–14954. https://doi.org/10.1074/jbc.M710381200  
+
+Tamir, T. Y., Bowman, B. M., Agajanian, M. J., Goldfarb, D., Schrank, T. P., Stohrer, T., Hale, A. E., Siesser, P. F., Weir, S. J., Murphy, R. M., LaPak, K. M., Weissman, B. E., Moorman, N. J., & Major, M. B. (2020). Gain-of-function genetic screen of the kinome reveals BRSK2 as an inhibitor of the NRF2 transcription factor. Journal of Cell Science. https://doi.org/10.1242/jcs.241356

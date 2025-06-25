@@ -1,0 +1,57 @@
+## Phylogeny  
+Ribosomal protein S6 kinase β-2 (gene RPS6KB2; S6K2) belongs to the AGC serine/threonine kinase family and can be traced to the last eukaryotic common ancestor. Orthologues occur across metazoans, and the enzyme co-evolved with other TOR-pathway components (TOR, RAPTOR, LST8, PTEN, TSC2). S6K2 is most closely related to S6K1, sharing high sequence identity within the catalytic core while harbouring distinct regulatory termini (Khalil et al., 2024; Magnuson et al., 2012).  
+
+## Reaction Catalyzed  
+ATP + [protein]-L-Ser/L-Thr ⇌ ADP + [protein]-O-phospho-L-Ser/L-Thr + H⁺ (Khalil et al., 2024; Magnuson et al., 2012).  
+
+## Cofactor Requirements  
+Mg²⁺ is essential for ATP binding and catalysis (Magnuson et al., 2012; Pende & Treins, 2014).  
+
+## Substrate Specificity  
+The kinase recognises a consensus RxRxx[pS/T] motif, phosphorylating the embedded Ser or Thr (Yi et al., 2021; Phin et al., 2003).  
+
+## Structure  
+S6K2 adopts the bilobed protein-kinase fold.  
+• N-terminus: TOR-signalling (TOS) motif for RAPTOR/mTORC1 docking.  
+• Catalytic core: highly conserved AGC kinase domain containing the P-loop, catalytic loop and activation segment.  
+• C-terminus: proline-rich stretch followed by a nuclear-localisation signal (NLS); lacks the PDZ-binding motif present in S6K1.  
+Activation requires phosphorylation of the activation loop (Thr-228) and hydrophobic-motif residue (Thr-388), with additional sites in the autoinhibitory segment (Ser-410/417/423) (Khalil et al., 2024; Lee-Fruman et al., 1999; Magnuson et al., 2012).  
+
+## Regulation  
+Full activation proceeds through ordered phosphorylations:  
+1. Relief of autoinhibition via Ser-410/417/423 phosphorylation.  
+2. mTORC1-dependent Thr-388 phosphorylation (rapamycin-sensitive in some contexts).  
+3. PDK1 phosphorylation of Thr-228 in the activation loop.  
+Additional layers include acetylation, ubiquitination and arginine methylation of the NLS by PRMT1/3/6, promoting nuclear retention. PP2A reverses activating phosphorylations and drives cytoplasmic exclusion (Khalil et al., 2024; Myronova, 2016; Phin et al., 2003).  
+
+## Function  
+Acting downstream of mTOR, S6K2 couples growth-factor and nutrient signals to:  
+• Translation: phosphorylates ribosomal protein S6 to enhance 5′TOP mRNA translation.  
+• Cell growth & cycle progression: regulates cell size, proliferation and G1/S transition.  
+• Survival signalling: sustains expression of anti-apoptotic proteins (e.g., Mcl-1, Bcl-xL).  
+Predominantly nuclear localisation distinguishes S6K2 from cytoplasmic S6K1, suggesting roles in nuclear RNA processing. Over-expression or amplification is reported in breast, lung and prostate cancers, contributing to therapeutic resistance. Upstream pathways include PI3K, mTOR and MAPK; downstream effects integrate into pro-growth and pro-survival networks (Khalil et al., 2024; Sridharan & Basu, 2020; Yi et al., 2021).  
+
+## Inhibitors  
+General S6K inhibitors PF-4708671 and LY2584702 favour S6K1 over S6K2. A recently described covalent inhibitor targets a unique cysteine in the S6K2 hinge region and shows high isoform selectivity, though in-cell efficacy data remain limited (Gerstenecker et al., 2021).  
+
+## Other Comments  
+No recurrent disease-causing mutations are established for RPS6KB2; pathogenic relevance stems mainly from deregulated expression/activation. S6K2 also engages alternative routes such as MEAK7-dependent signalling, underscoring functions that are complementary, but not redundant, with S6K1 (Khalil et al., 2024).  
+
+## 9. References  
+Gerstenecker, S., Haarer, L., Schröder, M., Kudolo, M., Schwalm, M. P., Wydra, V., … Gehringer, M. (2021). Discovery of a potent and highly isoform-selective inhibitor of the neglected ribosomal protein S6 kinase beta 2 (S6K2). Cancers, 13, 5133. https://doi.org/10.3390/cancers13205133  
+
+Khalil, M. I., Helal, M., El-Sayed, A. F., El Hajj, R., Holail, J., Houssein, M., Waraky, A., & Pardo, O. E. (2024). S6K2 in focus: signalling pathways, post-translational modifications, and computational analysis. International Journal of Molecular Sciences, 26, 176. https://doi.org/10.3390/ijms26010176  
+
+Lee-Fruman, K. K., Kuo, C. J., Lippincott, J., Terada, N., & Blenis, J. (1999). Characterization of S6K2, a novel kinase homologous to S6K1. Oncogene, 18, 5108–5114. https://doi.org/10.1038/sj.onc.1202894  
+
+Magnuson, B., Ekim, B., & Fingar, D. C. (2012). Regulation and function of ribosomal protein S6 kinase within mTOR signalling networks. Biochemical Journal, 441, 1–21. https://doi.org/10.1042/BJ20110892  
+
+Myronova, O. (2016). The role of the S6K2 splice isoform in mTOR/S6K signalling and cellular functions. (Doctoral dissertation).  
+
+Pende, M., & Treins, C. (2014). Ribosomal protein S6 and S6 kinases. In M. A. Hall (Ed.), Translation and its regulation in cancer biology and medicine (pp. 345–362). Springer. https://doi.org/10.1007/978-94-017-9078-9_16  
+
+Phin, S., Kupferwasser, D., Lam, J., & Lee-Fruman, K. K. (2003). Mutational analysis of ribosomal S6 kinase 2 shows differential regulation of its kinase activity from that of ribosomal S6 kinase 1. Biochemical Journal, 373, 583–591. https://doi.org/10.1042/BJ20021794  
+
+Sridharan, S., & Basu, A. (2020). Distinct roles of mTOR targets S6K1 and S6K2 in breast cancer. International Journal of Molecular Sciences, 21, 1199. https://doi.org/10.3390/ijms21041199  
+
+Yi, Y. W., You, K. S., Park, J.-S., Lee, S.-G., & Seong, Y.-S. (2021). Ribosomal protein S6: a potential therapeutic target against cancer? International Journal of Molecular Sciences, 23, 48. https://doi.org/10.3390/ijms23010048
