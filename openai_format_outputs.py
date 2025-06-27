@@ -8,7 +8,7 @@ from langchain.schema import HumanMessage
 from langchain_openai import ChatOpenAI
 
 # ─── Settings ──────────────────────────────────────────────────────────────────
-EIGHTY_PROFESSORS = True  # True: enable the filter, False: all kinases
+EIGHTY_PROFESSORS = False  # True: enable the filter, False: all kinases
 
 INPUT_DIR   = Path("./futurehouse/outputs")
 OUTPUT_ROOT = Path("./futurehouse/formatted")
@@ -155,7 +155,10 @@ def main() -> None:
         if EIGHTY_PROFESSORS and gene not in gene_to_prof:
             continue
 
-        out_dir = OUTPUT_ROOT / gene_to_prof.get(gene, "")
+        if EIGHTY_PROFESSORS:
+            out_dir = OUTPUT_ROOT / gene_to_prof.get(gene, "")
+        else:
+            out_dir = OUTPUT_ROOT / gene
         out_dir.mkdir(parents=True, exist_ok=True)
 
         safe_gene = sanitize_filename(gene)
