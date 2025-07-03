@@ -1,0 +1,84 @@
+## Phylogeny
+According to the definitive kinome classification by Manning et al. (2002), Ribosomal protein S6 kinase alpha-6 (RSK4) is a serine/threonine kinase belonging to the RSK family within the AGC group of kinases (anjum2008therskfamily pages 4-4, lee2007p90ribosomals6 pages 1-3, wright2023therapeutictargetingof pages 1-3, lee2007p90ribosomals6 pages 10-12). The RSK family originated from a gene fusion event, resulting in a structure where the N-terminal kinase domain (NTKD) is part of the AGC family and the C-terminal kinase domain (CTKD) belongs to the CAMK family (cronin2021theroleof pages 2-4, unknownauthors2023amechanisticapproach pages 34-39). Phylogenetically, RSK4 is more closely related to RSK2 than to RSK3, with RSK1 being the most distant isoform (wright2023therapeutictargetingof pages 1-3). A mouse ortholog of RSK4 has been characterized (myers2004characterizationofmouse pages 1-2).
+
+
+## Reaction Catalyzed
+RSK4 catalyzes the ATP-dependent transfer of a γ-phosphate group to the hydroxyl group of serine or threonine residues on a substrate protein (unknownauthors2023amechanisticapproach pages 27-34, lee2007p90ribosomals6 pages 1-3, anjum2008therskfamily pages 4-4). The reaction proceeds via a dissociative mechanism (unknownauthors2023amechanisticapproach pages 27-34). The chemical reaction is: ATP + [protein]-L-serine/threonine = ADP + [protein]-L-phosphoserine/phosphothreonine.
+
+
+## Cofactor Requirements
+The catalytic activity of RSK4 requires a divalent cation cofactor, typically Mg²⁺, to facilitate phosphoryl transfer (cronin2021theroleof pages 2-4, lee2007p90ribosomals6 pages 10-12, anjum2008therskfamily pages 4-4, xu2021prominentrolesof pages 8-8). An aspartate residue within the conserved DFG motif coordinates the Mg²⁺ ion, which stabilizes the negative charges of ATP's phosphate groups during the reaction (unknownauthors2023amechanisticapproach pages 27-34).
+
+
+## Substrate Specificity
+Based on the comprehensive substrate atlas by Johnson et al. (2023) and related studies, the RSK family, including RSK4, recognizes and phosphorylates serine or threonine residues within specific consensus motifs characterized by basic residues (lee2007p90ribosomals6 pages 1-3). Characterizations of the motif include Arg-X-Arg-X-X-Ser/Thr, [basic residue]-X-[basic residue]-X-[S/T]-Φ (where Φ is a hydrophobic residue), and (Arg/Lys)-(Arg/Lys)-X-Ser/Thr (anjum2008therskfamily pages 4-4, aronchik2014novelpotentand pages 1-2, wright2023therapeutictargetingof pages 3-4). Specifically, arginine residues at positions -3 and -5 relative to the phosphorylation site are critical for recognition (unknownauthors2023amechanisticapproach pages 39-44, xu2021prominentrolesof pages 1-2). Substrate recognition is also influenced by docking interactions at sites distal to the catalytic cleft (cronin2021theroleof pages 2-4, unknownauthors2023amechanisticapproach pages 39-44).
+
+
+## Structure
+RSK4 has a unique dual-domain structure within a single polypeptide, featuring an N-terminal kinase domain (NTKD) from the AGC kinase family that phosphorylates substrates, and a C-terminal kinase domain (CTKD) from the CAMKII family that regulates activation (cronin2021theroleof pages 2-4, anjum2008therskfamily pages 4-4). The two domains are joined by a linker region containing regulatory elements like the Turn Motif (TM) and Hydrophobic Motif (HM) (cronin2021theroleof pages 2-4). The C-terminus also harbors a docking domain (D-domain) for ERK (unknownauthors2019theroleof pages 10-16). Both NTKD and CTKD have a conserved bilobed kinase fold containing key regulatory features, including an activation loop and catalytic and regulatory spines (R-spine and C-spine), which control the kinase's active and inactive conformations (unknownauthors2023amechanisticapproach pages 27-34). Attempts to crystallize full-length RSK4 have failed, but AlphaFold models predict a classical kinase fold for the NTKD (unknownauthors2023amechanisticapproach pages 91-96).
+
+
+## Regulation
+Distinct from other RSK isoforms, RSK4 has high basal or constitutive kinase activity, and its activation is independent of the kinase PDK1 and growth factor stimulation (wright2023therapeutictargetingof pages 1-3, xu2021prominentrolesof pages 1-2, unknownauthors2019theroleof pages 16-20). Activation is initiated by ERK1/2 binding to the C-terminal D-domain and phosphorylating Thr581 within the CTKD activation loop (unknownauthors2023amechanisticapproach pages 39-44, xu2021prominentrolesof pages 2-3). The now-active CTKD phosphorylates Ser389 in the hydrophobic motif, and ERK phosphorylates Ser372 in the linker region (unknownauthors2019theroleof pages 16-20, unknownauthors2023amechanisticapproach pages 39-44). The NTKD is then activated via autophosphorylation at Ser232, enabling it to phosphorylate substrates (cronin2021theroleof pages 2-4, unknownauthors2019theroleof pages 16-20). A negative feedback loop exists where the NTKD autophosphorylates Ser742, which reduces affinity for ERK and leads to its dissociation (unknownauthors2019theroleof pages 16-20).
+
+
+## Function
+RSK4 is expressed in tissues including the brain, heart, kidney, skeletal muscle, and retina, as well as during embryonic development (poomakkoth2016p90ribosomals6 pages 2-4, myers2004characterizationofmouse pages 1-2). It is primarily localized to the cytoplasm (unknownauthors2019theroleof pages 10-16, xu2021prominentrolesof pages 1-2). RSK4 acts downstream of the MAPK/ERK pathway but can also function as an inhibitor of this pathway (anjum2008therskfamily pages 4-4, myers2004characterizationofmouse pages 1-2, lee2007p90ribosomals6 pages 10-12). It participates in the p53 signaling pathway, modulating cell cycle arrest, apoptosis, and cell survival (lee2007p90ribosomals6 pages 10-12, anjum2008therskfamily pages 4-4, lee2007p90ribosomals6 pages 5-6). Known substrates and interaction partners include ERK, p53, DAP kinase, Xbra, and the androgen receptor (AR) (lee2007p90ribosomals6 pages 10-12, anjum2008therskfamily pages 4-4, unknownauthors2023amechanisticapproach pages 175-180). The functional role of RSK4 in cancer is tissue-specific; it acts as an oncogene in prostate and lung cancer while functioning as a tumor suppressor in breast cancer (unknownauthors2023amechanisticapproach pages 175-180).
+
+
+## Inhibitors
+No inhibitors specifically targeting RSK4 have been reported (xu2021prominentrolesof pages 1-2, xu2021prominentrolesof pages 6-7). However, several pan-RSK inhibitors are used experimentally, including NTKD inhibitors like BI-D1870, SL0101, LJH685, and LJI308, and the CTKD inhibitor FMK (aronchik2014novelpotentand pages 1-2, xu2021prominentrolesof pages 6-7). These inhibitors have limitations; BI-D1870 exhibits off-target effects on kinases such as PLK1, and SL0101 has poor stability and in vivo activity (xu2021prominentrolesof pages 6-7). The pan-RSK inhibitor PMD-026 is currently in clinical evaluation (wright2023therapeutictargetingof pages 1-3).
+
+
+## Other Comments
+RSK4 is a candidate gene for X-linked intellectual disability, but this link is inconclusive as a study of 200 patients failed to identify any causative mutations (lee2007p90ribosomals6 pages 10-12, wright2023therapeutictargetingof pages 3-4, cronin2021theroleof pages 2-4). Aberrant RSK4 expression is associated with multiple cancer types, where it can act as either a tumor suppressor or an oncogene (xu2021prominentrolesof pages 1-2, unknownauthors2023amechanisticapproach pages 175-180). For example, its downregulation via methylation is linked to progression of estrogen receptor-positive breast cancer and inhibition of cell proliferation and metastasis (xu2021prominentrolesof pages 7-8, unknownauthors2019theroleof pages 25-30). RSK4 expression has also been implicated in radioresistance and drug resistance in various cancers (xu2021prominentrolesof pages 7-7).
+
+References
+
+1. (anjum2008therskfamily pages 4-4): R. Anjum and J. Blenis. The rsk family of kinases: emerging roles in cellular signalling. Nature Reviews Molecular Cell Biology, 9:747-758, Oct 2008. URL: https://doi.org/10.1038/nrm2509, doi:10.1038/nrm2509. This article has 964 citations and is from a domain leading peer-reviewed journal.
+
+2. (aronchik2014novelpotentand pages 1-2): I. Aronchik, B. Appleton, Stephen Basham, Kenneth Crawford, M. Del Rosario, Laura Doyle, W. Estacio, Jiong Lan, M. Lindvall, C. Luu, E. Ornelas, E. Venetsanakos, C. Shafer, and A. B. Jefferson. Novel potent and selective inhibitors of p90 ribosomal s6 kinase reveal the heterogeneity of rsk function in mapk-driven cancers. Molecular Cancer Research, 12:803-812, Feb 2014. URL: https://doi.org/10.1158/1541-7786.mcr-13-0595, doi:10.1158/1541-7786.mcr-13-0595. This article has 90 citations and is from a peer-reviewed journal.
+
+3. (cronin2021theroleof pages 2-4): Ryan Cronin, G. Brooke, and F. Prischi. The role of the p90 ribosomal s6 kinase family in prostate cancer progression and therapy resistance. Oncogene, 40:3775-3785, May 2021. URL: https://doi.org/10.1038/s41388-021-01810-9, doi:10.1038/s41388-021-01810-9. This article has 31 citations and is from a domain leading peer-reviewed journal.
+
+4. (lee2007p90ribosomals6 pages 1-3): Kwok Y. Lee, Paola A. Bignone, and Trivadi S. Ganesan. P90 ribosomal s6 kinases‐ eclectic members of the human kinome. Signal Transduction, 7:225-239, Jun 2007. URL: https://doi.org/10.1002/sita.200600091, doi:10.1002/sita.200600091. This article has 4 citations and is from a peer-reviewed journal.
+
+5. (lee2007p90ribosomals6 pages 10-12): Kwok Y. Lee, Paola A. Bignone, and Trivadi S. Ganesan. P90 ribosomal s6 kinases‐ eclectic members of the human kinome. Signal Transduction, 7:225-239, Jun 2007. URL: https://doi.org/10.1002/sita.200600091, doi:10.1002/sita.200600091. This article has 4 citations and is from a peer-reviewed journal.
+
+6. (myers2004characterizationofmouse pages 1-2): Andrea Pomrehn Myers, Laura B. Corson, Janet Rossant, and Julie C. Baker. Characterization of mouse <i>rsk4</i> as an inhibitor of fibroblast growth factor-ras-extracellular signal-regulated kinase signaling. Molecular and Cellular Biology, 24:4255-4266, May 2004. URL: https://doi.org/10.1128/mcb.24.10.4255-4266.2004, doi:10.1128/mcb.24.10.4255-4266.2004. This article has 72 citations and is from a domain leading peer-reviewed journal.
+
+7. (unknownauthors2023amechanisticapproach pages 175-180): A mechanistic approach to understand the role of p90 ribosomal S6 kinases in Prostate Cancer
+
+8. (unknownauthors2023amechanisticapproach pages 34-39): A mechanistic approach to understand the role of p90 ribosomal S6 kinases in Prostate Cancer
+
+9. (unknownauthors2023amechanisticapproach pages 39-44): A mechanistic approach to understand the role of p90 ribosomal S6 kinases in Prostate Cancer
+
+10. (unknownauthors2023amechanisticapproach pages 91-96): A mechanistic approach to understand the role of p90 ribosomal S6 kinases in Prostate Cancer
+
+11. (wright2023therapeutictargetingof pages 1-3): Eric B. Wright and Deborah A. Lannigan. Therapeutic targeting of p90 ribosomal s6 kinase. Frontiers in Cell and Developmental Biology, Dec 2023. URL: https://doi.org/10.3389/fcell.2023.1297292, doi:10.3389/fcell.2023.1297292. This article has 11 citations and is from a peer-reviewed journal.
+
+12. (xu2021prominentrolesof pages 1-2): Junpeng Xu, Qingge Jia, Yan Zhang, Yuan Yuan, Tianqi Xu, Kangjie Yu, Jia Chai, Kaijing Wang, Ligang Chen, Tian Xiao, and Mingyang Li. Prominent roles of ribosomal s6 kinase 4 (rsk4) in cancer. Pathology - Research and Practice, 219:153374, Mar 2021. URL: https://doi.org/10.1016/j.prp.2021.153374, doi:10.1016/j.prp.2021.153374. This article has 20 citations.
+
+13. (xu2021prominentrolesof pages 2-3): Junpeng Xu, Qingge Jia, Yan Zhang, Yuan Yuan, Tianqi Xu, Kangjie Yu, Jia Chai, Kaijing Wang, Ligang Chen, Tian Xiao, and Mingyang Li. Prominent roles of ribosomal s6 kinase 4 (rsk4) in cancer. Pathology - Research and Practice, 219:153374, Mar 2021. URL: https://doi.org/10.1016/j.prp.2021.153374, doi:10.1016/j.prp.2021.153374. This article has 20 citations.
+
+14. (xu2021prominentrolesof pages 6-7): Junpeng Xu, Qingge Jia, Yan Zhang, Yuan Yuan, Tianqi Xu, Kangjie Yu, Jia Chai, Kaijing Wang, Ligang Chen, Tian Xiao, and Mingyang Li. Prominent roles of ribosomal s6 kinase 4 (rsk4) in cancer. Pathology - Research and Practice, 219:153374, Mar 2021. URL: https://doi.org/10.1016/j.prp.2021.153374, doi:10.1016/j.prp.2021.153374. This article has 20 citations.
+
+15. (xu2021prominentrolesof pages 7-8): Junpeng Xu, Qingge Jia, Yan Zhang, Yuan Yuan, Tianqi Xu, Kangjie Yu, Jia Chai, Kaijing Wang, Ligang Chen, Tian Xiao, and Mingyang Li. Prominent roles of ribosomal s6 kinase 4 (rsk4) in cancer. Pathology - Research and Practice, 219:153374, Mar 2021. URL: https://doi.org/10.1016/j.prp.2021.153374, doi:10.1016/j.prp.2021.153374. This article has 20 citations.
+
+16. (xu2021prominentrolesof pages 8-8): Junpeng Xu, Qingge Jia, Yan Zhang, Yuan Yuan, Tianqi Xu, Kangjie Yu, Jia Chai, Kaijing Wang, Ligang Chen, Tian Xiao, and Mingyang Li. Prominent roles of ribosomal s6 kinase 4 (rsk4) in cancer. Pathology - Research and Practice, 219:153374, Mar 2021. URL: https://doi.org/10.1016/j.prp.2021.153374, doi:10.1016/j.prp.2021.153374. This article has 20 citations.
+
+17. (lee2007p90ribosomals6 pages 5-6): Kwok Y. Lee, Paola A. Bignone, and Trivadi S. Ganesan. P90 ribosomal s6 kinases‐ eclectic members of the human kinome. Signal Transduction, 7:225-239, Jun 2007. URL: https://doi.org/10.1002/sita.200600091, doi:10.1002/sita.200600091. This article has 4 citations and is from a peer-reviewed journal.
+
+18. (unknownauthors2019theroleof pages 10-16): The role of p90 ribosomal S6 kinases (RSKs) in Steroid signalling
+
+19. (unknownauthors2019theroleof pages 16-20): The role of p90 ribosomal S6 kinases (RSKs) in Steroid signalling
+
+20. (xu2021prominentrolesof pages 7-7): Junpeng Xu, Qingge Jia, Yan Zhang, Yuan Yuan, Tianqi Xu, Kangjie Yu, Jia Chai, Kaijing Wang, Ligang Chen, Tian Xiao, and Mingyang Li. Prominent roles of ribosomal s6 kinase 4 (rsk4) in cancer. Pathology - Research and Practice, 219:153374, Mar 2021. URL: https://doi.org/10.1016/j.prp.2021.153374, doi:10.1016/j.prp.2021.153374. This article has 20 citations.
+
+21. (poomakkoth2016p90ribosomals6 pages 2-4): Noufira Poomakkoth, Aya Issa, Nabeel Abdulrahman, Somaia Gamal Abdelaziz, and Fatima Mraiche. P90 ribosomal s6 kinase: a potential therapeutic target in lung cancer. Journal of Translational Medicine, Jan 2016. URL: https://doi.org/10.1186/s12967-016-0768-1, doi:10.1186/s12967-016-0768-1. This article has 45 citations and is from a peer-reviewed journal.
+
+22. (unknownauthors2019theroleof pages 25-30): The role of p90 ribosomal S6 kinases (RSKs) in Steroid signalling
+
+23. (unknownauthors2023amechanisticapproach pages 27-34): A mechanistic approach to understand the role of p90 ribosomal S6 kinases in Prostate Cancer
+
+24. (wright2023therapeutictargetingof pages 3-4): Eric B. Wright and Deborah A. Lannigan. Therapeutic targeting of p90 ribosomal s6 kinase. Frontiers in Cell and Developmental Biology, Dec 2023. URL: https://doi.org/10.3389/fcell.2023.1297292, doi:10.3389/fcell.2023.1297292. This article has 11 citations and is from a peer-reviewed journal.

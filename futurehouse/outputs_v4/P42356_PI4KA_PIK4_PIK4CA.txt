@@ -1,0 +1,79 @@
+## Phylogeny  
+PI4KA is the α-isoform of the type III phosphatidylinositol 4-kinase sub-family within the phosphoinositide-3-kinase–related kinase (PIKK) branch of the human kinome (dornan2016typeiiiphosphatidylinositol pages 1-2).  
+Type III PI4Ks share closest evolutionary ancestry with class III PI3Ks, retaining the bilobal helical-kinase fold characteristic of the PI3K/PIKK superfamily (burke2023beyondpi3kstargeting pages 7-8).  
+A Saccharomyces cerevisiae ortholog is Stt4, underscoring conservation from yeast to mammals (kumar2024phosphatidylinositol4kinases pages 12-12).  
+Caenorhabditis elegans pifk-1 is a nematode ortholog of PI4KA (kumar2024phosphatidylinositol4kinases pages 12-12).  
+Drosophila melanogaster expresses PI4KIIIα as the insect ortholog (kumar2024phosphatidylinositol4kinases pages 12-12).  
+Danio rerio encodes pi4kaa, a vertebrate ortholog with conserved catalytic motifs (kumar2024phosphatidylinositol4kinases pages 12-12).  
+
+## Reaction Catalyzed  
+ATP + phosphatidylinositol ⇌ ADP + phosphatidylinositol-4-phosphate (boura2015phosphatidylinositol4kinikesfunction pages 2-3).  
+
+## Cofactor Requirements  
+Catalytic turnover requires Mg²⁺, while Mn²⁺ can substitute in vitro (kumar2024phosphatidylinositol4kinases pages 4-6).  
+
+## Substrate Specificity  
+PI4KA selectively phosphorylates membrane-embedded phosphatidylinositol and does not recognize peptide consensus motifs (tai2011ahomogeneousand pages 6-6).  
+
+## Structure  
+The 2 102-residue enzyme comprises an N-terminal proline-rich region (≈1-450), an extensive α-solenoid/ARM scaffold (≈450-1300), a central dimerisation domain (≈1300-1500), a helical sub-domain (≈1500-1600) and a C-terminal bilobal lipid-kinase domain (≈1600-2102) (burke2023beyondpi3kstargeting pages 14-15).  
+Cryo-EM structures of PI4KA bound to TTC7 and FAM126 (PDB 6BQ0, 6BQ1) reveal a dimer of heterotrimers in which the α-solenoid cradles both regulators and positions the kinase domains toward the membrane (burke2018structuralbasisfor pages 11-12).  
+The active site contains Lys1838 in the VAIK motif and Asp1957 in the DRH catalytic loop, flanked by vertebrate-specific Cys1839 and Cys1843 that influence inhibitor binding (kumar2024phosphatidylinositol4kinases pages 12-12).  
+A unique N-lobe helical extension completes the hydrophobic spine and locks the C-helix in a catalytically competent orientation (burke2023beyondpi3kstargeting pages 7-8).  
+The solenoid “horn” (residues 31-59) forms part of a calcineurin docking surface, creating an allosteric interface external to the kinase core (shaw2024structureofcalcineurin pages 4-7).  
+
+## Regulation  
+Stable association with TTC7A/B and FAM126A/B is obligatory for enzymatic activity and membrane recruitment via TTC7 interaction with palmitoylated EFR3A/B (burke2018structuralbasisfor pages 11-12).  
+TMEM150A modulates the dwell time of the PI4KA complex at the plasma membrane, providing an additional regulatory layer (boura2015phosphatidylinositol4kinasesfunction pages 3-4).  
+Calcineurin binds the solenoid horn and FAM126, suggesting phosphatase-coupled conformational control (shaw2024structureofcalcineurin pages 4-7).  
+Phosphorylation at Ser1290 by PKC and CK2 down-regulates catalytic output (kumar2024phosphatidylinositol4kinases pages 12-12).  
+Substitution of Lys1838, Asp1899 or Asp1957 abolishes activity, defining critical catalytic residues (unknownauthors2022functionalimportanceof pages 14-19).  
+Oxidation or covalent modification of Cys1839/Cys1843 near the ATP pocket alters sensitivity to small-molecule inhibitors, indicating redox-responsive regulation (balla2008designofdrugresistant pages 8-9).  
+
+## Function  
+GTEx and Human Protein Atlas datasets show ubiquitous expression with pronounced enrichment in brain and gastrointestinal tissues (burke2023beyondpi3kstargeting pages 14-15).  
+PI4KA generates the dominant plasma-membrane PI4P pool that is converted to PI(4,5)P₂ and PI(3,4,5)P₃, thereby governing membrane identity, actin dynamics and vesicular trafficking (burke2018structuralbasisfor pages 2-2).  
+The PI4P gradient created by PI4KA drives inter-organelle transfer of cholesterol and phosphatidylserine (burke2018structuralbasisfor pages 2-2).  
+Positive-strand RNA viruses, including hepatitis C virus and encephalomyocarditis virus, hijack PI4KA to construct PI4P-rich replication organelles (burke2023beyondpi3kstargeting pages 14-15).  
+Genetic or pharmacological inactivation causes embryonic lethality and acute intestinal degeneration in mice, underscoring essential roles in development and tissue homeostasis (burke2018structuralbasisfor pages 11-12).  
+Pharmacological blockade of PI4KA synergises with KRAS inhibition to suppress growth of KRAS-mutant pancreatic cancer cells (burke2023beyondpi3kstargeting pages 16-17).  
+
+## Inhibitors  
+GSK-A1, a quinazoline derivative, inhibits PI4KA with a reported IC₅₀ of 0.16 nM and >100-fold selectivity over PI4KB and PI4K2A (burke2018structuralbasisfor pages 4-5).  
+Additional quinazoline and 2-aminobenzothiazole series compounds maintain sub-nanomolar potency but exhibit dose-limiting gastrointestinal toxicity in rodents (burke2023beyondpi3kstargeting pages 14-15).  
+PIK93 preferentially targets PI4KB yet inhibits PI4KA at higher concentrations, whereas wortmannin acts as a covalent pan-PI3K/PI4K inhibitor (balla2008designofdrugresistant pages 8-9).  
+
+## Other Comments  
+Biallelic loss-of-function mutations in PI4KA cause severe neurodevelopmental delay, cortical malformations and spastic paraplegia (burke2023beyondpi3kstargeting pages 14-15).  
+Missense or truncating mutations in TTC7A weaken PI4KA complex formation and result in combined immunodeficiency (burke2018structuralbasisfor pages 11-12).  
+Early reports placed PI4KA at the endoplasmic reticulum, whereas recent cryo-EM and interactome data support primary plasma-membrane anchoring via EFR3–TTC7, constituting an unresolved localisation contradiction (unknownauthors2022functionalimportanceof pages 14-19).
+
+References
+
+1. (burke2018structuralbasisfor pages 11-12): John E. Burke. Structural basis for regulation of phosphoinositide kinases and their involvement in human disease. Molecular Cell, 71:653-673, Sep 2018. URL: https://doi.org/10.1016/j.molcel.2018.08.005, doi:10.1016/j.molcel.2018.08.005. This article has 255 citations and is from a highest quality peer-reviewed journal.
+
+2. (burke2023beyondpi3kstargeting pages 14-15): John E. Burke, Joanna Triscott, Brooke M. Emerling, and Gerald R. V. Hammond. Beyond pi3ks: targeting phosphoinositide kinases in disease. Nature Reviews Drug Discovery, 22:357-386, Nov 2023. URL: https://doi.org/10.1038/s41573-022-00582-5, doi:10.1038/s41573-022-00582-5. This article has 91 citations and is from a highest quality peer-reviewed journal.
+
+3. (kumar2024phosphatidylinositol4kinases pages 4-6): Ravinder Kumar and Piyush Kumar. Phosphatidyl inositol 4-kinases. Encyclopedia, 4:1062-1072, Jun 2024. URL: https://doi.org/10.3390/encyclopedia4030068, doi:10.3390/encyclopedia4030068. This article has 1 citations.
+
+4. (unknownauthors2022functionalimportanceof pages 14-19): Functional importance of the lipid kinase phosphatidylinositol 4-kinase III alpha on cytoskeletal organization and its impact on hepatitis C virus-induced liver …
+
+5. (balla2008designofdrugresistant pages 8-9): Andras Balla, Galina Tuymetova, Balazs Toth, Zsofia Szentpetery, Xiaohang Zhao, Zachary A. Knight, Kevan Shokat, Peter J. Steinbach, and Tamas Balla. Design of drug-resistant alleles of type-iii phosphatidylinositol 4-kinases using mutagenesis and molecular modeling. Biochemistry, 47:1599-1607, Jan 2008. URL: https://doi.org/10.1021/bi7017927, doi:10.1021/bi7017927. This article has 46 citations and is from a peer-reviewed journal.
+
+6. (burke2018structuralbasisfor pages 2-2): John E. Burke. Structural basis for regulation of phosphoinositide kinases and their involvement in human disease. Molecular Cell, 71:653-673, Sep 2018. URL: https://doi.org/10.1016/j.molcel.2018.08.005, doi:10.1016/j.molcel.2018.08.005. This article has 255 citations and is from a highest quality peer-reviewed journal.
+
+7. (burke2023beyondpi3kstargeting pages 16-17): John E. Burke, Joanna Triscott, Brooke M. Emerling, and Gerald R. V. Hammond. Beyond pi3ks: targeting phosphoinositide kinases in disease. Nature Reviews Drug Discovery, 22:357-386, Nov 2023. URL: https://doi.org/10.1038/s41573-022-00582-5, doi:10.1038/s41573-022-00582-5. This article has 91 citations and is from a highest quality peer-reviewed journal.
+
+8. (dornan2016typeiiiphosphatidylinositol pages 1-2): Gillian L. Dornan, Jacob A. McPhail, and John E. Burke. Type iii phosphatidylinositol 4 kinases: structure, function, regulation, signalling and involvement in disease. Biochemical Society transactions, 44 1:260-6, Feb 2016. URL: https://doi.org/10.1042/bst20150219, doi:10.1042/bst20150219. This article has 43 citations and is from a peer-reviewed journal.
+
+9. (shaw2024structureofcalcineurin pages 4-7): Alexandria L. Shaw, Sushant Suresh, Matthew A.H. Parson, Noah J. Harris, Meredith L. Jenkins, Calvin K. Yip, and John E. Burke. Structure of calcineurin bound to pi4ka reveals dual interface in both pi4ka and fam126a. Structure, 32:1973-1983.e6, Nov 2024. URL: https://doi.org/10.1016/j.str.2024.08.007, doi:10.1016/j.str.2024.08.007. This article has 4 citations and is from a domain leading peer-reviewed journal.
+
+10. (tai2011ahomogeneousand pages 6-6): Andrew W. Tai, Naveen Bojjireddy, and T. Balla. A homogeneous and nonisotopic assay for phosphatidylinositol 4-kinases. Analytical biochemistry, 417 1:97-102, Oct 2011. URL: https://doi.org/10.1016/j.ab.2011.05.046, doi:10.1016/j.ab.2011.05.046. This article has 72 citations and is from a peer-reviewed journal.
+
+11. (boura2015phosphatidylinositol4kinasesfunction pages 3-4): Evzen Boura and Radim Nencka. Phosphatidylinositol 4-kinases: function, structure, and inhibition. Experimental Cell Research, 337:136-145, Oct 2015. URL: https://doi.org/10.1016/j.yexcr.2015.03.028, doi:10.1016/j.yexcr.2015.03.028. This article has 172 citations and is from a peer-reviewed journal.
+
+12. (burke2018structuralbasisfor pages 4-5): John E. Burke. Structural basis for regulation of phosphoinositide kinases and their involvement in human disease. Molecular Cell, 71:653-673, Sep 2018. URL: https://doi.org/10.1016/j.molcel.2018.08.005, doi:10.1016/j.molcel.2018.08.005. This article has 255 citations and is from a highest quality peer-reviewed journal.
+
+13. (burke2023beyondpi3kstargeting pages 7-8): John E. Burke, Joanna Triscott, Brooke M. Emerling, and Gerald R. V. Hammond. Beyond pi3ks: targeting phosphoinositide kinases in disease. Nature Reviews Drug Discovery, 22:357-386, Nov 2023. URL: https://doi.org/10.1038/s41573-022-00582-5, doi:10.1038/s41573-022-00582-5. This article has 91 citations and is from a highest quality peer-reviewed journal.
+
+14. (kumar2024phosphatidylinositol4kinases pages 12-12): Ravinder Kumar and Piyush Kumar. Phosphatidyl inositol 4-kinases. Encyclopedia, 4:1062-1072, Jun 2024. URL: https://doi.org/10.3390/encyclopedia4030068, doi:10.3390/encyclopedia4030068. This article has 1 citations.

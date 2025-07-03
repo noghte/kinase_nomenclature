@@ -1,0 +1,98 @@
+## Phylogeny  
+• Assigned to the CAMK group, DCLK subfamily in comparative kinome phylogeny analyses (venkat2023mechanisticandevolutionary pages 1-1)  
+• Human paralogs DCLK2 and DCLK3 retain tandem DCX domains and a homologous kinase domain (ramkumar2018remappingthemicrotubule pages 17-19)  
+• High sequence conservation is documented for orthologs in Mus musculus and Rattus norvegicus (dijkmans2010thedoublecortingene pages 10-11)  
+• Danio rerio dclk2 shows ~60 % identity within the PEST linker to human DCLK1, illustrating vertebrate conservation (carli2023structureguidedpredictionof pages 8-9)  
+• DCX superfamily phylogeny identifies related genes in Xenopus and Drosophila, situating DCLK1 in an ancient DCX clade (reiner2006theevolvingdoublecortin pages 4-7)  
+
+## Reaction Catalyzed  
+• ATP + protein-Ser/Thr → ADP + protein-Ser/Thr-phosphate (dijkmans2010thedoublecortingene pages 1-2)  
+
+## Cofactor Requirements  
+• Catalytic activity requires Mg²⁺ or Mn²⁺ ions (chen2023molecularmechanismof pages 17-17)  
+• Kinase activity is calmodulin-independent despite its CAMK-like fold (dijkmans2010thedoublecortingene pages 11-12)  
+
+## Substrate Specificity  
+• Basophilic Ser/Thr kinase preferring Arg/Lys at –3/–2 and a hydrophobic residue at +1, as defined by kinome-wide peptide arrays (johnson2023anatlasof pages 1-2)  
+• Synthetic peptide assays identified a Hyd-Arg-X-X-Ser/Thr-Hyd consensus similar to CaMKI substrates (dijkmans2010thedoublecortingene pages 10-11)  
+• Phosphorylates MAP7D1 at Ser315 to promote axon elongation (koizumi2017dclk1phosphorylatesthe pages 10-15)  
+• Directly phosphorylates IKKβ at Ser177/Ser181, linking to NF-κB signaling (carli2023structureguidedpredictionof pages 9-11)  
+• Phosphoproteomics uncovered nuclear substrates TOP2B, CDK11B and MATR3 regulated by DCLK1 (liu2020chemicalbiologytoolkit pages 7-9)  
+
+## Structure  
+• Domain layout: DC1 (1–152) – DC2 (180–263) – disordered PEST linker (283–381) – kinase domain (382–648) – autoinhibitory C-tail (649–740) (carli2023structureguidedpredictionof pages 8-9)  
+• 1.7 Å crystal structure of the kinase domain (PDB 5JZJ) shows an active DFG-in state with canonical VAIK K419, HRD D511 and DFG D533 motifs (patel2016biochemicalandstructural pages 3-4)  
+• Structure including the C-tail (PDB 6KYQ) reveals R1–R3 helices occluding the ATP pocket via a K692–D533 salt bridge, enforcing autoinhibition (carli2023structureguidedpredictionof pages 8-9)  
+• Activation-loop Thr546 coordinates a sulfate ion mimicking phosphorylation, defining catalytic regulation (patel2016biochemicalandstructural pages 3-4)  
+• AlphaFold modelling supports extensive disorder in linker regions and preserves the autoinhibited kinase conformation (agulto2021autoregulatorycontrolof pages 2-4)  
+
+## Regulation  
+• Autophosphorylation of Thr546 within the activation loop increases catalytic activity (patel2016biochemicalandstructural pages 3-4)  
+• Intramolecular phosphorylation of DC domains diminishes microtubule affinity (rogers2020autoregulatorycontrolof pages 3-5)  
+• CDK5 phosphorylates PEST-region Ser297, modulating subcellular localization (carli2023structureguidedpredictionof pages 8-9)  
+• ERK1 targets an N-terminal cluster including Ser22 and Thr44, integrating MAPK input (dijkmans2010thedoublecortingene pages 9-10)  
+• JNK1 phosphorylates Thr321, Thr331 and Ser334 in the PEST linker, contributing to cytoskeletal regulation (carli2023structureguidedpredictionof pages 8-9)  
+• Ca²⁺-dependent binding of HPCAL1 to the C-tail displaces autoinhibition and activates the kinase (carli2023structureguidedpredictionof pages 9-11)  
+• Calpain/caspase cleavage within the PEST linker releases constitutively active kinase fragments during apoptosis (dijkmans2010thedoublecortingene pages 8-9)  
+
+## Function  
+• Highly expressed in developing and mature neurons, concentrating at distal dendrites and growth cones (ramkumar2018remappingthemicrotubule pages 17-19)  
+• Phosphorylation of MAP7D1-Ser315 by DCLK1 drives callosal axon elongation (koizumi2017dclk1phosphorylatesthe pages 22-27)  
+• SP-domain YLPL motif recruits AP-1/AP-2 and dynein for clathrin-mediated vesicle trafficking (dijkmans2010thedoublecortingene pages 8-9)  
+• Over-expression in colorectal, pancreatic, gastric and head-and-neck cancers correlates with EMT and cancer stem-cell traits (carli2023structureguidedpredictionof pages 16-17)  
+• Kinase activity modulates RNA-processing factors, linking DCLK1 to nuclear RNA metabolism (liu2020chemicalbiologytoolkit pages 7-9)  
+
+## Inhibitors  
+• DCLK1-IN-1 inhibits DCLK1 with IC₅₀ ≈ 17 nM and Kd ≈ 109 nM, exhibiting high selectivity (ferguson2020discoveryofa pages 1-5)  
+• Gatekeeper mutation G532A confers resistance to DCLK1-IN-1, validating on-target inhibition (liu2020chemicalbiologytoolkit pages 7-9)  
+• XMD8-92 displays low-nanomolar biochemical potency but lacks kinome selectivity (ferguson2020discoveryofa pages 1-5)  
+• DiFiD has been reported as a small-molecule inhibitor of DCLK1 in cancer models (carli2023structureguidedpredictionof pages 16-17)  
+
+## Other Comments  
+• Somatic mutations in DC domains, PEST linker and C-tail are frequent in gastrointestinal cancers and impair microtubule binding or stability (carli2023structureguidedpredictionof pages 9-11)  
+• Cancer-associated A686T and G681E mutations disrupt the K692-D533 autoinhibitory interaction, increasing kinase flexibility (chen2023molecularmechanismof pages 10-13)  
+• Catalytic-dead D511N mutant enhances microtubule polymerization, evidencing inverse coupling between kinase activity and microtubule binding (patel2016biochemicalandstructural pages 3-4)
+
+References
+
+1. (agulto2021autoregulatorycontrolof pages 2-4): Regina L. Agulto, Melissa M. Rogers, Tracy C. Tan, Amrita Ramkumar, Ashlyn M Downing, Hannah Bodin, Julia Castro, D. W. Nowakowski, and K. Ori-McKenney. Autoregulatory control of microtubule binding in doublecortin-like kinase 1. eLife, Feb 2021. URL: https://doi.org/10.1016/j.bpj.2020.11.336, doi:10.1016/j.bpj.2020.11.336. This article has 26 citations and is from a domain leading peer-reviewed journal.
+
+2. (carli2023structureguidedpredictionof pages 8-9): Anna Carli, J. Hardy, Hanadi Hoblos, M. Ernst, I. Lucet, and M. Buchert. Structure-guided prediction of the functional impact of dclk1 mutations on tumorigenesis. Biomedicines, Mar 2023. URL: https://doi.org/10.3390/biomedicines11030990, doi:10.3390/biomedicines11030990. This article has 2 citations and is from a peer-reviewed journal.
+
+3. (chen2023molecularmechanismof pages 10-13): Weizhi Chen, Rui Liu, Yamei Yu, Dongqing Wei, Qiang Chen, and Qin Xu. Molecular mechanism of mutational disruption of dclk1 autoinhibition provides a rationale for inhibitor screening. International Journal of Molecular Sciences, Sep 2023. URL: https://doi.org/10.3390/ijms241814020, doi:10.3390/ijms241814020. This article has 0 citations and is from a peer-reviewed journal.
+
+4. (dijkmans2010thedoublecortingene pages 1-2): T. Dijkmans, Leonarda Wilhelmina Antonia van Hooijdonk, C. Fitzsimons, and E. Vreugdenhil. The doublecortin gene family and disorders of neuronal structure. Central Nervous System Agents in Medicinal Chemistry, 10:32-46, Mar 2010. URL: https://doi.org/10.2174/187152410790780118, doi:10.2174/187152410790780118. This article has 80 citations and is from a peer-reviewed journal.
+
+5. (dijkmans2010thedoublecortingene pages 10-11): T. Dijkmans, Leonarda Wilhelmina Antonia van Hooijdonk, C. Fitzsimons, and E. Vreugdenhil. The doublecortin gene family and disorders of neuronal structure. Central Nervous System Agents in Medicinal Chemistry, 10:32-46, Mar 2010. URL: https://doi.org/10.2174/187152410790780118, doi:10.2174/187152410790780118. This article has 80 citations and is from a peer-reviewed journal.
+
+6. (dijkmans2010thedoublecortingene pages 8-9): T. Dijkmans, Leonarda Wilhelmina Antonia van Hooijdonk, C. Fitzsimons, and E. Vreugdenhil. The doublecortin gene family and disorders of neuronal structure. Central Nervous System Agents in Medicinal Chemistry, 10:32-46, Mar 2010. URL: https://doi.org/10.2174/187152410790780118, doi:10.2174/187152410790780118. This article has 80 citations and is from a peer-reviewed journal.
+
+7. (dijkmans2010thedoublecortingene pages 9-10): T. Dijkmans, Leonarda Wilhelmina Antonia van Hooijdonk, C. Fitzsimons, and E. Vreugdenhil. The doublecortin gene family and disorders of neuronal structure. Central Nervous System Agents in Medicinal Chemistry, 10:32-46, Mar 2010. URL: https://doi.org/10.2174/187152410790780118, doi:10.2174/187152410790780118. This article has 80 citations and is from a peer-reviewed journal.
+
+8. (liu2020chemicalbiologytoolkit pages 7-9): Yan Liu, F. Ferguson, Lianbo Li, Miljan Kuljanin, Caitlin E. Mills, K. Subramanian, W. Harshbarger, S. Gondi, Jinhua Wang, P. Sorger, J. Mancias, N. Gray, and K. Westover. Chemical biology toolkit for dclk1 reveals connection to rna processing. Cell chemical biology, Aug 2020. URL: https://doi.org/10.1016/j.chembiol.2020.07.011, doi:10.1016/j.chembiol.2020.07.011. This article has 22 citations and is from a domain leading peer-reviewed journal.
+
+9. (patel2016biochemicalandstructural pages 3-4): O. Patel, Weiwen Dai, M. Mentzel, M. Griffin, Juliette Serindoux, Yoann Gay, S. Fischer, S. Sterle, Ashleigh Kropp, C. Burns, M. Ernst, M. Buchert, and I. Lucet. Biochemical and structural insights into doublecortin-like kinase domain 1. Structure, 24 9:1550-61, Sep 2016. URL: https://doi.org/10.1016/j.str.2016.07.008, doi:10.1016/j.str.2016.07.008. This article has 66 citations and is from a domain leading peer-reviewed journal.
+
+10. (ramkumar2018remappingthemicrotubule pages 17-19): Amrita Ramkumar, Brigette Y. Jong, and Kassandra M. Ori‐McKenney. Remapping the microtubule landscape: how phosphorylation dictates the activities of microtubule‐associated proteins. Developmental Dynamics, Jan 2018. URL: https://doi.org/10.1002/dvdy.24599, doi:10.1002/dvdy.24599. This article has 202 citations and is from a peer-reviewed journal.
+
+11. (venkat2023mechanisticandevolutionary pages 1-1): Aarya Venkat, Grace Watterson, D. Byrne, Brady O’Boyle, Safal Shrestha, Nathan Gravel, Emma E Fairweather, Leonard A. Daly, Claire Bunn, Wayland Yeung, Ishan Aggarwal, Samiksha Katiyar, C. Eyers, P. Eyers, and N. Kannan. Mechanistic and evolutionary insights into isoform-specific ‘supercharging’ in dclk family kinases. eLife, Oct 2023. URL: https://doi.org/10.7554/elife.87958, doi:10.7554/elife.87958. This article has 8 citations and is from a domain leading peer-reviewed journal.
+
+12. (carli2023structureguidedpredictionof pages 16-17): Anna Carli, J. Hardy, Hanadi Hoblos, M. Ernst, I. Lucet, and M. Buchert. Structure-guided prediction of the functional impact of dclk1 mutations on tumorigenesis. Biomedicines, Mar 2023. URL: https://doi.org/10.3390/biomedicines11030990, doi:10.3390/biomedicines11030990. This article has 2 citations and is from a peer-reviewed journal.
+
+13. (carli2023structureguidedpredictionof pages 9-11): Anna Carli, J. Hardy, Hanadi Hoblos, M. Ernst, I. Lucet, and M. Buchert. Structure-guided prediction of the functional impact of dclk1 mutations on tumorigenesis. Biomedicines, Mar 2023. URL: https://doi.org/10.3390/biomedicines11030990, doi:10.3390/biomedicines11030990. This article has 2 citations and is from a peer-reviewed journal.
+
+14. (chen2023molecularmechanismof pages 17-17): Weizhi Chen, Rui Liu, Yamei Yu, Dongqing Wei, Qiang Chen, and Qin Xu. Molecular mechanism of mutational disruption of dclk1 autoinhibition provides a rationale for inhibitor screening. International Journal of Molecular Sciences, Sep 2023. URL: https://doi.org/10.3390/ijms241814020, doi:10.3390/ijms241814020. This article has 0 citations and is from a peer-reviewed journal.
+
+15. (dijkmans2010thedoublecortingene pages 11-12): T. Dijkmans, Leonarda Wilhelmina Antonia van Hooijdonk, C. Fitzsimons, and E. Vreugdenhil. The doublecortin gene family and disorders of neuronal structure. Central Nervous System Agents in Medicinal Chemistry, 10:32-46, Mar 2010. URL: https://doi.org/10.2174/187152410790780118, doi:10.2174/187152410790780118. This article has 80 citations and is from a peer-reviewed journal.
+
+16. (ferguson2020discoveryofa pages 1-5): F. Ferguson, Behnam Nabet, Srivatsan Raghavan, Srivatsan Raghavan, Yan Liu, Alan L. Leggett, Miljan Kuljanin, R. Kalekar, R. Kalekar, Annan Yang, Annan Yang, Shuning He, Jinhua Wang, Raymond W.S. Ng, Raymond W.S. Ng, Rita Sulahian, Lianbo Li, Emily J Poulin, Ling Huang, Jošt Vrabič Koren, Nora Diéguez-Martínez, Sergio Espinosa, Zhiyang Zeng, Cesear R. Corona, J. Vasta, R. Ohi, Taebo Sim, N. Kim, W. Harshbarger, W. Harshbarger, J. Lizcano, M. Robers, Senthil Muthaswamy, Charles Y. Lin, A. Look, K. Haigis, J. Mancias, B. Wolpin, Andrew J. Aguirre, Andrew J. Aguirre, William C. Hahn, William C. Hahn, K. Westover, and N. Gray. Discovery of a selective inhibitor of doublecortin like kinase 1. Nature chemical biology, 16:635-643, Mar 2020. URL: https://doi.org/10.1038/s41589-020-0506-0, doi:10.1038/s41589-020-0506-0. This article has 100 citations and is from a highest quality peer-reviewed journal.
+
+17. (koizumi2017dclk1phosphorylatesthe pages 10-15): Hiroyuki Koizumi, Hiromi Fujioka, Kazuya Togashi, James Thompson, John R. Yates, Joseph G. Gleeson, and Kazuo Emoto. Dclk1 phosphorylates the microtubule‐associated protein map7d1 to promote axon elongation in cortical neurons. Developmental Neurobiology, Apr 2017. URL: https://doi.org/10.1002/dneu.22428, doi:10.1002/dneu.22428. This article has 47 citations and is from a peer-reviewed journal.
+
+18. (reiner2006theevolvingdoublecortin pages 4-7): Orly Reiner, Frédéric M Coquelle, Bastian Peter, Talia Levy, Anna Kaplan, Tamar Sapir, Irit Orr, Naama Barkai, Gregor Eichele, and Sven Bergmann. The evolving doublecortin (dcx) superfamily. BMC Genomics, 7:188-188, Jul 2006. URL: https://doi.org/10.1186/1471-2164-7-188, doi:10.1186/1471-2164-7-188. This article has 147 citations and is from a peer-reviewed journal.
+
+19. (johnson2023anatlasof pages 1-2): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+20. (koizumi2017dclk1phosphorylatesthe pages 22-27): Hiroyuki Koizumi, Hiromi Fujioka, Kazuya Togashi, James Thompson, John R. Yates, Joseph G. Gleeson, and Kazuo Emoto. Dclk1 phosphorylates the microtubule‐associated protein map7d1 to promote axon elongation in cortical neurons. Developmental Neurobiology, Apr 2017. URL: https://doi.org/10.1002/dneu.22428, doi:10.1002/dneu.22428. This article has 47 citations and is from a peer-reviewed journal.
+
+21. (rogers2020autoregulatorycontrolof pages 3-5): Melissa M. Rogers, Amrita Ramkumar, Ashlyn M Downing, Hannah Bodin, Julia Castro, D. W. Nowakowski, and K. Ori-McKenney. Autoregulatory control of microtubule binding in the oncogene, doublecortin-like kinase 1. bioRxiv, Jun 2020. URL: https://doi.org/10.1101/2020.06.12.149252, doi:10.1101/2020.06.12.149252. This article has 1 citations.

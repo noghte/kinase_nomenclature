@@ -1,0 +1,91 @@
+## Phylogeny  
+• Member of the CMGC kinase group, cyclin-dependent kinase family; clusters most closely with CDK6 and CDK2 on the basis of catalytic-domain sequence and regulatory architecture (wood2018structuralinsightsinto pages 1-2).  
+• Orthologs are reported throughout vertebrates (e.g., Mus musculus Cdk4) and share 35–65 % identity with the yeast CDC2 prototype, indicating deep conservation across eukaryotes (unknownauthors2011molecularmodellingand pages 21-26).  
+• Active-site and regulatory motifs are conserved among CDK2, CDK4 and CDK6, with solvent dynamics contributing to family-specific inhibitor selectivity (chen2020developmentandstrategies pages 18-19).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr → ADP + [protein]-O-phospho-Ser/Thr (day2009crystalstructureof pages 1-1).  
+
+## Cofactor Requirements  
+No divalent-metal requirement is explicitly documented in the cited literature (day2009crystalstructureof pages 1-1).  
+
+## Substrate Specificity  
+• Prefers serine/threonine residues immediately followed by proline; this S/T-P motif typifies retinoblastoma protein phosphorylation sites (day2009crystalstructureof pages 5-5).  
+• Efficient phosphorylation depends on cyclin D docking interactions that align RB family substrates and SMAD3 with the catalytic cleft (chen2020developmentandstrategies pages 17-18).  
+• The cyclin D hydrophobic groove serves as an auxiliary substrate-recruitment site distinct from that of cyclin A, enabling selective inhibition via groove-binding peptides (liu2010structuralandfunctional pages 1-2).  
+
+## Structure  
+• Canonical bilobal kinase fold: N-terminal β-sheet/G-loop lobe and C-terminal α-helical lobe forming the ATP pocket; activation segment harbours the regulatory Thr172 (takaki2009thestructureof pages 1-1).  
+• Crystal structure of CDK4–cyclin D1 (PDB 2W96, 2.3 Å) shows an inactive conformation despite cyclin binding and T172 phosphorylation, with the C-helix displaced and catalytic spine mis-aligned (day2009crystalstructureof pages 1-1).  
+• INK4 inhibitor interface centres on Arg24; oncogenic R24C abolishes p16^INK4A binding without disrupting the core fold (sager2022therapeuticpotentialof pages 6-7).  
+• A solvent-exposed basic cavity adjacent to Glu144 is unique to CDK4/6 and underlies structure-guided insertion of piperazine moieties that boost inhibitor potency >10-fold (ferrer2006structuralbasisfor pages 3-4).  
+• Cyclin-groove peptide–bound structures delineate key contacts for substrate docking and for cyclin-groove inhibitors (liu2010structuralandfunctional pages 1-2).  
+• Cryo-EM reveals CDK4 in a partially unfolded state within the HSP90–CDC37 chaperone complex prior to cyclin loading (sager2022therapeuticpotentialof pages 7-9).  
+• Molecular dynamics highlight higher conformational flexibility relative to CDK2; ligand binding stabilises β-strand formation adjacent to the active site (zhang2024cdk2andcdk4 pages 13-14).  
+
+## Regulation  
+• Activation requires Thr172 phosphorylation by CDK7 and stress-activated JNKs (takaki2009thestructureof pages 1-1, sager2022therapeuticpotentialof pages 6-7).  
+• Cyclin D1–D3 binding is obligatory for catalytic activity and dictates nuclear localisation (day2009crystalstructureof pages 5-5).  
+• INK4 family proteins (p16^INK4A, p15^INK4B, p18^INK4C, p19^INK4D) bind the Arg24 interface, block cyclin access and distort the ATP pocket (sager2022therapeuticpotentialof pages 6-7).  
+• Cip/Kip regulators (p21^CIP1, p27^KIP1) form ternary complexes that modulate activity; p27 additionally engages allosteric networks influencing inhibitor binding (zhang2025distinctallostericnetworks pages 24-27).  
+• Chaperone control: HSP90–CDC37 stabilises nascent CDK4; CK2 phosphorylation of CDC37-Ser13 is essential for kinase recruitment, and subsequent HSP90 ATP hydrolysis triggers folding; tyrosine phosphorylation events mediate complex dissociation (sager2022therapeuticpotentialof pages 7-9).  
+• Signalling crosstalk: mTORC1 phosphorylates CDK4, while CDK4 reciprocally phosphorylates the mTOR inhibitor TSC2, integrating nutrient status (sager2022therapeuticpotentialof pages 31-34).  
+
+## Function  
+• Drives G₁→S transition by phosphorylating RB1, p107 and p130, releasing E2F transcription factors for S-phase gene expression (day2009crystalstructureof pages 1-1).  
+• Phosphorylates SMAD3, repressing TGF-β signalling in a cell-cycle-dependent manner (chen2020developmentandstrategies pages 17-18).  
+• Broadly expressed in proliferative tissues; activity is induced by mitogenic stimuli and curtailed in quiescence (wood2018structuralinsightsinto pages 18-19).  
+• Cyclin D transcription is promoted by MYC and RAS–MEK–ERK pathways, inhibited by specific microRNAs, and up-regulated under hypoxia via HIF (sager2022therapeuticpotentialof pages 31-34).  
+• Reciprocal regulation with the PI3K–AKT–mTOR axis links CDK4 activity to metabolic cues; CDK4 additionally modulates lysosomal function, autophagy and fatty-acid oxidation (sager2022therapeuticpotentialof pages 4-6).  
+
+## Inhibitors  
+• FDA-approved ATP-competitive inhibitors: palbociclib (PD-0332991), ribociclib (LEE011) and abemaciclib exhibit nanomolar potency and kinome-restricted selectivity for CDK4/6 (chen2020developmentandstrategies pages 18-19).  
+• Dual inhibitor AMG 925 targets FLT3 and CDK4 (chen2020developmentandstrategies pages 17-18).  
+• Natural product fascaplysin shows preferential CDK4 inhibition (chen2020developmentandstrategies pages 18-19).  
+• Structure-guided analogues exploiting the Glu144 cavity markedly enhance potency (ferrer2006structuralbasisfor pages 3-4).  
+• Highly selective CDK4/9 inhibitors with resolved co-crystal structures demonstrate improved kinome profiles (jiang2025elucidatingbindingselectivity pages 20-23).  
+• Cyclin-groove peptides block substrate docking (liu2010structuralandfunctional pages 1-2).  
+• PROTAC-mediated degraders derived from HSP90–CDC37 disruption induce CDK4 loss and cytotoxicity (sager2022therapeuticpotentialof pages 7-9).  
+
+## Other Comments  
+• Frequent oncogenic alterations include gene amplification, translocation or activating point mutations (e.g., R24C) in breast cancer, melanoma, liposarcoma, mantle-cell lymphoma and renal cell carcinoma (day2009crystalstructureof pages 1-1, sager2022therapeuticpotentialof pages 31-34).  
+• Deleterious missense variants Y180H, A205T, R210P and R246C destabilise the kinase or impair inhibitor binding (n.2015analysingtheeffect pages 15-17).  
+• Loss of CDKN2A (p16^INK4A) or RB1 is largely mutually exclusive in tumours and predicts responsiveness to CDK4/6 inhibition (sager2022therapeuticpotentialof pages 6-7).
+
+References
+
+1. (chen2020developmentandstrategies pages 17-18): Pingping Chen, Yinqiu Xu, Xuanyi Li, Hequan Yao, and Kejiang Lin. Development and strategies of cdk4/6 inhibitors. Future Medicinal Chemistry, 12:127-145, Nov 2020. URL: https://doi.org/10.4155/fmc-2019-0062, doi:10.4155/fmc-2019-0062. This article has 13 citations and is from a peer-reviewed journal.
+
+2. (chen2020developmentandstrategies pages 18-19): Pingping Chen, Yinqiu Xu, Xuanyi Li, Hequan Yao, and Kejiang Lin. Development and strategies of cdk4/6 inhibitors. Future Medicinal Chemistry, 12:127-145, Nov 2020. URL: https://doi.org/10.4155/fmc-2019-0062, doi:10.4155/fmc-2019-0062. This article has 13 citations and is from a peer-reviewed journal.
+
+3. (day2009crystalstructureof pages 1-1): Philip J. Day, Anne Cleasby, Ian J. Tickle, Marc O'Reilly, Joe E. Coyle, Finn P. Holding, Rachel L. McMenamin, Jeff Yon, Rajiv Chopra, Christoph Lengauer, and Harren Jhoti. Crystal structure of human cdk4 in complex with a d-type cyclin. Proceedings of the National Academy of Sciences, 106:4166-4170, Mar 2009. URL: https://doi.org/10.1073/pnas.0809645106, doi:10.1073/pnas.0809645106. This article has 278 citations.
+
+4. (day2009crystalstructureof pages 5-5): Philip J. Day, Anne Cleasby, Ian J. Tickle, Marc O'Reilly, Joe E. Coyle, Finn P. Holding, Rachel L. McMenamin, Jeff Yon, Rajiv Chopra, Christoph Lengauer, and Harren Jhoti. Crystal structure of human cdk4 in complex with a d-type cyclin. Proceedings of the National Academy of Sciences, 106:4166-4170, Mar 2009. URL: https://doi.org/10.1073/pnas.0809645106, doi:10.1073/pnas.0809645106. This article has 278 citations.
+
+5. (ferrer2006structuralbasisfor pages 3-4): Jean-Luc Ferrer, Jerome Dupuy, Franck Borel, Lilian Jacquamet, Joseph P. Noel, and Vjekoslav Dulic. Structural basis for the modulation of cdk-dependent/independent activity of cyclin d1. Cell Cycle, 5:2760-2768, Nov 2006. URL: https://doi.org/10.4161/cc.5.23.3506, doi:10.4161/cc.5.23.3506. This article has 24 citations and is from a peer-reviewed journal.
+
+6. (liu2010structuralandfunctional pages 1-2): Shu Liu, Joshua K. Bolger, Lindsay O. Kirkland, Padmavathy N. Premnath, and Campbell McInnes. Structural and functional analysis of cyclin d1 reveals p27 and substrate inhibitor binding requirements. ACS Chemical Biology, 5:1169-1182, Oct 2010. URL: https://doi.org/10.1021/cb1001262, doi:10.1021/cb1001262. This article has 36 citations and is from a domain leading peer-reviewed journal.
+
+7. (sager2022therapeuticpotentialof pages 31-34): Rebecca A. Sager, Sarah J. Backe, Elham Ahanin, Garrett Smith, I. Nsouli, Mark R. Woodford, G. Bratslavsky, D. Bourboulia, and M. Mollapour. Therapeutic potential of cdk4/6 inhibitors in renal cell carcinoma. Nature Reviews Urology, 19:305-320, Mar 2022. URL: https://doi.org/10.1038/s41585-022-00571-8, doi:10.1038/s41585-022-00571-8. This article has 27 citations and is from a domain leading peer-reviewed journal.
+
+8. (sager2022therapeuticpotentialof pages 4-6): Rebecca A. Sager, Sarah J. Backe, Elham Ahanin, Garrett Smith, I. Nsouli, Mark R. Woodford, G. Bratslavsky, D. Bourboulia, and M. Mollapour. Therapeutic potential of cdk4/6 inhibitors in renal cell carcinoma. Nature Reviews Urology, 19:305-320, Mar 2022. URL: https://doi.org/10.1038/s41585-022-00571-8, doi:10.1038/s41585-022-00571-8. This article has 27 citations and is from a domain leading peer-reviewed journal.
+
+9. (sager2022therapeuticpotentialof pages 6-7): Rebecca A. Sager, Sarah J. Backe, Elham Ahanin, Garrett Smith, I. Nsouli, Mark R. Woodford, G. Bratslavsky, D. Bourboulia, and M. Mollapour. Therapeutic potential of cdk4/6 inhibitors in renal cell carcinoma. Nature Reviews Urology, 19:305-320, Mar 2022. URL: https://doi.org/10.1038/s41585-022-00571-8, doi:10.1038/s41585-022-00571-8. This article has 27 citations and is from a domain leading peer-reviewed journal.
+
+10. (sager2022therapeuticpotentialof pages 7-9): Rebecca A. Sager, Sarah J. Backe, Elham Ahanin, Garrett Smith, I. Nsouli, Mark R. Woodford, G. Bratslavsky, D. Bourboulia, and M. Mollapour. Therapeutic potential of cdk4/6 inhibitors in renal cell carcinoma. Nature Reviews Urology, 19:305-320, Mar 2022. URL: https://doi.org/10.1038/s41585-022-00571-8, doi:10.1038/s41585-022-00571-8. This article has 27 citations and is from a domain leading peer-reviewed journal.
+
+11. (takaki2009thestructureof pages 1-1): T. Takaki, A. Echalier, N. R. Brown, T. Hunt, J. A. Endicott, and M. E. M. Noble. The structure of cdk4/cyclin d3 has implications for models of cdk activation. Proceedings of the National Academy of Sciences, 106:4171-4176, Mar 2009. URL: https://doi.org/10.1073/pnas.0809674106, doi:10.1073/pnas.0809674106. This article has 150 citations.
+
+12. (wood2018structuralinsightsinto pages 1-2): Daniel J. Wood and Jane A. Endicott. Structural insights into the functional diversity of the cdk–cyclin family. Open Biology, Sep 2018. URL: https://doi.org/10.1098/rsob.180112, doi:10.1098/rsob.180112. This article has 267 citations and is from a peer-reviewed journal.
+
+13. (wood2018structuralinsightsinto pages 18-19): Daniel J. Wood and Jane A. Endicott. Structural insights into the functional diversity of the cdk–cyclin family. Open Biology, Sep 2018. URL: https://doi.org/10.1098/rsob.180112, doi:10.1098/rsob.180112. This article has 267 citations and is from a peer-reviewed journal.
+
+14. (zhang2024cdk2andcdk4 pages 13-14): Wengang Zhang, Yonglan Liu, Hyunbum Jang, and Ruth Nussinov. Cdk2 and cdk4: cell cycle functions evolve distinct, catalysis-competent conformations, offering drug targets. JACS Au, 4:1911-1927, May 2024. URL: https://doi.org/10.1021/jacsau.4c00138, doi:10.1021/jacsau.4c00138. This article has 14 citations and is from a peer-reviewed journal.
+
+15. (zhang2025distinctallostericnetworks pages 24-27): Wengang Zhang, Devin Bradburn, Gretchen Heidebrink, Yonglan Liu, Hyunbum Jang, Ruth Nussinov, and Mardo Kõivomägi. Distinct allosteric networks in cdk4 and cdk6 in the cell cycle and in drug resistance. bioRxiv, Mar 2025. URL: https://doi.org/10.1101/2025.02.28.640857, doi:10.1101/2025.02.28.640857. This article has 1 citations.
+
+16. (jiang2025elucidatingbindingselectivity pages 20-23): Chenran Jiang, Yuxin Ye, Wei Kang, Jinglei Yang, Zhipeng He, Qixiong Cao, Chenshan Lian, Yajie Xing, Qianqian Yang, Juan Zhao, Shuqiong Pan, Meixi Feng, Chunli Song, Zhihong Liu, Rui Wang, Feng Yin, Yun-Dong Wu, Jiean Chen, and Yong Huang. Elucidating binding selectivity in cyclin-dependent kinases 4, 6, and 9: development of highly potent and selective cdk4/9 inhibitors. Journal of medicinal chemistry, Jan 2025. URL: https://doi.org/10.1021/acs.jmedchem.4c01686, doi:10.1021/acs.jmedchem.4c01686. This article has 2 citations and is from a highest quality peer-reviewed journal.
+
+17. (n.2015analysingtheeffect pages 15-17): N. N., Hailong Zhu, Jiming Liu, K. V, G. C., C. Chakraborty, and Luonan Chen. Analysing the effect of mutation on protein function and discovering potential inhibitors of cdk4: molecular modelling and dynamics studies. PLoS ONE, Aug 2015. URL: https://doi.org/10.1371/journal.pone.0133969, doi:10.1371/journal.pone.0133969. This article has 78 citations and is from a peer-reviewed journal.
+
+18. (unknownauthors2011molecularmodellingand pages 21-26): Molecular modelling and bioinformatics studies of CDK4 and related proteins

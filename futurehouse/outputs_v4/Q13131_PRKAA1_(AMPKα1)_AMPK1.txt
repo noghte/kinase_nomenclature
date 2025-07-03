@@ -1,0 +1,96 @@
+## Phylogeny
+PRKAA1 has conserved orthologs across eukaryotes, including the SNF1 kinase in *Saccharomyces cerevisiae* (steinberg2023newinsightsinto pages 6-9, carling2012ampactivatedproteinkinase pages 1-2, witczak2008ampactivatedproteinkinase pages 13-14). The mammalian α1 and α2 isoforms share approximately 90% sequence identity within the kinase domain (kurumbail2016structureandregulation pages 4-6). Based on the Manning et al. classification, PRKAA1 belongs to the CAMK-like kinase family (steinberg2023newinsightsinto pages 6-9, steinberg2023newinsightsinto pages 9-13, yan2018structureandphysiological pages 14-15). It is also described as a member of the RD (Arg-Asp) kinase family (yan2018structureandphysiological pages 1-4).
+
+
+
+## Reaction Catalyzed
+The enzyme catalyzes the transfer of the γ-phosphate from ATP to serine or threonine residues on target proteins (steinberg2023newinsightsinto pages 6-9, carling2012ampactivatedproteinkinase pages 2-3, yan2018structureandphysiological pages 1-4).
+ATP + protein -> ADP + phosphoprotein (yan2018structureandphysiological pages 1-4, gu2017deconvolutingampactivatedprotein pages 11-13).
+
+
+
+## Cofactor Requirements
+Catalytic activity requires divalent cations, such as Mg²⁺ or Mn²⁺ (steinberg2023newinsightsinto pages 6-9, steinberg2023newinsightsinto pages 9-13, yan2018structureandphysiological pages 1-4). Mg²⁺ is typically used to coordinate ATP in the catalytic site (yan2018structureandphysiological pages 1-4, woods2003identificationofphosphorylation pages 3-4).
+
+
+
+## Substrate Specificity
+PRKAA1 phosphorylates serine/threonine residues within a consensus motif characterized by basic residues N-terminal to the phosphorylation site (johnson2023anatlasof pages 2-3). The optimal substrate motif features a hydrophobic residue (methionine preferred) at the P-5 position, a basic residue (arginine preferred) at P-3, and another hydrophobic residue at P+4 (dale1995similarsubstraterecognition pages 3-4, steinberg2023newinsightsinto pages 9-13). The consensus sequence is generally recognized as [Hydrophobic]-X-Arg/Lys-X-X-Ser/Thr-X-[Hydrophobic] (steinberg2023newinsightsinto pages 6-9). A comprehensive kinome-wide analysis by Johnson et al. placed PRKAA1 into a major motif class that prefers basic residues N-terminal to the phospho-acceptor site (johnson2023anatlasof pages 2-3, johnson2023anatlasof pages 1-2). An example of this motif is L-X-R-X-X-S/T (ducommun2015motifaffinityand pages 4-5).
+
+
+
+## Structure
+PRKAA1 is the catalytic α subunit of the heterotrimeric AMPK complex, which also contains regulatory β and γ subunits (steinberg2023newinsightsinto pages 6-9, carling2012ampactivatedproteinkinase pages 1-2). The α1 subunit consists of an N-terminal kinase domain (KD), an autoinhibitory domain (AID), and a C-terminal regulatory domain that interacts with the other subunits (kurumbail2016structureandregulation pages 4-6, russell2020ampactivatedproteinkinase pages 4-6, carling2012ampactivatedproteinkinase pages 1-2). The KD contains the ATP-binding cleft and key regulatory features, including the activation loop and the αC helix (yan2018structureandphysiological pages 1-4, russell2020ampactivatedproteinkinase pages 4-6). The αC helix is a dynamic structural element whose conformation is critical for activity; it undergoes significant displacement between an autoinhibitory position in the inactive state and a stabilized, active conformation that is required for catalysis (yan2018structureandphysiological pages 14-15, xiao2013structuralbasisof pages 3-4, yan2018structureandphysiological pages 10-12). The β subunit contains a carbohydrate-binding module (CBM) that docks onto the N-lobe of the KD, and the γ subunit contains nucleotide-binding sites that sense the cellular energy status (kurumbail2016structureandregulation pages 4-6, carling2012ampactivatedproteinkinase pages 1-2).
+
+
+
+## Regulation
+PRKAA1 activity is tightly controlled by allosteric regulation and post-translational modifications (steinberg2023newinsightsinto pages 6-9, steinberg2023newinsightsinto pages 9-13).
+
+**Allosteric and Conformational Regulation:**
+Adenine nucleotides binding to the γ subunit allosterically regulate the complex (steinberg2023newinsightsinto pages 6-9). AMP binding induces an activating conformational change, promotes phosphorylation at Thr172, and protects this site from dephosphorylation (steinberg2023newinsightsinto pages 9-13, carling2012ampactivatedproteinkinase pages 2-3). ADP also protects Thr172 from dephosphorylation (carling2012ampactivatedproteinkinase pages 2-3). ATP competes with AMP/ADP and antagonizes activation (steinberg2023newinsightsinto pages 9-13). An autoinhibitory domain (AID) in the α subunit also negatively regulates basal activity (kurumbail2016structureandregulation pages 4-6, russell2020ampactivatedproteinkinase pages 4-6).
+
+**Post-Translational Modification:**
+-   **Phosphorylation:** Full activation requires phosphorylation of Thr172 in the activation loop by the upstream kinases LKB1 and CAMKK2 (steinberg2023newinsightsinto pages 6-9, steinberg2023newinsightsinto pages 9-13, russell2020ampactivatedproteinkinase pages 2-4). Phosphorylation at Ser487 by kinases like AKT can inhibit Thr172 phosphorylation (russell2020ampactivatedproteinkinase pages 4-6).
+-   **Dephosphorylation:** Protein phosphatases, including PP2C family members, PP1, and PP2A, can dephosphorylate Thr172 to inactivate the kinase (carling2012ampactivatedproteinkinase pages 2-3, gu2017deconvolutingampactivatedprotein pages 11-13).
+-   **Ubiquitination:** The kinase can be targeted for degradation via the ubiquitin-proteasome system by E3 ligases like WWP1 (yan2018structureandphysiological pages 14-15).
+
+
+
+## Function
+PRKAA1 is a central component of AMPK, a master sensor of cellular energy homeostasis that is widely expressed in tissues including skeletal muscle, liver, and heart (steinberg2023newinsightsinto pages 6-9, witczak2008ampactivatedproteinkinase pages 3-4).
+
+-   **Upstream/Downstream Signaling:** Activated by upstream kinases LKB1 and CAMKK2, PRKAA1 phosphorylates a broad network of downstream substrates to restore cellular energy balance (steinberg2023newinsightsinto pages 6-9). Key substrates include the metabolic enzymes acetyl-CoA carboxylase (ACC), HMG-CoA reductase, and hormone-sensitive lipase (LIPE), as well as proteins involved in autophagy (ULK1, TFEB) and transcription factors (FOXO3) (steinberg2023newinsightsinto pages 6-9, steinberg2023newinsightsinto pages 9-13).
+-   **Cellular Roles:** AMPK activation inhibits energy-consuming anabolic processes (e.g., synthesis of lipids and carbohydrates) while stimulating energy-producing catabolic pathways (e.g., fatty acid oxidation, glucose uptake) (steinberg2023newinsightsinto pages 9-13, kurumbail2016structureandregulation pages 1-4). It also regulates cell proliferation, autophagy, mitochondrial homeostasis, and lysosomal biogenesis (steinberg2023newinsightsinto pages 6-9).
+
+
+
+## Inhibitors
+Compound C is a well-characterized experimental inhibitor that targets AMPK activity (steinberg2023newinsightsinto pages 6-9, steinberg2023newinsightsinto pages 9-13, witczak2008ampactivatedproteinkinase pages 13-14).
+
+
+
+## Other Comments
+Dysfunction or mutations in AMPK subunits are implicated in various human diseases, including metabolic disorders like type 2 diabetes, cancer, and cardiovascular disease (steinberg2023newinsightsinto pages 6-9, kurumbail2016structureandregulation pages 1-4). For example, mutations in *PRKAG2* (γ2 subunit) cause inherited cardiomyopathies with glycogen storage defects (gu2017deconvolutingampactivatedprotein pages 11-13). In cancer, loss-of-function mutations in the upstream kinase LKB1, a tumor suppressor, can impair AMPK activation and contribute to tumorigenesis (russell2020ampactivatedproteinkinase pages 2-4).
+
+References
+
+1. (steinberg2023newinsightsinto pages 6-9): G. Steinberg and D. Hardie. New insights into activation and function of the ampk. Nature Reviews Molecular Cell Biology, 24:255-272, Oct 2023. URL: https://doi.org/10.1038/s41580-022-00547-x, doi:10.1038/s41580-022-00547-x. This article has 592 citations and is from a domain leading peer-reviewed journal.
+
+2. (steinberg2023newinsightsinto pages 9-13): G. Steinberg and D. Hardie. New insights into activation and function of the ampk. Nature Reviews Molecular Cell Biology, 24:255-272, Oct 2023. URL: https://doi.org/10.1038/s41580-022-00547-x, doi:10.1038/s41580-022-00547-x. This article has 592 citations and is from a domain leading peer-reviewed journal.
+
+3. (xiao2013structuralbasisof pages 3-4): Bing Xiao, Matthew J. Sanders, David Carmena, Nicola J. Bright, Lesley F. Haire, Elizabeth Underwood, Bhakti R. Patel, Richard B. Heath, Philip A. Walker, Stefan Hallen, Fabrizio Giordanetto, Stephen R. Martin, David Carling, and Steven J. Gamblin. Structural basis of ampk regulation by small molecule activators. Nature Communications, Dec 2013. URL: https://doi.org/10.1038/ncomms4017, doi:10.1038/ncomms4017. This article has 598 citations and is from a highest quality peer-reviewed journal.
+
+4. (yan2018structureandphysiological pages 10-12): Yan Yan, X. E. Zhou, H. Xu, and K. Melcher. Structure and physiological regulation of ampk. International Journal of Molecular Sciences, Nov 2018. URL: https://doi.org/10.3390/ijms19113534, doi:10.3390/ijms19113534. This article has 263 citations and is from a peer-reviewed journal.
+
+5. (yan2018structureandphysiological pages 14-15): Yan Yan, X. E. Zhou, H. Xu, and K. Melcher. Structure and physiological regulation of ampk. International Journal of Molecular Sciences, Nov 2018. URL: https://doi.org/10.3390/ijms19113534, doi:10.3390/ijms19113534. This article has 263 citations and is from a peer-reviewed journal.
+
+6. (carling2012ampactivatedproteinkinase pages 1-2): D. Carling, C. Thornton, A. Woods, and M. Sanders. Amp-activated protein kinase: new regulation, new roles? The Biochemical journal, 445 1:11-27, Jul 2012. URL: https://doi.org/10.1042/bj20120546, doi:10.1042/bj20120546. This article has 452 citations.
+
+7. (carling2012ampactivatedproteinkinase pages 2-3): D. Carling, C. Thornton, A. Woods, and M. Sanders. Amp-activated protein kinase: new regulation, new roles? The Biochemical journal, 445 1:11-27, Jul 2012. URL: https://doi.org/10.1042/bj20120546, doi:10.1042/bj20120546. This article has 452 citations.
+
+8. (dale1995similarsubstraterecognition pages 3-4): Susan Dale, Wayne A. Wilson, Arthur M. Edelman, and D.Grahame Hardie. Similar substrate recognition motifs for mammalian amp‐activated protein kinase, higher plant hmg‐coa reductase kinase‐a, yeast snf1, and mammalian calmodulin‐dependent protein kinase i. FEBS Letters, 361:191-195, Mar 1995. URL: https://doi.org/10.1016/0014-5793(95)00172-6, doi:10.1016/0014-5793(95)00172-6. This article has 400 citations and is from a peer-reviewed journal.
+
+9. (gu2017deconvolutingampactivatedprotein pages 11-13): X. Gu, Yan Yan, S. Novick, A. Kovach, Devrishi Goswami, J. Ke, M. Tan, Lili Wang, Xiaodan Li, Parker W. de Waal, M. Webb, P. Griffin, H. Xu, and K. Melcher. Deconvoluting amp-activated protein kinase (ampk) adenine nucleotide binding and sensing. The Journal of Biological Chemistry, 292:12653-12666, Jun 2017. URL: https://doi.org/10.1074/jbc.m117.793018, doi:10.1074/jbc.m117.793018. This article has 68 citations.
+
+10. (johnson2023anatlasof pages 1-2): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+11. (johnson2023anatlasof pages 2-3): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+12. (kurumbail2016structureandregulation pages 1-4): R. Kurumbail and M. Calabrese. Structure and regulation of ampk. Experientia supplementum, 107:3-22, 2016. URL: https://doi.org/10.1007/978-3-319-43589-3\_1, doi:10.1007/978-3-319-43589-3\_1. This article has 51 citations.
+
+13. (kurumbail2016structureandregulation pages 4-6): R. Kurumbail and M. Calabrese. Structure and regulation of ampk. Experientia supplementum, 107:3-22, 2016. URL: https://doi.org/10.1007/978-3-319-43589-3\_1, doi:10.1007/978-3-319-43589-3\_1. This article has 51 citations.
+
+14. (russell2020ampactivatedproteinkinase pages 2-4): Fiona M Russell and D. Hardie. Amp-activated protein kinase: do we need activators or inhibitors to treat or prevent cancer? International Journal of Molecular Sciences, Dec 2020. URL: https://doi.org/10.3390/ijms22010186, doi:10.3390/ijms22010186. This article has 55 citations and is from a peer-reviewed journal.
+
+15. (russell2020ampactivatedproteinkinase pages 4-6): Fiona M Russell and D. Hardie. Amp-activated protein kinase: do we need activators or inhibitors to treat or prevent cancer? International Journal of Molecular Sciences, Dec 2020. URL: https://doi.org/10.3390/ijms22010186, doi:10.3390/ijms22010186. This article has 55 citations and is from a peer-reviewed journal.
+
+16. (witczak2008ampactivatedproteinkinase pages 13-14): C. A. Witczak, C. G. Sharoff, and L. J. Goodyear. Amp-activated protein kinase in skeletal muscle: from structure and localization to its role as a master regulator of cellular metabolism. Cellular and Molecular Life Sciences, 65:3737-3755, Sep 2008. URL: https://doi.org/10.1007/s00018-008-8244-6, doi:10.1007/s00018-008-8244-6. This article has 311 citations and is from a domain leading peer-reviewed journal.
+
+17. (witczak2008ampactivatedproteinkinase pages 3-4): C. A. Witczak, C. G. Sharoff, and L. J. Goodyear. Amp-activated protein kinase in skeletal muscle: from structure and localization to its role as a master regulator of cellular metabolism. Cellular and Molecular Life Sciences, 65:3737-3755, Sep 2008. URL: https://doi.org/10.1007/s00018-008-8244-6, doi:10.1007/s00018-008-8244-6. This article has 311 citations and is from a domain leading peer-reviewed journal.
+
+18. (woods2003identificationofphosphorylation pages 3-4): Angela Woods, Didier Vertommen, Dietbert Neumann, Roland Türk, Jayne Bayliss, Uwe Schlattner, Theo Wallimann, David Carling, and Mark H. Rider. Identification of phosphorylation sites in amp-activated protein kinase (ampk) for upstream ampk kinases and study of their roles by site-directed mutagenesis. Journal of Biological Chemistry, 278:28434-28442, Aug 2003. URL: https://doi.org/10.1074/jbc.m303946200, doi:10.1074/jbc.m303946200. This article has 280 citations and is from a domain leading peer-reviewed journal.
+
+19. (yan2018structureandphysiological pages 1-4): Yan Yan, X. E. Zhou, H. Xu, and K. Melcher. Structure and physiological regulation of ampk. International Journal of Molecular Sciences, Nov 2018. URL: https://doi.org/10.3390/ijms19113534, doi:10.3390/ijms19113534. This article has 263 citations and is from a peer-reviewed journal.
+
+20. (ducommun2015motifaffinityand pages 4-5): S. Ducommun, M. Deák, D. Sumpton, R. Ford, A. Núñez Galindo, M. Kussmann, B. Viollet, G. Steinberg, M. Foretz, L. Dayon, N. Morrice, and K. Sakamoto. Motif affinity and mass spectrometry proteomic approach for the discovery of cellular ampk targets: identification of mitochondrial fission factor as a new ampk substrate. Cellular signalling, 27 5:978-88, May 2015. URL: https://doi.org/10.1016/j.cellsig.2015.02.008, doi:10.1016/j.cellsig.2015.02.008. This article has 194 citations and is from a peer-reviewed journal.

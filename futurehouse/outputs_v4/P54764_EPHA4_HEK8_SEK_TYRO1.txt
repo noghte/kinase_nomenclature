@@ -1,0 +1,97 @@
+## Phylogeny  
+EPHA4 is classified in the Tyrosine Kinase (TK) group, Eph receptor family, EphA subclass of the human kinome (linden2012fragmentbasedlead pages 8-8).  
+Orthologs are documented in Homo sapiens EPHA4, Mus musculus EphA4, Rattus norvegicus EphA4, Branchiostoma floridae Eph receptor, Ciona intestinalis Eph receptor, Nematostella vectensis Eph receptor, Caenorhabditis elegans VAB-1, and Drosophila melanogaster Eph, indicating conservation from basal metazoans to vertebrates (mellott2008themolecularphylogeny pages 5-6). Sponges and choanoflagellates also possess proto-Eph proteins, underscoring the ancient origin of the lineage (bush2022cellularandmolecular pages 9-12). EPHA4 is most closely related to other class-A receptors but uniquely retains cross-class ligand recognition through structural plasticity of its ligand-binding domain (bowden2009structuralplasticityof pages 8-9).  
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + protein-L-tyrosyl phosphate + H⁺ (binns2000phosphorylationoftyrosine pages 1-2).  
+
+## Cofactor Requirements  
+Catalysis requires divalent cations; 10–20 mM Mg²⁺ is obligatory, and Mn²⁺ further supports activity in vitro (binns2000phosphorylationoftyrosine pages 2-2, unknownauthors2021identificationdenouvelles pages 125-128, dionne2018directphosphorylationof pages 22-23).  
+
+## Substrate Specificity  
+• Autophosphorylation sites: juxtamembrane Y596/Y602, activation-loop Y779, SAM-domain Y928 (binns2000phosphorylationoftyrosine pages 1-2, gaitanos2015theephreceptor pages 41-45).  
+• Peptide-array profiling shows high efficiency toward tyrosines in C-terminal SH3 segments of NCK1/2 and in Par3 peptides, favouring pY followed by hydrophobic or proline residues (dionne2018directphosphorylationof pages 22-23, unknownauthors2021identificationdenouvelles pages 125-128).  
+• Working consensus: pY-Φ/Pro-X-Φ (Φ = bulky hydrophobe); a complete kinome-wide motif for EPHA4 has not yet been published (dionne2018directphosphorylationof pages 22-23).  
+
+## Structure  
+Domain layout: extracellular ligand-binding domain (LBD, jelly-roll β-sandwich), cysteine-rich linker, two fibronectin type III repeats, single transmembrane helix, juxtamembrane segment, kinase domain, SAM domain, PDZ-binding motif (qin2008crystalstructureand pages 1-2, gaitanos2015theephreceptor pages 70-73).  
+Kinase domain structures: apo 1.5 Å (PDB 2Y6M) and inhibitor-bound 2.12 Å (PDB 2XYU) show active αC-in/DFG-in conformation; key motifs are K653 (VAIK), H766-R767-D768 (HRD), D784-F785-G786 (DFG), activation-loop Y779 (linden2012fragmentbasedlead pages 6-7).  
+LBD structures (e.g., PDB 3CKH) reveal flexible D-E and J-K loops forming a promiscuous ephrin-binding channel (qin2008crystalstructureand pages 1-2, bowden2009structuralplasticityof pages 8-9).  
+Ectodomain head-to-tail interfaces mediate higher-order clustering (nikolov2013ephephrinrecognitionand pages 16-17).  
+An AlphaFold model (AF-P54764-F1) covers regions lacking crystallographic data (linden2012fragmentbasedlead pages 8-8).  
+
+## Regulation  
+Phosphorylation  
+– Y596/Y602 autophosphorylation relieves juxtamembrane autoinhibition; Y779 phosphorylation elevates k_cat (binns2000phosphorylationoftyrosine pages 1-2, gaitanos2015theephreceptor pages 41-45).  
+– Phospho-Y602 recruits Src-family kinases such as Fyn (gaitanos2015theephreceptor pages 41-45).  
+– EPHA4 and FGFR1 engage in reciprocal trans-phosphorylation (yokote2005transactivationofepha4 pages 2-3).  
+
+Proteolysis  
+Sequential metalloprotease and γ-secretase cleavage down-regulates surface EPHA4 and alters dendritic spine morphology (gaitanos2015theephreceptor pages 41-45).  
+
+Clustering  
+Ligand binding induces ephrin–EPHA4 heterotetramers that polymerise into signalling lattices (nikolov2013ephephrinrecognitionand pages 16-17, gaitanos2015theephreceptor pages 41-45).  
+
+## Function  
+Expression  
+Abundant in developing CNS (hindbrain, corticospinal tract, thalamocortical projections) and adult hippocampus, thyroid, kidney, lung, skeletal muscle, thymus, and vascular smooth muscle (gaitanos2015theephreceptor pages 70-73).  
+
+Upstream ligands  
+Binds ephrin-A1, ‑A2, ‑A3, ‑A4, ‑A5 and ephrin-B2, ‑B3 (gaitanos2015theephreceptor pages 70-73).  
+
+Downstream signalling  
+– Activates RhoA and suppresses Rac1, Rap1, Rap2, modulating integrin-dependent adhesion (gaitanos2015theephreceptor pages 70-73).  
+– Phosphorylates NCK1/2 SH3 domains to remodel adaptor networks (dionne2018directphosphorylationof pages 22-23).  
+– Coordinates with SRC kinases and PLCG1 during growth-cone collapse (unknownauthors2021identificationdenouvelles pages 46-47).  
+
+Physiology  
+Guides corticospinal and thalamocortical axons, segregates motor/sensory projections, and supports synaptic plasticity (gaitanos2015theephreceptor pages 70-73, binns2000phosphorylationoftyrosine pages 1-2).  
+
+## Inhibitors  
+Kinase domain  
+– 6,7,8,9-Tetrahydro-3H-pyrazolo[3,4-c]isoquinolin-1-amine (compound 73), IC₅₀ ≈ 2 µM (linden2012fragmentbasedlead pages 6-7).  
+– Dasatinib, broad-spectrum RTK inhibitor co-crystallised with EPHA4 (linden2012fragmentbasedlead pages 7-8).  
+
+Ligand-binding domain  
+Small-molecule antagonists block the D-E/J-K channel, K_d 20–26 µM (qin2008crystalstructureand pages 1-2).  
+
+Peptides  
+Blocking peptides reduce astrogliosis and enhance axon regeneration (linden2012fragmentbasedlead pages 8-8).  
+
+## Other Comments  
+Over-expressed in colorectal, prostate, and pancreatic cancers (gaitanos2015theephreceptor pages 70-73, linden2012fragmentbasedlead pages 7-8).  
+Acts as a disease modifier in amyotrophic lateral sclerosis; deletion improves axonal regeneration in mouse models (gaitanos2015theephreceptor pages 70-73).
+
+References
+
+1. (binns2000phosphorylationoftyrosine pages 1-2): Kathleen L. Binns, Paul P. Taylor, Frank Sicheri, Tony Pawson, and Sacha J. Holland. Phosphorylation of tyrosine residues in the kinase domain and juxtamembrane region regulates the biological and catalytic activities of eph receptors. Molecular and Cellular Biology, 20:4791-4805, Jul 2000. URL: https://doi.org/10.1128/mcb.20.13.4791-4805.2000, doi:10.1128/mcb.20.13.4791-4805.2000. This article has 298 citations and is from a domain leading peer-reviewed journal.
+
+2. (dionne2018directphosphorylationof pages 22-23): Ugo Dionne, François J. M. Chartier, Yossef López de los Santos, Noémie Lavoie, David N. Bernard, Sara L. Banerjee, François Otis, Kévin Jacquet, Michel G. Tremblay, Mani Jain, S. Bourassa, G. Gish, J. Gagné, G. Poirier, P. Laprise, N. Voyer, C. Landry, N. Doucet, and Nicolas Bisson. Direct phosphorylation of src homology 3 domains by tyrosine kinase receptors disassembles ligand-induced signaling networks. Molecular cell, 70 6:995-1007.e11, Jun 2018. URL: https://doi.org/10.1016/j.molcel.2018.05.013, doi:10.1016/j.molcel.2018.05.013. This article has 44 citations and is from a highest quality peer-reviewed journal.
+
+3. (gaitanos2015theephreceptor pages 41-45): Thomas Gaitanos, Irina Dudanova, Maria Sakkou, Rüdiger Klein, and Sónia Paixão. The eph receptor family. Receptor Tyrosine Kinases: Family and Subfamilies, pages 165-264, Jan 2015. URL: https://doi.org/10.1007/978-3-319-11888-8\_5, doi:10.1007/978-3-319-11888-8\_5. This article has 8 citations.
+
+4. (gaitanos2015theephreceptor pages 70-73): Thomas Gaitanos, Irina Dudanova, Maria Sakkou, Rüdiger Klein, and Sónia Paixão. The eph receptor family. Receptor Tyrosine Kinases: Family and Subfamilies, pages 165-264, Jan 2015. URL: https://doi.org/10.1007/978-3-319-11888-8\_5, doi:10.1007/978-3-319-11888-8\_5. This article has 8 citations.
+
+5. (linden2012fragmentbasedlead pages 6-7): Oscar P J van Linden, C. Farenc, W. Zoutman, L. Hameetman, M. Wijtmans, R. Leurs, C. Tensen, G. Siegal, and I. D. de Esch. Fragment based lead discovery of small molecule inhibitors for the epha4 receptor tyrosine kinase. European journal of medicinal chemistry, 47 1:493-500, 2012. URL: https://doi.org/10.1016/j.ejmech.2011.11.020, doi:10.1016/j.ejmech.2011.11.020. This article has 38 citations and is from a domain leading peer-reviewed journal.
+
+6. (linden2012fragmentbasedlead pages 7-8): Oscar P J van Linden, C. Farenc, W. Zoutman, L. Hameetman, M. Wijtmans, R. Leurs, C. Tensen, G. Siegal, and I. D. de Esch. Fragment based lead discovery of small molecule inhibitors for the epha4 receptor tyrosine kinase. European journal of medicinal chemistry, 47 1:493-500, 2012. URL: https://doi.org/10.1016/j.ejmech.2011.11.020, doi:10.1016/j.ejmech.2011.11.020. This article has 38 citations and is from a domain leading peer-reviewed journal.
+
+7. (linden2012fragmentbasedlead pages 8-8): Oscar P J van Linden, C. Farenc, W. Zoutman, L. Hameetman, M. Wijtmans, R. Leurs, C. Tensen, G. Siegal, and I. D. de Esch. Fragment based lead discovery of small molecule inhibitors for the epha4 receptor tyrosine kinase. European journal of medicinal chemistry, 47 1:493-500, 2012. URL: https://doi.org/10.1016/j.ejmech.2011.11.020, doi:10.1016/j.ejmech.2011.11.020. This article has 38 citations and is from a domain leading peer-reviewed journal.
+
+8. (qin2008crystalstructureand pages 1-2): Haina Qin, Jiahai Shi, R. Noberini, E. Pasquale, and Jianxing Song. Crystal structure and nmr binding reveal that two small molecule antagonists target the high affinity ephrin-binding channel of the epha4 receptor*. Journal of Biological Chemistry, 283:29473-29484, Oct 2008. URL: https://doi.org/10.1074/jbc.m804114200, doi:10.1074/jbc.m804114200. This article has 85 citations and is from a domain leading peer-reviewed journal.
+
+9. (unknownauthors2021identificationdenouvelles pages 125-128): Identification de nouvelles protéines effectrices dans la signalisation des récepteurs Eph
+
+10. (binns2000phosphorylationoftyrosine pages 2-2): Kathleen L. Binns, Paul P. Taylor, Frank Sicheri, Tony Pawson, and Sacha J. Holland. Phosphorylation of tyrosine residues in the kinase domain and juxtamembrane region regulates the biological and catalytic activities of eph receptors. Molecular and Cellular Biology, 20:4791-4805, Jul 2000. URL: https://doi.org/10.1128/mcb.20.13.4791-4805.2000, doi:10.1128/mcb.20.13.4791-4805.2000. This article has 298 citations and is from a domain leading peer-reviewed journal.
+
+11. (bowden2009structuralplasticityof pages 8-9): T. Bowden, A. Aricescu, J. Nettleship, C. Siebold, Nahid Rahman-Huq, R. Owens, David I. Stuart, and E. Jones. Structural plasticity of eph receptor a4 facilitates cross-class ephrin signaling. Structure(London, England:1993), 17:1386-1397, Oct 2009. URL: https://doi.org/10.1016/j.str.2009.07.018, doi:10.1016/j.str.2009.07.018. This article has 120 citations.
+
+12. (mellott2008themolecularphylogeny pages 5-6): Dan O Mellott and Robert D Burke. The molecular phylogeny of eph receptors and ephrin ligands. BMC Cell Biology, 9:27-27, May 2008. URL: https://doi.org/10.1186/1471-2121-9-27, doi:10.1186/1471-2121-9-27. This article has 32 citations.
+
+13. (nikolov2013ephephrinrecognitionand pages 16-17): D. Nikolov, Kai Xu, and J. Himanen. Eph/ephrin recognition and the role of eph/ephrin clusters in signaling initiation. Biochimica et biophysica acta, 1834 10:2160-5, Oct 2013. URL: https://doi.org/10.1016/j.bbapap.2013.04.020, doi:10.1016/j.bbapap.2013.04.020. This article has 141 citations.
+
+14. (yokote2005transactivationofepha4 pages 2-3): Hideyuki Yokote, Koji Fujita, Xuefeng Jing, Takahiro Sawada, Sitai Liang, Li Yao, Xiaomei Yan, Yueqiang Zhang, Joseph Schlessinger, and Kazushige Sakaguchi. Trans-activation of epha4 and fgf receptors mediated by direct interactions between their cytoplasmic domains. Proceedings of the National Academy of Sciences of the United States of America, 102 52:18866-71, Dec 2005. URL: https://doi.org/10.1073/pnas.0509741102, doi:10.1073/pnas.0509741102. This article has 143 citations and is from a highest quality peer-reviewed journal.
+
+15. (bush2022cellularandmolecular pages 9-12): Jeffrey O. Bush. Cellular and molecular mechanisms of eph/ephrin signaling in evolution and development. Current Topics in Developmental Biology, 149:153-201, Jan 2022. URL: https://doi.org/10.1016/bs.ctdb.2022.02.005, doi:10.1016/bs.ctdb.2022.02.005. This article has 12 citations and is from a peer-reviewed journal.
+
+16. (unknownauthors2021identificationdenouvelles pages 46-47): Identification de nouvelles protéines effectrices dans la signalisation des récepteurs Eph

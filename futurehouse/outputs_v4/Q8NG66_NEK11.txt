@@ -1,0 +1,72 @@
+## Phylogeny
+NEK11 is a member of the NIMA-related kinase (NEK) family, a group of serine/threonine kinases with 11 identified members in humans (fry2012cellcycleregulation pages 1-3, moniz2011nekfamilyof pages 1-3). According to the kinome classification by Manning et al., the NEK family is assigned to the 'Other' group of kinases, distinct from major groups like CMGC or AGC (kooij2019comprehensivesubstratespecificity pages 34-36, kooij2019comprehensivesubstratespecificity pages 39-40). However, a contradiction exists within the provided literature, as several sources classify the NEK family within the CMGC group (fry2012cellcycleregulation pages 1-3, oliveira2020checkingneksovercoming pages 20-22, pavan2021onbrokenne(c)ks pages 20-21). NEK11 orthologs are conserved in eukaryotes such as yeast and aspergillus (bachus2022inmitosisyou pages 33-34, bachus2022inmitosisyou pages 34-34). Within its family, NEK11 shows high sequence similarity to NEK4, and NEK11-related kinases have not been identified in *C. elegans* or *D. melanogaster*, suggesting this subfamily appeared after the deuterostome lineage separation (unknownauthors2014“stopne(c) pages 10-11).
+
+
+## Reaction Catalyzed
+The standard kinase reaction catalyzed by NEK11 is: ATP + [a protein-L-serine] = ADP + [a protein-L-serine phosphate] (kooij2019comprehensivesubstratespecificity pages 1-5, kooij2019comprehensivesubstratespecificity pages 34-36, kooij2019comprehensivesubstratespecificity pages 44-45).
+
+
+## Cofactor Requirements
+The catalytic activity of NEK11 requires a divalent cation, such as Mg²⁺, as a cofactor (fry2012cellcycleregulation pages 1-3, bachus2022inmitosisyou pages 22-24, bachus2022inmitosisyou pages 33-34).
+
+
+## Substrate Specificity
+Based on the priority publication by Johnson et al., the experimentally determined optimal phosphorylation motif for NEK11 is reported as [R/K]XX[S/T]. This consensus sequence indicates a preference for a basic residue (arginine or lysine) at the -3 position relative to the phosphorylated serine or threonine residue (kooij2019comprehensivesubstratespecificity pages 34-36). NEK11 is known to phosphorylate its substrate CDC25A at serine residues S82 and S88, which are located within DSG motifs (pavan2021onbrokenne(c)ks pages 15-17, unknownauthors2015characterizationandfunction pages 60-64).
+
+
+## Structure
+NEK11 consists of an N-terminal catalytic kinase domain and a C-terminal noncatalytic regulatory region (fry2012cellcycleregulation pages 1-3, bachus2022inmitosisyou pages 22-24, unknownauthors2011cellcyclestudies pages 55-59). The C-terminal region contains an autoinhibitory domain, coiled-coil motifs for protein interactions, and PEST-like sequences which may regulate its stability via proteasomal degradation (unknownauthors2015characterizationandfunction pages 60-64, unknownauthorsUnknownyearnek1developmentalinvolvementin pages 17-20, unknownauthors2011cellcyclestudies pages 55-59). While no high-resolution experimental structure is reported, AlphaFold models predict a canonical globular kinase fold with conserved features including the DFG motif and an activation loop (fry2012cellcycleregulation pages 1-3, pavan2021onbrokenne(c)ks pages 20-21). NEK11 has at least four alternatively spliced isoforms with different C-terminal regions, resulting in differential subcellular localizations: longer isoforms are mainly cytoplasmic, while shorter isoforms are found in the nucleus (bachus2022inmitosisyou pages 22-24, unknownauthors2015characterizationandfunction pages 60-64).
+
+
+## Regulation
+The activity of NEK11 is regulated by post-translational modifications, primarily phosphorylation. During the DNA damage response (DDR), NEK11 is phosphorylated and activated by the checkpoint kinases ATM, ATR, and CHK1 (fry2012cellcycleregulation pages 1-3, pavan2021onbrokenne(c)ks pages 15-17, unknownauthors2011cellcyclestudies pages 55-59). CHK1 has been shown to phosphorylate NEK11 at site S273 in vitro (pavan2021onbrokenne(c)ks pages 15-17). NEK11 activity is decreased by treatment with caffeine, an inhibitor of ATM/ATR (pavan2021onbrokenne(c)ks pages 15-17, pavan2021onbrokenne(c)ks pages 17-19). Additionally, the kinase Nek2A phosphorylates the C-terminal non-catalytic region of NEK11, which relieves autoinhibition and activates the kinase (bachus2022inmitosisyou pages 22-24, unknownauthors2011cellcyclestudies pages 55-59). Ubiquitination may also play a role in regulating the stability of NEK11 (fry2012cellcycleregulation pages 1-3, bachus2022inmitosisyou pages 33-34).
+
+
+## Function
+NEK11 is a key kinase in the G2/M DNA damage checkpoint (fry2012cellcycleregulation pages 1-3, bachus2022inmitosisyou pages 33-34). It functions downstream of ATM/ATR/CHK1 signaling to enforce cell cycle arrest following genotoxic stress (unknownauthors2015characterizationandfunction pages 60-64, pavan2021onbrokenne(c)ks pages 15-17). The primary mechanism involves the direct phosphorylation of the CDC25A phosphatase by NEK11, which marks CDC25A for polyubiquitination by the SCF-BTRC E3 ubiquitin ligase complex and subsequent proteasomal degradation (unknownauthors2011cellcyclestudies pages 55-59, bachus2022inmitosisyou pages 22-24). NEK11 also phosphorylates the Bloom Syndrome Helicase (BLM), facilitating its interaction with TopBP1 (bachus2022inmitosisyou pages 22-24). Known interacting partners of NEK11 include Polo-like kinase 1 (PLK1), Nek2A, and Ku70 (fry2012cellcycleregulation pages 1-3, bachus2022inmitosisyou pages 22-24, moniz2011nekfamilyof pages 1-3). NEK11 expression is cell cycle-dependent, with low levels in G1 and increased abundance during S, G2, and M phases (unknownauthors2011cellcyclestudies pages 55-59). Depletion of NEK11 impairs G2/M arrest after DNA damage, leading to apoptosis and reduced cell survival, which highlights its essential role in cellular growth and maintaining genome integrity (pavan2021onbrokenne(c)ks pages 17-19, bachus2022inmitosisyou pages 22-24).
+
+
+## Inhibitors
+The approved BRAF inhibitor Dabrafenib has been identified as an experimental inhibitor of NEK11 (oliveira2020checkingneksovercoming pages 20-22).
+
+
+## Other Comments
+Dysregulation and mutations of NEK11 are associated with cancer (fry2012cellcycleregulation pages 1-3, kooij2019comprehensivesubstratespecificity pages 34-36). As a critical component of the DNA damage response, its loss can contribute to genomic instability (kooij2019comprehensivesubstratespecificity pages 1-5). NEK11 has been observed to be downregulated in some colorectal cancer cell lines, which may promote tumor growth through the stabilization of CDC25A (bachus2022inmitosisyou pages 22-24). Although mutations in the NEK11 gene have been found in cancer samples, their functional impact as driver mutations is not yet fully established (moniz2011nekfamilyof pages 5-6).
+
+References
+
+1. (bachus2022inmitosisyou pages 22-24): Scott Bachus, Drayson Graves, Lauren Fulham, N. Akkerman, Caelan Stephanson, Jessica Shieh, and P. Pelka. In mitosis you are not: the nima family of kinases in aspergillus, yeast, and mammals. International Journal of Molecular Sciences, Apr 2022. URL: https://doi.org/10.3390/ijms23074041, doi:10.3390/ijms23074041. This article has 12 citations and is from a peer-reviewed journal.
+
+2. (bachus2022inmitosisyou pages 33-34): Scott Bachus, Drayson Graves, Lauren Fulham, N. Akkerman, Caelan Stephanson, Jessica Shieh, and P. Pelka. In mitosis you are not: the nima family of kinases in aspergillus, yeast, and mammals. International Journal of Molecular Sciences, Apr 2022. URL: https://doi.org/10.3390/ijms23074041, doi:10.3390/ijms23074041. This article has 12 citations and is from a peer-reviewed journal.
+
+3. (bachus2022inmitosisyou pages 34-34): Scott Bachus, Drayson Graves, Lauren Fulham, N. Akkerman, Caelan Stephanson, Jessica Shieh, and P. Pelka. In mitosis you are not: the nima family of kinases in aspergillus, yeast, and mammals. International Journal of Molecular Sciences, Apr 2022. URL: https://doi.org/10.3390/ijms23074041, doi:10.3390/ijms23074041. This article has 12 citations and is from a peer-reviewed journal.
+
+4. (fry2012cellcycleregulation pages 1-3): Andrew M. Fry, Laura O'Regan, Sarah R. Sabir, and Richard Bayliss. Cell cycle regulation by the nek family of protein kinases. Journal of Cell Science, 125:4423-4433, Oct 2012. URL: https://doi.org/10.1242/jcs.111195, doi:10.1242/jcs.111195. This article has 484 citations and is from a domain leading peer-reviewed journal.
+
+5. (kooij2019comprehensivesubstratespecificity pages 1-5): Bert van de Kooij, Pau Creixell, Anne van Vlimmeren, Brian A. Joughin, Chad J. Miller, Nasir Haider, Rune Linding, Vuk Stambolic, Benjamin E. Turk, and Michael B. Yaffe. Comprehensive substrate specificity profiling of the human nek kinome reveals unexpected signaling outputs. eLife, Jan 2019. URL: https://doi.org/10.1101/515221, doi:10.1101/515221. This article has 53 citations and is from a domain leading peer-reviewed journal.
+
+6. (kooij2019comprehensivesubstratespecificity pages 34-36): Bert van de Kooij, Pau Creixell, Anne van Vlimmeren, Brian A. Joughin, Chad J. Miller, Nasir Haider, Rune Linding, Vuk Stambolic, Benjamin E. Turk, and Michael B. Yaffe. Comprehensive substrate specificity profiling of the human nek kinome reveals unexpected signaling outputs. eLife, Jan 2019. URL: https://doi.org/10.1101/515221, doi:10.1101/515221. This article has 53 citations and is from a domain leading peer-reviewed journal.
+
+7. (kooij2019comprehensivesubstratespecificity pages 39-40): Bert van de Kooij, Pau Creixell, Anne van Vlimmeren, Brian A. Joughin, Chad J. Miller, Nasir Haider, Rune Linding, Vuk Stambolic, Benjamin E. Turk, and Michael B. Yaffe. Comprehensive substrate specificity profiling of the human nek kinome reveals unexpected signaling outputs. eLife, Jan 2019. URL: https://doi.org/10.1101/515221, doi:10.1101/515221. This article has 53 citations and is from a domain leading peer-reviewed journal.
+
+8. (kooij2019comprehensivesubstratespecificity pages 44-45): Bert van de Kooij, Pau Creixell, Anne van Vlimmeren, Brian A. Joughin, Chad J. Miller, Nasir Haider, Rune Linding, Vuk Stambolic, Benjamin E. Turk, and Michael B. Yaffe. Comprehensive substrate specificity profiling of the human nek kinome reveals unexpected signaling outputs. eLife, Jan 2019. URL: https://doi.org/10.1101/515221, doi:10.1101/515221. This article has 53 citations and is from a domain leading peer-reviewed journal.
+
+9. (moniz2011nekfamilyof pages 1-3): Larissa Moniz, Previn Dutt, Nasir Haider, and Vuk Stambolic. Nek family of kinases in cell cycle, checkpoint control and cancer. Cell Division, 6:18-18, Oct 2011. URL: https://doi.org/10.1186/1747-1028-6-18, doi:10.1186/1747-1028-6-18. This article has 150 citations and is from a peer-reviewed journal.
+
+10. (oliveira2020checkingneksovercoming pages 20-22): Andressa Peres de Oliveira, Luidy Kazuo Issayama, Isadora Carolina Betim Pavan, Fernando Riback Silva, Talita Diniz Melo-Hanchuk, Fernando Moreira Simabuco, and Jörg Kobarg. Checking neks: overcoming a bottleneck in human diseases. Molecules, 25:1778, Apr 2020. URL: https://doi.org/10.3390/molecules25081778, doi:10.3390/molecules25081778. This article has 63 citations and is from a peer-reviewed journal.
+
+11. (pavan2021onbrokenne(c)ks pages 15-17): Isadora Pavan, Andressa Peres de Oliveira, Pedro Dias, Fernanda Basei, Luidy Issayama, Camila Ferezin, Fernando Silva, Ana Rodrigues de Oliveira, Lívia Alves dos Reis Moura, Mariana Martins, Fernando Simabuco, and Jörg Kobarg. On broken ne(c)ks and broken dna: the role of human neks in the dna damage response. Cells, 10:507, Feb 2021. URL: https://doi.org/10.3390/cells10030507, doi:10.3390/cells10030507. This article has 41 citations and is from a peer-reviewed journal.
+
+12. (pavan2021onbrokenne(c)ks pages 17-19): Isadora Pavan, Andressa Peres de Oliveira, Pedro Dias, Fernanda Basei, Luidy Issayama, Camila Ferezin, Fernando Silva, Ana Rodrigues de Oliveira, Lívia Alves dos Reis Moura, Mariana Martins, Fernando Simabuco, and Jörg Kobarg. On broken ne(c)ks and broken dna: the role of human neks in the dna damage response. Cells, 10:507, Feb 2021. URL: https://doi.org/10.3390/cells10030507, doi:10.3390/cells10030507. This article has 41 citations and is from a peer-reviewed journal.
+
+13. (pavan2021onbrokenne(c)ks pages 20-21): Isadora Pavan, Andressa Peres de Oliveira, Pedro Dias, Fernanda Basei, Luidy Issayama, Camila Ferezin, Fernando Silva, Ana Rodrigues de Oliveira, Lívia Alves dos Reis Moura, Mariana Martins, Fernando Simabuco, and Jörg Kobarg. On broken ne(c)ks and broken dna: the role of human neks in the dna damage response. Cells, 10:507, Feb 2021. URL: https://doi.org/10.3390/cells10030507, doi:10.3390/cells10030507. This article has 41 citations and is from a peer-reviewed journal.
+
+14. (unknownauthors2011cellcyclestudies pages 55-59): Cell Cycle Studies on the Human Nek3, Nek5 and Nek11 Protein Kinases
+
+15. (unknownauthors2014“stopne(c) pages 10-11): “Stop Ne (c) king around”: How interactomics contributes to functionally characterize Nek family kinases
+
+16. (unknownauthors2015characterizationandfunction pages 60-64): Characterization and function of the nek11 kinase in cancer cells
+
+17. (moniz2011nekfamilyof pages 5-6): Larissa Moniz, Previn Dutt, Nasir Haider, and Vuk Stambolic. Nek family of kinases in cell cycle, checkpoint control and cancer. Cell Division, 6:18-18, Oct 2011. URL: https://doi.org/10.1186/1747-1028-6-18, doi:10.1186/1747-1028-6-18. This article has 150 citations and is from a peer-reviewed journal.
+
+18. (unknownauthorsUnknownyearnek1developmentalinvolvementin pages 17-20): Nek1-developmental involvement in DNA repair and role as a target in radiotherapy

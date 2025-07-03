@@ -1,0 +1,97 @@
+## Phylogeny  
+• Orthologs identified in: Homo sapiens (TSSK2), Mus musculus (Tssk2), Bos taurus, Sus scrofa, Caenorhabditis elegans, Crassostrea gigas and Haliotis discus hannai, all showing testis-restricted transcription (salicioni2020testisspecificserinekinase pages 8-9).  
+• Within mammals, divergence between human and mouse TSSK2 is lower than divergence among TSSK paralogs, confirming strict orthology (salicioni2020testisspecificserinekinase pages 10-11).  
+• Paralogous relationships: TSSK2 is most closely related to TSSK1; TSSK5 represents the basal member of the family (salicioni2020testisspecificserinekinase pages 10-11).  
+• Kinome placement: the TSSK family forms a distinct clade inside the CAMK (Ca²⁺/calmodulin-dependent protein kinase) superfamily as defined by the Manning et al. kinome classification (salicioni2020testisspecificserinekinase pages 34-35).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + protein-phospho-Ser/Thr (salicioni2020testisspecificserinekinase pages 14-15).  
+
+## Cofactor Requirements  
+• Absolute requirement for Mg²⁺; essentially no catalytic activity with Mn²⁺ (salicioni2020testisspecificserinekinase pages 15-16, li2011expressionandlocalization pages 5-7).  
+
+## Substrate Specificity  
+• Physiological protein substrates:  
+  – Testis-specific kinase substrate TSKS, phosphorylation site Ser-288 (salicioni2020testisspecificserinekinase pages 14-15).  
+  – Axonemal protein SPAG16L (salicioni2020testisspecificserinekinase pages 16-16).  
+• In-vitro peptide substrates: myelin basic protein fragment 104-118 (Km_ATP ≈ 10 µM) and the AMARA motif (salicioni2020testisspecificserinekinase pages 14-15).  
+• A consolidated consensus phosphorylation motif has not been reported; the motif recognized by TSSK2 is distinct from the RRSSSVY motif preferred by TSSK3 (salicioni2020testisspecificserinekinase pages 14-15).  
+
+## Structure  
+• Domain organisation: N-terminal bilobal serine/threonine kinase catalytic domain followed by a C-terminal region containing WD-repeat elements that mediate binding to SPAG16L (salicioni2020testisspecificserinekinase pages 16-16).  
+• Conserved catalytic motifs: VAIK lysine, HRD catalytic triad and DFG motif are present, consistent with the canonical kinase fold (unknownauthors2014testisspecificproteinkinases pages 35-38).  
+• Activation loop: autophosphorylation on a conserved threonine within the T-loop is required for catalytic activation; no upstream kinase is needed (salicioni2020testisspecificserinekinase pages 14-14).  
+• 3D information: no crystal structure is available; AlphaFold modelling confirms the typical CAMK-like fold and positions the activation loop in an active conformation after autophosphorylation (salicioni2020testisspecificserinekinase pages 14-14).  
+
+## Regulation  
+• Autophosphorylation: cis-autophosphorylation at the T-loop threonine activates the kinase (salicioni2020testisspecificserinekinase pages 14-14).  
+• Chaperone-mediated stability: HSP90 binding limits ubiquitination and degradation of TSSK2, yet pharmacological HSP90 inhibition does not diminish TSSK2 catalytic activity (jha2013heatshockprotein pages 2-3, jha2013heatshockprotein pages 7-8).  
+• Protein complexes:  
+  – Forms a triad with TSKS and the testis-specific phosphatase PPP1CC2 (salicioni2020testisspecificserinekinase pages 16-16, unknownauthors2014identificationofppp1cc2 pages 88-96).  
+  – Interacts with SPAG16L via WD repeats; absence of SPAG16L markedly reduces TSSK2 levels (salicioni2020testisspecificserinekinase pages 16-16).  
+• Cellular organisation: participates in transformation of the chromatoid-body-derived ring during spermatid elongation; the structure is lost in Tssk1/2 double-knockout testes (unknownauthors2014testisspecificproteinkinases pages 77-81).  
+
+## Function  
+• Expression: transcripts and protein are restricted to post-meiotic spermatids and mature spermatozoa; no expression is detected in somatic tissues (salicioni2020testisspecificserinekinase pages 7-8, li2011expressionandlocalization pages 5-7).  
+• Subcellular localisation: post-acrosomal and anterior head regions of sperm, centriolar area during flagellogenesis and the mitochondrial sheath of elongating spermatids (salicioni2020testisspecificserinekinase pages 12-13, nayyab2025identificationoftssk1 pages 15-18).  
+• Biological roles:  
+  – Phosphorylation of TSKS and SPAG16L supports cytoplasmic remodelling and axoneme assembly in late spermatogenesis (salicioni2020testisspecificserinekinase pages 14-15, salicioni2020testisspecificserinekinase pages 16-16).  
+  – Ensures integrity of the mitochondrial sheath; collapse of this structure and male sterility occur in Tssk1/2 double-knockout mice (shang2010functionaltransformationof pages 2-3, salicioni2020testisspecificserinekinase pages 18-19).  
+  – Required for hyperactivated sperm motility; Tssk2-null males display reduced motility and infertility (nayyab2025identificationoftssk1 pages 15-18).  
+• Interaction network: binding partners include TSKS, SPAG16L, PPP1CC2 and CK2α′ (salicioni2020testisspecificserinekinase pages 16-16, unknownauthors2014testisspecificproteinkinases pages 77-81).  
+
+## Inhibitors  
+• Staurosporine: biochemical IC₅₀ ≈ 20 nM (hawkinson2017potentpyrimidineand pages 3-4).  
+• Pyrrolopyrimidine series (e.g., compounds 1, 10, 11): IC₅₀ 22-47 nM; exhibit broad kinase cross-reactivity (hawkinson2017potentpyrimidineand pages 3-4).  
+• Pyrimidine scaffold inhibitor TAE684 and analogue “Compound 19”: low-nanomolar potency against TSSK2 and other TSSK isoforms (salicioni2020testisspecificserinekinase pages 25-26).  
+
+## Other Comments  
+• Genetic ablation: Tssk1/2 double-knockout or CRISPR Tssk2-null male mice are sterile, with abnormal sperm morphology, reduced count and defective motility (nayyab2025identificationoftssk1 pages 15-18, shang2010functionaltransformationof pages 2-3).  
+• Cancer relevance: shRNA screens identify TSSK2 as essential for survival of HeLa and RKO colorectal carcinoma cells; dependency is lost when HPV16-E7 is expressed (salicioni2020testisspecificserinekinase pages 22-23).  
+• Genomic context: the human gene resides in the DiGeorge syndrome minimal region at 22q11.21 (unknownauthors2014testisspecificproteinkinases pages 35-38), although an alternative mapping to 1q34-q35 has been reported (salicioni2020testisspecificserinekinase pages 8-8).
+
+References
+
+1. (nayyab2025identificationoftssk1 pages 15-18): Saman Nayyab, Marıá Gracia Gervasi, Darya A. Tourzani, Yeva Shamailova, Hiroki Akizawa, Mahboubeh Taghavi, Wei Cui, Rafael Fissore, Ana Maria Salicioni, Gunda I. Georg, Elizabeth Snyder, and Pablo E. Visconti. Identification of tssk1 and tssk2 as novel targets for male contraception. Biomolecules, 15:601, Apr 2025. URL: https://doi.org/10.3390/biom15040601, doi:10.3390/biom15040601. This article has 0 citations and is from a peer-reviewed journal.
+
+2. (salicioni2020testisspecificserinekinase pages 10-11): Ana M Salicioni, María G Gervasi, Julian Sosnik, Darya A Tourzani, Saman Nayyab, Diego A Caraballo, and Pablo E Visconti. Testis-specific serine kinase protein family in male fertility and as targets for non-hormonal male contraception†. Biology of Reproduction, 103:264-274, Apr 2020. URL: https://doi.org/10.1093/biolre/ioaa064, doi:10.1093/biolre/ioaa064. This article has 68 citations and is from a peer-reviewed journal.
+
+3. (hawkinson2017potentpyrimidineand pages 3-4): Jon E. Hawkinson, Rondedrick Sinville, Deepti Mudaliar, Jagathpala Shetty, Timothy Ward, John C. Herr, and Gunda I. Georg. Potent pyrimidine and pyrrolopyrimidine inhibitors of testis‐specific serine/threonine kinase 2 (tssk2). ChemMedChem, Nov 2017. URL: https://doi.org/10.1002/cmdc.201700503, doi:10.1002/cmdc.201700503. This article has 26 citations and is from a peer-reviewed journal.
+
+4. (jha2013heatshockprotein pages 2-3): K. Jha, Alyssa R. Coleman, Lily Wong, A. Salicioni, Elizabeth Howcroft, and G. Johnson. Heat shock protein 90 functions to stabilize and activate the testis-specific serine/threonine kinases, a family of kinases essential for male fertility*. The Journal of Biological Chemistry, 288:16308-16320, Apr 2013. URL: https://doi.org/10.1074/jbc.m112.400978, doi:10.1074/jbc.m112.400978. This article has 50 citations.
+
+5. (jha2013heatshockprotein pages 7-8): K. Jha, Alyssa R. Coleman, Lily Wong, A. Salicioni, Elizabeth Howcroft, and G. Johnson. Heat shock protein 90 functions to stabilize and activate the testis-specific serine/threonine kinases, a family of kinases essential for male fertility*. The Journal of Biological Chemistry, 288:16308-16320, Apr 2013. URL: https://doi.org/10.1074/jbc.m112.400978, doi:10.1074/jbc.m112.400978. This article has 50 citations.
+
+6. (salicioni2020testisspecificserinekinase pages 12-13): Ana M Salicioni, María G Gervasi, Julian Sosnik, Darya A Tourzani, Saman Nayyab, Diego A Caraballo, and Pablo E Visconti. Testis-specific serine kinase protein family in male fertility and as targets for non-hormonal male contraception†. Biology of Reproduction, 103:264-274, Apr 2020. URL: https://doi.org/10.1093/biolre/ioaa064, doi:10.1093/biolre/ioaa064. This article has 68 citations and is from a peer-reviewed journal.
+
+7. (salicioni2020testisspecificserinekinase pages 14-14): Ana M Salicioni, María G Gervasi, Julian Sosnik, Darya A Tourzani, Saman Nayyab, Diego A Caraballo, and Pablo E Visconti. Testis-specific serine kinase protein family in male fertility and as targets for non-hormonal male contraception†. Biology of Reproduction, 103:264-274, Apr 2020. URL: https://doi.org/10.1093/biolre/ioaa064, doi:10.1093/biolre/ioaa064. This article has 68 citations and is from a peer-reviewed journal.
+
+8. (salicioni2020testisspecificserinekinase pages 14-15): Ana M Salicioni, María G Gervasi, Julian Sosnik, Darya A Tourzani, Saman Nayyab, Diego A Caraballo, and Pablo E Visconti. Testis-specific serine kinase protein family in male fertility and as targets for non-hormonal male contraception†. Biology of Reproduction, 103:264-274, Apr 2020. URL: https://doi.org/10.1093/biolre/ioaa064, doi:10.1093/biolre/ioaa064. This article has 68 citations and is from a peer-reviewed journal.
+
+9. (salicioni2020testisspecificserinekinase pages 15-16): Ana M Salicioni, María G Gervasi, Julian Sosnik, Darya A Tourzani, Saman Nayyab, Diego A Caraballo, and Pablo E Visconti. Testis-specific serine kinase protein family in male fertility and as targets for non-hormonal male contraception†. Biology of Reproduction, 103:264-274, Apr 2020. URL: https://doi.org/10.1093/biolre/ioaa064, doi:10.1093/biolre/ioaa064. This article has 68 citations and is from a peer-reviewed journal.
+
+10. (salicioni2020testisspecificserinekinase pages 16-16): Ana M Salicioni, María G Gervasi, Julian Sosnik, Darya A Tourzani, Saman Nayyab, Diego A Caraballo, and Pablo E Visconti. Testis-specific serine kinase protein family in male fertility and as targets for non-hormonal male contraception†. Biology of Reproduction, 103:264-274, Apr 2020. URL: https://doi.org/10.1093/biolre/ioaa064, doi:10.1093/biolre/ioaa064. This article has 68 citations and is from a peer-reviewed journal.
+
+11. (salicioni2020testisspecificserinekinase pages 18-19): Ana M Salicioni, María G Gervasi, Julian Sosnik, Darya A Tourzani, Saman Nayyab, Diego A Caraballo, and Pablo E Visconti. Testis-specific serine kinase protein family in male fertility and as targets for non-hormonal male contraception†. Biology of Reproduction, 103:264-274, Apr 2020. URL: https://doi.org/10.1093/biolre/ioaa064, doi:10.1093/biolre/ioaa064. This article has 68 citations and is from a peer-reviewed journal.
+
+12. (salicioni2020testisspecificserinekinase pages 25-26): Ana M Salicioni, María G Gervasi, Julian Sosnik, Darya A Tourzani, Saman Nayyab, Diego A Caraballo, and Pablo E Visconti. Testis-specific serine kinase protein family in male fertility and as targets for non-hormonal male contraception†. Biology of Reproduction, 103:264-274, Apr 2020. URL: https://doi.org/10.1093/biolre/ioaa064, doi:10.1093/biolre/ioaa064. This article has 68 citations and is from a peer-reviewed journal.
+
+13. (salicioni2020testisspecificserinekinase pages 34-35): Ana M Salicioni, María G Gervasi, Julian Sosnik, Darya A Tourzani, Saman Nayyab, Diego A Caraballo, and Pablo E Visconti. Testis-specific serine kinase protein family in male fertility and as targets for non-hormonal male contraception†. Biology of Reproduction, 103:264-274, Apr 2020. URL: https://doi.org/10.1093/biolre/ioaa064, doi:10.1093/biolre/ioaa064. This article has 68 citations and is from a peer-reviewed journal.
+
+14. (salicioni2020testisspecificserinekinase pages 8-8): Ana M Salicioni, María G Gervasi, Julian Sosnik, Darya A Tourzani, Saman Nayyab, Diego A Caraballo, and Pablo E Visconti. Testis-specific serine kinase protein family in male fertility and as targets for non-hormonal male contraception†. Biology of Reproduction, 103:264-274, Apr 2020. URL: https://doi.org/10.1093/biolre/ioaa064, doi:10.1093/biolre/ioaa064. This article has 68 citations and is from a peer-reviewed journal.
+
+15. (shang2010functionaltransformationof pages 2-3): P. Shang, W. Baarends, J. Hoogerbrugge, M. Ooms, W. V. van Cappellen, A. D. de Jong, G. Dohle, H. van Eenennaam, J. Gossen, and J. Grootegoed. Functional transformation of the chromatoid body in mouse spermatids requires testis-specific serine/threonine kinases. Journal of Cell Science, 123:331-339, Feb 2010. URL: https://doi.org/10.1242/jcs.059949, doi:10.1242/jcs.059949. This article has 120 citations and is from a domain leading peer-reviewed journal.
+
+16. (unknownauthors2014testisspecificproteinkinases pages 35-38): Testis-specific Protein Kinases TSSK1 and TSSK2 in Mouse Spermiogenesis
+
+17. (li2011expressionandlocalization pages 5-7): Yahui Li, Julian Sosnik, Laura Brassard, Michael Reese, N. A. Spiridonov, T. Bates, G. Johnson, J. Anguita, P. Visconti, and A. Salicioni. Expression and localization of five members of the testis-specific serine kinase (tssk) family in mouse and human sperm and testis. Molecular human reproduction, 17 1:42-56, 2011. URL: https://doi.org/10.1093/molehr/gaq071, doi:10.1093/molehr/gaq071. This article has 100 citations and is from a peer-reviewed journal.
+
+18. (salicioni2020testisspecificserinekinase pages 22-23): Ana M Salicioni, María G Gervasi, Julian Sosnik, Darya A Tourzani, Saman Nayyab, Diego A Caraballo, and Pablo E Visconti. Testis-specific serine kinase protein family in male fertility and as targets for non-hormonal male contraception†. Biology of Reproduction, 103:264-274, Apr 2020. URL: https://doi.org/10.1093/biolre/ioaa064, doi:10.1093/biolre/ioaa064. This article has 68 citations and is from a peer-reviewed journal.
+
+19. (salicioni2020testisspecificserinekinase pages 7-8): Ana M Salicioni, María G Gervasi, Julian Sosnik, Darya A Tourzani, Saman Nayyab, Diego A Caraballo, and Pablo E Visconti. Testis-specific serine kinase protein family in male fertility and as targets for non-hormonal male contraception†. Biology of Reproduction, 103:264-274, Apr 2020. URL: https://doi.org/10.1093/biolre/ioaa064, doi:10.1093/biolre/ioaa064. This article has 68 citations and is from a peer-reviewed journal.
+
+20. (salicioni2020testisspecificserinekinase pages 8-9): Ana M Salicioni, María G Gervasi, Julian Sosnik, Darya A Tourzani, Saman Nayyab, Diego A Caraballo, and Pablo E Visconti. Testis-specific serine kinase protein family in male fertility and as targets for non-hormonal male contraception†. Biology of Reproduction, 103:264-274, Apr 2020. URL: https://doi.org/10.1093/biolre/ioaa064, doi:10.1093/biolre/ioaa064. This article has 68 citations and is from a peer-reviewed journal.
+
+21. (unknownauthors2014identificationofppp1cc2 pages 88-96): Identification of PPP1CC2 Interacting Proteins in the Mouse Testis
+
+22. (unknownauthors2014testisspecificproteinkinases pages 77-81): Testis-specific Protein Kinases TSSK1 and TSSK2 in Mouse Spermiogenesis

@@ -1,0 +1,85 @@
+## Phylogeny  
+Orthologs: STK33 genes are present in Homo sapiens (UniProt Q9BYT3) and Mus musculus; mouse knockout causes male infertility (ku2024reversiblemalecontraception pages 2-4). A more ancient ortholog is detectable in the sea anemone genome, indicating emergence ≥700 Myr ago (goyal2009identifyingandcharacterizing pages 11-13).  
+Kinome placement: Sequence analyses place the catalytic domain in the Ca²⁺/calmodulin-dependent protein kinase (CAMK) group, yet STK33 lacks the canonical CaM-binding and C-terminal regulatory segments typical of classical CaMK family members, defining it as an atypical CAMK-group kinase (mujica2001anovelserinethreonine pages 4-5). Large-scale kinome surveys corroborate CAMK-group assignment while noting that STK33 forms a discrete clade outside established CaMK subfamilies (bradham2006theseaurchin pages 2-3).  
+Paralogy: The kinase shares 28 % identity within the catalytic domain to STK35L1, which arose later in vertebrate evolution, underscoring early divergence of the STK33 lineage (goyal2009identifyingandcharacterizing pages 11-13).  
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr ⇌ ADP + protein-L-O-phospho-Ser/Thr (babij2011stk33kinaseactivity pages 5-5).  
+
+## Cofactor Requirements  
+Experimental kinase assays employ standard serine/threonine kinase buffers with ATP; specific divalent-cation requirements are not explicitly reported (babij2011stk33kinaseactivity pages 5-5).  
+
+## Substrate Specificity  
+• Sperm fibrous-sheath scaffold proteins AKAP3 and AKAP4 are phosphorylated during spermatogenesis (ku2024reversiblemalecontraception pages 2-4).  
+• Intermediate-filament protein vimentin/VIM is phosphorylated on its N-terminal head domain (chen2016researchprogressof pages 1-2).  
+• In vitro the enzyme selectively phosphorylates a p70S6K-derived peptide, whereas histone H3, MBP, and PLK peptides are not substrates under identical conditions (babij2011stk33kinaseactivity pages 5-5).  
+A consensus recognition motif has not been delineated; systematic substrate-atlas data are unavailable in the current literature.  
+
+## Structure  
+Domain architecture: STK33 consists solely of a classical bilobed serine/threonine kinase domain comprising an N-terminal β-sheet/αC lobe and a C-terminal α-helical lobe (ku2024reversiblemalecontraception pages 2-4).  
+Crystal structure: The human kinase domain bound to inhibitor CDD-2211 has been solved at 2.7 Å resolution (PDB 8VF6). Two monomers per asymmetric unit form a segment-exchange dimer wherein activation-loop residues 273–283 of one protomer dock onto helices αE/αG of the partner (ku2024reversiblemalecontraception pages 2-4).  
+Catalytic motifs: VAIK motif Lys145 (mutated to K145M for kinase-dead control), HRD catalytic triad, and DFG motif are intact (babij2011stk33kinaseactivity pages 3-4).  
+Regulatory elements: The activation loop is partially disordered yet participates in dimerization; no CaM-binding helix or C-terminal autoregulatory tail is present, consistent with sequence analysis (mujica2001anovelserinethreonine pages 4-5). No AlphaFold model is discussed in current publications.  
+
+## Regulation  
+Autophosphorylation: STK33 undergoes serine/threonine autophosphorylation; specific sites remain unmapped (chen2016researchprogressof pages 1-2).  
+Chaperone control: HSP90 maintains STK33 protein stability under hypoxic conditions, thereby supporting HIF-1α/VEGF signaling (liu2017stk33participatesto pages 13-14).  
+Transcriptional control: NFYB up-regulates STK33 transcription, contributing to chemoresistance in diffuse large B-cell lymphoma (feng2021nfybpotentiatesstk33 pages 9-9).  
+Calmodulin: One report describes Ca²⁺/calmodulin-dependent activation (chen2016researchprogressof pages 1-2); however, the absence of a CaM-binding segment in sequence and structure challenges this mechanism (mujica2001anovelserinethreonine pages 4-5).  
+
+## Function  
+Expression: Highest levels in testis, specifically spermatogenic epithelium; lower expression in lung epithelium, alveolar macrophages, retinal horizontal cells, and embryonic neural tissues (chen2016researchprogressof pages 1-2).  
+Reproduction: STK33 is essential for spermatid differentiation and male fertility in mice by promoting sperm flagellar assembly via phosphorylation of AKAP3/AKAP4 (ku2024reversiblemalecontraception pages 2-4).  
+Cytoskeleton: Phosphorylation of vimentin regulates intermediate-filament dynamics and cell morphology (chen2016researchprogressof pages 2-3).  
+Oncogenic signaling:  
+– Activates PI3K/AKT/mTOR signaling, enhancing proliferation and survival in pancreatic neuroendocrine tumours (zhou2020stk33promotesthe pages 19-21).  
+– Drives epithelial–mesenchymal transition, invasion, and p38-MAPK activity in large-cell lung cancer (wang2015stk33playsan pages 8-9).  
+– Supports HIF-1α-dependent angiogenic programs through HSP90 association (liu2017stk33participatesto pages 13-14).  
+– Enhances RPS6/BAD and ERK signaling, mediating cisplatin resistance (feng2021nfybpotentiatesstk33 pages 9-9).  
+KRAS context: Initial synthetic-lethal RNAi screens suggested dependency, yet comprehensive knock-down and inhibitor studies found STK33 dispensable for KRAS-mutant cell viability (babij2011stk33kinaseactivity pages 1-1).  
+
+## Inhibitors  
+CDD-2211: Sub-nanomolar ATP-site binder; co-crystal structure defines binding mode (ku2024reversiblemalecontraception pages 2-4).  
+ML280: IC₅₀ ≈ 0.27 µM against purified STK33, high kinase selectivity (unknownauthors2014screenforinhibitors pages 1-5).  
+ML281: IC₅₀ ≈ 0.014 µM, improved potency relative to ML280 (unknownauthors2014screenforinhibitors pages 1-5).  
+High-throughput screening has identified additional compounds with IC₅₀ < 10 nM in enzymatic assays (babij2011stk33kinaseactivity pages 6-6).  
+
+## Other Comments  
+Male infertility: STK33 loss causes defective spermatid maturation and infertility in mice (ku2024reversiblemalecontraception pages 2-4).  
+Cancer associations: Elevated STK33 expression correlates with advanced stage, larger tumour size, lymph-node metastasis, and reduced disease-free survival in pancreatic neuroendocrine tumours (zhou2020stk33promotesthe pages 23-25). Overexpression promotes progression of large-cell lung carcinoma (wang2015stk33playsan pages 1-1). NFYB-mediated activation contributes to cisplatin resistance in diffuse large B-cell lymphoma (feng2021nfybpotentiatesstk33 pages 9-9).
+
+References
+
+1. (ku2024reversiblemalecontraception pages 2-4): Angela F. Ku, Kiran L. Sharma, Hai Minh Ta, Courtney M. Sutton, Kurt M. Bohren, Yong Wang, Srinivas Chamakuri, Ruihong Chen, John M. Hakenjos, Ravikumar Jimmidi, Katarzyna Kent, Feng Li, Jian-Yuan Li, Lang Ma, Chandrashekhar Madasu, Murugesan Palaniappan, Stephen S. Palmer, Xuan Qin, Matthew B. Robers, Banumathi Sankaran, Zhi Tan, Yasmin M. Vasquez, Jian Wang, Jennifer Wilkinson, Zhifeng Yu, Qiuji Ye, Damian W. Young, Mingxing Teng, Choel Kim, and Martin M. Matzuk. Reversible male contraception by targeted inhibition of serine/threonine kinase 33. Science, 384:885-890, May 2024. URL: https://doi.org/10.1126/science.adl2688, doi:10.1126/science.adl2688. This article has 17 citations and is from a highest quality peer-reviewed journal.
+
+2. (mujica2001anovelserinethreonine pages 4-5): A. Mujica, T. Hankeln, and E. Schmidt. A novel serine/threonine kinase gene, stk33, on human chromosome 11p15.3. Gene, 280 1-2:175-81, Dec 2001. URL: https://doi.org/10.1016/s0378-1119(01)00780-6, doi:10.1016/s0378-1119(01)00780-6. This article has 67 citations and is from a peer-reviewed journal.
+
+3. (chen2016researchprogressof pages 1-2): Chen Chen and Jianfeng Li. Research progress of stk33 in cancer biology. Unknown journal, Mar 2016. URL: https://doi.org/10.23937/2469-5807/1510028, doi:10.23937/2469-5807/1510028. This article has 0 citations.
+
+4. (chen2016researchprogressof pages 2-3): Chen Chen and Jianfeng Li. Research progress of stk33 in cancer biology. Unknown journal, Mar 2016. URL: https://doi.org/10.23937/2469-5807/1510028, doi:10.23937/2469-5807/1510028. This article has 0 citations.
+
+5. (babij2011stk33kinaseactivity pages 1-1): Carol Babij, Yihong Zhang, R. Kurzeja, Anke Munzli, Amro Shehabeldin, Manory A Fernando, K. Quon, P. Kassner, Astrid A. Ruefli-Brasse, Vivienne J. Watson, F. Fajardo, Angela Jackson, J. Zondlo, Yu Sun, A. Ellison, Cherylene A Plewa, Miguel Tisha San, J. Robinson, J. McCarter, R. Schwandner, Ted C. Judd, J. Carnahan, and I. Dussault. Stk33 kinase activity is nonessential in kras-dependent cancer cells. Cancer research, 71 17:5818-26, Sep 2011. URL: https://doi.org/10.1158/0008-5472.can-11-0778, doi:10.1158/0008-5472.can-11-0778. This article has 148 citations and is from a highest quality peer-reviewed journal.
+
+6. (babij2011stk33kinaseactivity pages 3-4): Carol Babij, Yihong Zhang, R. Kurzeja, Anke Munzli, Amro Shehabeldin, Manory A Fernando, K. Quon, P. Kassner, Astrid A. Ruefli-Brasse, Vivienne J. Watson, F. Fajardo, Angela Jackson, J. Zondlo, Yu Sun, A. Ellison, Cherylene A Plewa, Miguel Tisha San, J. Robinson, J. McCarter, R. Schwandner, Ted C. Judd, J. Carnahan, and I. Dussault. Stk33 kinase activity is nonessential in kras-dependent cancer cells. Cancer research, 71 17:5818-26, Sep 2011. URL: https://doi.org/10.1158/0008-5472.can-11-0778, doi:10.1158/0008-5472.can-11-0778. This article has 148 citations and is from a highest quality peer-reviewed journal.
+
+7. (babij2011stk33kinaseactivity pages 5-5): Carol Babij, Yihong Zhang, R. Kurzeja, Anke Munzli, Amro Shehabeldin, Manory A Fernando, K. Quon, P. Kassner, Astrid A. Ruefli-Brasse, Vivienne J. Watson, F. Fajardo, Angela Jackson, J. Zondlo, Yu Sun, A. Ellison, Cherylene A Plewa, Miguel Tisha San, J. Robinson, J. McCarter, R. Schwandner, Ted C. Judd, J. Carnahan, and I. Dussault. Stk33 kinase activity is nonessential in kras-dependent cancer cells. Cancer research, 71 17:5818-26, Sep 2011. URL: https://doi.org/10.1158/0008-5472.can-11-0778, doi:10.1158/0008-5472.can-11-0778. This article has 148 citations and is from a highest quality peer-reviewed journal.
+
+8. (babij2011stk33kinaseactivity pages 6-6): Carol Babij, Yihong Zhang, R. Kurzeja, Anke Munzli, Amro Shehabeldin, Manory A Fernando, K. Quon, P. Kassner, Astrid A. Ruefli-Brasse, Vivienne J. Watson, F. Fajardo, Angela Jackson, J. Zondlo, Yu Sun, A. Ellison, Cherylene A Plewa, Miguel Tisha San, J. Robinson, J. McCarter, R. Schwandner, Ted C. Judd, J. Carnahan, and I. Dussault. Stk33 kinase activity is nonessential in kras-dependent cancer cells. Cancer research, 71 17:5818-26, Sep 2011. URL: https://doi.org/10.1158/0008-5472.can-11-0778, doi:10.1158/0008-5472.can-11-0778. This article has 148 citations and is from a highest quality peer-reviewed journal.
+
+9. (bradham2006theseaurchin pages 2-3): Cynthia A. Bradham, Kathy R. Foltz, Wendy S. Beane, Maria I. Arnone, Francesca Rizzo, James A. Coffman, Arcady Mushegian, Manisha Goel, Julia Morales, Anne-Marie Geneviere, François Lapraz, Anthony J. Robertson, Hemant Kelkar, Mariano Loza-Coll, Ian K. Townley, Michael Raisch, Michelle M. Roux, Thierry Lepage, Christian Gache, David R. McClay, and Gerard Manning. The sea urchin kinome: a first look. Developmental Biology, 300:180-193, Dec 2006. URL: https://doi.org/10.1016/j.ydbio.2006.08.074, doi:10.1016/j.ydbio.2006.08.074. This article has 101 citations and is from a peer-reviewed journal.
+
+10. (feng2021nfybpotentiatesstk33 pages 9-9): Lili Feng, Xiaofan Xu, and Keke Zhao. Nfyb potentiates stk33 activation to promote cisplatin resistance in diffuse large b-cell lymphoma. Leukemia research, 111:106708, Sep 2021. URL: https://doi.org/10.1016/j.leukres.2021.106708, doi:10.1016/j.leukres.2021.106708. This article has 10 citations and is from a peer-reviewed journal.
+
+11. (goyal2009identifyingandcharacterizing pages 11-13): Pankaj Goyal, Antje Behring, Abhishek Kumar, and Wolfgang Siess. Identifying and characterizing a novel protein kinase stk35l1 and deciphering its orthologs and close-homologs in vertebrates. PLoS ONE, 4:e6981, Sep 2009. URL: https://doi.org/10.1371/journal.pone.0006981, doi:10.1371/journal.pone.0006981. This article has 15 citations and is from a peer-reviewed journal.
+
+12. (liu2017stk33participatesto pages 13-14): Yang Liu, K. Steinestel, A. Rouhi, M. Armacki, K. Diepold, G. Chiosis, T. Simmet, T. Seufferlein, and N. Azoitei. Stk33 participates to hsp90-supported angiogenic program in hypoxic tumors by regulating hif-1α/vegf signaling pathway. Oncotarget, 8:77474-77488, Aug 2017. URL: https://doi.org/10.18632/oncotarget.20535, doi:10.18632/oncotarget.20535. This article has 21 citations and is from a poor quality or predatory journal.
+
+13. (unknownauthors2014screenforinhibitors pages 1-5): Screen for inhibitors of STK33 kinase activity
+
+14. (wang2015stk33playsan pages 1-1): Ping Wang, Hongzhong Cheng, Jianqiang Wu, Anrun Yan, and Libin Zhang. Stk33 plays an important positive role in the development of human large cell lung cancers with variable metastatic potential. Acta biochimica et biophysica Sinica, 47 3:214-23, Mar 2015. URL: https://doi.org/10.1093/abbs/gmu136, doi:10.1093/abbs/gmu136. This article has 35 citations and is from a peer-reviewed journal.
+
+15. (wang2015stk33playsan pages 8-9): Ping Wang, Hongzhong Cheng, Jianqiang Wu, Anrun Yan, and Libin Zhang. Stk33 plays an important positive role in the development of human large cell lung cancers with variable metastatic potential. Acta biochimica et biophysica Sinica, 47 3:214-23, Mar 2015. URL: https://doi.org/10.1093/abbs/gmu136, doi:10.1093/abbs/gmu136. This article has 35 citations and is from a peer-reviewed journal.
+
+16. (zhou2020stk33promotesthe pages 19-21): Bo Zhou, J. Xiang, Canyang Zhan, Jianhua Liu, and Sheng Yan. Stk33 promotes the growth and progression of human pancreatic neuroendocrine tumour via activation of the pi3k/akt/mtor pathway. Neuroendocrinology, 110:307-320, Jul 2020. URL: https://doi.org/10.1159/000501829, doi:10.1159/000501829. This article has 15 citations and is from a peer-reviewed journal.
+
+17. (zhou2020stk33promotesthe pages 23-25): Bo Zhou, J. Xiang, Canyang Zhan, Jianhua Liu, and Sheng Yan. Stk33 promotes the growth and progression of human pancreatic neuroendocrine tumour via activation of the pi3k/akt/mtor pathway. Neuroendocrinology, 110:307-320, Jul 2020. URL: https://doi.org/10.1159/000501829, doi:10.1159/000501829. This article has 15 citations and is from a peer-reviewed journal.

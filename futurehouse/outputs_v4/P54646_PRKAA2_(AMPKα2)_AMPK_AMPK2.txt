@@ -1,0 +1,71 @@
+## Phylogeny  
+Member of the Ca²⁺/calmodulin-dependent protein kinase (CAMK) group, AMP-activated protein kinase (AMPK) family (kurumbail2016structureandregulation pages 19-20). Representative orthologs: Saccharomyces cerevisiae Snf1, Drosophila melanogaster AMPKα, Caenorhabditis elegans aak-2, Arabidopsis thaliana SnRK1α, and Mus musculus Prkaa2 (hawley2023bay3827andsbi0206965 pages 20-21).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr-OH ⇌ ADP + protein-Ser/Thr-O-PO₃²⁻ + H⁺ (hawley2023bay3827andsbi0206965 pages 20-21).  
+
+## Cofactor Requirements  
+Requires Mg²⁺ for phosphoryl transfer; Mn²⁺ can substitute in some assays (willows2017phosphorylationofampk pages 1-2, kurumbail2016structureandregulation pages 19-20).  
+
+## Substrate Specificity  
+Prefers the AMPK consensus motif φ-x-β-x-x-S/T-x-x-φ, with a basic residue at −3, a bulky hydrophobic residue at +4, and proline disfavoured at +1 (hawley2023bay3827andsbi0206965 pages 20-21, arad2007ampactivatedproteinkinase pages 13-13).  
+
+## Structure  
+552-residue polypeptide comprising:  
+• N-terminal kinase domain (1–312) containing catalytic Lys45-Glu64-Asp157 triad and activation loop Thr172 (kurumbail2016structureandregulation pages 19-20).  
+• Autoinhibitory/α-hook segment (313–392) that contacts the γ-subunit (bringas2025mechanismandcellular pages 4-7).  
+• C-terminal β-interaction domain (393–552) forming the heterotrimer core (kurumbail2016structureandregulation pages 19-20).  
+Crystal and cryo-EM structures (PDB 4CFE, 4CFF, 6C9F) reveal: aligned hydrophobic spine and inward αC-helix in the pThr172-activated state, an allosteric drug-and-metabolite (ADaM) pocket at the kinase/β interface, and nucleotide-induced domain rotations (steinberg2023newinsightsinto pages 6-9).  
+
+## Regulation  
+Post-translational modifications  
+• Activating phosphorylation: Thr172 by LKB1, CaMKK2 and TAK1 (bringas2025mechanismandcellular pages 4-7).  
+• Inhibitory phosphorylation: Ser485 by Akt and PKA; Ser345/347 by PKA (zhao2014investigatingthecamkkβ pages 195-197).  
+• Autophosphorylation: Ser491 within the ST-loop (smiles2025ampkphosphositeprofiling pages 1-2).  
+• Ubiquitination: by E3 ligase MKRN1, promoting proteolysis (bringas2025mechanismandcellular pages 4-7).  
+• Acetylation: by Tip60, modulating stability and activity (bringas2025mechanismandcellular pages 4-7).  
+
+Allosteric control  
+AMP or ADP binding to γ-subunit CBS sites increases Thr172 phosphorylation and catalytic activity, whereas ATP binding favors the inactive conformation (rey2023fromkinasesto pages 1-2).  
+
+## Function  
+Expression enriched in heart and skeletal muscle, with appreciable levels in liver and other metabolically active tissues (arad2007ampactivatedproteinkinase pages 4-5). Upstream kinases LKB1, CaMKK2, TAK1 convey energetic or Ca²⁺ signals (bringas2025mechanismandcellular pages 4-7). Verified substrates: acetyl-CoA carboxylase isoforms ACACA and ACACB, HMG-CoA reductase HMGCR, glycogen synthase GYS1, Rab-GAP TBC1D1, and autophagy kinase ULK1 (bringas2025mechanismandcellular pages 4-7, hawley2023bay3827andsbi0206965 pages 20-21). Phosphorylation of these targets suppresses lipid, cholesterol and glycogen synthesis, enhances glucose uptake, and initiates autophagy; additional phosphorylation of TSC2/Raptor links energy status to mTORC1 suppression (arad2007ampactivatedproteinkinase pages 11-13).  
+
+## Inhibitors  
+• Dorsomorphin (Compound C): ATP-competitive inhibitor binding the kinase active site (bringas2025mechanismandcellular pages 4-7).  
+• SBI-0206965 and BAY-87-2243: ATP-competitive inhibitors that paradoxically elevate pThr172 yet block downstream signaling (hawley2023bay3827andsbi0206965 pages 20-21).  
+• BAY-3827: nanomolar ATP-competitive inhibitor characterized structurally (bringas2025mechanismandcellular pages 4-7).  
+• PF-739: allosteric activator binding the ADaM pocket; at high concentrations behaves as a functional inhibitor of AMPK signaling (bringas2025mechanismandcellular pages 4-7).  
+
+## Other Comments  
+Whole-body or tissue-specific Prkaa2 knockout mice display glucose intolerance and reduced cardiac ischemic tolerance (arad2007ampactivatedproteinkinase pages 1-3). Gain-of-function complexes containing α2 underlie PRKAG2 glycogen-storage cardiomyopathy with hypertrophy and conduction defects (ahmad2005increasedα2subunit–associated pages 9-10). Elevated PRKAA2 expression supports CD8⁺ T-cell exhaustion and Treg expansion in hepatocellular carcinoma, illustrating context-dependent tumour-promoting roles, whereas other studies report tumour-suppressive functions, reflecting contradictory observations (yan2024ampkα2promotestumor pages 2-4, bringas2025mechanismandcellular pages 4-7).
+
+References
+
+1. (arad2007ampactivatedproteinkinase pages 13-13): M. Arad, C. Seidman, and J. Seidman. Amp-activated protein kinase in the heart: role during health and disease. Circulation Research, 100:474-488, Mar 2007. URL: https://doi.org/10.1161/01.res.0000258446.23525.37, doi:10.1161/01.res.0000258446.23525.37. This article has 452 citations and is from a highest quality peer-reviewed journal.
+
+2. (bringas2025mechanismandcellular pages 4-7): Conchita Fraguas Bringas, Mohd Syed Ahangar, Joyceline Cuenco, Hongling Liu, Alex B. Addinsall, Maria Lindahl, Marc Foretz, Olga Göransson, John W. Scott, Elton Zeqiraj, and Kei Sakamoto. Mechanism and cellular actions of the potent ampk inhibitor bay-3827. BioRxiv, Mar 2025. URL: https://doi.org/10.1101/2025.02.28.640688, doi:10.1101/2025.02.28.640688. This article has 0 citations.
+
+3. (hawley2023bay3827andsbi0206965 pages 20-21): S. Hawley, Fiona M Russell, Fiona A. Ross, and D. G. Hardie. Bay-3827 and sbi-0206965: potent ampk inhibitors that paradoxically increase thr172 phosphorylation. International Journal of Molecular Sciences, Dec 2023. URL: https://doi.org/10.3390/ijms25010453, doi:10.3390/ijms25010453. This article has 12 citations and is from a peer-reviewed journal.
+
+4. (kurumbail2016structureandregulation pages 19-20): R. Kurumbail and M. Calabrese. Structure and regulation of ampk. Experientia supplementum, 107:3-22, 2016. URL: https://doi.org/10.1007/978-3-319-43589-3\_1, doi:10.1007/978-3-319-43589-3\_1. This article has 51 citations.
+
+5. (steinberg2023newinsightsinto pages 6-9): G. Steinberg and D. Hardie. New insights into activation and function of the ampk. Nature Reviews Molecular Cell Biology, 24:255-272, Oct 2023. URL: https://doi.org/10.1038/s41580-022-00547-x, doi:10.1038/s41580-022-00547-x. This article has 592 citations and is from a domain leading peer-reviewed journal.
+
+6. (yan2024ampkα2promotestumor pages 2-4): Ouyang Yan, Yan Gu, Xinhai Zhang, Ya Huang, Xianpeng Wei, Fuzhou Tang, and Shichao Zhang. Ampkα2 promotes tumor immune escape by inducing cd8+ t-cell exhaustion and cd4+ treg cell formation in liver hepatocellular carcinoma. BMC Cancer, Mar 2024. URL: https://doi.org/10.1186/s12885-024-12025-y, doi:10.1186/s12885-024-12025-y. This article has 6 citations and is from a peer-reviewed journal.
+
+7. (zhao2014investigatingthecamkkβ pages 195-197): Jiexin Zhao. Investigating the camkkβ signalling pathway and its role in the regulation of blood pressure. Unknown journal, Feb 2014. URL: https://doi.org/10.25560/42781, doi:10.25560/42781. This article has 0 citations.
+
+8. (ahmad2005increasedα2subunit–associated pages 9-10): Ferhaan Ahmad, Michael Arad, Nicolas Musi, Huamei He, Cordula Wolf, Dorothy Branco, Antonio R. Perez-Atayde, David Stapleton, Deeksha Bali, Yanqiu Xing, Rong Tian, Laurie J. Goodyear, Charles I. Berul, Joanne S. Ingwall, Christine E. Seidman, and J.G. Seidman. Increased α2 subunit–associated ampk activity and <i>prkag2</i> cardiomyopathy. Circulation, 112:3140-3148, Nov 2005. URL: https://doi.org/10.1161/circulationaha.105.550806, doi:10.1161/circulationaha.105.550806. This article has 129 citations and is from a highest quality peer-reviewed journal.
+
+9. (arad2007ampactivatedproteinkinase pages 1-3): M. Arad, C. Seidman, and J. Seidman. Amp-activated protein kinase in the heart: role during health and disease. Circulation Research, 100:474-488, Mar 2007. URL: https://doi.org/10.1161/01.res.0000258446.23525.37, doi:10.1161/01.res.0000258446.23525.37. This article has 452 citations and is from a highest quality peer-reviewed journal.
+
+10. (arad2007ampactivatedproteinkinase pages 11-13): M. Arad, C. Seidman, and J. Seidman. Amp-activated protein kinase in the heart: role during health and disease. Circulation Research, 100:474-488, Mar 2007. URL: https://doi.org/10.1161/01.res.0000258446.23525.37, doi:10.1161/01.res.0000258446.23525.37. This article has 452 citations and is from a highest quality peer-reviewed journal.
+
+11. (arad2007ampactivatedproteinkinase pages 4-5): M. Arad, C. Seidman, and J. Seidman. Amp-activated protein kinase in the heart: role during health and disease. Circulation Research, 100:474-488, Mar 2007. URL: https://doi.org/10.1161/01.res.0000258446.23525.37, doi:10.1161/01.res.0000258446.23525.37. This article has 452 citations and is from a highest quality peer-reviewed journal.
+
+12. (rey2023fromkinasesto pages 1-2): Verónica Rey and Isaac Tamargo-Gómez. From kinases to diseases: investigating the role of ampk in human pathologies. Kinases and Phosphatases, 1:181-205, Aug 2023. URL: https://doi.org/10.3390/kinasesphosphatases1030012, doi:10.3390/kinasesphosphatases1030012. This article has 18 citations.
+
+13. (smiles2025ampkphosphositeprofiling pages 1-2): W. Smiles, Ashley J Ovens, Dingyi Yu, Naomi X. Y. Ling, Andrea C. Poblete Goycoolea, Kaitlin R. Morrison, Emmanuel O. Murphy, Astrid Glaser, Sophie F. Monks O’Byrne, Scott Taylor, A. Chalk, Carl R Walkley, Luke M. McAloon, John W. Scott, Bruce.E. Kemp, Ashfaqul Hoque, C. Langendorf, Janni Petersen, S. Galic, and J. Oakhill. Ampk phosphosite profiling by label-free mass spectrometry reveals a multitude of mtorc1-regulated substrates. npj Metabolic Health and Disease, Mar 2025. URL: https://doi.org/10.1038/s44324-025-00052-7, doi:10.1038/s44324-025-00052-7. This article has 0 citations.
+
+14. (willows2017phosphorylationofampk pages 1-2): Robin J. W. Willows, M. Sanders, B. Xiao, Bhakti R. Patel, S. Martin, J. Read, Jon R. Wilson, J. Hubbard, S. Gamblin, and D. Carling. Phosphorylation of ampk by upstream kinases is required for activity in mammalian cells. Biochemical Journal, 474:3059-3073, Jul 2017. URL: https://doi.org/10.1042/bcj20170458, doi:10.1042/bcj20170458. This article has 192 citations and is from a domain leading peer-reviewed journal.

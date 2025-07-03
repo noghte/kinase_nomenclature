@@ -1,0 +1,96 @@
+## Phylogeny  
+• Orthologs: Saccharomyces cerevisiae Rad53p, Schizosaccharomyces pombe Cds1p and Drosophila melanogaster DmChk2/Loki confirm conservation of the checkpoint-kinase lineage across fungi, insects and vertebrates (gabant2008autophosphorylatedresiduesinvolved pages 1-2, pommier2005targetingchk2kinase pages 1-2).  
+• Kinome placement: member of the CHEK (checkpoint kinase) sub-family within the CaMK-like group; closest human paralogue is CHK1, although domain polarity and activation mechanisms differ (pommier2005targetingchk2kinase pages 1-2).  
+• Highest sequence conservation resides in the FHA domain and catalytic core; N- and C-terminal tails are poorly conserved and intrinsically disordered (cai2009structureandactivation pages 12-12).  
+
+## Reaction Catalyzed  
+• ATP + [protein]-Ser/Thr → ADP + [protein]-O-phospho-Ser/Thr (lountos2009crystalstructureof pages 1-2).  
+
+## Cofactor Requirements  
+• Catalysis requires ATP coordinated by Mg²⁺, as inferred from canonical kinase active-site architecture (cai2009structureandactivation pages 12-12).  
+
+## Substrate Specificity  
+• Preferred consensus: R/K-X-X-S/T with a basic residue at −3 and a hydrophobic residue at +1, exemplified by CDC25A Ser123 and CDC25C Ser216 (pommier2005targetingchk2kinase pages 11-11).  
+• Phosphoproteomic refinement adds a Leu preference at −5, yielding L-X-R-X-X-S/T (black2024chk2sustainsplk1 pages 12-15).  
+
+## Structure  
+• Domain organisation: N-terminal SQ/TQ cluster (19-69), central FHA domain (113-175), C-terminal kinase domain (220-486) and nuclear localisation signal 515-522 (pommier2005targetingchk2kinase pages 2-4).  
+• Crystal structures 3I6U/3I6W reveal kinase-domain dimers with activation-segment exchange positioning Thr383 for trans-autophosphorylation (cai2009structureandactivation pages 1-2, cai2009structureandactivation pages 11-12).  
+• Catalytic core: Lys249 (VAIK), Asp368 (HRD) and DFG motif align with an ordered C-helix and hydrophobic spine in the active state (cai2009structureandactivation pages 11-12).  
+• An auxiliary hydrophobic pocket adjacent to the ATP site accommodates selective inhibitors such as NSC 109555 (lountos2009crystalstructureof pages 1-2).  
+• Ca²⁺-calmodulin binds bidentately across both lobes near Lys373, occluding the substrate cleft and dampening catalysis (horne2024unconventionalbindingof pages 4-7).  
+
+## Regulation  
+• Activation: ATM phosphorylation of Thr68 within the SQ/TQ cluster triggers FHA-mediated dimerisation and subsequent autophosphorylation at Thr383, Thr387 and Ser516 for full activity (cai2009structureandactivation pages 1-2, gabant2008autophosphorylatedresiduesinvolved pages 1-2).  
+• Alternative upstream inputs: TTK/hMps1 (Thr68) links spindle-assembly signals, and JAK2 sustains mitotic CHK2-PLK1 signalling independently of DNA damage (wei2005ttkhmps1participatesin pages 1-2, black2024chk2sustainsplk1 pages 12-15).  
+• Additional phosphosites: Ser19, Ser33, Ser35, Ser372, Thr378, Thr389 and Tyr390 form an interdependent T-loop network controlling activity and chromatin dynamics (guo2010interdependentphosphorylationwithin pages 1-1).  
+• Negative regulation: PP2A dephosphorylates Thr68 to terminate checkpoint signalling (pommier2005targetingchk2kinase pages 9-11).  
+• Ubiquitination: phosphorylation at Ser379 is prerequisite for ubiquitin conjugation; T-loop mutations modulate ubiquitylation efficiency (guo2010interdependentphosphorylationwithin pages 7-8).  
+• Allosteric inhibition: Ca²⁺-calmodulin binding at Lys373 sterically blocks substrate access (horne2024unconventionalbindingof pages 9-12).  
+
+## Function  
+• Expression: stable nuclear protein expressed throughout the cell cycle (pommier2005targetingchk2kinase pages 1-2).  
+• Upstream kinases: ATM, ATR, DNA-PK, TTK/hMps1 and JAK2 phosphorylate or modulate CHK2 (cai2009structureandactivation pages 1-2, wei2005ttkhmps1participatesin pages 1-2, black2024chk2sustainsplk1 pages 12-15).  
+• Downstream substrates:  
+  – CDC25A/B/C phosphatases—phosphorylation inhibits CDK activation and enforces G1/S-G2/M arrest (pommier2005targetingchk2kinase pages 1-2).  
+  – p53 at Ser20/Thr18—stabilises the tumour suppressor and primes apoptotic transcription (pommier2005targetingchk2kinase pages 2-4).  
+  – BRCA1 Ser988 and BRCA2—promote RAD51 loading and homologous-recombination repair (pommier2005targetingchk2kinase pages 11-11, anderson2011cct241533isa pages 11-11).  
+  – PLK1—phosphorylation sustains mitotic fidelity (black2024chk2sustainsplk1 pages 12-15).  
+• Interactors: Mus81 endonuclease, PP2A phosphatase and calmodulin integrate CHK2 into DNA repair, checkpoint and calcium-responsive networks (pommier2005targetingchk2kinase pages 9-11, horne2024unconventionalbindingof pages 9-12).  
+
+## Inhibitors  
+• CCT241533—ATP-competitive; IC₅₀ ≈ 3 nM (recombinant), Ki ≈ 1.2 nM; >80-fold selectivity over CHK1; potentiates PARP-inhibitor cytotoxicity in p53-defective lines (anderson2011cct241533isa pages 1-3, anderson2011cct241533isa pages 5-7).  
+• NSC 109555—binds ATP site plus auxiliary hydrophobic pocket; crystal structure at 2.1 Å defines hinge hydrogen bonds (lountos2009crystalstructureof pages 1-2).  
+• PV1019—cellular IC₅₀ ≈ 2.8–10 µM for Ser516 autophosphorylation; selective across a 53-kinase panel; abrogates CHK2-dependent apoptosis (jobson2009cellularinhibitionof pages 4-6).  
+
+## Other Comments  
+• Germline variants: 1100delC truncation, FHA I157T, kinase H371Y and S428F associate with elevated risks of breast, prostate, gastric, testicular and thyroid cancers (pommier2005targetingchk2kinase pages 4-5, mccarthyleo2024comprehensiveanalysisof pages 16-17).  
+• High-throughput yeast complementation of 669 missense variants shows strong intolerance within the ATP pocket and activation loop (mccarthyleo2024comprehensiveanalysisof pages 7-9).  
+• Somatic L355P mutation impairs kinase activity and confers hypersensitivity to PLK1 inhibitors (black2024chk2sustainsplk1 pages 12-15).  
+• Loss-of-function alleles contribute to Li-Fraumeni-variant syndromes and osteosarcoma predisposition (cai2009structureandactivation pages 1-2).
+
+References
+
+1. (anderson2011cct241533isa pages 1-3): V. Anderson, M. Walton, Paul D. Eve, K. Boxall, L. Antoni, J. Caldwell, W. Aherne, L. Pearl, A. Oliver, I. Collins, and M. Garrett. Cct241533 is a potent and selective inhibitor of chk2 that potentiates the cytotoxicity of parp inhibitors. Cancer research, 71 2:463-72, Jan 2011. URL: https://doi.org/10.1158/0008-5472.can-10-1252, doi:10.1158/0008-5472.can-10-1252. This article has 123 citations and is from a highest quality peer-reviewed journal.
+
+2. (black2024chk2sustainsplk1 pages 12-15): Elizabeth M Black, Carlos Andrés Ramírez Parrado, Isabelle Trier, Wenxue Li, Yoon Ki Joo, Jennifer Pichurin, Yansheng Liu, and Lilian Kabeche. Chk2 sustains plk1 activity in mitosis to ensure proper chromosome segregation. bioRxiv, Mar 2024. URL: https://doi.org/10.1101/2024.03.08.584115, doi:10.1101/2024.03.08.584115. This article has 2 citations.
+
+3. (cai2009structureandactivation pages 1-2): Zhenjian Cai, N. Chehab, and N. Pavletich. Structure and activation mechanism of the chk2 dna damage checkpoint kinase. Molecular cell, 35 6:818-29, Sep 2009. URL: https://doi.org/10.1016/j.molcel.2009.09.007, doi:10.1016/j.molcel.2009.09.007. This article has 237 citations and is from a highest quality peer-reviewed journal.
+
+4. (cai2009structureandactivation pages 11-12): Zhenjian Cai, N. Chehab, and N. Pavletich. Structure and activation mechanism of the chk2 dna damage checkpoint kinase. Molecular cell, 35 6:818-29, Sep 2009. URL: https://doi.org/10.1016/j.molcel.2009.09.007, doi:10.1016/j.molcel.2009.09.007. This article has 237 citations and is from a highest quality peer-reviewed journal.
+
+5. (cai2009structureandactivation pages 12-12): Zhenjian Cai, N. Chehab, and N. Pavletich. Structure and activation mechanism of the chk2 dna damage checkpoint kinase. Molecular cell, 35 6:818-29, Sep 2009. URL: https://doi.org/10.1016/j.molcel.2009.09.007, doi:10.1016/j.molcel.2009.09.007. This article has 237 citations and is from a highest quality peer-reviewed journal.
+
+6. (gabant2008autophosphorylatedresiduesinvolved pages 1-2): Guillaume Gabant, A. Lorphelin, Nathalie Nozerand, C. Marchetti, L. Bellanger, A. Dedieu, E. Quéméneur, and B. Alpha-Bazin. Autophosphorylated residues involved in the regulation of human chk2 in vitro. Journal of molecular biology, 380 3:489-503, Jul 2008. URL: https://doi.org/10.1016/j.jmb.2008.04.053, doi:10.1016/j.jmb.2008.04.053. This article has 22 citations and is from a domain leading peer-reviewed journal.
+
+7. (guo2010interdependentphosphorylationwithin pages 1-1): Xin Guo, Michael D. Ward, Jessica B. Tiedebohl, Yvonne M. Oden, Julius O. Nyalwidhe, and O. John Semmes. Interdependent phosphorylation within the kinase domain t-loop regulates chk2 activity*. Journal of Biological Chemistry, 285:33348-33357, Oct 2010. URL: https://doi.org/10.1074/jbc.m110.149609, doi:10.1074/jbc.m110.149609. This article has 32 citations and is from a domain leading peer-reviewed journal.
+
+8. (horne2024unconventionalbindingof pages 4-7): Christopher R. Horne, Tingting Wang, Samuel N. Young, Toby A. Dite, Hunter G. Nyvall, Sushant Suresh, Katherine A. Davies, Lucy J. Mather, Laura F. Dagley, Gerard Manning, Anthony R. Means, John E. Burke, Janni Petersen, John W. Scott, and James M. Murphy. Unconventional binding of calmodulin to chk2 kinase inhibits catalytic activity. BioRxiv, Oct 2024. URL: https://doi.org/10.1101/2024.10.08.617309, doi:10.1101/2024.10.08.617309. This article has 1 citations.
+
+9. (lountos2009crystalstructureof pages 1-2): George T. Lountos, Joseph E. Tropea, Di Zhang, Andrew G. Jobson, Yves Pommier, Robert H. Shoemaker, and David S. Waugh. Crystal structure of checkpoint kinase 2 in complex with nsc 109555, a potent and selective inhibitor. Protein Science, 18:92-100, Dec 2009. URL: https://doi.org/10.1002/pro.16, doi:10.1002/pro.16. This article has 31 citations and is from a peer-reviewed journal.
+
+10. (mccarthyleo2024comprehensiveanalysisof pages 7-9): Claire McCarthy-Leo, George S. Brush, R. Pique-Regi, Francesca Luca, Michael A. Tainsky, and Russell L. Finley. Comprehensive analysis of the functional impact of single nucleotide variants of human chek2. PLOS Genetics, Dec 2024. URL: https://doi.org/10.1371/journal.pgen.1011375, doi:10.1371/journal.pgen.1011375. This article has 2 citations and is from a domain leading peer-reviewed journal.
+
+11. (pommier2005targetingchk2kinase pages 1-2): Y. Pommier, O. Sordet, V. A. Rao, Hongliang Zhang, and K. Kohn. Targeting chk2 kinase: molecular interaction maps and therapeutic rationale. Current Pharmaceutical Design, 11:2855-2572, Aug 2005. URL: https://doi.org/10.2174/1381612054546716, doi:10.2174/1381612054546716. This article has 111 citations and is from a peer-reviewed journal.
+
+12. (pommier2005targetingchk2kinase pages 11-11): Y. Pommier, O. Sordet, V. A. Rao, Hongliang Zhang, and K. Kohn. Targeting chk2 kinase: molecular interaction maps and therapeutic rationale. Current Pharmaceutical Design, 11:2855-2572, Aug 2005. URL: https://doi.org/10.2174/1381612054546716, doi:10.2174/1381612054546716. This article has 111 citations and is from a peer-reviewed journal.
+
+13. (pommier2005targetingchk2kinase pages 2-4): Y. Pommier, O. Sordet, V. A. Rao, Hongliang Zhang, and K. Kohn. Targeting chk2 kinase: molecular interaction maps and therapeutic rationale. Current Pharmaceutical Design, 11:2855-2572, Aug 2005. URL: https://doi.org/10.2174/1381612054546716, doi:10.2174/1381612054546716. This article has 111 citations and is from a peer-reviewed journal.
+
+14. (pommier2005targetingchk2kinase pages 4-5): Y. Pommier, O. Sordet, V. A. Rao, Hongliang Zhang, and K. Kohn. Targeting chk2 kinase: molecular interaction maps and therapeutic rationale. Current Pharmaceutical Design, 11:2855-2572, Aug 2005. URL: https://doi.org/10.2174/1381612054546716, doi:10.2174/1381612054546716. This article has 111 citations and is from a peer-reviewed journal.
+
+15. (pommier2005targetingchk2kinase pages 9-11): Y. Pommier, O. Sordet, V. A. Rao, Hongliang Zhang, and K. Kohn. Targeting chk2 kinase: molecular interaction maps and therapeutic rationale. Current Pharmaceutical Design, 11:2855-2572, Aug 2005. URL: https://doi.org/10.2174/1381612054546716, doi:10.2174/1381612054546716. This article has 111 citations and is from a peer-reviewed journal.
+
+16. (anderson2011cct241533isa pages 11-11): V. Anderson, M. Walton, Paul D. Eve, K. Boxall, L. Antoni, J. Caldwell, W. Aherne, L. Pearl, A. Oliver, I. Collins, and M. Garrett. Cct241533 is a potent and selective inhibitor of chk2 that potentiates the cytotoxicity of parp inhibitors. Cancer research, 71 2:463-72, Jan 2011. URL: https://doi.org/10.1158/0008-5472.can-10-1252, doi:10.1158/0008-5472.can-10-1252. This article has 123 citations and is from a highest quality peer-reviewed journal.
+
+17. (horne2024unconventionalbindingof pages 9-12): Christopher R. Horne, Tingting Wang, Samuel N. Young, Toby A. Dite, Hunter G. Nyvall, Sushant Suresh, Katherine A. Davies, Lucy J. Mather, Laura F. Dagley, Gerard Manning, Anthony R. Means, John E. Burke, Janni Petersen, John W. Scott, and James M. Murphy. Unconventional binding of calmodulin to chk2 kinase inhibits catalytic activity. BioRxiv, Oct 2024. URL: https://doi.org/10.1101/2024.10.08.617309, doi:10.1101/2024.10.08.617309. This article has 1 citations.
+
+18. (jobson2009cellularinhibitionof pages 4-6): A. Jobson, G. Lountos, P. Lorenzi, J. Llamas, J. Connelly, D. Cerna, J. Tropea, A. Onda, G. Zoppoli, S. Kondapaka, Guangtao Zhang, N. Caplen, J. Cardellina, S. Yoo, A. Monks, C. Self, D. Waugh, R. Shoemaker, and Y. Pommier. Cellular inhibition of checkpoint kinase 2 (chk2) and potentiation of camptothecins and radiation by the novel chk2 inhibitor pv1019 [7-nitro-1h-indole-2-carboxylic acid 4-[1-(guanidinohydrazone)-ethyl]-phenyl-amide]. Journal of Pharmacology and Experimental Therapeutics, 331:816-826, Dec 2009. URL: https://doi.org/10.1124/jpet.109.154997, doi:10.1124/jpet.109.154997. This article has 116 citations and is from a domain leading peer-reviewed journal.
+
+19. (mccarthyleo2024comprehensiveanalysisof pages 16-17): Claire McCarthy-Leo, George S. Brush, R. Pique-Regi, Francesca Luca, Michael A. Tainsky, and Russell L. Finley. Comprehensive analysis of the functional impact of single nucleotide variants of human chek2. PLOS Genetics, Dec 2024. URL: https://doi.org/10.1371/journal.pgen.1011375, doi:10.1371/journal.pgen.1011375. This article has 2 citations and is from a domain leading peer-reviewed journal.
+
+20. (wei2005ttkhmps1participatesin pages 1-2): Jen-Hsuan Wei, Yi-Fan Chou, Yi-Hung Ou, Yen-Hsiu Yeh, Shiaw-Wei Tyan, Te-Ping Sun, Chen-Yang Shen, and Sheau-Yann Shieh. Ttk/hmps1 participates in the regulation of dna damage checkpoint response by phosphorylating chk2 on threonine 68*. Journal of Biological Chemistry, 280:7748-7757, Mar 2005. URL: https://doi.org/10.1074/jbc.m410152200, doi:10.1074/jbc.m410152200. This article has 125 citations and is from a domain leading peer-reviewed journal.
+
+21. (anderson2011cct241533isa pages 5-7): V. Anderson, M. Walton, Paul D. Eve, K. Boxall, L. Antoni, J. Caldwell, W. Aherne, L. Pearl, A. Oliver, I. Collins, and M. Garrett. Cct241533 is a potent and selective inhibitor of chk2 that potentiates the cytotoxicity of parp inhibitors. Cancer research, 71 2:463-72, Jan 2011. URL: https://doi.org/10.1158/0008-5472.can-10-1252, doi:10.1158/0008-5472.can-10-1252. This article has 123 citations and is from a highest quality peer-reviewed journal.
+
+22. (guo2010interdependentphosphorylationwithin pages 7-8): Xin Guo, Michael D. Ward, Jessica B. Tiedebohl, Yvonne M. Oden, Julius O. Nyalwidhe, and O. John Semmes. Interdependent phosphorylation within the kinase domain t-loop regulates chk2 activity*. Journal of Biological Chemistry, 285:33348-33357, Oct 2010. URL: https://doi.org/10.1074/jbc.m110.149609, doi:10.1074/jbc.m110.149609. This article has 32 citations and is from a domain leading peer-reviewed journal.

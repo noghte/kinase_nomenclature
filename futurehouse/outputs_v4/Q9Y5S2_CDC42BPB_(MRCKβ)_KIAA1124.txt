@@ -1,0 +1,87 @@
+## Phylogeny  
+• Kinome: AGC group → DMPK/ROCK/MRCK sub-family (manning2002theproteinkinase pages 7-8)  
+• Closest human paralogs: MRCKα (85 % identity) and MRCKγ (72 %) within kinase domain (unbekandt2014theactinmyosinregulatory pages 2-4)  
+• Representative orthologs: Mus musculus Cdc42bpb, Danio rerio cdc42bpb, Drosophila melanogaster Genghis Khan, Caenorhabditis elegans MRCK-1 (unbekandt2014theactinmyosinregulatory pages 1-2)  
+• Shares 45–50 % kinase-domain identity with ROCK1/2, reflecting divergence among Rho-GTPase effector kinases (ruscetta2023opportunitiesandchallenges pages 1-2)  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (unbekandt2014theactinmyosinregulatory pages 1-2)  
+
+## Cofactor Requirements  
+Catalytic activity requires Mg²⁺; Mn²⁺ can substitute in vitro (unbekandt2020thecdc42effector pages 1-3)  
+
+## Substrate Specificity  
+Consensus motif: basic residues at −3/−2 and strong exclusion of acidic side chains, yielding R/K-x-x-S/T preference (johnson2023anatlasof pages 1-2)  
+
+## Structure  
+• Domain layout (N→C): capped-helix bundle ▸ kinase domain ▸ coiled-coil/KIM ▸ C1 ▸ PH ▸ CNH ▸ CRIB (zhao2015myotonicdystrophykinaserelated pages 3-4)  
+• Crystal structures: apo/ADP (PDB 4UAK) shows active conformation without activation-loop phosphorylation (unbekandt2020thecdc42effector pages 1-3)  
+• Inhibitor complexes: BDP5290 (PDB 4UAL), BDP9066 (PDB 5OTF), BDP8900 (PDB 5OTE) bind hinge via Asp154/Tyr156; gatekeeper Thr137 plus conserved water complete catalytic spine (ruscetta2023opportunitiesandchallenges pages 11-14)  
+• Catalytic Lys105 engages ATP β-phosphate; ordered activation loop and properly aligned αC-helix support constitutive catalytic geometry (unbekandt2020thecdc42effector pages 1-3)  
+• N-terminal dimerization helices mediate stable kinase dimers; higher-order tetramers observed in solution (zhao2015myotonicdystrophykinaserelated pages 4-5)  
+
+## Regulation  
+• Upstream activator: membrane recruitment through CRIB binding to CDC42-GTP (leung1998myotonicdystrophykinaserelated pages 6-9)  
+• Autoinhibitory KIM within coiled-coil suppresses activity until relieved by conformational change (zhao2015myotonicdystrophykinaserelated pages 3-4)  
+• Lipid control: diacylglycerol/phorbol-ester binding to C1 increases activity ~3-fold (zhao2015myotonicdystrophykinaserelated pages 3-4)  
+• Autophosphorylation: Thr1108 in cis; serves as activity biomarker without altering catalytic rate (unbekandt2020thecdc42effector pages 1-3)  
+• Substrate-directed feedback: phosphorylation of MYPT1 Thr697/Thr855 inhibits myosin phosphatase, reinforcing actomyosin tension (zhao2015myotonicdystrophykinaserelated pages 5-6)  
+
+## Function  
+• Expression: ubiquitous with highest transcript levels in brain; overall abundance exceeds MRCKγ across tissues (unbekandt2020thecdc42effector pages 3-4)  
+• Upstream regulators: CDC42-GTP (primary) and Rac1-GTP (secondary) via CRIB (ruscetta2023opportunitiesandchallenges pages 2-6)  
+• Verified substrates and partners:  
+  – MYL9/MLC2 Ser19/Thr18 → actomyosin contractility (unbekandt2014theactinmyosinregulatory pages 1-2)  
+  – MYPT1 (PPP1R12A) Thr654/Thr697/Thr855 → myosin phosphatase inhibition (zhao2015myotonicdystrophykinaserelated pages 5-6)  
+  – PPP1R12C phosphorylation modulates cortical actin (ruscetta2023opportunitiesandchallenges pages 2-6)  
+  – LIMK1/2 targeting via FAM89B/LRAP25 enables cofilin regulation (ruscetta2023opportunitiesandchallenges pages 2-6)  
+  – MYO18A–LURAP1 complex orchestrates lamellar retrograde flow (ruscetta2023opportunitiesandchallenges pages 2-6)  
+• Biological roles: epithelial polarization, lamellipodial protrusion, cell migration, phagocytosis, and cancer cell invasion (unbekandt2014theactinmyosinregulatory pages 6-7)  
+
+## Inhibitors  
+• BDP5290: Ki ≈ 4 nM; >40-fold selectivity vs. ROCK (ruscetta2023opportunitiesandchallenges pages 9-11)  
+• BDP8900: sub-nanomolar potency; high cellular selectivity (unbekandt2018discoveryofpotent pages 18-20)  
+• BDP9066: sub-nanomolar potency; PDB 5OTF complex solved (ruscetta2023opportunitiesandchallenges pages 11-14)  
+• DJ4: dual MRCK/ROCK inhibitor; IC₅₀ ≈ 0.1 µM for MRCKβ (ruscetta2023opportunitiesandchallenges pages 1-2)  
+• Chelerythrine: non-ATP-competitive; IC₅₀ ≈ 1.8 µM (zhao2015myotonicdystrophykinaserelated pages 5-6)  
+• Fasudil and Y-27632 inhibit MRCKβ with lower potency (zhao2015myotonicdystrophykinaserelated pages 4-5)  
+
+## Other Comments  
+• Gene amplification/over-expression correlates with aggressive ovarian, breast, cutaneous squamous carcinoma and glioma phenotypes; MRCK inhibition suppresses invasion and tumour growth in pre-clinical models (ruscetta2023opportunitiesandchallenges pages 6-9, unbekandt2018discoveryofpotent pages 18-20)  
+• Autophosphorylation Thr1108 and MRCKα Ser1003 function as pharmacodynamic biomarkers for inhibitor response (unbekandt2020thecdc42effector pages 1-3)
+
+References
+
+1. (ruscetta2023opportunitiesandchallenges pages 1-2): Vanessa M. Ruscetta, Taj J. Seaton, Aleen Shakeel, Stanley N. S. Vasconcelos, Russell D. Viirre, Marc J. Adler, and Michael F. Olson. Opportunities and challenges for the development of mrck kinases inhibitors as potential cancer chemotherapeutics. Cells, 12:534, Feb 2023. URL: https://doi.org/10.3390/cells12040534, doi:10.3390/cells12040534. This article has 3 citations and is from a peer-reviewed journal.
+
+2. (ruscetta2023opportunitiesandchallenges pages 11-14): Vanessa M. Ruscetta, Taj J. Seaton, Aleen Shakeel, Stanley N. S. Vasconcelos, Russell D. Viirre, Marc J. Adler, and Michael F. Olson. Opportunities and challenges for the development of mrck kinases inhibitors as potential cancer chemotherapeutics. Cells, 12:534, Feb 2023. URL: https://doi.org/10.3390/cells12040534, doi:10.3390/cells12040534. This article has 3 citations and is from a peer-reviewed journal.
+
+3. (ruscetta2023opportunitiesandchallenges pages 2-6): Vanessa M. Ruscetta, Taj J. Seaton, Aleen Shakeel, Stanley N. S. Vasconcelos, Russell D. Viirre, Marc J. Adler, and Michael F. Olson. Opportunities and challenges for the development of mrck kinases inhibitors as potential cancer chemotherapeutics. Cells, 12:534, Feb 2023. URL: https://doi.org/10.3390/cells12040534, doi:10.3390/cells12040534. This article has 3 citations and is from a peer-reviewed journal.
+
+4. (unbekandt2014theactinmyosinregulatory pages 1-2): Mathieu Unbekandt and Michael F. Olson. The actin-myosin regulatory mrck kinases: regulation, biological functions and associations with human cancer. Journal of Molecular Medicine, 92:217-225, Feb 2014. URL: https://doi.org/10.1007/s00109-014-1133-6, doi:10.1007/s00109-014-1133-6. This article has 100 citations.
+
+5. (unbekandt2014theactinmyosinregulatory pages 2-4): Mathieu Unbekandt and Michael F. Olson. The actin-myosin regulatory mrck kinases: regulation, biological functions and associations with human cancer. Journal of Molecular Medicine, 92:217-225, Feb 2014. URL: https://doi.org/10.1007/s00109-014-1133-6, doi:10.1007/s00109-014-1133-6. This article has 100 citations.
+
+6. (unbekandt2018discoveryofpotent pages 18-20): Mathieu Unbekandt, Simone Belshaw, Justin Bower, Maeve Clarke, Jacqueline Cordes, Diane Crighton, Daniel R. Croft, Martin J. Drysdale, Mathew J. Garnett, Kathryn Gill, Christopher Gray, David A. Greenhalgh, James A.M. Hall, Jennifer Konczal, Sergio Lilla, Duncan McArthur, Patricia McConnell, Laura McDonald, Lynn McGarry, Heather McKinnon, Carol McMenemy, Mokdad Mezna, Nicolas A. Morrice, June Munro, Gregory Naylor, Nicola Rath, Alexander W. Schüttelkopf, Mairi Sime, and Michael F. Olson. Discovery of potent and selective mrck inhibitors with therapeutic effect on skin cancer. Cancer research, 78 8:2096-2114, Apr 2018. URL: https://doi.org/10.1158/0008-5472.can-17-2870, doi:10.1158/0008-5472.can-17-2870. This article has 43 citations and is from a highest quality peer-reviewed journal.
+
+7. (unbekandt2020thecdc42effector pages 1-3): Mathieu Unbekandt, Sergio Lilla, Sara Zanivan, and Michael F. Olson. The cdc42 effector protein mrckβ autophosphorylates on threonine 1108. Small GTPases, 11:451-460, Jan 2020. URL: https://doi.org/10.1080/21541248.2018.1564472, doi:10.1080/21541248.2018.1564472. This article has 6 citations and is from a peer-reviewed journal.
+
+8. (zhao2015myotonicdystrophykinaserelated pages 4-5): Zhuo-shen Zhao and E. Manser. Myotonic dystrophy kinase-related cdc42-binding kinases (mrck), the rock-like effectors of cdc42 and rac1. Small GTPases, 6:81-88, Apr 2015. URL: https://doi.org/10.1080/21541248.2014.1000699, doi:10.1080/21541248.2014.1000699. This article has 79 citations and is from a peer-reviewed journal.
+
+9. (zhao2015myotonicdystrophykinaserelated pages 5-6): Zhuo-shen Zhao and E. Manser. Myotonic dystrophy kinase-related cdc42-binding kinases (mrck), the rock-like effectors of cdc42 and rac1. Small GTPases, 6:81-88, Apr 2015. URL: https://doi.org/10.1080/21541248.2014.1000699, doi:10.1080/21541248.2014.1000699. This article has 79 citations and is from a peer-reviewed journal.
+
+10. (leung1998myotonicdystrophykinaserelated pages 6-9): Thomas Leung, Xiang-Qun Chen, Ivan Tan, Edward Manser, and Louis Lim. Myotonic dystrophy kinase-related cdc42-binding kinase acts as a cdc42 effector in promoting cytoskeletal reorganization. Molecular and Cellular Biology, 18:130-140, Jan 1998. URL: https://doi.org/10.1128/mcb.18.1.130, doi:10.1128/mcb.18.1.130. This article has 374 citations and is from a domain leading peer-reviewed journal.
+
+11. (manning2002theproteinkinase pages 7-8): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10732 citations and is from a highest quality peer-reviewed journal.
+
+12. (ruscetta2023opportunitiesandchallenges pages 6-9): Vanessa M. Ruscetta, Taj J. Seaton, Aleen Shakeel, Stanley N. S. Vasconcelos, Russell D. Viirre, Marc J. Adler, and Michael F. Olson. Opportunities and challenges for the development of mrck kinases inhibitors as potential cancer chemotherapeutics. Cells, 12:534, Feb 2023. URL: https://doi.org/10.3390/cells12040534, doi:10.3390/cells12040534. This article has 3 citations and is from a peer-reviewed journal.
+
+13. (ruscetta2023opportunitiesandchallenges pages 9-11): Vanessa M. Ruscetta, Taj J. Seaton, Aleen Shakeel, Stanley N. S. Vasconcelos, Russell D. Viirre, Marc J. Adler, and Michael F. Olson. Opportunities and challenges for the development of mrck kinases inhibitors as potential cancer chemotherapeutics. Cells, 12:534, Feb 2023. URL: https://doi.org/10.3390/cells12040534, doi:10.3390/cells12040534. This article has 3 citations and is from a peer-reviewed journal.
+
+14. (unbekandt2014theactinmyosinregulatory pages 6-7): Mathieu Unbekandt and Michael F. Olson. The actin-myosin regulatory mrck kinases: regulation, biological functions and associations with human cancer. Journal of Molecular Medicine, 92:217-225, Feb 2014. URL: https://doi.org/10.1007/s00109-014-1133-6, doi:10.1007/s00109-014-1133-6. This article has 100 citations.
+
+15. (unbekandt2020thecdc42effector pages 3-4): Mathieu Unbekandt, Sergio Lilla, Sara Zanivan, and Michael F. Olson. The cdc42 effector protein mrckβ autophosphorylates on threonine 1108. Small GTPases, 11:451-460, Jan 2020. URL: https://doi.org/10.1080/21541248.2018.1564472, doi:10.1080/21541248.2018.1564472. This article has 6 citations and is from a peer-reviewed journal.
+
+16. (zhao2015myotonicdystrophykinaserelated pages 3-4): Zhuo-shen Zhao and E. Manser. Myotonic dystrophy kinase-related cdc42-binding kinases (mrck), the rock-like effectors of cdc42 and rac1. Small GTPases, 6:81-88, Apr 2015. URL: https://doi.org/10.1080/21541248.2014.1000699, doi:10.1080/21541248.2014.1000699. This article has 79 citations and is from a peer-reviewed journal.
+
+17. (johnson2023anatlasof pages 1-2): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 444 citations and is from a highest quality peer-reviewed journal.

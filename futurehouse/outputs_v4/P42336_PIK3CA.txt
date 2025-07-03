@@ -1,0 +1,92 @@
+## Phylogeny
+The PIK3CA gene encodes the p110α catalytic subunit, which is a Class IA phosphoinositide 3-kinase (PI3K) (burke2018structuralbasisfor pages 5-6, brown2011phylogenomicsofphosphoinositide pages 1-3). The PI3K family is classified within the Atypical kinase group in the human kinome, distinct from the AGC kinase family (leontiadou2018insightsintothe pages 14-14, brown2011phylogenomicsofphosphoinositide pages 8-9). The protein is evolutionarily conserved, with orthologs identified across vertebrates and deuterostome lineages, including the sea urchin (*Strongylocentrotus purpuratus*), tunicate (*Ciona intestinalis*), and cephalochordate (*Branchiostoma floridae*) (brown2011phylogenomicsofphosphoinositide pages 8-9, burke2018structuralbasisfor pages 5-6).
+
+
+## Reaction Catalyzed
+The enzyme catalyzes the ATP-dependent phosphorylation of the 3-position of the inositol ring of phosphatidylinositols (burke2012oncogenicmutationsmimic pages 1-1, huang2008insightsintothe pages 5-7). Specifically, it converts phosphatidylinositol 4,5-bisphosphate (PIP2) to phosphatidylinositol 3,4,5-trisphosphate (PIP3), generating ADP as a product (huang2008insightsintothe pages 1-2, zhao2008classipi3k pages 1-2).
+
+
+## Cofactor Requirements
+The catalytic activity of p110α requires Mg²⁺ as a cofactor for phosphoryl transfer (brown2011phylogenomicsofphosphoinositide pages 1-3, wang2017theimpactof pages 7-11).
+
+
+## Substrate Specificity
+PIK3CA functions primarily as a lipid kinase with specificity for phosphatidylinositol lipids such as PIP2 (huang2008insightsintothe pages 4-5, leontiadou2018insightsintothe pages 14-14, vogt2023structuralandmechanistic pages 4-6). It also exhibits protein kinase activity, capable of phosphorylating its associated regulatory subunit, p85α, on Ser608 (unknownauthors2006regulationofclass pages 35-37). There is less evidence for defined consensus motifs for other protein substrates (wang2017theimpactof pages 20-26, vogt2023structuralandmechanistic pages 4-6).
+
+
+## Structure
+The p110α catalytic subunit is composed of five domains: an N-terminal adaptor-binding domain (ABD) that interacts with the p85 regulatory subunit, a Ras-binding domain (RBD), a C2 domain involved in membrane binding, a helical domain that participates in regulatory interactions, and a C-terminal kinase domain that performs catalysis (burke2012oncogenicmutationsmimic pages 1-1, vogt2007cancerspecificmutationsin pages 3-5, zhao2008classipi3k pages 2-4). Crystal structures of the human p110α/p85α complex have been resolved (e.g., PDB IDs 2RD0, 4OVU) (gkeka2014investigatingthestructure pages 11-12, leontiadou2018insightsintothe pages 12-14). Key structural features within the kinase domain include the ATP-binding site, a conserved C-helix, a P-loop, a catalytic loop, and an activation loop, which are critical for enzymatic function and regulation (brown2011phylogenomicsofphosphoinositide pages 1-3, gkeka2014investigatingthestructure pages 11-12).
+
+
+## Regulation
+The activity of p110α is regulated by allosteric mechanisms and post-translational modifications (PTMs). In its basal state, p110α is inhibited by the p85 regulatory subunit (burke2012oncogenicmutationsmimic pages 1-1). Activation occurs when the SH2 domains of p85 bind to phosphotyrosine motifs on receptor tyrosine kinases (RTKs), relieving inhibitory contacts, or through the direct binding of GTP-bound Ras to the p110α RBD (burke2012oncogenicmutationsmimic pages 1-1, liu2014thestructuralbasis pages 1-2, zhao2008classipi3k pages 2-4). PTMs provide further layers of control. The protein kinase activity of p110α phosphorylates its p85α regulatory subunit on Ser608, which reduces PI3K lipid kinase activity by approximately 80% (unknownauthors2006regulationofclass pages 35-37). Protein kinase C alpha (PKCα) phosphorylates p110α on serine residues, which also partially inhibits its lipid kinase activity (unknownauthors2006regulationofclass pages 35-37). Additionally, p110α is tyrosine phosphorylated by kinases such as Lck, which modulates its association with receptor complexes (unknownauthors2006regulationofclass pages 35-37). Ubiquitination exerts dual control over p110α: the E3 ligase NEDD4L targets it for proteasomal degradation, reducing its stability, whereas the E3 ligase TRAF6 ubiquitinates p110α to enhance its kinase activity and downstream signaling (wang2018traf6interactswith pages 21-26, wang2018traf6interactswith pages 14-18).
+
+
+## Function
+PIK3CA is widely expressed across many tissues (wang2017theimpactof pages 1-7, wang2017theimpactof pages 7-11). It is a crucial enzyme in the PI3K/AKT/mTOR signaling pathway, which regulates fundamental cellular processes including cell growth, proliferation, survival, and metabolism (huang2008insightsintothe pages 1-2, zhao2008classipi3k pages 1-2). Upstream signals from RTKs and G-protein coupled receptors (GPCRs) activate PI3K (zhao2008classipi3k pages 2-4). The resulting production of the second messenger PIP3 recruits downstream effectors containing Pleckstrin homology (PH) domains, such as the kinases AKT and PDK1, to the plasma membrane (huang2008insightsintothe pages 1-2). This leads to the activation of AKT, which then phosphorylates a wide array of substrates including TSC, FOXO1, GSK3β, and effectors of mTOR like S6K and 4E-BP1 (zhao2008classipi3k pages 2-4, vogt2007cancerspecificmutationsin pages 3-5). The tumor suppressor PTEN acts as a negative regulator of this pathway by dephosphorylating PIP3 (flanagan2014structurefunctionand pages 1-2, huang2008insightsintothe pages 1-2).
+
+
+## Inhibitors
+Both pan-PI3K and isoform-selective inhibitors have been developed. Broad-spectrum inhibitors include wortmannin and LY294002 (huang2008insightsintothe pages 5-7). Isoform-specific inhibitors targeting p110α include Alpelisib (BYL-719) and Inavolisib (GDC-0077) (burke2018structuralbasisfor pages 2-4, vogt2023structuralandmechanistic pages 7-8). Other compounds targeting the pathway include NVP-BEZ235 and SF-1126, as well as inhibitors of the downstream kinase AKT, such as API-2 and GSK690693 (wang2017theimpactof pages 38-39, wang2017theimpactof pages 20-26).
+
+
+## Other Comments
+PIK3CA is one of the most frequently mutated genes in human cancers, including breast, colorectal, endometrial, and gastric carcinomas (burke2012oncogenicmutationsmimic pages 1-1, chalhoub2009ptenandthe pages 5-7). Approximately 80% of these oncogenic mutations are gain-of-function and cluster at three hotspots: E542K and E545K in the helical domain, and H1047R in the kinase domain (chalhoub2009ptenandthe pages 5-7, zhao2008classipi3k pages 1-2). Helical domain mutations cause constitutive activation by disrupting inhibitory contacts with the nSH2 domain of the p85 regulatory subunit, thereby mimicking RTK-mediated activation (burke2012oncogenicmutationsmimic pages 1-1, wang2017theimpactof pages 11-16). The H1047R kinase domain mutation enhances catalytic activity by altering the conformation of the activation loop and increasing the enzyme's affinity for the cell membrane (burke2012oncogenicmutationsmimic pages 1-1, huang2008insightsintothe pages 4-5). Other less common oncogenic mutations in the ABD (e.g., R88A) and C2 domain (e.g., N345K) also enhance kinase activity by relieving inhibitory interactions or increasing membrane affinity (zhao2008classipi3k pages 4-5).
+
+References
+
+1. (burke2012oncogenicmutationsmimic pages 1-1): John E. Burke, Olga Perisic, Glenn R. Masson, Oscar Vadas, and Roger L. Williams. Oncogenic mutations mimic and enhance dynamic events in the natural activation of phosphoinositide 3-kinase p110α ( <i>pik3ca</i> ). Proceedings of the National Academy of Sciences, 109:15259-15264, Sep 2012. URL: https://doi.org/10.1073/pnas.1205508109, doi:10.1073/pnas.1205508109. This article has 320 citations.
+
+2. (burke2018structuralbasisfor pages 5-6): John E. Burke. Structural basis for regulation of phosphoinositide kinases and their involvement in human disease. Molecular Cell, 71:653-673, Sep 2018. URL: https://doi.org/10.1016/j.molcel.2018.08.005, doi:10.1016/j.molcel.2018.08.005. This article has 255 citations and is from a highest quality peer-reviewed journal.
+
+3. (flanagan2014structurefunctionand pages 1-2): J. Flanagan and P. Shepherd. Structure, function and inhibition of the phosphoinositide 3-kinase p110α enzyme. Biochemical Society transactions, 42 1:120-4, Feb 2014. URL: https://doi.org/10.1042/bst20130255, doi:10.1042/bst20130255. This article has 17 citations and is from a peer-reviewed journal.
+
+4. (huang2008insightsintothe pages 1-2): Chuangfang Huang, D. Mandelker, S. Gabelli, and L. Amzel. Insights into the oncogenic effects of /pik3ca/ mutations from the structure of p110α/p85α. Cell Cycle, 7:1151-1156, May 2008. URL: https://doi.org/10.4161/cc.7.9.5817, doi:10.4161/cc.7.9.5817. This article has 108 citations and is from a peer-reviewed journal.
+
+5. (huang2008insightsintothe pages 4-5): Chuangfang Huang, D. Mandelker, S. Gabelli, and L. Amzel. Insights into the oncogenic effects of /pik3ca/ mutations from the structure of p110α/p85α. Cell Cycle, 7:1151-1156, May 2008. URL: https://doi.org/10.4161/cc.7.9.5817, doi:10.4161/cc.7.9.5817. This article has 108 citations and is from a peer-reviewed journal.
+
+6. (huang2008insightsintothe pages 5-7): Chuangfang Huang, D. Mandelker, S. Gabelli, and L. Amzel. Insights into the oncogenic effects of /pik3ca/ mutations from the structure of p110α/p85α. Cell Cycle, 7:1151-1156, May 2008. URL: https://doi.org/10.4161/cc.7.9.5817, doi:10.4161/cc.7.9.5817. This article has 108 citations and is from a peer-reviewed journal.
+
+7. (leontiadou2018insightsintothe pages 14-14): Hari Leontiadou, Ioannis Galdadas, C. Athanasiou, and Z. Cournia. Insights into the mechanism of the pik3ca e545k activating mutation using md simulations. Scientific Reports, Oct 2018. URL: https://doi.org/10.1038/s41598-018-27044-6, doi:10.1038/s41598-018-27044-6. This article has 71 citations and is from a poor quality or predatory journal.
+
+8. (vogt2007cancerspecificmutationsin pages 3-5): Peter K. Vogt, Sohye Kang, Marc-André Elsliger, and Marco Gymnopoulos. Cancer-specific mutations in phosphatidylinositol 3-kinase. Trends in Biochemical Sciences, 32:342-349, Jul 2007. URL: https://doi.org/10.1016/j.tibs.2007.05.005, doi:10.1016/j.tibs.2007.05.005. This article has 204 citations and is from a domain leading peer-reviewed journal.
+
+9. (vogt2023structuralandmechanistic pages 4-6): Peter K. Vogt, Jonathan R. Hart, Su Yang, Qingtong Zhou, Dehua Yang, and Ming-Wei Wang. Structural and mechanistic insights provided by single particle cryo-em analysis of phosphoinositide 3-kinase (pi3kα). Biochimica et Biophysica Acta (BBA) - Reviews on Cancer, 1878:188947, Sep 2023. URL: https://doi.org/10.1016/j.bbcan.2023.188947, doi:10.1016/j.bbcan.2023.188947. This article has 4 citations.
+
+10. (wang2017theimpactof pages 1-7): William Wang, Jiapei Lv, Lingyan Wang, Xiangdong Wang, and Ling Ye. The impact of heterogeneity in phosphoinositide 3-kinase pathway in human cancer and possible therapeutic treatments. Seminars in Cell &amp; Developmental Biology, 64:116-124, Apr 2017. URL: https://doi.org/10.1016/j.semcdb.2016.08.024, doi:10.1016/j.semcdb.2016.08.024. This article has 15 citations.
+
+11. (wang2017theimpactof pages 20-26): William Wang, Jiapei Lv, Lingyan Wang, Xiangdong Wang, and Ling Ye. The impact of heterogeneity in phosphoinositide 3-kinase pathway in human cancer and possible therapeutic treatments. Seminars in Cell &amp; Developmental Biology, 64:116-124, Apr 2017. URL: https://doi.org/10.1016/j.semcdb.2016.08.024, doi:10.1016/j.semcdb.2016.08.024. This article has 15 citations.
+
+12. (brown2011phylogenomicsofphosphoinositide pages 1-3): James R Brown and Kurt R Auger. Phylogenomics of phosphoinositide lipid kinases: perspectives on the evolution of second messenger signaling and drug discovery. BMC Evolutionary Biology, 11:4-4, Jan 2011. URL: https://doi.org/10.1186/1471-2148-11-4, doi:10.1186/1471-2148-11-4. This article has 129 citations.
+
+13. (burke2018structuralbasisfor pages 2-4): John E. Burke. Structural basis for regulation of phosphoinositide kinases and their involvement in human disease. Molecular Cell, 71:653-673, Sep 2018. URL: https://doi.org/10.1016/j.molcel.2018.08.005, doi:10.1016/j.molcel.2018.08.005. This article has 255 citations and is from a highest quality peer-reviewed journal.
+
+14. (chalhoub2009ptenandthe pages 5-7): Nader Chalhoub and Suzanne J. Baker. Pten and the pi3-kinase pathway in cancer. Annual review of pathology, 4:127-50, Feb 2009. URL: https://doi.org/10.1146/annurev.pathol.4.110807.092311, doi:10.1146/annurev.pathol.4.110807.092311. This article has 1615 citations.
+
+15. (liu2014thestructuralbasis pages 1-2): Shujuan Liu, Stefan Knapp, and Ahmed Ashour Ahmed. The structural basis of pi3k cancer mutations: from mechanism to therapy. Cancer Research, 74:641-646, Feb 2014. URL: https://doi.org/10.1158/0008-5472.can-13-2319, doi:10.1158/0008-5472.can-13-2319. This article has 92 citations and is from a highest quality peer-reviewed journal.
+
+16. (unknownauthors2006regulationofclass pages 35-37): Regulation of class IA phosphoinositide 3-kinase signalling enzymes by post-translational modifications, protein interactions and absolute protein expression …
+
+17. (vogt2023structuralandmechanistic pages 7-8): Peter K. Vogt, Jonathan R. Hart, Su Yang, Qingtong Zhou, Dehua Yang, and Ming-Wei Wang. Structural and mechanistic insights provided by single particle cryo-em analysis of phosphoinositide 3-kinase (pi3kα). Biochimica et Biophysica Acta (BBA) - Reviews on Cancer, 1878:188947, Sep 2023. URL: https://doi.org/10.1016/j.bbcan.2023.188947, doi:10.1016/j.bbcan.2023.188947. This article has 4 citations.
+
+18. (wang2017theimpactof pages 11-16): William Wang, Jiapei Lv, Lingyan Wang, Xiangdong Wang, and Ling Ye. The impact of heterogeneity in phosphoinositide 3-kinase pathway in human cancer and possible therapeutic treatments. Seminars in Cell &amp; Developmental Biology, 64:116-124, Apr 2017. URL: https://doi.org/10.1016/j.semcdb.2016.08.024, doi:10.1016/j.semcdb.2016.08.024. This article has 15 citations.
+
+19. (wang2018traf6interactswith pages 14-18): Zixi Wang, Yuxiang Liu, Song Huang, and Min Fang. <scp>traf</scp>6 interacts with and ubiquitinates <scp>pik</scp>3<scp>ca</scp> to enhance <scp>pi</scp>3k activation. FEBS Letters, 592:1882-1892, May 2018. URL: https://doi.org/10.1002/1873-3468.13080, doi:10.1002/1873-3468.13080. This article has 28 citations and is from a peer-reviewed journal.
+
+20. (wang2018traf6interactswith pages 21-26): Zixi Wang, Yuxiang Liu, Song Huang, and Min Fang. <scp>traf</scp>6 interacts with and ubiquitinates <scp>pik</scp>3<scp>ca</scp> to enhance <scp>pi</scp>3k activation. FEBS Letters, 592:1882-1892, May 2018. URL: https://doi.org/10.1002/1873-3468.13080, doi:10.1002/1873-3468.13080. This article has 28 citations and is from a peer-reviewed journal.
+
+21. (zhao2008classipi3k pages 1-2): Li Zhao and P. Vogt. Class i pi3k in oncogenic cellular transformation. Oncogene, 27:5486-5496, Sep 2008. URL: https://doi.org/10.1038/onc.2008.244, doi:10.1038/onc.2008.244. This article has 782 citations and is from a domain leading peer-reviewed journal.
+
+22. (zhao2008classipi3k pages 2-4): Li Zhao and P. Vogt. Class i pi3k in oncogenic cellular transformation. Oncogene, 27:5486-5496, Sep 2008. URL: https://doi.org/10.1038/onc.2008.244, doi:10.1038/onc.2008.244. This article has 782 citations and is from a domain leading peer-reviewed journal.
+
+23. (zhao2008classipi3k pages 4-5): Li Zhao and P. Vogt. Class i pi3k in oncogenic cellular transformation. Oncogene, 27:5486-5496, Sep 2008. URL: https://doi.org/10.1038/onc.2008.244, doi:10.1038/onc.2008.244. This article has 782 citations and is from a domain leading peer-reviewed journal.
+
+24. (brown2011phylogenomicsofphosphoinositide pages 8-9): James R Brown and Kurt R Auger. Phylogenomics of phosphoinositide lipid kinases: perspectives on the evolution of second messenger signaling and drug discovery. BMC Evolutionary Biology, 11:4-4, Jan 2011. URL: https://doi.org/10.1186/1471-2148-11-4, doi:10.1186/1471-2148-11-4. This article has 129 citations.
+
+25. (gkeka2014investigatingthestructure pages 11-12): P. Gkeka, T. Evangelidis, M. Pavlaki, Vasiliki Lazani, S. Christoforidis, B. Agianian, and Z. Cournia. Investigating the structure and dynamics of the pik3ca wild-type and h1047r oncogenic mutant. PLoS Computational Biology, Oct 2014. URL: https://doi.org/10.1371/journal.pcbi.1003895, doi:10.1371/journal.pcbi.1003895. This article has 107 citations and is from a highest quality peer-reviewed journal.
+
+26. (leontiadou2018insightsintothe pages 12-14): Hari Leontiadou, Ioannis Galdadas, C. Athanasiou, and Z. Cournia. Insights into the mechanism of the pik3ca e545k activating mutation using md simulations. Scientific Reports, Oct 2018. URL: https://doi.org/10.1038/s41598-018-27044-6, doi:10.1038/s41598-018-27044-6. This article has 71 citations and is from a poor quality or predatory journal.
+
+27. (wang2017theimpactof pages 38-39): William Wang, Jiapei Lv, Lingyan Wang, Xiangdong Wang, and Ling Ye. The impact of heterogeneity in phosphoinositide 3-kinase pathway in human cancer and possible therapeutic treatments. Seminars in Cell &amp; Developmental Biology, 64:116-124, Apr 2017. URL: https://doi.org/10.1016/j.semcdb.2016.08.024, doi:10.1016/j.semcdb.2016.08.024. This article has 15 citations.
+
+28. (wang2017theimpactof pages 7-11): William Wang, Jiapei Lv, Lingyan Wang, Xiangdong Wang, and Ling Ye. The impact of heterogeneity in phosphoinositide 3-kinase pathway in human cancer and possible therapeutic treatments. Seminars in Cell &amp; Developmental Biology, 64:116-124, Apr 2017. URL: https://doi.org/10.1016/j.semcdb.2016.08.024, doi:10.1016/j.semcdb.2016.08.024. This article has 15 citations.

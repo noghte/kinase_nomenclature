@@ -1,0 +1,88 @@
+## Phylogeny  
+• Kinome placement: CMGC group → RCK (ros-cross-hybridizing kinase) subfamily together with MAK and ICK/MRK (chowdhury2023cmgckinasesin pages 12-13).  
+• Paralogous relationships: 42.6 % identity to MRK/ICK and 40.5 % to MAK (miyata1999molecularcloningand pages 2-3).  
+• Activation-segment divergence: MOK carries a TEY motif whereas MAK/ICK harbour TDY, marking a distinct clade within RCK kinases (miyata1999molecularcloningand pages 2-3).  
+• Orthologs: DYF-5 (Caenorhabditis elegans), LF4 (Chlamydomonas reinhardtii), LF4A (Tetrahymena thermophila), LmxMPK9 (Leishmania mexicana) – all conserved negative regulators of axonemal length (fu2019ciliogenesisassociatedkinase pages 8-9, fu2019ciliogenesisassociatedkinase pages 9-10).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr → ADP + [protein]-Ser/Thr-P  
+(intrinsic autophosphorylation on the TEY activation loop is also observed) (miyata1999molecularcloningand pages 1-2).  
+
+## Cofactor Requirements  
+No experimental study has defined divalent-metal dependence; cofactor requirement remains unreported (chowdhury2023cmgckinasesin pages 12-13).  
+
+## Substrate Specificity  
+• Consensus motif: R-P-X-S/T-P derived from positional-scanning peptide arrays applied to RCK kinases and enriched among MOK interactors (unknownauthors2012ciliarylengthcontrol pages 62-65).  
+• Validated cellular substrates  
+  – Brd4 Ser492, controlling microglial inflammatory/type-I IFN gene expression (perezcabello2023mapkmakmrkoverlappingkinase pages 1-2).  
+  – Raptor, linking MOK to mTORC1 signalling (unknownauthors2012ciliarylengthcontrol pages 49-52).  
+• The kinase efficiently phosphorylates generic MAPK reporter peptides and undergoes robust autophosphorylation when the TEY motif is intact (miyata1999molecularcloningand pages 1-2).  
+
+## Structure  
+• Length 419–420 aa; single catalytic domain. Non-canonical glycine-rich loop GXGXXS replaces the canonical GXGXXG (miyata1999molecularcloningand pages 2-3).  
+• Catalytic core adopts the bilobal MAPK fold according to AlphaFold model AF-Q9UQ07-F1; key elements: Lys41–Glu59 salt bridge, HRD (His153-Arg154-Asp155) catalytic triad, DFG motif at residues 175-177, correctly aligned hydrophobic spine, and outward-rotated C-helix in the inactive prediction (perezcabello2023mapkmakmrkoverlappingkinase pages 1-2).  
+• Activation segment: TEY183-185; dual phosphorylation is obligatory for activity (miyata1999molecularcloningand pages 6-7).  
+• No experimentally determined PDB structure is available to date (chowdhury2023cmgckinasesin pages 12-13).  
+
+## Regulation  
+Post-translational modifications  
+• Thr183/Tyr185 dual phosphorylation activates the kinase; TEY→AEA mutation ablates activity (miyata1999molecularcloningand pages 6-7).  
+• Upstream activating kinase has not been identified (chowdhury2023cmgckinasesin pages 12-13).  
+• MOK performs tyrosine autophosphorylation on Tyr185 in vitro (miyata1999molecularcloningand pages 1-2).  
+Signal-dependent control  
+• Rapid activation by phorbol ester (TPA); no response to serum, anisomycin or hyperosmotic stress (miyata1999molecularcloningand pages 6-7).  
+• Okadaic acid markedly augments activity, implicating serine/threonine phosphatases as negative regulators (miyata1999molecularcloningand pages 6-7).  
+Protein interactions  
+• Binds HSP90 and the co-chaperone Cdc37, indicating chaperone-assisted maturation/stability (unknownauthors2012ciliarylengthcontrol pages 70-72).  
+
+## Function  
+Expression  
+• Broad mRNA expression in human heart, brain, lung, kidney and pancreas; highest in mouse testis (miyata1999molecularcloningand pages 2-3).  
+• Present throughout the small intestine but low in colon epithelium (unknownauthors2018thelongand pages 96-100).  
+• Endogenous protein detected in renal epithelial IMCD-3 cells (unknownauthors2012ciliarylengthcontrol pages 45-49).  
+• Up-regulated in spinal-cord microglia from ALS patients and SOD1G93A mice (perezcabello2023mapkmakmrkoverlappingkinase pages 1-2).  
+Subcellular localisation and roles  
+• Localises along the axoneme and at the basal body of primary cilia; shRNA knock-down produces ~40 % ciliary elongation, defining MOK as a negative regulator of cilium length (unknownauthors2012ciliarylengthcontrol pages 38-45).  
+• Modulates intraflagellar transport frequency without altering motor velocity (jansen2012regulationofcilium pages 1-1).  
+Signalling interactions  
+• Phosphorylates Raptor, attenuating mTORC1; rapamycin blocks the ciliary-elongation phenotype of MOK loss (unknownauthors2012ciliarylengthcontrol pages 49-52).  
+• Phosphorylates Brd4 to enhance chromatin binding at cytokine promoters and drive TNF-α/IL-6/IL-1β induction in LPS-stimulated microglia (perezcabello2023mapkmakmrkoverlappingkinase pages 1-2).  
+• Co-localises with cytoplasmic TDP-43 inclusions in ALS models (perezcabello2023mapkmakmrkoverlappingkinase pages 1-2).  
+• Proteomic pull-downs identify centrosomal/ciliary partners such as centriolin, CEP350 and rootletin, consistent with roles in microtubule anchoring (unknownauthors2012ciliarylengthcontrol pages 62-65).  
+
+## Inhibitors  
+• C13: research-grade small molecule that inhibits MOK-dependent Brd4 Ser492 phosphorylation and suppresses pro-inflammatory cytokine secretion in microglia (perezcabello2023mapkmakmrkoverlappingkinase pages 1-2).  
+
+## Other Comments  
+• MOK protein is markedly down-regulated in mouse intestinal adenomas, suggesting loss may accompany intestinal tumorigenesis (chowdhury2023cmgckinasesin pages 12-13, unknownauthors2018thelongand pages 96-100).  
+• Elevated expression in ALS microglia and functional mitigation by C13 nominate MOK as a potential neuroinflammatory target (perezcabello2023mapkmakmrkoverlappingkinase pages 1-2).
+
+References
+
+1. (chowdhury2023cmgckinasesin pages 12-13): Iftekhar Chowdhury, Giovanna Dashi, and Salla Keskitalo. Cmgc kinases in health and cancer. Cancers, 15:3838, Jul 2023. URL: https://doi.org/10.3390/cancers15153838, doi:10.3390/cancers15153838. This article has 19 citations and is from a peer-reviewed journal.
+
+2. (miyata1999molecularcloningand pages 2-3): Yoshihiko Miyata, Makoto Akashi, and Eisuke Nishida. Molecular cloning and characterization of a novel member of the map kinase superfamily. Genes to Cells, 4:299-309, May 1999. URL: https://doi.org/10.1046/j.1365-2443.1999.00261.x, doi:10.1046/j.1365-2443.1999.00261.x. This article has 74 citations and is from a peer-reviewed journal.
+
+3. (perezcabello2023mapkmakmrkoverlappingkinase pages 1-2): Jesús A. Pérez-Cabello, Lucía Silvera-Carrasco, Jaime M. Franco, Vivian Capilla-González, Alexandros Armaos, María Gómez-Lima, Raquel García-García, Xin Wen Yap, Magdalena Leal-Lasarte, Deepti Lall, Robert H. Baloh, Salvador Martínez, Yoshihiko Miyata, Gian G. Tartaglia, Ritwick Sawarkar, Mario García-Domínguez, David Pozo, and Cintia Roodveldt. Mapk/mak/mrk overlapping kinase (mok) controls microglial inflammatory/type-i ifn responses via brd4 and is involved in als. Proceedings of the National Academy of Sciences, Jul 2023. URL: https://doi.org/10.1073/pnas.2302143120, doi:10.1073/pnas.2302143120. This article has 6 citations.
+
+4. (unknownauthors2012ciliarylengthcontrol pages 38-45): Ciliary length control
+
+5. (unknownauthors2012ciliarylengthcontrol pages 49-52): Ciliary length control
+
+6. (unknownauthors2012ciliarylengthcontrol pages 70-72): Ciliary length control
+
+7. (jansen2012regulationofcilium pages 1-1): G. Jansen and J. Broekhuis. Regulation of cilium length and intraflagellar transport by the map kinases mak, mrk, and mok. Cilia, 1:O12-O12, Nov 2012. URL: https://doi.org/10.1186/2046-2530-1-s1-o12, doi:10.1186/2046-2530-1-s1-o12. This article has 0 citations.
+
+8. (miyata1999molecularcloningand pages 6-7): Yoshihiko Miyata, Makoto Akashi, and Eisuke Nishida. Molecular cloning and characterization of a novel member of the map kinase superfamily. Genes to Cells, 4:299-309, May 1999. URL: https://doi.org/10.1046/j.1365-2443.1999.00261.x, doi:10.1046/j.1365-2443.1999.00261.x. This article has 74 citations and is from a peer-reviewed journal.
+
+9. (unknownauthors2012ciliarylengthcontrol pages 45-49): Ciliary length control
+
+10. (unknownauthors2012ciliarylengthcontrol pages 62-65): Ciliary length control
+
+11. (unknownauthors2018thelongand pages 96-100): The long and the short of it: the role of cell cycle-related kinase (CCRK) and intestinal cell kinase (ICK) in ciliogenesis and hedgehog signaling
+
+12. (fu2019ciliogenesisassociatedkinase pages 8-9): Zheng Fu, Casey D. Gailey, Eric J. Wang, and David L. Brautigan. Ciliogenesis associated kinase 1: targets and functions in various organ systems. FEBS Letters, Nov 2019. URL: https://doi.org/10.1002/1873-3468.13600, doi:10.1002/1873-3468.13600. This article has 31 citations and is from a peer-reviewed journal.
+
+13. (fu2019ciliogenesisassociatedkinase pages 9-10): Zheng Fu, Casey D. Gailey, Eric J. Wang, and David L. Brautigan. Ciliogenesis associated kinase 1: targets and functions in various organ systems. FEBS Letters, Nov 2019. URL: https://doi.org/10.1002/1873-3468.13600, doi:10.1002/1873-3468.13600. This article has 31 citations and is from a peer-reviewed journal.
+
+14. (miyata1999molecularcloningand pages 1-2): Yoshihiko Miyata, Makoto Akashi, and Eisuke Nishida. Molecular cloning and characterization of a novel member of the map kinase superfamily. Genes to Cells, 4:299-309, May 1999. URL: https://doi.org/10.1046/j.1365-2443.1999.00261.x, doi:10.1046/j.1365-2443.1999.00261.x. This article has 74 citations and is from a peer-reviewed journal.

@@ -1,0 +1,82 @@
+## Phylogeny
+CSF1R is classified in the tyrosine kinase (TK) group and is a member of the platelet-derived growth factor receptor (PDGFR) family, as established by Manning et al., 2002 (achkova2016roleofthe pages 5-6, el‐gamal2013fmskinaseinhibitors pages 1-3, el‐gamal2013fmskinaseinhibitors pages 23-26, mun2020themcsfreceptor pages 2-3, rojo2017transcriptionalmechanismsthat pages 15-16, ross2006m‐csfc‐fmsand pages 7-7). It also belongs to the type III receptor tyrosine kinase family, which includes c-kit, Flt-3, PDGFRα, and PDGFRβ (achkova2016roleofthe pages 1-3, hume2012therapeuticapplicationsof pages 1-2). The CSF1R protein is highly conserved between humans and mice, and its expression is controlled by the Fms-intronic regulatory element (FIRE), which is functionally conserved across amniotes (mun2020themcsfreceptor pages 2-3, rojo2017transcriptionalmechanismsthat pages 1-2). Receptor–ligand interactions have evolved independently, with conservation across species including birds and fishes (rojo2017transcriptionalmechanismsthat pages 2-3).
+
+
+## Reaction Catalyzed
+ATP + a [protein]-L-tyrosine = ADP + a [protein]-L-tyrosine phosphate (achkova2016roleofthe pages 5-6, el‐gamal2013fmskinaseinhibitors pages 23-26, rojo2017transcriptionalmechanismsthat pages 15-16).
+
+
+## Cofactor Requirements
+The kinase activity of CSF1R requires divalent metal cations, specifically Mg²⁺ and/or Mn²⁺, as essential cofactors to coordinate ATP in the active site and facilitate phosphate transfer (achkova2016roleofthe pages 1-3, achkova2016roleofthe pages 5-6, el‐gamal2013fmskinaseinhibitors pages 1-3, mun2020themcsfreceptor pages 2-3, rojo2017transcriptionalmechanismsthat pages 15-16). ATP acts as the phosphate donor substrate and is not considered a cofactor (achkova2016roleofthe pages 5-6, el‐gamal2013fmskinaseinhibitors pages 1-3, rojo2017transcriptionalmechanismsthat pages 15-16).
+
+
+## Substrate Specificity
+I cannot answer.
+
+
+## Structure
+CSF1R is an integral transmembrane glycoprotein composed of an extracellular domain (ECD), a single transmembrane helix, and an intracellular cytoplasmic domain (achkova2016roleofthe pages 1-3, mun2020themcsfreceptor pages 2-3). The ECD contains five immunoglobulin (Ig)-like domains (D1-D5); domains D1-D3 mediate ligand recognition, while D4-D5 stabilize the ligand-receptor complex (el‐gamal2013fmskinaseinhibitors pages 1-3, rojo2017transcriptionalmechanismsthat pages 2-3). The intracellular region contains a juxtamembrane domain (JMD, residues 538–581), a split tyrosine kinase domain separated by a kinase insert domain (KID, residues 680-751), and a carboxyterminal tail (el‐gamal2013fmskinaseinhibitors pages 10-12, mun2020themcsfreceptor pages 2-3, rojo2017transcriptionalmechanismsthat pages 2-3).
+
+The kinase domain has a two-lobe structure connected by a hinge region (el‐gamal2013fmskinaseinhibitors pages 7-10). The 2.7 Å crystal structure of the autoinhibited human c-Fms kinase domain has been resolved (PDB ID: 2OGV), as has the structure of macrophage colony stimulating factor bound to Fms (PDB ID: 3EJJ) (rojo2017transcriptionalmechanismsthat pages 15-16). Key regulatory features include the activation loop (residues 796–825), which starts with a conserved DFG motif (Asp796-Phe797-Gly798) and switches between active (DFG-in) and inactive (DFG-out) conformations (el‐gamal2013fmskinaseinhibitors pages 7-10, el‐gamal2013fmskinaseinhibitors pages 10-12). In the inactive state, the JMD has an autoinhibitory role, binding near the ATP-binding pocket and locking the activation loop in an inactive conformation (el‐gamal2013fmskinaseinhibitors pages 10-12).
+
+
+## Regulation
+CSF1R activation is initiated by binding of its ligands, CSF-1 or IL-34, which induces receptor dimerization and autophosphorylation on multiple tyrosine residues (achkova2016roleofthe pages 1-3, hume2012therapeuticapplicationsof pages 1-2). In its inactive state, the receptor is an autoinhibited monomer; ligand binding causes a conformational shift in the juxtamembrane domain (JMD) that relieves this autoinhibition (mun2020themcsfreceptor pages 2-3, rojo2017transcriptionalmechanismsthat pages 2-3).
+
+Autophosphorylation is a key regulatory mechanism, creating docking sites for SH2 domain-containing proteins (el‐gamal2013fmskinaseinhibitors pages 1-3). Key autophosphorylation sites include Y544, Y559 (Y561 in UniProt numbering), Y697, Y706, Y721 (Y723 in UniProt numbering), Y807, and Y974 (achkova2016roleofthe pages 6-6, mun2020themcsfreceptor pages 3-5, rojo2017transcriptionalmechanismsthat pages 2-3). Phosphorylation of Y561 (mouse Tyr559) in the JMD is essential for full activation and recruits Src family kinases and the E3 ubiquitin ligase c-Cbl (rojo2017transcriptionalmechanismsthat pages 2-3). Phosphorylation of Y723 (corresponding to mouse Tyr721) is critical for binding of PI 3'-kinase SH2 domains, initiating PI3K/Akt signaling, while Y697 phosphorylation activates the MAPK pathway (achkova2016roleofthe pages 6-6, rojo2017transcriptionalmechanismsthat pages 2-3). Phosphorylation of Tyr807 in the activation loop is critical for kinase activation (el‐gamal2013fmskinaseinhibitors pages 10-12).
+
+Negative regulation occurs via multiubiquitination mediated by c-Cbl, which targets the receptor for internalization and degradation, thereby attenuating the signal (el‐gamal2013fmskinaseinhibitors pages 1-3, mun2020themcsfreceptor pages 3-5, rojo2017transcriptionalmechanismsthat pages 2-3).
+
+
+## Function
+CSF1R is primarily expressed on cells of the myeloid lineage, including monocytes, macrophages, dendritic cells, microglia, osteoclasts, and Langerhans cells (el‐gamal2013fmskinaseinhibitors pages 1-3, mun2020themcsfreceptor pages 1-2). Its ligands are CSF-1 and IL-34 (achkova2016roleofthe pages 1-3). Upon activation, CSF1R recruits signaling partners including Src family kinases, the p85 subunit of PI3K, PLCγ2, Grb2, Shc, and Sos1 (achkova2016roleofthe pages 1-3, rojo2017transcriptionalmechanismsthat pages 15-16). This initiates downstream signaling cascades including the PI3K/Akt, ERK1/2, Raf, and MAP kinase pathways (achkova2016roleofthe pages 1-3).
+
+CSF1R signaling is essential for the survival, proliferation, differentiation, and motility of mononuclear phagocytes (achkova2016roleofthe pages 1-3, mun2020themcsfreceptor pages 1-2). It is a key regulator of osteoclast proliferation and differentiation and is required for normal bone development (mun2020themcsfreceptor pages 1-2). In cancer, CSF1R signaling promotes tumor cell survival and invasion, and it shapes an immunosuppressive tumor microenvironment by recruiting and reprogramming tumor-associated macrophages (TAMs) (achkova2016roleofthe pages 1-3, el‐gamal2013fmskinaseinhibitors pages 1-3).
+
+
+## Inhibitors
+Inhibitors targeting CSF1R include monoclonal antibodies and small-molecule tyrosine kinase inhibitors (hume2012therapeuticapplicationsof pages 1-2, ries2015csf1csf1rtargetingagents pages 2-3). Small-molecule inhibitors include pexidartinib (PLX3397), which is FDA-approved for tenosynovial giant cell tumors, as well as GW2580, imatinib, dasatinib, sunitinib, Ki20227, linifanib, axitinib, and CEP-701 (el‐gamal2013fmskinaseinhibitors pages 23-26, mashkani2010colonystimulatingfactor1 pages 7-8, unknownauthors2023challengesandprospects pages 1-2).
+
+
+## Other Comments
+CSF1R is encoded by the c-fms proto-oncogene (achkova2016roleofthe pages 1-3). Overexpression and dysregulation of the CSF-1/CSF1R axis are documented in cancers including breast, prostate, ovarian, colorectal, and classical Hodgkin’s lymphoma, where it often correlates with poor prognosis (achkova2016roleofthe pages 1-3, unknownauthors2023challengesandprospects pages 1-2). The pathway is also implicated in inflammatory diseases such as rheumatoid arthritis and Crohn's disease, and in bone osteolysis (el‐gamal2013fmskinaseinhibitors pages 1-3).
+
+Mutations in CSF1R are linked to distinct human diseases. Monoallelic mutations cause adult-onset leukodystrophy with axonal spheroids and pigmented glia (ALSP), whereas biallelic mutations lead to skeletal disorders like osteosclerosis (mun2020themcsfreceptor pages 1-2). Loss-of-function mutations in animal models cause osteopetrosis, severe deficiencies in macrophage populations, growth retardation, and infertility (hume2012therapeuticapplicationsof pages 1-2).
+
+References
+
+1. (achkova2016roleofthe pages 1-3): D. Achkova and J. Maher. Role of the colony-stimulating factor (csf)/csf-1 receptor axis in cancer. Biochemical Society transactions, 44 2:333-41, Apr 2016. URL: https://doi.org/10.1042/bst20150245, doi:10.1042/bst20150245. This article has 127 citations and is from a peer-reviewed journal.
+
+2. (achkova2016roleofthe pages 5-6): D. Achkova and J. Maher. Role of the colony-stimulating factor (csf)/csf-1 receptor axis in cancer. Biochemical Society transactions, 44 2:333-41, Apr 2016. URL: https://doi.org/10.1042/bst20150245, doi:10.1042/bst20150245. This article has 127 citations and is from a peer-reviewed journal.
+
+3. (achkova2016roleofthe pages 6-6): D. Achkova and J. Maher. Role of the colony-stimulating factor (csf)/csf-1 receptor axis in cancer. Biochemical Society transactions, 44 2:333-41, Apr 2016. URL: https://doi.org/10.1042/bst20150245, doi:10.1042/bst20150245. This article has 127 citations and is from a peer-reviewed journal.
+
+4. (el‐gamal2013fmskinaseinhibitors pages 1-3): Mohammed I. El‐Gamal, Hanan S. Anbar, Kyung Ho Yoo, and Chang‐Hyun Oh. Fms kinase inhibitors: current status and future prospects. Medicinal Research Reviews, May 2013. URL: https://doi.org/10.1002/med.21258, doi:10.1002/med.21258. This article has 51 citations and is from a domain leading peer-reviewed journal.
+
+5. (el‐gamal2013fmskinaseinhibitors pages 10-12): Mohammed I. El‐Gamal, Hanan S. Anbar, Kyung Ho Yoo, and Chang‐Hyun Oh. Fms kinase inhibitors: current status and future prospects. Medicinal Research Reviews, May 2013. URL: https://doi.org/10.1002/med.21258, doi:10.1002/med.21258. This article has 51 citations and is from a domain leading peer-reviewed journal.
+
+6. (el‐gamal2013fmskinaseinhibitors pages 23-26): Mohammed I. El‐Gamal, Hanan S. Anbar, Kyung Ho Yoo, and Chang‐Hyun Oh. Fms kinase inhibitors: current status and future prospects. Medicinal Research Reviews, May 2013. URL: https://doi.org/10.1002/med.21258, doi:10.1002/med.21258. This article has 51 citations and is from a domain leading peer-reviewed journal.
+
+7. (hume2012therapeuticapplicationsof pages 1-2): David A. Hume and Kelli P. A. MacDonald. Therapeutic applications of macrophage colony-stimulating factor-1 (csf-1) and antagonists of csf-1 receptor (csf-1r) signaling. Blood, 119:1810-1820, Feb 2012. URL: https://doi.org/10.1182/blood-2011-09-379214, doi:10.1182/blood-2011-09-379214. This article has 834 citations and is from a highest quality peer-reviewed journal.
+
+8. (mashkani2010colonystimulatingfactor1 pages 7-8): B. Mashkani, R. Griffith, and L. Ashman. Colony stimulating factor-1 receptor as a target for small molecule inhibitors. Bioorganic & medicinal chemistry, 18 5:1789-97, Mar 2010. URL: https://doi.org/10.1016/j.bmc.2010.01.056, doi:10.1016/j.bmc.2010.01.056. This article has 33 citations.
+
+9. (mun2020themcsfreceptor pages 1-2): Sehwan Mun, P.S.U. Park, and Kyung-Hyun Park-Min. The m-csf receptor in osteoclasts and beyond. Experimental & Molecular Medicine, 52:1239-1254, Aug 2020. URL: https://doi.org/10.1038/s12276-020-0484-z, doi:10.1038/s12276-020-0484-z. This article has 228 citations.
+
+10. (mun2020themcsfreceptor pages 2-3): Sehwan Mun, P.S.U. Park, and Kyung-Hyun Park-Min. The m-csf receptor in osteoclasts and beyond. Experimental & Molecular Medicine, 52:1239-1254, Aug 2020. URL: https://doi.org/10.1038/s12276-020-0484-z, doi:10.1038/s12276-020-0484-z. This article has 228 citations.
+
+11. (mun2020themcsfreceptor pages 3-5): Sehwan Mun, P.S.U. Park, and Kyung-Hyun Park-Min. The m-csf receptor in osteoclasts and beyond. Experimental & Molecular Medicine, 52:1239-1254, Aug 2020. URL: https://doi.org/10.1038/s12276-020-0484-z, doi:10.1038/s12276-020-0484-z. This article has 228 citations.
+
+12. (ries2015csf1csf1rtargetingagents pages 2-3): Carola H. Ries, S. Hoves, M. Cannarile, and D. Rüttinger. Csf-1/csf-1r targeting agents in clinical development for cancer therapy. Current opinion in pharmacology, 23:45-51, Aug 2015. URL: https://doi.org/10.1016/j.coph.2015.05.008, doi:10.1016/j.coph.2015.05.008. This article has 154 citations and is from a peer-reviewed journal.
+
+13. (rojo2017transcriptionalmechanismsthat pages 1-2): R. Rojo, Clare Pridans, D. Langlais, and D. Hume. Transcriptional mechanisms that control expression of the macrophage colony-stimulating factor receptor locus. Clinical science, 131 16:2161-2182, Aug 2017. URL: https://doi.org/10.1042/cs20170238, doi:10.1042/cs20170238. This article has 64 citations and is from a peer-reviewed journal.
+
+14. (rojo2017transcriptionalmechanismsthat pages 15-16): R. Rojo, Clare Pridans, D. Langlais, and D. Hume. Transcriptional mechanisms that control expression of the macrophage colony-stimulating factor receptor locus. Clinical science, 131 16:2161-2182, Aug 2017. URL: https://doi.org/10.1042/cs20170238, doi:10.1042/cs20170238. This article has 64 citations and is from a peer-reviewed journal.
+
+15. (rojo2017transcriptionalmechanismsthat pages 2-3): R. Rojo, Clare Pridans, D. Langlais, and D. Hume. Transcriptional mechanisms that control expression of the macrophage colony-stimulating factor receptor locus. Clinical science, 131 16:2161-2182, Aug 2017. URL: https://doi.org/10.1042/cs20170238, doi:10.1042/cs20170238. This article has 64 citations and is from a peer-reviewed journal.
+
+16. (ross2006m‐csfc‐fmsand pages 7-7): F. Ross. M‐csf, c‐fms, and signaling in osteoclasts and their precursors. Annals of the New York Academy of Sciences, Apr 2006. URL: https://doi.org/10.1196/annals.1346.014, doi:10.1196/annals.1346.014. This article has 232 citations and is from a peer-reviewed journal.
+
+17. (unknownauthors2023challengesandprospects pages 1-2): Challenges and prospects of CSF1R targeting for advanced malignancies
+
+18. (el‐gamal2013fmskinaseinhibitors pages 7-10): Mohammed I. El‐Gamal, Hanan S. Anbar, Kyung Ho Yoo, and Chang‐Hyun Oh. Fms kinase inhibitors: current status and future prospects. Medicinal Research Reviews, May 2013. URL: https://doi.org/10.1002/med.21258, doi:10.1002/med.21258. This article has 51 citations and is from a domain leading peer-reviewed journal.

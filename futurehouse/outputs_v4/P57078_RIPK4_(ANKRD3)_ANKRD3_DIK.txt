@@ -1,0 +1,110 @@
+## Phylogeny  
+Orthologous RIPK4 proteins are documented in Homo sapiens, Pan troglodytes, Macaca mulatta, Mus musculus, Bos taurus, Gallus gallus, Xenopus tropicalis, Xenopus laevis and Danio rerio, with ~90 % identity in the kinase domain between human, mouse and bovine and ~62 % identity to zebrafish (huang2018crystalstructureof pages 1-3, hasnain2022insightintoripk4 pages 7-9, unknownauthors2011exploringtherole pages 137-139).  
+Within the human kinome RIPK4 is assigned to the Tyrosine-Kinase-Like (TKL) group, receptor-interacting protein kinase family, and is most closely paralogous to RIPK5/ANKK1; it is evolutionarily distinct from the RIPK1-3/7 branch that carries death- or RHIM-containing C-termini (unknownauthors2011exploringtherole pages 117-122, fay2024evolutionaryandfunctional pages 1-4).  
+Comparative genomic surveys across 489 jawed-vertebrate genomes show broad conservation of RIPK4 with limited evidence of recurrent positive selection, contrasting the accelerated evolution and lineage-specific loss seen for RIPK1 and RIPK3 (fay2024evolutionaryandfunctional pages 4-7).  
+
+  
+
+## Reaction Catalyzed  
+ATP + [protein] ⇌ ADP + [protein]-O-phosphate (huang2018crystalstructureof pages 3-4).  
+
+  
+
+## Cofactor Requirements  
+Catalysis requires Mg²⁺; enzymatic assays and crystallization employed 10 mM MgCl₂, and no Mn²⁺ dependence was reported (huang2018crystalstructureof pages 15-17).  
+
+  
+
+## Substrate Specificity  
+A global consensus phosphorylation motif has not been defined. Experimentally confirmed substrates and sites include:  
+• IRF6 Ser413/Ser424 (huang2018crystalstructureof pages 9-10)  
+• Dishevelled-2 (DVL2) at characterized sites within its DEP domain (unknownauthorsUnknownyearinvestigatingthepkcηripk4 pages 14-16)  
+• IKKα and IKKβ activation-loop residues leading to canonical IKK complex activation (unknownauthorsUnknownyearinvestigatingthepkcηripk4 pages 14-16)  
+
+  
+
+## Structure  
+Domain organisation: N-terminal bilobal serine/threonine kinase domain → disordered intermediate segment → eleven C-terminal ankyrin repeats (huang2018crystalstructureof pages 1-3).  
+Crystal structures of the murine kinase domain (e.g., PDB 5WNI–5WNM) reveal:  
+• Canonical active-state architecture with intact Gly-rich P-loop, β3 Lys51–αC Glu69 salt bridge, DFG motif (Asp143) and HLN catalytic loop (huang2018crystalstructureof pages 3-4).  
+• Side-to-side BRAF-like homodimer; interface residues R40, R79 and E284 form an extensive hydrogen-bond/salt-bridge network essential for activity (huang2018crystalstructureof pages 8-9).  
+• Absence of the αJ helix found in RIPK1-3; ankyrin repeats adopt an autoinhibitory conformation that dampens NF-κB signalling when co-expressed with the isolated kinase domain (huang2018crystalstructureof pages 1-3).  
+• Activation loop is constitutively ordered and does not require phosphorylation for catalytic competence, consistent with non-RD kinase behaviour (huang2018crystalstructureof pages 4-6).  
+
+  
+
+## Regulation  
+Post-translational modifications  
+• Autophosphorylation: Ser173, Ser175 and Ser179 within the activation loop enhance catalytic output (unknownauthors2011exploringtherole pages 122-124).  
+• Upstream phosphorylation by PKCη: Ser103 and Thr283 are prerequisite “priming” sites that trigger subsequent autophosphorylation (unknownauthorsUnknownyearinvestigatingthepkcηripk4 pages 29-33).  
+• Caspase-mediated cleavage at Asp340 and Asp378 yields a C-terminal fragment that dominantly suppresses NF-κB transcriptional activity (unknownauthors2011exploringtherole pages 122-124).  
+Protein–protein/ubiquitin regulation  
+• TRAF1/2/3/5 binding is required for RIPK4-driven NF-κB activation; dominant-negative TRAF1 or TRAF3 blocks this output (unknownauthors2011exploringtherole pages 122-124).  
+Conformational control  
+• Homodimerisation is obligatory for catalytic activity; mutations E284A or R40A/R79A/R97A disrupt the dimer and abolish ATP hydrolysis while leaving substrate binding intact (huang2018crystalstructureof pages 8-9).  
+• C-terminal ankyrin repeats impose intramolecular autoinhibition of NF-κB signalling (huang2018crystalstructureof pages 1-3).  
+
+  
+
+## Function  
+Expression: High in stratified epithelium and broadly present in non-neural tissues (huang2018crystalstructureof pages 1-3).  
+Upstream regulators: PKCβ1, PKCδ and PKCη interact with the intermediate domain and enhance RIPK4 phosphorylation status (unknownauthors2011exploringtherole pages 122-124, unknownauthorsUnknownyearinvestigatingthepkcηripk4 pages 14-16).  
+Downstream signalling and partners:  
+• Phosphorylation of IRF6 promotes keratinocyte differentiation and epidermal barrier assembly (huang2018crystalstructureof pages 9-10).  
+• Activation of NF-κB via IKKα/β phosphorylation and TRAF-dependent NEMO ubiquitination drives inflammatory gene expression (unknownauthors2017xiapmediatedinnateimmune pages 49-55).  
+• Phosphorylation of DVL2 stimulates Wnt/β-catenin signalling (unknownauthorsUnknownyearinvestigatingthepkcηripk4 pages 14-16).  
+• Over-expression activates JNK-AP-1 in a kinase-dependent manner (unknownauthors2011exploringtherole pages 122-124).  
+
+  
+
+## Inhibitors  
+ATP-competitive ligands staurosporine, lestaurtinib, TG-100-115 and VX-680 bind the catalytic cleft in co-crystal structures (huang2018crystalstructureof pages 1-3).  
+BRAF inhibitors vemurafenib and dabrafenib lower cellular RIPK4 protein levels in melanoma models, although direct enzymatic inhibition has not been demonstrated (madej2023vemurafenibanddabrafenib pages 23-23).  
+
+  
+
+## Other Comments  
+Disease associations  
+• Autosomal-recessive Bartsocas-Papas and lethal popliteal pterygium syndromes arise from loss-of-function mutations such as I121N, T184I and E284K that impair kinase stability or dimerisation (kalay2012mutationsinripk4 pages 3-4, huang2018crystalstructureof pages 9-10, hasnain2022insightintoripk4 pages 12-14).  
+• RIPK4 knock-down increases proliferation and invasiveness of cutaneous squamous cell carcinoma cells (unknownauthorsUnknownyearinvestigatingthepkcηripk4 pages 14-16).  
+• Over-expression promotes bladder urothelial carcinoma aggressiveness through NF-κB-dependent induction of VEGF-A (liu2018ripk4promotesbladder pages 11-11).
+
+References
+
+1. (fay2024evolutionaryandfunctional pages 4-7): Elizabeth J. Fay, Kolya Isterabadi, Charles M. Rezanka, Jessica Le, and Matthew D. Daugherty. Evolutionary and functional analyses reveal a role for the rhim in tuning ripk3 activity across vertebrates. bioRxiv, Aug 2024. URL: https://doi.org/10.1101/2024.05.09.593370, doi:10.1101/2024.05.09.593370. This article has 1 citations.
+
+2. (huang2018crystalstructureof pages 1-3): Christine S Huang, Nina Oberbeck, Yi-Chun Hsiao, Peter S. Liu, Adam R. Johnson, V. Dixit, and S. Hymowitz. Crystal structure of ripk4 reveals dimerization-dependent kinase activity. Structure, 26 5:767-777.e5, May 2018. URL: https://doi.org/10.1016/j.str.2018.04.002, doi:10.1016/j.str.2018.04.002. This article has 26 citations and is from a domain leading peer-reviewed journal.
+
+3. (huang2018crystalstructureof pages 15-17): Christine S Huang, Nina Oberbeck, Yi-Chun Hsiao, Peter S. Liu, Adam R. Johnson, V. Dixit, and S. Hymowitz. Crystal structure of ripk4 reveals dimerization-dependent kinase activity. Structure, 26 5:767-777.e5, May 2018. URL: https://doi.org/10.1016/j.str.2018.04.002, doi:10.1016/j.str.2018.04.002. This article has 26 citations and is from a domain leading peer-reviewed journal.
+
+4. (huang2018crystalstructureof pages 3-4): Christine S Huang, Nina Oberbeck, Yi-Chun Hsiao, Peter S. Liu, Adam R. Johnson, V. Dixit, and S. Hymowitz. Crystal structure of ripk4 reveals dimerization-dependent kinase activity. Structure, 26 5:767-777.e5, May 2018. URL: https://doi.org/10.1016/j.str.2018.04.002, doi:10.1016/j.str.2018.04.002. This article has 26 citations and is from a domain leading peer-reviewed journal.
+
+5. (huang2018crystalstructureof pages 9-10): Christine S Huang, Nina Oberbeck, Yi-Chun Hsiao, Peter S. Liu, Adam R. Johnson, V. Dixit, and S. Hymowitz. Crystal structure of ripk4 reveals dimerization-dependent kinase activity. Structure, 26 5:767-777.e5, May 2018. URL: https://doi.org/10.1016/j.str.2018.04.002, doi:10.1016/j.str.2018.04.002. This article has 26 citations and is from a domain leading peer-reviewed journal.
+
+6. (unknownauthors2011exploringtherole pages 117-122): Exploring the role of caspases and RIPK4 during Xenopus development
+
+7. (unknownauthors2011exploringtherole pages 122-124): Exploring the role of caspases and RIPK4 during Xenopus development
+
+8. (unknownauthors2011exploringtherole pages 137-139): Exploring the role of caspases and RIPK4 during Xenopus development
+
+9. (unknownauthorsUnknownyearinvestigatingthepkcηripk4 pages 14-16): Investigating the PKCη-RIPK4 signalling axis in keratinocyte differentiation
+
+10. (unknownauthorsUnknownyearinvestigatingthepkcηripk4 pages 29-33): Investigating the PKCη-RIPK4 signalling axis in keratinocyte differentiation
+
+11. (fay2024evolutionaryandfunctional pages 1-4): Elizabeth J. Fay, Kolya Isterabadi, Charles M. Rezanka, Jessica Le, and Matthew D. Daugherty. Evolutionary and functional analyses reveal a role for the rhim in tuning ripk3 activity across vertebrates. bioRxiv, Aug 2024. URL: https://doi.org/10.1101/2024.05.09.593370, doi:10.1101/2024.05.09.593370. This article has 1 citations.
+
+12. (hasnain2022insightintoripk4 pages 12-14): M. J. Hasnain. Insight into ripk4 mutations i121n and t184i involved in popliteal pterygium syndrome lethal type using computational methods. Pure and Applied Biology, 2022. URL: https://doi.org/10.19045/bspab.2022.110068, doi:10.19045/bspab.2022.110068. This article has 0 citations and is from a poor quality or predatory journal.
+
+13. (hasnain2022insightintoripk4 pages 7-9): M. J. Hasnain. Insight into ripk4 mutations i121n and t184i involved in popliteal pterygium syndrome lethal type using computational methods. Pure and Applied Biology, 2022. URL: https://doi.org/10.19045/bspab.2022.110068, doi:10.19045/bspab.2022.110068. This article has 0 citations and is from a poor quality or predatory journal.
+
+14. (huang2018crystalstructureof pages 4-6): Christine S Huang, Nina Oberbeck, Yi-Chun Hsiao, Peter S. Liu, Adam R. Johnson, V. Dixit, and S. Hymowitz. Crystal structure of ripk4 reveals dimerization-dependent kinase activity. Structure, 26 5:767-777.e5, May 2018. URL: https://doi.org/10.1016/j.str.2018.04.002, doi:10.1016/j.str.2018.04.002. This article has 26 citations and is from a domain leading peer-reviewed journal.
+
+15. (huang2018crystalstructureof pages 8-9): Christine S Huang, Nina Oberbeck, Yi-Chun Hsiao, Peter S. Liu, Adam R. Johnson, V. Dixit, and S. Hymowitz. Crystal structure of ripk4 reveals dimerization-dependent kinase activity. Structure, 26 5:767-777.e5, May 2018. URL: https://doi.org/10.1016/j.str.2018.04.002, doi:10.1016/j.str.2018.04.002. This article has 26 citations and is from a domain leading peer-reviewed journal.
+
+16. (kalay2012mutationsinripk4 pages 3-4): Ersan Kalay, Orhan Sezgin, Vasant Chellappa, Mehmet Mutlu, Heba Morsy, Hulya Kayserili, Elmar Kreiger, Aysegul Cansu, Bayram Toraman, Ebtesam Mohammed Abdalla, Yakup Aslan, Shiv Pillai, and Nurten A. Akarsu. Mutations in ripk4 cause the autosomal-recessive form of popliteal pterygium syndrome. American journal of human genetics, 90 1:76-85, Jan 2012. URL: https://doi.org/10.1016/j.ajhg.2011.11.014, doi:10.1016/j.ajhg.2011.11.014. This article has 125 citations and is from a highest quality peer-reviewed journal.
+
+17. (liu2018ripk4promotesbladder pages 11-11): Jian-Ye Liu, Qing-Hai Zeng, Pei-Guo Cao, Dan Xie, Xin Chen, Fei Yang, Le-Ye He, Ying-Bo Dai, Jing-Jing Li, Xiao-Ming Liu, Hong-Liang Zeng, Yi-Xin Zhu, Lian Gong, Yan Cheng, Jian-Da Zhou, Jun Hu, Hao Bo, Zhen-Zhou Xu, and Ke Cao. Ripk4 promotes bladder urothelial carcinoma cell aggressiveness by upregulating vegf-a through the nf-κb pathway. British Journal of Cancer, 118:1617-1627, Jun 2018. URL: https://doi.org/10.1038/s41416-018-0116-8, doi:10.1038/s41416-018-0116-8. This article has 59 citations and is from a domain leading peer-reviewed journal.
+
+18. (madej2023vemurafenibanddabrafenib pages 23-23): Ewelina Madej, Anna A. Brożyna, Agnieszka Adamczyk, Norbert Wronski, Agnieszka Harazin-Lechowska, Anna Muzyk, Krzysztof Makuch, Michal Markiewicz, Janusz Rys, and Agnieszka Wolnicka-Glubisz. Vemurafenib and dabrafenib downregulates ripk4 level. Cancers, 15:918, Feb 2023. URL: https://doi.org/10.3390/cancers15030918, doi:10.3390/cancers15030918. This article has 11 citations and is from a peer-reviewed journal.
+
+19. (unknownauthors2017xiapmediatedinnateimmune pages 49-55): XIAP-Mediated Innate Immune Signaling in Inflammatory Bowel Disease

@@ -1,0 +1,90 @@
+## Phylogeny
+The priority publication by Manning et al. (2002) does not explicitly mention or classify STK32A (YANK1) (manning2002theproteinkinase pages 1-2, manning2002theproteinkinase pages 3-3, manning2002theproteinkinase pages 7-8). According to other classifications, STK32A (YANK1) belongs to the AGC group of protein kinases and the STK32 family (sorrell2020stk32aisa pages 7-10, sorrell2020stk32aisa pages 18-22, arencibia2013agcproteinkinases pages 2-3). On the kinome phylogenetic tree, the STK32 family is placed adjacent to the Aurora kinases, but they possess the full C-terminal extension characteristic of the AGC group (sorrell2020stk32aisa pages 1-5, sorrell2020stk32aisa pages 5-7). A conflicting classification places the YANK family in the Miscellaneous kinase group (thiriet2013preambletocytoplasmic pages 1-4). STK32A shares approximately 36% sequence identity with its nearest other kinases, such as PRKACG or RSK2 (sorrell2020stk32aisa pages 1-5). It shares 69% and 65% sequence identity with its paralogs STK32B and STK32C, respectively (sorrell2020stk32aisa pages 5-7). Orthologs of STK32A are conserved across opisthonts and have been identified in fungi (Magnaporthe oryzae, Schizosaccharomyces pombe), insects, sea anemone, and various vertebrates (sorrell2020stk32aisa pages 1-5, sorrell2020stk32aisa pages 5-7, sorrell2020stk32aisa pages 24-29).
+
+
+
+## Reaction Catalyzed
+STK32A is a dual-specificity kinase that catalyzes the transfer of a γ-phosphate group from ATP to a serine, threonine, or tyrosine residue on a substrate protein (sorrell2020stk32aisa pages 1-5, sorrell2020stk32aisa pages 5-7, sorrell2020stk32aisa pages 7-10).
+STK32A + ATP → Phospho-STK32A + ADP (Autophosphorylation)
+Substrate protein + ATP → Phospho-substrate protein + ADP (Substrate phosphorylation)
+
+
+
+## Cofactor Requirements
+The catalytic activity of STK32A requires divalent cations (sorrell2020stk32aisa pages 15-18, sorrell2020stk32aisa pages 24-29). Both Mg²⁺ and Mn²⁺ support kinase activity, but autophosphorylation and substrate phosphorylation are enhanced in the presence of Mn²⁺ ions compared to Mg²⁺ (sorrell2020stk32aisa pages 5-7, sorrell2020stk32aisa pages 7-10).
+
+
+
+## Substrate Specificity
+Data for STK32A was not explicitly available in the provided context from the priority source, Johnson et al. (2023) (johnson2023anatlasof pages 1-2, sorrell2020stk32aisa pages 1-5, sorrell2020stk32aisa pages 24-29, sorrell2020stk32aisa pages 7-10, sorrell2020stk32aisa pages 15-18, sorrell2020stk32aisa pages 39-43). According to other sources, STK32A is a dual-specificity kinase with a preference for acidic substrates (sorrell2020stk32aisa pages 1-5). Mass spectrometry analysis revealed a consensus substrate recognition motif characterized by a preference for acidic residues (aspartate or glutamate) at positions P-4, P+1, P+2, and P+3 relative to the phosphorylated serine or threonine residue (sorrell2020stk32aisa pages 5-7, sorrell2020stk32aisa pages 7-10). The substrate binding groove contains the basic residues Arg109, Arg221, and Arg304, which likely confer specificity towards acidic peptides (sorrell2020stk32aisa pages 10-12, sorrell2020stk32aisa pages 12-15). STK32A can also phosphorylate primed substrates with nearby phosphorylated residues (sorrell2020stk32aisa pages 12-15).
+
+
+
+## Structure
+The crystal structure of STK32A (PDB: 4FR4) reveals a canonical AGC kinase fold comprising N- and C-terminal lobes, with the ATP-binding site located between them (sorrell2020stk32aisa pages 1-5, sorrell2020stk32aisa pages 7-10, sorrell2020stk32aisa pages 24-29). The kinase domain contains conserved AGC family motifs, including the glycine-rich phosphate-binding loop, the catalytic HRD motif, and the APE motif (sorrell2020stk32aisa pages 5-7). Unique structural features include a novel alpha-helix, termed the ‘HF motif helix’, between the turn and hydrophobic motifs, and an altered binding mode of the hydrophobic motif (HF motif) to the N-lobe (sorrell2020stk32aisa pages 1-5, sorrell2020stk32aisa pages 5-7). The HF motif (sequence F-X-X-F-N-R) lacks a canonical phosphorylatable serine/threonine, containing an asparagine instead (sorrell2020stk32aisa pages 7-10, sorrell2020stk32aisa pages 5-7). The ATP-binding site features a small gatekeeper residue (Val100), which creates a larger binding pocket (sorrell2020stk32aisa pages 10-12, sorrell2020stk32aisa pages 12-15). SAXS analysis shows that STK32A is a monomer in solution (sorrell2020stk32aisa pages 10-12, sorrell2020stk32aisa pages 12-15).
+
+
+
+## Regulation
+STK32A activity is regulated by autophosphorylation on multiple serine, threonine, and tyrosine residues (sorrell2020stk32aisa pages 5-7). Identified autophosphorylation sites include S227, T229, S230, and S231 in the αF-αG loop; S320 in the turn motif; and S354 near the hydrophobic motif (sorrell2020stk32aisa pages 5-7). The C-terminal HF motif binds the N-lobe to stabilize the αC-helix in an active conformation without requiring phosphorylation in the C-terminal tail (sorrell2020stk32aisa pages 7-10). HPLC-SAXS analysis shows conformational differences between the unphosphorylated and autophosphorylated states of the enzyme (sorrell2020stk32aisa pages 29-39, sorrell2020stk32aisa pages 43-47). The paralog YANK2 is phosphorylated by the Fyn kinase at the conserved tyrosine 110, which increases YANK2 stability and activity (shi2024yank2activatedby pages 5-7, shi2024yank2activatedby pages 9-13). It is not known if STK32A is regulated by PDK1 (sorrell2020stk32aisa pages 7-10).
+
+
+
+## Function
+STK32A RNA levels are high in brain and endocrine tissues (sorrell2020stk32aisa pages 1-5). The protein localizes to the centrosome, while overexpressed protein is primarily cytosolic (sorrell2020stk32aisa pages 1-5, sorrell2020stk32aisa pages 15-18). In the mouse inner ear, STK32A is expressed in EMX2-negative vestibular hair cells, where it aligns the polarity of stereociliary bundles and regulates the subcellular distribution of the GPCR GPR156 (jia2023thedarkkinase pages 2-3). In vitro, STK32A phosphorylates full-length beta-casein and peptides from the p38α MAP kinase activation loop (sorrell2020stk32aisa pages 7-10, sorrell2020stk32aisa pages 15-18). The paralog YANK2 phosphorylates p70S6K at T389 in an mTOR-independent pathway (shi2024yank2activatedby pages 9-13). No interacting partners for STK32A have been reported (sorrell2020stk32aisa pages 1-5).
+
+
+
+## Inhibitors
+STK32A binds to several clinically used kinase inhibitors in vitro, including broad-spectrum type-I inhibitors targeting ALK (Ceritinib), BRAF (Dabrafenib), PAK4 (PF-03758309), SYK (PRT062607), and Aurora kinases (Danusertib), as well as the broad-spectrum inhibitor staurosporine (sorrell2020stk32aisa pages 12-15). Due to its small gatekeeper residue (Val100), STK32A also binds bulky inhibitors designed for analogue-sensitive kinases, such as 1NM-PP1 and PP-121 (sorrell2020stk32aisa pages 12-15, sorrell2020stk32aisa pages 29-39).
+
+
+
+## Other Comments
+Genetic studies link STK32A to several conditions. Single nucleotide polymorphisms (SNPs) in the STK32A gene, located at chromosomal locus 5q31–q33, are associated with coeliac disease (sorrell2020stk32aisa pages 1-5, arencibia2013agcproteinkinases pages 4-4). The gene is also associated with lung cancer susceptibility loci and smoking-related methylation changes (sorrell2020stk32aisa pages 1-5). A cancer-associated S89F missense mutation has been found in melanoma (sorrell2020stk32aisa pages 1-5). The YANK kinase family has been implicated in neurological diseases, and the paralog YANK2 promotes glioma tumorigenesis (shi2024yank2activatedby pages 8-9, shi2024yank2activatedby pages 5-7).
+
+References
+
+1. (manning2002theproteinkinase pages 1-2): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+2. (manning2002theproteinkinase pages 3-3): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+3. (manning2002theproteinkinase pages 7-8): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+4. (sorrell2020stk32aisa pages 1-5): F. Sorrell, F. Miranda, Kamal R. Abdul Azeez, A. Chaikuad, A. Kettenbach, S. Gerber, S. Knapp, A. Ahmed, and J. Elkins. Stk32a is a dual-specificity agc kinase with a preference for acidic substrates. bioRxiv, Mar 2020. URL: https://doi.org/10.1101/2020.03.04.976555, doi:10.1101/2020.03.04.976555. This article has 1 citations.
+
+5. (sorrell2020stk32aisa pages 10-12): F. Sorrell, F. Miranda, Kamal R. Abdul Azeez, A. Chaikuad, A. Kettenbach, S. Gerber, S. Knapp, A. Ahmed, and J. Elkins. Stk32a is a dual-specificity agc kinase with a preference for acidic substrates. bioRxiv, Mar 2020. URL: https://doi.org/10.1101/2020.03.04.976555, doi:10.1101/2020.03.04.976555. This article has 1 citations.
+
+6. (sorrell2020stk32aisa pages 12-15): F. Sorrell, F. Miranda, Kamal R. Abdul Azeez, A. Chaikuad, A. Kettenbach, S. Gerber, S. Knapp, A. Ahmed, and J. Elkins. Stk32a is a dual-specificity agc kinase with a preference for acidic substrates. bioRxiv, Mar 2020. URL: https://doi.org/10.1101/2020.03.04.976555, doi:10.1101/2020.03.04.976555. This article has 1 citations.
+
+7. (sorrell2020stk32aisa pages 15-18): F. Sorrell, F. Miranda, Kamal R. Abdul Azeez, A. Chaikuad, A. Kettenbach, S. Gerber, S. Knapp, A. Ahmed, and J. Elkins. Stk32a is a dual-specificity agc kinase with a preference for acidic substrates. bioRxiv, Mar 2020. URL: https://doi.org/10.1101/2020.03.04.976555, doi:10.1101/2020.03.04.976555. This article has 1 citations.
+
+8. (sorrell2020stk32aisa pages 18-22): F. Sorrell, F. Miranda, Kamal R. Abdul Azeez, A. Chaikuad, A. Kettenbach, S. Gerber, S. Knapp, A. Ahmed, and J. Elkins. Stk32a is a dual-specificity agc kinase with a preference for acidic substrates. bioRxiv, Mar 2020. URL: https://doi.org/10.1101/2020.03.04.976555, doi:10.1101/2020.03.04.976555. This article has 1 citations.
+
+9. (sorrell2020stk32aisa pages 24-29): F. Sorrell, F. Miranda, Kamal R. Abdul Azeez, A. Chaikuad, A. Kettenbach, S. Gerber, S. Knapp, A. Ahmed, and J. Elkins. Stk32a is a dual-specificity agc kinase with a preference for acidic substrates. bioRxiv, Mar 2020. URL: https://doi.org/10.1101/2020.03.04.976555, doi:10.1101/2020.03.04.976555. This article has 1 citations.
+
+10. (sorrell2020stk32aisa pages 29-39): F. Sorrell, F. Miranda, Kamal R. Abdul Azeez, A. Chaikuad, A. Kettenbach, S. Gerber, S. Knapp, A. Ahmed, and J. Elkins. Stk32a is a dual-specificity agc kinase with a preference for acidic substrates. bioRxiv, Mar 2020. URL: https://doi.org/10.1101/2020.03.04.976555, doi:10.1101/2020.03.04.976555. This article has 1 citations.
+
+11. (sorrell2020stk32aisa pages 43-47): F. Sorrell, F. Miranda, Kamal R. Abdul Azeez, A. Chaikuad, A. Kettenbach, S. Gerber, S. Knapp, A. Ahmed, and J. Elkins. Stk32a is a dual-specificity agc kinase with a preference for acidic substrates. bioRxiv, Mar 2020. URL: https://doi.org/10.1101/2020.03.04.976555, doi:10.1101/2020.03.04.976555. This article has 1 citations.
+
+12. (sorrell2020stk32aisa pages 5-7): F. Sorrell, F. Miranda, Kamal R. Abdul Azeez, A. Chaikuad, A. Kettenbach, S. Gerber, S. Knapp, A. Ahmed, and J. Elkins. Stk32a is a dual-specificity agc kinase with a preference for acidic substrates. bioRxiv, Mar 2020. URL: https://doi.org/10.1101/2020.03.04.976555, doi:10.1101/2020.03.04.976555. This article has 1 citations.
+
+13. (sorrell2020stk32aisa pages 7-10): F. Sorrell, F. Miranda, Kamal R. Abdul Azeez, A. Chaikuad, A. Kettenbach, S. Gerber, S. Knapp, A. Ahmed, and J. Elkins. Stk32a is a dual-specificity agc kinase with a preference for acidic substrates. bioRxiv, Mar 2020. URL: https://doi.org/10.1101/2020.03.04.976555, doi:10.1101/2020.03.04.976555. This article has 1 citations.
+
+14. (thiriet2013preambletocytoplasmic pages 1-4): Marc Thiriet. Preamble to cytoplasmic protein kinases. Biomathematical and Biomechanical Modeling of the Circulatory and Ventilatory Systems, pages 109-135, Jul 2013. URL: https://doi.org/10.1007/978-1-4614-4370-4\_3, doi:10.1007/978-1-4614-4370-4\_3. This article has 2 citations.
+
+15. (arencibia2013agcproteinkinases pages 4-4): José M. Arencibia, Daniel Pastor-Flores, Angelika F. Bauer, Jörg O. Schulze, and Ricardo M. Biondi. Agc protein kinases: from structural mechanism of regulation to allosteric drug development for the treatment of human diseases. Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics, 1834:1302-1321, Jul 2013. URL: https://doi.org/10.1016/j.bbapap.2013.03.010, doi:10.1016/j.bbapap.2013.03.010. This article has 239 citations.
+
+16. (jia2023thedarkkinase pages 2-3): Shihai Jia, Evan M. Ratzan, Ellison J. Goodrich, Raisa Abrar, Luke Heiland, Basile Tarchini, and Michael R. Deans. The dark kinase stk32a regulates hair cell planar polarity opposite of emx2 in the developing mouse inner ear. BioRxiv, Nov 2023. URL: https://doi.org/10.1101/2022.11.02.514904, doi:10.1101/2022.11.02.514904. This article has 7 citations.
+
+17. (johnson2023anatlasof pages 1-2): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+18. (sorrell2020stk32aisa pages 39-43): F. Sorrell, F. Miranda, Kamal R. Abdul Azeez, A. Chaikuad, A. Kettenbach, S. Gerber, S. Knapp, A. Ahmed, and J. Elkins. Stk32a is a dual-specificity agc kinase with a preference for acidic substrates. bioRxiv, Mar 2020. URL: https://doi.org/10.1101/2020.03.04.976555, doi:10.1101/2020.03.04.976555. This article has 1 citations.
+
+19. (arencibia2013agcproteinkinases pages 2-3): José M. Arencibia, Daniel Pastor-Flores, Angelika F. Bauer, Jörg O. Schulze, and Ricardo M. Biondi. Agc protein kinases: from structural mechanism of regulation to allosteric drug development for the treatment of human diseases. Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics, 1834:1302-1321, Jul 2013. URL: https://doi.org/10.1016/j.bbapap.2013.03.010, doi:10.1016/j.bbapap.2013.03.010. This article has 239 citations.
+
+20. (shi2024yank2activatedby pages 5-7): Yue Shi, Yue Cheng, Wei Wang, Liu Tang, Wensheng Li, Liyuan Zhang, Zheng Yuan, Feng Zhu, and Qiuhong Duan. Yank2 activated by fyn promotes glioma tumorigenesis via the mtor-independent p70s6k activation pathway. Scientific Reports, May 2024. URL: https://doi.org/10.1038/s41598-024-61157-5, doi:10.1038/s41598-024-61157-5. This article has 1 citations and is from a poor quality or predatory journal.
+
+21. (shi2024yank2activatedby pages 8-9): Yue Shi, Yue Cheng, Wei Wang, Liu Tang, Wensheng Li, Liyuan Zhang, Zheng Yuan, Feng Zhu, and Qiuhong Duan. Yank2 activated by fyn promotes glioma tumorigenesis via the mtor-independent p70s6k activation pathway. Scientific Reports, May 2024. URL: https://doi.org/10.1038/s41598-024-61157-5, doi:10.1038/s41598-024-61157-5. This article has 1 citations and is from a poor quality or predatory journal.
+
+22. (shi2024yank2activatedby pages 9-13): Yue Shi, Yue Cheng, Wei Wang, Liu Tang, Wensheng Li, Liyuan Zhang, Zheng Yuan, Feng Zhu, and Qiuhong Duan. Yank2 activated by fyn promotes glioma tumorigenesis via the mtor-independent p70s6k activation pathway. Scientific Reports, May 2024. URL: https://doi.org/10.1038/s41598-024-61157-5, doi:10.1038/s41598-024-61157-5. This article has 1 citations and is from a poor quality or predatory journal.

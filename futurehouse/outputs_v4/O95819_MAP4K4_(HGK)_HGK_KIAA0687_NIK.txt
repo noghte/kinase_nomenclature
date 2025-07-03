@@ -1,0 +1,110 @@
+## Phylogeny
+According to the classification by Manning et al., MAP4K4 (also known as HGK) is a member of the protein kinase superfamily, belonging to the STE group of kinases (manning2002theproteinkinase pages 3-3, manning2002theproteinkinase pages 7-8). Within the STE group, it is part of the Ste20/MAP4K family (manning2002theproteinkinase pages 3-3, ammirati2015discoveryofan pages 6-6). Further classification places MAP4K4 in the Germinal Center Kinase (GCK) family, a subfamily of the mammalian Ste20-like kinases (chuang2016map4kfamilykinases pages 1-4, fuller2021map4k4expressionin pages 1-2, dan2001theste20group pages 2-3). Specifically, it is assigned to the GCK-IV subfamily, along with kinases TNIK and MINK (fuller2021map4k4expressionin pages 1-2, dan2001theste20group pages 5-6, gao2016map4k4anemerging pages 1-2). Mammalian MAP4K4 has orthologs in yeast and mouse, where it is known as NIK (gao2016map4k4anemerging pages 1-2, singh2023molecularinsightsof pages 3-4).
+
+
+
+## Reaction Catalyzed
+MAP4K4 catalyzes the transfer of the γ-phosphate group from an ATP molecule to the hydroxyl group of specific serine or threonine residues on a substrate protein, yielding a phosphoprotein and ADP (ammirati2015discoveryofan pages 6-6, chuang2016map4kfamilykinases pages 1-4, fuller2021map4k4expressionin pages 1-2, gao2016map4k4anemerging pages 8-8). The reaction is represented as: ATP + protein-threonine → ADP + protein-phosphothreonine (schwaid2015map4k4isa pages 5-5).
+
+
+
+## Cofactor Requirements
+The catalytic activity of MAP4K4 is dependent on ATP as the phosphate donor cofactor (chuang2016map4kfamilykinases pages 1-4, ammirati2015discoveryofan pages 6-6, yao1999anovelhuman pages 1-2). The reaction also requires the presence of divalent metal ion cofactors, typically magnesium (Mg²⁺) or manganese (Mn²⁺), to facilitate phosphoryl transfer (ammirati2015discoveryofan pages 6-6, fuller2021map4k4expressionin pages 1-2, ndubaku2015structurebaseddesignof pages 6-6).
+
+
+
+## Substrate Specificity
+MAP4K4 is a threonine kinase that almost exclusively phosphorylates threonine residues (schwaid2015map4k4isa pages 1-2). In vitro kinase assays identified a preferred consensus motif of a phosphorylated threonine (pT) followed by a bulky lipophilic or aliphatic residue, particularly leucine (L), at the +1 position, denoted as the pTL motif (schwaid2015map4k4isa pages 1-2, schwaid2015map4k4isa pages 1-2). In contrast, phosphoproteomic analysis of cells treated with a MAP4K4 inhibitor showed downregulation of peptides containing pSP and pTP motifs (schwaid2015map4k4isa pages 1-2).
+
+
+
+## Structure
+MAP4K4 is a multi-domain protein featuring a conserved N-terminal kinase domain (residues 26–290), followed by a large unstructured linker region, a predicted coiled-coil domain (residues 351–495), and a C-terminal citron homology (CNH) domain (fuller2021map4k4expressionin pages 1-2, fuller2021map4k4expressionin pages 15-17, singh2023molecularinsightsof pages 3-4). A crystal structure of the kinase domain has been solved (PDB: 4ZK5), and full-length models have been generated using AlphaFold (fuller2021map4k4expressionin pages 11-13, fuller2021map4k4expressionin pages 22-22).
+
+Key structural features regulating catalytic function include the C-helix, the activation loop, and the hydrophobic spine (ammirati2015discoveryofan pages 6-6). The activation loop conformation is modulated by phosphorylation at Thr187, which is required for kinase activation (ammirati2015discoveryofan pages 6-6, fuller2021map4k4expressionin pages 11-13). A unique structural feature is an α-helix region (the Δ23 region) located immediately C-terminal to the kinase domain that is essential for its catalytic activity (fuller2021map4k4expressionin pages 11-13).
+
+
+
+## Regulation
+MAP4K4 activity is regulated by post-translational modifications and protein-protein interactions. It is maintained in an inactive, dephosphorylated state by the PP2A phosphatase within the STRIPAK complex (fuller2021map4k4expressionin pages 1-2, jovanovic2022themolecularbasis pages 8-9). Inhibition of PP2A or depletion of STRIPAK components such as STRIP1 leads to MAP4K4 autophosphorylation and activation (jovanovic2022themolecularbasis pages 8-9, fuller2021map4k4expressionin pages 15-17). Key phosphorylation sites that regulate activity include Thr187 in the activation loop, as well as Thr181 and Thr191 in the kinase domain (gao2016map4k4anemerging pages 1-2, fuller2021map4k4expressionin pages 11-13). Additional phosphorylation occurs on Ser648 and Ser708, which are regulated by the EGFR pathway (gao2016map4k4anemerging pages 2-4).
+
+Allosteric regulation includes activation via direct binding of the GTP-bound small GTPase Rap2 to the CNH domain (fuller2021map4k4expressionin pages 1-2, jovanovic2022themolecularbasis pages 8-9). MAP4K4 transcription can be increased by TNF-α and p53 (gao2016map4k4anemerging pages 2-4).
+
+
+
+## Function
+MAP4K4 is ubiquitously expressed in human tissues, with higher levels in the brain, testis, and heart (gao2016map4k4anemerging pages 1-2, fuller2021map4k4expressionin pages 1-2, singh2023molecularinsightsof pages 3-4).
+
+It is an upstream kinase in multiple signaling pathways, including the JNK, Hippo, NF-κB, Notch, and JAK-STAT cascades (gao2016map4k4anemerging pages 6-8, jovanovic2022themolecularbasis pages 2-4, yao1999anovelhuman pages 1-2). In the JNK pathway, it acts upstream of MAP3Ks like TAK1 and MEKK1 (singh2023molecularinsightsof pages 3-4, yao1999anovelhuman pages 5-7). MAP4K4 directly phosphorylates and activates the Hippo pathway kinases LATS1/2 (jovanovic2022themolecularbasis pages 8-9).
+
+Known substrates include cytoskeletal regulators ARP2 (at T237/T238), FARP1, and ERM proteins (ezrin, moesin, radixin); the kinase MLK3; and the immune signaling protein TRAF2 (jovanovic2022themolecularbasis pages 8-9, jovanovic2022themolecularbasis pages 9-11, chuang2016map4kfamilykinases pages 1-4). Its interacting partners include components of the STRIPAK complex (STRN3, STRN4), Rap2, and myosin heavy chains (fuller2021map4k4expressionin pages 15-17, jovanovic2022themolecularbasis pages 8-9).
+
+MAP4K4 is involved in embryonic development, cell migration, cytoskeletal dynamics, apoptosis, insulin signaling, and inflammatory and immune responses (gao2016map4k4anemerging pages 1-2, virbasius2016map4k4signalingnodes pages 6-8).
+
+
+
+## Inhibitors
+Several small-molecule experimental inhibitors targeting MAP4K4 have been developed, including GNE-495, GNE-220, PF-06260933, Compound 29, and a 4-hydroxy-2-pyridone compound (gao2016map4k4anemerging pages 6-8, jovanovic2022themolecularbasis pages 6-7). Other inhibitors include kenpaullone (a dual MAP4K4-GSK3 inhibitor) and Prostetin/12K (jovanovic2022themolecularbasis pages 6-7). The approved drug bosutinib (Bosulif®) is a known MAP4K4 inhibitor (jovanovic2022themolecularbasis pages 2-4).
+
+
+
+## Other Comments
+MAP4K4 is associated with a range of human diseases, including various cancers (glioblastoma, hepatocellular carcinoma), metabolic diseases (type 2 diabetes, atherosclerosis), and neurodegenerative disorders (gao2016map4k4anemerging pages 1-2, jovanovic2022themolecularbasis pages 6-7, virbasius2016map4k4signalingnodes pages 6-8).
+
+Heterozygous variants in the MAP4K4 gene are known to cause a spectrum of congenital anomalies, including developmental delay and abnormal brain MRI (patterson2023abrogationofmap4k4 pages 3-4). Missense variants within the kinase domain (e.g., p.Val39Gly, p.Arg152Trp, p.Gly173Asp) and a kinase-dead variant (p.Asp153Asn) have been shown to exert dominant-negative effects by disrupting kinase function (patterson2023abrogationofmap4k4 pages 3-4, patterson2023abrogationofmap4k4 pages 9-11). In contrast, frameshift mutations (e.g., p.Ser17ProfsTer55) and splice-site mutations that result in protein truncation are predicted to cause loss of function, leading to milder phenotypes (patterson2023abrogationofmap4k4 pages 3-4, patterson2023abrogationofmap4k4 pages 9-11).
+
+References
+
+1. (ammirati2015discoveryofan pages 6-6): Mark Ammirati, Scott W. Bagley, Samit K. Bhattacharya, Leonard Buckbinder, Anthony A. Carlo, Rebecca Conrad, Christian Cortes, Robert L. Dow, Matthew S. Dowling, Ayman El-Kattan, Kristen Ford, Cristiano R. W. Guimarães, David Hepworth, Wenhua Jiao, Jennifer LaPerle, Shenping Liu, Allyn Londregan, Paula M. Loria, Alan M. Mathiowetz, Michael Munchhof, Suvi T. M. Orr, Donna N. Petersen, David A. Price, Athanasia Skoura, Aaron C. Smith, and Jian Wang. Discovery of an <i>in vivo</i> tool to establish proof-of-concept for map4k4-based antidiabetic treatment. ACS Medicinal Chemistry Letters, 6:1128-1133, Oct 2015. URL: https://doi.org/10.1021/acsmedchemlett.5b00215, doi:10.1021/acsmedchemlett.5b00215. This article has 50 citations and is from a peer-reviewed journal.
+
+2. (chuang2016map4kfamilykinases pages 1-4): H. Chuang, Xiaohong Wang, and T. Tan. Map4k family kinases in immunity and inflammation. Advances in immunology, 129:277-314, 2016. URL: https://doi.org/10.1016/bs.ai.2015.09.006, doi:10.1016/bs.ai.2015.09.006. This article has 182 citations and is from a peer-reviewed journal.
+
+3. (fuller2021map4k4expressionin pages 1-2): Stephen J. Fuller, Nick S. Edmunds, Liam J. McGuffin, Michelle A. Hardyman, Joshua J. Cull, Hajed O. Alharbi, Daniel N. Meijles, Peter H. Sugden, and Angela Clerk. Map4k4 expression in cardiomyocytes: multiple isoforms, multiple phosphorylations and interactions with striatins. Biochemical Journal, 478:2121-2143, Jun 2021. URL: https://doi.org/10.1042/bcj20210003, doi:10.1042/bcj20210003. This article has 11 citations and is from a domain leading peer-reviewed journal.
+
+4. (gao2016map4k4anemerging pages 1-2): Xuan Gao, Chenxi Gao, Guoxiang Liu, and Jing Hu. Map4k4: an emerging therapeutic target in cancer. Cell &amp; Bioscience, Oct 2016. URL: https://doi.org/10.1186/s13578-016-0121-7, doi:10.1186/s13578-016-0121-7. This article has 93 citations.
+
+5. (gao2016map4k4anemerging pages 2-4): Xuan Gao, Chenxi Gao, Guoxiang Liu, and Jing Hu. Map4k4: an emerging therapeutic target in cancer. Cell &amp; Bioscience, Oct 2016. URL: https://doi.org/10.1186/s13578-016-0121-7, doi:10.1186/s13578-016-0121-7. This article has 93 citations.
+
+6. (gao2016map4k4anemerging pages 6-8): Xuan Gao, Chenxi Gao, Guoxiang Liu, and Jing Hu. Map4k4: an emerging therapeutic target in cancer. Cell &amp; Bioscience, Oct 2016. URL: https://doi.org/10.1186/s13578-016-0121-7, doi:10.1186/s13578-016-0121-7. This article has 93 citations.
+
+7. (jovanovic2022themolecularbasis pages 2-4): Dejana Jovanovic, Shen Yan, and Martin Baumgartner. The molecular basis of the dichotomous functionality of map4k4 in proliferation and cell motility control in cancer. Frontiers in Oncology, Dec 2022. URL: https://doi.org/10.3389/fonc.2022.1059513, doi:10.3389/fonc.2022.1059513. This article has 13 citations and is from a peer-reviewed journal.
+
+8. (jovanovic2022themolecularbasis pages 6-7): Dejana Jovanovic, Shen Yan, and Martin Baumgartner. The molecular basis of the dichotomous functionality of map4k4 in proliferation and cell motility control in cancer. Frontiers in Oncology, Dec 2022. URL: https://doi.org/10.3389/fonc.2022.1059513, doi:10.3389/fonc.2022.1059513. This article has 13 citations and is from a peer-reviewed journal.
+
+9. (jovanovic2022themolecularbasis pages 8-9): Dejana Jovanovic, Shen Yan, and Martin Baumgartner. The molecular basis of the dichotomous functionality of map4k4 in proliferation and cell motility control in cancer. Frontiers in Oncology, Dec 2022. URL: https://doi.org/10.3389/fonc.2022.1059513, doi:10.3389/fonc.2022.1059513. This article has 13 citations and is from a peer-reviewed journal.
+
+10. (manning2002theproteinkinase pages 3-3): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+11. (patterson2023abrogationofmap4k4 pages 3-4): Victoria Patterson, Farid Ullah, Laura Bryant, Dong Li, John N. Griffin, Alpa Sidhu, Sheila Saliganan, Mackenzie Blaile, Margarita S. Saenz, Rosemarie Smith, Sara Ellingwood, Dorothy K. Grange, Xuyun Hu, Maimaiti Mireguli, Yanfei Luo, Yiping Shen, Maureen Mulhern, Elaine Zackai, Alyssa Ritter, Kosuke Izumi, Julia Hoefele, Matias Wagner, Korbinian M. Riedhammer, Barbara Seitz, Nathaniel H. Robin, Dana Goodloe, Cyril Mignot, Boris Keren, Helen Cox, Joanna Jarvis, Maja Hempel, Cynthia Forster Gibson, Frederic Tran Mau-Them, Antonio Vitobello, Ange-Line Bruel, Arthur Sorlin, Sarju Mehta, F. Lucy Raymond, Kelly Gilmore, Bradford C. Powell, Karen Weck, Chumei Li, Anneke T. Vulto-van Silfhout, Thea Giacomini, Maria Margherita Mancardi, Andrea Accogli, Vincenzo Salpietro, Federico Zara, Neeta L. Vora, Erica E. Davis, Rebecca D. Burdine, and Elizabeth Bhoj. Abrogation of map4k4 protein function causes congenital anomalies in humans and zebrafish. Science Advances, Apr 2023. URL: https://doi.org/10.1126/sciadv.ade0631, doi:10.1126/sciadv.ade0631. This article has 6 citations and is from a highest quality peer-reviewed journal.
+
+12. (patterson2023abrogationofmap4k4 pages 9-11): Victoria Patterson, Farid Ullah, Laura Bryant, Dong Li, John N. Griffin, Alpa Sidhu, Sheila Saliganan, Mackenzie Blaile, Margarita S. Saenz, Rosemarie Smith, Sara Ellingwood, Dorothy K. Grange, Xuyun Hu, Maimaiti Mireguli, Yanfei Luo, Yiping Shen, Maureen Mulhern, Elaine Zackai, Alyssa Ritter, Kosuke Izumi, Julia Hoefele, Matias Wagner, Korbinian M. Riedhammer, Barbara Seitz, Nathaniel H. Robin, Dana Goodloe, Cyril Mignot, Boris Keren, Helen Cox, Joanna Jarvis, Maja Hempel, Cynthia Forster Gibson, Frederic Tran Mau-Them, Antonio Vitobello, Ange-Line Bruel, Arthur Sorlin, Sarju Mehta, F. Lucy Raymond, Kelly Gilmore, Bradford C. Powell, Karen Weck, Chumei Li, Anneke T. Vulto-van Silfhout, Thea Giacomini, Maria Margherita Mancardi, Andrea Accogli, Vincenzo Salpietro, Federico Zara, Neeta L. Vora, Erica E. Davis, Rebecca D. Burdine, and Elizabeth Bhoj. Abrogation of map4k4 protein function causes congenital anomalies in humans and zebrafish. Science Advances, Apr 2023. URL: https://doi.org/10.1126/sciadv.ade0631, doi:10.1126/sciadv.ade0631. This article has 6 citations and is from a highest quality peer-reviewed journal.
+
+13. (singh2023molecularinsightsof pages 3-4): S. K. Singh, Ruchi Roy, Sandeep Kumar, Piush Srivastava, S. Jha, B. Rana, and A. Rana. Molecular insights of map4k4 signaling in inflammatory and malignant diseases. Cancers, Apr 2023. URL: https://doi.org/10.3390/cancers15082272, doi:10.3390/cancers15082272. This article has 18 citations and is from a peer-reviewed journal.
+
+14. (virbasius2016map4k4signalingnodes pages 6-8): J. Virbasius and M. Czech. Map4k4 signaling nodes in metabolic and cardiovascular diseases. Trends in Endocrinology & Metabolism, 27:484-492, Jul 2016. URL: https://doi.org/10.1016/j.tem.2016.04.006, doi:10.1016/j.tem.2016.04.006. This article has 47 citations.
+
+15. (dan2001theste20group pages 2-3): Ippeita Dan, Norinobu M. Watanabe, and Akihiro Kusumi. The ste20 group kinases as regulators of map kinase cascades. Trends in Cell Biology, 11:220-230, May 2001. URL: https://doi.org/10.1016/s0962-8924(01)01980-8, doi:10.1016/s0962-8924(01)01980-8. This article has 820 citations and is from a domain leading peer-reviewed journal.
+
+16. (dan2001theste20group pages 5-6): Ippeita Dan, Norinobu M. Watanabe, and Akihiro Kusumi. The ste20 group kinases as regulators of map kinase cascades. Trends in Cell Biology, 11:220-230, May 2001. URL: https://doi.org/10.1016/s0962-8924(01)01980-8, doi:10.1016/s0962-8924(01)01980-8. This article has 820 citations and is from a domain leading peer-reviewed journal.
+
+17. (fuller2021map4k4expressionin pages 11-13): Stephen J. Fuller, Nick S. Edmunds, Liam J. McGuffin, Michelle A. Hardyman, Joshua J. Cull, Hajed O. Alharbi, Daniel N. Meijles, Peter H. Sugden, and Angela Clerk. Map4k4 expression in cardiomyocytes: multiple isoforms, multiple phosphorylations and interactions with striatins. Biochemical Journal, 478:2121-2143, Jun 2021. URL: https://doi.org/10.1042/bcj20210003, doi:10.1042/bcj20210003. This article has 11 citations and is from a domain leading peer-reviewed journal.
+
+18. (fuller2021map4k4expressionin pages 15-17): Stephen J. Fuller, Nick S. Edmunds, Liam J. McGuffin, Michelle A. Hardyman, Joshua J. Cull, Hajed O. Alharbi, Daniel N. Meijles, Peter H. Sugden, and Angela Clerk. Map4k4 expression in cardiomyocytes: multiple isoforms, multiple phosphorylations and interactions with striatins. Biochemical Journal, 478:2121-2143, Jun 2021. URL: https://doi.org/10.1042/bcj20210003, doi:10.1042/bcj20210003. This article has 11 citations and is from a domain leading peer-reviewed journal.
+
+19. (fuller2021map4k4expressionin pages 22-22): Stephen J. Fuller, Nick S. Edmunds, Liam J. McGuffin, Michelle A. Hardyman, Joshua J. Cull, Hajed O. Alharbi, Daniel N. Meijles, Peter H. Sugden, and Angela Clerk. Map4k4 expression in cardiomyocytes: multiple isoforms, multiple phosphorylations and interactions with striatins. Biochemical Journal, 478:2121-2143, Jun 2021. URL: https://doi.org/10.1042/bcj20210003, doi:10.1042/bcj20210003. This article has 11 citations and is from a domain leading peer-reviewed journal.
+
+20. (gao2016map4k4anemerging pages 8-8): Xuan Gao, Chenxi Gao, Guoxiang Liu, and Jing Hu. Map4k4: an emerging therapeutic target in cancer. Cell &amp; Bioscience, Oct 2016. URL: https://doi.org/10.1186/s13578-016-0121-7, doi:10.1186/s13578-016-0121-7. This article has 93 citations.
+
+21. (jovanovic2022themolecularbasis pages 9-11): Dejana Jovanovic, Shen Yan, and Martin Baumgartner. The molecular basis of the dichotomous functionality of map4k4 in proliferation and cell motility control in cancer. Frontiers in Oncology, Dec 2022. URL: https://doi.org/10.3389/fonc.2022.1059513, doi:10.3389/fonc.2022.1059513. This article has 13 citations and is from a peer-reviewed journal.
+
+22. (manning2002theproteinkinase pages 7-8): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+23. (ndubaku2015structurebaseddesignof pages 6-6): Chudi O. Ndubaku, Terry D. Crawford, Huifen Chen, Jason W. Boggs, Joy Drobnick, Seth F. Harris, Rajiv Jesudason, Erin McNamara, Jim Nonomiya, Amy Sambrone, Stephen Schmidt, Tanya Smyczek, Philip Vitorino, Lan Wang, Ping Wu, Stacey Yeung, Jinhua Chen, Kevin Chen, Charles Z. Ding, Tao Wang, Zijin Xu, Stephen E. Gould, Lesley J. Murray, and Weilan Ye. Structure-based design of gne-495, a potent and selective map4k4 inhibitor with efficacy in retinal angiogenesis. ACS Medicinal Chemistry Letters, 6:913-918, Jul 2015. URL: https://doi.org/10.1021/acsmedchemlett.5b00174, doi:10.1021/acsmedchemlett.5b00174. This article has 50 citations and is from a peer-reviewed journal.
+
+24. (schwaid2015map4k4isa pages 1-2): Adam G Schwaid, C. Su, Paula Loos, Jiang Wu, C. Nguyen, K. Stone, Jean Kanyo, K. Geoghegan, S. Bhattacharya, R. L. Dow, L. Buckbinder, and P. Carpino. Map4k4 is a threonine kinase that phosphorylates farp1. ACS chemical biology, 10 12:2667-71, Sep 2015. URL: https://doi.org/10.1021/acschembio.5b00679, doi:10.1021/acschembio.5b00679. This article has 15 citations and is from a domain leading peer-reviewed journal.
+
+25. (schwaid2015map4k4isa pages 5-5): Adam G Schwaid, C. Su, Paula Loos, Jiang Wu, C. Nguyen, K. Stone, Jean Kanyo, K. Geoghegan, S. Bhattacharya, R. L. Dow, L. Buckbinder, and P. Carpino. Map4k4 is a threonine kinase that phosphorylates farp1. ACS chemical biology, 10 12:2667-71, Sep 2015. URL: https://doi.org/10.1021/acschembio.5b00679, doi:10.1021/acschembio.5b00679. This article has 15 citations and is from a domain leading peer-reviewed journal.
+
+26. (yao1999anovelhuman pages 1-2): Zhengbin Yao, Guisheng Zhou, Xuhong Sunny Wang, Amy Brown, Katrina Diener, Hong Gan, and Tse-Hua Tan. A novel human ste20-related protein kinase, hgk, that specifically activates the c-jun n-terminal kinase signaling pathway*. The Journal of Biological Chemistry, 274:2118-2125, Jan 1999. URL: https://doi.org/10.1074/jbc.274.4.2118, doi:10.1074/jbc.274.4.2118. This article has 242 citations.
+
+27. (yao1999anovelhuman pages 5-7): Zhengbin Yao, Guisheng Zhou, Xuhong Sunny Wang, Amy Brown, Katrina Diener, Hong Gan, and Tse-Hua Tan. A novel human ste20-related protein kinase, hgk, that specifically activates the c-jun n-terminal kinase signaling pathway*. The Journal of Biological Chemistry, 274:2118-2125, Jan 1999. URL: https://doi.org/10.1074/jbc.274.4.2118, doi:10.1074/jbc.274.4.2118. This article has 242 citations.

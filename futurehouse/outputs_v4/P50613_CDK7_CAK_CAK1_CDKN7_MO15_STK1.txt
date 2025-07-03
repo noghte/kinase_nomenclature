@@ -1,0 +1,112 @@
+## Phylogeny
+According to the kinome classification by Manning et al. (2002), CDK7 is categorized within the CMGC group (which includes CDKs, MAPKs, GSKs, and CLKs) and is placed in the CDK family (manning2002theproteinkinase pages 7-8, johnson2023anatlasof pages 4-4, lolli2004thecrystalstructure pages 1-2). Phylogenetic studies place CDK7 in a "CTD-clade" of kinases that co-evolved with the C-terminal domain (CTD) of RNA polymerase II (RNAP II); this clade also includes CDK8 and CDK9 (guo2004comparativegenomicsof pages 10-11, guo2004comparativegenomicsof pages 1-2). CDK7 is phylogenetically distinct from the CDK-activating kinases (CAKs) found in yeast, such as Cak1 (liu2000evolutionofcyclindependent pages 1-1). Orthologs of CDK7 are highly conserved across eukaryotes, with clear orthologs in animals, plants, and yeasts (guo2004comparativegenomicsof pages 9-10). These include Kin28 in budding yeast, DmCdk7 in *Drosophila melanogaster*, cdk-7 in *Caenorhabditis elegans*, and multiple CDK7-like kinases in plants, such as AtCdkD2 and AtCdkD3 from *Arabidopsis thaliana* (liu2000evolutionofcyclindependent pages 1-2, guo2004comparativegenomicsof pages 2-4, liu2000evolutionofcyclindependent pages 2-3, inze2007cellcyclecontrol pages 133-136).
+
+
+
+## Reaction Catalyzed
+The enzyme catalyzes the ATP-dependent transfer of a gamma-phosphate group to the hydroxyl group of serine or threonine residues on protein substrates (sava2020cdk7inhibitorsas pages 1-2, lolli2004thecrystalstructure pages 1-2).
+ATP + [protein substrate] = ADP + [phosphoprotein substrate] (galbraith2019therapeutictargetingof pages 6-7, lolli2004thecrystalstructure pages 8-9)
+
+
+
+## Cofactor Requirements
+Catalytic activity requires ATP as a phosphate donor cofactor (galbraith2019therapeutictargetingof pages 6-7, lolli2004thecrystalstructure pages 1-2, sava2020cdk7inhibitorsas pages 1-2).
+
+
+
+## Substrate Specificity
+Analysis of kinase specificity patterns identifies CDK7 as a proline-directed kinase (johnson2023anatlasof pages 4-4). The consensus substrate motif for CDK7 centers on a phosphoacceptor serine or threonine residue with a strong preference for a proline (Pro) at the +1 position and a basic residue (lysine or arginine) at the -3 position (johnson2023anatlasof pages 4-4).
+Known protein substrates include:
+-   **RNA Polymerase II:** Phosphorylates Ser5 and Ser7 in the C-terminal domain (CTD) heptapeptide repeat YSPTSPS (galbraith2019therapeutictargetingof pages 6-7, song2024cyclindependentkinase7 pages 2-3).
+-   **Cyclin-Dependent Kinases:** Phosphorylates the T-loop of cell cycle CDKs, including CDK1 (at Thr161), CDK2 (at Thr160), CDK4, CDK6, and the transcriptional kinase CDK9 (sava2020cdk7inhibitorsas pages 2-4, sava2020cdk7inhibitorsas pages 1-2).
+-   **Transcription Factors:** Phosphorylates p53, estrogen receptor (ER), androgen receptor (AR), and E2F1 (sava2020cdk7inhibitorsas pages 1-2).
+-   **Other Transcriptional Proteins:** Phosphorylates the SPT5 C-terminal repeat (CTR) (duster2024structuralbasisof pages 1-2).
+
+
+
+## Structure
+CDK7 is a 346 amino acid protein that adopts a canonical two-lobed kinase fold (sava2020cdk7inhibitorsas pages 2-4, lolli2004thecrystalstructure pages 2-3). The N-terminal lobe (residues 13–96) consists mainly of β-sheets and includes the regulatory C-helix, while the larger C-terminal lobe (residues 97–311) is predominantly α-helical (lolli2004thecrystalstructure pages 2-3). The ATP binding site lies in the cleft between the lobes (song2024cyclindependentkinase7 pages 1-2). The crystal structure of the active human CDK7/Cyclin H/Mat1 complex has been determined at 2.15 Å resolution (duster2024structuralbasisof pages 2-3).
+Key regulatory and structural features include:
+-   **Activation Loop (T-loop):** This segment (residues 155–182) contains phosphorylation sites at Ser164 (S164) and Thr170 (T170) that are critical for activation (duster2024structuralbasisof pages 1-2, lolli2004thecrystalstructure pages 2-3). Dual phosphorylation locks the loop in an active conformation via a network of salt bridges (duster2024structuralbasisof pages 2-3).
+-   **C-helix:** This helix (residues 56–62) contains the NRTALRE sequence (analogous to PSTAIRE) and repositions upon activation (lolli2004thecrystalstructure pages 2-3). Arg61 (R61) within this helix forms critical salt bridges with phosphorylated Thr170 (pT170) and with Glu117 on Cyclin H, stabilizing the active complex (duster2024structuralbasisof pages 2-3).
+-   **Hydrophobic Spine:** The active conformation is supported by a hydrophobic spine inferred from the presence of conserved residues and kinase motifs (duster2024structuralbasisof pages 2-3).
+-   **Unique Features:** Compared to CDK2, CDK7 has a more hydrophobic ATP-binding pocket due to substitutions like Val100 replacing Lys89, which can be exploited for selective inhibitor design (lolli2004thecrystalstructure pages 8-9). The L14 loop structure confers resistance to dephosphorylation by the phosphatase KAP (lolli2004thecrystalstructure pages 8-9).
+
+
+
+## Regulation
+CDK7 activity is regulated by complex formation and post-translational modifications (duster2024structuralbasisof pages 2-3). It forms a tripartite complex with Cyclin H and MAT1, which is essential for its stability and function as a CDK-activating kinase (CAK) (kumar2021identificationofcdk7 pages 20-21, sava2020cdk7inhibitorsas pages 2-4). MAT1 stabilizes the complex and anchors it to the TFIIH transcription factor (song2024cyclindependentkinase7 pages 2-3, sava2020cdk7inhibitorsas pages 2-4).
+The primary regulatory mechanism is dual phosphorylation of the T-loop at Ser164 and Thr170 (duster2024structuralbasisof pages 1-2).
+-   **Phosphorylation Sites and Enzymes:** Phosphorylation at S164 primes the kinase for subsequent phosphorylation at T170 (duster2024structuralbasisof pages 1-2). Protein Kinase C iota (PKCι) can phosphorylate CDK7 at T170 (sava2020cdk7inhibitorsas pages 2-4).
+-   **Functional Effects:** Phosphorylation at T170 significantly enhances activity toward transcriptional substrates like the RNAPII CTD (duster2024structuralbasisof pages 1-2). pT170 stabilizes the active conformation by forming a charged cluster with key basic residues, including R61 (αC helix), R136 (HRD motif), and K160 (duster2024structuralbasisof pages 2-3). pS164 contributes to complex stabilization by engaging a unique arginine network involving all three subunits (duster2024structuralbasisof pages 1-2).
+-   **Allosteric and Conformational Regulation:** The tumor suppressor protein p53 directly interacts with Cyclin H, leading to a significant downregulation of CAK (CDK7) kinase activity (schneider1998regulationofcak pages 1-2, schneider1998regulationofcak pages 5-6). Binding of Cyclin H and MAT1, along with dual T-loop phosphorylation, also induces conformational changes that lock the activation loop in place and position the C-helix correctly for catalysis (duster2024structuralbasisof pages 2-3, song2024cyclindependentkinase7 pages 2-3).
+
+
+
+## Function
+CDK7 is a nuclear kinase that functions as a master regulator of both cell cycle progression and transcription (lolli2004thecrystalstructure pages 1-2, song2024cyclindependentkinase7 pages 1-2). Unlike many cell cycle CDKs, its protein levels remain constant throughout the cell cycle, although its activity is regulated (lolli2004thecrystalstructure pages 1-2).
+-   **Cell Cycle Control:** As the catalytic core of the CDK-activating kinase (CAK) complex, CDK7 phosphorylates and activates cell cycle CDKs (CDK1, CDK2, CDK4, CDK6), thereby driving progression through all phases of the cell cycle, including the G1/S and G2/M transitions (song2024cyclindependentkinase7 pages 2-3, sava2020cdk7inhibitorsas pages 1-2).
+-   **Transcription Regulation:** As a component of the general transcription factor TFIIH, CDK7 phosphorylates the CTD of RNA polymerase II at Ser5 and Ser7 (galbraith2019therapeutictargetingof pages 6-7). This action facilitates transcription initiation, promoter clearance, and promoter-proximal pausing (galbraith2019therapeutictargetingof pages 6-7, song2024cyclindependentkinase7 pages 2-3). It also phosphorylates CDK9 to promote transcription elongation (sava2020cdk7inhibitorsas pages 1-2).
+-   **Interacting Partners and Substrates:** Key interacting partners are Cyclin H and MAT1 (kumar2021identificationofcdk7 pages 20-21). The tumor suppressor p53 interacts with Cyclin H to regulate CDK7 activity (schneider1998regulationofcak pages 1-2, chiu2018mechanisticinsightsinto pages 31-33). Downstream substrates include the aforementioned CDKs, RNAPII, and transcription factors such as p53, ER, and AR (sava2020cdk7inhibitorsas pages 1-2).
+
+
+
+## Inhibitors
+Several selective CDK7 inhibitors have been developed for therapeutic use. These include covalent inhibitors like THZ1 and THZ2, which target Cys312 in the kinase domain (galbraith2019therapeutictargetingof pages 6-7). Other potent and selective inhibitors, such as SY-1365, YKL-1-116, BS-181, ICEC0942, SY-5609, and LY3405105, have been developed, with some advancing to Phase I/II clinical trials for advanced solid tumors (galbraith2019therapeutictargetingof pages 6-7, sava2020cdk7inhibitorsas pages 1-2).
+
+
+
+## Other Comments
+CDK7 is frequently overexpressed or upregulated in various cancers, including triple-negative breast cancer (TNBC), small-cell lung cancer, and cancers of the ovary, stomach, and pancreas (galbraith2019therapeutictargetingof pages 6-7, kumar2021identificationofcdk7 pages 20-21). High CDK7 levels often correlate with poor clinical prognosis and aggressive tumor characteristics (kumar2021identificationofcdk7 pages 20-21). Because some cancers display "transcriptional addiction" sustained by CDK7, it is considered a promising therapeutic target (kumar2021identificationofcdk7 pages 20-21). While disease-causing mutations in the *CDK7* gene itself are not commonly reported, mutations affecting the TFIIH complex, which includes CDK7, can impair transcription factor activation (galbraith2019therapeutictargetingof pages 6-7, sava2020cdk7inhibitorsas pages 13-13).
+
+References
+
+1. (chiu2018mechanisticinsightsinto pages 31-33): Hung-Chuan Chiu, Wei-ru Huang, Tsai-Ling Liao, Pei-I Chi, B. Nielsen, Jyung-Hurng Liu, and Hung-Jen Liu. Mechanistic insights into avian reovirus p17-modulated suppression of cell cycle cdk–cyclin complexes and enhancement of p53 and cyclin h interaction. The Journal of Biological Chemistry, 293:12542-12562, Jun 2018. URL: https://doi.org/10.1074/jbc.ra118.002341, doi:10.1074/jbc.ra118.002341. This article has 49 citations.
+
+2. (duster2024structuralbasisof pages 2-3): Robert Düster, Kanchan Anand, Sophie C. Binder, Maximilian Schmitz, Karl Gatterdam, Robert P. Fisher, and Matthias Geyer. Structural basis of cdk7 activation by dual t-loop phosphorylation. Nature Communications, Aug 2024. URL: https://doi.org/10.1038/s41467-024-50891-z, doi:10.1038/s41467-024-50891-z. This article has 10 citations and is from a highest quality peer-reviewed journal.
+
+3. (galbraith2019therapeutictargetingof pages 6-7): Matthew D. Galbraith, Heather Bender, and Joaquín M. Espinosa. Therapeutic targeting of transcriptional cyclin-dependent kinases. Transcription, 10:118-136, Nov 2019. URL: https://doi.org/10.1080/21541264.2018.1539615, doi:10.1080/21541264.2018.1539615. This article has 97 citations and is from a peer-reviewed journal.
+
+4. (guo2004comparativegenomicsof pages 1-2): Zhenhua Guo and J. Stiller. Comparative genomics of cyclin-dependent kinases suggest co-evolution of the rnap ii c-terminal domain and ctd-directed cdks. BMC Genomics, 5:69-69, Aug 2004. URL: https://doi.org/10.1186/1471-2164-5-69, doi:10.1186/1471-2164-5-69. This article has 99 citations and is from a peer-reviewed journal.
+
+5. (inze2007cellcyclecontrol pages 133-136): D. Inzé. Cell Cycle Control and Plant Development. Blackwell Publishing Ltd, May 2007. ISBN 9781405150439. URL: https://doi.org/10.1002/9780470988923, doi:10.1002/9780470988923. This article has 11 citations.
+
+6. (johnson2023anatlasof pages 4-4): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+7. (kumar2021identificationofcdk7 pages 20-21): Prof Vikas Kumar, S. Parate, Gunjan Thakur, Gihwan Lee, H. Ro, Yongseong Kim, H. Kim, M. Kim, and Keun Woo Lee. Identification of cdk7 inhibitors from natural sources using pharmacoinformatics and molecular dynamics simulations. Biomedicines, Sep 2021. URL: https://doi.org/10.3390/biomedicines9091197, doi:10.3390/biomedicines9091197. This article has 25 citations and is from a peer-reviewed journal.
+
+8. (lolli2004thecrystalstructure pages 1-2): Graziano Lolli, Edward D. Lowe, Nick R. Brown, and Louise N. Johnson. The crystal structure of human cdk7 and its protein recognition properties. Structure, 12:2067-2079, Nov 2004. URL: https://doi.org/10.1016/j.str.2004.08.013, doi:10.1016/j.str.2004.08.013. This article has 165 citations and is from a domain leading peer-reviewed journal.
+
+9. (lolli2004thecrystalstructure pages 8-9): Graziano Lolli, Edward D. Lowe, Nick R. Brown, and Louise N. Johnson. The crystal structure of human cdk7 and its protein recognition properties. Structure, 12:2067-2079, Nov 2004. URL: https://doi.org/10.1016/j.str.2004.08.013, doi:10.1016/j.str.2004.08.013. This article has 165 citations and is from a domain leading peer-reviewed journal.
+
+10. (manning2002theproteinkinase pages 7-8): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+11. (sava2020cdk7inhibitorsas pages 1-2): Georgina P. Sava, Hailing Fan, R. Charles Coombes, Lakjaya Buluwela, and Simak Ali. Cdk7 inhibitors as anticancer drugs. Cancer and Metastasis Reviews, 39:805-823, May 2020. URL: https://doi.org/10.1007/s10555-020-09885-8, doi:10.1007/s10555-020-09885-8. This article has 183 citations and is from a peer-reviewed journal.
+
+12. (sava2020cdk7inhibitorsas pages 13-13): Georgina P. Sava, Hailing Fan, R. Charles Coombes, Lakjaya Buluwela, and Simak Ali. Cdk7 inhibitors as anticancer drugs. Cancer and Metastasis Reviews, 39:805-823, May 2020. URL: https://doi.org/10.1007/s10555-020-09885-8, doi:10.1007/s10555-020-09885-8. This article has 183 citations and is from a peer-reviewed journal.
+
+13. (sava2020cdk7inhibitorsas pages 2-4): Georgina P. Sava, Hailing Fan, R. Charles Coombes, Lakjaya Buluwela, and Simak Ali. Cdk7 inhibitors as anticancer drugs. Cancer and Metastasis Reviews, 39:805-823, May 2020. URL: https://doi.org/10.1007/s10555-020-09885-8, doi:10.1007/s10555-020-09885-8. This article has 183 citations and is from a peer-reviewed journal.
+
+14. (schneider1998regulationofcak pages 1-2): E. Schneider, M. Montenarh, and P. Wagner. Regulation of cak kinase activity by p53. Oncogene, 17:2733-2741, Nov 1998. URL: https://doi.org/10.1038/sj.onc.1202504, doi:10.1038/sj.onc.1202504. This article has 111 citations and is from a domain leading peer-reviewed journal.
+
+15. (schneider1998regulationofcak pages 5-6): E. Schneider, M. Montenarh, and P. Wagner. Regulation of cak kinase activity by p53. Oncogene, 17:2733-2741, Nov 1998. URL: https://doi.org/10.1038/sj.onc.1202504, doi:10.1038/sj.onc.1202504. This article has 111 citations and is from a domain leading peer-reviewed journal.
+
+16. (song2024cyclindependentkinase7 pages 1-2): Xue Song, Chen Fang, Yan Dai, Yang Sun, Chang Qiu, Xiaojie Lin, and Rui Xu. Cyclin-dependent kinase 7 (cdk7) inhibitors as a novel therapeutic strategy for different molecular types of breast cancer. British Journal of Cancer, 130:1239-1248, Feb 2024. URL: https://doi.org/10.1038/s41416-024-02589-8, doi:10.1038/s41416-024-02589-8. This article has 13 citations and is from a domain leading peer-reviewed journal.
+
+17. (song2024cyclindependentkinase7 pages 2-3): Xue Song, Chen Fang, Yan Dai, Yang Sun, Chang Qiu, Xiaojie Lin, and Rui Xu. Cyclin-dependent kinase 7 (cdk7) inhibitors as a novel therapeutic strategy for different molecular types of breast cancer. British Journal of Cancer, 130:1239-1248, Feb 2024. URL: https://doi.org/10.1038/s41416-024-02589-8, doi:10.1038/s41416-024-02589-8. This article has 13 citations and is from a domain leading peer-reviewed journal.
+
+18. (duster2024structuralbasisof pages 1-2): Robert Düster, Kanchan Anand, Sophie C. Binder, Maximilian Schmitz, Karl Gatterdam, Robert P. Fisher, and Matthias Geyer. Structural basis of cdk7 activation by dual t-loop phosphorylation. Nature Communications, Aug 2024. URL: https://doi.org/10.1038/s41467-024-50891-z, doi:10.1038/s41467-024-50891-z. This article has 10 citations and is from a highest quality peer-reviewed journal.
+
+19. (guo2004comparativegenomicsof pages 10-11): Zhenhua Guo and J. Stiller. Comparative genomics of cyclin-dependent kinases suggest co-evolution of the rnap ii c-terminal domain and ctd-directed cdks. BMC Genomics, 5:69-69, Aug 2004. URL: https://doi.org/10.1186/1471-2164-5-69, doi:10.1186/1471-2164-5-69. This article has 99 citations and is from a peer-reviewed journal.
+
+20. (guo2004comparativegenomicsof pages 2-4): Zhenhua Guo and J. Stiller. Comparative genomics of cyclin-dependent kinases suggest co-evolution of the rnap ii c-terminal domain and ctd-directed cdks. BMC Genomics, 5:69-69, Aug 2004. URL: https://doi.org/10.1186/1471-2164-5-69, doi:10.1186/1471-2164-5-69. This article has 99 citations and is from a peer-reviewed journal.
+
+21. (guo2004comparativegenomicsof pages 9-10): Zhenhua Guo and J. Stiller. Comparative genomics of cyclin-dependent kinases suggest co-evolution of the rnap ii c-terminal domain and ctd-directed cdks. BMC Genomics, 5:69-69, Aug 2004. URL: https://doi.org/10.1186/1471-2164-5-69, doi:10.1186/1471-2164-5-69. This article has 99 citations and is from a peer-reviewed journal.
+
+22. (liu2000evolutionofcyclindependent pages 1-1): Ji Liu and Edward T. Kipreos. Evolution of cyclin-dependent kinases (cdks) and cdk-activating kinases (caks): differential conservation of caks in yeast and metazoa. Molecular Biology and Evolution, 17:1061-1074, Jul 2000. URL: https://doi.org/10.1093/oxfordjournals.molbev.a026387, doi:10.1093/oxfordjournals.molbev.a026387. This article has 181 citations and is from a highest quality peer-reviewed journal.
+
+23. (liu2000evolutionofcyclindependent pages 1-2): Ji Liu and Edward T. Kipreos. Evolution of cyclin-dependent kinases (cdks) and cdk-activating kinases (caks): differential conservation of caks in yeast and metazoa. Molecular Biology and Evolution, 17:1061-1074, Jul 2000. URL: https://doi.org/10.1093/oxfordjournals.molbev.a026387, doi:10.1093/oxfordjournals.molbev.a026387. This article has 181 citations and is from a highest quality peer-reviewed journal.
+
+24. (liu2000evolutionofcyclindependent pages 2-3): Ji Liu and Edward T. Kipreos. Evolution of cyclin-dependent kinases (cdks) and cdk-activating kinases (caks): differential conservation of caks in yeast and metazoa. Molecular Biology and Evolution, 17:1061-1074, Jul 2000. URL: https://doi.org/10.1093/oxfordjournals.molbev.a026387, doi:10.1093/oxfordjournals.molbev.a026387. This article has 181 citations and is from a highest quality peer-reviewed journal.
+
+25. (lolli2004thecrystalstructure pages 2-3): Graziano Lolli, Edward D. Lowe, Nick R. Brown, and Louise N. Johnson. The crystal structure of human cdk7 and its protein recognition properties. Structure, 12:2067-2079, Nov 2004. URL: https://doi.org/10.1016/j.str.2004.08.013, doi:10.1016/j.str.2004.08.013. This article has 165 citations and is from a domain leading peer-reviewed journal.

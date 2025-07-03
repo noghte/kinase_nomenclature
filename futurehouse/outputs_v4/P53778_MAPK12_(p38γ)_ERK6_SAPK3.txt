@@ -1,0 +1,81 @@
+Protein: Mitogen-activated protein kinase 12 (MAPK12, p38γ/ERK6/SAPK3) UniProt: P53778  
+
+## Phylogeny  
+CMGC group ▸ MAP kinase family ▸ p38 sub-family ▸ p38γ/δ branch (cuenda2007p38mapkinasespathway pages 1-2).  
+Gene-duplication analysis places MAPK11/12 as a derivative of the ancestral MAPK13/14 cluster (yokota2016p38mapkinases pages 1-2).  
+Verified vertebrate orthologs include Mus musculus Mapk12 (qi2023p38γmapkinflammatory pages 7-8), Rattus norvegicus Mapk12 (kumar2003p38mapkinases pages 2-3), and human MAPK12; no invertebrate orthologs are reported in the cited literature.  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + protein-O-phospho-Ser/Thr (machado2021thep38mapk pages 1-2).  
+
+## Cofactor Requirements  
+Catalysis requires a divalent cation, with Mg²⁺ coordinating ATP in the active site (goldsmith2004structureofmapks. pages 6-7).  
+
+## Substrate Specificity  
+• Proline-directed consensus motif: ‑P-X-(S/T)-P- (cuenda2007p38mapkinasespathway pages 1-2).  
+• C-terminal KETXL PDZ-binding motif docks the kinase to PDZ-domain substrates such as α1-syntrophin, SAP90/PSD95 and SAP97/hDlg, enhancing phosphorylation efficiency (risco2012newinsightsinto pages 1-2).  
+• p38γ/δ preferentially phosphorylate Tau, α1-syntrophin and SAP90/PSD95, whereas MAPKAPK2/3 are favored by p38α/β (cuenda2007p38mapkinasespathway pages 1-2).  
+• Additional validated sites: HSP90α Ser595, β-catenin Ser605, PFKFB3 Ser467, retinoblastoma Ser807/Ser811 and p53 Ser33 (qi2023p38γmapkinflammatory pages 5-7).  
+
+## Structure  
+Length: 367 aa; crystallizes as a monomer with the canonical bilobed kinase fold (risco2012newinsightsinto pages 1-2).  
+N-lobe: β-sheet plus Gly-rich loop (residues 30-37) forming part of the ATP pocket (goldsmith2004structureofmapks. pages 6-7).  
+C-lobe: α-helical, harboring the catalytic loop (HRD motif) and DFG motif Asp168-Phe169-Gly170 (goldsmith2004structureofmapks. pages 6-7).  
+Activation loop contains the Thr-Gly-Tyr motif; dual phosphorylation induces an active-loop conformation essentially superimposable on active ERK2 yet lacking a dimer interface, indicating a monomeric active state (cuadrado2010mechanismsandfunctions pages 2-3).  
+Unique elements:  
+• 38-residue MAPK insertion characteristic of MAPKs, contributing to substrate docking (goldsmith2004structureofmapks. pages 6-7).  
+• Gatekeeper position is occupied by a bulky residue (not Thr106 as in p38α) that sterically blocks binding of pyridinyl-imidazole inhibitors (cuenda2007p38mapkinasespathway pages 1-2).  
+• C-terminal KETXL sequence provides a PDZ-binding surface unique to p38γ (risco2012newinsightsinto pages 1-2).  
+Hinge and αC-helix rearrangements upon phosphorylation create an accessible ATP site; comparisons among p38 isoforms reveal hinge plasticity relevant for isoform-selective inhibitor design (yurtsever2015thecrystalstructure pages 1-2).  
+
+## Regulation  
+Activation: Dual phosphorylation of Thr-Gly-Tyr motif (Thr180/Tyr182 numbering relative to p38α) by MAP2Ks MKK3 or MKK6; MKK4 can substitute under specific stimuli (risco2012newinsightsinto pages 1-2, cuadrado2010mechanismsandfunctions pages 2-3).  
+Upstream MAP3Ks: ASK1, TAK1, TAO1/2, MLKs and MEKK family members funnel stress and cytokine signals to MKK3/6 (risco2012newinsightsinto pages 1-2, cuadrado2010mechanismsandfunctions pages 2-3).  
+Alternative activation: TAB1-induced autophosphorylation reported for p38 isoforms including p38γ (machado2021thep38mapk pages 1-2).  
+No additional post-translational modifications (ubiquitination, acetylation, SUMOylation) are documented in the referenced literature.  
+
+## Function  
+Expression: Highest in skeletal muscle; detectable in nervous tissue and cardiac myocytes (chen2001mapkinases. pages 17-18, yokota2016p38mapkinases pages 1-2, kumar2003p38mapkinases pages 2-3).  
+Physiological roles:  
+• Drives myoblast differentiation and muscle regeneration (risco2012newinsightsinto pages 1-2).  
+• Modulates cytokine production under inflammatory stimuli (machado2021thep38mapk pages 1-2).  
+• Contributes to down-regulation of cyclin D1 during hypoxia in adrenal cells (Information section).  
+Signaling context: Activated by environmental stressors and pro-inflammatory cytokines; downstream targets include ELK1, ATF2 and PDZ-domain scaffolds, linking p38γ to transcriptional and cytoskeletal control (cuenda2007p38mapkinasespathway pages 1-2, risco2012newinsightsinto pages 1-2).  
+
+## Inhibitors  
+• SB203580 and related pyridinyl-imidazoles inhibit p38α/β but not p38γ owing to the bulky gatekeeper residue (cuenda2007p38mapkinasespathway pages 1-2).  
+• Pirfenidone selectively inhibits p38γ over p38α/β; high dosing (500 mg kg⁻¹ daily) suppresses tumorigenesis in mice (qi2023p38γmapkinflammatory pages 7-8).  
+• BIRB796 acts as a pan-p38 blocker in vivo yet preferentially inhibits p38γ in vitro; effective at 10 mg kg⁻¹ in xenograft models (qi2023p38γmapkinflammatory pages 7-8).  
+• PIK75 (IC50 ≈ 0.34–0.42 µM) targets p38γ but also potently inhibits PI3K; active in vivo at 2 mg kg⁻¹ (qi2023p38γmapkinflammatory pages 7-8).  
+• CSH71 binds a non-ATP lipid-binding pocket of p38γ (IC50 ≈ 2 µM) in T-cell lines (qi2023p38γmapkinflammatory pages 7-8).  
+• AD80 inhibits p38γ/δ more strongly than p38α/β; suppresses hepatocellular carcinoma xenografts at 20 mg kg⁻¹ (qi2023p38γmapkinflammatory pages 7-8).  
+• Structural similarity to CDKs permits inhibition by certain CDK-directed chemotypes (machado2021thep38mapk pages 1-2).  
+
+## Other Comments  
+Disease associations: Elevated p38γ signaling supports oncogenic pathways in colon, pancreatic, liver and mammary tumors via phosphorylation of HSP90α, β-catenin, PFKFB3, Rb and p53 (qi2023p38γmapkinflammatory pages 5-7).  
+Mapk12-null mice are viable yet display diminished cytokine output to LPS and resistance to chemically induced carcinogenesis (qi2023p38γmapkinflammatory pages 7-8).  
+p38γ expression is increased in hypertrophic rat and human myocardium, linking the kinase to cardiac remodeling (kumar2003p38mapkinases pages 2-3, yokota2016p38mapkinases pages 1-2).
+
+References
+
+1. (cuenda2007p38mapkinasespathway pages 1-2): Ana Cuenda and Simon Rousseau. P38 map-kinases pathway regulation, function and role in human diseases. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1773:1358-1375, Aug 2007. URL: https://doi.org/10.1016/j.bbamcr.2007.03.010, doi:10.1016/j.bbamcr.2007.03.010. This article has 1882 citations.
+
+2. (machado2021thep38mapk pages 1-2): Thamires R. Machado, Thayná R. Machado, and Pedro G. Pascutti. The p38 mapk inhibitors and their role in inflammatory diseases. Unknown journal, 6:5729-5742, Jun 2021. URL: https://doi.org/10.1002/slct.202100406, doi:10.1002/slct.202100406. This article has 32 citations.
+
+3. (risco2012newinsightsinto pages 1-2): Ana Risco and Ana Cuenda. New insights into the p38<mml:math xmlns:mml="http://www.w3.org/1998/math/mathml"><mml:mi mathvariant="bold">γ</mml:mi></mml:math> and p38<mml:math xmlns:mml="http://www.w3.org/1998/math/mathml"><mml:mi mathvariant="bold">δ</mml:mi></mml:math> mapk pathways. Journal of Signal Transduction, 2012:1-8, Nov 2012. URL: https://doi.org/10.1155/2012/520289, doi:10.1155/2012/520289. This article has 117 citations.
+
+4. (chen2001mapkinases. pages 17-18): Zhu Chen, Tara Beers Gibson, Fred Robinson, Loraine Silvestro, Gray Pearson, Bing-e Xu, Angelique Wright, Colleen Vanderbilt, and Melanie H. Cobb. Map kinases. Chemical Reviews, 101:2449-2476, Jul 2001. URL: https://doi.org/10.1021/cr000241p, doi:10.1021/cr000241p. This article has 1369 citations and is from a highest quality peer-reviewed journal.
+
+5. (goldsmith2004structureofmapks. pages 6-7): E. Goldsmith, M. Cobb, and Chung-I Chang. Structure of mapks. Methods in molecular biology, 250:127-44, 2004. URL: https://doi.org/10.1385/1-59259-671-1:127, doi:10.1385/1-59259-671-1:127. This article has 31 citations and is from a peer-reviewed journal.
+
+6. (kumar2003p38mapkinases pages 2-3): Sanjay Kumar, Jeffrey Boehm, and John C. Lee. P38 map kinases: key signalling molecules as therapeutic targets for inflammatory diseases. Nature Reviews Drug Discovery, 2:717-726, Sep 2003. URL: https://doi.org/10.1038/nrd1177, doi:10.1038/nrd1177. This article has 1590 citations and is from a highest quality peer-reviewed journal.
+
+7. (qi2023p38γmapkinflammatory pages 7-8): Xiaomei Qi and Guan Chen. P38γ mapk inflammatory and metabolic signaling in physiology and disease. Cells, Jun 2023. URL: https://doi.org/10.3390/cells12131674, doi:10.3390/cells12131674. This article has 10 citations and is from a peer-reviewed journal.
+
+8. (yokota2016p38mapkinases pages 1-2): Tomohiro Yokota and Yibin Wang. P38 map kinases in the heart. Gene, 575:369-376, Jan 2016. URL: https://doi.org/10.1016/j.gene.2015.09.030, doi:10.1016/j.gene.2015.09.030. This article has 162 citations and is from a peer-reviewed journal.
+
+9. (cuadrado2010mechanismsandfunctions pages 2-3): Ana Cuadrado and Angel R. Nebreda. Mechanisms and functions of p38 mapk signalling. The Biochemical journal, 429 3:403-17, Aug 2010. URL: https://doi.org/10.1042/bj20100323, doi:10.1042/bj20100323. This article has 2122 citations.
+
+10. (qi2023p38γmapkinflammatory pages 5-7): Xiaomei Qi and Guan Chen. P38γ mapk inflammatory and metabolic signaling in physiology and disease. Cells, Jun 2023. URL: https://doi.org/10.3390/cells12131674, doi:10.3390/cells12131674. This article has 10 citations and is from a peer-reviewed journal.
+
+11. (yurtsever2015thecrystalstructure pages 1-2): Zeynep Yurtsever, S. Scheaffer, A. Romero, M. Holtzman, and T. Brett. The crystal structure of phosphorylated mapk13 reveals common structural features and differences in p38 mapk family activation. Acta crystallographica. Section D, Biological crystallography, 71 Pt 4:790-9, Apr 2015. URL: https://doi.org/10.1107/s1399004715001212, doi:10.1107/s1399004715001212. This article has 44 citations.

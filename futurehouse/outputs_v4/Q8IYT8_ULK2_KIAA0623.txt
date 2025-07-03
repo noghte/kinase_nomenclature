@@ -1,0 +1,92 @@
+## Phylogeny
+ULK2 belongs to the unc-51 like autophagy activating kinase (ULK) family, which is part of the serine/threonine kinase group within the human kinome as classified by Manning et al. (chaikuad2019conservationofstructure pages 1-4, karmacharya2023smallmoleculeinhibitors pages 1-2). The ULK family is assigned to the CAMK (Ca2+/calmodulin-dependent kinase) group (chaikuad2019conservationofstructure pages 12-15, kumar2020apancancerassessment pages 2-3). ULK2 is a human paralog of ULK1 and a human ortholog of yeast Atg1 and *C. elegans* UNC-51 kinase (demeter2020ulk1andulk2 pages 3-5, demeter2020ulk1andulk2 pages 1-3, yan1999mouseulk2a pages 1-3). The ULK1 and ULK2 genes arose from a duplication event of a single Atg1 ortholog at the base of the Chordates approximately 500 million years ago (demeter2020ulk1andulk2 pages 3-5). Orthologs of ULK2 are conserved across species involved in autophagy regulation (chaikuad2019conservationofstructure pages 17-20).
+
+
+
+## Reaction Catalyzed
+ULK2 catalyzes the phosphotransfer reaction of transferring the gamma-phosphate from an ATP molecule to the hydroxyl group of serine or threonine residues on substrate proteins (chaikuad2019conservationofstructure pages 1-4, chaikuad2019conservationofstructure pages 17-20, karmacharya2023smallmoleculeinhibitors pages 1-2).
+
+
+
+## Cofactor Requirements
+The catalytic activity of ULK2 requires divalent metal ions, specifically Mg2+, to stabilize ATP binding and facilitate catalysis (chaikuad2019conservationofstructure pages 1-4, chaikuad2019conservationofstructure pages 17-20, demeter2020ulk1andulk2 pages 6-10, chaikuad2019conservationofstructure pages 4-7).
+
+
+
+## Substrate Specificity
+Experimental substrate specificity profiling using positional scanning peptide libraries (PSPA) places ULK2 in Cluster 1 of basophilic kinases (johnson2023anatlasof pages 12-18). As a basophilic kinase, it favors basic residues such as arginine or lysine upstream of the phosphorylation site, with a consensus motif format described as R-x-x-S/T or similar (johnson2023anatlasof pages 12-18). The specificity is also influenced by negative selection against certain residues, which helps insulate phosphosites from phosphorylation by unrelated kinases (johnson2023anatlasof pages 3-4). The kinase has a preference for phosphorylating serine residues when a large hydrophobic residue is present at the DFG+1 position of the kinase, a feature consistent with its homolog ULK1 (kumar2020apancancerassessment pages 3-4).
+
+
+
+## Structure
+ULK2 is a 1033 amino acid protein composed of three primary domains: an N-terminal kinase domain (KD) responsible for catalysis, a central proline/serine-rich (PS) domain, and a C-terminal domain (CTD) that mediates protein-protein interactions and complex formation (chaikuad2019conservationofstructure pages 1-4, karmacharya2023smallmoleculeinhibitors pages 1-2, demeter2020ulk1andulk2 pages 1-3, yan1999mouseulk2a pages 1-3). The KD of ULK2 shares 78.71% sequence identity with ULK1 (demeter2020ulk1andulk2 pages 6-10).
+
+Crystal structures of ULK2 (e.g., PDB IDs 6QAS, 6QAT) show that it forms a dimer via an activation segment domain exchange, a mechanism not observed for the typically monomeric ULK1 (chaikuad2019conservationofstructure pages 1-4, chaikuad2019conservationofstructure pages 7-10, karmacharya2023smallmoleculeinhibitors pages 2-5). This dimerization is thought to facilitate trans-autophosphorylation and activation (chaikuad2019conservationofstructure pages 7-10). The kinase domain features conserved catalytic motifs like DFG and APE, and a salt bridge between K46 and E63 that is essential for activity, analogous to ULK1 (kumar2020apancancerassessment pages 3-4). Structurally unique features include a flexible methionine gatekeeper residue and an outward-facing phenylalanine in the P-loop, creating an unusually large inhibitor-binding pocket (chaikuad2019conservationofstructure pages 10-12).
+
+
+
+## Regulation
+ULK2 activity is regulated by phosphorylation. The kinase undergoes autophosphorylation on its kinase and PS domains (yan1999mouseulk2a pages 1-3). The dimeric structure facilitates trans-autophosphorylation on threonine 173 (T173) in the activation loop, a modification crucial for kinase activation (chaikuad2019conservationofstructure pages 7-10).
+
+Upstream kinases modulate ULK2 activity in response to cellular nutrient status. Under nutrient-replete conditions, mTORC1 phosphorylates ULK2, leading to its inactivation (demeter2020ulk1andulk2 pages 1-3, karmacharya2023smallmoleculeinhibitors pages 2-5). In response to nutrient starvation or energy stress, mTORC1 dissociates, and AMPK activates ULK2 through phosphorylation at specific sites (chaikuad2019conservationofstructure pages 1-4, chaikuad2019conservationofstructure pages 17-20, karmacharya2023smallmoleculeinhibitors pages 2-5). ULK2 also contains unique protein motifs absent in ULK1, such as a TRAF6 binding site, MAPK docking motifs, and calcium-dependent binding motifs, which suggest distinct regulatory inputs from cytokine, MAPK, and calcium signaling pathways (demeter2020ulk1andulk2 pages 13-14, demeter2020ulk1andulk2 pages 5-6).
+
+
+
+## Function
+ULK2 mRNA is broadly expressed in adult mouse tissues, with notable expression during nervous system development and higher levels in the spinal cord, corpus callosum, and testis (yan1999mouseulk2a pages 1-3, demeter2020ulk1andulk2 pages 6-10).
+
+ULK2 is a key initiator of autophagy, acting upstream of the phosphatidylinositol 3-kinase PIK3C3 (sidat2022ulk12inhibitoressential pages 8-9). It forms a complex with ATG13, RB1CC1/FIP200, and ATG101, which is essential for the formation of autophagophores (chaikuad2019conservationofstructure pages 1-4). Activated ULK2 phosphorylates downstream autophagy components like VPS34 and Beclin-1 (karmacharya2023smallmoleculeinhibitors pages 2-5, sidat2022ulk12inhibitoressential pages 8-9). While functionally overlapping with ULK1, ULK2 has distinct roles; it uniquely interacts with WIPI2 in xenophagy and its interactors are enriched in nitrogen compound metabolic processes (demeter2020ulk1andulk2 pages 3-5, demeter2020ulk1andulk2 pages 10-12). Beyond autophagy, ULK2 is involved in neuronal development, particularly axon formation, and lipid metabolism (chaikuad2019conservationofstructure pages 1-4, demeter2020ulk1andulk2 pages 1-3).
+
+
+
+## Inhibitors
+Several ATP-competitive small molecule inhibitors target the highly conserved kinase domains of both ULK1 and ULK2 (chaikuad2019conservationofstructure pages 1-4). These include MRT68921 (IC50 = 1.1 nM; KD ~4.9 nM), MRT67307 (IC50 = 38 nM), and SBI-0206965 (chaikuad2019conservationofstructure pages 1-4, chaikuad2019conservationofstructure pages 10-12, sidat2022ulk12inhibitoressential pages 8-9). Other compounds developed as ULK1/2 inhibitors are ULK-101 and PF-03814735 (chaikuad2019conservationofstructure pages 1-4, chaikuad2019conservationofstructure pages 17-20). The compound DCC-3116 is currently in clinical trials for cancer therapy (karmacharya2023smallmoleculeinhibitors pages 1-2). A common issue with many of these inhibitors is off-target activity against Aurora A kinase (chaikuad2019conservationofstructure pages 1-4, chaikuad2019conservationofstructure pages 12-15).
+
+
+
+## Other Comments
+Dysregulation of ULK2 is linked to multiple human diseases, including cancer (lung, neuroblastoma, leukemia), Crohn’s disease, neurodegenerative disorders, and autoimmune disorders (chaikuad2019conservationofstructure pages 17-20, karmacharya2023smallmoleculeinhibitors pages 1-2). ULK2 has been reported to be downregulated in colon biopsies from patients with inactive ulcerative colitis (demeter2020ulk1andulk2 pages 13-14, demeter2020ulk1andulk2 pages 12-13). The combined loss of both ULK1 and ULK2 in mice results in neonatal lethality, underscoring their critical and shared importance (demeter2020ulk1andulk2 pages 3-5).
+
+References
+
+1. (chaikuad2019conservationofstructure pages 1-4): A. Chaikuad, Sebastian E. Koschade, Alexandra Stolz, Katarina Živković, C. Pohl, S. Shaid, Huiyu Ren, L. J. Lambert, N. Cosford, C. Brandts, and S. Knapp. Conservation of structure, function and inhibitor binding in unc-51-like kinase 1 and 2 (ulk1/2). bioRxiv, Feb 2019. URL: https://doi.org/10.1101/550111, doi:10.1101/550111. This article has 50 citations.
+
+2. (chaikuad2019conservationofstructure pages 12-15): A. Chaikuad, Sebastian E. Koschade, Alexandra Stolz, Katarina Živković, C. Pohl, S. Shaid, Huiyu Ren, L. J. Lambert, N. Cosford, C. Brandts, and S. Knapp. Conservation of structure, function and inhibitor binding in unc-51-like kinase 1 and 2 (ulk1/2). bioRxiv, Feb 2019. URL: https://doi.org/10.1101/550111, doi:10.1101/550111. This article has 50 citations.
+
+3. (demeter2020ulk1andulk2 pages 3-5): A. Demeter, Mari Carmen Romero-Mulero, L. Csabai, Márton Ölbei, P. Sudhakar, W. Haerty, and T. Korcsmáros. Ulk1 and ulk2 are less redundant than previously thought: computational analysis uncovers distinct regulation and functions of these autophagy induction proteins. Scientific Reports, Feb 2020. URL: https://doi.org/10.1038/s41598-020-67780-2, doi:10.1038/s41598-020-67780-2. This article has 44 citations and is from a poor quality or predatory journal.
+
+4. (karmacharya2023smallmoleculeinhibitors pages 1-2): Ujjwala Karmacharya and Jongjon Jung. Small molecule inhibitors for unc-51-like autophagy-activating kinase targeting autophagy in cancer. International Journal of Molecular Sciences, Jan 2023. URL: https://doi.org/10.3390/ijms24020953, doi:10.3390/ijms24020953. This article has 19 citations and is from a peer-reviewed journal.
+
+5. (chaikuad2019conservationofstructure pages 10-12): A. Chaikuad, Sebastian E. Koschade, Alexandra Stolz, Katarina Živković, C. Pohl, S. Shaid, Huiyu Ren, L. J. Lambert, N. Cosford, C. Brandts, and S. Knapp. Conservation of structure, function and inhibitor binding in unc-51-like kinase 1 and 2 (ulk1/2). bioRxiv, Feb 2019. URL: https://doi.org/10.1101/550111, doi:10.1101/550111. This article has 50 citations.
+
+6. (chaikuad2019conservationofstructure pages 17-20): A. Chaikuad, Sebastian E. Koschade, Alexandra Stolz, Katarina Živković, C. Pohl, S. Shaid, Huiyu Ren, L. J. Lambert, N. Cosford, C. Brandts, and S. Knapp. Conservation of structure, function and inhibitor binding in unc-51-like kinase 1 and 2 (ulk1/2). bioRxiv, Feb 2019. URL: https://doi.org/10.1101/550111, doi:10.1101/550111. This article has 50 citations.
+
+7. (chaikuad2019conservationofstructure pages 4-7): A. Chaikuad, Sebastian E. Koschade, Alexandra Stolz, Katarina Živković, C. Pohl, S. Shaid, Huiyu Ren, L. J. Lambert, N. Cosford, C. Brandts, and S. Knapp. Conservation of structure, function and inhibitor binding in unc-51-like kinase 1 and 2 (ulk1/2). bioRxiv, Feb 2019. URL: https://doi.org/10.1101/550111, doi:10.1101/550111. This article has 50 citations.
+
+8. (chaikuad2019conservationofstructure pages 7-10): A. Chaikuad, Sebastian E. Koschade, Alexandra Stolz, Katarina Živković, C. Pohl, S. Shaid, Huiyu Ren, L. J. Lambert, N. Cosford, C. Brandts, and S. Knapp. Conservation of structure, function and inhibitor binding in unc-51-like kinase 1 and 2 (ulk1/2). bioRxiv, Feb 2019. URL: https://doi.org/10.1101/550111, doi:10.1101/550111. This article has 50 citations.
+
+9. (demeter2020ulk1andulk2 pages 1-3): A. Demeter, Mari Carmen Romero-Mulero, L. Csabai, Márton Ölbei, P. Sudhakar, W. Haerty, and T. Korcsmáros. Ulk1 and ulk2 are less redundant than previously thought: computational analysis uncovers distinct regulation and functions of these autophagy induction proteins. Scientific Reports, Feb 2020. URL: https://doi.org/10.1038/s41598-020-67780-2, doi:10.1038/s41598-020-67780-2. This article has 44 citations and is from a poor quality or predatory journal.
+
+10. (demeter2020ulk1andulk2 pages 13-14): A. Demeter, Mari Carmen Romero-Mulero, L. Csabai, Márton Ölbei, P. Sudhakar, W. Haerty, and T. Korcsmáros. Ulk1 and ulk2 are less redundant than previously thought: computational analysis uncovers distinct regulation and functions of these autophagy induction proteins. Scientific Reports, Feb 2020. URL: https://doi.org/10.1038/s41598-020-67780-2, doi:10.1038/s41598-020-67780-2. This article has 44 citations and is from a poor quality or predatory journal.
+
+11. (demeter2020ulk1andulk2 pages 6-10): A. Demeter, Mari Carmen Romero-Mulero, L. Csabai, Márton Ölbei, P. Sudhakar, W. Haerty, and T. Korcsmáros. Ulk1 and ulk2 are less redundant than previously thought: computational analysis uncovers distinct regulation and functions of these autophagy induction proteins. Scientific Reports, Feb 2020. URL: https://doi.org/10.1038/s41598-020-67780-2, doi:10.1038/s41598-020-67780-2. This article has 44 citations and is from a poor quality or predatory journal.
+
+12. (johnson2023anatlasof pages 12-18): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+13. (karmacharya2023smallmoleculeinhibitors pages 2-5): Ujjwala Karmacharya and Jongjon Jung. Small molecule inhibitors for unc-51-like autophagy-activating kinase targeting autophagy in cancer. International Journal of Molecular Sciences, Jan 2023. URL: https://doi.org/10.3390/ijms24020953, doi:10.3390/ijms24020953. This article has 19 citations and is from a peer-reviewed journal.
+
+14. (kumar2020apancancerassessment pages 2-3): Mukesh Kumar and Elena Papaleo. A pan-cancer assessment of alterations of the kinase domain of ulk1, an upstream regulator of autophagy. Scientific Reports, Sep 2020. URL: https://doi.org/10.1038/s41598-020-71527-4, doi:10.1038/s41598-020-71527-4. This article has 24 citations and is from a poor quality or predatory journal.
+
+15. (kumar2020apancancerassessment pages 3-4): Mukesh Kumar and Elena Papaleo. A pan-cancer assessment of alterations of the kinase domain of ulk1, an upstream regulator of autophagy. Scientific Reports, Sep 2020. URL: https://doi.org/10.1038/s41598-020-71527-4, doi:10.1038/s41598-020-71527-4. This article has 24 citations and is from a poor quality or predatory journal.
+
+16. (sidat2022ulk12inhibitoressential pages 8-9): Parin Sidat, Malleshappa Noolvi, Rahul Patil, and Sanket Rathod. Ulk1/2 inhibitor: essential component of autophagic cell death machinery. Journal of Pharmaceutical Research, 21:55-69, Sep 2022. URL: https://doi.org/10.18579/jopcr/v21i3.4, doi:10.18579/jopcr/v21i3.4. This article has 0 citations.
+
+17. (yan1999mouseulk2a pages 1-3): Jin Yan, H. Kuroyanagi, T. Tomemori, N. Okazaki, K. Asato, Y. Matsuda, Yo Suzuki, Y. Ohshima, S. Mitani, Y. Masuho, T. Shirasawa, and M. Muramatsu. Mouse ulk2, a novel member of the unc-51-like protein kinases: unique features of functional domains. Oncogene, 18:5850-5859, Oct 1999. URL: https://doi.org/10.1038/sj.onc.1202988, doi:10.1038/sj.onc.1202988. This article has 125 citations and is from a domain leading peer-reviewed journal.
+
+18. (demeter2020ulk1andulk2 pages 10-12): A. Demeter, Mari Carmen Romero-Mulero, L. Csabai, Márton Ölbei, P. Sudhakar, W. Haerty, and T. Korcsmáros. Ulk1 and ulk2 are less redundant than previously thought: computational analysis uncovers distinct regulation and functions of these autophagy induction proteins. Scientific Reports, Feb 2020. URL: https://doi.org/10.1038/s41598-020-67780-2, doi:10.1038/s41598-020-67780-2. This article has 44 citations and is from a poor quality or predatory journal.
+
+19. (demeter2020ulk1andulk2 pages 12-13): A. Demeter, Mari Carmen Romero-Mulero, L. Csabai, Márton Ölbei, P. Sudhakar, W. Haerty, and T. Korcsmáros. Ulk1 and ulk2 are less redundant than previously thought: computational analysis uncovers distinct regulation and functions of these autophagy induction proteins. Scientific Reports, Feb 2020. URL: https://doi.org/10.1038/s41598-020-67780-2, doi:10.1038/s41598-020-67780-2. This article has 44 citations and is from a poor quality or predatory journal.
+
+20. (demeter2020ulk1andulk2 pages 5-6): A. Demeter, Mari Carmen Romero-Mulero, L. Csabai, Márton Ölbei, P. Sudhakar, W. Haerty, and T. Korcsmáros. Ulk1 and ulk2 are less redundant than previously thought: computational analysis uncovers distinct regulation and functions of these autophagy induction proteins. Scientific Reports, Feb 2020. URL: https://doi.org/10.1038/s41598-020-67780-2, doi:10.1038/s41598-020-67780-2. This article has 44 citations and is from a poor quality or predatory journal.
+
+21. (johnson2023anatlasof pages 3-4): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.

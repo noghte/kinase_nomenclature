@@ -1,0 +1,38 @@
+## Phylogeny
+Myosin-IIIa (MYO3A) is a member of the class III myosins, a highly divergent group within the myosin superfamily (Komaba et al., 2003). Class III myosins were first identified in *Drosophila* as the NINAC protein (Dosé et al., 2007). The N-terminal kinase domain of MYO3A shares sequence similarity with members of the HGK kinase family, such as HPK and GCK, placing it within the p21-activated kinase (PAK) superfamily and a distinct group of serine/threonine kinases according to kinome classification (Coluccio, 2008).
+
+---
+## Reaction Catalyzed
+As a kinase, MYO3A catalyzes the ATP-dependent phosphorylation of protein substrates on serine and threonine residues (Coluccio, 2008).
+ATP + [protein]-L-serine = ADP + [protein]-L-serine phosphate.
+ATP + [protein]-L-threonine = ADP + [protein]-L-threonine phosphate.
+As a motor protein, MYO3A catalyzes the hydrolysis of ATP to generate mechanical force for movement along actin filaments (Coluccio, 2008).
+ATP + H₂O = ADP + phosphate.
+
+---
+## Cofactor Requirements
+The kinase and motor activities of MYO3A both require ATP (Coluccio, 2008; Komaba et al., 2003). The motor function also depends on divalent cations such as Mg²⁺ (Komaba et al., 2010). The Ca²⁺-binding protein calmodulin acts as a light chain cofactor by binding to the IQ motifs in the neck region, which modulates motor function (Dosé et al., 2007; Komaba et al., 2010).
+
+---
+## Substrate Specificity
+MYO3A is a serine/threonine kinase that has been shown to phosphorylate substrates such as its own regulatory light chain, calponin, actin, and myelin basic protein in vitro (Coluccio, 2008). A comprehensive analysis of the human Ser/Thr kinome by Johnson et al. (2023) experimentally determined the substrate specificity for 303 kinases, including MYO3A, using positional scanning peptide arrays (PSPA) (Johnson et al., 2023). This study generated detailed position-specific scoring matrices (PSSMs) and optimal substrate motifs that define the precise amino acid preferences at each position relative to the phosphorylation site for the human MYO3A kinase (Johnson et al., 2023). The exact motif and experimentally derived amino acid preferences for human MYO3A are available within the supplementary data tables of that publication, which are not provided in the supplied context (Johnson et al., 2023).
+
+---
+## Structure
+MYO3A is a monomeric protein with a multi-domain organization (Coluccio, 2008; Komaba et al., 2010). It contains an N-terminal kinase domain with a conserved glycine-rich loop and a catalytic lysine required for ATP binding (Komaba et al., 2003). This is followed by the myosin motor domain, which hydrolyzes ATP and binds to actin (Coluccio, 2008). The motor domain is connected to a neck region containing two IQ motifs that serve as binding sites for the calmodulin light chain (Dosé et al., 2007). The C-terminal tail region contains an additional actin-binding motif distinct from the motor domain (Dosé et al., 2007; Komaba et al., 2010). The atomic coordinates for the complex formed between the MYO3A tail's MORN4-binding domain and the MORN4 protein have been determined and deposited in the Protein Data Bank under accession code 6JLE (Li et al., 2019).
+
+---
+## Regulation
+The primary regulatory mechanism for MYO3A is intramolecular autophosphorylation (Komaba et al., 2003). The N-terminal kinase domain phosphorylates serine and threonine residues, particularly in or near loop 2 of the motor domain (Coluccio, 2008). This autophosphorylation enhances the kinase activity by approximately 3.3-fold (Coluccio, 2008). In turn, phosphorylation of the motor domain modulates its function by significantly increasing the rate of ATP hydrolysis while decreasing its affinity for actin and lowering its duty ratio (Komaba et al., 2010). This suggests that phosphorylation attenuates the motor's processive movement (Komaba et al., 2010). MYO3A may also be regulated by other kinases; for instance, protein kinase C can phosphorylate specific sites in the tail region (Coluccio, 2008).
+
+---
+## Function
+MYO3A is predominantly expressed in sensory cells, localizing to the tips of stereocilia in cochlear hair cells and to calycal processes in retinal photoreceptors (Grati et al., 2016; Raval et al., 2016). It functions as a plus end-directed motor protein, transporting cargo along actin filaments to the tips of these protrusions (Dantas et al., 2018; Raval et al., 2016). Known cargo and interacting partners include the actin-regulatory proteins espin-1 (ESPN-1) and espin-like (ESPNL), as well as protocadherin 15-CD2 (PCDH15-CD2), a component of the tip-link complex essential for mechanotransduction (Dantas et al., 2018; Grati et al., 2016). This transport activity is critical for regulating the length of stereocilia and maintaining the organized, staircase architecture of the hair bundle required for hearing (Dantas et al., 2018; Maekawa et al., 2025). The interaction with ESPN-1 is crucial for MYO3A trafficking and its proposed "inchworm-like" movement along actin filaments (Miyoshi et al., 2024). While essential for hearing, its role in vision may be compensated for by its paralog, MYO3B (Miyoshi et al., 2024).
+
+---
+## Other Comments
+Mutations in the MYO3A gene are associated with both autosomal recessive nonsyndromic hearing loss (DFNB30) and autosomal dominant forms of progressive, late-onset hearing loss (Dantas et al., 2018; Grati et al., 2016).
+Specific disease-causing mutations and their functional effects include:
+- **p.Gly488Glu (dominant):** Located in the motor domain, this mutation reduces ATPase activity but paradoxically enhances in vitro motility. It disrupts the transport of PCDH15-CD2 and impairs the ability of MYO3A to elongate filopodia, acting in a dominant-negative manner (Grati et al., 2016).
+- **p.Leu697Trp (dominant):** This missense mutation in the motor domain reduces both ATPase activity and motility while increasing actin affinity. The functional impairment disrupts cargo transport and stereocilia maintenance, leading to late-onset hearing loss (Dantas et al., 2018).
+- **p.Ser614Phe (recessive):** A motor domain mutation identified in a family with DFNB30 (Dantas et al., 2018).

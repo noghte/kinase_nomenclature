@@ -1,0 +1,91 @@
+## Phylogeny  
+• Kinase classification: Ca²⁺/calmodulin-regulated protein kinase (CaMK) group, myosin light-chain kinase (MLCK) family, Unc-89/obscurin-related dual-kinase subfamily (fleming2021exploringobscurinand pages 1-2, luo2021striatedpreferentiallyexpressed pages 1-2).  
+• Evolutionary origin: vertebrate duplication of OBSCN generated SPEG; the second kinase domain (SK2) shows marked divergence in the ATP-binding region (grogan2020doublethetrouble pages 6-8).  
+• Ortholog distribution: Homo sapiens SPEG, Mus musculus Speg, Rattus norvegicus Speg, Gallus gallus Speg, Xenopus laevis Speg; Danio rerio paralogues spega and spegb (unknownauthors2020elucidatingtherole pages 12-16).  
+• Invertebrate context: no direct orthologue; analogous architecture provided by Caenorhabditis elegans UNC-89/twitchin (luo2021striatedpreferentiallyexpressed pages 2-4).  
+
+## Reaction Catalyzed  
+Protein-L-Ser/Thr + ATP ⇌ Protein-L-Ser/Thr-phosphate + ADP (fleming2021exploringobscurinand pages 1-2).  
+
+## Cofactor Requirements  
+Not experimentally confirmed; Mg²⁺ presumed as for other MLCK-family enzymes (li2023integratedmultiomicsapproach pages 25-29).  
+
+## Substrate Specificity  
+• Consensus phosphorylation motif: not determined; SPEG absent from the Johnson 2023 serine/threonine kinase atlas (fleming2021exploringobscurinand pages 11-12).  
+• Experimentally validated targets and sites  
+  – Junctophilin-2, sites not mapped (grogan2020doublethetrouble pages 6-8).  
+  – SERCA2a Thr484 (luo2021striatedpreferentiallyexpressed pages 4-5).  
+  – RyR2 Ser2367 (lee2023speginteractionsthat pages 1-2).  
+  – RyR1 Ser2902 (li2023integratedmultiomicsapproach pages 1-5).  
+  – SPEG autophosphorylation within kinase-1 (grogan2020doublethetrouble pages 6-8).  
+
+## Structure  
+• Domain organisation (N→C): truncated Ig-like array → multiple fibronectin type-III domains → kinase-1 (SK1) → low-complexity inter-kinase linker → kinase-2 (SK2) → short C-terminal tail (grogan2020doublethetrouble pages 6-8, lee2023speginteractionsthat pages 1-2).  
+• Catalytic motifs: SK1 and SK2 each retain VAIK, HRD and DFG triads consistent with catalytic competence (fleming2021exploringobscurinand pages 11-12).  
+• 3D data: no PDB structures; homology models and AlphaFold prediction show canonical bilobed kinase folds with intact catalytic and regulatory spines (fleming2021exploringobscurinand pages 1-2).  
+• Unique element: inter-kinase linker lacks the autophosphorylation observed in obscurin, indicating divergent regulation (fleming2021exploringobscurinand pages 1-2).  
+
+## Regulation  
+• Autophosphorylation: kinase-1 undergoes cis autophosphorylation; kinase-2 minimal (grogan2020doublethetrouble pages 6-8).  
+• Upstream phosphorylation  
+  – Akt/PKB: Ser2461, Ser2462, Thr2463; enhances catalytic activity (fleming2021exploringobscurinand pages 11-12).  
+  – CaMKII: Ser2130 (human numbering); modulates cardiac function (fleming2021exploringobscurinand pages 11-12).  
+• Calmodulin interaction: C-terminal CaM-binding segment present; kinase-1 activity partly CaM-independent (grogan2020doublethetrouble pages 6-8).  
+• No reported ubiquitination, sumoylation or acetylation (fleming2021exploringobscurinand pages 11-12).  
+
+## Function  
+• Isoform expression: SPEGβ (~355 kDa) and SPEGα (~250 kDa) dominant in cardiac and skeletal muscle; APEG-1 in arterial smooth muscle; BPEG in brain (luo2021striatedpreferentiallyexpressed pages 1-2).  
+• Subcellular localisation: Z-disk and triad/dyad regions of the sarcoplasmic reticulum (grogan2020doublethetrouble pages 6-8, lee2023speginteractionsthat pages 1-2).  
+• Interacting partners  
+  – RyR2 and RyR1 (grogan2020doublethetrouble pages 6-8, li2023integratedmultiomicsapproach pages 25-29).  
+  – Junctophilin-2 (quick2017speg(striatedmuscle pages 1-3).  
+  – SERCA2a (luo2021striatedpreferentiallyexpressed pages 4-5).  
+  – MTM1 (li2023integratedmultiomicsapproach pages 36-42).  
+  – Desmin (luo2020spegbindswith pages 1-1).  
+  – CMYA5, FSD2, Esterase-D (lee2023speginteractionsthat pages 1-2).  
+  – Dynamin-2 (luo2021striatedpreferentiallyexpressed pages 5-7).  
+• Biological roles  
+  – Maintenance of triad and T-tubule architecture via Junctophilin-2 phosphorylation and desmin interaction (quick2017speg(striatedmuscle pages 1-3, luo2020spegbindswith pages 1-1).  
+  – Regulation of excitation–contraction coupling: inhibitory RyR2 Ser2367 phosphorylation and stimulatory SERCA2a Thr484 phosphorylation (lee2023speginteractionsthat pages 1-2, luo2021striatedpreferentiallyexpressed pages 4-5).  
+  – Modulation of skeletal muscle RyR1 via Ser2902 phosphorylation (li2023integratedmultiomicsapproach pages 1-5).  
+  – APEG-1 supports arterial smooth-muscle cell growth and differentiation (luo2021striatedpreferentiallyexpressed pages 1-2).  
+
+## Inhibitors  
+No specific inhibitors reported (fleming2021exploringobscurinand pages 1-2, grogan2020doublethetrouble pages 6-8).  
+
+## Other Comments  
+• Disease associations: autosomal-recessive loss-of-function variants cause centronuclear myopathy with or without dilated or left-ventricular non-compaction cardiomyopathy (luo2021striatedpreferentiallyexpressed pages 4-5, wang2017insightsfromgenotype–phenotype pages 10-14).  
+• Pathogenic variants: nonsense, frameshift and in-frame deletions; truncations disrupting the MTM1-interaction region correlate with severe cardiac phenotypes (wang2017insightsfromgenotype–phenotype pages 10-14).  
+• Expression in disease: SPEG mRNA reduced by ~83 % in failing human hearts (quick2017speg(striatedmuscle pages 1-3).
+
+References
+
+1. (fleming2021exploringobscurinand pages 1-2): J. Fleming, Alankrita Rani, Jamie D Kraft, Sanja Zenker, Emma Börgeson, and Stephan Lange. Exploring obscurin and speg kinase biology. Journal of Clinical Medicine, Mar 2021. URL: https://doi.org/10.3390/jcm10050984, doi:10.3390/jcm10050984. This article has 19 citations and is from a peer-reviewed journal.
+
+2. (grogan2020doublethetrouble pages 6-8): Alyssa Grogan, Panagiotis Tsakiroglou, and Aikaterini Kontrogianni-Konstantopoulos. Double the trouble: giant proteins with dual kinase activity in the heart. Biophysical Reviews, 12:1019-1029, Jul 2020. URL: https://doi.org/10.1007/s12551-020-00715-3, doi:10.1007/s12551-020-00715-3. This article has 16 citations and is from a peer-reviewed journal.
+
+3. (lee2023speginteractionsthat pages 1-2): Chang Seok Lee, Sung Yun Jung, Rachel Sue Zhen Yee, Nadia H Agha, Jin Hong, Ting Chang, Lyle Babcock, Jorie D Fleischman, Benjamin A. Clayton, Amy D Hanna, Christopher S Ward, Denise G. Lanza, Ayrea Hurley, Pumin Zhang, X. Wehrens, W. Lagor, G. Rodney, and Susan L Hamilton. Speg interactions that regulate the stability of excitation-contraction coupling protein complexes in triads and dyads. Communications Biology, Sep 2023. URL: https://doi.org/10.1038/s42003-023-05330-y, doi:10.1038/s42003-023-05330-y. This article has 7 citations and is from a peer-reviewed journal.
+
+4. (li2023integratedmultiomicsapproach pages 36-42): Qifei Li, Jasmine Lin, S. Luo, K. Schmitz-Abe, Rohan Agrawal, M. Meng, B. Moghadaszadeh, A. Beggs, Xiaoli Liu, M. Perrella, and P. Agrawal. Integrated multi-omics approach reveals the role of speg in skeletal muscle biology including its relationship with myospryn complex. bioRxiv, Apr 2023. URL: https://doi.org/10.1101/2023.04.24.538136, doi:10.1101/2023.04.24.538136. This article has 0 citations.
+
+5. (luo2021striatedpreferentiallyexpressed pages 2-4): S. Luo, Samantha M. Rosen, Qifei Li, and P. Agrawal. Striated preferentially expressed protein kinase (speg) in muscle development, function, and disease. International Journal of Molecular Sciences, May 2021. URL: https://doi.org/10.3390/ijms22115732, doi:10.3390/ijms22115732. This article has 20 citations and is from a peer-reviewed journal.
+
+6. (luo2021striatedpreferentiallyexpressed pages 4-5): S. Luo, Samantha M. Rosen, Qifei Li, and P. Agrawal. Striated preferentially expressed protein kinase (speg) in muscle development, function, and disease. International Journal of Molecular Sciences, May 2021. URL: https://doi.org/10.3390/ijms22115732, doi:10.3390/ijms22115732. This article has 20 citations and is from a peer-reviewed journal.
+
+7. (unknownauthors2020elucidatingtherole pages 12-16): Elucidating the Role of SPEG in Muscle Development and Function
+
+8. (wang2017insightsfromgenotype–phenotype pages 10-14): Haicui Wang, C. Castiglioni, A. Bayram, F. Fattori, Serdar Pekuz, Diego Araneda, H. Per, R. Erazo, H. Gümüş, S. Zorludemir, K. Becker, X. Ortega, J. Bevilacqua, E. Bertini, and S. Çırak. Insights from genotype–phenotype correlations by novel speg mutations causing centronuclear myopathy. Neuromuscular Disorders, 27:836-842, Sep 2017. URL: https://doi.org/10.1016/j.nmd.2017.05.014, doi:10.1016/j.nmd.2017.05.014. This article has 38 citations and is from a peer-reviewed journal.
+
+9. (fleming2021exploringobscurinand pages 11-12): J. Fleming, Alankrita Rani, Jamie D Kraft, Sanja Zenker, Emma Börgeson, and Stephan Lange. Exploring obscurin and speg kinase biology. Journal of Clinical Medicine, Mar 2021. URL: https://doi.org/10.3390/jcm10050984, doi:10.3390/jcm10050984. This article has 19 citations and is from a peer-reviewed journal.
+
+10. (li2023integratedmultiomicsapproach pages 1-5): Qifei Li, Jasmine Lin, S. Luo, K. Schmitz-Abe, Rohan Agrawal, M. Meng, B. Moghadaszadeh, A. Beggs, Xiaoli Liu, M. Perrella, and P. Agrawal. Integrated multi-omics approach reveals the role of speg in skeletal muscle biology including its relationship with myospryn complex. bioRxiv, Apr 2023. URL: https://doi.org/10.1101/2023.04.24.538136, doi:10.1101/2023.04.24.538136. This article has 0 citations.
+
+11. (li2023integratedmultiomicsapproach pages 25-29): Qifei Li, Jasmine Lin, S. Luo, K. Schmitz-Abe, Rohan Agrawal, M. Meng, B. Moghadaszadeh, A. Beggs, Xiaoli Liu, M. Perrella, and P. Agrawal. Integrated multi-omics approach reveals the role of speg in skeletal muscle biology including its relationship with myospryn complex. bioRxiv, Apr 2023. URL: https://doi.org/10.1101/2023.04.24.538136, doi:10.1101/2023.04.24.538136. This article has 0 citations.
+
+12. (luo2020spegbindswith pages 1-1): S. Luo, Qifei Li, Jasmine Lin, Quinn Murphy, I. Marty, Yuanfan Zhang, S. Kazerounian, and P. Agrawal. Speg binds with desmin and its deficiency causes defects in triad and focal adhesion proteins. Human molecular genetics, Dec 2020. URL: https://doi.org/10.1093/hmg/ddaa276, doi:10.1093/hmg/ddaa276. This article has 11 citations and is from a domain leading peer-reviewed journal.
+
+13. (luo2021striatedpreferentiallyexpressed pages 1-2): S. Luo, Samantha M. Rosen, Qifei Li, and P. Agrawal. Striated preferentially expressed protein kinase (speg) in muscle development, function, and disease. International Journal of Molecular Sciences, May 2021. URL: https://doi.org/10.3390/ijms22115732, doi:10.3390/ijms22115732. This article has 20 citations and is from a peer-reviewed journal.
+
+14. (luo2021striatedpreferentiallyexpressed pages 5-7): S. Luo, Samantha M. Rosen, Qifei Li, and P. Agrawal. Striated preferentially expressed protein kinase (speg) in muscle development, function, and disease. International Journal of Molecular Sciences, May 2021. URL: https://doi.org/10.3390/ijms22115732, doi:10.3390/ijms22115732. This article has 20 citations and is from a peer-reviewed journal.
+
+15. (quick2017speg(striatedmuscle pages 1-3): Ann P. Quick, Qiongling Wang, Leonne E. Philippen, Giselle Barreto-Torres, David Y. Chiang, David Beavers, Guoliang Wang, Maha Khalid, Julia O. Reynolds, Hannah M. Campbell, Jordan Showell, Mark D. McCauley, Arjen Scholten, and Xander H.T. Wehrens. Speg (striated muscle preferentially expressed protein kinase) is essential for cardiac function by regulating junctional membrane complex activity. Circulation Research, 120:110-119, Jan 2017. URL: https://doi.org/10.1161/circresaha.116.309977, doi:10.1161/circresaha.116.309977. This article has 106 citations and is from a highest quality peer-reviewed journal.

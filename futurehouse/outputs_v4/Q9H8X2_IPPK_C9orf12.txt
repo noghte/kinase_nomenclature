@@ -1,0 +1,83 @@
+## Phylogeny  
+IPPK (Q9H8X2) belongs to the IPK1 sub-family of inositol phosphate kinases, a lineage that is structurally and evolutionarily separate from the protein-kinase-fold IP3K/IPMK enzymes and from the ATP-grasp-fold ITPK/PPIP5K families (unknownauthors2014structuralstudiesof pages 48-52).  
+Conserved single-copy orthologs occur in Saccharomyces cerevisiae (ScIpk1), Arabidopsis thaliana (AtIPK1), Danio rerio (DrIpk1) and Mus musculus (MmIpk1) (laha2021inositolphosphatekinases pages 2-3, laha2021inositolphosphatekinases pages 5-7).  
+Plants show lineage-specific IPPK amplifications, whereas several Alveolata parasites have lost the gene, apparently relying on host-derived InsP₆ (laha2021inositolphosphatekinases pages 5-7).  
+
+## Reaction Catalyzed  
+ATP + Ins(1,3,4,5,6)P₅ ⇌ ADP + Ins(1,2,3,4,5,6)P₆ (gonzalez2010inositol13456pentakisphosphate2kinase pages 5-5, cridland2020inositolpyrophosphatepathways pages 3-5).  
+
+## Cofactor Requirements  
+Catalysis requires two Mg²⁺ ions that chelate ATP phosphates and stabilise the transition state (gonzalez2010inositol13456pentakisphosphate2kinase pages 5-5, unknownauthors2014structuralstudiesof pages 57-62).  
+
+## Substrate Specificity  
+IPPK phosphorylates only Ins(1,3,4,5,6)P₅; no peptide consensus motif is involved (gonzalez2010inositol13456pentakisphosphate2kinase pages 5-5).  
+• 5- and 6-phosphates mediate high-affinity binding to the basic C-lobe pocket (unknownauthors2014structuralstudiesof pages 75-85).  
+• The 1-phosphate engages Arg130, locking the N-lobe; removal of the 1- or 3-phosphate abolishes activity (unknownauthors2014structuralstudiesof pages 90-93).  
+• Asp368 interrogates the axial 2-OH, conferring absolute positional specificity (gonzalez2010inositol13456pentakisphosphate2kinase pages 5-5).  
+
+## Structure  
+Single-chain ~55 kDa kinase with an N-lobe, hinge, and C-lobe forming an ATP/InsP cleft (unknownauthors2014structuralstudiesof pages 142-155).  
+Key catalytic features (PDB 4O3V):  
+• Gly-rich loop (residues 80-85) securing ATP (unknownauthors2014structuralstudiesof pages 57-62).  
+• Lys168 neutralising negative charge during transfer (gonzalez2010inositol13456pentakisphosphate2kinase pages 5-5).  
+• Asp368 and Ser409 coordinating Mg²⁺ and recognising the axial 2-OH (gonzalez2010inositol13456pentakisphosphate2kinase pages 5-5).  
+• Arg130 anchoring the 1-phosphate and completing N-lobe closure (unknownauthors2014structuralstudiesof pages 75-85).  
+The inositide pocket is unusually deep and basic; an ~103° ATP-to-substrate angle supports in-line phosphoryl transfer (unknownauthors2014structuralstudiesof pages 57-62).  
+
+## Regulation  
+No experimentally verified post-translational modifications have been reported for human IPPK (chakraborty2018theinositolpyrophosphate pages 39-44).  
+Activation follows a two-step substrate-induced conformational change: initial docking via 4/5/6-phosphates, then 1-phosphate-triggered N-lobe locking (unknownauthors2014structuralstudiesof pages 142-155).  
+IPPK participates in an ATP-responsive metabolic cassette with ITPK1; reversible phosphate transfer between the two enzymes buffers diphosphoinositol phosphate levels in response to cellular energy charge (whitfield2020anatpresponsivemetabolic pages 11-13).  
+Allosteric inhibitors that bind outside the InsP pocket display non-competitive kinetics versus InsP₅, but their chemical identities remain unpublished (unknownauthors2014structuralstudiesof pages 199-202, unknownauthors2014structuralstudiesof pages 155-158).  
+
+## Function  
+Expression is highest in brain, heart, placenta and testes; the protein localises to nucleus (euchromatin, nucleoli) and cytoplasm (unknownauthors2014structuralstudiesof pages 43-48).  
+Pathway context:  
+• Upstream kinases IPMK and ITPK1 provide Ins(1,3,4,5,6)P₅ substrate (unknownauthors2025characterizationofppip5ks pages 30-33).  
+• IPPK-derived InsP₆ is the precursor for IP₇/IP₈ synthesis by IP6Ks and PPIP5Ks (unknownauthors2025characterizationofppip5ks pages 30-33).  
+InsP₆ produced by IPPK mediates:  
+– Gle1-dependent activation of Dbp5 ATPase, enabling bulk mRNA export through the nuclear pore (seeds2007rolesforinositol pages 6-8, chatree2020roleofinositols pages 3-5).  
+– Activation of Ku/DNA-PKcs complex, promoting non-homologous end-joining (seeds2007rolesforinositol pages 6-8).  
+– Regulation of endocytosis, ion-channel activity and protection from TNF-α-induced apoptosis (unknownauthors2014structuralstudiesof pages 219-222).  
+
+## Other Comments  
+Ipk1⁻/⁻ mice are embryonic-lethal at E8.5, confirming the essentiality of InsP₆ synthesis in mammalian development (seeds2007rolesforinositol pages 6-8).  
+Knock-down of zebrafish ipk1 disrupts left-right axis formation, indicating a conserved role in vertebrate morphogenesis (unknownauthors2014structuralstudiesof pages 43-48).
+
+References
+
+1. (cridland2020inositolpyrophosphatepathways pages 3-5): Caitlin Cridland and Glenda Gillaspy. Inositol pyrophosphate pathways and mechanisms: what can we learn from plants? Molecules, 25:2789, Jun 2020. URL: https://doi.org/10.3390/molecules25122789, doi:10.3390/molecules25122789. This article has 36 citations and is from a peer-reviewed journal.
+
+2. (gonzalez2010inositol13456pentakisphosphate2kinase pages 5-5): Beatriz González, Jose Ignacio Baños-Sanz, Maider Villate, Charles Alistair Brearley, and Julia Sanz-Aparicio. Inositol 1,3,4,5,6-pentakisphosphate 2-kinase is a distant ipk member with a singular inositide binding site for axial 2-oh recognition. Proceedings of the National Academy of Sciences, 107:9608-9613, May 2010. URL: https://doi.org/10.1073/pnas.0912979107, doi:10.1073/pnas.0912979107. This article has 62 citations.
+
+3. (seeds2007rolesforinositol pages 6-8): A. Seeds, J. Frederick, M. M. Tsui, and J. York. Roles for inositol polyphosphate kinases in the regulation of nuclear processes and developmental biology. Advances in enzyme regulation, 47:10-25, 2007. URL: https://doi.org/10.1016/j.advenzreg.2006.12.019, doi:10.1016/j.advenzreg.2006.12.019. This article has 26 citations.
+
+4. (unknownauthors2014structuralstudiesof pages 142-155): Structural studies of IPK1: how molecular turtles are made
+
+5. (unknownauthors2014structuralstudiesof pages 219-222): Structural studies of IPK1: how molecular turtles are made
+
+6. (unknownauthors2014structuralstudiesof pages 57-62): Structural studies of IPK1: how molecular turtles are made
+
+7. (unknownauthors2014structuralstudiesof pages 75-85): Structural studies of IPK1: how molecular turtles are made
+
+8. (unknownauthors2014structuralstudiesof pages 90-93): Structural studies of IPK1: how molecular turtles are made
+
+9. (chakraborty2018theinositolpyrophosphate pages 39-44): Anutosh Chakraborty. The inositol pyrophosphate pathway in health and diseases. Biological Reviews, May 2018. URL: https://doi.org/10.1111/brv.12392, doi:10.1111/brv.12392. This article has 112 citations and is from a domain leading peer-reviewed journal.
+
+10. (chatree2020roleofinositols pages 3-5): Saimai Chatree, Nanthaphop Thongmaen, Kwanchanit Tantivejkul, Chantacha Sitticharoon, and Ivana Vucenik. Role of inositols and inositol phosphates in energy metabolism. Molecules, 25:5079, Nov 2020. URL: https://doi.org/10.3390/molecules25215079, doi:10.3390/molecules25215079. This article has 164 citations and is from a peer-reviewed journal.
+
+11. (laha2021inositolphosphatekinases pages 2-3): Debabrata Laha, Paloma Portela-Torres, Yann Desfougères, and Adolfo Saiardi. Inositol phosphate kinases in the eukaryote landscape. Advances in Biological Regulation, 79:100782, Jan 2021. URL: https://doi.org/10.1016/j.jbior.2020.100782, doi:10.1016/j.jbior.2020.100782. This article has 42 citations and is from a peer-reviewed journal.
+
+12. (laha2021inositolphosphatekinases pages 5-7): Debabrata Laha, Paloma Portela-Torres, Yann Desfougères, and Adolfo Saiardi. Inositol phosphate kinases in the eukaryote landscape. Advances in Biological Regulation, 79:100782, Jan 2021. URL: https://doi.org/10.1016/j.jbior.2020.100782, doi:10.1016/j.jbior.2020.100782. This article has 42 citations and is from a peer-reviewed journal.
+
+13. (unknownauthors2014structuralstudiesof pages 43-48): Structural studies of IPK1: how molecular turtles are made
+
+14. (unknownauthors2014structuralstudiesof pages 48-52): Structural studies of IPK1: how molecular turtles are made
+
+15. (unknownauthors2025characterizationofppip5ks pages 30-33): Characterization of PPIP5Ks using pharmacological and chemical biology approaches
+
+16. (whitfield2020anatpresponsivemetabolic pages 11-13): H. Whitfield, G. White, Colleen Sprigg, A. M. Riley, B. Potter, A. Hemmings, and C. Brearley. An atp-responsive metabolic cassette comprised of inositol tris/tetrakisphosphate kinase 1 (itpk1) and inositol pentakisphosphate 2-kinase (ipk1) buffers diphosphosphoinositol phosphate levels. Biochemical Journal, 477:2621-2638, Jul 2020. URL: https://doi.org/10.1042/bcj20200423, doi:10.1042/bcj20200423. This article has 48 citations and is from a domain leading peer-reviewed journal.
+
+17. (unknownauthors2014structuralstudiesof pages 155-158): Structural studies of IPK1: how molecular turtles are made
+
+18. (unknownauthors2014structuralstudiesof pages 199-202): Structural studies of IPK1: how molecular turtles are made

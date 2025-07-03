@@ -1,0 +1,45 @@
+## Phylogeny  
+ACVR2A is assigned to the STRK group, TGF-β receptor family, of the human kinome (manning2002theproteinkinase).  
+It clusters with the type-II receptors ACVR2B and BMPR2, forming a branch separate from TGFβR2 and AMHR2 (hart2020mutationalanalysisof).  
+Verified vertebrate orthologs include Mus musculus Acvr2a, gilthead sea-bream saAcvr2b-1/-2a/-2b produced by teleost duplication, and Gallus gallus ActRIIB, underscoring conservation across tetrapods and teleosts (funkenstein2012structuralandfunctional).  
+Teleosts retain three co-orthologs—olaAcvr2ab, olaAcvr2ba and olaAcvr2bb—in medaka, illustrating lineage-specific expansion (trumpp2023characterizationoffibrodysplasia).  
+Invertebrate homologues such as Drosophila melanogaster punt and Caenorhabditis elegans daf-4 preserve the ancestral receptor architecture despite reduced kinase domains (unknownauthors2002expressionandregulation).  
+
+## Reaction Catalyzed  
+ATP + [type-I receptor]-Ser/Thr → ADP + [type-I receptor]-O-phospho-Ser/Thr (lee2006generationofactivin).  
+
+## Cofactor Requirements  
+Catalysis follows the canonical Mg²⁺ dependence of STRK family kinases (manning2002theproteinkinase).  
+
+## Substrate Specificity  
+Johnson et al. profiled 303 Ser/Thr kinases but did not report a consensus phosphorylation motif for ACVR2A (johnson2023anatlasof).  
+Biochemically, ACVR2A phosphorylates the glycine-serine regulatory segment of partner type-I receptors during trans-activation (lee2006generationofactivin).  
+
+## Structure  
+The mature receptor comprises an N-terminal signal peptide (1–24), an extracellular β-sandwich growth-factor binding domain (25–116), a single-pass transmembrane helix (~138–160) and a C-terminal serine/threonine kinase domain (190–479) (vishnu2019molecularcharacterizationand).  
+Extracellular structures bound to activin A (PDB 5NH3, 1REW) reveal a rigid seven-strand β-sheet core, an aromatic hydrophobic triad and an extended β2-β3 loop (61-66) that provide receptor-specific contacts (chu2022typeiibmp).  
+The kinase domain solved in PDB 3Q4T shows the bilobal fold, active-like αC helix, VAIK lysine (Lys219), HRD catalytic triad (His334-Asp336) and DFG motif (Asp354-Phe355-Gly356) aligned along the hydrophobic regulatory spine; the activation loop interacts with the catalytic loop and αC helix to position substrates (unknownauthors2023molecularinsightsinto).  
+Solvent-exposed extracellular Asn residues constitute predicted N-glycosylation sites analogous to those experimentally verified in BMPR2 (lowery2014nlinkedglycosylationof).  
+
+## Regulation  
+N-linked glycosylation enhances ligand affinity and surface expression (lowery2014nlinkedglycosylationof).  
+Ligand engagement drives formation of a (ACVR2A)₂:(type-I)₂ complex, enabling trans-phosphorylation of the type-I GS domain and downstream SMAD activation (goh2017activinreceptortype).  
+Activin A can assemble a non-signalling complex with ACVR1 and ACVR2A that sequesters receptors from canonical pathways (aykul2020activinaforms).  
+In the presence of the pathogenic ALK2-R206H mutant, ACVR2A homodimerization becomes ligand-dependent and modulates aberrant SMAD1/5/8 signalling (szilagyi2024theactivationof).  
+
+## Function  
+Combined GTEx and in-house analyses show highest ACVR2A expression in placenta, endometrium, vascular endothelium, skeletal muscle and differentiating osteoblasts (yang2025acvr2afacilitatestrophoblast).  
+In bone cells, ACVR2A signalling limits osteoblast differentiation and bone formation; soluble ACVR2A-Fc reverses this inhibition and enlarges trabecular and cortical bone mass (goh2017activinreceptortype).  
+In trophoblasts ACVR2A partners with ALK4, activating the SMAD1/5-SMAD4-TCF7/c-JUN axis to promote invasion and spiral-artery remodelling (yang2025acvr2afacilitatestrophoblast).  
+In skeletal muscle the receptor binds myostatin and activins to repress mTOR-dependent protein synthesis and satellite-cell proliferation (hulmi2021targetingtheactivin).  
+Downstream signalling involves canonical SMAD2/3 and non-SMAD cascades including PI3K, p38 MAPK and RhoA GTPases (wodzinski2019doestheexpression).  
+Partner type-I receptors include ALK4, ALK2 and ALK3, with FKBP12 acting as a constitutive repressor on type-I GS domains (szilagyi2024theactivationof).  
+
+## Inhibitors  
+High-affinity ligand traps such as ACVR2A-Fc and ACVR2B-Fc elevate bone and muscle mass in vivo (goh2017activinreceptortype).  
+Clinical-stage agents ACE-011 (sotatercept), luspatercept and the neutralizing antibody bimagrumab target ACVR2A ligands or the receptor to treat bone loss, anaemia and cachexia (lodberg2021principlesofthe).  
+
+## Other Comments  
+Frameshift and truncating ACVR2A mutations are frequent in microsatellite-unstable colorectal carcinoma and correlate with larger primary tumours (wodzinski2019doestheexpression).  
+Reduced placental ACVR2A expression contributes to pre-eclampsia through impaired trophoblast invasion (yang2025acvr2afacilitatestrophoblast).  
+Interaction with ALK2-R206H links ACVR2A to the pathogenesis of fibrodysplasia ossificans progressiva (szilagyi2024theactivationof).

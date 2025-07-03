@@ -1,0 +1,101 @@
+## Phylogeny
+AKT2 is one of three mammalian isoforms (AKT1/PKBα, AKT2/PKBβ, AKT3/PKBγ) of the AKT/Protein Kinase B (PKB) serine/threonine kinase (coffer1998proteinkinaseb pages 1-2, manning2017aktpkbsignalingnavigating pages 1-2). Based on kinase domain homology and conserved structural features, AKT2 is classified within the AGC kinase group (protein kinase A, G, and C family) and the Akt subfamily, according to the kinome classification framework established by Manning et al. (coffer1998proteinkinaseb pages 1-2, fayard2005proteinkinasebakt pages 1-1, kumar2005aktcrystalstructure pages 3-5). The AGC kinase group also includes PKA, PKG, and PKC (fayard2011proteinkinaseb pages 1-3, yang2002molecularmechanismfor pages 1-3). The function and structure of AKT2 are evolutionarily conserved, with orthologs identified in diverse species including mouse (*Mus musculus*), rat (*Rattus norvegicus*), zebrafish (*Danio rerio*), the fruit fly (*Drosophila melanogaster*), the mosquito, and the nematode (*Caenorhabditis elegans*) (cohen2013theaktgenes pages 1-2, coffer1998proteinkinaseb pages 1-2, fayard2005proteinkinasebakt pages 1-1, gonzalez2009theaktkinases pages 8-8).
+
+
+
+## Reaction Catalyzed
+AKT2 catalyzes the transfer of the γ-phosphate group from ATP to the hydroxyl group of serine or threonine residues on substrate proteins (coffer1998proteinkinaseb pages 1-2, fayard2011proteinkinaseb pages 1-3, kumar2005aktcrystalstructure pages 3-5). The overall reaction is: ATP + protein substrate → ADP + phospho-protein substrate (coffer1998proteinkinaseb pages 1-2).
+
+
+
+## Cofactor Requirements
+The catalytic activity of AKT2 requires divalent metal ions as essential cofactors (coffer1998proteinkinaseb pages 1-2, barnett2005theaktpkbfamily pages 1-2). Specifically, Mg²⁺ is required to coordinate with ATP in the catalytic site, stabilizing the nucleotide and enabling efficient phosphoryl transfer (coffer1998proteinkinaseb pages 1-2, fayard2011proteinkinaseb pages 1-3, kumar2005aktcrystalstructure pages 3-5, schultze2011promiscuousaffairsof pages 1-6). The Mg²⁺ ion bridges the γ- and β-phosphates of ATP and coordinates with the Asp residue of the conserved DFG motif (Asp 292 in AKT1) in the catalytic loop (kumar2025structuralinsightsof pages 4-8). Mn²⁺ may also serve as a cofactor in experimental settings (calleja20093dstructureand pages 2-4, kumar2025structuralinsightsof pages 18-19).
+
+
+
+## Substrate Specificity
+Analysis of substrate specificities for human serine/threonine kinases revealed that for AKT kinases, including AKT2, optimal substrate motifs show recognition of hydrophobic residues located N-terminal to the phosphorylated serine or threonine (johnson2023anatlasof pages 1-2). This is combined with a selection for turn-promoting residues such as glycine or asparagine at the +1 position relative to the phosphorylation site (johnson2023anatlasof pages 1-2). Substrate specificity is also characterized by strong negative selection against certain residues, with electrostatic filtering playing a significant role (johnson2023anatlasof pages 1-2). AKT2 also exhibited preferences for phosphorylated residues at particular positions within the substrate, which is indicative of potential phospho-priming effects (johnson2023anatlasof pages 1-2).
+
+
+
+## Structure
+AKT2 has a conserved structure comprising three primary domains: an N-terminal Pleckstrin Homology (PH) domain, a central catalytic kinase domain, and a C-terminal regulatory domain or tail containing a hydrophobic motif (coffer1998proteinkinaseb pages 1-2, risso2015aktpkbonekinase pages 1-2, schultze2011promiscuousaffairsof pages 1-6). The PH domain (residues ~1-107) binds to phosphoinositides like PIP3, facilitating membrane localization (kumar2005aktcrystalstructure pages 2-3, lindsley2010theaktpkbfamily pages 2-3). The catalytic kinase domain (residues ~146-440) is bilobal, with a smaller N-lobe and a larger C-lobe (kumar2005aktcrystalstructure pages 3-5, kumar2025structuralinsightsof pages 4-8).
+
+Crystal structures of the AKT2 kinase domain have been resolved in both inactive (unphosphorylated, e.g., PDB: 1GZN) and activated (phosphorylated, e.g., PDB: 1O6K) states (kumar2005aktcrystalstructure pages 3-5). Key regulatory and catalytic features include the glycine-rich ATP-binding loop (GKGTFG motif), the catalytic loop (YRDLKLEN motif), the C-helix, and the activation loop containing the DFG motif (kumar2025structuralinsightsof pages 4-8). In the inactive state, the activation loop is unstructured and the DFG motif adopts a "flipped-out" conformation that blocks the ATP binding site (kumar2005aktcrystalstructure pages 3-5, lindsley2010theaktpkbfamily pages 2-3). Upon activation via phosphorylation, the activation loop becomes ordered, and the DFG motif flips in, allowing the aspartate residue (Asp 292 homolog) to coordinate Mg²⁺-ATP for catalysis (kumar2005aktcrystalstructure pages 3-5, kumar2025structuralinsightsof pages 9-10). This activation involves a ~20-degree rotation of the N and C lobes relative to each other (lindsley2010theaktpkbfamily pages 2-3).
+
+
+
+## Regulation
+AKT2 activation is a multi-step process initiated by its recruitment from the cytosol to the plasma membrane (manning2017aktpkbsignalingnavigating pages 1-2). This translocation is mediated by the binding of its PH domain to the lipid second messenger phosphatidylinositol (3,4,5)-trisphosphate (PIP3), which is produced by PI3K (risso2015aktpkbonekinase pages 1-2, schultze2011promiscuousaffairsof pages 1-6). At the membrane, AKT2 is fully activated by dual phosphorylation (coffer1998proteinkinaseb pages 1-2).
+
+Key post-translational modifications include:
+- **Phosphorylation**: Phosphorylation at two key sites is required for maximal activity. Threonine 309 (Thr309) in the activation loop is phosphorylated by PDK1, and Serine 474 (Ser474) in the C-terminal hydrophobic motif is phosphorylated by mTORC2 (cohen2013theaktgenes pages 2-4, manning2017aktpkbsignalingnavigating pages 1-2, nitulescu2015aktinhibitorsin pages 1-2, risso2015aktpkbonekinase pages 1-2). Thr308 phosphorylation increases activity ~100-fold, while subsequent Ser473 phosphorylation (AKT1 numbering) provides an additional 10-fold increase (kumar2005aktcrystalstructure pages 2-3). Src and other tyrosine kinases can also phosphorylate AKT2 on tyrosine residues (e.g., Tyr316, Tyr323), which is necessary for full activation upon growth factor stimulation (risso2015aktpkbonekinase pages 3-4).
+- **Dephosphorylation**: AKT2 activity is negatively regulated by phosphatases. The lipid phosphatase PTEN antagonizes PI3K, reducing PIP3 levels and thus AKT2 activation (cohen2013theaktgenes pages 2-4, risso2015aktpkbonekinase pages 1-2). Protein phosphatases, including PP2A and PHLPP, directly dephosphorylate AKT2 at its key regulatory sites to terminate signaling (manning2017aktpkbsignalingnavigating pages 1-2, risso2015aktpkbonekinase pages 1-2).
+- **Other Modifications**: AKT2 activity is also fine-tuned by ubiquitination, SUMOylation, acetylation, glycosylation, and oxidation (risso2015aktpkbonekinase pages 1-2). For instance, SIRT1 deacetylates AKT2 at Lys14 and Lys20 (risso2015aktpkbonekinase pages 3-4).
+
+
+
+## Function
+AKT2 is expressed ubiquitously but is most prominent in insulin-responsive tissues such as liver, skeletal muscle, and adipose tissue (schultze2011promiscuousaffairsof pages 1-6, manning2017aktpkbsignalingnavigating pages 12-13). It is a central mediator of the PI3K signaling pathway, regulating cell survival, proliferation, metabolism, growth, and angiogenesis (coffer1998proteinkinaseb pages 1-2, cohen2013theaktgenes pages 2-4).
+
+AKT2 plays a critical role in insulin signaling and glucose homeostasis (cohen2013theaktgenes pages 1-2, manning2017aktpkbsignalingnavigating pages 12-13). It mediates insulin-stimulated glucose uptake, glycogen synthesis, and suppression of hepatic gluconeogenesis (manning2017aktpkbsignalingnavigating pages 12-13). Upstream activators include receptor tyrosine kinases (RTKs) and G-protein coupled receptors (GPCRs) that activate PI3K (manning2017aktpkbsignalingnavigating pages 1-2). Downstream, AKT2 phosphorylates a wide range of substrates, including GSK3, FoxO transcription factors, mTORC1, TBC1D4, and PDE3B, to execute its metabolic and growth-promoting functions (manning2017aktpkbsignalingnavigating pages 1-2, manning2017aktpkbsignalingnavigating pages 12-13).
+
+
+
+## Inhibitors
+AKT2 activity is negatively regulated endogenously by the lipid phosphatase PTEN, which acts upstream by depleting PIP3, and by protein phosphatases PP2A and PHLPP, which directly dephosphorylate AKT2 (cohen2013theaktgenes pages 2-4, risso2015aktpkbonekinase pages 1-2). Pharmacological inhibitors have been developed that target AKT kinases, including ATP-competitive agents that bind the kinase domain, as well as allosteric and irreversible inhibitors (nitulescu2015aktinhibitorsin pages 1-2). Some allosteric inhibitors have been developed to target the PH domain, offering potential for isozyme selectivity (barnett2005theaktpkbfamily pages 1-2, lindsley2010theaktpkbfamily pages 1-2).
+
+
+
+## Other Comments
+Dysregulation of AKT2 is implicated in human diseases (risso2015aktpkbonekinase pages 1-2). Amplification and overexpression of the *AKT2* gene (located on chromosome 19q13.1-q13.2) are frequently observed in cancers such as pancreatic tumors, hepatocellular carcinomas, and colorectal adenocarcinomas (coffer1998proteinkinaseb pages 1-2, cohen2013theaktgenes pages 2-4).
+
+Mutations in *AKT2* are linked to metabolic disorders. Rare dominant-negative mutations can cause severe insulin resistance and diabetes (manning2017aktpkbsignalingnavigating pages 12-13). Specific germline mutations have been identified in patients with metabolic syndromes; for example, the p.Glu17Lys (c.49G>A) mutation is associated with hyperinsulinism, hypoglycemia, and asymmetrical overgrowth, while the p.Arg274His (c.150G>A) mutation was found in a family with autosomal dominant severe insulin resistance and type II diabetes (cohen2013theaktgenes pages 2-4).
+
+References
+
+1. (coffer1998proteinkinaseb pages 1-2): P. Coffer, Jing-Yun Jin, and J. Woodgett. Protein kinase b (c-akt): a multifunctional mediator of phosphatidylinositol 3-kinase activation. The Biochemical journal, 335 ( Pt 1):1-13, Oct 1998. URL: https://doi.org/10.1042/bj3350001, doi:10.1042/bj3350001. This article has 1449 citations.
+
+2. (cohen2013theaktgenes pages 1-2): M. Michael Cohen. The akt genes and their roles in various disorders. American Journal of Medical Genetics Part A, 161:2931-2937, Dec 2013. URL: https://doi.org/10.1002/ajmg.a.36101, doi:10.1002/ajmg.a.36101. This article has 195 citations.
+
+3. (cohen2013theaktgenes pages 2-4): M. Michael Cohen. The akt genes and their roles in various disorders. American Journal of Medical Genetics Part A, 161:2931-2937, Dec 2013. URL: https://doi.org/10.1002/ajmg.a.36101, doi:10.1002/ajmg.a.36101. This article has 195 citations.
+
+4. (fayard2005proteinkinasebakt pages 1-1): Elisabeth Fayard, Lionel A. Tintignac, Anne Baudry, and Brian A. Hemmings. Protein kinase b/akt at a glance. Journal of Cell Science, 118:5675-5678, Dec 2005. URL: https://doi.org/10.1242/jcs.02724, doi:10.1242/jcs.02724. This article has 463 citations and is from a domain leading peer-reviewed journal.
+
+5. (fayard2011proteinkinaseb pages 1-3): Elisabeth Fayard, Gongda Xue, Arnaud Parcellier, Lana Bozulic, and Brian A. Hemmings. Protein kinase b (pkb/akt), a key mediator of the pi3k signaling pathway. Current Topics in Microbiology and Immunology, 346:31-56, Jan 2011. URL: https://doi.org/10.1007/82\_2010\_58, doi:10.1007/82\_2010\_58. This article has 305 citations and is from a peer-reviewed journal.
+
+6. (gonzalez2009theaktkinases pages 8-8): Eva Gonzalez and Timothy E. McGraw. The akt kinases: isoform specificity in metabolism and cancer. Cell Cycle, 8:2502-2508, Aug 2009. URL: https://doi.org/10.4161/cc.8.16.9335, doi:10.4161/cc.8.16.9335. This article has 620 citations and is from a peer-reviewed journal.
+
+7. (johnson2023anatlasof pages 1-2): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+8. (kumar2005aktcrystalstructure pages 3-5): C. Kumar and V. Madison. Akt crystal structure and akt-specific inhibitors. Oncogene, 24:7493-7501, Nov 2005. URL: https://doi.org/10.1038/sj.onc.1209087, doi:10.1038/sj.onc.1209087. This article has 313 citations and is from a domain leading peer-reviewed journal.
+
+9. (kumar2025structuralinsightsof pages 18-19): B. Harish Kumar, Shama Prasada Kabekkodu, and K. Sreedhara Ranganath Pai. Structural insights of akt and its activation mechanism for drug development. Molecular Diversity, Feb 2025. URL: https://doi.org/10.1007/s11030-025-11132-7, doi:10.1007/s11030-025-11132-7. This article has 1 citations and is from a peer-reviewed journal.
+
+10. (kumar2025structuralinsightsof pages 4-8): B. Harish Kumar, Shama Prasada Kabekkodu, and K. Sreedhara Ranganath Pai. Structural insights of akt and its activation mechanism for drug development. Molecular Diversity, Feb 2025. URL: https://doi.org/10.1007/s11030-025-11132-7, doi:10.1007/s11030-025-11132-7. This article has 1 citations and is from a peer-reviewed journal.
+
+11. (lindsley2010theaktpkbfamily pages 2-3): C. Lindsley. The akt/pkb family of protein kinases: a review of small molecule inhibitors and progress towards target validation: a 2009 update. Current topics in medicinal chemistry, 10 4:458-77, Feb 2010. URL: https://doi.org/10.2174/156802610790980602, doi:10.2174/156802610790980602. This article has 164 citations and is from a peer-reviewed journal.
+
+12. (manning2017aktpkbsignalingnavigating pages 1-2): Brendan D. Manning and Alex Toker. Akt/pkb signaling: navigating the network. Cell, 169:381-405, Apr 2017. URL: https://doi.org/10.1016/j.cell.2017.04.001, doi:10.1016/j.cell.2017.04.001. This article has 3814 citations and is from a highest quality peer-reviewed journal.
+
+13. (manning2017aktpkbsignalingnavigating pages 12-13): Brendan D. Manning and Alex Toker. Akt/pkb signaling: navigating the network. Cell, 169:381-405, Apr 2017. URL: https://doi.org/10.1016/j.cell.2017.04.001, doi:10.1016/j.cell.2017.04.001. This article has 3814 citations and is from a highest quality peer-reviewed journal.
+
+14. (nitulescu2015aktinhibitorsin pages 1-2): GEORGE MIHAI NITULESCU, DENISA MARGINA, PETRAS JUZENAS, QIAN PENG, OCTAVIAN TUDOREL OLARU, EMMANOUIL SALOUSTROS, CONCETTINA FENGA, DEMETRIOS A. SPANDIDOS, MASSIMO LIBRA, and ARISTIDIS M. TSATSAKIS. Akt inhibitors in cancer treatment: the long journey from drug discovery to clinical use (review). International Journal of Oncology, 48:869-885, Dec 2015. URL: https://doi.org/10.3892/ijo.2015.3306, doi:10.3892/ijo.2015.3306. This article has 449 citations and is from a peer-reviewed journal.
+
+15. (risso2015aktpkbonekinase pages 1-2): Guillermo Risso, Matías Blaustein, Berta Pozzi, Pablo Mammi, and Anabella Srebrow. Akt/pkb: one kinase, many modifications. Biochemical Journal, 468:203-214, May 2015. URL: https://doi.org/10.1042/bj20150041, doi:10.1042/bj20150041. This article has 218 citations and is from a domain leading peer-reviewed journal.
+
+16. (risso2015aktpkbonekinase pages 3-4): Guillermo Risso, Matías Blaustein, Berta Pozzi, Pablo Mammi, and Anabella Srebrow. Akt/pkb: one kinase, many modifications. Biochemical Journal, 468:203-214, May 2015. URL: https://doi.org/10.1042/bj20150041, doi:10.1042/bj20150041. This article has 218 citations and is from a domain leading peer-reviewed journal.
+
+17. (schultze2011promiscuousaffairsof pages 1-6): S. Schultze, Jørgen Jensen, B. Hemmings, O. Tschopp, and M. Niessen. Promiscuous affairs of pkb/akt isoforms in metabolism. Archives Of Physiology And Biochemistry, 117:70-77, Apr 2011. URL: https://doi.org/10.3109/13813455.2010.539236, doi:10.3109/13813455.2010.539236. This article has 122 citations and is from a peer-reviewed journal.
+
+18. (barnett2005theaktpkbfamily pages 1-2): Stanley Barnett, Mark Bilodeau, and Craig Lindsley. The akt/pkb family of protein kinases: a review of small molecule inhibitors and progress towards target validation. Current Topics in Medicinal Chemistry, 5:109-125, Apr 2005. URL: https://doi.org/10.2174/1568026053507714, doi:10.2174/1568026053507714. This article has 207 citations and is from a peer-reviewed journal.
+
+19. (calleja20093dstructureand pages 2-4): V. Calleja, M. Laguerre, and Banafshé Larijani. 3-d structure and dynamics of protein kinase b—new mechanism for the allosteric regulation of an agc kinase. Journal of Chemical Biology, 2:11-25, Feb 2009. URL: https://doi.org/10.1007/s12154-009-0016-8, doi:10.1007/s12154-009-0016-8. This article has 67 citations and is from a peer-reviewed journal.
+
+20. (kumar2005aktcrystalstructure pages 2-3): C. Kumar and V. Madison. Akt crystal structure and akt-specific inhibitors. Oncogene, 24:7493-7501, Nov 2005. URL: https://doi.org/10.1038/sj.onc.1209087, doi:10.1038/sj.onc.1209087. This article has 313 citations and is from a domain leading peer-reviewed journal.
+
+21. (lindsley2010theaktpkbfamily pages 1-2): C. Lindsley. The akt/pkb family of protein kinases: a review of small molecule inhibitors and progress towards target validation: a 2009 update. Current topics in medicinal chemistry, 10 4:458-77, Feb 2010. URL: https://doi.org/10.2174/156802610790980602, doi:10.2174/156802610790980602. This article has 164 citations and is from a peer-reviewed journal.
+
+22. (yang2002molecularmechanismfor pages 1-3): Jing Yang, P. Cron, Vivienne Thompson, V. Good, Daniel Hess, B. A. Hemmings, and David Barford. Molecular mechanism for the regulation of protein kinase b/akt by hydrophobic motif phosphorylation. Molecular cell, 9 6:1227-40, Jun 2002. URL: https://doi.org/10.1016/s1097-2765(02)00550-6, doi:10.1016/s1097-2765(02)00550-6. This article has 565 citations and is from a highest quality peer-reviewed journal.
+
+23. (kumar2025structuralinsightsof pages 9-10): B. Harish Kumar, Shama Prasada Kabekkodu, and K. Sreedhara Ranganath Pai. Structural insights of akt and its activation mechanism for drug development. Molecular Diversity, Feb 2025. URL: https://doi.org/10.1007/s11030-025-11132-7, doi:10.1007/s11030-025-11132-7. This article has 1 citations and is from a peer-reviewed journal.

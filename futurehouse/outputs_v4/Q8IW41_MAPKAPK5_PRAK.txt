@@ -1,0 +1,100 @@
+## Phylogeny
+The kinome classification of MAPKAPK5 is inconsistent across sources. It has been assigned to the CAMK group (moens2013structureandfunction pages 2-4, perander2016newinsightsinto pages 2-4), the CMGC group (moens2013structureandfunction pages 1-2, unknownauthors2014crossphosphorylationandinteraction pages 1-3, aberg2009dockingofprakmk5 pages 1-2), the STE group (manning2002theproteinkinase pages 3-3), and the AGC family (johnson2023anatlasof pages 4-4). It is a member of the MAPK-activated protein kinase (MAPKAPK) family and is considered the sole member of its subgroup, distinguishing it from other family members (moens2013structureandfunction pages 1-2, new1998prakanovel pages 1-3).
+
+MAPKAPK5 shares 20–30% sequence identity with other MAP kinase-regulated kinases like RSK1/2/3, MNK1/2, and MAPKAP-K2/3 (new1998prakanovel pages 1-3). It is evolutionarily distinct from the related kinases MK2 and MK3, notably due to its unique C-terminal domain and its activation by atypical MAPKs, which suggests an evolutionary divergence within the MAPKAPK family (perander2016newinsightsinto pages 6-7). The *MAPKAPK5* gene is conserved in vertebrates, including humans and mice, but appears to be absent in invertebrates such as *Drosophila* and *Caenorhabditis elegans* (moens2013structureandfunction pages 1-2).
+
+
+## Reaction Catalyzed
+As a serine/threonine protein kinase, MAPKAPK5 catalyzes the transfer of the γ-phosphate from an ATP molecule to a serine or threonine residue on a protein substrate (new1998prakanovel pages 1-3, new1998prakanovel pages 3-5).
+ATP + a protein ⇌ ADP + a phosphoprotein (new1998prakanovel pages 8-10, new1998prakanovel pages 3-5).
+
+
+## Cofactor Requirements
+The catalytic activity of MAPKAPK5 requires a divalent cation cofactor, most commonly Mg²⁺, to mediate ATP binding and the phosphoryl transfer reaction (moens2013structureandfunction pages 2-4, moens2013structureandfunction pages 1-2).
+
+
+## Substrate Specificity
+Based on large-scale phosphoproteomic and peptide library analyses, the experimentally determined optimal substrate consensus motif for MAPKAPK5 demonstrates strong preferences for specific amino acids at key positions relative to the phosphorylated serine/threonine (S/T) site (johnson2023anatlasof pages 5-6, johnson2023anatlasof pages 12-18). The motif is characterized by a strong preference for Arginine (R) at the P-5 position, Histidine (H) at the P-2 position, and a hydrophobic residue (φ) at the P+1 position (johnson2023anatlasof pages 5-6, johnson2023anatlasof pages 12-18).
+
+
+## Structure
+According to AlphaFold models for UniProt ID Q8IW41, human MAPKAPK5 exhibits a canonical bilobal kinase fold architecture (aberg2009dockingofprakmk5 pages 8-9, perander2016newinsightsinto pages 2-4).
+*   **N-terminal lobe (N-lobe):** A small lobe primarily composed of a five-stranded antiparallel β-sheet and a conserved α-helix, the C-helix, which is strategically positioned to facilitate interactions critical for kinase activation (aberg2009dockingofprakmk5 pages 8-9, moens2013structureandfunction pages 4-6).
+*   **C-terminal lobe (C-lobe):** A larger, predominantly α-helical lobe responsible for substrate binding and catalysis. It contains the activation loop (aberg2009dockingofprakmk5 pages 8-9, perander2016newinsightsinto pages 2-4).
+*   **Activation Loop:** This segment is located within the C-lobe in the active site cleft and contains the crucial regulatory phosphorylation site, Threonine 182 (Thr182) (aberg2009dockingofprakmk5 pages 8-9, new1998prakanovel pages 1-3).
+*   **C-terminal Regulatory Domain:** A unique extension C-terminal to the kinase domain, composed of several α-helices and loop regions. This domain is structurally distinct from the canonical kinase fold and is essential for modulating catalytic activity and mediating interactions with the atypical MAPKs, ERK3 and ERK4 (aberg2009dockingofprakmk5 pages 8-9, moens2013structureandfunction pages 2-4). It lacks the proline-rich motif present in the related kinases MK2 and MK3 (moens2013structureandfunction pages 2-4).
+*   **Subcellular Localization Signals:** The protein contains conserved nuclear localization (NLS) and nuclear export signals (NES) that are critical for its regulation and function (moens2013structureandfunction pages 2-4).
+
+
+## Regulation
+MAPKAPK5 activity is regulated by phosphorylation and protein-protein interactions (new1998prakanovel pages 8-10, perander2016newinsightsinto pages 2-4).
+*   **Phosphorylation:** Activation of MAPKAPK5 is dependent on phosphorylation at Thr182 within the activation loop by the upstream kinases p38α and p38β (new1998prakanovel pages 1-3, new1998prakanovel pages 8-10). Mutation of Thr182 to alanine abolishes kinase activation (new1998prakanovel pages 8-10). Another phosphorylation site, Ser212, has been identified but does not modulate kinase activation (new1998prakanovel pages 8-10).
+*   **Interaction with Atypical MAPKs:** The atypical MAPKs ERK3 and ERK4 bind to the C-terminal regulatory domain of MAPKAPK5. This interaction requires prior phosphorylation of ERK3/4 on a unique S-E-G motif by PAK family kinases, which exposes a docking motif on ERK3/4. The subsequent binding to MAPKAPK5 both activates the kinase and promotes its relocalization from the nucleus to the cytoplasm (perander2016newinsightsinto pages 2-4).
+*   **Transcriptional Regulation:** The transcription of the *MAPKAPK5* gene is stimulated by the MYC oncogene, forming part of a negative feedback loop (kress2011themk5prakkinase pages 11-12, moens2013structureandfunction pages 1-2).
+
+
+## Function
+MAPKAPK5 is a ubiquitously expressed kinase that functions downstream of both conventional p38 and atypical ERK3/4 MAP kinase pathways (new1998prakanovel pages 1-3, perander2016newinsightsinto pages 2-4).
+*   **Upstream Kinases:** p38α, p38β, ERK3, and ERK4 are direct activators (new1998prakanovel pages 1-3, seternes2004activationofmk5prak pages 11-12). PAK family kinases act further upstream by phosphorylating and activating ERK3/4 (perander2016newinsightsinto pages 1-2).
+*   **Interacting Partners:** ERK3, ERK4, septin 7, FAK, and Src (perander2016newinsightsinto pages 4-5, unknownauthors2014crossphosphorylationandinteraction pages 8-10).
+*   **Substrates:** Known physiological substrates include p53/TP53, FOXO3a, HSP27, FAK, Src, paxillin, septin 8, Kalirin-7, and Rheb (kress2011themk5prakkinase pages 11-12, perander2016newinsightsinto pages 5-6, new1998prakanovel pages 10-11, unknownauthors2014crossphosphorylationandinteraction pages 8-10, perander2016newinsightsinto pages 10-11). It does not phosphorylate eIF-4E (new1998prakanovel pages 10-11).
+
+As a tumor suppressor, MAPKAPK5 phosphorylates and activates p53 (at Ser37) and FOXO3a (at Ser215) (perander2016newinsightsinto pages 6-7, moens2013structureandfunction pages 10-11). p53 activation promotes oncogene-induced senescence, while FOXO3a activation leads to the expression of miR-34b/c, which post-transcriptionally repress MYC translation (kress2011themk5prakkinase pages 11-12, perander2016newinsightsinto pages 5-6). It is also involved in cytoskeletal regulation through phosphorylation of HSP27 and focal adhesion proteins, cell motility, neuronal dendritic spine formation, and the negative regulation of mTORC1 signaling via phosphorylation of Rheb (new1998prakanovel pages 10-11, perander2016newinsightsinto pages 2-4, perander2016newinsightsinto pages 4-5, perander2016newinsightsinto pages 10-11, unknownauthors2014crossphosphorylationandinteraction pages 8-10).
+
+
+## Inhibitors
+No specific direct inhibitors of MAPKAPK5 have been described (new1998prakanovel pages 1-3). Its activity can be inhibited indirectly by SB203580, an inhibitor of its upstream activators p38α and p38β, with an IC50 of 0.5 μM (new1998prakanovel pages 8-10, new1998prakanovel pages 10-11). It is not inhibited by the FAK inhibitor PF-573228 or the Src inhibitor Dasatinib (unknownauthors2014crossphosphorylationandinteraction pages 8-10).
+
+
+## Other Comments
+MAPKAPK5 has been implicated in inflammatory, immunologic, and cardiovascular diseases, including septic shock and cardiac hypertrophy (new1998prakanovel pages 10-11). Its roles in cell migration, tumor angiogenesis, and tumor suppression link it to cancer biology (perander2016newinsightsinto pages 10-11, unknownauthors2014crossphosphorylationandinteraction pages 8-10). In colorectal cancer, *MAPKAPK5* expression is downregulated in poorly differentiated tumors, and low levels are associated with poor patient prognosis (kress2011themk5prakkinase pages 11-12).
+
+References
+
+1. (aberg2009dockingofprakmk5 pages 8-9): Espen Åberg, Knut Martin Torgersen, Bjarne Johansen, Stephen M. Keyse, Maria Perander, and Ole-Morten Seternes. Docking of prak/mk5 to the atypical mapks erk3 and erk4 defines a novel mapk interaction motif. Journal of Biological Chemistry, 284:19392-19401, Jul 2009. URL: https://doi.org/10.1074/jbc.m109.023283, doi:10.1074/jbc.m109.023283. This article has 74 citations and is from a domain leading peer-reviewed journal.
+
+2. (johnson2023anatlasof pages 12-18): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+3. (johnson2023anatlasof pages 5-6): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+4. (kress2011themk5prakkinase pages 11-12): Theresia R. Kress, I. Cannell, A. Brenkman, B. Samans, M. Gaestel, P. Roepman, B. Burgering, M. Bushell, A. Rosenwald, and M. Eilers. The mk5/prak kinase and myc form a negative feedback loop that is disrupted during colorectal tumorigenesis. Molecular cell, 41 4:445-57, Feb 2011. URL: https://doi.org/10.1016/j.molcel.2011.01.023, doi:10.1016/j.molcel.2011.01.023. This article has 194 citations and is from a highest quality peer-reviewed journal.
+
+5. (moens2013structureandfunction pages 10-11): Ugo Moens and Sergiy Kostenko. Structure and function of mk5/prak: the loner among the mitogen-activated protein kinase-activated protein kinases. In Biological chemistry, volume 394, 1115-1132. Sep 2013. URL: https://doi.org/10.1515/hsz-2013-0149, doi:10.1515/hsz-2013-0149.
+
+6. (moens2013structureandfunction pages 2-4): Ugo Moens and Sergiy Kostenko. Structure and function of mk5/prak: the loner among the mitogen-activated protein kinase-activated protein kinases. In Biological chemistry, volume 394, 1115-1132. Sep 2013. URL: https://doi.org/10.1515/hsz-2013-0149, doi:10.1515/hsz-2013-0149.
+
+7. (moens2013structureandfunction pages 4-6): Ugo Moens and Sergiy Kostenko. Structure and function of mk5/prak: the loner among the mitogen-activated protein kinase-activated protein kinases. In Biological chemistry, volume 394, 1115-1132. Sep 2013. URL: https://doi.org/10.1515/hsz-2013-0149, doi:10.1515/hsz-2013-0149.
+
+8. (new1998prakanovel pages 1-3): L. New, Yong Jiang, Ming-zhe Zhao, Kang Z. Liu, Wei Zhu, Laura J. Flood, Y. Kato, G. Parry, and Jiahuai Han. Prak, a novel protein kinase regulated by the p38 map kinase. The EMBO Journal, 17:3372-3384, Jun 1998. URL: https://doi.org/10.1093/emboj/17.12.3372, doi:10.1093/emboj/17.12.3372. This article has 459 citations.
+
+9. (new1998prakanovel pages 10-11): L. New, Yong Jiang, Ming-zhe Zhao, Kang Z. Liu, Wei Zhu, Laura J. Flood, Y. Kato, G. Parry, and Jiahuai Han. Prak, a novel protein kinase regulated by the p38 map kinase. The EMBO Journal, 17:3372-3384, Jun 1998. URL: https://doi.org/10.1093/emboj/17.12.3372, doi:10.1093/emboj/17.12.3372. This article has 459 citations.
+
+10. (perander2016newinsightsinto pages 2-4): Maria Perander, S. Keyse, and O. Seternes. New insights into the activation, interaction partners and possible functions of mk5/prak. Frontiers in bioscience, 21:374-84, 2016. URL: https://doi.org/10.2741/4394, doi:10.2741/4394. This article has 17 citations and is from a peer-reviewed journal.
+
+11. (perander2016newinsightsinto pages 5-6): Maria Perander, S. Keyse, and O. Seternes. New insights into the activation, interaction partners and possible functions of mk5/prak. Frontiers in bioscience, 21:374-84, 2016. URL: https://doi.org/10.2741/4394, doi:10.2741/4394. This article has 17 citations and is from a peer-reviewed journal.
+
+12. (perander2016newinsightsinto pages 6-7): Maria Perander, S. Keyse, and O. Seternes. New insights into the activation, interaction partners and possible functions of mk5/prak. Frontiers in bioscience, 21:374-84, 2016. URL: https://doi.org/10.2741/4394, doi:10.2741/4394. This article has 17 citations and is from a peer-reviewed journal.
+
+13. (unknownauthors2014crossphosphorylationandinteraction pages 8-10): Cross-phosphorylation and interaction between Src/FAK and MAPKAP5/PRAK in early focal adhesions controls cell motility
+
+14. (johnson2023anatlasof pages 4-4): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+15. (manning2002theproteinkinase pages 3-3): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+16. (moens2013structureandfunction pages 1-2): Ugo Moens and Sergiy Kostenko. Structure and function of mk5/prak: the loner among the mitogen-activated protein kinase-activated protein kinases. In Biological chemistry, volume 394, 1115-1132. Sep 2013. URL: https://doi.org/10.1515/hsz-2013-0149, doi:10.1515/hsz-2013-0149.
+
+17. (new1998prakanovel pages 8-10): L. New, Yong Jiang, Ming-zhe Zhao, Kang Z. Liu, Wei Zhu, Laura J. Flood, Y. Kato, G. Parry, and Jiahuai Han. Prak, a novel protein kinase regulated by the p38 map kinase. The EMBO Journal, 17:3372-3384, Jun 1998. URL: https://doi.org/10.1093/emboj/17.12.3372, doi:10.1093/emboj/17.12.3372. This article has 459 citations.
+
+18. (perander2016newinsightsinto pages 1-2): Maria Perander, S. Keyse, and O. Seternes. New insights into the activation, interaction partners and possible functions of mk5/prak. Frontiers in bioscience, 21:374-84, 2016. URL: https://doi.org/10.2741/4394, doi:10.2741/4394. This article has 17 citations and is from a peer-reviewed journal.
+
+19. (perander2016newinsightsinto pages 10-11): Maria Perander, S. Keyse, and O. Seternes. New insights into the activation, interaction partners and possible functions of mk5/prak. Frontiers in bioscience, 21:374-84, 2016. URL: https://doi.org/10.2741/4394, doi:10.2741/4394. This article has 17 citations and is from a peer-reviewed journal.
+
+20. (perander2016newinsightsinto pages 4-5): Maria Perander, S. Keyse, and O. Seternes. New insights into the activation, interaction partners and possible functions of mk5/prak. Frontiers in bioscience, 21:374-84, 2016. URL: https://doi.org/10.2741/4394, doi:10.2741/4394. This article has 17 citations and is from a peer-reviewed journal.
+
+21. (seternes2004activationofmk5prak pages 11-12): Ole-Morten Seternes, Theresa Mikalsen, Bjarne Johansen, Espen Michaelsen, Chris G Armstrong, Nick A Morrice, Benjamin Turgeon, Sylvain Meloche, Ugo Moens, and Stephen M Keyse. Activation of mk5/prak by the atypical map kinase erk3 defines a novel signal transduction pathway. The EMBO Journal, Dec 2004. URL: https://doi.org/10.1038/sj.emboj.7600489, doi:10.1038/sj.emboj.7600489. This article has 203 citations.
+
+22. (unknownauthors2014crossphosphorylationandinteraction pages 1-3): Cross-phosphorylation and interaction between Src/FAK and MAPKAP5/PRAK in early focal adhesions controls cell motility
+
+23. (aberg2009dockingofprakmk5 pages 1-2): Espen Åberg, Knut Martin Torgersen, Bjarne Johansen, Stephen M. Keyse, Maria Perander, and Ole-Morten Seternes. Docking of prak/mk5 to the atypical mapks erk3 and erk4 defines a novel mapk interaction motif. Journal of Biological Chemistry, 284:19392-19401, Jul 2009. URL: https://doi.org/10.1074/jbc.m109.023283, doi:10.1074/jbc.m109.023283. This article has 74 citations and is from a domain leading peer-reviewed journal.
+
+24. (new1998prakanovel pages 3-5): L. New, Yong Jiang, Ming-zhe Zhao, Kang Z. Liu, Wei Zhu, Laura J. Flood, Y. Kato, G. Parry, and Jiahuai Han. Prak, a novel protein kinase regulated by the p38 map kinase. The EMBO Journal, 17:3372-3384, Jun 1998. URL: https://doi.org/10.1093/emboj/17.12.3372, doi:10.1093/emboj/17.12.3372. This article has 459 citations.

@@ -1,0 +1,117 @@
+## Phylogeny
+STK38L/NDR2 is a member of the NDR (nuclear Dbf2-related) kinase family, which is a subgroup of the AGC (protein kinase A/G/C-like) family of serine/threonine kinases (bichsel2004mechanismofactivation pages 101-105, cornils2010functionalcharacterizationof pages 151-153, hergovich2008mammalianndrprotein pages 1-2). The human NDR kinase family includes four members: NDR1 (STK38), NDR2 (STK38L), LATS1, and LATS2 (cornils2010functionalcharacterizationof pages 9-14, cornils2010functionalcharacterizationof pages 151-153). This kinase family is highly conserved from yeast to humans (bichsel2004mechanismofactivation pages 19-24, cornils2010functionalcharacterizationof pages 9-14). Orthologs include *Saccharomyces cerevisiae* Dbf2p, Dbf20p, and Cbk1p; *Schizosaccharomyces pombe* Sid2p and Orb6p; *Caenorhabditis elegans* SAX-1 and LATS; and *Drosophila melanogaster* Tricornered (Trc) and Warts/Lats (bichsel2004mechanismofactivation pages 19-24, cornils2010functionalcharacterizationof pages 9-14, cornils2010functionalcharacterizationof pages 151-153, martin2021thestk38–xpo1axis pages 2-4). Phylogenetically, NDR kinases are linked to the Ste20-like kinases, such as MST3, MST1, and MST2, which function as upstream regulators (stegert2005regulationofndr pages 1-2).
+
+
+## Reaction Catalyzed
+The kinase catalyzes the ATP-dependent transfer of the γ-phosphate group to the hydroxyl group of a serine or threonine residue on a protein substrate (cornils2010functionalcharacterizationof pages 9-14, hergovich2008mammalianndrprotein pages 1-2, hergovich2016therolesof pages 1-3).
+ATP + [a protein] → ADP + [a phosphoprotein] (hergovich2008mammalianndrprotein pages 1-2, cornils2010functionalcharacterizationof pages 9-14).
+
+
+## Cofactor Requirements
+The catalytic activity of the kinase requires Mg²⁺ as a cofactor to facilitate ATP binding and the phosphoryl transfer reaction (bichsel2004mechanismofactivation pages 101-105, hergovich2008mammalianndrprotein pages 1-2, stegert2005regulationofndr pages 2-3). In vitro kinase assays use 10 mM MgCl₂ (stegert2005functionalcharacterisationof pages 78-83, stegert2005regulationofndr pages 2-3).
+
+
+## Substrate Specificity
+The comprehensive atlas of substrate specificities by Johnson et al. (2023) provides experimentally determined consensus motifs for human serine/threonine kinases, including STK38L (UniProt Q9Y2H1) (johnson2023anatlasof pages 1-2). The provided context contains contradictory definitions of the optimal motif from this source. One excerpt reports the motif as H-X-R-R-X-S/T, indicating a preference for histidine (H) at position -5 and arginines (R) at positions -3 and -2 (johnson2023anatlasof pages 6-7). A second excerpt reports the motif as H-R-x-x-S/T, with histidine at -5 and arginine at -4 (johnson2023anatlasof pages 12-18). A third excerpt summarizes the motif as [R/K]-X-[pS/pT]-[L/V], reflecting a preference for a basic residue at -2 and a hydrophobic residue at +2 (johnson2023anatlasof pages 3-4). Generally, STK38L prefers basophilic motifs with basic residues N-terminal to the phosphorylation site (johnson2023anatlasof pages 2-3, johnson2023anatlasof pages 12-18). Separately, a consensus sequence of HXRXXpS/T has also been proposed for NDR1/2 kinases (hergovich2016therolesof pages 3-5). In vitro assays use the synthetic peptide KKRNRRLSVA as a substrate, which is consistent with a preference for arginine-rich sequences (stegert2005functionalcharacterisationof pages 78-83, kohler2012functionalcharacterizationof pages 74-78).
+
+
+## Structure
+STK38L/NDR2 has a conserved primary structure composed of three main domains (martin2020thehippokinase pages 7-9):
+- An N-terminal regulatory (NTR) domain contains basic and hydrophobic residues that mediate binding to regulatory proteins, including MOB family proteins and S100B (cornils2010functionalcharacterizationof pages 14-18, cornils2010functionalcharacterizationof pages 9-14).
+- A central catalytic kinase domain is organized into 12 subdomains with conserved residues essential for ATP binding, metal binding, and catalysis (cornils2010functionalcharacterizationof pages 9-14).
+- A C-terminal hydrophobic motif (HM) contains a key regulatory phosphorylation site, Thr442 (cornils2010functionalcharacterizationof pages 14-18, martin2020thehippokinase pages 7-9).
+
+A unique structural feature is a 30-60 amino acid insertion between kinase subdomains VII and VIII, located just before the activation loop (bichsel2004mechanismofactivation pages 19-24, cornils2010functionalcharacterizationof pages 9-14). This insert contains an auto-inhibitory sequence (AIS), which is rich in basic amino acids and negatively regulates kinase activity (cornils2010functionalcharacterizationof pages 14-18, hergovich2008mammalianndrprotein pages 1-2). AlphaFold models depict these conserved domain arrangements (cornils2010functionalcharacterizationof pages 14-18, martin2020thehippokinase pages 7-9). X-ray crystallography of the related human STK38 kinase reveals an elongated activation segment that blocks substrate binding in the inactive conformation and an αC helix that functions as an auto-inhibitory element (martin2021thestk38–xpo1axis pages 2-4).
+
+
+## Regulation
+STK38L/NDR2 activation is a multi-step process involving phosphorylation and protein-protein interactions (stegert2005regulationofndr pages 1-2).
+
+**Phosphorylation**
+Full activation requires phosphorylation at conserved residues:
+- **Ser282**: Located in the activation loop, this site is phosphorylated primarily via autophosphorylation and is essential for kinase activity (cornils2010functionalcharacterizationof pages 14-18, cornils2010functionalcharacterizationof pages 151-153, hergovich2008mammalianndrprotein pages 1-2).
+- **Thr442**: Located in the C-terminal hydrophobic motif, this site is phosphorylated by upstream kinases of the Ste20-like MST family (MST1, MST2, MST3) (cornils2010functionalcharacterizationof pages 14-18, stegert2005regulationofndr pages 1-2). Phosphorylation by MST3 increases NDR2 kinase activity approximately 10-fold (stegert2005functionalcharacterisationof pages 67-73, stegert2005functionalcharacterisationof pages 93-98).
+- **Thr74/Thr75**: Located in the NTR domain, phosphorylation at this site is required for full kinase activity and may modulate protein interactions (martin2020thehippokinase pages 7-9, martin2021thestk38–xpo1axis pages 2-4, stegert2005functionalcharacterisationof pages 63-67).
+
+**Dephosphorylation**
+The protein phosphatase PP2A dephosphorylates and inactivates STK38/STK38L (martin2020thehippokinase pages 7-9, martin2021thestk38–xpo1axis pages 2-4).
+
+**Regulatory Proteins**
+- **MOB Proteins**: MOB family proteins act as co-activators. MOB1A/B bind to the NTR domain, which relieves AIS-mediated auto-inhibition and facilitates autophosphorylation at Ser282 (cornils2010functionalcharacterizationof pages 151-153, hergovich2008mammalianndrprotein pages 1-2, martin2020thehippokinase pages 7-9). In contrast, MOB2 binds to unphosphorylated NDR1/2 and acts as a negative regulator (kohler2012functionalcharacterizationof pages 7-12, martin2021thestk38–xpo1axis pages 4-6).
+- **S100B**: The calcium-binding protein S100B binds to the NTR domain and can activate NDR kinases in vitro; its in vivo role may involve maintaining the proper kinase conformation (bichsel2004mechanismofactivation pages 101-105).
+
+**Other Modifications**
+NDR1/2 kinases can be regulated by ISGylation, ubiquitination, and acetylation, though the functional consequences of these modifications are not fully characterized (hergovich2016therolesof pages 1-3).
+
+
+## Function
+STK38L/NDR2 is involved in the regulation of cell cycle progression, cell morphology, cell spreading, neurite outgrowth, centrosome duplication, and mitotic chromosome alignment (bichsel2004mechanismofactivation pages 101-105, stegert2005functionalcharacterisationof pages 67-73, hergovich2013regulationandfunctions pages 12-12). It is predominantly localized to cytoplasmic structures (stegert2005functionalcharacterisationof pages 63-67). Expression is high in proliferative tissues with rapid turnover, such as the stomach and intestines (stegert2005functionalcharacterisationof pages 63-67).
+
+**Signaling**
+- **Upstream regulators**: The kinase is activated by upstream kinases from the Ste20-like MST family (MST1, MST2, MST3, MST4, MST5) and the MAP4K family (cornils2010functionalcharacterizationof pages 14-18, martin2020thehippokinase pages 7-9, stegert2005regulationofndr pages 1-2).
+- **Downstream substrates**: Known substrates include the transcriptional co-activator YAP (phosphorylated at Ser127, leading to its cytoplasmic retention), TAZ, Rabin8, HP1α, and the nuclear export receptor XPO1 (hergovich2016therolesof pages 5-7, martin2021thestk38–xpo1axis pages 1-2).
+- **Signaling pathways**: STK38L/NDR2 is a component of the Hippo signaling pathway, where it acts downstream of MST kinases and MOB1 to inhibit the activity of the oncoproteins YAP and TAZ (bichsel2004mechanismofactivation pages 101-105, hergovich2016therolesof pages 5-7).
+
+
+## Inhibitors
+No direct small-molecule inhibitors of STK38L/NDR2 are described in the provided context (bichsel2004mechanismofactivation pages 101-105, hergovich2016therolesof pages 5-7, stegert2005functionalcharacterisationof pages 63-67). However, selective inhibitors of nuclear export (SINEs), such as Selinexor, target the STK38L substrate XPO1 (martin2020thehippokinase pages 7-9).
+
+
+## Other Comments
+Dysregulation of STK38L/NDR2 is associated with several diseases. The STK38L gene is located at 12p11, a chromosomal region corresponding to known cancer amplicons (bichsel2004mechanismofactivation pages 101-105). Upregulation of NDR2 mRNA has been observed in aggressive forms of breast cancer, certain melanoma cell lines, and metastatic non-small cell lung cancer cell lines (bichsel2004mechanismofactivation pages 101-105, stegert2005functionalcharacterisationof pages 63-67). In mouse models, loss of intestinal Ndr1/2 results in tissue hyperplasia and increased tumor incidence following carcinogen exposure (hergovich2016therolesof pages 5-7). An exonic SINE insertion in the STK38L gene causes canine early retinal degeneration (hergovich2013regulationandfunctions pages 12-12).
+
+References
+
+1. (bichsel2004mechanismofactivation pages 101-105): Samuel J. Bichsel, Rastislav Tamaskovic, Mario R. Stegert, and Brian A. Hemmings. Mechanism of activation of ndr (nuclear dbf2-related) protein kinase by the hmob1 protein*. Journal of Biological Chemistry, 279:35228-35235, Aug 2004. URL: https://doi.org/10.1074/jbc.m404542200, doi:10.1074/jbc.m404542200. This article has 175 citations and is from a domain leading peer-reviewed journal.
+
+2. (cornils2010functionalcharacterizationof pages 14-18): Functional characterization of mammalian NDR kinase deficiency : novel functions and insights into downstream signaling mechanisms
+
+3. (cornils2010functionalcharacterizationof pages 151-153): Functional characterization of mammalian NDR kinase deficiency : novel functions and insights into downstream signaling mechanisms
+
+4. (cornils2010functionalcharacterizationof pages 9-14): Functional characterization of mammalian NDR kinase deficiency : novel functions and insights into downstream signaling mechanisms
+
+5. (hergovich2008mammalianndrprotein pages 1-2): Alexander Hergovich, Hauke Cornils, and Brian A. Hemmings. Mammalian ndr protein kinases: from regulation to a role in centrosome duplication. Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics, 1784:3-15, Jan 2008. URL: https://doi.org/10.1016/j.bbapap.2007.07.017, doi:10.1016/j.bbapap.2007.07.017. This article has 81 citations.
+
+6. (hergovich2016therolesof pages 5-7): Alexander Hergovich. The roles of ndr protein kinases in hippo signalling. Genes, 7:21, May 2016. URL: https://doi.org/10.3390/genes7050021, doi:10.3390/genes7050021. This article has 109 citations and is from a peer-reviewed journal.
+
+7. (johnson2023anatlasof pages 12-18): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+8. (johnson2023anatlasof pages 2-3): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+9. (johnson2023anatlasof pages 6-7): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+10. (kohler2012functionalcharacterizationof pages 7-12): R. Kohler. Functional characterization of human ndr kinases : novel regulatory mechanisms and a path towards direct substrates. Unknown journal, 2012. URL: https://doi.org/10.5451/unibas-005936940, doi:10.5451/unibas-005936940. This article has 0 citations.
+
+11. (martin2020thehippokinase pages 7-9): Alexandre PJ Martin and Jacques H Camonis. The hippo kinase stk38 ensures functionality of xpo1. Cell Cycle, 19:2982-2995, Oct 2020. URL: https://doi.org/10.1080/15384101.2020.1826619, doi:10.1080/15384101.2020.1826619. This article has 4 citations and is from a peer-reviewed journal.
+
+12. (martin2021thestk38–xpo1axis pages 2-4): Alexandre PJ. Martin, Vasily N. Aushev, Gérard Zalcman, and Jacques H. Camonis. The stk38–xpo1 axis, a new actor in physiology and cancer. Cellular and Molecular Life Sciences, 78:1943-1955, Nov 2021. URL: https://doi.org/10.1007/s00018-020-03690-w, doi:10.1007/s00018-020-03690-w. This article has 14 citations and is from a domain leading peer-reviewed journal.
+
+13. (stegert2005functionalcharacterisationof pages 63-67): M. Stegert. Functional characterisation of the mammalian ndr1 and ndr2 protein kinases and their regulation by the mammalian ste20-like kinase mst3. Unknown journal, 2005. URL: https://doi.org/10.5451/unibas-003751692, doi:10.5451/unibas-003751692. This article has 1 citations.
+
+14. (stegert2005functionalcharacterisationof pages 67-73): M. Stegert. Functional characterisation of the mammalian ndr1 and ndr2 protein kinases and their regulation by the mammalian ste20-like kinase mst3. Unknown journal, 2005. URL: https://doi.org/10.5451/unibas-003751692, doi:10.5451/unibas-003751692. This article has 1 citations.
+
+15. (stegert2005functionalcharacterisationof pages 78-83): M. Stegert. Functional characterisation of the mammalian ndr1 and ndr2 protein kinases and their regulation by the mammalian ste20-like kinase mst3. Unknown journal, 2005. URL: https://doi.org/10.5451/unibas-003751692, doi:10.5451/unibas-003751692. This article has 1 citations.
+
+16. (stegert2005functionalcharacterisationof pages 93-98): M. Stegert. Functional characterisation of the mammalian ndr1 and ndr2 protein kinases and their regulation by the mammalian ste20-like kinase mst3. Unknown journal, 2005. URL: https://doi.org/10.5451/unibas-003751692, doi:10.5451/unibas-003751692. This article has 1 citations.
+
+17. (stegert2005regulationofndr pages 1-2): Mario R. Stegert, Alexander Hergovich, Rastislav Tamaskovic, Samuel J. Bichsel, and Brian A. Hemmings. Regulation of ndr protein kinase by hydrophobic motif phosphorylation mediated by the mammalian ste20-like kinase mst3. Molecular and Cellular Biology, 25:11019-11029, Dec 2005. URL: https://doi.org/10.1128/mcb.25.24.11019-11029.2005, doi:10.1128/mcb.25.24.11019-11029.2005. This article has 171 citations and is from a domain leading peer-reviewed journal.
+
+18. (bichsel2004mechanismofactivation pages 19-24): Samuel J. Bichsel, Rastislav Tamaskovic, Mario R. Stegert, and Brian A. Hemmings. Mechanism of activation of ndr (nuclear dbf2-related) protein kinase by the hmob1 protein*. Journal of Biological Chemistry, 279:35228-35235, Aug 2004. URL: https://doi.org/10.1074/jbc.m404542200, doi:10.1074/jbc.m404542200. This article has 175 citations and is from a domain leading peer-reviewed journal.
+
+19. (hergovich2013regulationandfunctions pages 12-12): Alexander Hergovich. Regulation and functions of mammalian lats/ndr kinases: looking beyond canonical hippo signalling. Cell & Bioscience, Aug 2013. URL: https://doi.org/10.1186/2045-3701-3-32, doi:10.1186/2045-3701-3-32. This article has 124 citations.
+
+20. (hergovich2016therolesof pages 1-3): Alexander Hergovich. The roles of ndr protein kinases in hippo signalling. Genes, 7:21, May 2016. URL: https://doi.org/10.3390/genes7050021, doi:10.3390/genes7050021. This article has 109 citations and is from a peer-reviewed journal.
+
+21. (hergovich2016therolesof pages 3-5): Alexander Hergovich. The roles of ndr protein kinases in hippo signalling. Genes, 7:21, May 2016. URL: https://doi.org/10.3390/genes7050021, doi:10.3390/genes7050021. This article has 109 citations and is from a peer-reviewed journal.
+
+22. (johnson2023anatlasof pages 3-4): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+23. (kohler2012functionalcharacterizationof pages 74-78): R. Kohler. Functional characterization of human ndr kinases : novel regulatory mechanisms and a path towards direct substrates. Unknown journal, 2012. URL: https://doi.org/10.5451/unibas-005936940, doi:10.5451/unibas-005936940. This article has 0 citations.
+
+24. (martin2021thestk38–xpo1axis pages 1-2): Alexandre PJ. Martin, Vasily N. Aushev, Gérard Zalcman, and Jacques H. Camonis. The stk38–xpo1 axis, a new actor in physiology and cancer. Cellular and Molecular Life Sciences, 78:1943-1955, Nov 2021. URL: https://doi.org/10.1007/s00018-020-03690-w, doi:10.1007/s00018-020-03690-w. This article has 14 citations and is from a domain leading peer-reviewed journal.
+
+25. (martin2021thestk38–xpo1axis pages 4-6): Alexandre PJ. Martin, Vasily N. Aushev, Gérard Zalcman, and Jacques H. Camonis. The stk38–xpo1 axis, a new actor in physiology and cancer. Cellular and Molecular Life Sciences, 78:1943-1955, Nov 2021. URL: https://doi.org/10.1007/s00018-020-03690-w, doi:10.1007/s00018-020-03690-w. This article has 14 citations and is from a domain leading peer-reviewed journal.
+
+26. (johnson2023anatlasof pages 1-2): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+27. (stegert2005regulationofndr pages 2-3): Mario R. Stegert, Alexander Hergovich, Rastislav Tamaskovic, Samuel J. Bichsel, and Brian A. Hemmings. Regulation of ndr protein kinase by hydrophobic motif phosphorylation mediated by the mammalian ste20-like kinase mst3. Molecular and Cellular Biology, 25:11019-11029, Dec 2005. URL: https://doi.org/10.1128/mcb.25.24.11019-11029.2005, doi:10.1128/mcb.25.24.11019-11029.2005. This article has 171 citations and is from a domain leading peer-reviewed journal.

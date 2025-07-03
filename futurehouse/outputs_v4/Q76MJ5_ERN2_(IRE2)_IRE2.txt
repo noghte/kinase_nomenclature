@@ -1,0 +1,61 @@
+## Phylogeny
+Mammals possess two IRE1 paralogs, IRE1α (encoded by ERN1) and IRE1β (encoded by ERN2), which likely arose from a gene duplication event and share 39% sequence identity (goupil2024exploringtheire1 pages 2-3, goupil2024exploringtheire1 pages 2-3). Orthologs include IRE1/IRE2 in yeast (*S. cerevisiae*) and the murine Irelpp gene (goupil2024exploringtheire1 pages 7-8, unknownauthors2018thecellularresponse pages 2-4). The kinase and RNase domains are highly conserved across species, while the luminal domain shows significant divergence (goupil2024exploringtheire1 pages 3-5, unknownauthors2018thecellularresponse pages 2-4). According to the kinome classification by Manning et al., ERN2 (IRE2) is classified within the 'Other' group of protein kinases (zhou2021inositolrequiringenzyme pages 6-6).
+
+
+
+## Reaction Catalyzed
+As a serine/threonine kinase, ERN2 catalyzes the phosphotransfer reaction: ATP + [a protein] → ADP + [a phosphoprotein] (zhou2021inositolrequiringenzyme pages 1-2). Its endoribonuclease domain catalyzes the site-specific cleavage of phosphodiester bonds in RNA, such as the cleavage of 28S ribosomal RNA (goupil2024exploringtheire1 pages 2-3, unknownauthors2018thecellularresponse pages 2-4). It is unclear if ERN2 physiologically mediates the splicing of XBP1 mRNA (goupil2024exploringtheire1 pages 2-3).
+
+
+
+## Cofactor Requirements
+The kinase activity is dependent on ATP for autophosphorylation (prasad2021theendoplasmicreticulum pages 3-3). As a serine/threonine kinase, its catalytic activity requires a divalent cation cofactor such as Mg²⁺ or Mn²⁺ (zhou2021inositolrequiringenzyme pages 1-2, riaz2020roleofendoplasmic pages 3-4).
+
+
+
+## Substrate Specificity
+The RNase domain of ERN2 cleaves 28S rRNA to inhibit translation (goupil2024exploringtheire1 pages 2-3). The context does not provide information on consensus substrate motifs for the kinase activity of ERN2 based on the priority publication Johnson et al., 2023.
+
+
+
+## Structure
+ERN2 is a type-I transmembrane protein composed of an N-terminal luminal domain (NLD) for sensing ER stress, a single transmembrane domain (TMD), and a C-terminal cytosolic domain harboring both serine/threonine kinase and endoribonuclease (RNase) activities (prasad2021theendoplasmicreticulum pages 3-3, zhou2021inositolrequiringenzyme pages 2-4). The luminal domain forms a triangular-shaped β-sheet fold that facilitates dimerization (zhou2021inositolrequiringenzyme pages 1-2). The amino acid sequence identity between human IRE1α and IRE1β is 80% for the kinase domain and 61% for the RNase domain (riaz2020roleofendoplasmic pages 1-3). The kinase domain of ERN2 contains nonconserved amino acids compared to IRE1α, which results in impaired catalytic functions (goupil2024exploringtheire1 pages 2-3, goupil2024exploringtheire1 pages 2-3). Specific structural details for ERN2 regarding its activation loop and C-helix are not well-defined (goupil2024exploringtheire1 pages 2-3, goupil2024exploringtheire1 pages 3-5).
+
+
+
+## Regulation
+Activation of IRE1 proteins requires oligomerization and trans-autophosphorylation (prasad2021theendoplasmicreticulum pages 3-3, goupil2024exploringtheire1 pages 7-8). However, ERN2 displays impaired phosphorylation and oligomerization capabilities compared to IRE1α (grey2020ire1βnegativelyregulates pages 8-11). Specific post-translational modification sites for ERN2 are not well-defined (goupil2024exploringtheire1 pages 2-3). ERN2 acts as a dominant negative modulator of IRE1α by forming heterooligomers with it, which noncompetitively inhibits IRE1α's RNase activity (goupil2024exploringtheire1 pages 3-5, grey2020ire1βnegativelyregulates pages 8-11). This inhibitory function is structural and does not require ERN2's own enzymatic activities (grey2020ire1βnegativelyregulates pages 8-11).
+
+
+
+## Function
+ERN2 is predominantly expressed in the mucosal epithelia of the gastrointestinal and respiratory tracts (goupil2024exploringtheire1 pages 2-3, prasad2021theendoplasmicreticulum pages 3-3). It directly interacts with its paralog, IRE1α (grey2020ire1βnegativelyregulates pages 8-11). Functionally, ERN2 induces translational repression by degrading 28S rRNA (goupil2024exploringtheire1 pages 2-3). By forming heterooligomers with IRE1α, ERN2 attenuates ER stress signaling by acting as a dominant negative regulator (goupil2024exploringtheire1 pages 3-5, grey2020ire1βnegativelyregulates pages 8-11).
+
+
+
+## Other Comments
+The IRE1 family of proteins is implicated in diseases such as diabetes, cancer, and neurodegeneration, though specific associations for ERN2 are not detailed (riaz2020roleofendoplasmic pages 1-3). Unlike the embryonic lethality observed in IRE1α knockout mice, ERN2 knockout mice are viable (zhou2021inositolrequiringenzyme pages 1-2, zhou2021inositolrequiringenzyme pages 1-2). The impaired catalytic function of ERN2 is attributed to nonconserved amino acids in its kinase domain (goupil2024exploringtheire1 pages 2-3). A kinase-dead mutant of IRE1α exhibits similar behavior to ERN2, with a failure to autophosphorylate and form higher-order oligomers (grey2020ire1βnegativelyregulates pages 8-11).
+
+References
+
+1. (goupil2024exploringtheire1 pages 7-8): Simon Le Goupil, Hadrien Laprade, Marc Aubry, and Eric Chevet. Exploring the ire1 interactome: from canonical signaling functions to unexpected roles. The Journal of Biological Chemistry, Mar 2024. URL: https://doi.org/10.1016/j.jbc.2024.107169, doi:10.1016/j.jbc.2024.107169. This article has 23 citations.
+
+2. (riaz2020roleofendoplasmic pages 3-4): Thoufiqul Alam Riaz, R. Junjappa, Mallikarjun Handigund, J. Ferdous, Hyung-Ryong Kim, and H. Chae. Role of endoplasmic reticulum stress sensor ire1α in cellular physiology, calcium, ros signaling, and metaflammation. Cells, May 2020. URL: https://doi.org/10.3390/cells9051160, doi:10.3390/cells9051160. This article has 101 citations and is from a peer-reviewed journal.
+
+3. (goupil2024exploringtheire1 pages 2-3): Simon Le Goupil, Hadrien Laprade, Marc Aubry, and Eric Chevet. Exploring the ire1 interactome: from canonical signaling functions to unexpected roles. The Journal of Biological Chemistry, Mar 2024. URL: https://doi.org/10.1016/j.jbc.2024.107169, doi:10.1016/j.jbc.2024.107169. This article has 23 citations.
+
+4. (goupil2024exploringtheire1 pages 3-5): Simon Le Goupil, Hadrien Laprade, Marc Aubry, and Eric Chevet. Exploring the ire1 interactome: from canonical signaling functions to unexpected roles. The Journal of Biological Chemistry, Mar 2024. URL: https://doi.org/10.1016/j.jbc.2024.107169, doi:10.1016/j.jbc.2024.107169. This article has 23 citations.
+
+5. (grey2020ire1βnegativelyregulates pages 8-11): Michael J. Grey, Eva Cloots, M. S. Simpson, Nicole LeDuc, Yevgeniy V. Serebrenik, Heidi De Luca, Delphine De Sutter, P. Luong, Jay R. Thiagarajah, A. Paton, J. Paton, M. Seeliger, S. Eyckerman, S. Janssens, and W. Lencer. Ire1β negatively regulates ire1α signaling in response to endoplasmic reticulum stress. The Journal of Cell Biology, Mar 2020. URL: https://doi.org/10.1101/586305, doi:10.1101/586305. This article has 73 citations.
+
+6. (prasad2021theendoplasmicreticulum pages 3-3): V. Prasad and U. Greber. The endoplasmic reticulum unfolded protein response – homeostasis, cell death and evolution in virus infections. FEMS Microbiology Reviews, Mar 2021. URL: https://doi.org/10.1093/femsre/fuab016, doi:10.1093/femsre/fuab016. This article has 86 citations and is from a domain leading peer-reviewed journal.
+
+7. (zhou2021inositolrequiringenzyme pages 1-2): Zhixin Zhou, Qian Wang, and Marek Michalak. Inositol requiring enzyme (ire), a multiplayer in sensing endoplasmic reticulum stress. Animal Cells and Systems, 25:347-357, Nov 2021. URL: https://doi.org/10.1080/19768354.2021.2020901, doi:10.1080/19768354.2021.2020901. This article has 16 citations and is from a peer-reviewed journal.
+
+8. (zhou2021inositolrequiringenzyme pages 2-4): Zhixin Zhou, Qian Wang, and Marek Michalak. Inositol requiring enzyme (ire), a multiplayer in sensing endoplasmic reticulum stress. Animal Cells and Systems, 25:347-357, Nov 2021. URL: https://doi.org/10.1080/19768354.2021.2020901, doi:10.1080/19768354.2021.2020901. This article has 16 citations and is from a peer-reviewed journal.
+
+9. (riaz2020roleofendoplasmic pages 1-3): Thoufiqul Alam Riaz, R. Junjappa, Mallikarjun Handigund, J. Ferdous, Hyung-Ryong Kim, and H. Chae. Role of endoplasmic reticulum stress sensor ire1α in cellular physiology, calcium, ros signaling, and metaflammation. Cells, May 2020. URL: https://doi.org/10.3390/cells9051160, doi:10.3390/cells9051160. This article has 101 citations and is from a peer-reviewed journal.
+
+10. (unknownauthors2018thecellularresponse pages 2-4): The cellular response to protein misfolding in the endoplasmic reticulum
+
+11. (zhou2021inositolrequiringenzyme pages 6-6): Zhixin Zhou, Qian Wang, and Marek Michalak. Inositol requiring enzyme (ire), a multiplayer in sensing endoplasmic reticulum stress. Animal Cells and Systems, 25:347-357, Nov 2021. URL: https://doi.org/10.1080/19768354.2021.2020901, doi:10.1080/19768354.2021.2020901. This article has 16 citations and is from a peer-reviewed journal.

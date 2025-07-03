@@ -1,0 +1,93 @@
+## Phylogeny  
+Orthologs have been cloned in Rattus norvegicus (rat) and Mus musculus (mouse), both displaying high sequence identity with human CSK (chong2005cterminalsrckinase pages 2-3, ia2011definingthesubstrate pages 13-14).  
+The full-length rat enzyme has been crystallised, underscoring functional conservation (ogawa2002structureofthe pages 3-5).  
+Sequence conservation extends across Metazoa to unicellular choanoflagellates, indicating an ancient role in Src-family kinase (SFK) control (okada2012regulationofthe pages 6-9).  
+Within the human kinome CSK is placed in the Tyrosine Kinase (TK) group, forming the CSK family together with its closest paralogue CHK/MATK (cole2003proteintyrosinekinases pages 6-6, chong2005cterminalsrckinase pages 2-3).  
+
+## Reaction Catalyzed  
+ATP + [SFK]-L-tyrosine → ADP + [SFK]-O-phospho-L-tyrosine (chong2005cterminalsrckinase pages 2-3).  
+
+## Cofactor Requirements  
+Catalytic turnover requires Mg²⁺; a second divalent cation can further enhance activity in vitro (sun2023dissectionofthe pages 11-11).  
+
+## Substrate Specificity  
+CSK shows extreme selectivity for the conserved C-terminal regulatory tyrosine of SFKs (e.g., SRC Y530, LCK Y505) (chong2005cterminalsrckinase pages 2-3).  
+Isolated tail peptides are poor substrates; efficient phosphorylation depends on a substrate-docking surface centred on helix D of the kinase domain rather than a simple linear consensus motif (lee2006dockingbasedsubstraterecognition pages 1-1).  
+Generic tyrosine peptides are phosphorylated only marginally, contrasting with the broad specificity of SFKs themselves (cole2003proteintyrosinekinases pages 1-2).  
+
+## Structure  
+Domain organisation: N-terminal SH3, central SH2, and C-terminal kinase domain, with SH3/SH2 positioned atop the kinase N-lobe (ogawa2002structureofthe pages 1-3).  
+Active conformation—key features:  
+• Salt bridge Lys222–Glu236 aligns the αC helix; catalytic triad Lys222, Asp314, Asn319 and Asp332 correctly oriented (ogawa2002structureofthe pages 6-8).  
+• SH2 packs against the N-lobe, stabilising αC and the regulatory spine (ogawa2002structureofthe pages 6-8).  
+Inactive conformers exhibit a ~60° SH2 rotation that disrupts the Lys222–Glu236 ion pair and displaces αC (ogawa2002structureofthe pages 12-14).  
+Activation loop is four residues shorter than in Src and lacks an autophosphorylation site, indicating regulation through inter-domain coupling rather than loop phosphorylation (ogawa2002structureofthe pages 6-8).  
+A conserved αBC helix within the SH3–SH2 linker (≈35 aa) docks on the C-lobe, providing unique allosteric communication (ogawa2002structureofthe pages 6-8).  
+A dedicated substrate-docking cleft on helix D accounts for SFK-tail selectivity (lee2006dockingbasedsubstraterecognition pages 1-1).  
+The kinase domain crystallised with the pan-inhibitor staurosporine confirms a canonical bilobal fold and ATP-binding geometry (cole2003proteintyrosinekinases pages 6-6).  
+
+## Regulation  
+Post-translational modifications  
+• Ser364 phosphorylation by PKA increases catalytic efficiency (chong2005cterminalsrckinase pages 11-12).  
+• Tyr18 phosphorylation by ACK1 modulates activity and membrane localisation (zhu2023regulationtargetsand pages 1-2).  
+• SUMO-1 conjugation mediated by PIAS3 suppresses tumour-suppressor function (sun2023dissectionofthe pages 9-9).  
+
+Conformational / allosteric control  
+• SH2 binding to phospho-CBP/PAG1, caveolin-1, or Dok-1/2 recruits CSK to lipid rafts and relieves intrinsic suppression via coupled SH2–kinase motions (zhu2023regulationtargetsand pages 6-7, sun2023dissectionofthe pages 5-6).  
+• Homodimerisation through the SH3 domain has been reported to influence activity (zhu2023regulationtargetsand pages 6-7).  
+• CSK exhibits negligible autophosphorylation; activation relies primarily on ligand-induced domain rearrangements (sun2023dissectionofthe pages 9-9).  
+
+## Function  
+Expression is ubiquitous with high levels in haematopoietic and neural tissues (zhu2023regulationtargetsand pages 1-2).  
+Downstream targets: SRC, LCK, FYN, HCK, LYN, BLK and YES1 are phosphorylated on their C-terminal tyrosine, forcing an intramolecular SH2-tail interaction that inactivates the kinase (chong2005cterminalsrckinase pages 2-3).  
+Pathways modulated include TCR, BCR, integrin, and multiple growth-factor receptors. In mast cells, CSK restrains LYN/SHP-1/STAT5 signalling and degranulation (zhu2023regulationtargetsand pages 6-7).  
+It dampens Toll-like receptor signalling via the LYN–MyD88 axis and phosphorylates MITA during antiviral responses (zhu2023regulationtargetsand pages 6-7).  
+Csk-null mice die in utero with neural-tube defects, a phenotype rescued by concurrent Src deletion, demonstrating its essential negative regulation of SFKs in vivo (cole2003proteintyrosinekinases pages 2-3).  
+
+## Inhibitors  
+The ATP-competitive broad-spectrum inhibitor staurosporine binds the CSK catalytic cleft; no CSK-selective small-molecule inhibitors have been reported in the cited literature (cole2003proteintyrosinekinases pages 6-6).  
+
+## Other Comments  
+Reduced CSK activity or defective membrane recruitment correlates with elevated Src signalling in colorectal and non-small-cell lung cancers (okada2012regulationofthe pages 13-13, sun2023dissectionofthe pages 5-6).  
+Mutations in the N-terminal regulatory region diminish catalytic activity without impairing Src recognition (levinson2008structuralbasisfor pages 11-11).  
+SUMOylation-driven attenuation further links CSK loss of function to oncogenic signalling (sun2023dissectionofthe pages 9-9).
+
+References
+
+1. (chong2005cterminalsrckinase pages 2-3): Yuh-Ping Chong, Terrence D. Mulhern, and Heung-Chin Cheng. C-terminal src kinase (csk) and csk-homologous kinase (chk)—endogenous negative regulators of src-family protein kinases. Growth Factors, 23:233-244, Jan 2005. URL: https://doi.org/10.1080/08977190500178877, doi:10.1080/08977190500178877. This article has 152 citations and is from a peer-reviewed journal.
+
+2. (sun2023dissectionofthe pages 11-11): Gongqin Sun and Marina K. Ayrapetov. Dissection of the catalytic and regulatory structure-function relationships of csk protein tyrosine kinase. Frontiers in Cell and Developmental Biology, Mar 2023. URL: https://doi.org/10.3389/fcell.2023.1148352, doi:10.3389/fcell.2023.1148352. This article has 11 citations and is from a peer-reviewed journal.
+
+3. (sun2023dissectionofthe pages 9-9): Gongqin Sun and Marina K. Ayrapetov. Dissection of the catalytic and regulatory structure-function relationships of csk protein tyrosine kinase. Frontiers in Cell and Developmental Biology, Mar 2023. URL: https://doi.org/10.3389/fcell.2023.1148352, doi:10.3389/fcell.2023.1148352. This article has 11 citations and is from a peer-reviewed journal.
+
+4. (zhu2023regulationtargetsand pages 1-2): Shudong Zhu, Hui Wang, Kamakshi Ranjan, and Dianzheng Zhang. Regulation, targets and functions of csk. Frontiers in Cell and Developmental Biology, Jun 2023. URL: https://doi.org/10.3389/fcell.2023.1206539, doi:10.3389/fcell.2023.1206539. This article has 11 citations and is from a peer-reviewed journal.
+
+5. (cole2003proteintyrosinekinases pages 1-2): P. Cole, Kui Shen, Yingfeng Qiao, and Dongxia Wang. Protein tyrosine kinases src and csk: a tail's tale. Current opinion in chemical biology, 7 5:580-5, Oct 2003. URL: https://doi.org/10.1016/j.cbpa.2003.08.009, doi:10.1016/j.cbpa.2003.08.009. This article has 132 citations and is from a peer-reviewed journal.
+
+6. (cole2003proteintyrosinekinases pages 2-3): P. Cole, Kui Shen, Yingfeng Qiao, and Dongxia Wang. Protein tyrosine kinases src and csk: a tail's tale. Current opinion in chemical biology, 7 5:580-5, Oct 2003. URL: https://doi.org/10.1016/j.cbpa.2003.08.009, doi:10.1016/j.cbpa.2003.08.009. This article has 132 citations and is from a peer-reviewed journal.
+
+7. (cole2003proteintyrosinekinases pages 6-6): P. Cole, Kui Shen, Yingfeng Qiao, and Dongxia Wang. Protein tyrosine kinases src and csk: a tail's tale. Current opinion in chemical biology, 7 5:580-5, Oct 2003. URL: https://doi.org/10.1016/j.cbpa.2003.08.009, doi:10.1016/j.cbpa.2003.08.009. This article has 132 citations and is from a peer-reviewed journal.
+
+8. (levinson2008structuralbasisfor pages 11-11): N. Levinson, M. Seeliger, P. Cole, and J. Kuriyan. Structural basis for the recognition of c-src by its inactivator csk. Cell, 134:124-134, Jul 2008. URL: https://doi.org/10.1016/j.cell.2008.05.051, doi:10.1016/j.cell.2008.05.051. This article has 154 citations and is from a highest quality peer-reviewed journal.
+
+9. (okada2012regulationofthe pages 13-13): M. Okada. Regulation of the src family kinases by csk. International Journal of Biological Sciences, 8:1385-1397, Nov 2012. URL: https://doi.org/10.7150/ijbs.5141, doi:10.7150/ijbs.5141. This article has 416 citations and is from a peer-reviewed journal.
+
+10. (okada2012regulationofthe pages 6-9): M. Okada. Regulation of the src family kinases by csk. International Journal of Biological Sciences, 8:1385-1397, Nov 2012. URL: https://doi.org/10.7150/ijbs.5141, doi:10.7150/ijbs.5141. This article has 416 citations and is from a peer-reviewed journal.
+
+11. (sun2023dissectionofthe pages 5-6): Gongqin Sun and Marina K. Ayrapetov. Dissection of the catalytic and regulatory structure-function relationships of csk protein tyrosine kinase. Frontiers in Cell and Developmental Biology, Mar 2023. URL: https://doi.org/10.3389/fcell.2023.1148352, doi:10.3389/fcell.2023.1148352. This article has 11 citations and is from a peer-reviewed journal.
+
+12. (zhu2023regulationtargetsand pages 6-7): Shudong Zhu, Hui Wang, Kamakshi Ranjan, and Dianzheng Zhang. Regulation, targets and functions of csk. Frontiers in Cell and Developmental Biology, Jun 2023. URL: https://doi.org/10.3389/fcell.2023.1206539, doi:10.3389/fcell.2023.1206539. This article has 11 citations and is from a peer-reviewed journal.
+
+13. (chong2005cterminalsrckinase pages 11-12): Yuh-Ping Chong, Terrence D. Mulhern, and Heung-Chin Cheng. C-terminal src kinase (csk) and csk-homologous kinase (chk)—endogenous negative regulators of src-family protein kinases. Growth Factors, 23:233-244, Jan 2005. URL: https://doi.org/10.1080/08977190500178877, doi:10.1080/08977190500178877. This article has 152 citations and is from a peer-reviewed journal.
+
+14. (ia2011definingthesubstrate pages 13-14): Kim K. Ia, Grace R. Jeschke, Yang Deng, Mohd Aizuddin Kamaruddin, Nicholas A. Williamson, Denis B. Scanlon, Janetta G. Culvenor, Mohammed Iqbal Hossain, Anthony W. Purcell, Sheng Liu, Hong-Jian Zhu, Bruno Catimel, Benjamin E. Turk, and Heung-Chin Cheng. Defining the substrate specificity determinants recognized by the active site of c-terminal src kinase-homologous kinase (chk) and identification of β-synuclein as a potential chk physiological substrate. Biochemistry, 50 31:6667-77, Aug 2011. URL: https://doi.org/10.1021/bi2001938, doi:10.1021/bi2001938. This article has 16 citations and is from a peer-reviewed journal.
+
+15. (lee2006dockingbasedsubstraterecognition pages 1-1): Sungsoo Lee, Marina K. Ayrapetov, David J. Kemble, Keykavous Parang, and Gongqin Sun. Docking-based substrate recognition by the catalytic domain of a protein tyrosine kinase, c-terminal src kinase (csk)*. Journal of Biological Chemistry, 281:8183-8189, Mar 2006. URL: https://doi.org/10.1074/jbc.m508120200, doi:10.1074/jbc.m508120200. This article has 44 citations and is from a domain leading peer-reviewed journal.
+
+16. (ogawa2002structureofthe pages 1-3): A. Ogawa, Y. Takayama, H. Sakai, K. T. Chong, S. Takeuchi, A. Nakagawa, S. Nada, M. Okada, and T. Tsukihara. Structure of the carboxyl-terminal src kinase, csk*. The Journal of Biological Chemistry, 277:14351-14354, Apr 2002. URL: https://doi.org/10.1074/jbc.c200086200, doi:10.1074/jbc.c200086200. This article has 190 citations.
+
+17. (ogawa2002structureofthe pages 12-14): A. Ogawa, Y. Takayama, H. Sakai, K. T. Chong, S. Takeuchi, A. Nakagawa, S. Nada, M. Okada, and T. Tsukihara. Structure of the carboxyl-terminal src kinase, csk*. The Journal of Biological Chemistry, 277:14351-14354, Apr 2002. URL: https://doi.org/10.1074/jbc.c200086200, doi:10.1074/jbc.c200086200. This article has 190 citations.
+
+18. (ogawa2002structureofthe pages 3-5): A. Ogawa, Y. Takayama, H. Sakai, K. T. Chong, S. Takeuchi, A. Nakagawa, S. Nada, M. Okada, and T. Tsukihara. Structure of the carboxyl-terminal src kinase, csk*. The Journal of Biological Chemistry, 277:14351-14354, Apr 2002. URL: https://doi.org/10.1074/jbc.c200086200, doi:10.1074/jbc.c200086200. This article has 190 citations.
+
+19. (ogawa2002structureofthe pages 6-8): A. Ogawa, Y. Takayama, H. Sakai, K. T. Chong, S. Takeuchi, A. Nakagawa, S. Nada, M. Okada, and T. Tsukihara. Structure of the carboxyl-terminal src kinase, csk*. The Journal of Biological Chemistry, 277:14351-14354, Apr 2002. URL: https://doi.org/10.1074/jbc.c200086200, doi:10.1074/jbc.c200086200. This article has 190 citations.

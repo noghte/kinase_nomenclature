@@ -1,0 +1,113 @@
+## Phylogeny  
+Orthologs are conserved throughout vertebrates, including mouse Tie2, rat Tie2, zebrafish tek, and chicken Tek, underscoring an essential vascular role (duran2021targetingtie2in pages 1-2, sato1998characterizationoftek pages 6-8).  
+Within the human kinome TEK/TIE2 belongs to the receptor tyrosine kinase (RTK) group, Tie sub-family, which comprises Tie1 and Tie2 and is evolutionarily closest to the FGFR branch based on sequence/structural homology (barton2014tie2andeph pages 1-2, shewchuk2000structureofthe pages 2-3).  
+
+## Reaction Catalyzed  
+ATP + [protein]-L-tyrosine ⇌ ADP + [protein]-O-phospho-L-tyrosine (shewchuk2000structureofthe pages 2-3).  
+
+## Cofactor Requirements  
+Catalysis requires a divalent cation; crystal structures show Mg²⁺ coordinated by the activation-loop Asp and ATP phosphates (shewchuk2000structureofthe pages 3-4).  
+
+## Substrate Specificity  
+The 2024 human tyrosine-kinome atlas includes TEK/TIE2 in its specificity clustering, indicating that an intrinsic positional weight matrix has been determined; however, the explicit consensus motif is not provided in the excerpt (yaronbarir2024theintrinsicsubstrate pages 16-16).  
+
+## Structure  
+Domain organization  
+• Extracellular ectodomain: Ig1–Ig3 → EGF1–EGF3 → FNIII1–FNIII3 (barton2014tie2andeph pages 4-5).  
+• Single-pass transmembrane helix.  
+• Cytoplasmic region: split kinase domain (residues 808-1124) followed by an extended C-terminal tail harbouring three regulatory tyrosines (barton2014tie2andeph pages 5-6).  
+
+Three-dimensional features  
+• Ectodomain forms an arrowhead; Ig2 is the ligand-binding tip that engages angiopoietin fibrinogen-like domains with minimal induced fit (barton2014tie2andeph pages 4-5).  
+• FNIII3 mediates constitutive homodimerization via an intermolecular β-sheet placing the two C-termini ~25 Å apart; this geometry is essential for activation and is further stabilized by agonistic antibody hTAAB (leppanen2017structuralbasisof pages 5-6, jo2021structuralinsightsinto pages 1-2).  
+• Kinase domain crystal structure (PDB 1FVR, 2.2 Å) displays the canonical bilobal RTK fold with distinctive autoinhibitory elements:  
+   – Gly-rich nucleotide-binding loop (832-836) folds into the ATP site, blocking ligand binding (shewchuk2000structureofthe pages 4-6).  
+   – Activation loop (982-1008) is in an “active-like” conformation yet unphosphorylated; contains single Tyr992 (shewchuk2000structureofthe pages 3-4).  
+   – αC helix is displaced 2.5-5.5 Å relative to FGFR1, disrupting the Lys855-Glu872 salt bridge and suppressing catalysis (shewchuk2000structureofthe pages 2-3).  
+   – Hydrophobic regulatory spine is present but misaligned in the inhibited state (shewchuk2000structureofthe pages 8-9).  
+   – C-terminal tail (1100-1124) packs under the catalytic cleft as a substrate mimetic (barton2014tie2andeph pages 5-6, shewchuk2000structureofthe pages 4-6).  
+
+## Regulation  
+Post-translational modifications  
+• Autophosphorylation sites: Tyr1101 (recruits Grb2/p85-PI3K), Tyr1107 (binds Dok-R), Tyr1112 (binds SH-PTP2), and Tyr992 in the activation loop (barton2014tie2andeph pages 5-6, shewchuk2000structureofthe pages 3-4).  
+• VE-PTP (PTPRB) directly dephosphorylates TEK, restraining signalling; pharmacologic or genetic VE-PTP inhibition increases TEK phosphorylation (fonodi2024roleofprotein pages 18-20).  
+• VEGF-triggered PI3K/Akt activation stimulates ADAM protease–mediated ectodomain shedding, generating soluble TIE2 and dampening signalling (findley2007vegfinducestie2 pages 11-15, findley2007vegfinducestie2 pages 7-7).  
+• Shear stress enhances phosphorylation; ubiquitination or acetylation have not been reported in the cited literature (du2017reviewofthe pages 8-9).  
+
+Conformational and allosteric control  
+• Autoinhibition is enforced by the nucleotide-binding loop, activation loop and C-tail; deletion of the last 15 residues markedly increases activity (barton2014tie2andeph pages 5-6).  
+• Tie1 forms ligand-independent heterodimers that reduce TEK phosphorylation; Ang1 disrupts whereas Ang2 stabilises these complexes (barton2014tie2andeph pages 5-6).  
+• Receptor clustering via FNIII3 domain or multimeric agonists overrides autoinhibition and is obligatory for kinase activation (leppanen2017structuralbasisof pages 5-6, jo2021structuralinsightsinto pages 1-2).  
+• Activating missense mutations such as R849W or Y897S destabilise the inhibitory nucleotide-binding loop and cause ligand-independent signalling (shewchuk2000structureofthe pages 4-6).  
+
+## Function  
+Expression pattern  
+Highly expressed in vascular and lymphatic endothelial cells, endothelial progenitors, subsets of CD34⁺ hematopoietic stem cells, and ~20 % of CD19⁺ B lymphocytes; up-regulated in tumour vasculature (duran2021targetingtie2in pages 1-2, sato1998characterizationoftek pages 5-6).  
+
+Upstream ligands  
+Angiopoietin-1 (full agonist), Angiopoietin-2 (context-dependent partial agonist/antagonist), and Angiopoietin-4 (agonist) bind Ig2 (thurston2003roleofangiopoietins pages 2-3, sato1998characterizationoftek pages 3-5).  
+
+Downstream signalling  
+Phospho-Tyr1101 recruits p85-PI3K and Grb2, activating Akt and MAPK; phospho-Tyr1107 engages Dok-R to drive motility; phospho-Tyr1112 binds SH-PTP2 to provide negative feedback (barton2014tie2andeph pages 5-6, natynki2015commonandspecific pages 5-6).  
+
+Biological roles  
+Controls vascular sprouting, maturation, barrier integrity, anti-inflammatory quiescence, and adhesion/quiescence of hematopoietic stem cells (duran2021targetingtie2in pages 1-2, sato1998characterizationoftek pages 6-8).  
+
+## Inhibitors  
+• Rebastinib: multi-target kinase inhibitor with high affinity for TEK; suppresses tumour growth and metastasis in breast-cancer models (unknownauthors2020characterizationofthe pages 31-34).  
+• Regorafenib: clinically approved multi-kinase inhibitor that includes TEK among its targets (khan2021ang2inhibitorsand pages 6-7).  
+• AKB-9778: selective VE-PTP inhibitor that indirectly enhances TEK phosphorylation and vascular stabilisation (khan2021ang2inhibitorsand pages 9-10, saharinen2017therapeutictargetingof pages 16-17).  
+
+## Other Comments  
+Heterozygous activating TEK mutations (e.g., R849W, Y897S, Y897F-R915L) cause autosomal-dominant venous malformations with ectatic, pericyte-poor vessels (thurston2003roleofangiopoietins pages 2-3, natynki2015commonandspecific pages 5-6).  
+Tek-null mice die by embryonic day 10.5 from defective vascular remodelling and hematopoietic failure, demonstrating its non-redundant developmental function (thurston2003roleofangiopoietins pages 2-3).
+
+References
+
+1. (barton2014tie2andeph pages 4-5): W. A. Barton, A. C. Dalton, T. C. M. Seegar, J. P. Himanen, and D. B. Nikolov. Tie2 and eph receptor tyrosine kinase activation and signaling. Cold Spring Harbor perspectives in biology, Mar 2014. URL: https://doi.org/10.1101/cshperspect.a009142, doi:10.1101/cshperspect.a009142. This article has 37 citations and is from a peer-reviewed journal.
+
+2. (barton2014tie2andeph pages 5-6): W. A. Barton, A. C. Dalton, T. C. M. Seegar, J. P. Himanen, and D. B. Nikolov. Tie2 and eph receptor tyrosine kinase activation and signaling. Cold Spring Harbor perspectives in biology, Mar 2014. URL: https://doi.org/10.1101/cshperspect.a009142, doi:10.1101/cshperspect.a009142. This article has 37 citations and is from a peer-reviewed journal.
+
+3. (duran2021targetingtie2in pages 1-2): Camille L. Duran, L. Borriello, G. Karagiannis, D. Entenberg, M. Oktay, and J. Condeelis. Targeting tie2 in the tumor microenvironment: from angiogenesis to dissemination. Cancers, Nov 2021. URL: https://doi.org/10.3390/cancers13225730, doi:10.3390/cancers13225730. This article has 71 citations and is from a peer-reviewed journal.
+
+4. (shewchuk2000structureofthe pages 2-3): L. Shewchuk, A. Hassell, B. Ellis, W. Holmes, Roderick G Davis, E. Horne, S. Kadwell, D. D. Mckee, and John T. Moore. Structure of the tie2 rtk domain: self-inhibition by the nucleotide binding loop, activation loop, and c-terminal tail. Structure, 8 11:1105-13, Nov 2000. URL: https://doi.org/10.1016/s0969-2126(00)00516-5, doi:10.1016/s0969-2126(00)00516-5. This article has 197 citations and is from a domain leading peer-reviewed journal.
+
+5. (shewchuk2000structureofthe pages 3-4): L. Shewchuk, A. Hassell, B. Ellis, W. Holmes, Roderick G Davis, E. Horne, S. Kadwell, D. D. Mckee, and John T. Moore. Structure of the tie2 rtk domain: self-inhibition by the nucleotide binding loop, activation loop, and c-terminal tail. Structure, 8 11:1105-13, Nov 2000. URL: https://doi.org/10.1016/s0969-2126(00)00516-5, doi:10.1016/s0969-2126(00)00516-5. This article has 197 citations and is from a domain leading peer-reviewed journal.
+
+6. (thurston2003roleofangiopoietins pages 2-3): Gavin Thurston. Role of angiopoietins and tie receptor tyrosine kinases in angiogenesis and lymphangiogenesis. Cell and Tissue Research, 314:61-68, Oct 2003. URL: https://doi.org/10.1007/s00441-003-0749-6, doi:10.1007/s00441-003-0749-6. This article has 416 citations and is from a peer-reviewed journal.
+
+7. (unknownauthors2020characterizationofthe pages 31-34): Characterization of the ANGPT1/TIE2 axis in cancer cell dormancy
+
+8. (du2017reviewofthe pages 8-9): Zhong Du, JiaWei Zheng, ZhiYuan Zhang, and YanAn Wang. Review of the endothelial pathogenic mechanism of tie2-related venous malformation. Journal of Vascular Surgery: Venous and Lymphatic Disorders, 5:740-748, Sep 2017. URL: https://doi.org/10.1016/j.jvsv.2017.05.001, doi:10.1016/j.jvsv.2017.05.001. This article has 34 citations and is from a peer-reviewed journal.
+
+9. (findley2007vegfinducestie2 pages 11-15): Clarence M. Findley, Melissa J. Cudmore, Asif Ahmed, and Christopher D. Kontos. Vegf induces tie2 shedding via a phosphoinositide 3-kinase/akt–dependent pathway to modulate tie2 signaling. Arteriosclerosis, Thrombosis, and Vascular Biology, 27:2619-2626, Dec 2007. URL: https://doi.org/10.1161/atvbaha.107.150482, doi:10.1161/atvbaha.107.150482. This article has 200 citations and is from a domain leading peer-reviewed journal.
+
+10. (findley2007vegfinducestie2 pages 7-7): Clarence M. Findley, Melissa J. Cudmore, Asif Ahmed, and Christopher D. Kontos. Vegf induces tie2 shedding via a phosphoinositide 3-kinase/akt–dependent pathway to modulate tie2 signaling. Arteriosclerosis, Thrombosis, and Vascular Biology, 27:2619-2626, Dec 2007. URL: https://doi.org/10.1161/atvbaha.107.150482, doi:10.1161/atvbaha.107.150482. This article has 200 citations and is from a domain leading peer-reviewed journal.
+
+11. (jo2021structuralinsightsinto pages 1-2): Gyunghee Jo, Jeomil Bae, Ho Jeong Hong, Ah-reum Han, Do-Kyun Kim, Seon Pyo Hong, Jung A Kim, Sangkyu Lee, Gou Young Koh, and Ho Min Kim. Structural insights into the clustering and activation of tie2 receptor mediated by tie2 agonistic antibody. Nature Communications, Nov 2021. URL: https://doi.org/10.1038/s41467-021-26620-1, doi:10.1038/s41467-021-26620-1. This article has 17 citations and is from a highest quality peer-reviewed journal.
+
+12. (leppanen2017structuralbasisof pages 5-6): Veli-Matti Leppänen, Pipsa Saharinen, and Kari Alitalo. Structural basis of tie2 activation and tie2/tie1 heterodimerization. Proceedings of the National Academy of Sciences, 114:4376-4381, Apr 2017. URL: https://doi.org/10.1073/pnas.1616166114, doi:10.1073/pnas.1616166114. This article has 105 citations.
+
+13. (natynki2015commonandspecific pages 5-6): Marjut Nätynki, Jaakko Kangas, Ilkka Miinalainen, Raija Sormunen, Riikka Pietilä, Julie Soblet, Laurence M. Boon, Miikka Vikkula, Nisha Limaye, and Lauri Eklund. Common and specific effects of tie2 mutations causing venous malformations. Human Molecular Genetics, 24:6374-6389, Aug 2015. URL: https://doi.org/10.1093/hmg/ddv349, doi:10.1093/hmg/ddv349. This article has 113 citations and is from a domain leading peer-reviewed journal.
+
+14. (sato1998characterizationoftek pages 3-5): Atsuo Sato, A. Iwama, Nobuyuki Takakura, Hitoshi Nishio, G. Yancopoulos, and Toshio Suda. Characterization of tek receptor tyrosine kinase and its ligands, angiopoietins, in human hematopoietic progenitor cells. International Immunology, 10:1217-1227, Aug 1998. URL: https://doi.org/10.1093/intimm/10.8.1217, doi:10.1093/intimm/10.8.1217. This article has 127 citations and is from a peer-reviewed journal.
+
+15. (sato1998characterizationoftek pages 5-6): Atsuo Sato, A. Iwama, Nobuyuki Takakura, Hitoshi Nishio, G. Yancopoulos, and Toshio Suda. Characterization of tek receptor tyrosine kinase and its ligands, angiopoietins, in human hematopoietic progenitor cells. International Immunology, 10:1217-1227, Aug 1998. URL: https://doi.org/10.1093/intimm/10.8.1217, doi:10.1093/intimm/10.8.1217. This article has 127 citations and is from a peer-reviewed journal.
+
+16. (sato1998characterizationoftek pages 6-8): Atsuo Sato, A. Iwama, Nobuyuki Takakura, Hitoshi Nishio, G. Yancopoulos, and Toshio Suda. Characterization of tek receptor tyrosine kinase and its ligands, angiopoietins, in human hematopoietic progenitor cells. International Immunology, 10:1217-1227, Aug 1998. URL: https://doi.org/10.1093/intimm/10.8.1217, doi:10.1093/intimm/10.8.1217. This article has 127 citations and is from a peer-reviewed journal.
+
+17. (shewchuk2000structureofthe pages 4-6): L. Shewchuk, A. Hassell, B. Ellis, W. Holmes, Roderick G Davis, E. Horne, S. Kadwell, D. D. Mckee, and John T. Moore. Structure of the tie2 rtk domain: self-inhibition by the nucleotide binding loop, activation loop, and c-terminal tail. Structure, 8 11:1105-13, Nov 2000. URL: https://doi.org/10.1016/s0969-2126(00)00516-5, doi:10.1016/s0969-2126(00)00516-5. This article has 197 citations and is from a domain leading peer-reviewed journal.
+
+18. (shewchuk2000structureofthe pages 8-9): L. Shewchuk, A. Hassell, B. Ellis, W. Holmes, Roderick G Davis, E. Horne, S. Kadwell, D. D. Mckee, and John T. Moore. Structure of the tie2 rtk domain: self-inhibition by the nucleotide binding loop, activation loop, and c-terminal tail. Structure, 8 11:1105-13, Nov 2000. URL: https://doi.org/10.1016/s0969-2126(00)00516-5, doi:10.1016/s0969-2126(00)00516-5. This article has 197 citations and is from a domain leading peer-reviewed journal.
+
+19. (yaronbarir2024theintrinsicsubstrate pages 16-16): Tomer M. Yaron-Barir, Brian A. Joughin, Emily M. Huntsman, Alexander Kerelsky, Daniel M. Cizin, Benjamin M. Cohen, Amit Regev, Junho Song, Neil Vasan, Ting-Yu Lin, Jose M. Orozco, Christina Schoenherr, Cari Sagum, Mark T. Bedford, R. Max Wynn, Shih-Chia Tso, David T. Chuang, Lei Li, Shawn S.-C. Li, Pau Creixell, Konstantin Krismer, Mina Takegami, Harin Lee, Bin Zhang, Jingyi Lu, Ian Cossentino, Sean D. Landry, Mohamed Uduman, John Blenis, Olivier Elemento, Margaret C. Frame, Peter V. Hornbeck, Lewis C. Cantley, Benjamin E. Turk, Michael B. Yaffe, and Jared L. Johnson. The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629:1174-1181, May 2024. URL: https://doi.org/10.1038/s41586-024-07407-y, doi:10.1038/s41586-024-07407-y. This article has 59 citations and is from a highest quality peer-reviewed journal.
+
+20. (barton2014tie2andeph pages 1-2): W. A. Barton, A. C. Dalton, T. C. M. Seegar, J. P. Himanen, and D. B. Nikolov. Tie2 and eph receptor tyrosine kinase activation and signaling. Cold Spring Harbor perspectives in biology, Mar 2014. URL: https://doi.org/10.1101/cshperspect.a009142, doi:10.1101/cshperspect.a009142. This article has 37 citations and is from a peer-reviewed journal.
+
+21. (fonodi2024roleofprotein pages 18-20): Márton Fonódi, Lilla Nagy, and Anita Boratkó. Role of protein phosphatases in tumor angiogenesis: assessing pp1, pp2a, pp2b and ptps activity. International Journal of Molecular Sciences, 25:6868, Jun 2024. URL: https://doi.org/10.3390/ijms25136868, doi:10.3390/ijms25136868. This article has 2 citations and is from a peer-reviewed journal.
+
+22. (khan2021ang2inhibitorsand pages 6-7): Kabir A. Khan, Florence T. H. Wu, W. Cruz-Muñoz, and R. Kerbel. Ang2 inhibitors and tie2 activators: potential therapeutics in perioperative treatment of early stage cancer. EMBO Molecular Medicine, Jun 2021. URL: https://doi.org/10.15252/emmm.201708253, doi:10.15252/emmm.201708253. This article has 37 citations and is from a highest quality peer-reviewed journal.
+
+23. (khan2021ang2inhibitorsand pages 9-10): Kabir A. Khan, Florence T. H. Wu, W. Cruz-Muñoz, and R. Kerbel. Ang2 inhibitors and tie2 activators: potential therapeutics in perioperative treatment of early stage cancer. EMBO Molecular Medicine, Jun 2021. URL: https://doi.org/10.15252/emmm.201708253, doi:10.15252/emmm.201708253. This article has 37 citations and is from a highest quality peer-reviewed journal.
+
+24. (saharinen2017therapeutictargetingof pages 16-17): P. Saharinen, L. Eklund, and K. Alitalo. Therapeutic targeting of the angiopoietin–tie pathway. Nature Reviews Drug Discovery, 16:635-661, May 2017. URL: https://doi.org/10.1038/nrd.2016.278, doi:10.1038/nrd.2016.278. This article has 602 citations and is from a highest quality peer-reviewed journal.

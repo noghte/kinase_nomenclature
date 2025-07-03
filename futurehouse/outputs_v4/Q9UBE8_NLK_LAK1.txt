@@ -1,0 +1,36 @@
+## Phylogeny
+Nemo-like kinase (NLK) is an evolutionarily conserved serine/threonine protein kinase with orthologs found in species including *Drosophila* (Nemo), *Caenorhabditis elegans* (LIT-1), *Xenopus*, zebrafish, and mice (Daams & Massoumi, 2020; Kim et al., 2010; Ishitani et al., 2003; Ota et al., 2011). In vertebrates, NLK is classified into two phylogenetic types, type-I and type-II; mammals and chickens possess only the type-II gene (Ishitani & Ishitani, 2013). NLK is classified as an atypical member of the mitogen-activated protein kinase (MAPK) family and belongs to the CMGC group of kinases (Daams & Massoumi, 2020; Ishitani & Ishitani, 2013; Johnson et al., 2023). Although its kinase domain exhibits high sequence homology to ERK1 and ERK5 (MAPK7), NLK is distinct from conventional MAPKs due to a different genomic intron-exon organization and the absence of a phosphorylatable tyrosine residue in its activation loop (Kim et al., 2010; Harada et al., 2002; Chan, 2011).
+
+---
+## Reaction Catalyzed
+NLK catalyzes the transfer of a phosphate group from ATP to a protein substrate: ATP + [a protein] → ADP + [a phosphoprotein] (Daams & Massoumi, 2020; Ishitani & Ishitani, 2013; Ishitani et al., 2003).
+
+---
+## Cofactor Requirements
+The catalytic activity of NLK requires divalent metal ions, specifically Mg²⁺ or Mn²⁺, to facilitate ATP binding and phosphate transfer (Daams & Massoumi, 2020; Ishitani & Ishitani, 2013; Shi et al., 2010).
+
+---
+## Substrate Specificity
+NLK is a proline-directed kinase that preferentially phosphorylates serine or threonine residues that are immediately followed by a proline residue (S/T-P motif) (Johnson et al., 2023; Ishitani & Ishitani, 2013; Kim et al., 2010). Substrate specificity is further refined by negative selection elements flanking the phosphorylation site (Johnson et al., 2023). Known phosphorylation sites that adhere to this consensus include Threonine 155 and Serine 166 on the transcription factor LEF1 (Ishitani & Ishitani, 2013).
+
+---
+## Structure
+NLK is a 515-amino acid protein containing a central kinase domain (residues 127-415) flanked by N- and C-terminal extensions (Chan, 2011). The N-terminal domain is poorly conserved, enriched in alanine, glutamine, histidine, and proline, and resembles a zinc finger-type transcription factor motif that may be involved in nuclear protein interactions (Chan, 2011). No experimentally determined crystal structure is available for NLK; its 3D structure is predicted by the AlphaFold model associated with UniProt accession Q9UBE8 (Dahm et al., 2025; Harada et al., 2002; Coulombe & Meloche, 2007). The predicted structure shows a canonical kinase fold with an N-terminal lobe composed of β-sheets, a C-terminal lobe rich in α-helices, a C-helix, and an activation loop (Johnson et al., 2023). A key feature of NLK is its atypical activation loop, which lacks a tyrosine phosphorylation site and instead contains a 'TQE' motif (Chan, 2011).
+
+---
+## Regulation
+NLK activity is regulated by phosphorylation. The upstream kinase TAK1, a MAP3K family member, activates NLK by phosphorylating Threonine-286 (Thr-286) within the activation T-loop (Ishitani et al., 2011; Ishitani et al., 2003). Phosphorylation at Thr-286 is essential for NLK's kinase activity (Chan, 2011; Ishitani et al., 2011). A second phosphorylation site at Serine-510 (Ser510) in the C-terminus is targeted by p38 MAP kinase and modulates substrate binding (Chan, 2011). NLK protein expression is negatively regulated by microRNAs (including the miR-181 family, miR-92b, miR-101, miR-199a-3p, and miR-197) and the long non-coding RNA HOTAIR (Ishitani & Ishitani, 2013; Huang et al., 2015). Allosteric regulation can occur via protein interactions, such as when Zipper-interacting protein kinase (ZIPK) interferes with NLK's binding to its substrate TCF7L2 (Ishitani & Ishitani, 2013).
+
+---
+## Function
+NLK is ubiquitously expressed in adult human tissues, with high expression observed in the brain (Harada et al., 2002; Ishitani & Ishitani, 2013). It is a key regulator of multiple signaling pathways and phosphorylates a wide range of substrates, including TCF/LEF family transcription factors (LEF1, TCF7L1, TCF7L2), SMAD2/3/4, STAT3, c-Myb, A-Myb, FOXO proteins, the Notch1 intracellular domain, Pumilio1, Pumilio2, and CPEB (Daams & Massoumi, 2020; Ishitani & Ishitani, 2013; Shi et al., 2010; Ota et al., 2011; Liang et al., 2021).
+
+NLK has a dual, context-dependent role in Wnt/β-catenin signaling. It can act as a negative regulator by phosphorylating TCF/LEF to inhibit the DNA binding of the β-catenin-TCF complex, or as a positive regulator in other cellular contexts (Daams & Massoumi, 2020; Ishitani & Ishitani, 2013; Ishitani et al., 2003). NLK also modulates the Notch, TGF-β, Activin, IL-6, and NF-κB signaling pathways (Daams & Massoumi, 2020; Ishitani & Ishitani, 2013; Liang et al., 2021). Through these functions, NLK is involved in biological processes such as organ development (lung, heart, skeleton), immune cell differentiation, antiviral responses, neurogenesis, osteogenesis, adipogenesis, and oocyte maturation (Daams & Massoumi, 2020; Ishitani & Ishitani, 2013; Ota et al., 2011).
+
+---
+## Inhibitors
+The kinase activity and endogenous activation of NLK are suppressed by lithium chloride (LiCl) (Ishitani & Ishitani, 2013).
+
+---
+## Other Comments
+NLK is implicated in human diseases, including a potential neuroprotective role in neurodegenerative disorders such as spinal bulbar muscular atrophy (SBMA) and Huntington’s disease (HD) (Daams & Massoumi, 2020). In cancer, NLK has a context-dependent function, acting as a tumor suppressor in some malignancies (e.g., prostate cancer, glioma) while promoting growth in others (e.g., hepatocellular carcinoma) (Ishitani & Ishitani, 2013). Its expression is frequently dysregulated in cancers of the gallbladder, colorectum, prostate, ovary, breast, and lung (Huang et al., 2015).

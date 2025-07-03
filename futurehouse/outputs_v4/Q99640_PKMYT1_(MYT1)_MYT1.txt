@@ -1,0 +1,101 @@
+## Phylogeny  
+• Member of the WEE kinase family within the atypical CMGC branch; closest paralogues are WEE1 and WEE2 (schmidt2017regulationofg2m pages 5-9).  
+• Verified metazoan orthologs include Xenopus laevis Myt1 controlling oocyte G2 arrest (ruiz2010atwostepinactivation pages 1-2) and Drosophila melanogaster Myt1 required for spermatocyte progression (varadarajan2016myt1inhibitionof pages 13-13).  
+• Additional orthologs cited in comparative analyses are Saccharomyces cerevisiae Swe1, Mus musculus Pkmyt1 and Danio rerio pkmyt1, underscoring conservation across eukaryotes (schmidt2017regulationofg2m pages 5-9).  
+• Functional redundancy with WEE1 is documented in human and fly models, indicating a shared evolutionary checkpoint role (schmidt2017regulationofg2m pages 3-5).  
+
+## Reaction Catalyzed  
+ATP + [CDK1]-Thr14 → ADP + [CDK1]-Thr14-P; a lower-efficiency parallel reaction targets Tyr15 on the same CDK1/cyclin B complex (schmidt2017regulationofg2m pages 1-3, platzer2018identificationofpkmyt1 pages 1-2).  
+
+## Cofactor Requirements  
+Catalytic activity is ATP-dependent; no divalent cation requirement beyond the canonical Mg²⁺ used by protein kinases has been explicitly reported (rohe2012invitroand pages 1-2).  
+
+## Substrate Specificity  
+• Exhibits strict preference for the full-length CDK1/cyclin B complex; a series of synthetic peptides were not phosphorylated in vitro (rohe2012invitroand pages 2-3).  
+• A fluorescence-polarization assay identified the peptide EFS247–259 as a minimal acceptor, indicating limited peptide tolerance under optimized conditions (platzer2018identificationofpkmyt1 pages 9-10).  
+• Dual-specificity phosphorylation of Thr14 and Tyr15 is observed, with kinetic preference for Thr14 (schmidt2017regulationofg2m pages 5-9).  
+• No consensus linear motif has been defined in the available literature (rohe2012invitroand pages 2-3).  
+
+## Structure  
+• Domain organisation:  
+  – N-terminal single-pass membrane anchor localises the protein to ER/Golgi membranes (schmidt2017regulationofg2m pages 3-5).  
+  – Central bilobal kinase domain (~residues 75–362) contains all catalytic elements; isolated domain is catalytically inactive without flanking regions (rohe2012invitroand pages 1-2).  
+  – C-terminal regulatory tail mediates high-affinity binding to CDK1 complexes (schmidt2017regulationofg2m pages 3-5).  
+• Nine crystal structures are available (PDB: 3P1A, 5VCV, 5VCW, 5VCX, 5VCY, 5VCZ, 5VD0, 5VD1, 5VD3) resolving apo and inhibitor-bound conformations (platzer2018identificationofpkmyt1 pages 6-9).  
+• Key catalytic and regulatory features:  
+  – Lys139–Glu157 salt bridge aligns the β3 strand with the C-helix (schmidt2017regulationofg2m pages 5-9).  
+  – Gatekeeper Thr178 opens an accessible hydrophobic back pocket absent in WEE1 (schmidt2017regulationofg2m pages 5-9).  
+  – Hinge residue Cys190 provides the principal hydrogen-bond anchor for ATP and most inhibitors (platzer2018identificationofpkmyt1 pages 6-9).  
+  – DFG motif Asp251-Phe252-Gly253 coordinates Mg²⁺/ATP and marks the activation loop (schmidt2017regulationofg2m pages 5-9).  
+  – P-loop Ser120 permits close approach of threonine substrates, rationalising dual specificity (schmidt2017regulationofg2m pages 5-9).  
+
+## Regulation  
+• Auto-inhibitory phosphorylation by active CDK1/cyclin B down-regulates PKMYT1 at mitotic entry (schmidt2017regulationofg2m pages 3-5).  
+• Polo-like kinase 1 phosphorylates PKMYT1 to accelerate G2 checkpoint recovery (schmidt2017regulationofg2m pages 3-5).  
+• MEK1-dependent phosphorylation promotes Golgi membrane fragmentation during prophase (schmidt2017regulationofg2m pages 15-17).  
+• In Xenopus oocytes, sequential phosphorylation by CDK1/XRINGO followed by p90Rsk at Thr453, Ser472, Ser475, Ser492, and Ser504 abolishes CDK1 binding and completes inactivation (ruiz2010atwostepinactivation pages 1-2).  
+• Substrate binding increases ATP affinity, indicating substrate-induced ordering of the active site (platzer2018identificationofpkmyt1 pages 9-10).  
+
+## Function  
+• Acts as the principal membrane-bound inhibitor of CDK1/cyclin B, enforcing the G2/M checkpoint (schmidt2017regulationofg2m pages 1-3).  
+• ER/Golgi localisation via its N-terminal anchor is essential for coordinating organelle fragmentation and reassembly during mitosis (schmidt2017regulationofg2m pages 3-5, zhu2017structuralbasisof pages 1-2).  
+• Over-expression in pancreatic ductal adenocarcinoma correlates with poor prognosis and represents a CRISPR-defined genetic dependency (huang2025discoveryofcmnpd31124 pages 1-2, huang2025discoveryofcmnpd31124 pages 14-14).  
+• Promotes proliferation and apoptosis resistance in gastric cancer cells (zhang2020&lt;p&gt;pkmyt1promotesgastric pages 11-11).  
+• Synthetic-lethal interaction with WEE1 loss has been demonstrated in glioblastoma stem-like cells (schmidt2017regulationofg2m pages 17-17).  
+• Upstream regulators: Plk1 and MEK1 (schmidt2017regulationofg2m pages 3-5, schmidt2017regulationofg2m pages 15-17).  
+• Primary downstream substrate: CDK1; no additional substrates are firmly validated in the cited literature (rohe2012invitroand pages 2-3).  
+
+## Inhibitors  
+• PD0166285, a pyridopyrimidine, IC₅₀ ≈ 7 nM (schmidt2017regulationofg2m pages 9-11).  
+• Dasatinib (IC₅₀ ≈ 130 nM) and Bosutinib (IC₅₀ ≈ 350 nM) bind the ATP site but lack selectivity (schmidt2017regulationofg2m pages 9-11).  
+• RP-6306, a selective, orally bioavailable inhibitor advancing through pre-clinical evaluation (huang2025discoveryofcmnpd31124 pages 14-14).  
+• CMNPD31124, a marine indole alkaloid with nanomolar affinity in PDAC models (huang2025discoveryofcmnpd31124 pages 14-14).  
+• MK-1775, a WEE1-selective diaminopyrimidine, shows moderate off-target inhibition of PKMYT1 (platzer2018identificationofpkmyt1 pages 10-11).  
+• Kinase-focused screens identified additional diaminopyrimidine, azastilbene and 4-aminoquinoline scaffolds with sub-micromolar potency (platzer2018identificationofpkmyt1 pages 6-9, najjar2019computeraideddesignsynthesis pages 1-6).  
+
+## Other Comments  
+• Cancer cells harbouring p53 defects rely on the PKMYT1-mediated G2 checkpoint, offering a therapeutic window for combination with DNA-damaging agents (schmidt2017regulationofg2m pages 9-11).  
+• PKMYT1 displays a low small-molecule hit rate (~4 %), complicating selective inhibitor discovery (schmidt2017regulationofg2m pages 9-11).  
+• Elevated expression is reported in colorectal, hepatocellular and non-small cell lung cancers, linking PKMYT1 to diverse oncogenic contexts (zhang2020&lt;p&gt;pkmyt1promotesgastric pages 8-11).
+
+References
+
+1. (huang2025discoveryofcmnpd31124 pages 14-14): Chaojie Huang, Tingfeng Wang, Rui Chen, and Yunyun Xu. Discovery of cmnpd31124 as a novel marine-derived pkmyt1 inhibitor for pancreatic ductal adenocarcinoma therapy: computational and biological insights. Frontiers in Pharmacology, Apr 2025. URL: https://doi.org/10.3389/fphar.2025.1569765, doi:10.3389/fphar.2025.1569765. This article has 1 citations and is from a peer-reviewed journal.
+
+2. (najjar2019computeraideddesignsynthesis pages 1-6): A. Najjar, Charlott Platzer, Anton Luft, C. Aßmann, Nehal H Elghazawy, F. Erdmann, W. Sippl, and Matthias Schmidt. Computer-aided design, synthesis and biological characterization of novel inhibitors for pkmyt1. European journal of medicinal chemistry, 161:479-492, Jan 2019. URL: https://doi.org/10.1016/j.ejmech.2018.10.050, doi:10.1016/j.ejmech.2018.10.050. This article has 26 citations and is from a domain leading peer-reviewed journal.
+
+3. (platzer2018identificationofpkmyt1 pages 1-2): Charlott Platzer, Abdulkarim Najjar, Alexander Rohe, Frank Erdmann, Wolfgang Sippl, and Matthias Schmidt. Identification of pkmyt1 inhibitors by screening the gsk published protein kinase inhibitor set i and ii. Bioorganic &amp; Medicinal Chemistry, 26:4014-4024, Aug 2018. URL: https://doi.org/10.1016/j.bmc.2018.06.027, doi:10.1016/j.bmc.2018.06.027. This article has 21 citations.
+
+4. (platzer2018identificationofpkmyt1 pages 10-11): Charlott Platzer, Abdulkarim Najjar, Alexander Rohe, Frank Erdmann, Wolfgang Sippl, and Matthias Schmidt. Identification of pkmyt1 inhibitors by screening the gsk published protein kinase inhibitor set i and ii. Bioorganic &amp; Medicinal Chemistry, 26:4014-4024, Aug 2018. URL: https://doi.org/10.1016/j.bmc.2018.06.027, doi:10.1016/j.bmc.2018.06.027. This article has 21 citations.
+
+5. (platzer2018identificationofpkmyt1 pages 9-10): Charlott Platzer, Abdulkarim Najjar, Alexander Rohe, Frank Erdmann, Wolfgang Sippl, and Matthias Schmidt. Identification of pkmyt1 inhibitors by screening the gsk published protein kinase inhibitor set i and ii. Bioorganic &amp; Medicinal Chemistry, 26:4014-4024, Aug 2018. URL: https://doi.org/10.1016/j.bmc.2018.06.027, doi:10.1016/j.bmc.2018.06.027. This article has 21 citations.
+
+6. (schmidt2017regulationofg2m pages 15-17): Matthias Schmidt, Alexander Rohe, Charlott Platzer, Abdulkarim Najjar, Frank Erdmann, and Wolfgang Sippl. Regulation of g2/m transition by inhibition of wee1 and pkmyt1 kinases. Molecules, 22:2045, Nov 2017. URL: https://doi.org/10.3390/molecules22122045, doi:10.3390/molecules22122045. This article has 206 citations and is from a peer-reviewed journal.
+
+7. (schmidt2017regulationofg2m pages 3-5): Matthias Schmidt, Alexander Rohe, Charlott Platzer, Abdulkarim Najjar, Frank Erdmann, and Wolfgang Sippl. Regulation of g2/m transition by inhibition of wee1 and pkmyt1 kinases. Molecules, 22:2045, Nov 2017. URL: https://doi.org/10.3390/molecules22122045, doi:10.3390/molecules22122045. This article has 206 citations and is from a peer-reviewed journal.
+
+8. (schmidt2017regulationofg2m pages 5-9): Matthias Schmidt, Alexander Rohe, Charlott Platzer, Abdulkarim Najjar, Frank Erdmann, and Wolfgang Sippl. Regulation of g2/m transition by inhibition of wee1 and pkmyt1 kinases. Molecules, 22:2045, Nov 2017. URL: https://doi.org/10.3390/molecules22122045, doi:10.3390/molecules22122045. This article has 206 citations and is from a peer-reviewed journal.
+
+9. (zhang2020&lt;p&gt;pkmyt1promotesgastric pages 11-11): Qi-Yong Zhang, Xiao-Qin Chen, Xiong-Chang Liu, and De-Ming Wu. &lt;p&gt;pkmyt1 promotes gastric cancer cell proliferation and apoptosis resistance&lt;/p&gt;. OncoTargets and Therapy, Volume 13:7747-7757, Aug 2020. URL: https://doi.org/10.2147/ott.s255746, doi:10.2147/ott.s255746. This article has 33 citations and is from a peer-reviewed journal.
+
+10. (zhang2020&lt;p&gt;pkmyt1promotesgastric pages 8-11): Qi-Yong Zhang, Xiao-Qin Chen, Xiong-Chang Liu, and De-Ming Wu. &lt;p&gt;pkmyt1 promotes gastric cancer cell proliferation and apoptosis resistance&lt;/p&gt;. OncoTargets and Therapy, Volume 13:7747-7757, Aug 2020. URL: https://doi.org/10.2147/ott.s255746, doi:10.2147/ott.s255746. This article has 33 citations and is from a peer-reviewed journal.
+
+11. (zhu2017structuralbasisof pages 1-2): Jin-Yi Zhu, Rebecca A. Cuellar, Norbert Berndt, Hee Eun Lee, Sanne H. Olesen, Mathew P. Martin, Jeffrey T. Jensen, Gunda I. Georg, and Ernst Schönbrunn. Structural basis of wee kinases functionality and inactivation by diverse small molecule inhibitors. Journal of Medicinal Chemistry, 60:7863-7875, Sep 2017. URL: https://doi.org/10.1021/acs.jmedchem.7b00996, doi:10.1021/acs.jmedchem.7b00996. This article has 95 citations and is from a highest quality peer-reviewed journal.
+
+12. (huang2025discoveryofcmnpd31124 pages 1-2): Chaojie Huang, Tingfeng Wang, Rui Chen, and Yunyun Xu. Discovery of cmnpd31124 as a novel marine-derived pkmyt1 inhibitor for pancreatic ductal adenocarcinoma therapy: computational and biological insights. Frontiers in Pharmacology, Apr 2025. URL: https://doi.org/10.3389/fphar.2025.1569765, doi:10.3389/fphar.2025.1569765. This article has 1 citations and is from a peer-reviewed journal.
+
+13. (rohe2012invitroand pages 1-2): Alexander Rohe, Frank Erdmann, Claudia Bäßler, Kanin Wichapong, Wolfgang Sippl, and Matthias Schmidt. In vitro and in silico studies on substrate recognition and acceptance of human pkmyt1, a cdk1 inhibitory kinase. Bioorganic & medicinal chemistry letters, 22 2:1219-23, Jan 2012. URL: https://doi.org/10.1016/j.bmcl.2011.11.064, doi:10.1016/j.bmcl.2011.11.064. This article has 25 citations.
+
+14. (rohe2012invitroand pages 2-3): Alexander Rohe, Frank Erdmann, Claudia Bäßler, Kanin Wichapong, Wolfgang Sippl, and Matthias Schmidt. In vitro and in silico studies on substrate recognition and acceptance of human pkmyt1, a cdk1 inhibitory kinase. Bioorganic & medicinal chemistry letters, 22 2:1219-23, Jan 2012. URL: https://doi.org/10.1016/j.bmcl.2011.11.064, doi:10.1016/j.bmcl.2011.11.064. This article has 25 citations.
+
+15. (ruiz2010atwostepinactivation pages 1-2): E. Josué Ruiz, M. Vilar, and A. Nebreda. A two-step inactivation mechanism of myt1 ensures cdk1/cyclin b activation and meiosis i entry. Current Biology, 20:717-723, Apr 2010. URL: https://doi.org/10.1016/j.cub.2010.02.050, doi:10.1016/j.cub.2010.02.050. This article has 56 citations and is from a highest quality peer-reviewed journal.
+
+16. (schmidt2017regulationofg2m pages 1-3): Matthias Schmidt, Alexander Rohe, Charlott Platzer, Abdulkarim Najjar, Frank Erdmann, and Wolfgang Sippl. Regulation of g2/m transition by inhibition of wee1 and pkmyt1 kinases. Molecules, 22:2045, Nov 2017. URL: https://doi.org/10.3390/molecules22122045, doi:10.3390/molecules22122045. This article has 206 citations and is from a peer-reviewed journal.
+
+17. (schmidt2017regulationofg2m pages 9-11): Matthias Schmidt, Alexander Rohe, Charlott Platzer, Abdulkarim Najjar, Frank Erdmann, and Wolfgang Sippl. Regulation of g2/m transition by inhibition of wee1 and pkmyt1 kinases. Molecules, 22:2045, Nov 2017. URL: https://doi.org/10.3390/molecules22122045, doi:10.3390/molecules22122045. This article has 206 citations and is from a peer-reviewed journal.
+
+18. (varadarajan2016myt1inhibitionof pages 13-13): Ramya Varadarajan, Joseph Ayeni, Zhigang Jin, Ellen Homola, and Shelagh D. Campbell. Myt1 inhibition of cyclin a/cdk1 is essential for fusome integrity and premeiotic centriole engagement in<i>drosophila</i>spermatocytes. Molecular Biology of the Cell, 27:2051-2063, Jul 2016. URL: https://doi.org/10.1091/mbc.e16-02-0104, doi:10.1091/mbc.e16-02-0104. This article has 31 citations and is from a domain leading peer-reviewed journal.
+
+19. (platzer2018identificationofpkmyt1 pages 6-9): Charlott Platzer, Abdulkarim Najjar, Alexander Rohe, Frank Erdmann, Wolfgang Sippl, and Matthias Schmidt. Identification of pkmyt1 inhibitors by screening the gsk published protein kinase inhibitor set i and ii. Bioorganic &amp; Medicinal Chemistry, 26:4014-4024, Aug 2018. URL: https://doi.org/10.1016/j.bmc.2018.06.027, doi:10.1016/j.bmc.2018.06.027. This article has 21 citations.
+
+20. (schmidt2017regulationofg2m pages 17-17): Matthias Schmidt, Alexander Rohe, Charlott Platzer, Abdulkarim Najjar, Frank Erdmann, and Wolfgang Sippl. Regulation of g2/m transition by inhibition of wee1 and pkmyt1 kinases. Molecules, 22:2045, Nov 2017. URL: https://doi.org/10.3390/molecules22122045, doi:10.3390/molecules22122045. This article has 206 citations and is from a peer-reviewed journal.

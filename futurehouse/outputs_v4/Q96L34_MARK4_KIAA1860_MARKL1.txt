@@ -1,0 +1,91 @@
+## Phylogeny  
+• Classified within the AMPK-related kinase (ARK) subfamily of the Ca²⁺/calmodulin-dependent protein kinase (CAMK) group, as placed in the human kinome (naz2013microtubuleaffinityregulatingkinase pages 3-4).  
+• Belongs to the MARK/PAR-1 branch; the catalytic domains of MARK1-4 share ≈90 % identity (trinczek2004mark4isa pages 1-1).  
+• Orthologs reported in Schizosaccharomyces pombe kin1, Caenorhabditis elegans PAR-1, Drosophila melanogaster PAR-1, Xenopus, Danio rerio, Mus musculus and Rattus norvegicus, demonstrating conservation from fungi to mammals (matenia2009thetauof pages 4-6, naz2013microtubuleaffinityregulatingkinase pages 8-10).  
+• Closest human paralogues: MARK1-3; more distant relatives within the ARK clade include MELK and NUAK1/2 (ahrari2020structureanddynamics pages 41-42).  
+
+## Reaction Catalyzed  
+ATP + protein Ser/Thr → ADP + protein O-phospho-Ser/Thr + H⁺ (trinczek2004mark4isa pages 1-1, sack2016crystalstructureof pages 1-2).  
+
+## Cofactor Requirements  
+• Requires Mg²⁺ for coordination of Mg-ATP in the active site (ahrari2020structureanddynamics pages 5-10).  
+
+## Substrate Specificity  
+• Recognises the canonical K-X-G-S/T motif within microtubule-binding repeats of MAPT/TAU, MAP2 and MAP4; Ser262 of TAU is a validated phosphorylation site (trinczek2004mark4isa pages 1-1, matenia2009thetauof pages 4-6).  
+• High-throughput phospho-motif profiling confirmed preference for a Lys at −3 and Gly at +1, reinforcing the KXGS consensus (ahrari2020structureanddynamics pages 41-42).  
+
+## Structure  
+• Domain organisation: N-terminal header (1–58), kinase domain (59–314), membrane-targeting loop (314–322), UBA domain (322–369), intrinsically disordered spacer (370–648) and KA1 tail (649–752) (naz2013microtubuleaffinityregulatingkinase pages 3-4).  
+• 2.8 Å crystal structure of the catalytic-UBA core (PDB 5ES1) displays a bilobal Ser/Thr kinase fold with an inhibitor occupying the ATP site and displacing the activation loop (sack2016crystalstructureof pages 1-2, sack2016crystalstructureof pages 2-3).  
+• Catalytic landmarks: Lys88 (ATP anchor), HRD motif His180-Arg181-Asp182, DFG motif Asp185-Phe186-Gly187, catalytic base Asp181, and phosphorylatable Thr214 in the activation loop; inhibitory Ser218 lies two residues C-terminal (naz2013microtubuleaffinityregulatingkinase pages 5-7).  
+• Inactive state adopts a DFG-in/αC-out conformation lacking the type-II inhibitor pocket (jenardhanan2014thestructuralanalysis pages 13-15).  
+• Regulatory spine is pre-aligned even without phosphorylation, explaining residual basal activity (ahrari2019mark4proteincan pages 9-10).  
+• UBA domain packs against the C-lobe, providing autoinhibition and structural stability (naz2013microtubuleaffinityregulatingkinase pages 5-7).  
+
+## Regulation  
+• Activation loop phosphorylation at Thr214 by the LKB1–STRADα–CAB39 complex or the Ste20-like kinase MARKK/TAO1 activates the enzyme (naz2013microtubuleaffinityregulatingkinase pages 3-4).  
+• GSK3β phosphorylates Ser218, antagonising Thr214 and rendering the kinase inactive (naz2013microtubuleaffinityregulatingkinase pages 3-4).  
+• Polyubiquitination within the spacer suppresses Thr214 phosphorylation; USP9X removes these chains to restore activity (naz2013microtubuleaffinityregulatingkinase pages 12-13).  
+• aPKC/PKCλ phosphorylates additional sites, reducing catalytic output and altering subcellular localisation (naz2013microtubuleaffinityregulatingkinase pages 12-13).  
+• Autoinhibitory contacts between the UBA domain and kinase N-lobe, plus αC-helix rotation, restrain activity until T-loop phosphorylation stabilises an active conformation (naz2013microtubuleaffinityregulatingkinase pages 5-7, ahrari2020structureanddynamics pages 5-10).  
+
+## Function  
+• Highest expression in brain and testis; ubiquitous lower-level expression in kidney, liver, lung and heart (naz2013microtubuleaffinityregulatingkinase pages 13-14).  
+• Two splice variants: MARK4L (752 aa, KA1-containing) enriched in gliomas and testis; MARK4S (688 aa, KA1-truncated) predominant in normal neurons (naz2013microtubuleaffinityregulatingkinase pages 3-4).  
+• Localises to microtubules, centrosomes, midbodies and neurite tips; kinase-active MARK4 bundles microtubules and reorganises the cytoskeleton (trinczek2004mark4isa pages 5-6).  
+• Phosphorylates MAPT/TAU, MAP2, MAP4 causing their detachment from microtubules and increased microtubule dynamics (trinczek2004mark4isa pages 1-1).  
+• Interacts with polarity regulators PAR-6A, Cdc42, ARHGEF2 and multiple 14-3-3 isoforms, linking MARK4 to cell polarity and spindle positioning pathways (naz2013microtubuleaffinityregulatingkinase pages 12-13).  
+• Upstream activation by LKB1 connects MARK4 to energy-sensing AMPK networks (ahrari2020structureanddynamics pages 41-42).  
+
+## Inhibitors  
+• Pyrazolopyrimidine scaffold in PDB 5ES1 inhibits MARK4 with sub-micromolar potency in enzymatic assays (sack2016crystalstructureof pages 1-2).  
+• ATP-competitive inhibitors BX-912 and BX-795 bind the kinase domain; fluorescence titration reports low-micromolar K_D values (naz2015designingnewkinase pages 1-2).  
+• OTSSP167 shows the strongest affinity among tested compounds with sub-micromolar K_D (naz2015designingnewkinase pages 1-2).  
+• PKR-inhibitor C16 engages the ATP pocket and crosses the blood–brain barrier; high-affinity binding demonstrated by fluorescence and docking (naz2015pkrinhibitorbindsefficiently pages 1-8).  
+• Donepezil, rivastigmine tartrate and benchmark inhibitor 5RC act as competitive inhibitors with measured IC50 values in the low-micromolar range (shamsi2020mark4inhibitedby pages 9-12).  
+• Galantamine binds the active site and suppresses kinase activity in biochemical assays (adnan2023mechanisticinsightsinto pages 10-10).  
+
+## Other Comments  
+• Neurodegeneration: Thr214-activated MARK4 phosphorylates TAU at Ser262, contributing to early events in Alzheimer’s disease (trinczek2004mark4isa pages 1-1, matenia2009thetauof pages 4-6).  
+• Oncology: MARK4L is amplified on chromosome 19q13.2 and overexpressed in glioblastoma and hepatocellular carcinoma, promoting proliferation and undifferentiated growth (mohammad2019identificationandevaluation pages 1-7, naz2013microtubuleaffinityregulatingkinase pages 3-4).  
+• Metabolic disorders: MARK4 deletion enhances insulin sensitivity and protects against diet-induced obesity via AMPK pathway modulation (mohammad2019identificationandevaluation pages 1-7).
+
+References
+
+1. (adnan2023mechanisticinsightsinto pages 10-10): Mohd Adnan, Debarati DasGupta, Saleha Anwar, Anas Shamsi, Arif Jamal Siddiqui, Mejdi Snoussi, Fevzi Bardakci, Mitesh Patel, and Md Imtaiyaz Hassan. Mechanistic insights into mark4 inhibition by galantamine toward therapeutic targeting of alzheimer’s disease. Frontiers in Pharmacology, Sep 2023. URL: https://doi.org/10.3389/fphar.2023.1276179, doi:10.3389/fphar.2023.1276179. This article has 3 citations and is from a peer-reviewed journal.
+
+2. (ahrari2020structureanddynamics pages 41-42): Sajjad Ahrari, Navid Mogharrab, and Leila Navapour. Structure and dynamics of inactive and active mark4: conformational switching through the activation process. Journal of Biomolecular Structure and Dynamics, 38:2468-2481, May 2020. URL: https://doi.org/10.1080/07391102.2019.1655479, doi:10.1080/07391102.2019.1655479. This article has 10 citations and is from a peer-reviewed journal.
+
+3. (ahrari2020structureanddynamics pages 5-10): Sajjad Ahrari, Navid Mogharrab, and Leila Navapour. Structure and dynamics of inactive and active mark4: conformational switching through the activation process. Journal of Biomolecular Structure and Dynamics, 38:2468-2481, May 2020. URL: https://doi.org/10.1080/07391102.2019.1655479, doi:10.1080/07391102.2019.1655479. This article has 10 citations and is from a peer-reviewed journal.
+
+4. (matenia2009thetauof pages 4-6): Dorthe Matenia and Eva-Maria Mandelkow. The tau of mark: a polarized view of the cytoskeleton. Trends in Biochemical Sciences, 34:332-342, Jul 2009. URL: https://doi.org/10.1016/j.tibs.2009.03.008, doi:10.1016/j.tibs.2009.03.008. This article has 252 citations and is from a domain leading peer-reviewed journal.
+
+5. (mohammad2019identificationandevaluation pages 1-7): Taj Mohammad, Faez Iqbal Khan, K. Lobb, A. Islam, F. Ahmad, and M. Hassan. Identification and evaluation of bioactive natural products as potential inhibitors of human microtubule affinity-regulating kinase 4 (mark4). Journal of Biomolecular Structure and Dynamics, 37:1813-1829, Apr 2019. URL: https://doi.org/10.1080/07391102.2018.1468282, doi:10.1080/07391102.2018.1468282. This article has 141 citations and is from a peer-reviewed journal.
+
+6. (naz2013microtubuleaffinityregulatingkinase pages 12-13): Farha Naz, Farah Anjum, Asimul Islam, Faizan Ahmad, and Md. Imtaiyaz Hassan. Microtubule affinity-regulating kinase 4: structure, function, and regulation. Cell Biochemistry and Biophysics, 67:485-499, Mar 2013. URL: https://doi.org/10.1007/s12013-013-9550-7, doi:10.1007/s12013-013-9550-7. This article has 121 citations and is from a peer-reviewed journal.
+
+7. (naz2013microtubuleaffinityregulatingkinase pages 13-14): Farha Naz, Farah Anjum, Asimul Islam, Faizan Ahmad, and Md. Imtaiyaz Hassan. Microtubule affinity-regulating kinase 4: structure, function, and regulation. Cell Biochemistry and Biophysics, 67:485-499, Mar 2013. URL: https://doi.org/10.1007/s12013-013-9550-7, doi:10.1007/s12013-013-9550-7. This article has 121 citations and is from a peer-reviewed journal.
+
+8. (naz2013microtubuleaffinityregulatingkinase pages 3-4): Farha Naz, Farah Anjum, Asimul Islam, Faizan Ahmad, and Md. Imtaiyaz Hassan. Microtubule affinity-regulating kinase 4: structure, function, and regulation. Cell Biochemistry and Biophysics, 67:485-499, Mar 2013. URL: https://doi.org/10.1007/s12013-013-9550-7, doi:10.1007/s12013-013-9550-7. This article has 121 citations and is from a peer-reviewed journal.
+
+9. (naz2013microtubuleaffinityregulatingkinase pages 8-10): Farha Naz, Farah Anjum, Asimul Islam, Faizan Ahmad, and Md. Imtaiyaz Hassan. Microtubule affinity-regulating kinase 4: structure, function, and regulation. Cell Biochemistry and Biophysics, 67:485-499, Mar 2013. URL: https://doi.org/10.1007/s12013-013-9550-7, doi:10.1007/s12013-013-9550-7. This article has 121 citations and is from a peer-reviewed journal.
+
+10. (naz2015designingnewkinase pages 1-2): Farhat Naz, Mohd. Shahbaaz, Krishna. Bisetty, A. Islam, F. Ahmad, and M. Hassan. Designing new kinase inhibitor derivatives as therapeutics against common complex diseases: structural basis of microtubule affinity-regulating kinase 4 (mark4) inhibition. Omics : a journal of integrative biology, 19 11:700-11, Nov 2015. URL: https://doi.org/10.1089/omi.2015.0111, doi:10.1089/omi.2015.0111. This article has 55 citations.
+
+11. (naz2015pkrinhibitorbindsefficiently pages 1-8): Farhat Naz, Mohd. Shahbaaz, Shama Khan, Krishna. Bisetty, A. Islam, F. Ahmad, and M. Hassan. Pkr-inhibitor binds efficiently with human microtubule affinity-regulating kinase 4. Journal of molecular graphics & modelling, 62:245-252, Nov 2015. URL: https://doi.org/10.1016/j.jmgm.2015.10.009, doi:10.1016/j.jmgm.2015.10.009. This article has 35 citations.
+
+12. (sack2016crystalstructureof pages 1-2): J. Sack, M. Gao, S. E. Kiefer, Joseph E. Myers, J. Newitt, Sophie Wu, and Chunhong Yan. Crystal structure of microtubule affinity-regulating kinase 4 catalytic domain in complex with a pyrazolopyrimidine inhibitor. Acta crystallographica. Section F, Structural biology communications, 72 Pt 2:129-34, Dec 2016. URL: https://doi.org/10.1107/s2053230x15024747, doi:10.1107/s2053230x15024747. This article has 55 citations.
+
+13. (trinczek2004mark4isa pages 1-1): Bernhard Trinczek, Miro Brajenovic, Andreas Ebneth, and Gerard Drewes. Mark4 is a novel microtubule-associated proteins/microtubule affinity-regulating kinase that binds to the cellular microtubule network and to centrosomes*. Journal of Biological Chemistry, 279:5915-5923, Feb 2004. URL: https://doi.org/10.1074/jbc.m304528200, doi:10.1074/jbc.m304528200. This article has 216 citations and is from a domain leading peer-reviewed journal.
+
+14. (ahrari2019mark4proteincan pages 9-10): S. Ahrari, F. Khosravi, Ali Osouli, A. Sakhteman, A. Nematollahi, Y. Ghasemi, and A. Savardashtaki. Mark4 protein can explore the active-like conformations in its non-phosphorylated state. Scientific Reports, Sep 2019. URL: https://doi.org/10.1038/s41598-019-49337-0, doi:10.1038/s41598-019-49337-0. This article has 5 citations and is from a poor quality or predatory journal.
+
+15. (jenardhanan2014thestructuralanalysis pages 13-15): P. Jenardhanan, Jayakanthan Mannu, and P. Mathur. The structural analysis of mark4 and the exploration of specific inhibitors for the mark family: a computational approach to obstruct the role of mark4 in prostate cancer progression. Molecular bioSystems, 10 7:1845-68, Jun 2014. URL: https://doi.org/10.1039/c3mb70591a, doi:10.1039/c3mb70591a. This article has 43 citations and is from a peer-reviewed journal.
+
+16. (naz2013microtubuleaffinityregulatingkinase pages 5-7): Farha Naz, Farah Anjum, Asimul Islam, Faizan Ahmad, and Md. Imtaiyaz Hassan. Microtubule affinity-regulating kinase 4: structure, function, and regulation. Cell Biochemistry and Biophysics, 67:485-499, Mar 2013. URL: https://doi.org/10.1007/s12013-013-9550-7, doi:10.1007/s12013-013-9550-7. This article has 121 citations and is from a peer-reviewed journal.
+
+17. (shamsi2020mark4inhibitedby pages 9-12): Anas Shamsi, Saleha Anwar, Taj Mohammad, M. Alajmi, A. Hussain, M. Rehman, G. Hasan, A. Islam, and M. Hassan. Mark4 inhibited by ache inhibitors, donepezil and rivastigmine tartrate: insights into alzheimer’s disease therapy. Biomolecules, May 2020. URL: https://doi.org/10.3390/biom10050789, doi:10.3390/biom10050789. This article has 111 citations and is from a peer-reviewed journal.
+
+18. (trinczek2004mark4isa pages 5-6): Bernhard Trinczek, Miro Brajenovic, Andreas Ebneth, and Gerard Drewes. Mark4 is a novel microtubule-associated proteins/microtubule affinity-regulating kinase that binds to the cellular microtubule network and to centrosomes*. Journal of Biological Chemistry, 279:5915-5923, Feb 2004. URL: https://doi.org/10.1074/jbc.m304528200, doi:10.1074/jbc.m304528200. This article has 216 citations and is from a domain leading peer-reviewed journal.
+
+19. (sack2016crystalstructureof pages 2-3): J. Sack, M. Gao, S. E. Kiefer, Joseph E. Myers, J. Newitt, Sophie Wu, and Chunhong Yan. Crystal structure of microtubule affinity-regulating kinase 4 catalytic domain in complex with a pyrazolopyrimidine inhibitor. Acta crystallographica. Section F, Structural biology communications, 72 Pt 2:129-34, Dec 2016. URL: https://doi.org/10.1107/s2053230x15024747, doi:10.1107/s2053230x15024747. This article has 55 citations.

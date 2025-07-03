@@ -1,0 +1,95 @@
+## Phylogeny  
+• CSNK1A1L belongs to the Casein Kinase 1 (CK1) group within the CMGC kinase superfamily defined by kinome‐wide phylogenetics (manning2002theproteinkinase pages 3-3).  
+• The CK1 branch is most closely related to the TTBK and VRK families (cheong2011caseinkinase1 pages 1-2).  
+• Experimentally validated orthologs include Mus musculus Csnk1a1, Danio rerio csnk1a1a, Drosophila melanogaster dco, and Caenorhabditis elegans kin-3 (venerando2014caseinkinasethe pages 10-11).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (cullati2024substratedisplacementof pages 15-15).  
+
+## Cofactor Requirements  
+Catalysis requires divalent Mg²⁺; all in-vitro assays include 10 mM MgCl₂ for activity (cullati2024substratedisplacementof pages 15-15).  
+
+## Substrate Specificity  
+• Highest efficiency on primed motifs pS/pT-X-X-S/T where the −3 position carries a phospho-Ser/Thr docking into a basic pocket of the kinase (cheong2011caseinkinase1 pages 2-3).  
+• An acidic cluster (Asp/Glu) from positions −3 to −1 can substitute for the priming phosphate (cheong2011caseinkinase1 pages 2-3).  
+• Large-scale motif profiling in yeast CK1 orthologs shows strong preference for acidic residues from −5 to −3 and minimal constraints at +1, confirming an acidophilic signature (mok2010decipheringproteinkinase pages 4-5).  
+• Basic residues Lys229–Lys232 within the catalytic cleft engage the upstream acidic/phospho group and are essential for high-affinity substrate binding (jiang2018caseinkinase1α pages 1-3).  
+
+## Structure  
+Domain organisation  
+– N-terminal kinase domain (Ile12–Ala282) executes catalysis (jiang2018caseinkinase1α pages 1-3).  
+– C-terminal regulatory tail (~120 aa) contains autophosphorylation sites that modulate activity (cheong2011caseinkinase1 pages 1-2).  
+
+Three-dimensional architecture  
+– The catalytic core adopts the canonical bilobal kinase fold and possesses the CK1-specific S-I-N triad in subdomain VIII (venerando2014caseinkinasethe pages 8-9).  
+– Crystal structures of family members (e.g., CK1 catalytic domain PDB 1CSN and apo CK1δ PDB 1CKJ) reveal key catalytic elements: Lys41 (VAIK motif) for ATP anchoring, Asp131 (HRD motif) as catalytic base, and Ser22 in the glycine-rich loop for nucleotide coordination (mashhoon2000crystalstructureof pages 6-7).  
+– The activation segment is constitutively in an active conformation; CK1 activity does not depend on activation-loop phosphorylation (cheong2011caseinkinase1 pages 1-2).  
+– Molecular dynamics and recent crystal complexes show two activation-loop states (“loop up” vs “loop down”) that remodel a +1 hydrophobic pocket formed by Tyr225 and Leu173, thereby tuning substrate selection (ricci2025markovianstatemodels pages 15-18).  
+– The AlphaFold model AF-Q8N752-F1 predicts a flexible, disordered C-tail tethered to the rigid kinase core, consistent with autoinhibitory behaviour (venerando2014caseinkinasethe pages 8-9).  
+
+## Regulation  
+• Multisite autophosphorylation within the C-terminal tail converts the enzyme to a low-activity state; okadaic-acid-sensitive phosphatases restore activity (cheong2011caseinkinase1 pages 1-2).  
+• cis-Autophosphorylation of Thr220 in the catalytic lobe alters substrate preference (cullati2024substratedisplacementof pages 14-15).  
+• Substrate binding displaces the phosphorylated tail, providing an allosteric re-activation mechanism (cullati2024substratedisplacementof pages 14-15).  
+• Oxidative stress triggers tail dephosphorylation of the long splice variant, promoting hnRNP-C interaction in nuclear speckles (bedri2007regulationofprotein pages 14-17).  
+• CRL4ᶜʳᵇⁿ E3 ligase recognises residues 35-41, enabling lenalidomide-dependent ubiquitination and degradation (jiang2018caseinkinase1α pages 15-17).  
+• Lys49 acetylation antagonises Ser45 phosphorylation, linking HDAC6 activity to kinase output (jiang2018caseinkinase1α pages 15-17).  
+
+## Function  
+Expression & localisation  
+– Ubiquitously expressed; the long splice variant contains an NLS and accumulates in nuclear speckles (bedri2007regulationofprotein pages 14-17).  
+
+Signalling roles  
+– WNT/β-catenin: phosphorylates β-catenin at Ser45 within the destruction complex, priming GSK3β-mediated degradation (cheong2011caseinkinase1 pages 3-5).  
+– Also associates with LRP6-containing signalosomes to modulate receptor phosphorylation (agajanian2022proteinproximitynetworks pages 1-2).  
+– Circadian clock: family members phosphorylate PER proteins, influencing period length; CK1α activity contributes to this regulation (cheong2011caseinkinase1 pages 3-5).  
+– Genome maintenance: mutation of catalytic-loop Thr220 in yeast orthologs causes hypersensitivity to replication stress, pointing to roles in DNA integrity pathways (cullati2024substratedisplacementof pages 14-15).  
+– Interacts with PRMT1 to support stem-cell pluripotency and with the RNA helicase DDX3 to amplify WNT signals (jiang2018caseinkinase1α pages 15-17).  
+
+## Inhibitors  
+• IC261 – ATP-competitive inhibitor stabilising an intermediate conformation of the kinase (mashhoon2000crystalstructureof pages 3-3).  
+• D4476 – sub-micromolar ATP-competitive inhibitor (jiang2018caseinkinase1α pages 15-17).  
+• CKI-7 – low-potency ATP-competitive inhibitor (jiang2018caseinkinase1α pages 15-17).  
+• TG003 and longdaysin – dual CLK/CK1 inhibitors that reduce CK1 activity in cells (jiang2018caseinkinase1α pages 15-17).  
+• Pyrvinium pamoate and analogues SSTC-104/SSTC-3 – allosteric activators that enhance CK1α activity in the β-catenin destruction complex (cheong2011caseinkinase1 pages 3-5).  
+
+## Other Comments  
+• Loss of CK1α activity stabilises β-catenin and is implicated in colorectal cancer, ABC-DLBCL, and del(5q) myelodysplastic syndrome (jiang2018caseinkinase1α pages 15-17).  
+• Hyperactivity of CK1 family isoforms contributes to tau hyperphosphorylation in neurodegenerative disorders (schittek2014biologicalfunctionsof pages 1-2).  
+• The vertebrate-specific 28-aa “L-insert” within the long splice variant mediates oxidative-stress-responsive nuclear localisation (bedri2007regulationofprotein pages 14-17).
+
+References
+
+1. (cheong2011caseinkinase1 pages 1-2): Jit Kong Cheong and David M. Virshup. Casein kinase 1: complexity in the family. The International Journal of Biochemistry &amp; Cell Biology, 43:465-469, Apr 2011. URL: https://doi.org/10.1016/j.biocel.2010.12.004, doi:10.1016/j.biocel.2010.12.004. This article has 300 citations.
+
+2. (cheong2011caseinkinase1 pages 3-5): Jit Kong Cheong and David M. Virshup. Casein kinase 1: complexity in the family. The International Journal of Biochemistry &amp; Cell Biology, 43:465-469, Apr 2011. URL: https://doi.org/10.1016/j.biocel.2010.12.004, doi:10.1016/j.biocel.2010.12.004. This article has 300 citations.
+
+3. (cullati2024substratedisplacementof pages 15-15): Sierra N. Cullati, Kazutoshi Akizuki, Jun-Song Chen, Jared L. Johnson, Tomer M. Yaron-Barir, Lewis C. Cantley, and Kathleen L. Gould. Substrate displacement of ck1 c-termini regulates kinase specificity. Science Advances, May 2024. URL: https://doi.org/10.1126/sciadv.adj5185, doi:10.1126/sciadv.adj5185. This article has 6 citations and is from a highest quality peer-reviewed journal.
+
+4. (jiang2018caseinkinase1α pages 15-17): Shaojie Jiang, Miaofeng Zhang, Jihong Sun, and Xiaoming Yang. Casein kinase 1α: biological mechanisms and theranostic potential. Cell Communication and Signaling, May 2018. URL: https://doi.org/10.1186/s12964-018-0236-z, doi:10.1186/s12964-018-0236-z. This article has 121 citations and is from a peer-reviewed journal.
+
+5. (venerando2014caseinkinasethe pages 8-9): Andrea Venerando, Maria Ruzzene, and Lorenzo A. Pinna. Casein kinase: the triple meaning of a misnomer. The Biochemical journal, 460 2:141-56, Jun 2014. URL: https://doi.org/10.1042/bj20140178, doi:10.1042/bj20140178. This article has 152 citations.
+
+6. (agajanian2022proteinproximitynetworks pages 1-2): Megan J. Agajanian, Frances M. Potjewyd, Brittany M. Bowman, Smaranda Solomon, Kyle M. LaPak, Dhaval P. Bhatt, Jeffery L. Smith, Dennis Goldfarb, Alison D. Axtman, and Michael B. Major. Protein proximity networks and functional evaluation of the casein kinase 1 gamma family reveal unique roles for ck1γ3 in wnt signaling. Journal of Biological Chemistry, 298:101986, Jun 2022. URL: https://doi.org/10.1016/j.jbc.2022.101986, doi:10.1016/j.jbc.2022.101986. This article has 8 citations and is from a domain leading peer-reviewed journal.
+
+7. (bedri2007regulationofprotein pages 14-17): Shahinaz Bedri, Stephanie M. Cizek, Iryna Rastarhuyeva, and James R. Stone. Regulation of protein kinase ck1αls by dephosphorylation in response to hydrogen peroxide. Archives of Biochemistry and Biophysics, 466:242-249, Oct 2007. URL: https://doi.org/10.1016/j.abb.2007.06.010, doi:10.1016/j.abb.2007.06.010. This article has 18 citations and is from a peer-reviewed journal.
+
+8. (cheong2011caseinkinase1 pages 2-3): Jit Kong Cheong and David M. Virshup. Casein kinase 1: complexity in the family. The International Journal of Biochemistry &amp; Cell Biology, 43:465-469, Apr 2011. URL: https://doi.org/10.1016/j.biocel.2010.12.004, doi:10.1016/j.biocel.2010.12.004. This article has 300 citations.
+
+9. (cullati2024substratedisplacementof pages 14-15): Sierra N. Cullati, Kazutoshi Akizuki, Jun-Song Chen, Jared L. Johnson, Tomer M. Yaron-Barir, Lewis C. Cantley, and Kathleen L. Gould. Substrate displacement of ck1 c-termini regulates kinase specificity. Science Advances, May 2024. URL: https://doi.org/10.1126/sciadv.adj5185, doi:10.1126/sciadv.adj5185. This article has 6 citations and is from a highest quality peer-reviewed journal.
+
+10. (jiang2018caseinkinase1α pages 1-3): Shaojie Jiang, Miaofeng Zhang, Jihong Sun, and Xiaoming Yang. Casein kinase 1α: biological mechanisms and theranostic potential. Cell Communication and Signaling, May 2018. URL: https://doi.org/10.1186/s12964-018-0236-z, doi:10.1186/s12964-018-0236-z. This article has 121 citations and is from a peer-reviewed journal.
+
+11. (manning2002theproteinkinase pages 3-3): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+12. (mok2010decipheringproteinkinase pages 4-5): Janine Mok, Philip M. Kim, Hugo Y. K. Lam, Stacy Piccirillo, Xiuqiong Zhou, Grace R. Jeschke, Douglas L. Sheridan, Sirlester A. Parker, Ved Desai, Miri Jwa, Elisabetta Cameroni, Hengyao Niu, Matthew Good, Attila Remenyi, Jia-Lin Nianhan Ma, Yi-Jun Sheu, Holly E. Sassi, Richelle Sopko, Clarence S. M. Chan, Claudio De Virgilio, Nancy M. Hollingsworth, Wendell A. Lim, David F. Stern, Bruce Stillman, Brenda J. Andrews, Mark B. Gerstein, Michael Snyder, and Benjamin E. Turk. Deciphering protein kinase specificity through large-scale analysis of yeast phosphorylation site motifs. Science Signaling, 3:ra12-ra12, Feb 2010. URL: https://doi.org/10.1126/scisignal.2000482, doi:10.1126/scisignal.2000482. This article has 421 citations and is from a domain leading peer-reviewed journal.
+
+13. (ricci2025markovianstatemodels pages 15-18): Clarisse Gravina Ricci, Jonathan M. Philpott, Megan R. Torgrimson, Alfred M. Freeberg, Rajesh Narasimamurthy, Emilia Pécora de Barros, Rommie Amaro, David M. Virshup, J. Andrew McCammon, and Carrie L. Partch. Markovian state models uncover casein kinase 1 dynamics that govern circadian period. BioRxiv, Jan 2025. URL: https://doi.org/10.1101/2025.01.17.633651, doi:10.1101/2025.01.17.633651. This article has 0 citations.
+
+14. (schittek2014biologicalfunctionsof pages 1-2): Birgit Schittek and Tobias Sinnberg. Biological functions of casein kinase 1 isoforms and putative roles in tumorigenesis. Molecular Cancer, Oct 2014. URL: https://doi.org/10.1186/1476-4598-13-231, doi:10.1186/1476-4598-13-231. This article has 294 citations and is from a highest quality peer-reviewed journal.
+
+15. (venerando2014caseinkinasethe pages 10-11): Andrea Venerando, Maria Ruzzene, and Lorenzo A. Pinna. Casein kinase: the triple meaning of a misnomer. The Biochemical journal, 460 2:141-56, Jun 2014. URL: https://doi.org/10.1042/bj20140178, doi:10.1042/bj20140178. This article has 152 citations.
+
+16. (mashhoon2000crystalstructureof pages 3-3): Neda Mashhoon, Anthony J. DeMaggio, Valentina Tereshko, Stephen C. Bergmeier, Martin Egli, Merl F. Hoekstra, and Jeff Kuret. Crystal structure of a conformation-selective casein kinase-1 inhibitor*. The Journal of Biological Chemistry, 275:20052-20060, Jun 2000. URL: https://doi.org/10.1074/jbc.m001713200, doi:10.1074/jbc.m001713200. This article has 188 citations.
+
+17. (mashhoon2000crystalstructureof pages 6-7): Neda Mashhoon, Anthony J. DeMaggio, Valentina Tereshko, Stephen C. Bergmeier, Martin Egli, Merl F. Hoekstra, and Jeff Kuret. Crystal structure of a conformation-selective casein kinase-1 inhibitor*. The Journal of Biological Chemistry, 275:20052-20060, Jun 2000. URL: https://doi.org/10.1074/jbc.m001713200, doi:10.1074/jbc.m001713200. This article has 188 citations.

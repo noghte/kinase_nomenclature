@@ -1,0 +1,94 @@
+## Phylogeny
+Cyclin-dependent kinase 6 (CDK6) is a serine/threonine kinase classified within the CDK family and the CMGC group (containing CDKs, MAPKs, GSKs, and CLKs), based on kinome analyses by Manning et al. (choi2014signalingthroughcyclin pages 3-3, fassl2022cdk4andcdk6 pages 1-3, nebenfuehr2020theroleof pages 1-3, tadesse2015targetingcdk6in pages 1-6). It is part of the CDK4 subfamily (malumbres2014cyclindependentkinases pages 5-6). CDK6 is evolutionarily conserved, with orthologs present in many eukaryotes, including vertebrates and other metazoans (choi2014signalingthroughcyclin pages 4-4, fassl2022cdk4andcdk6 pages 1-3). It shares significant homology with CDK4 (71% amino acid identity) and also has sequence conservation with CDK2 (grossel2006beyondthecell pages 1-2, tadesse2015targetingcdk6in pages 38-41).
+
+
+
+## Reaction Catalyzed
+CDK6 catalyzes the phosphotransferase reaction of transferring a phosphate group from an ATP molecule to a protein substrate (nebenfuehr2020theroleof pages 14-18). The phosphorylation occurs on serine or threonine residues within the target protein (choi2014signalingthroughcyclin pages 3-3, fassl2022cdk4andcdk6 pages 1-3).
+
+ATP + a protein → ADP + a phosphoprotein (choi2014signalingthroughcyclin pages 3-3, nebenfuehr2020theroleof pages 14-18).
+
+
+
+## Cofactor Requirements
+The catalytic activity of CDK6 is dependent on divalent cations as cofactors (choi2014signalingthroughcyclin pages 3-3, tadesse2015targetingcdk6in pages 9-13). The kinase typically requires magnesium ions (Mg2+), though manganese ions (Mn2+) can also serve this function (choi2014signalingthroughcyclin pages 4-4, fassl2022cdk4andcdk6 pages 1-3, nebenfuehr2020theroleof pages 1-3). These cations are essential for coordinating the ATP molecule within the catalytic site (tadesse2015targetingcdk6in pages 9-13, tadesse2015targetingcdk6in pages 38-41).
+
+
+
+## Substrate Specificity
+CDK6 is a proline-directed kinase that phosphorylates serine/threonine residues within a specific consensus motif (fassl2022cdk4andcdk6 pages 1-3, johnson2023anatlasof pages 2-3). The optimal phosphorylation motif is characterized by a strong preference for a proline (P) residue at the +1 position, immediately following the phospho-acceptor site (S/T) (johnson2023anatlasof pages 2-3, johnson2023anatlasof pages 4-4). The motif also shows a preference for glycine (G) or alanine (A) residues at upstream positions -5 to -3 (johnson2023anatlasof pages 2-3). While the proline at +1 is the critical determinant, preferences for positively charged or polar residues have also been noted at other flanking positions (johnson2023anatlasof pages 4-4).
+
+
+
+## Structure
+CDK6 has a conserved bilobal kinase fold, consisting of a smaller N-terminal lobe and a larger C-terminal lobe, with the ATP-binding site located at their interface (choi2014signalingthroughcyclin pages 3-3, tadesse2015targetingcdk6in pages 9-13). The N-terminal lobe (residues 1-100) is composed of five antiparallel β-strands, a glycine-rich loop (G-loop), and the regulatory αC-helix, which contains the PLSTIRE motif (malumbres2014cyclindependentkinases pages 5-6, tadesse2015targetingcdk6in pages 9-13). The predominantly α-helical C-terminal lobe (residues 101-326) contains the activation loop, or T-loop, which spans residues 163-189 and includes the key phosphorylation site Thr177 (tadesse2015targetingcdk6in pages 9-13). In the inactive, monomeric state, the T-loop occludes the active site, and key catalytic residues (Lys43, Glu61, and Asp163) are misaligned (tadesse2015targetingcdk6in pages 9-13). Crystal structures, such as PDB ID 2EUF, illustrate the binding modes of inhibitors and the conformational states of the kinase (nebenfuehr2020theroleof pages 1-3, tadesse2015targetingcdk6in pages 38-41).
+
+
+
+## Regulation
+The activity of CDK6 is tightly regulated through multiple mechanisms, including binding to regulatory proteins and post-translational modifications (choi2014signalingthroughcyclin pages 3-3, tadesse2015targetingcdk6in pages 13-16).
+
+Positive regulation requires the binding of a D-type cyclin (D1, D2, or D3), which induces a conformational change in the αC-helix, and subsequent phosphorylation of Thr177 within the T-loop by the CDK-activating kinase (CAK; CDK7/cyclin H/MAT1 complex) (choi2014signalingthroughcyclin pages 3-3, tadesse2015targetingcdk6in pages 13-16). This phosphorylation stabilizes the active conformation of the kinase (tadesse2015targetingcdk6in pages 13-16).
+
+Negative regulation is primarily mediated by two families of CDK inhibitors. The INK4 family (p15, p16, p18, p19) binds to the monomeric form of CDK6, inducing an allosteric conformational change that distorts the ATP-binding site and prevents cyclin association (choi2014signalingthroughcyclin pages 3-3, nebenfuehr2020theroleof pages 3-5). The Cip/Kip family (p21, p27, p57) binds to the assembled CDK6-cyclin D complex, inhibiting its activity by blocking substrate access to the active site (choi2014signalingthroughcyclin pages 3-3, malumbres2014cyclindependentkinases pages 5-6). Cip/Kip proteins can switch to an activating role upon phosphorylation of their tyrosine residues, which facilitates CDK6 complex assembly (choi2014signalingthroughcyclin pages 3-3).
+
+Additionally, Wee1/Myt1 kinases can phosphorylate CDK6 at Tyr24, which negatively regulates its activity by interfering with ATP binding; this is reversible by Cdc25 phosphatases (tadesse2015targetingcdk6in pages 13-16). Regulation by ubiquitination is not detailed in the provided context (tadesse2015targetingcdk6in pages 9-13).
+
+
+
+## Function
+CDK6 is a key regulator of the G1 to S phase transition in the cell cycle (choi2014signalingthroughcyclin pages 3-3). It forms active complexes with D-type cyclins to phosphorylate and inactivate members of the retinoblastoma protein family (pRB/RB1, p107, p130) (choi2014signalingthroughcyclin pages 3-3, tadesse2015targetingcdk6in pages 1-6). This phosphorylation releases E2F transcription factors, which in turn activate the expression of genes required for DNA replication and S-phase entry (fassl2022cdk4andcdk6 pages 1-3, tadesse2015targetingcdk6in pages 35-38). Other substrates of CDK6 include FOXM1, SMAD2/3, and WDR77 (choi2014signalingthroughcyclin pages 3-3).
+
+CDK6 is expressed in proliferating cells and tissues, with notable expression in hematopoietic tissues, thymocytes, breast tissue, and melanoma (choi2014signalingthroughcyclin pages 3-3, nebenfuehr2020theroleof pages 1-3, nebenfuehr2020theroleof pages 10-12). In addition to its canonical cell cycle role, CDK6 is involved in cellular differentiation, neurogenesis, and is essential for the proliferation of hematopoietic stem cells (choi2014signalingthroughcyclin pages 3-3, fassl2022cdk4andcdk6 pages 1-3, nebenfuehr2020theroleof pages 3-5). CDK6 also has kinase-independent functions, acting as a transcriptional regulator of genes involved in angiogenesis and NF-κB signaling (malumbres2014cyclindependentkinases pages 8-9, nebenfuehr2020theroleof pages 14-18).
+
+
+
+## Inhibitors
+The kinase activity of CDK6 is targeted by several experimentally validated small molecule inhibitors (choi2014signalingthroughcyclin pages 3-3). ATP-competitive inhibitors that dually target CDK4 and CDK6 include Palbociclib, Ribociclib, and Abemaciclib (lu2005crystalstructureof pages 2-2, tadesse2015targetingcdk6in pages 13-16). These inhibitors are used clinically to block Rb phosphorylation and induce G1 cell cycle arrest (tadesse2015targetingcdk6in pages 13-16). The flavonol fisetin has also been identified as a CDK6 inhibitor in complex with the kinase (lu2005crystalstructureof pages 2-2).
+
+
+
+## Other Comments
+Aberrant CDK6 function, typically through gene amplification or overexpression, is implicated in a variety of human cancers, including hormone receptor-positive breast cancer, lymphomas, gliomas, and leukemias (fassl2022cdk4andcdk6 pages 1-3, tadesse2015targetingcdk6in pages 6-9). While overexpression is common in malignancies, no specific, recurring disease-associated point mutations in the human *CDK6* gene have been documented (nebenfuehr2020theroleof pages 5-6). However, mouse models have been used to characterize the functional impact of specific mutations. A kinase-dead allele, Cdk6(K43M), results in reduced proliferation, while a hyperactive knock-in mutation, Cdk6(R31C), is resistant to INK4 inhibition and leads to elevated progenitor cells (nebenfuehr2020theroleof pages 5-6). Sporadic cases of chromosomal translocations involving the *CDK6* gene have also been identified in human cancers (nebenfuehr2020theroleof pages 5-6).
+
+References
+
+1. (choi2014signalingthroughcyclin pages 3-3): Yj Choi and L. Anders. Signaling through cyclin d-dependent kinases. Oncogene, 33:1890-1903, Apr 2014. URL: https://doi.org/10.1038/onc.2013.137, doi:10.1038/onc.2013.137. This article has 347 citations and is from a domain leading peer-reviewed journal.
+
+2. (choi2014signalingthroughcyclin pages 4-4): Yj Choi and L. Anders. Signaling through cyclin d-dependent kinases. Oncogene, 33:1890-1903, Apr 2014. URL: https://doi.org/10.1038/onc.2013.137, doi:10.1038/onc.2013.137. This article has 347 citations and is from a domain leading peer-reviewed journal.
+
+3. (fassl2022cdk4andcdk6 pages 1-3): Anne Fassl, Yan Geng, and Piotr Sicinski. Cdk4 and cdk6 kinases: from basic science to cancer therapy. Science, Jan 2022. URL: https://doi.org/10.1126/science.abc1495, doi:10.1126/science.abc1495. This article has 336 citations and is from a highest quality peer-reviewed journal.
+
+4. (johnson2023anatlasof pages 2-3): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+5. (lu2005crystalstructureof pages 2-2): Heshu Lu, Debbie J. Chang, Blandine Baratte, Laurent Meijer, and Ursula Schulze-Gahmen. Crystal structure of a human cyclin-dependent kinase 6 complex with a flavonol inhibitor, fisetin. Journal of Medicinal Chemistry, 48:737-743, Jan 2005. URL: https://doi.org/10.1021/jm049353p, doi:10.1021/jm049353p. This article has 168 citations and is from a highest quality peer-reviewed journal.
+
+6. (malumbres2014cyclindependentkinases pages 8-9): Marcos Malumbres. Cyclin-dependent kinases. Genome Biology, 15:122-122, Jun 2014. URL: https://doi.org/10.1186/gb4184, doi:10.1186/gb4184. This article has 1898 citations and is from a highest quality peer-reviewed journal.
+
+7. (nebenfuehr2020theroleof pages 1-3): Sofie Nebenfuehr, Karoline Kollmann, and Veronika Sexl. The role of <scp>cdk6</scp> in cancer. International Journal of Cancer, 147:2988-2995, May 2020. URL: https://doi.org/10.1002/ijc.33054, doi:10.1002/ijc.33054. This article has 161 citations and is from a domain leading peer-reviewed journal.
+
+8. (nebenfuehr2020theroleof pages 14-18): Sofie Nebenfuehr, Karoline Kollmann, and Veronika Sexl. The role of <scp>cdk6</scp> in cancer. International Journal of Cancer, 147:2988-2995, May 2020. URL: https://doi.org/10.1002/ijc.33054, doi:10.1002/ijc.33054. This article has 161 citations and is from a domain leading peer-reviewed journal.
+
+9. (nebenfuehr2020theroleof pages 3-5): Sofie Nebenfuehr, Karoline Kollmann, and Veronika Sexl. The role of <scp>cdk6</scp> in cancer. International Journal of Cancer, 147:2988-2995, May 2020. URL: https://doi.org/10.1002/ijc.33054, doi:10.1002/ijc.33054. This article has 161 citations and is from a domain leading peer-reviewed journal.
+
+10. (tadesse2015targetingcdk6in pages 1-6): S. Tadesse, Mingfeng Yu, Malika Kumarasiri, B. T. Le, and Shudong Wang. Targeting cdk6 in cancer: state of the art and new insights. Cell Cycle, 14:3220-3230, Aug 2015. URL: https://doi.org/10.1080/15384101.2015.1084445, doi:10.1080/15384101.2015.1084445. This article has 177 citations and is from a peer-reviewed journal.
+
+11. (tadesse2015targetingcdk6in pages 13-16): S. Tadesse, Mingfeng Yu, Malika Kumarasiri, B. T. Le, and Shudong Wang. Targeting cdk6 in cancer: state of the art and new insights. Cell Cycle, 14:3220-3230, Aug 2015. URL: https://doi.org/10.1080/15384101.2015.1084445, doi:10.1080/15384101.2015.1084445. This article has 177 citations and is from a peer-reviewed journal.
+
+12. (tadesse2015targetingcdk6in pages 35-38): S. Tadesse, Mingfeng Yu, Malika Kumarasiri, B. T. Le, and Shudong Wang. Targeting cdk6 in cancer: state of the art and new insights. Cell Cycle, 14:3220-3230, Aug 2015. URL: https://doi.org/10.1080/15384101.2015.1084445, doi:10.1080/15384101.2015.1084445. This article has 177 citations and is from a peer-reviewed journal.
+
+13. (tadesse2015targetingcdk6in pages 38-41): S. Tadesse, Mingfeng Yu, Malika Kumarasiri, B. T. Le, and Shudong Wang. Targeting cdk6 in cancer: state of the art and new insights. Cell Cycle, 14:3220-3230, Aug 2015. URL: https://doi.org/10.1080/15384101.2015.1084445, doi:10.1080/15384101.2015.1084445. This article has 177 citations and is from a peer-reviewed journal.
+
+14. (tadesse2015targetingcdk6in pages 9-13): S. Tadesse, Mingfeng Yu, Malika Kumarasiri, B. T. Le, and Shudong Wang. Targeting cdk6 in cancer: state of the art and new insights. Cell Cycle, 14:3220-3230, Aug 2015. URL: https://doi.org/10.1080/15384101.2015.1084445, doi:10.1080/15384101.2015.1084445. This article has 177 citations and is from a peer-reviewed journal.
+
+15. (grossel2006beyondthecell pages 1-2): M. Grossel and P. Hinds. Beyond the cell cycle: a new role for cdk6 in differentiation. Journal of Cellular Biochemistry, Feb 2006. URL: https://doi.org/10.1002/jcb.20712, doi:10.1002/jcb.20712. This article has 94 citations and is from a peer-reviewed journal.
+
+16. (johnson2023anatlasof pages 4-4): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+17. (malumbres2014cyclindependentkinases pages 5-6): Marcos Malumbres. Cyclin-dependent kinases. Genome Biology, 15:122-122, Jun 2014. URL: https://doi.org/10.1186/gb4184, doi:10.1186/gb4184. This article has 1898 citations and is from a highest quality peer-reviewed journal.
+
+18. (nebenfuehr2020theroleof pages 10-12): Sofie Nebenfuehr, Karoline Kollmann, and Veronika Sexl. The role of <scp>cdk6</scp> in cancer. International Journal of Cancer, 147:2988-2995, May 2020. URL: https://doi.org/10.1002/ijc.33054, doi:10.1002/ijc.33054. This article has 161 citations and is from a domain leading peer-reviewed journal.
+
+19. (nebenfuehr2020theroleof pages 5-6): Sofie Nebenfuehr, Karoline Kollmann, and Veronika Sexl. The role of <scp>cdk6</scp> in cancer. International Journal of Cancer, 147:2988-2995, May 2020. URL: https://doi.org/10.1002/ijc.33054, doi:10.1002/ijc.33054. This article has 161 citations and is from a domain leading peer-reviewed journal.
+
+20. (tadesse2015targetingcdk6in pages 6-9): S. Tadesse, Mingfeng Yu, Malika Kumarasiri, B. T. Le, and Shudong Wang. Targeting cdk6 in cancer: state of the art and new insights. Cell Cycle, 14:3220-3230, Aug 2015. URL: https://doi.org/10.1080/15384101.2015.1084445, doi:10.1080/15384101.2015.1084445. This article has 177 citations and is from a peer-reviewed journal.

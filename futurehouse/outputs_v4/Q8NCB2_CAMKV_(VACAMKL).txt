@@ -1,0 +1,124 @@
+## Phylogeny
+CAMKV (Q8NCB2) is classified within the CAMK (Calcium/Calmodulin-dependent protein kinase) group of the human serine/threonine kinome (manning2002theproteinkinase pages 7-8, johnson2023anatlasof pages 4-4, simon2015molecularmechanismsof pages 8-10). The Manning et al. classification system, which organizes the human kinome into groups and families, identifies CAMK as one of the major kinase groups (manning2002theproteinkinase pages 1-2). Kinome-wide analysis based on phosphorylation-site motif selectivity further places CAMKV within the CAMK cluster (johnson2023anatlasof pages 4-5). Within this group, CAMKV is considered an atypical member, showing evolutionary divergence from canonical CAMK1 and CAMK2 family members (yu2024camkvkinasesignaling pages 38-40). Sequence alignment of the calmodulin binding domain (CBD) reveals conserved lysine and arginine residues among CAMK family members, indicating evolutionary conservation of this functional domain (yu2024camkvkinasesignaling pages 63-66). The phylogenetic classification scheme allows for the identification of orthologous groups across species including yeast, worm, fly, and human (manning2002theproteinkinase pages 1-2).
+
+
+
+## Reaction Catalyzed
+There are conflicting reports regarding the catalytic activity of CAMKV.
+
+One body of research indicates that CAMKV is a catalytically active kinase. In this context, it has been demonstrated to catalyze the phosphorylation of specific protein substrates (yu2024camkvkinasesignaling pages 16-19, 25-27). The reaction is:
+ATP + [a protein] -> ADP + [a phosphoprotein] (yu2024camkvkinasesignaling pages 16-19).
+
+Conversely, other studies report that CAMKV lacks detectable intrinsic kinase activity and functions as a pseudokinase or kinase-dead protein (rozen2024anoveldruggable pages 8-9, yu2024camkvkinasesignaling pages 82-85). This inactivity is attributed to mutations or deviations in critical catalytic residues and non-canonical conformations of structural elements required for catalysis (rozen2024anoveldruggable pages 8-9, yu2024camkvkinasesignaling pages 13-16). It was noted that recombinant CAMKV purified from bacteria lacks kinase activity, potentially due to the absence of post-translational modifications that are present in eukaryotic systems and essential for enzymatic function (yu2024camkvkinasesignaling pages 25-27).
+
+
+
+## Cofactor Requirements
+The initial activation of CAMKV kinase activity is dependent on its calmodulin-binding domain, but calmodulin is not required to maintain its kinase activity once initiated (yu2024camkvkinasesignaling pages 16-19, 25-27). Reports suggesting CAMKV is a pseudokinase note that its DFG motif, which is essential for coordinating Mg²⁺ ions in active kinases, is altered, impairing this function (yu2024camkvkinasesignaling pages 13-16, 82-85).
+
+
+
+## Substrate Specificity
+Hierarchical clustering based on amino acid motif selectivity places CAMKV within the CAMK kinome group, and kinases within the same group often share substrate motif preferences (johnson2023anatlasof pages 4-5). However, a specific consensus substrate motif for CAMKV is not defined in the provided literature.
+
+Experimentally identified substrates and phosphorylation sites include:
+- The transcription factor CREB at Ser133 (yu2024camkvkinasesignaling pages 16-19, 25-27).
+- The transcription factor GATA2 at Ser182 and Ser192 (yu2024camkvkinasesignaling pages 19-22, 25-27).
+
+Phosphoproteomic analyses also indicate CAMKV influences the phosphorylation of other kinases, including STK10 and RIOK1 (yu2024camkvkinasesignaling pages 25-27).
+
+
+
+## Structure
+CAMKV is composed of an N-terminal serine/threonine kinase-like domain and a C-terminal regulatory region (rozen2024anoveldruggable pages 8-9, yu2024camkvkinasesignaling pages 13-16). The C-terminal region is intrinsically disordered for approximately 200 amino acids and contains a calmodulin-binding domain (CBD) and a C-terminal repeat domain (CTD) (rozen2024anoveldruggable pages 8-9, yu2024camkvkinasesignaling pages 16-19). This CTD contains seven tandem octapeptide repeats with the motif D-X-X-X-T-P-A-T (rozen2024anoveldruggable pages 8-9). These repeats are critical for protein stability, as their deletion results in protein instability (rozen2023anoveldruggable pages 3-4, rozen2024anoveldruggable pages 9-11).
+
+Structural predictions using AlphaFold 2 confirm a typical kinase fold for the N-terminal domain, despite conflicting reports on its catalytic competence (yu2024camkvkinasesignaling pages 82-85, rozen2024anoveldruggable pages 8-9).
+
+Contradictory information exists regarding key catalytic features:
+- Reports describing CAMKV as inactive or a pseudokinase cite structural defects, including mutations in the DFG motif, an improperly positioned C-helix, and an activation loop locked in an inactive conformation (rozen2024anoveldruggable pages 8-9, yu2024camkvkinasesignaling pages 13-16, 82-85).
+- Reports describing CAMKV as an active kinase identify Lysine 53 (K53) as a residue essential for ATP binding and Threonine 183 (T183) as a critical phosphorylation site for kinase activation (yu2024camkvkinasesignaling pages 16-19). One study notes the catalytic lysine (Lys53) is present but the DFG motif is altered (yu2024camkvkinasesignaling pages 82-85).
+
+
+
+## Regulation
+CAMKV is regulated by post-translational modifications, allosteric interactions, and protein stability elements.
+
+**Phosphorylation:**
+- CAMKV is a direct substrate of DYRK3, which phosphorylates it within its C-terminal disordered region (rozen2023anoveldruggable pages 3-4, rozen2024anoveldruggable pages 8-9). Threonine residues T387 and T427, located within the tandem octapeptide repeats, are canonical DYRK phosphorylation sites (rozen2024anoveldruggable pages 9-11). DYRK3-mediated phosphorylation regulates CAMKV's ability to undergo liquid-liquid phase separation (rozen2023anoveldruggable pages 3-4).
+- Phosphorylation at Threonine 183 (T183) is critical for CAMKV's own kinase activation (yu2024camkvkinasesignaling pages 16-19, 25-27). The T183E phosphomimetic mutant is constitutively active (yu2024camkvkinasesignaling pages 16-19).
+
+**Allosteric and Conformational Regulation:**
+- The calmodulin-binding domain (CBD) is required for the initial activation of CAMKV kinase activity (yu2024camkvkinasesignaling pages 16-19, 25-27).
+- The C-terminal domain appears to have an inhibitory role, as a truncated isoform (CAMKV-S) lacking 31 C-terminal amino acids is more potent than the full-length protein (CAMKV-FL) (yu2024camkvkinasesignaling pages 16-19).
+
+**Protein Stability:**
+- The seven tandem octapeptide repeats in the C-terminal domain are essential for CAMKV protein stability and expression (rozen2023anoveldruggable pages 3-4, rozen2024anoveldruggable pages 9-11).
+
+
+
+## Function
+**Expression and Localization:**
+- CAMKV expression is highly enriched in neuroblastoma (NB) cells and brain tissues (rozen2024anoveldruggable pages 8-9, rozen2023anoveldruggable pages 1-3). It is also highly expressed in neuroblasts from embryos and fetal adrenal glands (yu2024camkvkinasesignaling pages 19-22).
+- In NB cells, CAMKV shows a predominantly homogeneous cytosolic distribution (rozen2023anoveldruggable pages 3-4). During cell division, endogenous CAMKV localizes to the mitotic spindle (rozen2023anoveldruggable pages 3-4). Overexpressed CAMKV can form dynamic aggregates upon inhibition of DYRK3 (rozen2023anoveldruggable pages 3-4).
+
+**Signaling and Biological Roles:**
+- CAMKV is a direct transcriptional target of the MYCN and MYC oncogenes, which bind to its promoter and drive expression (yu2024camkvkinasesignaling pages 19-22, 44-46).
+- The DYRK3/CAMKV signaling module is implicated in the regulation of the mitotic spindle, which is essential for NB cell proliferation and tumor growth (rozen2023anoveldruggable pages 1-3).
+- As a kinase, CAMKV directly phosphorylates and activates the transcription factor CREB at Ser133, promoting NB cell proliferation (yu2024camkvkinasesignaling pages 1-5, 16-19). It also phosphorylates GATA2 to promote proliferation (yu2024camkvkinasesignaling pages 19-22).
+- CAMKV knockdown impairs NB cell proliferation and alters the expression of genes involved in neuronal function, axon guidance, protein translation, and apoptosis (rozen2023anoveldruggable pages 3-4, yu2024camkvkinasesignaling pages 19-22).
+- Beyond cancer, CAMKV has been implicated in neuronal functions such as dendritic spine maintenance and activity-dependent bulk endocytosis (yu2024camkvkinasesignaling pages 1-5).
+
+**Interacting Partners:**
+- CAMKV interacts directly with the upstream kinase DYRK3 (rozen2023anoveldruggable pages 3-4, rozen2024anoveldruggable pages 8-9).
+- CAMKV interacts directly with its substrate CREB in NB cells (yu2024camkvkinasesignaling pages 16-19).
+
+
+
+## Inhibitors
+Small molecule inhibitors targeting CAMKV have been shown to suppress tumor growth and improve survival in neuroblastoma xenograft models (yu2024camkvkinasesignaling pages 1-5, 25-27). Molecular docking studies have been performed with compounds such as K-252a and OTSSP167 in the ATP-binding pocket of CAMKV (yu2024camkvkinasesignaling pages 82-85).
+
+
+
+## Other Comments
+**Disease Association:**
+- High CAMKV expression correlates with worse patient survival, high-risk disease, and advanced tumor stages in neuroblastoma (NB) (rozen2023anoveldruggable pages 3-4, yu2024camkvkinasesignaling pages 19-22). Its expression is positively correlated with MYCN/MYC expression in NB tumors (rozen2023anoveldruggable pages 3-4).
+- CAMKV has also been reported as a prognostic biomarker in human endometrial carcinoma (yu2024camkvkinasesignaling pages 1-5).
+
+**Isoforms:**
+- At least two isoforms exist in NB cells due to alternative splicing: a full-length form (CAMKV-FL, 501 amino acids) and a shorter, truncated form (CAMKV-S) that lacks 31 amino acids at the C-terminus (yu2024camkvkinasesignaling pages 13-16, 16-19). CAMKV-S exhibits more potent kinase activity toward CREB and a greater ability to enhance cell proliferation compared to CAMKV-FL (yu2024camkvkinasesignaling pages 16-19).
+
+References
+
+1. (rozen2023anoveldruggable pages 3-4): Esteban J. Rozen, Kim Wgglesworth, and Jason Shohet. A novel druggable dyrk3/camkv signaling module for neuroblastoma tumor growth inhibition. BioRxiv, Dec 2023. URL: https://doi.org/10.1101/2023.11.30.569438, doi:10.1101/2023.11.30.569438. This article has 0 citations.
+
+2. (rozen2024anoveldruggable pages 8-9): Esteban J. Rozen, Kim Wigglesworth, and Jason M. Shohet. A novel druggable dual-specificity tyrosine-regulated kinase3/calmodulin kinase-like vesicle-associated signaling module with therapeutic implications in neuroblastoma. Biomedicines, 12:197, Jan 2024. URL: https://doi.org/10.3390/biomedicines12010197, doi:10.3390/biomedicines12010197. This article has 1 citations and is from a peer-reviewed journal.
+
+3. (simon2015molecularmechanismsof pages 8-10): Bertrand Simon, Anne-Sophie Huart, and Matthias Wilmanns. Molecular mechanisms of protein kinase regulation by calcium/calmodulin. Bioorganic & medicinal chemistry, 23 12:2749-60, Jun 2015. URL: https://doi.org/10.1016/j.bmc.2015.04.051, doi:10.1016/j.bmc.2015.04.051. This article has 20 citations.
+
+4. (yu2024camkvkinasesignaling pages 13-16): Yang Yu, Yanling Zhao, Zhongcheng Shi, Feng Cheng, Larry L. Wang, Jong Min Choi, Kan Li, Daniel Silverman, Dan Qi, Jun Wang, Saurabh Agarwal, Brian R Rood, Jeffrey S. Dome, Muller Fabbri, Joanna S. Yi, Erxi Wu, Sung Yun Jung, Chunchao Zhang, and Jianhua Yang. Camkv kinase signaling is a novel therapeutic avenue with prognostic relevance in neuroblastoma. BioRxiv, Feb 2024. URL: https://doi.org/10.1101/2024.02.19.581040, doi:10.1101/2024.02.19.581040. This article has 0 citations.
+
+5. (yu2024camkvkinasesignaling pages 16-19): Yang Yu, Yanling Zhao, Zhongcheng Shi, Feng Cheng, Larry L. Wang, Jong Min Choi, Kan Li, Daniel Silverman, Dan Qi, Jun Wang, Saurabh Agarwal, Brian R Rood, Jeffrey S. Dome, Muller Fabbri, Joanna S. Yi, Erxi Wu, Sung Yun Jung, Chunchao Zhang, and Jianhua Yang. Camkv kinase signaling is a novel therapeutic avenue with prognostic relevance in neuroblastoma. BioRxiv, Feb 2024. URL: https://doi.org/10.1101/2024.02.19.581040, doi:10.1101/2024.02.19.581040. This article has 0 citations.
+
+6. (yu2024camkvkinasesignaling pages 19-22): Yang Yu, Yanling Zhao, Zhongcheng Shi, Feng Cheng, Larry L. Wang, Jong Min Choi, Kan Li, Daniel Silverman, Dan Qi, Jun Wang, Saurabh Agarwal, Brian R Rood, Jeffrey S. Dome, Muller Fabbri, Joanna S. Yi, Erxi Wu, Sung Yun Jung, Chunchao Zhang, and Jianhua Yang. Camkv kinase signaling is a novel therapeutic avenue with prognostic relevance in neuroblastoma. BioRxiv, Feb 2024. URL: https://doi.org/10.1101/2024.02.19.581040, doi:10.1101/2024.02.19.581040. This article has 0 citations.
+
+7. (yu2024camkvkinasesignaling pages 25-27): Yang Yu, Yanling Zhao, Zhongcheng Shi, Feng Cheng, Larry L. Wang, Jong Min Choi, Kan Li, Daniel Silverman, Dan Qi, Jun Wang, Saurabh Agarwal, Brian R Rood, Jeffrey S. Dome, Muller Fabbri, Joanna S. Yi, Erxi Wu, Sung Yun Jung, Chunchao Zhang, and Jianhua Yang. Camkv kinase signaling is a novel therapeutic avenue with prognostic relevance in neuroblastoma. BioRxiv, Feb 2024. URL: https://doi.org/10.1101/2024.02.19.581040, doi:10.1101/2024.02.19.581040. This article has 0 citations.
+
+8. (yu2024camkvkinasesignaling pages 82-85): Yang Yu, Yanling Zhao, Zhongcheng Shi, Feng Cheng, Larry L. Wang, Jong Min Choi, Kan Li, Daniel Silverman, Dan Qi, Jun Wang, Saurabh Agarwal, Brian R Rood, Jeffrey S. Dome, Muller Fabbri, Joanna S. Yi, Erxi Wu, Sung Yun Jung, Chunchao Zhang, and Jianhua Yang. Camkv kinase signaling is a novel therapeutic avenue with prognostic relevance in neuroblastoma. BioRxiv, Feb 2024. URL: https://doi.org/10.1101/2024.02.19.581040, doi:10.1101/2024.02.19.581040. This article has 0 citations.
+
+9. (johnson2023anatlasof pages 4-4): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+10. (johnson2023anatlasof pages 4-5): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+11. (manning2002theproteinkinase pages 1-2): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+12. (rozen2023anoveldruggable pages 1-3): Esteban J. Rozen, Kim Wgglesworth, and Jason Shohet. A novel druggable dyrk3/camkv signaling module for neuroblastoma tumor growth inhibition. BioRxiv, Dec 2023. URL: https://doi.org/10.1101/2023.11.30.569438, doi:10.1101/2023.11.30.569438. This article has 0 citations.
+
+13. (rozen2024anoveldruggable pages 9-11): Esteban J. Rozen, Kim Wigglesworth, and Jason M. Shohet. A novel druggable dual-specificity tyrosine-regulated kinase3/calmodulin kinase-like vesicle-associated signaling module with therapeutic implications in neuroblastoma. Biomedicines, 12:197, Jan 2024. URL: https://doi.org/10.3390/biomedicines12010197, doi:10.3390/biomedicines12010197. This article has 1 citations and is from a peer-reviewed journal.
+
+14. (yu2024camkvkinasesignaling pages 1-5): Yang Yu, Yanling Zhao, Zhongcheng Shi, Feng Cheng, Larry L. Wang, Jong Min Choi, Kan Li, Daniel Silverman, Dan Qi, Jun Wang, Saurabh Agarwal, Brian R Rood, Jeffrey S. Dome, Muller Fabbri, Joanna S. Yi, Erxi Wu, Sung Yun Jung, Chunchao Zhang, and Jianhua Yang. Camkv kinase signaling is a novel therapeutic avenue with prognostic relevance in neuroblastoma. BioRxiv, Feb 2024. URL: https://doi.org/10.1101/2024.02.19.581040, doi:10.1101/2024.02.19.581040. This article has 0 citations.
+
+15. (yu2024camkvkinasesignaling pages 38-40): Yang Yu, Yanling Zhao, Zhongcheng Shi, Feng Cheng, Larry L. Wang, Jong Min Choi, Kan Li, Daniel Silverman, Dan Qi, Jun Wang, Saurabh Agarwal, Brian R Rood, Jeffrey S. Dome, Muller Fabbri, Joanna S. Yi, Erxi Wu, Sung Yun Jung, Chunchao Zhang, and Jianhua Yang. Camkv kinase signaling is a novel therapeutic avenue with prognostic relevance in neuroblastoma. BioRxiv, Feb 2024. URL: https://doi.org/10.1101/2024.02.19.581040, doi:10.1101/2024.02.19.581040. This article has 0 citations.
+
+16. (manning2002theproteinkinase pages 7-8): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+17. (yu2024camkvkinasesignaling pages 63-66): Yang Yu, Yanling Zhao, Zhongcheng Shi, Feng Cheng, Larry L. Wang, Jong Min Choi, Kan Li, Daniel Silverman, Dan Qi, Jun Wang, Saurabh Agarwal, Brian R Rood, Jeffrey S. Dome, Muller Fabbri, Joanna S. Yi, Erxi Wu, Sung Yun Jung, Chunchao Zhang, and Jianhua Yang. Camkv kinase signaling is a novel therapeutic avenue with prognostic relevance in neuroblastoma. BioRxiv, Feb 2024. URL: https://doi.org/10.1101/2024.02.19.581040, doi:10.1101/2024.02.19.581040. This article has 0 citations.

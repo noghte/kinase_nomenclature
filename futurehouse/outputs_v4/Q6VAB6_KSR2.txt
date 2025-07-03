@@ -1,0 +1,91 @@
+## Phylogeny  
+• Orthologs identified in Homo sapiens (KSR2), Mus musculus (Ksr2), Rattus norvegicus (Ksr2), Danio rerio (ksr2), Xenopus spp. (ksr2), and single ksr genes in Drosophila melanogaster and Caenorhabditis elegans, illustrating conservation from invertebrates to vertebrates (claperon2007ksrandcnk pages 5-6, neilsen2017ksrasa pages 15-18, unknownauthors2020optimizacióndelas pages 64-69).  
+• Kinome placement: Tyrosine-kinase-like (TKL) group, KSR subfamily, most closely related to RAF family kinases in large-scale phylogenies (hunter2015theeukaryoticprotein pages 3-6, unknownauthors2020optimizacióndelas pages 69-73).  
+
+## Reaction Catalyzed  
+• ATP + protein-L-Ser/Thr → ADP + protein-L-O-phospho-Ser/Thr; demonstrated in vitro at very low stoichiometry for phosphorylation of MAP2K1/MEK1 on multiple Ser/Thr residues (roskoski2012mek12dualspecificityprotein pages 5-6, chow2022conformationalcontroland pages 3-4).  
+
+## Cofactor Requirements  
+• No divalent-metal dependency has been experimentally confirmed; Mn²⁺ is included during purification, but catalytic requirement for Mg²⁺ or Mn²⁺ remains unverified (dhawan2016smallmoleculestabilization pages 6-7, chow2022conformationalcontroland pages 3-4).  
+
+## Substrate Specificity  
+• Validated substrate: MAP2K1/MEK1; phosphorylation occurs on non-activation-segment Ser/Thr sites with extremely low catalytic efficiency (roskoski2012mek12dualspecificityprotein pages 5-6, unknownauthors2018functionalsignatureontologybased pages 37-41).  
+• No consensus phospho-acceptor motif has been reported for KSR2 in kinome-wide specificity datasets (chow2022conformationalcontroland pages 1-3).  
+
+## Structure  
+• Domain organisation  
+  – CA1: N-terminal CC–SAM motif mediating membrane localisation and BRAF binding (unknownauthors2020optimizacióndelas pages 69-73).  
+  – CA2: Proline-rich segment, reported SH3 interaction site (unknownauthors2020optimizacióndelas pages 69-73).  
+  – CA3: Cysteine-rich C1 domain required for phospholipid-dependent plasma-membrane recruitment (claperon2007ksrandcnk pages 5-6).  
+  – CA4: Ser/Thr-rich region containing an FXFP ERK-docking motif (martinvega2023navigatingtheerk12 pages 14-16).  
+  – CA5: C-terminal pseudokinase domain that constitutively binds MEK and interfaces with RAF (chow2022conformationalcontroland pages 3-4).  
+• 3D structures: Crystal structures of KSR2-MEK1 complexes (PDB 5UON, 6AQB) reveal a side-to-side interaction of activation segments and αG helices; helix αC adopts an OUT inactive orientation (chow2022conformationalcontroland pages 1-3).  
+• Catalytic motifs: canonical β3-strand lysine replaced by Arg692 (VAIK→RAIK); HRD and DFG motifs retained, underpinning pseudokinase status (chow2022conformationalcontroland pages 3-4).  
+• Regulatory pockets: orthosteric ATP-binding site and a secondary “glue” pocket adjacent to αG that accommodates allosteric ligands (chow2022conformationalcontroland pages 3-4).  
+• Quaternary structure: homodimerisation via an N-lobe interface centred on Arg718; heterodimerisation with BRAF positions catalytic faces for trans-phosphorylation of MEK by the RAF protomer (roskoski2012mek12dualspecificityprotein pages 5-6).  
+
+## Regulation  
+• Phosphorylation  
+  – Ser310 and Ser469 phosphorylated by MARK3/C-TAK1 generate 14-3-3 binding sites retaining KSR2 in the cytoplasm (frodyma2017coordinatingerksignaling pages 1-3, unknownauthors2018functionalsignatureontologybaseda pages 249-251).  
+  – ERK-mediated phosphorylation within CA4 provides negative feedback on scaffold function (unknownauthors2020optimizacióndelas pages 69-73).  
+  – BRAF phosphorylates residues within the kinase domain, modestly enhancing KSR2 catalytic activity (roskoski2012mek12dualspecificityprotein pages 5-6).  
+• Dephosphorylation: PP2A removes inhibitory phosphates, releasing 14-3-3 and enabling plasma-membrane translocation (neilsen2017ksrasa pages 4-6).  
+• Allosteric control: MEK binding locks helix αC OUT; Ras-induced BRAF–KSR2 heterodimerisation rotates αC toward the IN position, priming MEK for phosphorylation by the RAF protomer (chow2022conformationalcontroland pages 1-3, lavoie2018mekdrivesbraf pages 2-4).  
+• Small-molecule regulation: APS-2-79 and related ligands bind the glue pocket and stabilise an inactive conformation (dhawan2016smallmoleculestabilization pages 6-7).  
+
+## Function  
+• Expression: highest in brain and pituitary; low in most peripheral tissues, reflecting specialised metabolic roles (unknownauthors2018functionalsignatureontologybased pages 25-29, martinvega2023navigatingtheerk12 pages 14-16).  
+• Scaffold activity: pre-assembled KSR2–MEK complexes translocate to the plasma membrane upon Ras activation, heterodimerise with BRAF and facilitate efficient RAF-mediated phosphorylation of MEK and downstream ERK activation (chow2022conformationalcontroland pages 1-3, lavoie2018mekdrivesbraf pages 1-2).  
+• Metabolic regulation: direct interaction with AMPK enhances fatty-acid oxidation and energy expenditure (mugabo2018scaffoldproteinsfrom pages 6-7, unknownauthors2018functionalsignatureontologybaseda pages 249-251).  
+• Homodimerisation via Arg718 contributes to Ras signalling potency, though the precise functional outcome remains under investigation (roskoski2012mek12dualspecificityprotein pages 5-6).  
+
+## Inhibitors  
+• APS-2-79: binds glue pocket, disrupts RAF:KSR2 heterodimers and attenuates oncogenic Ras signalling (dhawan2016smallmoleculestabilization pages 6-7, unknownauthors2018functionalsignatureontologybaseda pages 37-41).  
+• Trametinib-derived “trametiglue” analogues occupy the same pocket and lock KSR2–MEK complexes in an inactive state (chow2022conformationalcontroland pages 3-4).  
+• ASC24 decreases KSR2-mediated MEK phosphorylation in biochemical assays (roskoski2012mek12dualspecificityprotein pages 5-6).  
+
+## Other Comments  
+• Disease-associated mutations: Arg684Cys and frameshift Gln695fs impair BRAF interaction, reduce ERK regulation, and are linked to severe early-onset obesity and insulin resistance (pearce2013ksr2mutationsare pages 4-5, unknownauthors2018functionalsignatureontologybaseda pages 249-251).  
+• Ksr2-null mice develop spontaneous obesity and reduced fertility, underscoring roles in energy balance and reproduction (unknownauthors2018functionalsignatureontologybased pages 25-29, neilsen2017ksrasa pages 15-18).
+
+References
+
+1. (chow2022conformationalcontroland pages 1-3): Arthur Chow, Z. Khan, William Marsiglia, and A. Dar. Conformational control and regulation of the pseudokinase ksr via small molecule binding interactions. Methods in enzymology, 667:365-402, 2022. URL: https://doi.org/10.1016/bs.mie.2022.03.039, doi:10.1016/bs.mie.2022.03.039. This article has 4 citations and is from a peer-reviewed journal.
+
+2. (chow2022conformationalcontroland pages 3-4): Arthur Chow, Z. Khan, William Marsiglia, and A. Dar. Conformational control and regulation of the pseudokinase ksr via small molecule binding interactions. Methods in enzymology, 667:365-402, 2022. URL: https://doi.org/10.1016/bs.mie.2022.03.039, doi:10.1016/bs.mie.2022.03.039. This article has 4 citations and is from a peer-reviewed journal.
+
+3. (roskoski2012mek12dualspecificityprotein pages 5-6): Robert Roskoski. Mek1/2 dual-specificity protein kinases: structure and regulation. Biochemical and biophysical research communications, 417 1:5-10, Jan 2012. URL: https://doi.org/10.1016/j.bbrc.2011.11.145, doi:10.1016/j.bbrc.2011.11.145. This article has 354 citations and is from a peer-reviewed journal.
+
+4. (unknownauthors2018functionalsignatureontologybased pages 25-29): Functional Signature Ontology-Based Identification and Validation of Novel Therapeutic Targets and Natural Products for the Treatment of Cancer
+
+5. (unknownauthors2018functionalsignatureontologybaseda pages 249-251): Functional Signature Ontology-Based Identification and Validation of Novel Therapeutic Targets and Natural Products for the Treatment of Cancer
+
+6. (unknownauthors2018functionalsignatureontologybaseda pages 37-41): Functional Signature Ontology-Based Identification and Validation of Novel Therapeutic Targets and Natural Products for the Treatment of Cancer
+
+7. (unknownauthors2020optimizacióndelas pages 64-69): Optimización de las señales de ERK mediante transfosforilación entre diferentes proteínas scaffold: implicaciones en terapia antitumoral
+
+8. (unknownauthors2020optimizacióndelas pages 69-73): Optimización de las señales de ERK mediante transfosforilación entre diferentes proteínas scaffold: implicaciones en terapia antitumoral
+
+9. (claperon2007ksrandcnk pages 5-6): A. Clapéron and M. Therrien. Ksr and cnk: two scaffolds regulating ras-mediated raf activation. Oncogene, 26:3143-3158, May 2007. URL: https://doi.org/10.1038/sj.onc.1210408, doi:10.1038/sj.onc.1210408. This article has 182 citations and is from a domain leading peer-reviewed journal.
+
+10. (dhawan2016smallmoleculestabilization pages 6-7): N. Dhawan, A. Scopton, and A. Dar. Small molecule stabilization of the ksr inactive state antagonizes oncogenic ras signalling. Nature, 537:112-116, Jul 2016. URL: https://doi.org/10.1038/nature19327, doi:10.1038/nature19327. This article has 115 citations and is from a highest quality peer-reviewed journal.
+
+11. (frodyma2017coordinatingerksignaling pages 1-3): Danielle E Frodyma, B. Neilsen, Diane Costanzo-Garvey, K. Fisher, and Robert E. Lewis. Coordinating erk signaling via the molecular scaffold kinase suppressor of ras. F1000Research, 6:1621, Aug 2017. URL: https://doi.org/10.12688/f1000research.11895.1, doi:10.12688/f1000research.11895.1. This article has 46 citations and is from a peer-reviewed journal.
+
+12. (hunter2015theeukaryoticprotein pages 3-6): Tony Hunter and Gerard Manning. The eukaryotic protein kinase superfamily and the emergence of receptor tyrosine kinases. Receptor Tyrosine Kinases: Structure, Functions and Role in Human Disease, pages 1-15, Oct 2015. URL: https://doi.org/10.1007/978-1-4939-2053-2\_1, doi:10.1007/978-1-4939-2053-2\_1. This article has 6 citations.
+
+13. (lavoie2018mekdrivesbraf pages 1-2): H. Lavoie, M. Sahmi, P. Maisonneuve, S. Marullo, Neroshan Thevakumaran, Ting Jin, I. Kurinov, F. Sicheri, and M. Therrien. Mek drives braf activation through allosteric control of ksr proteins. Nature, 554:549-553, Feb 2018. URL: https://doi.org/10.1038/nature25478, doi:10.1038/nature25478. This article has 145 citations and is from a highest quality peer-reviewed journal.
+
+14. (lavoie2018mekdrivesbraf pages 2-4): H. Lavoie, M. Sahmi, P. Maisonneuve, S. Marullo, Neroshan Thevakumaran, Ting Jin, I. Kurinov, F. Sicheri, and M. Therrien. Mek drives braf activation through allosteric control of ksr proteins. Nature, 554:549-553, Feb 2018. URL: https://doi.org/10.1038/nature25478, doi:10.1038/nature25478. This article has 145 citations and is from a highest quality peer-reviewed journal.
+
+15. (martinvega2023navigatingtheerk12 pages 14-16): Ana Martín-Vega and Melanie H. Cobb. Navigating the erk1/2 mapk cascade. Biomolecules, 13:1555, Oct 2023. URL: https://doi.org/10.3390/biom13101555, doi:10.3390/biom13101555. This article has 58 citations and is from a peer-reviewed journal.
+
+16. (mugabo2018scaffoldproteinsfrom pages 6-7): Y. Mugabo and Gareth E. Lim. Scaffold proteins: from coordinating signaling pathways to metabolic regulation. Endocrinology, 159 11:3615-3630, Sep 2018. URL: https://doi.org/10.1210/en.2018-00705, doi:10.1210/en.2018-00705. This article has 39 citations and is from a domain leading peer-reviewed journal.
+
+17. (neilsen2017ksrasa pages 15-18): Beth K. Neilsen, Danielle E. Frodyma, Robert E. Lewis, and Kurt W. Fisher. Ksr as a therapeutic target for ras-dependent cancers. Expert Opinion on Therapeutic Targets, 21:499-509, Apr 2017. URL: https://doi.org/10.1080/14728222.2017.1311325, doi:10.1080/14728222.2017.1311325. This article has 42 citations and is from a peer-reviewed journal.
+
+18. (neilsen2017ksrasa pages 4-6): Beth K. Neilsen, Danielle E. Frodyma, Robert E. Lewis, and Kurt W. Fisher. Ksr as a therapeutic target for ras-dependent cancers. Expert Opinion on Therapeutic Targets, 21:499-509, Apr 2017. URL: https://doi.org/10.1080/14728222.2017.1311325, doi:10.1080/14728222.2017.1311325. This article has 42 citations and is from a peer-reviewed journal.
+
+19. (pearce2013ksr2mutationsare pages 4-5): Laura R. Pearce, Neli Atanassova, Matthew C. Banton, B. Bottomley, A. Klaauw, J. Revelli, A. Hendricks, J. Keogh, E. Henning, Deon D. Doree, Sabrina Jeter-Jones, Sumedha Garg, E. Bochukova, R. Bounds, Sofie Ashford, Emma L. Gayton, P. Hindmarsh, J. Shield, E. Crowne, D. Barford, N. Wareham, S. O’Rahilly, M. Murphy, D. Powell, I. Barroso, I. Barroso, and I. Farooqi. Ksr2 mutations are associated with obesity, insulin resistance, and impaired cellular fuel oxidation. Cell, 155:765-777, Nov 2013. URL: https://doi.org/10.1016/j.cell.2013.09.058, doi:10.1016/j.cell.2013.09.058. This article has 212 citations and is from a highest quality peer-reviewed journal.
+
+20. (unknownauthors2018functionalsignatureontologybased pages 37-41): Functional Signature Ontology-Based Identification and Validation of Novel Therapeutic Targets and Natural Products for the Treatment of Cancer

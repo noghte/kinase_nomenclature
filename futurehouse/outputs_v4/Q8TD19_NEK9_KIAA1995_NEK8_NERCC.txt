@@ -1,0 +1,72 @@
+Phylogeny  
+• Member of the CMGC group, NEK sub-family; full-length phylogenetic analyses place NEK9 in clade 1 together with NEK4/6/7/8/10, while kinase-domain trees cluster it most closely with NEK8, defining the NEK8/9 subgroup (bachus2022inmitosisyou pages 3-7).  
+• Orthologs are documented in Aspergillus nidulans NIMA, Xenopus laevis Nek9, Mus musculus Nek9 and other vertebrates, indicating strong conservation of mitotic functions (fry2012cellcycleregulation pages 1-3, bachus2022inmitosisyou pages 18-20).  
+
+Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + protein-O-phospho-Ser/Thr (unknownauthors2021probingthefunctions pages 20-25).  
+
+Cofactor Requirements  
+Catalytic activity requires a divalent cation; Mg²⁺ or Mn²⁺ support phosphoryl transfer (nguyen2023nekfamilyreview pages 17-18, oliveira2020checkingneksovercoming pages 20-22).  
+
+Substrate Specificity  
+Consensus phosphorylation motif not determined; NEK9 phosphorylates Ser/Thr residues in histone H3, β-casein and BICD2, reflecting broad serine/threonine selectivity without an established sequence consensus (bachus2022inmitosisyou pages 14-15, fry2017mitoticregulationby pages 6-8).  
+
+Structure  
+• Domain organisation: N-terminal kinase domain (residues 53-308); central RCC1-like seven-bladed β-propeller that mediates autoinhibition and Ran binding (347-726); C-terminal coiled-coil containing LC8, NEK6 and NEK7 interaction motifs (891-940) (unknownauthors2015structuralstudieson pages 41-46, fry2017mitoticregulationby pages 5-6).  
+• Nuclear localisation sequences situated between the kinase and RCC1 domains; phosphorylation at Thr333 modulates nuclear–cytoplasmic shuttling (unknownauthors2015structuralstudieson pages 41-46).  
+• No experimental crystal structure is available; AlphaFold model AF-Q8TD19-F1 predicts a canonical bilobal kinase fold with intact VAIK, HRD and DFG motifs and a complete regulatory spine (bachus2022inmitosisyou pages 3-7).  
+• Activation involves relief of RCC1-mediated autoinhibition and coiled-coil-driven oligomerisation that facilitates trans-autophosphorylation (fry2017mitoticregulationby pages 5-6).  
+
+Regulation  
+• CDK1 phosphorylation of the C-terminal tail in late G₂ creates a Polo-box docking site (fry2017mitoticregulationby pages 6-8).  
+• PLK1 subsequently phosphorylates Thr210 in the activation loop, switching NEK9 to its active conformation (unknownauthors2023theroleof pages 43-47).  
+• Autophosphorylation at Ser944 disrupts dynein light chain LC8 binding, permitting association with NEK6/NEK7 (unknownauthors2016nek6controlsmitotic pages 68-71).  
+• LC8 maintains NEK9 inactive until CDK1/PLK1-dependent phosphorylation triggers release (bachus2022inmitosisyou pages 20-21).  
+• Phosphorylation of Thr333 controls nuclear export by masking the NLS (unknownauthors2015structuralstudieson pages 41-46).  
+
+Function  
+• Ubiquitously expressed with highest levels in heart, liver, kidney, skeletal muscle, brain and testis (unknownauthors2015structuralstudieson pages 41-46).  
+• Acts upstream of NEK6 (Ser206) and NEK7 (Ser195) to form a mitotic kinase cascade that targets Eg5/KIF11, NEDD1, KIF20A and KIF14, ensuring centrosome separation, spindle assembly and cytokinesis (bachus2022inmitosisyou pages 14-15, fry2017mitoticregulationby pages 6-8, unknownauthors2023theroleof pages 43-47).  
+• Additional substrates include KIF23, Citron kinase, TPX2, EMAP-like 4 and BICD2, coordinating chromosome congression and central spindle organisation (bachus2022inmitosisyou pages 20-21, bachus2022inmitosisyou pages 18-20).  
+• Associates with the FACT chromatin remodelling complex and represses a subset of p53 target genes, modulating p21-mediated senescence (bachus2022inmitosisyou pages 20-21).  
+• Facilitates CHK1 activation under replication stress, promoting cancer cell survival (bachus2022inmitosisyou pages 20-21).  
+• Regulates ciliogenesis by controlling polycystin-1/2 localisation; deficiency reduces cilia number and length (moniz2011nekfamilyof pages 5-6).  
+• Phosphorylates ARHGEF2 downstream of IL-6/STAT3 signalling, driving gastric cancer metastasis (nguyen2023nekfamilyreview pages 17-18).  
+
+Other Comments  
+• Over-expression induces aneuploidy and is linked to aggressive phenotypes in glioblastoma, renal, pancreatic and breast cancers, whereas low expression correlates with poorer outcomes in bladder and stomach carcinomas (bachus2022inmitosisyou pages 20-21, nguyen2023nekfamilyreview pages 7-8).  
+• Tumour-derived mutations include V319*, V631I, R786Q and P870S; a truncating germline allele lacking regulatory domains causes proliferative defects and increased fetal loss (moniz2011nekfamilyof pages 5-6, fry2017mitoticregulationby pages 6-8).  
+• Germline loss-of-function variants produce lethal skeletal dysplasia and nevus comedonicus (nguyen2023nekfamilyreview pages 7-8).  
+• Designated an NIH “understudied kinase” in 2021, underscoring the need for targeted inhibitor development (nguyen2023nekfamilyreview pages 7-8).
+
+References
+
+1. (bachus2022inmitosisyou pages 20-21): Scott Bachus, Drayson Graves, Lauren Fulham, N. Akkerman, Caelan Stephanson, Jessica Shieh, and P. Pelka. In mitosis you are not: the nima family of kinases in aspergillus, yeast, and mammals. International Journal of Molecular Sciences, Apr 2022. URL: https://doi.org/10.3390/ijms23074041, doi:10.3390/ijms23074041. This article has 12 citations and is from a peer-reviewed journal.
+
+2. (fry2012cellcycleregulation pages 1-3): A. Fry, Laura O’Regan, Sarah R. Sabir, and R. Bayliss. Cell cycle regulation by the nek family of protein kinases. Journal of Cell Science, 125:4423-4433, Oct 2012. URL: https://doi.org/10.1242/jcs.111195, doi:10.1242/jcs.111195. This article has 484 citations and is from a domain leading peer-reviewed journal.
+
+3. (fry2017mitoticregulationby pages 5-6): Andrew M. Fry, Richard Bayliss, and Joan Roig. Mitotic regulation by nek kinase networks. Frontiers in Cell and Developmental Biology, Dec 2017. URL: https://doi.org/10.3389/fcell.2017.00102, doi:10.3389/fcell.2017.00102. This article has 105 citations and is from a peer-reviewed journal.
+
+4. (fry2017mitoticregulationby pages 6-8): Andrew M. Fry, Richard Bayliss, and Joan Roig. Mitotic regulation by nek kinase networks. Frontiers in Cell and Developmental Biology, Dec 2017. URL: https://doi.org/10.3389/fcell.2017.00102, doi:10.3389/fcell.2017.00102. This article has 105 citations and is from a peer-reviewed journal.
+
+5. (nguyen2023nekfamilyreview pages 17-18): Khoa Nguyen, Minh N Tran, Andrew Rivera, T. Cheng, G. Windsor, Abraham B Chabot, Jane E. Cavanaugh, B. Collins-Burow, Sean B Lee, D. Drewry, P. Flaherty, and M. Burow. Nek family review and correlations with patient survival outcomes in various cancer types. Cancers, Mar 2023. URL: https://doi.org/10.3390/cancers15072067, doi:10.3390/cancers15072067. This article has 13 citations and is from a peer-reviewed journal.
+
+6. (unknownauthors2015structuralstudieson pages 41-46): Structural studies on protein-protein interactions: Analysis of the regulation of the DYNLL/LC8 binding to Nek9 and characterization of the enzymes composing the …
+
+7. (bachus2022inmitosisyou pages 14-15): Scott Bachus, Drayson Graves, Lauren Fulham, N. Akkerman, Caelan Stephanson, Jessica Shieh, and P. Pelka. In mitosis you are not: the nima family of kinases in aspergillus, yeast, and mammals. International Journal of Molecular Sciences, Apr 2022. URL: https://doi.org/10.3390/ijms23074041, doi:10.3390/ijms23074041. This article has 12 citations and is from a peer-reviewed journal.
+
+8. (bachus2022inmitosisyou pages 18-20): Scott Bachus, Drayson Graves, Lauren Fulham, N. Akkerman, Caelan Stephanson, Jessica Shieh, and P. Pelka. In mitosis you are not: the nima family of kinases in aspergillus, yeast, and mammals. International Journal of Molecular Sciences, Apr 2022. URL: https://doi.org/10.3390/ijms23074041, doi:10.3390/ijms23074041. This article has 12 citations and is from a peer-reviewed journal.
+
+9. (nguyen2023nekfamilyreview pages 7-8): Khoa Nguyen, Minh N Tran, Andrew Rivera, T. Cheng, G. Windsor, Abraham B Chabot, Jane E. Cavanaugh, B. Collins-Burow, Sean B Lee, D. Drewry, P. Flaherty, and M. Burow. Nek family review and correlations with patient survival outcomes in various cancer types. Cancers, Mar 2023. URL: https://doi.org/10.3390/cancers15072067, doi:10.3390/cancers15072067. This article has 13 citations and is from a peer-reviewed journal.
+
+10. (oliveira2020checkingneksovercoming pages 20-22): Andressa Peres de Oliveira, Luidy Kazuo Issayama, Isadora Carolina Betim Pavan, Fernando Riback Silva, Talita Diniz Melo-Hanchuk, Fernando Moreira Simabuco, and Jörg Kobarg. Checking neks: overcoming a bottleneck in human diseases. Molecules, 25:1778, Apr 2020. URL: https://doi.org/10.3390/molecules25081778, doi:10.3390/molecules25081778. This article has 63 citations and is from a peer-reviewed journal.
+
+11. (unknownauthors2016nek6controlsmitotic pages 68-71): Nek6 Controls Mitotic Progression through Regulating EML3 Localisation to Spindle Microtubules
+
+12. (unknownauthors2023theroleof pages 43-47): The role of Eg5 in EML4-ALK driven lung cancer
+
+13. (bachus2022inmitosisyou pages 3-7): Scott Bachus, Drayson Graves, Lauren Fulham, N. Akkerman, Caelan Stephanson, Jessica Shieh, and P. Pelka. In mitosis you are not: the nima family of kinases in aspergillus, yeast, and mammals. International Journal of Molecular Sciences, Apr 2022. URL: https://doi.org/10.3390/ijms23074041, doi:10.3390/ijms23074041. This article has 12 citations and is from a peer-reviewed journal.
+
+14. (moniz2011nekfamilyof pages 5-6): Larissa Moniz, Previn Dutt, Nasir Haider, and Vuk Stambolic. Nek family of kinases in cell cycle, checkpoint control and cancer. Cell Division, 6:18-18, Oct 2011. URL: https://doi.org/10.1186/1747-1028-6-18, doi:10.1186/1747-1028-6-18. This article has 150 citations and is from a peer-reviewed journal.
+
+15. (unknownauthors2021probingthefunctions pages 20-25): Probing the functions of Nek family kinases using chemical inhibition: towards the development of potent and selective inhibitors of Nek7

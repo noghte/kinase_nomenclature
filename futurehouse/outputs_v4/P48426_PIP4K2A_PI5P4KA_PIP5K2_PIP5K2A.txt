@@ -1,0 +1,70 @@
+## Phylogeny
+PIP4K2A is a member of the phosphoinositide kinase (PIK) superfamily and is classified within the Type II phosphatidylinositol phosphate kinase (PIPK) subfamily, also known as PIPkinC (unknownauthors2022characterisationofalternative pages 41-47, fiume2015pip4kandthe pages 1-2, muftuoglu2016mechanismofsubstrate pages 1-2). This classification aligns with the human kinome framework, which places PIP4K2A within the PIP kinase family (clarke2013evolutionarilyconservedstructural pages 11-12, unknownauthors2022characterisationofalternative pages 41-47). The PIP4K family is a distinct class of PI kinases found predominantly in metazoans and is absent in unicellular eukaryotes (raghu2021emergingcellbiological pages 5-6, raghu2021emergingcellbiological pages 1-2). PIP4K2A is one of three mammalian isoforms, alongside PIP4K2B and PIP4K2C, and is conserved across eukaryotes (fiume2015pip4kandthe pages 1-2, unknownauthors2022characterisationofalternative pages 41-47). Within the kinase domain, the PIP4K family shares sequence homology with Type I (PIP5K) and Type III (PIKfyve) kinases (muftuoglu2016mechanismofsubstrate pages 1-2). Sequence homology confirms the presence of orthologs across species down to insects (clarke2013evolutionarilyconservedstructural pages 12-13).
+
+
+## Reaction Catalyzed
+The enzyme performs an ATP-dependent kinase reaction, catalyzing the phosphorylation of phosphatidylinositol 5-phosphate (PI5P) at the D4 position of the inositol ring to produce phosphatidylinositol 4,5-bisphosphate (PI(4,5)P2) (bulley2016inbcells pages 6-6, unknownauthors2022characterisationofalternative pages 41-47, raghu2021emergingcellbiological pages 5-6).
+
+ATP + 1-phosphatidyl-1D-myo-inositol 5-phosphate → ADP + 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+
+
+## Cofactor Requirements
+Catalytic activity requires divalent cations, specifically Mg2+, as a cofactor (bulley2016inbcells pages 6-6, clarke2013evolutionarilyconservedstructural pages 11-12, muftuoglu2016mechanismofsubstrate pages 1-2).
+
+
+## Substrate Specificity
+PIP4K2A shows substrate specificity for PI5P lipids (bulley2016inbcells pages 6-6). It phosphorylates the 4-position of the inositol ring on PI5P, though it can also phosphorylate phosphatidylinositol 3-phosphate (PI3P) to produce PI(3,4)P2 with much lower efficiency in vitro (muftuoglu2016mechanismofsubstrate pages 1-2). Substrate specificity is determined by the activation loop near the C-terminus, as well as by a specificity loop and a monophosphate binding site (unknownauthors2021investigatingtherole pages 32-34, muftuoglu2016mechanismofsubstrate pages 1-2).
+
+
+## Structure
+PIP4K2A contains a conserved kinase domain composed of N-lobe and C-lobe subdomains, a dimerization domain, and a unique PIP-binding domain located within the C-lobe (unknownauthors2022characterisationofalternative pages 41-47). A crystal structure has been deposited as PDB entry 2YBX, revealing a homodimeric form where beta sheets at the N-terminus mediate the dimer interface (unknownauthors2020pip4khasa pages 15-21). A conserved C-terminal activation loop is critical for substrate processing, and the G-loop sequence significantly influences its high intrinsic kinase activity (unknownauthorsUnknownyeartranscriptomealterationsfollowing pages 80-84, unknownauthors2021investigatingtherole pages 32-34). For regions lacking experimental data, AlphaFold models are suggested for structural insights (unknownauthors2020pip4khasa pages 15-21).
+
+
+## Regulation
+Regulation of PIP4K2A involves post-translational modifications, though specific sites are not detailed in the context (bulley2016inbcells pages 6-6). The kinase is a substrate of mTORC1, an interaction that helps maintain basal mTORC1 signaling during starvation (jin2023lipidkinasespip5ks pages 9-9). Its activity is also influenced by protein kinase C-mediated translocation (bulley2016inbcells pages 6-6). Regulation also occurs via protein-protein interactions; it can form heterodimers, and its isoform PIP4K2B can modulate its nuclear localization and activity (raghu2021emergingcellbiological pages 4-5, raghu2021emergingcellbiological pages 6-6). An N-terminal motif (VMLLPDD) directly interacts with and negatively regulates PIP5K kinases (unknownauthorsUnknownyeartranscriptomealterationsfollowing pages 80-84).
+
+
+## Function
+PIP4K2A is highly expressed in peripheral blood cells and has a broad subcellular distribution, including the cytoplasm, nucleus, peroxisomes, plasma membrane, and early endosomal compartments (fiume2015pip4kandthe pages 1-2, muftuoglu2016mechanismofsubstrate pages 1-2, hu2018pip4k2aregulatesintracellular pages 1-3, raghu2021emergingcellbiological pages 4-5). It participates in several signaling pathways, including mTORC1, mTORC2, Akt, and Class I PI3K signaling (jin2023lipidkinasespip5ks pages 9-9, bulley2016inbcells pages 6-6, raghu2021emergingcellbiological pages 4-5). Its interacting partners include PIP4K2B, PIP5Ks, and the endosomal regulator TOM1 (bulley2016inbcells pages 6-6, raghu2021emergingcellbiological pages 4-5, raghu2021emergingcellbiological pages 6-6).
+
+The enzyme has several biological roles. It regulates intracellular cholesterol transport by generating PI(4,5)P2 at the peroxisomal membrane, which is necessary for creating membrane contact sites between lysosomes and peroxisomes (hu2018pip4k2aregulatesintracellular pages 1-3). It is also involved in autophagy by controlling autophagosome-lysosome fusion and autophagosome biogenesis (raghu2021emergingcellbiological pages 4-5, raghu2021emergingcellbiological pages 6-6). Furthermore, PIP4K2A is required for cell growth and survival, particularly in B cells, and modulates the immune system by affecting regulatory T cell proliferation and immunosuppressive activity (bulley2016inbcells pages 6-6, jin2023lipidkinasespip5ks pages 9-9).
+
+
+## Inhibitors
+Specific experimental inhibitors for PIP4K2A are not detailed in the provided sources (bulley2016inbcells pages 6-6, raghu2021emergingcellbiological pages 4-5). However, its therapeutic potential has been suggested by depletion studies, and dual blockade of PIP4Ks and mitotic pathways has been shown to induce cancer-selective lethality (bulley2016inbcells pages 6-6, raghu2021emergingcellbiological pages 5-6).
+
+
+## Other Comments
+PIP4K2A is associated with multiple diseases. In cancer, it is required for the proliferation and survival of acute myeloid leukemia (AML) cells, and its transcripts are upregulated in leukemias (bulley2016inbcells pages 6-6, raghu2021emergingcellbiological pages 4-5, raghu2021emergingcellbiological pages 6-6). Loss of PIP4K2A slows tumor growth in p53-null mice, while its overexpression suppresses glioblastoma growth (raghu2021emergingcellbiological pages 4-5). Mutations in the PIPK family are linked to cancer and diabetes (muftuoglu2016mechanismofsubstrate pages 1-2). Functional impairment may be implicated in lysosomal storage disorders due to its role in cholesterol trafficking (hu2018pip4k2aregulatesintracellular pages 1-3). In the immune system, its deletion can cause hyperactivation (jin2023lipidkinasespip5ks pages 9-9), and polymorphisms in the PIP4K gene family have been connected to neuropsychiatric disorders (raghu2021emergingcellbiological pages 1-2).
+
+References
+
+1. (bulley2016inbcells pages 6-6): Simon J. Bulley, Alaa Droubi, Jonathan H. Clarke, Karen E. Anderson, Len R. Stephens, Phillip T. Hawkins, and Robin F. Irvine. In b cells, phosphatidylinositol 5-phosphate 4-kinase–α synthesizes pi(4,5)p<sub>2</sub>to impact mtorc2 and akt signaling. Proceedings of the National Academy of Sciences, 113:10571-10576, Sep 2016. URL: https://doi.org/10.1073/pnas.1522478113, doi:10.1073/pnas.1522478113. This article has 32 citations.
+
+2. (hu2018pip4k2aregulatesintracellular pages 1-3): Ao Hu, Xue-Tong Zhao, H. Tu, Ting Xiao, Ting Fu, Yan Wang, Yong Liu, Xiong-Jie Shi, Jie Luo, and B. Song. Pip4k2a regulates intracellular cholesterol transport through modulating pi(4,5)p2 homeostasis. Journal of Lipid Research, 59:507-514, Jan 2018. URL: https://doi.org/10.1194/jlr.m082149, doi:10.1194/jlr.m082149. This article has 55 citations and is from a peer-reviewed journal.
+
+3. (raghu2021emergingcellbiological pages 4-5): Padinjat Raghu. Emerging cell biological functions of phosphatidylinositol 5 phosphate 4 kinase. Current Opinion in Cell Biology, 71:15-20, Aug 2021. URL: https://doi.org/10.1016/j.ceb.2021.01.012, doi:10.1016/j.ceb.2021.01.012. This article has 8 citations and is from a peer-reviewed journal.
+
+4. (raghu2021emergingcellbiological pages 5-6): Padinjat Raghu. Emerging cell biological functions of phosphatidylinositol 5 phosphate 4 kinase. Current Opinion in Cell Biology, 71:15-20, Aug 2021. URL: https://doi.org/10.1016/j.ceb.2021.01.012, doi:10.1016/j.ceb.2021.01.012. This article has 8 citations and is from a peer-reviewed journal.
+
+5. (unknownauthors2022characterisationofalternative pages 41-47): Characterisation of alternative splice variants of PIP5K1A in the human metastatic prostate cancer cell line, LNCaP C4-2
+
+6. (clarke2013evolutionarilyconservedstructural pages 11-12): Jonathan H. Clarke and Robin F. Irvine. Evolutionarily conserved structural changes in phosphatidylinositol 5-phosphate 4-kinase (pi5p4k) isoforms are responsible for differences in enzyme activity and localization. Biochemical Journal, 454:49-57, Jul 2013. URL: https://doi.org/10.1042/bj20130488, doi:10.1042/bj20130488. This article has 73 citations and is from a domain leading peer-reviewed journal.
+
+7. (clarke2013evolutionarilyconservedstructural pages 12-13): Jonathan H. Clarke and Robin F. Irvine. Evolutionarily conserved structural changes in phosphatidylinositol 5-phosphate 4-kinase (pi5p4k) isoforms are responsible for differences in enzyme activity and localization. Biochemical Journal, 454:49-57, Jul 2013. URL: https://doi.org/10.1042/bj20130488, doi:10.1042/bj20130488. This article has 73 citations and is from a domain leading peer-reviewed journal.
+
+8. (fiume2015pip4kandthe pages 1-2): Roberta Fiume, Yvette Stijf-Bultsma, Zahid H. Shah, Willem Jan Keune, David R. Jones, Julian Georg Jude, and Nullin Divecha. Pip4k and the role of nuclear phosphoinositides in tumour suppression. Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids, 1851:898-910, Jun 2015. URL: https://doi.org/10.1016/j.bbalip.2015.02.014, doi:10.1016/j.bbalip.2015.02.014. This article has 64 citations.
+
+9. (jin2023lipidkinasespip5ks pages 9-9): Yue Jin and Jian Xue. Lipid kinases pip5ks and pip4ks: potential drug targets for breast cancer. Frontiers in Oncology, Dec 2023. URL: https://doi.org/10.3389/fonc.2023.1323897, doi:10.3389/fonc.2023.1323897. This article has 2 citations and is from a peer-reviewed journal.
+
+10. (muftuoglu2016mechanismofsubstrate pages 1-2): Yagmur Muftuoglu, Yi Xue, Xiang Gao, Dianqing Wu, and Ya Ha. Mechanism of substrate specificity of phosphatidylinositol phosphate kinases. Proceedings of the National Academy of Sciences, 113:8711-8716, Jul 2016. URL: https://doi.org/10.1073/pnas.1522112113, doi:10.1073/pnas.1522112113. This article has 39 citations.
+
+11. (raghu2021emergingcellbiological pages 1-2): Padinjat Raghu. Emerging cell biological functions of phosphatidylinositol 5 phosphate 4 kinase. Current Opinion in Cell Biology, 71:15-20, Aug 2021. URL: https://doi.org/10.1016/j.ceb.2021.01.012, doi:10.1016/j.ceb.2021.01.012. This article has 8 citations and is from a peer-reviewed journal.
+
+12. (raghu2021emergingcellbiological pages 6-6): Padinjat Raghu. Emerging cell biological functions of phosphatidylinositol 5 phosphate 4 kinase. Current Opinion in Cell Biology, 71:15-20, Aug 2021. URL: https://doi.org/10.1016/j.ceb.2021.01.012, doi:10.1016/j.ceb.2021.01.012. This article has 8 citations and is from a peer-reviewed journal.
+
+13. (unknownauthors2020pip4khasa pages 15-21): Pip4K Has A Catalytic-Independent Role In Modulating Pip5K And The Pi3K Pathway
+
+14. (unknownauthors2021investigatingtherole pages 32-34): Investigating the role of PIP4K in Immune System Regulation and P53-Inactivated Cancers
+
+15. (unknownauthorsUnknownyeartranscriptomealterationsfollowing pages 80-84): Transcriptome Alterations Following Loss of PIP5K1α Function in Prostate Cancer Cells

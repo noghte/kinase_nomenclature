@@ -1,0 +1,67 @@
+## Phylogeny  
+Protein O-mannose kinase (POMK; SgK196) is an atypical member of the eukaryotic protein kinase superfamily that branches close to the kinome root and is distant from conventional serine/threonine and tyrosine kinase clades (zhu2016structureofprotein pages 1-2). Orthologs with retained catalytic residues are documented in vertebrates such as Mus musculus (81 % identity in the catalytic domain) and Danio rerio (58 % identity), demonstrating strong evolutionary conservation (nagae20173dstructuralanalysis pages 1-2, zhu2016structureofprotein pages 2-3). No fungal or plant orthologs have been reported, underscoring a vertebrate-restricted lineage. Unlike canonical kinases, POMK lacks the classical β3-Lys/αC-Glu ion pair and carries its catalytic Lys in β2, a feature that defines it as a distinct sub-family within the “unclassified/atypical” branch of the kinome (zhu2016structureofprotein pages 2-3).  
+
+## Reaction Catalyzed  
+ATP + GalNAc-β1,3-GlcNAc-β1,4-Man-(Ser/Thr)-α-dystroglycan ⇌ ADP + GalNAc-β1,3-GlcNAc-β1,4-(6-phosphate)-Man-(Ser/Thr)-α-dystroglycan (nagae20173dstructuralanalysis pages 1-2, zhu2016structureofprotein pages 1-2).  
+
+## Cofactor Requirements  
+Catalysis requires divalent cations; crystal structures and in-vitro assays show dependence on Mg²⁺, with Mn²⁺ supporting activity in biochemical assays (zhu2016structureofprotein pages 1-2, unknownauthors2023enzymeassayof pages 1-4).  
+
+## Substrate Specificity  
+POMK exclusively phosphorylates the core M3 trisaccharide GalNAc-β1,3-GlcNAc-β1,4-Man when this glycan is O-linked to α-dystroglycan; the GalNAc-β1,3-GlcNAc disaccharide constitutes the primary recognition determinant (K_D ≈ 30 µM) (zhu2016structureofprotein pages 6-9, nagae20173dstructuralanalysis pages 1-2). No peptide consensus motif is required, and no activity is detected toward free monosaccharides or unrelated glycans (zhu2016structureofprotein pages 6-9).  
+
+## Structure  
+Type II transmembrane topology: an N-terminal cytosolic tail, a single transmembrane helix, and a luminal kinase domain (residues ~45–349) (nagae20173dstructuralanalysis pages 1-2).  
+3D architecture: canonical bilobal fold with a five-stranded β-sheet and αC helix in the N-lobe and a helical C-lobe; solved at 2.1 Å in complex with ADP-AlF₃-Mg²⁺ and substrate analog (zhu2016structureofprotein pages 2-3).  
+Catalytic features:  
+• Lys91 (β2) coordinates ATP phosphates; it ion-pairs with Asp227 of the activation segment, replacing the classical Lys-Glu pair (zhu2016structureofprotein pages 2-3).  
+• Catalytic loop carries an MCD motif; Asp202 acts as the general base (zhu2016structureofprotein pages 3-6).  
+• The activation segment begins with a DLD motif; Asp225 chelates the primary Mg²⁺ ion (zhu2016structureofprotein pages 3-6).  
+• A disulfide bridge between Cys201 and Cys241 stabilises the active site and orients the substrate (zhu2016structureofprotein pages 3-6).  
+• Regulatory spine and hydrophobic spine residues are conserved, supporting an active kinase conformation in the absence of activation-loop phosphorylation (zhu2016structureofprotein pages 3-6).  
+Unique elements: active-site migration of catalytic Lys, expanded αE–αF linker accommodating sugar binding groove, and surface pocket that clamps the GalNAc-β1,3-GlcNAc moiety (zhu2016structureofprotein pages 6-9, nagae20173dstructuralanalysis pages 1-2).  
+
+## Regulation  
+Post-translational modifications: three luminal N-glycosylation sequons are present; their occupancy modulates protein folding but regulatory consequences remain undefined (nagae20173dstructuralanalysis pages 1-2).  
+Conformational regulation: activity is constitutive; no requirement for activation-segment phosphorylation has been observed (zhu2016structureofprotein pages 3-6).  
+No evidence for autophosphorylation, ubiquitination, or allosteric protein partners has been reported.  
+
+## Function  
+Biological role: POMK phosphorylates core M3 on α-dystroglycan in the ER lumen, an obligatory step that permits subsequent ribitol-5-phosphate addition by FKTN/FKRP and LARGE-mediated polymerisation of full-length matriglycan, thereby enabling high-affinity binding of laminin-G domain ECM proteins (walimbe2020pomkregulatesdystroglycan pages 1-2, nagae20173dstructuralanalysis pages 1-2).  
+Expression: high in fetal brain, skeletal muscle, heart and kidney, with lower yet significant levels in adult cerebrum, hippocampus and skeletal muscle (costanzo2014pomkmutationsdisrupt pages 4-6).  
+Pathway context: functions downstream of POMGNT2 and B3GALNT2 and upstream of FKTN, FKRP and LARGE within the matriglycan synthesis cascade (walimbe2020pomkregulatesdystroglycan pages 2-4).  
+Interactors/substrates: direct substrate is α-dystroglycan; indirect functional coupling to LARGE1 is demonstrated by preferential LARGE1 binding to phosphorylated core M3 (walimbe2020pomkregulatesdystroglycan pages 2-4).  
+Physiological impact: loss of POMK results in truncated matriglycan, reduced laminin binding, sarcolemmal instability, impaired muscle force and neuronal migration defects (walimbe2021proteinomannosekinasemediated pages 163-168, costanzo2014pomkmutationsdisrupt pages 1-2). POMK activity also modulates susceptibility of α-dystroglycan to Lassa virus engagement (zhu2016structureofprotein pages 1-2).  
+
+## Other Comments  
+Disease associations: recessive mutations cause the dystroglycanopathy spectrum, including Walker–Warburg syndrome, muscle-eye-brain disease and limb-girdle muscular dystrophy (zhu2016structureofprotein pages 9-11, costanzo2014pomkmutationsdisrupt pages 1-2).  
+Notable missense mutations: D204N abolishes catalysis; K93A, D227A and A230E disrupt substrate positioning; C201S or C241S break the stabilising disulfide, all leading to loss of α-dystroglycan phosphorylation and reduced laminin binding (zhu2016structureofprotein pages 9-11, walimbe2020pomkregulatesdystroglycan pages 2-4).  
+Phenotypic variability: complete POMK loss yields milder clinical courses than defects in downstream enzymes, correlating with residual synthesis of short matriglycan that retains partial ECM binding (walimbe2021proteinomannosekinasemediated pages 111-115).
+
+References
+
+1. (nagae20173dstructuralanalysis pages 1-2): Masamichi Nagae, Sushil K. Mishra, Makiko Neyazaki, Rika Oi, Akemi Ikeda, Naohiro Matsugaki, Satoko Akashi, Hiroshi Manya, Mamoru Mizuno, Hirokazu Yagi, Koichi Kato, Toshiya Senda, Tamao Endo, Terukazu Nogi, and Yoshiki Yamaguchi. 3d structural analysis of protein o‐mannosyl kinase, pomk, a causative gene product of dystroglycanopathy. Genes to Cells, Apr 2017. URL: https://doi.org/10.1111/gtc.12480, doi:10.1111/gtc.12480. This article has 30 citations and is from a peer-reviewed journal.
+
+2. (zhu2016structureofprotein pages 1-2): Qinyu Zhu, David Venzke, Ameya S Walimbe, Mary E Anderson, Qiuyu Fu, Lisa N Kinch, Wei Wang, Xing Chen, Nick V Grishin, Niu Huang, Liping Yu, Jack E Dixon, Kevin P Campbell, and Junyu Xiao. Structure of protein o-mannose kinase reveals a unique active site architecture. eLife, Nov 2016. URL: https://doi.org/10.7554/elife.22238, doi:10.7554/elife.22238. This article has 40 citations and is from a domain leading peer-reviewed journal.
+
+3. (zhu2016structureofprotein pages 2-3): Qinyu Zhu, David Venzke, Ameya S Walimbe, Mary E Anderson, Qiuyu Fu, Lisa N Kinch, Wei Wang, Xing Chen, Nick V Grishin, Niu Huang, Liping Yu, Jack E Dixon, Kevin P Campbell, and Junyu Xiao. Structure of protein o-mannose kinase reveals a unique active site architecture. eLife, Nov 2016. URL: https://doi.org/10.7554/elife.22238, doi:10.7554/elife.22238. This article has 40 citations and is from a domain leading peer-reviewed journal.
+
+4. (zhu2016structureofprotein pages 3-6): Qinyu Zhu, David Venzke, Ameya S Walimbe, Mary E Anderson, Qiuyu Fu, Lisa N Kinch, Wei Wang, Xing Chen, Nick V Grishin, Niu Huang, Liping Yu, Jack E Dixon, Kevin P Campbell, and Junyu Xiao. Structure of protein o-mannose kinase reveals a unique active site architecture. eLife, Nov 2016. URL: https://doi.org/10.7554/elife.22238, doi:10.7554/elife.22238. This article has 40 citations and is from a domain leading peer-reviewed journal.
+
+5. (zhu2016structureofprotein pages 6-9): Qinyu Zhu, David Venzke, Ameya S Walimbe, Mary E Anderson, Qiuyu Fu, Lisa N Kinch, Wei Wang, Xing Chen, Nick V Grishin, Niu Huang, Liping Yu, Jack E Dixon, Kevin P Campbell, and Junyu Xiao. Structure of protein o-mannose kinase reveals a unique active site architecture. eLife, Nov 2016. URL: https://doi.org/10.7554/elife.22238, doi:10.7554/elife.22238. This article has 40 citations and is from a domain leading peer-reviewed journal.
+
+6. (zhu2016structureofprotein pages 9-11): Qinyu Zhu, David Venzke, Ameya S Walimbe, Mary E Anderson, Qiuyu Fu, Lisa N Kinch, Wei Wang, Xing Chen, Nick V Grishin, Niu Huang, Liping Yu, Jack E Dixon, Kevin P Campbell, and Junyu Xiao. Structure of protein o-mannose kinase reveals a unique active site architecture. eLife, Nov 2016. URL: https://doi.org/10.7554/elife.22238, doi:10.7554/elife.22238. This article has 40 citations and is from a domain leading peer-reviewed journal.
+
+7. (costanzo2014pomkmutationsdisrupt pages 1-2): Stefania Di Costanzo, Anuradha Balasubramanian, Heather L. Pond, Anete Rozkalne, Chiara Pantaleoni, Simona Saredi, Vandana A. Gupta, Christine M. Sunu, Timothy W. Yu, Peter B. Kang, Mustafa A. Salih, Marina Mora, Emanuela Gussoni, Christopher A. Walsh, and M. Chiara Manzini. Pomk mutations disrupt muscle development leading to a spectrum of neuromuscular presentations. Human molecular genetics, 23 21:5781-92, Nov 2014. URL: https://doi.org/10.1093/hmg/ddu296, doi:10.1093/hmg/ddu296. This article has 90 citations and is from a domain leading peer-reviewed journal.
+
+8. (costanzo2014pomkmutationsdisrupt pages 4-6): Stefania Di Costanzo, Anuradha Balasubramanian, Heather L. Pond, Anete Rozkalne, Chiara Pantaleoni, Simona Saredi, Vandana A. Gupta, Christine M. Sunu, Timothy W. Yu, Peter B. Kang, Mustafa A. Salih, Marina Mora, Emanuela Gussoni, Christopher A. Walsh, and M. Chiara Manzini. Pomk mutations disrupt muscle development leading to a spectrum of neuromuscular presentations. Human molecular genetics, 23 21:5781-92, Nov 2014. URL: https://doi.org/10.1093/hmg/ddu296, doi:10.1093/hmg/ddu296. This article has 90 citations and is from a domain leading peer-reviewed journal.
+
+9. (unknownauthors2023enzymeassayof pages 1-4): Enzyme assay of protein O-mannose kinase (POMK)
+
+10. (walimbe2020pomkregulatesdystroglycan pages 1-2): Ameya S. Walimbe, H. Okuma, Soumya Joseph, Tiandi Yang, T. Yonekawa, Jeffrey M. Hord, D. Venzke, Mary E. Anderson, S. Torelli, A. Manzur, Megan Devereaux, Marco A Cuellar, Sally J. Prouty, Saul Ocampo Landa, Liping Yu, Junyu Xiao, J. Dixon, F. Muntoni, and K. Campbell. Pomk regulates dystroglycan function via large1-mediated elongation of matriglycan. eLife, Apr 2020. URL: https://doi.org/10.7554/elife.61388, doi:10.7554/elife.61388. This article has 27 citations and is from a domain leading peer-reviewed journal.
+
+11. (walimbe2020pomkregulatesdystroglycan pages 2-4): Ameya S. Walimbe, H. Okuma, Soumya Joseph, Tiandi Yang, T. Yonekawa, Jeffrey M. Hord, D. Venzke, Mary E. Anderson, S. Torelli, A. Manzur, Megan Devereaux, Marco A Cuellar, Sally J. Prouty, Saul Ocampo Landa, Liping Yu, Junyu Xiao, J. Dixon, F. Muntoni, and K. Campbell. Pomk regulates dystroglycan function via large1-mediated elongation of matriglycan. eLife, Apr 2020. URL: https://doi.org/10.7554/elife.61388, doi:10.7554/elife.61388. This article has 27 citations and is from a domain leading peer-reviewed journal.
+
+12. (walimbe2021proteinomannosekinasemediated pages 111-115): Ameya Shirish Walimbe. Protein O-Mannose Kinase-mediated regulation of α-dystroglycan function. PhD thesis, The University of Iowa, 2021. URL: https://doi.org/10.17077/etd.006103, doi:10.17077/etd.006103.
+
+13. (walimbe2021proteinomannosekinasemediated pages 163-168): Ameya Shirish Walimbe. Protein O-Mannose Kinase-mediated regulation of α-dystroglycan function. PhD thesis, The University of Iowa, 2021. URL: https://doi.org/10.17077/etd.006103, doi:10.17077/etd.006103.

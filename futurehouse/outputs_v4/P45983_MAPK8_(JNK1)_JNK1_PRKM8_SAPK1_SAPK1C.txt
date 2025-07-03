@@ -1,0 +1,82 @@
+## Phylogeny
+Mitogen-activated protein kinase 8 (MAPK8), also known as JNK1, is classified within the CMGC group of the eukaryotic protein kinase (ePK) superfamily, alongside kinases such as CDKs, GSK3, and CLKs (manning2002evolutionofprotein pages 1-2, manning2002theproteinkinase pages 3-3). Within this group, it belongs to the MAP kinase (MAPK) family (manning2002theproteinkinase pages 7-8). The human kinome contains three JNK genes (JNK1, JNK2, JNK3), which reflects gene duplications that occurred after the divergence from invertebrates (manning2002theproteinkinase pages 1-1). The MAPK family is highly conserved, with orthologs of its members found across metazoans, including flies and worms (manning2002evolutionofprotein pages 1-2). One source indicates that MAPK family members have orthologs in simpler eukaryotes, including yeast (manning2002theproteinkinase pages 7-8), while another states that MAPK8 specifically is generally absent in yeast (manning2002evolutionofprotein pages 1-2).
+
+
+## Reaction Catalyzed
+MAPK8 catalyzes the transfer of the γ-phosphate group from ATP to a serine or threonine residue on a protein substrate, yielding ADP and a phosphoserine/phosphothreonine-containing protein (sabapathy2012roleofthe pages 1-3, sabapathy2012roleofthe pages 17-19).
+
+
+## Cofactor Requirements
+The catalytic activity of MAPK8 requires the divalent cation magnesium (Mg²⁺) as an essential cofactor to coordinate ATP binding and facilitate catalysis (cicenas2017jnkp38erk pages 1-3, sabapathy2012roleofthe pages 17-19, shaw2008thecrystalstructure pages 7-8).
+
+
+## Substrate Specificity
+Based on positional scanning peptide array (PSPA) analysis, MAPK8 is a proline-directed kinase that typically prefers to phosphorylate a serine or threonine residue that is immediately followed by a proline residue at the +1 position (johnson2023anatlasof pages 1-2). Its specificity is further determined by a preference for hydrophobic residues N-terminal to the phosphoacceptor site and a strong negative selection against charged residues at distinct positions surrounding the phosphorylation site (johnson2023anatlasof pages 1-2).
+
+
+## Structure
+MAPK8 exhibits a canonical bilobal kinase fold, composed of a smaller N-terminal lobe rich in β-sheets and a larger, predominantly α-helical C-terminal lobe (unknownauthors2023revealingthemechanism pages 33-38, sabapathy2012roleofthe pages 1-3). The N-terminal lobe contains the conserved C-helix (αC-helix), which is critical for positioning catalytic residues for ATP binding, and a glycine-rich loop (residues 33-40) that forms the ceiling of the ATP-binding site (sabapathy2012roleofthe pages 1-3, yan2011understandingthespecificity pages 5-7). A hydrophobic spine, a network of hydrophobic residues spanning both lobes, stabilizes the active conformation of the kinase (sabapathy2012roleofthe pages 1-3, heo2004structuralbasisfor pages 11-11). The activation loop (residues 169-195) connects the two lobes and contains the essential phosphorylation sites Thr183 and Tyr185 (yan2011understandingthespecificity pages 5-7, sabapathy2012roleofthe pages 17-19). The C-terminal lobe contains a conserved MAP kinase insert, a sequence implicated in regulatory protein interactions (shaw2008thecrystalstructure pages 1-2). Three-dimensional structures are available from the PDB and AlphaFold databases (sabapathy2012roleofthe pages 17-19).
+
+
+## Regulation
+The primary mechanism for MAPK8 activation is dual phosphorylation on threonine 183 (T183) and tyrosine 185 (Y185) within the activation loop's conserved Thr-Pro-Tyr motif (chen2011mapk8(mitogenactivatedprotein pages 1-2, cicenas2017jnkp38erk pages 1-3). This phosphorylation is carried out by the upstream dual-specificity kinases MAP2K4 (MKK4) and MAP2K7 (MKK7) (cicenas2017jnkp38erk pages 1-3). MKK4 preferentially phosphorylates Y185, whereas MKK7 primarily targets T183, and their actions are synergistic (unknownauthors2023revealingthemechanism pages 33-38).
+
+Inactivation occurs via dephosphorylation by dual-specificity phosphatases (DUSPs), also known as MAPK phosphatases (MKPs) (ha2019phosphorylationdynamicsof pages 1-3). Specific DUSPs that negatively regulate JNK1 include DUSP1, DUSP2, DUSP3, DUSP7, DUSP8, MKP5, and MKP7 (ha2019phosphorylationdynamicsof pages 6-7, liu2016aconservedmotif pages 9-10, liu2016aconservedmotif pages 1-2).
+
+Activity is also regulated by scaffold proteins like JNK-interacting protein-1 (JIP1), which assembles the JNK signaling module and can selectively inhibit JNK1 by mediating its cytoplasmic retention and reducing its affinity for ATP (heo2004structuralbasisfor pages 1-2).
+
+
+## Function
+MAPK8 is a ubiquitously expressed kinase found in both the cytoplasm and nucleus that integrates cellular responses to stress signals such as UV radiation, oxidative stress, and inflammatory mediators (chen2011mapk8(mitogenactivatedprotein pages 1-2). It is a core component of the stress-activated protein kinase/c-Jun N-terminal kinase (SAPK/JNK) signaling cascade (heo2004structuralbasisfor pages 1-2). Upon activation by upstream kinases MAP2K4 and MAP2K7, MAPK8 phosphorylates a number of downstream substrates, most notably transcription factors such as c-Jun (on serines 63 and 73), ATF-2, Elk-1, and p53 (chen2011mapk8(mitogenactivatedprotein pages 1-2). This regulation of transcription factors modulates gene expression to control processes including cell proliferation, differentiation, apoptosis, and migration (chen2011mapk8(mitogenactivatedprotein pages 1-2). MAPK8-mediated apoptosis involves both the extrinsic (Fas-induced) and intrinsic pathways, through phosphorylation of Bcl-2 family proteins and p53 (chen2011mapk8(mitogenactivatedprotein pages 1-2). MAPK8 also phosphorylates microtubule-associated proteins, a function required for the maintenance of neuronal microtubules (chang2003jnk1isrequired pages 13-13).
+
+
+## Inhibitors
+Experimental inhibitors of MAPK8 include ATP-competitive small molecules such as SP600125, AS601245, and CC-401 (cicenas2017jnkp38erk pages 1-3). Potent and selective covalent inhibitors, including JNK-IN-8 and JNK-IN-12, have also been developed to irreversibly bind a conserved cysteine residue in the ATP-binding pocket (zhang2012discoveryofpotent pages 11-12). In addition, peptides derived from the scaffold protein JIP1, such as pepJIP1, can selectively inhibit JNK1 allosterically (heo2004structuralbasisfor pages 1-2).
+
+
+## Other Comments
+Aberrant MAPK8 signaling is associated with numerous human pathologies, including cancer, inflammatory diseases, obesity, insulin resistance, and neurodegenerative disorders such as Alzheimer's and Parkinson's disease (chen2011mapk8(mitogenactivatedprotein pages 1-2, cicenas2017jnkp38erk pages 1-3). It is also implicated in autoimmune diseases like rheumatoid arthritis and type 1 diabetes (shaw2008thecrystalstructure pages 7-8). While disease-associated mutations are thought to affect JNK1 regulation, no specific mutations are detailed in the provided context (chen2011mapk8(mitogenactivatedprotein pages 1-2).
+
+References
+
+1. (chen2011mapk8(mitogenactivatedprotein pages 1-2): F. Chen. Mapk8 (mitogen-activated protein kinase 8). Atlas of Genetics and Cytogenetics in Oncology and Haematology, Feb 2011. URL: https://doi.org/10.4267/2042/37949, doi:10.4267/2042/37949. This article has 7 citations and is from a peer-reviewed journal.
+
+2. (cicenas2017jnkp38erk pages 1-3): J. Cicenas, Eglė Žalytė, Arnas Rimkus, D. Dapkus, R. Noreika, and S. Urbonavičius. Jnk, p38, erk, and sgk1 inhibitors in cancer. Cancers, Dec 2017. URL: https://doi.org/10.3390/cancers10010001, doi:10.3390/cancers10010001. This article has 291 citations and is from a peer-reviewed journal.
+
+3. (heo2004structuralbasisfor pages 1-2): Yong-Seok Heo, Su-Kyoung Kim, Chang Il Seo, Young Kwan Kim, Byung-Je Sung, Hye Shin Lee, Jae Il Lee, Sam-Yong Park, Jin Hwan Kim, Kwang Yeon Hwang, Young-Lan Hyun, Young Ho Jeon, Seonggu Ro, Joong Myung Cho, Tae Gyu Lee, and Chul-Hak Yang. Structural basis for the selective inhibition of jnk1 by the scaffolding protein jip1 and sp600125. The EMBO Journal, Jun 2004. URL: https://doi.org/10.1038/sj.emboj.7600212, doi:10.1038/sj.emboj.7600212. This article has 316 citations.
+
+4. (heo2004structuralbasisfor pages 11-11): Yong-Seok Heo, Su-Kyoung Kim, Chang Il Seo, Young Kwan Kim, Byung-Je Sung, Hye Shin Lee, Jae Il Lee, Sam-Yong Park, Jin Hwan Kim, Kwang Yeon Hwang, Young-Lan Hyun, Young Ho Jeon, Seonggu Ro, Joong Myung Cho, Tae Gyu Lee, and Chul-Hak Yang. Structural basis for the selective inhibition of jnk1 by the scaffolding protein jip1 and sp600125. The EMBO Journal, Jun 2004. URL: https://doi.org/10.1038/sj.emboj.7600212, doi:10.1038/sj.emboj.7600212. This article has 316 citations.
+
+5. (manning2002evolutionofprotein pages 1-2): Gerard Manning, Gregory D Plowman, Tony Hunter, and Sucha Sudarsanam. Evolution of protein kinase signaling from yeast to man. Trends in Biochemical Sciences, 27:514-520, Oct 2002. URL: https://doi.org/10.1016/s0968-0004(02)02179-5, doi:10.1016/s0968-0004(02)02179-5. This article has 1322 citations and is from a domain leading peer-reviewed journal.
+
+6. (manning2002theproteinkinase pages 7-8): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+7. (sabapathy2012roleofthe pages 1-3): K. Sabapathy. Role of the jnk pathway in human diseases. Progress in molecular biology and translational science, 106:145-69, 2012. URL: https://doi.org/10.1016/b978-0-12-396456-4.00013-4, doi:10.1016/b978-0-12-396456-4.00013-4. This article has 209 citations and is from a peer-reviewed journal.
+
+8. (sabapathy2012roleofthe pages 17-19): K. Sabapathy. Role of the jnk pathway in human diseases. Progress in molecular biology and translational science, 106:145-69, 2012. URL: https://doi.org/10.1016/b978-0-12-396456-4.00013-4, doi:10.1016/b978-0-12-396456-4.00013-4. This article has 209 citations and is from a peer-reviewed journal.
+
+9. (shaw2008thecrystalstructure pages 7-8): D. Shaw, Sandra M. Wang, A. Villaseñor, S. Tsing, D. Walter, M. Browner, J. Barnett, and A. Kuglstatter. The crystal structure of jnk2 reveals conformational flexibility in the map kinase insert and indicates its involvement in the regulation of catalytic activity. Journal of molecular biology, 383 4:885-93, Nov 2008. URL: https://doi.org/10.1016/j.jmb.2008.08.086, doi:10.1016/j.jmb.2008.08.086. This article has 61 citations and is from a domain leading peer-reviewed journal.
+
+10. (unknownauthors2023revealingthemechanism pages 33-38): Revealing the mechanism of action of intrinsically disordered proteins in MAPK cell signalling
+
+11. (zhang2012discoveryofpotent pages 11-12): Tinghu Zhang, F. Inesta-Vaquera, M. Niepel, Jianming Zhang, S. Ficarro, T. Machleidt, Ting Xie, J. Marto, Namdoo Kim, Taebo Sim, J. Laughlin, Hajeung Park, P. Lograsso, M. Patricelli, T. Nomanbhoy, P. Sorger, D. Alessi, and N. Gray. Discovery of potent and selective covalent inhibitors of jnk. Chemistry & biology, 19 1:140-54, Jan 2012. URL: https://doi.org/10.1016/j.chembiol.2011.11.010, doi:10.1016/j.chembiol.2011.11.010. This article has 396 citations.
+
+12. (ha2019phosphorylationdynamicsof pages 1-3): Jain Ha, Eunjeong Kang, Jihye Seo, and Sayeon Cho. Phosphorylation dynamics of jnk signaling: effects of dual-specificity phosphatases (dusps) on the jnk pathway. International Journal of Molecular Sciences, 20:6157, Dec 2019. URL: https://doi.org/10.3390/ijms20246157, doi:10.3390/ijms20246157. This article has 75 citations and is from a peer-reviewed journal.
+
+13. (ha2019phosphorylationdynamicsof pages 6-7): Jain Ha, Eunjeong Kang, Jihye Seo, and Sayeon Cho. Phosphorylation dynamics of jnk signaling: effects of dual-specificity phosphatases (dusps) on the jnk pathway. International Journal of Molecular Sciences, 20:6157, Dec 2019. URL: https://doi.org/10.3390/ijms20246157, doi:10.3390/ijms20246157. This article has 75 citations and is from a peer-reviewed journal.
+
+14. (johnson2023anatlasof pages 1-2): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+15. (liu2016aconservedmotif pages 1-2): Xin Liu, Chen-Song Zhang, Chang Lu, Sheng-Cai Lin, Jia‐Wei Wu, and Zhi-Xin Wang. A conserved motif in jnk/p38-specific mapk phosphatases as a determinant for jnk1 recognition and inactivation. Nature Communications, Mar 2016. URL: https://doi.org/10.1038/ncomms10879, doi:10.1038/ncomms10879. This article has 63 citations and is from a highest quality peer-reviewed journal.
+
+16. (liu2016aconservedmotif pages 9-10): Xin Liu, Chen-Song Zhang, Chang Lu, Sheng-Cai Lin, Jia‐Wei Wu, and Zhi-Xin Wang. A conserved motif in jnk/p38-specific mapk phosphatases as a determinant for jnk1 recognition and inactivation. Nature Communications, Mar 2016. URL: https://doi.org/10.1038/ncomms10879, doi:10.1038/ncomms10879. This article has 63 citations and is from a highest quality peer-reviewed journal.
+
+17. (manning2002theproteinkinase pages 1-1): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+18. (manning2002theproteinkinase pages 3-3): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+19. (shaw2008thecrystalstructure pages 1-2): D. Shaw, Sandra M. Wang, A. Villaseñor, S. Tsing, D. Walter, M. Browner, J. Barnett, and A. Kuglstatter. The crystal structure of jnk2 reveals conformational flexibility in the map kinase insert and indicates its involvement in the regulation of catalytic activity. Journal of molecular biology, 383 4:885-93, Nov 2008. URL: https://doi.org/10.1016/j.jmb.2008.08.086, doi:10.1016/j.jmb.2008.08.086. This article has 61 citations and is from a domain leading peer-reviewed journal.
+
+20. (yan2011understandingthespecificity pages 5-7): Chunli Yan, Tamer S. Kaoud, Sunbae Lee, K. Dalby, and Pengyu Y. Ren. Understanding the specificity of a docking interaction between jnk1 and the scaffolding protein jip1. The journal of physical chemistry. B, 115 6:1491-502, Feb 2011. URL: https://doi.org/10.1021/jp1073522, doi:10.1021/jp1073522. This article has 42 citations.
+
+21. (chang2003jnk1isrequired pages 13-13): Lufen Chang, Ying Jones, Mark H. Ellisman, Lawrence S.B. Goldstein, and Michael Karin. Jnk1 is required for maintenance of neuronal microtubules and controls phosphorylation of microtubule-associated proteins. Developmental Cell, 4:521-533, Apr 2003. URL: https://doi.org/10.1016/s1534-5807(03)00094-7, doi:10.1016/s1534-5807(03)00094-7. This article has 472 citations and is from a highest quality peer-reviewed journal.

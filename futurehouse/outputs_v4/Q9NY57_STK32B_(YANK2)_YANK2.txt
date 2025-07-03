@@ -1,0 +1,71 @@
+## Phylogeny  
+• Kinome placement: AGC group, YANK sub-family together with STK32A (YANK1) and STK32C (YANK3) (arencibia2013agcproteinkinases pages 2-3).  
+• Structure-guided hidden-Markov profiling corroborates this assignment and shows tight clustering with canonical AGC members (modi2019astructurallyvalidated pages 22-26, modi2019astructurallyvalidatedmultiple pages 10-12).  
+• Paralogue identity: STK32A 69 %, STK32C 65 % within the kinase domain (sorrell2020stk32aisa pages 12-15).  
+• Ortholog distribution: detected in Caenorhabditis elegans, Drosophila melanogaster, hagfish and lamprey, indicating emergence in bilaterian animals and absence in fungi (sorrell2020stk32aisa pages 5-7).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (shi2024yank2activatedby pages 8-9).  
+
+## Cofactor Requirements  
+Divalent-cation requirement has not been reported for STK32B (sorrell2020stk32aisa pages 15-18).  
+
+## Substrate Specificity  
+No experimental consensus phosphorylation motif has been defined for STK32B (sorrell2020stk32aisa pages 1-5).  
+
+## Structure  
+• Domain organisation: bilobal kinase core followed by an AGC-type C-terminal extension containing a turn motif and a non-canonical hydrophobic motif F-X-X-F-N-R-E (arencibia2013agcproteinkinases pages 3-4, sorrell2020stk32aisa pages 5-7).  
+• Catalytic features: conserved β3-strand Lys, HRD catalytic triad, DFN motif (Asn replaces Gly), APE motif and a small Val gatekeeper in the ATP pocket (sorrell2020stk32aisa pages 5-7, sorrell2020stk32aisa pages 10-12).  
+• Unique regulatory element: an extended HF-motif α-helix that docks onto the N-lobe and stabilises the active conformation independently of hydrophobic-motif phosphorylation (sorrell2020stk32aisa pages 5-7).  
+• Structural resources: high-confidence AlphaFold model AF-Q9NY57-F1; closest experimental proxy is STK32A crystal structure at 2.29 Å (PDB 4FR4) showing an equivalent fold (sorrell2020stk32aisa pages 29-39, sorrell2020stk32aisa pages 18-22).  
+
+## Regulation  
+• Src family kinase Fyn phosphorylates YANK2, initiating downstream signalling (shi2024yank2activatedby pages 8-9).  
+• Additional post-translational modifications or regulatory enzymes have not been reported (sorrell2020stk32aisa pages 15-18).  
+
+## Function  
+• Expression: mRNA enriched in kidney and lymphoid tissue; protein localises predominantly to microtubules and cytoplasmic vesicles (sorrell2020stk32aisa pages 1-5, sorrell2020stk32aisa pages 15-18, shi2024yank2activatedby pages 1-2).  
+• Neurological genetics: intronic variant rs10937625 associates with essential tremor and STK32B is over-expressed in cerebellar cortex of patients (muller2016genomewideassociationstudy pages 4-4, muller2016genomewideassociationstudy pages 4-5).  
+• Transcriptomic impact: over-expression in cerebellar DAOY cells alters 3 794 genes, enriching axon-guidance, calcium-channel and olfactory-transduction pathways (liao2020transcriptomicchangesresulting pages 1-2, liao2020transcriptomicchangesresulting pages 2-5).  
+• Signalling: Fyn-driven phosphorylation of YANK2 activates p70S6K via an mTOR-independent route and promotes glioma cell proliferation (shi2024yank2activatedby pages 8-9).  
+
+## Other Comments  
+• Disease links: genomic deletions implicate STK32B in Ellis-van-Creveld syndrome; locus variants associate with orofacial clefts (sorrell2020stk32aisa pages 1-5).  
+• Oncology: protein up-regulated in aggressive breast cancer, down-regulated in oral squamous cell carcinoma, and G35E driver mutation reported in melanoma (sorrell2020stk32aisa pages 1-5).  
+• Cardiovascular pathway enrichment after over-expression suggests potential pleiotropic roles, consistent with beta-blocker responsiveness in essential tremor (liao2020transcriptomicchangesresulting pages 2-5).
+
+References
+
+1. (arencibia2013agcproteinkinases pages 2-3): José M. Arencibia, Daniel Pastor-Flores, Angelika F. Bauer, Jörg O. Schulze, and Ricardo M. Biondi. Agc protein kinases: from structural mechanism of regulation to allosteric drug development for the treatment of human diseases. Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics, 1834:1302-1321, Jul 2013. URL: https://doi.org/10.1016/j.bbapap.2013.03.010, doi:10.1016/j.bbapap.2013.03.010. This article has 239 citations.
+
+2. (liao2020transcriptomicchangesresulting pages 1-2): Calwing Liao, Faezeh Sarayloo, Veikko Vuokila, Daniel Rochefort, Fulya Akçimen, Simone Diamond, Gabrielle Houle, Alexandre D. Laporte, Dan Spiegelman, Qin He, Hélène Catoire, Patrick A. Dion, and Guy A. Rouleau. Transcriptomic changes resulting from stk32b overexpression identify pathways potentially relevant to essential tremor. Frontiers in Genetics, Jul 2020. URL: https://doi.org/10.3389/fgene.2020.00813, doi:10.3389/fgene.2020.00813. This article has 14 citations and is from a peer-reviewed journal.
+
+3. (liao2020transcriptomicchangesresulting pages 2-5): Calwing Liao, Faezeh Sarayloo, Veikko Vuokila, Daniel Rochefort, Fulya Akçimen, Simone Diamond, Gabrielle Houle, Alexandre D. Laporte, Dan Spiegelman, Qin He, Hélène Catoire, Patrick A. Dion, and Guy A. Rouleau. Transcriptomic changes resulting from stk32b overexpression identify pathways potentially relevant to essential tremor. Frontiers in Genetics, Jul 2020. URL: https://doi.org/10.3389/fgene.2020.00813, doi:10.3389/fgene.2020.00813. This article has 14 citations and is from a peer-reviewed journal.
+
+4. (modi2019astructurallyvalidated pages 22-26): Vivek Modi and Roland L. Dunbrack. A structurally validated sequence alignment of all 497 typical human protein kinase domains. bioRxiv, Sep 2019. URL: https://doi.org/10.1101/776740, doi:10.1101/776740. This article has 8 citations.
+
+5. (modi2019astructurallyvalidatedmultiple pages 10-12): Vivek Modi and Roland L. Dunbrack. A structurally-validated multiple sequence alignment of 497 human protein kinase domains. Scientific Reports, Dec 2019. URL: https://doi.org/10.1038/s41598-019-56499-4, doi:10.1038/s41598-019-56499-4. This article has 119 citations and is from a poor quality or predatory journal.
+
+6. (shi2024yank2activatedby pages 8-9): Yue Shi, Yue Cheng, Wei Wang, Liu Tang, Wensheng Li, Liyuan Zhang, Zheng Yuan, Feng Zhu, and Qiuhong Duan. Yank2 activated by fyn promotes glioma tumorigenesis via the mtor-independent p70s6k activation pathway. Scientific Reports, May 2024. URL: https://doi.org/10.1038/s41598-024-61157-5, doi:10.1038/s41598-024-61157-5. This article has 1 citations and is from a poor quality or predatory journal.
+
+7. (sorrell2020stk32aisa pages 1-5): Fiona J. Sorrell, Fabrizio Miranda, Kamal R. Abdul Azeez, Apirat Chaikuad, Arminja N. Kettenbach, Scott A. Gerber, Stefan Knapp, Ahmed A. Ahmed, and Jonathan M. Elkins. Stk32a is a dual-specificity agc kinase with a preference for acidic substrates. BioRxiv, Mar 2020. URL: https://doi.org/10.1101/2020.03.04.976555, doi:10.1101/2020.03.04.976555. This article has 2 citations.
+
+8. (sorrell2020stk32aisa pages 12-15): Fiona J. Sorrell, Fabrizio Miranda, Kamal R. Abdul Azeez, Apirat Chaikuad, Arminja N. Kettenbach, Scott A. Gerber, Stefan Knapp, Ahmed A. Ahmed, and Jonathan M. Elkins. Stk32a is a dual-specificity agc kinase with a preference for acidic substrates. BioRxiv, Mar 2020. URL: https://doi.org/10.1101/2020.03.04.976555, doi:10.1101/2020.03.04.976555. This article has 2 citations.
+
+9. (sorrell2020stk32aisa pages 5-7): Fiona J. Sorrell, Fabrizio Miranda, Kamal R. Abdul Azeez, Apirat Chaikuad, Arminja N. Kettenbach, Scott A. Gerber, Stefan Knapp, Ahmed A. Ahmed, and Jonathan M. Elkins. Stk32a is a dual-specificity agc kinase with a preference for acidic substrates. BioRxiv, Mar 2020. URL: https://doi.org/10.1101/2020.03.04.976555, doi:10.1101/2020.03.04.976555. This article has 2 citations.
+
+10. (arencibia2013agcproteinkinases pages 3-4): José M. Arencibia, Daniel Pastor-Flores, Angelika F. Bauer, Jörg O. Schulze, and Ricardo M. Biondi. Agc protein kinases: from structural mechanism of regulation to allosteric drug development for the treatment of human diseases. Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics, 1834:1302-1321, Jul 2013. URL: https://doi.org/10.1016/j.bbapap.2013.03.010, doi:10.1016/j.bbapap.2013.03.010. This article has 239 citations.
+
+11. (muller2016genomewideassociationstudy pages 4-4): Stefanie H Müller, S. Girard, F. Hopfner, Nancy D. Merner, Cynthia V. Bourassa, D. Lorenz, L. Clark, L. Tittmann, A. Soto-Ortolaza, S. Klebe, M. Hallett, S. Schneider, C. Hodgkinson, W. Lieb, Z. Wszolek, Manuela Pendziwiat, Oswaldo Lorenzo-Betancor, W. Poewe, S. Ortega-Cubero, K. Seppi, A. Rajput, A. Hussl, A. Rajput, D. Berg, P. Dion, I. Wurster, J. Shulman, K. Srulijes, D. Haubenberger, P. Pastor, C. Vilariño-Güell, R. Postuma, G. Bernard, K. Ladwig, N. Dupré, J. Jankovic, K. Strauch, M. Panisset, J. Winkelmann, C. Testa, E. Reischl, K. Zeuner, O. Ross, T. Arzberger, S. Chouinard, G. Deuschl, E. Louis, G. Kuhlenbäumer, and G. Rouleau. Genome-wide association study in essential tremor identifies three new loci. Brain, 139:3163-3169, Oct 2016. URL: https://doi.org/10.1093/brain/aww242, doi:10.1093/brain/aww242. This article has 103 citations and is from a highest quality peer-reviewed journal.
+
+12. (muller2016genomewideassociationstudy pages 4-5): Stefanie H Müller, S. Girard, F. Hopfner, Nancy D. Merner, Cynthia V. Bourassa, D. Lorenz, L. Clark, L. Tittmann, A. Soto-Ortolaza, S. Klebe, M. Hallett, S. Schneider, C. Hodgkinson, W. Lieb, Z. Wszolek, Manuela Pendziwiat, Oswaldo Lorenzo-Betancor, W. Poewe, S. Ortega-Cubero, K. Seppi, A. Rajput, A. Hussl, A. Rajput, D. Berg, P. Dion, I. Wurster, J. Shulman, K. Srulijes, D. Haubenberger, P. Pastor, C. Vilariño-Güell, R. Postuma, G. Bernard, K. Ladwig, N. Dupré, J. Jankovic, K. Strauch, M. Panisset, J. Winkelmann, C. Testa, E. Reischl, K. Zeuner, O. Ross, T. Arzberger, S. Chouinard, G. Deuschl, E. Louis, G. Kuhlenbäumer, and G. Rouleau. Genome-wide association study in essential tremor identifies three new loci. Brain, 139:3163-3169, Oct 2016. URL: https://doi.org/10.1093/brain/aww242, doi:10.1093/brain/aww242. This article has 103 citations and is from a highest quality peer-reviewed journal.
+
+13. (sorrell2020stk32aisa pages 10-12): Fiona J. Sorrell, Fabrizio Miranda, Kamal R. Abdul Azeez, Apirat Chaikuad, Arminja N. Kettenbach, Scott A. Gerber, Stefan Knapp, Ahmed A. Ahmed, and Jonathan M. Elkins. Stk32a is a dual-specificity agc kinase with a preference for acidic substrates. BioRxiv, Mar 2020. URL: https://doi.org/10.1101/2020.03.04.976555, doi:10.1101/2020.03.04.976555. This article has 2 citations.
+
+14. (sorrell2020stk32aisa pages 15-18): Fiona J. Sorrell, Fabrizio Miranda, Kamal R. Abdul Azeez, Apirat Chaikuad, Arminja N. Kettenbach, Scott A. Gerber, Stefan Knapp, Ahmed A. Ahmed, and Jonathan M. Elkins. Stk32a is a dual-specificity agc kinase with a preference for acidic substrates. BioRxiv, Mar 2020. URL: https://doi.org/10.1101/2020.03.04.976555, doi:10.1101/2020.03.04.976555. This article has 2 citations.
+
+15. (sorrell2020stk32aisa pages 29-39): Fiona J. Sorrell, Fabrizio Miranda, Kamal R. Abdul Azeez, Apirat Chaikuad, Arminja N. Kettenbach, Scott A. Gerber, Stefan Knapp, Ahmed A. Ahmed, and Jonathan M. Elkins. Stk32a is a dual-specificity agc kinase with a preference for acidic substrates. BioRxiv, Mar 2020. URL: https://doi.org/10.1101/2020.03.04.976555, doi:10.1101/2020.03.04.976555. This article has 2 citations.
+
+16. (shi2024yank2activatedby pages 1-2): Yue Shi, Yue Cheng, Wei Wang, Liu Tang, Wensheng Li, Liyuan Zhang, Zheng Yuan, Feng Zhu, and Qiuhong Duan. Yank2 activated by fyn promotes glioma tumorigenesis via the mtor-independent p70s6k activation pathway. Scientific Reports, May 2024. URL: https://doi.org/10.1038/s41598-024-61157-5, doi:10.1038/s41598-024-61157-5. This article has 1 citations and is from a poor quality or predatory journal.
+
+17. (sorrell2020stk32aisa pages 18-22): Fiona J. Sorrell, Fabrizio Miranda, Kamal R. Abdul Azeez, Apirat Chaikuad, Arminja N. Kettenbach, Scott A. Gerber, Stefan Knapp, Ahmed A. Ahmed, and Jonathan M. Elkins. Stk32a is a dual-specificity agc kinase with a preference for acidic substrates. BioRxiv, Mar 2020. URL: https://doi.org/10.1101/2020.03.04.976555, doi:10.1101/2020.03.04.976555. This article has 2 citations.

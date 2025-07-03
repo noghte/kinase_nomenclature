@@ -1,0 +1,116 @@
+Protein: Platelet-derived growth factor receptor β (PDGFRβ) ‑ gene PDGFRB, UniProt P09619  
+
+--------------------------------------------------------------------------
+Phylogeny  
+PDGFRβ is a member of the type III receptor tyrosine kinase (RTK) subfamily that also includes PDGFRα, KIT, FLT3 and CSF1R, all of which share the split-kinase topology and five-Ig extracellular architecture (chen2013plateletderivedgrowthfactors pages 3-4).  
+Verified orthologs are present in Mus musculus (Pdgfrb), Rattus norvegicus (Pdgfrb), Danio rerio (pdgfrb), Drosophila melanogaster (PvR) and Caenorhabditis elegans (ver-1), underscoring conservation from vertebrates to invertebrates (bredrup2019atyrosinekinaseactivating pages 8-8).  
+
+--------------------------------------------------------------------------
+Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + protein-L-tyrosine phosphate (claessonwelsh1994plateletderivedgrowthfactor pages 1-1, alobeidi1998proteintyrosinekinases pages 3-5).  
+
+--------------------------------------------------------------------------
+Cofactor Requirements  
+Catalytic turnover requires two Mg²⁺ ions that coordinate the β- and γ-phosphates of ATP and orient the catalytic Lys and Asp residues (alobeidi1998proteintyrosinekinases pages 3-5, johnson2009proteinkinaseinhibitors pages 5-7).  
+
+--------------------------------------------------------------------------
+Substrate Specificity  
+Positional-scanning peptide arrays position PDGFRβ in a basophilic specificity cluster that prefers basic residues at −2/−1 and +1 around the target Tyr and tolerates an acidic or bulky hydrophobic residue at +3; a consensus motif derived from the highest-scoring peptides is D/E-x-Y-[R/K/E]-Φ, where Φ is hydrophobic (yaronbarir2024theintrinsicsubstrate pages 5-5, yaronbarir2024theintrinsicsubstrate pages 16-17, yaronbarir2024theintrinsicsubstrate pages 17-19).  
+Intrinsic autophosphorylation occurs on 11 tyrosines, including Y740, Y751, Y771, Y857, Y1009 and Y1021, which subsequently recruit PI3K, Src-family kinases, PLCγ, Shp2, Grb2 and STATs (heldin2013structuralandfunctional pages 1-3, heldin2013structuralandfunctional pages 3-4).  
+
+--------------------------------------------------------------------------
+Structure  
+Domain organisation  
+• Extracellular region: five Ig-like domains (D1–D5). D1 is heavily N-glycosylated; D2-D3 clamp PDGF dimers; D4-D5 mediate homotypic receptor contacts (chen2013plateletderivedgrowthfactors pages 4-5, shim2010structuresofa pages 2-4).  
+• Single 23-residue transmembrane helix couples extracellular rearrangements to the cytoplasm (chen2013plateletderivedgrowthfactors pages 4-5).  
+• Juxtamembrane segment folds over the N-lobe to autoinhibit the kinase (heldin2013structuralandfunctional pages 3-4).  
+• Split kinase domain: N-lobe + αC helix (PDB 3MJG), 100-aa insert, and C-lobe that ends in an acidic Ser/Thr-rich tail (alobeidi1998proteintyrosinekinases pages 3-5, chen2013plateletderivedgrowthfactors pages 4-5).  
+
+3-D organisation  
+The PDGF-B–PDGFRβ D1–D3 complex (PDB 2VVL) shows ~2,900 Å² buried surface with key aromatic receptor residues Tyr205, Tyr207, Phe136 and Phe138 dictating ligand selectivity (shim2010structuresofa pages 4-5).  
+Full-length negative-stain EM reveals a V-shaped extracellular dimer, membrane-proximal D4-D5 contacts and an asymmetric intracellular kinase dimer poised for trans-phosphorylation (chen2015structureoffulllength pages 4-6, chen2015structureoffulllength pages 8-10).  
+Catalytic features: the activation loop spans DFG 850 to APE and contains Y857; phosphorylation locks the αC-in/DFG-in active conformation and completes the hydrophobic spine (nemaysh2017computationalanalysisrevealing pages 1-2).  
+
+--------------------------------------------------------------------------
+Regulation  
+Post-translational modifications  
+• Autophosphorylation on 11 tyrosines activates the kinase and forms SH2/PTB docking sites (claessonwelsh1994plateletderivedgrowthfactor pages 1-1).  
+• Dephosphorylation by SHP2 and TC-PTP attenuates signalling and promotes receptor recycling (sramek2018effectsofsunitinib pages 6-8).  
+• Ubiquitination by c-Cbl (via adaptor Alix) and by SOCS3 directs lysosomal degradation (sramek2018effectsofsunitinib pages 6-8, bredrup2019atyrosinekinaseactivating pages 8-8).  
+• Extensive N-linked glycosylation on D1–D3 enhances folding and surface stability (chen2013plateletderivedgrowthfactors pages 4-5).  
+• The pathogenic p.R987W variant increases proteasomal turnover, reversible with MG-132 (sanchezcontreras2014geneticscreeningand pages 11-15).  
+
+Conformational/allosteric regulation  
+Ligand-induced ββ or αβ dimerisation brings two kinase domains together, displaces the juxtamembrane brake and enables activation-loop phosphorylation (heldin2013structuralandfunctional pages 3-4). Active Ras down-regulates PDGFRβ transcription, providing negative feedback (raica2010plateletderivedgrowthfactor pages 1-3).  
+
+--------------------------------------------------------------------------
+Function  
+Expression is highest in vascular smooth-muscle cells, pericytes and other mesenchymal derivatives (carrascogarcia2014roleofreceptor pages 8-11, andrae2008roleofplateletderived pages 5-6).  
+Cognate ligands PDGF-BB, PDGF-DD and PDGF-AB bind D2/D3 and, often anchored by heparan-sulfate proteoglycans, trigger receptor dimerisation (chen2013plateletderivedgrowthfactors pages 6-7, andrae2008roleofplateletderived pages 5-6).  
+Activated PDGFRβ initiates PI3K–Akt, Ras–Raf–ERK, PLCγ/Ca²⁺ and Src/Myc axes that drive proliferation, survival, chemotaxis and actin remodelling (heldin2013structuralandfunctional pages 3-4, sramek2018effectsofsunitinib pages 6-8, carrascogarcia2014roleofreceptor pages 8-11).  
+Scaffolding with integrins, FAK and PDZ-domain adaptor NHERF spatially restricts signalling to focal adhesions and primary cilia (andrae2008roleofplateletderived pages 5-6).  
+
+--------------------------------------------------------------------------
+Inhibitors  
+Type II ATP-competitive inhibitor imatinib blocks oncogenic fusions and germline Asn666Ser receptors (hassan2019novelpdgfrbrearrangement pages 15-15, bredrup2019atyrosinekinaseactivating pages 8-8).  
+Multi-target type I inhibitor sunitinib is compromised by K634 or T681 mutations (sramek2018effectsofsunitinib pages 6-8, nemaysh2017computationalanalysisrevealing pages 1-2).  
+Additional clinical inhibitors with PDGFRβ activity include sorafenib, dasatinib, ponatinib, crenolanib and nilotinib (hassan2019novelpdgfrbrearrangement pages 14-15, lierman2007etv6andpdgfrb pages 3-3).  
+
+--------------------------------------------------------------------------
+Other Comments  
+Oncogenic fusion genes ETV6-PDGFRB, TEL-PDGFRB and CEP110-PDGFRB drive myeloproliferative neoplasms that are highly imatinib-sensitive (lierman2007etv6andpdgfrb pages 3-3, hassan2019novelpdgfrbrearrangement pages 14-15).  
+Germline gain-of-function p.Asn666Ser causes Penttinen progeroid syndrome, whereas somatic p.Asp850Val and germline/somatic p.Asn666His underlie infantile myofibromatosis (bredrup2019atyrosinekinaseactivating pages 8-8).  
+Loss-of-function alleles p.L658P, p.R695C and p.R987W cause idiopathic basal-ganglia calcification by impairing receptor processing or signalling (sanchezcontreras2014geneticscreeningand pages 11-15).  
+Paracrine over-expression of PDGF-BB and PDGFRβ contributes to glioblastoma aggressiveness and adverse prognosis (carrascogarcia2014roleofreceptor pages 8-11).
+
+References
+
+1. (carrascogarcia2014roleofreceptor pages 8-11): E. Carrasco-Garcia, M. Saceda, and I. Martínez-Lacaci. Role of receptor tyrosine kinases and their ligands in glioblastoma. Cells, 3:199-235, Apr 2014. URL: https://doi.org/10.3390/cells3020199, doi:10.3390/cells3020199. This article has 99 citations and is from a peer-reviewed journal.
+
+2. (chen2013plateletderivedgrowthfactors pages 4-5): Po-Han Chen, Xiaoyan Chen, and Xiaolin He. Platelet-derived growth factors and their receptors: structural and functional perspectives. Biochimica et biophysica acta, 1834 10:2176-86, Oct 2013. URL: https://doi.org/10.1016/j.bbapap.2012.10.015, doi:10.1016/j.bbapap.2012.10.015. This article has 283 citations.
+
+3. (chen2013plateletderivedgrowthfactors pages 6-7): Po-Han Chen, Xiaoyan Chen, and Xiaolin He. Platelet-derived growth factors and their receptors: structural and functional perspectives. Biochimica et biophysica acta, 1834 10:2176-86, Oct 2013. URL: https://doi.org/10.1016/j.bbapap.2012.10.015, doi:10.1016/j.bbapap.2012.10.015. This article has 283 citations.
+
+4. (claessonwelsh1994plateletderivedgrowthfactor pages 1-1): Lena Claesson-Welsh. Platelet-derived growth factor receptor signals. The Journal of biological chemistry, 269 51:32023-6, Dec 1994. URL: https://doi.org/10.1016/s0021-9258(18)31591-6, doi:10.1016/s0021-9258(18)31591-6. This article has 761 citations.
+
+5. (heldin2013structuralandfunctional pages 1-3): C. Heldin and J. Lennartsson. Structural and functional properties of platelet-derived growth factor and stem cell factor receptors. Cold Spring Harbor perspectives in biology, 5 8:a009100, Aug 2013. URL: https://doi.org/10.1101/cshperspect.a009100, doi:10.1101/cshperspect.a009100. This article has 212 citations and is from a peer-reviewed journal.
+
+6. (heldin2013structuralandfunctional pages 3-4): C. Heldin and J. Lennartsson. Structural and functional properties of platelet-derived growth factor and stem cell factor receptors. Cold Spring Harbor perspectives in biology, 5 8:a009100, Aug 2013. URL: https://doi.org/10.1101/cshperspect.a009100, doi:10.1101/cshperspect.a009100. This article has 212 citations and is from a peer-reviewed journal.
+
+7. (nemaysh2017computationalanalysisrevealing pages 1-2): Vishal Nemaysh and P. Luthra. Computational analysis revealing that k634 and t681 mutations modulate the 3d-structure of pdgfr-β and lead to sunitinib resistance. RSC Advances, 7:37612-37626, Jul 2017. URL: https://doi.org/10.1039/c7ra01305a, doi:10.1039/c7ra01305a. This article has 37 citations and is from a peer-reviewed journal.
+
+8. (raica2010plateletderivedgrowthfactor pages 1-3): M. Raica and A. Cîmpean. Platelet-derived growth factor (pdgf)/pdgf receptors (pdgfr) axis as target for antitumor and antiangiogenic therapy. Pharmaceuticals, 3:572-599, Mar 2010. URL: https://doi.org/10.3390/ph3030572, doi:10.3390/ph3030572. This article has 370 citations and is from a peer-reviewed journal.
+
+9. (sanchezcontreras2014geneticscreeningand pages 11-15): Monica Sanchez-Contreras, M. Baker, N. Finch, Alexandra M. Nicholson, Aleksandra M. Wojtas, Z. Wszolek, O. Ross, D. Dickson, and R. Rademakers. Genetic screening and functional characterization of pdgfrb mutations associated with basal ganglia calcification of unknown etiology. Human Mutation, Aug 2014. URL: https://doi.org/10.1002/humu.22582, doi:10.1002/humu.22582. This article has 59 citations and is from a domain leading peer-reviewed journal.
+
+10. (sramek2018effectsofsunitinib pages 6-8): M. Šrámek, J. Neradil, P. Macigova, P. Múdry, K. Polaskova, O. Slabý, H. Nosková, J. Štěrba, and R. Veselska. Effects of sunitinib and other kinase inhibitors on cells harboring a pdgfrb mutation associated with infantile myofibromatosis. International Journal of Molecular Sciences, Sep 2018. URL: https://doi.org/10.3390/ijms19092599, doi:10.3390/ijms19092599. This article has 22 citations and is from a peer-reviewed journal.
+
+11. (yaronbarir2024theintrinsicsubstrate pages 5-5): Tomer M. Yaron-Barir, Brian A. Joughin, Emily M. Huntsman, Alexander Kerelsky, Daniel M. Cizin, Benjamin M. Cohen, Amit Regev, Junho Song, Neil Vasan, Ting-Yu Lin, Jose M. Orozco, Christina Schoenherr, Cari Sagum, Mark T. Bedford, R. Max Wynn, Shih-Chia Tso, David T. Chuang, Lei Li, Shawn S.-C. Li, Pau Creixell, Konstantin Krismer, Mina Takegami, Harin Lee, Bin Zhang, Jingyi Lu, Ian Cossentino, Sean D. Landry, Mohamed Uduman, John Blenis, Olivier Elemento, Margaret C. Frame, Peter V. Hornbeck, Lewis C. Cantley, Benjamin E. Turk, Michael B. Yaffe, and Jared L. Johnson. The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629:1174-1181, May 2024. URL: https://doi.org/10.1038/s41586-024-07407-y, doi:10.1038/s41586-024-07407-y. This article has 59 citations and is from a highest quality peer-reviewed journal.
+
+12. (alobeidi1998proteintyrosinekinases pages 3-5): F. Al-Obeidi, Jinzi J. Wu, and Kit S. Lam. Protein tyrosine kinases: structure, substrate specificity, and drug discovery. Peptide Science, 1998. URL: https://doi.org/10.1002/(sici)1097-0282(1998)47:3<197::aid-bip2>3.0.co;2-h, doi:10.1002/(sici)1097-0282(1998)47:3<197::aid-bip2>3.0.co;2-h. This article has 133 citations.
+
+13. (andrae2008roleofplateletderived pages 5-6): Johanna Andrae, R. Gallini, and C. Betsholtz. Role of platelet-derived growth factors in physiology and medicine. Genes & development, 22 10:1276-312, May 2008. URL: https://doi.org/10.1101/gad.1653708, doi:10.1101/gad.1653708. This article has 3081 citations.
+
+14. (bredrup2019atyrosinekinaseactivating pages 8-8): C. Bredrup, T. Stokowy, J. McGaughran, Samuel Lee, D. Sapkota, Ileana Cristea, Linda Xu, K. Tveit, G. Høvding, V. Steen, E. Rødahl, O. Bruland, and G. Houge. A tyrosine kinase-activating variant asn666ser in pdgfrb causes a progeria-like condition in the severe end of penttinen syndrome. European Journal of Human Genetics, 27:574-581, Dec 2019. URL: https://doi.org/10.1038/s41431-018-0323-z, doi:10.1038/s41431-018-0323-z. This article has 31 citations and is from a domain leading peer-reviewed journal.
+
+15. (chen2013plateletderivedgrowthfactors pages 3-4): Po-Han Chen, Xiaoyan Chen, and Xiaolin He. Platelet-derived growth factors and their receptors: structural and functional perspectives. Biochimica et biophysica acta, 1834 10:2176-86, Oct 2013. URL: https://doi.org/10.1016/j.bbapap.2012.10.015, doi:10.1016/j.bbapap.2012.10.015. This article has 283 citations.
+
+16. (chen2015structureoffulllength pages 4-6): Po-Han Chen, V. Unger, and Xiaolin He. Structure of full-length human pdgfrβ bound to its activating ligand pdgf-b as determined by negative-stain electron microscopy. Journal of molecular biology, 427 24:3921-34, Dec 2015. URL: https://doi.org/10.1016/j.jmb.2015.10.003, doi:10.1016/j.jmb.2015.10.003. This article has 59 citations and is from a domain leading peer-reviewed journal.
+
+17. (chen2015structureoffulllength pages 8-10): Po-Han Chen, V. Unger, and Xiaolin He. Structure of full-length human pdgfrβ bound to its activating ligand pdgf-b as determined by negative-stain electron microscopy. Journal of molecular biology, 427 24:3921-34, Dec 2015. URL: https://doi.org/10.1016/j.jmb.2015.10.003, doi:10.1016/j.jmb.2015.10.003. This article has 59 citations and is from a domain leading peer-reviewed journal.
+
+18. (hassan2019novelpdgfrbrearrangement pages 15-15): Mohammed Hassan, E. Butler, Raphael A. Wilson, Angshumoy Roy, Yanbin Zheng, Priscilla Liem, D. Rakheja, D. Pavlick, Lauren L. Young, M. Rosenzweig, R. Erlich, Siraj M. Ali, P. Leavey, D. W. Parsons, S. Skapek, and T. Laetsch. Novel pdgfrb rearrangement in multifocal infantile myofibromatosis is tumorigenic and sensitive to imatinib. Cold Spring Harbor Molecular Case Studies, Oct 2019. URL: https://doi.org/10.1101/mcs.a004440, doi:10.1101/mcs.a004440. This article has 17 citations and is from a peer-reviewed journal.
+
+19. (johnson2009proteinkinaseinhibitors pages 5-7): L. Johnson. Protein kinase inhibitors: contributions from structure to clinical compounds. Quarterly Reviews of Biophysics, 42:1-40, Feb 2009. URL: https://doi.org/10.1017/s0033583508004745, doi:10.1017/s0033583508004745. This article has 333 citations and is from a peer-reviewed journal.
+
+20. (shim2010structuresofa pages 2-4): Ann Hye-Ryong Shim, Heli Liu, P. Focia, Xiaoyan Chen, P. Lin, and Xiaolin He. Structures of a platelet-derived growth factor/propeptide complex and a platelet-derived growth factor/receptor complex. Proceedings of the National Academy of Sciences, 107:11307-11312, Jun 2010. URL: https://doi.org/10.1073/pnas.1000806107, doi:10.1073/pnas.1000806107. This article has 231 citations.
+
+21. (shim2010structuresofa pages 4-5): Ann Hye-Ryong Shim, Heli Liu, P. Focia, Xiaoyan Chen, P. Lin, and Xiaolin He. Structures of a platelet-derived growth factor/propeptide complex and a platelet-derived growth factor/receptor complex. Proceedings of the National Academy of Sciences, 107:11307-11312, Jun 2010. URL: https://doi.org/10.1073/pnas.1000806107, doi:10.1073/pnas.1000806107. This article has 231 citations.
+
+22. (yaronbarir2024theintrinsicsubstrate pages 16-17): Tomer M. Yaron-Barir, Brian A. Joughin, Emily M. Huntsman, Alexander Kerelsky, Daniel M. Cizin, Benjamin M. Cohen, Amit Regev, Junho Song, Neil Vasan, Ting-Yu Lin, Jose M. Orozco, Christina Schoenherr, Cari Sagum, Mark T. Bedford, R. Max Wynn, Shih-Chia Tso, David T. Chuang, Lei Li, Shawn S.-C. Li, Pau Creixell, Konstantin Krismer, Mina Takegami, Harin Lee, Bin Zhang, Jingyi Lu, Ian Cossentino, Sean D. Landry, Mohamed Uduman, John Blenis, Olivier Elemento, Margaret C. Frame, Peter V. Hornbeck, Lewis C. Cantley, Benjamin E. Turk, Michael B. Yaffe, and Jared L. Johnson. The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629:1174-1181, May 2024. URL: https://doi.org/10.1038/s41586-024-07407-y, doi:10.1038/s41586-024-07407-y. This article has 59 citations and is from a highest quality peer-reviewed journal.
+
+23. (yaronbarir2024theintrinsicsubstrate pages 17-19): Tomer M. Yaron-Barir, Brian A. Joughin, Emily M. Huntsman, Alexander Kerelsky, Daniel M. Cizin, Benjamin M. Cohen, Amit Regev, Junho Song, Neil Vasan, Ting-Yu Lin, Jose M. Orozco, Christina Schoenherr, Cari Sagum, Mark T. Bedford, R. Max Wynn, Shih-Chia Tso, David T. Chuang, Lei Li, Shawn S.-C. Li, Pau Creixell, Konstantin Krismer, Mina Takegami, Harin Lee, Bin Zhang, Jingyi Lu, Ian Cossentino, Sean D. Landry, Mohamed Uduman, John Blenis, Olivier Elemento, Margaret C. Frame, Peter V. Hornbeck, Lewis C. Cantley, Benjamin E. Turk, Michael B. Yaffe, and Jared L. Johnson. The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629:1174-1181, May 2024. URL: https://doi.org/10.1038/s41586-024-07407-y, doi:10.1038/s41586-024-07407-y. This article has 59 citations and is from a highest quality peer-reviewed journal.
+
+24. (hassan2019novelpdgfrbrearrangement pages 14-15): Mohammed Hassan, E. Butler, Raphael A. Wilson, Angshumoy Roy, Yanbin Zheng, Priscilla Liem, D. Rakheja, D. Pavlick, Lauren L. Young, M. Rosenzweig, R. Erlich, Siraj M. Ali, P. Leavey, D. W. Parsons, S. Skapek, and T. Laetsch. Novel pdgfrb rearrangement in multifocal infantile myofibromatosis is tumorigenic and sensitive to imatinib. Cold Spring Harbor Molecular Case Studies, Oct 2019. URL: https://doi.org/10.1101/mcs.a004440, doi:10.1101/mcs.a004440. This article has 17 citations and is from a peer-reviewed journal.
+
+25. (lierman2007etv6andpdgfrb pages 3-3): E. Lierman and J. Cools. Etv6 and pdgfrb: a license to fuse. Haematologica, 92:145-147, Feb 2007. URL: https://doi.org/10.3324/haematol.11187, doi:10.3324/haematol.11187. This article has 21 citations.

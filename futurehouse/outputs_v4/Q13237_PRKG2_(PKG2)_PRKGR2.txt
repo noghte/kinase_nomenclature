@@ -1,0 +1,83 @@
+## Phylogeny  
+• PRKG2 is one of the two mammalian cyclic-GMP-dependent protein kinase genes; it encodes the type II isoform (cGK II), whereas PRKG1 encodes cGK I. Both cluster within the AGC / cyclic-nucleotide–dependent branch of the kinome (vaandrager2005molecularpropertiesand pages 1-2, bijvelds2018selectiveinhibitionof pages 2-3).  
+• Well-conserved orthologs with intact catalytic domains occur in mouse, rat, cattle, dog and human, and loss-of-function alleles in each species produce proportionate dwarfism phenotypes, underscoring functional conservation (koltes2009anonsensemutation pages 3-4, garces2021prkg2splicesite pages 7-8, bijvelds2018selectiveinhibitionof pages 8-10).  
+• cGK II is most closely related to cGK I and more distant from Drosophila DG1/DG2 kinases, in agreement with kinome-wide evolutionary analyses (vaandrager2005molecularpropertiesand pages 1-2, bijvelds2018selectiveinhibitionof pages 2-3).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + protein-O-phospho-Ser/Thr (vaandrager2005molecularpropertiesand pages 5-7).  
+
+## Cofactor Requirements  
+Requires divalent Mg²⁺ for efficient ATP binding and phosphotransfer (bijvelds2018selectiveinhibitionof pages 2-3).  
+
+## Substrate Specificity  
+• Preferred consensus motif: RRXS/T with two basic residues N-terminal to the phospho-acceptor (vaandrager2005molecularpropertiesand pages 5-7).  
+• Validated substrates:  
+  – CFTR regulatory domain; phosphorylation at Ser700 and at least four additional sites activates chloride conductance (vaandrager2005molecularpropertiesand pages 7-8).  
+  – Raf-1; phosphorylation at Ser43 suppresses FGF-induced ERK1/2 signaling in chondrocytes (diazgonzalez2022bialleliccgmpdependenttype pages 5-6).  
+
+## Structure  
+• Homodimer of 762-aa subunits arranged in parallel; dimerization involves an N-terminal leucine-zipper that is myristoylated for membrane anchoring (vaandrager2005molecularpropertiesand pages 1-2, bijvelds2018selectiveinhibitionof pages 2-3).  
+• Domain organization:  
+  – N-terminal myristoylation signal + leucine-zipper / dimerization segment.  
+  – Autoinhibitory pseudosubstrate region.  
+  – Two cyclic-nucleotide binding domains: CNB-A (low affinity, proximal) and CNB-B (high affinity, distal); their order is reversed relative to cGK I (vaandrager2005molecularpropertiesand pages 1-2).  
+  – C-terminal Ser/Thr kinase catalytic domain with conserved HRD and DFG motifs; homology modelling and AlphaFold predictions confirm canonical AGC-fold features including the C-helix and activation loop (bijvelds2018selectiveinhibitionof pages 2-3, kim2011cocrystalstructuresof pages 1-3).  
+• PKG-family crystal structures show that cyclic-nucleotide binding elicits conformational changes that disengage the pseudosubstrate and align catalytic spines for catalysis (kim2011cocrystalstructuresof pages 1-3).  
+
+## Regulation  
+• Allosteric activation by cGMP binding to CNB-A and CNB-B releases the autoinhibitory sequence and activates the catalytic domain (akgundogan2024twonewpatients pages 5-6, kim2011cocrystalstructuresof pages 1-3).  
+• Autophosphorylation of regulatory-domain serines (Ser110, Ser114, Ser126, Ser445) fine-tunes activation kinetics and can render the enzyme partially cGMP-independent (vaandrager2005molecularpropertiesand pages 5-7).  
+• N-terminal myristoylation is obligatory for stable membrane association and efficient phosphorylation of membrane substrates such as CFTR (vaandrager2005molecularpropertiesand pages 1-2).  
+• Interaction with PDZ-domain scaffolds NHERF2/E3KARP targets cGK II to the apical membrane juxtaposed to CFTR and NHE3 (vaandrager2005molecularpropertiesand pages 7-8).  
+• High intracellular ATP shifts the cGMP EC₅₀ upward and modifies autophosphorylation patterns, indicating competitive interplay between ATP and cGMP at catalytic and regulatory sites (vaandrager2005molecularpropertiesand pages 5-7).  
+
+## Function  
+• Expression: high in intestinal epithelium, growth-plate cartilage, brain, kidney, lung and pancreas (koltes2009anonsensemutation pages 3-4, vaandrager2005molecularpropertiesand pages 1-2).  
+• Intestinal secretion: phosphorylates CFTR and inhibits NHE3 downstream of guanylin/uroguanylin–GC-C–cGMP signaling; Prkg2-null mice exhibit deficient jejunal chloride and water secretion (vaandrager2005molecularpropertiesand pages 7-8, bijvelds2018selectiveinhibitionof pages 2-3).  
+• Skeletal development: acts downstream of CNP/NPR-B; Raf-1 Ser43 phosphorylation dampens FGF2-ERK1/2 signaling, enabling the transition from proliferative to hypertrophic chondrocytes; loss of PRKG2 causes dwarfism in multiple species (diazgonzalez2022bialleliccgmpdependenttype pages 5-6, koltes2009anonsensemutation pages 3-4).  
+• Transcriptional control: phosphorylates SOX9, restricting its nuclear entry and modulating COL2A1 and COL10A1 expression during endochondral ossification (garces2021prkg2splicesite pages 7-8).  
+• Neuronal signaling: regulates synaptic plasticity via phosphorylation-dependent trafficking of the AMPA-receptor subunit GRIA1/GLUR1 (bonnet2010microdeletionatchromosome pages 8-8).  
+• Renal and adrenal epithelia: phosphorylates TRPV5 and StAR, contributing to calcium reabsorption and aldosterone synthesis, respectively (vaandrager2005molecularpropertiesand pages 10-11).  
+
+## Inhibitors  
+• Imidazole-aminopyrimidines AP-C5 and AP-C6 occupy the ATP pocket and selectively inhibit cGK II over cGK I and PKA in cellular assays (bijvelds2018selectiveinhibitionof pages 2-3).  
+• KT5823 and the peptide DT-2 inhibit PKG activity in vitro but lack potency or isoform selectivity in intact cells (bijvelds2018selectiveinhibitionof pages 8-10).  
+
+## Other Comments  
+• Pathogenic variants:  
+  – Human: p.Asn164Lysfs*2, p.Arg569*, p.Asp761Glufs*34, p.Val470Gly; all abolish kinase activity and cause autosomal-recessive acromesomelic dysplasia with severe limb shortening (diazgonzalez2022bialleliccgmpdependenttype pages 6-6, akgundogan2024twonewpatients pages 6-6, pagnamenta2022variableskeletalphenotypes pages 1-1).  
+  – Cattle: p.Arg678* (R678X) leads to dwarfism in American Angus cattle (koltes2009anonsensemutation pages 3-4).  
+  – Dog: splice-site c.1634+1G>T causes disproportionate dwarfism in Dogo Argentino (garces2021prkg2splicesite pages 7-8).  
+• Disease mechanism: loss-of-function mutations prevent Raf-1 Ser43 phosphorylation and fail to repress ERK1/2 signaling in growth-plate cartilage (diazgonzalez2022bialleliccgmpdependenttype pages 6-6, akgundogan2024twonewpatients pages 5-6).
+
+References
+
+1. (bijvelds2018selectiveinhibitionof pages 2-3): M. Bijvelds, G. Tresadern, A. Hellemans, K. Smans, Natascha D A Nieuwenhuijze, Kelly F. Meijsen, J. Bongartz, L. Ver Donck, H. D. de Jonge, J. Schuurkes, and J. H. De Maeyer. Selective inhibition of intestinal guanosine 3′,5′-cyclic monophosphate signaling by small-molecule protein kinase inhibitors. The Journal of Biological Chemistry, 293:8173-8181, Apr 2018. URL: https://doi.org/10.1074/jbc.ra118.002835, doi:10.1074/jbc.ra118.002835. This article has 9 citations.
+
+2. (bijvelds2018selectiveinhibitionof pages 8-10): M. Bijvelds, G. Tresadern, A. Hellemans, K. Smans, Natascha D A Nieuwenhuijze, Kelly F. Meijsen, J. Bongartz, L. Ver Donck, H. D. de Jonge, J. Schuurkes, and J. H. De Maeyer. Selective inhibition of intestinal guanosine 3′,5′-cyclic monophosphate signaling by small-molecule protein kinase inhibitors. The Journal of Biological Chemistry, 293:8173-8181, Apr 2018. URL: https://doi.org/10.1074/jbc.ra118.002835, doi:10.1074/jbc.ra118.002835. This article has 9 citations.
+
+3. (koltes2009anonsensemutation pages 3-4): James E. Koltes, Bishnu P. Mishra, Dinesh Kumar, Ranjit S. Kataria, Liviu R. Totir, Rohan L. Fernando, Rowland Cobbold, David Steffen, Wouter Coppieters, Michel Georges, and James M. Reecy. A nonsense mutation in cgmp-dependent type ii protein kinase ( <i>prkg2</i> ) causes dwarfism in american angus cattle. Proceedings of the National Academy of Sciences, 106:19250-19255, Nov 2009. URL: https://doi.org/10.1073/pnas.0904513106, doi:10.1073/pnas.0904513106. This article has 56 citations.
+
+4. (pagnamenta2022variableskeletalphenotypes pages 1-1): Alistair T Pagnamenta, Francisca Diaz-Gonzalez, Benito Banos-Pinero, Matteo P Ferla, Mehran B Toosi, Alistair D Calder, Ehsan G Karimiani, Mohammad Doosti, Andrew Wainwright, Paul Wordsworth, Kathryn Bailey, Katarina Ejeskär, Tracy Lester, Reza Maroofian, Karen E Heath, Homa Tajsharghi, Deborah Shears, and Jenny C Taylor. Variable skeletal phenotypes associated with biallelic variants in <i>prkg2</i>. Journal of Medical Genetics, 59:947-950, Nov 2022. URL: https://doi.org/10.1136/jmedgenet-2021-108027, doi:10.1136/jmedgenet-2021-108027. This article has 10 citations and is from a domain leading peer-reviewed journal.
+
+5. (akgundogan2024twonewpatients pages 5-6): Ozlem Akgun-Dogan, Francisca Díaz-González, Alexander Augusto de Lima Jorge, Neslihan Onenli-Mungan, Nathalia Liberatoscioli Menezes Andrade, Laurana de Polli Cellin, S. Ceylaner, Maria Barcellos Rosa Modkovski, Y. Alanay, and K. Heath. Two new patients with acromesomelic dysplasia, prkg2 type-identification and characterization of the first missense variant. European journal of human genetics : EJHG, Oct 2024. URL: https://doi.org/10.1038/s41431-023-01472-z, doi:10.1038/s41431-023-01472-z. This article has 2 citations.
+
+6. (akgundogan2024twonewpatients pages 6-6): Ozlem Akgun-Dogan, Francisca Díaz-González, Alexander Augusto de Lima Jorge, Neslihan Onenli-Mungan, Nathalia Liberatoscioli Menezes Andrade, Laurana de Polli Cellin, S. Ceylaner, Maria Barcellos Rosa Modkovski, Y. Alanay, and K. Heath. Two new patients with acromesomelic dysplasia, prkg2 type-identification and characterization of the first missense variant. European journal of human genetics : EJHG, Oct 2024. URL: https://doi.org/10.1038/s41431-023-01472-z, doi:10.1038/s41431-023-01472-z. This article has 2 citations.
+
+7. (bonnet2010microdeletionatchromosome pages 8-8): C. Bonnet, J. Andrieux, M. Beri-Dexheimer, B. Leheup, O. Boute, S. Manouvrier, B. Delobel, H. Copin, A. Receveur, M. Mathieu, G. Thiriez, C. Caignec, A. David, M. Blois, V. Malan, A. Philippe, V. Cormier-Daire, L. Colleaux, E. Flori, H. Dollfus, V. Pelletier, C. Thauvin-Robinet, A. Masurel‐Paulet, L. Faivre, M. Tardieu, N. Bahi-Buisson, P. Callier, F. Mugneret, P. Edery, P. Jonveaux, and D. Sanlaville. Microdeletion at chromosome 4q21 defines a new emerging syndrome with marked growth restriction, mental retardation and absent or severely delayed speech. Journal of Medical Genetics, 47:377-384, Jun 2010. URL: https://doi.org/10.1136/jmg.2009.071902, doi:10.1136/jmg.2009.071902. This article has 87 citations and is from a domain leading peer-reviewed journal.
+
+8. (diazgonzalez2022bialleliccgmpdependenttype pages 5-6): Francisca Díaz-González, Saruchi Wadhwa, Maria Rodriguez-Zabala, Somesh Kumar, M. Aza-Carmona, L. Sentchordi-Montané, M. Alonso, I. Ahmad, Sana Zahra, Deepak Kumar, N. Kushwah, Uzma Shamim, Haseena Sait, S. Kapoor, B. Roldán, G. Nishimura, A. Offiah, M. Faruq, and K. Heath. Biallelic cgmp-dependent type ii protein kinase gene (prkg2) variants cause a novel acromesomelic dysplasia. Journal of Medical Genetics, 59:28-38, Oct 2022. URL: https://doi.org/10.1136/jmedgenet-2020-107177, doi:10.1136/jmedgenet-2020-107177. This article has 14 citations and is from a domain leading peer-reviewed journal.
+
+9. (diazgonzalez2022bialleliccgmpdependenttype pages 6-6): Francisca Díaz-González, Saruchi Wadhwa, Maria Rodriguez-Zabala, Somesh Kumar, M. Aza-Carmona, L. Sentchordi-Montané, M. Alonso, I. Ahmad, Sana Zahra, Deepak Kumar, N. Kushwah, Uzma Shamim, Haseena Sait, S. Kapoor, B. Roldán, G. Nishimura, A. Offiah, M. Faruq, and K. Heath. Biallelic cgmp-dependent type ii protein kinase gene (prkg2) variants cause a novel acromesomelic dysplasia. Journal of Medical Genetics, 59:28-38, Oct 2022. URL: https://doi.org/10.1136/jmedgenet-2020-107177, doi:10.1136/jmedgenet-2020-107177. This article has 14 citations and is from a domain leading peer-reviewed journal.
+
+10. (garces2021prkg2splicesite pages 7-8): Gabriela Rudd Garces, M. Turba, Myriam Muracchini, A. Diana, V. Jagannathan, F. Gentilini, and T. Leeb. Prkg2 splice site variant in dogo argentino dogs with disproportionate dwarfism. Genes, Sep 2021. URL: https://doi.org/10.3390/genes12101489, doi:10.3390/genes12101489. This article has 8 citations and is from a peer-reviewed journal.
+
+11. (vaandrager2005molecularpropertiesand pages 1-2): A. Vaandrager, B. Hogema, and H. D. de Jonge. Molecular properties and biological functions of cgmp-dependent protein kinase ii. Frontiers in bioscience : a journal and virtual library, 10:2150-64, Sep 2005. URL: https://doi.org/10.2741/1687, doi:10.2741/1687. This article has 69 citations.
+
+12. (vaandrager2005molecularpropertiesand pages 5-7): A. Vaandrager, B. Hogema, and H. D. de Jonge. Molecular properties and biological functions of cgmp-dependent protein kinase ii. Frontiers in bioscience : a journal and virtual library, 10:2150-64, Sep 2005. URL: https://doi.org/10.2741/1687, doi:10.2741/1687. This article has 69 citations.
+
+13. (vaandrager2005molecularpropertiesand pages 7-8): A. Vaandrager, B. Hogema, and H. D. de Jonge. Molecular properties and biological functions of cgmp-dependent protein kinase ii. Frontiers in bioscience : a journal and virtual library, 10:2150-64, Sep 2005. URL: https://doi.org/10.2741/1687, doi:10.2741/1687. This article has 69 citations.
+
+14. (kim2011cocrystalstructuresof pages 1-3): Jeong Joo Kim, Darren E. Casteel, Gilbert Huang, Taek Hun Kwon, Ronnie Kuo Ren, Peter Zwart, Jeffrey J. Headd, Nicholas Gene Brown, Dar-Chone Chow, Timothy Palzkill, and Choel Kim. Co-crystal structures of pkg iβ (92–227) with cgmp and camp reveal the molecular details of cyclic-nucleotide binding. PLoS ONE, 6:e18413, Apr 2011. URL: https://doi.org/10.1371/journal.pone.0018413, doi:10.1371/journal.pone.0018413. This article has 78 citations and is from a peer-reviewed journal.
+
+15. (vaandrager2005molecularpropertiesand pages 10-11): A. Vaandrager, B. Hogema, and H. D. de Jonge. Molecular properties and biological functions of cgmp-dependent protein kinase ii. Frontiers in bioscience : a journal and virtual library, 10:2150-64, Sep 2005. URL: https://doi.org/10.2741/1687, doi:10.2741/1687. This article has 69 citations.

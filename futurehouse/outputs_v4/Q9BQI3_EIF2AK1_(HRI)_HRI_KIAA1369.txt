@@ -1,0 +1,91 @@
+Protein: Eukaryotic translation initiation factor 2-alpha kinase 1 (EIF2AK1, HRI) UniProt: Q9BQI3  
+
+## Phylogeny  
+• Orthologs confirmed in Homo sapiens, Mus musculus, Rattus norvegicus, Oryctolagus cuniculus and Macaca mulatta (kanta2024heminbindingcauses pages 27-28).  
+• Teleost ortholog present in Danio rerio (taniuchi2016integratedstressresponse pages 8-9).  
+• Two paralogs SpHRI1p/SpHRI2p in Schizosaccharomyces pombe; absent in Drosophila melanogaster and Caenorhabditis elegans, indicating lineage-specific loss (rothenburg2016evolutionofeif2α pages 4-7).  
+• Member of the CMGC group, EIF2AK subfamily, clustering with PERK (EIF2AK3), PKR (EIF2AK2) and GCN2 (EIF2AK4); derived from the ancestral GCN2 branch (rothenburg2016evolutionofeif2α pages 4-7).  
+
+## Reaction Catalyzed  
+• ATP + eIF2α-Ser51 ⇌ ADP + eIF2α-Ser51-P (pavitt2018regulationoftranslation pages 1-3).  
+
+## Cofactor Requirements  
+• Two regulatory heme molecules bind: high-affinity N-terminal His119/His120 site and reversible site in the kinase-insert, controlling activity (unknownauthors2015thefunctionalinterplay pages 35-39).  
+• Heme (ferric hemin) inhibits autophosphorylation with IC₅₀ ≈ 2.9 µM (kanta2024heminbindingcauses pages 3-5).  
+
+## Substrate Specificity  
+• Primary cellular substrate: eIF2α Ser51; no broader consensus motif detected, reflecting strict selectivity (kanta2024heminbindingcauses pages 1-3).  
+• Extensive autophosphorylation on ≥41 Ser/Thr/Tyr residues including T486/T488/S489 cluster in the activation loop (kanta2024heminbindingcauses pages 5-7).  
+• Dual-specificity character indicated by tyrosine autophosphorylation (kanta2024heminbindingcauses pages 5-7).  
+
+## Structure  
+• Domain organization: N-terminal heme-binding domain (~100-130), disordered kinase-insert (241-370), bilobal kinase domain with extended activation loop (464-488), C-terminal coiled-coil dimerization region (kanta2024heminbindingcauses pages 5-7).  
+• Quaternary state: constitutive back-to-back homodimer (~150 kDa) validated by mass photometry and AlphaFold3 model (kanta2024heminbindingcauses pages 21-22).  
+• Catalytic landmarks: partial Gly-rich P-loop, VAIK β3 lysine, HRD catalytic loop, DFG motif, ordered αC-helix; hydrophobic spine intact in apo model (kanta2024heminbindingcauses pages 5-7).  
+• 3D resources: full-length AlphaFold3 dimer; kinase-domain homology model based on PDB 5CSW (kanta2024heminbindingcauses pages 3-5).  
+• Allostery: heme binding induces EX1-type folding transitions that shield the activation loop and N-lobe, suppressing autophosphorylation (kanta2024heminbindingcauses pages 7-9).  
+
+## Regulation  
+• Autophosphorylation at S6, S41, T97, S276, T486, T488, S489, Y496 and others promotes activity (kanta2024heminbindingcauses pages 21-22).  
+• Heme binding blocks autophosphorylation yet allows residual eIF2α phosphorylation (kanta2024heminbindingcauses pages 3-5).  
+• Chaperones Hsp90/Hsc70 facilitate activation under heme deficiency (burwick2017theeif2alphakinasea pages 3-4).  
+• Stress activators: heme scarcity, arsenite, H₂O₂, NaCl hyper-osmolarity, proteasome inhibition, heat shock and mitochondrial stress via DELE1 (taniuchi2016integratedstressresponse pages 2-4, bond2020theintegratedstress pages 6-7).  
+• λ-phosphatase reverses autophosphorylation in vitro (kanta2024heminbindingcauses pages 9-12).  
+
+## Function  
+• Highest expression in erythroid precursors; substantial levels in liver, spleen, kidney, brain, lung, macrophages and neurons (burwick2017theeif2alphakinasea pages 3-4, bond2020theintegratedstress pages 6-7).  
+• Upstream signals: fluctuations in heme, oxidative stress, osmotic shock, mitochondrial dysfunction and proteotoxic stress (kanta2024heminbindingcauses pages 1-3, taniuchi2016integratedstressresponse pages 2-4).  
+• Downstream cascade: eIF2α-P inhibits eIF2B, broadly repressing cap-dependent translation while enabling ATF4/CHOP ISR program (burwick2017theeif2alphakinasea pages 13-16, wek2023survivingandadapting pages 2-4).  
+• Interactors: eIF2 trimer (substrate), DELE1 (mitochondrial stress relay), Hsp90/Hsc70 (chaperones) (kanta2024heminbindingcauses pages 1-3, burwick2017theeif2alphakinasea pages 3-4).  
+
+## Inhibitors  
+• Physiological inhibitor: hemin (IC₅₀ ≈ 2.9 µM) (kanta2024heminbindingcauses pages 3-5).  
+• ATP-competitive inhibitors: Dabrafenib and Encorafenib, sub-µM potency, protect P-loop/DFG/activation loop regions (kanta2024heminbindingcauses pages 7-9).  
+• GCN2iB binds with sub-nM affinity (kanta2024heminbindingcauses pages 3-5).  
+• Direct activators: N,N′-diarylurea cyclohexyl analogues (cHAUs) enhance kinase activity (zhang2020newactivatorsof pages 1-9).  
+• Indirect activator: BTdCPU induces ISR via mitochondrial stress, no direct binding (kanta2024heminbindingcauses pages 7-9).  
+
+## Other Comments  
+• Loss of HRI exacerbates β-thalassemia, hemochromatosis, fatty liver disease and glucose intolerance (burwick2017theeif2alphakinasea pages 7-9).  
+• Dysregulated HRI-ISR signaling contributes to neurodegeneration by perturbing iron handling in macrophages and Schwann cells (bond2020theintegratedstress pages 6-7).  
+• No recurrent pathogenic EIF2AK1 mutations have been reported to date (kanta2024heminbindingcauses pages 16-18).
+
+References
+
+1. (kanta2024heminbindingcauses pages 7-9): Shivani Kanta, Vanesa Vinciauskaite, Graham Neill, Miratul M.K. Muqit, and Glenn R. Masson. Hemin binding causes structural rearrangements in hri to inhibit activation via autophosphorylation. BioRxiv, Aug 2024. URL: https://doi.org/10.1101/2024.08.14.607626, doi:10.1101/2024.08.14.607626. This article has 0 citations.
+
+2. (burwick2017theeif2alphakinasea pages 13-16): N. Burwick and B. Aktas. The eif2-alpha kinase hri: a potential target beyond the red blood cell. Expert Opinion on Therapeutic Targets, 21:1171-1177, Oct 2017. URL: https://doi.org/10.1080/14728222.2017.1397133, doi:10.1080/14728222.2017.1397133. This article has 63 citations and is from a peer-reviewed journal.
+
+3. (burwick2017theeif2alphakinasea pages 3-4): N. Burwick and B. Aktas. The eif2-alpha kinase hri: a potential target beyond the red blood cell. Expert Opinion on Therapeutic Targets, 21:1171-1177, Oct 2017. URL: https://doi.org/10.1080/14728222.2017.1397133, doi:10.1080/14728222.2017.1397133. This article has 63 citations and is from a peer-reviewed journal.
+
+4. (burwick2017theeif2alphakinasea pages 7-9): N. Burwick and B. Aktas. The eif2-alpha kinase hri: a potential target beyond the red blood cell. Expert Opinion on Therapeutic Targets, 21:1171-1177, Oct 2017. URL: https://doi.org/10.1080/14728222.2017.1397133, doi:10.1080/14728222.2017.1397133. This article has 63 citations and is from a peer-reviewed journal.
+
+5. (kanta2024heminbindingcauses pages 1-3): Shivani Kanta, Vanesa Vinciauskaite, Graham Neill, Miratul M.K. Muqit, and Glenn R. Masson. Hemin binding causes structural rearrangements in hri to inhibit activation via autophosphorylation. BioRxiv, Aug 2024. URL: https://doi.org/10.1101/2024.08.14.607626, doi:10.1101/2024.08.14.607626. This article has 0 citations.
+
+6. (kanta2024heminbindingcauses pages 16-18): Shivani Kanta, Vanesa Vinciauskaite, Graham Neill, Miratul M.K. Muqit, and Glenn R. Masson. Hemin binding causes structural rearrangements in hri to inhibit activation via autophosphorylation. BioRxiv, Aug 2024. URL: https://doi.org/10.1101/2024.08.14.607626, doi:10.1101/2024.08.14.607626. This article has 0 citations.
+
+7. (kanta2024heminbindingcauses pages 21-22): Shivani Kanta, Vanesa Vinciauskaite, Graham Neill, Miratul M.K. Muqit, and Glenn R. Masson. Hemin binding causes structural rearrangements in hri to inhibit activation via autophosphorylation. BioRxiv, Aug 2024. URL: https://doi.org/10.1101/2024.08.14.607626, doi:10.1101/2024.08.14.607626. This article has 0 citations.
+
+8. (kanta2024heminbindingcauses pages 27-28): Shivani Kanta, Vanesa Vinciauskaite, Graham Neill, Miratul M.K. Muqit, and Glenn R. Masson. Hemin binding causes structural rearrangements in hri to inhibit activation via autophosphorylation. BioRxiv, Aug 2024. URL: https://doi.org/10.1101/2024.08.14.607626, doi:10.1101/2024.08.14.607626. This article has 0 citations.
+
+9. (kanta2024heminbindingcauses pages 3-5): Shivani Kanta, Vanesa Vinciauskaite, Graham Neill, Miratul M.K. Muqit, and Glenn R. Masson. Hemin binding causes structural rearrangements in hri to inhibit activation via autophosphorylation. BioRxiv, Aug 2024. URL: https://doi.org/10.1101/2024.08.14.607626, doi:10.1101/2024.08.14.607626. This article has 0 citations.
+
+10. (kanta2024heminbindingcauses pages 5-7): Shivani Kanta, Vanesa Vinciauskaite, Graham Neill, Miratul M.K. Muqit, and Glenn R. Masson. Hemin binding causes structural rearrangements in hri to inhibit activation via autophosphorylation. BioRxiv, Aug 2024. URL: https://doi.org/10.1101/2024.08.14.607626, doi:10.1101/2024.08.14.607626. This article has 0 citations.
+
+11. (kanta2024heminbindingcauses pages 9-12): Shivani Kanta, Vanesa Vinciauskaite, Graham Neill, Miratul M.K. Muqit, and Glenn R. Masson. Hemin binding causes structural rearrangements in hri to inhibit activation via autophosphorylation. BioRxiv, Aug 2024. URL: https://doi.org/10.1101/2024.08.14.607626, doi:10.1101/2024.08.14.607626. This article has 0 citations.
+
+12. (pavitt2018regulationoftranslation pages 1-3): Graham D. Pavitt. Regulation of translation initiation factor eif2b at the hub of the integrated stress response. WIREs RNA, Jul 2018. URL: https://doi.org/10.1002/wrna.1491, doi:10.1002/wrna.1491. This article has 117 citations.
+
+13. (rothenburg2016evolutionofeif2α pages 4-7): Stefan Rothenburg, Millie M. Georgiadis, and Ronald C. Wek. Evolution of eif2α kinases: adapting translational control to diverse stresses. Evolution of the Protein Synthesis Machinery and Its Regulation, pages 235-260, Jan 2016. URL: https://doi.org/10.1007/978-3-319-39468-8\_11, doi:10.1007/978-3-319-39468-8\_11. This article has 14 citations.
+
+14. (taniuchi2016integratedstressresponse pages 2-4): Shusuke Taniuchi, Masato Miyake, Kazue Tsugawa, Miho Oyadomari, and Seiichi Oyadomari. Integrated stress response of vertebrates is regulated by four eif2α kinases. Scientific Reports, Sep 2016. URL: https://doi.org/10.1038/srep32886, doi:10.1038/srep32886. This article has 304 citations and is from a poor quality or predatory journal.
+
+15. (taniuchi2016integratedstressresponse pages 8-9): Shusuke Taniuchi, Masato Miyake, Kazue Tsugawa, Miho Oyadomari, and Seiichi Oyadomari. Integrated stress response of vertebrates is regulated by four eif2α kinases. Scientific Reports, Sep 2016. URL: https://doi.org/10.1038/srep32886, doi:10.1038/srep32886. This article has 304 citations and is from a poor quality or predatory journal.
+
+16. (unknownauthors2015thefunctionalinterplay pages 35-39): The functional interplay between eIF2alpha phosphorylation and mTOR signaling pathways: Implications in Tuberous Sclerosis Complex disorder
+
+17. (wek2023survivingandadapting pages 2-4): Ronald C. Wek, Tracy G. Anthony, and Kirk A. Staschke. Surviving and adapting to stress: translational control and the integrated stress response. Antioxidants &amp; Redox Signaling, 39:351-373, Aug 2023. URL: https://doi.org/10.1089/ars.2022.0123, doi:10.1089/ars.2022.0123. This article has 35 citations.
+
+18. (bond2020theintegratedstress pages 6-7): Sarah Bond, C. López-Lloreda, P. Gannon, C. Akay-Espinoza, and K. Jordan-Sciutto. The integrated stress response and phosphorylated eukaryotic initiation factor 2α in neurodegeneration. Journal of neuropathology and experimental neurology, Jan 2020. URL: https://doi.org/10.1093/jnen/nlz129, doi:10.1093/jnen/nlz129. This article has 124 citations and is from a peer-reviewed journal.
+
+19. (zhang2020newactivatorsof pages 1-9): Qingwen Zhang, R. Du, Guilherme Rodrigo Reis Monteiro Dos Santos, Revital Yefidoff-Freedman, A. Bohm, J. Halperin, M. Chorev, and B. Aktas. New activators of eif2α kinase heme-regulated inhibitor (hri) with improved biophysical properties. European journal of medicinal chemistry, 187:111973, Dec 2020. URL: https://doi.org/10.1016/j.ejmech.2019.111973, doi:10.1016/j.ejmech.2019.111973. This article has 19 citations and is from a domain leading peer-reviewed journal.

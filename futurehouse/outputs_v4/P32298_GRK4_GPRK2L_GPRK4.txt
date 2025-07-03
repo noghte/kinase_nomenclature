@@ -1,0 +1,112 @@
+## Phylogeny  
+• Orthologous genes are experimentally confirmed in mouse, rat, zebrafish, chicken and Xenopus, demonstrating conservation across vertebrates (sato2015theevolvingimpact pages 2-3).  
+• The closest characterized invertebrate homolog is Drosophila Gprk2, which clusters with the vertebrate GRK4/5/6 branch (benovic2021historicalperspectiveof pages 7-8).  
+• Within the human kinome GRK4, GRK5 and GRK6 constitute the GRK4 sub-family of the AGC Ser/Thr kinase group, distinct from the GRK1/7 and GRK2/3 branches (gurevich2012gproteincoupledreceptor pages 2-4).  
+• Pair-wise sequence identity: GRK4 shares ~81 % identity with GRK5, ~79 % with GRK6 and ~36 % with GRK2/3, underscoring internal coherence of the GRK4 sub-family (benovic2021historicalperspectiveof pages 4-6).  
+
+## Reaction Catalyzed  
+ATP + [GPCR Ser/Thr] → ADP + [GPCR O-phospho-Ser/Thr] (allen2015structureandfunction pages 9-10).  
+
+## Cofactor Requirements  
+Catalytic activity is Mg²⁺-dependent; in vitro assays employ 10 mM MgCl₂ (allen2015structureandfunction pages 4-5).  
+
+## Substrate Specificity  
+• A consensus phosphorylation motif has not been formally defined for GRK4; the crystal structure reveals a neutral-to-basic substrate channel that accommodates substrates containing acidic residues C-terminal to the phosphoacceptor (allen2015structureandfunction pages 9-10).  
+• Positional-scanning arrays on the close homolog GRK5 show preference for acidic residues at +1/+3 and an aromatic residue at –2, suggesting a sub-family trend (komolov2021structureofa pages 7-9).  
+
+Validated protein substrates  
+– Rhodopsin (phosphorylated by the α-isoform only) (unknownauthors2009identificationofa pages 22-26).  
+– Dopamine receptor D3 (α and γ isoforms) (unknownauthors2009identificationofa pages 22-26).  
+– β₂-Adrenergic receptor (all isoforms) (unknownauthors2009identificationofa pages 22-26).  
+– Dopamine receptor D1, angiotensin II receptors AT1R/AT2R, endothelin-B receptor, thromboxane receptor and adiponectin receptor 1 (yang2022comprehensiveinsightsin pages 9-11, yang2022comprehensiveinsightsin pages 11-13).  
+
+## Structure  
+Domain organisation  
+• N-terminal amphipathic αN helix followed by a basic segment (residues 20-39) that binds calmodulin and anionic lipids (allen2015structureandfunction pages 11-12).  
+• Regulator of G-protein Signalling (RH) domain (four-helix bundle and terminal subdomain) contiguous with an inserted bilobal AGC kinase domain (allen2015structureandfunction pages 1-2).  
+• C-terminal extension bearing palmitoylation sites Cys563/Cys578 and splice-variant inserts (allen2015structureandfunction pages 11-12).  
+
+3-D structural information  
+• Crystal structures: wild-type GRK4 (PDB 4YFK, 2.6 Å) and hypertension variant A486V (PDB 4YHJ, 2.6 Å) resolve residues 25-525 (allen2015structureandfunction pages 1-2, allen2015structureandfunction pages 11-12).  
+• AlphaFold full-length prediction AF-Q9NQT5-F1 complements missing termini (allen2015structureandfunction pages 11-12).  
+
+Catalytic and regulatory elements  
+– Catalytic motifs: VAIK Lys216, HRD Asp331, DLG Asp456 adopt the active DFG-in configuration (allen2015structureandfunction pages 10-11).  
+– Activation-loop boundaries have been reported as 351-366 in crystal structures; earlier biochemical mapping placed the segment at 325-343 (allen2015structureandfunction pages 11-12, allen2015structureandfunction pages 2-3).  
+– The kinase domain is captured in a semi-open state requiring ~12° further lobe closure for full activation (allen2015structureandfunction pages 6-7).  
+– An AST-loop hydrogen bond Asp469–Tyr474 secures the C-tail over the active site, a feature distinguishing GRK4 from GRK6 (allen2015structureandfunction pages 5-6).  
+– Crystallographic dimer interface buries 4 945 Å², yet analytical ultracentrifugation indicates a monomeric enzyme (allen2015structureandfunction pages 7-9).  
+
+## Regulation  
+Post-translational modifications  
+• Autophosphorylation sites: Ser139, Ser244, Ser249, Thr256, Ser485; Ser485 phosphorylation is markedly enhanced in variant A486V (allen2015structureandfunction pages 11-12, allen2015structureandfunction pages 7-9).  
+• Palmitoylation: Cys563 and Cys578 mediate membrane anchoring (allen2015structureandfunction pages 2-3).  
+• Heterologous phosphorylation: protein kinase C-ε phosphorylates GRK4, increasing activity (yang2022comprehensiveinsightsin pages 9-11).  
+• Ubiquitination has been documented, but target lysines remain undefined (allen2015structureandfunction pages 11-12).  
+
+Allosteric and conformational control  
+• Calmodulin binds residues 20-39 of the α-isoform and inhibits rhodopsin phosphorylation; other isoforms display negligible binding (allen2015structureandfunction pages 11-12).  
+• Autophosphorylation abolishes the initial lag in substrate phosphorylation seen with wild-type GRK4, whereas A486V is constitutively rapid, indicating partial pre-activation (allen2015structureandfunction pages 7-9).  
+
+Transcriptional and trafficking regulation  
+• GRK4 expression is up-regulated by c-Myc and C/EBP family members and down-regulated by microRNAs miR-430a and miR-218a (yang2022comprehensiveinsightsin pages 11-13).  
+• Reactive oxygen species elevate GRK4 levels; antioxidants reduce expression (yang2022comprehensiveinsightsin pages 11-13).  
+• Sorting nexin-5 controls intracellular trafficking of GRK4 (yang2022comprehensiveinsightsin pages 11-13).  
+
+## Function  
+Expression pattern  
+• Highest expression in testis, renal proximal tubule and cerebellum; additional expression in brain and uterus myometrium (gurevich2012gproteincoupledreceptor pages 1-2, allen2015structureandfunction pages 1-2).  
+
+Biological roles  
+• Phosphorylates activated GPCRs to promote β-arrestin-mediated desensitisation (pitcher1998gprotein–coupledreceptor pages 3-5).  
+• In renal proximal tubule cells, GRK4-mediated hyper-phosphorylation of D1R, AT1R and AdipoR1 disrupts natriuretic signalling and enhances sodium reabsorption, contributing to blood-pressure control (yang2022comprehensiveinsightsin pages 9-11, yang2022comprehensiveinsightsin pages 11-13).  
+• Upstream modulators include PKC-ε, Ca²⁺/calmodulin (isoform-specific) and PIP₂ binding via the basic N-terminal segment (yang2022comprehensiveinsightsin pages 9-11, allen2015structureandfunction pages 11-12).  
+• GRK4 over-expression induces cellular senescence, linking kinase activity to age-related hypertension (yang2022comprehensiveinsightsin pages 11-13).  
+
+## Other Comments  
+• Gain-of-function variants A142V and A486V accelerate autophosphorylation and kinase activity; A142V elevates blood pressure on a normal-salt diet, whereas A486V requires high-salt intake (yang2022comprehensiveinsightsin pages 9-11).  
+• The A486V crystal structure (PDB 4YHJ) shows a partially closed active site and enhanced Ser485 phosphorylation, explaining its hyperactivity (allen2015structureandfunction pages 1-2, allen2015structureandfunction pages 7-9).  
+• Additional polymorphism R65L maps to the RH domain four-helix bundle implicated in Gαq binding (allen2015structureandfunction pages 6-7).  
+• Four splice isoforms (α, β, γ, δ) differ in RH and C-terminal regions; only the α-isoform retains high-affinity calmodulin binding (unknownauthors2007nuclearlocalisationand pages 108-114).
+
+References
+
+1. (allen2015structureandfunction pages 1-2): S. Allen, G. Parthasarathy, P. Darke, R. Diehl, Rachael E Ford, D. Hall, Scott A. Johnson, J. Reid, K. Rickert, J. Shipman, S. Soisson, P. Zuck, S. Munshi, and K. Lumb. Structure and function of the hypertension variant a486v of g protein-coupled receptor kinase 4*. The Journal of Biological Chemistry, 290:20360-20373, Jul 2015. URL: https://doi.org/10.1074/jbc.m115.648907, doi:10.1074/jbc.m115.648907. This article has 25 citations.
+
+2. (allen2015structureandfunction pages 10-11): S. Allen, G. Parthasarathy, P. Darke, R. Diehl, Rachael E Ford, D. Hall, Scott A. Johnson, J. Reid, K. Rickert, J. Shipman, S. Soisson, P. Zuck, S. Munshi, and K. Lumb. Structure and function of the hypertension variant a486v of g protein-coupled receptor kinase 4*. The Journal of Biological Chemistry, 290:20360-20373, Jul 2015. URL: https://doi.org/10.1074/jbc.m115.648907, doi:10.1074/jbc.m115.648907. This article has 25 citations.
+
+3. (allen2015structureandfunction pages 11-12): S. Allen, G. Parthasarathy, P. Darke, R. Diehl, Rachael E Ford, D. Hall, Scott A. Johnson, J. Reid, K. Rickert, J. Shipman, S. Soisson, P. Zuck, S. Munshi, and K. Lumb. Structure and function of the hypertension variant a486v of g protein-coupled receptor kinase 4*. The Journal of Biological Chemistry, 290:20360-20373, Jul 2015. URL: https://doi.org/10.1074/jbc.m115.648907, doi:10.1074/jbc.m115.648907. This article has 25 citations.
+
+4. (allen2015structureandfunction pages 2-3): S. Allen, G. Parthasarathy, P. Darke, R. Diehl, Rachael E Ford, D. Hall, Scott A. Johnson, J. Reid, K. Rickert, J. Shipman, S. Soisson, P. Zuck, S. Munshi, and K. Lumb. Structure and function of the hypertension variant a486v of g protein-coupled receptor kinase 4*. The Journal of Biological Chemistry, 290:20360-20373, Jul 2015. URL: https://doi.org/10.1074/jbc.m115.648907, doi:10.1074/jbc.m115.648907. This article has 25 citations.
+
+5. (allen2015structureandfunction pages 4-5): S. Allen, G. Parthasarathy, P. Darke, R. Diehl, Rachael E Ford, D. Hall, Scott A. Johnson, J. Reid, K. Rickert, J. Shipman, S. Soisson, P. Zuck, S. Munshi, and K. Lumb. Structure and function of the hypertension variant a486v of g protein-coupled receptor kinase 4*. The Journal of Biological Chemistry, 290:20360-20373, Jul 2015. URL: https://doi.org/10.1074/jbc.m115.648907, doi:10.1074/jbc.m115.648907. This article has 25 citations.
+
+6. (allen2015structureandfunction pages 5-6): S. Allen, G. Parthasarathy, P. Darke, R. Diehl, Rachael E Ford, D. Hall, Scott A. Johnson, J. Reid, K. Rickert, J. Shipman, S. Soisson, P. Zuck, S. Munshi, and K. Lumb. Structure and function of the hypertension variant a486v of g protein-coupled receptor kinase 4*. The Journal of Biological Chemistry, 290:20360-20373, Jul 2015. URL: https://doi.org/10.1074/jbc.m115.648907, doi:10.1074/jbc.m115.648907. This article has 25 citations.
+
+7. (allen2015structureandfunction pages 6-7): S. Allen, G. Parthasarathy, P. Darke, R. Diehl, Rachael E Ford, D. Hall, Scott A. Johnson, J. Reid, K. Rickert, J. Shipman, S. Soisson, P. Zuck, S. Munshi, and K. Lumb. Structure and function of the hypertension variant a486v of g protein-coupled receptor kinase 4*. The Journal of Biological Chemistry, 290:20360-20373, Jul 2015. URL: https://doi.org/10.1074/jbc.m115.648907, doi:10.1074/jbc.m115.648907. This article has 25 citations.
+
+8. (allen2015structureandfunction pages 7-9): S. Allen, G. Parthasarathy, P. Darke, R. Diehl, Rachael E Ford, D. Hall, Scott A. Johnson, J. Reid, K. Rickert, J. Shipman, S. Soisson, P. Zuck, S. Munshi, and K. Lumb. Structure and function of the hypertension variant a486v of g protein-coupled receptor kinase 4*. The Journal of Biological Chemistry, 290:20360-20373, Jul 2015. URL: https://doi.org/10.1074/jbc.m115.648907, doi:10.1074/jbc.m115.648907. This article has 25 citations.
+
+9. (allen2015structureandfunction pages 9-10): S. Allen, G. Parthasarathy, P. Darke, R. Diehl, Rachael E Ford, D. Hall, Scott A. Johnson, J. Reid, K. Rickert, J. Shipman, S. Soisson, P. Zuck, S. Munshi, and K. Lumb. Structure and function of the hypertension variant a486v of g protein-coupled receptor kinase 4*. The Journal of Biological Chemistry, 290:20360-20373, Jul 2015. URL: https://doi.org/10.1074/jbc.m115.648907, doi:10.1074/jbc.m115.648907. This article has 25 citations.
+
+10. (benovic2021historicalperspectiveof pages 7-8): J. Benovic. Historical perspective of the g protein-coupled receptor kinase family. Cells, Mar 2021. URL: https://doi.org/10.3390/cells10030555, doi:10.3390/cells10030555. This article has 28 citations and is from a peer-reviewed journal.
+
+11. (gurevich2012gproteincoupledreceptor pages 2-4): Eugenia V. Gurevich, John J.G. Tesmer, Arcady Mushegian, and Vsevolod V. Gurevich. G protein-coupled receptor kinases: more than just kinases and not only for gpcrs. Pharmacology &amp; Therapeutics, 133:40-69, Jan 2012. URL: https://doi.org/10.1016/j.pharmthera.2011.08.001, doi:10.1016/j.pharmthera.2011.08.001. This article has 546 citations.
+
+12. (komolov2021structureofa pages 7-9): K. Komolov, S. Sulon, A. Bhardwaj, Siri C. van Keulen, N. M. Duc, D. Laurinavichyute, H. Lou, B. Turk, K. Chung, R. Dror, and J. Benovic. Structure of a grk5-calmodulin complex reveals molecular mechanism of grk activation and substrate targeting. Molecular cell, Dec 2021. URL: https://doi.org/10.1016/j.molcel.2020.11.026, doi:10.1016/j.molcel.2020.11.026. This article has 31 citations and is from a highest quality peer-reviewed journal.
+
+13. (sato2015theevolvingimpact pages 2-3): Priscila Y. Sato, J. Kurt Chuprun, Mathew Schwartz, and Walter J. Koch. The evolving impact of g protein-coupled receptor kinases in cardiac health and disease. Physiological Reviews, 95:377-404, Apr 2015. URL: https://doi.org/10.1152/physrev.00015.2014, doi:10.1152/physrev.00015.2014. This article has 186 citations and is from a highest quality peer-reviewed journal.
+
+14. (yang2022comprehensiveinsightsin pages 11-13): Jian Yang, J. Hall, P. Jose, Ken Chen, and C. Zeng. Comprehensive insights in grk4 and hypertension: from mechanisms to potential therapeutics. Pharmacology & therapeutics, pages 108194, Apr 2022. URL: https://doi.org/10.1016/j.pharmthera.2022.108194, doi:10.1016/j.pharmthera.2022.108194. This article has 19 citations.
+
+15. (yang2022comprehensiveinsightsin pages 9-11): Jian Yang, J. Hall, P. Jose, Ken Chen, and C. Zeng. Comprehensive insights in grk4 and hypertension: from mechanisms to potential therapeutics. Pharmacology & therapeutics, pages 108194, Apr 2022. URL: https://doi.org/10.1016/j.pharmthera.2022.108194, doi:10.1016/j.pharmthera.2022.108194. This article has 19 citations.
+
+16. (gurevich2012gproteincoupledreceptor pages 1-2): Eugenia V. Gurevich, John J.G. Tesmer, Arcady Mushegian, and Vsevolod V. Gurevich. G protein-coupled receptor kinases: more than just kinases and not only for gpcrs. Pharmacology &amp; Therapeutics, 133:40-69, Jan 2012. URL: https://doi.org/10.1016/j.pharmthera.2011.08.001, doi:10.1016/j.pharmthera.2011.08.001. This article has 546 citations.
+
+17. (pitcher1998gprotein–coupledreceptor pages 3-5): Julie A. Pitcher, Neil J. Freedman, and Robert J. Lefkowitz. G protein–coupled receptor kinases. Annual Review of Biochemistry, 67:653-692, Jun 1998. URL: https://doi.org/10.1146/annurev.biochem.67.1.653, doi:10.1146/annurev.biochem.67.1.653. This article has 1691 citations and is from a domain leading peer-reviewed journal.
+
+18. (unknownauthors2007nuclearlocalisationand pages 108-114): Nuclear localisation and function of the g protein-coupled receptor kinase 4 subfamily
+
+19. (unknownauthors2009identificationofa pages 22-26): Identification of a conserved cluster in the RH domain of GRK critical for activation by GPCRs
+
+20. (benovic2021historicalperspectiveof pages 4-6): J. Benovic. Historical perspective of the g protein-coupled receptor kinase family. Cells, Mar 2021. URL: https://doi.org/10.3390/cells10030555, doi:10.3390/cells10030555. This article has 28 citations and is from a peer-reviewed journal.

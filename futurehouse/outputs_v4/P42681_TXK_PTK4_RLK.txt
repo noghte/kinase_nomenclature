@@ -1,0 +1,83 @@
+Phylogeny  
+- Assigned to the tyrosine-kinase (TK) group, Tec family, in the human kinome classification (unknownauthors2009tecfamilykinases pages 50-52, smith2001thetecfamily pages 7-9).  
+- Mammalian orthologs confirmed in Homo sapiens (chromosome 4p12) and Mus musculus (Txk, chromosome 5); a homologous rat cDNA fragment has been reported, whereas the platypus genome lacks a Txk locus (haire1994txkanovel pages 3-4, haire1995themurineform pages 3-4, ortutay2008phylogenyoftec pages 4-7).  
+- A single Tec-family gene (Btk29A) exists in Drosophila, but no direct TXK ortholog is present; Xenopus and zebrafish retain other Tec kinases yet show no dedicated Txk gene (ortutay2008phylogenyoftec pages 1-4).  
+- Gene duplications that created the five vertebrate Tec kinases (BTK, BMX, ITK, TEC, TXK) occurred before vertebrate radiation, placing TXK on an evolutionary branch paralogous to ITK (ortutay2008phylogenyoftec pages 13-16).  
+
+Reaction Catalyzed  
+- ATP + protein-L-tyrosine → ADP + protein-L-tyrosine-phosphate (ellis1998functionalanalysisof pages 3-4).  
+
+Cofactor Requirements  
+- Maximal catalytic activity requires ≥5 mM Mg²⁺ or Mn²⁺; no strong preference between the two divalent cations (ellis1998functionalanalysisof pages 3-4, ellis1998functionalanalysisof pages 6-7).  
+
+Substrate Specificity  
+- Comprehensive peptide screens show negligible phosphorylation of canonical Src-, Syk- or ZAP70-preferred motifs, indicating a distinct substrate repertoire (ellis1998functionalanalysisof pages 4-6).  
+- The 2024 tyrosine-kinome atlas assigns TXK a unique intrinsic specificity without a simple consensus; preferred substrates contain hydrophobic residues at +1/+3 relative to the phosphotyrosine (yaronbarir2024theintrinsicsubstrate pages 16-16).  
+- In cells, verified physiological substrates include PLC-γ1 and the adaptor SLP-76 during TCR signaling (chamorro2001requirementsforactivation pages 10-12).  
+
+Structure  
+- Domain organization: N-terminal palmitoylated cysteine-string motif (membrane targeting) → proline-rich region with bipartite NLS → SH3 → SH2 → bilobal kinase domain lacking a PH domain (chamorro2001requirementsforactivation pages 1-2, haire1994txkanovel pages 1-2).  
+- Activation loop contains the regulatory Tyr420 equivalent to Btk Tyr551; flanked by divergent residues relative to other Tec kinases (chamorro2001requirementsforactivation pages 2-4).  
+- AlphaFold model AF-P42681-F1 shows canonical TK fold with conserved C-helix, HRD catalytic loop, DFG motif and intact hydrophobic spine (unknownauthors2007exploringstructureand pages 27-28).  
+- No experimental crystal or NMR structure reported to date; structural inference derives from homology with solved Tec-family kinase domains (unknownauthors2007exploringstructureand pages 138-143).  
+
+Regulation  
+- Src-family kinases Fyn and Lck bind the N-terminal proline-rich motif and trans-phosphorylate Tyr420, generating full catalytic activation (chamorro2001requirementsforactivation pages 2-4, chamorro2001requirementsforactivation pages 10-12).  
+- Autophosphorylation occurs in vitro, contributing to basal activity (ellis1998functionalanalysisof pages 3-4).  
+- S-palmitoylation of clustered N-terminal cysteines is essential for constitutive lipid-raft localization; this process is independent of Tyr420 phosphorylation (chamorro2001requirementsforactivation pages 1-2).  
+- Phosphorylation accelerates proteolytic turnover, suggesting ubiquitin-mediated degradation downstream of activation, although the E3 ligase is not yet defined (chamorro2001requirementsforactivation pages 10-12).  
+- PI3K activity is dispensable for both membrane recruitment and phosphorylation, distinguishing TXK from PH-domain-containing Tec kinases (chamorro2001requirementsforactivation pages 1-2).  
+- Following TCR engagement, the inherent NLS directs a pool of active TXK to the nucleus where it binds promoter DNA (mihara2007roleoftxk pages 1-4).  
+
+Function  
+- Expression: High in thymocytes, peripheral T-cells, NK cells and mast cells; minimal in B-cells and non-hematopoietic tissues (haire1994txkanovel pages 3-4, ellis1998functionalanalysisof pages 1-2).  
+- Upstream activators: TCR-proximal Src kinases Fyn/Lck (chamorro2001requirementsforactivation pages 2-4).  
+- Downstream substrates and partners: PLC-γ1, SLP-76, LAT, VAV1 and actin-regulatory complexes, enabling Ca²⁺ mobilization and cytoskeletal remodeling (chamorro2001requirementsforactivation pages 10-12, unknownauthors2009teckinasesregulate pages 1-2).  
+- Functional overlap with ITK; dual Itk/Txk deficiency severely compromises PLC-γ1 phosphorylation and downstream signaling (unknownauthors2009teckinasesregulate pages 1-2).  
+- Nuclear role: Binds −53/−39 IFNG promoter element in Th1 cells, enhancing IFN-γ transcription and promoting Th1 differentiation (mihara2007roleoftxk pages 1-4).  
+- Contributes to development and function of invariant NKT cells, corroborated by combined Itk/Txk knockout phenotypes (ortutay2008phylogenyoftec pages 4-7).  
+
+Other Comments  
+- Elevated TXK expression is observed in Th1-dominant autoimmune disorders such as rheumatoid arthritis and Behçet’s disease; reduced levels correlate with Th2-skewed conditions including asthma and atopic dermatitis (mihara2007roleoftxk pages 1-4).
+
+References
+
+1. (chamorro2001requirementsforactivation pages 1-2): Mario Chamorro, Michael J Czar, Jayanta Debnath, Genhong Cheng, Michael J Lenardo, Harold E Varmus, and Pamela L Schwartzberg. Requirements for activation and raft localization of the t-lymphocyte kinase rlk/txk. BMC Immunology, 2:3-3, May 2001. URL: https://doi.org/10.1186/1471-2172-2-3, doi:10.1186/1471-2172-2-3. This article has 50 citations and is from a peer-reviewed journal.
+
+2. (chamorro2001requirementsforactivation pages 10-12): Mario Chamorro, Michael J Czar, Jayanta Debnath, Genhong Cheng, Michael J Lenardo, Harold E Varmus, and Pamela L Schwartzberg. Requirements for activation and raft localization of the t-lymphocyte kinase rlk/txk. BMC Immunology, 2:3-3, May 2001. URL: https://doi.org/10.1186/1471-2172-2-3, doi:10.1186/1471-2172-2-3. This article has 50 citations and is from a peer-reviewed journal.
+
+3. (chamorro2001requirementsforactivation pages 2-4): Mario Chamorro, Michael J Czar, Jayanta Debnath, Genhong Cheng, Michael J Lenardo, Harold E Varmus, and Pamela L Schwartzberg. Requirements for activation and raft localization of the t-lymphocyte kinase rlk/txk. BMC Immunology, 2:3-3, May 2001. URL: https://doi.org/10.1186/1471-2172-2-3, doi:10.1186/1471-2172-2-3. This article has 50 citations and is from a peer-reviewed journal.
+
+4. (ellis1998functionalanalysisof pages 1-2): Jonathan H. ELLIS, Roger P. M. SUTMULLER, Martin J. SIMS, and Susan COOKSLEY. Functional analysis of the t-cell-restricted protein tyrosine kinase txk. Biochemical Journal, 335:277-284, Oct 1998. URL: https://doi.org/10.1042/bj3350277, doi:10.1042/bj3350277. This article has 9 citations and is from a domain leading peer-reviewed journal.
+
+5. (ellis1998functionalanalysisof pages 3-4): Jonathan H. ELLIS, Roger P. M. SUTMULLER, Martin J. SIMS, and Susan COOKSLEY. Functional analysis of the t-cell-restricted protein tyrosine kinase txk. Biochemical Journal, 335:277-284, Oct 1998. URL: https://doi.org/10.1042/bj3350277, doi:10.1042/bj3350277. This article has 9 citations and is from a domain leading peer-reviewed journal.
+
+6. (mihara2007roleoftxk pages 1-4): Shoji Mihara and Noboru Suzuki. Role of txk, a member of the tec family of tyrosine kinases, in immune-inflammatory diseases. International Reviews of Immunology, 26:333-348, Jan 2007. URL: https://doi.org/10.1080/08830180701690835, doi:10.1080/08830180701690835. This article has 22 citations and is from a peer-reviewed journal.
+
+7. (ellis1998functionalanalysisof pages 4-6): Jonathan H. ELLIS, Roger P. M. SUTMULLER, Martin J. SIMS, and Susan COOKSLEY. Functional analysis of the t-cell-restricted protein tyrosine kinase txk. Biochemical Journal, 335:277-284, Oct 1998. URL: https://doi.org/10.1042/bj3350277, doi:10.1042/bj3350277. This article has 9 citations and is from a domain leading peer-reviewed journal.
+
+8. (ellis1998functionalanalysisof pages 6-7): Jonathan H. ELLIS, Roger P. M. SUTMULLER, Martin J. SIMS, and Susan COOKSLEY. Functional analysis of the t-cell-restricted protein tyrosine kinase txk. Biochemical Journal, 335:277-284, Oct 1998. URL: https://doi.org/10.1042/bj3350277, doi:10.1042/bj3350277. This article has 9 citations and is from a domain leading peer-reviewed journal.
+
+9. (haire1994txkanovel pages 1-2): Robert N. Haire, Yuko Ohta, Janet E. Lewis, Shu Man Fu, Peter Kroisel, and Gary W. Litman. Txk, a novel human tyrosine kinase expressed in t cells shares sequence identity with tec family kinases and maps to 4p12. Human molecular genetics, 3 6:897-901, Jun 1994. URL: https://doi.org/10.1093/hmg/3.6.897, doi:10.1093/hmg/3.6.897. This article has 119 citations and is from a domain leading peer-reviewed journal.
+
+10. (haire1994txkanovel pages 3-4): Robert N. Haire, Yuko Ohta, Janet E. Lewis, Shu Man Fu, Peter Kroisel, and Gary W. Litman. Txk, a novel human tyrosine kinase expressed in t cells shares sequence identity with tec family kinases and maps to 4p12. Human molecular genetics, 3 6:897-901, Jun 1994. URL: https://doi.org/10.1093/hmg/3.6.897, doi:10.1093/hmg/3.6.897. This article has 119 citations and is from a domain leading peer-reviewed journal.
+
+11. (haire1995themurineform pages 3-4): R. N. Haire and G. W. Litman. The murine form of txk, a novel tec kinase expressed in thymus maps to chromosome 5. Mammalian Genome, 6:476-480, Jul 1995. URL: https://doi.org/10.1007/bf00360659, doi:10.1007/bf00360659. This article has 12 citations and is from a peer-reviewed journal.
+
+12. (ortutay2008phylogenyoftec pages 1-4): Csaba Ortutay, Beston F. Nore, Mauno Vihinen, and C.I. Edvard Smith. Phylogeny of tec family kinases: identification of a premetazoan origin of btk, bmx, itk, tec, txk, and the btk regulator sh3bp5. Advances in Genetics, 64:51-80, Jan 2008. URL: https://doi.org/10.1016/s0065-2660(08)00803-1, doi:10.1016/s0065-2660(08)00803-1. This article has 39 citations and is from a peer-reviewed journal.
+
+13. (ortutay2008phylogenyoftec pages 4-7): Csaba Ortutay, Beston F. Nore, Mauno Vihinen, and C.I. Edvard Smith. Phylogeny of tec family kinases: identification of a premetazoan origin of btk, bmx, itk, tec, txk, and the btk regulator sh3bp5. Advances in Genetics, 64:51-80, Jan 2008. URL: https://doi.org/10.1016/s0065-2660(08)00803-1, doi:10.1016/s0065-2660(08)00803-1. This article has 39 citations and is from a peer-reviewed journal.
+
+14. (smith2001thetecfamily pages 7-9): C.I. Edvard Smith, Tahmina C. Islam, Pekka T. Mattsson, Abdalla J. Mohamed, Beston F. Nore, and Mauno Vihinen. The tec family of cytoplasmic tyrosine kinases: mammalian btk, bmx, itk, tec, txk and homologs in other species. BioEssays, May 2001. URL: https://doi.org/10.1002/bies.1062, doi:10.1002/bies.1062. This article has 406 citations and is from a peer-reviewed journal.
+
+15. (unknownauthors2009teckinasesregulate pages 1-2): Tec kinases regulate T‐lymphocyte development and function: new insights into the roles of Itk and Rlk/Txk
+
+16. (ortutay2008phylogenyoftec pages 13-16): Csaba Ortutay, Beston F. Nore, Mauno Vihinen, and C.I. Edvard Smith. Phylogeny of tec family kinases: identification of a premetazoan origin of btk, bmx, itk, tec, txk, and the btk regulator sh3bp5. Advances in Genetics, 64:51-80, Jan 2008. URL: https://doi.org/10.1016/s0065-2660(08)00803-1, doi:10.1016/s0065-2660(08)00803-1. This article has 39 citations and is from a peer-reviewed journal.
+
+17. (unknownauthors2007exploringstructureand pages 138-143): Exploring structure and plasticity of tyrosine kinase domains for drug discovery
+
+18. (unknownauthors2007exploringstructureand pages 27-28): Exploring structure and plasticity of tyrosine kinase domains for drug discovery
+
+19. (unknownauthors2009tecfamilykinases pages 50-52): Tec family kinases: transcriptional and posttranslational regulation
+
+20. (yaronbarir2024theintrinsicsubstrate pages 16-16): Tomer M. Yaron-Barir, Brian A. Joughin, Emily M. Huntsman, Alexander Kerelsky, Daniel M. Cizin, Benjamin M. Cohen, Amit Regev, Junho Song, Neil Vasan, Ting-Yu Lin, Jose M. Orozco, Christina Schoenherr, Cari Sagum, Mark T. Bedford, R. Max Wynn, Shih-Chia Tso, David T. Chuang, Lei Li, Shawn S.-C. Li, Pau Creixell, Konstantin Krismer, Mina Takegami, Harin Lee, Bin Zhang, Jingyi Lu, Ian Cossentino, Sean D. Landry, Mohamed Uduman, John Blenis, Olivier Elemento, Margaret C. Frame, Peter V. Hornbeck, Lewis C. Cantley, Benjamin E. Turk, Michael B. Yaffe, and Jared L. Johnson. The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629:1174-1181, May 2024. URL: https://doi.org/10.1038/s41586-024-07407-y, doi:10.1038/s41586-024-07407-y. This article has 59 citations and is from a highest quality peer-reviewed journal.

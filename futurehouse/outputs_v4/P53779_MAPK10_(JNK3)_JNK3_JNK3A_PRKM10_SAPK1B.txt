@@ -1,0 +1,87 @@
+## Phylogeny  
+• Kinome hierarchy: CMGC group → MAPK family → JNK sub-family (rehfeldt2020cjunnterminalkinase pages 11-13).  
+• Human paralogs: MAPK8/JNK1 and MAPK9/JNK2 share >90 % identity within the catalytic domain (scapin2003thestructureof pages 1-2).  
+• Vertebrate orthologs: Mus musculus Mapk10, Rattus norvegicus Mapk10, Gallus gallus MAPK10, Danio rerio mapk10 (rehfeldt2020cjunnterminalkinase pages 11-13).  
+• Non-vertebrate orthologs: Drosophila melanogaster basket (bsk), Caenorhabditis elegans kgb-1, Leishmania major LmMAPK10 (horjales2012thecrystalstructure pages 12-12, rehfeldt2020cjunnterminalkinase pages 11-13).  
+
+## Reaction Catalyzed  
+ATP + {protein}-Ser/Thr → ADP + {protein}-Ser/Thr(P) (kyriakis2012mammalianmapksignal pages 49-50).  
+
+## Cofactor Requirements  
+Catalytic turnover requires two Mg²⁺ ions; Mn²⁺ can substitute in vitro (shaw2008thecrystalstructure pages 7-8, mishra2018newinsightsinto pages 12-13).  
+
+## Substrate Specificity  
+• Primary consensus: (Ser/Thr)-Pro with an obligatory Pro at +1 (wagner2009signalintegrationby pages 2-3, kyriakis2012mammalianmapksignal pages 2-3).  
+• Extended ±3 motif derived from high-throughput profiling: Φ-P-(S/T)-P-P-Ψ where Φ is hydrophobic and Ψ is hydrophobic/basic (mishra2018newinsightsinto pages 12-13).  
+• Substrate/scaffold docking via the D-recruiting site: basic groove residues 145-169 and acidic ED site 196-204 engage ψ-X-X-φ motifs (rehfeldt2020cjunnterminalkinase pages 11-13).  
+
+## Structure  
+• Single bilobal kinase domain (residues ~48–397) with a β-rich N-lobe and α-helical C-lobe (rehfeldt2020cjunnterminalkinase pages 11-13, mishra2018newinsightsinto pages 1-2).  
+• Catalytic motifs: Lys55–Glu111 salt bridge, HRD triad His187-Arg188-Asp189, DFG Asp207-Phe208-Gly209, and activation loop Thr221-Pro222-Tyr223 (kyriakis2012mammalianmapksignal pages 2-3, rehfeldt2020cjunnterminalkinase pages 11-13).  
+• Hydrophobic spine spanning the gatekeeper Met146 anchors active conformations (rehfeldt2020cjunnterminalkinase pages 11-13).  
+• Unique 12-residue JNK insert (283-328) remodels the MAPK insert, influencing docking (rehfeldt2020cjunnterminalkinase pages 11-13).  
+• Crystal structures:  
+  – Apo/ATP states, PDB 4WHZ, reveal hinge-driven cleft closure (mishra2018newinsightsinto pages 11-12).  
+  – Inhibitor complex, PDB 1PMV, delineates five subsites in the ATP pocket (rehfeldt2020cjunnterminalkinase pages 11-13).  
+
+## Regulation  
+• Activation: dual phosphorylation of Thr221 by MAP2K7/MKK7 and Tyr223 by MAP2K4/MKK4 downstream of MAP3Ks such as ASK1, DLK and MEKKs (haeusgen2011thebottleneckof pages 3-4, haeusgen2011thebottleneckof pages 9-9, unknownauthors2022jnksastherapeutic pages 33-37).  
+• Inactivation: dephosphorylation by DUSP10/MKP5 and DUSP16/MKP7 (rehfeldt2020cjunnterminalkinase pages 11-13).  
+• Additional PTMs:  
+  – Ubiquitination by E3 ligase Itch (rehfeldt2020cjunnterminalkinase pages 11-13).  
+  – SUMOylation at unspecified lysines (rehfeldt2020cjunnterminalkinase pages 11-13).  
+  – Palmitoylation targets JNK3 to the Golgi (unknownauthors2022jnksastherapeutic pages 33-37).  
+  – S-nitrosylation inhibits catalytic activity under nitric-oxide stress (sehgal2013networkmotifsin pages 3-4).  
+• Scaffold-mediated control: JIP1-4 and β-arrestin-2 organize MAP3K–MKK–JNK3 modules; β-arrestin-2 employs a “conveyor belt” activation mechanism (unknownauthors2022jnksastherapeutic pages 39-43).  
+• Allosteric regulation: ATP binding triggers hinge closure and activation-loop ordering (mishra2018newinsightsinto pages 11-12).  
+
+## Function  
+• Expression: enriched in brain neurons with minor levels in heart and testis (scapin2003thestructureof pages 1-2).  
+• Downstream substrates: c-Jun, JunD, ATF2, Elk1 (kyriakis2012mammalianmapksignal pages 2-3), STMN2 (rehfeldt2020cjunnterminalkinase pages 11-13), SCG10 S62/S73 and kinesin-1 S176 (coffey2014nuclearandcytosolic pages 1-2), APP Thr668 (rehfeldt2020cjunnterminalkinase pages 11-13), CLOCK–BMAL1 heterodimer (rehfeldt2020cjunnterminalkinase pages 11-13).  
+• Signaling roles: mediates stress-induced AP-1 activation, neuronal apoptosis, cytoskeletal regulation, axonal transport, APP processing and circadian control (scapin2003thestructureof pages 1-2, coffey2014nuclearandcytosolic pages 1-2, rehfeldt2020cjunnterminalkinase pages 11-13).  
+• Genetic ablation confers resistance to excitotoxic neuronal death in mice (scapin2003thestructureof pages 1-2).  
+
+## Inhibitors  
+• Compound 589 (type I): IC₅₀ = 0.016 µM for JNK3; exploits Met146/Leu144 hydrophobic recess (rehfeldt2020cjunnterminalkinase pages 11-13).  
+• JNK-IN-8 (covalent): nanomolar potency via Cys154 targeting (rehfeldt2020cjunnterminalkinase pages 11-13).  
+• AS601245 (ATP-competitive): sub-µM activity, JNK-selective (rehfeldt2020cjunnterminalkinase pages 11-13).  
+• CC-930 (tanzisertib): clinical-stage ATP-competitive inhibitor with CNS permeability considerations (rehfeldt2020cjunnterminalkinase pages 11-13).  
+• SP600125: broad-spectrum JNK inhibitor used as a neuroprotective probe (coffey2014nuclearandcytosolic pages 1-2).  
+
+## Other Comments  
+• Pathological hyper-activation is implicated in Alzheimer’s, Parkinson’s, Huntington’s disease, amyotrophic lateral sclerosis and cerebral ischemia (mishra2018newinsightsinto pages 12-13, rehfeldt2020cjunnterminalkinase pages 11-13).  
+• Disease mutation p.R230C in the activation segment is associated with severe neurodevelopmental disorders (rehfeldt2020cjunnterminalkinase pages 11-13).
+
+References
+
+1. (horjales2012thecrystalstructure pages 12-12): Sofía Horjales, Dirk Schmidt-Arras, Ramiro Rodriguez Limardo, Olivier Leclercq, Gonzalo Obal, Eric Prina, Adrian G. Turjanski, Gerald F. Späth, and Alejandro Buschiazzo. The crystal structure of the map kinase lmampk10 from leishmania major reveals parasite-specific features and regulatory mechanisms. Structure, 20 10:1649-60, Oct 2012. URL: https://doi.org/10.1016/j.str.2012.07.005, doi:10.1016/j.str.2012.07.005. This article has 20 citations and is from a domain leading peer-reviewed journal.
+
+2. (kyriakis2012mammalianmapksignal pages 2-3): John M. Kyriakis and Joseph Avruch. Mammalian mapk signal transduction pathways activated by stress and inflammation: a 10-year update. Physiological Reviews, 92:689-737, Apr 2012. URL: https://doi.org/10.1152/physrev.00028.2011, doi:10.1152/physrev.00028.2011. This article has 1611 citations and is from a highest quality peer-reviewed journal.
+
+3. (mishra2018newinsightsinto pages 1-2): Pankaj Mishra and S. Günther. New insights into the structural dynamics of the kinase jnk3. Scientific Reports, Jun 2018. URL: https://doi.org/10.1038/s41598-018-27867-3, doi:10.1038/s41598-018-27867-3. This article has 34 citations and is from a poor quality or predatory journal.
+
+4. (rehfeldt2020cjunnterminalkinase pages 11-13): Stephanie Cristine Hepp Rehfeldt, Fernanda Majolo, Márcia Inês Goettert, and Stefan Laufer. C-jun n-terminal kinase inhibitors as potential leads for new therapeutics for alzheimer’s diseases. International Journal of Molecular Sciences, 21:9677, Dec 2020. URL: https://doi.org/10.3390/ijms21249677, doi:10.3390/ijms21249677. This article has 46 citations and is from a peer-reviewed journal.
+
+5. (scapin2003thestructureof pages 1-2): G. Scapin, Sangita Patel, Jeanmarie Lisnock, J. W. Becker, and P. Lograsso. The structure of jnk3 in complex with small molecule inhibitors: structural basis for potency and selectivity. Chemistry & biology, 10 8:705-12, Aug 2003. URL: https://doi.org/10.1016/s1074-5521(03)00159-5, doi:10.1016/s1074-5521(03)00159-5. This article has 152 citations.
+
+6. (unknownauthors2022jnksastherapeutic pages 39-43): JNKs as therapeutic targets to tackle synaptic dysfunction in neurodevelopmental and neurodegenerative diseases
+
+7. (haeusgen2011thebottleneckof pages 3-4): Wiebke Haeusgen, T. Herdegen, and V. Waetzig. The bottleneck of jnk signaling: molecular and functional characteristics of mkk4 and mkk7. European journal of cell biology, 90 6-7:536-44, Jun 2011. URL: https://doi.org/10.1016/j.ejcb.2010.11.008, doi:10.1016/j.ejcb.2010.11.008. This article has 190 citations and is from a peer-reviewed journal.
+
+8. (haeusgen2011thebottleneckof pages 9-9): Wiebke Haeusgen, T. Herdegen, and V. Waetzig. The bottleneck of jnk signaling: molecular and functional characteristics of mkk4 and mkk7. European journal of cell biology, 90 6-7:536-44, Jun 2011. URL: https://doi.org/10.1016/j.ejcb.2010.11.008, doi:10.1016/j.ejcb.2010.11.008. This article has 190 citations and is from a peer-reviewed journal.
+
+9. (kyriakis2012mammalianmapksignal pages 49-50): John M. Kyriakis and Joseph Avruch. Mammalian mapk signal transduction pathways activated by stress and inflammation: a 10-year update. Physiological Reviews, 92:689-737, Apr 2012. URL: https://doi.org/10.1152/physrev.00028.2011, doi:10.1152/physrev.00028.2011. This article has 1611 citations and is from a highest quality peer-reviewed journal.
+
+10. (mishra2018newinsightsinto pages 11-12): Pankaj Mishra and S. Günther. New insights into the structural dynamics of the kinase jnk3. Scientific Reports, Jun 2018. URL: https://doi.org/10.1038/s41598-018-27867-3, doi:10.1038/s41598-018-27867-3. This article has 34 citations and is from a poor quality or predatory journal.
+
+11. (mishra2018newinsightsinto pages 12-13): Pankaj Mishra and S. Günther. New insights into the structural dynamics of the kinase jnk3. Scientific Reports, Jun 2018. URL: https://doi.org/10.1038/s41598-018-27867-3, doi:10.1038/s41598-018-27867-3. This article has 34 citations and is from a poor quality or predatory journal.
+
+12. (sehgal2013networkmotifsin pages 3-4): Vasudha Sehgal and Prahlad T. Ram. Network motifs in jnk signaling. Genes &amp; Cancer, 4:409-413, Sep 2013. URL: https://doi.org/10.1177/1947601913507577, doi:10.1177/1947601913507577. This article has 82 citations.
+
+13. (shaw2008thecrystalstructure pages 7-8): David Shaw, Sandra M. Wang, Armando G. Villaseñor, Stan Tsing, David Walter, Michelle F. Browner, Jim Barnett, and Andreas Kuglstatter. The crystal structure of jnk2 reveals conformational flexibility in the map kinase insert and indicates its involvement in the regulation of catalytic activity. Journal of molecular biology, 383 4:885-93, Nov 2008. URL: https://doi.org/10.1016/j.jmb.2008.08.086, doi:10.1016/j.jmb.2008.08.086. This article has 61 citations and is from a domain leading peer-reviewed journal.
+
+14. (unknownauthors2022jnksastherapeutic pages 33-37): JNKs as therapeutic targets to tackle synaptic dysfunction in neurodevelopmental and neurodegenerative diseases
+
+15. (wagner2009signalintegrationby pages 2-3): E. Wagner and A. Nebreda. Signal integration by jnk and p38 mapk pathways in cancer development. Nature Reviews Cancer, 9:537-549, Aug 2009. URL: https://doi.org/10.1038/nrc2694, doi:10.1038/nrc2694. This article has 3046 citations and is from a domain leading peer-reviewed journal.
+
+16. (coffey2014nuclearandcytosolic pages 1-2): Eleanor T. Coffey. Nuclear and cytosolic jnk signalling in neurons. Nature Reviews Neuroscience, 15:285-299, Apr 2014. URL: https://doi.org/10.1038/nrn3729, doi:10.1038/nrn3729. This article has 385 citations and is from a highest quality peer-reviewed journal.

@@ -1,0 +1,86 @@
+## Phylogeny  
+- Orthologs are present in Arabidopsis thaliana Tousled, Drosophila melanogaster Tlk, Caenorhabditis elegans tlk-1, two Trypanosoma brucei TLKs, Mus musculus Tlk2 and Homo sapiens TLK2, illustrating conservation from plants to vertebrates (segurabayona2019thetousledlikekinases pages 1-3).  
+- TLK2 and its paralog TLK1 share 94 % identity within the kinase domain and form the TLK family, a distinct clade classified in the “Other” group on the human kinome tree, positioned between Polo-like and AGC families (mortuza2018molecularbasisof pages 1-2, mortuza2018molecularbasisof pages 6-7).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr → ADP + [protein]-O-phospho-Ser/Thr (mortuza2018molecularbasisof pages 6-7).  
+
+## Cofactor Requirements  
+- Mg²⁺ is required for catalytic activity; Mn²⁺ can substitute with reduced efficiency (mortuza2018molecularbasisof pages 2-3).  
+
+## Substrate Specificity  
+- Consensus preference: acidic residue (Asp/Glu) at −2 relative to the phosphorylated Ser/Thr and hydrophobic or amidic residue at +1; motif definition derived from positional scanning on ASF1 peptides (simon2022tousledlikekinase2 pages 1-2).  
+- Johnson 2023 atlas does not report a distinct TLK2 motif; available data are limited to the ASF1-derived acidic −2 preference.  
+- Validated substrates: ASF1A and ASF1B histone chaperones (segurabayona2019thetousledlikekinases pages 4-5); Rad9 of the 9-1-1 clamp is a TLK family substrate implicated in checkpoint recovery (benedetti2012thetousledlikekinases pages 1-2).  
+
+## Structure  
+- Domain organization:  
+  • N-terminal disordered segment (aa 1–≈190) containing a nuclear localization signal and autoinhibitory function (mortuza2018molecularbasisof pages 3-4).  
+  • Three coiled-coil domains CC1-CC3 (aa ≈191–520) that mediate homo-/heterodimerization and higher-order oligomerization (mortuza2018molecularbasisof pages 2-3).  
+  • Bilobal kinase domain (aa ≈550–750) with canonical Lys-Glu-Asp (VAIK, αC, HRD) motifs, intact regulatory and catalytic spines, and an activation loop spanning S686–T700 (mortuza2018molecularbasisof pages 6-7).  
+  • C-terminal tail (aa 750–772) rich in regulatory phosphosites unresolved in the kinase-domain crystal (mortuza2018molecularbasisof pages 9-10).  
+- 3 D data: 2.8 Å crystal structure of ΔN-TLK2 bound to ATPγS captures an active conformation; autophosphorylation sites cluster on the activation loop and C-tail (mortuza2018molecularbasisof pages 6-7).  
+- Substrate engagement: structure PDB 7U53 shows an N-terminal TLK2 helix docking on ASF1a, exemplifying ‘client-mimicry’ substrate recognition (simon2022tousledlikekinase2 pages 1-2).  
+
+## Regulation  
+- Activation via cis and trans autophosphorylation at S617, S686, T695 and S700 within the kinase domain (mortuza2018molecularbasisof pages 9-10).  
+- Negative control by phosphorylation at S569 in the C-tail (mortuza2018molecularbasisof pages 13-13).  
+- N-terminal segment imposes autoinhibition; its deletion greatly enhances activity (mortuza2018molecularbasisof pages 3-4).  
+- Dimerization/oligomerization through CC domains is obligatory for full activation (asquith2024discoveryandoptimization pages 1-3).  
+- DNA-damage checkpoints suppress TLK activity via CHK1-dependent phosphorylation (segurabayona2019thetousledlikekinases pages 12-13).  
+- Protein stability is regulated by ubiquitination through the circadian SCF(FBXL3 + CRY) E3 ligase complex (segurabayona2019thetousledlikekinases pages 12-13).  
+
+## Function  
+- Expression: ubiquitously expressed, predominantly nuclear, with kinase activity peaking in S-phase (asquith2024discoveryandoptimization pages 1-3).  
+- Chromatin assembly: phosphorylation of ASF1A/B stabilises these chaperones and promotes hand-off of H3-H4 to CAF-1 and HIRA during DNA replication (segurabayona2019thetousledlikekinases pages 4-5).  
+- DNA replication and repair: TLK2 maintains replication-fork integrity; depletion causes fork stalling, single-stranded DNA accumulation and p53-mediated G1 arrest (asquith2024discoveryandoptimization pages 1-3).  
+- Checkpoint recovery: facilitates exit from DNA damage-induced G2/M arrest in an ASF1A-dependent manner (asquith2024discoveryandoptimization pages 1-3).  
+- Epigenome stability: loss of TLK2 derepresses normally heterochromatic loci and activates cGAS-STING-TBK1 innate immunity (asquith2024discoveryandoptimization pages 1-3).  
+- Metabolic control: interacts with ATF4 to induce asparagine synthetase expression during amino-acid stress (asquith2024discoveryandoptimization pages 1-3).  
+- Interactome: proximity-biotinylation identifies TLK1, DYNLL1/2, chromatin remodelers and replication-fork factors; pathogenic kinase-dead mutants lose these interactions (pavinato2022functionalanalysisof pages 6-6).  
+- Synthetic lethality: TLK2 depletion or inhibition sensitises cells to ATR/CHK1 and PARP inhibitors (asquith2024discoveryandoptimization pages 45-46).  
+
+## Inhibitors  
+- Oxindole-based narrow-spectrum inhibitors generated via QSAR exhibit sub-micromolar potency and high kinome selectivity; they induce replication stress and synergise with PARP inhibition in cancer models (asquith2024discoveryandoptimization pages 45-46).  
+
+## Other Comments  
+- Cancer: TLK2 is frequently amplified in luminal breast cancer and glioblastoma, driving SRC and mTOR/ASNS signalling and correlating with poor immune responses (asquith2024discoveryandoptimization pages 1-3).  
+- Neurodevelopment: de novo or inherited loss-of-function variants cause an intellectual-disability syndrome with behavioural and gastrointestinal manifestations (reijnders2018denovoand pages 1-2).  
+- Pathogenic missense mutations within the kinase domain (e.g., D551G, S617L) abolish catalytic activity, mis-localise the protein and disrupt chromatin maintenance (pavinato2022functionalanalysisof pages 5-6).  
+- Mouse knockout of Tlk2 results in embryonic lethality due to placental failure and reduced ASF1 phosphorylation, underscoring essential developmental roles (segurabayona2017differentialrequirementsfor pages 1-2).
+
+References
+
+1. (asquith2024discoveryandoptimization pages 1-3): C. Asquith, Michael P. East, T. Laitinen, Carla Alamillo-Ferrer, Erkka Hartikainen, C. Wells, Alison D. Axtman, D. Drewry, G. Tizzard, A. Poso, Timothy M. Willson, and Gary L Johnson. Discovery and optimization of narrow spectrum inhibitors of tousled like kinase 2 (tlk2) using quantitative structure activity relationships. European journal of medicinal chemistry, 271:116357-116357, Apr 2024. URL: https://doi.org/10.1016/j.ejmech.2024.116357, doi:10.1016/j.ejmech.2024.116357. This article has 2 citations and is from a domain leading peer-reviewed journal.
+
+2. (asquith2024discoveryandoptimization pages 45-46): C. Asquith, Michael P. East, T. Laitinen, Carla Alamillo-Ferrer, Erkka Hartikainen, C. Wells, Alison D. Axtman, D. Drewry, G. Tizzard, A. Poso, Timothy M. Willson, and Gary L Johnson. Discovery and optimization of narrow spectrum inhibitors of tousled like kinase 2 (tlk2) using quantitative structure activity relationships. European journal of medicinal chemistry, 271:116357-116357, Apr 2024. URL: https://doi.org/10.1016/j.ejmech.2024.116357, doi:10.1016/j.ejmech.2024.116357. This article has 2 citations and is from a domain leading peer-reviewed journal.
+
+3. (mortuza2018molecularbasisof pages 1-2): Gulnahar B. Mortuza, Dario Hermida, Anna-Kathrine Pedersen, Sandra Segura-Bayona, Blanca López-Méndez, Pilar Redondo, Patrick Rüther, Irina Pozdnyakova, Ana M. Garrote, Inés G. Muñoz, Marina Villamor-Payà, Cristina Jauset, Jesper V. Olsen, Travis H. Stracker, and Guillermo Montoya. Molecular basis of tousled-like kinase 2 activation. Nature Communications, Jun 2018. URL: https://doi.org/10.1038/s41467-018-04941-y, doi:10.1038/s41467-018-04941-y. This article has 44 citations and is from a highest quality peer-reviewed journal.
+
+4. (mortuza2018molecularbasisof pages 13-13): Gulnahar B. Mortuza, Dario Hermida, Anna-Kathrine Pedersen, Sandra Segura-Bayona, Blanca López-Méndez, Pilar Redondo, Patrick Rüther, Irina Pozdnyakova, Ana M. Garrote, Inés G. Muñoz, Marina Villamor-Payà, Cristina Jauset, Jesper V. Olsen, Travis H. Stracker, and Guillermo Montoya. Molecular basis of tousled-like kinase 2 activation. Nature Communications, Jun 2018. URL: https://doi.org/10.1038/s41467-018-04941-y, doi:10.1038/s41467-018-04941-y. This article has 44 citations and is from a highest quality peer-reviewed journal.
+
+5. (mortuza2018molecularbasisof pages 2-3): Gulnahar B. Mortuza, Dario Hermida, Anna-Kathrine Pedersen, Sandra Segura-Bayona, Blanca López-Méndez, Pilar Redondo, Patrick Rüther, Irina Pozdnyakova, Ana M. Garrote, Inés G. Muñoz, Marina Villamor-Payà, Cristina Jauset, Jesper V. Olsen, Travis H. Stracker, and Guillermo Montoya. Molecular basis of tousled-like kinase 2 activation. Nature Communications, Jun 2018. URL: https://doi.org/10.1038/s41467-018-04941-y, doi:10.1038/s41467-018-04941-y. This article has 44 citations and is from a highest quality peer-reviewed journal.
+
+6. (mortuza2018molecularbasisof pages 3-4): Gulnahar B. Mortuza, Dario Hermida, Anna-Kathrine Pedersen, Sandra Segura-Bayona, Blanca López-Méndez, Pilar Redondo, Patrick Rüther, Irina Pozdnyakova, Ana M. Garrote, Inés G. Muñoz, Marina Villamor-Payà, Cristina Jauset, Jesper V. Olsen, Travis H. Stracker, and Guillermo Montoya. Molecular basis of tousled-like kinase 2 activation. Nature Communications, Jun 2018. URL: https://doi.org/10.1038/s41467-018-04941-y, doi:10.1038/s41467-018-04941-y. This article has 44 citations and is from a highest quality peer-reviewed journal.
+
+7. (segurabayona2017differentialrequirementsfor pages 1-2): Sandra Segura-Bayona, Philip A Knobel, Helena González-Burón, Sameh A Youssef, Aida Peña-Blanco, Étienne Coyaud, Teresa López-Rovira, Katrin Rein, Lluís Palenzuela, Julien Colombelli, Stephen Forrow, Brian Raught, Anja Groth, Alain de Bruin, and Travis H Stracker. Differential requirements for tousled-like kinases 1 and 2 in mammalian development. Cell Death &amp; Differentiation, 24:1872-1885, Jul 2017. URL: https://doi.org/10.1038/cdd.2017.108, doi:10.1038/cdd.2017.108. This article has 38 citations.
+
+8. (segurabayona2019thetousledlikekinases pages 1-3): Sandra Segura-Bayona and Travis H. Stracker. The tousled-like kinases regulate genome and epigenome stability: implications in development and disease. Cellular and Molecular Life Sciences, 76:3827-3841, Jul 2019. URL: https://doi.org/10.1007/s00018-019-03208-z, doi:10.1007/s00018-019-03208-z. This article has 51 citations and is from a domain leading peer-reviewed journal.
+
+9. (simon2022tousledlikekinase2 pages 1-2): B. Simon, H. Lou, Clotilde Huet-Calderwood, G. Shi, T. Boggon, B. Turk, and D. Calderwood. Tousled-like kinase 2 targets asf1 histone chaperones through client mimicry. Nature Communications, Feb 2022. URL: https://doi.org/10.1038/s41467-022-28427-0, doi:10.1038/s41467-022-28427-0. This article has 22 citations and is from a highest quality peer-reviewed journal.
+
+10. (benedetti2012thetousledlikekinases pages 1-2): Arrigo De Benedetti. The tousled-like kinases as guardians of genome integrity. ISRN Molecular Biology, 2012:1-9, May 2012. URL: https://doi.org/10.5402/2012/627596, doi:10.5402/2012/627596. This article has 44 citations.
+
+11. (mortuza2018molecularbasisof pages 6-7): Gulnahar B. Mortuza, Dario Hermida, Anna-Kathrine Pedersen, Sandra Segura-Bayona, Blanca López-Méndez, Pilar Redondo, Patrick Rüther, Irina Pozdnyakova, Ana M. Garrote, Inés G. Muñoz, Marina Villamor-Payà, Cristina Jauset, Jesper V. Olsen, Travis H. Stracker, and Guillermo Montoya. Molecular basis of tousled-like kinase 2 activation. Nature Communications, Jun 2018. URL: https://doi.org/10.1038/s41467-018-04941-y, doi:10.1038/s41467-018-04941-y. This article has 44 citations and is from a highest quality peer-reviewed journal.
+
+12. (mortuza2018molecularbasisof pages 9-10): Gulnahar B. Mortuza, Dario Hermida, Anna-Kathrine Pedersen, Sandra Segura-Bayona, Blanca López-Méndez, Pilar Redondo, Patrick Rüther, Irina Pozdnyakova, Ana M. Garrote, Inés G. Muñoz, Marina Villamor-Payà, Cristina Jauset, Jesper V. Olsen, Travis H. Stracker, and Guillermo Montoya. Molecular basis of tousled-like kinase 2 activation. Nature Communications, Jun 2018. URL: https://doi.org/10.1038/s41467-018-04941-y, doi:10.1038/s41467-018-04941-y. This article has 44 citations and is from a highest quality peer-reviewed journal.
+
+13. (pavinato2022functionalanalysisof pages 5-6): Lisa Pavinato, Marina Villamor-Payà, María Sanchiz-Calvo, C. Andreoli, M. Gay, M. Vilaseca, Gianluca Arauz-Garofalo, A. Ciolfi, A. Bruselles, T. Pippucci, V. Prota, D. Carli, E. Giorgio, F. C. Radio, Vincenzo Antona, M. Giuffré, Kara Ranguin, C. Colson, Silvia De Rubeis, P. Dimartino, J. Buxbaum, G. Ferrero, M. Tartaglia, S. Martinelli, T. Stracker, and A. Brusco. Functional analysis of tlk2 variants and their proximal interactomes implicates impaired kinase activity and chromatin maintenance defects in their pathogenesis. Journal of Medical Genetics, 59:170-179, Dec 2022. URL: https://doi.org/10.1136/jmedgenet-2020-107281, doi:10.1136/jmedgenet-2020-107281. This article has 17 citations and is from a domain leading peer-reviewed journal.
+
+14. (pavinato2022functionalanalysisof pages 6-6): Lisa Pavinato, Marina Villamor-Payà, María Sanchiz-Calvo, C. Andreoli, M. Gay, M. Vilaseca, Gianluca Arauz-Garofalo, A. Ciolfi, A. Bruselles, T. Pippucci, V. Prota, D. Carli, E. Giorgio, F. C. Radio, Vincenzo Antona, M. Giuffré, Kara Ranguin, C. Colson, Silvia De Rubeis, P. Dimartino, J. Buxbaum, G. Ferrero, M. Tartaglia, S. Martinelli, T. Stracker, and A. Brusco. Functional analysis of tlk2 variants and their proximal interactomes implicates impaired kinase activity and chromatin maintenance defects in their pathogenesis. Journal of Medical Genetics, 59:170-179, Dec 2022. URL: https://doi.org/10.1136/jmedgenet-2020-107281, doi:10.1136/jmedgenet-2020-107281. This article has 17 citations and is from a domain leading peer-reviewed journal.
+
+15. (reijnders2018denovoand pages 1-2): Margot R. F. Reijnders, K. Miller, M. Alvi, J. Goos, M. Lees, Anna de Burca, A. Henderson, A. Kraus, B. Mikat, B. D. de Vries, B. Isidor, B. Kerr, C. Marcelis, C. Schluth-Bolard, C. Deshpande, C. Ruivenkamp, D. Wieczorek, D. Baralle, E. Blair, H. Engels, H. Lüdecke, J. Eason, G. Santen, J. Clayton-Smith, K. Chandler, K. Tatton-Brown, K. Payne, K. Helbig, Kelly Radtke, Kimberly Nugent, K. Cremer, T. Strom, L. Bird, M. Sinnema, M. Bitner-Glindzicz, M. V. van Dooren, M. Alders, M. Koopmans, Lauren Brick, M. Kozenko, M. Harline, M. Klaassens, M. Steinraths, N. Cooper, P. Edery, Patrick Yap, P. Terhal, P. J. van der Spek, Phillis Lakeman, R. Taylor, R.O. Littlejohn, R. Pfundt, S. Mercimek-Andrews, A. Stegmann, S. Kant, Scott McLean, S. Joss, S. Swagemakers, S. Douzgou, S. Wall, S. Küry, E. Calpena, Nils Koelling, S. McGowan, S. Twigg, I. Mathijssen, C. Nellåker, H. Brunner, and A. Wilkie. De novo and inherited loss-of-function variants in tlk2: clinical and genotype-phenotype evaluation of a distinct neurodevelopmental disorder. American Journal of Human Genetics, 102:1195-1203, May 2018. URL: https://doi.org/10.1016/j.ajhg.2018.04.014, doi:10.1016/j.ajhg.2018.04.014. This article has 56 citations and is from a highest quality peer-reviewed journal.
+
+16. (segurabayona2019thetousledlikekinases pages 12-13): Sandra Segura-Bayona and Travis H. Stracker. The tousled-like kinases regulate genome and epigenome stability: implications in development and disease. Cellular and Molecular Life Sciences, 76:3827-3841, Jul 2019. URL: https://doi.org/10.1007/s00018-019-03208-z, doi:10.1007/s00018-019-03208-z. This article has 51 citations and is from a domain leading peer-reviewed journal.
+
+17. (segurabayona2019thetousledlikekinases pages 4-5): Sandra Segura-Bayona and Travis H. Stracker. The tousled-like kinases regulate genome and epigenome stability: implications in development and disease. Cellular and Molecular Life Sciences, 76:3827-3841, Jul 2019. URL: https://doi.org/10.1007/s00018-019-03208-z, doi:10.1007/s00018-019-03208-z. This article has 51 citations and is from a domain leading peer-reviewed journal.

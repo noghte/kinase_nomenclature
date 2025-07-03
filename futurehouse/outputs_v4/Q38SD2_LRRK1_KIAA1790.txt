@@ -1,0 +1,99 @@
+## Phylogeny  
+Leucine-rich repeat kinase 1 (LRRK1) is a ROCO family member placed within the Tyrosine-Kinase-Like (TKL) group of the human kinome (gilsbach2014structuralbiologyof pages 1-2).  
+Vertebrate LRRK1 and LRRK2 arose from duplication of a single ancestral LRRK gene; invertebrates such as Caenorhabditis elegans (LRK-1) and Drosophila melanogaster (dLRRK) possess a single ortholog (mata2006lrrk2inparkinsons pages 2-3).  
+Additional orthologs occur in Dictyostelium discoideum (Roco4) and Chlorobium tepidum, underscoring conservation of the ROC-COR-kinase cassette (gilsbach2014structuralbiologyof pages 2-4).  
+Human LRRK1 shares ~70 % sequence identity with LRRK2 across the ROC, COR and kinase domains (mata2006lrrk2inparkinsons pages 3-4).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr → ADP + [protein]-O-phospho-Ser/Thr (malik2021decipheringthelrrk pages 8-10).  
+
+## Cofactor Requirements  
+Catalytic activity requires Mg²⁺, supplied as MgATP in all in-vitro kinase assays (malik2021decipheringthelrrk pages 8-10).  
+Dependence on Mn²⁺ is not reported.  
+
+## Substrate Specificity  
+• High-affinity substrate Rab7A; LRRK1 phosphorylates Ser72 within the switch-II effector motif (malik2021decipheringthelrrk pages 1-2).  
+• Rab8A and Rab10 are not phosphorylated by LRRK1, indicating narrow Rab selectivity (malik2021decipheringthelrrk pages 1-2).  
+• OSTM1 is phosphorylated at Thr328 / Ser329 in osteoclasts, stabilising the protein (shen2023leucinerepeatrich pages 8-11).  
+• CLIP-170 is phosphorylated in HEK293 cells; the modification site is unmapped (xing2017roleandmechanism pages 5-6).  
+• A global consensus motif beyond the Rab switch-II context has not been defined (malik2021decipheringthelrrk pages 17-20).  
+
+## Structure  
+Full-length human LRRK1 (2 015 aa) forms an antiparallel homodimer with a central ROC-COR-kinase core and peripheral ANK/LRR repeats as visualised by 25 Å cryo-EM (sejwal2017cryoemanalysisof pages 5-8).  
+Domain organisation comprises N-terminal ANK repeats, an LRR domain, a ROC GTPase domain containing canonical G1–G5 motifs, adjacent CORA and CORB subdomains, a serine/threonine kinase domain bearing VAIK, HRD and DFG catalytic motifs, and a C-terminal WD40 β-propeller (gilsbach2014structuralbiologyof pages 4-6, xing2017roleandmechanism pages 5-6).  
+The WD40 domain is supported by sequence and functional data yet was not resolved in the low-resolution EM map, creating a structural discrepancy (sejwal2017cryoemanalysisof pages 1-2, zhang2023lrrk2structurebasedactivation pages 10-12).  
+Within CORB, residues Ser1064, Ser1074 and Thr1075 lie in a flexible loop adjacent to the kinase αC-helix and constitute a phosphorylation-controlled allosteric switch (malik2022pkcisoformsactivate pages 1-2).  
+ROC Lys651 is required for GTP binding; the K651A mutation abolishes nucleotide binding and kinase output (xing2017roleandmechanism pages 5-6).  
+No high-resolution crystal structure is available; AlphaFold modelling predicts a canonical bilobal kinase fold consistent with experimental data (gilsbach2014structuralbiologyof pages 4-6).  
+
+## Regulation  
+Post-translational modifications  
+– PKCα, PKCβ and PKCθ phosphorylate Ser1064, Ser1074 and Thr1075; Thr1075 is indispensable for activation, and a triple phosphomimetic increases basal activity three-fold (malik2022pkcisoformsactivate pages 8-10).  
+– Phorbol ester or EGF stimulation enhances Rab7A Ser72 phosphorylation via PKC-dependent LRRK1 activation (malik2021decipheringthelrrk pages 17-20).  
+– LRRK1 autophosphorylates in vitro; phosphorylation is absent in the kinase-dead D1409A mutant (malik2021decipheringthelrrk pages 8-10).  
+– PPM1H selectively dephosphorylates Rab7A Ser72 (malik2021decipheringthelrrk pages 1-2).  
+
+Conformational and allosteric control  
+– Homodimerisation through the ROC-COR scaffold is visualised by cryo-EM and is required for full catalytic activity (sejwal2017cryoemanalysisof pages 5-8).  
+– Truncation of the WD40 domain disrupts dimer formation and abolishes kinase function (xing2017roleandmechanism pages 5-6).  
+
+## Function  
+Expression  
+LRRK1 is expressed in bone, liver, lung and brain, with marked up-regulation during late osteoclast differentiation (xing2017roleandmechanism pages 3-5, xing2017roleandmechanism pages 5-6).  
+
+Physiological roles  
+– Acts as a negative regulator of bone mass; Lrrk1-null mice display severe metaphyseal osteopetrosis and the highest trabecular bone mass among >4 500 knockout strains (shen2023leucinerepeatrich pages 11-12).  
+– Phosphorylates and stabilises OSTM1, enabling peripheral localisation of secretory lysosomes and efficient bone resorption by osteoclasts (shen2023leucinerepeatrich pages 8-11).  
+– Rab7A Ser72 phosphorylation enhances Rab7A–RILP binding and centripetal trafficking of EGF-containing endosomes (xu2021theregulationof pages 11-12).  
+
+Interactors and pathways  
+Confirmed interactors include Rab7A, APPL1 and Hsc70, linking LRRK1 to vesicle-trafficking modules (xing2017roleandmechanism pages 7-9).  
+PKC isoforms function as direct upstream activators (malik2022pkcisoformsactivate pages 1-2).  
+
+## Inhibitors  
+The multi-target kinase inhibitor GZD-824 inhibits both LRRK1 and LRRK2, whereas LRRK2-selective compounds do not affect LRRK1 (malik2021decipheringthelrrk pages 1-2).  
+
+## Other Comments  
+Homozygous loss-of-function mutations in human LRRK1 cause autosomal-recessive osteosclerotic metaphyseal dysplasia, closely mirroring the osteopetrotic phenotype of Lrrk1-null mice (xing2017roleandmechanism pages 3-5).  
+LRRK1 is not implicated in Parkinson’s disease, underscoring functional divergence from its paralog LRRK2 (xing2017roleandmechanism pages 5-6).  
+The presence of a WD40 domain remains disputed, with sequence analyses supporting its existence and cryo-EM unable to resolve it at current resolution (sejwal2017cryoemanalysisof pages 1-2, zhang2023lrrk2structurebasedactivation pages 10-12).
+
+References
+
+1. (malik2021decipheringthelrrk pages 1-2): Asad U. Malik, A. Karapetsas, R. Nirujogi, S. Mathea, Prosenjit Pal, P. Lis, Matthew Taylor, E. Purlyte, Robert Gourlay, Mark Dorward, S. Weidlich, R. Toth, N. Polinski, S. Knapp, F. Tonelli, and D. Alessi. Deciphering the lrrk code: lrrk1 and lrrk2 phosphorylate distinct rab proteins and are regulated by diverse mechanisms. Biochemical Journal, 478:553-578, Nov 2021. URL: https://doi.org/10.1042/bcj20200937, doi:10.1042/bcj20200937. This article has 46 citations and is from a domain leading peer-reviewed journal.
+
+2. (malik2021decipheringthelrrk pages 17-20): Asad U. Malik, A. Karapetsas, R. Nirujogi, S. Mathea, Prosenjit Pal, P. Lis, Matthew Taylor, E. Purlyte, Robert Gourlay, Mark Dorward, S. Weidlich, R. Toth, N. Polinski, S. Knapp, F. Tonelli, and D. Alessi. Deciphering the lrrk code: lrrk1 and lrrk2 phosphorylate distinct rab proteins and are regulated by diverse mechanisms. Biochemical Journal, 478:553-578, Nov 2021. URL: https://doi.org/10.1042/bcj20200937, doi:10.1042/bcj20200937. This article has 46 citations and is from a domain leading peer-reviewed journal.
+
+3. (malik2021decipheringthelrrk pages 8-10): Asad U. Malik, A. Karapetsas, R. Nirujogi, S. Mathea, Prosenjit Pal, P. Lis, Matthew Taylor, E. Purlyte, Robert Gourlay, Mark Dorward, S. Weidlich, R. Toth, N. Polinski, S. Knapp, F. Tonelli, and D. Alessi. Deciphering the lrrk code: lrrk1 and lrrk2 phosphorylate distinct rab proteins and are regulated by diverse mechanisms. Biochemical Journal, 478:553-578, Nov 2021. URL: https://doi.org/10.1042/bcj20200937, doi:10.1042/bcj20200937. This article has 46 citations and is from a domain leading peer-reviewed journal.
+
+4. (malik2022pkcisoformsactivate pages 1-2): Asad U. Malik, Athanasios Karapetsas, Raja S. Nirujogi, Deep Chatterjee, Toan K. Phung, Melanie Wightman, Robert Gourlay, Nick Morrice, Sebastian Mathea, Stefan Knapp, and Dario R. Alessi. Pkc isoforms activate lrrk1 kinase by phosphorylating conserved residues (ser1064, ser1074 and thr1075) within the corb gtpase domain. Biochemical Journal, 479:1941-1965, Sep 2022. URL: https://doi.org/10.1042/bcj20220308, doi:10.1042/bcj20220308. This article has 10 citations and is from a domain leading peer-reviewed journal.
+
+5. (malik2022pkcisoformsactivate pages 8-10): Asad U. Malik, Athanasios Karapetsas, Raja S. Nirujogi, Deep Chatterjee, Toan K. Phung, Melanie Wightman, Robert Gourlay, Nick Morrice, Sebastian Mathea, Stefan Knapp, and Dario R. Alessi. Pkc isoforms activate lrrk1 kinase by phosphorylating conserved residues (ser1064, ser1074 and thr1075) within the corb gtpase domain. Biochemical Journal, 479:1941-1965, Sep 2022. URL: https://doi.org/10.1042/bcj20220308, doi:10.1042/bcj20220308. This article has 10 citations and is from a domain leading peer-reviewed journal.
+
+6. (mata2006lrrk2inparkinsons pages 3-4): I. Mata, W. Wedemeyer, M. Farrer, Julie P. Taylor, and K. Gallo. Lrrk2 in parkinson's disease: protein domains and functional insights. Trends in Neurosciences, 29:286-293, May 2006. URL: https://doi.org/10.1016/j.tins.2006.03.006, doi:10.1016/j.tins.2006.03.006. This article has 609 citations and is from a highest quality peer-reviewed journal.
+
+7. (sejwal2017cryoemanalysisof pages 1-2): Kushal Sejwal, Mohamed Chami, Hervé Rémigy, Renée Vancraenenbroeck, William Sibran, Rosmarie Sütterlin, Paul Baumgartner, Robert McLeod, Marie-Christine Chartier-Harlin, Veerle Baekelandt, Henning Stahlberg, and Jean-Marc Taymans. Cryo-em analysis of homodimeric full-length lrrk2 and lrrk1 protein complexes. Scientific Reports, Aug 2017. URL: https://doi.org/10.1038/s41598-017-09126-z, doi:10.1038/s41598-017-09126-z. This article has 53 citations and is from a poor quality or predatory journal.
+
+8. (xing2017roleandmechanism pages 3-5): Weirong R Xing, Helen Goodluck, Canjun Zeng, and Subburaman Mohan. Role and mechanism of action of leucine-rich repeat kinase 1 in bone. Bone Research, Mar 2017. URL: https://doi.org/10.1038/boneres.2017.3, doi:10.1038/boneres.2017.3. This article has 25 citations and is from a domain leading peer-reviewed journal.
+
+9. (xing2017roleandmechanism pages 5-6): Weirong R Xing, Helen Goodluck, Canjun Zeng, and Subburaman Mohan. Role and mechanism of action of leucine-rich repeat kinase 1 in bone. Bone Research, Mar 2017. URL: https://doi.org/10.1038/boneres.2017.3, doi:10.1038/boneres.2017.3. This article has 25 citations and is from a domain leading peer-reviewed journal.
+
+10. (xing2017roleandmechanism pages 7-9): Weirong R Xing, Helen Goodluck, Canjun Zeng, and Subburaman Mohan. Role and mechanism of action of leucine-rich repeat kinase 1 in bone. Bone Research, Mar 2017. URL: https://doi.org/10.1038/boneres.2017.3, doi:10.1038/boneres.2017.3. This article has 25 citations and is from a domain leading peer-reviewed journal.
+
+11. (xu2021theregulationof pages 11-12): Lejia Xu, Y. Nagai, Yotaro Kajihara, Genta Ito, and T. Tomita. The regulation of rab gtpases by phosphorylation. Biomolecules, Sep 2021. URL: https://doi.org/10.3390/biom11091340, doi:10.3390/biom11091340. This article has 38 citations and is from a peer-reviewed journal.
+
+12. (gilsbach2014structuralbiologyof pages 1-2): Bernd K. Gilsbach and Arjan Kortholt. Structural biology of the lrrk2 gtpase and kinase domains: implications for regulation. Frontiers in Molecular Neuroscience, May 2014. URL: https://doi.org/10.3389/fnmol.2014.00032, doi:10.3389/fnmol.2014.00032. This article has 115 citations and is from a peer-reviewed journal.
+
+13. (gilsbach2014structuralbiologyof pages 2-4): Bernd K. Gilsbach and Arjan Kortholt. Structural biology of the lrrk2 gtpase and kinase domains: implications for regulation. Frontiers in Molecular Neuroscience, May 2014. URL: https://doi.org/10.3389/fnmol.2014.00032, doi:10.3389/fnmol.2014.00032. This article has 115 citations and is from a peer-reviewed journal.
+
+14. (mata2006lrrk2inparkinsons pages 2-3): I. Mata, W. Wedemeyer, M. Farrer, Julie P. Taylor, and K. Gallo. Lrrk2 in parkinson's disease: protein domains and functional insights. Trends in Neurosciences, 29:286-293, May 2006. URL: https://doi.org/10.1016/j.tins.2006.03.006, doi:10.1016/j.tins.2006.03.006. This article has 609 citations and is from a highest quality peer-reviewed journal.
+
+15. (sejwal2017cryoemanalysisof pages 5-8): Kushal Sejwal, Mohamed Chami, Hervé Rémigy, Renée Vancraenenbroeck, William Sibran, Rosmarie Sütterlin, Paul Baumgartner, Robert McLeod, Marie-Christine Chartier-Harlin, Veerle Baekelandt, Henning Stahlberg, and Jean-Marc Taymans. Cryo-em analysis of homodimeric full-length lrrk2 and lrrk1 protein complexes. Scientific Reports, Aug 2017. URL: https://doi.org/10.1038/s41598-017-09126-z, doi:10.1038/s41598-017-09126-z. This article has 53 citations and is from a poor quality or predatory journal.
+
+16. (shen2023leucinerepeatrich pages 11-12): Sandi Shen, Mingjue Si, Canjun Zeng, Elaine K. Liu, Yian Chen, J. Vacher, Haibo Zhao, S. Mohan, and Weirong Xing. Leucine repeat rich kinase 1 controls osteoclast activity by managing lysosomal trafficking and secretion. Biology, Mar 2023. URL: https://doi.org/10.3390/biology12040511, doi:10.3390/biology12040511. This article has 2 citations and is from a peer-reviewed journal.
+
+17. (shen2023leucinerepeatrich pages 8-11): Sandi Shen, Mingjue Si, Canjun Zeng, Elaine K. Liu, Yian Chen, J. Vacher, Haibo Zhao, S. Mohan, and Weirong Xing. Leucine repeat rich kinase 1 controls osteoclast activity by managing lysosomal trafficking and secretion. Biology, Mar 2023. URL: https://doi.org/10.3390/biology12040511, doi:10.3390/biology12040511. This article has 2 citations and is from a peer-reviewed journal.
+
+18. (zhang2023lrrk2structurebasedactivation pages 10-12): Xiaojuan Zhang and A. Kortholt. Lrrk2 structure-based activation mechanism and pathogenesis. Biomolecules, Mar 2023. URL: https://doi.org/10.3390/biom13040612, doi:10.3390/biom13040612. This article has 19 citations and is from a peer-reviewed journal.
+
+19. (gilsbach2014structuralbiologyof pages 4-6): Bernd K. Gilsbach and Arjan Kortholt. Structural biology of the lrrk2 gtpase and kinase domains: implications for regulation. Frontiers in Molecular Neuroscience, May 2014. URL: https://doi.org/10.3389/fnmol.2014.00032, doi:10.3389/fnmol.2014.00032. This article has 115 citations and is from a peer-reviewed journal.

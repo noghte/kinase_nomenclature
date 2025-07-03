@@ -1,0 +1,95 @@
+## Phylogeny
+RAF1 is a serine/threonine-protein kinase belonging to the RAF kinase family, which includes A-RAF and B-RAF (garciaalonso2022structureofthe pages 1-4, roskoski2010rafproteinserinethreoninekinases pages 1-2). The RAF family is part of the MAP kinase kinase kinase (MAP3K) group (simanshu2022astructureis pages 10-11). The RAF kinases belong to the tyrosine kinase–like (TKL) group within the human kinome (unknownauthors2023determiningthemechanism pages 33-37). RAF1 orthologs are highly conserved across diverse species, including human, mouse, rat, chicken, *Xenopus*, *Takifugu*, and zebrafish (razzaque2007germlinegainoffunctionmutations pages 1-7).
+
+
+## Reaction Catalyzed
+The enzyme catalyzes the transfer of the gamma-phosphate group from ATP to the hydroxyl group of serine or threonine residues on protein substrates (roskoski2010rafproteinserinethreoninekinases pages 1-2, kobayashi2010molecularandclinical pages 3-4). The reaction is represented as: MgATP + protein-OH → protein-OPO3^2- + MgADP + H^+ (roskoski2010rafproteinserinethreoninekinases pages 1-2).
+
+
+## Cofactor Requirements
+Catalytic activity requires a divalent metal ion cofactor, typically Mg²⁺ or Mn²⁺ (kobayashi2010molecularandclinical pages 3-4, molzan2010impairedbindingof pages 1-2). Mg²⁺ ions coordinate with ATP in the catalytic cleft of the kinase domain (roskoski2010rafproteinserinethreoninekinases pages 2-3).
+
+
+## Substrate Specificity
+RAF1 has narrow substrate specificity, primarily phosphorylating and activating the dual-specificity kinases MEK1 and MEK2 (roskoski2010rafproteinserinethreoninekinases pages 1-2, garciaalonso2022structureofthe pages 1-4). The enzyme phosphorylates serine/threonine residues located within specific consensus motifs on its substrates (molzan2010impairedbindingof pages 1-2, simanshu2022astructureis pages 10-11).
+
+
+## Structure
+RAF1 has a modular structure comprising three conserved regions (CR1, CR2, and CR3) (garciaalonso2022structureofthe pages 1-4, leicht2007rafkinasesfunction pages 8-9).
+- **CR1**, located at the N-terminus, contains a Ras-binding domain (RBD; residues 56–131) and a cysteine-rich domain (CRD; residues 138–184). The RBD interacts directly with activated Ras proteins, and the CRD binds two zinc ions and interacts with membrane phospholipids to facilitate membrane recruitment (roskoski2010rafproteinserinethreoninekinases pages 1-2, roskoski2010rafproteinserinethreoninekinases pages 2-3, roskoski2010rafproteinserinethreoninekinases pages 3-4).
+- **CR2** is a serine/threonine-rich regulatory region containing an inhibitory phosphorylation site (Ser259) that serves as a docking site for 14-3-3 regulatory proteins (garciaalonso2022structureofthe pages 1-4, roskoski2010rafproteinserinethreoninekinases pages 1-2).
+- **CR3** consists of the C-terminal protein kinase domain (residues 349–609) (roskoski2010rafproteinserinethreoninekinases pages 3-4, garciaalonso2022structureofthe pages 1-4). This domain is composed of a small N-terminal lobe, containing the glycine-rich ATP-binding P-loop (residues 355-363) and the αC-helix, and a large C-terminal lobe that binds protein substrates (roskoski2010rafproteinserinethreoninekinases pages 2-3, roskoski2010rafproteinserinethreoninekinases pages 3-4). The domain's catalytic activity is regulated by the activation loop (or activation segment), which lies between the DFG motif (residues 486–488) and the APE motif (residues 523–525) and contains key phosphorylation sites such as Thr491 and Ser494 (roskoski2010rafproteinserinethreoninekinases pages 3-4, unknownauthors2014themolecularpathogenesis pages 49-53).
+
+
+## Regulation
+RAF1 activity is tightly regulated through phosphorylation, protein-protein interactions, dimerization, and conformational changes.
+- **Phosphorylation**:
+    - **Ser259**: Phosphorylation at this inhibitory site by kinases like PKA promotes binding of 14-3-3 proteins, which maintains RAF1 in an autoinhibited conformation (garciaalonso2022structureofthe pages 1-4, roskoski2010rafproteinserinethreoninekinases pages 1-2). Activation requires dephosphorylation of S259 by protein phosphatases such as PP1 and PP2A (kobayashi2010molecularandclinical pages 3-4, tartaglia2010noonansyndromeclinical pages 15-16).
+    - **Ser338**: Phosphorylation at this activating site by PAK and SRC family kinases primes RAF1 for activation (molzan2010impairedbindingof pages 1-2, unknownauthors2014themolecularpathogenesis pages 49-53).
+    - **Ser621**: Phosphorylation of this C-terminal residue is important for 14-3-3 binding, stabilization of the active conformation, and enhancement of dimerization (kobayashi2010molecularandclinical pages 3-4, roskoski2010rafproteinserinethreoninekinases pages 1-2, unknownauthors2014themolecularpathogenesis pages 49-53).
+    - **Other Sites**: Activating phosphorylations also occur at Tyr341 (by SRC kinases) and within the activation loop at Thr491 and Ser494 (roskoski2010rafproteinserinethreoninekinases pages 2-3, unknownauthors2014themolecularpathogenesis pages 49-53).
+- **Protein Interactions**:
+    - **14-3-3 Proteins**: These proteins bind to phosphorylated Ser259 and Ser621, bridging the N-terminal regulatory region and C-terminal kinase domain to stabilize an inactive, closed conformation (garciaalonso2022structureofthe pages 1-4, tartaglia2010noonansyndromeclinical pages 15-16).
+    - **RAS**: The binding of activated, GTP-bound Ras to the RAF1 RBD recruits RAF1 to the plasma membrane and induces a conformational change that disrupts the inhibitory 14-3-3 interaction at pS259 (leicht2007rafkinasesfunction pages 8-9, unknownauthors2014themolecularpathogenesis pages 45-49).
+    - **HSP90-CDC37**: This chaperone complex is required for RAF1 folding and stability, binding the kinase domain and trapping the N-lobe in an unfolded, inactive state (garciaalonso2022structureofthe pages 1-4, garciaalonso2022structureofthe pages 4-8).
+- **Dimerization**: Activation requires the formation of side-to-side homo- or heterodimers (with B-RAF) mediated by the kinase domain, which allosterically activates the enzyme (roskoski2010rafproteinserinethreoninekinases pages 2-3, roskoski2010rafproteinserinethreoninekinases pages 4-5).
+
+
+## Function
+RAF1 is a key component of the RAS-RAF-MEK-ERK mitogen-activated protein kinase (MAPK) signaling pathway (roskoski2010rafproteinserinethreoninekinases pages 1-2). It functions as a direct effector of Ras GTPases at the cell membrane (garciaalonso2022structureofthe pages 1-4). Following activation, RAF1 phosphorylates and activates its canonical downstream substrates, the MAPK kinases MEK1 and MEK2 (leicht2007rafkinasesfunction pages 8-9). This initiation of the kinase cascade leads to the activation of ERK1/2, which in turn regulates fundamental cellular processes including proliferation, differentiation, survival, and oncogenic transformation (garciaalonso2022structureofthe pages 1-4).
+RAF1 also modulates apoptosis. Some sources report that RAF1 directly phosphorylates the pro-apoptotic protein BAD at serine 112 (S112), which inactivates BAD and promotes cell survival (mukherjee2024exploringsmallmoleculeinhibitors pages 3-4, bahar2023targetingtherasrafmapk pages 9-10). This phosphorylation event is dependent on Pak1 (unknownauthors2023determiningthemechanism pages 33-37). Conversely, other evidence suggests RAF1's role is indirect, acting as a scaffold to recruit protein kinase C theta (PKCθ) to phosphorylate and inactivate BAD (unknownauthors2014themolecularpathogenesis pages 53-58, unknownauthors2014themolecularpathogenesis pages 53-58). RAF1 also possesses kinase-independent scaffolding functions that can inhibit apoptosis (garciaalonso2022structureofthe pages 1-4).
+
+
+## Inhibitors
+Small molecule inhibitors targeting RAF kinases have been developed (leicht2007rafkinasesfunction pages 12-13).
+- **BAY 43-9006 (Sorafenib)** is an ATP-competitive inhibitor that binds the kinase domain of RAF kinases but also affects other kinases such as VEGFR and PDGFR (leicht2007rafkinasesfunction pages 8-9, roskoski2010rafproteinserinethreoninekinases pages 2-3).
+- **SB-590885** is another known inhibitor (leicht2007rafkinasesfunction pages 8-9).
+- A common property of some RAF inhibitors is "paradoxical activation," a phenomenon where inhibitor binding induces RAF dimerization and enhances ERK signaling in cells with active RAS and wild-type B-RAF (roskoski2010rafproteinserinethreoninekinases pages 1-2, roskoski2010rafproteinserinethreoninekinases pages 4-5).
+
+
+## Other Comments
+Mutations in the *RAF1* gene are associated with human diseases.
+- **Noonan Syndrome**: Germline gain-of-function mutations in *RAF1* cause Noonan syndrome, a developmental disorder frequently presenting with cardiac defects (razzaque2007germlinegainoffunctionmutations pages 1-7, tartaglia2010noonansyndromeclinical pages 15-15). These mutations often disrupt the autoinhibited state by affecting residues near regulatory sites, such as S259 (e.g., S257L, P261S) or within the activation segment, leading to constitutive kinase activity (kobayashi2010molecularandclinical pages 3-4, razzaque2007germlinegainoffunctionmutations pages 1-7).
+- **Cancer**: Somatic mutations in *RAF1* are rare in cancers compared to *BRAF* mutations (roskoski2010rafproteinserinethreoninekinases pages 3-4, tartaglia2010noonansyndromeclinical pages 15-15). RAF1 contributes to tumor progression through its kinase-independent role in suppressing apoptosis (garciaalonso2022structureofthe pages 1-4). Consequently, therapeutic strategies involving RAF1 degradation, rather than only kinase inhibition, have been proposed for treating certain cancers (garciaalonso2022structureofthe pages 1-4).
+
+References
+
+1. (garciaalonso2022structureofthe pages 1-4): Sara García-Alonso, P. Mesa, Laura de la Puente Ovejero, Gonzalo Aizpurua, C. Lechuga, E. Zarzuela, C. Santiveri, Manuel Sanclemente, J. Muñoz, M. Musteanu, R. Campos-Olivas, J. Martínez-Torrecuadrada, M. Barbacid, and G. Montoya. Structure of the raf1-hsp90-cdc37 complex reveals the basis of raf1 regulation. bioRxiv, May 2022. URL: https://doi.org/10.1101/2022.05.04.490607, doi:10.1101/2022.05.04.490607. This article has 43 citations.
+
+2. (kobayashi2010molecularandclinical pages 3-4): Tomoko Kobayashi, Yoko Aoki, Tetsuya Niihori, Hélène Cavé, Alain Verloes, Nobuhiko Okamoto, Hiroshi Kawame, Ikuma Fujiwara, Fumio Takada, Takako Ohata, Satoru Sakazume, Tatsuya Ando, Noriko Nakagawa, Pablo Lapunzina, Antonio G. Meneses, Gabriele Gillessen-Kaesbach, Dagmar Wieczorek, Kenji Kurosawa, Seiji Mizuno, Hirofumi Ohashi, Albert David, Nicole Philip, Afag Guliyeva, Yoko Narumi, Shigeo Kure, Shigeru Tsuchiya, and Yoichi Matsubara. Molecular and clinical analysis of<i>raf1</i>in noonan syndrome and related disorders: dephosphorylation of serine 259 as the essential mechanism for mutant activation. Human Mutation, 31:284-294, Mar 2010. URL: https://doi.org/10.1002/humu.21187, doi:10.1002/humu.21187. This article has 148 citations and is from a domain leading peer-reviewed journal.
+
+3. (leicht2007rafkinasesfunction pages 8-9): Deborah T. Leicht, Vitaly Balan, Alexander Kaplun, Vinita Singh-Gupta, Ludmila Kaplun, Melissa Dobson, and Guri Tzivion. Raf kinases: function, regulation and role in human cancer. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1773:1196-1212, Aug 2007. URL: https://doi.org/10.1016/j.bbamcr.2007.05.001, doi:10.1016/j.bbamcr.2007.05.001. This article has 421 citations.
+
+4. (molzan2010impairedbindingof pages 1-2): Manuela Molzan, Benjamin Schumacher, Corinna Ottmann, Angela Baljuls, Lisa Polzien, Michael Weyand, Philipp Thiel, Rolf Rose, Micheline Rose, Philipp Kuhenne, Markus Kaiser, Ulf R. Rapp, Jürgen Kuhlmann, and Christian Ottmann. Impaired binding of 14-3-3 to c-raf in noonan syndrome suggests new approaches in diseases with increased ras signaling. Molecular and Cellular Biology, 30:4698-4711, Oct 2010. URL: https://doi.org/10.1128/mcb.01636-09, doi:10.1128/mcb.01636-09. This article has 157 citations and is from a domain leading peer-reviewed journal.
+
+5. (mukherjee2024exploringsmallmoleculeinhibitors pages 3-4): Tuhin Mukherjee, Satyajit Mohanty, Jasleen Kaur, Mayukh Das, Krishnendu Adhikary, Prity Chatterjee, and Rajkumar Maiti. Exploring small-molecule inhibitors targeting mapk pathway components: focus on erk, mek1, and mek2 kinases in cancer treatment. Chemical Biology Letters, 11:659-659, Apr 2024. URL: https://doi.org/10.62110/sciencein.cbl.2024.v11.659, doi:10.62110/sciencein.cbl.2024.v11.659. This article has 13 citations.
+
+6. (razzaque2007germlinegainoffunctionmutations pages 1-7): M Abdur Razzaque, Tsutomu Nishizawa, Yuta Komoike, Hisato Yagi, Michiko Furutani, Ryunosuke Amo, Mitsuhiro Kamisago, Kazuo Momma, Hiroshi Katayama, Masao Nakagawa, Yuko Fujiwara, Masaki Matsushima, Katsumi Mizuno, Mika Tokuyama, Hamao Hirota, Jun Muneuchi, Toru Higashinakagawa, and Rumiko Matsuoka. Germline gain-of-function mutations in raf1 cause noonan syndrome. Nature Genetics, 39:1013-1017, Jul 2007. URL: https://doi.org/10.1038/ng2078, doi:10.1038/ng2078. This article has 608 citations and is from a highest quality peer-reviewed journal.
+
+7. (roskoski2010rafproteinserinethreoninekinases pages 1-2): Robert Roskoski. Raf protein-serine/threonine kinases: structure and regulation. Biochemical and Biophysical Research Communications, 399:313-317, Aug 2010. URL: https://doi.org/10.1016/j.bbrc.2010.07.092, doi:10.1016/j.bbrc.2010.07.092. This article has 501 citations and is from a peer-reviewed journal.
+
+8. (roskoski2010rafproteinserinethreoninekinases pages 2-3): Robert Roskoski. Raf protein-serine/threonine kinases: structure and regulation. Biochemical and Biophysical Research Communications, 399:313-317, Aug 2010. URL: https://doi.org/10.1016/j.bbrc.2010.07.092, doi:10.1016/j.bbrc.2010.07.092. This article has 501 citations and is from a peer-reviewed journal.
+
+9. (roskoski2010rafproteinserinethreoninekinases pages 3-4): Robert Roskoski. Raf protein-serine/threonine kinases: structure and regulation. Biochemical and Biophysical Research Communications, 399:313-317, Aug 2010. URL: https://doi.org/10.1016/j.bbrc.2010.07.092, doi:10.1016/j.bbrc.2010.07.092. This article has 501 citations and is from a peer-reviewed journal.
+
+10. (roskoski2010rafproteinserinethreoninekinases pages 4-5): Robert Roskoski. Raf protein-serine/threonine kinases: structure and regulation. Biochemical and Biophysical Research Communications, 399:313-317, Aug 2010. URL: https://doi.org/10.1016/j.bbrc.2010.07.092, doi:10.1016/j.bbrc.2010.07.092. This article has 501 citations and is from a peer-reviewed journal.
+
+11. (simanshu2022astructureis pages 10-11): Dhirendra K. Simanshu and Deborah K. Morrison. A structure is worth a thousand words: new insights for ras and raf regulation. Cancer Discovery, 12:899-912, Jan 2022. URL: https://doi.org/10.1158/2159-8290.cd-21-1494, doi:10.1158/2159-8290.cd-21-1494. This article has 62 citations and is from a highest quality peer-reviewed journal.
+
+12. (tartaglia2010noonansyndromeclinical pages 15-15): Marco Tartaglia, G. Zampino, and B. Gelb. Noonan syndrome: clinical aspects and molecular pathogenesis. Molecular Syndromology, 1:2-26, Jan 2010. URL: https://doi.org/10.1159/000276766, doi:10.1159/000276766. This article has 287 citations and is from a peer-reviewed journal.
+
+13. (tartaglia2010noonansyndromeclinical pages 15-16): Marco Tartaglia, G. Zampino, and B. Gelb. Noonan syndrome: clinical aspects and molecular pathogenesis. Molecular Syndromology, 1:2-26, Jan 2010. URL: https://doi.org/10.1159/000276766, doi:10.1159/000276766. This article has 287 citations and is from a peer-reviewed journal.
+
+14. (unknownauthors2014themolecularpathogenesis pages 49-53): The Molecular Pathogenesis of Noonan Syndrome-Associated RAF1 Mutations
+
+15. (bahar2023targetingtherasrafmapk pages 9-10): Md Entaz Bahar, Hyun Joon Kim, and Deok Ryong Kim. Targeting the ras/raf/mapk pathway for cancer therapy: from mechanism to clinical studies. Signal Transduction and Targeted Therapy, Dec 2023. URL: https://doi.org/10.1038/s41392-023-01705-z, doi:10.1038/s41392-023-01705-z. This article has 416 citations and is from a peer-reviewed journal.
+
+16. (garciaalonso2022structureofthe pages 4-8): Sara García-Alonso, P. Mesa, Laura de la Puente Ovejero, Gonzalo Aizpurua, C. Lechuga, E. Zarzuela, C. Santiveri, Manuel Sanclemente, J. Muñoz, M. Musteanu, R. Campos-Olivas, J. Martínez-Torrecuadrada, M. Barbacid, and G. Montoya. Structure of the raf1-hsp90-cdc37 complex reveals the basis of raf1 regulation. bioRxiv, May 2022. URL: https://doi.org/10.1101/2022.05.04.490607, doi:10.1101/2022.05.04.490607. This article has 43 citations.
+
+17. (leicht2007rafkinasesfunction pages 12-13): Deborah T. Leicht, Vitaly Balan, Alexander Kaplun, Vinita Singh-Gupta, Ludmila Kaplun, Melissa Dobson, and Guri Tzivion. Raf kinases: function, regulation and role in human cancer. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1773:1196-1212, Aug 2007. URL: https://doi.org/10.1016/j.bbamcr.2007.05.001, doi:10.1016/j.bbamcr.2007.05.001. This article has 421 citations.
+
+18. (unknownauthors2014themolecularpathogenesis pages 45-49): The Molecular Pathogenesis of Noonan Syndrome-Associated RAF1 Mutations
+
+19. (unknownauthors2014themolecularpathogenesis pages 53-58): The Molecular Pathogenesis of Noonan Syndrome-Associated RAF1 Mutations
+
+20. (unknownauthors2023determiningthemechanism pages 33-37): Determining the mechanism of C-Raf driven metastasis

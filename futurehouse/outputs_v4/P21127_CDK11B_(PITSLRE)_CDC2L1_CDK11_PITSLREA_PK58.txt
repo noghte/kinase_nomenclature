@@ -1,0 +1,90 @@
+## Phylogeny  
+Cyclin-dependent kinase 11B (CDK11B; UniProt P21127) is assigned to the CMGC group, CDK family of the human kinome (manning2002theproteinkinase pages 2-3). A recent segmental duplication on chromosome 1 generated the very close paralog CDK11A; the two proteins differ by only 16 amino acids (malumbres2009cyclindependentkinasesa pages 2-4). Sequence-based clustering places CDK11B nearest to CDK11A, CDK8 and CDK9 within the CDK subfamily (varjosalo2013theproteininteraction pages 4-5). Single-copy orthologs are conserved in Mus musculus, Rattus norvegicus, Xenopus laevis, Danio rerio, Drosophila melanogaster and Saccharomyces cerevisiae, reflecting broad evolutionary conservation of PITSLRE kinases (malumbres2009cyclindependentkinasesa pages 2-4).  
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr ⇌ ADP + protein-L-Ser/Thr-phosphate (loyer2005roleofcdkcyclin pages 4-5).  
+
+## Cofactor Requirements  
+Catalysis requires a divalent cation, preferentially Mg²⁺, to coordinate the ATP phosphates within the active site (scheeff2005structuralevolutionof pages 12-13).  
+
+## Substrate Specificity  
+In vitro and cellular mapping indicate a preference for Ser/Thr-Pro motifs with a basic residue at +3; consensus: S/T-P-X-K/R (unknownauthors2020investigatingtherole pages 13-18).  
+
+## Structure  
+CDK11B is a 912-residue protein organised as follows:  
+• N-terminal regulatory segment (≈1-400) containing multiple nuclear localisation signals and a canonical 14-3-3 docking site (unknownauthors2006theregulationand pages 35-39).  
+• Central arginine/glutamic acid-rich (RE) domain (≈400-560) that recruits spliceosomal factors (unknownauthors2006theregulationand pages 35-39).  
+• Poly-glutamic acid (poly-E) domain (≈560-650) harbouring an internal ribosome entry site essential for translation of the mitotic p58 isoform (zhou2016theemergingroles pages 3-5).  
+• C-terminal kinase domain (≈700-912) displaying the canonical bilobal CDK fold with PSTAIRE helix, Lys-Glu ion pair, C-helix, DFG motif and activation-loop Thr required for catalysis; these elements are evident in the AlphaFold model AF-P21127-F1 (loyer2020rolesofcdkcyclin pages 9-10, scheeff2005structuralevolutionof pages 10-11).  
+Unique features include multiple caspase cleavage sites within the regulatory segment that generate catalytically active p46 and p60 fragments during apoptosis (unknownauthors2006theregulationand pages 35-39). No experimentally solved PDB structure is currently available (loyer2020rolesofcdkcyclin pages 9-10).  
+
+## Regulation  
+Post-translational modifications  
+– CK2 phosphorylates N-terminal Ser residues, enhancing transcription/splicing functions (unknownauthors2006theregulationand pages 35-39).  
+– CHK2 phosphorylates CDK11p110, promoting homodimerisation and global splicing activity (unknownauthors2020investigatingtherole pages 25-28).  
+– Autophosphorylation of the activation-loop Thr is necessary for full catalytic activity (loyer2020rolesofcdkcyclin pages 5-6).  
+Proteolytic control  
+– Caspase-1 and caspase-3 cleave p110 and p58 at defined Asp sites to release p46 and p60, shifting substrate specificity toward apoptotic targets (unknownauthors2006theregulationand pages 43-48).  
+Translation control  
+– An IRES embedded in the poly-E domain restricts p58 synthesis to G2/M and is modulated by eIF2α phosphorylation and Unr binding (unknownauthors2006theregulationand pages 35-39).  
+Protein interactions  
+– Kinase activation requires binding to Cyclin L1 or Cyclin L2; the mitotic p58 isoform can additionally engage Cyclin D3 (zhou2016theemergingroles pages 3-5).  
+– 14-3-3γ and the chaperones Hsp70/Hsp90 associate with distinct isoforms to control localisation and stability (unknownauthors2006theregulationand pages 145-149).  
+
+## Function  
+Expression and isoforms  
+– p110 is constitutively nuclear throughout the cell cycle; p58 is expressed exclusively at G2/M; p46 and p60 appear following caspase cleavage during apoptosis (unknownauthors2006theregulationand pages 53-57).  
+Transcription and splicing  
+– p110 phosphorylates the RNA polymerase II C-terminal domain and SR splicing factors RNPS1 and 9G8, cooperating with elongation factor ELL2 to couple transcription with 3'-end processing (unknownauthors2006theregulationand pages 39-43).  
+Mitosis  
+– p58 regulates centrosome maturation, bipolar spindle assembly and sister-chromatid cohesion by recruiting PLK1, PLK4 and Cep192 (unknownauthors2020investigatingtherole pages 25-28).  
+Apoptosis and translation control  
+– p46 phosphorylates PAK1, NOT2, RanBPM and eIF3f, inhibiting translation and promoting anoikis; p60 relocates to mitochondria to trigger cytochrome c release (unknownauthors2006theregulationand pages 43-48).  
+Cytoskeleton  
+– Interaction with vimentin, α/β-tubulin and lamin A implicates CDK11B in microtubule dynamics (unknownauthors2006theregulationand pages 145-149).  
+
+## Inhibitors  
+OTS964 is a potent, selective small-molecule inhibitor of CDK11 (biochemical IC₅₀ ≈ 10–100 nM) that blocks spliceosome activation; resistance-conferring CDK11 mutations emerge upon chronic exposure (hluchy2022cdk11regulatespremrna pages 1-6, loyer2020rolesofcdkcyclin pages 7-8). No approved clinical inhibitors have been reported.  
+
+## Other Comments  
+High CDK11B expression is essential for survival of breast cancer, multiple myeloma, osteosarcoma and melanoma cells and correlates with poor prognosis (loyer2020rolesofcdkcyclin pages 7-8). The CDC2L1 gene resides within the 1p36.3 region, a hotspot for chromosomal alterations in cancer (zhou2016theemergingroles pages 1-3).
+
+References
+
+1. (loyer2020rolesofcdkcyclin pages 7-8): Pascal Loyer and Janeen H. Trembley. Roles of cdk/cyclin complexes in transcription and pre-mrna splicing: cyclins l and cdk11 at the cross-roads of cell cycle and regulation of gene expression. Seminars in Cell &amp; Developmental Biology, 107:36-45, Nov 2020. URL: https://doi.org/10.1016/j.semcdb.2020.04.016, doi:10.1016/j.semcdb.2020.04.016. This article has 64 citations.
+
+2. (malumbres2009cyclindependentkinasesa pages 2-4): Marcos Malumbres, Edward Harlow, Tim Hunt, Tony Hunter, Jill M. Lahti, Gerard Manning, David O. Morgan, Li-Huei Tsai, and Debra J. Wolgemuth. Cyclin-dependent kinases: a family portrait. Nature Cell Biology, 11:1275-1276, Nov 2009. URL: https://doi.org/10.1038/ncb1109-1275, doi:10.1038/ncb1109-1275. This article has 592 citations and is from a highest quality peer-reviewed journal.
+
+3. (manning2002theproteinkinase pages 2-3): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+4. (unknownauthors2006theregulationand pages 35-39): The regulation and function of cyclin dependent kinase 11 (CDK11): Analysis of the Cdc2L1 promoter and elucidation of CDK11 (p58) function during mitosis
+
+5. (unknownauthors2006theregulationand pages 39-43): The regulation and function of cyclin dependent kinase 11 (CDK11): Analysis of the Cdc2L1 promoter and elucidation of CDK11 (p58) function during mitosis
+
+6. (unknownauthors2006theregulationand pages 43-48): The regulation and function of cyclin dependent kinase 11 (CDK11): Analysis of the Cdc2L1 promoter and elucidation of CDK11 (p58) function during mitosis
+
+7. (unknownauthors2006theregulationand pages 53-57): The regulation and function of cyclin dependent kinase 11 (CDK11): Analysis of the Cdc2L1 promoter and elucidation of CDK11 (p58) function during mitosis
+
+8. (unknownauthors2020investigatingtherole pages 25-28): Investigating the Role of CDK11 in Animal Cytokinesis
+
+9. (zhou2016theemergingroles pages 3-5): Yu-bing Zhou, Jacson K. Shen, F. Hornicek, Q. Kan, and Z. Duan. The emerging roles and therapeutic potential of cyclin-dependent kinase 11 (cdk11) in human cancer. Oncotarget, 7:40846-40859, Mar 2016. URL: https://doi.org/10.18632/oncotarget.8519, doi:10.18632/oncotarget.8519. This article has 82 citations and is from a poor quality or predatory journal.
+
+10. (hluchy2022cdk11regulatespremrna pages 1-6): M. Hluchý, Pavla Gajdušková, Igor Ruiz de los Mozos, M. Rájecký, Michael Kluge, B. Berger, Zuzana Slabá, D. Potěšil, E. Weiß, J. Ule, Z. Zdráhal, S. Knapp, K. Paruch, C. Friedel, and D. Blazek. Cdk11 regulates pre-mrna splicing by phosphorylation of sf3b1. Nature, 609:829-834, Sep 2022. URL: https://doi.org/10.1038/s41586-022-05204-z, doi:10.1038/s41586-022-05204-z. This article has 54 citations and is from a highest quality peer-reviewed journal.
+
+11. (loyer2020rolesofcdkcyclin pages 9-10): Pascal Loyer and Janeen H. Trembley. Roles of cdk/cyclin complexes in transcription and pre-mrna splicing: cyclins l and cdk11 at the cross-roads of cell cycle and regulation of gene expression. Seminars in Cell &amp; Developmental Biology, 107:36-45, Nov 2020. URL: https://doi.org/10.1016/j.semcdb.2020.04.016, doi:10.1016/j.semcdb.2020.04.016. This article has 64 citations.
+
+12. (unknownauthors2020investigatingtherole pages 13-18): Investigating the Role of CDK11 in Animal Cytokinesis
+
+13. (varjosalo2013theproteininteraction pages 4-5): Markku Varjosalo, Salla Keskitalo, Audrey Van Drogen, Helka Nurkkala, Anton Vichalkovski, Ruedi Aebersold, and Matthias Gstaiger. The protein interaction landscape of the human cmgc kinase group. Cell reports, 3 4:1306-20, Apr 2013. URL: https://doi.org/10.1016/j.celrep.2013.03.027, doi:10.1016/j.celrep.2013.03.027. This article has 271 citations and is from a highest quality peer-reviewed journal.
+
+14. (zhou2016theemergingroles pages 1-3): Yu-bing Zhou, Jacson K. Shen, F. Hornicek, Q. Kan, and Z. Duan. The emerging roles and therapeutic potential of cyclin-dependent kinase 11 (cdk11) in human cancer. Oncotarget, 7:40846-40859, Mar 2016. URL: https://doi.org/10.18632/oncotarget.8519, doi:10.18632/oncotarget.8519. This article has 82 citations and is from a poor quality or predatory journal.
+
+15. (loyer2005roleofcdkcyclin pages 4-5): P. Loyer, J. Trembley, R. Katona, V. Kidd, and J. Lahti. Role of cdk/cyclin complexes in transcription and rna splicing. Cellular Signalling, 17:1033-1051, Sep 2005. URL: https://doi.org/10.1016/j.cellsig.2005.02.005, doi:10.1016/j.cellsig.2005.02.005. This article has 237 citations and is from a peer-reviewed journal.
+
+16. (loyer2020rolesofcdkcyclin pages 5-6): Pascal Loyer and Janeen H. Trembley. Roles of cdk/cyclin complexes in transcription and pre-mrna splicing: cyclins l and cdk11 at the cross-roads of cell cycle and regulation of gene expression. Seminars in Cell &amp; Developmental Biology, 107:36-45, Nov 2020. URL: https://doi.org/10.1016/j.semcdb.2020.04.016, doi:10.1016/j.semcdb.2020.04.016. This article has 64 citations.
+
+17. (scheeff2005structuralevolutionof pages 10-11): Eric Scheeff and Philip Bourne. Structural evolution of the protein kinase–like superfamily. PLoS Computational Biology, Sep 2005. URL: https://doi.org/10.1371/journal.pcbi.0010049, doi:10.1371/journal.pcbi.0010049. This article has 354 citations and is from a highest quality peer-reviewed journal.
+
+18. (scheeff2005structuralevolutionof pages 12-13): Eric Scheeff and Philip Bourne. Structural evolution of the protein kinase–like superfamily. PLoS Computational Biology, Sep 2005. URL: https://doi.org/10.1371/journal.pcbi.0010049, doi:10.1371/journal.pcbi.0010049. This article has 354 citations and is from a highest quality peer-reviewed journal.
+
+19. (unknownauthors2006theregulationand pages 145-149): The regulation and function of cyclin dependent kinase 11 (CDK11): Analysis of the Cdc2L1 promoter and elucidation of CDK11 (p58) function during mitosis

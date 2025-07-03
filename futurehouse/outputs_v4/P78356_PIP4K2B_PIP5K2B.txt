@@ -1,0 +1,93 @@
+## Phylogeny
+Phosphatidylinositol 5-phosphate 4-kinase (PIP4K) is a lipid kinase family specific to metazoans, with homologs found in their close unicellular relatives, the choanoflagellates, but absent in unicellular eukaryotes like *S. cerevisiae* (krishnan2024theconservedbiochemical pages 1-4, raghu2021emergingcellbiological pages 1-2). Orthologs of PIP4K2B are present in various multicellular organisms, including worms, flies, zebrafish, mice, and humans (kolay2016controlofdiverse pages 26-26). PIP4Ks are part of the phosphoinositide kinase (PIK) superfamily but are distinct from PI3K and PI4K families (brown2011phylogenomicsofphosphoinositide pages 1-3). The mammalian PIP4K family includes three isoforms, PIP4K2A, PIP4K2B, and PIP4K2C, which are conserved across vertebrates (krishnan2024theconservedbiochemical pages 23-25, raghu2021emergingcellbiological pages 1-2).
+
+
+
+## Reaction Catalyzed
+The enzyme catalyzes the phosphorylation of phosphatidylinositol 5-phosphate (PI(5)P) at the D-4 position of the inositol ring to produce phosphatidylinositol 4,5-bisphosphate (PI(4,5)P2) (krishnan2024theconservedbiochemical pages 1-4, unknownauthors2023elucidatingtherole pages 19-22). PIP4K2B demonstrates a unique and preferential use of GTP over ATP as the phosphate donor (sumita2016thelipidkinase pages 14-18, sumita2016thelipidkinase pages 8-9). In vitro assays show that PIP4K2B hydrolyzes GTP approximately five times faster than ATP (sumita2016thelipidkinase pages 3-4, sumita2016thelipidkinase pages 4-6).
+Phosphatidylinositol 5-phosphate + GTP → Phosphatidylinositol 4,5-bisphosphate + GDP (sumita2016thelipidkinase pages 4-6, unknownauthors2020pip4khasa pages 21-28).
+
+
+
+## Cofactor Requirements
+The catalytic activity of PIP4K family members requires a divalent metal ion cofactor, such as Mg²⁺ or Mn²⁺ (unknownauthors2022characterisationofalternative pages 47-54). These metal ions are essential for coordinating the phosphate groups of the nucleotide triphosphate (ATP or GTP) to facilitate the phosphoryl transfer to the substrate (unknownauthors2022characterisationofalternative pages 47-54).
+
+
+
+## Substrate Specificity
+The provided context does not contain information to generate a consensus substrate motif for protein substrates. As a lipid kinase, PIP4K2B exhibits substrate specificity for phosphatidylinositol 5-phosphate (PI5P) (krishnan2024theconservedbiochemical pages 1-4, raghu2021emergingcellbiological pages 4-5). This specificity is conferred by structural motifs within the enzyme, particularly the activation loop (krishnan2024theconservedbiochemical pages 23-25, unknownauthors2020pip4khasa pages 21-28). Swapping the activation loop with that of a PIP5K enzyme alters the lipid substrate preference (unknownauthors2020pip4khasa pages 21-28).
+
+
+
+## Structure
+The crystal structure of human PIP4K2B has been resolved (PDB ID: 3X01) (unknownauthors2020pip4khasa pages 15-21, unknownauthors2020pip4khasa pages 21-28). The protein crystallizes as a homodimer, with dimerization mediated by beta-sheets at the amino terminus that form a flat, positively charged interface for membrane binding (unknownauthors2020pip4khasa pages 21-28). It can also form heterodimers with other PIP4K isoforms (clarke2013evolutionarilyconservedstructural pages 12-13, raghu2021emergingcellbiological pages 1-2). Key structural domains include a PI5P binding site, a nucleotide-binding site, and an activation loop that dictates substrate specificity (krishnan2024theconservedbiochemical pages 23-25). The preferential binding and utilization of GTP over ATP is conferred by specific residues, including Thr-201 and Phe-205, which accommodate the guanine base in the binding pocket (sumita2016thelipidkinase pages 4-6, sumita2016thelipidkinase pages 8-9).
+
+
+
+## Regulation
+Post-translational modifications regulate PIP4K2B activity. The protein is phosphorylated at Serine 326 (S326) by p38 MAPK, which results in decreased lipid kinase activity (trempolec2013snapshotp38mapk pages 1-1). PIP4K2B is also acetylated at multiple lysine residues, with Lysine 239 (K239) identified as a key site deacetylated by SIRT1 (unknownauthorsUnknownyearphosphatidylinositol5phosphate4kinase pages 11-13). The acetyltransferase p300 can acetylate PIP4K2B, and this modification may alter substrate interaction (unknownauthorsUnknownyearphosphatidylinositol5phosphate4kinase pages 11-13).
+Regulation also occurs through its function as an intracellular GTP sensor, as its kinase activity is proportional to physiological GTP concentrations (sumita2016thelipidkinase pages 14-18, sumita2016thelipidkinase pages 4-6). Furthermore, PIP4K2B has a catalytic-independent regulatory role, suppressing the activity of PIP5K enzymes via direct protein-protein interaction at negatively charged membranes (wang2019pip4kssuppressinsulin pages 10-14, unknownauthors2020pip4khasa pages 87-97). Subcellular localization, mediated by a nuclear localization signal, also contributes to its regulation, allowing it to function in the nucleus, plasma membrane, and endoplasmic reticulum (raghu2021emergingcellbiological pages 4-5, unknownauthors2020pip4khasa pages 21-28).
+
+
+
+## Function
+PIP4K2B is highly expressed in skeletal muscle and is also found in tissues such as the liver and brain (unknownauthors2020pip4khasa pages 87-97, unknownauthors2020pip4khasa pages 21-28). Its catalytic function is required for autophagy, specifically for the fusion of autophagosomes with lysosomes (raghu2021emergingcellbiological pages 4-5, wang2019pip4kssuppressinsulin pages 10-14). In the nucleus, it regulates PI5P levels to modulate gene expression through interaction with proteins such as ING2, TAF3, and UHRF1, linking it to the DNA damage response (raghu2021emergingcellbiological pages 4-5).
+In addition to its catalytic activity, PIP4K2B has a kinase-independent role in negatively regulating the insulin signaling pathway (wang2019pip4kssuppressinsulin pages 10-14, wang2019pip4kssuppressinsulin pages 5-10). It accomplishes this by directly binding to and inhibiting PIP5K family enzymes, which reduces the synthesis of PI(4,5)P2 and its downstream product PI(3,4,5)P3, thereby attenuating PI3K/AKT signaling (wang2019pip4kssuppressinsulin pages 10-14, unknownauthors2020pip4khasa pages 87-97). This function also allows it to regulate TORC1 signaling (raghu2021emergingcellbiological pages 4-5, wang2019pip4kssuppressinsulin pages 5-10).
+
+
+
+## Inhibitors
+Small molecule inhibitors targeting the PIP4K family have been developed, which include covalent and non-ATP-competitive allosteric inhibitors that bind the PI5P-binding site (jin2023lipidkinasespip5ks pages 10-10). However, existing inhibitors generally have low potency, with activity in the micromolar range, and lack isoform specificity (unknownauthors2020pip4khasa pages 28-33).
+
+
+
+## Other Comments
+Among the three mammalian PIP4K isoforms, PIP4K2B has intermediate catalytic activity, in the hierarchy of PIP4K2A >> PIP4K2B >> PIP4K2C (unknownauthors2020pip4khasa pages 15-21, raghu2021emergingcellbiological pages 1-2). PIP4K2B is implicated in cancer biology; its transcripts are upregulated in some leukemias, and its overexpression can suppress growth in certain glioblastoma models (raghu2021emergingcellbiological pages 4-5). Conversely, low PIP4K2B expression in breast tumors correlates with increased tumor size and poorer prognosis (unknownauthors2014investigatingtheproduction pages 176-179). Genetic deletion of PIP4K2A and PIP4K2B in p53-null mice slows tumor growth (raghu2021emergingcellbiological pages 4-5). The enzyme is also involved in metabolic regulation, as Pip4k2b knockout mice display increased insulin sensitivity (unknownauthors2020pip4khasa pages 15-21, unknownauthors2020pip4khasa pages 87-97).
+
+References
+
+1. (krishnan2024theconservedbiochemical pages 1-4): Harini Krishnan, Suhail Muzaffar, Sanjeev Sharma, Visvanathan Ramya, Avishek Ghosh, Ramanathan Sowdhamini, and Padinjat Raghu. The conserved biochemical activity and function of an early metazoan phosphatidylinositol 5 phosphate 4-kinase regulates growth and development. BioRxiv, Aug 2024. URL: https://doi.org/10.1101/2024.08.01.606031, doi:10.1101/2024.08.01.606031. This article has 0 citations.
+
+2. (raghu2021emergingcellbiological pages 4-5): Padinjat Raghu. Emerging cell biological functions of phosphatidylinositol 5 phosphate 4 kinase. Current Opinion in Cell Biology, 71:15-20, Aug 2021. URL: https://doi.org/10.1016/j.ceb.2021.01.012, doi:10.1016/j.ceb.2021.01.012. This article has 8 citations and is from a peer-reviewed journal.
+
+3. (sumita2016thelipidkinase pages 14-18): Kazutaka Sumita, Yu-Hua Lo, Koh Takeuchi, Miki Senda, Satoshi Kofuji, Yoshiki Ikeda, Jumpei Terakawa, Mika Sasaki, Hirofumi Yoshino, Nazanin Majd, Yuxiang Zheng, Emily Rose Kahoud, Takehiro Yokota, Brooke M. Emerling, John M. Asara, Tetsuo Ishida, Jason W. Locasale, Takiko Daikoku, Dimitrios Anastasiou, Toshiya Senda, and Atsuo T. Sasaki. The lipid kinase pi5p4kβ is an intracellular gtp sensor for metabolism and tumorigenesis. Molecular cell, 61 2:187-98, Jan 2016. URL: https://doi.org/10.1016/j.molcel.2015.12.011, doi:10.1016/j.molcel.2015.12.011. This article has 78 citations and is from a highest quality peer-reviewed journal.
+
+4. (sumita2016thelipidkinase pages 3-4): Kazutaka Sumita, Yu-Hua Lo, Koh Takeuchi, Miki Senda, Satoshi Kofuji, Yoshiki Ikeda, Jumpei Terakawa, Mika Sasaki, Hirofumi Yoshino, Nazanin Majd, Yuxiang Zheng, Emily Rose Kahoud, Takehiro Yokota, Brooke M. Emerling, John M. Asara, Tetsuo Ishida, Jason W. Locasale, Takiko Daikoku, Dimitrios Anastasiou, Toshiya Senda, and Atsuo T. Sasaki. The lipid kinase pi5p4kβ is an intracellular gtp sensor for metabolism and tumorigenesis. Molecular cell, 61 2:187-98, Jan 2016. URL: https://doi.org/10.1016/j.molcel.2015.12.011, doi:10.1016/j.molcel.2015.12.011. This article has 78 citations and is from a highest quality peer-reviewed journal.
+
+5. (sumita2016thelipidkinase pages 4-6): Kazutaka Sumita, Yu-Hua Lo, Koh Takeuchi, Miki Senda, Satoshi Kofuji, Yoshiki Ikeda, Jumpei Terakawa, Mika Sasaki, Hirofumi Yoshino, Nazanin Majd, Yuxiang Zheng, Emily Rose Kahoud, Takehiro Yokota, Brooke M. Emerling, John M. Asara, Tetsuo Ishida, Jason W. Locasale, Takiko Daikoku, Dimitrios Anastasiou, Toshiya Senda, and Atsuo T. Sasaki. The lipid kinase pi5p4kβ is an intracellular gtp sensor for metabolism and tumorigenesis. Molecular cell, 61 2:187-98, Jan 2016. URL: https://doi.org/10.1016/j.molcel.2015.12.011, doi:10.1016/j.molcel.2015.12.011. This article has 78 citations and is from a highest quality peer-reviewed journal.
+
+6. (sumita2016thelipidkinase pages 8-9): Kazutaka Sumita, Yu-Hua Lo, Koh Takeuchi, Miki Senda, Satoshi Kofuji, Yoshiki Ikeda, Jumpei Terakawa, Mika Sasaki, Hirofumi Yoshino, Nazanin Majd, Yuxiang Zheng, Emily Rose Kahoud, Takehiro Yokota, Brooke M. Emerling, John M. Asara, Tetsuo Ishida, Jason W. Locasale, Takiko Daikoku, Dimitrios Anastasiou, Toshiya Senda, and Atsuo T. Sasaki. The lipid kinase pi5p4kβ is an intracellular gtp sensor for metabolism and tumorigenesis. Molecular cell, 61 2:187-98, Jan 2016. URL: https://doi.org/10.1016/j.molcel.2015.12.011, doi:10.1016/j.molcel.2015.12.011. This article has 78 citations and is from a highest quality peer-reviewed journal.
+
+7. (unknownauthors2020pip4khasa pages 15-21): Pip4K Has A Catalytic-Independent Role In Modulating Pip5K And The Pi3K Pathway
+
+8. (unknownauthors2020pip4khasa pages 21-28): Pip4K Has A Catalytic-Independent Role In Modulating Pip5K And The Pi3K Pathway
+
+9. (unknownauthors2020pip4khasa pages 87-97): Pip4K Has A Catalytic-Independent Role In Modulating Pip5K And The Pi3K Pathway
+
+10. (wang2019pip4kssuppressinsulin pages 10-14): Diana G. Wang, Marcia N. Paddock, Mark R. Lundquist, Janet Y. Sun, Oksana Mashadova, Solomon Amadiume, Timothy W. Bumpus, Cindy Hodakoski, Benjamin D. Hopkins, Matthew Fine, Amanda Hill, T. Jonathan Yang, Jeremy M. Baskin, Lukas E. Dow, and Lewis C. Cantley. Pip4ks suppress insulin signaling through a catalytic-independent mechanism. Cell reports, 27:1991-2001.e5, Jul 2019. URL: https://doi.org/10.1101/370544, doi:10.1101/370544. This article has 57 citations and is from a highest quality peer-reviewed journal.
+
+11. (wang2019pip4kssuppressinsulin pages 5-10): Diana G. Wang, Marcia N. Paddock, Mark R. Lundquist, Janet Y. Sun, Oksana Mashadova, Solomon Amadiume, Timothy W. Bumpus, Cindy Hodakoski, Benjamin D. Hopkins, Matthew Fine, Amanda Hill, T. Jonathan Yang, Jeremy M. Baskin, Lukas E. Dow, and Lewis C. Cantley. Pip4ks suppress insulin signaling through a catalytic-independent mechanism. Cell reports, 27:1991-2001.e5, Jul 2019. URL: https://doi.org/10.1101/370544, doi:10.1101/370544. This article has 57 citations and is from a highest quality peer-reviewed journal.
+
+12. (clarke2013evolutionarilyconservedstructural pages 12-13): Jonathan H. Clarke and Robin F. Irvine. Evolutionarily conserved structural changes in phosphatidylinositol 5-phosphate 4-kinase (pi5p4k) isoforms are responsible for differences in enzyme activity and localization. Biochemical Journal, 454:49-57, Jul 2013. URL: https://doi.org/10.1042/bj20130488, doi:10.1042/bj20130488. This article has 73 citations and is from a domain leading peer-reviewed journal.
+
+13. (jin2023lipidkinasespip5ks pages 10-10): Yue Jin and Jian Xue. Lipid kinases pip5ks and pip4ks: potential drug targets for breast cancer. Frontiers in Oncology, Dec 2023. URL: https://doi.org/10.3389/fonc.2023.1323897, doi:10.3389/fonc.2023.1323897. This article has 2 citations and is from a peer-reviewed journal.
+
+14. (kolay2016controlofdiverse pages 26-26): Sourav Kolay, Urbashi Basu, and Padinjat Raghu. Control of diverse subcellular processes by a single multi-functional lipid phosphatidylinositol 4,5-bisphosphate [pi(4,5)<i>p</i>2]. Biochemical Journal, 473:1681-1692, Jun 2016. URL: https://doi.org/10.1042/bcj20160069, doi:10.1042/bcj20160069. This article has 84 citations and is from a domain leading peer-reviewed journal.
+
+15. (krishnan2024theconservedbiochemical pages 23-25): Harini Krishnan, Suhail Muzaffar, Sanjeev Sharma, Visvanathan Ramya, Avishek Ghosh, Ramanathan Sowdhamini, and Padinjat Raghu. The conserved biochemical activity and function of an early metazoan phosphatidylinositol 5 phosphate 4-kinase regulates growth and development. BioRxiv, Aug 2024. URL: https://doi.org/10.1101/2024.08.01.606031, doi:10.1101/2024.08.01.606031. This article has 0 citations.
+
+16. (raghu2021emergingcellbiological pages 1-2): Padinjat Raghu. Emerging cell biological functions of phosphatidylinositol 5 phosphate 4 kinase. Current Opinion in Cell Biology, 71:15-20, Aug 2021. URL: https://doi.org/10.1016/j.ceb.2021.01.012, doi:10.1016/j.ceb.2021.01.012. This article has 8 citations and is from a peer-reviewed journal.
+
+17. (trempolec2013snapshotp38mapk pages 1-1): Natalia Trempolec, Natalia Dave-Coll, and A. Nebreda. Snapshot: p38 mapk substrates. Cell, 152:924-924.e1, Feb 2013. URL: https://doi.org/10.1016/j.cell.2013.01.047, doi:10.1016/j.cell.2013.01.047. This article has 121 citations and is from a highest quality peer-reviewed journal.
+
+18. (unknownauthors2014investigatingtheproduction pages 176-179): Investigating the Production and Function of Oxidative Stressinduced Ptdins5p
+
+19. (unknownauthors2020pip4khasa pages 28-33): Pip4K Has A Catalytic-Independent Role In Modulating Pip5K And The Pi3K Pathway
+
+20. (unknownauthors2022characterisationofalternative pages 47-54): Characterisation of alternative splice variants of PIP5K1A in the human metastatic prostate cancer cell line, LNCaP C4-2
+
+21. (unknownauthors2023elucidatingtherole pages 19-22): Elucidating the Role of Lipid Binding Domains in V-ATPase a-subunits
+
+22. (unknownauthorsUnknownyearphosphatidylinositol5phosphate4kinase pages 11-13): PHOSPHATIDYLINOSITOL-5-PHOSPHATE 4 KINASE BETA (PIP4Kβ) BINDS TO AND IS DEACETYLATED BY SIRT1
+
+23. (brown2011phylogenomicsofphosphoinositide pages 1-3): James R Brown and Kurt R Auger. Phylogenomics of phosphoinositide lipid kinases: perspectives on the evolution of second messenger signaling and drug discovery. BMC Evolutionary Biology, 11:4-4, Jan 2011. URL: https://doi.org/10.1186/1471-2148-11-4, doi:10.1186/1471-2148-11-4. This article has 129 citations.

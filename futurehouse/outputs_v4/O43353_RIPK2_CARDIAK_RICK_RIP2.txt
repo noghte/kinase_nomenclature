@@ -1,0 +1,87 @@
+## Phylogeny  
+• Tyrosine-kinase-like (TKL) group; receptor-interacting protein kinase (RIPK) family as classified by kinome surveys (heim2020aregulatoryinterface pages 21-23).  
+• Vertebrate orthologs documented in mouse, pig, chicken, frog, zebrafish, black carp and lamprey, with conservation of both kinase and CARD domains (lv2022comparativeandevolutionary pages 3-4).  
+• RIPK2 clusters with RIPK1-5, whereas RIPK6/7 form a more ancient out-group, indicating a shared vertebrate ancestor for RIPK1-5 (lv2022comparativeandevolutionary pages 10-12).  
+• Alignment places the kinase domain at residues 18-289 and the CARD at 435-526 across orthologs (lv2022comparativeandevolutionary pages 10-12).  
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr/Tyr → ADP + protein-L-Ser/Thr/Tyr-phosphate (pellegrini2017structuresofthe pages 7-9).  
+
+## Cofactor Requirements  
+Requires Mg²⁺ for phosphotransfer activity in vitro (pellegrini2017structuresofthe pages 7-9).  
+
+## Substrate Specificity  
+• Large-scale phosphopeptide profiling did not assign a consensus motif to RIPK2; the kinase predominantly auto-phosphorylates within its activation segment (unknownauthors2022theroleof pages 32-35).  
+• Johnson 2023 and Yaron-Barir 2024 atlases referenced in the literature report no defined external substrate preference for RIPK2 (heim2020aregulatoryinterface pages 21-23).  
+
+## Structure  
+• Domain organization: N-terminal kinase domain (aa 1-310), intermediate linker, and C-terminal CARD (aa 454-541) (pham2023recentadvancesin pages 1-3).  
+• Crystal structures 4C8B and 5NG0 capture an active DFG-IN conformation with aligned regulatory spine and Lys47–Glu66 salt bridge; inactive K47R mutant shows αC-helix rotation and broken spine (pellegrini2017structuresofthe pages 11-13, pellegrini2017structuresofthe pages 2-3).  
+• Kinase forms side-by-side dimers; cryo-EM at 3.15 Å reveals XIAP BIR2 bridging the dimer interface (lethier2023structureshowsthat pages 9-11).  
+• A conserved hydrophobic pocket between helices αE and αEF centers on Lys209 and Ile212; mutations disrupt XIAP binding without affecting global fold (heim2020aregulatoryinterface pages 23-28, heim2020aregulatoryinterface pages 12-14).  
+• Back-pocket inhibitor binding (ponatinib, GSK583) alters activation-loop orientation and occludes the XIAP interface (lethier2023structureshowsthat pages 7-8).  
+
+## Regulation  
+• Autophosphorylation on Ser164, Ser174, Ser176, Ser178 and Ser181 within the activation segment activates the kinase (pellegrini2017structuresofthe pages 11-13).  
+• Additional phosphorylation detected at Ser363 and Ser539 after NOD agonist stimulation (heim2020aregulatoryinterface pages 5-7).  
+• Polyubiquitination: Lys182, Lys203, Lys326, Lys376, Lys410 and Lys538 acquire K63- and M1-linked chains upon NOD1/2 activation (heim2020aregulatoryinterface pages 21-23).  
+• Lys209 is not ubiquitinated but is essential for XIAP BIR2 docking; K209R or I212 substitutions abolish ubiquitination and downstream signaling (heim2020aregulatoryinterface pages 9-12, heim2020aregulatoryinterface pages 23-28).  
+• E3 ligases: XIAP is primary; cIAP1/2 share the conserved BIR2 IBM groove; LUBAC extends M1 chains (lethier2023structureshowsthat pages 7-8, heim2020aregulatoryinterface pages 21-23).  
+• Allosteric back-pocket inhibitors prevent XIAP engagement and subsequent ubiquitination (lethier2023structureshowsthat pages 7-8).  
+
+## Function  
+• Broad expression in brain, colon, small intestine, lung, skin, liver and spleen; undetectable in kidney in FLAG-RIPK2 knock-in mice (heim2020aregulatoryinterface pages 5-7).  
+• High transcript levels in bone marrow, B cells, T cells, NK cells, dendritic cells and macrophages (lv2022comparativeandevolutionary pages 4-6).  
+• Upstream activation: oligomerized NOD1/2 recruit RIPK2 via CARD–CARD interaction upon sensing bacterial peptidoglycan (he2017identificationofpotent pages 1-4).  
+• Ubiquitinated RIPK2 serves as a scaffold for TAK1-TAB and IKK complexes, leading to NF-κB and MAPK activation and induction of TNF-α, IL-6, IL-8 and IL-12/23 (unknownauthors2022theroleof pages 28-32, heim2020aregulatoryinterface pages 23-28).  
+
+## Inhibitors  
+• Broad-spectrum kinase inhibitors with potent RIPK2 activity: ponatinib, gefitinib, sorafenib, regorafenib, SB203580 (he2017identificationofpotent pages 1-4).  
+• Selective probes: GSK583 and WEHI-345 suppress intestinal inflammation models (he2017identificationofpotent pages 1-4).  
+• 3,5-diphenyl-2-aminopyridine derivatives achieve low-nanomolar IC₅₀ and block NOD2 signaling in cell assays (suebsuwong2020receptorinteractingproteinkinase pages 18-19).  
+• Allosteric CSLP compounds bind the kinase back pocket and block XIAP docking (lethier2023structureshowsthat pages 7-8).  
+
+## Other Comments  
+• Dysregulated signaling associated with Crohn’s disease, ulcerative colitis, sarcoidosis, Blau syndrome, asthma and multiple sclerosis (he2017identificationofpotent pages 1-4, pham2023recentadvancesin pages 1-3).  
+• Hyperactivating pro-inflammatory RIPK2 allele linked to early-onset osteoarthritis (pham2023recentadvancesin pages 17-18).  
+• Pathogenic variants K209R, I212D and P329L impair ubiquitination or signaling capacity (heim2020aregulatoryinterface pages 12-14, heim2020aregulatoryinterface pages 23-28, heim2020aregulatoryinterface pages 21-23).
+
+References
+
+1. (heim2020aregulatoryinterface pages 12-14): Valentin J. Heim, Laura F. Dagley, Che A. Stafford, Fynn M. Hansen, Elise Clayer, Aleksandra Bankovacki, A. Webb, I. Lucet, J. Silke, and U. Nachbur. A regulatory interface on ripk2 is required for xiap binding and nod signaling activity. bioRxiv, Mar 2020. URL: https://doi.org/10.1101/2020.03.12.988725, doi:10.1101/2020.03.12.988725. This article has 1 citations.
+
+2. (heim2020aregulatoryinterface pages 21-23): Valentin J. Heim, Laura F. Dagley, Che A. Stafford, Fynn M. Hansen, Elise Clayer, Aleksandra Bankovacki, A. Webb, I. Lucet, J. Silke, and U. Nachbur. A regulatory interface on ripk2 is required for xiap binding and nod signaling activity. bioRxiv, Mar 2020. URL: https://doi.org/10.1101/2020.03.12.988725, doi:10.1101/2020.03.12.988725. This article has 1 citations.
+
+3. (heim2020aregulatoryinterface pages 23-28): Valentin J. Heim, Laura F. Dagley, Che A. Stafford, Fynn M. Hansen, Elise Clayer, Aleksandra Bankovacki, A. Webb, I. Lucet, J. Silke, and U. Nachbur. A regulatory interface on ripk2 is required for xiap binding and nod signaling activity. bioRxiv, Mar 2020. URL: https://doi.org/10.1101/2020.03.12.988725, doi:10.1101/2020.03.12.988725. This article has 1 citations.
+
+4. (heim2020aregulatoryinterface pages 9-12): Valentin J. Heim, Laura F. Dagley, Che A. Stafford, Fynn M. Hansen, Elise Clayer, Aleksandra Bankovacki, A. Webb, I. Lucet, J. Silke, and U. Nachbur. A regulatory interface on ripk2 is required for xiap binding and nod signaling activity. bioRxiv, Mar 2020. URL: https://doi.org/10.1101/2020.03.12.988725, doi:10.1101/2020.03.12.988725. This article has 1 citations.
+
+5. (lethier2023structureshowsthat pages 7-8): M. Lethier, Karine Huard, M. Hons, A. Favier, B. Brutscher, Elisabetta Boeri Erba, Derek W. Abbott, Stephen Cusack, and Erika Pellegrini. Structure shows that the bir2 domain of e3 ligase xiap binds across the ripk2 kinase dimer interface. Life Science Alliance, Sep 2023. URL: https://doi.org/10.26508/lsa.202201784, doi:10.26508/lsa.202201784. This article has 5 citations and is from a peer-reviewed journal.
+
+6. (unknownauthors2022theroleof pages 28-32): The role of Receptor Interacting Serine/Threonine Kinase 2 (RIPK2) in inflammatory breast cancer (IBC)
+
+7. (he2017identificationofpotent pages 1-4): Xiaohui He, Sara Da Ros, John Nelson, Xuefeng Zhu, Tao Jiang, Barun Okram, Songchun Jiang, Pierre-Yves Michellys, Maya Iskandar, Sheryll Espinola, Yong Jia, Badry Bursulaya, Andreas Kreusch, Mu-Yun Gao, Glen Spraggon, Janine Baaten, Leah Clemmer, Shelly Meeusen, David Huang, Robert Hill, Vân Nguyen-Tran, John Fathman, Bo Liu, Tove Tuntland, Perry Gordon, Thomas Hollenbeck, Kenneth Ng, Jian Shi, Laura Bordone, and Hong Liu. Identification of potent and selective ripk2 inhibitors for the treatment of inflammatory diseases. ACS Medicinal Chemistry Letters, 8:1048-1053, Oct 2017. URL: https://doi.org/10.1021/acsmedchemlett.7b00258, doi:10.1021/acsmedchemlett.7b00258. This article has 51 citations and is from a peer-reviewed journal.
+
+8. (heim2020aregulatoryinterface pages 5-7): Valentin J. Heim, Laura F. Dagley, Che A. Stafford, Fynn M. Hansen, Elise Clayer, Aleksandra Bankovacki, A. Webb, I. Lucet, J. Silke, and U. Nachbur. A regulatory interface on ripk2 is required for xiap binding and nod signaling activity. bioRxiv, Mar 2020. URL: https://doi.org/10.1101/2020.03.12.988725, doi:10.1101/2020.03.12.988725. This article has 1 citations.
+
+9. (lv2022comparativeandevolutionary pages 10-12): Shangge Lv, Yu Jiang, Yuzheng Li, Rui-hua Huang, Lingyu Peng, Zhaoyin Ma, Nan Lu, Xiaoying Lin, and Jie Yan. Comparative and evolutionary analysis of rip kinases in immune responses. Frontiers in Genetics, Oct 2022. URL: https://doi.org/10.3389/fgene.2022.796291, doi:10.3389/fgene.2022.796291. This article has 9 citations and is from a peer-reviewed journal.
+
+10. (lv2022comparativeandevolutionary pages 3-4): Shangge Lv, Yu Jiang, Yuzheng Li, Rui-hua Huang, Lingyu Peng, Zhaoyin Ma, Nan Lu, Xiaoying Lin, and Jie Yan. Comparative and evolutionary analysis of rip kinases in immune responses. Frontiers in Genetics, Oct 2022. URL: https://doi.org/10.3389/fgene.2022.796291, doi:10.3389/fgene.2022.796291. This article has 9 citations and is from a peer-reviewed journal.
+
+11. (lv2022comparativeandevolutionary pages 4-6): Shangge Lv, Yu Jiang, Yuzheng Li, Rui-hua Huang, Lingyu Peng, Zhaoyin Ma, Nan Lu, Xiaoying Lin, and Jie Yan. Comparative and evolutionary analysis of rip kinases in immune responses. Frontiers in Genetics, Oct 2022. URL: https://doi.org/10.3389/fgene.2022.796291, doi:10.3389/fgene.2022.796291. This article has 9 citations and is from a peer-reviewed journal.
+
+12. (pellegrini2017structuresofthe pages 11-13): Erika Pellegrini, Luca Signor, Saurabh Singh, Elisabetta Boeri Erba, and Stephen Cusack. Structures of the inactive and active states of rip2 kinase inform on the mechanism of activation. PLOS ONE, 12:e0177161, May 2017. URL: https://doi.org/10.1371/journal.pone.0177161, doi:10.1371/journal.pone.0177161. This article has 49 citations and is from a peer-reviewed journal.
+
+13. (pham2023recentadvancesin pages 1-3): Anh-Tuan Pham, Amanda Franceschini Ghilardi, and Lijun Sun. Recent advances in the development of ripk2 modulators for the treatment of inflammatory diseases. Frontiers in Pharmacology, Mar 2023. URL: https://doi.org/10.3389/fphar.2023.1127722, doi:10.3389/fphar.2023.1127722. This article has 23 citations and is from a peer-reviewed journal.
+
+14. (pham2023recentadvancesin pages 17-18): Anh-Tuan Pham, Amanda Franceschini Ghilardi, and Lijun Sun. Recent advances in the development of ripk2 modulators for the treatment of inflammatory diseases. Frontiers in Pharmacology, Mar 2023. URL: https://doi.org/10.3389/fphar.2023.1127722, doi:10.3389/fphar.2023.1127722. This article has 23 citations and is from a peer-reviewed journal.
+
+15. (unknownauthors2022theroleof pages 32-35): The role of Receptor Interacting Serine/Threonine Kinase 2 (RIPK2) in inflammatory breast cancer (IBC)
+
+16. (lethier2023structureshowsthat pages 9-11): M. Lethier, Karine Huard, M. Hons, A. Favier, B. Brutscher, Elisabetta Boeri Erba, Derek W. Abbott, Stephen Cusack, and Erika Pellegrini. Structure shows that the bir2 domain of e3 ligase xiap binds across the ripk2 kinase dimer interface. Life Science Alliance, Sep 2023. URL: https://doi.org/10.26508/lsa.202201784, doi:10.26508/lsa.202201784. This article has 5 citations and is from a peer-reviewed journal.
+
+17. (pellegrini2017structuresofthe pages 2-3): Erika Pellegrini, Luca Signor, Saurabh Singh, Elisabetta Boeri Erba, and Stephen Cusack. Structures of the inactive and active states of rip2 kinase inform on the mechanism of activation. PLOS ONE, 12:e0177161, May 2017. URL: https://doi.org/10.1371/journal.pone.0177161, doi:10.1371/journal.pone.0177161. This article has 49 citations and is from a peer-reviewed journal.
+
+18. (pellegrini2017structuresofthe pages 7-9): Erika Pellegrini, Luca Signor, Saurabh Singh, Elisabetta Boeri Erba, and Stephen Cusack. Structures of the inactive and active states of rip2 kinase inform on the mechanism of activation. PLOS ONE, 12:e0177161, May 2017. URL: https://doi.org/10.1371/journal.pone.0177161, doi:10.1371/journal.pone.0177161. This article has 49 citations and is from a peer-reviewed journal.
+
+19. (suebsuwong2020receptorinteractingproteinkinase pages 18-19): C. Suebsuwong, B. Dai, D. Pinkas, Anantha L Duddupudi, Li Li, J. Bufton, L. Schlicher, M. Gyrd-Hansen, Min Hu, A. Bullock, A. Degterev, and G. Cuny. Receptor-interacting protein kinase 2 (ripk2) and nucleotide-binding oligomerization domain (nod) cell signaling inhibitors based on a 3,5-diphenyl-2-aminopyridine scaffold. European journal of medicinal chemistry, 200:112417, May 2020. URL: https://doi.org/10.1016/j.ejmech.2020.112417, doi:10.1016/j.ejmech.2020.112417. This article has 21 citations and is from a domain leading peer-reviewed journal.

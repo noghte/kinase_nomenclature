@@ -1,0 +1,92 @@
+## Phylogeny  
+ACVRL1 (ALK1) belongs to the TGF-β receptor subfamily within the tyrosine-kinase-like (TKL) group of the human kinome, a placement assigned in kinome‐wide classifications referenced by subsequent structural studies (townson2012specificityandstructure pages 13-14, nemec2024discoveryoftwo pages 25-26).  
+Orthologs with conserved vascular phenotypes are documented in Mus musculus (Acvrl1) and Danio rerio (acvrl1) knockout models that recapitulate arteriovenous malformations (bernabeu2020potentialsecondhitsin pages 14-16, roman2017alk1signalingin pages 1-2).  
+Additional vertebrate orthologs are reported in Gallus gallus and Xenopus laevis based on cross-species sequence analyses within the same publications (roman2017alk1signalingin pages 4-5).  
+The closest human paralogues are ALK2/ACVR1 and ALK3/BMPR1A, reflecting conserved GS domains and kinase subdomain architecture across the activin receptor-like kinase family (ornati2014acvrl1(activina pages 2-4, nemec2024discoveryoftwo pages 28-28).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr → ADP + [protein]-Ser/Thr-P (roman2017alk1signalingin pages 4-5).  
+
+## Cofactor Requirements  
+Catalytic activity requires divalent cations; Mg²⁺ is used in kinase and crystallographic assays, and Mn²⁺ can substitute in vitro (nemec2024discoveryoftwo pages 28-28, townson2012specificityandstructure pages 13-14).  
+
+## Substrate Specificity  
+ALK1 phosphorylates the C-terminal SSXS motif of receptor-regulated SMADs (SMAD1, SMAD5, SMAD8), which is the dominant experimentally confirmed consensus sequence for this kinase (roman2017alk1signalingin pages 4-5, nemec2024discoveryoftwo pages 1-3, townson2012specificityandstructure pages 13-14).  
+No broader sequence preference beyond this canonical motif is reported in current substrate-profiling datasets cited in the literature (nemec2024discoveryoftwo pages 3-4).  
+
+## Structure  
+The 503-residue single-pass transmembrane receptor comprises:  
+• Extracellular domain (ECD, residues 1-118) adopting a three-finger toxin fold that confers ligand selectivity; key interface residues include Arg67, Glu75 and Asn96 (ornati2014acvrl1(activina pages 1-2, townson2012specificityandstructure pages 10-11).  
+• Transmembrane helix (residues 119-141) anchoring the receptor (ornati2014acvrl1(activina pages 1-2).  
+• GS regulatory domain (residues 180-210) that binds FKBP12 in the inactive state and hosts activating phosphorylation sites Thr204 and Ser206 (townson2012specificityandstructure pages 13-14).  
+• Bilobal serine/threonine kinase domain (residues 211-503) solved at 2.1–2.5 Å resolution (PDB 3MY0, 3HMM), displaying a canonical N-lobe β-sheet, a well-positioned αC-helix, intact hydrophobic regulatory spine and a DFG-in activation loop (nemec2024discoveryoftwo pages 25-26).  
+The ECD ternary complex with BMP9 and ActRIIB (PDB 4FAO, 2.3 Å) reveals a ligand-induced heterotetramer without major conformational change in the receptor, rationalising its high affinity and specificity (townson2012specificityandstructure pages 10-11).  
+An AlphaFold model extends unresolved juxtamembrane regions and supports a flexible linker connecting ECD and kinase core (roman2017alk1signalingin pages 18-19).  
+
+## Regulation  
+Type II receptors ACVR2A, ACVR2B and BMPR2 trans-phosphorylate GS-domain residues Thr204 and Ser206, enabling subsequent ALK1 autophosphorylation within the activation loop and full catalytic activation (townson2012specificityandstructure pages 13-14, nemec2024discoveryoftwo pages 3-4).  
+FKBP12 binds the unphosphorylated GS domain and sterically blocks substrate access, acting as an allosteric suppressor (townson2012specificityandstructure pages 13-14).  
+The E3 ubiquitin ligase EDD attaches ubiquitin to cytoplasmic lysines, decreasing plasma-membrane receptor abundance and dampening signalling (ornati2014acvrl1(activina pages 1-2).  
+No receptor-specific phosphatases are reported in the referenced literature (nemec2024discoveryoftwo pages 25-26).  
+
+## Function  
+ALK1 expression is highly enriched in arterial endothelial cells and is further detected in lung, placenta and hepatic sinusoidal endothelium (roman2017alk1signalingin pages 1-2, ornati2014acvrl1(activina pages 2-4).  
+Physiological ligands BMP9/GDF2 and BMP10 bind ALK1 with picomolar affinity, recruiting two type II receptors to form a heterotetrameric signalling complex (townson2012specificityandstructure pages 1-2, roman2017alk1signalingin pages 4-5).  
+Endoglin (ENG) functions as an accessory co-receptor that enhances ligand binding and modulates signal strength (roman2017alk1signalingin pages 4-5, bernabeu2020potentialsecondhitsin pages 14-16).  
+Activated ALK1 phosphorylates SMAD1/5/8, which complex with SMAD4 to regulate transcriptional programs governing endothelial proliferation, migration and vascular quiescence (roman2017alk1signalingin pages 12-13).  
+Loss of ALK1 elevates endothelial PI3K signalling and provokes arteriovenous malformations in zebrafish and mouse models, demonstrating a critical role in flow-dependent vessel patterning (roman2017alk1signalingin pages 12-13, bernabeu2020potentialsecondhitsin pages 14-16).  
+In tumours that escape VEGF blockade, ALK1 provides an alternative angiogenic pathway, making it a target for anti-angiogenic therapy (townson2012specificityandstructure pages 11-12, roman2017alk1signalingin pages 21-22).  
+
+## Inhibitors  
+M4K2234 (Kd ≈ 11 nM) and MU1700 (Kd ≈ 13 nM) are structurally orthogonal ATP-competitive probes with >100-fold kinome selectivity, validated in NanoBRET and cellular SMAD assays (nemec2024discoveryoftwo pages 1-3).  
+Early tool inhibitors dorsomorphin and its analogue LDN-193189 inhibit ALK1 but suffer from broad off-target activity across the kinome (nemec2024discoveryoftwo pages 28-28).  
+Saracatinib, a clinical Src inhibitor, shows sub-micromolar potency against ALK1/ALK2 and has been repurposed for BMP-related disorders (nemec2024discoveryoftwo pages 28-28).  
+Biologic antagonists include the soluble receptor trap dalantercept (ALK1-Fc) and the monoclonal antibody PF-03446962, both developed to sequester BMP9/10 and attenuate ALK1 signalling (ornati2014acvrl1(activina pages 7-8, roman2017alk1signalingin pages 21-22).  
+
+## Other Comments  
+Heterozygous loss-of-function mutations in ACVRL1 cause hereditary haemorrhagic telangiectasia type 2 (HHT2), characterised by mucocutaneous telangiectases and arteriovenous malformations (roman2017alk1signalingin pages 4-5, bernabeu2020potentialsecondhitsin pages 14-16).  
+Missense variants in the ECD such as H66P, G79R and H87D destabilise disulfide bonding or disrupt BMP9 interface residues, abolishing ligand binding (townson2012specificityandstructure pages 10-11, scotti2011bioinformaticanalysisof pages 1-2).  
+Kinase-domain mutations clustering in the C-terminal NANDOR box (codons 479-489) are linked to pulmonary arterial hypertension when co-occurring with HHT (ornati2014acvrl1(activina pages 5-6).  
+A pathogenic variant R374Q in the catalytic core reduces SMAD phosphorylation and impairs vascular integrity (nemec2024discoveryoftwo pages 28-28).  
+Mouse Acvrl1 null embryos die mid-gestation from cardiac failure and vessel dilatation, underscoring the receptor’s essential developmental role (bernabeu2020potentialsecondhitsin pages 14-16).  
+Somatic second-hit mutations are proposed to explain the focal nature of vascular lesions in HHT patients (bernabeu2020potentialsecondhitsin pages 14-16).
+
+References
+
+1. (nemec2024discoveryoftwo pages 25-26): Václav Němec, Marek Remeš, Petr Beňovský, Michael C. Böck, Eliška Šranková, Jong Fu Wong, Julien Cros, Eleanor Williams, Lap Hang Tse, David Smil, Deeba Ensan, Methvin B. Isaac, Rima Al-Awar, Regina Gomolková, Vlad-Constantin Ursachi, Bohumil Fafílek, Zuzana Kahounová, Ráchel Víchová, Ondřej Vacek, Benedict-Tilman Berger, Carrow I. Wells, Cesear R. Corona, James D. Vasta, Matthew B. Robers, Pavel Krejci, Karel Souček, Alex N. Bullock, Stefan Knapp, and Kamil Paruch. Discovery of two highly selective structurally orthogonal chemical probes for activin receptor-like kinases 1 and 2. Journal of Medicinal Chemistry, 67:12632-12659, Jul 2024. URL: https://doi.org/10.1021/acs.jmedchem.4c00629, doi:10.1021/acs.jmedchem.4c00629. This article has 2 citations and is from a highest quality peer-reviewed journal.
+
+2. (nemec2024discoveryoftwo pages 28-28): Václav Němec, Marek Remeš, Petr Beňovský, Michael C. Böck, Eliška Šranková, Jong Fu Wong, Julien Cros, Eleanor Williams, Lap Hang Tse, David Smil, Deeba Ensan, Methvin B. Isaac, Rima Al-Awar, Regina Gomolková, Vlad-Constantin Ursachi, Bohumil Fafílek, Zuzana Kahounová, Ráchel Víchová, Ondřej Vacek, Benedict-Tilman Berger, Carrow I. Wells, Cesear R. Corona, James D. Vasta, Matthew B. Robers, Pavel Krejci, Karel Souček, Alex N. Bullock, Stefan Knapp, and Kamil Paruch. Discovery of two highly selective structurally orthogonal chemical probes for activin receptor-like kinases 1 and 2. Journal of Medicinal Chemistry, 67:12632-12659, Jul 2024. URL: https://doi.org/10.1021/acs.jmedchem.4c00629, doi:10.1021/acs.jmedchem.4c00629. This article has 2 citations and is from a highest quality peer-reviewed journal.
+
+3. (nemec2024discoveryoftwo pages 3-4): Václav Němec, Marek Remeš, Petr Beňovský, Michael C. Böck, Eliška Šranková, Jong Fu Wong, Julien Cros, Eleanor Williams, Lap Hang Tse, David Smil, Deeba Ensan, Methvin B. Isaac, Rima Al-Awar, Regina Gomolková, Vlad-Constantin Ursachi, Bohumil Fafílek, Zuzana Kahounová, Ráchel Víchová, Ondřej Vacek, Benedict-Tilman Berger, Carrow I. Wells, Cesear R. Corona, James D. Vasta, Matthew B. Robers, Pavel Krejci, Karel Souček, Alex N. Bullock, Stefan Knapp, and Kamil Paruch. Discovery of two highly selective structurally orthogonal chemical probes for activin receptor-like kinases 1 and 2. Journal of Medicinal Chemistry, 67:12632-12659, Jul 2024. URL: https://doi.org/10.1021/acs.jmedchem.4c00629, doi:10.1021/acs.jmedchem.4c00629. This article has 2 citations and is from a highest quality peer-reviewed journal.
+
+4. (ornati2014acvrl1(activina pages 1-2): Federica Ornati, L. Vecchia, C. Scotti, Sara Plumitallo, and C. Olivieri. Acvrl1 (activin a receptor type ii-like 1). Atlas of genetics and cytogenetics in oncology and haematology, Oct 2014. URL: https://doi.org/10.4267/2042/54160, doi:10.4267/2042/54160. This article has 2 citations and is from a peer-reviewed journal.
+
+5. (ornati2014acvrl1(activina pages 7-8): Federica Ornati, L. Vecchia, C. Scotti, Sara Plumitallo, and C. Olivieri. Acvrl1 (activin a receptor type ii-like 1). Atlas of genetics and cytogenetics in oncology and haematology, Oct 2014. URL: https://doi.org/10.4267/2042/54160, doi:10.4267/2042/54160. This article has 2 citations and is from a peer-reviewed journal.
+
+6. (roman2017alk1signalingin pages 1-2): B. L. Roman and A. Hinck. Alk1 signaling in development and disease: new paradigms. Cellular and Molecular Life Sciences, 74:4539-4560, Sep 2017. URL: https://doi.org/10.1007/s00018-017-2636-4, doi:10.1007/s00018-017-2636-4. This article has 110 citations and is from a domain leading peer-reviewed journal.
+
+7. (roman2017alk1signalingin pages 12-13): B. L. Roman and A. Hinck. Alk1 signaling in development and disease: new paradigms. Cellular and Molecular Life Sciences, 74:4539-4560, Sep 2017. URL: https://doi.org/10.1007/s00018-017-2636-4, doi:10.1007/s00018-017-2636-4. This article has 110 citations and is from a domain leading peer-reviewed journal.
+
+8. (roman2017alk1signalingin pages 18-19): B. L. Roman and A. Hinck. Alk1 signaling in development and disease: new paradigms. Cellular and Molecular Life Sciences, 74:4539-4560, Sep 2017. URL: https://doi.org/10.1007/s00018-017-2636-4, doi:10.1007/s00018-017-2636-4. This article has 110 citations and is from a domain leading peer-reviewed journal.
+
+9. (scotti2011bioinformaticanalysisof pages 1-2): C. Scotti, C. Olivieri, L. Boeri, C. Canzonieri, Federica Ornati, E. Buscarini, F. Pagella, and C. Danesino. Bioinformatic analysis of pathogenic missense mutations of activin receptor like kinase 1 ectodomain. PLoS ONE, Oct 2011. URL: https://doi.org/10.1371/journal.pone.0026431, doi:10.1371/journal.pone.0026431. This article has 22 citations and is from a peer-reviewed journal.
+
+10. (townson2012specificityandstructure pages 10-11): Sharon A. Townson, Erik Martinez-Hackert, Chloe Greppi, Patricia Lowden, Dianne Sako, June Liu, Jeffrey A. Ucran, Katia Liharska, Kathryn W. Underwood, Jasbir Seehra, Ravindra Kumar, and Asya V. Grinberg. Specificity and structure of a high affinity activin receptor-like kinase 1 (alk1) signaling complex. Journal of Biological Chemistry, 287:27313-27325, Aug 2012. URL: https://doi.org/10.1074/jbc.m112.377960, doi:10.1074/jbc.m112.377960. This article has 211 citations and is from a domain leading peer-reviewed journal.
+
+11. (townson2012specificityandstructure pages 11-12): Sharon A. Townson, Erik Martinez-Hackert, Chloe Greppi, Patricia Lowden, Dianne Sako, June Liu, Jeffrey A. Ucran, Katia Liharska, Kathryn W. Underwood, Jasbir Seehra, Ravindra Kumar, and Asya V. Grinberg. Specificity and structure of a high affinity activin receptor-like kinase 1 (alk1) signaling complex. Journal of Biological Chemistry, 287:27313-27325, Aug 2012. URL: https://doi.org/10.1074/jbc.m112.377960, doi:10.1074/jbc.m112.377960. This article has 211 citations and is from a domain leading peer-reviewed journal.
+
+12. (townson2012specificityandstructure pages 13-14): Sharon A. Townson, Erik Martinez-Hackert, Chloe Greppi, Patricia Lowden, Dianne Sako, June Liu, Jeffrey A. Ucran, Katia Liharska, Kathryn W. Underwood, Jasbir Seehra, Ravindra Kumar, and Asya V. Grinberg. Specificity and structure of a high affinity activin receptor-like kinase 1 (alk1) signaling complex. Journal of Biological Chemistry, 287:27313-27325, Aug 2012. URL: https://doi.org/10.1074/jbc.m112.377960, doi:10.1074/jbc.m112.377960. This article has 211 citations and is from a domain leading peer-reviewed journal.
+
+13. (bernabeu2020potentialsecondhitsin pages 14-16): C. Bernabéu, P. Bayrak-Toydemir, J. McDonald, and M. Letarte. Potential second-hits in hereditary hemorrhagic telangiectasia. Journal of Clinical Medicine, Nov 2020. URL: https://doi.org/10.3390/jcm9113571, doi:10.3390/jcm9113571. This article has 77 citations and is from a peer-reviewed journal.
+
+14. (nemec2024discoveryoftwo pages 1-3): Václav Němec, Marek Remeš, Petr Beňovský, Michael C. Böck, Eliška Šranková, Jong Fu Wong, Julien Cros, Eleanor Williams, Lap Hang Tse, David Smil, Deeba Ensan, Methvin B. Isaac, Rima Al-Awar, Regina Gomolková, Vlad-Constantin Ursachi, Bohumil Fafílek, Zuzana Kahounová, Ráchel Víchová, Ondřej Vacek, Benedict-Tilman Berger, Carrow I. Wells, Cesear R. Corona, James D. Vasta, Matthew B. Robers, Pavel Krejci, Karel Souček, Alex N. Bullock, Stefan Knapp, and Kamil Paruch. Discovery of two highly selective structurally orthogonal chemical probes for activin receptor-like kinases 1 and 2. Journal of Medicinal Chemistry, 67:12632-12659, Jul 2024. URL: https://doi.org/10.1021/acs.jmedchem.4c00629, doi:10.1021/acs.jmedchem.4c00629. This article has 2 citations and is from a highest quality peer-reviewed journal.
+
+15. (ornati2014acvrl1(activina pages 2-4): Federica Ornati, L. Vecchia, C. Scotti, Sara Plumitallo, and C. Olivieri. Acvrl1 (activin a receptor type ii-like 1). Atlas of genetics and cytogenetics in oncology and haematology, Oct 2014. URL: https://doi.org/10.4267/2042/54160, doi:10.4267/2042/54160. This article has 2 citations and is from a peer-reviewed journal.
+
+16. (ornati2014acvrl1(activina pages 5-6): Federica Ornati, L. Vecchia, C. Scotti, Sara Plumitallo, and C. Olivieri. Acvrl1 (activin a receptor type ii-like 1). Atlas of genetics and cytogenetics in oncology and haematology, Oct 2014. URL: https://doi.org/10.4267/2042/54160, doi:10.4267/2042/54160. This article has 2 citations and is from a peer-reviewed journal.
+
+17. (roman2017alk1signalingin pages 21-22): B. L. Roman and A. Hinck. Alk1 signaling in development and disease: new paradigms. Cellular and Molecular Life Sciences, 74:4539-4560, Sep 2017. URL: https://doi.org/10.1007/s00018-017-2636-4, doi:10.1007/s00018-017-2636-4. This article has 110 citations and is from a domain leading peer-reviewed journal.
+
+18. (roman2017alk1signalingin pages 4-5): B. L. Roman and A. Hinck. Alk1 signaling in development and disease: new paradigms. Cellular and Molecular Life Sciences, 74:4539-4560, Sep 2017. URL: https://doi.org/10.1007/s00018-017-2636-4, doi:10.1007/s00018-017-2636-4. This article has 110 citations and is from a domain leading peer-reviewed journal.
+
+19. (townson2012specificityandstructure pages 1-2): Sharon A. Townson, Erik Martinez-Hackert, Chloe Greppi, Patricia Lowden, Dianne Sako, June Liu, Jeffrey A. Ucran, Katia Liharska, Kathryn W. Underwood, Jasbir Seehra, Ravindra Kumar, and Asya V. Grinberg. Specificity and structure of a high affinity activin receptor-like kinase 1 (alk1) signaling complex. Journal of Biological Chemistry, 287:27313-27325, Aug 2012. URL: https://doi.org/10.1074/jbc.m112.377960, doi:10.1074/jbc.m112.377960. This article has 211 citations and is from a domain leading peer-reviewed journal.

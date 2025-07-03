@@ -1,0 +1,108 @@
+Protein: Phosphatidylinositol-4-kinase β  
+Gene: PI4KB (aliases PIK4CB / NPIK / PI4K92 / PI4KIIIβ)  
+UniProt: Q9UBF8  
+
+## Phylogeny  
+PI4KB is classified within the phosphatidylinositol-3/4-kinase family of the lipid-kinase branch of the human kinome (manning2002theproteinkinase pages 3-3).  
+Phylogenetic analyses place PI3/4Ks as an ancient clade of the protein-kinase–like superfamily, distinct from classical protein kinases yet sharing the conserved catalytic core (scheeff2005structuralevolutionof pages 13-15).  
+Verified orthologs include yeast Pik1, Drosophila CG5005/four-wheel-drive, C. elegans PI4K, and plant PI4Kβ1/β2 and PI4Kγ3, demonstrating conservation from fungi to plants and metazoans (waugh2019thegreatescape pages 22-25, kumar2024phosphatidylinositol4kinases pages 10-12).  
+Additional divergent orthologs occur in Giardia lamblia (ORF 16558) and Plasmodium falciparum, underscoring early eukaryotic origin (manning2011theminimalkinome pages 3-5, mcphail2020druggingthephosphoinositide pages 11-13).  
+Human paralogues are PI4KA (type IIIα) and the type II isoforms PI4K2A/B (burke2018structuralbasisfor pages 2-2).  
+
+## Reaction Catalyzed  
+ATP + 1-phosphatidyl-1D-myo-inositol ⇌ ADP + 1-phosphatidyl-1D-myo-inositol 4-phosphate (dornan2016typeiiiphosphatidylinositol pages 1-2).  
+
+## Cofactor Requirements  
+Catalysis requires Mg²⁺ or Mn²⁺; Ca²⁺ acts as an inhibitor (kumar2024phosphatidylinositol4kinases pages 4-6).  
+
+## Substrate Specificity  
+Lipid substrate: phosphatidylinositol residing in unsaturated Golgi membranes; no protein consensus phosphorylation motif has been defined, and PI4KB was not included in the Johnson 2023 serine/threonine kinase atlas (burke2018structuralbasisfor pages 12-13, kumar2024phosphatidylinositol4kinases pages 10-12).  
+
+## Structure  
+Domain architecture  
+• N-terminal disordered segment (res 1–≈83) folds upon binding ACBD3 (burke2018structuralbasisfor pages 12-13).  
+• Helical/armadillo domain (≈84–350) mediates Rab11 and 14-3-3 contacts (dornan2016typeiiiphosphatidylinositol pages 2-4).  
+• Bilobal kinase domain (≈351–801) contains a type III-specific N-lobe insertion; catalytic Lys549 and hinge Val598/Ala601 form the ATP pocket (mcphail2020druggingthephosphoinositide pages 11-13).  
+• C-terminal disordered tail (≈770–801) harbours an ALPS motif for membrane curvature sensing (burke2018structuralbasisfor pages 12-13).  
+
+3-D structural features  
+Crystal structures with inhibitors (PDB 5FBL, 5FBQ, 5FBR, 5FBV, 5FBW) reveal a deep ATP-binding canyon where ligands form dual hinge hydrogen bonds to Val598/Ala601 and interact with Gly675/Asn676 (mejdrova2017rationaldesignof pages 27-31).  
+The activation-loop/N-lobe linker (res 486-498) is disordered in apo PI4KB but becomes ordered when bound to c10orf76, correlating with enzymatic inhibition (mcphail2020characterizationofthe pages 3-4).  
+
+Key catalytic/regulatory elements  
+• Activation loop: 486-498  
+• Catalytic spine: Lys549–Val598/Ala601–Asp665 alignment (mcphail2020druggingthephosphoinositide pages 11-13).  
+• C-helix forms an interface with the helical domain, providing an allosteric contact site for Rab11 (dornan2016typeiiiphosphatidylinositol pages 2-4).  
+
+## Regulation  
+Post-translational modifications  
+• Ser294 in the helical–kinase linker is phosphorylated by protein kinase D, creating a high-affinity 14-3-3 binding site and stabilising the enzyme (burke2018structuralbasisfor pages 12-13, wortzel2015mitoticgolgitranslocation pages 12-15).  
+• Ser496 within the N-lobe linker is directly phosphorylated by PKA; phosphorylation reduces affinity for the inhibitory protein c10orf76 (mcphail2020characterizationofthe pages 3-4).  
+• Ser413 is an additional in-vivo phosphorylation site (mcphail2020characterizationofthe pages 3-4).  
+No ubiquitination or proteolytic regulation has been reported (dornan2016typeiiiphosphatidylinositol pages 4-5).  
+
+Protein interactions and conformational control  
+• 14-3-3 dimers bind phospho-Ser294, protecting PI4KB from dephosphorylation and supporting nucleocytoplasmic shuttling (kumar2024phosphatidylinositol4kinakes pages 10-12).  
+• ACBD3 engages the N-terminal segment to recruit PI4KB to Golgi membranes (burke2018structuralbasisfor pages 12-13).  
+• Rab11 binds the helical domain, enabling kinase-independent scaffolding functions (burke2018structuralbasisfor pages 11-12).  
+• c10orf76 associates with the N-lobe linker and orders the activation loop, yielding potent enzymatic inhibition (mcphail2020characterizationofthe pages 3-4).  
+
+## Function  
+Localization and expression  
+PI4KB localises predominantly to the Golgi and trans-Golgi network, with a regulated nuclear pool controlled by 14-3-3 binding (kumar2024phosphatidylinositol4kinases pages 10-12).  
+
+Cellular roles  
+• Generates the principal Golgi PI4P pool that recruits OSBP, CERT, FAPPs and GOLPH3, driving lipid exchange and vesicle biogenesis (mcphail2020druggingthephosphoinositide pages 3-5).  
+• Mediates Golgi-to-plasma-membrane trafficking and cytokinesis; Rab11 recruitment exemplifies kinase-independent scaffolding (dornan2016typeiiiphosphatidylinositol pages 4-5).  
+• Downstream of PKD activation, Ser294 phosphorylation links receptor signalling to Golgi lipid metabolism (burke2018structuralbasisfor pages 2-2).  
+• Acts as an essential host factor for positive-strand RNA viruses (enteroviruses, hepatitis C) and is required for Plasmodium and Cryptosporidium development due to its role in forming PI4P-rich replication organelles (dornan2016typeiiiphosphatidylinositol pages 4-5).  
+
+## Inhibitors  
+• BQR695: crystal structure shows dual hinge hydrogen bonds to Val598/Ala601 and water-mediated contact to Ser618; selective for PI4KB over PI4KA and PI3Ks (mcphail2020druggingthephosphoinositide pages 11-13).  
+• Sulfonamide Series B compounds (e.g., 23, 24, 25, 33, 35) exploit the Gly675/Asn676 pocket; crystallographically validated with high potency (mejdrova2017rationaldesignof pages 27-31).  
+• Enviroxime analogues inhibit viral replication by targeting PI4KB catalytic activity (kumar2024phosphatidylinositol4kinases pages 12-12).  
+• Additional ATP-competitive chemotypes have been crystallised with PI4KB (mejdrova2015highlyselectivephosphatidylinositol pages 1-5).  
+
+## Other Comments  
+Selective PI4KB inhibition shows antimalarial and anticryptosporidial efficacy with tolerable toxicity in rodents, in contrast to systemic PI4KA blockade (burke2018structuralbasisfor pages 12-13).  
+Viral 3A protein mutations can confer resistance to PI4KB-directed antivirals, limiting clinical durability (burke2018structuralbasisfor pages 12-13).
+
+References
+
+1. (burke2018structuralbasisfor pages 12-13): John E. Burke. Structural basis for regulation of phosphoinositide kinases and their involvement in human disease. Molecular Cell, 71:653-673, Sep 2018. URL: https://doi.org/10.1016/j.molcel.2018.08.005, doi:10.1016/j.molcel.2018.08.005. This article has 255 citations and is from a highest quality peer-reviewed journal.
+
+2. (dornan2016typeiiiphosphatidylinositol pages 2-4): Gillian L. Dornan, Jacob A. McPhail, and John E. Burke. Type iii phosphatidylinositol 4 kinases: structure, function, regulation, signalling and involvement in disease. Biochemical Society transactions, 44 1:260-6, Feb 2016. URL: https://doi.org/10.1042/bst20150219, doi:10.1042/bst20150219. This article has 43 citations and is from a peer-reviewed journal.
+
+3. (manning2011theminimalkinome pages 3-5): Gerard Manning, David S Reiner, Tineke Lauwaet, Michael Dacre, Alias Smith, Yufeng Zhai, Staffan Svard, and Frances D Gillin. The minimal kinome of giardia lamblia illuminates early kinase evolution and unique parasite biology. Genome Biology, 12:R66-R66, Jul 2011. URL: https://doi.org/10.1186/gb-2011-12-7-r66, doi:10.1186/gb-2011-12-7-r66. This article has 152 citations and is from a highest quality peer-reviewed journal.
+
+4. (mcphail2020characterizationofthe pages 3-4): Jacob A McPhail, Heyrhyoung Lyoo, Joshua G Pemberton, Reece M Hoffmann, Wendy van Elst, Jeroen RPM Strating, Meredith L Jenkins, Jordan TB Stariha, Cameron J Powell, Martin J Boulanger, Tamas Balla, Frank JM van Kuppeveld, and John E Burke. Characterization of the c10orf76‐pi4kb complex and its necessity for golgi pi4p levels and enterovirus replication. EMBO reports, Dec 2020. URL: https://doi.org/10.15252/embr.201948441, doi:10.15252/embr.201948441. This article has 42 citations and is from a highest quality peer-reviewed journal.
+
+5. (mcphail2020druggingthephosphoinositide pages 11-13): Jacob A. McPhail and John E. Burke. Drugging the phosphoinositide 3-kinase (pi3k) and phosphatidylinositol 4-kinase (pi4k) family of enzymes for treatment of cancer, immune disorders, and viral/parasitic infections. Advances in Experimental Medicine and Biology, 1274:203-222, Jan 2020. URL: https://doi.org/10.1007/978-3-030-50621-6\_9, doi:10.1007/978-3-030-50621-6\_9. This article has 23 citations and is from a peer-reviewed journal.
+
+6. (mejdrova2017rationaldesignof pages 27-31): Ivana Mejdrová, Dominika Chalupská, Pavla Plačková, Christin Müller, Michal Šála, Martin Klíma, Adriana Baumlová, Hubert Hřebabecký, Eliška Procházková, Milan Dejmek, Dmytro Strunin, Jan Weber, Gary Lee, Marika Matoušová, Helena Mertlíková-Kaiserová, John Ziebuhr, Gabriel Birkus, Evzen Boura, and Radim Nencka. Rational design of novel highly potent and selective phosphatidylinositol 4-kinase iiiβ (pi4kb) inhibitors as broad-spectrum antiviral agents and tools for chemical biology. Journal of medicinal chemistry, 60 1:100-118, Jan 2017. URL: https://doi.org/10.1021/acs.jmedchem.6b01465, doi:10.1021/acs.jmedchem.6b01465. This article has 61 citations and is from a highest quality peer-reviewed journal.
+
+7. (burke2018structuralbasisfor pages 11-12): John E. Burke. Structural basis for regulation of phosphoinositide kinases and their involvement in human disease. Molecular Cell, 71:653-673, Sep 2018. URL: https://doi.org/10.1016/j.molcel.2018.08.005, doi:10.1016/j.molcel.2018.08.005. This article has 255 citations and is from a highest quality peer-reviewed journal.
+
+8. (burke2018structuralbasisfor pages 2-2): John E. Burke. Structural basis for regulation of phosphoinositide kinases and their involvement in human disease. Molecular Cell, 71:653-673, Sep 2018. URL: https://doi.org/10.1016/j.molcel.2018.08.005, doi:10.1016/j.molcel.2018.08.005. This article has 255 citations and is from a highest quality peer-reviewed journal.
+
+9. (dornan2016typeiiiphosphatidylinositol pages 1-2): Gillian L. Dornan, Jacob A. McPhail, and John E. Burke. Type iii phosphatidylinositol 4 kinases: structure, function, regulation, signalling and involvement in disease. Biochemical Society transactions, 44 1:260-6, Feb 2016. URL: https://doi.org/10.1042/bst20150219, doi:10.1042/bst20150219. This article has 43 citations and is from a peer-reviewed journal.
+
+10. (dornan2016typeiiiphosphatidylinositol pages 4-5): Gillian L. Dornan, Jacob A. McPhail, and John E. Burke. Type iii phosphatidylinositol 4 kinases: structure, function, regulation, signalling and involvement in disease. Biochemical Society transactions, 44 1:260-6, Feb 2016. URL: https://doi.org/10.1042/bst20150219, doi:10.1042/bst20150219. This article has 43 citations and is from a peer-reviewed journal.
+
+11. (kumar2024phosphatidylinositol4kinases pages 10-12): Ravinder Kumar and Piyush Kumar. Phosphatidyl inositol 4-kinases. Encyclopedia, 4:1062-1072, Jun 2024. URL: https://doi.org/10.3390/encyclopedia4030068, doi:10.3390/encyclopedia4030068. This article has 1 citations.
+
+12. (kumar2024phosphatidylinositol4kinases pages 12-12): Ravinder Kumar and Piyush Kumar. Phosphatidyl inositol 4-kinases. Encyclopedia, 4:1062-1072, Jun 2024. URL: https://doi.org/10.3390/encyclopedia4030068, doi:10.3390/encyclopedia4030068. This article has 1 citations.
+
+13. (kumar2024phosphatidylinositol4kinases pages 4-6): Ravinder Kumar and Piyush Kumar. Phosphatidyl inositol 4-kinases. Encyclopedia, 4:1062-1072, Jun 2024. URL: https://doi.org/10.3390/encyclopedia4030068, doi:10.3390/encyclopedia4030068. This article has 1 citations.
+
+14. (mcphail2020druggingthephosphoinositide pages 3-5): Jacob A. McPhail and John E. Burke. Drugging the phosphoinositide 3-kinase (pi3k) and phosphatidylinositol 4-kinase (pi4k) family of enzymes for treatment of cancer, immune disorders, and viral/parasitic infections. Advances in Experimental Medicine and Biology, 1274:203-222, Jan 2020. URL: https://doi.org/10.1007/978-3-030-50621-6\_9, doi:10.1007/978-3-030-50621-6\_9. This article has 23 citations and is from a peer-reviewed journal.
+
+15. (mejdrova2015highlyselectivephosphatidylinositol pages 1-5): Ivana Mejdrová, Dominika Chalupská, Martin Kögler, Michal Šála, Pavla Plačková, Adriana Baumlová, Hubert Hřebabecký, Eliška Procházková, Milan Dejmek, Rémi Guillon, Dmytro Strunin, Jan Weber, Gary Lee, Gabriel Birkus, Helena Mertlíková-Kaiserová, Evzen Boura, and Radim Nencka. Highly selective phosphatidylinositol 4-kinase iiiβ inhibitors and structural insight into their mode of action. Journal of Medicinal Chemistry, 58:3767-3793, May 2015. URL: https://doi.org/10.1021/acs.jmedchem.5b00499, doi:10.1021/acs.jmedchem.5b00499. This article has 70 citations and is from a highest quality peer-reviewed journal.
+
+16. (scheeff2005structuralevolutionof pages 13-15): Eric D. Scheeff and P. Bourne. Structural evolution of the protein kinase–like superfamily. PLoS Computational Biology, Sep 2005. URL: https://doi.org/10.1371/journal.pcbi.0010049, doi:10.1371/journal.pcbi.0010049. This article has 354 citations and is from a highest quality peer-reviewed journal.
+
+17. (waugh2019thegreatescape pages 22-25): M. Waugh. The great escape: how phosphatidylinositol 4-kinases and pi4p promote vesicle exit from the golgi (and drive cancer). The Biochemical journal, 476 16:2321-2346, Aug 2019. URL: https://doi.org/10.1042/bcj20180622, doi:10.1042/bcj20180622. This article has 75 citations.
+
+18. (wortzel2015mitoticgolgitranslocation pages 12-15): Inbal Wortzel, Tamar Hanoch, Ziv Porat, Angelika Hausser, and Rony Seger. Mitotic golgi translocation of erk1c is mediated by a pi4kiiiβ–14-3-3γ shuttling complex. Journal of Cell Science, 128:4083-4095, Nov 2015. URL: https://doi.org/10.1242/jcs.170910, doi:10.1242/jcs.170910. This article has 22 citations and is from a domain leading peer-reviewed journal.
+
+19. (manning2002theproteinkinase pages 3-3): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.

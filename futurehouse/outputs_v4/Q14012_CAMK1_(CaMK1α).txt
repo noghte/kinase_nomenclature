@@ -1,0 +1,80 @@
+Phylogeny  
+CAMK1 α is classified within the CaMKI sub-family of the Ca²⁺/calmodulin-regulated (CAMK) group of the human kinome (simon2015molecularmechanismsof pages 1-3). Orthologs are documented in Homo sapiens, Mus musculus, Rattus norvegicus, Danio rerio, Drosophila melanogaster and Caenorhabditis elegans, whereas Saccharomyces cerevisiae lacks a direct counterpart (simon2015molecularmechanismsof pages 1-3). The enzyme shares an evolutionary relationship—and the conserved catalytic/regulatory architecture—with CaMKII, CaMKIV and DAPK1, all members of the broader CAMK branch (soderling2001structureandregulation pages 2-3).  
+
+Reaction Catalyzed  
+ATP + protein L-Ser/Thr ⇌ ADP + protein L-O-phospho-Ser/Thr (simon2015molecularmechanismsof pages 1-3).  
+
+Cofactor Requirements  
+Catalysis requires Mg²⁺ for ATP coordination, and Ca²⁺-saturated calmodulin functions as an obligatory allosteric activator (bhattacharyya2020structuralinsightsinto pages 15-16, simon2015molecularmechanismsof pages 1-3).  
+
+Substrate Specificity  
+Biochemical and structural data define a preferred consensus Hyd-X-Arg-X₂-Ser/Thr-X₃-Hyd, with hydrophobic residues (Met/Leu/Val/Ile/Phe) favoured at positions −5 and +4, and an invariant Arg at −3 (clapperton2002structureofthe pages 1-2). Proteome-scale motif profiling confirms enrichment of non-polar amino acids at −5, basic residues at −3/−2, and acidic residues immediately downstream (+1 to +3) of the phosphoacceptor (jha2025deeplearningcoupledproximity pages 11-12).  
+
+Structure  
+The 42 kDa polypeptide comprises:  
+• N-terminal bilobal catalytic domain (CD) harbouring Lys49, Asp146, Asp162 and Thr177 as essential catalytic residues (bhattacharyya2020structuralinsightsinto pages 15-16).  
+• Autoinhibitory domain (AID) containing αR1 and αR2 helices that block the substrate cleft in the basal state (simon2015molecularmechanismsof pages 8-10).  
+• Calmodulin-binding domain (CBD), overlapping the AID, which adopts an extended αR3 helix upon Ca²⁺/CaM binding (clapperton2002structureofthe pages 7-8).  
+
+Crystal structures resolve key conformations:  
+– Autoinhibited kinase domain (PDB 1A06) shows αR1/αR2 inserted into the active site and αR3 lying along the nucleotide pocket (simon2015molecularmechanismsof pages 8-10).  
+– CaM-bound peptide complex (PDB 1MXE) demonstrates picomolar-affinity wrapping of CaM around residues 294-318, anchored by Trp303 and Met316 in a 1-14 binding mode (clapperton2002structureofthe pages 1-2).  
+– Phosphorylation-competent assemblies (PDB 4FG9, 4FGB) reveal a continuous hydrophobic spine and correctly positioned C-helix characteristic of the active kinase (stratton2013structuralstudieson pages 10-11, rellos2010structureofthe pages 8-10).  
+
+Regulation  
+Post-translational modifications  
+• Thr177 in the activation loop is phosphorylated by CaMKK1/2, producing a marked increase in catalytic turnover and reduced Ca²⁺ dependence (racioppi2012calciumcalmodulindependentproteinkinase pages 1-2).  
+• Ser52 in the N-terminal segment is targeted by PKA, providing an additional layer of control (tokumitsu2022molecularmechanismsunderlying pages 12-13).  
+• PKA also phosphorylates CaMKK at Thr108, indirectly limiting Thr177 phosphorylation of CAMK1 α (matsushita1999inhibitionofthe pages 4-5).  
+
+Allosteric and conformational control  
+Ca²⁺/CaM binding to the CBD displaces the AID, unmasking ATP and substrate sites and activating the enzyme by >100-fold (soderling2001structureandregulation pages 2-3). Hydrophobic residues Ile286, Val290, Ile294 and Phe298 act as an intramolecular “clamp” stabilising autoinhibition and are released upon CaM engagement (clapperton2002structureofthe pages 7-8).  
+
+Function  
+Expression is broad but pronounced in brain regions such as hippocampal and cerebellar neurons, with additional presence in peripheral and endocrine tissues (unknownauthors2019roleofca2+calmodulin pages 28-32). Documented roles include:  
+• Regulation of axonal extension and growth-cone motility in developing neurons (unknownauthors2019roleofca2+calmodulin pages 28-32).  
+• Promotion of dendritic growth and spine formation downstream of NMDA receptor-mediated Ca²⁺ influx (unknownauthors2019roleofca2+calmodulin pages 28-32).  
+• Phosphorylation of transcription factors such as CREB, linking Ca²⁺ signals to gene expression (clapperton2002structureofthe pages 1-2).  
+• Integration into the CaMKK→CaMK1→CaMKIV cascade controlling cell-cycle progression and differentiation (soderling2001structureandregulation pages 2-3).  
+
+Inhibitors  
+• CaMKIp (residues 294-318) binds the active site and functions as a high-affinity competitive inhibitor (clapperton2002structureofthe pages 7-8).  
+• KN-62 and KN-93 are Ca²⁺/CaM-competitive small molecules that inhibit CAMK1 α with low-micromolar potency (pellicena2014camkiiinhibitorsfrom pages 2-3).  
+• STO-609 inhibits upstream CaMKKs, thereby indirectly suppressing Thr177 phosphorylation and CAMK1 α activation (brown2024studyingcamkiitools pages 17-18).  
+
+Other Comments  
+No recurrent disease-linked missense variants in CAMK1 α have been reported; however, genetic variation within the upstream CaMKK node is associated with cardiovascular and neuropsychiatric phenotypes, underscoring pathway relevance (unknownauthors2022variantigenetichenel pages 27-31).
+
+References
+
+1. (bhattacharyya2020structuralinsightsinto pages 15-16): Moitrayee Bhattacharyya, Deepti Karandur, and J. Kuriyan. Structural insights into the regulation of ca2+/calmodulin-dependent protein kinase ii (camkii). Cold Spring Harbor perspectives in biology, Oct 2020. URL: https://doi.org/10.1101/cshperspect.a035147, doi:10.1101/cshperspect.a035147. This article has 90 citations and is from a peer-reviewed journal.
+
+2. (clapperton2002structureofthe pages 1-2): Julie A. Clapperton, Stephen R. Martin, Stephen J. Smerdon, Steven J. Gamblin, and Peter M. Bayley. Structure of the complex of calmodulin with the target sequence of calmodulin-dependent protein kinase i: studies of the kinase activation mechanism‡. Biochemistry, 41:14669-14679, Dec 2002. URL: https://doi.org/10.1021/bi026660t, doi:10.1021/bi026660t. This article has 121 citations and is from a peer-reviewed journal.
+
+3. (simon2015molecularmechanismsof pages 1-3): Bertrand Simon, Anne-Sophie Huart, and Matthias Wilmanns. Molecular mechanisms of protein kinase regulation by calcium/calmodulin. Bioorganic & medicinal chemistry, 23 12:2749-60, Jun 2015. URL: https://doi.org/10.1016/j.bmc.2015.04.051, doi:10.1016/j.bmc.2015.04.051. This article has 20 citations.
+
+4. (simon2015molecularmechanismsof pages 8-10): Bertrand Simon, Anne-Sophie Huart, and Matthias Wilmanns. Molecular mechanisms of protein kinase regulation by calcium/calmodulin. Bioorganic & medicinal chemistry, 23 12:2749-60, Jun 2015. URL: https://doi.org/10.1016/j.bmc.2015.04.051, doi:10.1016/j.bmc.2015.04.051. This article has 20 citations.
+
+5. (soderling2001structureandregulation pages 2-3): Thomas R. Soderling and James T. Stull. Structure and regulation of calcium/calmodulin-dependent protein kinases. Chemical Reviews, 101:2341-2352, Jul 2001. URL: https://doi.org/10.1021/cr0002386, doi:10.1021/cr0002386. This article has 251 citations and is from a highest quality peer-reviewed journal.
+
+6. (stratton2013structuralstudieson pages 10-11): Margaret M Stratton, Luke H Chao, Howard Schulman, and John Kuriyan. Structural studies on the regulation of ca2+/calmodulin dependent protein kinase ii. Current Opinion in Structural Biology, 23:292-301, Apr 2013. URL: https://doi.org/10.1016/j.sbi.2013.04.002, doi:10.1016/j.sbi.2013.04.002. This article has 108 citations and is from a peer-reviewed journal.
+
+7. (unknownauthors2019roleofca2+calmodulin pages 28-32): Role of Ca2+/Calmodulin dependent protein kinase IV on REST activity
+
+8. (clapperton2002structureofthe pages 7-8): Julie A. Clapperton, Stephen R. Martin, Stephen J. Smerdon, Steven J. Gamblin, and Peter M. Bayley. Structure of the complex of calmodulin with the target sequence of calmodulin-dependent protein kinase i: studies of the kinase activation mechanism‡. Biochemistry, 41:14669-14679, Dec 2002. URL: https://doi.org/10.1021/bi026660t, doi:10.1021/bi026660t. This article has 121 citations and is from a peer-reviewed journal.
+
+9. (matsushita1999inhibitionofthe pages 4-5): Masayuki Matsushita and Angus C. Nairn. Inhibition of the ca2+/calmodulin-dependent protein kinase i cascade by camp-dependent protein kinase*. The Journal of Biological Chemistry, 274:10086-10093, Apr 1999. URL: https://doi.org/10.1074/jbc.274.15.10086, doi:10.1074/jbc.274.15.10086. This article has 107 citations.
+
+10. (rellos2010structureofthe pages 8-10): P. Rellos, A. Pike, F. Niesen, E. Salah, W. H. Lee, F. von Delft, and S. Knapp. Structure of the camkiiδ/calmodulin complex reveals the molecular mechanism of camkii kinase activation. PLoS Biology, Jul 2010. URL: https://doi.org/10.1371/journal.pbio.1000426, doi:10.1371/journal.pbio.1000426. This article has 305 citations and is from a highest quality peer-reviewed journal.
+
+11. (unknownauthors2022variantigenetichenel pages 27-31): Varianti genetiche nel pathway della calcio calmodulina in associazione con malattie cardiovascolari: focus sul potenziale ruolo di CaMKK1 nel cuore e nei vasi
+
+12. (brown2024studyingcamkiitools pages 17-18): Carolyn Nicole Brown and Karl Ulrich Bayer. Studying camkii: tools and standards. Cell Reports, 43:113982, Apr 2024. URL: https://doi.org/10.1016/j.celrep.2024.113982, doi:10.1016/j.celrep.2024.113982. This article has 18 citations and is from a highest quality peer-reviewed journal.
+
+13. (jha2025deeplearningcoupledproximity pages 11-12): Kanchan Jha, Daichi Shonai, Aditya Parekh, Akiyoshi Uezu, Tomoyuki Fujiyama, Hikari Yamamoto, Pooja Parameswaran, Masashi Yanagisawa, Rohit Singh, and Scott H. Soderling. Deep learning-coupled proximity proteomics to deconvolve kinase signaling in vivo. BioRxiv, Apr 2025. URL: https://doi.org/10.1101/2025.04.27.650849, doi:10.1101/2025.04.27.650849. This article has 0 citations.
+
+14. (pellicena2014camkiiinhibitorsfrom pages 2-3): Patricia Pellicena and Howard Schulman. Camkii inhibitors: from research tools to therapeutic agents. Frontiers in Pharmacology, Feb 2014. URL: https://doi.org/10.3389/fphar.2014.00021, doi:10.3389/fphar.2014.00021. This article has 270 citations and is from a peer-reviewed journal.
+
+15. (racioppi2012calciumcalmodulindependentproteinkinase pages 1-2): Luigi Racioppi and Anthony R. Means. Calcium/calmodulin-dependent protein kinase kinase 2: roles in signaling and pathophysiology. Journal of Biological Chemistry, 287:31658-31665, Sep 2012. URL: https://doi.org/10.1074/jbc.r112.356485, doi:10.1074/jbc.r112.356485. This article has 351 citations and is from a domain leading peer-reviewed journal.
+
+16. (tokumitsu2022molecularmechanismsunderlying pages 12-13): Hiroshi Tokumitsu and Hiroyuki Sakagami. Molecular mechanisms underlying ca2+/calmodulin-dependent protein kinase kinase signal transduction. International Journal of Molecular Sciences, 23:11025, Sep 2022. URL: https://doi.org/10.3390/ijms231911025, doi:10.3390/ijms231911025. This article has 86 citations and is from a peer-reviewed journal.

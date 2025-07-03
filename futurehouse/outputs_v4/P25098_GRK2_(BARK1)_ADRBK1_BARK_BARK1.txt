@@ -1,0 +1,108 @@
+## Phylogeny
+G protein-coupled receptor kinase 2 (GRK2), also known as ADRBK1, is classified within the AGC group of protein kinases, specifically belonging to the G protein-coupled receptor kinase (GRK) family (cannavo2018grk2asa pages 1-3, ribas2007thegproteincoupled pages 1-3, ferrero2022grk2incardiovascular pages 4-6). This classification is based on the kinome-wide analysis by Manning et al., 2002 (ferrero2022grk2incardiovascular pages 16-17, ribas2007thegproteincoupled pages 1-3). One source places it in the CMGC group within the AGC family (ferrero2022grk2incardiovascular pages 16-17). The GRK family is subdivided into three subfamilies: the visual GRKs (GRK1, GRK7), the β-adrenergic receptor kinase (βARK) subfamily (GRK2, GRK3), and the GRK4 subfamily (GRK4, GRK5, GRK6) (sato2015theevolvingimpact pages 2-3, ribas2007thegproteincoupled pages 3-4). GRK2 is a member of the βARK subfamily (ferrero2022grk2incardiovascular pages 3-4, sato2015theevolvingimpact pages 2-3). Orthologs of GRK2 are evolutionarily conserved across metazoans, with homologs identified in model organisms such as *Drosophila melanogaster* and *Caenorhabditis elegans* (cannavo2018grk2asa pages 1-3, ferrero2022grk2incardiovascular pages 16-17).
+
+
+
+## Reaction Catalyzed
+GRK2 is a serine/threonine kinase that catalyzes the transfer of the γ-phosphate group from ATP to serine or threonine residues on substrate proteins (chaudhary2021thegrksreactome pages 19-21, evron2012grk2multipleroles pages 19-20, rengo2011grk2asa pages 2-4).
+
+ATP + [substrate protein]-L-serine/threonine → ADP + [substrate protein]-L-phosphoserine/phosphothreonine
+
+
+
+## Cofactor Requirements
+The catalytic activity of GRK2 requires the presence of divalent magnesium ions (Mg²⁺) as a cofactor (cannavo2018grk2asa pages 1-3, chaudhary2021thegrksreactome pages 19-21, evron2012grk2multipleroles pages 19-20, ribas2007thegproteincoupled pages 1-3).
+
+
+
+## Substrate Specificity
+The substrate specificity of GRK2 is defined by a consensus phosphorylation motif spanning positions P-5 to P+4 relative to the phosphorylated serine or threonine residue (P0), as determined by Johnson et al., 2023 (ferrero2022grk2incardiovascular pages 16-17). At position P-5, there is a preference for hydrophobic residues. The P-3 position favors positively charged residues such as arginine and lysine, while P-2 shows a mild preference for small residues. Position P-1 strongly prefers arginine. The P+1 position favors small residues, and positions P+2 to P+4 show weak preferences for polar or small amino acids (ferrero2022grk2incardiovascular pages 16-17). The kinase also shows a preference for phosphorylated threonine or tyrosine residues within its substrate motifs, which can act as priming sites (johnson2023anatlasof pages 2-3).
+
+
+
+## Structure
+Human GRK2 crystal structures are available in the Protein Data Bank under PDB IDs including 3C4W, 3NYN, 3RK3, and 2BCJ (cannavo2018grk2asa pages 1-3, ferrero2022grk2incardiovascular pages 16-17, murga2019gproteincoupledreceptor pages 1-2). GRK2 is a modular protein composed of three main domains with a triangular organization where the N-terminal domain contacts the other two (cannavo2018grk2asa pages 1-3).
+*   **Regulator of G protein Signaling homology (RH) domain:** An N-terminal domain that interacts with G protein α subunits (e.g., Gαq) and serves as an intramolecular scaffold for the kinase domain (penela2019gproteincoupledreceptor pages 1-2, evron2012grk2multipleroles pages 1-2).
+*   **Kinase domain:** A central catalytic domain that adopts the canonical bilobal fold of AGC kinases, containing the ATP-binding pocket and activation loop (evron2012grk2multipleroles pages 19-20, murga2019gproteincoupledreceptor pages 1-2). Unlike many AGC kinases, GRK2's activation loop does not require phosphorylation for activity (penela2019gproteincoupledreceptor pages 2-3). A key structural feature is the hydrophobic spine, a set of conserved hydrophobic residues spanning the N- and C-lobes that stabilizes the active conformation essential for catalysis (cannavo2018grk2asa pages 1-3, ferrero2022grk2incardiovascular pages 16-17, ferrero2022grk2incardiovascular pages 4-6).
+*   **Pleckstrin Homology (PH) domain:** A C-terminal domain that mediates membrane localization by binding to phospholipids, such as PIP2, and to the βγ subunits of heterotrimeric G proteins (Gβγ) (cannavo2018grk2asa pages 1-3, murga2019gproteincoupledreceptor pages 1-2).
+
+
+
+## Regulation
+GRK2 activity is regulated by allosteric interactions, post-translational modifications (PTMs), and subcellular localization (cannavo2018grk2asa pages 1-3, penela2019gproteincoupledreceptor pages 1-2).
+*   **Allosteric Regulation:** The binding of free Gβγ subunits to the PH domain recruits GRK2 to the plasma membrane and allosterically enhances its kinase activity (cannavo2018grk2asa pages 1-3, ferrero2022grk2incardiovascular pages 3-4).
+*   **Post-Translational Modifications:** GRK2 undergoes autophosphorylation and is phosphorylated by several other kinases (chaudhary2021thegrksreactome pages 19-21, kang2020designofsubstrates pages 1-2).
+    *   Phosphorylation at Ser670 by ERK promotes Hsp90 binding and mitochondrial translocation, while inhibiting membrane translocation (ferrero2022grk2incardiovascular pages 23-23, ferrero2022grk2incardiovascular pages 4-6, ribas2007thegproteincoupled pages 3-4).
+    *   Phosphorylation at Ser685 by PKA and PKC enhances kinase activity and receptor interaction (ferrero2022grk2incardiovascular pages 4-6, ribas2007thegproteincoupled pages 3-4).
+    *   GRK2 is also phosphorylated by c-Src and CDK2 (kang2020designofsubstrates pages 1-2).
+    *   S-nitrosylation at Cys-340 also modulates GRK2 function (kang2020designofsubstrates pages 1-2).
+
+
+
+## Function
+GRK2 is ubiquitously expressed, with high levels in cardiac tissue, cardiomyocytes, vascular cells, endothelial cells, immune cells, and the brain (cannavo2018grk2asa pages 3-4, chaudhary2021thegrksreactome pages 19-21, evron2012grk2multipleroles pages 19-20). Its canonical function is the phosphorylation of agonist-activated GPCRs, which initiates receptor desensitization and internalization by promoting the recruitment of β-arrestin (penela2019gproteincoupledreceptor pages 1-2, rengo2011grk2asa pages 2-4). Key GPCR substrates include β-adrenergic receptors (β-ARs), lysophosphatidic acid receptor 1 (LPAR1), and sphingosine-1-phosphate receptor 1 (S1PR1) (cannavo2018grk2asa pages 1-3, cannavo2018grk2asa pages 9-9).
+
+GRK2 also functions as a signaling hub by phosphorylating non-GPCR substrates, including cytoskeletal proteins (tubulin, ezrin, radixin), transcription factors (Smad2/3), and signaling molecules (insulin receptor substrate 1, IRS1) (evron2012grk2multipleroles pages 4-5). It interacts with scaffolding proteins like GIT1/2 and kinases such as PI3K and Akt (evron2012grk2multipleroles pages 19-20, ferrero2022grk2incardiovascular pages 4-6). Through these interactions, GRK2 modulates cardiovascular contractility, endothelial nitric oxide production, cell migration, cytoskeletal dynamics, and metabolic control (evron2012grk2multipleroles pages 19-20, ferrero2022grk2incardiovascular pages 23-23).
+
+
+
+## Inhibitors
+Several classes of experimental inhibitors targeting GRK2 have been identified (cannavo2018grk2asa pages 3-4).
+*   **Small Molecules:** The antidepressant paroxetine and its derivatives act as potent and selective GRK2 inhibitors (cannavo2018grk2asa pages 9-9, ferrero2022grk2incardiovascular pages 1-3). Other molecules like gallein and M119 inhibit GRK2 by disrupting its interaction with Gβγ subunits (cannavo2018grk2asa pages 3-4, han2018developmentofinflammatory pages 10-11).
+*   **Peptide Inhibitors:** A peptide derived from the C-terminus of GRK2, known as βARKct, competitively inhibits GRK2 function by sequestering Gβγ subunits (rengo2011grk2asa pages 2-4, han2018developmentofinflammatory pages 10-11).
+*   **RNA Aptamers:** The RNA aptamer C13 selectively inhibits GRK2 by stabilizing an inactive kinase conformation (han2018developmentofinflammatory pages 10-11).
+
+
+
+## Other Comments
+Dysregulation of GRK2 is strongly implicated in heart failure (HF), where its elevated levels and activity in the myocardium contribute to chronic β-AR desensitization, impaired cardiac function, mitochondrial dysfunction, insulin resistance, and apoptosis (cannavo2018grk2asa pages 1-3). Elevated GRK2 levels in lymphocytes and failing myocardium correlate with disease severity and predict mortality in HF patients (cannavo2018grk2asa pages 1-3). GRK2 is also associated with hypertension, cardiac hypertrophy, obesity, and inflammatory diseases (murga2019gproteincoupledreceptor pages 1-2).
+
+Global knockout of GRK2 in mice is embryonically lethal due to ventricular hypoplasia and other cardiac malformations (cannavo2018grk2asa pages 3-4, guccione2016gproteincoupledreceptorkinase pages 2-3). Experimental inhibition or genetic deletion of GRK2 in animal models of heart disease has been shown to protect against adverse cardiac remodeling and improve cardiac function, making it a promising therapeutic target (cannavo2018grk2asa pages 1-3).
+
+References
+
+1. (cannavo2018grk2asa pages 1-3): Alessandro Cannavo, Klara Komici, Leonardo Bencivenga, Maria Loreta D’amico, Giuseppina Gambino, Daniela Liccardo, Nicola Ferrara, and Giuseppe Rengo. Grk2 as a therapeutic target for heart failure. Expert Opinion on Therapeutic Targets, 22:75-83, Jan 2018. URL: https://doi.org/10.1080/14728222.2018.1406925, doi:10.1080/14728222.2018.1406925. This article has 71 citations and is from a peer-reviewed journal.
+
+2. (cannavo2018grk2asa pages 9-9): Alessandro Cannavo, Klara Komici, Leonardo Bencivenga, Maria Loreta D’amico, Giuseppina Gambino, Daniela Liccardo, Nicola Ferrara, and Giuseppe Rengo. Grk2 as a therapeutic target for heart failure. Expert Opinion on Therapeutic Targets, 22:75-83, Jan 2018. URL: https://doi.org/10.1080/14728222.2018.1406925, doi:10.1080/14728222.2018.1406925. This article has 71 citations and is from a peer-reviewed journal.
+
+3. (chaudhary2021thegrksreactome pages 19-21): P. Chaudhary and Soochong Kim. The grks reactome: role in cell biology and pathology. International Journal of Molecular Sciences, Mar 2021. URL: https://doi.org/10.3390/ijms22073375, doi:10.3390/ijms22073375. This article has 29 citations and is from a peer-reviewed journal.
+
+4. (evron2012grk2multipleroles pages 19-20): Tama Evron, T. Daigle, and M. Caron. Grk2: multiple roles beyond g protein-coupled receptor desensitization. Trends in pharmacological sciences, 33 3:154-64, Mar 2012. URL: https://doi.org/10.1016/j.tips.2011.12.003, doi:10.1016/j.tips.2011.12.003. This article has 199 citations and is from a highest quality peer-reviewed journal.
+
+5. (ferrero2022grk2incardiovascular pages 1-3): Kimberly M. Ferrero and Walter J. Koch. Grk2 in cardiovascular disease and its potential as a therapeutic target. Journal of Molecular and Cellular Cardiology, 172:14-23, Nov 2022. URL: https://doi.org/10.1016/j.yjmcc.2022.07.008, doi:10.1016/j.yjmcc.2022.07.008. This article has 22 citations and is from a domain leading peer-reviewed journal.
+
+6. (ferrero2022grk2incardiovascular pages 16-17): Kimberly M. Ferrero and Walter J. Koch. Grk2 in cardiovascular disease and its potential as a therapeutic target. Journal of Molecular and Cellular Cardiology, 172:14-23, Nov 2022. URL: https://doi.org/10.1016/j.yjmcc.2022.07.008, doi:10.1016/j.yjmcc.2022.07.008. This article has 22 citations and is from a domain leading peer-reviewed journal.
+
+7. (ferrero2022grk2incardiovascular pages 23-23): Kimberly M. Ferrero and Walter J. Koch. Grk2 in cardiovascular disease and its potential as a therapeutic target. Journal of Molecular and Cellular Cardiology, 172:14-23, Nov 2022. URL: https://doi.org/10.1016/j.yjmcc.2022.07.008, doi:10.1016/j.yjmcc.2022.07.008. This article has 22 citations and is from a domain leading peer-reviewed journal.
+
+8. (ferrero2022grk2incardiovascular pages 3-4): Kimberly M. Ferrero and Walter J. Koch. Grk2 in cardiovascular disease and its potential as a therapeutic target. Journal of Molecular and Cellular Cardiology, 172:14-23, Nov 2022. URL: https://doi.org/10.1016/j.yjmcc.2022.07.008, doi:10.1016/j.yjmcc.2022.07.008. This article has 22 citations and is from a domain leading peer-reviewed journal.
+
+9. (ferrero2022grk2incardiovascular pages 4-6): Kimberly M. Ferrero and Walter J. Koch. Grk2 in cardiovascular disease and its potential as a therapeutic target. Journal of Molecular and Cellular Cardiology, 172:14-23, Nov 2022. URL: https://doi.org/10.1016/j.yjmcc.2022.07.008, doi:10.1016/j.yjmcc.2022.07.008. This article has 22 citations and is from a domain leading peer-reviewed journal.
+
+10. (kang2020designofsubstrates pages 1-2): Jeong-Hun Kang, Riki Toita, Takahito Kawano, Masaharu Murata, and Daisuke Asai. Design of substrates and inhibitors of g protein-coupled receptor kinase 2 (grk2) based on its phosphorylation reaction. Amino Acids, 52:863-870, Jun 2020. URL: https://doi.org/10.1007/s00726-020-02864-x, doi:10.1007/s00726-020-02864-x. This article has 11 citations and is from a peer-reviewed journal.
+
+11. (murga2019gproteincoupledreceptor pages 1-2): Cristina Murga, Alba C. Arcones, Marta Cruces-Sande, Ana M. Briones, Mercedes Salaices, and Federico Mayor Jr. G protein-coupled receptor kinase 2 (grk2) as a potential therapeutic target in cardiovascular and metabolic diseases. Frontiers in Pharmacology, Feb 2019. URL: https://doi.org/10.3389/fphar.2019.00112, doi:10.3389/fphar.2019.00112. This article has 116 citations and is from a peer-reviewed journal.
+
+12. (penela2019gproteincoupledreceptor pages 1-2): Petronila Penela, Catalina Ribas, Francisco Sánchez-Madrid, and Federico Mayor. G protein-coupled receptor kinase 2 (grk2) as a multifunctional signaling hub. Cellular and Molecular Life Sciences, 76:4423-4446, Aug 2019. URL: https://doi.org/10.1007/s00018-019-03274-3, doi:10.1007/s00018-019-03274-3. This article has 101 citations and is from a domain leading peer-reviewed journal.
+
+13. (rengo2011grk2asa pages 2-4): G. Rengo, A. Lymperopoulos, D. Leosco, and W. Koch. Grk2 as a novel gene therapy target in heart failure. Journal of molecular and cellular cardiology, 50 5:785-92, May 2011. URL: https://doi.org/10.1016/j.yjmcc.2010.08.014, doi:10.1016/j.yjmcc.2010.08.014. This article has 167 citations and is from a domain leading peer-reviewed journal.
+
+14. (ribas2007thegproteincoupled pages 1-3): C. Ribas, P. Penela, C. Murga, Alicia Salcedo, C. García-Hoz, María Jurado-Pueyo, I. Aymerich, and F. Mayor. The g protein-coupled receptor kinase (grk) interactome: role of grks in gpcr regulation and signaling. Biochimica et biophysica acta, 1768 4:913-22, Apr 2007. URL: https://doi.org/10.1016/j.bbamem.2006.09.019, doi:10.1016/j.bbamem.2006.09.019. This article has 532 citations.
+
+15. (sato2015theevolvingimpact pages 2-3): Priscila Y. Sato, J. Kurt Chuprun, Mathew Schwartz, and Walter J. Koch. The evolving impact of g protein-coupled receptor kinases in cardiac health and disease. Physiological Reviews, 95:377-404, Apr 2015. URL: https://doi.org/10.1152/physrev.00015.2014, doi:10.1152/physrev.00015.2014. This article has 186 citations and is from a highest quality peer-reviewed journal.
+
+16. (cannavo2018grk2asa pages 3-4): Alessandro Cannavo, Klara Komici, Leonardo Bencivenga, Maria Loreta D’amico, Giuseppina Gambino, Daniela Liccardo, Nicola Ferrara, and Giuseppe Rengo. Grk2 as a therapeutic target for heart failure. Expert Opinion on Therapeutic Targets, 22:75-83, Jan 2018. URL: https://doi.org/10.1080/14728222.2018.1406925, doi:10.1080/14728222.2018.1406925. This article has 71 citations and is from a peer-reviewed journal.
+
+17. (evron2012grk2multipleroles pages 1-2): Tama Evron, T. Daigle, and M. Caron. Grk2: multiple roles beyond g protein-coupled receptor desensitization. Trends in pharmacological sciences, 33 3:154-64, Mar 2012. URL: https://doi.org/10.1016/j.tips.2011.12.003, doi:10.1016/j.tips.2011.12.003. This article has 199 citations and is from a highest quality peer-reviewed journal.
+
+18. (evron2012grk2multipleroles pages 4-5): Tama Evron, T. Daigle, and M. Caron. Grk2: multiple roles beyond g protein-coupled receptor desensitization. Trends in pharmacological sciences, 33 3:154-64, Mar 2012. URL: https://doi.org/10.1016/j.tips.2011.12.003, doi:10.1016/j.tips.2011.12.003. This article has 199 citations and is from a highest quality peer-reviewed journal.
+
+19. (guccione2016gproteincoupledreceptorkinase pages 2-3): Manuela Guccione, R. Ettari, S. Taliani, F. Da Settimo, M. Zappalà, and S. Grasso. G-protein-coupled receptor kinase 2 (grk2) inhibitors: current trends and future perspectives. Journal of medicinal chemistry, 59 20:9277-9294, Jul 2016. URL: https://doi.org/10.1021/acs.jmedchem.5b01939, doi:10.1021/acs.jmedchem.5b01939. This article has 40 citations and is from a highest quality peer-reviewed journal.
+
+20. (johnson2023anatlasof pages 2-3): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+21. (penela2019gproteincoupledreceptor pages 2-3): Petronila Penela, Catalina Ribas, Francisco Sánchez-Madrid, and Federico Mayor. G protein-coupled receptor kinase 2 (grk2) as a multifunctional signaling hub. Cellular and Molecular Life Sciences, 76:4423-4446, Aug 2019. URL: https://doi.org/10.1007/s00018-019-03274-3, doi:10.1007/s00018-019-03274-3. This article has 101 citations and is from a domain leading peer-reviewed journal.
+
+22. (ribas2007thegproteincoupled pages 3-4): C. Ribas, P. Penela, C. Murga, Alicia Salcedo, C. García-Hoz, María Jurado-Pueyo, I. Aymerich, and F. Mayor. The g protein-coupled receptor kinase (grk) interactome: role of grks in gpcr regulation and signaling. Biochimica et biophysica acta, 1768 4:913-22, Apr 2007. URL: https://doi.org/10.1016/j.bbamem.2006.09.019, doi:10.1016/j.bbamem.2006.09.019. This article has 532 citations.
+
+23. (han2018developmentofinflammatory pages 10-11): Chen-chen Han, Yifan Li, Yang Wang, D. Cui, T. Luo, Yuwen Zhang, Yang Ma, and Wei Wei. Development of inflammatory immune response-related drugs based on g protein-coupled receptor kinase 2. Cellular Physiology and Biochemistry, 51:729-745, Nov 2018. URL: https://doi.org/10.1159/000495329, doi:10.1159/000495329. This article has 24 citations and is from a peer-reviewed journal.

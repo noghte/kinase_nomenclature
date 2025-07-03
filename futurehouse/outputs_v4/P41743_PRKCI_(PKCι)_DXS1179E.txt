@@ -1,0 +1,86 @@
+## Phylogeny  
+PRKCI encodes protein kinase C iota (PKCι), an AGC-group serine/threonine kinase assigned to the atypical PKC (aPKC) subfamily that is distinguished by Ca²⁺/diacylglycerol independence (messerschmidt2005crystalstructureof pages 1-2).  
+Comparative analyses show that aPKCs diverged from conventional and novel PKCs but preserve the canonical bilobal catalytic core of the AGC superfamily (fields2008proteinkinasec pages 1-2).  
+PKCι shares 72 % overall and 86 % kinase-domain identity with its paralog PKCζ, defining the ζ/ι node within the PKC branch of the human kinome (parker2014atypicalproteinkinase pages 12-14).  
+Orthologs are conserved across vertebrates, including mouse PKCλ/Prkci (parker2014atypicalproteinkinase pages 12-14), rat Prkci (shah2022impactofdeleterious pages 1-2) and zebrafish prkci (uhalte2012invivoconditions pages 1-2).  
+Kinome surveys anchored by Manning et al. place PRKCI in the PKCι/ζ clade of the AGC group (garciaconcejo2021proteinkinasec pages 1-2).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr ⇄ ADP + [protein]-O-phospho-Ser/Thr (messerschmidt2005crystalstructureof pages 11-13).  
+
+## Cofactor Requirements  
+Catalysis requires Mg²⁺ as the divalent cation (uhalte2012invivoconditions pages 1-2) and is independent of Ca²⁺, diacylglycerol and phosphatidylserine (messerschmidt2005crystalstructureof pages 1-2).  
+
+## Substrate Specificity  
+Proteome-scale mapping assigns PKCι a preference for basic residues (Arg/Lys) at positions P-5 to P-3 preceding the phosphoacceptor Ser/Thr, often followed by a hydrophobic residue at +1 (garciaconcejo2021proteinkinasec pages 1-2).  
+Structure-guided modelling with the peptide FKRQGSFF corroborates optimal contacts with Lys/Arg at −3/−2 and a bulky hydrophobe at +1 (messerschmidt2005crystalstructureof pages 11-13).  
+
+## Structure  
+Domain organisation: PB1 (aa 2–108) mediates front-to-back dimerisation with OPCA-motif partners and contains the reactive Cys69 (fields2008proteinkinasec pages 6-8); a single C1 zinc-finger (aa 123–192) binds phosphatidylserine but not phorbol esters (messerschmidt2005crystalstructureof pages 1-2); the kinase domain (aa 254–578) adopts the AGC bilobal fold; the C-terminal AGC extension (aa 523–596) includes the NFD motif and hydrophobic motif analogue (shah2022impactofdeleterious pages 1-2).  
+Crystal structures of the catalytic domain with bis-indolyl-maleimide-1 (PDB 1ZRZ, 3.0 Å) reveal an intermediate-open ATP pocket (messerschmidt2005crystalstructureof pages 1-2).  
+ATP-bound (PDB 3A8W) and apo (PDB 3A8X) forms resolve C-tail residues 533–551 that buttress ATP binding (takimura2010structuresofthe pages 1-2).  
+Key regulatory features include phospho-Thr403 in the activation loop, phospho-Thr555 in the turn motif and a phosphomimetic Glu574 at the hydrophobic motif position that stabilise the active conformation (messerschmidt2005crystalstructureof pages 1-2).  
+Displacement of Phe543 within the NFD motif underlies binding of the selective thieno[2,3-d]pyrimidine inhibitor CRT0066854 (parker2014atypicalproteinkinase pages 12-14).  
+
+## Regulation  
+Priming phosphorylation at Thr403 is supplied by PDK1 (parker2014atypicalproteinkinase pages 7-8).  
+Autophosphorylation on Thr555 locks the C-tail and maintains activity (messerschmidt2005crystalstructureof pages 1-2).  
+mTORC2 signalling preserves the mature, phosphorylated state of PKCι (newton2018proteinkinaseca pages 25-28).  
+Src phosphorylates Tyr256, Tyr271 and Tyr325, enhancing nuclear import and survival signalling (parker2014atypicalproteinkinase pages 2-4).  
+Activation is additionally controlled by PB1-mediated assembly with Par6, Par3 and p62 scaffolds that relieve pseudosubstrate inhibition (parker2014atypicalproteinkinase pages 4-5).  
+Electrophilic gold(I) compounds covalently modify Cys69, blocking Par6 engagement and downstream signalling (fields2008proteinkinasec pages 6-8).  
+No experimentally verified ubiquitination or SUMOylation events are reported in the cited literature (messerschmidt2005crystalstructureof pages 14-14).  
+
+## Function  
+PRKCI lies within the 3q26 amplicon; copy-number gain drives over-expression in lung, ovarian, esophageal and pancreatic cancers (parker2014atypicalproteinkinase pages 4-5).  
+PKCι is required for Kras-driven transformation; the PKCι–Par6–Rac1 axis disrupts apico-basal polarity and promotes proliferation and invasion (fields2008proteinkinasec pages 6-8).  
+In Bcr-Abl-positive leukemia and non-small-cell lung cancer, PKCι engages p62/IKK complexes to activate NF-κB and confer chemoresistance (parker2014atypicalproteinkinase pages 7-8).  
+Downstream of PI3K–PDK1, PKCι phosphorylates and inhibits the pro-apoptotic protein BAD, supporting glioblastoma and leukemia cell survival (parker2014atypicalproteinkinase pages 7-8).  
+A tri-protein complex of PKCι, Par6A and ECT2 in NSCLC enables PKCι-dependent phosphorylation of ECT2, driving anchorage-independent growth and invasion (parker2014atypicalproteinkinase pages 7-8).  
+
+## Inhibitors  
+Gold(I) thiolate drugs aurothiomalate and aurothioglucose form adducts with Cys69 and disrupt PKCι–Par6 binding (fields2008proteinkinasec pages 6-8).  
+Bis-indolyl-maleimide-1 occupies the ATP site as seen in crystal structure 1ZRZ (messerschmidt2005crystalstructureof pages 1-2).  
+The thieno[2,3-d]pyrimidine CRT0066854 is an ATP-competitive inhibitor that locks the kinase in an inactive conformation by displacing Phe543 (parker2014atypicalproteinkinase pages 12-14).  
+Myristoylated pseudosubstrate peptides provide substrate-competitive inhibition albeit with limited isoform selectivity (parker2014atypicalproteinkinase pages 11-12).  
+
+## Other Comments  
+PKCι is designated a bona fide human oncogene, and elevated expression correlates with poor prognosis across multiple tumour types (fields2008proteinkinasec pages 1-2, parker2014atypicalproteinkinase pages 5-7).  
+Mutation of Cys69 to Ser confers resistance to gold-based PB1 inhibitors by preventing covalent adduct formation (fields2008proteinkinasec pages 6-8).  
+Tumour-derived kinase-domain mutations E423D (APE motif) and R471C produce altered catalytic properties and substrate selectivity (newton2018proteinkinaseca pages 17-21).
+
+References
+
+1. (fields2008proteinkinasec pages 6-8): Alan P. Fields and Nicole R. Murray. Protein kinase c isozymes as therapeutic targets for treatment of human cancers. Advances in Enzyme Regulation, 48:166-178, Jan 2008. URL: https://doi.org/10.1016/j.advenzreg.2007.11.014, doi:10.1016/j.advenzreg.2007.11.014. This article has 42 citations.
+
+2. (messerschmidt2005crystalstructureof pages 1-2): Albrecht Messerschmidt, Sofia Macieira, Milko Velarde, Mathias Bädeker, Christian Benda, Anja Jestel, Hans Brandstetter, Torsten Neuefeind, and Michael Blaesse. Crystal structure of the catalytic domain of human atypical protein kinase c-iota reveals interaction mode of phosphorylation site in turn motif. Journal of molecular biology, 352 4:918-31, Sep 2005. URL: https://doi.org/10.1016/j.jmb.2005.07.060, doi:10.1016/j.jmb.2005.07.060. This article has 123 citations and is from a domain leading peer-reviewed journal.
+
+3. (parker2014atypicalproteinkinase pages 11-12): Peter J. Parker, Verline Justilien, Philippe Riou, Mark Linch, and Alan P. Fields. Atypical protein kinase cι as a human oncogene and therapeutic target. Biochemical Pharmacology, 88:1-11, Mar 2014. URL: https://doi.org/10.1016/j.bcp.2013.10.023, doi:10.1016/j.bcp.2013.10.023. This article has 115 citations and is from a domain leading peer-reviewed journal.
+
+4. (parker2014atypicalproteinkinase pages 12-14): Peter J. Parker, Verline Justilien, Philippe Riou, Mark Linch, and Alan P. Fields. Atypical protein kinase cι as a human oncogene and therapeutic target. Biochemical Pharmacology, 88:1-11, Mar 2014. URL: https://doi.org/10.1016/j.bcp.2013.10.023, doi:10.1016/j.bcp.2013.10.023. This article has 115 citations and is from a domain leading peer-reviewed journal.
+
+5. (parker2014atypicalproteinkinase pages 2-4): Peter J. Parker, Verline Justilien, Philippe Riou, Mark Linch, and Alan P. Fields. Atypical protein kinase cι as a human oncogene and therapeutic target. Biochemical Pharmacology, 88:1-11, Mar 2014. URL: https://doi.org/10.1016/j.bcp.2013.10.023, doi:10.1016/j.bcp.2013.10.023. This article has 115 citations and is from a domain leading peer-reviewed journal.
+
+6. (parker2014atypicalproteinkinase pages 5-7): Peter J. Parker, Verline Justilien, Philippe Riou, Mark Linch, and Alan P. Fields. Atypical protein kinase cι as a human oncogene and therapeutic target. Biochemical Pharmacology, 88:1-11, Mar 2014. URL: https://doi.org/10.1016/j.bcp.2013.10.023, doi:10.1016/j.bcp.2013.10.023. This article has 115 citations and is from a domain leading peer-reviewed journal.
+
+7. (shah2022impactofdeleterious pages 1-2): Hania Shah, Khushbukhat Khan, Naila Khan, Y. Badshah, N. Ashraf, and M. Shabbir. Impact of deleterious missense prkci variants on structural and functional dynamics of protein. Scientific Reports, Mar 2022. URL: https://doi.org/10.1038/s41598-022-07526-4, doi:10.1038/s41598-022-07526-4. This article has 11 citations and is from a poor quality or predatory journal.
+
+8. (fields2008proteinkinasec pages 1-2): Alan P. Fields and Nicole R. Murray. Protein kinase c isozymes as therapeutic targets for treatment of human cancers. Advances in Enzyme Regulation, 48:166-178, Jan 2008. URL: https://doi.org/10.1016/j.advenzreg.2007.11.014, doi:10.1016/j.advenzreg.2007.11.014. This article has 42 citations.
+
+9. (garciaconcejo2021proteinkinasec pages 1-2): Adrian Garcia-Concejo and Dan Larhammar. Protein kinase c family evolution in jawed vertebrates. Developmental Biology, 479:77-90, Nov 2021. URL: https://doi.org/10.1016/j.ydbio.2021.07.013, doi:10.1016/j.ydbio.2021.07.013. This article has 11 citations and is from a peer-reviewed journal.
+
+10. (messerschmidt2005crystalstructureof pages 11-13): Albrecht Messerschmidt, Sofia Macieira, Milko Velarde, Mathias Bädeker, Christian Benda, Anja Jestel, Hans Brandstetter, Torsten Neuefeind, and Michael Blaesse. Crystal structure of the catalytic domain of human atypical protein kinase c-iota reveals interaction mode of phosphorylation site in turn motif. Journal of molecular biology, 352 4:918-31, Sep 2005. URL: https://doi.org/10.1016/j.jmb.2005.07.060, doi:10.1016/j.jmb.2005.07.060. This article has 123 citations and is from a domain leading peer-reviewed journal.
+
+11. (messerschmidt2005crystalstructureof pages 14-14): Albrecht Messerschmidt, Sofia Macieira, Milko Velarde, Mathias Bädeker, Christian Benda, Anja Jestel, Hans Brandstetter, Torsten Neuefeind, and Michael Blaesse. Crystal structure of the catalytic domain of human atypical protein kinase c-iota reveals interaction mode of phosphorylation site in turn motif. Journal of molecular biology, 352 4:918-31, Sep 2005. URL: https://doi.org/10.1016/j.jmb.2005.07.060, doi:10.1016/j.jmb.2005.07.060. This article has 123 citations and is from a domain leading peer-reviewed journal.
+
+12. (newton2018proteinkinaseca pages 17-21): A. Newton. Protein kinase c as a tumor suppressor. Seminars in cancer biology, 48:18-26, May 2018. URL: https://doi.org/10.1016/j.semcancer.2017.04.017, doi:10.1016/j.semcancer.2017.04.017. This article has 109 citations and is from a peer-reviewed journal.
+
+13. (newton2018proteinkinaseca pages 25-28): A. Newton. Protein kinase c as a tumor suppressor. Seminars in cancer biology, 48:18-26, May 2018. URL: https://doi.org/10.1016/j.semcancer.2017.04.017, doi:10.1016/j.semcancer.2017.04.017. This article has 109 citations and is from a peer-reviewed journal.
+
+14. (parker2014atypicalproteinkinase pages 4-5): Peter J. Parker, Verline Justilien, Philippe Riou, Mark Linch, and Alan P. Fields. Atypical protein kinase cι as a human oncogene and therapeutic target. Biochemical Pharmacology, 88:1-11, Mar 2014. URL: https://doi.org/10.1016/j.bcp.2013.10.023, doi:10.1016/j.bcp.2013.10.023. This article has 115 citations and is from a domain leading peer-reviewed journal.
+
+15. (parker2014atypicalproteinkinase pages 7-8): Peter J. Parker, Verline Justilien, Philippe Riou, Mark Linch, and Alan P. Fields. Atypical protein kinase cι as a human oncogene and therapeutic target. Biochemical Pharmacology, 88:1-11, Mar 2014. URL: https://doi.org/10.1016/j.bcp.2013.10.023, doi:10.1016/j.bcp.2013.10.023. This article has 115 citations and is from a domain leading peer-reviewed journal.
+
+16. (takimura2010structuresofthe pages 1-2): T. Takimura, K. Kamata, K. Fukasawa, Hirokazu Ohsawa, Hideya Komatani, T. Yoshizumi, Ikuko Takahashi, H. Kotani, and Y. Iwasawa. Structures of the pkc-iota kinase domain in its atp-bound and apo forms reveal defined structures of residues 533-551 in the c-terminal tail and their roles in atp binding. Acta crystallographica. Section D, Biological crystallography, 66 Pt 5:577-83, May 2010. URL: https://doi.org/10.1107/s0907444910005639, doi:10.1107/s0907444910005639. This article has 49 citations.
+
+17. (uhalte2012invivoconditions pages 1-2): Elena Cibrián Uhalte, Marieluise Kirchner, Nicole Hellwig, Jasmina J. Allen, Stefan Donat, Kevan M. Shokat, Matthias Selbach, and Salim Abdelilah-Seyfried. In vivo conditions to identify prkci phosphorylation targets using the analog-sensitive kinase method in zebrafish. PLoS ONE, 7:e40000, Jun 2012. URL: https://doi.org/10.1371/journal.pone.0040000, doi:10.1371/journal.pone.0040000. This article has 16 citations and is from a peer-reviewed journal.

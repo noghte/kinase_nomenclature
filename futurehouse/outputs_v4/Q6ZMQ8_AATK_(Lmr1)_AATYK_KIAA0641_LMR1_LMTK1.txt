@@ -1,0 +1,88 @@
+## Phylogeny  
+Human LMTK1 (UniProt Q6ZMQ8) defines the Lemur Tail Kinase sub-family that also comprises LMTK2 and LMTK3 (larose2024thelemurtail pages 2-4).  
+Orthologous genes have been reported in mouse (Lmtk1a/Lmtk1b), rat, chicken, zebrafish, Drosophila and C. elegans, indicating conservation from vertebrates to invertebrates (wei2020isoformdependentsubcellularlocalization pages 22-23).  
+Within the human kinome, AATK/LMTK1 is placed in the tyrosine-kinase–related branch (“Lemur Tail Kinase family”) as catalogued by the comprehensive kinome analysis of Manning et al. (manning2002theproteinkinase pages 3-3).  
+
+## Reaction Catalyzed  
+ATP + protein L-Ser/Thr → ADP + protein O-phospho-L-Ser/Thr + H⁺ (woods2022epigeneticallysilencedapoptosisassociated pages 9-10).  
+
+## Cofactor Requirements  
+No peer-reviewed biochemical study has yet quantified divalent-cation dependence; cofactor requirement therefore remains experimentally undetermined (wei2020isoformdependentsubcellularlocalization pages 11-12).  
+
+## Substrate Specificity  
+A global consensus phosphorylation motif for LMTK1 has not been defined; iPTMnet contains no annotated substrates (hamoud2024illuminatingthedark pages 5-7).  
+Johnson 2023 serine/threonine kinome atlas did not report an LMTK1 motif (ferrari2021lemurtyrosinekinases pages 3-5).  
+Experimentally validated substrate: TP53 is phosphorylated on serine/threonine residues after UV stress in multiple cancer cell lines (woods2022epigeneticallysilencedapoptosisassociated pages 9-10).  
+
+## Structure  
+Domain organisation (isoform LMTK1B):  
+– N-terminal signal peptide followed by two transmembrane helices (~residues 1-60) anchoring the kinase to membranes (larose2024thelemurtail pages 4-5).  
+– Protein kinase domain (~residues 60-360) containing the catalytic Lys within the β3-strand (Lys131-139 region) and an HRD motif with catalytic Asp263; Asp263→Val abolishes activity (ferrari2021lemurtyrosinekinases pages 3-5, wei2020isoformdependentsubcellularlocalization pages 27-28).  
+– DFG motif at the start of the activation loop and a conserved C-helix complete the canonical kinase core (larose2024thelemurtail pages 2-4).  
+– A proline-rich C-terminal tail (~1000 aa) with multiple PxxP motifs provides docking sites for SH3-domain proteins (larose2024thelemurtail pages 4-5).  
+
+Isoform LMTK1A lacks the transmembrane segment and attaches to recycling endosomes via palmitoylation of Cys4/Cys6/Cys7 (wei2020isoformdependentsubcellularlocalization pages 27-28).  
+No crystallographic structure is available; an AlphaFold2 model (AF-Q6ZMQ8) captures an active-state kinase fold with correctly positioned activation loop and catalytic motifs (faezov2023alphafold2modelsof pages 14-16).  
+
+## Regulation  
+Phosphorylation  
+– Cdk5/p35 phosphorylates Ser34, suppressing tyrosine phosphorylation of LMTK1 and modifying growth-cone localisation (tsutsumi2010phosphorylationofaatyk1 pages 8-9).  
+– Cdk5-dependent phosphorylation further regulates LMTK1 control of Rab11-positive recycling endosomes during neuronal morphogenesis (takahashi2020hyperactiveandimpulsive pages 12-12).  
+Autophosphorylation  
+– Weak but detectable autophosphorylation has been observed in vitro (hisanaga2020lmtk1anovel pages 2-3).  
+Lipidation  
+– Palmitoylation of Cys4/Cys6/Cys7 is essential for LMTK1A endosomal targeting (wei2020isoformdependentsubcellularlocalization pages 27-28).  
+Transcriptional/Post-transcriptional control  
+– Intronic microRNA-338 modulates AATK mRNA abundance during neuronal differentiation (hisanaga2020lmtk1anovel pages 2-3).  
+Epigenetic regulation  
+– Promoter hypermethylation leads to silencing of AATK in several cancers (woods2022epigeneticallysilencedapoptosisassociated pages 11-12).  
+
+## Function  
+Expression  
+High mRNA and protein enrichment in brain tissue is documented by HPA and GTEx datasets, with uniform distribution across multiple brain regions (hamoud2024illuminatingthedark pages 5-7, larose2024thelemurtail pages 4-5).  
+
+Interactors and signalling modules  
+– Direct binding to Cdk5/p35 couples LMTK1 to the neuronal Cdk5 pathway (tsutsumi2010phosphorylationofaatyk1 pages 8-9).  
+– Complex formation with PP1Cα, SPAK, Src, and Rab-GAPs TBC1D9B/TBC1D11 situates LMTK1 within endosomal-trafficking networks (larose2024thelemurtail pages 4-5).  
+– The LMTK1–TBC1D9B–Rab11A cascade restricts Rab11-dependent vesicle motility, thereby limiting axon elongation, dendritic branching and spine density (wei2020isoformdependentsubcellularlocalization pages 23-24).  
+– Phosphorylation of TP53 links LMTK1 to DNA-damage response pathways and cell-cycle control in non-neuronal contexts (woods2022epigeneticallysilencedapoptosisassociated pages 9-10).  
+
+Physiological roles  
+Knockout mice exhibit increased axon outgrowth, elevated spine number and hyperactive/impulsive behaviour, demonstrating a role in neural-circuit maturation (takahashi2020hyperactiveandimpulsive pages 12-12).  
+
+## Other Comments  
+Disease associations  
+– Epigenetic silencing of AATK correlates with reduced TP53 activation and radio-resistance in lung, melanoma and pancreatic cancers (woods2022epigeneticallysilencedapoptosisassociated pages 11-12).  
+– Behavioural phenotypes in Lmtk1-null mice resemble attention-deficit/hyperactivity disorder traits (takahashi2020hyperactiveandimpulsive pages 12-12).
+
+References
+
+1. (hamoud2024illuminatingthedark pages 5-7): Abdul-rizaq Hamoud, Khaled Alganem, Sean Hanna, Michael Morran, Nicholas D. Henkel, A. Imami, William Ryan, Smita Sahay, Priyanka Pulvender, Austin Kunch, Taylen O. Arvay, Jarek Meller, Rammohan Shukla, Sinead M O'Donovan, and Robert Mccullumsmith. Illuminating the dark kinome: utilizing multiplex peptide activity arrays to functionally annotate understudied kinases. Cell Communication and Signaling : CCS, Oct 2024. URL: https://doi.org/10.1186/s12964-024-01868-4, doi:10.1186/s12964-024-01868-4. This article has 1 citations.
+
+2. (larose2024thelemurtail pages 2-4): Angelique Larose, Christopher C. J. Miller, and Gábor M. Mórotz. The lemur tail kinase family in neuronal function and disfunction in neurodegenerative diseases. Cellular and Molecular Life Sciences, Nov 2024. URL: https://doi.org/10.1007/s00018-024-05480-0, doi:10.1007/s00018-024-05480-0. This article has 1 citations and is from a domain leading peer-reviewed journal.
+
+3. (larose2024thelemurtail pages 4-5): Angelique Larose, Christopher C. J. Miller, and Gábor M. Mórotz. The lemur tail kinase family in neuronal function and disfunction in neurodegenerative diseases. Cellular and Molecular Life Sciences, Nov 2024. URL: https://doi.org/10.1007/s00018-024-05480-0, doi:10.1007/s00018-024-05480-0. This article has 1 citations and is from a domain leading peer-reviewed journal.
+
+4. (takahashi2020hyperactiveandimpulsive pages 12-12): Miyuki Takahashi, Arika Sugiyama, Ran Wei, Shizuka Kobayashi, K. Fukuda, Hironori Nishino, Roka Takahashi, Koji Tsutsumi, I. Kita, K. Ando, T. Manabe, H. Kamiguchi, M. Tomomura, and S. Hisanaga. Hyperactive and impulsive behaviors of lmtk1 knockout mice. Scientific Reports, Sep 2020. URL: https://doi.org/10.1038/s41598-020-72304-z, doi:10.1038/s41598-020-72304-z. This article has 9 citations and is from a poor quality or predatory journal.
+
+5. (wei2020isoformdependentsubcellularlocalization pages 23-24): Ran Wei, Arika Sugiyama, Yuta Sato, M. Nozumi, Hironori Nishino, Miyuki Takahashi, Taro Saito, K. Ando, M. Fukuda, M. Tomomura, M. Igarashi, and S. Hisanaga. Isoform-dependent subcellular localization of lmtk1a and lmtk1b, and their roles in axon outgrowth and spine formation. Journal of biochemistry, Feb 2020. URL: https://doi.org/10.1093/jb/mvaa019, doi:10.1093/jb/mvaa019. This article has 7 citations and is from a peer-reviewed journal.
+
+6. (woods2022epigeneticallysilencedapoptosisassociated pages 9-10): Michelle L. Woods, A. Weiss, A. Sokol, Johannes Graumann, T. Boettger, Antje M. Richter, R. Schermuly, and R. Dammann. Epigenetically silenced apoptosis-associated tyrosine kinase (aatk) facilitates a decreased expression of cyclin d1 and wee1, phosphorylates tp53 and reduces cell proliferation in a kinase-dependent manner. Cancer Gene Therapy, 29:1975-1987, Jul 2022. URL: https://doi.org/10.1038/s41417-022-00513-x, doi:10.1038/s41417-022-00513-x. This article has 16 citations and is from a peer-reviewed journal.
+
+7. (faezov2023alphafold2modelsof pages 14-16): Bulat Faezov and Roland L. Dunbrack. Alphafold2 models of the active form of all 437 catalytically competent human protein kinase domains. BioRxiv, Jul 2023. URL: https://doi.org/10.1101/2023.07.21.550125, doi:10.1101/2023.07.21.550125. This article has 29 citations.
+
+8. (ferrari2021lemurtyrosinekinases pages 3-5): Elena Ferrari, Valeria Naponelli, and Saverio Bettuzzi. Lemur tyrosine kinases and prostate cancer: a literature review. International Journal of Molecular Sciences, 22:5453, May 2021. URL: https://doi.org/10.3390/ijms22115453, doi:10.3390/ijms22115453. This article has 5 citations and is from a peer-reviewed journal.
+
+9. (hisanaga2020lmtk1anovel pages 2-3): Shin-ichi Hisanaga, Ran Wei, Anni Huo, and Mineko Tomomura. Lmtk1, a novel modulator of endosomal trafficking in neurons. Frontiers in Molecular Neuroscience, Jun 2020. URL: https://doi.org/10.3389/fnmol.2020.00112, doi:10.3389/fnmol.2020.00112. This article has 11 citations and is from a peer-reviewed journal.
+
+10. (wei2020isoformdependentsubcellularlocalization pages 11-12): Ran Wei, Arika Sugiyama, Yuta Sato, M. Nozumi, Hironori Nishino, Miyuki Takahashi, Taro Saito, K. Ando, M. Fukuda, M. Tomomura, M. Igarashi, and S. Hisanaga. Isoform-dependent subcellular localization of lmtk1a and lmtk1b, and their roles in axon outgrowth and spine formation. Journal of biochemistry, Feb 2020. URL: https://doi.org/10.1093/jb/mvaa019, doi:10.1093/jb/mvaa019. This article has 7 citations and is from a peer-reviewed journal.
+
+11. (wei2020isoformdependentsubcellularlocalization pages 22-23): Ran Wei, Arika Sugiyama, Yuta Sato, M. Nozumi, Hironori Nishino, Miyuki Takahashi, Taro Saito, K. Ando, M. Fukuda, M. Tomomura, M. Igarashi, and S. Hisanaga. Isoform-dependent subcellular localization of lmtk1a and lmtk1b, and their roles in axon outgrowth and spine formation. Journal of biochemistry, Feb 2020. URL: https://doi.org/10.1093/jb/mvaa019, doi:10.1093/jb/mvaa019. This article has 7 citations and is from a peer-reviewed journal.
+
+12. (woods2022epigeneticallysilencedapoptosisassociated pages 11-12): Michelle L. Woods, A. Weiss, A. Sokol, Johannes Graumann, T. Boettger, Antje M. Richter, R. Schermuly, and R. Dammann. Epigenetically silenced apoptosis-associated tyrosine kinase (aatk) facilitates a decreased expression of cyclin d1 and wee1, phosphorylates tp53 and reduces cell proliferation in a kinase-dependent manner. Cancer Gene Therapy, 29:1975-1987, Jul 2022. URL: https://doi.org/10.1038/s41417-022-00513-x, doi:10.1038/s41417-022-00513-x. This article has 16 citations and is from a peer-reviewed journal.
+
+13. (manning2002theproteinkinase pages 3-3): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+14. (tsutsumi2010phosphorylationofaatyk1 pages 8-9): Koji Tsutsumi, Tetsuya Takano, R. Endo, M. Fukuda, T. Ohshima, M. Tomomura, and S. Hisanaga. Phosphorylation of aatyk1 by cdk5 suppresses its tyrosine phosphorylation. PLoS ONE, Apr 2010. URL: https://doi.org/10.1371/journal.pone.0010260, doi:10.1371/journal.pone.0010260. This article has 27 citations and is from a peer-reviewed journal.
+
+15. (wei2020isoformdependentsubcellularlocalization pages 27-28): Ran Wei, Arika Sugiyama, Yuta Sato, M. Nozumi, Hironori Nishino, Miyuki Takahashi, Taro Saito, K. Ando, M. Fukuda, M. Tomomura, M. Igarashi, and S. Hisanaga. Isoform-dependent subcellular localization of lmtk1a and lmtk1b, and their roles in axon outgrowth and spine formation. Journal of biochemistry, Feb 2020. URL: https://doi.org/10.1093/jb/mvaa019, doi:10.1093/jb/mvaa019. This article has 7 citations and is from a peer-reviewed journal.

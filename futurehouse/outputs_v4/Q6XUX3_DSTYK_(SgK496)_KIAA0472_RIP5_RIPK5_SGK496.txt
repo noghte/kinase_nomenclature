@@ -1,0 +1,73 @@
+Protein/Gene: Dual serine/threonine and tyrosine protein kinase  
+HGNC symbol: DSTYK UniProt: Q6XUX3  
+Alternative names: Dusty protein kinase; Receptor-interacting serine/threonine-protein kinase 5 (RIP5/RIPK5); Sugen kinase 496; SGK496; KIAA0472 (peng2006dustyproteinkinases pages 1-2)
+
+## Phylogeny  
+Single-copy kinase present in Homo sapiens, Mus musculus, Rattus norvegicus, Gallus gallus and Danio rerio, indicating broad conservation across vertebrates (peng2006dustyproteinkinases pages 1-2, unknownauthors2014dstykkinasedomain pages 7-7, sun2020dstykmutationleads pages 3-4).  
+Kinase-domain homology assigns DSTYK to the receptor-interacting protein kinase (RIPK) family within the tyrosine kinase-like (TKL) branch of the human kinome (dong2025dstykphosphorylatessting pages 1-2).
+
+## Reaction Catalyzed  
+Protein-L-Ser/Thr/Tyr + ATP ⇌ Protein-L-Ser/Thr/Tyr-phosphate + ADP + H⁺ (peng2006dustyproteinkinases pages 1-2).
+
+## Cofactor Requirements  
+No divalent metal ion requirement has been reported in available experimental literature (dong2025dstykphosphorylatessting pages 2-3).
+
+## Substrate Specificity  
+Direct, site-specific phosphorylation of STING at Ser366 (dong2025dstykphosphorylatessting pages 5-7).  
+Phosphorylates β-catenin at unidentified residues in vitro (zhong2021lossofdstyk pages 4-7).  
+A global consensus phosphorylation motif has not been defined.
+
+## Structure  
+Domain organisation: two N-terminal non-catalytic regions (NCR1 and NCR2) enriched in cysteines and docking motifs, followed by a divergent eukaryotic protein kinase catalytic domain spanning residues 652-906 (peng2006dustyproteinkinases pages 1-2, sun2020dstykmutationleads pages 3-4).  
+No crystallographic structures are available; AlphaFold or comparable models were not reported in current sources (dong2025dstykphosphorylatessting pages 2-3).  
+Classical catalytic motifs (VAIK, HRD, DFG) are inferred by homology but have not been experimentally resolved.  
+Kinase-dead mutants (K681A, D777A) retain STING binding and endosomal localisation, indicating that catalytic activity is dispensable for docking yet essential for phosphorylation (dong2025dstykphosphorylatessting pages 5-7).
+
+## Regulation  
+TBK1-mediated phosphorylation of DSTYK enhances its capacity to phosphorylate STING after the latter reaches late endosomes (dong2025dstykphosphorylatessting pages 1-2).  
+Electrophoretic mobility shifts of endogenous DSTYK suggest additional, unmapped post-translational modifications (unknownauthors2014dstykkinasedomain pages 5-7).  
+Subcellular localisation: constitutively associates with Rab7/LAMP1-positive late endosomes; localisation is independent of kinase activity (dong2025dstykphosphorylatessting pages 5-7).  
+Allosteric control: physical interaction with STING is maintained in kinase-inactive mutants, separating binding from catalytic activation (dong2025dstykphosphorylatessting pages 5-7).
+
+## Function  
+Expression: high in innate immune cells (NK cells, dendritic cells, macrophages, neutrophils) and in multiple human lines including HEK293, HeLa, THP-1, A549, HT1080 and Hep-G2 (dong2025dstykphosphorylatessting pages 16-24).  
+Innate immunity: at late endosomes DSTYK phosphorylates STING-Ser366, facilitating downstream phosphorylation of TBK1, IRF3, NF-κB p65 and IκBα, thereby driving IFNB, ISG and pro-inflammatory cytokine expression during DNA-virus infection (dong2025dstykphosphorylatessting pages 2-3, dong2025dstykphosphorylatessting pages 16-24).  
+Cell death: over-expression triggers both caspase-dependent and caspase-independent death pathways (dong2025dstykphosphorylatessting pages 1-2).  
+Wnt signalling and metabolism: phosphorylates β-catenin, lowers β-catenin accumulation and represses Axin2, c-Myc, cyclin D1 and LDHA, thereby limiting lung adenocarcinoma growth and stemness (zhong2021lossofdstyk pages 4-7).  
+ERK pathway: a somatic Met296Ile mutation augments ERK1/2 activity and enhances invasiveness in solitary fibrous tumour/hemangiopericytoma (tang2019adstykmutation pages 4-6).  
+
+## Other Comments  
+Disease associations:  
+• Heterozygous splice-site and missense variants cause autosomal dominant congenital anomalies of the kidney and urinary tract (CAKUT) (sannacherchi2013mutationsindstyk pages 4-5).  
+• Missense variant c.271C>A (Leu91Met) linked to hereditary spastic paraparesis with lower urinary-tract dysfunction (vidic2021exomesequencingimplicates pages 2-4).  
+• Loss-of-function alleles in zebrafish generate scoliosis-like vertebral malformations via mTORC1/TFEB dysregulation (sun2020dstykmutationleads pages 3-4).  
+• Kinase-domain ablation in mice impairs spatial learning and memory without gross neurodevelopmental defects (unknownauthors2014dstykkinasedomain pages 5-7).  
+• Cancer: Met296Ile somatic mutation drives intraspinal dissemination of solitary fibrous tumour/hemangiopericytoma (tang2019adstykmutation pages 4-6); reduced expression suppresses lung adenocarcinoma progression via β-catenin regulation (zhong2021lossofdstyk pages 4-7).  
+
+No specific small-molecule or biologic inhibitors have been described in the cited literature.
+
+References
+
+1. (dong2025dstykphosphorylatessting pages 2-3): Hao Dong, Heng Zhang, Pu Song, Yuan Hu, and Danying Chen. Dstyk phosphorylates sting at late endosomes to promote sting signaling. EMBO Reports, 26:1620-1646, Feb 2025. URL: https://doi.org/10.1038/s44319-025-00394-9, doi:10.1038/s44319-025-00394-9. This article has 0 citations and is from a highest quality peer-reviewed journal.
+
+2. (dong2025dstykphosphorylatessting pages 1-2): Hao Dong, Heng Zhang, Pu Song, Yuan Hu, and Danying Chen. Dstyk phosphorylates sting at late endosomes to promote sting signaling. EMBO Reports, 26:1620-1646, Feb 2025. URL: https://doi.org/10.1038/s44319-025-00394-9, doi:10.1038/s44319-025-00394-9. This article has 0 citations and is from a highest quality peer-reviewed journal.
+
+3. (dong2025dstykphosphorylatessting pages 16-24): Hao Dong, Heng Zhang, Pu Song, Yuan Hu, and Danying Chen. Dstyk phosphorylates sting at late endosomes to promote sting signaling. EMBO Reports, 26:1620-1646, Feb 2025. URL: https://doi.org/10.1038/s44319-025-00394-9, doi:10.1038/s44319-025-00394-9. This article has 0 citations and is from a highest quality peer-reviewed journal.
+
+4. (dong2025dstykphosphorylatessting pages 5-7): Hao Dong, Heng Zhang, Pu Song, Yuan Hu, and Danying Chen. Dstyk phosphorylates sting at late endosomes to promote sting signaling. EMBO Reports, 26:1620-1646, Feb 2025. URL: https://doi.org/10.1038/s44319-025-00394-9, doi:10.1038/s44319-025-00394-9. This article has 0 citations and is from a highest quality peer-reviewed journal.
+
+5. (peng2006dustyproteinkinases pages 1-2): Jianbin Peng, Wenji Dong, Ying Chen, R. Mo, Jan-Fang Cheng, C. Hui, N. Mohandas, and Cheng-Han Huang. Dusty protein kinases: primary structure, gene evolution, tissue specific expression and unique features of the catalytic domain. Biochimica et biophysica acta, 1759 11-12:562-72, Nov 2006. URL: https://doi.org/10.1016/j.bbaexp.2006.10.004, doi:10.1016/j.bbaexp.2006.10.004. This article has 19 citations.
+
+6. (unknownauthors2014dstykkinasedomain pages 5-7): DSTYK kinase domain ablation impaired the mice capabilities of learning and memory in water maze test
+
+7. (unknownauthors2014dstykkinasedomain pages 7-7): DSTYK kinase domain ablation impaired the mice capabilities of learning and memory in water maze test
+
+8. (vidic2021exomesequencingimplicates pages 2-4): Clara Vidic, Marcin Zaniew, Szymon Jurga, Holger Thiele, Heiko Reutter, and Alina C. Hilger. Exome sequencing implicates a novel heterozygous missense variant in dstyk in autosomal dominant lower urinary tract dysfunction and mild hereditary spastic paraparesis. Molecular and Cellular Pediatrics, Oct 2021. URL: https://doi.org/10.1186/s40348-021-00122-y, doi:10.1186/s40348-021-00122-y. This article has 2 citations.
+
+9. (sannacherchi2013mutationsindstyk pages 4-5): S. Sanna-Cherchi, R. Sampogna, N. Papeta, K. E. Burgess, S. Nees, Brittany J. Perry, Murim Choi, M. Bodria, Yan Liu, P. Weng, V. Lozanovski, M. Verbitsky, Francesca Lugani, Roel Sterken, N. Paragas, G. Caridi, A. Carrea, M. Dagnino, A. Materna-Kiryluk, G. Santamaria, C. Murtas, N. Ristoska-Bojkovska, C. Izzi, Nilgun Kacak, Beatrice Bianco, Stefania Giberti, M. Gigante, G. Piaggio, L. Gesualdo, D. Vukic, K. Vukojević, M. Saraga-Babic, M. Saraga, Z. Gucev, L. Allegri, A. Latos-Bieleńska, D. Casu, M. State, F. Scolari, R. Ravazzolo, K. Kiryluk, Q. Al-Awqati, V. D’Agati, I. Drummond, V. Tasic, R. Lifton, G. Ghiggeri, and A. Gharavi. Mutations in <i>dstyk</i> and dominant urinary tract malformations. New England Journal of Medicine, 369:621-629, Aug 2013. URL: https://doi.org/10.1056/nejmoa1214479, doi:10.1056/nejmoa1214479. This article has 160 citations and is from a highest quality peer-reviewed journal.
+
+10. (sun2020dstykmutationleads pages 3-4): Xianding Sun, Yang Zhou, Ruobin Zhang, Zuqiang Wang, Meng Xu, Dali Zhang, Junlan Huang, Fengtao Luo, Fangfang Li, Zhenhong Ni, Siru Zhou, Hangang Chen, Shuai Chen, Liang Chen, Xiaolan Du, Bo Chen, Haiyang Huang, Peng Liu, Liangjun Yin, Juhui Qiu, Di Chen, Chuxia Deng, Yangli Xie, Lingfei Luo, and Lin Chen. Dstyk mutation leads to congenital scoliosis-like vertebral malformations in zebrafish via dysregulated mtorc1/tfeb pathway. Nature Communications, Jan 2020. URL: https://doi.org/10.1038/s41467-019-14169-z, doi:10.1038/s41467-019-14169-z. This article has 47 citations and is from a highest quality peer-reviewed journal.
+
+11. (tang2019adstykmutation pages 4-6): Guodong Tang, Yufei Yang, Li Shang, Fu Jun, and Qing Liu. A dstyk mutation activates erk1/2 signaling to promote intraspinal dissemination in a case of solitary fibrous tumor/hemangiopericytoma. Laboratory Investigation, pages 1-14, Jun 2019. URL: https://doi.org/10.1038/s41374-019-0274-1, doi:10.1038/s41374-019-0274-1. This article has 13 citations and is from a peer-reviewed journal.
+
+12. (zhong2021lossofdstyk pages 4-7): Chenxi Zhong, Ming Chen, Yu Chen, F. Yao, and W. Fang. Loss of dstyk activates wnt/β-catenin signaling and glycolysis in lung adenocarcinoma. Cell Death & Disease, Dec 2021. URL: https://doi.org/10.1038/s41419-021-04385-1, doi:10.1038/s41419-021-04385-1. This article has 27 citations.

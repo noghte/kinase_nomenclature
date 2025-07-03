@@ -1,0 +1,93 @@
+## Phylogeny  
+Human RIOK3 is an atypical Ser/Thr kinase belonging to the RIO family, Rio3 sub-family, positioned outside the conventional ePK groups in the Manning kinome tree (mammalian “other atypical kinases”) (manning2002theproteinkinase pages 3-3).  
+Orthologs are detected only in multicellular eukaryotes and include Drosophila RIOK3, Caenorhabditis and Strongyloides RIOK3, Xenopus, Danio rerio and Mus musculus RIOK3; unicellular models possess only Rio1/Rio2 paralogs (baumas2012humanriok3is pages 1-2, yuan2014exploringfeaturesand pages 1-2).  
+Within the kinase superfamily RIOK3 clusters with Rio1 and Rio2 but bears a unique N-terminal helical extension that defines the Rio3 lineage (larondeleblanc2005theriokinases pages 4-6).  
+
+## Reaction Catalyzed  
+Protein-L-Ser/Thr + ATP → Protein-L-Ser/Thr-phosphate + ADP + H⁺ (larondeleblanc2005theriokinases pages 4-6).  
+
+## Cofactor Requirements  
+Catalysis is strictly divalent-cation dependent; Mg²⁺ is essential and Mn²⁺ can substitute (baumas2012humanriok3is pages 13-13, ferreiracerca2014dominantrio1kinaseatpase pages 3-4).  
+
+## Substrate Specificity  
+No consensus phosphorylation motif or positional scoring matrix for RIOK3 is currently available; the comprehensive Ser/Thr kinome atlas did not report substrate preferences for this kinase (johnson2023anatlasof pages 3-4, johnson2023anatlasof pages 4-4).  
+
+## Structure  
+Domain organization  
+• N-terminal Rio3-specific α-helical domain (~200 aa) required for functions unique to metazoan RIOKs (larondeleblanc2005theriokinases pages 6-7).  
+• Central RIO kinase domain: reduced ePK fold with N-lobe five-stranded β-sheet, C-helix, hinge, and C-lobe three α-helices plus β-hairpin; lacks classical activation loop (larondeleblanc2005theriokinases pages 6-7).  
+• C-terminal lysine-rich segment corresponding to truncated ePK subdomains X–XI (larondeleblanc2005theriokinases pages 9-10).  
+
+Catalytic motifs  
+– P-loop (STGKES), catalytic loop Asp/Asn, and metal-binding loop Asp are invariant; Asp in m-loop forms transient phosphoaspartate intermediate (ferreiracerca2014dominantrio1kinaseatpase pages 4-5).  
+– Active site adopts P-loop ATPase geometry; two Mg²⁺ ions stabilize α/β and β/γ phosphates, as shown for Rio1/2 homologs, and these features are conserved in RIOK3 (ferreiracerca2014dominantrio1kinaseatpase pages 5-6).  
+
+Unique elements  
+– Flexible loop between β3 and αC is sub-family specific and often disordered, proposed to modulate substrate or particle binding (larondeleblanc2005theriokinases pages 7-9).  
+No experimentally determined RIOK3 crystal structure is yet published; homology models rely on Rio1/Rio2 templates exhibiting “active” and “inactive” conformational states (ferreiracerca2014dominantrio1kinaseatpase pages 4-5).  
+
+## Regulation  
+Post-translational modifications  
+– Autophosphorylation on the catalytic Asp generates a phosphoaspartate intermediate, coupling ATP hydrolysis to conformational cycling (ferreiracerca2014dominantrio1kinaseatpase pages 5-6).  
+– Additional PTMs on RIOK3 itself are not yet defined; however, RIOK3 regulates TRIM40-mediated K27/K48 ubiquitination of RIG-I/MDA5, thereby influencing downstream signaling (shen2021riok3inhibitsthe pages 1-3).  
+
+Conformational/allosteric control  
+– Metal ion occupancy and hinge/β-hairpin movements toggle active vs. inactive states in RIO family structures, a mechanism inferred for RIOK3 (ferreiracerca2014dominantrio1kinaseatpase pages 4-5).  
+
+## Function  
+Expression and cellular context  
+Highly expressed in erythroid, lymphoid and myeloid lineages; associates with cytoplasmic pre-40S ribosomal particles (feng2014riok3isan pages 9-10, baumas2012humanriok3is pages 1-2).  
+
+Innate immunity  
+• Acts downstream of TBK1 and upstream of IRF3; bridges TBK1–IRF3 interaction enabling IRF3 phosphorylation and type I IFN-β transcription (feng2014riok3isan pages 6-7).  
+• Phosphorylates IFIH1 (MDA5) at Ser828 to dampen filament assembly and signaling (Protein information section; primary literature not in supplied context).  
+• Facilitates TRIM40-dependent degradation of RIG-I/MDA5, serving as negative feedback to limit excessive IFN responses (shen2021riok3inhibitsthe pages 1-3).  
+
+Ribosome biogenesis  
+Participates in late cytoplasmic maturation of pre-40S ribosomal subunits, contributing to 21S→18S rRNA processing (baumas2012humanriok3is pages 1-2).  
+
+Signaling cross-talk  
+Can inhibit CASP10 isoform-7-driven NF-κB activation and has been linked to hedgehog pathway modulation (Protein information section; underlying references not provided in context).  
+
+Interacting partners  
+TBK1, IRF3, IFIH1, RIG-I, MDA5, TRIM40, and multiple pre-40S assembly factors (feng2014riok3isan pages 6-7, shen2021riok3inhibitsthe pages 1-3, baumas2012humanriok3is pages 1-2).  
+
+## Inhibitors  
+No selective small-molecule inhibitors of RIOK3 have been reported in the literature provided.  
+
+## Other Comments  
+Loss-of-function enhances resistance to RNA virus infection in mice, highlighting potential therapeutic interest in antiviral modulation (shen2021riok3inhibitsthe pages 1-3).
+
+References
+
+1. (baumas2012humanriok3is pages 1-2): Kamila Baumas, Julien Soudet, Michèle Caizergues-Ferrer, Marlène Faubladier, Yves Henry, and Annie Mougin. Human riok3 is a novel component of cytoplasmic pre-40s pre-ribosomal particles. RNA Biology, 9:162-174, Feb 2012. URL: https://doi.org/10.4161/rna.18810, doi:10.4161/rna.18810. This article has 63 citations and is from a peer-reviewed journal.
+
+2. (feng2014riok3isan pages 6-7): Jun Feng, Paul D. De Jesus, Victoria Su, Stephanie Han, Danyang Gong, Nicholas C. Wu, Yuan Tian, Xudong Li, Ting-Ting Wu, Sumit K. Chanda, and Ren Sun. Riok3 is an adaptor protein required for irf3-mediated antiviral type i interferon production. Journal of Virology, 88:7987-7997, Jul 2014. URL: https://doi.org/10.1128/jvi.00643-14, doi:10.1128/jvi.00643-14. This article has 61 citations and is from a domain leading peer-reviewed journal.
+
+3. (feng2014riok3isan pages 9-10): Jun Feng, Paul D. De Jesus, Victoria Su, Stephanie Han, Danyang Gong, Nicholas C. Wu, Yuan Tian, Xudong Li, Ting-Ting Wu, Sumit K. Chanda, and Ren Sun. Riok3 is an adaptor protein required for irf3-mediated antiviral type i interferon production. Journal of Virology, 88:7987-7997, Jul 2014. URL: https://doi.org/10.1128/jvi.00643-14, doi:10.1128/jvi.00643-14. This article has 61 citations and is from a domain leading peer-reviewed journal.
+
+4. (johnson2023anatlasof pages 3-4): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+5. (larondeleblanc2005theriokinases pages 6-7): Nicole LaRonde-LeBlanc and Alexander Wlodawer. The rio kinases: an atypical protein kinase family required for ribosome biogenesis and cell cycle progression. Biochimica et biophysica acta, 1754 1-2:14-24, Dec 2005. URL: https://doi.org/10.1016/j.bbapap.2005.07.037, doi:10.1016/j.bbapap.2005.07.037. This article has 141 citations.
+
+6. (baumas2012humanriok3is pages 13-13): Kamila Baumas, Julien Soudet, Michèle Caizergues-Ferrer, Marlène Faubladier, Yves Henry, and Annie Mougin. Human riok3 is a novel component of cytoplasmic pre-40s pre-ribosomal particles. RNA Biology, 9:162-174, Feb 2012. URL: https://doi.org/10.4161/rna.18810, doi:10.4161/rna.18810. This article has 63 citations and is from a peer-reviewed journal.
+
+7. (ferreiracerca2014dominantrio1kinaseatpase pages 3-4): Sébastien Ferreira-Cerca, I. Kiburu, Emma Thomson, N. LaRonde, and E. Hurt. Dominant rio1 kinase/atpase catalytic mutant induces trapping of late pre-40s biogenesis factors in 80s-like ribosomes. Nucleic Acids Research, 42:8635-8647, Jun 2014. URL: https://doi.org/10.1093/nar/gku542, doi:10.1093/nar/gku542. This article has 91 citations and is from a highest quality peer-reviewed journal.
+
+8. (ferreiracerca2014dominantrio1kinaseatpase pages 4-5): Sébastien Ferreira-Cerca, I. Kiburu, Emma Thomson, N. LaRonde, and E. Hurt. Dominant rio1 kinase/atpase catalytic mutant induces trapping of late pre-40s biogenesis factors in 80s-like ribosomes. Nucleic Acids Research, 42:8635-8647, Jun 2014. URL: https://doi.org/10.1093/nar/gku542, doi:10.1093/nar/gku542. This article has 91 citations and is from a highest quality peer-reviewed journal.
+
+9. (ferreiracerca2014dominantrio1kinaseatpase pages 5-6): Sébastien Ferreira-Cerca, I. Kiburu, Emma Thomson, N. LaRonde, and E. Hurt. Dominant rio1 kinase/atpase catalytic mutant induces trapping of late pre-40s biogenesis factors in 80s-like ribosomes. Nucleic Acids Research, 42:8635-8647, Jun 2014. URL: https://doi.org/10.1093/nar/gku542, doi:10.1093/nar/gku542. This article has 91 citations and is from a highest quality peer-reviewed journal.
+
+10. (johnson2023anatlasof pages 4-4): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+11. (larondeleblanc2005theriokinases pages 4-6): Nicole LaRonde-LeBlanc and Alexander Wlodawer. The rio kinases: an atypical protein kinase family required for ribosome biogenesis and cell cycle progression. Biochimica et biophysica acta, 1754 1-2:14-24, Dec 2005. URL: https://doi.org/10.1016/j.bbapap.2005.07.037, doi:10.1016/j.bbapap.2005.07.037. This article has 141 citations.
+
+12. (larondeleblanc2005theriokinases pages 7-9): Nicole LaRonde-LeBlanc and Alexander Wlodawer. The rio kinases: an atypical protein kinase family required for ribosome biogenesis and cell cycle progression. Biochimica et biophysica acta, 1754 1-2:14-24, Dec 2005. URL: https://doi.org/10.1016/j.bbapap.2005.07.037, doi:10.1016/j.bbapap.2005.07.037. This article has 141 citations.
+
+13. (larondeleblanc2005theriokinases pages 9-10): Nicole LaRonde-LeBlanc and Alexander Wlodawer. The rio kinases: an atypical protein kinase family required for ribosome biogenesis and cell cycle progression. Biochimica et biophysica acta, 1754 1-2:14-24, Dec 2005. URL: https://doi.org/10.1016/j.bbapap.2005.07.037, doi:10.1016/j.bbapap.2005.07.037. This article has 141 citations.
+
+14. (manning2002theproteinkinase pages 3-3): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+15. (yuan2014exploringfeaturesand pages 1-2): Wang Yuan, Yingying Liu, James B Lok, Jonathan D Stoltzfus, Robin B Gasser, Weiqiang Lei, Rui Fang, Junlong Zhao, and Min Hu. Exploring features and function of ss-riok-3, an enigmatic kinase gene from strongyloides stercoralis. Parasites &amp; Vectors, Dec 2014. URL: https://doi.org/10.1186/s13071-014-0561-z, doi:10.1186/s13071-014-0561-z. This article has 11 citations.
+
+16. (shen2021riok3inhibitsthe pages 1-3): Yong Shen, Kejun Tang, Dongdong Chen, Mengying Hong, F. Sun, Saisai Wang, Yuehai Ke, Tingting Wu, Ren Sun, Jingyang Qian, and Yushen Du. Riok3 inhibits the antiviral immune response by facilitating trim40-mediated rig-i and mda5 degradation. Cell reports, 35:109272-109272, Jun 2021. URL: https://doi.org/10.1016/j.celrep.2021.109272, doi:10.1016/j.celrep.2021.109272. This article has 42 citations and is from a highest quality peer-reviewed journal.

@@ -1,0 +1,89 @@
+## Phylogeny
+TRIO is an evolutionarily conserved protein with orthologs in invertebrates, including UNC-73 in *C. elegans* and D-Trio in *Drosophila* (schmidt2014functionandregulation pages 3-4). In vertebrates, TRIO has a paralog named Kalirin (schmidt2014functionandregulation pages 3-4). The kinase domains of TRIO and Kalirin form a distinct clade that clusters closely with the N-terminal kinase domains of Obscurin/Speg proteins (unknownauthors2025variantimpactprediction pages 64-69). In addition to its kinase domain, TRIO is a member of the Dbl family of Rho guanine nucleotide exchange factors (RhoGEFs) (schmidt2014functionandregulation pages 1-2).
+
+The classification of the TRIO protein kinase domain within the human kinome is inconsistent across sources. One publication places TRIO within the tyrosine kinase-like (TKL) family (debant1996themultidomainprotein pages 3-3). Another report suggests it belongs to either the TKL or atypical kinase groups (hunter2015theeukaryoticprotein pages 6-8), while a conflicting report classifies it within the CMGC or STE group (hunter2015theeukaryoticprotein pages 1-3). A separate analysis relates the kinase domain to the MLCK subgroup of the calcium/calmodulin-dependent serine/threonine kinase family (unknownauthors2025variantimpactprediction pages 44-46).
+
+
+## Reaction Catalyzed
+TRIO contains multiple enzymatic domains and catalyzes two distinct reactions. Its primary role is as a guanine nucleotide exchange factor (GEF), catalyzing the exchange of GDP for GTP on Rho family GTPases. This GEF reaction does not require ATP as a cofactor (unknownauthors2025variantimpactprediction pages 148-151, bandekar2019structureofthe pages 1-3).
+
+Vertebrate isoforms of TRIO also possess a serine/threonine protein kinase domain (debant1996themultidomainprotein pages 3-3, schmidt2014functionandregulation pages 2-3). This domain catalyzes the transfer of a gamma-phosphate group from ATP to a serine or threonine residue on a protein substrate (unknownauthors2025variantimpactprediction pages 64-69). The chemical reaction is:
+ATP + protein substrate → ADP + phosphoprotein (hunter2015theeukaryoticprotein pages 1-3).
+
+
+## Cofactor Requirements
+The catalytic activity of the TRIO serine/threonine kinase domain requires ATP as a phosphate donor (debant1996themultidomainprotein pages 3-3, unknownauthors2025variantimpactprediction pages 44-46). Consistent with most protein kinases, its activity is also dependent on divalent metal ions such as Mg²⁺ or Mn²⁺ (hunter2015theeukaryoticprotein pages 1-3, unknownauthors2025variantimpactprediction pages 64-69). The GEF activity of TRIO does not require these kinase cofactors (unknownauthors2025variantimpactprediction pages 148-151).
+
+
+## Substrate Specificity
+TRIO exhibits distinct substrate specificities for its two types of enzymatic domains.
+
+As a RhoGEF, TRIO contains two GEF domains with different specificities. The N-terminal GEF domain (GEFD1 or TrioN) activates the small GTPases Rac1 and RhoG (katrancha2017neurodevelopmentaldiseassociatedde pages 1-1, schmidt2014functionandregulation pages 2-3). The C-terminal GEF domain (GEFD2 or TrioC) specifically activates RhoA (katrancha2017neurodevelopmentaldiseassociatedde pages 1-1, schmidt2014functionandregulation pages 2-3).
+
+As a serine/threonine kinase, TRIO phosphorylates substrates such as myosin light chain and other cytoskeletal proteins *in vitro*, although its physiological substrates remain incompletely characterized (unknownauthors2025variantimpactprediction pages 44-46). One report suggests its kinase domain recognizes substrate motifs rich in basic residues surrounding the phosphorylation site (debant1996themultidomainprotein pages 3-3). The provided context from Johnson et al. (2023), a comprehensive atlas of Ser/Thr kinase specificities, does not mention the TRIO protein kinase or provide an experimentally determined substrate consensus motif for it (johnson2023anatlasof pages 1-2).
+
+
+## Structure
+TRIO is a large, multidomain protein with a molecular mass of approximately 324–330 kDa (debant1996themultidomainprotein pages 3-3, katrancha2017neurodevelopmentaldiseassociatedde pages 1-1). The N-terminal half contains a putative lipid-binding Cral/Trio (CT) domain and nine spectrin repeats (S1–S9) that form an extended, rigid spacer, while the central region containing the signaling domains adopts a more compact, globular structure (bandekar2022structuralfunctionalstudiesof pages 1-2).
+
+The domain architecture includes:
+- **Two GEF modules**: The N-terminal module (TrioN) targets Rac1/RhoG, and the C-terminal module (TrioC) targets RhoA (bandekar2022structuralfunctionalstudiesof pages 1-2). Each module is a tandem of a catalytic Dbl homology (DH) domain and a regulatory pleckstrin homology (PH) domain (bandekar2019structureofthe pages 1-3, pengelly2016mutationsspecificto pages 5-6).
+- **A Serine/Threonine Kinase Domain**: This domain is present in vertebrate isoforms and is related to Myosin Light Chain Kinases (MLCKs) (schmidt2014functionandregulation pages 3-4, unknownauthors2025variantimpactprediction pages 44-46).
+- **Accessory Domains**: These include two Src homology 3 (SH3) motifs, an immunoglobulin (Ig)-like domain, and a Sec14 domain, which contribute to scaffolding and regulation (schmidt2014functionandregulation pages 2-3, schmidt2014functionandregulation pages 3-4, pengelly2016mutationsspecificto pages 5-6).
+
+The crystal structure of the TrioC GEF module reveals an autoinhibited conformation where the PH domain sterically occludes the RhoA binding site on the DH domain, specifically by blocking access to switch II of RhoA (bandekar2019structureofthe pages 1-3). The αN helix of the PH domain plays a critical role in stabilizing this inhibitory interface (bandekar2019structureofthe pages 1-3). This structural organization has been supported by cryo-electron microscopy and can be modeled by computational tools like AlphaFold (bandekar2022structuralfunctionalstudiesof pages 1-2, unknownauthors2025variantimpactprediction pages 148-151).
+
+
+## Regulation
+TRIO activity is controlled by both post-translational modifications and intramolecular conformational changes.
+
+TRIO is a phosphoprotein that is phosphorylated exclusively on serine residues (debant1996themultidomainprotein pages 3-3, debant1996themultidomainprotein pages 3-3). Treatment with a protein kinase C (PKC) activator increases this phosphorylation, indicating that PKC or a related kinase regulates TRIO (debant1996themultidomainprotein pages 3-3). Although phosphorylation by Src-family tyrosine kinases has been suggested to enhance GEF activity in related proteins, studies on TRIO itself have not detected tyrosine phosphorylation (schmidt2014functionandregulation pages 2-3, debant1996themultidomainprotein pages 3-3).
+
+Allosteric regulation via autoinhibition is a key mechanism. The C-terminal TrioC module is autoinhibited by an intramolecular interaction between its DH and PH domains; this inhibition is released upon the binding of activated Gαq/11 (bandekar2019structureofthe pages 1-3). The N-terminal GEF unit also adopts an autoinhibited state that requires displacement of inhibitory interactions for activation (unknownauthors2025variantimpactprediction pages 44-46). The spectrin-like repeats can also inhibit GEF activity, a process that is reversed by the binding of proteins such as DISC1 (schmidt2014functionandregulation pages 3-4). Furthermore, conserved disordered linker motifs C-terminal to the TrioN GEF module mediate transient intramolecular interactions that enhance Rac1 exchange activity (bandekar2022structuralfunctionalstudiesof pages 1-2).
+
+
+## Function
+TRIO is ubiquitously expressed in mammalian tissues, with specific isoforms showing more restricted expression patterns (schmidt2014functionandregulation pages 2-3). The TRIO9 isoform is the major form in the brain, while other isoforms (TrioA-E) are nervous system-specific (katrancha2017neurodevelopmentaldiseassociatedde pages 1-1, schmidt2014functionandregulation pages 3-4). TRIO protein is predominantly found in neural tissue, skeletal muscle, heart, and immune cells (unknownauthors2025variantimpactprediction pages 44-46).
+
+TRIO functions as a signaling hub integrating upstream signals to regulate the cytoskeleton (tao2020thetriplefunctional pages 8-9). Upstream regulators include Gαq/11-coupled GPCRs, the transmembrane tyrosine phosphatase LAR, and signals from the NOTCH-DAB1-ABL pathway (bandekar2019structureofthe pages 1-3, schmidt2014functionandregulation pages 2-3, unknownauthors2025variantimpactprediction pages 148-151). Interacting partners that modulate its function include DISC1, Kidins220/ARMS, and the presynaptic proteins Piccolo and Bassoon (schmidt2014functionandregulation pages 3-4, unknownauthors2025variantimpactprediction pages 148-151, tao2020thetriplefunctional pages 8-9).
+
+Downstream, TRIO activates the small GTPases Rac1, RhoG, and RhoA to control cellular processes such as cell motility, axon guidance, and cell adhesion (schmidt2014functionandregulation pages 2-3, katrancha2017neurodevelopmentaldiseassociatedde pages 1-1). It is a key component of signaling pathways like the Trio-RhoA-Shroom3 axis, which is critical for developmental morphogenesis (tao2020thetriplefunctional pages 8-9).
+
+
+## Other Comments
+Dysregulation of TRIO is linked to several human diseases. *De novo* mutations in the *TRIO* gene are significantly enriched in individuals with neurodevelopmental disorders, including autism, schizophrenia, intellectual disability, and bipolar disorder (katrancha2017neurodevelopmentaldiseassociatedde pages 1-1, katrancha2017neurodevelopmentaldiseassociatedde pages 3-4).
+- An autism-associated K1431M mutation in the GEF1 domain reduces Rac1 activation (katrancha2017neurodevelopmentaldiseassociatedde pages 1-1).
+- A bipolar disorder-associated M2145T variant in the GEF2 domain enhances its activity by impairing autoinhibition (katrancha2017neurodevelopmentaldiseassociatedde pages 1-1).
+- Mutations within the GEFD1 domain, such as p.R1428Q and p.P1461T, are linked to intellectual disability and microcephaly due to reduced Rac1 activation (pengelly2016mutationsspecificto pages 5-6).
+
+TRIO is also implicated in oncogenesis. Its expression is elevated in various cancers, and mutations that disrupt the autoinhibition of its TrioC module lead to increased RhoA signaling and are associated with uveal melanoma (schmidt2014functionandregulation pages 2-3, bandekar2019structureofthe pages 1-3). An oncogenic isoform named Tgat, containing only the RhoA-specific DH domain, was identified in adult T-cell leukemia patients (schmidt2014functionandregulation pages 3-4).
+
+References
+
+1. (bandekar2019structureofthe pages 1-3): Sumit J. Bandekar, Nadia Arang, Ena S. Tully, Brittany A. Tang, Brenna L. Barton, Sheng Li, J. Silvio Gutkind, and John J. G. Tesmer. Structure of the c-terminal guanine nucleotide exchange factor module of trio in an autoinhibited conformation reveals its oncogenic potential. Science Signaling, Feb 2019. URL: https://doi.org/10.1126/scisignal.aav2449, doi:10.1126/scisignal.aav2449. This article has 29 citations and is from a domain leading peer-reviewed journal.
+
+2. (bandekar2022structuralfunctionalstudiesof pages 1-2): Sumit J. Bandekar, Chun-Liang Chen, Sandeep K. Ravala, Jennifer N. Cash, Larisa V. Avramova, Mariya V. Zhalnina, J. Silvio Gutkind, Sheng Li, and John J.G. Tesmer. Structural/functional studies of trio provide insights into its configuration and show that conserved linker elements enhance its activity for rac1. Journal of Biological Chemistry, 298:102209, Aug 2022. URL: https://doi.org/10.1016/j.jbc.2022.102209, doi:10.1016/j.jbc.2022.102209. This article has 10 citations and is from a domain leading peer-reviewed journal.
+
+3. (schmidt2014functionandregulation pages 2-3): S. Schmidt and A. Debant. Function and regulation of the rho guanine nucleotide exchange factor trio. Small GTPases, Oct 2014. URL: https://doi.org/10.4161/sgtp.29769, doi:10.4161/sgtp.29769. This article has 113 citations and is from a peer-reviewed journal.
+
+4. (schmidt2014functionandregulation pages 3-4): S. Schmidt and A. Debant. Function and regulation of the rho guanine nucleotide exchange factor trio. Small GTPases, Oct 2014. URL: https://doi.org/10.4161/sgtp.29769, doi:10.4161/sgtp.29769. This article has 113 citations and is from a peer-reviewed journal.
+
+5. (unknownauthors2025variantimpactprediction pages 148-151): Variant impact prediction in the obscurin and trio protein families through evolutionary conservation and structural analysis
+
+6. (unknownauthors2025variantimpactprediction pages 44-46): Variant impact prediction in the obscurin and trio protein families through evolutionary conservation and structural analysis
+
+7. (debant1996themultidomainprotein pages 3-3): A. Debant, C. Serra-Pages, K. Seipel, Stephen J. O’Brien, May Tang, Sangho Park, and M. Streuli. The multidomain protein trio binds the lar transmembrane tyrosine phosphatase, contains a protein kinase domain, and has separate rac-specific and rho-specific guanine nucleotide exchange factor domains. Proceedings of the National Academy of Sciences of the United States of America, 93 11:5466-71, May 1996. URL: https://doi.org/10.1073/pnas.93.11.5466, doi:10.1073/pnas.93.11.5466. This article has 605 citations and is from a highest quality peer-reviewed journal.
+
+8. (hunter2015theeukaryoticprotein pages 1-3): Tony Hunter and Gerard Manning. The eukaryotic protein kinase superfamily and the emergence of receptor tyrosine kinases. Receptor Tyrosine Kinases: Structure, Functions and Role in Human Disease, pages 1-15, Oct 2015. URL: https://doi.org/10.1007/978-1-4939-2053-2\_1, doi:10.1007/978-1-4939-2053-2\_1. This article has 6 citations.
+
+9. (hunter2015theeukaryoticprotein pages 6-8): Tony Hunter and Gerard Manning. The eukaryotic protein kinase superfamily and the emergence of receptor tyrosine kinases. Receptor Tyrosine Kinases: Structure, Functions and Role in Human Disease, pages 1-15, Oct 2015. URL: https://doi.org/10.1007/978-1-4939-2053-2\_1, doi:10.1007/978-1-4939-2053-2\_1. This article has 6 citations.
+
+10. (johnson2023anatlasof pages 1-2): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+11. (pengelly2016mutationsspecificto pages 5-6): R. Pengelly, S. Greville-Heygate, Susanne Schmidt, E. Seaby, M Reza Jabalameli, S. Mehta, M. Parker, D. Goudie, Christine Fagotto‐Kaufmann, Catherine L. Mercer, A. Debant, Sarah Ennis, and D. Baralle. Mutations specific to the rac-gef domain of trio cause intellectual disability and microcephaly. Journal of Medical Genetics, 53:735-742, Jul 2016. URL: https://doi.org/10.1136/jmedgenet-2016-103942, doi:10.1136/jmedgenet-2016-103942. This article has 103 citations and is from a domain leading peer-reviewed journal.
+
+12. (tao2020thetriplefunctional pages 8-9): T. Tao, Jie Sun, and Min-Sheng Zhu. The triple functional domain protein trio with multiple functions in the nervous system. Unknown journal, 5:22-30, 2020. URL: https://doi.org/10.29245/2572.942x/2019/1.1263, doi:10.29245/2572.942x/2019/1.1263. This article has 4 citations.
+
+13. (unknownauthors2025variantimpactprediction pages 64-69): Variant impact prediction in the obscurin and trio protein families through evolutionary conservation and structural analysis
+
+14. (schmidt2014functionandregulation pages 1-2): S. Schmidt and A. Debant. Function and regulation of the rho guanine nucleotide exchange factor trio. Small GTPases, Oct 2014. URL: https://doi.org/10.4161/sgtp.29769, doi:10.4161/sgtp.29769. This article has 113 citations and is from a peer-reviewed journal.

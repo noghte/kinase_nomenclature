@@ -1,0 +1,102 @@
+## Phylogeny  
+NUAK2 (SNARK; Omphalocele kinase 2) belongs to the NUAK sub-family of AMP-activated protein kinase–related kinases (ARKs) within the Ca²⁺/calmodulin-regulated (CAMK) branch of the human kinome, and is most closely related to NUAK1 (ARK5) (banerjee2014characterizationofwz4003 pages 1-2, vis2021nuak1andnuak2 pages 5-7).  
+Orthologs are documented in Mus musculus (Nuak2 isoforms A/B), Rattus norvegicus (Snark), Danio rerio, Drosophila melanogaster, and Caenorhabditis elegans (unc-82), with conservation extending to yeast SNF1 as an out-group of the ARK lineage (minchenko2012snf1ampactivatedproteinkinases pages 1-3, vis2021nuak1andnuak2 pages 2-3, rooney2025developmentofthe pages 8-8, namiki2011nuak2anemerging pages 2-4).  
+Phylogenetic analyses place NUAK2 on an early branch of the SNF1/AMPK superfamily that diverged before the yeast–metazoan split, equidistant from AMPKα isoforms and yeast SNF1 (minchenko2012snf1ampactivatedproteinkinases pages 3-5).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + protein-O-phospho-Ser/Thr (banerjee2014characterizationofwz4003 pages 1-2).  
+
+## Cofactor Requirements  
+Catalytic activity requires divalent metal ions, with Mg²⁺ or Mn²⁺ supporting phosphotransfer, as reported for NUAK-family kinases (palma2023nuak1coordinatesgrowth pages 22-22).  
+
+## Substrate Specificity  
+Documented physiological substrates  
+– MYPT1: Ser445, Ser472, Ser910 (banerjee2014characterizationofwz4003 pages 1-2).  
+– LATS1 and LATS2 (vis2021nuak1andnuak2 pages 10-12).  
+– MRIP, AS160, TBC1D1, SAMS peptide (vis2021nuak1andnuak2 pages 10-12).  
+Johnson-style consensus motifs have not been experimentally defined for NUAK2; no explicit motif was reported in recent systematic surveys (rooney2025developmentofthe pages 8-8).  
+
+## Structure  
+Domain organisation: residues 55–306 form the canonical bilobed serine/threonine kinase domain; the C-terminal extension lacks recognizable folded domains (banerjee2014characterizationofwz4003 pages 1-2).  
+Key structural elements  
+– Gly-rich loop (63–89) and HRD catalytic motif (175–187) (minchenko2012snf1ampactivatedproteinkinases pages 3-5).  
+– Activation loop with Thr208, the obligatory LKB1 phosphorylation site (banerjee2014characterizationofwz4003 pages 1-2).  
+– Bipartite nuclear-localisation signal 68KKAR71 (minchenko2012snf1ampactivatedproteinkinases pages 3-5).  
+3-D models: AlphaFold entry AF-Q9H093-F1 predicts an intact regulatory spine, ordered activation segment, and correctly docked αC-helix typical of active ARK kinases (rooney2025developmentofthe pages 8-8, vis2021nuak1andnuak2 pages 12-14). No experimental crystal structure is currently available.  
+
+## Regulation  
+Post-translational modifications  
+– Phosphorylation at Thr208 by the LKB1–STRAD–MO25 complex is required for catalytic activation (banerjee2014characterizationofwz4003 pages 1-2).  
+– Autophosphorylation contributes to in-vitro activity (minchenko2012snf1ampactivatedproteinkinases pages 3-5).  
+– SCF-βTRCP–dependent poly-ubiquitylation following phospho-degron formation regulates protein turnover (unknownauthors2013phosphorylationubiquitylationand pages 8-10).  
+
+Upstream signalling inputs  
+– Cellular energy stress (↑AMP/↓ATP), glucose or glutamine deprivation, ER and oxidative stress, UV radiation, and hyperosmotic shock activate NUAK2 (minchenko2012snf1ampactivatedproteinkinases pages 3-5).  
+– CaMKK and TAK1 have been implicated as context-specific alternative upstream kinases (minchenko2012snf1ampactivatedproteinkinases pages 3-5, rooney2025developmentofthe pages 8-8).  
+
+Transcriptional control  
+– TGF-β induces NUAK2 via an intronic SMAD2/3 enhancer (kolliopoulos2019transforminggrowthfactor pages 1-2).  
+– NF-κB downstream of CD95 or TNF-α up-regulates transcription (minchenko2012snf1ampactivatedproteinkinases pages 3-5).  
+– YAP/TAZ establishes a positive feedback loop that boosts NUAK2 expression (vis2021nuak1andnuak2 pages 7-8).  
+
+## Function  
+Expression patterns: highest basal mRNA levels in gastrointestinal mucosa, kidney, spleen, blood, and cerebellum; inducible in skeletal muscle upon metabolic stress (vis2021nuak1andnuak2 pages 3-5, minchenko2012snf1ampactivatedproteinkinases pages 1-3).  
+
+Cellular and signalling roles  
+– Stress-response kinase conferring tolerance to glucose starvation and other metabolic insults (minchenko2012snf1ampactivatedproteinkinases pages 3-5).  
+– Cytoskeletal regulation: phosphorylates MYPT1 and associates with MRIP, leading to increased myosin light-chain phosphorylation, F-actin destabilisation, and enhanced cell motility (banerjee2014characterizationofwz4003 pages 1-2, namiki2011nuak2anemerging pages 2-4).  
+– Hippo pathway modulation: phosphorylates LATS1/2, promotes YAP1 nuclear localisation, and is essential for neural tube closure (vis2021nuak1andnuak2 pages 10-12, vis2021nuak1andnuak2 pages 7-8).  
+– TGF-β signalling: binds SMAD3 and TβRI, stabilises SMAD3, and amplifies expression of extracellular-matrix genes (kolliopoulos2019transforminggrowthfactor pages 1-2).  
+– NF-κB-mediated anti-apoptotic signalling downstream of CD95/TNF-α protects tumour cells from apoptosis and supports invasive behaviour (minchenko2012snf1ampactivatedproteinkinases pages 3-5).  
+– Skeletal muscle: mediates contraction-stimulated glucose transport and protects myocytes from apoptosis (minchenko2012snf1ampactivatedproteinkinases pages 17-19).  
+
+## Inhibitors  
+– WZ4003: ATP-competitive; IC₅₀ ≈ 100 nM for NUAK2 with high kinome selectivity (banerjee2014characterizationofwz4003 pages 1-2).  
+– HTH-01-015: NUAK1-selective, negligible activity on NUAK2, useful for isoform differentiation (banerjee2014characterizationofwz4003 pages 1-2).  
+– Additional pyrido-pyrimidin-7-one derivatives (e.g., XMD-18-42) inhibit NUAK family kinases with varying selectivity (unknownauthors2013phosphorylationubiquitylationand pages 7-8).  
+
+## Other Comments  
+Disease associations  
+– Gene amplification at 1q32 correlates with tumour thickness and poor prognosis in acral melanoma (namiki2011nuak2anemerging pages 2-4).  
+– Elevated expression associates with adverse outcome in gliomas (banerjee2014characterizationofwz4003 pages 8-10).  
+– NUAK2 up-regulation drives YAP-dependent hepatocellular carcinoma and cutaneous tumour growth (vis2021nuak1andnuak2 pages 15-15).  
+– A recessive kinase-dead 22 bp deletion + 1 bp insertion causes human anencephaly by disrupting Hippo signalling (vis2021nuak1andnuak2 pages 7-8).  
+– NUAK2 contributes to breast-cancer invasiveness and hepatic fibrosis through TGF-β pathway amplification (kolliopoulos2019transforminggrowthfactor pages 1-2).
+
+References
+
+1. (banerjee2014characterizationofwz4003 pages 1-2): Sourav Banerjee, Sara J. Buhrlage, Hai-Tsang Huang, Xianming Deng, Wenjun Zhou, Jinhua Wang, Ryan Traynor, Alan R. Prescott, Dario R. Alessi, and Nathanael S. Gray. Characterization of wz4003 and hth-01-015 as selective inhibitors of the lkb1-tumour-suppressor-activated nuak kinases. Biochemical Journal, 457:215-225, Dec 2014. URL: https://doi.org/10.1042/bj20131152, doi:10.1042/bj20131152. This article has 86 citations and is from a domain leading peer-reviewed journal.
+
+2. (minchenko2012snf1ampactivatedproteinkinases pages 3-5): D. Minchenko and O. Minchenko. Snf1/amp-activated protein kinases: genes, expression and biological role. Protein Kinases, Jun 2012. URL: https://doi.org/10.5772/37820, doi:10.5772/37820. This article has 5 citations.
+
+3. (vis2021nuak1andnuak2 pages 12-14): Reinofke A. J. van de Vis, Aristidis Moustakas, and Lars P. van der Heide. Nuak1 and nuak2 fine-tune tgf-β signaling. Cancers, 13:3377, Jul 2021. URL: https://doi.org/10.3390/cancers13133377, doi:10.3390/cancers13133377. This article has 19 citations and is from a peer-reviewed journal.
+
+4. (minchenko2012snf1ampactivatedproteinkinases pages 1-3): D. Minchenko and O. Minchenko. Snf1/amp-activated protein kinases: genes, expression and biological role. Protein Kinases, Jun 2012. URL: https://doi.org/10.5772/37820, doi:10.5772/37820. This article has 5 citations.
+
+5. (minchenko2012snf1ampactivatedproteinkinases pages 17-19): D. Minchenko and O. Minchenko. Snf1/amp-activated protein kinases: genes, expression and biological role. Protein Kinases, Jun 2012. URL: https://doi.org/10.5772/37820, doi:10.5772/37820. This article has 5 citations.
+
+6. (palma2023nuak1coordinatesgrowth pages 22-22): Mario Palma, Elizabeth Riffo, Alejandro Farias, Viviana Coliboro-Dannich, Luis Espinoza-Francine, Emilia Escalona, Roberto Amigo, José L. Gutiérrez, Roxana Pincheira, and Ariel F. Castro. Nuak1 coordinates growth factor-dependent activation of mtorc2 and akt signaling. Cell &amp; Bioscience, Dec 2023. URL: https://doi.org/10.1186/s13578-023-01185-2, doi:10.1186/s13578-023-01185-2. This article has 2 citations.
+
+7. (rooney2025developmentofthe pages 8-8): Timothy P. C. Rooney, Gregory G. Aldred, David Winpenny, Helen Scott, Henriette M. G. Willems, Iryna Voytyuk, Jonathan H. Clarke, Helen K. Boffey, Stephen P. Andrews, and John Skidmore. Development of the pyrido[2,3-<i>d</i>]pyrimidin-7(8<i>h</i>)-one scaffold toward potent and selective nuak1 inhibitors. ACS Medicinal Chemistry Letters, 16:327-335, Jan 2025. URL: https://doi.org/10.1021/acsmedchemlett.4c00579, doi:10.1021/acsmedchemlett.4c00579. This article has 0 citations and is from a peer-reviewed journal.
+
+8. (vis2021nuak1andnuak2 pages 10-12): Reinofke A. J. van de Vis, Aristidis Moustakas, and Lars P. van der Heide. Nuak1 and nuak2 fine-tune tgf-β signaling. Cancers, 13:3377, Jul 2021. URL: https://doi.org/10.3390/cancers13133377, doi:10.3390/cancers13133377. This article has 19 citations and is from a peer-reviewed journal.
+
+9. (vis2021nuak1andnuak2 pages 15-15): Reinofke A. J. van de Vis, Aristidis Moustakas, and Lars P. van der Heide. Nuak1 and nuak2 fine-tune tgf-β signaling. Cancers, 13:3377, Jul 2021. URL: https://doi.org/10.3390/cancers13133377, doi:10.3390/cancers13133377. This article has 19 citations and is from a peer-reviewed journal.
+
+10. (vis2021nuak1andnuak2 pages 2-3): Reinofke A. J. van de Vis, Aristidis Moustakas, and Lars P. van der Heide. Nuak1 and nuak2 fine-tune tgf-β signaling. Cancers, 13:3377, Jul 2021. URL: https://doi.org/10.3390/cancers13133377, doi:10.3390/cancers13133377. This article has 19 citations and is from a peer-reviewed journal.
+
+11. (vis2021nuak1andnuak2 pages 3-5): Reinofke A. J. van de Vis, Aristidis Moustakas, and Lars P. van der Heide. Nuak1 and nuak2 fine-tune tgf-β signaling. Cancers, 13:3377, Jul 2021. URL: https://doi.org/10.3390/cancers13133377, doi:10.3390/cancers13133377. This article has 19 citations and is from a peer-reviewed journal.
+
+12. (vis2021nuak1andnuak2 pages 7-8): Reinofke A. J. van de Vis, Aristidis Moustakas, and Lars P. van der Heide. Nuak1 and nuak2 fine-tune tgf-β signaling. Cancers, 13:3377, Jul 2021. URL: https://doi.org/10.3390/cancers13133377, doi:10.3390/cancers13133377. This article has 19 citations and is from a peer-reviewed journal.
+
+13. (banerjee2014characterizationofwz4003 pages 8-10): Sourav Banerjee, Sara J. Buhrlage, Hai-Tsang Huang, Xianming Deng, Wenjun Zhou, Jinhua Wang, Ryan Traynor, Alan R. Prescott, Dario R. Alessi, and Nathanael S. Gray. Characterization of wz4003 and hth-01-015 as selective inhibitors of the lkb1-tumour-suppressor-activated nuak kinases. Biochemical Journal, 457:215-225, Dec 2014. URL: https://doi.org/10.1042/bj20131152, doi:10.1042/bj20131152. This article has 86 citations and is from a domain leading peer-reviewed journal.
+
+14. (kolliopoulos2019transforminggrowthfactor pages 1-2): Constantinos Kolliopoulos, Erna Raja, M. Razmara, P. Heldin, C. Heldin, A. Moustakas, and L. P. van der Heide. Transforming growth factor β (tgfβ) induces nuak kinase expression to fine-tune its signaling output. The Journal of Biological Chemistry, 294:4119-4136, Jan 2019. URL: https://doi.org/10.1074/jbc.ra118.004984, doi:10.1074/jbc.ra118.004984. This article has 32 citations.
+
+15. (namiki2011nuak2anemerging pages 2-4): T. Namiki, Sergio G. Coelho, and V. Hearing. Nuak2: an emerging acral melanoma oncogene. Oncotarget, 2:695-704, Sep 2011. URL: https://doi.org/10.18632/oncotarget.325, doi:10.18632/oncotarget.325. This article has 24 citations and is from a poor quality or predatory journal.
+
+16. (unknownauthors2013phosphorylationubiquitylationand pages 7-8): Phosphorylation, ubiquitylation and characterisation of specific inhibitors of AMPK-related kinase NUAK1/ARK5
+
+17. (unknownauthors2013phosphorylationubiquitylationand pages 8-10): Phosphorylation, ubiquitylation and characterisation of specific inhibitors of AMPK-related kinase NUAK1/ARK5
+
+18. (vis2021nuak1andnuak2 pages 5-7): Reinofke A. J. van de Vis, Aristidis Moustakas, and Lars P. van der Heide. Nuak1 and nuak2 fine-tune tgf-β signaling. Cancers, 13:3377, Jul 2021. URL: https://doi.org/10.3390/cancers13133377, doi:10.3390/cancers13133377. This article has 19 citations and is from a peer-reviewed journal.

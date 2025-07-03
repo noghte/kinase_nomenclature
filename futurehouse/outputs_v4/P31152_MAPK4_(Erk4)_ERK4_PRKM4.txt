@@ -1,0 +1,91 @@
+## Phylogeny  
+MAPK4 (ERK4) is placed in the CMGC group, mitogen-activated protein kinase family, ERK3/ERK4 atypical sub-family (coulombe2007atypicalmitogenactivatedprotein pages 2-4).  
+Orthologous genes are reported in Homo sapiens, Mus musculus, Rattus norvegicus, Gallus gallus, Xenopus laevis and Danio rerio, whereas invertebrate and plant genomes lack bona-fide ERK4 sequences, indicating a vertebrate-restricted duplication that produced ERK3 and ERK4 (coulombe2007atypicalmitogenactivatedprotein pages 2-4, aberg2006regulationofmapkactivated pages 4-6).  
+ERK4 shares 73 % identity in its kinase domain with ERK3 but only ~45 % with conventional ERK1/2, reflecting divergent evolution from the canonical ERK lineage (coulombe2007atypicalmitogenactivatedprotein pages 2-4).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + protein-O-phospho-Ser/Thr (kant2006characterizationofthe pages 2-3).  
+
+## Cofactor Requirements  
+In vitro kinase assays employ ATP and Mg²⁺, and no alternative divalent cations have been reported (boudghenestambouli2022onthetherapeutic pages 6-7).  
+
+## Substrate Specificity  
+Validated substrates include MAPK-activated protein kinase-5 (MK5, phosphorylated on Thr182) and microtubule-associated protein-2 (MAP2) (aberg2009dockingofprakmk5 pages 1-2, kant2006characterizationofthe pages 2-3).  
+A dedicated consensus phosphorylation motif has not been defined; large-scale mapping has not revealed an ERK4-specific sequence preference (coulombe2007atypicalmitogenactivatedprotein pages 4-6).  
+
+## Structure  
+Domain organisation: N-terminal bilobal kinase domain (residues 1-320), C-terminal regulatory extension containing the classical docking (CD) domain and the FRIEDE motif required for MK5 binding (aberg2009dockingofprakmk5 pages 2-3).  
+Activation loop: atypical S-E-G motif with Ser186 as the sole phospho-acceptor (perander2008theser(186)phosphoacceptor pages 1-2).  
+Kinase subdomain VIII: S-P-R replaces the conserved A-P-E, introducing a unique arginine that alters C-lobe electrostatics (coulombe2007atypicalmitogenactivatedprotein pages 2-4).  
+Homology modelling based on the ERK3 crystal template (PDB 2I6L) predicts retention of VAIK, HRD and DFG catalytic motifs, an intact hydrophobic spine and a correctly positioned C-helix, with Ser186 phosphorylation stabilising the active conformation (deleris2008activationloopphosphorylation pages 9-10, boudghenestambouli2022onthetherapeutic pages 6-7).  
+No experimentally determined ERK4 crystal structure is available (coulombe2007atypicalmitogenactivatedprotein pages 4-6).  
+
+## Regulation  
+Phosphorylation  
+• Ser186 in the activation loop is phosphorylated by group I PAK1-3 kinases; this event is obligatory for catalytic activation and high-affinity MK5 binding (deleris2011activationloopphosphorylation pages 1-2).  
+• MK5 subsequently phosphorylates ERK4, producing a mobility-shifted species; exact sites remain unmapped (kant2006characterizationofthe pages 8-9).  
+• Ser386 phosphorylation has been detected but its functional consequence is undefined (deleris2008activationloopphosphorylation pages 9-10).  
+
+Dephosphorylation  
+Dual-specificity phosphatase DUSP2 binds ERK4 via its KIM/CD motif and removes the Ser186 phosphate, suppressing downstream MK5 activation (perander2017regulationofatypical pages 9-10).  
+
+Protein stability and chaperoning  
+ERK4 is an Hsp90 client; Hsp90 inhibition destabilises ERK4 and reduces MK5 phosphorylation (unknownauthors2015identificationofnovel pages 43-46).  
+Unlike ERK3, ERK4 is intrinsically stable and not rapidly degraded by the ubiquitin–proteasome system under basal conditions (aberg2006regulationofmapkactivated pages 10-11).  
+
+Subcellular localisation  
+ERK4 is predominantly cytoplasmic; CRM1-dependent export keeps nuclear levels low, and leptomycin B treatment causes nuclear accumulation (aberg2006regulationofmapkactivated pages 6-7).  
+
+## Function  
+Expression  
+Highest mRNA expression is observed in brain, with substantial levels in colon, eye, heart, kidney, lung, ovary, pancreas, placenta, prostate and skin (coulombe2007atypicalmitogenactivatedprotein pages 4-6).  
+
+Signalling context  
+Upstream: Rac1/Cdc42-activated PAK1-3 phosphorylate and activate ERK4 (deleris2011activationloopphosphorylation pages 1-2).  
+Downstream: Activated ERK4 phosphorylates MK5, enforcing MK5 cytoplasmic localisation and stimulating MK5 kinase activity toward cytoskeletal targets (aberg2006regulationofmapkactivated pages 1-2).  
+ERK4 enhances AKT/mTOR signalling and cooperates with PDK1, reinforcing oncogenic growth programmes (boudghenestambouli2022onthetherapeutic pages 6-7, han2023cooperativeactivationof pages 20-20).  
+Cellular roles include promotion of cell-cycle entry and proliferation (kant2006characterizationofthe pages 2-3).  
+
+## Inhibitors  
+No selective small-molecule or biological inhibitors targeting ERK4 have been reported (boudghenestambouli2022onthetherapeutic pages 6-7).  
+
+## Other Comments  
+Elevated MAPK4 expression sustains androgen-receptor-dependent AKT activation in prostate cancer and confers resistance to PI3K pathway inhibition (boudghenestambouli2022onthetherapeutic pages 6-7).  
+MAPK4 knock-down synergises with PARP1 inhibition in triple-negative breast cancer models, indicating therapeutic relevance (boudghenestambouli2022onthetherapeutic pages 6-7).  
+Cooperative activation of PDK1 and AKT by MAPK4 promotes tumour growth and therapy resistance in diverse cancer settings (han2023cooperativeactivationof pages 20-20).
+
+References
+
+1. (aberg2006regulationofmapkactivated pages 10-11): Espen Åberg, Maria Perander, Bjarne Johansen, Catherine Julien, Sylvain Meloche, Stephen M. Keyse, and Ole-Morten Seternes. Regulation of mapk-activated protein kinase 5 activity and subcellular localization by the atypical mapk erk4/mapk4*. Journal of Biological Chemistry, 281:35499-35510, Nov 2006. URL: https://doi.org/10.1074/jbc.m606225200, doi:10.1074/jbc.m606225200. This article has 111 citations and is from a domain leading peer-reviewed journal.
+
+2. (aberg2009dockingofprakmk5 pages 1-2): Espen Åberg, K. Torgersen, B. Johansen, S. Keyse, Maria Perander, and O. Seternes. Docking of prak/mk5 to the atypical mapks erk3 and erk4 defines a novel mapk interaction motif*. The Journal of Biological Chemistry, 284:19392-19401, May 2009. URL: https://doi.org/10.1074/jbc.m109.023283, doi:10.1074/jbc.m109.023283. This article has 74 citations.
+
+3. (aberg2009dockingofprakmk5 pages 2-3): Espen Åberg, K. Torgersen, B. Johansen, S. Keyse, Maria Perander, and O. Seternes. Docking of prak/mk5 to the atypical mapks erk3 and erk4 defines a novel mapk interaction motif*. The Journal of Biological Chemistry, 284:19392-19401, May 2009. URL: https://doi.org/10.1074/jbc.m109.023283, doi:10.1074/jbc.m109.023283. This article has 74 citations.
+
+4. (boudghenestambouli2022onthetherapeutic pages 6-7): Fadia Boudghene-Stambouli, Mathilde Soulez, Natalia Ronkina, Anneke Dörrie, Alexey Kotlyarov, Ole-Morten Seternes, Matthias Gaestel, and Sylvain Meloche. On the therapeutic potential of erk4 in triple-negative breast cancer. Cancers, 15:25, Dec 2022. URL: https://doi.org/10.3390/cancers15010025, doi:10.3390/cancers15010025. This article has 2 citations and is from a peer-reviewed journal.
+
+5. (kant2006characterizationofthe pages 2-3): Shashi Kant, S. Schumacher, Manvendra K. Singh, A. Kispert, A. Kotlyarov, and M. Gaestel. Characterization of the atypical mapk erk4 and its activation of the mapk-activated protein kinase mk5*. Journal of Biological Chemistry, 281:35511-35519, Nov 2006. URL: https://doi.org/10.1074/jbc.m606693200, doi:10.1074/jbc.m606693200. This article has 147 citations and is from a domain leading peer-reviewed journal.
+
+6. (kant2006characterizationofthe pages 8-9): Shashi Kant, S. Schumacher, Manvendra K. Singh, A. Kispert, A. Kotlyarov, and M. Gaestel. Characterization of the atypical mapk erk4 and its activation of the mapk-activated protein kinase mk5*. Journal of Biological Chemistry, 281:35511-35519, Nov 2006. URL: https://doi.org/10.1074/jbc.m606693200, doi:10.1074/jbc.m606693200. This article has 147 citations and is from a domain leading peer-reviewed journal.
+
+7. (perander2008theser(186)phosphoacceptor pages 1-2): Maria Perander, Espen Åberg, Bjarne Johansen, Bo Dreyer, Ingrid J. Guldvik, Heidi Outzen, Stephen M. Keyse, and Ole-Morten Seternes. The ser(186) phospho-acceptor site within erk4 is essential for its ability to interact with and activate prak/mk5. The Biochemical journal, 411 3:613-22, May 2008. URL: https://doi.org/10.1042/bj20071369, doi:10.1042/bj20071369. This article has 40 citations.
+
+8. (aberg2006regulationofmapkactivated pages 1-2): Espen Åberg, Maria Perander, Bjarne Johansen, Catherine Julien, Sylvain Meloche, Stephen M. Keyse, and Ole-Morten Seternes. Regulation of mapk-activated protein kinase 5 activity and subcellular localization by the atypical mapk erk4/mapk4*. Journal of Biological Chemistry, 281:35499-35510, Nov 2006. URL: https://doi.org/10.1074/jbc.m606225200, doi:10.1074/jbc.m606225200. This article has 111 citations and is from a domain leading peer-reviewed journal.
+
+9. (aberg2006regulationofmapkactivated pages 4-6): Espen Åberg, Maria Perander, Bjarne Johansen, Catherine Julien, Sylvain Meloche, Stephen M. Keyse, and Ole-Morten Seternes. Regulation of mapk-activated protein kinase 5 activity and subcellular localization by the atypical mapk erk4/mapk4*. Journal of Biological Chemistry, 281:35499-35510, Nov 2006. URL: https://doi.org/10.1074/jbc.m606225200, doi:10.1074/jbc.m606225200. This article has 111 citations and is from a domain leading peer-reviewed journal.
+
+10. (aberg2006regulationofmapkactivated pages 6-7): Espen Åberg, Maria Perander, Bjarne Johansen, Catherine Julien, Sylvain Meloche, Stephen M. Keyse, and Ole-Morten Seternes. Regulation of mapk-activated protein kinase 5 activity and subcellular localization by the atypical mapk erk4/mapk4*. Journal of Biological Chemistry, 281:35499-35510, Nov 2006. URL: https://doi.org/10.1074/jbc.m606225200, doi:10.1074/jbc.m606225200. This article has 111 citations and is from a domain leading peer-reviewed journal.
+
+11. (coulombe2007atypicalmitogenactivatedprotein pages 2-4): Phillipe Coulombe and Sylvain Meloche. Atypical mitogen-activated protein kinases: structure, regulation and functions. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1773:1376-1387, Aug 2007. URL: https://doi.org/10.1016/j.bbamcr.2006.11.001, doi:10.1016/j.bbamcr.2006.11.001. This article has 469 citations.
+
+12. (coulombe2007atypicalmitogenactivatedprotein pages 4-6): Phillipe Coulombe and Sylvain Meloche. Atypical mitogen-activated protein kinases: structure, regulation and functions. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1773:1376-1387, Aug 2007. URL: https://doi.org/10.1016/j.bbamcr.2006.11.001, doi:10.1016/j.bbamcr.2006.11.001. This article has 469 citations.
+
+13. (deleris2008activationloopphosphorylation pages 9-10): Paul Déléris, Justine Rousseau, Philippe Coulombe, Geneviève Rodier, Pierre‐Luc Tanguay, and Sylvain Meloche. Activation loop phosphorylation of the atypical map kinases erk3 and erk4 is required for binding, activation and cytoplasmic relocalization of mk5. Journal of Cellular Physiology, 217:778-788, Aug 2008. URL: https://doi.org/10.1002/jcp.21560, doi:10.1002/jcp.21560. This article has 95 citations and is from a peer-reviewed journal.
+
+14. (deleris2011activationloopphosphorylation pages 1-2): Paul Déléris, Matthias Trost, Ivan Topisirovic, Pierre-Luc Tanguay, Katherine L.B. Borden, Pierre Thibault, and Sylvain Meloche. Activation loop phosphorylation of erk3/erk4 by group i p21-activated kinases (paks) defines a novel pak-erk3/4-mapk-activated protein kinase 5 signaling pathway. Journal of Biological Chemistry, 286:6470-6478, Feb 2011. URL: https://doi.org/10.1074/jbc.m110.181529, doi:10.1074/jbc.m110.181529. This article has 112 citations and is from a domain leading peer-reviewed journal.
+
+15. (perander2017regulationofatypical pages 9-10): Maria Perander, Rania Al-Mahdi, Thomas C. Jensen, Jennifer A. L. Nunn, Hanne Kildalsen, Bjarne Johansen, Mads Gabrielsen, Stephen M. Keyse, and Ole-Morten Seternes. Regulation of atypical map kinases erk3 and erk4 by the phosphatase dusp2. Scientific Reports, Mar 2017. URL: https://doi.org/10.1038/srep43471, doi:10.1038/srep43471. This article has 47 citations and is from a poor quality or predatory journal.
+
+16. (han2023cooperativeactivationof pages 20-20): Dong Han, Wen Wang, Julie Heejin Jeon, Tao Shen, Xiangsheng Huang, Ping Yi, B. Dong, and Feng Yang. Cooperative activation of pdk1 and akt by mapk4 enhances cancer growth and resistance to therapy. PLOS Biology, Aug 2023. URL: https://doi.org/10.1371/journal.pbio.3002227, doi:10.1371/journal.pbio.3002227. This article has 6 citations and is from a highest quality peer-reviewed journal.
+
+17. (unknownauthors2015identificationofnovel pages 43-46): Identification of novel roles and new modes of regulation for the atypical MAP kinases ERK3 and ERK4

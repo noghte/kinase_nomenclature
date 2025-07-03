@@ -1,0 +1,100 @@
+## Phylogeny
+BRSK2 is a serine/threonine protein kinase classified as a member of the AMPK-related kinase (ARK) subfamily, which is also referred to as the AMPK family (bendzunas2025redoxregulationand pages 14-15, guo2006brsk2isactivated pages 1-2). The ARK family comprises 14 members, including AMPKα1/α2, BRSK1/2, NUAK1/2, SIK1-3, MARK1-4, and MELK (bendzunas2025redoxregulationand pages 2-3, guo2006brsk2isactivated pages 1-2). According to the kinome classification by Manning et al. 2002, BRSK2 belongs to the calcium/calmodulin-dependent protein kinase (CAMK) group (manning2002theproteinkinase pages 7-8, guo2006brsk2isactivated pages 2-4). Sources also place the ARK family within the CMGC group of kinases (bendzunas2025redoxregulationand pages 14-15, sample2015polarizedactivitiesof pages 4-7). BRSK2 shares significant sequence homology with other family members, including ~95% identity with BRSK1 in the kinase domain and 65% homology with the AMPKα1 subunit (bendzunas2025redoxregulationand pages 5-7, sample2015polarizedactivitiesof pages 4-7). Orthologs of BRSK2 include SAD-A in mice and SAD-1 in *C. elegans* (unknownauthors2011theregulationof pages 65-70, guo2006brsk2isactivated pages 1-2).
+
+
+
+## Reaction Catalyzed
+BRSK2 catalyzes the ATP-dependent transfer of a γ-phosphate group to the hydroxyl group of specific serine or threonine residues on substrate proteins (guo2006brsk2isactivated pages 1-2, unknownauthors2011theregulationof pages 59-65).
+
+ATP + [a protein] → ADP + [a phosphoprotein] (bendzunas2025redoxregulationand pages 3-5, jaleel2006theubiquitinassociateddomain pages 11-11)
+
+
+
+## Cofactor Requirements
+The catalytic activity of BRSK2 requires ATP as the phosphate donor and a divalent metal ion cofactor, typically Mg²⁺ (guo2006brsk2isactivated pages 1-2, unknownauthors2011theregulationof pages 59-65, bendzunas2025redoxregulationand pages 18-19). While its classification within the CAMK family suggests a requirement for calcium and calmodulin, one study reports that BRSK2 does not respond to calcium ionophore stimulation (tamir2020pkisdeepdive pages 8-8, sample2015polarizedactivitiesof pages 4-7). Unlike AMPK, BRSK2 activity is not regulated by AMP (unknownauthors2011theregulationof pages 59-65).
+
+
+
+## Substrate Specificity
+The substrate specificity motif for BRSK2 has been experimentally determined. However, sources from the same priority publication present conflicting motifs. One analysis indicates a preference for hydrophobic amino acids at position -5, acidic residues (glutamic acid or aspartic acid) at position -3, and an arginine at position +4 relative to the phosphorylation site (johnson2023anatlasof pages 1-2). A separate analysis from the same publication reports a preference for arginine (R) at positions -5 and -3, and a proline (P) or a hydrophobic residue at position +4 (johnson2023anatlasof pages 12-18). BRSK2 shares the AMPK consensus substrate motif and can phosphorylate model substrates such as the AMARA and SAMS peptides in vitro (sample2015polarizedactivitiesof pages 7-10, bendzunas2025redoxregulationand pages 5-7, guo2006brsk2isactivated pages 2-4).
+
+
+
+## Structure
+BRSK2 has a multi-domain architecture consisting of an N-terminal serine/threonine kinase catalytic domain, a ubiquitin-associated (UBA) domain, a C-terminal spacer, and in some family members, a kinase-associated (KA1) domain (bendzunas2025redoxregulationand pages 2-3). A 3D structural model is available from AlphaFold (UniProt ID Q8IWQ3) (bendzunas2025redoxregulationand pages 18-19).
+
+The kinase domain has a canonical bilobal structure with N- and C-lobes and contains key catalytic and regulatory elements (bendzunas2025redoxregulationand pages 14-15). These include the activation loop (T-loop), which harbors the essential phosphorylation site Thr174; the C-helix, which is critical for positioning catalytic residues; and the hydrophobic spine, a core of hydrophobic residues that connects the N- and C-lobes to stabilize the active conformation (bendzunas2025redoxregulationand pages 18-19, guo2006brsk2isactivated pages 1-2, bendzunas2025redoxregulationand pages 2-3).
+
+A unique structural feature of BRSK2 is the presence of several redox-sensitive cysteine residues that mediate regulation. These include a conserved T-loop +2 cysteine (C176) and a unique cysteine in the APE motif, which is modified to CPE in BRSKs (C183) (bendzunas2025redoxregulationand pages 14-15, bendzunas2025redoxregulationand pages 5-7). These cysteines can form intramolecular disulfide bonds that provide a layer of redox-based regulation (bendzunas2025redoxregulationand pages 7-9).
+
+
+
+## Regulation
+BRSK2 activity is dually regulated by phosphorylation and redox modifications (bendzunas2025redoxregulationand pages 14-15).
+
+Phosphorylation by the upstream kinase LKB1 at Thr174 in the activation loop is the primary mechanism for activation, increasing kinase activity by more than 50-fold (guo2006brsk2isactivated pages 1-2, unknownauthors2011theregulationof pages 59-65). Other kinases, including cAMP-dependent protein kinase A (PKA), CAMKII, and PAK1, have also been reported to phosphorylate and activate BRSK2 (guo2006brsk2isactivated pages 2-4, tamir2020gainoffunctiongeneticscreen pages 3-5). PKA phosphorylates BRSK2 at Thr260 to enhance its activity, although one study failed to observe PKA-dependent activation in neurons (guo2006brsk2isactivated pages 2-4, sample2015polarizedactivitiesof pages 7-10).
+
+The kinase is also subject to redox regulation through its cysteine residues. Oxidative conditions, such as the presence of H2O2, cause reversible inactivation through the formation of intramolecular disulfide bonds between conserved cysteine pairs (e.g., C176-C183) (bendzunas2025redoxregulationand pages 7-9, bendzunas2025redoxregulationand pages 14-15). This oxidative inhibition can be reversed by reducing agents like DTT (bendzunas2025redoxregulationand pages 3-5).
+
+
+
+## Function
+BRSK2 is expressed predominantly in the brain and pancreas (unknownauthors2011theregulationof pages 65-70, tamir2020gainoffunctiongeneticscreen pages 3-5). It plays a key role in establishing neuronal polarity and axonogenesis, in part by phosphorylating the microtubule-associated protein Tau at Ser262 (guo2006brsk2isactivated pages 1-2, unknownauthors2011theregulationof pages 65-70). It is also involved in presynaptic differentiation and neurotransmitter release via phosphorylation of substrates like RIM1 (unknownauthors2011theregulationof pages 65-70).
+
+Beyond the nervous system, BRSK2 participates in multiple signaling pathways. It functions as a potential G2/M cell cycle checkpoint kinase by phosphorylating Cdc25-C (unknownauthors2011theregulationof pages 65-70). In pancreatic islets, it regulates insulin secretion (tamir2020gainoffunctiongeneticscreen pages 3-5). BRSK2 is also involved in autophagy by inhibiting mTOR signaling and phosphorylating ULK1 and P62, and has been identified as a novel repressor of the NRF2 transcription factor (tamir2020gainoffunctiongeneticscreen pages 3-5, tamir2020pkisdeepdive pages 4-5, tamir2020pkisdeepdive pages 1-2).
+
+
+
+## Inhibitors
+The compound GW296115 is a potent, cell-active experimental inhibitor of BRSK2, with a reported IC50 of approximately 107 nM in HEK293 cells (tamir2020pkisdeepdive pages 3-4, tamir2020pkisdeepdive pages 7-8).
+
+
+
+## Other Comments
+BRSK2 is classified as an understudied or 'dark kinase' as part of the NIH's Illuminating the Druggable Genome (IDG) initiative (tamir2020pkisdeepdive pages 1-2). Due to its function as a tau kinase, it is implicated in the pathogenesis of tauopathies such as Alzheimer's disease (unknownauthors2011theregulationof pages 59-65, unknownauthors2011theregulationof pages 65-70). Its role as an NRF2 repressor suggests potential relevance to cancer pathways where NRF2 signaling is dysregulated (tamir2020gainoffunctiongeneticscreen pages 3-5).
+
+References
+
+1. (bendzunas2025redoxregulationand pages 14-15): George N Bendzunas, Dominic P Byrne, Safal Shrestha, Leonard A Daly, Sally O Oswald, Samiksha Katiyar, Aarya Venkat, Wayland Yeung, Claire E Eyers, Patrick A Eyers, and Natarajan Kannan. Redox regulation and dynamic control of brain-selective kinases brsk1/2 in the ampk family through cysteine-based mechanisms. eLife, Apr 2025. URL: https://doi.org/10.7554/elife.92536, doi:10.7554/elife.92536. This article has 1 citations and is from a domain leading peer-reviewed journal.
+
+2. (bendzunas2025redoxregulationand pages 2-3): George N Bendzunas, Dominic P Byrne, Safal Shrestha, Leonard A Daly, Sally O Oswald, Samiksha Katiyar, Aarya Venkat, Wayland Yeung, Claire E Eyers, Patrick A Eyers, and Natarajan Kannan. Redox regulation and dynamic control of brain-selective kinases brsk1/2 in the ampk family through cysteine-based mechanisms. eLife, Apr 2025. URL: https://doi.org/10.7554/elife.92536, doi:10.7554/elife.92536. This article has 1 citations and is from a domain leading peer-reviewed journal.
+
+3. (bendzunas2025redoxregulationand pages 3-5): George N Bendzunas, Dominic P Byrne, Safal Shrestha, Leonard A Daly, Sally O Oswald, Samiksha Katiyar, Aarya Venkat, Wayland Yeung, Claire E Eyers, Patrick A Eyers, and Natarajan Kannan. Redox regulation and dynamic control of brain-selective kinases brsk1/2 in the ampk family through cysteine-based mechanisms. eLife, Apr 2025. URL: https://doi.org/10.7554/elife.92536, doi:10.7554/elife.92536. This article has 1 citations and is from a domain leading peer-reviewed journal.
+
+4. (bendzunas2025redoxregulationand pages 5-7): George N Bendzunas, Dominic P Byrne, Safal Shrestha, Leonard A Daly, Sally O Oswald, Samiksha Katiyar, Aarya Venkat, Wayland Yeung, Claire E Eyers, Patrick A Eyers, and Natarajan Kannan. Redox regulation and dynamic control of brain-selective kinases brsk1/2 in the ampk family through cysteine-based mechanisms. eLife, Apr 2025. URL: https://doi.org/10.7554/elife.92536, doi:10.7554/elife.92536. This article has 1 citations and is from a domain leading peer-reviewed journal.
+
+5. (bendzunas2025redoxregulationand pages 7-9): George N Bendzunas, Dominic P Byrne, Safal Shrestha, Leonard A Daly, Sally O Oswald, Samiksha Katiyar, Aarya Venkat, Wayland Yeung, Claire E Eyers, Patrick A Eyers, and Natarajan Kannan. Redox regulation and dynamic control of brain-selective kinases brsk1/2 in the ampk family through cysteine-based mechanisms. eLife, Apr 2025. URL: https://doi.org/10.7554/elife.92536, doi:10.7554/elife.92536. This article has 1 citations and is from a domain leading peer-reviewed journal.
+
+6. (guo2006brsk2isactivated pages 1-2): Zekun Guo, Wenwen Tang, Jian-Li Yuan, Xinya Chen, B. Wan, Xiuting Gu, K. Luo, Yingli Wang, and Long Yu. Brsk2 is activated by cyclic amp-dependent protein kinase a through phosphorylation at thr260. Biochemical and biophysical research communications, 347 4:867-71, Sep 2006. URL: https://doi.org/10.1016/j.bbrc.2006.06.178, doi:10.1016/j.bbrc.2006.06.178. This article has 21 citations and is from a peer-reviewed journal.
+
+7. (guo2006brsk2isactivated pages 2-4): Zekun Guo, Wenwen Tang, Jian-Li Yuan, Xinya Chen, B. Wan, Xiuting Gu, K. Luo, Yingli Wang, and Long Yu. Brsk2 is activated by cyclic amp-dependent protein kinase a through phosphorylation at thr260. Biochemical and biophysical research communications, 347 4:867-71, Sep 2006. URL: https://doi.org/10.1016/j.bbrc.2006.06.178, doi:10.1016/j.bbrc.2006.06.178. This article has 21 citations and is from a peer-reviewed journal.
+
+8. (johnson2023anatlasof pages 1-2): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+9. (johnson2023anatlasof pages 12-18): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+10. (sample2015polarizedactivitiesof pages 4-7): Vedangi Sample, Santosh Ramamurthy, Kirill Gorshkov, Gabriele V. Ronnett, and Jin Zhang. Polarized activities of ampk and brsk in primary hippocampal neurons. Molecular Biology of the Cell, 26:1935-1946, May 2015. URL: https://doi.org/10.1091/mbc.e14-02-0764, doi:10.1091/mbc.e14-02-0764. This article has 41 citations and is from a domain leading peer-reviewed journal.
+
+11. (tamir2020pkisdeepdive pages 1-2): Tigist Y Tamir, David H. Drewry, C. Wells, M. B. Major, M. B. Major, and Alison D. Axtman. Pkis deep dive yields a chemical starting point for dark kinases and a cell active brsk2 inhibitor. Scientific Reports, Jun 2020. URL: https://doi.org/10.1038/s41598-020-72869-9, doi:10.1038/s41598-020-72869-9. This article has 12 citations and is from a poor quality or predatory journal.
+
+12. (bendzunas2025redoxregulationand pages 18-19): George N Bendzunas, Dominic P Byrne, Safal Shrestha, Leonard A Daly, Sally O Oswald, Samiksha Katiyar, Aarya Venkat, Wayland Yeung, Claire E Eyers, Patrick A Eyers, and Natarajan Kannan. Redox regulation and dynamic control of brain-selective kinases brsk1/2 in the ampk family through cysteine-based mechanisms. eLife, Apr 2025. URL: https://doi.org/10.7554/elife.92536, doi:10.7554/elife.92536. This article has 1 citations and is from a domain leading peer-reviewed journal.
+
+13. (sample2015polarizedactivitiesof pages 7-10): Vedangi Sample, Santosh Ramamurthy, Kirill Gorshkov, Gabriele V. Ronnett, and Jin Zhang. Polarized activities of ampk and brsk in primary hippocampal neurons. Molecular Biology of the Cell, 26:1935-1946, May 2015. URL: https://doi.org/10.1091/mbc.e14-02-0764, doi:10.1091/mbc.e14-02-0764. This article has 41 citations and is from a domain leading peer-reviewed journal.
+
+14. (tamir2020pkisdeepdive pages 3-4): Tigist Y Tamir, David H. Drewry, C. Wells, M. B. Major, M. B. Major, and Alison D. Axtman. Pkis deep dive yields a chemical starting point for dark kinases and a cell active brsk2 inhibitor. Scientific Reports, Jun 2020. URL: https://doi.org/10.1038/s41598-020-72869-9, doi:10.1038/s41598-020-72869-9. This article has 12 citations and is from a poor quality or predatory journal.
+
+15. (tamir2020pkisdeepdive pages 4-5): Tigist Y Tamir, David H. Drewry, C. Wells, M. B. Major, M. B. Major, and Alison D. Axtman. Pkis deep dive yields a chemical starting point for dark kinases and a cell active brsk2 inhibitor. Scientific Reports, Jun 2020. URL: https://doi.org/10.1038/s41598-020-72869-9, doi:10.1038/s41598-020-72869-9. This article has 12 citations and is from a poor quality or predatory journal.
+
+16. (tamir2020pkisdeepdive pages 7-8): Tigist Y Tamir, David H. Drewry, C. Wells, M. B. Major, M. B. Major, and Alison D. Axtman. Pkis deep dive yields a chemical starting point for dark kinases and a cell active brsk2 inhibitor. Scientific Reports, Jun 2020. URL: https://doi.org/10.1038/s41598-020-72869-9, doi:10.1038/s41598-020-72869-9. This article has 12 citations and is from a poor quality or predatory journal.
+
+17. (tamir2020pkisdeepdive pages 8-8): Tigist Y Tamir, David H. Drewry, C. Wells, M. B. Major, M. B. Major, and Alison D. Axtman. Pkis deep dive yields a chemical starting point for dark kinases and a cell active brsk2 inhibitor. Scientific Reports, Jun 2020. URL: https://doi.org/10.1038/s41598-020-72869-9, doi:10.1038/s41598-020-72869-9. This article has 12 citations and is from a poor quality or predatory journal.
+
+18. (unknownauthors2011theregulationof pages 59-65): The regulation of tau-dependent neurodegeneration by Brain Selective/SAD kinases
+
+19. (unknownauthors2011theregulationof pages 65-70): The regulation of tau-dependent neurodegeneration by Brain Selective/SAD kinases
+
+20. (jaleel2006theubiquitinassociateddomain pages 11-11): M. Jaleel, F. Villa, M. Deák, R. Toth, A. Prescott, D. V. van Aalten, and D. Alessi. The ubiquitin-associated domain of ampk-related kinases regulates conformation and lkb1-mediated phosphorylation and activation. The Biochemical journal, 394 Pt 3:545-55, Mar 2006. URL: https://doi.org/10.1042/bj20051844, doi:10.1042/bj20051844. This article has 150 citations.
+
+21. (manning2002theproteinkinase pages 7-8): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+22. (tamir2020gainoffunctiongeneticscreen pages 3-5): Tigist Y Tamir, Brittany M. Bowman, M. Agajanian, Dennis Goldfarb, Dennis Goldfarb, Travis P. Schrank, Trent Stohrer, Andrew E. Hale, P. F. Siesser, S. Weir, Ryan M. Murphy, Kyle Lapak, B. Weissman, Nathaniel J. Moorman, and M. B. Major. Gain-of-function genetic screen of the kinome reveals brsk2 as an inhibitor of the nrf2 transcription factor. Journal of Cell Science, Jan 2020. URL: https://doi.org/10.1242/jcs.241356, doi:10.1242/jcs.241356. This article has 26 citations and is from a domain leading peer-reviewed journal.

@@ -1,0 +1,116 @@
+## Phylogeny  
+Orthologs of PKCθ (PRKCQ) are documented in human, mouse, rat and zebrafish, whereas no direct orthologs exist in Drosophila melanogaster, Caenorhabditis elegans or Saccharomyces cerevisiae, indicating a vertebrate-restricted emergence after early whole-genome duplications (garciaconcejo2021proteinkinasec pages 5-7).  
+Within the eukaryotic kinome PKCθ resides in the AGC group, PKC family, novel PKC (nPKC) sub-family, forming a δ/θ lineage distinct from the ε/η branch of nPKCs (garciaconcejo2021proteinkinasec pages 1-2, garciaconcejo2021proteinkinasec pages 7-10).  
+
+## Reaction Catalyzed  
+ATP + protein Ser/Thr → ADP + protein Ser/Thr-phosphate (liu2002phosphorylationofthe pages 10-11).  
+
+## Cofactor Requirements  
+Catalysis requires a divalent cation, typically Mg²⁺, coordinated by the conserved magnesium-positioning loop of the kinase core (messerschmidt2005crystalstructureof pages 2-5).  
+
+## Substrate Specificity  
+Biochemical and phosphoproteomic analyses show a preference for basic residues at −3/−2 relative to the phospho-acceptor and a downstream hydrophobic residue, yielding a consensus [R/K]-X-[R/K]-X-S/T-Φ motif (hayashi2007proteinkinasec pages 5-6, liu2002phosphorylationofthe pages 10-11).  
+
+## Structure  
+Domain organisation  
+• C2-like domain (N-terminus): Ca²⁺-independent membrane anchor (pappa1998crystalstructureof pages 1-2).  
+• Tandem C1A/C1B zinc-finger domains: bind diacylglycerol and phorbol esters; C1B provides high-affinity lipid interaction (rahman2013identificationofthe pages 3-4, czikora2018structuraldeterminantsof pages 1-6).  
+• Proline-rich V3 hinge: engages Lck SH3 for CD28-dependent synaptic recruitment (brezar2015pkcthetainregulatory pages 2-4).  
+• Bilobed catalytic domain (aa ≈ 361-706) with activation loop Thr538, turn motif Ser676, hydrophobic motif Ser695 and C-terminal V5 tail harbouring a nuclear localisation signal (seco2012allostericregulationof pages 1-2, hagesleiman2015thenovelpkcθ pages 2-3, brezar2015pkcthetainregulatory pages 6-8).
+
+3D structural information  
+• C1B domain crystal structure at 1.63 Å (PDB 4FKD) reveals a β-sandwich stabilised by two Zn²⁺ ions; Trp253 projects upward and narrows the activator pocket to 7.6 Å, enhancing membrane affinity (rahman2013identificationofthe pages 6-8).  
+• The catalytic domain adopts the canonical AGC fold with an ordered αC-helix, conserved Lys-Glu salt bridge, HRD catalytic triad and DFG motif, as resolved in PKCθ-related structures and confirmed for PKCθ by crystallography (igumenova2015dynamicsandmembrane pages 25-27).  
+Key regulatory elements  
+Phosphorylated Thr538 lines the activation loop, anchoring Arg/Lys residues that stabilise the active conformation; Ser695 packs against the hydrophobic spine, while the C-terminal tail embraces both lobes to secure the active kinase (seco2012allostericregulationof pages 1-2, hagesleiman2015thenovelpkcθ pages 1-2).  
+Unique feature  
+The upward orientation of Trp253 in C1B is distinctive to PKCθ among nPKCs and underlies its selective, stable accumulation at the immunological synapse (rahman2013identificationofthe pages 6-8).  
+
+## Regulation  
+Phosphorylation  
+• Thr538 (activation loop) – primed by PDK1 for maturation and phosphorylated by GLK/MAP4K3 upon TCR engagement; indispensable for catalytic activity and synaptic localisation (brezar2015pkcthetainregulatory pages 2-4, hayashi2007proteinkinasec pages 5-6).  
+• Thr219 – PKCθ autophosphorylation required for central SMAC accumulation (brezar2015pkcthetainregulatory pages 2-4).  
+• Ser676 (turn motif) and Ser695 (hydrophobic motif) – cis-autophosphorylation events that stabilise the enzyme (hayashi2007proteinkinasec pages 6-8).  
+• Tyr90 (C2-like) and Tyr907 – phosphorylated by Lck; modulate conformation and create potential SH2 docking sites (brezar2015pkcthetainregulatory pages 2-4, hayashi2007proteinkinasec pages 5-6).  
+
+Sumoylation  
+• Lys325 and Lys506 – conjugated with SUMO1 by PIASxβ; SENP1 removes the modification. Sumoylation augments immunological-synapse targeting, kinase activity and downstream NF-κB, NFAT and AP-1 signalling (wang2015tcrinducedsumoylationof pages 1-5).  
+
+Allosteric and conformational control  
+DAG binding to C1B displaces the autoregulatory pseudosubstrate and, together with PI3-K/Vav1-dependent membrane recruitment, completes activation (hayashi2007proteinkinasec pages 5-6, rahman2013identificationofthe pages 3-4).  
+
+## Function  
+Expression  
+PKCθ is highly expressed in thymocytes and peripheral T lymphocytes with lower levels in other tissues (rahman2013identificationofthe pages 1-3, brezar2015pkcthetainregulatory pages 1-2).  
+
+Upstream regulators  
+TCR/CD28 costimulation generates DAG and recruits Lck, Vav1, PI3-K and GLK to initiate PKCθ activation (hayashi2007proteinkinasec pages 5-6, brezar2015pkcthetainregulatory pages 2-4).  
+
+Direct substrates / interactors  
+• CARD11/CARMA1 serine cluster – phosphorylation triggers BCL10-MALT1 recruitment and canonical IKK activation (hayashi2007proteinkinasec pages 4-5).  
+• SPAK Ser311 – mediates AP-1 activation (hayashi2007proteinkinasec pages 4-5).  
+• WASP-interacting protein Ser488 – promotes actin polymerisation (hayashi2007proteinkinasec pages 6-8).  
+• IRS1 Ser1101 – attenuates Akt signalling and links PKCθ to insulin resistance (hayashi2007proteinkinasec pages 6-8).  
+• Tec family kinase – sustained association enhances PLCγ1 phosphorylation and Ca²⁺ influx (hayashi2007proteinkinasec pages 4-5).  
+
+Pathways  
+PKCθ is an obligate node for TCR-induced NF-κB, AP-1, NFAT and JNK activation, thereby governing IL-2 production, T-cell proliferation, survival and Th2/Th17 differentiation (brezar2015pkcthetainregulatory pages 2-4, hayashi2007proteinkinasec pages 4-5).  
+
+## Inhibitors  
+• Sotrastaurin (AEB071) – multi-PKC ATP-competitive inhibitor that suppresses early T-cell activation and has progressed to clinical evaluation (brezar2015pkcthetainregulatory pages 5-6).  
+• CGX1079 and CGX0471 – block Thr538 phosphorylation, prevent synaptic translocation and dampen NF-κB/NFAT/AP-1 signalling (brezar2015pkcthetainregulatory pages 6-8).  
+• Compound C20 increases regulatory T-cell suppressive capacity, whereas Compound C27 exhibits high selectivity for PKCθ with minimal off-target activity (brezar2015pkcthetainregulatory pages 5-6, brezar2015pkcthetainregulatory pages 6-8).  
+• R524 inhibits PKCθ and PKCα, curbing CD4⁺ T-cell proliferation and reducing graft-versus-host disease in models (brezar2015pkcthetainregulatory pages 9-10).  
+
+## Other Comments  
+PKCθ-mediated IRS1 phosphorylation implicates the kinase in metabolic disorders such as insulin resistance (hayashi2007proteinkinasec pages 6-8).  
+Sumoylation-dependent regulation of PKCθ influences HIV-1 transcription via effects on NF-κB, providing a link to viral pathogenesis (brezar2015pkcthetainregulatory pages 6-8).  
+Pharmacologic dual inhibition of PKCθ and PKCα mitigates graft-versus-host disease while preserving graft-versus-leukaemia effects, highlighting therapeutic potential in transplantation immunology (brezar2015pkcthetainregulatory pages 9-10).
+
+References
+
+1. (brezar2015pkcthetainregulatory pages 2-4): Vedran Brezar, Wen Juan Tu, and Nabila Seddiki. Pkc-theta in regulatory and effector t-cell functions. Frontiers in Immunology, Oct 2015. URL: https://doi.org/10.3389/fimmu.2015.00530, doi:10.3389/fimmu.2015.00530. This article has 58 citations and is from a peer-reviewed journal.
+
+2. (garciaconcejo2021proteinkinasec pages 1-2): Adrian Garcia-Concejo and Dan Larhammar. Protein kinase c family evolution in jawed vertebrates. Developmental Biology, 479:77-90, Nov 2021. URL: https://doi.org/10.1016/j.ydbio.2021.07.013, doi:10.1016/j.ydbio.2021.07.013. This article has 11 citations and is from a peer-reviewed journal.
+
+3. (hayashi2007proteinkinasec pages 5-6): Keitaro Hayashi and A. Altman. Protein kinase c theta (pkcθ): a key player in t cell life and death. Pharmacological Research, 55:537-544, Jun 2007. URL: https://doi.org/10.1016/j.phrs.2007.04.009, doi:10.1016/j.phrs.2007.04.009. This article has 250 citations and is from a highest quality peer-reviewed journal.
+
+4. (hayashi2007proteinkinasec pages 6-8): Keitaro Hayashi and A. Altman. Protein kinase c theta (pkcθ): a key player in t cell life and death. Pharmacological Research, 55:537-544, Jun 2007. URL: https://doi.org/10.1016/j.phrs.2007.04.009, doi:10.1016/j.phrs.2007.04.009. This article has 250 citations and is from a highest quality peer-reviewed journal.
+
+5. (rahman2013identificationofthe pages 1-3): G. Rahman, S. Shanker, N. Lewin, N. Kedei, C. S. Hill, B. V. Venkataram Prasad, P. Blumberg, and J. Das. Identification of the activator-binding residues in the second cysteine-rich regulatory domain of protein kinase cθ (pkcθ). Biochemical Journal, 453:153-153, Jun 2013. URL: https://doi.org/10.1042/bj4530153, doi:10.1042/bj4530153. This article has 30 citations and is from a domain leading peer-reviewed journal.
+
+6. (wang2015tcrinducedsumoylationof pages 1-5): Xu-Dong Wang, Yu Gong, Zhi-Long Chen, Bei-Ni Gong, Ji-Ji Xie, Chuan-Qi Zhong, Qi-Long Wang, Liang-Hui Diao, Anlong Xu, Jiahuai Han, Amnon Altman, and Yingqiu Li. Tcr-induced sumoylation of the kinase pkc-θ controls t cell synapse organization and t cell activation. Nature Immunology, 16:1195-1203, Sep 2015. URL: https://doi.org/10.1038/ni.3259, doi:10.1038/ni.3259. This article has 62 citations and is from a highest quality peer-reviewed journal.
+
+7. (brezar2015pkcthetainregulatory pages 1-2): Vedran Brezar, Wen Juan Tu, and Nabila Seddiki. Pkc-theta in regulatory and effector t-cell functions. Frontiers in Immunology, Oct 2015. URL: https://doi.org/10.3389/fimmu.2015.00530, doi:10.3389/fimmu.2015.00530. This article has 58 citations and is from a peer-reviewed journal.
+
+8. (brezar2015pkcthetainregulatory pages 6-8): Vedran Brezar, Wen Juan Tu, and Nabila Seddiki. Pkc-theta in regulatory and effector t-cell functions. Frontiers in Immunology, Oct 2015. URL: https://doi.org/10.3389/fimmu.2015.00530, doi:10.3389/fimmu.2015.00530. This article has 58 citations and is from a peer-reviewed journal.
+
+9. (garciaconcejo2021proteinkinasec pages 5-7): Adrian Garcia-Concejo and Dan Larhammar. Protein kinase c family evolution in jawed vertebrates. Developmental Biology, 479:77-90, Nov 2021. URL: https://doi.org/10.1016/j.ydbio.2021.07.013, doi:10.1016/j.ydbio.2021.07.013. This article has 11 citations and is from a peer-reviewed journal.
+
+10. (hagesleiman2015thenovelpkcθ pages 1-2): Rouba Hage-Sleiman, Asmaa B. Hamze, Lina Reslan, Hadile Kobeissy, and Ghassan Dbaibo. The novel pkcθ from benchtop to clinic. Journal of Immunology Research, May 2015. URL: https://doi.org/10.1155/2015/348798, doi:10.1155/2015/348798. This article has 39 citations and is from a peer-reviewed journal.
+
+11. (hayashi2007proteinkinasec pages 4-5): Keitaro Hayashi and A. Altman. Protein kinase c theta (pkcθ): a key player in t cell life and death. Pharmacological Research, 55:537-544, Jun 2007. URL: https://doi.org/10.1016/j.phrs.2007.04.009, doi:10.1016/j.phrs.2007.04.009. This article has 250 citations and is from a highest quality peer-reviewed journal.
+
+12. (igumenova2015dynamicsandmembrane pages 25-27): Tatyana I. Igumenova. Dynamics and membrane interactions of protein kinase c. Biochemistry, 54:4953-4968, Aug 2015. URL: https://doi.org/10.1021/acs.biochem.5b00565, doi:10.1021/acs.biochem.5b00565. This article has 111 citations and is from a peer-reviewed journal.
+
+13. (seco2012allostericregulationof pages 1-2): Jesus Seco, Carles Ferrer‐Costa, Josep M. Campanera, Robert Soliva, and Xavier Barril. Allosteric regulation of pkcθ: understanding multistep phosphorylation and priming by ligands in agc kinases. Proteins: Structure, Jan 2012. URL: https://doi.org/10.1002/prot.23205, doi:10.1002/prot.23205. This article has 27 citations.
+
+14. (brezar2015pkcthetainregulatory pages 5-6): Vedran Brezar, Wen Juan Tu, and Nabila Seddiki. Pkc-theta in regulatory and effector t-cell functions. Frontiers in Immunology, Oct 2015. URL: https://doi.org/10.3389/fimmu.2015.00530, doi:10.3389/fimmu.2015.00530. This article has 58 citations and is from a peer-reviewed journal.
+
+15. (brezar2015pkcthetainregulatory pages 9-10): Vedran Brezar, Wen Juan Tu, and Nabila Seddiki. Pkc-theta in regulatory and effector t-cell functions. Frontiers in Immunology, Oct 2015. URL: https://doi.org/10.3389/fimmu.2015.00530, doi:10.3389/fimmu.2015.00530. This article has 58 citations and is from a peer-reviewed journal.
+
+16. (czikora2018structuraldeterminantsof pages 1-6): Agnes Czikora, Satyabrata Pany, Youngki You, Amandeep S. Saini, Nancy E. Lewin, Gary A. Mitchell, Adelle Abramovitz, Noemi Kedei, Peter M. Blumberg, and Joydip Das. Structural determinants of phorbol ester binding activity of the c1a and c1b domains of protein kinase c theta. Biochimica et Biophysica Acta (BBA) - Biomembranes, 1860:1046-1056, May 2018. URL: https://doi.org/10.1016/j.bbamem.2018.01.007, doi:10.1016/j.bbamem.2018.01.007. This article has 5 citations.
+
+17. (garciaconcejo2021proteinkinasec pages 7-10): Adrian Garcia-Concejo and Dan Larhammar. Protein kinase c family evolution in jawed vertebrates. Developmental Biology, 479:77-90, Nov 2021. URL: https://doi.org/10.1016/j.ydbio.2021.07.013, doi:10.1016/j.ydbio.2021.07.013. This article has 11 citations and is from a peer-reviewed journal.
+
+18. (hagesleiman2015thenovelpkcθ pages 2-3): Rouba Hage-Sleiman, Asmaa B. Hamze, Lina Reslan, Hadile Kobeissy, and Ghassan Dbaibo. The novel pkcθ from benchtop to clinic. Journal of Immunology Research, May 2015. URL: https://doi.org/10.1155/2015/348798, doi:10.1155/2015/348798. This article has 39 citations and is from a peer-reviewed journal.
+
+19. (liu2002phosphorylationofthe pages 10-11): Yin LIU, Caroline GRAHAM, Aiqun LI, Robert J. FISHER, and Stephen SHAW. Phosphorylation of the protein kinase c-theta activation loop and hydrophobic motif regulates its kinase activity, but only activation loop phosphorylation is critical to in vivo nuclear-factor-kappab induction. The Biochemical journal, 361 Pt 2:255-65, Jan 2002. URL: https://doi.org/10.1042/bj3610255, doi:10.1042/bj3610255. This article has 151 citations.
+
+20. (messerschmidt2005crystalstructureof pages 2-5): Albrecht Messerschmidt, Sofia Macieira, Milko Velarde, Mathias Bädeker, Christian Benda, Anja Jestel, Hans Brandstetter, Torsten Neuefeind, and Michael Blaesse. Crystal structure of the catalytic domain of human atypical protein kinase c-iota reveals interaction mode of phosphorylation site in turn motif. Journal of molecular biology, 352 4:918-31, Sep 2005. URL: https://doi.org/10.1016/j.jmb.2005.07.060, doi:10.1016/j.jmb.2005.07.060. This article has 123 citations and is from a domain leading peer-reviewed journal.
+
+21. (pappa1998crystalstructureof pages 1-2): H. Pappa, J. Murray-Rust, L. Dekker, P. Parker, and N. McDonald. Crystal structure of the c2 domain from protein kinase c-delta. Structure, 6 7:885-94, Jul 1998. URL: https://doi.org/10.1016/s0969-2126(98)00090-2, doi:10.1016/s0969-2126(98)00090-2. This article has 172 citations and is from a domain leading peer-reviewed journal.
+
+22. (rahman2013identificationofthe pages 3-4): G. Rahman, S. Shanker, N. Lewin, N. Kedei, C. S. Hill, B. V. Venkataram Prasad, P. Blumberg, and J. Das. Identification of the activator-binding residues in the second cysteine-rich regulatory domain of protein kinase cθ (pkcθ). Biochemical Journal, 453:153-153, Jun 2013. URL: https://doi.org/10.1042/bj4530153, doi:10.1042/bj4530153. This article has 30 citations and is from a domain leading peer-reviewed journal.
+
+23. (rahman2013identificationofthe pages 6-8): G. Rahman, S. Shanker, N. Lewin, N. Kedei, C. S. Hill, B. V. Venkataram Prasad, P. Blumberg, and J. Das. Identification of the activator-binding residues in the second cysteine-rich regulatory domain of protein kinase cθ (pkcθ). Biochemical Journal, 453:153-153, Jun 2013. URL: https://doi.org/10.1042/bj4530153, doi:10.1042/bj4530153. This article has 30 citations and is from a domain leading peer-reviewed journal.

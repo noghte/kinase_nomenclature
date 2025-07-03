@@ -1,0 +1,60 @@
+## Phylogeny
+Based on updated genomic analyses, PDPK2P is identified as one of three kinase genes recently recognized as likely pseudogenes, along with SIK1B and PRKY (faezov2023alphafold2modelsof pages 4-6). It is therefore excluded from the curated list of 481 catalytically active human protein kinase genes and 494 domains (faezov2023alphafold2modelsof pages 4-6). The provided literature does not specify orthologs or the precise phylogenetic relationship between PDPK2P and PDPK1 (faezov2023alphafold2modelsof pages 1-4, pei2023computationalanalysisof pages 15-16).
+
+
+
+## Reaction Catalyzed
+PDPK2P is classified as a pseudogene and lacks evidence of catalytic activity (faezov2023alphafold2modelsof pages 4-6). It is not included among the 437 active human kinase domains characterized by the presence of conserved catalytic residues essential for phosphotransferase activity, such as the Asp in the HRD and DFG motifs and the Lys involved in the N-terminal domain salt bridge (faezov2023alphafold2modelsof pages 4-6, faezov2023alphafold2modelsof pages 4-6).
+
+
+
+## Cofactor Requirements
+The provided literature does not contain information on cofactor requirements for PDPK2P (faezov2023alphafold2modelsof pages 4-6, pei2023computationalanalysisof pages 15-16).
+
+
+
+## Substrate Specificity
+The provided literature contains no information regarding substrate motifs or specificity for PDPK2P (faezov2023alphafold2modelsof pages 4-6, pei2023computationalanalysisof pages 15-16).
+
+
+
+## Structure
+Eukaryotic protein kinases (ePKs) share a conserved catalytic domain with an N-terminal lobe composed mostly of β-sheets and a C-terminal lobe that is predominantly α-helical (unknownauthors2016structuralandfunctional pages 8-13, pei2023computationalanalysisof pages 1-2). PDPK2P is confirmed as a pseudokinase due to the absence of or substitutions in key conserved residues within its catalytic motifs (faezov2023alphafold2modelsof pages 4-6, faezov2023alphafold2modelsof pages 4-6). AlphaFold structural models (AF-Q6A1A2-F1) reveal the structural consequences of these deviations (faezov2023alphafold2modelsof pages 4-6). The disruptions occur in the following critical motifs:
+1.  **The β3-Strand Lysine:** In active kinases, a conserved lysine within the VAIK motif forms a critical salt bridge with a glutamate in the αC helix, which stabilizes and positions ATP for catalysis (unknownauthors2014biochemicalanalysisof pages 23-26, unknownauthors2016structuralandfunctional pages 13-18). PDPK2P lacks this critical lysine, which disrupts the N-terminal domain salt bridge, thereby impairing ATP binding and catalysis (faezov2023alphafold2modelsof pages 4-6).
+2.  **The Catalytic Loop HRD Motif:** The aspartate (D) in this motif acts as the essential catalytic base, accepting a proton from the substrate's hydroxyl group to enable nucleophilic attack on ATP's gamma-phosphate (unknownauthors2014biochemicalanalysisof pages 23-26, unknownauthors2016structuralandfunctional pages 13-18). PDPK2P has substitutions or an absence of this conserved aspartate, which abolishes its catalytic function (faezov2023alphafold2modelsof pages 4-6, faezov2023alphafold2modelsof pages 4-6).
+3.  **The Activation Loop DFG Motif:** The aspartate (D) in this motif is crucial for binding the Mg²⁺/Mn²⁺ metal cofactor that coordinates the phosphate groups of ATP (unknownauthors2016structuralandfunctional pages 13-18, reiterer2014dayofthe pages 5-6). PDPK2P features alterations or an absence of the DFG aspartate, which disrupts metal ion coordination and disables catalytic function (faezov2023alphafold2modelsof pages 4-6, faezov2023alphafold2modelsof pages 4-6).
+
+While the source literature confirms these motif disruptions in PDPK2P, it does not provide the specific residue-level details of the substitutions (faezov2023alphafold2modelsof pages 4-6).
+
+
+
+## Regulation
+No known post-translational modifications or other regulatory mechanisms for PDPK2P are described in the provided literature (faezov2023alphafold2modelsof pages 4-6, pei2023computationalanalysisof pages 15-16).
+
+
+
+## Function
+The provided literature contains no data on the expression patterns, interacting partners, or specific biological roles of PDPK2P (faezov2023alphafold2modelsof pages 4-6, pei2023computationalanalysisof pages 15-16).
+
+
+
+## Other Comments
+There is no information on disease associations for PDPK2P in the provided texts (faezov2023alphafold2modelsof pages 4-6, pei2023computationalanalysisof pages 15-16).
+
+References
+
+1. (faezov2023alphafold2modelsof pages 4-6): Bulat Faezov and Roland L. Dunbrack. Alphafold2 models of the active form of all 437 catalytically competent human protein kinase domains. BioRxiv, Jul 2023. URL: https://doi.org/10.1101/2023.07.21.550125, doi:10.1101/2023.07.21.550125. This article has 29 citations.
+
+2. (unknownauthors2014biochemicalanalysisof pages 23-26): Biochemical Analysis of Human Cancer-Associated Pseudokinases
+
+3. (unknownauthors2016structuralandfunctional pages 13-18): Structural and functional characterization of the human Tribbles Homologue 2 pseudokinase
+
+4. (unknownauthors2016structuralandfunctional pages 8-13): Structural and functional characterization of the human Tribbles Homologue 2 pseudokinase
+
+5. (faezov2023alphafold2modelsof pages 1-4): Bulat Faezov and Roland L. Dunbrack. Alphafold2 models of the active form of all 437 catalytically competent human protein kinase domains. BioRxiv, Jul 2023. URL: https://doi.org/10.1101/2023.07.21.550125, doi:10.1101/2023.07.21.550125. This article has 29 citations.
+
+6. (pei2023computationalanalysisof pages 15-16): Jimin Pei and Qian Cong. Computational analysis of regulatory regions in human protein kinases. Protein Science, Sep 2023. URL: https://doi.org/10.1002/pro.4764, doi:10.1002/pro.4764. This article has 3 citations and is from a peer-reviewed journal.
+
+7. (reiterer2014dayofthe pages 5-6): Veronika Reiterer, Patrick A. Eyers, and Hesso Farhan. Day of the dead: pseudokinases and pseudophosphatases in physiology and disease. Trends in Cell Biology, 24:489-505, Sep 2014. URL: https://doi.org/10.1016/j.tcb.2014.03.008, doi:10.1016/j.tcb.2014.03.008. This article has 201 citations and is from a domain leading peer-reviewed journal.
+
+8. (pei2023computationalanalysisof pages 1-2): Jimin Pei and Qian Cong. Computational analysis of regulatory regions in human protein kinases. Protein Science, Sep 2023. URL: https://doi.org/10.1002/pro.4764, doi:10.1002/pro.4764. This article has 3 citations and is from a peer-reviewed journal.

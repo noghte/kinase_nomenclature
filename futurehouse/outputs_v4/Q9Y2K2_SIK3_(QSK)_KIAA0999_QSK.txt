@@ -1,0 +1,97 @@
+## Phylogeny  
+SIK3 is classified within the Ca²⁺/calmodulin-dependent kinase (CAMK) group as an AMPK-related kinase alongside SIK1 and SIK2 (darling2021nutsandbolts pages 1-2).  
+Large-scale kinome surveys corroborate this placement within the salt-inducible kinase clade (henriksson2012theampkrelatedkinase pages 11-11).  
+Orthologs are conserved in mouse (Sik3), rat (Sik3), zebrafish (sik3), Drosophila (Sik3 and Sik2), Caenorhabditis elegans (KIN-29) and yeast AMPK-family kinases, indicating deep evolutionary conservation (sahin2020saltinduciblekinases pages 21-22).  
+In vertebrates, Sik2 and Sik3 genes reside in synteny on the same chromosome, whereas Sik1 is located separately, consistent with segmental duplication events (bicanovsky2025genemodelfor pages 5-6).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr → ADP + [protein]-Ser/Thr-P (darling2021nutsandbolts pages 4-6).  
+
+## Cofactor Requirements  
+Catalytic activity depends on a divalent metal ion; Mg²⁺ is preferred, while Mn²⁺ can substitute in vitro, consistent with other AMPK-related kinases (darling2021nutsandbolts pages 16-18).  
+
+## Substrate Specificity  
+Basophilic consensus motif: LxB(S/T)xSxxxL, where B = Lys/Arg, generating 14-3-3 docking sites upon phosphorylation (darling2021nutsandbolts pages 2-4).  
+Validated physiological sites include CRTC2 Ser171, CRTC3 Ser273 and HDAC4 Ser246/Ser467 (sonntag201814‐3‐3proteinsmediate pages 14-17).  
+
+## Structure  
+The protein comprises an N-terminal bilobed kinase domain followed by a three-helix ubiquitin-associated (UBA) domain and a long regulatory C-terminal tail (oster2024thestructuresof pages 2-3).  
+Crystal structures of the M59–R385 fragment in complex with inhibitors (PDB 8R4V, 8R4O, 8R4Q, 8R4U) show an active DFG-in/αC-in conformation stabilised by phospho-Thr221 in the activation loop (oster2024thestructuresof pages 5-6).  
+Key catalytic motifs VAIK, HRD, DFG and a threonine gatekeeper (Thr142) shape an enlarged back pocket exploited by selective inhibitors (oster2024thestructuresof pages 7-8).  
+The UBA domain packs against the N-lobe, locking αC in place and acting as a stabilising switch analogous to MARK/MELK kinases (oster2024thestructuresof pages 12-13).  
+The AlphaFold model AF-Q9Y2K2-F1 mirrors the crystal fold and predicts a largely disordered C-tail bearing multiple regulatory phosphosites (oster2024thestructuresof pages 17-18).  
+
+## Regulation  
+LKB1 phosphorylates Thr221 in the activation loop, enabling catalytic activity (darling2021nutsandbolts pages 1-2).  
+PKA phosphorylates Thr411, Ser493, Ser551 and Ser616 in the C-tail, recruiting 14-3-3 proteins and inhibiting kinase function (darling2021nutsandbolts pages 11-12).  
+PTH1R signalling suppresses SIK3 via PKA in growth-plate chondrocytes, integrating hormonal cues with kinase activity (nishimori2019saltinduciblekinasesdictate pages 1-2).  
+Loss or inhibition of SIK3 leads to DEPTOR accumulation and reduced mTORC1/2 signalling (csukasi2018thepthpthrpsik3pathway pages 1-1).  
+The UBA domain is required for efficient LKB1-mediated activation by stabilising the αC-in conformation (oster2024thestructuresof pages 12-13).  
+
+## Function  
+SIK3 mRNA is abundant in brain, liver, cartilage and immune cells, indicating broad physiological roles (unknownauthors2017saltinduciblekinasesin pages 30-33).  
+In growth-plate chondrocytes, SIK3 phosphorylates DEPTOR, thereby enhancing mTORC1/2 activity to drive hypertrophic differentiation and ossification (csukasi2018thepthpthrpsik3pathway pages 6-8).  
+The kinase functions downstream of PTH1R to couple hormonal signals with nutrient sensing during skeletogenesis (csukasi2018thepthpthrpsik3pathway pages 5-6).  
+In metabolic tissues, active SIK3 phosphorylates CRTC2/3 and class IIa HDACs, retaining them in the cytoplasm and suppressing CREB- and MEF2-dependent transcription (sonntag201814‐3‐3proteinsmediate pages 14-17).  
+Pharmacological or genetic inhibition of SIK3 in macrophages skews differentiation toward an anti-inflammatory phenotype with elevated IL-10 (darling2017inhibitionofsik2 pages 7-8).  
+
+## Inhibitors  
+HG-9-91-01: first-generation pan-SIK inhibitor, IC₅₀ = 430 nM for SIK3 (peixoto2024discoveryofclinical pages 3-3).  
+YKL-05-099: optimized analogue, IC₅₀ = 30 nM for SIK3 and efficacious in AML models (peixoto2024discoveryofclinical pages 3-3).  
+ARN-3236: dual SIK2/SIK3 inhibitor, IC₅₀ = 6.6 nM for SIK3; enhances paclitaxel response in ovarian cancer (peixoto2024discoveryofclinical pages 3-3).  
+MRIA9: tool compound, IC₅₀ = 22 nM for SIK3, co-crystalised to map binding determinants (peixoto2024discoveryofclinical pages 3-3, oster2024thestructuresof pages 8-10).  
+GLPG3312 and related analogues provide improved pharmacokinetics for pan-SIK inhibition (temallaib2023optimizationofselectivity pages 4-6).  
+
+## Other Comments  
+A homozygous catalytic-domain mutation p.R129C abolishes kinase activity, causes DEPTOR accumulation and results in recessive metaphyseal skeletal dysplasia with immune deficiency (csukasi2018thepthpthrpsik3pathway pages 3-5).  
+Sik3-null mice display disorganised growth plates and delayed chondrocyte hypertrophy, recapitulating human pathology (csukasi2018thepthpthrpsik3pathway pages 6-8).
+
+References
+
+1. (csukasi2018thepthpthrpsik3pathway pages 1-1): Fabiana Csukasi, Ivan Duran, Maya Barad, Tomas Barta, Iva Gudernova, Lukas Trantirek, Jorge H. Martin, Caroline Y. Kuo, Jeremy Woods, Hane Lee, Daniel H. Cohn, Pavel Krejci, and Deborah Krakow. The pth/pthrp-sik3 pathway affects skeletogenesis through altered mtor signaling. Science Translational Medicine, Sep 2018. URL: https://doi.org/10.1126/scitranslmed.aat9356, doi:10.1126/scitranslmed.aat9356. This article has 55 citations and is from a highest quality peer-reviewed journal.
+
+2. (csukasi2018thepthpthrpsik3pathway pages 3-5): Fabiana Csukasi, Ivan Duran, Maya Barad, Tomas Barta, Iva Gudernova, Lukas Trantirek, Jorge H. Martin, Caroline Y. Kuo, Jeremy Woods, Hane Lee, Daniel H. Cohn, Pavel Krejci, and Deborah Krakow. The pth/pthrp-sik3 pathway affects skeletogenesis through altered mtor signaling. Science Translational Medicine, Sep 2018. URL: https://doi.org/10.1126/scitranslmed.aat9356, doi:10.1126/scitranslmed.aat9356. This article has 55 citations and is from a highest quality peer-reviewed journal.
+
+3. (csukasi2018thepthpthrpsik3pathway pages 5-6): Fabiana Csukasi, Ivan Duran, Maya Barad, Tomas Barta, Iva Gudernova, Lukas Trantirek, Jorge H. Martin, Caroline Y. Kuo, Jeremy Woods, Hane Lee, Daniel H. Cohn, Pavel Krejci, and Deborah Krakow. The pth/pthrp-sik3 pathway affects skeletogenesis through altered mtor signaling. Science Translational Medicine, Sep 2018. URL: https://doi.org/10.1126/scitranslmed.aat9356, doi:10.1126/scitranslmed.aat9356. This article has 55 citations and is from a highest quality peer-reviewed journal.
+
+4. (csukasi2018thepthpthrpsik3pathway pages 6-8): Fabiana Csukasi, Ivan Duran, Maya Barad, Tomas Barta, Iva Gudernova, Lukas Trantirek, Jorge H. Martin, Caroline Y. Kuo, Jeremy Woods, Hane Lee, Daniel H. Cohn, Pavel Krejci, and Deborah Krakow. The pth/pthrp-sik3 pathway affects skeletogenesis through altered mtor signaling. Science Translational Medicine, Sep 2018. URL: https://doi.org/10.1126/scitranslmed.aat9356, doi:10.1126/scitranslmed.aat9356. This article has 55 citations and is from a highest quality peer-reviewed journal.
+
+5. (darling2021nutsandbolts pages 1-2): Nicola J. Darling and Philip Cohen. Nuts and bolts of the salt-inducible kinases (siks). Biochemical Journal, 478:1377-1397, Apr 2021. URL: https://doi.org/10.1042/bcj20200502, doi:10.1042/bcj20200502. This article has 98 citations and is from a domain leading peer-reviewed journal.
+
+6. (darling2021nutsandbolts pages 16-18): Nicola J. Darling and Philip Cohen. Nuts and bolts of the salt-inducible kinases (siks). Biochemical Journal, 478:1377-1397, Apr 2021. URL: https://doi.org/10.1042/bcj20200502, doi:10.1042/bcj20200502. This article has 98 citations and is from a domain leading peer-reviewed journal.
+
+7. (darling2021nutsandbolts pages 4-6): Nicola J. Darling and Philip Cohen. Nuts and bolts of the salt-inducible kinases (siks). Biochemical Journal, 478:1377-1397, Apr 2021. URL: https://doi.org/10.1042/bcj20200502, doi:10.1042/bcj20200502. This article has 98 citations and is from a domain leading peer-reviewed journal.
+
+8. (oster2024thestructuresof pages 12-13): Linda Öster, Marie Castaldo, Emma de Vries, Fredrik Edfeldt, Nils Pemberton, Euan Gordon, Linda Cederblad, and Helena Käck. The structures of salt-inducible kinase 3 in complex with inhibitors reveal determinants for binding and selectivity. Journal of Biological Chemistry, 300:107201, May 2024. URL: https://doi.org/10.1016/j.jbc.2024.107201, doi:10.1016/j.jbc.2024.107201. This article has 4 citations and is from a domain leading peer-reviewed journal.
+
+9. (oster2024thestructuresof pages 17-18): Linda Öster, Marie Castaldo, Emma de Vries, Fredrik Edfeldt, Nils Pemberton, Euan Gordon, Linda Cederblad, and Helena Käck. The structures of salt-inducible kinase 3 in complex with inhibitors reveal determinants for binding and selectivity. Journal of Biological Chemistry, 300:107201, May 2024. URL: https://doi.org/10.1016/j.jbc.2024.107201, doi:10.1016/j.jbc.2024.107201. This article has 4 citations and is from a domain leading peer-reviewed journal.
+
+10. (oster2024thestructuresof pages 2-3): Linda Öster, Marie Castaldo, Emma de Vries, Fredrik Edfeldt, Nils Pemberton, Euan Gordon, Linda Cederblad, and Helena Käck. The structures of salt-inducible kinase 3 in complex with inhibitors reveal determinants for binding and selectivity. Journal of Biological Chemistry, 300:107201, May 2024. URL: https://doi.org/10.1016/j.jbc.2024.107201, doi:10.1016/j.jbc.2024.107201. This article has 4 citations and is from a domain leading peer-reviewed journal.
+
+11. (oster2024thestructuresof pages 5-6): Linda Öster, Marie Castaldo, Emma de Vries, Fredrik Edfeldt, Nils Pemberton, Euan Gordon, Linda Cederblad, and Helena Käck. The structures of salt-inducible kinase 3 in complex with inhibitors reveal determinants for binding and selectivity. Journal of Biological Chemistry, 300:107201, May 2024. URL: https://doi.org/10.1016/j.jbc.2024.107201, doi:10.1016/j.jbc.2024.107201. This article has 4 citations and is from a domain leading peer-reviewed journal.
+
+12. (oster2024thestructuresof pages 7-8): Linda Öster, Marie Castaldo, Emma de Vries, Fredrik Edfeldt, Nils Pemberton, Euan Gordon, Linda Cederblad, and Helena Käck. The structures of salt-inducible kinase 3 in complex with inhibitors reveal determinants for binding and selectivity. Journal of Biological Chemistry, 300:107201, May 2024. URL: https://doi.org/10.1016/j.jbc.2024.107201, doi:10.1016/j.jbc.2024.107201. This article has 4 citations and is from a domain leading peer-reviewed journal.
+
+13. (oster2024thestructuresof pages 8-10): Linda Öster, Marie Castaldo, Emma de Vries, Fredrik Edfeldt, Nils Pemberton, Euan Gordon, Linda Cederblad, and Helena Käck. The structures of salt-inducible kinase 3 in complex with inhibitors reveal determinants for binding and selectivity. Journal of Biological Chemistry, 300:107201, May 2024. URL: https://doi.org/10.1016/j.jbc.2024.107201, doi:10.1016/j.jbc.2024.107201. This article has 4 citations and is from a domain leading peer-reviewed journal.
+
+14. (sonntag201814‐3‐3proteinsmediate pages 14-17): Tim Sonntag, Joan M. Vaughan, and Marc Montminy. 14‐3‐3 proteins mediate inhibitory effects of camp on salt‐inducible kinases (siks). The FEBS Journal, Feb 2018. URL: https://doi.org/10.1111/febs.14351, doi:10.1111/febs.14351. This article has 73 citations.
+
+15. (temallaib2023optimizationofselectivity pages 4-6): Taouès Temal-Laib, Christophe Peixoto, Nicolas Desroy, Elsa De Lemos, Florence Bonnaterre, Natacha Bienvenu, Olivier Picolet, Eric Sartori, Denis Bucher, Miriam López-Ramos, Carlos Roca Magadán, Wendy Laenen, Thomas Flower, Patrick Mollat, Olivier Bugaud, Robert Touitou, Anna Pereira Fernandes, Stephanie Lavazais, Alain Monjardet, Monica Borgonovi, Romain Gosmini, Reginald Brys, David Amantini, Steve De Vos, and Martin Andrews. Optimization of selectivity and pharmacokinetic properties of salt-inducible kinase inhibitors that led to the discovery of pan-sik inhibitor glpg3312. Journal of Medicinal Chemistry, 67:380-401, Dec 2023. URL: https://doi.org/10.1021/acs.jmedchem.3c01428, doi:10.1021/acs.jmedchem.3c01428. This article has 12 citations and is from a highest quality peer-reviewed journal.
+
+16. (unknownauthors2017saltinduciblekinasesin pages 30-33): Salt-inducible kinases in adipose tissue
+
+17. (bicanovsky2025genemodelfor pages 5-6): Gabriella N. Bicanovsky, Karolina J. Senkow, Cassidy J McColl, Jennifer Mierisch, Kellie S. Agrimson, Lindsey J. Long, Judith Leatherman, Chinmay P. Rele, and Laura K. Reed. Gene model for the ortholog of sik3 in drosophila mojavensis. microPublication Biology, Apr 2025. URL: https://doi.org/10.17912/micropub.biology.001032, doi:10.17912/micropub.biology.001032. This article has 0 citations.
+
+18. (darling2017inhibitionofsik2 pages 7-8): Nicola J. Darling, R. Toth, J. Arthur, and K. Clark. Inhibition of sik2 and sik3 during differentiation enhances the anti-inflammatory phenotype of macrophages. Biochemical Journal, 474:521-537, Dec 2017. URL: https://doi.org/10.1042/bcj20160646, doi:10.1042/bcj20160646. This article has 80 citations and is from a domain leading peer-reviewed journal.
+
+19. (darling2021nutsandbolts pages 11-12): Nicola J. Darling and Philip Cohen. Nuts and bolts of the salt-inducible kinases (siks). Biochemical Journal, 478:1377-1397, Apr 2021. URL: https://doi.org/10.1042/bcj20200502, doi:10.1042/bcj20200502. This article has 98 citations and is from a domain leading peer-reviewed journal.
+
+20. (darling2021nutsandbolts pages 2-4): Nicola J. Darling and Philip Cohen. Nuts and bolts of the salt-inducible kinases (siks). Biochemical Journal, 478:1377-1397, Apr 2021. URL: https://doi.org/10.1042/bcj20200502, doi:10.1042/bcj20200502. This article has 98 citations and is from a domain leading peer-reviewed journal.
+
+21. (henriksson2012theampkrelatedkinase pages 11-11): Emma Henriksson, Helena A. Jones, Kashyap Patel, Mark Peggie, Nicholas Morrice, Kei Sakamoto, and Olga Göransson. The ampk-related kinase sik2 is regulated by camp via phosphorylation at ser358 in adipocytes. Biochemical Journal, 444:503-514, May 2012. URL: https://doi.org/10.1042/bj20111932, doi:10.1042/bj20111932. This article has 88 citations and is from a domain leading peer-reviewed journal.
+
+22. (nishimori2019saltinduciblekinasesdictate pages 1-2): Shigeki Nishimori, Maureen J. O’Meara, Christian D. Castro, Hiroshi Noda, Murat Cetinbas, Janaina da Silva Martins, Ugur Ayturk, Daniel J. Brooks, Michael Bruce, Mizuki Nagata, Wanida Ono, Christopher J. Janton, Mary L. Bouxsein, Marc Foretz, Rebecca Berdeaux, Ruslan I. Sadreyev, Thomas J. Gardella, Harald Jüppner, Henry M. Kronenberg, and Marc N. Wein. Salt-inducible kinases dictate parathyroid hormone 1 receptor action in bone development and remodeling. Journal of Clinical Investigation, 129:5187-5203, Oct 2019. URL: https://doi.org/10.1172/jci130126, doi:10.1172/jci130126. This article has 46 citations and is from a highest quality peer-reviewed journal.
+
+23. (peixoto2024discoveryofclinical pages 3-3): C. Peixoto, Agnès Joncour, Taouès Temal-Laib, Amynata Tirera, Aurélie Dos Santos, Hélène Jary, Denis Bucher, Wendy Laenen, Anna Pereira Fernandes, S. Lavazais, C. Delachaume, D. Merciris, Corinne Saccomani, Michael Drennan, Miriam López-Ramos, Emanuelle Wakselman, Sonia Dupont, M. Borgonovi, Carlos Roca Magadán, A. Monjardet, R. Brys, S. De Vos, Martin Andrews, Juan-Miguel Jimenez, D. Amantini, and Nicolas Desroy. Discovery of clinical candidate glpg3970: a potent and selective dual sik2/sik3 inhibitor for the treatment of autoimmune and inflammatory diseases. Journal of Medicinal Chemistry, 67:5233-5258, Mar 2024. URL: https://doi.org/10.1021/acs.jmedchem.3c02246, doi:10.1021/acs.jmedchem.3c02246. This article has 11 citations and is from a highest quality peer-reviewed journal.
+
+24. (sahin2020saltinduciblekinases pages 21-22): H. B. Şahin, Sercan Sayin, M. Holder, K. Buğra, and A. Çelik. Salt inducible kinases as novel notch interactors in the developing drosophila retina. PLoS ONE, Oct 2020. URL: https://doi.org/10.1371/journal.pone.0234744, doi:10.1371/journal.pone.0234744. This article has 6 citations and is from a peer-reviewed journal.

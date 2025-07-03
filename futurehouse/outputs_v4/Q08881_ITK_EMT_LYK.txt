@@ -1,0 +1,87 @@
+## Phylogeny  
+• Tyrosine-protein kinase ITK belongs to the TK group, Tec family, clustering with BTK, TEC, BMX and RLK/TXK in kinome phylogenies derived from the Manning 2002 data set (unknownauthors2013studiesonitksyk pages 12-15).  
+• Vertebrate orthologs are documented in mouse and rat, with functional conservation across species indicated by Itk-/- murine models (zhong2014targetinginterleukin2inducibletcell pages 6-8).  
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine → ADP + protein-L-tyrosine-phosphate (burch2014propertyandstructureguided pages 12-13).  
+
+## Cofactor Requirements  
+Catalysis is strictly ATP-dependent and requires divalent cations; Mg²⁺ is obligatory and Mn²⁺ can substitute in vitro (unknownauthors2013studiesonitksyk pages 26-29, unknownauthors2023gapjunctionalintercellular pages 66-71).  
+
+## Substrate Specificity  
+• Validated substrates include PLCγ1 (Tyr775/Tyr783), LAT, LCP2/SLP-76, and VAV1 (zhong2014targetinginterleukin2inducibletcell pages 11-13, ghosh2018interleukin2inducibletcellkinase pages 3-4).  
+• Intrinsic consensus motif preferences have not been experimentally defined in the available excerpts; Yaron-Barir 2024 is referenced but no sequence logo is reported (unknownauthors2023gapjunctionalintercellular pages 165-167).  
+
+## Structure  
+Domain organisation: PH (1-~100) → Tec-homology with proline-rich region (PRR) → SH3 → SH2 → kinase (SH1) (ghosh2018interleukin2inducibletcellkinase pages 3-4, zhong2014targetinginterleukin2inducibletcell pages 1-3).  
+3D features:  
+• Crystal structures of the isolated kinase domain complexed with benzothiazole inhibitors reveal the canonical bilobal fold, a Phe435 gatekeeper and a Ser442 hinge contact conferring selectivity (mackinnon2013structurebaseddesignand pages 5-5).  
+• Allosteric inhibitor complexes capture an αC-out inactive state defining a non-ATP regulatory pocket (han2014selectivelytargetingan pages 1-2).  
+• The PH domain adopts a β-sandwich lipid-binding fold; stabilising mutations were mapped by NMR (boyken2012rescueofthe pages 10-10).  
+Key catalytic/regulatory residues: Lys391 (β3), Glu436/Met438 (hinge), Tyr511 (activation loop), Tyr180 (SH3 autophosphorylation site) (han2014selectivelytargetingan pages 1-2, mackinnon2013structurebaseddesignand pages 5-5).  
+
+## Regulation  
+Post-translational modifications  
+• Tyr511: trans-phosphorylation by LCK; essential for catalytic activation (ghosh2018interleukin2inducibletcellkinase pages 3-4, zhong2014targetinginterleukin2inducibletcell pages 11-13).  
+• Tyr180: cis-autophosphorylation; enhances kinase activity (han2014selectivelytargetingan pages 1-2).  
+Lipid/adaptor control  
+• PH-domain binding to PI3K-generated PIP₃ or soluble IP₄ targets ITK to the plasma membrane (zhong2014targetinginterleukin2inducibletcell pages 6-8).  
+• Intramolecular SH3-PRR engagement maintains autoinhibition; release occurs upon assembly into the LAT–SLP-76 signalosome (unknownauthors2023gapjunctionalintercellular pages 66-71, unknownauthors2013studiesonitksyk pages 12-15).  
+Allosteric regulation  
+• Small-molecule ligands stabilising the inactive αC-out conformation provide non-competitive inhibition (han2014selectivelytargetingan pages 19-20).  
+
+## Function  
+Expression  
+High in thymocytes, naïve CD4⁺/CD8⁺ T cells, Th2-polarised cells, NK, NKT and mast cells (han2014selectivelytargetingan pages 1-2).  
+Signalling cascade  
+• Upstream: PI3K-PIP₃ generation, ZAP70-dependent LAT phosphorylation and LCK-mediated Tyr511 phosphorylation converge to activate ITK (zhong2014targetinginterleukin2inducibletcell pages 11-13).  
+• Downstream: ITK phosphorylates PLCγ1, LAT and LCP2, triggering Ca²⁺ flux, NFAT nuclear import, PKCθ/MAPK/ERK activation and assembly of VAV1-containing complexes (zhong2014targetinginterleukin2inducibletcell pages 11-13).  
+• Cellular roles: controls Th2 cytokine production, influences Th17/Treg balance, and modulates cytolytic granule release in CD8⁺ T cells and innate lymphoid subsets (eken2019geneticdeficiencyand pages 9-10, zhong2014targetinginterleukin2inducibletcell pages 3-5).  
+
+## Inhibitors  
+• Ibrutinib – irreversible covalent binder of Cys442; imposes Th1-skewing in T cells (zhong2014targetinginterleukin2inducibletcell pages 5-6).  
+• CTA056 – selective cytotoxicity toward ITK-high malignant T cells; suppresses xenograft growth (zhong2014targetinginterleukin2inducibletcell pages 5-6).  
+• Tetrahydroindazole series – ATP-competitive inhibitors with low-nanomolar Ki (burch2014propertyandstructureguided pages 12-13).  
+• Benzothiazole series – sub-nanomolar potency exploiting Ser442 contact, high kinome selectivity (mackinnon2013structurebaseddesignand pages 5-5).  
+• Allosteric compound 9 – non-competitive; Ki = 0.236 µM, K_i,autoact = 0.026 µM (han2014selectivelytargetingan pages 19-20).  
+
+## Other Comments  
+• Loss-of-function mutations R335W and c.1573G>A cause combined immunodeficiency with Epstein-Barr virus-driven lymphoproliferation and hemophagocytic lymphohistiocytosis (ghosh2018interleukin2inducibletcellkinase pages 3-4).  
+• Chromosomal translocation t(5;9)(q33;q22) produces the constitutively active ITK-SYK fusion kinase that drives peripheral T-cell lymphoma (unknownauthors2013studiesonitksyk pages 26-29, zhong2014targetinginterleukin2inducibletcell pages 9-11).  
+• ITK dysregulation is implicated in allergic asthma, atopic dermatitis and other inflammatory diseases (unknownauthors2023gapjunctionalintercellular pages 66-71).
+
+References
+
+1. (unknownauthors2013studiesonitksyk pages 12-15): Studies on ITK-SYK signaling pathways
+
+2. (zhong2014targetinginterleukin2inducibletcell pages 6-8): Y. Zhong, A. Johnson, J. Byrd, and J. Dubovsky. Targeting interleukin-2-inducible t-cell kinase (itk) in t-cell related diseases. Postdoc journal : a journal of postdoctoral research and postdoctoral affairs, 2 6:1-11, Jun 2014. URL: https://doi.org/10.14304/surya.jpr.v2n6.1, doi:10.14304/surya.jpr.v2n6.1. This article has 29 citations.
+
+3. (burch2014propertyandstructureguided pages 12-13): Jason D. Burch, Kevin Lau, John J. Barker, Fred Brookfield, Yong Chen, Yuan Chen, Charles Eigenbrot, Claire Ellebrandt, M. Hicham A. Ismaili, Adam Johnson, Daniel Kordt, Colin H. MacKinnon, Paul A. McEwan, Daniel F. Ortwine, Daniel B. Stein, Xiaolu Wang, Dirk Winkler, Po-Wai Yuen, Yamin Zhang, Ali A. Zarrin, and Zhonghua Pei. Property- and structure-guided discovery of a tetrahydroindazole series of interleukin-2 inducible t-cell kinase inhibitors. Journal of Medicinal Chemistry, 57:5714-5727, Jun 2014. URL: https://doi.org/10.1021/jm500550e, doi:10.1021/jm500550e. This article has 37 citations and is from a highest quality peer-reviewed journal.
+
+4. (eken2019geneticdeficiencyand pages 9-10): Ahmet Eken, Murat Cansever, Ido Somekh, Yoko Mizoguchi, Natalia Zietara, Fatma Zehra Okus, Serife Erdem, Halit Canatan, Sefika Akyol, Alper Ozcan, Musa Karakukcu, Sebastian Hollizeck, Meino Rohlfs, Ekrem Unal, Christoph Klein, and Turkan Patiroglu. Genetic deficiency and biochemical inhibition of itk affect human th17, treg, and innate lymphoid cells. Journal of Clinical Immunology, 39:391-400, Apr 2019. URL: https://doi.org/10.1007/s10875-019-00632-5, doi:10.1007/s10875-019-00632-5. This article has 41 citations and is from a domain leading peer-reviewed journal.
+
+5. (ghosh2018interleukin2inducibletcellkinase pages 3-4): Sujal Ghosh, Ingo Drexler, Sanil Bhatia, Heiko Adler, Andrew R. Gennery, and Arndt Borkhardt. Interleukin-2-inducible t-cell kinase deficiency—new patients, new insight? Frontiers in Immunology, May 2018. URL: https://doi.org/10.3389/fimmu.2018.00979, doi:10.3389/fimmu.2018.00979. This article has 44 citations and is from a peer-reviewed journal.
+
+6. (han2014selectivelytargetingan pages 1-2): Seungil Han, R. Czerwinski, N. Caspers, David C. Limburg, W. Ding, Hong Wang, J. Ohren, F. Rajamohan, T. J. McLellan, R. Unwalla, Chulho Choi, Mihir D. Parikh, Nilufer P. Seth, Jason M. Edmonds, C. Phillips, S. Shakya, Xin Li, Vikki Spaulding, S. Hughes, A. Cook, C. Robinson, J. Mathias, I. Navratilova, Q. Medley, David R. Anderson, R. Kurumbail, and A. Aulabaugh. Selectively targeting an inactive conformation of interleukin-2-inducible t-cell kinase by allosteric inhibitors. The Biochemical journal, 460 2:211-22, Jun 2014. URL: https://doi.org/10.1042/bj20131139, doi:10.1042/bj20131139. This article has 27 citations.
+
+7. (mackinnon2013structurebaseddesignand pages 5-5): Colin H. MacKinnon, Kevin Lau, Jason D. Burch, Yuan Chen, Jonathon Dines, Xiao Ding, Charles Eigenbrot, Alexander Heifetz, Allan Jaochico, Adam Johnson, Joachim Kraemer, Susanne Kruger, Thomas M. Krülle, Marya Liimatta, Justin Ly, Rosemary Maghames, Christian A.G.N. Montalbetti, Daniel F. Ortwine, Yolanda Pérez-Fuertes, Steven Shia, Daniel B. Stein, Giancarlo Trani, Darshan G. Vaidya, Xiaolu Wang, Steven M. Bromidge, Lawren C. Wu, and Zhonghua Pei. Structure-based design and synthesis of potent benzothiazole inhibitors of interleukin-2 inducible t cell kinase (itk). Bioorganic &amp; Medicinal Chemistry Letters, 23:6331-6335, Dec 2013. URL: https://doi.org/10.1016/j.bmcl.2013.09.069, doi:10.1016/j.bmcl.2013.09.069. This article has 18 citations.
+
+8. (unknownauthors2013studiesonitksyk pages 26-29): Studies on ITK-SYK signaling pathways
+
+9. (unknownauthors2023gapjunctionalintercellular pages 165-167): Gap Junctional Intercellular Communication: Role of Cx43 Phosphorylation by Tyrosine Kinases
+
+10. (unknownauthors2023gapjunctionalintercellular pages 66-71): Gap Junctional Intercellular Communication: Role of Cx43 Phosphorylation by Tyrosine Kinases
+
+11. (zhong2014targetinginterleukin2inducibletcell pages 1-3): Y. Zhong, A. Johnson, J. Byrd, and J. Dubovsky. Targeting interleukin-2-inducible t-cell kinase (itk) in t-cell related diseases. Postdoc journal : a journal of postdoctoral research and postdoctoral affairs, 2 6:1-11, Jun 2014. URL: https://doi.org/10.14304/surya.jpr.v2n6.1, doi:10.14304/surya.jpr.v2n6.1. This article has 29 citations.
+
+12. (zhong2014targetinginterleukin2inducibletcell pages 11-13): Y. Zhong, A. Johnson, J. Byrd, and J. Dubovsky. Targeting interleukin-2-inducible t-cell kinase (itk) in t-cell related diseases. Postdoc journal : a journal of postdoctoral research and postdoctoral affairs, 2 6:1-11, Jun 2014. URL: https://doi.org/10.14304/surya.jpr.v2n6.1, doi:10.14304/surya.jpr.v2n6.1. This article has 29 citations.
+
+13. (zhong2014targetinginterleukin2inducibletcell pages 3-5): Y. Zhong, A. Johnson, J. Byrd, and J. Dubovsky. Targeting interleukin-2-inducible t-cell kinase (itk) in t-cell related diseases. Postdoc journal : a journal of postdoctoral research and postdoctoral affairs, 2 6:1-11, Jun 2014. URL: https://doi.org/10.14304/surya.jpr.v2n6.1, doi:10.14304/surya.jpr.v2n6.1. This article has 29 citations.
+
+14. (zhong2014targetinginterleukin2inducibletcell pages 5-6): Y. Zhong, A. Johnson, J. Byrd, and J. Dubovsky. Targeting interleukin-2-inducible t-cell kinase (itk) in t-cell related diseases. Postdoc journal : a journal of postdoctoral research and postdoctoral affairs, 2 6:1-11, Jun 2014. URL: https://doi.org/10.14304/surya.jpr.v2n6.1, doi:10.14304/surya.jpr.v2n6.1. This article has 29 citations.
+
+15. (zhong2014targetinginterleukin2inducibletcell pages 9-11): Y. Zhong, A. Johnson, J. Byrd, and J. Dubovsky. Targeting interleukin-2-inducible t-cell kinase (itk) in t-cell related diseases. Postdoc journal : a journal of postdoctoral research and postdoctoral affairs, 2 6:1-11, Jun 2014. URL: https://doi.org/10.14304/surya.jpr.v2n6.1, doi:10.14304/surya.jpr.v2n6.1. This article has 29 citations.
+
+16. (boyken2012rescueofthe pages 10-10): S. Boyken, D. Fulton, and A. Andreotti. Rescue of the aggregation prone itk pleckstrin homology domain by two mutations derived from the related kinases, btk and tec. Protein Science, Sep 2012. URL: https://doi.org/10.1002/pro.2114, doi:10.1002/pro.2114. This article has 19 citations and is from a peer-reviewed journal.
+
+17. (han2014selectivelytargetingan pages 19-20): Seungil Han, R. Czerwinski, N. Caspers, David C. Limburg, W. Ding, Hong Wang, J. Ohren, F. Rajamohan, T. J. McLellan, R. Unwalla, Chulho Choi, Mihir D. Parikh, Nilufer P. Seth, Jason M. Edmonds, C. Phillips, S. Shakya, Xin Li, Vikki Spaulding, S. Hughes, A. Cook, C. Robinson, J. Mathias, I. Navratilova, Q. Medley, David R. Anderson, R. Kurumbail, and A. Aulabaugh. Selectively targeting an inactive conformation of interleukin-2-inducible t-cell kinase by allosteric inhibitors. The Biochemical journal, 460 2:211-22, Jun 2014. URL: https://doi.org/10.1042/bj20131139, doi:10.1042/bj20131139. This article has 27 citations.

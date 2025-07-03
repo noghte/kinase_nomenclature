@@ -1,0 +1,86 @@
+## Phylogeny  
+• Member of the AGC kinase group, S6K sub-family (unknownauthors2016theroleof pages 25-30).  
+• Paralog of RPS6KB1 (S6K1) sharing ≈83 % amino-acid identity within the catalytic domain (khalil2024s6k2infocus pages 7-9).  
+• Orthologs are present in Mus musculus, Rattus norvegicus, Danio rerio, Drosophila melanogaster and unicellular eukaryotes, illustrating conservation from yeast to mammals (magnuson2012regulationandfunction pages 1-2, malanchuk2024investigatingtheregulation pages 1-2).  
+• Utilises the hydrophobic-motif activation mechanism common to AGC kinases such as PKC, Akt, RSK and SGK (unknownauthors2016theroleof pages 36-41).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr ⇌ ADP + [protein]-O-phospho-Ser/Thr (magnuson2012regulationandfunction pages 1-2).  
+
+## Cofactor Requirements  
+Catalysis requires Mg²⁺ (Mn²⁺ can substitute) coordinated with ATP in the active site (fenton2011functionsandregulation pages 1-2).  
+
+## Substrate Specificity  
+• Prefers basic consensus motif R/K-X-R/K-X-X-S/T (unknownauthors2016theroleof pages 25-30).  
+• Principal substrate: ribosomal protein S6 at Ser235/236 and Ser240/244 (pende2014ribosomalproteins6 pages 5-7).  
+• Additional validated substrates: eIF4B, eEF2K and PDCD4, linking the kinase to translation initiation and elongation control (pende2014ribosomalproteins6 pages 5-7).  
+• Phosphorylates TAR RNA-binding protein (TRBP) affecting miRNA biogenesis (khalil2024s6k2infocus pages 7-9).  
+• Modulates expression of transcription factor YY1 downstream of its kinase activity (khalil2024s6k2infocus pages 7-9).  
+
+## Structure  
+• Domain organisation: N-terminal nuclear localisation signal, bilobal kinase domain, kinase extension, and C-terminal regulatory tail containing hydrophobic-motif Thr388 and an autoinhibitory pseudosubstrate sequence (unknownauthors2016theroleof pages 25-30).  
+• AlphaFold model AF-Q9UBS0-F1 exhibits the canonical AGC fold with catalytic Lys100, DFG motif (Asp215-Phe216-Gly217) and activation loop Thr228 (khalil2024s6k2infocus pages 9-11).  
+• Phosphorylation of Thr388 stabilises the αC-helix and creates the PDK1 docking surface, mirroring conformational changes seen in S6K1 crystal structure 3A60 (sunami2010structuralbasisof pages 1-2).  
+• Activation-loop phosphorylation at Thr228 aligns catalytic and regulatory spines to complete the active conformation (khalil2024s6k2infocus pages 7-9).  
+• Unique hinge-region Cys150 differentiates S6K2 from S6K1 (Tyr) and is exploitable for covalent inhibitor binding (gerstenecker2021discoveryofa pages 7-10).  
+
+## Regulation  
+• Sequential phosphorylation: Ser370 priming → mTORC1 at Thr388 → PDK1 at Thr228 for full activation (khalil2024s6k2infocus pages 7-9).  
+• ERK pathway phosphorylates Ser410, Ser417 and Ser423, relieving autoinhibition (khalil2024s6k2infocus pages 7-9).  
+• PKC phosphorylates Ser486, masking the NLS and causing cytoplasmic retention (khalil2024s6k2infocus pages 9-11).  
+• Fyn phosphorylates Tyr45 in vivo, linking receptor tyrosine kinase signals (khalil2024s6k2infocus pages 9-11).  
+• PRMT-mediated arginine methylation of C-terminal RXR motifs promotes nuclear localisation and survival signalling (khalil2024s6k2infocus pages 9-11).  
+• Lysine acetylation by p300/PCAF enhances stability; deacetylation by HDACs and sirtuins reverses this modification (khalil2024s6k2infocus pages 9-11).  
+• Polyubiquitination targets the kinase for proteasomal degradation (fenton2011functionsandregulation pages 13-13).  
+• PP2A dephosphorylates activation sites, while PTEN and TSC1/2 limit upstream PI3K-mTOR signalling (unknownauthors2016theroleof pages 36-41).  
+
+## Function  
+• Predominantly nuclear due to intrinsic NLS; p54 and p56 isoforms accumulate in the nucleus (unknownauthors2016theroleof pages 25-30).  
+• Gene amplification and elevated expression observed in multiple cancers (khalil2024s6k2infocus pages 24-25).  
+• Acts downstream of mTORC1 to drive ribosome biogenesis and protein synthesis via rpS6 phosphorylation, integrating PI3K/AKT, ERK and PKC inputs (magnuson2012regulationandfunction pages 1-2).  
+• Enhances translation initiation by phosphorylating eIF4B and promoting PDCD4 degradation; accelerates elongation through inhibitory phosphorylation of eEF2K (pende2014ribosomalproteins6 pages 5-7).  
+• Regulates miRNA processing via TRBP and augments YY1 expression, linking kinase activity to transcriptional programs (khalil2024s6k2infocus pages 7-9).  
+• Participates in negative feedback attenuation of PI3K signalling, impacting metabolic homeostasis (fenton2011functionsandregulation pages 1-2).  
+• High S6K2 activity supports chemoresistance, survival and migration in small-cell lung cancer and NRAS-mutant melanoma (khalil2024s6k2infocus pages 24-25).  
+• Double knockout of S6K1 and S6K2 results in perinatal lethality, demonstrating essential developmental roles (khalil2024s6k2infocus pages 11-12).  
+
+## Inhibitors  
+• LY2584702 – ATP-competitive pan-p70S6K inhibitor; limited clinical efficacy and tolerability (khalil2024s6k2infocus pages 11-12).  
+• PF-4708671 – S6K1-biased tool compound with partial S6K2 activity; induces apoptosis in resistant breast cancer and suppresses non-small-cell lung cancer proliferation (khalil2024s6k2infocus pages 11-12).  
+• Covalent inhibitor “compound 2” – exploits Cys150 to achieve high potency and isoform selectivity (gerstenecker2021discoveryofa pages 7-10).  
+• Rapamycin and rapalogues – inhibit mTORC1, preventing Thr388 phosphorylation and indirectly suppressing S6K2 activation (magnuson2012regulationandfunction pages 1-2).  
+
+## Other Comments  
+• Over-expression or hyperactivation correlates with poor prognosis and therapeutic resistance in several cancer types (khalil2024s6k2infocus pages 24-25).  
+• PRMT-dependent methylation-driven nuclear localisation underlies chemoresistance in small-cell lung cancer (khalil2024s6k2infocus pages 9-11).  
+• Enhanced rpS6 phosphorylation downstream of S6Ks contributes to neurodevelopmental phenotypes in PPP2R5D variant disorders (unknownauthors2024regulationandfunction pages 127-130).
+
+References
+
+1. (khalil2024s6k2infocus pages 24-25): Mahmoud I. Khalil, Mohamed Helal, Ahmed F. El-Sayed, Rana El Hajj, Jasmine Holail, Marwa Houssein, Ahmed Waraky, and Olivier E. Pardo. S6k2 in focus: signaling pathways, post-translational modifications, and computational analysis. International Journal of Molecular Sciences, 26:176, Dec 2024. URL: https://doi.org/10.3390/ijms26010176, doi:10.3390/ijms26010176. This article has 0 citations and is from a peer-reviewed journal.
+
+2. (khalil2024s6k2infocus pages 7-9): Mahmoud I. Khalil, Mohamed Helal, Ahmed F. El-Sayed, Rana El Hajj, Jasmine Holail, Marwa Houssein, Ahmed Waraky, and Olivier E. Pardo. S6k2 in focus: signaling pathways, post-translational modifications, and computational analysis. International Journal of Molecular Sciences, 26:176, Dec 2024. URL: https://doi.org/10.3390/ijms26010176, doi:10.3390/ijms26010176. This article has 0 citations and is from a peer-reviewed journal.
+
+3. (khalil2024s6k2infocus pages 9-11): Mahmoud I. Khalil, Mohamed Helal, Ahmed F. El-Sayed, Rana El Hajj, Jasmine Holail, Marwa Houssein, Ahmed Waraky, and Olivier E. Pardo. S6k2 in focus: signaling pathways, post-translational modifications, and computational analysis. International Journal of Molecular Sciences, 26:176, Dec 2024. URL: https://doi.org/10.3390/ijms26010176, doi:10.3390/ijms26010176. This article has 0 citations and is from a peer-reviewed journal.
+
+4. (unknownauthors2016theroleof pages 36-41): The role of the S6K2 splice isoform in mTOR/S6K signalling and cellular functions
+
+5. (fenton2011functionsandregulation pages 1-2): Tim R. Fenton and Ivan T. Gout. Functions and regulation of the 70 kda ribosomal s6 kinases. The International Journal of Biochemistry &amp; Cell Biology, 43:47-59, Jan 2011. URL: https://doi.org/10.1016/j.biocel.2010.09.018, doi:10.1016/j.biocel.2010.09.018. This article has 429 citations.
+
+6. (magnuson2012regulationandfunction pages 1-2): Brian Magnuson, Bilgen Ekim, and Diane C. Fingar. Regulation and function of ribosomal protein s6 kinase (s6k) within mtor signalling networks. Biochemical Journal, 441:1-21, Dec 2012. URL: https://doi.org/10.1042/bj20110892, doi:10.1042/bj20110892. This article has 1241 citations and is from a domain leading peer-reviewed journal.
+
+7. (pende2014ribosomalproteins6 pages 5-7): Mario Pende and Caroline Treins. Ribosomal protein s6 and s6 kinases. Translation and Its Regulation in Cancer Biology and Medicine, pages 345-362, Jan 2014. URL: https://doi.org/10.1007/978-94-017-9078-9\_16, doi:10.1007/978-94-017-9078-9\_16. This article has 1 citations.
+
+8. (sunami2010structuralbasisof pages 1-2): T. Sunami, N. Byrne, R. Diehl, K. Funabashi, D. Hall, M. Ikuta, Sangita Patel, J. Shipman, Robert F. Smith, Ikuko Takahashi, J. Zugay-Murphy, Y. Iwasawa, K. Lumb, S. Munshi, and Sujata Sharma. Structural basis of human p70 ribosomal s6 kinase-1 regulation by activation loop phosphorylation. The Journal of Biological Chemistry, 285:4587-4594, Oct 2010. URL: https://doi.org/10.1074/jbc.m109.040667, doi:10.1074/jbc.m109.040667. This article has 70 citations.
+
+9. (unknownauthors2016theroleof pages 25-30): The role of the S6K2 splice isoform in mTOR/S6K signalling and cellular functions
+
+10. (fenton2011functionsandregulation pages 13-13): Tim R. Fenton and Ivan T. Gout. Functions and regulation of the 70 kda ribosomal s6 kinases. The International Journal of Biochemistry &amp; Cell Biology, 43:47-59, Jan 2011. URL: https://doi.org/10.1016/j.biocel.2010.09.018, doi:10.1016/j.biocel.2010.09.018. This article has 429 citations.
+
+11. (gerstenecker2021discoveryofa pages 7-10): Stefan Gerstenecker, Lisa Haarer, Martin Schröder, Mark Kudolo, Martin P. Schwalm, Valentin Wydra, Ricardo Serafim, Apirat Chaikuad, Stefan Knapp, Stefan Laufer, and Matthias Gehringer. Discovery of a potent and highly isoform-selective inhibitor of the neglected ribosomal protein s6 kinase beta 2 (s6k2). ChemRxiv, Jul 2021. URL: https://doi.org/10.26434/chemrxiv-2021-pl2s1, doi:10.26434/chemrxiv-2021-pl2s1. This article has 19 citations.
+
+12. (khalil2024s6k2infocus pages 11-12): Mahmoud I. Khalil, Mohamed Helal, Ahmed F. El-Sayed, Rana El Hajj, Jasmine Holail, Marwa Houssein, Ahmed Waraky, and Olivier E. Pardo. S6k2 in focus: signaling pathways, post-translational modifications, and computational analysis. International Journal of Molecular Sciences, 26:176, Dec 2024. URL: https://doi.org/10.3390/ijms26010176, doi:10.3390/ijms26010176. This article has 0 citations and is from a peer-reviewed journal.
+
+13. (malanchuk2024investigatingtheregulation pages 1-2): Oksana Malanchuk, A. Bdzhola, Sergii Palchevskyi, Volodymyr Bdzhola, Peng Chai, O. Pardo, M. Seckl, A. Banerjee, S. Peak-Chew, M. Skehel, L. Guruprasad, A. Zhyvoloup, I. Gout, and Valeriy Filonenko. Investigating the regulation of ribosomal protein s6 kinase 1 by coalation. International Journal of Molecular Sciences, Aug 2024. URL: https://doi.org/10.3390/ijms25168747, doi:10.3390/ijms25168747. This article has 3 citations and is from a peer-reviewed journal.
+
+14. (unknownauthors2024regulationandfunction pages 127-130): Regulation and Function of PP2A-B56delta and Its Pathological Variants

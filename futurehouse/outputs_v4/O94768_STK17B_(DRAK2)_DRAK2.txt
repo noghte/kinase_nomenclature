@@ -1,0 +1,92 @@
+## Phylogeny  
+• Serine/threonine-protein kinase 17B (STK17B/DRAK2) belongs to the death-associated protein kinase (DAPK) family nested within the Ca²⁺/calmodulin-dependent kinase (CAMK) group of the human kinome (farag2019death‐associatedproteinkinase pages 1-2, picado2020achemicalprobe pages 18-19).  
+• The closest human paralog is STK17A (DRAK1); more distant paralogs are DAPK1, DAPK2 and DAPK3, which share the conserved catalytic domain but differ in extra-catalytic regions (farag2019death‐associatedproteinkinase pages 2-4, picado2020achemicalprobe pages 18-19).  
+• Vertebrate orthologs are conserved (e.g., mouse Stk17b, zebrafish stk17b), and the Drosophila kinase Drak functions as an invertebrate ortholog, underscoring evolutionary conservation of this apoptosis-related clade (chen2019drakstk17adrivesneoplastic pages 9-14).  
+• Curated kinome resources flag STK17B as an understudied CAMK/DAPK sub-branch member, guiding prioritisation for chemical-biology efforts (moret2020aresourcefor pages 7-10).  
+
+  
+## Reaction Catalyzed  
+ATP + [protein]-L-Ser/Thr → ADP + [protein]-O-phospho-L-Ser/Thr (farag2019death‐associatedproteinkinase pages 4-6).  
+
+  
+## Cofactor Requirements  
+Catalytic activity requires divalent cations, preferentially Mg²⁺ or Mn²⁺ (scheuplein2024evaluationofstk17b pages 1-2).  
+
+  
+## Substrate Specificity  
+• Direct substrate: myosin light chain 2 (MLC2) phosphorylated on Ser19, providing a pharmacodynamic read-out (scheuplein2024evaluationofstk17b pages 1-2).  
+• Additional validated substrate: serine/arginine-rich splicing factor 6 (SRSF6) identified by phosphoproteomics (scheuplein2024evaluationofstk17b pages 13-13).  
+• Autophosphorylation occurs on Thr180 within the activation loop, a hallmark regulatory site (scheuplein2024evaluationofstk17b pages 13-13).  
+• High-throughput motif profiling has not yet defined a consensus recognition motif for STK17B (scheuplein2024evaluationofstk17b pages 13-13).  
+
+  
+## Structure  
+• Architecture: single N-terminal kinase domain (~residues 1–270) followed by a C-terminal tail containing two predicted nuclear-localisation signals; no CaM-binding region (farag2019death‐associatedproteinkinase pages 4-6).  
+• Crystal structures: apo form (PDB 3LM5) and inhibitor-bound forms (PDB 6Y6F, 6Y6H) reveal the canonical bilobal fold and an atypical, ligand-dependent P-loop that adopts “open” and “folded” conformations (picado2020achemicalprobe pages 7-8, serafim2021chemicalprobesfor pages 10-14).  
+• Catalytic features: Lys62 (β3) forms a salt bridge with Glu80 (αC); conserved DFG motif Asp166-Phe167-Gly168 coordinates Mg²⁺; hinge residue Ala113 anchors ATP/inhibitors; activation loop Thr180 is the primary regulatory phosphosite (picado2020achemicalprobe pages 7-8).  
+• A family-specific 12-residue “basic loop” mediates dimerisation and promotes autophosphorylation without directly contacting substrates (farag2019death‐associatedproteinkinase pages 4-6).  
+• Inhibitor binding induces P-loop folding over the ligand, generating extensive contacts with Arg41 and Lys62, which underlies high selectivity over STK17A (picado2020achemicalprobe pages 7-8).  
+
+  
+## Regulation  
+• Autophosphorylation on Thr180 activates catalytic function (scheuplein2024evaluationofstk17b pages 13-13).  
+• Protein kinase D phosphorylates Ser351 downstream of Ca²⁺/ROS signalling, modulating activity (scheuplein2024evaluationofstk17b pages 13-13, zheng2022newinsightsinto pages 4-5).  
+• Ubiquitination events regulate protein stability, although the responsible E3 ligases remain unidentified (scheuplein2024evaluationofstk17b pages 13-13).  
+• The proto-oncogene MYB represses STK17B transcription; MYB knock-down elevates STK17B levels and triggers caspase-9-dependent apoptosis (zheng2022newinsightsinto pages 4-5).  
+• Ca²⁺ influx after T-cell receptor stimulation induces mitochondrial ROS, activating PKD and thereby STK17B, integrating calcium signalling with kinase activation (zheng2022newinsightsinto pages 4-5).  
+• Ligand-induced folding of the P-loop constitutes an allosteric mechanism that occludes ATP binding and locks the enzyme in an inactive, inhibitor-bound state (picado2020achemicalprobe pages 7-8).  
+
+  
+## Function  
+• Highest expression in developing and mature lymphocytes, particularly T and B cells (scheuplein2024evaluationofstk17b pages 1-2, zheng2022newinsightsinto pages 8-10).  
+• Sets the activation threshold for T-cell receptor signalling; genetic loss sensitises T cells to suboptimal stimulation and enhances cytokine release (scheuplein2024evaluationofstk17b pages 1-2).  
+• Acts as a positive regulator of apoptosis, partly through phosphorylation of myosin light chains (picado2020achemicalprobe pages 18-19).  
+• In hepatocytes, STK17B limits phosphorylation of SRSF6, contributing to non-alcoholic fatty liver disease pathology (scheuplein2024evaluationofstk17b pages 13-13).  
+• Promotes autophagy-mediated degradation of TRAF6, thereby restraining cervical cancer cell growth and metastasis (zheng2022newinsightsinto pages 4-5).  
+• Upstream regulators include Ca²⁺/PKD and MYB; downstream effectors encompass caspase-9 and cytoskeletal contractility via MLC2 (zheng2022newinsightsinto pages 4-5, scheuplein2024evaluationofstk17b pages 1-2).  
+
+  
+## Inhibitors  
+• Thieno[2,3-d]pyrimidine probe 11s: K_d = 5.6 nM, enzyme IC₅₀ = 34 nM, >100-fold selective over STK17A; selectivity driven by folded P-loop interactions (picado2020achemicalprobe pages 7-8).  
+• Precursor analog 18: K_d = 3.8 nM, ~60-fold selectivity versus STK17A (serafim2021chemicalprobesfor pages 10-14).  
+• Negative control compound 19g: >100-fold weaker binding, confirms structure–activity determinants (picado2020achemicalprobe pages 7-8).  
+• 5-Arylthieno[2,3-b]pyridine compound 13: enzyme IC₅₀ = 0.86 µM, K_d = 9 nM; dual DRAK1/2 activity (farag2019death‐associatedproteinkinase pages 22-23).  
+• Optimised analog 14: enzyme IC₅₀ = 29 nM with reduced family selectivity (farag2019death‐associatedproteinkinase pages 22-23).  
+• Indirubin-3′-monoxime derivative 15 represents a distinct chemotype with reported DRAK2 inhibition (farag2019death‐associatedproteinkinase pages 22-23).  
+• Multi-target agent nintedanib binds DRAK2 with K_d = 670 nM, illustrating the liability of promiscuous kinase inhibitors (farag2019death‐associatedproteinkinase pages 26-28).  
+
+  
+## Other Comments  
+• Disease links include autoimmune pathologies, type 1 diabetes, non-alcoholic fatty liver disease, chronic lymphocytic leukaemia, breast cancer and cervical cancer (zheng2022newinsightsinto pages 8-10, serafim2021chemicalprobesfor pages 10-14).  
+• STK17B-deficient mice display enhanced T-cell apoptosis yet show resistance to organ-specific autoimmunity, highlighting its immunoregulatory role (picado2020achemicalprobe pages 18-19).  
+• No recurrent cancer-associated point mutations with functional annotation have been reported to date (scheuplein2024evaluationofstk17b pages 13-13).
+
+References
+
+1. (picado2020achemicalprobe pages 18-19): Alfredo Picado, Apirat Chaikuad, Carrow I. Wells, Safal Shrestha, William J. Zuercher, Julie E. Pickett, Frank E. Kwarcinski, Parvathi Sinha, Chandi S. de Silva, Reena Zutshi, Shubin Liu, Natarajan Kannan, Stefan Knapp, David H. Drewry, and Timothy M. Willson. A chemical probe for dark kinase stk17b derives its potency and high selectivity through a unique p-loop conformation. Journal of Medicinal Chemistry, 63:14626-14646, Nov 2020. URL: https://doi.org/10.1021/acs.jmedchem.0c01174, doi:10.1021/acs.jmedchem.0c01174. This article has 20 citations and is from a highest quality peer-reviewed journal.
+
+2. (picado2020achemicalprobe pages 7-8): Alfredo Picado, Apirat Chaikuad, Carrow I. Wells, Safal Shrestha, William J. Zuercher, Julie E. Pickett, Frank E. Kwarcinski, Parvathi Sinha, Chandi S. de Silva, Reena Zutshi, Shubin Liu, Natarajan Kannan, Stefan Knapp, David H. Drewry, and Timothy M. Willson. A chemical probe for dark kinase stk17b derives its potency and high selectivity through a unique p-loop conformation. Journal of Medicinal Chemistry, 63:14626-14646, Nov 2020. URL: https://doi.org/10.1021/acs.jmedchem.0c01174, doi:10.1021/acs.jmedchem.0c01174. This article has 20 citations and is from a highest quality peer-reviewed journal.
+
+3. (zheng2022newinsightsinto pages 8-10): Youwei Zheng, Xinchao Li, Lirun Kuang, and Yong Wang. New insights into the characteristics of drak2 and its role in apoptosis: from molecular mechanisms to clinically applied potential. Frontiers in Pharmacology, Oct 2022. URL: https://doi.org/10.3389/fphar.2022.1014508, doi:10.3389/fphar.2022.1014508. This article has 6 citations and is from a peer-reviewed journal.
+
+4. (chen2019drakstk17adrivesneoplastic pages 9-14): Alexander S. Chen, Joanna Wardwell-Ozgo, Nilang N. Shah, Deidre Wright, Christina L. Appin, Krishanthan Vigneswaran, Daniel J. Brat, Harley I. Kornblum, and Renee D. Read. Drak/stk17a drives neoplastic glial proliferation through modulation of mrlc signaling. Cancer Research, 79:1085-1097, Mar 2019. URL: https://doi.org/10.1158/0008-5472.can-18-0482, doi:10.1158/0008-5472.can-18-0482. This article has 24 citations and is from a highest quality peer-reviewed journal.
+
+5. (farag2019death‐associatedproteinkinase pages 1-2): Ahmed Karam Farag and Eun Joo Roh. Death‐associated protein kinase (dapk) family modulators: current and future therapeutic outcomes. Medicinal Research Reviews, 39:349-385, Jun 2019. URL: https://doi.org/10.1002/med.21518, doi:10.1002/med.21518. This article has 118 citations and is from a domain leading peer-reviewed journal.
+
+6. (farag2019death‐associatedproteinkinase pages 2-4): Ahmed Karam Farag and Eun Joo Roh. Death‐associated protein kinase (dapk) family modulators: current and future therapeutic outcomes. Medicinal Research Reviews, 39:349-385, Jun 2019. URL: https://doi.org/10.1002/med.21518, doi:10.1002/med.21518. This article has 118 citations and is from a domain leading peer-reviewed journal.
+
+7. (farag2019death‐associatedproteinkinase pages 22-23): Ahmed Karam Farag and Eun Joo Roh. Death‐associated protein kinase (dapk) family modulators: current and future therapeutic outcomes. Medicinal Research Reviews, 39:349-385, Jun 2019. URL: https://doi.org/10.1002/med.21518, doi:10.1002/med.21518. This article has 118 citations and is from a domain leading peer-reviewed journal.
+
+8. (farag2019death‐associatedproteinkinase pages 4-6): Ahmed Karam Farag and Eun Joo Roh. Death‐associated protein kinase (dapk) family modulators: current and future therapeutic outcomes. Medicinal Research Reviews, 39:349-385, Jun 2019. URL: https://doi.org/10.1002/med.21518, doi:10.1002/med.21518. This article has 118 citations and is from a domain leading peer-reviewed journal.
+
+9. (moret2020aresourcefor pages 7-10): Nienke Moret, Changchang Liu, Benjamin M. Gyori, John A. Bachman, Albert Steppi, Clemens Hug, Rahil Taujale, Liang-Chin Huang, Matthew E. Berginski, Shawn M. Gomez, Natarajan Kannan, and Peter K. Sorger. A resource for exploring the understudied human kinome for research and therapeutic opportunities. BioRxiv, Apr 2020. URL: https://doi.org/10.1101/2020.04.02.022277, doi:10.1101/2020.04.02.022277. This article has 29 citations.
+
+10. (scheuplein2024evaluationofstk17b pages 1-2): Felix Scheuplein, Florian Renner, John E. Campbell, Robert Campbell, Chris De Savi, Jan Eckmann, Holger Fischer, Jie Ge, Luke Green, Peter Jakob, Joseph L. Kim, Caitlin Kinkema, Katie McGinn, Ricardo Medina, Annemarie Müller, Nisha Perez, Emanuele Perola, Yoav Timsit, Tary Traore, Ulrike Hopfer, Stefka Tyanova, Manuel Tzouros, Ruduan Wang, Richard Woessner, Marion Dorsch, and James R. Bischoff. Evaluation of stk17b as a cancer immunotherapy target utilizing highly potent and selective small molecule inhibitors. Frontiers in Immunology, Oct 2024. URL: https://doi.org/10.3389/fimmu.2024.1411395, doi:10.3389/fimmu.2024.1411395. This article has 1 citations and is from a peer-reviewed journal.
+
+11. (scheuplein2024evaluationofstk17b pages 13-13): Felix Scheuplein, Florian Renner, John E. Campbell, Robert Campbell, Chris De Savi, Jan Eckmann, Holger Fischer, Jie Ge, Luke Green, Peter Jakob, Joseph L. Kim, Caitlin Kinkema, Katie McGinn, Ricardo Medina, Annemarie Müller, Nisha Perez, Emanuele Perola, Yoav Timsit, Tary Traore, Ulrike Hopfer, Stefka Tyanova, Manuel Tzouros, Ruduan Wang, Richard Woessner, Marion Dorsch, and James R. Bischoff. Evaluation of stk17b as a cancer immunotherapy target utilizing highly potent and selective small molecule inhibitors. Frontiers in Immunology, Oct 2024. URL: https://doi.org/10.3389/fimmu.2024.1411395, doi:10.3389/fimmu.2024.1411395. This article has 1 citations and is from a peer-reviewed journal.
+
+12. (serafim2021chemicalprobesfor pages 10-14): Ricardo A. M. Serafim, Jonathan M. Elkins, William J. Zuercher, Stefan A. Laufer, and Matthias Gehringer. Chemical probes for understudied kinases: challenges and opportunities. Journal of Medicinal Chemistry, 65:1132-1170, Sep 2021. URL: https://doi.org/10.1021/acs.jmedchem.1c00980, doi:10.1021/acs.jmedchem.1c00980. This article has 22 citations and is from a highest quality peer-reviewed journal.
+
+13. (zheng2022newinsightsinto pages 4-5): Youwei Zheng, Xinchao Li, Lirun Kuang, and Yong Wang. New insights into the characteristics of drak2 and its role in apoptosis: from molecular mechanisms to clinically applied potential. Frontiers in Pharmacology, Oct 2022. URL: https://doi.org/10.3389/fphar.2022.1014508, doi:10.3389/fphar.2022.1014508. This article has 6 citations and is from a peer-reviewed journal.
+
+14. (farag2019death‐associatedproteinkinase pages 26-28): Ahmed Karam Farag and Eun Joo Roh. Death‐associated protein kinase (dapk) family modulators: current and future therapeutic outcomes. Medicinal Research Reviews, 39:349-385, Jun 2019. URL: https://doi.org/10.1002/med.21518, doi:10.1002/med.21518. This article has 118 citations and is from a domain leading peer-reviewed journal.

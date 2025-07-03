@@ -1,0 +1,86 @@
+## Phylogeny
+RPS6KA2 (RSK3) is one of four vertebrate members of the p90 ribosomal S6 kinase (RSK) family, which also includes RSK1, RSK2, and RSK4 (wright2023therapeutictargetingof pages 1-3, unknownauthors2012unravelingmolecularcellular pages 35-39). Within the family, RSK3 is phylogenetically intermediate, while RSK1 is the most distant isoform (wright2023therapeutictargetingof pages 1-3). Based on kinome classifications by Manning et al., the RSK family belongs to the AGC group of serine/threonine kinases (lizcanoperret2024identificationofrsk pages 13-14, romeo2012regulationandfunction pages 7-8). The protein's structure is the result of an evolutionary gene fusion event, combining two distinct domains: the N-terminal kinase domain (NTKD) is part of the AGC kinase family (related to protein kinase A, G, and C), while the C-terminal kinase domain (CTKD) belongs to the CAMK (Ca2+/calmodulin-dependent protein kinase) family (unknownauthors2023amechanisticapproach pages 34-39, xu2021prominentrolesof pages 1-2). Orthologs are conserved in vertebrates and have been identified in invertebrates such as *Drosophila* and *Caenorhabditis elegans*, but not in yeast (romeo2012regulationandfunction pages 1-2, roux2018signalingpathwaysinvolved pages 21-23).
+
+
+
+## Reaction Catalyzed
+RSK3 catalyzes an ATP-dependent phosphotransferase reaction, involving the transfer of the terminal gamma-phosphate from ATP to specific serine or threonine residues on substrate proteins (lizcanoperret2024identificationofrsk pages 13-14, romeo2012regulationandfunction pages 1-2, wright2023therapeutictargetingof pages 3-4).
+
+
+
+## Cofactor Requirements
+The catalytic activity of RSK3 is dependent on the divalent metal ion Mg²⁺, which serves as an essential cofactor to facilitate ATP binding and catalysis (lizcanoperret2024identificationofrsk pages 13-14, romeo2_2012regulationandfunction pages 1-2, wright2023therapeutictargetingof pages 1-3).
+
+
+
+## Substrate Specificity
+RSK family kinases phosphorylate serine/threonine residues within a consensus motif characterized by basic residues, primarily arginine, at positions -5 and -3 relative to the phosphorylation site (romeo2012regulationandfunction pages 9-10, unknownauthors2023amechanisticapproach pages 39-44). Experimentally determined motifs include Arg-X-Arg-X-X-Ser/Thr, RXRXXS/T, and RRXpS (wright2023therapeutictargetingof pages 3-4, unknownauthors2023amechanisticapproach pages 34-39, unknownauthors2023amechanisticapproach pages 39-44). The kinases exhibit a strong preference for arginine over lysine at the -3 position and a marked preference for serine over threonine as the phospho-acceptor residue (romeo2012regulationandfunction pages 7-8). A comprehensive analysis of 303 human serine/threonine kinases by Johnson et al. determined that the consensus motif for RPS6KA2 includes preferences for hydrophobic residues N-terminal to the phosphoacceptor, along with turn-promoting residues like glycine or asparagine at the +1 position (johnson2023anatlasof pages 1-2).
+
+
+
+## Structure
+RPS6KA2 is a single polypeptide containing two distinct kinase domains connected by a flexible linker of approximately 100 amino acids (unknownauthors2012unravelingmolecularcellular pages 35-39, lizcanoperret2024identificationofrsk pages 13-14). The N-terminal kinase domain (NTKD) belongs to the AGC family and is responsible for phosphorylating external substrates, while the C-terminal kinase domain (CTKD) is a member of the CAMK family and regulates NTKD activation (lizcanoperret2024identificationofrsk pages 13-14, wright2023therapeutictargetingof pages 1-3). The overall structure follows the canonical bilobed kinase fold, with an N-lobe composed mainly of β-sheets and a C-lobe that is predominantly α-helical (unknownauthors2023amechanisticapproach pages 27-34). Key regulatory and catalytic features, as detailed in structural models and general kinase architecture, include activation loops within both domains, a C-helix in the N-lobe, and conserved hydrophobic spines that stabilize the active conformation (unknownauthors2023amechanisticapproach pages 27-34, unknownauthors2023amechanisticapproach pages 34-39, romeo2012regulationandfunction pages 1-2). RSK3 has unique structural features: its NTKD contains an extra β-sheet (βB-sheet) that stabilizes the N-lobe in place of the typical C-helix salt bridge, and its CTKD possesses an autoinhibitory α-helix (αL) that modulates ATP binding (unknownauthors2023amechanisticapproach pages 34-39). Additionally, the protein has a unique 33-amino acid N-terminal sequence containing a bipartite nuclear localization signal (zhao1995rsk3encodesa pages 7-8).
+
+
+
+## Regulation
+Activation of RSK3 is a multi-step process initiated by the upstream MAPK signaling pathway (romeo2012regulationandfunction pages 1-2). The kinase ERK1/2 binds to a docking site on the C-terminus of RSK3 and phosphorylates the activation loop of the CTKD at Thr577 (poomakkoth2016p90ribosomals6 pages 2-4, unknownauthors2023amechanisticapproach pages 34-39). This activates the CTKD, which then autophosphorylates Ser386 within the hydrophobic motif of the linker region (poomakkoth2016p90ribosomals6 pages 2-4, unknownauthors2023amechanisticapproach pages 34-39). The phosphorylated Ser386 creates a docking site for the kinase PDK1, which binds and subsequently phosphorylates the activation loop of the NTKD at Ser227, leading to the full catalytic activation of RSK3 (wright2023therapeutictargetingof pages 1-3, unknownauthors2023amechanisticapproach pages 34-39). RSK3 exhibits a longer binding duration with ERK1/2 and lacks the autophosphorylation-based negative feedback loop found in RSK1/2 (unknownauthors2023amechanisticapproach pages 39-44). Inactivation is achieved through dephosphorylation by cellular phosphatases (unknownauthors2023amechanisticapproach pages 34-39).
+
+
+
+## Function
+RSK3 is a downstream effector of the MAPK/ERK pathway that regulates cellular processes including proliferation, survival, growth, and differentiation by phosphorylating substrates in the cytoplasm and nucleus (romeo2012regulationandfunction pages 1-2, lizcanoperret2024identificationofrsk pages 12-13). Its upstream activators are the kinases ERK1/2 and PDK1 (anjum2008therskfamily pages 4-4). Identified downstream substrates include transcription factors (CREB, c-Fos, ATF4, NFAT3, MEF2c), apoptosis regulators (Bad, DAPK), cytoskeletal proteins (Filamin A), and metabolic regulators (TSC2, Raptor) (romeo2012regulationandfunction pages 8-9, anjum2008therskfamily pages 4-4, eisingermathason2010rskintumorigenesis pages 28-29). RSK3 mRNA is expressed at high levels in the lung and skeletal muscle, with protein detected in various tissues including the brain, heart, and placenta (zhao1995rsk3encodesa pages 5-6). Within the brain, RSK3 expression is high in the amygdala, nucleus accumbens, and dentate gyrus (unknownauthors2012unravelingmolecularcellular pages 35-39). Upon stimulation, it translocates from the cytoplasm to the nucleus (zhao1995rsk3encodesa pages 7-8). In some contexts, such as ovarian cancer, RSK3 can act as a growth suppressor by inducing cell cycle arrest in the G1 phase (unknownauthors2019theroleof pages 25-30).
+
+
+
+## Inhibitors
+Several small molecule inhibitors targeting RSK family kinases have been identified. BI-D1870 is a reversible, ATP-competitive inhibitor that targets the NTKD with an in vitro IC50 of approximately 15–30 nM (romeo2012regulationandfunction pages 7-8). SL0101 is a kaempferol glycoside that also acts as an ATP-competitive NTKD inhibitor, with an in vitro IC50 of ~90 nM (romeo2012regulationandfunction pages 7-8). FMK is an irreversible covalent inhibitor targeting a cysteine in the CTKD, with an in vitro IC50 of ~15 nM (romeo2012regulationandfunction pages 7-8). The pan-RSK inhibitor PMD-026 is currently in clinical trials (wright2023therapeutictargetingof pages 1-3). RSK activity can also be suppressed indirectly using upstream MEK inhibitors like U0126 (romeo2012regulationandfunction pages 8-9).
+
+
+
+## Other Comments
+The human gene for RSK3, *RPS6KA2*, is located on chromosome 6q27 (zhao1995rsk3encodesa pages 5-6, unknownauthors2012unravelingmolecularcellular pages 35-39). Dysregulation of RSK3 is implicated in several diseases, including cancer. It is found to be constitutively activated in various tumor types and is involved in lung and prostate cancer (lizcanoperret2024identificationofrsk pages 13-14, poomakkoth2016p90ribosomals6 pages 2-4, unknownauthors2023amechanisticapproach pages 39-44). However, it has also been reported to function as a tumor suppressor in ovarian cancer, highlighting a context-dependent role (unknownauthors2019theroleof pages 25-30). While mutations in the related gene *RPS6KA3* (encoding RSK2) cause Coffin-Lowry syndrome, specific disease-associated mutations in *RPS6KA2* are less characterized (lizcanoperret2024identificationofrsk pages 13-14). Mouse models with RSK3 knockout exhibit decreased fertility due to defects in ovulation (wright2023therapeutictargetingof pages 3-4).
+
+References
+
+1. (lizcanoperret2024identificationofrsk pages 13-14): Belén Lizcano-Perret, Didier Vertommen, Gaëtan Herinckx, Viviane Calabrese, Laurent Gatto, Philippe P. Roux, and Thomas Michiels. Identification of rsk substrates using an analog-sensitive kinase approach. Journal of Biological Chemistry, 300:105739, Mar 2024. URL: https://doi.org/10.1016/j.jbc.2024.105739, doi:10.1016/j.jbc.2024.105739. This article has 4 citations and is from a domain leading peer-reviewed journal.
+
+2. (romeo2012regulationandfunction pages 1-2): Y. Romeo, Xiaocui Zhang, and Philippe P Roux. Regulation and function of the rsk family of protein kinases. The Biochemical journal, 441 2:553-69, Jan 2012. URL: https://doi.org/10.1042/bj20110289, doi:10.1042/bj20110289. This article has 454 citations.
+
+3. (romeo2012regulationandfunction pages 7-8): Y. Romeo, Xiaocui Zhang, and Philippe P Roux. Regulation and function of the rsk family of protein kinases. The Biochemical journal, 441 2:553-69, Jan 2012. URL: https://doi.org/10.1042/bj20110289, doi:10.1042/bj20110289. This article has 454 citations.
+
+4. (romeo2012regulationandfunction pages 8-9): Y. Romeo, Xiaocui Zhang, and Philippe P Roux. Regulation and function of the rsk family of protein kinases. The Biochemical journal, 441 2:553-69, Jan 2012. URL: https://doi.org/10.1042/bj20110289, doi:10.1042/bj20110289. This article has 454 citations.
+
+5. (unknownauthors2012unravelingmolecularcellular pages 35-39): Unraveling molecular, cellular and cognitive defects in the mouse model for mental retardation caused by Rsk2 gene mutation
+
+6. (unknownauthors2023amechanisticapproach pages 34-39): A mechanistic approach to understand the role of p90 ribosomal S6 kinases in Prostate Cancer
+
+7. (unknownauthors2023amechanisticapproach pages 39-44): A mechanistic approach to understand the role of p90 ribosomal S6 kinases in Prostate Cancer
+
+8. (wright2023therapeutictargetingof pages 1-3): Eric B. Wright and Deborah A. Lannigan. Therapeutic targeting of p90 ribosomal s6 kinase. Frontiers in Cell and Developmental Biology, Dec 2023. URL: https://doi.org/10.3389/fcell.2023.1297292, doi:10.3389/fcell.2023.1297292. This article has 11 citations and is from a peer-reviewed journal.
+
+9. (wright2023therapeutictargetingof pages 3-4): Eric B. Wright and Deborah A. Lannigan. Therapeutic targeting of p90 ribosomal s6 kinase. Frontiers in Cell and Developmental Biology, Dec 2023. URL: https://doi.org/10.3389/fcell.2023.1297292, doi:10.3389/fcell.2023.1297292. This article has 11 citations and is from a peer-reviewed journal.
+
+10. (zhao1995rsk3encodesa pages 7-8): Yi Zhao, Christian Bjørbæk, Stanislawa Weremowicz, Cynthia C. Morton, and David E. Moller. <i>rsk3</i> encodes a novel pp90<sup><i>rsk</i></sup> isoform with a unique n-terminal sequence: growth factor-stimulated kinase function and nuclear translocation. Molecular and Cellular Biology, 15:4353-4363, Aug 1995. URL: https://doi.org/10.1128/mcb.15.8.4353, doi:10.1128/mcb.15.8.4353. This article has 182 citations and is from a domain leading peer-reviewed journal.
+
+11. (anjum2008therskfamily pages 4-4): R. Anjum and J. Blenis. The rsk family of kinases: emerging roles in cellular signalling. Nature Reviews Molecular Cell Biology, 9:747-758, Oct 2008. URL: https://doi.org/10.1038/nrm2509, doi:10.1038/nrm2509. This article has 964 citations and is from a domain leading peer-reviewed journal.
+
+12. (johnson2023anatlasof pages 1-2): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+13. (lizcanoperret2024identificationofrsk pages 12-13): Belén Lizcano-Perret, Didier Vertommen, Gaëtan Herinckx, Viviane Calabrese, Laurent Gatto, Philippe P. Roux, and Thomas Michiels. Identification of rsk substrates using an analog-sensitive kinase approach. Journal of Biological Chemistry, 300:105739, Mar 2024. URL: https://doi.org/10.1016/j.jbc.2024.105739, doi:10.1016/j.jbc.2024.105739. This article has 4 citations and is from a domain leading peer-reviewed journal.
+
+14. (poomakkoth2016p90ribosomals6 pages 2-4): Noufira Poomakkoth, Aya Issa, Nabeel Abdulrahman, Somaia Gamal Abdelaziz, and Fatima Mraiche. P90 ribosomal s6 kinase: a potential therapeutic target in lung cancer. Journal of Translational Medicine, Jan 2016. URL: https://doi.org/10.1186/s12967-016-0768-1, doi:10.1186/s12967-016-0768-1. This article has 45 citations and is from a peer-reviewed journal.
+
+15. (romeo2012regulationandfunction pages 9-10): Y. Romeo, Xiaocui Zhang, and Philippe P Roux. Regulation and function of the rsk family of protein kinases. The Biochemical journal, 441 2:553-69, Jan 2012. URL: https://doi.org/10.1042/bj20110289, doi:10.1042/bj20110289. This article has 454 citations.
+
+16. (roux2018signalingpathwaysinvolved pages 21-23): Philippe P. Roux and Ivan Topisirovic. Signaling pathways involved in the regulation of mrna translation. Molecular and Cellular Biology, Jun 2018. URL: https://doi.org/10.1128/mcb.00070-18, doi:10.1128/mcb.00070-18. This article has 338 citations and is from a domain leading peer-reviewed journal.
+
+17. (unknownauthors2019theroleof pages 25-30): The role of p90 ribosomal S6 kinases (RSKs) in Steroid signalling
+
+18. (unknownauthors2023amechanisticapproach pages 27-34): A mechanistic approach to understand the role of p90 ribosomal S6 kinases in Prostate Cancer
+
+19. (xu2021prominentrolesof pages 1-2): Junpeng Xu, Qingge Jia, Yan Zhang, Yuan Yuan, Tianqi Xu, Kangjie Yu, Jia Chai, Kaijing Wang, Ligang Chen, Tian Xiao, and Mingyang Li. Prominent roles of ribosomal s6 kinase 4 (rsk4) in cancer. Pathology - Research and Practice, 219:153374, Mar 2021. URL: https://doi.org/10.1016/j.prp.2021.153374, doi:10.1016/j.prp.2021.153374. This article has 20 citations.
+
+20. (zhao1995rsk3encodesa pages 5-6): Yi Zhao, Christian Bjørbæk, Stanislawa Weremowicz, Cynthia C. Morton, and David E. Moller. <i>rsk3</i> encodes a novel pp90<sup><i>rsk</i></sup> isoform with a unique n-terminal sequence: growth factor-stimulated kinase function and nuclear translocation. Molecular and Cellular Biology, 15:4353-4363, Aug 1995. URL: https://doi.org/10.1128/mcb.15.8.4353, doi:10.1128/mcb.15.8.4353. This article has 182 citations and is from a domain leading peer-reviewed journal.
+
+21. (eisingermathason2010rskintumorigenesis pages 28-29): T. Eisinger-Mathason, J. Andrade, and D. Lannigan. Rsk in tumorigenesis: connections to steroid signaling. Steroids, 75:191-202, Mar 2010. URL: https://doi.org/10.1016/j.steroids.2009.12.010, doi:10.1016/j.steroids.2009.12.010. This article has 70 citations and is from a peer-reviewed journal.

@@ -1,0 +1,85 @@
+## Phylogeny  
+Experimentally validated orthologs exist in Homo sapiens, Mus musculus, Rattus norvegicus, Equus caballus, Gallus gallus and Danio rerio; all conserve the GFE motif that replaces the canonical DFG in active kinases (murphy2013thepseudokinasemlkl pages 2-3, goldberg2023emergingfunctionsof pages 4-6, unknownauthors2018smallmoleculeconjugation pages 13-18).  
+Kinome-wide surveys anchored to the Manning 2002 framework classify MLKL in the pseudokinase subset of the “Other” group; sequence clustering places it closest to IRAK-like kinases yet clearly separate from the RIPK1–5 serine/threonine kinase family (byrne2017pseudokinasesupdateon pages 2-4, unknownauthors2022biochemicalandstructural pages 18-24).  
+MLKL therefore represents a vertebrate-specific, catalytically inert branch of the eukaryotic kinome (goldberg2023emergingfunctionsof pages 11-12).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr/Tyr → ADP + protein-Ser/Thr/Tyr-P (no phosphoryl-transfer activity detected; MLKL is a pseudokinase) (murphy2013thepseudokinasemlkl pages 1-2).  
+
+## Cofactor Requirements  
+Binds ATP in a cation-independent manner; no Mg²⁺ or Mn²⁺ requirement reported (byrne2017pseudokinasesupdateon pages 2-4).  
+
+## Substrate Specificity  
+Not applicable; no enzymatic substrates identified for this pseudokinase (murphy2013thepseudokinasemlkl pages 1-2).  
+
+## Structure  
+Domain organisation: N-terminal four-helix bundle (4HB, residues 1-~125) that executes membrane disruption; two brace helices (~126-180) transmit conformational signals; C-terminal pseudokinase domain (~181-464) functions as a regulatory switch (unknownauthors2018smallmoleculeconjugation pages 13-18, murphy2013thepseudokinasemlkl pages 9-9).  
+3-D data: crystal structures are available for full-length mouse MLKL (PDB 4BTF) (murphy2013thepseudokinasemlkl pages 9-9), the human pseudokinase domain (PDB 4MWI) (lucet2017characterizationofligand pages 5-6) and a ligand-bound human construct (PDB 6O5Z) (pierotti2020potentinhibitionof pages 24-29).  
+Catalytic/regulatory features: the VAIK lysine (K219) contacts Q343 on an activation-loop helix occupying the αC position; the HRD motif is absent and the DFG motif is replaced by GFE, abolishing Mg²⁺ coordination (murphy2013thepseudokinasemlkl pages 2-3).  
+Unique elements: brace helices constrain the 4HB until phosphorylation-induced release; the activation-loop helix locks the pseudoactive site in an autoinhibited conformation (unknownauthors2018smallmoleculeconjugation pages 13-18, najafov2019tamkinasespromote pages 12-12).  
+
+## Regulation  
+Phosphorylation  
+• Activating: RIPK3 phosphorylates Thr357 and Ser358 (human) or Ser345 (mouse), driving oligomerisation and membrane trafficking (unknownauthors2018smallmoleculeconjugation pages 13-18, najafov2019tamkinasespromote pages 12-12).  
+• Inhibitory: Ser158 and Ser248 phosphorylation dampens necroptosis (unknownauthors2018smallmoleculeconjugation pages 13-18).  
+Genetic activation  
+• Pseudoactive-site mutations K219M, Q343A or phosphomimetic S345D trigger RIPK3-independent activity (murphy2013thepseudokinasemlkl pages 6-7).  
+Protein cofactors  
+• TAM kinases enhance MLKL oligomer formation (najafov2019tamkinasespromote pages 12-12).  
+• HSP90–CDC37 chaperoning stabilises oligomers and supports membrane localisation (pierotti2020potentinhibitionof pages 29-32).  
+
+## Function  
+Expression: abundant in bone marrow, brain, heart, kidney, liver and lung (murphy2013thepseudokinasemlkl pages 4-5).  
+Upstream signals: TNFR1 via RIPK1/RIPK3, TLR3/4-TRIF and ZBP1 pathways converge on RIPK3 to phosphorylate MLKL (murphy2013thepseudokinasemlkl pages 1-2, unknownauthors2018smallmoleculeconjugation pages 7-13).  
+Mechanism: phosphorylation induces tetramerisation, translocation to the inner plasma-membrane leaflet, membrane disruption and Ca²⁺ influx; ESCRT-III components can repair MLKL-induced lesions (unknownauthors2018smallmoleculeconjugation pages 18-22, pierotti2020potentinhibitionof pages 29-32).  
+Key interactors: RIPK1 (scaffold), RIPK3 (activating kinase), HSP90 (chaperone), ESCRT-III machinery (membrane repair) (pierotti2020potentinhibitionof pages 29-32).  
+
+## Inhibitors  
+Necrosulfonamide – covalently modifies Cys86 of human MLKL; blocks oligomerisation and membrane localisation (zhuang2020smallmoleculeinhibitorsof pages 27-29).  
+GW806742X – non-covalent small molecule that disrupts MLKL function in human cells (pierotti2020potentinhibitionof pages 1-5).  
+Compound 2 – nanomolar inhibitor binding MLKL, RIPK1 and RIPK3; protects mice in TNF-induced systemic inflammatory response syndrome (pierotti2020potentinhibitionof pages 24-29).  
+Analogue 68 – high-potency covalent Cys86 binder; potent but cytotoxic (zhuang2020smallmoleculeinhibitorsof pages 27-29).  
+
+## Other Comments  
+Disease associations: necroptosis contributes to TNF-mediated SIRS (pierotti2020potentinhibitionof pages 1-5), ischemia-reperfusion injury and neurodegeneration (unknownauthors2018smallmoleculeconjugation pages 13-18) and has been implicated in ALS via RIPK-MLKL signalling (najafov2019tamkinasespromote pages 12-12).  
+Pathogenic mutations: T357I and S358F alter the activation loop; F385I and L280P found in gastric cancer specimens; all enhance or dysregulate MLKL activation (murphy2013thepseudokinasemlkl pages 7-8, goldberg2023emergingfunctionsof pages 11-12).
+
+References
+
+1. (goldberg2023emergingfunctionsof pages 11-12): Timea Goldberg and Anju Sreelatha. Emerging functions of pseudoenzymes. Biochemical Journal, 480:715-728, May 2023. URL: https://doi.org/10.1042/bcj20220373, doi:10.1042/bcj20220373. This article has 11 citations and is from a domain leading peer-reviewed journal.
+
+2. (murphy2013thepseudokinasemlkl pages 1-2): James M. Murphy, P. Czabotar, Joanne M. Hildebrand, I. Lucet, Jian‐guo Zhang, Silvia Álvarez-Díaz, Rowena S. Lewis, N. Lalaoui, D. Metcalf, A. Webb, Samuel N. Young, L. Varghese, G. Tannahill, Esme C. Hatchell, I. Majewski, T. Okamoto, R. Dobson, D. Hilton, J. Babon, N. Nicola, A. Strasser, J. Silke, and W. Alexander. The pseudokinase mlkl mediates necroptosis via a molecular switch mechanism. Immunity, 39 3:443-53, Sep 2013. URL: https://doi.org/10.1016/j.immuni.2013.06.018, doi:10.1016/j.immuni.2013.06.018. This article has 1316 citations and is from a highest quality peer-reviewed journal.
+
+3. (murphy2013thepseudokinasemlkl pages 2-3): James M. Murphy, P. Czabotar, Joanne M. Hildebrand, I. Lucet, Jian‐guo Zhang, Silvia Álvarez-Díaz, Rowena S. Lewis, N. Lalaoui, D. Metcalf, A. Webb, Samuel N. Young, L. Varghese, G. Tannahill, Esme C. Hatchell, I. Majewski, T. Okamoto, R. Dobson, D. Hilton, J. Babon, N. Nicola, A. Strasser, J. Silke, and W. Alexander. The pseudokinase mlkl mediates necroptosis via a molecular switch mechanism. Immunity, 39 3:443-53, Sep 2013. URL: https://doi.org/10.1016/j.immuni.2013.06.018, doi:10.1016/j.immuni.2013.06.018. This article has 1316 citations and is from a highest quality peer-reviewed journal.
+
+4. (murphy2013thepseudokinasemlkl pages 9-9): James M. Murphy, P. Czabotar, Joanne M. Hildebrand, I. Lucet, Jian‐guo Zhang, Silvia Álvarez-Díaz, Rowena S. Lewis, N. Lalaoui, D. Metcalf, A. Webb, Samuel N. Young, L. Varghese, G. Tannahill, Esme C. Hatchell, I. Majewski, T. Okamoto, R. Dobson, D. Hilton, J. Babon, N. Nicola, A. Strasser, J. Silke, and W. Alexander. The pseudokinase mlkl mediates necroptosis via a molecular switch mechanism. Immunity, 39 3:443-53, Sep 2013. URL: https://doi.org/10.1016/j.immuni.2013.06.018, doi:10.1016/j.immuni.2013.06.018. This article has 1316 citations and is from a highest quality peer-reviewed journal.
+
+5. (najafov2019tamkinasespromote pages 12-12): Ayaz Najafov, Adnan K. Mookhtiar, Hoang Son Luu, Alban Ordureau, Heling Pan, Palak P. Amin, Ying Li, Qingxian Lu, and Junying Yuan. Tam kinases promote necroptosis by regulating oligomerization of mlkl. Molecular cell, Aug 2019. URL: https://doi.org/10.1016/j.molcel.2019.05.022, doi:10.1016/j.molcel.2019.05.022. This article has 127 citations and is from a highest quality peer-reviewed journal.
+
+6. (pierotti2020potentinhibitionof pages 29-32): Catia L. Pierotti, Maria C. Tanzer, Annette V. Jacobsen, Joanne M. Hildebrand, Jean-Marc Garnier, Pooja Sharma, Isabelle S. Lucet, Angus D. Cowan, Wilhelmus J. A. Kersten, Meng-Xiao Luo, Lung-Yu Liang, Cheree Fitzgibbon, Sarah E. Garnish, Anne Hempel, Ueli Nachbur, David C. S. Huang, Peter E. Czabotar, John Silke, Mark F. van Delft, James M. Murphy, and Guillaume Lessene. Potent inhibition of necroptosis by simultaneously targeting multiple effectors of the pathway. ACS Chemical Biology, 15:2702-2713, Sep 2020. URL: https://doi.org/10.1021/acschembio.0c00482, doi:10.1021/acschembio.0c00482. This article has 29 citations and is from a domain leading peer-reviewed journal.
+
+7. (unknownauthors2018smallmoleculeconjugation pages 13-18): Small Molecule Conjugation of Hsp70 Inhibits Necroptosis
+
+8. (zhuang2020smallmoleculeinhibitorsof pages 27-29): Chunlin Zhuang and Fen‐er Chen. Small-molecule inhibitors of necroptosis: current status and perspectives. Journal of medicinal chemistry, Feb 2020. URL: https://doi.org/10.1021/acs.jmedchem.9b01317, doi:10.1021/acs.jmedchem.9b01317. This article has 88 citations and is from a highest quality peer-reviewed journal.
+
+9. (byrne2017pseudokinasesupdateon pages 2-4): Dominic P Byrne, Daniel M Foulkes, and Patrick A Eyers. Pseudokinases: update on their functions and evaluation as new drug targets. Future Medicinal Chemistry, 9:245-265, Jan 2017. URL: https://doi.org/10.4155/fmc-2016-0207, doi:10.4155/fmc-2016-0207. This article has 87 citations and is from a peer-reviewed journal.
+
+10. (murphy2013thepseudokinasemlkl pages 4-5): James M. Murphy, P. Czabotar, Joanne M. Hildebrand, I. Lucet, Jian‐guo Zhang, Silvia Álvarez-Díaz, Rowena S. Lewis, N. Lalaoui, D. Metcalf, A. Webb, Samuel N. Young, L. Varghese, G. Tannahill, Esme C. Hatchell, I. Majewski, T. Okamoto, R. Dobson, D. Hilton, J. Babon, N. Nicola, A. Strasser, J. Silke, and W. Alexander. The pseudokinase mlkl mediates necroptosis via a molecular switch mechanism. Immunity, 39 3:443-53, Sep 2013. URL: https://doi.org/10.1016/j.immuni.2013.06.018, doi:10.1016/j.immuni.2013.06.018. This article has 1316 citations and is from a highest quality peer-reviewed journal.
+
+11. (pierotti2020potentinhibitionof pages 1-5): Catia L. Pierotti, Maria C. Tanzer, Annette V. Jacobsen, Joanne M. Hildebrand, Jean-Marc Garnier, Pooja Sharma, Isabelle S. Lucet, Angus D. Cowan, Wilhelmus J. A. Kersten, Meng-Xiao Luo, Lung-Yu Liang, Cheree Fitzgibbon, Sarah E. Garnish, Anne Hempel, Ueli Nachbur, David C. S. Huang, Peter E. Czabotar, John Silke, Mark F. van Delft, James M. Murphy, and Guillaume Lessene. Potent inhibition of necroptosis by simultaneously targeting multiple effectors of the pathway. ACS Chemical Biology, 15:2702-2713, Sep 2020. URL: https://doi.org/10.1021/acschembio.0c00482, doi:10.1021/acschembio.0c00482. This article has 29 citations and is from a domain leading peer-reviewed journal.
+
+12. (pierotti2020potentinhibitionof pages 24-29): Catia L. Pierotti, Maria C. Tanzer, Annette V. Jacobsen, Joanne M. Hildebrand, Jean-Marc Garnier, Pooja Sharma, Isabelle S. Lucet, Angus D. Cowan, Wilhelmus J. A. Kersten, Meng-Xiao Luo, Lung-Yu Liang, Cheree Fitzgibbon, Sarah E. Garnish, Anne Hempel, Ueli Nachbur, David C. S. Huang, Peter E. Czabotar, John Silke, Mark F. van Delft, James M. Murphy, and Guillaume Lessene. Potent inhibition of necroptosis by simultaneously targeting multiple effectors of the pathway. ACS Chemical Biology, 15:2702-2713, Sep 2020. URL: https://doi.org/10.1021/acschembio.0c00482, doi:10.1021/acschembio.0c00482. This article has 29 citations and is from a domain leading peer-reviewed journal.
+
+13. (unknownauthors2018smallmoleculeconjugation pages 18-22): Small Molecule Conjugation of Hsp70 Inhibits Necroptosis
+
+14. (unknownauthors2018smallmoleculeconjugation pages 7-13): Small Molecule Conjugation of Hsp70 Inhibits Necroptosis
+
+15. (unknownauthors2022biochemicalandstructural pages 18-24): Biochemical and Structural Characterization of Divergent Members of the Protein Kinase Family
+
+16. (goldberg2023emergingfunctionsof pages 4-6): Timea Goldberg and Anju Sreelatha. Emerging functions of pseudoenzymes. Biochemical Journal, 480:715-728, May 2023. URL: https://doi.org/10.1042/bcj20220373, doi:10.1042/bcj20220373. This article has 11 citations and is from a domain leading peer-reviewed journal.
+
+17. (lucet2017characterizationofligand pages 5-6): I. Lucet and James M. Murphy. Characterization of ligand binding to pseudokinases using a thermal shift assay. Methods in molecular biology, 1636:91-104, 2017. URL: https://doi.org/10.1007/978-1-4939-7154-1\_7, doi:10.1007/978-1-4939-7154-1\_7. This article has 15 citations and is from a peer-reviewed journal.
+
+18. (murphy2013thepseudokinasemlkl pages 6-7): James M. Murphy, P. Czabotar, Joanne M. Hildebrand, I. Lucet, Jian‐guo Zhang, Silvia Álvarez-Díaz, Rowena S. Lewis, N. Lalaoui, D. Metcalf, A. Webb, Samuel N. Young, L. Varghese, G. Tannahill, Esme C. Hatchell, I. Majewski, T. Okamoto, R. Dobson, D. Hilton, J. Babon, N. Nicola, A. Strasser, J. Silke, and W. Alexander. The pseudokinase mlkl mediates necroptosis via a molecular switch mechanism. Immunity, 39 3:443-53, Sep 2013. URL: https://doi.org/10.1016/j.immuni.2013.06.018, doi:10.1016/j.immuni.2013.06.018. This article has 1316 citations and is from a highest quality peer-reviewed journal.
+
+19. (murphy2013thepseudokinasemlkl pages 7-8): James M. Murphy, P. Czabotar, Joanne M. Hildebrand, I. Lucet, Jian‐guo Zhang, Silvia Álvarez-Díaz, Rowena S. Lewis, N. Lalaoui, D. Metcalf, A. Webb, Samuel N. Young, L. Varghese, G. Tannahill, Esme C. Hatchell, I. Majewski, T. Okamoto, R. Dobson, D. Hilton, J. Babon, N. Nicola, A. Strasser, J. Silke, and W. Alexander. The pseudokinase mlkl mediates necroptosis via a molecular switch mechanism. Immunity, 39 3:443-53, Sep 2013. URL: https://doi.org/10.1016/j.immuni.2013.06.018, doi:10.1016/j.immuni.2013.06.018. This article has 1316 citations and is from a highest quality peer-reviewed journal.

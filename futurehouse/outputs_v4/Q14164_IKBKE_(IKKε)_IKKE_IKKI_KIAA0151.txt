@@ -1,0 +1,101 @@
+## Phylogeny
+IKBKE (IKKε) is a non-canonical IκB kinase belonging to the IKK-related kinase family of serine/threonine protein kinases (hacker2006regulationandfunction pages 53-57, tu2013structureandubiquitinationdependent pages 1-2). Kinome classification places the IKK family, including IKBKE (also known as IKKi), in the "Other" group of atypical protein kinases (hacker2006regulationandfunction pages 53-57, hacker2006regulationandfunction pages 43-48, wang2005genomicstructureand pages 1-2). Some sources, however, place IKBKE within the CMGC (CDK, MAPK, GSK3, CLK) group (xu2011crystalstructureof pages 1-2, yin2020advancesinikbke pages 1-2, hacker2006regulationandfunction pages 48-53, xiao2022roleofikkε pages 1-2). It is phylogenetically distinct from the canonical IKKs (IKKα and IKKβ), sharing only 24-31% amino acid sequence identity with them (durand2018rolesforthe pages 1-3, yin2020advancesinikbke pages 1-2, hacker2006regulationandfunction pages 53-57). IKBKE is a close homolog of TANK-binding kinase 1 (TBK1), sharing approximately 64-67% sequence homology (hacker2006regulationandfunction pages 53-57, yin2020advancesinikbke pages 1-2, durand2018rolesforthe pages 1-3).
+
+
+
+## Reaction Catalyzed
+IKBKE catalyzes the ATP-dependent transfer of a γ-phosphate group to serine or threonine residues on target protein substrates (yin2020advancesinikbke pages 1-2, xiao2022roleofikkε pages 1-2).
+Reaction: ATP + [target protein]-L-serine/threonine = ADP + [target protein]-L-serine/threonine phosphate (bulek2011theinduciblekinase pages 8-9).
+
+
+
+## Cofactor Requirements
+The kinase activity of IKBKE requires ATP as the phosphate donor cofactor (bulek2011theinduciblekinase pages 8-9, yin2020advancesinikbke pages 1-2). Its catalytic function is also dependent on divalent cations such as Mg²⁺ or Mn²⁺ (johnson2023anatlasof pages 4-4, wang2005genomicstructureand pages 1-2).
+
+
+
+## Substrate Specificity
+Analysis of substrate specificity motifs classifies IKBKE within a cluster (cluster 13) that deviates from the major basophilic, proline-directed, and acidic kinase groups (johnson2023anatlasof pages 2-3). The consensus phosphorylation motif for kinases in this cluster is characterized by basic residues both N- and C-terminal to the phosphorylation site and a dominant selection for an aromatic residue (phenylalanine, tyrosine, or tryptophan) at the +3 position (johnson2023anatlasof pages 2-3). However, other analyses from the same study show IKBKE has preferences for basophilic motifs like R-x-x-S/T or acidic sequence environments (johnson2023anatlasof pages 12-18, johnson2023anatlasof pages 4-4).
+
+
+
+## Structure
+IKBKE is an ~80-84 kDa protein of 716 amino acids (full-length isoform v1) with a multi-domain architecture (yin2020advancesinikbke pages 1-2, hacker2006regulationandfunction pages 53-57, luo2025anexaminationof pages 8-10). Its key domains include an N-terminal Kinase Domain (KD, aa 9–300) responsible for ATP binding and phosphotransferase activity, with Lys38 being critical for function; a Ubiquitin-like Domain (ULD, aa 350–383) important for kinase activity and substrate interaction; a C-terminal Scaffold Dimerization Domain (SDD) that contains a Leucine Zipper (LZ, aa 500–527) and a Helix-Loop-Helix (HLH, aa 578–619) motif; and a domain interacting with DEAD-box protein 3 (DDX3, aa 383–647) that promotes autophosphorylation (xiao2022roleofikkε pages 1-2, xiao2022roleofikkε pages 2-3, durand2018rolesforthe pages 1-3, yin2020advancesinikbke pages 1-2). Unlike canonical IKKs, IKBKE lacks a NEMO-binding domain (NBD) (durand2018rolesforthe pages 1-3, yin2020advancesinikbke pages 1-2). Structural studies of related kinases IKKβ and TBK1 indicate that the inactive conformation features a displaced C-helix (αC helix) in an "out" position, which disrupts catalytically essential interactions (xu2011crystalstructureof pages 2-4, tu2013structureandubiquitinationdependent pages 2-4). While the hydrophobic spine is not explicitly detailed for IKBKE, these structural changes imply a disrupted spine characteristic of an inactive kinase state (xu2011crystalstructureof pages 2-4). Activation requires phosphorylation of Ser172 within the activation loop of the KD (xiao2022roleofikkε pages 1-2, durand2018rolesforthe pages 11-12).
+
+
+
+## Regulation
+The catalytic activity of IKBKE is regulated by multiple post-translational modifications (PTMs) and protein-protein interactions.
+-   **Phosphorylation:** Activation depends on trans-autophosphorylation at Ser172 in the activation loop, a process facilitated by interaction with DDX3 (durand2018rolesforthe pages 11-12, xiao2022roleofikkε pages 1-2, xiao2022roleofikkε pages 2-3). Phosphorylation at Thr501 regulates IKBKE-mediated STAT1 phosphorylation (xiao2022roleofikkε pages 1-2).
+-   **Ubiquitination:** K63-linked polyubiquitination, mediated by a cIAP1/cIAP2/TRAF2 E3 ligase complex, is essential for kinase activity (durand2018rolesforthe pages 11-12, durand2018rolesforthe pages 3-5). Ubiquitination at Lys30, Lys401, and Met416 facilitates downstream NF-κB signaling (xiao2022roleofikkε pages 1-2). K48-linked polyubiquitination by TRIM6 also activates IKBKE during interferon stimulation (zhang2016rolesofiκb pages 1-2).
+-   **SUMOylation:** SUMOylation at Lys231 affects nuclear localization and promotes NF-κB activation following DNA damage (xiao2022roleofikkε pages 1-2, xiao2022roleofikkε pages 2-3).
+-   **Interacting Partners:** Adaptor proteins TANK, Sintbad, and NAP1 localize IKBKE to facilitate substrate specificity and activation (durand2018rolesforthe pages 3-5, yin2020advancesinikbke pages 1-2).
+
+
+
+## Function
+IKBKE is an inducible kinase primarily expressed in immune tissues like the spleen, thymus, and peripheral blood lymphocytes, with expression induced by stimuli such as LPS, TNF-α, and IL-1β (hacker2006regulationandfunction pages 53-57).
+-   **Upstream Activators:** It is activated downstream of pattern recognition receptors such as TLRs and RIG-I-like receptors (yin2020advancesinikbke pages 9-10, yin2020advancesinikbke pages 1-2).
+-   **Interacting Partners:** It forms complexes with TANK, TRAF2, Sintbad, NAP1, and DDX3 (durand2018rolesforthe pages 3-5, hacker2006regulationandfunction pages 53-57, xiao2022roleofikkε pages 1-2).
+-   **Downstream Substrates and Signaling Pathways:**
+    -   **Innate Immunity:** IKBKE phosphorylates transcription factors IRF3 and IRF7, promoting their dimerization and nuclear translocation to induce type I interferon transcription (durand2018rolesforthe pages 1-3, yin2020advancesinikbke pages 1-2). It also phosphorylates STAT1 at Ser708 to drive expression of interferon-responsive genes (durand2018rolesforthe pages 1-3).
+    -   **NF-κB Pathway:** It enhances NF-κB activity by phosphorylating RelA/p65 (at Ser536 and Ser468), IκBα (at Ser36), and CYLD (at Ser418) (durand2018rolesforthe pages 3-5, hacker2006regulationandfunction pages 53-57, durand2018rolesforthe pages 11-12).
+    -   **Immune Regulation:** It suppresses T cell activation by phosphorylating NFATc1 (durand2018rolesforthe pages 1-3).
+    -   **Autophagy:** It phosphorylates p62/SQSTM1 at Ser403 to regulate autophagy (durand2018rolesforthe pages 1-3).
+    -   **Oncogenesis:** It activates oncogenic pathways involving Akt and the nuclear translocation of GLI1 and C/EBPβ (durand2018rolesforthe pages 3-5).
+
+
+
+## Inhibitors
+Several small-molecule inhibitors target the kinase activity of IKBKE, many of which are dual TBK1/IKBKE inhibitors (durand2018rolesforthe pages 3-5). Known inhibitors include BX795, amlexanox, CYT387, MRT67307, WO2009032861, SAR, and Domainex compounds (durand2018rolesforthe pages 11-12, yin2020advancesinikbke pages 9-10, xiao2022roleofikkε pages 1-2, zhang2016rolesofiκb pages 5-7). BX795 functions by blocking autophosphorylation at Ser172 (xiao2022roleofikkε pages 2-3).
+
+
+
+## Other Comments
+The human *IKBKE* gene is located on chromosome 1q32.1 and contains 22 exons, producing at least three isoforms via alternative splicing (xiao2022roleofikkε pages 1-2, yin2020advancesinikbke pages 1-2). A K38A mutation in the kinase domain abolishes its kinase activity (xiao2022roleofikkε pages 1-2). IKBKE is considered an oncogene, as its overexpression promotes tumor growth, invasion, and drug resistance, and its expression correlates with poor prognosis in various cancers including breast, glioma, pancreatic, ovarian, and non-small cell lung cancer (durand2018rolesforthe pages 1-3, durand2018rolesforthe pages 11-12, yin2020advancesinikbke pages 9-10). It is also implicated in metabolic diseases, as its expression is induced by high-fat diets and contributes to obesity, insulin resistance, and nonalcoholic fatty liver disease (NAFLD) (xiao2022roleofikkε pages 1-2).
+
+References
+
+1. (durand2018rolesforthe pages 1-3): Joel K. Durand, Qing Zhang, and Albert S. Baldwin. Roles for the ikk-related kinases tbk1 and ikkε in cancer. Cells, 7:139, Sep 2018. URL: https://doi.org/10.3390/cells7090139, doi:10.3390/cells7090139. This article has 87 citations and is from a peer-reviewed journal.
+
+2. (durand2018rolesforthe pages 11-12): Joel K. Durand, Qing Zhang, and Albert S. Baldwin. Roles for the ikk-related kinases tbk1 and ikkε in cancer. Cells, 7:139, Sep 2018. URL: https://doi.org/10.3390/cells7090139, doi:10.3390/cells7090139. This article has 87 citations and is from a peer-reviewed journal.
+
+3. (durand2018rolesforthe pages 3-5): Joel K. Durand, Qing Zhang, and Albert S. Baldwin. Roles for the ikk-related kinases tbk1 and ikkε in cancer. Cells, 7:139, Sep 2018. URL: https://doi.org/10.3390/cells7090139, doi:10.3390/cells7090139. This article has 87 citations and is from a peer-reviewed journal.
+
+4. (hacker2006regulationandfunction pages 53-57): Hans Häcker and Michael Karin. Regulation and function of ikk and ikk-related kinases. Science's STKE, 2006:re13-re13, Oct 2006. URL: https://doi.org/10.1126/stke.3572006re13, doi:10.1126/stke.3572006re13. This article has 1695 citations.
+
+5. (johnson2023anatlasof pages 2-3): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+6. (luo2025anexaminationof pages 8-10): Ruiqin Luo, Yuexin Yao, Zhuo Chen, and Xiaoming Sun. An examination of the lps-tlr4 immune response through the analysis of molecular structures and protein–protein interactions. Cell Communication and Signaling, Mar 2025. URL: https://doi.org/10.1186/s12964-025-02149-4, doi:10.1186/s12964-025-02149-4. This article has 2 citations and is from a peer-reviewed journal.
+
+7. (xiao2022roleofikkε pages 1-2): Qingling Xiao, Qian He, Lun Li, Yinhong Song, Yue-ran Chen, Jun Zeng, and X. Xia. Role of ikkε in the metabolic diseases: physiology, pathophysiology, and pharmacology. Frontiers in Pharmacology, May 2022. URL: https://doi.org/10.3389/fphar.2022.888588, doi:10.3389/fphar.2022.888588. This article has 6 citations and is from a peer-reviewed journal.
+
+8. (xiao2022roleofikkε pages 2-3): Qingling Xiao, Qian He, Lun Li, Yinhong Song, Yue-ran Chen, Jun Zeng, and X. Xia. Role of ikkε in the metabolic diseases: physiology, pathophysiology, and pharmacology. Frontiers in Pharmacology, May 2022. URL: https://doi.org/10.3389/fphar.2022.888588, doi:10.3389/fphar.2022.888588. This article has 6 citations and is from a peer-reviewed journal.
+
+9. (xu2011crystalstructureof pages 2-4): Guozhou Xu, Yu-Chih Lo, Qiubai Li, Gennaro Napolitano, Xuefeng Wu, Xuliang Jiang, Michel Dreano, Michael Karin, and Hao Wu. Crystal structure of inhibitor of κb kinase β. Nature, 472:325-330, Mar 2011. URL: https://doi.org/10.1038/nature09853, doi:10.1038/nature09853. This article has 257 citations and is from a highest quality peer-reviewed journal.
+
+10. (yin2020advancesinikbke pages 1-2): Min Yin, Xin Wang, and Jie Lu. Advances in ikbke as a potential target for cancer therapy. Cancer Medicine, 9:247-258, Nov 2020. URL: https://doi.org/10.1002/cam4.2678, doi:10.1002/cam4.2678. This article has 58 citations and is from a peer-reviewed journal.
+
+11. (yin2020advancesinikbke pages 9-10): Min Yin, Xin Wang, and Jie Lu. Advances in ikbke as a potential target for cancer therapy. Cancer Medicine, 9:247-258, Nov 2020. URL: https://doi.org/10.1002/cam4.2678, doi:10.1002/cam4.2678. This article has 58 citations and is from a peer-reviewed journal.
+
+12. (zhang2016rolesofiκb pages 1-2): Junjie Zhang, Mao Tian, Zanxian Xia, and Pinghui Feng. Roles of iκb kinase ε in the innate immune defense and beyond. Virologica Sinica, 31:457-465, Dec 2016. URL: https://doi.org/10.1007/s12250-016-3898-y, doi:10.1007/s12250-016-3898-y. This article has 16 citations and is from a peer-reviewed journal.
+
+13. (zhang2016rolesofiκb pages 5-7): Junjie Zhang, Mao Tian, Zanxian Xia, and Pinghui Feng. Roles of iκb kinase ε in the innate immune defense and beyond. Virologica Sinica, 31:457-465, Dec 2016. URL: https://doi.org/10.1007/s12250-016-3898-y, doi:10.1007/s12250-016-3898-y. This article has 16 citations and is from a peer-reviewed journal.
+
+14. (bulek2011theinduciblekinase pages 8-9): Katarzyna Bulek, Caini Liu, Shadi Swaidani, Liwen Wang, Richard C Page, Muhammet F Gulen, Tomasz Herjan, Amina Abbadi, Wen Qian, Dongxu Sun, Mark Lauer, Vincent Hascall, Saurav Misra, Mark R Chance, Mark Aronica, Thomas Hamilton, and Xiaoxia Li. The inducible kinase ikki is required for il-17-dependent signaling associated with neutrophilia and pulmonary inflammation. Nature Immunology, 12:844-852, Sep 2011. URL: https://doi.org/10.1038/ni.2080, doi:10.1038/ni.2080. This article has 222 citations and is from a highest quality peer-reviewed journal.
+
+15. (hacker2006regulationandfunction pages 43-48): Hans Häcker and Michael Karin. Regulation and function of ikk and ikk-related kinases. Science's STKE, 2006:re13-re13, Oct 2006. URL: https://doi.org/10.1126/stke.3572006re13, doi:10.1126/stke.3572006re13. This article has 1695 citations.
+
+16. (hacker2006regulationandfunction pages 48-53): Hans Häcker and Michael Karin. Regulation and function of ikk and ikk-related kinases. Science's STKE, 2006:re13-re13, Oct 2006. URL: https://doi.org/10.1126/stke.3572006re13, doi:10.1126/stke.3572006re13. This article has 1695 citations.
+
+17. (johnson2023anatlasof pages 12-18): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+18. (johnson2023anatlasof pages 4-4): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+19. (tu2013structureandubiquitinationdependent pages 1-2): D. Tu, Zehua Zhu, A. Zhou, C. Yun, Kyung-Eun Lee, A. Toms, Yiqun Li, G. Dunn, Edmond M. Chan, Tran C Thai, Shenghong Yang, S. Ficarro, J. Marto, H. Jeon, W. Hahn, D. Barbie, and M. Eck. Structure and ubiquitination-dependent activation of tank-binding kinase 1. Cell reports, 3 3:747-58, Mar 2013. URL: https://doi.org/10.1016/j.celrep.2013.01.033, doi:10.1016/j.celrep.2013.01.033. This article has 224 citations and is from a highest quality peer-reviewed journal.
+
+20. (tu2013structureandubiquitinationdependent pages 2-4): D. Tu, Zehua Zhu, A. Zhou, C. Yun, Kyung-Eun Lee, A. Toms, Yiqun Li, G. Dunn, Edmond M. Chan, Tran C Thai, Shenghong Yang, S. Ficarro, J. Marto, H. Jeon, W. Hahn, D. Barbie, and M. Eck. Structure and ubiquitination-dependent activation of tank-binding kinase 1. Cell reports, 3 3:747-58, Mar 2013. URL: https://doi.org/10.1016/j.celrep.2013.01.033, doi:10.1016/j.celrep.2013.01.033. This article has 224 citations and is from a highest quality peer-reviewed journal.
+
+21. (wang2005genomicstructureand pages 1-2): Naizhen Wang, Salahuddin Ahmed, and T. Haqqi. Genomic structure and functional characterization of the promoter region of human iκb kinase-related kinase ikki/ ikkɛ gene. Gene, 353:118-133, Jun 2005. URL: https://doi.org/10.1016/j.gene.2005.04.013, doi:10.1016/j.gene.2005.04.013. This article has 43 citations and is from a peer-reviewed journal.
+
+22. (xu2011crystalstructureof pages 1-2): Guozhou Xu, Yu-Chih Lo, Qiubai Li, Gennaro Napolitano, Xuefeng Wu, Xuliang Jiang, Michel Dreano, Michael Karin, and Hao Wu. Crystal structure of inhibitor of κb kinase β. Nature, 472:325-330, Mar 2011. URL: https://doi.org/10.1038/nature09853, doi:10.1038/nature09853. This article has 257 citations and is from a highest quality peer-reviewed journal.

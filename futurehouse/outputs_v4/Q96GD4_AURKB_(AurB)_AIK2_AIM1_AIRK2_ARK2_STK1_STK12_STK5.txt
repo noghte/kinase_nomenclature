@@ -1,0 +1,111 @@
+## Phylogeny
+Aurora kinases form a distinct family of serine/threonine kinases that are highly conserved throughout evolution, originating from a single ancestral gene, Ipl1, found in yeast (*Saccharomyces cerevisiae*) (durlacher2016anupdateon pages 1-2, vats2025aurorakinasessignaling pages 1-2, sarı2024aurorakinasestheir pages 1-2). Through gene duplication events, this lineage produced orthologs in invertebrates like *Drosophila melanogaster* and *Caenorhabditis elegans*, while mammals possess three paralogs: AURKA, AURKB, and AURKC (vats2025aurorakinasessignaling pages 1-2, durlacher2016anupdateon pages 2-2). Phylogenetic analyses place the Aurora kinase family within the eukaryotic protein kinase (ePK) superfamily (ashraf2021explorationofthe pages 17-18). However, its classification within the human kinome is inconsistently reported in the literature. Some sources place the Aurora kinase family within the AGC group (borah2021aurorakinaseba pages 1-3, azeez2019structuralmechanismof pages 3-4, souza2020structuralbasisfor pages 2-3), while others classify it within the CMGC group (zhao2022exploringthestructural pages 22-25, sarı2024aurorakinasestheir pages 2-3, souza2020structuralbasisfor pages 1-2). Among the human paralogs, AURKB shares high catalytic domain sequence identity with AURKA (71%) and AURKC (75-84%), and their ATP binding sites are 100% conserved (sarı2024aurorakinasestheir pages 1-2, azeez2019structuralmechanismof pages 1-2).
+
+
+
+## Reaction Catalyzed
+As a serine/threonine kinase, Aurora kinase B catalyzes the transfer of the γ-phosphate group from ATP to the hydroxyl group of a serine or threonine residue on a substrate protein (ashraf2021explorationofthe pages 16-17, sarı2024aurorakinasestheir pages 1-2, zhao2022exploringthestructural pages 22-25).
+The reaction is: ATP + [a protein]-L-serine/threonine → ADP + [a protein]-L-phosphoserine/phosphothreonine (ashraf2021explorationofthe pages 16-17, borah2021aurorakinaseba pages 22-23, vats2025aurorakinasessignaling pages 1-2).
+
+
+
+## Cofactor Requirements
+The kinase activity of Aurora kinase B requires ATP as the phosphate-donor cofactor (ashraf2021explorationofthe pages 16-17, vats2025aurorakinasessignaling pages 2-4). Catalysis is also dependent on the presence of Mg²⁺ ions to facilitate the phosphate transfer (sarı2024aurorakinasestheir pages 7-8, vats2025aurorakinasessignaling pages 1-2). Additionally, full activation and function require interaction with protein cofactors, primarily the Inner Centromere Protein (INCENP), a component of the Chromosomal Passenger Complex (CPC) (mou2021aurorakinasea pages 1-2, zhao2022exploringthestructural pages 22-25).
+
+
+
+## Substrate Specificity
+Aurora kinase B phosphorylates serine or threonine residues within a consensus motif on its substrates, though the precise characteristics of this motif are reported with some variation. One characterization indicates the motif favors basic residues like arginine (R) at the -2 position relative to the phosphorylation site, often with hydrophobic residues such as leucine (L) at the +1 or +2 positions (azeez2019structuralmechanismof pages 3-4). Another description reports a preference for basic residues (arginine or lysine) at the +1 and +3 positions, appearing as R-X-[ST]-X-K/R (zhao2022exploringthestructural pages 22-25). Other studies describe enrichment of arginine or lysine at positions -2 and -3 (souza2020structuralbasisfor pages 2-3), or at positions -2 and +2 (unknownauthors2017insilicoinvestigationof pages 23-27).
+
+
+
+## Structure
+Aurora kinase B is a 345-amino acid protein with a molecular mass of approximately 39 kDa (vats2025aurorakinasessignaling pages 2-4). It consists of three domains: an N-terminal regulatory domain (~75 amino acids), a central catalytic kinase domain (~251 amino acids), and a C-terminal regulatory domain (borah2021aurorakinaseba pages 1-3, vats2025aurorakinasessignaling pages 2-4, vats2025aurorakinasessignaling pages 4-6). The kinase domain has a bilobal structure, with a β-stranded N-terminal lobe and an α-helical C-terminal lobe connected by a hinge region (borah2021aurorakinaseba pages 1-3).
+Key structural features regulate its activity. The activation loop (T-loop) within the kinase domain contains Thr232, a critical phosphorylation site (borah2021aurorakinaseba pages 22-23, sarı2024aurorakinasestheir pages 2-3). The C-helix (αC-helix) is crucial for activity; it packs against the kinase core and interacts with the cofactor INCENP to stabilize the active conformation (azeez2019structuralmechanismof pages 3-4). The hydrophobic spine, a set of conserved residues, connects important structural motifs to maintain the active conformation of the kinase (sarı2024aurorakinasestheir pages 2-3).
+
+
+
+## Regulation
+AURKB activity is tightly controlled by several mechanisms:
+*   **Phosphorylation and Dephosphorylation**: Activation requires autophosphorylation on Thr232 within the activation loop (borah2021aurorakinaseba pages 1-3). Conversely, AURKB is deactivated by dephosphorylation, which is mediated by protein phosphatases such as PP1 and PP2A (azeez2019structuralmechanismof pages 3-4). Protein phosphatase 1 (PP1) is considered the primary phosphatase responsible for reversing the activation by removing the phosphate group from Thr232 (sarı2024aurorakinasestheir pages 2-3).
+*   **Protein Interactions and Feedback**: AURKB is a core component of the Chromosomal Passenger Complex (CPC) and requires binding to the IN-box domain of INCENP for full activation (azeez2019structuralmechanismof pages 1-2, vats2025aurorakinasessignaling pages 6-7). This interaction is part of a positive feedback loop where AURKB phosphorylates a conserved TSS motif on INCENP, which in turn further stabilizes the complex and enhances AURKB kinase activity (azeez2019structuralmechanismof pages 1-2, vats2025aurorakinasessignaling pages 6-7). Other CPC proteins, survivin and borealin, aid in its localization and activation (vats2025aurorakinasessignaling pages 2-4).
+*   **Protein Degradation**: AURKB levels are controlled by ubiquitin-mediated degradation. The protein contains degron motifs, including a KEN motif and D-boxes, that target it for degradation by the Anaphase-Promoting Complex/Cyclosome (APC/C) during mitotic exit and G1 phase (borah2021aurorakinaseba pages 1-3, vats2025aurorakinasessignaling pages 4-6).
+*   **Transcriptional Control**: Expression of the *AURKB* gene is regulated by transcription factors, including E2F1, E2F4, FoxM1, and DP-2 (borah2021aurorakinaseba pages 1-3). Its expression is also regulated by oncogenic factors like c-Myc, MDM2, MYCN, and cyclin K (borah2021aurorakinaseba pages 22-23).
+
+
+
+## Function
+Aurora kinase B is a key regulator of mitosis, essential for the proper execution of cell division and maintenance of genomic stability (sarı2024aurorakinasestheir pages 1-2). Its expression and kinase activity peak from the G2 to M phase of the cell cycle (sarı2024aurorakinasestheir pages 2-3). As part of the CPC, AURKB dynamically localizes to different subcellular structures during mitosis: it is found on chromosomes during prophase, at centromeres and kinetochores through metaphase, and relocates to the central spindle and midbody during anaphase and cytokinesis (durlacher2016anupdateon pages 4-5, vats2025aurorakinasessignaling pages 6-7).
+Its major biological roles include:
+*   **Chromosome Condensation and Segregation**: It phosphorylates substrates like histone H3 (at Ser10 and Ser28) and CENP-A to promote chromosome condensation and ensure correct chromosome alignment and segregation (borah2021aurorakinaseba pages 1-3, borah2021aurorakinaseba pages 22-23).
+*   **Kinetochore-Microtubule Attachments**: It ensures the correct bipolar attachment of microtubules to kinetochores and corrects improper attachments (durlacher2016anupdateon pages 4-5).
+*   **Spindle Assembly Checkpoint (SAC)**: It regulates the SAC by acting upstream of sensor proteins like Bub1 and BubR1, preventing a premature anaphase transition (vats2025aurorakinasessignaling pages 6-7).
+*   **Cytokinesis**: It regulates the formation of the cleavage furrow and completion of cytokinesis through phosphorylation of substrates like vimentin and MgcRacGAP-1 (sarı2024aurorakinasestheir pages 2-3).
+*   **Apoptosis and Survival Pathways**: It has a dual role, capable of inducing apoptosis by phosphorylating p53 or promoting cell survival by activating STAT3 (vats2025aurorakinasessignaling pages 11-14).
+
+
+
+## Inhibitors
+Numerous small molecule inhibitors that target the ATP-binding site of AURKB have been developed and studied experimentally (borah2021aurorakinaseba pages 1-3, vats2025aurorakinasessignaling pages 2-4). These include:
+*   **Barasertib (AZD1152)**: A potent and selective ATP-competitive inhibitor of AURKB (vats2025aurorakinasessignaling pages 19-21, tang2017aurorakinasesnovel pages 1-2).
+*   **GSK1070916**: A reversible inhibitor of AURKB and AURKC that disrupts chromosome alignment and cytokinesis (vats2025aurorakinasessignaling pages 19-21, vats2025aurorakinasessignaling pages 11-14).
+*   **VX-680 (MK-0457)**: A pan-Aurora kinase inhibitor that has been tested in clinical trials (tang2017aurorakinasesnovel pages 1-2).
+*   **Natural Compounds**: Flavonoids such as hesperidin and quercetin have been shown to inhibit AURKB, though with lower potency (vats2025aurorakinasessignaling pages 19-21, vats2025aurorakinasessignaling pages 11-14).
+*   **Other Experimental Inhibitors**: ZM447439, AT9283, AMG-900, CS2164 (Chiauranib), and JNJ-7706621 (borah2021aurorakinaseba pages 1-3, tang2017aurorakinasesnovel pages 1-2, vats2025aurorakinasessignaling pages 11-14, vats2025aurorakinasessignaling pages 21-23).
+
+
+
+## Other Comments
+Overexpression and dysregulation of AURKB are frequently observed in a wide range of human cancers, including lung, breast, colon, pancreas, stomach, ovary, prostate, glioma, and acute myeloid leukemia (AML) (durlacher2016anupdateon pages 4-5, tang2017aurorakinasesnovel pages 1-2). Elevated AURKB activity promotes tumorigenesis by causing chromosomal instability (CIN), aneuploidy, tumor cell invasion, metastasis, and chemotherapy resistance (borah2021aurorakinaseba pages 1-3, durlacher2016anupdateon pages 4-5). High AURKB expression is often correlated with malignant behavior and poor patient prognosis (durlacher2016anupdateon pages 4-5, tang2017aurorakinasesnovel pages 1-2).
+
+References
+
+1. (ashraf2021explorationofthe pages 16-17): Sajda Ashraf, Kara E. Ranaghan, Christopher J. Woods, Adrian J. Mulholland, and Zaheer Ul-Haq. Exploration of the structural requirements of aurora kinase b inhibitors by a combined qsar, modelling and molecular simulation approach. Scientific Reports, Sep 2021. URL: https://doi.org/10.1038/s41598-021-97368-3, doi:10.1038/s41598-021-97368-3. This article has 17 citations and is from a poor quality or predatory journal.
+
+2. (azeez2019structuralmechanismof pages 1-2): Kamal R. Abdul Azeez, Sneha Chatterjee, Channing Yu, Todd R. Golub, Frank Sobott, and Jonathan M. Elkins. Structural mechanism of synergistic activation of aurora kinase b/c by phosphorylated incenp. Nature Communications, Jul 2019. URL: https://doi.org/10.1038/s41467-019-11085-0, doi:10.1038/s41467-019-11085-0. This article has 44 citations and is from a highest quality peer-reviewed journal.
+
+3. (azeez2019structuralmechanismof pages 3-4): Kamal R. Abdul Azeez, Sneha Chatterjee, Channing Yu, Todd R. Golub, Frank Sobott, and Jonathan M. Elkins. Structural mechanism of synergistic activation of aurora kinase b/c by phosphorylated incenp. Nature Communications, Jul 2019. URL: https://doi.org/10.1038/s41467-019-11085-0, doi:10.1038/s41467-019-11085-0. This article has 44 citations and is from a highest quality peer-reviewed journal.
+
+4. (borah2021aurorakinaseba pages 1-3): Naheed Arfin Borah and Mamatha M. Reddy. Aurora kinase b inhibition: a potential therapeutic strategy for cancer. Molecules, 26:1981, Apr 2021. URL: https://doi.org/10.3390/molecules26071981, doi:10.3390/molecules26071981. This article has 153 citations and is from a peer-reviewed journal.
+
+5. (borah2021aurorakinaseba pages 22-23): Naheed Arfin Borah and Mamatha M. Reddy. Aurora kinase b inhibition: a potential therapeutic strategy for cancer. Molecules, 26:1981, Apr 2021. URL: https://doi.org/10.3390/molecules26071981, doi:10.3390/molecules26071981. This article has 153 citations and is from a peer-reviewed journal.
+
+6. (durlacher2016anupdateon pages 4-5): Cameron T. Durlacher, Zhi-ling Li, Xiao-wu Chen, Zhi-xu He, and Shufeng Zhou. An update on the pharmacokinetics and pharmacodynamics of alisertib, a selective aurora kinase a inhibitor. Clinical and Experimental Pharmacology and Physiology, Jun 2016. URL: https://doi.org/10.1111/1440-1681.12571, doi:10.1111/1440-1681.12571. This article has 50 citations and is from a peer-reviewed journal.
+
+7. (sarı2024aurorakinasestheir pages 1-2): Sibel Sarı and Elif Rumeysa Özsoy. Aurora kinases: their role in cancer and cellular processes. Türk Doğa ve Fen Dergisi, 13:128-139, Jun 2024. URL: https://doi.org/10.46810/tdfd.1476374, doi:10.46810/tdfd.1476374. This article has 3 citations.
+
+8. (sarı2024aurorakinasestheir pages 2-3): Sibel Sarı and Elif Rumeysa Özsoy. Aurora kinases: their role in cancer and cellular processes. Türk Doğa ve Fen Dergisi, 13:128-139, Jun 2024. URL: https://doi.org/10.46810/tdfd.1476374, doi:10.46810/tdfd.1476374. This article has 3 citations.
+
+9. (tang2017aurorakinasesnovel pages 1-2): Anqun Tang, Keyu Gao, Laili Chu, Rui Zhang, Jing Yang, and Junnian Zheng. Aurora kinases: novel therapy targets in cancers. Oncotarget, 8:23937-23954, Jan 2017. URL: https://doi.org/10.18632/oncotarget.14893, doi:10.18632/oncotarget.14893. This article has 397 citations and is from a poor quality or predatory journal.
+
+10. (vats2025aurorakinasessignaling pages 11-14): Prerna Vats, Chainsee Saini, Bhavika Baweja, Sandeep K. Srivastava, Ashok Kumar, Atar Singh Kushwah, and Rajeev Nema. Aurora kinases signaling in cancer: from molecular perception to targeted therapies. Molecular Cancer, Jun 2025. URL: https://doi.org/10.1186/s12943-025-02353-3, doi:10.1186/s12943-025-02353-3. This article has 0 citations and is from a highest quality peer-reviewed journal.
+
+11. (vats2025aurorakinasessignaling pages 19-21): Prerna Vats, Chainsee Saini, Bhavika Baweja, Sandeep K. Srivastava, Ashok Kumar, Atar Singh Kushwah, and Rajeev Nema. Aurora kinases signaling in cancer: from molecular perception to targeted therapies. Molecular Cancer, Jun 2025. URL: https://doi.org/10.1186/s12943-025-02353-3, doi:10.1186/s12943-025-02353-3. This article has 0 citations and is from a highest quality peer-reviewed journal.
+
+12. (vats2025aurorakinasessignaling pages 2-4): Prerna Vats, Chainsee Saini, Bhavika Baweja, Sandeep K. Srivastava, Ashok Kumar, Atar Singh Kushwah, and Rajeev Nema. Aurora kinases signaling in cancer: from molecular perception to targeted therapies. Molecular Cancer, Jun 2025. URL: https://doi.org/10.1186/s12943-025-02353-3, doi:10.1186/s12943-025-02353-3. This article has 0 citations and is from a highest quality peer-reviewed journal.
+
+13. (vats2025aurorakinasessignaling pages 21-23): Prerna Vats, Chainsee Saini, Bhavika Baweja, Sandeep K. Srivastava, Ashok Kumar, Atar Singh Kushwah, and Rajeev Nema. Aurora kinases signaling in cancer: from molecular perception to targeted therapies. Molecular Cancer, Jun 2025. URL: https://doi.org/10.1186/s12943-025-02353-3, doi:10.1186/s12943-025-02353-3. This article has 0 citations and is from a highest quality peer-reviewed journal.
+
+14. (vats2025aurorakinasessignaling pages 6-7): Prerna Vats, Chainsee Saini, Bhavika Baweja, Sandeep K. Srivastava, Ashok Kumar, Atar Singh Kushwah, and Rajeev Nema. Aurora kinases signaling in cancer: from molecular perception to targeted therapies. Molecular Cancer, Jun 2025. URL: https://doi.org/10.1186/s12943-025-02353-3, doi:10.1186/s12943-025-02353-3. This article has 0 citations and is from a highest quality peer-reviewed journal.
+
+15. (zhao2022exploringthestructural pages 22-25): Dong Zhao, Antal H. Kovacs, Michael Campbell, Wely Floriano, and Jinqiang Hou. Exploring the structural basis of a subtype selective inhibitor for aurora kinase b over aurora kinase a by molecular dynamics simulations. Unknown journal, Aug 2022. URL: https://doi.org/10.21203/rs.3.rs-1942448/v1, doi:10.21203/rs.3.rs-1942448/v1.
+
+16. (ashraf2021explorationofthe pages 17-18): Sajda Ashraf, Kara E. Ranaghan, Christopher J. Woods, Adrian J. Mulholland, and Zaheer Ul-Haq. Exploration of the structural requirements of aurora kinase b inhibitors by a combined qsar, modelling and molecular simulation approach. Scientific Reports, Sep 2021. URL: https://doi.org/10.1038/s41598-021-97368-3, doi:10.1038/s41598-021-97368-3. This article has 17 citations and is from a poor quality or predatory journal.
+
+17. (durlacher2016anupdateon pages 1-2): Cameron T. Durlacher, Zhi-ling Li, Xiao-wu Chen, Zhi-xu He, and Shufeng Zhou. An update on the pharmacokinetics and pharmacodynamics of alisertib, a selective aurora kinase a inhibitor. Clinical and Experimental Pharmacology and Physiology, Jun 2016. URL: https://doi.org/10.1111/1440-1681.12571, doi:10.1111/1440-1681.12571. This article has 50 citations and is from a peer-reviewed journal.
+
+18. (sarı2024aurorakinasestheir pages 7-8): Sibel Sarı and Elif Rumeysa Özsoy. Aurora kinases: their role in cancer and cellular processes. Türk Doğa ve Fen Dergisi, 13:128-139, Jun 2024. URL: https://doi.org/10.46810/tdfd.1476374, doi:10.46810/tdfd.1476374. This article has 3 citations.
+
+19. (souza2020structuralbasisfor pages 1-2): Valéria Barbosa de Souza and Daniel Fábio Kawano. Structural basis for the design of allosteric inhibitors of the aurora kinase a enzyme in the cancer chemotherapy. Biochimica et Biophysica Acta (BBA) - General Subjects, 1864:129448, Jan 2020. URL: https://doi.org/10.1016/j.bbagen.2019.129448, doi:10.1016/j.bbagen.2019.129448. This article has 25 citations.
+
+20. (souza2020structuralbasisfor pages 2-3): Valéria Barbosa de Souza and Daniel Fábio Kawano. Structural basis for the design of allosteric inhibitors of the aurora kinase a enzyme in the cancer chemotherapy. Biochimica et Biophysica Acta (BBA) - General Subjects, 1864:129448, Jan 2020. URL: https://doi.org/10.1016/j.bbagen.2019.129448, doi:10.1016/j.bbagen.2019.129448. This article has 25 citations.
+
+21. (unknownauthors2017insilicoinvestigationof pages 23-27): In-silico investigation of Coenzyme A selectivity for Aurora A kinase and development of an Aurora A kinase-selective inhibitor as a potential anticancer agent
+
+22. (vats2025aurorakinasessignaling pages 1-2): Prerna Vats, Chainsee Saini, Bhavika Baweja, Sandeep K. Srivastava, Ashok Kumar, Atar Singh Kushwah, and Rajeev Nema. Aurora kinases signaling in cancer: from molecular perception to targeted therapies. Molecular Cancer, Jun 2025. URL: https://doi.org/10.1186/s12943-025-02353-3, doi:10.1186/s12943-025-02353-3. This article has 0 citations and is from a highest quality peer-reviewed journal.
+
+23. (vats2025aurorakinasessignaling pages 4-6): Prerna Vats, Chainsee Saini, Bhavika Baweja, Sandeep K. Srivastava, Ashok Kumar, Atar Singh Kushwah, and Rajeev Nema. Aurora kinases signaling in cancer: from molecular perception to targeted therapies. Molecular Cancer, Jun 2025. URL: https://doi.org/10.1186/s12943-025-02353-3, doi:10.1186/s12943-025-02353-3. This article has 0 citations and is from a highest quality peer-reviewed journal.
+
+24. (durlacher2016anupdateon pages 2-2): Cameron T. Durlacher, Zhi-ling Li, Xiao-wu Chen, Zhi-xu He, and Shufeng Zhou. An update on the pharmacokinetics and pharmacodynamics of alisertib, a selective aurora kinase a inhibitor. Clinical and Experimental Pharmacology and Physiology, Jun 2016. URL: https://doi.org/10.1111/1440-1681.12571, doi:10.1111/1440-1681.12571. This article has 50 citations and is from a peer-reviewed journal.
+
+25. (mou2021aurorakinasea pages 1-2): Pui Kei Mou, Eun Ju Yang, Changxiang Shi, Guowen Ren, Shishi Tao, and Joong Sup Shim. Aurora kinase a, a synthetic lethal target for precision cancer medicine. Experimental &amp; Molecular Medicine, 53:835-847, May 2021. URL: https://doi.org/10.1038/s12276-021-00635-6, doi:10.1038/s12276-021-00635-6. This article has 101 citations.

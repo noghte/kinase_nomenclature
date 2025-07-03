@@ -1,0 +1,74 @@
+## Phylogeny  
+Sucrose-non-fermenting related kinase (SNRK) is an AMP-activated protein kinase–related kinase (ARK) positioned within the Ca²⁺/calmodulin-dependent protein kinase (CAMK) group of the human kinome (jaleel2005identificationofthe pages 1-2, jaleel2005identificationofthe pages 6-7).  
+Experimentally verified orthologs: Homo sapiens (UniProt Q9NRH2) (jaleel2005identificationofthe pages 1-2), Mus musculus and Rattus norvegicus (cossette2014sucrosenonfermentingrelated pages 1-1, lefebvre2001identificationandcharacterization pages 4-5), Xenopus laevis, Danio rerio, Ceratitis capitate and Schizosaccharomyces pombe, all conserving key KD-UBA interface residues (wang2018crystalstructureof pages 22-28).  
+
+## Reaction Catalyzed  
+ATP + [protein] ⇌ ADP + [protein]-O-phosphoserine/threonine (wang2018crystalstructureof pages 7-12).  
+
+## Cofactor Requirements  
+Catalytic activity requires Mg²⁺, supplied as MgCl₂ in in-vitro assays (wang2018crystalstructureof pages 7-12).  
+
+## Substrate Specificity  
+No enriched consensus motif has been defined; SNRK displays negligible activity toward canonical AMPK peptides SAMS (HMRSAMSGLHLVKRR) and AMARA (AMARAASAAALARRR) (wang2018crystalstructureof pages 12-16, jaleel2005identificationofthe pages 4-6). Johnson-atlas motif data are not yet available for this kinase (jaleel2005identificationofthe pages 6-7).  
+
+## Structure  
+Domain organisation: N-terminal serine/threonine kinase domain (KD) followed immediately by a non-canonical ubiquitin-associated (UBA) domain; the isolated KD is unstable, indicating inter-domain dependence (wang2018crystalstructureof pages 16-22).  
+3D structure: Human KD-UBA fragment solved at 2.9 Å (PDB 5YKS) shows a canonical bilobal KD (intact HRD, DFG, APE motifs) with the αC helix displaced outward (wang2018crystalstructureof pages 7-12).  
+Regulatory features: Thr173 within the activation loop is the sole validated phospho-activation site; a Tyr322(UBA)–Arg138(HRD) hydrogen bond and Leu331(UBA) insertion into a hydrophobic KD pocket lock the kinase in an autoinhibited conformation (wang2018crystalstructureof pages 12-16).  
+Full-length model: AlphaFold AF-Q9NRH2-F1 provides a complete in-silico structure (jaleel2005identificationofthe pages 6-7).  
+
+## Regulation  
+Phosphorylation  
+• Thr173 phosphorylated by the LKB1-STRAD-MO25 complex; modification is required for activity (jaleel2005identificationofthe pages 1-2, wang2018crystalstructureof pages 12-16).  
+Allosteric/conformational control  
+• UBA domain maintains an inactive KD conformation until displaced (wang2018crystalstructureof pages 12-16).  
+• AMP or the AMP analogue AICAR increase SNRK phosphotransferase activity in cell extracts (lefebvre2001identificationandcharacterization pages 5-6).  
+Other post-translational modifications  
+• No ubiquitination, sumoylation or acetylation sites have been reported (wang2018crystalstructureof pages 12-16).  
+
+## Function  
+Expression  
+• High protein and activity levels in testis (jaleel2005identificationofthe pages 4-6).  
+• Abundant mRNA in kidney, heart, skin, spleen, lung, uterus and liver (lefebvre2001identificationandcharacterization pages 4-5).  
+• Robust expression in heart, brain, endothelial cells, smooth muscle cells and cardiomyocytes (cossette2014sucrosenonfermentingrelated pages 1-1).  
+• Present in adipose tissue; SNRK-GFP localises to lysosomes in 3T3-L1 adipocytes (li2013identificationofsucrose pages 3-4).  
+Upstream kinase  
+• Liver kinase B1 (LKB1) is the only experimentally verified upstream activator (jaleel2005identificationofthe pages 1-2).  
+Downstream substrates/interactors  
+• Knock-down in cardiomyocytes reduces phosphorylation of acetyl-CoA carboxylase (ACC) and AMPK, linking SNRK to fatty-acid oxidation control (cossette2014sucrosenonfermentingrelated pages 1-1).  
+Physiological roles  
+• Essential for cardiac lipid metabolic homeostasis; whole-body knockout mice develop cardiomegaly and die at birth (cossette2014sucrosenonfermentingrelated pages 1-1).  
+• Suppresses adipocyte inflammation (li2013identificationofsucrose pages 3-4).  
+• Participates in low-potassium–induced neuronal apoptosis (jaleel2005identificationofthe pages 6-7).  
+• Contributes to vascular development and mitochondrial efficiency in vertebrate models (wang2018crystalstructureof pages 16-22).  
+
+## Inhibitors  
+None reported in peer-reviewed literature as of 2024 (wang2018crystalstructureof pages 12-16).  
+
+## Other Comments  
+Whole-body SNRK deficiency causes lethal neonatal cardiomyopathy in mice, underscoring its non-redundant role in heart metabolism (cossette2014sucrosenonfermentingrelated pages 1-1).  
+No germline or somatic disease-linked SNRK variants have been documented in the cited studies (jaleel2005identificationofthe pages 6-7).
+
+References
+
+1. (cossette2014sucrosenonfermentingrelated pages 1-1): Stephanie M. Cossette, Adam J. Gastonguay, Xiaoping Bao, A. Lerch-Gaggl, L. Zhong, Leanne M. Harmann, Chris Koceja, R. Miao, Padmanabhan Vakeel, C. Chun, Keguo Li, J. Foeckler, Michelle Bordas, H. Weiler, J. Strande, Sean P. Palecek, and R. Ramchandran. Sucrose non-fermenting related kinase enzyme is essential for cardiac metabolism. Biology Open, 4:48-61, Dec 2014. URL: https://doi.org/10.1242/bio.20149811, doi:10.1242/bio.20149811. This article has 24 citations and is from a peer-reviewed journal.
+
+2. (jaleel2005identificationofthe pages 6-7): M. Jaleel, A. Mcbride, J. Lizcano, M. Deák, R. Toth, N. Morrice, and D. Alessi. Identification of the sucrose non‐fermenting related kinase snrk, as a novel lkb1 substrate. FEBS Letters, Feb 2005. URL: https://doi.org/10.1016/j.febslet.2005.01.042, doi:10.1016/j.febslet.2005.01.042. This article has 199 citations and is from a peer-reviewed journal.
+
+3. (wang2018crystalstructureof pages 12-16): Yu-lu Wang, Jue Wang, Xiang Chen, Zhi-Xin Wang, and Jia‐Wei Wu. Crystal structure of the kinase and uba domains of snrk reveals a distinct uba binding mode in the ampk family. Biochemical and Biophysical Research Communications, 495:1-6, Jan 2018. URL: https://doi.org/10.1016/j.bbrc.2017.10.105, doi:10.1016/j.bbrc.2017.10.105. This article has 16 citations and is from a peer-reviewed journal.
+
+4. (wang2018crystalstructureof pages 16-22): Yu-lu Wang, Jue Wang, Xiang Chen, Zhi-Xin Wang, and Jia‐Wei Wu. Crystal structure of the kinase and uba domains of snrk reveals a distinct uba binding mode in the ampk family. Biochemical and Biophysical Research Communications, 495:1-6, Jan 2018. URL: https://doi.org/10.1016/j.bbrc.2017.10.105, doi:10.1016/j.bbrc.2017.10.105. This article has 16 citations and is from a peer-reviewed journal.
+
+5. (jaleel2005identificationofthe pages 1-2): M. Jaleel, A. Mcbride, J. Lizcano, M. Deák, R. Toth, N. Morrice, and D. Alessi. Identification of the sucrose non‐fermenting related kinase snrk, as a novel lkb1 substrate. FEBS Letters, Feb 2005. URL: https://doi.org/10.1016/j.febslet.2005.01.042, doi:10.1016/j.febslet.2005.01.042. This article has 199 citations and is from a peer-reviewed journal.
+
+6. (jaleel2005identificationofthe pages 4-6): M. Jaleel, A. Mcbride, J. Lizcano, M. Deák, R. Toth, N. Morrice, and D. Alessi. Identification of the sucrose non‐fermenting related kinase snrk, as a novel lkb1 substrate. FEBS Letters, Feb 2005. URL: https://doi.org/10.1016/j.febslet.2005.01.042, doi:10.1016/j.febslet.2005.01.042. This article has 199 citations and is from a peer-reviewed journal.
+
+7. (lefebvre2001identificationandcharacterization pages 4-5): D. Lefebvre, Yahong Bai, Nazanin Shahmolky, Monika Sharma, R. Poon, D. Drucker, and C. F. Rosen. Identification and characterization of a novel sucrose-non-fermenting protein kinase/amp-activated protein kinase-related protein kinase, snark. The Biochemical journal, 355 Pt 2:297-305, Apr 2001. URL: https://doi.org/10.1042/0264-6021:3550297, doi:10.1042/0264-6021:3550297. This article has 88 citations.
+
+8. (wang2018crystalstructureof pages 22-28): Yu-lu Wang, Jue Wang, Xiang Chen, Zhi-Xin Wang, and Jia‐Wei Wu. Crystal structure of the kinase and uba domains of snrk reveals a distinct uba binding mode in the ampk family. Biochemical and Biophysical Research Communications, 495:1-6, Jan 2018. URL: https://doi.org/10.1016/j.bbrc.2017.10.105, doi:10.1016/j.bbrc.2017.10.105. This article has 16 citations and is from a peer-reviewed journal.
+
+9. (wang2018crystalstructureof pages 7-12): Yu-lu Wang, Jue Wang, Xiang Chen, Zhi-Xin Wang, and Jia‐Wei Wu. Crystal structure of the kinase and uba domains of snrk reveals a distinct uba binding mode in the ampk family. Biochemical and Biophysical Research Communications, 495:1-6, Jan 2018. URL: https://doi.org/10.1016/j.bbrc.2017.10.105, doi:10.1016/j.bbrc.2017.10.105. This article has 16 citations and is from a peer-reviewed journal.
+
+10. (lefebvre2001identificationandcharacterization pages 5-6): D. Lefebvre, Yahong Bai, Nazanin Shahmolky, Monika Sharma, R. Poon, D. Drucker, and C. F. Rosen. Identification and characterization of a novel sucrose-non-fermenting protein kinase/amp-activated protein kinase-related protein kinase, snark. The Biochemical journal, 355 Pt 2:297-305, Apr 2001. URL: https://doi.org/10.1042/0264-6021:3550297, doi:10.1042/0264-6021:3550297. This article has 88 citations.
+
+11. (li2013identificationofsucrose pages 3-4): Yujie Li, Yaohui Nie, Y. Helou, G. Ding, Bin Feng, Gang Xu, A. Salomon, and Haiyan Xu. Identification of sucrose non-fermenting–related kinase (snrk) as a suppressor of adipocyte inflammation. Diabetes, 62:2396-2409, Jun 2013. URL: https://doi.org/10.2337/db12-1081, doi:10.2337/db12-1081. This article has 23 citations.

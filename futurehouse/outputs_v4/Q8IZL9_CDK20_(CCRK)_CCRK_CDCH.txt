@@ -1,0 +1,92 @@
+## Phylogeny  
+CDK20/CCRK is a serine/threonine kinase of the CMGC group, positioned within the transcription-associated CDK subfamily and clearly separated from canonical cell-cycle CDKs such as CDK1/2/4/6 (malumbres2014cyclindependentkinases pages 1-2, wood2018structuralinsightsinto pages 1-2).  
+Comprehensive kinome surveys derived from the Manning classification cluster CDK20 together with atypical CDKs (CDK10, CDK11) on the CMGC/CDK branch (chowdhury2023cmgckinasesin pages 2-4, lim2013cdkscyclinsand pages 15-15).  
+Verified orthologs span diverse taxa:  
+– Mus musculus: Cdk20 (chowdhury2023cmgckinasesin pages 2-4)  
+– Danio rerio: ccrk (lim2013cdkscyclinsand pages 15-15)  
+– Caenorhabditis elegans: DYF-5 (fu2019ciliogenesisassociatedkinase pages 2-4)  
+– Drosophila melanogaster: CG14964 (lim2013cdkscyclinsand pages 15-15)  
+– Chlamydomonas reinhardtii: LF2/LF4 (fu2019ciliogenesisassociatedkinase pages 2-4)  
+– Leishmania mexicana: LmxMPK9 (unknownauthorsUnknownyearúlohacdk13během pages 37-40)  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr → ADP + [protein]-O-phospho-Ser/Thr (fu2019ciliogenesisassociatedkinase pages 2-4).  
+
+## Cofactor Requirements  
+Catalytic turnover requires a divalent metal ion, typically Mg²⁺, to coordinate ATP in the active site, consistent with CMGC-group kinases (wood2018structuralinsightsinto pages 20-20).  
+
+## Substrate Specificity  
+Experimental peptide-library profiling defined a preferred motif R-P-X-S/T-P/A/S/T with a stringent Arg at −3 and Pro at −2; Pro at +1 is not obligatory (fu2019ciliogenesisassociatedkinase pages 2-4).  
+Documented physiological substrates include:  
+– CDK2 Thr160 (malumbres2014cyclindependentkinases pages 1-2)  
+– ICK/MRK Thr157 (fu2006identificationofyinyang pages 1-2)  
+– KIF3A at a consensus RPXS motif (fu2019ciliogenesisassociatedkinase pages 2-4).  
+A kinase-wide specificity atlas entry for CDK20 is not yet available (chen2022integrativemultiomicsanalysis pages 5-7).  
+
+## Structure  
+Domain organisation: an N-terminal bilobal kinase domain (~residues 1–300) followed by a large intrinsically disordered C-terminal segment required for substrate docking and subcellular localisation (fu2019ciliogenesisassociatedkinase pages 2-4).  
+3-D information: high-confidence AlphaFold model AF-Q8IZL9-F1 predicts a canonical CDK fold with conserved β-sheet N-lobe, α-helix C-lobe and an ordered activation loop (wood2018structuralinsightsinto pages 20-20).  
+Key catalytic elements:  
+– Catalytic Lys (β3) forms a salt bridge with the αC-helix Glu to stabilise ATP binding (wood2018structuralinsightsinto pages 2-3).  
+– Activation loop contains the regulatory Thr157; phosphorylation promotes alignment of the hydrophobic spine for full activity (wood2018structuralinsightsinto pages 18-19).  
+– A PKKRP motif centred on Arg272 supports active-state stabilisation; R272 mutations abolish kinase function (fu2019ciliogenesisassociatedkinase pages 2-4).  
+
+## Regulation  
+Post-translational modifications  
+– Activation-loop phosphorylation at Thr157 by an upstream CAK (fu2019ciliogenesisassociatedkinase pages 2-4).  
+– CCRK autophosphorylates Tyr within the ICK activation motif when acting as an upstream kinase for ICK (fu2006identificationofyinyang pages 1-2).  
+Protein–protein interactions  
+– Associates with cyclin H for activation, characteristic of transcriptional CDKs (malumbres2014cyclindependentkinases pages 1-2).  
+– Stabilised by BRO/Broadminded (snouffer2017cellcyclerelatedkinase pages 12-14).  
+Transcriptional and genomic control  
+– Direct androgen-receptor target in hepatocytes, driving transcriptional up-regulation (malumbres2014cyclindependentkinases pages 9-10).  
+– Frequently amplified and promoter-demethylated across multiple tumour types, leading to overexpression (chen2022integrativemultiomicsanalysis pages 11-16).  
+
+## Function  
+Ciliogenesis and Hedgehog signalling  
+– Coordinates assembly of ciliary membrane and axoneme with TBC1D32, enabling high-level Shh/GLI2 responses in the neural tube (snouffer2017cellcyclerelatedkinase pages 2-4).  
+– Restricts primary cilium length and promotes import of Hedgehog components Gli2 and Smoothened (fu2019ciliogenesisassociatedkinase pages 2-4).  
+Cell-cycle regulation  
+– Functions as a CDK-activating kinase for CDK2 by phosphorylating Thr160, thereby supporting G1/S progression (malumbres2014cyclindependentkinases pages 1-2).  
+Additional signalling nodes  
+– Phosphorylates ICK and KIF3A, linking CCRK to autophagy and mTORC1 regulation (fu2019ciliogenesisassociatedkinase pages 2-4).  
+Expression pattern  
+– Enriched in proliferative compartments such as intestinal crypt epithelium and regenerating tissues (fu2019ciliogenesisassociatedkinase pages 2-4).  
+
+## Other Comments  
+Disease associations  
+– Loss-of-function mutations, especially within the PKKRP motif, cause ciliopathy phenotypes (e.g., ECO syndrome) and epilepsy (fu2019ciliogenesisassociatedkinase pages 2-4).  
+– Oncogenic roles include β-catenin/TCF-driven hepatocarcinogenesis and cilium-dependent glioblastoma proliferation (malumbres2014cyclindependentkinases pages 9-10).  
+– High CDK20 expression correlates with resistance to several anticancer drugs in pan-cancer analyses (chen2022integrativemultiomicsanalysis pages 11-16).
+
+References
+
+1. (chen2022integrativemultiomicsanalysis pages 11-16): Integrative multi-omics analysis reveals the landscape of Cyclin-Dependent Kinase (CDK) family genes in pan-cancer
+
+2. (chowdhury2023cmgckinasesin pages 2-4): Iftekhar Chowdhury, Giovanna Dashi, and Salla Keskitalo. Cmgc kinases in health and cancer. Cancers, 15:3838, Jul 2023. URL: https://doi.org/10.3390/cancers15153838, doi:10.3390/cancers15153838. This article has 19 citations and is from a peer-reviewed journal.
+
+3. (malumbres2014cyclindependentkinases pages 1-2): Marcos Malumbres. Cyclin-dependent kinases. Genome Biology, 15:122-122, Jun 2014. URL: https://doi.org/10.1186/gb4184, doi:10.1186/gb4184. This article has 1898 citations and is from a highest quality peer-reviewed journal.
+
+4. (unknownauthorsUnknownyearúlohacdk13během pages 37-40): Úloha CDK13 během embryogenéze
+
+5. (fu2019ciliogenesisassociatedkinase pages 2-4): Zheng Fu, Casey D. Gailey, Eric J. Wang, and David L. Brautigan. Ciliogenesis associated kinase 1: targets and functions in various organ systems. FEBS Letters, Nov 2019. URL: https://doi.org/10.1002/1873-3468.13600, doi:10.1002/1873-3468.13600. This article has 31 citations and is from a peer-reviewed journal.
+
+6. (lim2013cdkscyclinsand pages 15-15): Shuhui Lim and P. Kaldis. Cdks, cyclins and ckis: roles beyond cell cycle regulation. Development, 140:3079-3093, Aug 2013. URL: https://doi.org/10.1242/dev.091744, doi:10.1242/dev.091744. This article has 1914 citations and is from a domain leading peer-reviewed journal.
+
+7. (malumbres2014cyclindependentkinases pages 9-10): Marcos Malumbres. Cyclin-dependent kinases. Genome Biology, 15:122-122, Jun 2014. URL: https://doi.org/10.1186/gb4184, doi:10.1186/gb4184. This article has 1898 citations and is from a highest quality peer-reviewed journal.
+
+8. (snouffer2017cellcyclerelatedkinase pages 2-4): Ashley Snouffer, Desmond A. Brown, Hankyu Lee, Jonathon D. Walsh, F. Lupu, Ryan X Norman, K. Lechtreck, H. Ko, and Jonathan Eggenschwiler. Cell cycle-related kinase (ccrk) regulates ciliogenesis and hedgehog signaling in mice. PLoS Genetics, Aug 2017. URL: https://doi.org/10.1371/journal.pgen.1006912, doi:10.1371/journal.pgen.1006912. This article has 49 citations and is from a domain leading peer-reviewed journal.
+
+9. (wood2018structuralinsightsinto pages 1-2): Daniel J. Wood and Jane A. Endicott. Structural insights into the functional diversity of the cdk–cyclin family. Open Biology, Sep 2018. URL: https://doi.org/10.1098/rsob.180112, doi:10.1098/rsob.180112. This article has 267 citations and is from a peer-reviewed journal.
+
+10. (wood2018structuralinsightsinto pages 18-19): Daniel J. Wood and Jane A. Endicott. Structural insights into the functional diversity of the cdk–cyclin family. Open Biology, Sep 2018. URL: https://doi.org/10.1098/rsob.180112, doi:10.1098/rsob.180112. This article has 267 citations and is from a peer-reviewed journal.
+
+11. (chen2022integrativemultiomicsanalysis pages 5-7): Integrative multi-omics analysis reveals the landscape of Cyclin-Dependent Kinase (CDK) family genes in pan-cancer
+
+12. (fu2006identificationofyinyang pages 1-2): Zheng Fu, Katherine A. Larson, Raghu K. Chitta, Sirlester A. Parker, Benjamin E. Turk, Matthew W. Lawrence, Philipp Kaldis, Konstantin Galaktionov, Steven M. Cohn, Jeffrey Shabanowitz, Donald F. Hunt, and Thomas W. Sturgill. Identification of yin-yang regulators and a phosphorylation consensus for male germ cell-associated kinase (mak)-related kinase. Molecular and Cellular Biology, 26:8639-8654, Nov 2006. URL: https://doi.org/10.1128/mcb.00816-06, doi:10.1128/mcb.00816-06. This article has 78 citations and is from a domain leading peer-reviewed journal.
+
+13. (snouffer2017cellcyclerelatedkinase pages 12-14): Ashley Snouffer, Desmond A. Brown, Hankyu Lee, Jonathon D. Walsh, F. Lupu, Ryan X Norman, K. Lechtreck, H. Ko, and Jonathan Eggenschwiler. Cell cycle-related kinase (ccrk) regulates ciliogenesis and hedgehog signaling in mice. PLoS Genetics, Aug 2017. URL: https://doi.org/10.1371/journal.pgen.1006912, doi:10.1371/journal.pgen.1006912. This article has 49 citations and is from a domain leading peer-reviewed journal.
+
+14. (wood2018structuralinsightsinto pages 2-3): Daniel J. Wood and Jane A. Endicott. Structural insights into the functional diversity of the cdk–cyclin family. Open Biology, Sep 2018. URL: https://doi.org/10.1098/rsob.180112, doi:10.1098/rsob.180112. This article has 267 citations and is from a peer-reviewed journal.
+
+15. (wood2018structuralinsightsinto pages 20-20): Daniel J. Wood and Jane A. Endicott. Structural insights into the functional diversity of the cdk–cyclin family. Open Biology, Sep 2018. URL: https://doi.org/10.1098/rsob.180112, doi:10.1098/rsob.180112. This article has 267 citations and is from a peer-reviewed journal.

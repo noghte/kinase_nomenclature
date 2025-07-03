@@ -1,0 +1,123 @@
+## Phylogeny
+Based on sequence comparison of kinase domains, Fibroblast Growth Factor Receptor 4 (FGFR4) is classified within the Tyrosine Kinase (TK) group (manning2002theproteinkinase pages 1-2, manning2002theproteinkinase pages 2-3). Within this group, it belongs to the Fibroblast Growth Factor Receptor (FGFR) family of receptor tyrosine kinases (RTKs) (farrell2018structureactivationand pages 1-2, roskoski2020theroleof pages 43-47, manning2002theproteinkinase pages 1-2). This classification reflects its evolutionary relationships based on conserved domain structures (manning2002theproteinkinase pages 3-3, hagel2015firstselectivesmall pages 11-11). FGFR4 is conserved across vertebrates and is one of four homologous receptors in the FGFR family (farrell2018structureactivationand pages 1-2, lang2019fibroblastgrowthfactor pages 1-4). Among its paralogs, FGFR4 exhibits the lowest homology (levine2020fgfr4apromising pages 1-3).
+
+
+
+## Reaction Catalyzed
+The reaction catalyzed by FGFR4 involves the ATP-dependent phosphorylation of tyrosine residues on target protein substrates (hagel2015firstselectivesmall pages 11-11).
+ATP + a [protein]-L-tyrosine = ADP + a [protein]-L-tyrosine phosphate.
+
+
+
+## Cofactor Requirements
+FGFR4 catalytic activity requires Mg2+ as a cofactor for phosphorylation (dai2019fibroblastgrowthfactor pages 4-5). Ligand binding and subsequent receptor activation have additional cofactor requirements. The high-affinity binding of its primary endocrine ligand, FGF19, requires the transmembrane protein β-klotho as a co-receptor (lang2019fibroblastgrowthfactor pages 1-4, raja2019fgf19–fgfr4signalingin pages 1-5). Activation by canonical FGFs requires heparin or heparan sulfate proteoglycans as cofactors (lang2019fibroblastgrowthfactor pages 1-4, farrell2018structureactivationand pages 1-2).
+
+
+
+## Substrate Specificity
+The intrinsic substrate specificity of FGFR4 has been characterized by analyzing amino acid preferences at positions flanking the central phosphorylated tyrosine (Y) (yaronbarir2024theintrinsicsubstrate pages 16-16). The consensus substrate motif for FGFR4 from position P-3 to P+3 is: P-3 (F preferred), P-2 (E, D preferred), P-1 (E, D preferred), P0 (Y), P+1 (G preferred), P+2 (A preferred), and P+3 (S, T preferred) (yaronbarir2024theintrinsicsubstrate pages 16-16).
+More specifically:
+- **P-3:** Preference for phenylalanine (F) or other large hydrophobic residues (yaronbarir2024theintrinsicsubstrate pages 16-16).
+- **P-2 and P-1:** Strong preference for acidic residues, glutamic acid (E) and aspartic acid (D) (yaronbarir2024theintrinsicsubstrate pages 16-16).
+- **P+1 and P+2:** Preference for small, flexible residues like glycine (G) and alanine (A), respectively (yaronbarir2024theintrinsicsubstrate pages 16-16).
+- **P+3:** Preference for polar, uncharged residues such as serine (S) or threonine (T) (yaronbarir2024theintrinsicsubstrate pages 16-16).
+
+
+
+## Structure
+FGFR4 (UniProt ID: P22455) is an 802-amino-acid receptor tyrosine kinase with a molecular weight of 95–110 kDa (lang2019fibroblastgrowthfactor pages 1-4, dai2019fibroblastgrowthfactor pages 1-4, raja2019fgf19–fgfr4signalingin pages 1-5). It possesses a canonical RTK architecture consisting of an extracellular ligand-binding region, a single transmembrane helix, and an intracellular tyrosine kinase domain (dai2019fibroblastgrowthfactor pages 1-4).
+
+- **Extracellular Domain (22-369 aa):** This region contains a signal peptide (1-21 aa), a serine-rich acid box, and three immunoglobulin-like (Ig-like) domains: D1 (IgI: 50-107 aa), D2 (IgII: 157-241 aa), and D3 (IgIII: 264-351 aa) (lang2019fibroblastgrowthfactor pages 1-4, levine2020fgfr4apromising pages 1-3). The D2 and D3 domains form the primary ligand-binding pocket, while the D1 domain and the acid box contribute to receptor autoinhibition (farrell2018structureactivationand pages 1-2, tang2018roleoffibroblast pages 1-2). Unlike FGFR1-3, FGFR4 does not undergo alternative splicing of its IgIII domain and expresses only the IIIc isoform (levine2020fgfr4apromising pages 3-4, tang2018roleoffibroblast pages 1-2).
+- **Transmembrane Domain (370-390 aa):** A single alpha-helix that anchors the receptor in the plasma membrane (lang2019fibroblastgrowthfactor pages 1-4).
+- **Intracellular Tyrosine Kinase Domain (454-767 aa):** This domain has a canonical bilobed fold (dai2019fibroblastgrowthfactor pages 1-4, lang2019fibroblastgrowthfactor pages 1-4).
+    - **N-terminal lobe (N-lobe):** A smaller lobe composed of five β-sheets and the regulatory αC-helix, which adopts a flexible conformation for ATP binding (dai2019fibroblastgrowthfactor pages 1-4, dai2019fibroblastgrowthfactor pages 4-5).
+    - **C-terminal lobe (C-lobe):** A larger lobe comprising multiple α-helices. It contains the αF-helix, which forms a hydrophobic core, and a conserved αEF-helix situated between the activation loop and the αF-helix (dai2019fibroblastgrowthfactor pages 4-5).
+- **Key Regulatory and Catalytic Features:**
+    - **Activation Loop (A-loop):** A critical regulatory element in the C-lobe that contains the conserved DFG (Asp-Phe-Gly) motif. It toggles between an inactive "DFG-out" conformation and an active "DFG-in" conformation to control kinase activity (dai2019fibroblastgrowthfactor pages 4-5).
+    - **αC-helix:** A key regulatory element in the N-lobe whose orientation controls kinase activation (dai2019fibroblastgrowthfactor pages 4-5).
+    - **Hydrophobic Spines:** The assembly of a regulatory R-spine and a catalytic C-spine is essential for kinase activation (roskoski2020theroleof pages 15-19). An autoinhibitory molecular brake at the hinge region, involving residues E562 and K638, is disengaged upon activation (roskoski2020theroleof pages 15-19).
+- **Unique Structural Feature:** FGFR4 possesses a unique cysteine residue, Cys552, in the hinge region of its kinase domain, which is a target for specific covalent inhibitors (levine2020fgfr4apromising pages 3-4, marseglia2019fibroblastgrowthfactor pages 13-16, lu2018fibroblastgrowthfactor pages 1-2).
+
+
+
+## Regulation
+FGFR4 activity is regulated through ligand-induced dimerization, allosteric conformational changes, and post-translational modifications (dai2019fibroblastgrowthfactor pages 1-4).
+
+- **Allosteric and Conformational Regulation:** The receptor is maintained in a quiescent state by autoinhibitory mechanisms involving the extracellular D1 domain and acid box, as well as an intracellular molecular brake at the kinase hinge (farrell2018structureactivationand pages 1-2, dai2019fibroblastgrowthfactor pages 4-5, roskoski2020theroleof pages 15-19). Ligand binding induces dimerization and conformational changes, including the reorientation of the αC-helix and the transition of the activation loop from an inactive DFG-out to an active DFG-in state, which activates the kinase (dai2019fibroblastgrowthfactor pages 1-4, dai2019fibroblastgrowthfactor pages 4-5).
+- **Post-Translational Modifications (PTMs):** The primary regulatory PTM is trans-autophosphorylation on tyrosine residues within the intracellular kinase domain upon activation (dai2019fibroblastgrowthfactor pages 1-4).
+    - **Phosphorylation Sites:** Key regulatory autophosphorylation sites that modulate kinase activity include tyrosines Y642 and Y643, located within the activation loop (dai2019fibroblastgrowthfactor pages 1-4, wu2016crystalstructureof pages 10-11). Other documented phosphorylation sites are Y754, Y764, and S573 (levine2020fgfr4apromising pages 3-4, lang2019fibroblastgrowthfactor pages 1-4). Phosphorylation of these sites is critical for full kinase activation and downstream signal propagation (hagel2015firstselectivesmall pages 11-11).
+
+
+
+## Function
+FGFR4 is a receptor tyrosine kinase that plays crucial roles in embryonic development, tissue repair, and the regulation of metabolic processes, including bile acid synthesis, glucose metabolism, and cell proliferation and differentiation (farrell2018structureactivationand pages 1-2, lang2019fibroblastgrowthfactor pages 1-4). It is prominently expressed in the liver but is also found in other adult tissues like muscle and lung (lu2018fibroblastgrowthfactor pages 1-2, levine2020fgfr4apromising pages 3-4).
+
+- **Ligands and Interacting Partners:** The primary physiological ligand for FGFR4 is the endocrine factor FGF19, which binds with high specificity in the presence of the co-receptor β-klotho (dai2019fibroblastgrowthfactor pages 1-4, lang2019fibroblastgrowthfactor pages 1-4). Other ligands include FGF1, FGF2, FGF4, and FGF8 (levine2020fgfr4apromising pages 3-4). Upon activation, FGFR4 recruits and phosphorylates downstream signaling partners, principally FGF receptor substrate 2 (FRS2) and phospholipase C gamma 1 (PLCG1) (dai2019fibroblastgrowthfactor pages 1-4, tang2018roleoffibroblast pages 1-2).
+- **Signaling Pathways:** FGFR4 activation initiates several key signaling cascades:
+    - **Ras-MAPK Pathway:** Recruitment of FRS2 leads to the activation of the Ras-Raf-MEK-ERK1/2 pathway, which promotes cell proliferation (lang2019fibroblastgrowthfactor pages 1-4, lu2018fibroblastgrowthfactor pages 1-2).
+    - **PI3K-Akt Pathway:** FRS2 also mediates the activation of the PI3K-Akt signaling pathway, which is involved in cell survival and growth (lang2019fibroblastgrowthfactor pages 1-4, lu2018fibroblastgrowthfactor pages 1-2).
+    - **PLCγ Pathway:** Direct phosphorylation of PLCG1 by FGFR4 triggers the PLCγ/PKC signaling cascade (lu2018fibroblastgrowthfactor pages 1-2).
+    - Other activated pathways include those involving Src and GSK3β/β-catenin (lang2019fibroblastgrowthfactor pages 1-4, lu2018fibroblastgrowthfactor pages 1-2).
+
+
+
+## Inhibitors
+Both selective and pan-FGFR small molecule inhibitors have been developed that target the FGFR4 kinase domain (dai2019fibroblastgrowthfactor pages 4-5).
+
+- **Covalent Irreversible Inhibitors:** A class of highly selective inhibitors has been designed to form a covalent bond with the unique Cys552 residue in the FGFR4 kinase hinge region (marseglia2019fibroblastgrowthfactor pages 13-16, lu2018fibroblastgrowthfactor pages 1-2). Examples undergoing clinical investigation include BLU-554 (fisogatinib), H3B-6527, FGF401 (roblitinib), and INCB062079 (hagel2015firstselectivesmall pages 11-11, lu2018fibroblastgrowthfactor pages 11-11, levine2020fgfr4apromising pages 3-4).
+- **Reversible ATP-Competitive Inhibitors:** This class of inhibitors binds non-covalently to the ATP-binding pocket. Many are pan-FGFR inhibitors with activity against FGFR4. Examples include LY2874455, erdafitinib, Dovitinib, and Ponatinib (dai2019fibroblastgrowthfactor pages 1-4, wu2016crystalstructureof pages 10-11, lesca2014structuralanalysisof pages 10-11).
+
+
+
+## Other Comments
+Dysregulation of FGFR4 signaling through gene amplification, ligand overexpression, or activating mutations is an oncogenic driver in several human cancers, particularly hepatocellular carcinoma (HCC) (dai2019fibroblastgrowthfactor pages 1-4, lu2018fibroblastgrowthfactor pages 1-2). The FGF19-FGFR4 signaling axis is amplified in up to one-third of HCC patients and is also implicated in breast cancer and other solid tumors (hagel2015firstselectivesmall pages 11-11, levine2020fgfr4apromising pages 1-3).
+
+- **Notable Disease Mutations:**
+    - **V550L:** A recurrent gain-of-function mutation in the kinase domain that confers constitutive activity and promotes oncogenesis (dai2019fibroblastgrowthfactor pages 1-4, lu2018fibroblastgrowthfactor pages 1-2). This gatekeeper mutation can also affect inhibitor binding and confer resistance to some targeted therapies (marseglia2019fibroblastgrowthfactor pages 13-16, schwarz2024developmentofhighly pages 52-55).
+    - **V550E:** A related activating mutation studied for its effects on kinase function and inhibitor sensitivity (lesca2014structuralanalysisof pages 10-11).
+    - **G388R:** A common germline polymorphism (SNP) that has been associated with altered receptor activity and increased cancer risk (levine2020fgfr4apromising pages 1-3, raja2019fgf19–fgfr4signalingin pages 1-5).
+    - **Y367C:** An activating mutation noted in malignancies such as rhabdomyosarcoma (tang2018roleoffibroblast pages 1-2).
+
+References
+
+1. (dai2019fibroblastgrowthfactor pages 1-4): S. Dai, Zhan Zhou, Zhuchu Chen, Guangyu Xu, and Yongheng Chen. Fibroblast growth factor receptors (fgfrs): structures and small molecule inhibitors. Cells, Jun 2019. URL: https://doi.org/10.3390/cells8060614, doi:10.3390/cells8060614. This article has 293 citations and is from a peer-reviewed journal.
+
+2. (dai2019fibroblastgrowthfactor pages 4-5): S. Dai, Zhan Zhou, Zhuchu Chen, Guangyu Xu, and Yongheng Chen. Fibroblast growth factor receptors (fgfrs): structures and small molecule inhibitors. Cells, Jun 2019. URL: https://doi.org/10.3390/cells8060614, doi:10.3390/cells8060614. This article has 293 citations and is from a peer-reviewed journal.
+
+3. (farrell2018structureactivationand pages 1-2): Brendan Farrell and Alexander L. Breeze. Structure, activation and dysregulation of fibroblast growth factor receptor kinases: perspectives for clinical targeting. Biochemical Society Transactions, 46:1753-1770, Dec 2018. URL: https://doi.org/10.1042/bst20180004, doi:10.1042/bst20180004. This article has 112 citations and is from a peer-reviewed journal.
+
+4. (hagel2015firstselectivesmall pages 11-11): M. Hagel, Chandrasekhar V. Miduturu, M. Sheets, Nooreen T. Rubin, W. Weng, Nicolas Stransky, Neil Bifulco, Joseph L. Kim, Brian L. Hodous, N. Brooijmans, A. Shutes, C. Winter, C. Lengauer, N. Kohl, and T. Guzi. First selective small molecule inhibitor of fgfr4 for the treatment of hepatocellular carcinomas with an activated fgfr4 signaling pathway. Cancer discovery, 5 4:424-37, Apr 2015. URL: https://doi.org/10.1158/2159-8290.cd-14-1029, doi:10.1158/2159-8290.cd-14-1029. This article has 341 citations and is from a highest quality peer-reviewed journal.
+
+5. (lang2019fibroblastgrowthfactor pages 1-4): Liwei Lang and Yong Teng. Fibroblast growth factor receptor 4 targeting in cancer: new insights into mechanisms and therapeutic strategies †. Cells, Jan 2019. URL: https://doi.org/10.3390/cells8010031, doi:10.3390/cells8010031. This article has 92 citations and is from a peer-reviewed journal.
+
+6. (lesca2014structuralanalysisof pages 10-11): E. Lesca, A. Lammens, R. Huber, and M. Augustin. Structural analysis of the human fibroblast growth factor receptor 4 kinase. Journal of molecular biology, 426 22:3744-3756, Nov 2014. URL: https://doi.org/10.1016/j.jmb.2014.09.004, doi:10.1016/j.jmb.2014.09.004. This article has 50 citations and is from a domain leading peer-reviewed journal.
+
+7. (levine2020fgfr4apromising pages 1-3): K. Levine, K. Ding, Lyuqin Chen, and S. Oesterreich. Fgfr4: a promising therapeutic target for breast cancer and other solid tumors. Pharmacology & therapeutics, pages 107590, May 2020. URL: https://doi.org/10.1016/j.pharmthera.2020.107590, doi:10.1016/j.pharmthera.2020.107590. This article has 86 citations.
+
+8. (levine2020fgfr4apromising pages 3-4): K. Levine, K. Ding, Lyuqin Chen, and S. Oesterreich. Fgfr4: a promising therapeutic target for breast cancer and other solid tumors. Pharmacology & therapeutics, pages 107590, May 2020. URL: https://doi.org/10.1016/j.pharmthera.2020.107590, doi:10.1016/j.pharmthera.2020.107590. This article has 86 citations.
+
+9. (lu2018fibroblastgrowthfactor pages 1-2): Xiaoyun Lu, Hao Chen, Adam V. Patterson, Jeff B. Smaill, and Ke Ding. Fibroblast growth factor receptor 4 (fgfr4) selective inhibitors as hepatocellular carcinoma therapy: advances and prospects. Journal of Medicinal Chemistry, 62:2905-2915, Nov 2018. URL: https://doi.org/10.1021/acs.jmedchem.8b01531, doi:10.1021/acs.jmedchem.8b01531. This article has 86 citations and is from a highest quality peer-reviewed journal.
+
+10. (lu2018fibroblastgrowthfactor pages 11-11): Xiaoyun Lu, Hao Chen, Adam V. Patterson, Jeff B. Smaill, and Ke Ding. Fibroblast growth factor receptor 4 (fgfr4) selective inhibitors as hepatocellular carcinoma therapy: advances and prospects. Journal of Medicinal Chemistry, 62:2905-2915, Nov 2018. URL: https://doi.org/10.1021/acs.jmedchem.8b01531, doi:10.1021/acs.jmedchem.8b01531. This article has 86 citations and is from a highest quality peer-reviewed journal.
+
+11. (marseglia2019fibroblastgrowthfactor pages 13-16): Giuseppe Marseglia, Alessio Lodola, Marco Mor, and Riccardo Castelli. Fibroblast growth factor receptor inhibitors: patent review (2015–2019). Expert Opinion on Therapeutic Patents, 29:965-977, Nov 2019. URL: https://doi.org/10.1080/13543776.2019.1688300, doi:10.1080/13543776.2019.1688300. This article has 16 citations and is from a peer-reviewed journal.
+
+12. (raja2019fgf19–fgfr4signalingin pages 1-5): Aroosha Raja, I. Park, Farhan Haq, and Sung‐Min Ahn. Fgf19–fgfr4 signaling in hepatocellular carcinoma. Cells, Jun 2019. URL: https://doi.org/10.3390/cells8060536, doi:10.3390/cells8060536. This article has 159 citations and is from a peer-reviewed journal.
+
+13. (roskoski2020theroleof pages 15-19): Robert Roskoski. The role of fibroblast growth factor receptor (fgfr) protein-tyrosine kinase inhibitors in the treatment of cancers including those of the urinary bladder. Pharmacological Research, 151:104567, Jan 2020. URL: https://doi.org/10.1016/j.phrs.2019.104567, doi:10.1016/j.phrs.2019.104567. This article has 147 citations and is from a highest quality peer-reviewed journal.
+
+14. (schwarz2024developmentofhighly pages 52-55): Moritz Schwarz, Maksym Kurkunov, Florian Wittlinger, Ramona Rudalska, Guiqun Wang, M. Schwalm, Alexander Rasch, Benedikt Wagner, Stefan A. Laufer, Stefan Knapp, D. Dauch, and M. Gehringer. Development of highly potent and selective covalent fgfr4 inhibitors based on snar electrophiles. Journal of medicinal chemistry, Apr 2024. URL: https://doi.org/10.1021/acs.jmedchem.3c02483, doi:10.1021/acs.jmedchem.3c02483. This article has 12 citations and is from a highest quality peer-reviewed journal.
+
+15. (tang2018roleoffibroblast pages 1-2): Shuya Tang, Yilong Hao, Yao Yuan, Rui Liu, and Qianming Chen. Role of fibroblast growth factor receptor 4 in cancer. Cancer Science, 109:3024-3031, Oct 2018. URL: https://doi.org/10.1111/cas.13759, doi:10.1111/cas.13759. This article has 47 citations and is from a peer-reviewed journal.
+
+16. (wu2016crystalstructureof pages 10-11): Daichao Wu, Ming Guo, Michael A. Philips, Lingzhi Qu, Longying Jiang, Jun Li, Xiaojuan Chen, Zhuchu Chen, Lin Chen, and Yongheng Chen. Crystal structure of the fgfr4/ly2874455 complex reveals insights into the pan-fgfr selectivity of ly2874455. PLOS ONE, 11:e0162491, Sep 2016. URL: https://doi.org/10.1371/journal.pone.0162491, doi:10.1371/journal.pone.0162491. This article has 41 citations and is from a peer-reviewed journal.
+
+17. (yaronbarir2024theintrinsicsubstrate pages 16-16): Tomer M. Yaron-Barir, Brian A. Joughin, Emily M. Huntsman, Alexander Kerelsky, Daniel M. Cizin, Benjamin M. Cohen, Amit Regev, Junho Song, Neil Vasan, Ting-Yu Lin, Jose M. Orozco, Christina Schoenherr, Cari Sagum, Mark T. Bedford, R. Max Wynn, Shih-Chia Tso, David T. Chuang, Lei Li, Shawn S.-C. Li, Pau Creixell, Konstantin Krismer, Mina Takegami, Harin Lee, Bin Zhang, Jingyi Lu, Ian Cossentino, Sean D. Landry, Mohamed Uduman, John Blenis, Olivier Elemento, Margaret C. Frame, Peter V. Hornbeck, Lewis C. Cantley, Benjamin E. Turk, Michael B. Yaffe, and Jared L. Johnson. The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629:1174-1181, May 2024. URL: https://doi.org/10.1038/s41586-024-07407-y, doi:10.1038/s41586-024-07407-y. This article has 59 citations and is from a highest quality peer-reviewed journal.
+
+18. (manning2002theproteinkinase pages 1-2): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+19. (manning2002theproteinkinase pages 3-3): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+20. (roskoski2020theroleof pages 43-47): Robert Roskoski. The role of fibroblast growth factor receptor (fgfr) protein-tyrosine kinase inhibitors in the treatment of cancers including those of the urinary bladder. Pharmacological Research, 151:104567, Jan 2020. URL: https://doi.org/10.1016/j.phrs.2019.104567, doi:10.1016/j.phrs.2019.104567. This article has 147 citations and is from a highest quality peer-reviewed journal.
+
+21. (manning2002theproteinkinase pages 2-3): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.

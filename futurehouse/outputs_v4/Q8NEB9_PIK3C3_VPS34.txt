@@ -1,0 +1,97 @@
+## Phylogeny  
+– Orthologs are conserved from Saccharomyces cerevisiae Vps34, Drosophila melanogaster Vps34 and Arabidopsis thaliana AtVps34 to Mus musculus Pik3c3, demonstrating a pan-eukaryotic lineage (bilanges2019pi3kisoformsin pages 24-25).  
+– PIK3C3 is the sole member of the class III PI3K group and represents the primordial branch within the PI3K/PI4K superfamily (bilanges2019pi3kisoformsin pages 11-12).  
+– Evolutionary segregation from class I and II PI3Ks underlies distinct catalytic and regulatory properties (burke2023beyondpi3kstargeting pages 22-23).  
+– The VPS15 regulatory pseudokinase partnership is conserved from yeast to mammals (backer2016theintricateregulation pages 2-3).  
+
+## Reaction Catalyzed  
+– ATP + phosphatidyl-1-D-myo-inositol → ADP + phosphatidyl-1-D-myo-inositol-3-phosphate (PI(3)P) (backer2016theintricateregulation pages 1-2).  
+
+## Cofactor Requirements  
+– Catalysis requires divalent cations, with Mg²⁺ (and Mn²⁺ in vitro) supporting phosphotransfer (cook2025structuralpathwayfor pages 6-8).  
+
+## Substrate Specificity  
+– Exclusively phosphorylates phosphatidylinositol to generate PI(3)P; no activity toward PI(4)P or PI(4,5)P₂ (burke2023beyondpi3kstargeting pages 22-23).  
+– Substrate recognition is lipid-based; no peptide consensus motif has been defined (bilanges2019pi3kisoformsin pages 11-12).  
+
+## Structure  
+– Domain organisation: N-terminal C2 (membrane docking), central helical scaffold, C-terminal kinase domain capped by an autoinhibitory α-helix (bilanges2019pi3kisoformsin pages 11-12).  
+– Assembles into V-shaped tetramers with VPS15, Beclin-1 and ATG14 (complex I) or UVRAG (complex II) (backer2016theintricateregulation pages 2-3).  
+– Catalytic residues Lys833 and Asp950 occupy the conserved HRD/DFG motifs in cryo-EM structures (cook2025structuralpathwayfor pages 6-8).  
+– A basic membrane-binding patch (Arg561, Arg566, Lys567, Lys568) plus helix Kα12 insert into bilayers to orient the active site (cook2025structuralpathwayfor pages 4-6).  
+– The C-terminal helix occludes the ATP pocket in solution and is displaced upon membrane engagement (bilanges2019pi3kisoformsin pages 11-12).  
+– High-resolution structures of PI3KC3 complexes are deposited as PDB 5DFZ, 6XIO and 6SEE (li2019ampkandautophagy. pages 305-309).  
+– An adjacent hydrophobic cavity in the ATP pocket underpins inhibitor selectivity (burke2023beyondpi3kstargeting pages 24-25).  
+
+## Regulation  
+– ULK1 phosphorylates Ser249, enhancing PI3KC3-C1 activity (licheva2022phosphoregulationofthe pages 11-12).  
+– CDK1/5 phosphorylate Thr159, weakening Beclin-1 binding and inhibiting autophagy (licheva2022phosphoregulationofthe pages 9-10).  
+– PRKD1 phosphorylates Thr677, promoting catalytic activity (licheva2022phosphoregulationofthe pages 9-10).  
+– Cul3-KLHL20 ubiquitinates Vps34 during prolonged starvation, driving degradation (backer2016theintricateregulation pages 12-13).  
+– USP10/USP13 deubiquitinate Beclin-1, stabilising the complex (backer2016theintricateregulation pages 12-13).  
+– VPS15 clamps the activation loop; GTP-loaded RAB1A triggers a 140° rotation of the kinase domain to relieve inhibition (cook2025structuralpathwayfor pages 3-4).  
+– NRBF2 and AMBRA1 positively modulate complex I (bilanges2019pi3kisoformsin pages 11-12).  
+– Rubicon binds complex II and suppresses activity (bilanges2019pi3kisoformsin pages 11-12).  
+– The ATG14 BATS domain senses high membrane curvature, amplifying catalysis on phagophores (bilanges2019pi3kisoformsin pages 11-12).  
+– Nutrient-responsive kinases mTORC1 and AMPK modify complex components to couple autophagy with metabolic status (bilanges2019pi3kisoformsin pages 12-14).  
+
+## Function  
+– Ubiquitous expression; complete knockout causes embryonic lethality at E6.5–E8.5 (bilanges2019pi3kisoformsin pages 14-15).  
+– Complex I nucleates autophagosomes at the endoplasmic reticulum via PI(3)P generation (bilanges2019pi3kisoformsin pages 11-12).  
+– Complex II governs autophagosome maturation and endosome-lysosome trafficking (backer2016theintricateregulation pages 1-2).  
+– PI(3)P recruits FYVE/PX-domain effectors (e.g., DFCP1, WIPI proteins) to coordinate membrane dynamics (backer2016theintricateregulation pages 2-3).  
+– Generates midbody PI(3)P to recruit FYVE-CENT, TTC19 and KIF13A for ESCRT-mediated abscission (backer2016theintricateregulation pages 13-14).  
+– Lysosomal PI(3)P attracts PLD1, protrudin and FYCO1, facilitating amino-acid-dependent mTORC1 activation (bilanges2019pi3kisoformsin pages 14-15).  
+– Endosomal PI(3)P activates SGK3 and positions PTEN, influencing downstream kinase signalling (bilanges2019pi3kisoformsin pages 31-33).  
+– Supports macropinocytosis, phagocytosis and endosomal sorting (bilanges2019pi3kisoformsin pages 11-12).  
+
+## Inhibitors  
+– SAR405: pyrimidinone, K_D 1.5 nM, cellular IC₅₀ 27 nM; blocks autophagy and synergises with everolimus in renal carcinoma cells (pasquier2016autophagyinhibitors pages 6-8).  
+– VPS34-IN1: bis-aminopyrimidine, IC₅₀ 25 nM; highly selective (pasquier2016autophagyinhibitors pages 6-8).  
+– PIK-III: bis-aminopyrimidine, IC₅₀ 18 nM; potent autophagy inhibitor (pasquier2016autophagyinhibitors pages 6-8).  
+– Compound 31: orally bioavailable; 50 % target inhibition at 0.37 µM in rodents (pasquier2016autophagyinhibitors pages 6-8).  
+– SB02024 and related molecules exploit the hydrophobic cavity adjacent to the P-loop for nanomolar potency (burke2023beyondpi3kstargeting pages 24-25).  
+
+## Other Comments  
+– Germline PIK3C3 mutations cause monogenic diseases, highlighting dosage sensitivity (burke2023beyondpi3kstargeting pages 24-25).  
+– Systemic inhibition carries on-target toxicity risks due to essential housekeeping functions (burke2023beyondpi3kstargeting pages 24-25).  
+– Heterozygous kinase-dead knock-in mice display improved insulin sensitivity and protection from diet-induced steatosis (bilanges2019pi3kisoformsin pages 14-15).  
+– VPS15 mutations that destabilise the complex impair secretion pathways (backer2016theintricateregulation pages 12-13).
+
+References
+
+1. (bilanges2019pi3kisoformsin pages 11-12): Benoit Bilanges, York Posor, and Bart Vanhaesebroeck. Pi3k isoforms in cell signalling and vesicle trafficking. Nature Reviews Molecular Cell Biology, 20:515-534, May 2019. URL: https://doi.org/10.1038/s41580-019-0129-z, doi:10.1038/s41580-019-0129-z. This article has 497 citations and is from a domain leading peer-reviewed journal.
+
+2. (burke2023beyondpi3kstargeting pages 24-25): John E. Burke, Joanna Triscott, Brooke M. Emerling, and Gerald R. V. Hammond. Beyond pi3ks: targeting phosphoinositide kinases in disease. Nature Reviews Drug Discovery, 22:357-386, Nov 2023. URL: https://doi.org/10.1038/s41573-022-00582-5, doi:10.1038/s41573-022-00582-5. This article has 91 citations and is from a highest quality peer-reviewed journal.
+
+3. (cook2025structuralpathwayfor pages 4-6): Annan S. I. Cook, Minghao Chen, T. Nguyen, Ainara Claveras Cabezudo, Grace Khuu, Shanlin Rao, Samantha N Garcia, Mingxuan Yang, A. Iavarone, X. Ren, M. Lazarou, Gerhard Hummer, and James H. Hurley. Structural pathway for pi3-kinase regulation by vps15 in autophagy. Science, Feb 2025. URL: https://doi.org/10.1126/science.adl3787, doi:10.1126/science.adl3787. This article has 7 citations and is from a highest quality peer-reviewed journal.
+
+4. (cook2025structuralpathwayfor pages 6-8): Annan S. I. Cook, Minghao Chen, T. Nguyen, Ainara Claveras Cabezudo, Grace Khuu, Shanlin Rao, Samantha N Garcia, Mingxuan Yang, A. Iavarone, X. Ren, M. Lazarou, Gerhard Hummer, and James H. Hurley. Structural pathway for pi3-kinase regulation by vps15 in autophagy. Science, Feb 2025. URL: https://doi.org/10.1126/science.adl3787, doi:10.1126/science.adl3787. This article has 7 citations and is from a highest quality peer-reviewed journal.
+
+5. (pasquier2016autophagyinhibitors pages 6-8): Benoit Pasquier. Autophagy inhibitors. Cellular and Molecular Life Sciences, 73:985-1001, Dec 2016. URL: https://doi.org/10.1007/s00018-015-2104-y, doi:10.1007/s00018-015-2104-y. This article has 404 citations and is from a domain leading peer-reviewed journal.
+
+6. (backer2016theintricateregulation pages 1-2): Jonathan M. Backer. The intricate regulation and complex functions of the class iii phosphoinositide 3-kinase vps34. The Biochemical journal, 473 15:2251-71, Aug 2016. URL: https://doi.org/10.1042/bcj20160170, doi:10.1042/bcj20160170. This article has 261 citations.
+
+7. (backer2016theintricateregulation pages 12-13): Jonathan M. Backer. The intricate regulation and complex functions of the class iii phosphoinositide 3-kinase vps34. The Biochemical journal, 473 15:2251-71, Aug 2016. URL: https://doi.org/10.1042/bcj20160170, doi:10.1042/bcj20160170. This article has 261 citations.
+
+8. (backer2016theintricateregulation pages 13-14): Jonathan M. Backer. The intricate regulation and complex functions of the class iii phosphoinositide 3-kinase vps34. The Biochemical journal, 473 15:2251-71, Aug 2016. URL: https://doi.org/10.1042/bcj20160170, doi:10.1042/bcj20160170. This article has 261 citations.
+
+9. (backer2016theintricateregulation pages 2-3): Jonathan M. Backer. The intricate regulation and complex functions of the class iii phosphoinositide 3-kinase vps34. The Biochemical journal, 473 15:2251-71, Aug 2016. URL: https://doi.org/10.1042/bcj20160170, doi:10.1042/bcj20160170. This article has 261 citations.
+
+10. (bilanges2019pi3kisoformsin pages 12-14): Benoit Bilanges, York Posor, and Bart Vanhaesebroeck. Pi3k isoforms in cell signalling and vesicle trafficking. Nature Reviews Molecular Cell Biology, 20:515-534, May 2019. URL: https://doi.org/10.1038/s41580-019-0129-z, doi:10.1038/s41580-019-0129-z. This article has 497 citations and is from a domain leading peer-reviewed journal.
+
+11. (bilanges2019pi3kisoformsin pages 14-15): Benoit Bilanges, York Posor, and Bart Vanhaesebroeck. Pi3k isoforms in cell signalling and vesicle trafficking. Nature Reviews Molecular Cell Biology, 20:515-534, May 2019. URL: https://doi.org/10.1038/s41580-019-0129-z, doi:10.1038/s41580-019-0129-z. This article has 497 citations and is from a domain leading peer-reviewed journal.
+
+12. (bilanges2019pi3kisoformsin pages 24-25): Benoit Bilanges, York Posor, and Bart Vanhaesebroeck. Pi3k isoforms in cell signalling and vesicle trafficking. Nature Reviews Molecular Cell Biology, 20:515-534, May 2019. URL: https://doi.org/10.1038/s41580-019-0129-z, doi:10.1038/s41580-019-0129-z. This article has 497 citations and is from a domain leading peer-reviewed journal.
+
+13. (bilanges2019pi3kisoformsin pages 31-33): Benoit Bilanges, York Posor, and Bart Vanhaesebroeck. Pi3k isoforms in cell signalling and vesicle trafficking. Nature Reviews Molecular Cell Biology, 20:515-534, May 2019. URL: https://doi.org/10.1038/s41580-019-0129-z, doi:10.1038/s41580-019-0129-z. This article has 497 citations and is from a domain leading peer-reviewed journal.
+
+14. (burke2023beyondpi3kstargeting pages 22-23): John E. Burke, Joanna Triscott, Brooke M. Emerling, and Gerald R. V. Hammond. Beyond pi3ks: targeting phosphoinositide kinases in disease. Nature Reviews Drug Discovery, 22:357-386, Nov 2023. URL: https://doi.org/10.1038/s41573-022-00582-5, doi:10.1038/s41573-022-00582-5. This article has 91 citations and is from a highest quality peer-reviewed journal.
+
+15. (cook2025structuralpathwayfor pages 3-4): Annan S. I. Cook, Minghao Chen, T. Nguyen, Ainara Claveras Cabezudo, Grace Khuu, Shanlin Rao, Samantha N Garcia, Mingxuan Yang, A. Iavarone, X. Ren, M. Lazarou, Gerhard Hummer, and James H. Hurley. Structural pathway for pi3-kinase regulation by vps15 in autophagy. Science, Feb 2025. URL: https://doi.org/10.1126/science.adl3787, doi:10.1126/science.adl3787. This article has 7 citations and is from a highest quality peer-reviewed journal.
+
+16. (li2019ampkandautophagy. pages 305-309): Yanjun Li and Yingyu Chen. Ampk and autophagy. Advances in experimental medicine and biology, 1206:85-108, 2019. URL: https://doi.org/10.1007/978-981-15-0602-4\_4, doi:10.1007/978-981-15-0602-4\_4. This article has 453 citations and is from a peer-reviewed journal.
+
+17. (licheva2022phosphoregulationofthe pages 11-12): Mariya Licheva, Babu Raman, Claudine Kraft, and Fulvio Reggiori. Phosphoregulation of the autophagy machinery by kinases and phosphatases. Autophagy, 18:104-123, May 2022. URL: https://doi.org/10.1080/15548627.2021.1909407, doi:10.1080/15548627.2021.1909407. This article has 67 citations and is from a domain leading peer-reviewed journal.
+
+18. (licheva2022phosphoregulationofthe pages 9-10): Mariya Licheva, Babu Raman, Claudine Kraft, and Fulvio Reggiori. Phosphoregulation of the autophagy machinery by kinases and phosphatases. Autophagy, 18:104-123, May 2022. URL: https://doi.org/10.1080/15548627.2021.1909407, doi:10.1080/15548627.2021.1909407. This article has 67 citations and is from a domain leading peer-reviewed journal.

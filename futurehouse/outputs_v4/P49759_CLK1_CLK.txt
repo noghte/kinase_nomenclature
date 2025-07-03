@@ -1,0 +1,102 @@
+## Phylogeny  
+• Member of the CMGC kinase group and assigned to the CDC-like kinase / LAMMER subfamily characterized by the invariant EHLAMMERILG motif (bullock2009kinasedomaininsertions pages 3-5)  
+• Human paralogs: CLK2, CLK3 and CLK4 share 67–93 % identity within the catalytic domain (lindberg2021dualspecificitytyrosinephosphorylationregulated pages 2-4)  
+• Experimentally verified orthologs are present in Saccharomyces cerevisiae Clk1, Schizosaccharomyces pombe LAMMER kinase, Drosophila DOA, Arabidopsis AFC1-3, Nicotiana PK12, mouse and rat Clk1, underscoring broad eukaryotic conservation (rabinow2018clk pages 545-547)  
+
+## Reaction Catalyzed  
+ATP + [protein] ⇄ ADP + [protein]-P (lindberg2021dualspecificitytyrosinephosphorylationregulated pages 1-2)  
+
+## Cofactor Requirements  
+• Catalytic activity requires divalent Mg²⁺ as shown in in-vitro kinase assays performed with 10 mM MgCl₂ (walter2018molecularstructuresof pages 15-16)  
+• Mn²⁺ can substitute for Mg²⁺ with comparable activity (melcher1996identificationandcharacterization pages 5-6)  
+
+## Substrate Specificity  
+• Prefers serine over threonine (~2-fold) and requires an arginine at position −3 within an R-x-x-S/T consensus motif (bullock2009kinasedomaininsertions pages 3-5)  
+• Efficiently phosphorylates repetitive RS dipeptides in SR proteins (aubol2014nterminusofthe pages 1-3)  
+• Uniquely accepts Ser-Pro motifs in addition to Arg-Ser sites, expanding substrate range beyond SRPK targets (aubol2014nterminusofthe pages 1-3)  
+• Kinome-wide profiling confirms predominant recognition of Arg-Ser and Ser-Pro contexts within RS domains (song2023cdc2likekinasesstructure pages 17-18)  
+
+## Structure  
+• Domain organisation: intrinsically disordered N-terminal RS-rich segment (~aa 1–140) mediating substrate docking, followed by a bilobal kinase domain (~aa 141–484) (aubol2014nterminusofthe pages 1-3)  
+• Catalytic domain contains a β-hairpin insertion, MAPK-like insertion and internally buried LAMMER sequence EHLAMMERILG that stabilises the activation segment (song2023cdc2likekinasesstructure pages 3-3)  
+• Key motifs: Lys-72 / Glu-91 ion pair, HRD catalytic loop (His-319-Arg-320-Asp-321) and DFG motif (Asp-354-Phe-355-Gly-356) align for phosphotransfer (moyano2020cdclikekinases(clks) pages 3-6)  
+• Crystal structure PDB 6I5H shows a narrow, negatively charged ATP pocket underpinning selectivity of ATP-competitive inhibitors (lee2019structuralbasisfor pages 1-2)  
+• Additional structures (e.g., PDB 6FT8) reveal intact regulatory and catalytic spines and capture inhibitor binding modes (walter2018molecularstructuresof pages 15-16)  
+• Activation loop harbours autophosphorylation sites that orient the αC-helix and complete the hydrophobic spine for full activity (lindberg2021dualspecificitytyrosinephosphorylationregulated pages 4-7)  
+
+## Regulation  
+• Autophosphorylates on Ser, Thr and Tyr residues within the activation segment to generate the active conformation (rabinow2018clk pages 545-547)  
+• Activation-segment phospho-sites Ser341 and Thr342 modulate catalytic output and substrate recognition (unknownauthors2024characterizationofthermoregulatory pages 20-23)  
+• AKT phosphorylates the N-terminal SR region at Ser36, Thr122 and Ser139, altering substrate engagement (song2023cdc2likekinasesstructure pages 3-6)  
+• Enzyme activity is temperature-sensitive, reversibly decreasing at febrile temperatures and recovering at 35 °C (song2023cdc2likekinasesstructure pages 9-9)  
+• The gene autoregulates its own mRNA by exon skipping and intron retention, coupling kinase levels to splicing feedback (lindberg2021dualspecificitytyrosinephosphorylationregulated pages 10-12)  
+
+## Function  
+• Predominantly nuclear kinase with expression peaking at the G2/M phase of the cell cycle (song2023cdc2likekinasesstructure pages 1-3)  
+• Hyperphosphorylates SR splicing factors SRSF1–12, thereby promoting spliceosome assembly and alternative exon selection in hundreds of transcripts (song2023cdc2likekinasesstructure pages 1-3)  
+• Directly phosphorylates SRSF10 at Ser129/Ser131/Ser133 and spliceosomal protein SPF45, influencing cell migration and invasion (song2023cdc2likekinasesstructure pages 3-6)  
+• Phosphorylates Ser226 of U1-70K, facilitating its spliceosomal interactions (song2023cdc2likekinasesstructure pages 3-6)  
+• Ser50 phosphorylation of the tyrosine phosphatase PTPN1 increases phosphatase activity, linking CLK1 to broader signalling networks (moeslein1999theclkfamily pages 1-2)  
+• Acts as a host factor for influenza A virus by regulating viral RNA splicing through SRSF3 phosphorylation; inhibition suppresses viral replication (song2023cdc2likekinasesstructure pages 9-10)  
+• Cooperates with hnRNP A1 to fine-tune exon recognition decisions during alternative splicing (song2023cdc2likekinasesstructure pages 6-7)  
+
+## Inhibitors  
+• TG003 – prototype ATP-competitive CLK1/4 inhibitor used to modulate SR-protein phosphorylation in cells (song2023cdc2likekinasesstructure pages 6-7)  
+• TG693 – metabolically stable analogue retaining CLK selectivity and splicing modulation activity (song2023cdc2likekinasesstructure pages 6-7)  
+• CX-4945 (Silmitasertib) – binds the ATP site; biochemical IC₅₀ ≈ 82 nM for CLK1 (lee2019structuralbasisfor pages 1-2)  
+• KH-CB19 – low-nanomolar biochemical potency with demonstrated cellular activity (song2023cdc2likekinasesstructure pages 20-21)  
+• SGC-CLK-1 – selective chemical probe; cellular IC₅₀ ≈ 165 nM against CLK1 with excellent kinome selectivity (moyano2020cdclikekinases(clks) pages 19-23)  
+• Pyrido[3,4-g]quinazoline 9m – biochemical IC₅₀ = 18 nM for CLK1 (moyano2020cdclikekinases(clks) pages 19-23)  
+• MU1210 – highly selective inhibitor, biochemical IC₅₀ = 8 nM and minimal off-target activity (moyano2020cdclikekinases(clks) pages 19-23)  
+
+## Other Comments  
+• Dysregulated CLK1-dependent splicing promotes tumorigenesis in pancreatic, gastric, colorectal, ovarian and breast cancers (song2023cdc2likekinasesstructure pages 10-12)  
+• CLK1 inhibition facilitates exon 31 skipping in the dystrophin gene, a potential strategy for Duchenne muscular dystrophy therapy (lindberg2021dualspecificitytyrosinephosphorylationregulated pages 10-12)
+
+References
+
+1. (aubol2014nterminusofthe pages 1-3): Brandon E. Aubol, Ryan M. Plocinik, Malik M. Keshwani, M. McGlone, J. Hagopian, G. Ghosh, Xiang-Dong Fu, and J. Adams. N-terminus of the protein kinase clk1 induces sr protein hyperphosphorylation. The Biochemical journal, 462 1:143-52, Aug 2014. URL: https://doi.org/10.1042/bj20140494, doi:10.1042/bj20140494. This article has 49 citations.
+
+2. (bullock2009kinasedomaininsertions pages 3-5): Alex N. Bullock, Sanjan Das, Judit É. Debreczeni, Peter Rellos, Oleg Fedorov, Frank H. Niesen, Kunde Guo, Evangelos Papagrigoriou, Ann L. Amos, Suhyung Cho, Benjamin E. Turk, Gourisankar Ghosh, and Stefan Knapp. Kinase domain insertions define distinct roles of clk kinases in sr protein phosphorylation. Structure(London, England:1993), 17:352-362, Mar 2009. URL: https://doi.org/10.1016/j.str.2008.12.023, doi:10.1016/j.str.2008.12.023. This article has 145 citations.
+
+3. (lee2019structuralbasisfor pages 1-2): Joo Youn Lee, Ji-Sook Yun, Woo-Keun Kim, Hang-Suk Chun, Hyeonseok Jin, Sungchan Cho, and Jeong Ho Chang. Structural basis for the selective inhibition of cdc2-like kinases by cx-4945. BioMed Research International, 2019:1-10, Aug 2019. URL: https://doi.org/10.1155/2019/6125068, doi:10.1155/2019/6125068. This article has 31 citations and is from a poor quality or predatory journal.
+
+4. (melcher1996identificationandcharacterization pages 5-6): M. Melcher and J. Thorner. Identification and characterization of the clk1 gene product, a novel cam kinase-like protein kinase from the yeast saccharomyces cerevisiae*. The Journal of Biological Chemistry, 271:29958-29968, Nov 1996. URL: https://doi.org/10.1074/jbc.271.47.29958, doi:10.1074/jbc.271.47.29958. This article has 55 citations.
+
+5. (moyano2020cdclikekinases(clks) pages 19-23): Paula Martín Moyano, V. Němec, and K. Paruch. Cdc-like kinases (clks): biology, chemical probes, and therapeutic potential. International Journal of Molecular Sciences, Oct 2020. URL: https://doi.org/10.3390/ijms21207549, doi:10.3390/ijms21207549. This article has 75 citations and is from a peer-reviewed journal.
+
+6. (rabinow2018clk pages 545-547): Leonard Rabinow. Clk. Encyclopedia of Signaling Molecules, pages 1161-1172, Jan 2018. URL: https://doi.org/10.1007/978-3-319-67199-4\_277, doi:10.1007/978-3-319-67199-4\_277. This article has 5 citations.
+
+7. (song2023cdc2likekinasesstructure pages 1-3): Mengqiu Song, Luping Pang, Mengmeng Zhang, Yingzi Qu, Kyle Vaughn Laster, and Zigang Dong. Cdc2-like kinases: structure, biological function and therapeutic targets for diseases. Signal Transduction and Targeted Therapy, Apr 2023. URL: https://doi.org/10.1038/s41392-023-01409-4, doi:10.1038/s41392-023-01409-4. This article has 47 citations and is from a peer-reviewed journal.
+
+8. (song2023cdc2likekinasesstructure pages 10-12): Mengqiu Song, Luping Pang, Mengmeng Zhang, Yingzi Qu, Kyle Vaughn Laster, and Zigang Dong. Cdc2-like kinases: structure, biological function and therapeutic targets for diseases. Signal Transduction and Targeted Therapy, Apr 2023. URL: https://doi.org/10.1038/s41392-023-01409-4, doi:10.1038/s41392-023-01409-4. This article has 47 citations and is from a peer-reviewed journal.
+
+9. (song2023cdc2likekinasesstructure pages 17-18): Mengqiu Song, Luping Pang, Mengmeng Zhang, Yingzi Qu, Kyle Vaughn Laster, and Zigang Dong. Cdc2-like kinases: structure, biological function and therapeutic targets for diseases. Signal Transduction and Targeted Therapy, Apr 2023. URL: https://doi.org/10.1038/s41392-023-01409-4, doi:10.1038/s41392-023-01409-4. This article has 47 citations and is from a peer-reviewed journal.
+
+10. (song2023cdc2likekinasesstructure pages 20-21): Mengqiu Song, Luping Pang, Mengmeng Zhang, Yingzi Qu, Kyle Vaughn Laster, and Zigang Dong. Cdc2-like kinases: structure, biological function and therapeutic targets for diseases. Signal Transduction and Targeted Therapy, Apr 2023. URL: https://doi.org/10.1038/s41392-023-01409-4, doi:10.1038/s41392-023-01409-4. This article has 47 citations and is from a peer-reviewed journal.
+
+11. (song2023cdc2likekinasesstructure pages 3-3): Mengqiu Song, Luping Pang, Mengmeng Zhang, Yingzi Qu, Kyle Vaughn Laster, and Zigang Dong. Cdc2-like kinases: structure, biological function and therapeutic targets for diseases. Signal Transduction and Targeted Therapy, Apr 2023. URL: https://doi.org/10.1038/s41392-023-01409-4, doi:10.1038/s41392-023-01409-4. This article has 47 citations and is from a peer-reviewed journal.
+
+12. (song2023cdc2likekinasesstructure pages 3-6): Mengqiu Song, Luping Pang, Mengmeng Zhang, Yingzi Qu, Kyle Vaughn Laster, and Zigang Dong. Cdc2-like kinases: structure, biological function and therapeutic targets for diseases. Signal Transduction and Targeted Therapy, Apr 2023. URL: https://doi.org/10.1038/s41392-023-01409-4, doi:10.1038/s41392-023-01409-4. This article has 47 citations and is from a peer-reviewed journal.
+
+13. (song2023cdc2likekinasesstructure pages 6-7): Mengqiu Song, Luping Pang, Mengmeng Zhang, Yingzi Qu, Kyle Vaughn Laster, and Zigang Dong. Cdc2-like kinases: structure, biological function and therapeutic targets for diseases. Signal Transduction and Targeted Therapy, Apr 2023. URL: https://doi.org/10.1038/s41392-023-01409-4, doi:10.1038/s41392-023-01409-4. This article has 47 citations and is from a peer-reviewed journal.
+
+14. (unknownauthors2024characterizationofthermoregulatory pages 20-23): Characterization of thermoregulatory mechanisms in kinases involved in splicing control
+
+15. (lindberg2021dualspecificitytyrosinephosphorylationregulated pages 1-2): M. F. Lindberg and L. Meijer. Dual-specificity, tyrosine phosphorylation-regulated kinases (dyrks) and cdc2-like kinases (clks) in human disease, an overview. International Journal of Molecular Sciences, Jun 2021. URL: https://doi.org/10.3390/ijms22116047, doi:10.3390/ijms22116047. This article has 93 citations and is from a peer-reviewed journal.
+
+16. (lindberg2021dualspecificitytyrosinephosphorylationregulated pages 10-12): M. F. Lindberg and L. Meijer. Dual-specificity, tyrosine phosphorylation-regulated kinases (dyrks) and cdc2-like kinases (clks) in human disease, an overview. International Journal of Molecular Sciences, Jun 2021. URL: https://doi.org/10.3390/ijms22116047, doi:10.3390/ijms22116047. This article has 93 citations and is from a peer-reviewed journal.
+
+17. (lindberg2021dualspecificitytyrosinephosphorylationregulated pages 2-4): M. F. Lindberg and L. Meijer. Dual-specificity, tyrosine phosphorylation-regulated kinases (dyrks) and cdc2-like kinases (clks) in human disease, an overview. International Journal of Molecular Sciences, Jun 2021. URL: https://doi.org/10.3390/ijms22116047, doi:10.3390/ijms22116047. This article has 93 citations and is from a peer-reviewed journal.
+
+18. (lindberg2021dualspecificitytyrosinephosphorylationregulated pages 4-7): M. F. Lindberg and L. Meijer. Dual-specificity, tyrosine phosphorylation-regulated kinases (dyrks) and cdc2-like kinases (clks) in human disease, an overview. International Journal of Molecular Sciences, Jun 2021. URL: https://doi.org/10.3390/ijms22116047, doi:10.3390/ijms22116047. This article has 93 citations and is from a peer-reviewed journal.
+
+19. (moeslein1999theclkfamily pages 1-2): F. Moeslein, M. Myers, and G. Landreth. The clk family kinases, clk1 and clk2, phosphorylate and activate the tyrosine phosphatase, ptp-1b*. The Journal of Biological Chemistry, 274:26697-26704, Sep 1999. URL: https://doi.org/10.1074/jbc.274.38.26697, doi:10.1074/jbc.274.38.26697. This article has 106 citations.
+
+20. (moyano2020cdclikekinases(clks) pages 3-6): Paula Martín Moyano, V. Němec, and K. Paruch. Cdc-like kinases (clks): biology, chemical probes, and therapeutic potential. International Journal of Molecular Sciences, Oct 2020. URL: https://doi.org/10.3390/ijms21207549, doi:10.3390/ijms21207549. This article has 75 citations and is from a peer-reviewed journal.
+
+21. (song2023cdc2likekinasesstructure pages 9-9): Mengqiu Song, Luping Pang, Mengmeng Zhang, Yingzi Qu, Kyle Vaughn Laster, and Zigang Dong. Cdc2-like kinases: structure, biological function and therapeutic targets for diseases. Signal Transduction and Targeted Therapy, Apr 2023. URL: https://doi.org/10.1038/s41392-023-01409-4, doi:10.1038/s41392-023-01409-4. This article has 47 citations and is from a peer-reviewed journal.
+
+22. (song2023cdc2likekinasesstructure pages 9-10): Mengqiu Song, Luping Pang, Mengmeng Zhang, Yingzi Qu, Kyle Vaughn Laster, and Zigang Dong. Cdc2-like kinases: structure, biological function and therapeutic targets for diseases. Signal Transduction and Targeted Therapy, Apr 2023. URL: https://doi.org/10.1038/s41392-023-01409-4, doi:10.1038/s41392-023-01409-4. This article has 47 citations and is from a peer-reviewed journal.
+
+23. (walter2018molecularstructuresof pages 15-16): A. Walter, A. Chaikuad, Renate Helmer, Nadége Loaëc, L. Preu, I. Ott, S. Knapp, L. Meijer, and C. Kunick. Molecular structures of cdc2-like kinases in complex with a new inhibitor chemotype. PLoS ONE, May 2018. URL: https://doi.org/10.1371/journal.pone.0196761, doi:10.1371/journal.pone.0196761. This article has 28 citations and is from a peer-reviewed journal.

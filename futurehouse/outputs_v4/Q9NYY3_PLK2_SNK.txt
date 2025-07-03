@@ -1,0 +1,73 @@
+## Phylogeny
+PLK2 is a serine/threonine kinase belonging to the Polo-like kinase (PLK) family, which is classified within the CMGC kinase group (johnson2023anatlasof pages 4-5, johnson2023anatlasof pages 7-7). Hierarchical clustering based on amino acid motif selectivity shows that PLK2 is closely related to other mammalian PLKs, including PLK1, PLK3, and PLK4 (johnson2023anatlasof pages 4-5, schoffski2009pololikekinase(plk) pages 1-2). The PLK family is highly conserved evolutionarily across diverse eukaryotes (johnson2023anatlasof pages 4-5, schoffski2009pololikekinase(plk) pages 1-2). Known orthologs include *Plk2* in mouse, the *polo* gene in *Drosophila melanogaster*, and the functional ortholog *Cdc5* in *S. cerevisiae* (bergeron2014invivomodulation pages 7-8, schoffski2009pololikekinase(plk) pages 1-2).
+
+
+## Reaction Catalyzed
+PLK2 catalyzes the ATP-dependent transfer of a gamma-phosphate to a serine or threonine residue on a protein substrate (johnson2023anatlasof pages 2-3, schoffski2009pololikekinase(plk) pages 1-2).
+
+*   ATP + [protein]-L-serine = ADP + [protein]-L-serine phosphate
+*   ATP + [protein]-L-threonine = ADP + [protein]-L-threonine phosphate
+
+
+## Cofactor Requirements
+The catalytic activity of PLK2 requires a divalent metal ion cofactor, such as Mg²⁺ or Mn²⁺, to facilitate ATP binding and catalysis (bergeron2014invivomodulation pages 7-8, schoffski2009pololikekinase(plk) pages 1-2).
+
+
+## Substrate Specificity
+The substrate consensus phosphorylation motif for PLK2 favors a serine or threonine residue, with a preference for acidic residues near the phosphorylation site (weston2021geneticdeletionof pages 12-13). As a member of the PLK family, it may also recognize motifs containing proline residues near the phospho-acceptor site (johnson2023anatlasof pages 2-3). Substrate recognition is mediated by the C-terminal Polo-Box Domain (PBD), which binds to motifs on substrates that have been pre-phosphorylated by a priming kinase (weston2021geneticdeletionof pages 12-13, schoffski2009pololikekinase(plk) pages 1-2, kumar2015plk1targetedinhibitors pages 16-17). The specific amino acid preferences for PLK2 have been defined by position-specific scoring matrices (PSSMs) (johnson2023anatlasof pages 4-5, johnson2023anatlasof pages 9-10).
+
+
+## Structure
+PLK2 consists of an N-terminal serine/threonine kinase domain and a C-terminal Polo-Box Domain (PBD) (weston2021geneticdeletionof pages 12-13, schoffski2009pololikekinase(plk) pages 1-2). The kinase domain contains the catalytic machinery, including an activation (T) loop and DFG motif that are crucial for substrate specificity and activity (johnson2023anatlasof pages 2-3). The PBD is essential for substrate recognition and recruitment, binding to specific phosphopeptide motifs on target proteins (kumar2015plk1targetedinhibitors pages 16-17, schoffski2009pololikekinase(plk) pages 1-2, weston2021geneticdeletionof pages 12-13). The AlphaFold model for PLK2 (Q9NYY3) shows a linear arrangement of the kinase and PBD domains (kumar2015plk1targetedinhibitors pages 16-17, weston2021geneticdeletionof pages 12-13).
+
+
+## Regulation
+PLK2 is regulated by post-translational modifications, including phosphorylation and ubiquitination, which modulate its activity and stability (johnson2023anatlasof pages 2-3). However, a specific activating phosphorylation site in the activation loop for PLK2 is not explicitly detailed in the provided sources (weerdt2006pololikekinasesa pages 7-8, unknownauthorsUnknownyearproteomicanalysisof pages 24-28). PLK2 stability is controlled by ubiquitination, and it is likely degraded via the SCF ubiquitin ligase complex, although the exact mechanism for the endogenous protein remains unclear (weerdt2006pololikekinasesa pages 7-8). The degradation of the related kinase PLK4 is mediated by the SCF^Slimb/β-TrCP E3 ubiquitin ligase complex, which may serve as a paradigm for PLK2 regulation (sillibourne2010pololikekinase4 pages 4-6). Additionally, PLK2 is regulated by acetylation, which protects it from ubiquitin-mediated degradation. The deacetylase SIRT1 controls its acetylation state during G1 phase to permit timely centriole replication (zhang2022pololikekinase2 pages 1-2).
+
+
+## Function
+PLK2 protein levels peak during G1 and early S phase, and it localizes to the centrosomes to regulate centriole duplication (weerdt2006pololikekinasesa pages 3-4, unknownauthors2019plk4regulatescell pages 18-22). This function is critical for the G1/S phase transition and requires a functional Polo-Box Domain (zhang2022pololikekinase2 pages 1-2). Known substrates in this process include centrosomal P4.1-associated protein (CPAP), which it phosphorylates at S589 and S595, and nucleophosmin (NPM1/B23), which it phosphorylates at Ser4 (zhang2022pololikekinase2 pages 2-3).
+
+In post-mitotic neurons, PLK2 is involved in synaptic plasticity through both kinase-dependent and -independent functions (weerdt2006pololikekinasesa pages 3-4, unknownauthors2019plk4regulatescell pages 18-22, zhang2022pololikekinase2 pages 1-2). Its kinase-dependent activity modulates Ras and Rap GTPase signaling by phosphorylating substrates such as RAPGEF2, RASGRF1, SIPA1L1, and SYNGAP1, thereby regulating dendritic spine remodeling (unknownauthors2019plk4regulatescell pages 18-22, zhang2022pololikekinase2 pages 1-2). Kinase-independent functions include acting as a scaffolding protein and interacting with N-ethylmaleimide sensitive factor (NSF) (zhang2022pololikekinase2 pages 1-2, unknownauthors2019plk4regulatescell pages 243-245). PLK2 also phosphorylates alpha-synuclein (SNCA) (weston2021geneticdeletionof pages 12-13).
+
+
+## Inhibitors
+The Polo-like kinase family, including PLK2, is targeted by experimental inhibitors (johnson2023anatlasof pages 2-3). BI 2536 is a known inhibitor of Polo-like kinases (weston2021geneticdeletionof pages 12-13). The compound PPG inhibits PLK2 by targeting its Polo-Box Domain (kumar2015plk1targetedinhibitors pages 16-17).
+
+
+## Other Comments
+Misregulation of PLK2 is associated with pathologies including cancer and neurodegenerative diseases like Parkinson's disease (johnson2023anatlasof pages 2-3). The phosphorylation of alpha-synuclein at serine-129 by PLK2 is implicated in the pathology of Lewy body disorders, and genetic deletion of PLK2 reduces this modification at presynaptic terminals (weston2021geneticdeletionof pages 12-13).
+
+References
+
+1. (sillibourne2010pololikekinase4 pages 4-6): James E Sillibourne and Michel Bornens. Polo-like kinase 4: the odd one out of the family. Cell Division, 5:25-25, Sep 2010. URL: https://doi.org/10.1186/1747-1028-5-25, doi:10.1186/1747-1028-5-25. This article has 108 citations and is from a peer-reviewed journal.
+
+2. (unknownauthors2019plk4regulatescell pages 18-22): Plk4 Regulates Cell Motility through Arhgef1 and Rho GTPase Activation
+
+3. (zhang2022pololikekinase2 pages 1-2): Chuanyong Zhang, Chuangye Ni, and Hao Lu. Polo-like kinase 2: from principle to practice. Frontiers in Oncology, Jul 2022. URL: https://doi.org/10.3389/fonc.2022.956225, doi:10.3389/fonc.2022.956225. This article has 26 citations and is from a peer-reviewed journal.
+
+4. (johnson2023anatlasof pages 4-5): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+5. (schoffski2009pololikekinase(plk) pages 1-2): P. Schöffski. Polo-like kinase (plk) inhibitors in preclinical and early clinical development in oncology. The oncologist, 14 6:559-70, Jun 2009. URL: https://doi.org/10.1634/theoncologist.2009-0010, doi:10.1634/theoncologist.2009-0010. This article has 270 citations.
+
+6. (unknownauthors2019plk4regulatescell pages 243-245): Plk4 Regulates Cell Motility through Arhgef1 and Rho GTPase Activation
+
+7. (weerdt2006pololikekinasesa pages 7-8): Barbara C.M. van de Weerdt and Rene H. Medema. Polo-like kinases: a team in control of the division. Cell Cycle, 5:853-864, Apr 2006. URL: https://doi.org/10.4161/cc.5.8.2692, doi:10.4161/cc.5.8.2692. This article has 402 citations and is from a peer-reviewed journal.
+
+8. (zhang2022pololikekinase2 pages 2-3): Chuanyong Zhang, Chuangye Ni, and Hao Lu. Polo-like kinase 2: from principle to practice. Frontiers in Oncology, Jul 2022. URL: https://doi.org/10.3389/fonc.2022.956225, doi:10.3389/fonc.2022.956225. This article has 26 citations and is from a peer-reviewed journal.
+
+9. (bergeron2014invivomodulation pages 7-8): M. Bergeron, R. Motter, P. Tanaka, D. Fauss, M. Babcock, S. Chiou, S. Nelson, F. S. Pablo, and J. Anderson. In vivo modulation of polo-like kinases supports a key role for plk2 in ser129 α-synuclein phosphorylation in mouse brain. Neuroscience, 256:72-82, Jan 2014. URL: https://doi.org/10.1016/j.neuroscience.2013.09.061, doi:10.1016/j.neuroscience.2013.09.061. This article has 55 citations and is from a domain leading peer-reviewed journal.
+
+10. (johnson2023anatlasof pages 2-3): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+11. (johnson2023anatlasof pages 7-7): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+12. (johnson2023anatlasof pages 9-10): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+13. (kumar2015plk1targetedinhibitors pages 16-17): Shiv Kumar and Jaebong Kim. Plk-1 targeted inhibitors and their potential against tumorigenesis. BioMed Research International, Oct 2015. URL: https://doi.org/10.1155/2015/705745, doi:10.1155/2015/705745. This article has 63 citations and is from a poor quality or predatory journal.
+
+14. (unknownauthorsUnknownyearproteomicanalysisof pages 24-28): Proteomic Analysis of Protein Kinase A Substrates and Polo-like kinase 1 Interactors using Bioinformatics and Mass Spectrometry
+
+15. (weerdt2006pololikekinasesa pages 3-4): Barbara C.M. van de Weerdt and Rene H. Medema. Polo-like kinases: a team in control of the division. Cell Cycle, 5:853-864, Apr 2006. URL: https://doi.org/10.4161/cc.5.8.2692, doi:10.4161/cc.5.8.2692. This article has 402 citations and is from a peer-reviewed journal.
+
+16. (weston2021geneticdeletionof pages 12-13): Leah J Weston, Teresa L. Stackhouse, K. Spinelli, S. Boutros, Elizabeth P. Rose, Valerie R. Osterberg, Kelvin C. Luk, J. Raber, T. Weissman, and Vivek K. Unni. Genetic deletion of polo-like kinase 2 reduces alpha-synuclein serine-129 phosphorylation in presynaptic terminals but not lewy bodies. The Journal of Biological Chemistry, Jan 2021. URL: https://doi.org/10.1016/j.jbc.2021.100273, doi:10.1016/j.jbc.2021.100273. This article has 39 citations.

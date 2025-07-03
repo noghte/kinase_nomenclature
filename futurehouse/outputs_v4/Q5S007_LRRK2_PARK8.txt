@@ -1,0 +1,96 @@
+## Phylogeny  
+LRRK2 belongs to the ROCO family of dual‐enzyme proteins and, together with its paralog LRRK1, forms a small branch within the receptor-interacting protein kinase (RIPK) arm of the human kinome (greggio2009leucinerichrepeatkinase pages 3-4).  
+Orthologs are conserved across vertebrates (mouse, rat, zebrafish, Xenopus), invertebrates (Caenorhabditis elegans, Drosophila melanogaster) and basal metazoans such as Nematostella vectensis, indicating origin prior to the protostome–deuterostome split (langston2016thefunctionof pages 1-3, marin2006theparkinsondisease pages 8-9).  
+ROCO proteins are also present in slime molds, certain plants, bacteria and archaea, demonstrating an ancient but patchy evolutionary distribution (marin2006theparkinsondisease pages 8-9).  
+
+## Reaction Catalyzed  
+Protein-L-Ser/Thr + ATP → Protein-L-phospho-Ser/Thr + ADP (nichols2017lrrk2phosphorylation pages 81-83).  
+
+## Cofactor Requirements  
+Full kinase activity requires GTP binding to the ROC GTPase domain; no divalent metal preference is reported in the cited literature (nichols2017lrrk2phosphorylation pages 81-83).  
+
+## Substrate Specificity  
+LRRK2 phosphorylates a conserved Thr/Ser within the switch-II effector-binding loop of multiple Rab GTPases; the minimal motif is D/N-x-T/S-I/L, exemplified by Rab8A-Thr72 and Rab10-Thr73 (alessi2018lrrk2kinasein pages 1-3, ordonez2019rab8rab10and pages 31-32).  
+Confirmed cellular substrates include Rab3A/B/C/D, Rab5A/B/C, Rab8A/B, Rab10, Rab12, Rab29, Rab35 and Rab43 (alessi2018lrrk2kinasein pages 3-5).  
+Moesin and other ERM family members are additional serine/threonine targets linked to cytoskeletal regulation (nichols2017lrrk2phosphorylation pages 81-83).  
+
+## Structure  
+Domain layout: N-terminal armadillo/ankyrin repeats – leucine-rich repeats – ROC GTPase – COR linker – Ser/Thr kinase – WD40 repeat (greggio2009leucinerichrepeatkinase pages 3-4).  
+Cryo-EM structures of full-length human LRRK2 in complex with Rab29 (EMD-26034; PDB 7LI3) reveal monomeric, dimeric and tetrameric assemblies; activation requires COR–kinase hinge rotation and oligomerisation on membranes (zhu2022structuralbasisof pages 14-18).  
+Independent cryo-EM analyses resolved inactive and active conformers (PDB 6VP6, 6VRA) highlighting the DFGψ-out/in transition and microtubule-binding interfaces (tasegian2021impactoftype pages 18-18).  
+Key catalytic residues: Lys1906 (VAIK), Glu1920 (α-helix-C), Asp2017 (HRD) (zhu2022structuralbasisof pages 14-18).  
+The ATP pocket contains two invariant tyrosines in the regulatory and catalytic spines, conferring unusual flexibility and permitting mutant-selective inhibitor design (liu2014uniquefunctionaland pages 10-11).  
+Negative-stain and cryo-EM confirm constitutive homodimerisation mediated by COR and WD40 surfaces, essential for maximal activity (sejwal2017cryoemanalysisof pages 11-11).  
+
+## Regulation  
+Post-translational phosphorylation  
+• Autophosphorylation at Ser1292 tracks intrinsic kinase activity and is elevated by pathogenic mutations (tasegian2021impactoftype pages 1-2).  
+• CK1α and PKA phosphorylate Ser910, Ser935, Ser955 and Ser973, creating 14-3-3 docking sites; kinase inhibition or PD-linked mutations trigger dephosphorylation, 14-3-3 release and microtubule relocalisation (nichols2017lrrk2phosphorylation pages 81-83, tasegian2021impactoftype pages 1-2).  
+
+Allosteric control  
+• GTP-loaded ROC domain favours the active kinase conformation; ROC mutants such as R1441C diminish GTP hydrolysis, thereby elevating kinase output (nichols2017lrrk2phosphorylation pages 81-83).  
+• Rab29 binding to the ARM domain drives membrane recruitment, higher-order oligomerisation and kinase activation (zhu2022structuralbasisof pages 14-18).  
+
+## Function  
+Expression profile  
+High expression in peripheral immune cells (monocytes, macrophages, neutrophils), kidney, lung and selected neuronal populations (alessi2018lrrk2kinasein pages 1-3, liu2014uniquefunctionaland pages 15-16, tasegian2021impactoftype pages 18-19).  
+
+Cellular and pathway roles  
+• Regulates endolysosomal trafficking, autophagy-lysosome dynamics and primary cilium maintenance through broad Rab phosphorylation (alessi2018lrrk2kinasein pages 3-5, ordonez2019rab8rab10and pages 31-32).  
+• Maintains centrosomal cohesion and ciliogenesis via Rab8/Rab10 signalling and RILPL1 interaction (ordonez2019rab8rab10and pages 32-33).  
+• Modulates NLRC4 inflammasome activation and pro-inflammatory cytokine production in innate immune cells (alessi2018lrrk2kinasein pages 1-3).  
+• Alters neurite morphology and enhances α-synuclein toxicity when hyperactive (liu2014uniquefunctionaland pages 15-16).  
+• Drosophila LRRK controls lysosomal positioning through Rab7, illustrating conserved endolysosomal regulation (dodson2012rolesofthe pages 1-1).  
+
+## Inhibitors  
+Type I ATP-competitive inhibitors  
+• GSK2578215A and MLi-2 are potent, brain-penetrant probes that induce Ser935 dephosphorylation and have progressed to human studies (alessi2018lrrk2kinasein pages 3-5, tasegian2021impactoftype pages 16-18).  
+• PF-06447475 and LRRK2-IN-1 offer selective cellular inhibition with robust biomarker engagement (tasegian2021impactoftype pages 18-18).  
+
+Type II inhibitors  
+• GZD-824, Rebastinib and Ponatinib bind the open, inactive DFGψ-out state, suppress Rab phosphorylation without affecting biomarker Ser935, but currently lack selectivity (tasegian2021impactoftype pages 16-18).  
+
+Mutant-selective chemistry  
+• The atypical ATP pocket enables development of mutant-selective inhibitors such as SRI-29132, exploiting the hydrophobic spine flexibility (liu2014uniquefunctionaland pages 1-1).  
+
+## Other Comments  
+Missense variants G2019S (kinase domain) and R1441C/G/H (ROC domain) increase kinase activity two- to four-fold and are the most common genetic causes of autosomal-dominant Parkinson’s disease (alessi2018lrrk2kinasein pages 1-3, liu2014uniquefunctionaland pages 1-1).  
+Systemic LRRK2 inhibition in rodents and non-human primates produces reversible lung and kidney alterations attributable to suppressed autophagy-lysosome function, highlighting on-target safety liabilities (alessi2018lrrk2kinasein pages 3-5, tasegian2021impactoftype pages 16-18).
+
+References
+
+1. (alessi2018lrrk2kinasein pages 1-3): Dario R. Alessi and Esther Sammler. Lrrk2 kinase in parkinson's disease. Science, 360:36-37, Apr 2018. URL: https://doi.org/10.1126/science.aar5683, doi:10.1126/science.aar5683. This article has 322 citations and is from a highest quality peer-reviewed journal.
+
+2. (liu2014uniquefunctionaland pages 1-1): Zhiyong Liu, Robert A. Galemmo, Kyle B. Fraser, Mark S. Moehle, Saurabh Sen, Laura A. Volpicelli-Daley, Lawrence J. DeLucas, Larry J. Ross, Jacob Valiyaveettil, Omar Moukha-Chafiq, Ashish K. Pathak, Subramaniam Ananthan, Hollis Kezar, E.Lucile White, Vandana Gupta, Joseph A. Maddry, Mark J. Suto, and Andrew B. West. Unique functional and structural properties of the lrrk2 protein atp-binding pocket. Journal of Biological Chemistry, 289:32937-32951, Nov 2014. URL: https://doi.org/10.1074/jbc.m114.602318, doi:10.1074/jbc.m114.602318. This article has 44 citations and is from a domain leading peer-reviewed journal.
+
+3. (liu2014uniquefunctionaland pages 15-16): Zhiyong Liu, Robert A. Galemmo, Kyle B. Fraser, Mark S. Moehle, Saurabh Sen, Laura A. Volpicelli-Daley, Lawrence J. DeLucas, Larry J. Ross, Jacob Valiyaveettil, Omar Moukha-Chafiq, Ashish K. Pathak, Subramaniam Ananthan, Hollis Kezar, E.Lucile White, Vandana Gupta, Joseph A. Maddry, Mark J. Suto, and Andrew B. West. Unique functional and structural properties of the lrrk2 protein atp-binding pocket. Journal of Biological Chemistry, 289:32937-32951, Nov 2014. URL: https://doi.org/10.1074/jbc.m114.602318, doi:10.1074/jbc.m114.602318. This article has 44 citations and is from a domain leading peer-reviewed journal.
+
+4. (nichols2017lrrk2phosphorylation pages 81-83): R. Jeremy Nichols. Lrrk2 phosphorylation. Advances in Neurobiology, 14:51-70, Jan 2017. URL: https://doi.org/10.1007/978-3-319-49969-7\_3, doi:10.1007/978-3-319-49969-7\_3. This article has 30 citations.
+
+5. (alessi2018lrrk2kinasein pages 3-5): Dario R. Alessi and Esther Sammler. Lrrk2 kinase in parkinson's disease. Science, 360:36-37, Apr 2018. URL: https://doi.org/10.1126/science.aar5683, doi:10.1126/science.aar5683. This article has 322 citations and is from a highest quality peer-reviewed journal.
+
+6. (dodson2012rolesofthe pages 1-1): M. Dodson, Ting Zhang, Changan Jiang, Shengdi Chen, and M. Guo. Roles of the drosophila lrrk2 homolog in rab7-dependent lysosomal positioning. Human molecular genetics, 21 6:1350-63, Mar 2012. URL: https://doi.org/10.1093/hmg/ddr573, doi:10.1093/hmg/ddr573. This article has 256 citations and is from a domain leading peer-reviewed journal.
+
+7. (greggio2009leucinerichrepeatkinase pages 3-4): Elisa Greggio and Mark R Cookson. Leucine-rich repeat kinase 2 mutations and parkinson's disease: three questions. ASN Neuro, Jan 2009. URL: https://doi.org/10.1042/an20090007, doi:10.1042/an20090007. This article has 339 citations and is from a peer-reviewed journal.
+
+8. (langston2016thefunctionof pages 1-3): R. Langston, I. Rudenko, and M. Cookson. The function of orthologues of the human parkinson's disease gene lrrk2 across species: implications for disease modelling in preclinical research. The Biochemical journal, 473 3:221-32, Feb 2016. URL: https://doi.org/10.1042/bj20150985, doi:10.1042/bj20150985. This article has 38 citations.
+
+9. (liu2014uniquefunctionaland pages 10-11): Zhiyong Liu, Robert A. Galemmo, Kyle B. Fraser, Mark S. Moehle, Saurabh Sen, Laura A. Volpicelli-Daley, Lawrence J. DeLucas, Larry J. Ross, Jacob Valiyaveettil, Omar Moukha-Chafiq, Ashish K. Pathak, Subramaniam Ananthan, Hollis Kezar, E.Lucile White, Vandana Gupta, Joseph A. Maddry, Mark J. Suto, and Andrew B. West. Unique functional and structural properties of the lrrk2 protein atp-binding pocket. Journal of Biological Chemistry, 289:32937-32951, Nov 2014. URL: https://doi.org/10.1074/jbc.m114.602318, doi:10.1074/jbc.m114.602318. This article has 44 citations and is from a domain leading peer-reviewed journal.
+
+10. (marin2006theparkinsondisease pages 8-9): I. Marín. The parkinson disease gene lrrk2: evolutionary and structural insights. Molecular biology and evolution, 23 12:2423-33, Dec 2006. URL: https://doi.org/10.1093/molbev/msl114, doi:10.1093/molbev/msl114. This article has 225 citations and is from a highest quality peer-reviewed journal.
+
+11. (ordonez2019rab8rab10and pages 31-32): Antonio Jesús Lara Ordónez, Belén Fernández, Elena Fdez, María Romo-Lozano, Jesús Madero-Pérez, Evy Lobbestael, Veerle Baekelandt, Ana Aiastui, Adolfo López de Munaín, Heather L Melrose, Laura Civiero, and Sabine Hilfiker. Rab8, rab10 and rilpl1 contribute to both lrrk2 kinase–mediated centrosomal cohesion and ciliogenesis deficits. Human Molecular Genetics, 28:3552-3568, Aug 2019. URL: https://doi.org/10.1093/hmg/ddz201, doi:10.1093/hmg/ddz201. This article has 89 citations and is from a domain leading peer-reviewed journal.
+
+12. (tasegian2021impactoftype pages 16-18): Anna Tasegian, F. Singh, I. Ganley, A. Reith, and D. Alessi. Impact of type ii lrrk2 inhibitors on signaling and mitophagy. Biochemical Journal, 478:3555-3573, May 2021. URL: https://doi.org/10.1042/bcj20210375, doi:10.1042/bcj20210375. This article has 59 citations and is from a domain leading peer-reviewed journal.
+
+13. (tasegian2021impactoftype pages 18-18): Anna Tasegian, F. Singh, I. Ganley, A. Reith, and D. Alessi. Impact of type ii lrrk2 inhibitors on signaling and mitophagy. Biochemical Journal, 478:3555-3573, May 2021. URL: https://doi.org/10.1042/bcj20210375, doi:10.1042/bcj20210375. This article has 59 citations and is from a domain leading peer-reviewed journal.
+
+14. (tasegian2021impactoftype pages 18-19): Anna Tasegian, F. Singh, I. Ganley, A. Reith, and D. Alessi. Impact of type ii lrrk2 inhibitors on signaling and mitophagy. Biochemical Journal, 478:3555-3573, May 2021. URL: https://doi.org/10.1042/bcj20210375, doi:10.1042/bcj20210375. This article has 59 citations and is from a domain leading peer-reviewed journal.
+
+15. (zhu2022structuralbasisof pages 14-18): Hanwen Zhu, Francesca Tonelli, Dario R. Alessi, and Ji Sun. Structural basis of human lrrk2 membrane recruitment and activation. BioRxiv, Apr 2022. URL: https://doi.org/10.1101/2022.04.26.489605, doi:10.1101/2022.04.26.489605. This article has 34 citations.
+
+16. (ordonez2019rab8rab10and pages 32-33): Antonio Jesús Lara Ordónez, Belén Fernández, Elena Fdez, María Romo-Lozano, Jesús Madero-Pérez, Evy Lobbestael, Veerle Baekelandt, Ana Aiastui, Adolfo López de Munaín, Heather L Melrose, Laura Civiero, and Sabine Hilfiker. Rab8, rab10 and rilpl1 contribute to both lrrk2 kinase–mediated centrosomal cohesion and ciliogenesis deficits. Human Molecular Genetics, 28:3552-3568, Aug 2019. URL: https://doi.org/10.1093/hmg/ddz201, doi:10.1093/hmg/ddz201. This article has 89 citations and is from a domain leading peer-reviewed journal.
+
+17. (sejwal2017cryoemanalysisof pages 11-11): Kushal Sejwal, Mohamed Chami, Hervé Rémigy, Renée Vancraenenbroeck, William Sibran, Rosmarie Sütterlin, Paul Baumgartner, Robert McLeod, Marie-Christine Chartier-Harlin, Veerle Baekelandt, Henning Stahlberg, and Jean-Marc Taymans. Cryo-em analysis of homodimeric full-length lrrk2 and lrrk1 protein complexes. Scientific Reports, Aug 2017. URL: https://doi.org/10.1038/s41598-017-09126-z, doi:10.1038/s41598-017-09126-z. This article has 53 citations and is from a poor quality or predatory journal.
+
+18. (tasegian2021impactoftype pages 1-2): Anna Tasegian, F. Singh, I. Ganley, A. Reith, and D. Alessi. Impact of type ii lrrk2 inhibitors on signaling and mitophagy. Biochemical Journal, 478:3555-3573, May 2021. URL: https://doi.org/10.1042/bcj20210375, doi:10.1042/bcj20210375. This article has 59 citations and is from a domain leading peer-reviewed journal.

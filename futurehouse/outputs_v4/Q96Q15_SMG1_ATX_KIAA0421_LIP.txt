@@ -1,0 +1,91 @@
+## Phylogeny  
+• SMG1 is a member of the phosphatidylinositol-3-kinase-related kinase (PIKK) family that also contains ATM, ATR, DNA-PKcs, mTOR and TRRAP (ariaspalomo2011thenonsensemediatedmrna pages 1-3).  
+• Kinome surveys position SMG1 within the ATM/ATR branch of the human kinome tree (langer2021cryoemreconstructionsof pages 19-19).  
+• Verified orthologs exist in Mus musculus (Smg1), Drosophila melanogaster (Smg1) and Caenorhabditis elegans (smg-1) (langer2021cryoemreconstructionsof pages 17-18).  
+• No SMG1 ortholog is detected in Saccharomyces cerevisiae (langer2021cryoemreconstructionsof pages 19-19).  
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr([S/T]Q) → ADP + protein-L-phospho-Ser/Thr([pS/pT]Q) (langer2020structureofsubstratebound pages 2-5).  
+
+## Cofactor Requirements  
+Catalytic activity requires Mg²⁺, as shown by in-vitro kinase assays performed in the presence of MgCl₂ (langer2020structureofsubstratebound pages 9-10).  
+
+## Substrate Specificity  
+• Strict preference for serine or threonine followed immediately by glutamine, defining a [S/T]Q consensus (langer2020structureofsubstratebound pages 6-9).  
+• Peptide-library profiling indicates strong enrichment of a hydrophobic residue, particularly leucine, at the −1 position, generating an optimal L-[S/T]Q motif (langer2021cryoemreconstructionsof pages 17-18).  
+• Canonical sites in UPF1 include Ser1073, Ser1078, Ser1096 and Ser1116, all embedded in LSQ motifs (langer2020structureofsubstratebound pages 2-5).  
+
+## Structure  
+• Domain organisation: N-terminal HEAT repeats (~1 000 aa); FAT domain; PI3K-like kinase domain (~370 aa); FATC tail; unique C-terminal insertion (C-insertion/PRD) >1 000 aa (deniaud2015anetworkof pages 2-3).  
+• Cryo-EM at 2.9 Å reveals a two-part architecture with a flexible HEAT “arch” and a compact head containing FAT, kinase and FATC domains (langer2020structureofsubstratebound pages 2-5).  
+• The catalytic loop and activation segment adopt the conserved PIKK configuration and coordinate ATP with two Mg²⁺ ions (langer2021cryoemreconstructionsof pages 1-2).  
+• The C-insertion folds back across the substrate path, creating an intrinsic autoinhibitory element (ariaspalomo2011thenonsensemediatedmrna pages 1-3).  
+• Regulatory cofactors: the SMG9 G-domain grips the HEAT arch, while the SMG8 C-terminus tethers the C-insertion, stabilising the inhibited conformation (langer2021cryoemreconstructionsof pages 8-10).  
+• Substrate-bound maps position an extended UPF1 peptide across the active-site cleft, with the +1 glutamine anchoring the chain for precise phosphotransfer (langer2020structureofsubstratebound pages 6-9).  
+
+## Regulation  
+Post-translational modifications  
+• Autophosphorylation at Ser1096 has been mapped and promotes full kinase activity (langer2020structureofsubstratebound pages 1-2).  
+• ATM-dependent phosphorylation of SMG1 links the enzyme to DNA-damage signalling (langer2020structureofsubstratebound pages 14-14).  
+
+Protein-protein and allosteric control  
+• SMG1 forms the SMG1C complex with SMG8 and SMG9; the SMG8 C-terminus and SMG1 C-insertion act cooperatively to impose autoinhibition (zhu2019cryoemstructureof pages 6-7).  
+• Removal or truncation of SMG8 or of the C-insertion yields a hyperactive kinase, demonstrating negative regulation in trans and in cis (langer2021cryoemreconstructionsof pages 8-10).  
+• SMG9 stabilises SMG8 incorporation and maintains the inhibited state (zhu2019cryoemstructureof pages 2-4).  
+
+## Function  
+Expression  
+• Transcriptomic and proteomic surveys show broad expression of SMG1 across human tissues, with elevated levels in neural tissues (langer2020structureofsubstratebound pages 13-14).  
+
+Signalling roles  
+• Central kinase in nonsense-mediated mRNA decay: phosphorylates UPF1 within the SURF complex (SMG1-UPF1-eRF1-eRF3) assembled on stalled ribosomes (yamashita2013roleofsmg‐1‐mediated pages 2-3).  
+• Phospho-UPF1 recruits SMG5/6/7 and associates with UPF2/UPF3 to trigger degradation of premature-termination-codon transcripts (deniaud2015anetworkof pages 1-2).  
+• Acts in genotoxic-stress response; can phosphorylate p53 and contributes to optimal p53 activation following DNA damage (langer2020structureofsubstratebound pages 14-14).  
+
+Interaction network  
+• Confirmed partners include UPF1, UPF2, UPF3, SMG8, SMG9, eRF1 and eRF3 (ariaspalomo2011thenonsensemediatedmrna pages 6-7).  
+
+## Inhibitors  
+• SMG1i is an ATP-competitive small molecule that binds the kinase active site and stabilises the SMG1-SMG8 autoinhibited conformation, as visualised by cryo-EM (langer2021cryoemreconstructionsof pages 8-10).  
+
+## Other Comments  
+• Pathogenic variants in SMG1 are associated with microcephaly, leukodystrophy and cellular radiosensitivity (langer2021cryoemreconstructionsof pages 18-19).  
+• Mutations in SMG8 or SMG9 that disrupt SMG1C assembly produce related congenital anomalies (langer2021cryoemreconstructionsof pages 18-19).
+
+References
+
+1. (ariaspalomo2011thenonsensemediatedmrna pages 1-3): E. Arias-Palomo, A. Yamashita, I. S. Fernández, R. Núñez-Ramírez, Y. Bamba, Natsuko Izumi, S. Ohno, and O. Llorca. The nonsense-mediated mrna decay smg-1 kinase is regulated by large-scale conformational changes controlled by smg-8. Genes & development, 25 2:153-64, Jan 2011. URL: https://doi.org/10.1101/gad.606911, doi:10.1101/gad.606911. This article has 101 citations.
+
+2. (langer2020structureofsubstratebound pages 13-14): Lukas M Langer, Yair Gat, Fabien Bonneau, and Elena Conti. Structure of substrate-bound smg1-8-9 kinase complex reveals molecular basis for phosphorylation specificity. eLife, May 2020. URL: https://doi.org/10.7554/elife.57127, doi:10.7554/elife.57127. This article has 37 citations and is from a domain leading peer-reviewed journal.
+
+3. (langer2020structureofsubstratebound pages 14-14): Lukas M Langer, Yair Gat, Fabien Bonneau, and Elena Conti. Structure of substrate-bound smg1-8-9 kinase complex reveals molecular basis for phosphorylation specificity. eLife, May 2020. URL: https://doi.org/10.7554/elife.57127, doi:10.7554/elife.57127. This article has 37 citations and is from a domain leading peer-reviewed journal.
+
+4. (langer2020structureofsubstratebound pages 2-5): Lukas M Langer, Yair Gat, Fabien Bonneau, and Elena Conti. Structure of substrate-bound smg1-8-9 kinase complex reveals molecular basis for phosphorylation specificity. eLife, May 2020. URL: https://doi.org/10.7554/elife.57127, doi:10.7554/elife.57127. This article has 37 citations and is from a domain leading peer-reviewed journal.
+
+5. (langer2020structureofsubstratebound pages 6-9): Lukas M Langer, Yair Gat, Fabien Bonneau, and Elena Conti. Structure of substrate-bound smg1-8-9 kinase complex reveals molecular basis for phosphorylation specificity. eLife, May 2020. URL: https://doi.org/10.7554/elife.57127, doi:10.7554/elife.57127. This article has 37 citations and is from a domain leading peer-reviewed journal.
+
+6. (langer2020structureofsubstratebound pages 9-10): Lukas M Langer, Yair Gat, Fabien Bonneau, and Elena Conti. Structure of substrate-bound smg1-8-9 kinase complex reveals molecular basis for phosphorylation specificity. eLife, May 2020. URL: https://doi.org/10.7554/elife.57127, doi:10.7554/elife.57127. This article has 37 citations and is from a domain leading peer-reviewed journal.
+
+7. (langer2021cryoemreconstructionsof pages 1-2): Lukas M Langer, Fabien Bonneau, Yair Gat, and Elena Conti. Cryo-em reconstructions of inhibitor-bound smg1 kinase reveal an autoinhibitory state dependent on smg8. eLife, Oct 2021. URL: https://doi.org/10.7554/elife.72353, doi:10.7554/elife.72353. This article has 32 citations and is from a domain leading peer-reviewed journal.
+
+8. (langer2021cryoemreconstructionsof pages 17-18): Lukas M Langer, Fabien Bonneau, Yair Gat, and Elena Conti. Cryo-em reconstructions of inhibitor-bound smg1 kinase reveal an autoinhibitory state dependent on smg8. eLife, Oct 2021. URL: https://doi.org/10.7554/elife.72353, doi:10.7554/elife.72353. This article has 32 citations and is from a domain leading peer-reviewed journal.
+
+9. (langer2021cryoemreconstructionsof pages 18-19): Lukas M Langer, Fabien Bonneau, Yair Gat, and Elena Conti. Cryo-em reconstructions of inhibitor-bound smg1 kinase reveal an autoinhibitory state dependent on smg8. eLife, Oct 2021. URL: https://doi.org/10.7554/elife.72353, doi:10.7554/elife.72353. This article has 32 citations and is from a domain leading peer-reviewed journal.
+
+10. (langer2021cryoemreconstructionsof pages 19-19): Lukas M Langer, Fabien Bonneau, Yair Gat, and Elena Conti. Cryo-em reconstructions of inhibitor-bound smg1 kinase reveal an autoinhibitory state dependent on smg8. eLife, Oct 2021. URL: https://doi.org/10.7554/elife.72353, doi:10.7554/elife.72353. This article has 32 citations and is from a domain leading peer-reviewed journal.
+
+11. (langer2021cryoemreconstructionsof pages 8-10): Lukas M Langer, Fabien Bonneau, Yair Gat, and Elena Conti. Cryo-em reconstructions of inhibitor-bound smg1 kinase reveal an autoinhibitory state dependent on smg8. eLife, Oct 2021. URL: https://doi.org/10.7554/elife.72353, doi:10.7554/elife.72353. This article has 32 citations and is from a domain leading peer-reviewed journal.
+
+12. (yamashita2013roleofsmg‐1‐mediated pages 2-3): Akio Yamashita. Role of smg‐1‐mediated upf1 phosphorylation in mammalian nonsense‐mediated mrna decay. Genes to Cells, Mar 2013. URL: https://doi.org/10.1111/gtc.12033, doi:10.1111/gtc.12033. This article has 98 citations and is from a peer-reviewed journal.
+
+13. (zhu2019cryoemstructureof pages 2-4): Li Zhu, Liang Li, Yilun Qi, Zishuo Yu, and Yanhui Xu. Cryo-em structure of smg1–smg8–smg9 complex. Cell Research, 29:1027-1034, Nov 2019. URL: https://doi.org/10.1038/s41422-019-0255-3, doi:10.1038/s41422-019-0255-3. This article has 37 citations and is from a domain leading peer-reviewed journal.
+
+14. (ariaspalomo2011thenonsensemediatedmrna pages 6-7): E. Arias-Palomo, A. Yamashita, I. S. Fernández, R. Núñez-Ramírez, Y. Bamba, Natsuko Izumi, S. Ohno, and O. Llorca. The nonsense-mediated mrna decay smg-1 kinase is regulated by large-scale conformational changes controlled by smg-8. Genes & development, 25 2:153-64, Jan 2011. URL: https://doi.org/10.1101/gad.606911, doi:10.1101/gad.606911. This article has 101 citations.
+
+15. (deniaud2015anetworkof pages 1-2): Aurélien Deniaud, Manikandan Karuppasamy, Thomas Bock, Simonas Masiulis, Karine Huard, Frédéric Garzoni, Kathrin Kerschgens, Matthias W. Hentze, Andreas E. Kulozik, Martin Beck, Gabriele Neu-Yilik, and Christiane Schaffitzel. A network of smg-8, smg-9 and smg-1 c-terminal insertion domain regulates upf1 substrate recruitment and phosphorylation. Nucleic Acids Research, 43:7600-7611, Jun 2015. URL: https://doi.org/10.1093/nar/gkv668, doi:10.1093/nar/gkv668. This article has 82 citations and is from a highest quality peer-reviewed journal.
+
+16. (deniaud2015anetworkof pages 2-3): Aurélien Deniaud, Manikandan Karuppasamy, Thomas Bock, Simonas Masiulis, Karine Huard, Frédéric Garzoni, Kathrin Kerschgens, Matthias W. Hentze, Andreas E. Kulozik, Martin Beck, Gabriele Neu-Yilik, and Christiane Schaffitzel. A network of smg-8, smg-9 and smg-1 c-terminal insertion domain regulates upf1 substrate recruitment and phosphorylation. Nucleic Acids Research, 43:7600-7611, Jun 2015. URL: https://doi.org/10.1093/nar/gkv668, doi:10.1093/nar/gkv668. This article has 82 citations and is from a highest quality peer-reviewed journal.
+
+17. (langer2020structureofsubstratebound pages 1-2): Lukas M Langer, Yair Gat, Fabien Bonneau, and Elena Conti. Structure of substrate-bound smg1-8-9 kinase complex reveals molecular basis for phosphorylation specificity. eLife, May 2020. URL: https://doi.org/10.7554/elife.57127, doi:10.7554/elife.57127. This article has 37 citations and is from a domain leading peer-reviewed journal.
+
+18. (zhu2019cryoemstructureof pages 6-7): Li Zhu, Liang Li, Yilun Qi, Zishuo Yu, and Yanhui Xu. Cryo-em structure of smg1–smg8–smg9 complex. Cell Research, 29:1027-1034, Nov 2019. URL: https://doi.org/10.1038/s41422-019-0255-3, doi:10.1038/s41422-019-0255-3. This article has 37 citations and is from a domain leading peer-reviewed journal.

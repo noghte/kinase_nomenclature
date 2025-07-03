@@ -1,0 +1,65 @@
+## Phylogeny  
+• Assigned to the NKF1 subgroup within the “Other” clade of the human kinome according to catalytic-domain phylogeny (manning2002theproteinkinase pages 3-3).  
+• Paralogue cluster comprises SBK1, SBK2 and SBK3, demonstrating close evolutionary relationship within NKF1 (hanks2003genomicanalysisof pages 5-6).  
+• Comparative kinome analyses indicate the presence of SBK2 orthologs in mouse, rat, zebrafish and Drosophila, although specific identifiers were not listed in the primary sources (manning2002theproteinkinase pages 2-3).  
+
+## Reaction Catalyzed  
+ATP + [protein]-L-Ser/Thr ⇌ ADP + [protein]-O-phospho-L-Ser/Thr (hanks2003genomicanalysisof pages 1-2).  
+
+## Cofactor Requirements  
+No experimental data on divalent-metal dependence have been reported for SBK2 (essegian2020theclinicalkinase pages 10-11).  
+
+## Substrate Specificity  
+• Global consensus phosphorylation motif: not determined (johnson2023anatlasof pages 4-4).  
+• Johnson et al. report SBK2 as the 8th-ranked kinase for phosphorylation of PDHA1 Ser293 within the sequence RYHGHSMSDP (98.48 percentile), indicating potential recognition of a basic motif context (johnson2023anatlasof pages 21-23).  
+
+## Structure  
+• Architecture: single bilobal serine/threonine kinase domain (~250 aa) with N-terminal β-sheet lobe and C-terminal α-helical lobe connected by the hinge (unknownauthors2022datadrivencomputational pages 83-88).  
+• Conserved catalytic features: Lys in subdomain II, HRD motif in subdomain VIB and DFG motif at the N-terminus of the activation loop are present in the UniProt sequence and predicted structure (unknownauthors2014creationandcharacterization pages 14-15).  
+• Structural data: no experimental PDB entry; a high-confidence AlphaFold model (pLDDT > 70 for the kinase core) provides full-length coordinates and residue-level confidence (tunyasuvunakool2021highlyaccurateprotein pages 1-2).  
+• Model confidence and absence of resolved structures confirmed by the PDB coverage analysis referenced by AlphaFold authors (tunyasuvunakool2021highlyaccurateprotein pages 6-7).  
+• Regulatory elements (activation loop phosphorylation sites, hydrophobic spine integrity, C-helix orientation) have not yet been experimentally verified (unknownauthors2022datadrivencomputational pages 83-88).  
+
+## Regulation  
+• Curated post-translational modifications: none reported for SBK2 in PhosphoSitePlus or peer-reviewed literature (johnson2023anatlasof pages 12-18).  
+• Enzymes responsible for SBK2 modification, allosteric regulators and conformational control mechanisms remain uncharacterised (essegian2020theclinicalkinase pages 10-11, unknownauthors2022datadrivencomputational pages 30-34).  
+
+## Function  
+• Expression: SBK2 is categorised as a “Tdark” kinase with limited mRNA/protein expression data; GTEx and Human Protein Atlas information were not provided in the cited sources (essegian2020theclinicalkinase pages 10-11).  
+• Protein–protein interactors and pathway assignments are currently undocumented in large-scale AP-MS datasets referenced (unknownauthors2022datadrivencomputational pages 30-34).  
+• Genetic alteration: focal copy-number amplification (~3 % of breast-cancer cases) and broader TCGA analyses link elevated SBK2 dosage to poorer overall and progression-free survival (unknownauthors2022datadrivencomputational pages 30-34).  
+• Clinical Kinase Index ranks SBK2 as prognostic across multiple tumour types, underscoring its potential oncogenic relevance (essegian2020theclinicalkinase pages 10-11).  
+
+## Other Comments  
+• No biochemical inhibitor profiling data (Davis2011, Anastassiadis2011 or subsequent large-scale panels) include SBK2, leaving inhibitor sensitivity unknown (gehringer2021covalentkinaseinhibitors pages 47-49).  
+• The paucity of structural, biochemical and regulatory information positions SBK2 as a high-priority target for foundational kinase research (essegian2020theclinicalkinase pages 10-11).
+
+References
+
+1. (tunyasuvunakool2021highlyaccurateprotein pages 6-7): Kathryn Tunyasuvunakool, Jonas Adler, Zachary Wu, Tim Green, Michal Zielinski, Augustin Žídek, Alex Bridgland, Andrew Cowie, Clemens Meyer, Agata Laydon, Sameer Velankar, Gerard J. Kleywegt, Alex Bateman, Richard Evans, Alexander Pritzel, Michael Figurnov, Olaf Ronneberger, Russ Bates, Simon A. A. Kohl, Anna Potapenko, Andrew J. Ballard, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Ellen Clancy, David Reiman, Stig Petersen, Andrew W. Senior, Koray Kavukcuoglu, Ewan Birney, Pushmeet Kohli, John Jumper, and Demis Hassabis. Highly accurate protein structure prediction for the human proteome. Nature, 596:590-596, Jul 2021. URL: https://doi.org/10.1038/s41586-021-03828-1, doi:10.1038/s41586-021-03828-1. This article has 2790 citations and is from a highest quality peer-reviewed journal.
+
+2. (unknownauthors2022datadrivencomputational pages 30-34): Data Driven Computational Discovery of Novel Small Molecule Cancer Therapeutics
+
+3. (unknownauthors2022datadrivencomputational pages 83-88): Data Driven Computational Discovery of Novel Small Molecule Cancer Therapeutics
+
+4. (essegian2020theclinicalkinase pages 10-11): Derek Essegian, Rimpi Khurana, Vasileios Stathias, and Stephan C. Schürer. The clinical kinase index: a method to prioritize understudied kinases as drug targets for the treatment of cancer. Cell Reports Medicine, Oct 2020. URL: https://doi.org/10.1016/j.xcrm.2020.100128, doi:10.1016/j.xcrm.2020.100128. This article has 67 citations and is from a peer-reviewed journal.
+
+5. (gehringer2021covalentkinaseinhibitors pages 47-49): Matthias Gehringer. Covalent kinase inhibitors: an overview. Topics in Medicinal Chemistry, pages 43-94, Jan 2021. URL: https://doi.org/10.1007/7355\_2020\_103, doi:10.1007/7355\_2020\_103. This article has 21 citations.
+
+6. (hanks2003genomicanalysisof pages 5-6): Steven K Hanks. Genomic analysis of the eukaryotic protein kinase superfamily: a perspective. Genome Biology, 4:111-111, Apr 2003. URL: https://doi.org/10.1186/gb-2003-4-5-111, doi:10.1186/gb-2003-4-5-111. This article has 426 citations and is from a highest quality peer-reviewed journal.
+
+7. (manning2002theproteinkinase pages 3-3): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10732 citations and is from a highest quality peer-reviewed journal.
+
+8. (tunyasuvunakool2021highlyaccurateprotein pages 1-2): Kathryn Tunyasuvunakool, Jonas Adler, Zachary Wu, Tim Green, Michal Zielinski, Augustin Žídek, Alex Bridgland, Andrew Cowie, Clemens Meyer, Agata Laydon, Sameer Velankar, Gerard J. Kleywegt, Alex Bateman, Richard Evans, Alexander Pritzel, Michael Figurnov, Olaf Ronneberger, Russ Bates, Simon A. A. Kohl, Anna Potapenko, Andrew J. Ballard, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Ellen Clancy, David Reiman, Stig Petersen, Andrew W. Senior, Koray Kavukcuoglu, Ewan Birney, Pushmeet Kohli, John Jumper, and Demis Hassabis. Highly accurate protein structure prediction for the human proteome. Nature, 596:590-596, Jul 2021. URL: https://doi.org/10.1038/s41586-021-03828-1, doi:10.1038/s41586-021-03828-1. This article has 2790 citations and is from a highest quality peer-reviewed journal.
+
+9. (unknownauthors2014creationandcharacterization pages 14-15): Creation and Characterization of a Sensitized, Inhibitable Stress-Activated Protein Kinase
+
+10. (hanks2003genomicanalysisof pages 1-2): Steven K Hanks. Genomic analysis of the eukaryotic protein kinase superfamily: a perspective. Genome Biology, 4:111-111, Apr 2003. URL: https://doi.org/10.1186/gb-2003-4-5-111, doi:10.1186/gb-2003-4-5-111. This article has 426 citations and is from a highest quality peer-reviewed journal.
+
+11. (johnson2023anatlasof pages 12-18): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 444 citations and is from a highest quality peer-reviewed journal.
+
+12. (johnson2023anatlasof pages 21-23): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 444 citations and is from a highest quality peer-reviewed journal.
+
+13. (johnson2023anatlasof pages 4-4): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 444 citations and is from a highest quality peer-reviewed journal.
+
+14. (manning2002theproteinkinase pages 2-3): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10732 citations and is from a highest quality peer-reviewed journal.

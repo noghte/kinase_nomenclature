@@ -1,0 +1,81 @@
+## Phylogeny  
+Orthologous kinases are documented in Schizosaccharomyces pombe (Prp4p) (gross1997functionalanalysisof pages 1-2), Fusarium graminearum (FgPrp4) (gao2016fgprp4kinaseis pages 1-2), Drosophila melanogaster and Caenorhabditis elegans (gao2013evaluationofcancer pages 1-2).  
+Human PRPF4B belongs to the CMGC kinase group and clusters within the DYRK/CLK branch; the catalytic domain shares closest structural similarity to CLK2 and DYRK2 (gao2013evaluationofcancer pages 9-11).  
+A conserved insertion encompassing residues 925–971 is present in PRP4-lineage members and absent from other CMGC relatives, delineating a distinct PRP4 sub-clade (gao2013evaluationofcancer pages 11-12).  
+
+## Reaction Catalyzed  
+ATP + protein L-serine/threonine ⇄ ADP + protein O-phospho-L-serine/threonine (gao2013evaluationofcancer pages 7-8, gross1997functionalanalysisof pages 1-2).  
+
+## Cofactor Requirements  
+Catalytic activity is Mg²⁺-dependent in biochemical assays with recombinant human PRPF4B (gao2013evaluationofcancer pages 1-2).  
+
+## Substrate Specificity  
+Phosphoproteomic analysis after inducible knock-down highlighted over-represented motifs XXS*PXX and XXS*XXE*XX, indicating preference for serine followed by proline or acidic residues (gao2013evaluationofcancer pages 8-9).  
+Validated substrates include the RS domain of SRSF1/ASF/SF2 (gross1997functionalanalysisof pages 1-2), U4/U6-U5 tri-snRNP components PRPF6 and PRPF31 (schneider2010humanprp4kinase pages 1-2), Ser104 of PAK4 (gao2013evaluationofcancer pages 7-8), and multiple threonines in the N-terminus of Prp1 (PRPF6 ortholog) (lutzelberger2010thenterminusof pages 8-9).  
+
+## Structure  
+Full-length PRPF4B (1–1007 aa) comprises an N-terminal RS-rich segment (~1–300), a Lys-rich linker (~301–649), and a C-terminal bilobal kinase domain (~650–1007) (gross1997functionalanalysisof pages 1-2).  
+Crystal structures of the catalytic domain are available in apo, ADP-, AMPPNP-, and inhibitor-bound states at 2.00–2.44 Å resolution (PDB 4IAN, 4IFC, 4IIR, 4IJP) (gao2013evaluationofcancer pages 11-12).  
+Key catalytic elements are Lys717–Glu734, the Asp832-Phe834 DFG motif, and an activation loop containing phospho-Tyr849 (gao2013evaluationofcancer pages 9-11).  
+Unique structural features include Pro769 in the hinge and Cys833 immediately N-terminal to the DFG motif; together they create a hydrophobic pocket not conserved in related kinases (gao2013evaluationofcancer pages 12-13).  
+Residues 925–971 form a PRP4-specific insert that generates an auxiliary surface groove proposed to contribute to substrate recognition (gao2013evaluationofcancer pages 12-13).  
+The glycine-rich loop around Thr693 adopts ligand-dependent open and closed conformations (gao2013evaluationofcancer pages 9-11).  
+The AlphaFold model (AF-Q13523-F1) recapitulates the bilobal fold and positions the flexible RS domain peripheral to the kinase core (gao2013evaluationofcancer pages 1-2).  
+
+## Regulation  
+PRPF4B undergoes autophosphorylation (schneider2010humanprp4kinase pages 1-2).  
+Phosphorylation of Ser289 in the N-terminal SR-rich region is essential for activity of the FgPrp4 ortholog, suggesting functional conservation (gao2016fgprp4kinaseis pages 2-4).  
+The activation loop is observed phosphorylated on Tyr849 in crystal structures, consistent with an active conformation (gao2013evaluationofcancer pages 9-11).  
+Physical interaction with CLK1 indicates potential cross-regulatory phosphorylation among spliceosomal kinases (eckert2016prp4kinasegrants pages 19-20).  
+HER2 signaling up-regulates PRPF4B transcription, modulating taxane sensitivity in breast and ovarian cancer cells (corkery2015prp4kisa pages 139-144).  
+ATP-competitive inhibitor Compound A stabilizes the active conformation of the kinase domain (gao2013evaluationofcancer pages 11-12).  
+
+## Function  
+PRPF4B phosphorylates PRPF6 and PRPF31 during their incorporation into the U4/U6-U5 tri-snRNP, facilitating spliceosome B-complex formation (schneider2010humanprp4kinase pages 1-2).  
+Deletion of FgPrp4 reduces splicing efficiency for over 60 % of genes and causes severe growth defects in F. graminearum (gao2016fgprp4kinaseis pages 1-2).  
+Inducible knock-down in PANC-1 cells decreases phosphorylation of mRNA-processing factors and spindle-checkpoint proteins, leading to loss of MAD1 at kinetochores and mitotic defects (gao2013evaluationofcancer pages 6-7).  
+Genome-wide RNAi/shRNA screens identify PRPF4B as essential for survival of multiple cancer cell lines (gao2013evaluationofcancer pages 1-2).  
+Over-expression in HCT116 colon cancer cells inhibits RhoA, dephosphorylates cofilin, reorganizes actin stress fibers, and induces epithelial-mesenchymal transition (islam2018prp4kinaseinduces pages 24-30).  
+PRPF4B is broadly expressed in cancer cell lines and is up-regulated by HER2 signaling (gao2013evaluationofcancer pages 1-2, corkery2015prp4kisa pages 139-144).  
+
+## Inhibitors  
+Compound A: biochemical IC₅₀ = 0.016 µM; co-crystal structure 4IJP reveals hydrogen bonds with hinge residues and hydrophobic interactions surrounding Cys833 (gao2013evaluationofcancer pages 11-12).  
+The presence of Cys833 adjacent to the DFG motif provides a tractable site for designing irreversible covalent inhibitors (gao2013evaluationofcancer pages 12-13).  
+
+## Other Comments  
+shRNA depletion or pharmacological inhibition of PRPF4B resensitizes chemoresistant ovarian and breast cancer cells to paclitaxel (gao2013evaluationofcancer pages 1-2).  
+In retinitis pigmentosa patient lymphoblasts, PRPF4 shows reduced incorporation into tri-snRNPs, implicating spliceosome defects in retinal degeneration (tanackovic2011prpfmutationsare pages 3-4).
+
+References
+
+1. (eckert2016prp4kinasegrants pages 19-20): Daniela Eckert, Nicole Andrée, Aleh Razanau, Susanne Zock-Emmenthal, Martin Lützelberger, Susann Plath, Henning Schmidt, Angel Guerra-Moreno, Luca Cozzuto, José Ayté, and Norbert F. Käufer. Prp4 kinase grants the license to splice: control of weak splice sites during spliceosome activation. PLOS Genetics, 12:e1005768, Jan 2016. URL: https://doi.org/10.1371/journal.pgen.1005768, doi:10.1371/journal.pgen.1005768. This article has 37 citations and is from a domain leading peer-reviewed journal.
+
+2. (gao2013evaluationofcancer pages 1-2): Q. Gao, I. Mechin, N. Kothari, Zhuyan Guo, G. Deng, K. Haas, Jessica Mcmanus, Dietmar Hoffmann, Anlai Wang, D. Wiederschain, J. Rocnik, Werngard Czechtizky, Xin Chen, L. McLean, H. Arlt, David P. Harper, Feng Liu, T. Majid, Vinod F. Patel, C. Lengauer, C. García-echeverría, Bailin Zhang, Hong Cheng, M. Dorsch, and Shih-Min A. Huang. Evaluation of cancer dependence and druggability of prp4 kinase using cellular, biochemical, and structural approaches. The Journal of Biological Chemistry, 288:30125-30138, Sep 2013. URL: https://doi.org/10.1074/jbc.m113.473348, doi:10.1074/jbc.m113.473348. This article has 35 citations.
+
+3. (gao2013evaluationofcancer pages 11-12): Q. Gao, I. Mechin, N. Kothari, Zhuyan Guo, G. Deng, K. Haas, Jessica Mcmanus, Dietmar Hoffmann, Anlai Wang, D. Wiederschain, J. Rocnik, Werngard Czechtizky, Xin Chen, L. McLean, H. Arlt, David P. Harper, Feng Liu, T. Majid, Vinod F. Patel, C. Lengauer, C. García-echeverría, Bailin Zhang, Hong Cheng, M. Dorsch, and Shih-Min A. Huang. Evaluation of cancer dependence and druggability of prp4 kinase using cellular, biochemical, and structural approaches. The Journal of Biological Chemistry, 288:30125-30138, Sep 2013. URL: https://doi.org/10.1074/jbc.m113.473348, doi:10.1074/jbc.m113.473348. This article has 35 citations.
+
+4. (gao2013evaluationofcancer pages 12-13): Q. Gao, I. Mechin, N. Kothari, Zhuyan Guo, G. Deng, K. Haas, Jessica Mcmanus, Dietmar Hoffmann, Anlai Wang, D. Wiederschain, J. Rocnik, Werngard Czechtizky, Xin Chen, L. McLean, H. Arlt, David P. Harper, Feng Liu, T. Majid, Vinod F. Patel, C. Lengauer, C. García-echeverría, Bailin Zhang, Hong Cheng, M. Dorsch, and Shih-Min A. Huang. Evaluation of cancer dependence and druggability of prp4 kinase using cellular, biochemical, and structural approaches. The Journal of Biological Chemistry, 288:30125-30138, Sep 2013. URL: https://doi.org/10.1074/jbc.m113.473348, doi:10.1074/jbc.m113.473348. This article has 35 citations.
+
+5. (gao2013evaluationofcancer pages 6-7): Q. Gao, I. Mechin, N. Kothari, Zhuyan Guo, G. Deng, K. Haas, Jessica Mcmanus, Dietmar Hoffmann, Anlai Wang, D. Wiederschain, J. Rocnik, Werngard Czechtizky, Xin Chen, L. McLean, H. Arlt, David P. Harper, Feng Liu, T. Majid, Vinod F. Patel, C. Lengauer, C. García-echeverría, Bailin Zhang, Hong Cheng, M. Dorsch, and Shih-Min A. Huang. Evaluation of cancer dependence and druggability of prp4 kinase using cellular, biochemical, and structural approaches. The Journal of Biological Chemistry, 288:30125-30138, Sep 2013. URL: https://doi.org/10.1074/jbc.m113.473348, doi:10.1074/jbc.m113.473348. This article has 35 citations.
+
+6. (gao2013evaluationofcancer pages 7-8): Q. Gao, I. Mechin, N. Kothari, Zhuyan Guo, G. Deng, K. Haas, Jessica Mcmanus, Dietmar Hoffmann, Anlai Wang, D. Wiederschain, J. Rocnik, Werngard Czechtizky, Xin Chen, L. McLean, H. Arlt, David P. Harper, Feng Liu, T. Majid, Vinod F. Patel, C. Lengauer, C. García-echeverría, Bailin Zhang, Hong Cheng, M. Dorsch, and Shih-Min A. Huang. Evaluation of cancer dependence and druggability of prp4 kinase using cellular, biochemical, and structural approaches. The Journal of Biological Chemistry, 288:30125-30138, Sep 2013. URL: https://doi.org/10.1074/jbc.m113.473348, doi:10.1074/jbc.m113.473348. This article has 35 citations.
+
+7. (gao2013evaluationofcancer pages 8-9): Q. Gao, I. Mechin, N. Kothari, Zhuyan Guo, G. Deng, K. Haas, Jessica Mcmanus, Dietmar Hoffmann, Anlai Wang, D. Wiederschain, J. Rocnik, Werngard Czechtizky, Xin Chen, L. McLean, H. Arlt, David P. Harper, Feng Liu, T. Majid, Vinod F. Patel, C. Lengauer, C. García-echeverría, Bailin Zhang, Hong Cheng, M. Dorsch, and Shih-Min A. Huang. Evaluation of cancer dependence and druggability of prp4 kinase using cellular, biochemical, and structural approaches. The Journal of Biological Chemistry, 288:30125-30138, Sep 2013. URL: https://doi.org/10.1074/jbc.m113.473348, doi:10.1074/jbc.m113.473348. This article has 35 citations.
+
+8. (gao2013evaluationofcancer pages 9-11): Q. Gao, I. Mechin, N. Kothari, Zhuyan Guo, G. Deng, K. Haas, Jessica Mcmanus, Dietmar Hoffmann, Anlai Wang, D. Wiederschain, J. Rocnik, Werngard Czechtizky, Xin Chen, L. McLean, H. Arlt, David P. Harper, Feng Liu, T. Majid, Vinod F. Patel, C. Lengauer, C. García-echeverría, Bailin Zhang, Hong Cheng, M. Dorsch, and Shih-Min A. Huang. Evaluation of cancer dependence and druggability of prp4 kinase using cellular, biochemical, and structural approaches. The Journal of Biological Chemistry, 288:30125-30138, Sep 2013. URL: https://doi.org/10.1074/jbc.m113.473348, doi:10.1074/jbc.m113.473348. This article has 35 citations.
+
+9. (gao2016fgprp4kinaseis pages 1-2): Xuli Gao, Qiaojun Jin, Cong Jiang, Yang Li, Chaohui Li, Huiquan Liu, Z. Kang, and Jin-Rong Xu. Fgprp4 kinase is important for spliceosome b-complex activation and splicing efficiency in fusarium graminearum. PLoS Genetics, Apr 2016. URL: https://doi.org/10.1371/journal.pgen.1005973, doi:10.1371/journal.pgen.1005973. This article has 36 citations and is from a domain leading peer-reviewed journal.
+
+10. (gao2016fgprp4kinaseis pages 2-4): Xuli Gao, Qiaojun Jin, Cong Jiang, Yang Li, Chaohui Li, Huiquan Liu, Z. Kang, and Jin-Rong Xu. Fgprp4 kinase is important for spliceosome b-complex activation and splicing efficiency in fusarium graminearum. PLoS Genetics, Apr 2016. URL: https://doi.org/10.1371/journal.pgen.1005973, doi:10.1371/journal.pgen.1005973. This article has 36 citations and is from a domain leading peer-reviewed journal.
+
+11. (gross1997functionalanalysisof pages 1-2): T. Gross, M. Lutzelberger, H. Wiegmann, A. Klingenhoff, S. Shenoy, and N. F. Kaufer. Functional analysis of the fission yeast prp4 protein kinase involved in pre-mrna splicing and isolation of a putative mammalian homologue. Nucleic Acids Research, 25:1028-1035, Mar 1997. URL: https://doi.org/10.1093/nar/25.5.1028, doi:10.1093/nar/25.5.1028. This article has 93 citations and is from a highest quality peer-reviewed journal.
+
+12. (schneider2010humanprp4kinase pages 1-2): Marc Schneider, He-Hsuan Hsiao, Cindy L Will, Régis Giet, Henning Urlaub, and Reinhard Lührmann. Human prp4 kinase is required for stable tri-snrnp association during spliceosomal b complex formation. Nature Structural &Molecular Biology, 17:216-221, Feb 2010. URL: https://doi.org/10.1038/nsmb.1718, doi:10.1038/nsmb.1718. This article has 113 citations.
+
+13. (tanackovic2011prpfmutationsare pages 3-4): G. Tanacković, A. Ransijn, P. Thibault, S. Abou Elela, R. Klinck, E. Berson, B. Chabot, and C. Rivolta. Prpf mutations are associated with generalized defects in spliceosome formation and pre-mrna splicing in patients with retinitis pigmentosa. Human molecular genetics, 20 11:2116-30, Jun 2011. URL: https://doi.org/10.1093/hmg/ddr094, doi:10.1093/hmg/ddr094. This article has 189 citations and is from a domain leading peer-reviewed journal.
+
+14. (islam2018prp4kinaseinduces pages 24-30): S. U. Islam, Muhammad Bilal Ahmed, Su Jin Lee, A. Shehzad, J. Sonn, O. Kwon, and Young Sup Lee. Prp4 kinase induces actin rearrangement and epithelial‐mesenchymal transition through modulation of the actin‐binding protein cofilin. Experimental Cell Research, 369:158–165, Aug 2018. URL: https://doi.org/10.1016/j.yexcr.2018.05.018, doi:10.1016/j.yexcr.2018.05.018. This article has 24 citations and is from a peer-reviewed journal.
+
+15. (corkery2015prp4kisa pages 139-144): Dale P. Corkery, C. Le Page, L. Meunier, D. Provencher, A. Mes-Masson, and G. Dellaire. Prp4k is a her2-regulated modifier of taxane sensitivity. Cell Cycle, 14:1059-1069, Jan 2015. URL: https://doi.org/10.1080/15384101.2015.1007775, doi:10.1080/15384101.2015.1007775. This article has 32 citations and is from a peer-reviewed journal.
+
+16. (lutzelberger2010thenterminusof pages 8-9): M. Lützelberger, C. Bottner, Wiebke Schwelnus, Susanne Zock-Emmenthal, Aleh Razanau, and N. Käufer. The n-terminus of prp1 (prp6/u5-102 k) is essential for spliceosome activation in vivo. Nucleic Acids Research, 38:1610-1622, Dec 2010. URL: https://doi.org/10.1093/nar/gkp1155, doi:10.1093/nar/gkp1155. This article has 17 citations and is from a highest quality peer-reviewed journal.

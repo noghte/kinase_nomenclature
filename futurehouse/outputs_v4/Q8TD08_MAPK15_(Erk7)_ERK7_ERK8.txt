@@ -1,0 +1,106 @@
+## Phylogeny  
+• Belongs to the CMGC kinase group and segregates with the atypical MAPK sub-family distinct from canonical ERK/JNK/p38 branches (lau2019regulationofhuman pages 4-7).  
+• Human MAPK15 (ERK8) and rat ERK7 share 69 % overall and 82 % kinase-domain sequence identity; both proteins are unified under the HGNC symbol MAPK15 (dahm2024atypicalmapksin pages 7-8).  
+• Additional orthologs are reported in mouse, Caenorhabditis elegans and Xenopus laevis, indicating conservation from nematodes to vertebrates (dahm2024atypicalmapksin pages 13-15, rossi2016mapk15upregulationpromotes pages 1-2).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (abe2002erk8anew pages 12-12).  
+
+## Cofactor Requirements  
+Catalytic activity requires Mg²⁺ (abe2002erk8anew pages 12-12).  
+
+## Substrate Specificity  
+• A global consensus phosphorylation motif for MAPK15 has not been established in the cited literature (abe2002erk8anew pages 12-12).  
+• Validated substrates and modification sites:  
+  – c-Jun, Ser63/Ser73 (dahm2024atypicalmapksin pages 13-15).  
+  – ULK1, activation-loop threonine residues that enhance AMPK-dependent Ser317 phosphorylation (colecchia2018mapk15ispart pages 2-3).  
+  – ATG13, Ser318 downstream of ULK1 activation (colecchia2018mapk15ispart pages 11-13).  
+  – MAP1LC3B, reduction of inhibitory phosphorylation to promote lipidation (colecchia2012mapk15erk8stimulatesautophagy pages 2-3).  
+  – IκBα, Ser32/Ser36 leading to NF-κB activation (lau2019regulationofhuman pages 11-12).  
+  – CapZIP within the MAPK15/Dishevelled axis that controls ciliogenesis (lau2019regulationofhuman pages 12-13).  
+
+## Structure  
+• N-terminal serine/threonine kinase domain (~aa 1–300) contains the canonical VAIK lysine (Lys42) and the TEY activation loop (Thr175/Tyr177); mutation of Lys42 or either TEY residue abrogates activity (dahm2024atypicalmapksin pages 7-8).  
+• C-terminal regulatory region harbours:  
+  – Two SH3-binding PXXXP motifs mediating c-Src interaction (abe2002erk8anew pages 1-1).  
+  – A PCNA-interacting PIP box (aa 297-308) and multiple additional PXXXP repeats that promote chromatin binding (dahm2024atypicalmapksin pages 1-3).  
+  – A conserved LC3-interacting region (aa 300-373) required for docking on autophagosomes (colecchia2012mapk15erk8stimulatesautophagy pages 8-10).  
+  – Two LXXLL motifs for nuclear receptor binding, a nuclear localisation sequence and a di-RG motif implicated in protein interactions (lau2019regulationofhuman pages 4-7).  
+• No experimental crystal structure for human MAPK15 is available; a computational model of the kinase domain has been generated for mechanistic studies (lau2019regulationofhuman pages 12-13).  
+
+## Regulation  
+• Autophosphorylation of Thr175 and Tyr177 within the TEY motif activates the kinase; either-site mutation eliminates activity (dahm2024atypicalmapksin pages 7-8).  
+• Additional phosphorylation sites mapped by mass spectrometry include Ser192, Ser331, Thr352, Ser362, Ser379, Thr381 and Ser415 (lau2019regulationofhuman pages 7-8).  
+• Arg449 methylation modulates SH3-mediated interactions (lau2019regulationofhuman pages 7-8).  
+• The N-terminal 20 residues confer ubiquitin-proteasome–dependent turnover; specific ubiquitin-ligating enzymes remain unidentified (dahm2024atypicalmapksin pages 7-8).  
+• Two C-terminal SH3 motifs recruit c-Src; Src kinase activity enhances MAPK15 activation (abe2002erk8anew pages 1-1).  
+• Kinase activity is further modulated by serum factors, endogenous phosphatases, nutrient starvation and oxidative stress (colecchia2012mapk15erk8stimulatesautophagy pages 6-8).  
+• Oncogenic BCR-ABL1 directly binds and activates MAPK15, augmenting autophagy and proliferation (colecchia2015mapk15mediatesbcrabl1induced pages 10-14).  
+
+## Function  
+• Highest basal expression detected in lung, kidney and testis; strong up-regulation in male germ-cell tumours (abe2002erk8anew pages 1-1, rossi2016mapk15upregulationpromotes pages 1-2).  
+• Autophagy: binds LC3B, GABARAP and GABARAPL1 via its LIR to drive basal and starvation-induced autophagosome formation and SQSTM1 degradation (colecchia2012mapk15erk8stimulatesautophagy pages 2-3).  
+• Early autophagy initiation: integrates into the ULK complex and promotes ULK1/ATG13 phosphorylation; catalytic inactivation or ULK1/2 knock-down blocks this step (colecchia2018mapk15ispart pages 4-5).  
+• Mitophagy: recruits damaged mitochondria to autophagosomes, limits mitochondrial ROS and prevents oxidative-stress-induced senescence (unknownauthors2022mapk15inducesmitophagy pages 1-6, franci2022mapk15protectsfrom pages 8-9).  
+• Genome integrity: binds PCNA through the PIP box, preventing PCNA degradation and limiting DNA damage (dahm2024atypicalmapksin pages 1-3).  
+• Ciliogenesis: phosphorylates CapZIP downstream of Dishevelled, regulating primary cilium assembly (lau2019regulationofhuman pages 12-13).  
+• Secretion control: under amino-acid starvation, shifts ULK1 activity toward SEC16A phosphorylation, inhibiting ER-to-Golgi trafficking (colecchia2018mapk15ispart pages 5-7).  
+• Signal transduction: phosphorylates IκBα to activate NF-κB (lau2019regulationofhuman pages 11-12) and c-Jun to enhance tumour cell migration and invasion (dahm2024atypicalmapksin pages 13-15).  
+• Oncogenesis: required for BCR-ABL1-driven autophagy, proliferation and tumour formation in CML models (colecchia2015mapk15mediatesbcrabl1induced pages 10-14) and supports growth of colon, gastric and germ-cell tumours (rossi2016mapk15upregulationpromotes pages 1-2, colecchia2018mapk15ispart pages 8-10).  
+
+## Inhibitors  
+• Ro-318220, a broad PKC inhibitor, suppresses MAPK15-dependent autophagy in cultured cells (colecchia2012mapk15erk8stimulatesautophagy pages 8-10, colecchia2015mapk15mediatesbcrabl1induced pages 10-14).  
+• SU6656 attenuates MAPK15-driven phosphorylation events within the ULK1 pathway (colecchia2018mapk15ispart pages 2-3).  
+• Several ATP-competitive CK2 inhibitors display off-target activity toward MAPK15 in biochemical assays; potency values are not reported in the cited literature (lau2019regulationofhuman pages 12-13).  
+• No highly selective small-molecule inhibitor has been described (colecchia2018mapk15ispart pages 5-7).  
+
+## Other Comments  
+• Copy-number gain and over-expression documented in gastric, colon and male germ-cell tumours (rossi2016mapk15upregulationpromotes pages 1-2, colecchia2018mapk15ispart pages 8-10).  
+• Implicated in chronic obstructive pulmonary disease and neuroprotection in Parkinson’s disease models through regulation of mitophagy (unknownauthors2022mapk15inducesmitophagy pages 24-28).  
+• Four nonsynonymous human variants—p.A54P, p.T221K, p.P358L and p.S505P—map to conserved regions and may influence kinase function (lau2019regulationofhuman pages 7-8).
+
+References
+
+1. (abe2002erk8anew pages 12-12): Mark K. Abe, Matthew P. Saelzler, Rafael Espinosa, Kristopher T. Kahle, Marc B. Hershenson, Michelle M. Le Beau, and Marsha Rich Rosner. Erk8, a new member of the mitogen-activated protein kinase family*. The Journal of Biological Chemistry, 277:16733-16743, May 2002. URL: https://doi.org/10.1074/jbc.m112483200, doi:10.1074/jbc.m112483200. This article has 130 citations.
+
+2. (colecchia2012mapk15erk8stimulatesautophagy pages 2-3): David Colecchia, Angela Strambi, Sveva Sanzone, Carlo Iavarone, Matteo Rossi, Claudia Dall’Armi, Federica Piccioni, Arturo Verrotti di Pianella, and Mario Chiariello. Mapk15/erk8 stimulates autophagy by interacting with lc3 and gabarap proteins. Autophagy, 8:1724-1740, Dec 2012. URL: https://doi.org/10.4161/auto.21857, doi:10.4161/auto.21857. This article has 127 citations and is from a domain leading peer-reviewed journal.
+
+3. (colecchia2012mapk15erk8stimulatesautophagy pages 8-10): David Colecchia, Angela Strambi, Sveva Sanzone, Carlo Iavarone, Matteo Rossi, Claudia Dall’Armi, Federica Piccioni, Arturo Verrotti di Pianella, and Mario Chiariello. Mapk15/erk8 stimulates autophagy by interacting with lc3 and gabarap proteins. Autophagy, 8:1724-1740, Dec 2012. URL: https://doi.org/10.4161/auto.21857, doi:10.4161/auto.21857. This article has 127 citations and is from a domain leading peer-reviewed journal.
+
+4. (colecchia2015mapk15mediatesbcrabl1induced pages 10-14): David Colecchia, Matteo Rossi, Federica Sasdelli, Sveva Sanzone, Angela Strambi, and Mario Chiariello. Mapk15 mediates bcr-abl1-induced autophagy and regulates oncogene-dependent cell proliferation and tumor formation. Autophagy, 11:1790-1802, Oct 2015. URL: https://doi.org/10.1080/15548627.2015.1084454, doi:10.1080/15548627.2015.1084454. This article has 55 citations and is from a domain leading peer-reviewed journal.
+
+5. (colecchia2018mapk15ispart pages 2-3): David Colecchia, Francesca Dapporto, Serena Tronnolone, Laura Salvini, and Mario Chiariello. Mapk15 is part of the ulk complex and controls its activity to regulate early phases of the autophagic process. Journal of Biological Chemistry, 293:15962-15976, Oct 2018. URL: https://doi.org/10.1074/jbc.ra118.002527, doi:10.1074/jbc.ra118.002527. This article has 25 citations and is from a domain leading peer-reviewed journal.
+
+6. (colecchia2018mapk15ispart pages 5-7): David Colecchia, Francesca Dapporto, Serena Tronnolone, Laura Salvini, and Mario Chiariello. Mapk15 is part of the ulk complex and controls its activity to regulate early phases of the autophagic process. Journal of Biological Chemistry, 293:15962-15976, Oct 2018. URL: https://doi.org/10.1074/jbc.ra118.002527, doi:10.1074/jbc.ra118.002527. This article has 25 citations and is from a domain leading peer-reviewed journal.
+
+7. (dahm2024atypicalmapksin pages 1-3): Katrin Dahm, Parthiban Vijayarangakannan, Hans‐Peter Wollscheid, Hansjörg Schild, and Krishnaraj Rajalingam. Atypical <scp>mapk</scp>s in cancer. The FEBS Journal, 292:2173-2188, Sep 2024. URL: https://doi.org/10.1111/febs.17283, doi:10.1111/febs.17283. This article has 1 citations.
+
+8. (dahm2024atypicalmapksin pages 13-15): Katrin Dahm, Parthiban Vijayarangakannan, Hans‐Peter Wollscheid, Hansjörg Schild, and Krishnaraj Rajalingam. Atypical <scp>mapk</scp>s in cancer. The FEBS Journal, 292:2173-2188, Sep 2024. URL: https://doi.org/10.1111/febs.17283, doi:10.1111/febs.17283. This article has 1 citations.
+
+9. (dahm2024atypicalmapksin pages 7-8): Katrin Dahm, Parthiban Vijayarangakannan, Hans‐Peter Wollscheid, Hansjörg Schild, and Krishnaraj Rajalingam. Atypical <scp>mapk</scp>s in cancer. The FEBS Journal, 292:2173-2188, Sep 2024. URL: https://doi.org/10.1111/febs.17283, doi:10.1111/febs.17283. This article has 1 citations.
+
+10. (lau2019regulationofhuman pages 12-13): Andy T. Y. Lau and Yan-Ming Xu. <b>regulation of human mitogen‐activated protein kinase 15 (extracellular signal‐regulated kinase 7/8) and its functions: a recent update</b>. Journal of Cellular Physiology, 234:75-88, Aug 2018. URL: https://doi.org/10.1002/jcp.27053, doi:10.1002/jcp.27053. This article has 35 citations and is from a peer-reviewed journal.
+
+11. (lau2019regulationofhuman pages 4-7): Andy T. Y. Lau and Yan-Ming Xu. <b>regulation of human mitogen‐activated protein kinase 15 (extracellular signal‐regulated kinase 7/8) and its functions: a recent update</b>. Journal of Cellular Physiology, 234:75-88, Aug 2018. URL: https://doi.org/10.1002/jcp.27053, doi:10.1002/jcp.27053. This article has 35 citations and is from a peer-reviewed journal.
+
+12. (lau2019regulationofhuman pages 7-8): Andy T. Y. Lau and Yan-Ming Xu. <b>regulation of human mitogen‐activated protein kinase 15 (extracellular signal‐regulated kinase 7/8) and its functions: a recent update</b>. Journal of Cellular Physiology, 234:75-88, Aug 2018. URL: https://doi.org/10.1002/jcp.27053, doi:10.1002/jcp.27053. This article has 35 citations and is from a peer-reviewed journal.
+
+13. (rossi2016mapk15upregulationpromotes pages 1-2): Matteo Rossi, David Colecchia, Gennaro Ilardi, Mario Acunzo, Giovanni Nigita, Federica Sasdelli, Angela Celetti, Angela Strambi, Stefania Staibano, Carlo Maria Croce, and Mario Chiariello. Mapk15 upregulation promotes cell proliferation and prevents dna damage in male germ cell tumors. Oncotarget, 7:20981-20998, Mar 2016. URL: https://doi.org/10.18632/oncotarget.8044, doi:10.18632/oncotarget.8044. This article has 46 citations and is from a poor quality or predatory journal.
+
+14. (unknownauthors2022mapk15inducesmitophagy pages 1-6): MAPK15 Induces Mitophagy and Protects from Oxidative Stress-Dependent Cellular Senescence
+
+15. (abe2002erk8anew pages 1-1): Mark K. Abe, Matthew P. Saelzler, Rafael Espinosa, Kristopher T. Kahle, Marc B. Hershenson, Michelle M. Le Beau, and Marsha Rich Rosner. Erk8, a new member of the mitogen-activated protein kinase family*. The Journal of Biological Chemistry, 277:16733-16743, May 2002. URL: https://doi.org/10.1074/jbc.m112483200, doi:10.1074/jbc.m112483200. This article has 130 citations.
+
+16. (colecchia2012mapk15erk8stimulatesautophagy pages 6-8): David Colecchia, Angela Strambi, Sveva Sanzone, Carlo Iavarone, Matteo Rossi, Claudia Dall’Armi, Federica Piccioni, Arturo Verrotti di Pianella, and Mario Chiariello. Mapk15/erk8 stimulates autophagy by interacting with lc3 and gabarap proteins. Autophagy, 8:1724-1740, Dec 2012. URL: https://doi.org/10.4161/auto.21857, doi:10.4161/auto.21857. This article has 127 citations and is from a domain leading peer-reviewed journal.
+
+17. (colecchia2018mapk15ispart pages 11-13): David Colecchia, Francesca Dapporto, Serena Tronnolone, Laura Salvini, and Mario Chiariello. Mapk15 is part of the ulk complex and controls its activity to regulate early phases of the autophagic process. Journal of Biological Chemistry, 293:15962-15976, Oct 2018. URL: https://doi.org/10.1074/jbc.ra118.002527, doi:10.1074/jbc.ra118.002527. This article has 25 citations and is from a domain leading peer-reviewed journal.
+
+18. (colecchia2018mapk15ispart pages 4-5): David Colecchia, Francesca Dapporto, Serena Tronnolone, Laura Salvini, and Mario Chiariello. Mapk15 is part of the ulk complex and controls its activity to regulate early phases of the autophagic process. Journal of Biological Chemistry, 293:15962-15976, Oct 2018. URL: https://doi.org/10.1074/jbc.ra118.002527, doi:10.1074/jbc.ra118.002527. This article has 25 citations and is from a domain leading peer-reviewed journal.
+
+19. (colecchia2018mapk15ispart pages 8-10): David Colecchia, Francesca Dapporto, Serena Tronnolone, Laura Salvini, and Mario Chiariello. Mapk15 is part of the ulk complex and controls its activity to regulate early phases of the autophagic process. Journal of Biological Chemistry, 293:15962-15976, Oct 2018. URL: https://doi.org/10.1074/jbc.ra118.002527, doi:10.1074/jbc.ra118.002527. This article has 25 citations and is from a domain leading peer-reviewed journal.
+
+20. (franci2022mapk15protectsfrom pages 8-9): Lorenzo Franci, Alessandro Tubita, Franca Maria Bertolino, Alessandro Palma, Giuseppe Cannino, Carmine Settembre, Andrea Rasola, Elisabetta Rovida, and Mario Chiariello. Mapk15 protects from oxidative stress‐dependent cellular senescence by inducing the mitophagic process. Aging Cell, Jun 2022. URL: https://doi.org/10.1111/acel.13620, doi:10.1111/acel.13620. This article has 30 citations and is from a domain leading peer-reviewed journal.
+
+21. (lau2019regulationofhuman pages 11-12): Andy T. Y. Lau and Yan-Ming Xu. <b>regulation of human mitogen‐activated protein kinase 15 (extracellular signal‐regulated kinase 7/8) and its functions: a recent update</b>. Journal of Cellular Physiology, 234:75-88, Aug 2018. URL: https://doi.org/10.1002/jcp.27053, doi:10.1002/jcp.27053. This article has 35 citations and is from a peer-reviewed journal.
+
+22. (unknownauthors2022mapk15inducesmitophagy pages 24-28): MAPK15 Induces Mitophagy and Protects from Oxidative Stress-Dependent Cellular Senescence

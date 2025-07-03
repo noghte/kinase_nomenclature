@@ -1,0 +1,103 @@
+## Phylogeny  
+• Orthologs: Saccharomyces cerevisiae Arg82/Ipk2, Dictyostelium discoideum IpkA/B, Drosophila melanogaster IPMK, Arabidopsis thaliana AtIPMK, Mus musculus Ipmk, Homo sapiens IPMK (shears2019inositolphosphatekinases pages 1-3, saiardi2018microbialinositolpolyphosphate pages 16-21, unknownauthors2009structuralstudiesof pages 18-24).  
+• Kinome placement: Atypical protein kinase class, PDKG-InsPK subfamily within the inositol-phosphate-kinase clade (shears2019inositolphosphatekinases pages 3-4).  
+• Evolutionary relationship: Yeast, plant and human IPMK catalytic cores superimpose with RMSD ≈1 Å and share the two-lobe protein-kinase fold common to IP3K and IP6K families (unknownauthors2009structuralstudiesof pages 63-69, shears2019inositolphosphatekinases pages 12-17).  
+
+## Reaction Catalyzed  
+Ins(1,4,5)P₃ + ATP → ADP + Ins(1,3,4,5)P₄ (sowd2024ipmkregulateshdac3 pages 1-4)  
+Ins(1,3,4,5)P₄ + ATP → ADP + Ins(1,3,4,5,6)P₅ (sowd2024ipmkregulateshdac3 pages 1-4)  
+Ins(1,3,4,6)P₄ + ATP → ADP + Ins(1,3,4,5,6)P₅ (unknownauthors2003functionalstudiesof pages 14-18)  
+PtdIns(4,5)P₂ + ATP → ADP + PtdIns(3,4,5)P₃ (malabanan2016inositolpolyphosphatemultikinase pages 3-4)  
+
+## Cofactor Requirements  
+Catalysis requires two Mg²⁺ ions that coordinate the nucleotide α-phosphate within the catalytic cleft (wang2017structuralfeaturesof pages 3-5, shears2019inositolphosphatekinases pages 12-17).  
+
+## Substrate Specificity  
+• Broad specificity toward soluble inositol phosphates; highest activity for Ins(1,4,5)P₃ and Ins(1,3,4,5)P₄, with additional turnover of Ins(1,3,4,6)P₄ and Ins(1,4,5,6)P₄ (sowd2024ipmkregulateshdac3 pages 1-4, unknownauthors2003functionalstudiesof pages 14-18).  
+• Exhibits lipid 3-kinase activity toward nuclear PtdIns(4,5)P₂ (malabanan2016inositolpolyphosphatemultikinase pages 3-4).  
+• Substrate discrimination is conferred by an electropositive pocket in the divergent C-lobe; no peptide consensus motif has been identified, reflecting preference for small inositol substrates (shears2019inositolphosphatekinases pages 1-3, malabanan2016inositolpolyphosphatemultikinase pages 3-4).  
+
+## Structure  
+• Domain organisation: Single kinase domain (residues 50-416) composed of an N-lobe β-sheet with αC-helix and a predominantly α-helical C-lobe connected by a short hinge (wang2017structuralfeaturesof pages 1-2).  
+• 3D structures: Human IPMK catalytic core with flavonoid inhibitor (PDB 4O4E, 2.4 Å); yeast IPMK (PDB 2IF8, 2.0 Å); Arabidopsis IPMK (PDB 4FRF) (gu2019inhibitionofinositol pages 6-8, malabanan2016inositolpolyphosphatemultikinase pages 9-13).  
+• Catalytic motifs: VAIK Lys75 anchors ATP; HRD Asp144 acts as catalytic base; DFG-like Asp385 chelates Mg²⁺, forming part of the regulatory spine with αC-helix Glu131 (wang2017structuralfeaturesof pages 3-5).  
+• Activation segment: Residues 161-190 contain Tyr191, the glucose-regulated phosphorylation site (malabanan2016inositolpolyphosphatemultikinase pages 9-13).  
+• Unique elements: “IP loop” and a proline-rich loop reposition Arg82/Gln78 for substrate contact; these inserts are absent from canonical protein kinases (shears2019inositolphosphatekinases pages 3-4, wang2017structuralfeaturesof pages 3-5).  
+• AlphaFold model AF-Q8NFU5-F1 reproduces the two-lobe architecture and positions the IP loop consistent with crystal structures (shears2019inositolphosphatekinases pages 3-4).  
+
+## Regulation  
+Post-translational modifications  
+• Tyr191 phosphorylation increases after glucose stimulation; Y191F prevents this modification without affecting catalytic turnover (bang2012ampactivatedproteinkinase pages 3-4).  
+• Ser/Thr phosphorylation is detected but unchanged by glucose (bang2012ampactivatedproteinkinase pages 2-3).  
+• Upstream tyrosine kinase remains unidentified (bang2012ampactivatedproteinkinase pages 3-4).  
+
+Allosteric and protein-protein regulation  
+• Binding to nuclear receptor SF-1 lowers k_cat but improves K_M for PtdIns(4,5)P₂ phosphorylation (malabanan2016inositolpolyphosphatemultikinase pages 9-13).  
+• N-terminal residues 1-60 bind mTORC1, stabilising the complex independently of kinase activity (malabanan2016inositolpolyphosphatemultikinase pages 3-4).  
+• Phospho-Tyr191 enhances binding to AMPKα2 via regions encoded by exon 4 and exon 6 (bang2012ampactivatedproteinkinase pages 2-3).  
+
+## Function  
+Expression  
+• High expression in intestinal ileum and notable levels in spleen and skeletal muscle; localisation in both nucleus and cytoplasm (guha2020lossofpi3kinase pages 6-9).  
+• Predominantly nuclear localisation in diverse cell types (unknownauthors2012investigationsofinositol pages 14-20).  
+
+Biological roles and interacting partners  
+• Epigenetic control: IPMK-derived Ins(1,4,5,6)P₄, InsP₅ and InsP₆ are obligatory cofactors for HDAC3; IPMK knockout elevates histone H4 acetylation (sowd2024ipmkregulateshdac3 pages 4-10).  
+• Energy sensing: Phospho-Tyr191 IPMK binds AMPKα2, modulating Thr172 phosphorylation in a glucose-dependent manner (bang2012ampactivatedproteinkinase pages 2-3).  
+• Nutrient signalling: N-terminal interaction stabilises mTORC1, coupling amino-acid availability to TOR signalling (malabanan2016inositolpolyphosphatemultikinase pages 3-4).  
+• Autophagy initiation: Required for AMPK-dependent ULK1 activation and transcription of autophagy genes during liver regeneration (guha2019ipmkmediatesactivation pages 18-20).  
+• Programmed necrosis: InsP₅/InsP₆ produced by IPMK bind MLKL, releasing the N-terminal auto-inhibitory segment (malabanan2016inositolpolyphosphatemultikinase pages 9-13).  
+• Transcriptional scaffolding: Yeast Arg82/Ipk2 integrates into the ArgR-Mcm1 complex independent of kinase activity to regulate arginine-responsive genes (unknownauthors2003functionalstudiesof pages 14-18).  
+
+## Inhibitors  
+• Flavonoid derivative “compound 1” (UNC7437): IC₅₀ = 26 ± 1.2 nM against human IPMK; binding mode resolved in PDB 4O4E (gu2019inhibitionofinositol pages 6-8).  
+• Second-generation inhibitor UNC9750 (“compound 15”): improved mouse pharmacokinetics and selectively lowers cellular InsP₅ at sub-µM concentrations (zhou2024designsynthesisand pages 3-7).  
+
+## Other Comments  
+• Global Ipmk knockout in mice is embryonic-lethal with neural-tube defects (unknownauthors2009structuralstudiesof pages 18-24).  
+• Loss of kinase activity reduces proliferation of PTEN-deficient U251-MG glioblastoma cells (sowd2024ipmkregulateshdac3 pages 1-4).  
+• Germline IPMK mutations are associated with small intestinal carcinoid tumours (zhou2024designsynthesisand pages 27-28).
+
+References
+
+1. (bang2012ampactivatedproteinkinase pages 3-4): S. Bang, Seyun Kim, M. Dailey, Yong Chen, T. Moran, S. Snyder, and Sangwon F. Kim. Amp-activated protein kinase is physiologically regulated by inositol polyphosphate multikinase. Proceedings of the National Academy of Sciences, 109:616-620, Dec 2012. URL: https://doi.org/10.1073/pnas.1119751109, doi:10.1073/pnas.1119751109. This article has 72 citations.
+
+2. (shears2019inositolphosphatekinases pages 3-4): Stephen B. Shears and Huanchen Wang. Inositol phosphate kinases: expanding the biological significance of the universal core of the protein kinase fold. Advances in Biological Regulation, 71:118-127, Jan 2019. URL: https://doi.org/10.1016/j.jbior.2018.10.006, doi:10.1016/j.jbior.2018.10.006. This article has 42 citations and is from a peer-reviewed journal.
+
+3. (sowd2024ipmkregulateshdac3 pages 1-4): Gregory A. Sowd, Elizabeth A. Stivison, Pratima Chapagain, Andrew T. Hale, James C. Poland, Lucia E. Rameh, and Raymond D. Blind. Ipmk regulates hdac3 activity and histone h4 acetylation in human cells. BioRxiv, Apr 2024. URL: https://doi.org/10.1101/2024.04.29.591660, doi:10.1101/2024.04.29.591660. This article has 1 citations.
+
+4. (sowd2024ipmkregulateshdac3 pages 4-10): Gregory A. Sowd, Elizabeth A. Stivison, Pratima Chapagain, Andrew T. Hale, James C. Poland, Lucia E. Rameh, and Raymond D. Blind. Ipmk regulates hdac3 activity and histone h4 acetylation in human cells. BioRxiv, Apr 2024. URL: https://doi.org/10.1101/2024.04.29.591660, doi:10.1101/2024.04.29.591660. This article has 1 citations.
+
+5. (bang2012ampactivatedproteinkinase pages 2-3): S. Bang, Seyun Kim, M. Dailey, Yong Chen, T. Moran, S. Snyder, and Sangwon F. Kim. Amp-activated protein kinase is physiologically regulated by inositol polyphosphate multikinase. Proceedings of the National Academy of Sciences, 109:616-620, Dec 2012. URL: https://doi.org/10.1073/pnas.1119751109, doi:10.1073/pnas.1119751109. This article has 72 citations.
+
+6. (guha2019ipmkmediatesactivation pages 18-20): Prasun Guha, Richa Tyagi, Sayan Chowdhury, Luke Reilly, Chenglai Fu, Risheng Xu, Adam C. Resnick, and Solomon H. Snyder. Ipmk mediates activation of ulk signaling and transcriptional regulation of autophagy linked to liver inflammation and regeneration. Cell reports, 26:2692-2703.e7, Mar 2019. URL: https://doi.org/10.1016/j.celrep.2019.02.013, doi:10.1016/j.celrep.2019.02.013. This article has 49 citations and is from a highest quality peer-reviewed journal.
+
+7. (guha2020lossofpi3kinase pages 6-9): Prasun Guha, Luke Reilly, Evan R. Semenza, Efrat Abramson, Subrata Mishra, Yoshitasu Sei, Stephen A. Wank, Mark Donowitz, and Solomon H. Snyder. Loss of pi3-kinase activity of inositol polyphosphate multikinase impairs pdk1-mediated akt activation, cell migration and intestinal homeostasis. BioRxiv, Dec 2020. URL: https://doi.org/10.1101/2020.12.18.423145, doi:10.1101/2020.12.18.423145. This article has 5 citations.
+
+8. (malabanan2016inositolpolyphosphatemultikinase pages 3-4): M. Merced Malabanan and Raymond D. Blind. Inositol polyphosphate multikinase (ipmk) in transcriptional regulation and nuclear inositide metabolism. Biochemical Society transactions, 44 1:279-85, Feb 2016. URL: https://doi.org/10.1042/bst20150225, doi:10.1042/bst20150225. This article has 34 citations and is from a peer-reviewed journal.
+
+9. (malabanan2016inositolpolyphosphatemultikinase pages 9-13): M. Merced Malabanan and Raymond D. Blind. Inositol polyphosphate multikinase (ipmk) in transcriptional regulation and nuclear inositide metabolism. Biochemical Society transactions, 44 1:279-85, Feb 2016. URL: https://doi.org/10.1042/bst20150225, doi:10.1042/bst20150225. This article has 34 citations and is from a peer-reviewed journal.
+
+10. (saiardi2018microbialinositolpolyphosphate pages 16-21): Adolfo Saiardi, Cristina Azevedo, Yann Desfougères, Paloma Portela-Torres, and Miranda S.C. Wilson. Microbial inositol polyphosphate metabolic pathway as drug development target. Advances in Biological Regulation, 67:74-83, Jan 2018. URL: https://doi.org/10.1016/j.jbior.2017.09.007, doi:10.1016/j.jbior.2017.09.007. This article has 34 citations and is from a peer-reviewed journal.
+
+11. (shears2019inositolphosphatekinases pages 1-3): Stephen B. Shears and Huanchen Wang. Inositol phosphate kinases: expanding the biological significance of the universal core of the protein kinase fold. Advances in Biological Regulation, 71:118-127, Jan 2019. URL: https://doi.org/10.1016/j.jbior.2018.10.006, doi:10.1016/j.jbior.2018.10.006. This article has 42 citations and is from a peer-reviewed journal.
+
+12. (shears2019inositolphosphatekinases pages 12-17): Stephen B. Shears and Huanchen Wang. Inositol phosphate kinases: expanding the biological significance of the universal core of the protein kinase fold. Advances in Biological Regulation, 71:118-127, Jan 2019. URL: https://doi.org/10.1016/j.jbior.2018.10.006, doi:10.1016/j.jbior.2018.10.006. This article has 42 citations and is from a peer-reviewed journal.
+
+13. (unknownauthors2003functionalstudiesof pages 14-18): Functional studies of type I inositol hexakisphosphate kinase and its role in cell signaling
+
+14. (unknownauthors2009structuralstudiesof pages 18-24): Structural Studies of Arabidopsis thaliana Inositol Polyphosphate Multi-Kinase
+
+15. (unknownauthors2009structuralstudiesof pages 63-69): Structural Studies of Arabidopsis thaliana Inositol Polyphosphate Multi-Kinase
+
+16. (unknownauthors2012investigationsofinositol pages 14-20): Investigations of Inositol Phosphate-Mediated Transcription
+
+17. (wang2017structuralfeaturesof pages 1-2): Huanchen Wang and Stephen B. Shears. Structural features of human inositol phosphate multikinase rationalize its inositol phosphate kinase and phosphoinositide 3-kinase activities. Journal of Biological Chemistry, 292:18192-18202, Nov 2017. URL: https://doi.org/10.1074/jbc.m117.801845, doi:10.1074/jbc.m117.801845. This article has 31 citations and is from a domain leading peer-reviewed journal.
+
+18. (zhou2024designsynthesisand pages 27-28): Yubai Zhou, Pratima Chapagain, Desmarini Desmarini, Dilipkumar Uredi, Lucia E. Rameh, Julianne T. Djordjevic, Raymond D. Blind, and Xiaodong Wang. Design, synthesis and cellular characterization of a new class of ipmk kinase inhibitors. BioRxiv, May 2024. URL: https://doi.org/10.1101/2024.05.09.593371, doi:10.1101/2024.05.09.593371. This article has 1 citations.
+
+19. (gu2019inhibitionofinositol pages 6-8): Chunfang Gu, Michael A. Stashko, Ana C. Puhl-Rubio, Molee Chakraborty, Anutosh Chakraborty, Stephen V. Frye, Kenneth H. Pearce, Xiaodong Wang, Stephen B. Shears, and Huanchen Wang. Inhibition of inositol polyphosphate kinases by quercetin and related flavonoids: a structure–activity analysis. Journal of Medicinal Chemistry, 62:1443-1454, Jan 2019. URL: https://doi.org/10.1021/acs.jmedchem.8b01593, doi:10.1021/acs.jmedchem.8b01593. This article has 48 citations and is from a highest quality peer-reviewed journal.
+
+20. (wang2017structuralfeaturesof pages 3-5): Huanchen Wang and Stephen B. Shears. Structural features of human inositol phosphate multikinase rationalize its inositol phosphate kinase and phosphoinositide 3-kinase activities. Journal of Biological Chemistry, 292:18192-18202, Nov 2017. URL: https://doi.org/10.1074/jbc.m117.801845, doi:10.1074/jbc.m117.801845. This article has 31 citations and is from a domain leading peer-reviewed journal.
+
+21. (zhou2024designsynthesisand pages 3-7): Yubai Zhou, Pratima Chapagain, Desmarini Desmarini, Dilipkumar Uredi, Lucia E. Rameh, Julianne T. Djordjevic, Raymond D. Blind, and Xiaodong Wang. Design, synthesis and cellular characterization of a new class of ipmk kinase inhibitors. BioRxiv, May 2024. URL: https://doi.org/10.1101/2024.05.09.593371, doi:10.1101/2024.05.09.593371. This article has 1 citations.

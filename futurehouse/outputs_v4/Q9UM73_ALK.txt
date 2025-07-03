@@ -1,0 +1,138 @@
+## Phylogeny
+Anaplastic Lymphoma Kinase (ALK) is a receptor tyrosine kinase (RTK) classified within the insulin receptor (IR) superfamily (li2008developmentofanaplastic pages 3-5, roskoski2013anaplasticlymphomakinase pages 1-2, webb2009anaplasticlymphomakinase pages 1-3). According to kinome classifications, ALK is placed within the RTK group (manning2002theproteinkinase pages 3-3, li2008developmentofanaplastic pages 16-19). ALK is most closely related to leukocyte tyrosine kinase (LTK), forming a distinct subgroup within the IR superfamily (palmer2009anaplasticlymphomakinase pages 1-2, roskoski2013anaplasticlymphomakinase pages 3-4, huang2018anaplasticlymphomakinase pages 1-5).
+
+Orthologs of ALK are conserved across species, underscoring its evolutionary importance in nervous system development (webb2009anaplasticlymphomakinase pages 3-4). Known orthologs include:
+- Murine ALK, which is located on chromosome 17, consists of 1,621 amino acids, and shares 87% sequence homology with human ALK (li2008developmentofanaplastic pages 3-5, palmer2009anaplasticlymphomakinase pages 2-3).
+- *Drosophila melanogaster* ALK (DAlk), which is involved in the development of gut musculature and neuronal circuits (li2008developmentofanaplastic pages 3-5, palmer2009anaplasticlymphomakinase pages 1-2).
+- *Caenorhabditis elegans* ortholog SCD-2, which participates in presynaptic neural differentiation and dauer formation signaling (li2008developmentofanaplastic pages 3-5, palmer2009anaplasticlymphomakinase pages 2-3).
+- Zebrafish possess two ALK family genes, ALK and LTK, which are involved in neural crest lineage development and pigmentation (palmer2009anaplasticlymphomakinase pages 2-3).
+
+
+## Reaction Catalyzed
+As a tyrosine kinase, ALK catalyzes the transfer of the γ-phosphate group from an ATP molecule to the hydroxyl group of tyrosine residues on protein substrates (huang2018anaplasticlymphomakinase pages 1-5, roskoski2017anaplasticlymphomakinase pages 11-16).
+ATP + a protein-L-tyrosine = ADP + a protein-L-tyrosine phosphate (lee2010crystalstructureof pages 1-2, roskoski2013anaplasticlymphomakinase pages 3-4).
+
+
+## Cofactor Requirements
+The catalytic activity of ALK requires Mg²⁺ ions as cofactors (roskoski2013anaplasticlymphomakinase pages 4-5). The enzyme utilizes two Mg²⁺ ions, which are coordinated by the DFG motif aspartate (D1270) and N1254, to properly position the phosphates of ATP for catalysis (roskoski2013anaplasticlymphomakinase pages 4-5, roskoski2017anaplasticlymphomakinase pages 16-20).
+
+
+## Substrate Specificity
+Analysis of ALK's intrinsic substrate specificity reveals position-specific amino acid preferences that govern substrate recognition, particularly at positions -1 to +3 relative to the phosphoacceptor tyrosine (yaronbarir2024theintrinsicsubstrate pages 3-3). There is a predominant selection for aliphatic hydrophobic residues, such as isoleucine, at the -1 and +3 positions (yaronbarir2024theintrinsicsubstrate pages 3-3). Conversely, ALK shows a general disfavoring of serine at the -1 position and glutamate at the +3 position (yaronbarir2024theintrinsicsubstrate pages 3-3).
+
+
+## Structure
+The full-length human ALK protein is a single-chain receptor of 1620 amino acids (corte2018roleandtargeting pages 1-3). Post-translational N-glycosylation results in a mature protein of ~200–220 kDa (li2008developmentofanaplastic pages 3-5, webb2009anaplasticlymphomakinase pages 1-3).
+
+**Domain Organization:**
+- **Extracellular Domain (ECD):** Comprises a signal peptide (1–18), two meprin/A5/PTPmu (MAM) domains (264–427 and 480–626), one low-density lipoprotein receptor class A (LDL-A) domain (453–471), and a glycine-rich region (816–940). The combination of two MAM domains and one LDL-A domain is a unique feature of ALK (huang2018anaplasticlymphomakinase pages 1-5, roskoski2013anaplasticlymphomakinase pages 3-4). The ECD contains binding sites for ligands midkine and pleiotrophin (li2008developmentofanaplastic pages 3-5).
+- **Transmembrane Domain (residues 1039–1059):** A single transmembrane helix that anchors ALK in the plasma membrane (roskoski2013anaplasticlymphomakinase pages 3-4).
+- **Intracellular Domain (ICD, residues 1060–1620):** Consists of a juxtamembrane region and the catalytic kinase domain (1116–1392) (roskoski2013anaplasticlymphomakinase pages 3-4, huang2018anaplasticlymphomakinase pages 1-5).
+
+**3D Structure:**
+The kinase domain has a canonical bi-lobal architecture, with a smaller N-terminal lobe and a larger C-terminal lobe (roskoski2017anaplasticlymphomakinase pages 11-16, lee2010crystalstructureof pages 4-5).
+- **N-lobe:** Composed of a five-stranded β-sheet and the regulatory αC-helix (lee2010crystalstructureof pages 4-5). It contains the conserved GxGxxG P-loop, which binds ATP phosphates (roskoski2013anaplasticlymphomakinase pages 4-5).
+- **C-lobe:** Primarily helical, it contains the catalytic loop and the activation loop (lee2010crystalstructureof pages 4-5). The ATP-binding cleft is situated between the two lobes (roskoski2017anaplasticlymphomakinase pages 11-16). Crystal structures are available for the ALK catalytic domain in apo (PDB: 3L9P), ADP-bound (PDB: 3LCS), and staurosporine-bound (PDB: 3LCT) states (lee2010crystalstructureof pages 1-2).
+
+**Key Catalytic and Regulatory Features:**
+- **Activation Loop (A-loop):** Spans residues 1270–1299 and starts with a DFG motif (lee2010crystalstructureof pages 4-5). It contains a key three-tyrosine autophosphorylation motif (Y¹²⁷⁸xxxY¹²⁸²Y¹²⁸³) (kong2019drugdiscoverytargeting pages 3-5, zhao2015anaplasticlymphomakinase pages 1-6). In its unphosphorylated, inactive state, a short helix within the A-loop (αAL) packs against the αC-helix, while the distal part of the loop obstructs the substrate-binding region (lee2010crystalstructureof pages 1-2).
+- **αC-helix:** Its position is critical for activity. In the active "αC-in" conformation, a salt bridge forms between Lys1150 (β3 strand) and Glu1167 (αC-helix) (roskoski2013anaplasticlymphomakinase pages 4-5, lee2010crystalstructureof pages 7-8).
+- **Hydrophobic Spines:** Conserved regulatory (R-spine) and catalytic (C-spine) motifs, composed of residues from both lobes, are crucial for maintaining the structural integrity of the active kinase conformation (kong2019drugdiscoverytargeting pages 3-5, roskoski2013anaplasticlymphomakinase pages 5-6).
+- **Catalytic Residues:** Features the HRDLAARN sequence in its catalytic loop, with Asp1249 serving as the catalytic base (roskoski2013anaplasticlymphomakinase pages 4-5). The kinase possesses a K/E/D/D catalytic signature, which includes Lys1150, Glu1167, Asp1270, and Asp1249 (kong2019drugdiscoverytargeting pages 3-5, roskoski2017anaplasticlymphomakinase pages 16-20).
+
+
+## Regulation
+ALK activity is principally regulated through ligand-induced dimerization, autophosphorylation, and dephosphorylation (corte2018roleandtargeting pages 1-3).
+
+**Post-Translational Modifications:**
+- **Autophosphorylation:** Ligand-induced dimerization leads to trans-autophosphorylation of the three tyrosine residues (Tyr1278, Tyr1282, Tyr1283) in the activation loop, which is essential for full kinase activation (corte2018roleandtargeting pages 1-3, li2008developmentofanaplastic pages 3-5). ALK shows a preference for phosphorylating the first tyrosine (Tyr1278) in this motif (lee2010crystalstructureof pages 2-3).
+- **Dephosphorylation:** The receptor protein tyrosine phosphatases PTPRB and PTPRZ act as negative regulators by dephosphorylating ALK, leading to its inactivation (corte2018roleandtargeting pages 1-3, zhao2015anaplasticlymphomakinase pages 1-6).
+- **N-glycosylation:** The extracellular domain contains 16 consensus sites for N-glycosylation, which influences protein folding, quality control, and membrane anchoring (huang2018anaplasticlymphomakinase pages 7-10, li2008developmentofanaplastic pages 3-5).
+- **Cleavage:** The full-length 220 kDa ALK protein can be cleaved to produce a 140 kDa truncated variant. Additionally, the intracellular domain can be cleaved by caspase-3 during apoptosis (huang2018anaplasticlymphomakinase pages 7-10).
+
+**Conformational Regulation:**
+The kinase domain switches between inactive and active conformations. In the inactive state, the A-loop adopts an inhibitory pose that blocks the substrate-binding site (lee2010crystalstructureof pages 1-2, lee2010crystalstructureof pages 2-3). Phosphorylation of the A-loop tyrosines induces a conformational change to an open, active state that allows substrate binding and catalysis (roskoski2017anaplasticlymphomakinase pages 16-20, lee2010crystalstructureof pages 8-9).
+
+
+## Function
+ALK is a receptor tyrosine kinase that plays an essential role in the development and differentiation of the central and peripheral nervous systems (roskoski2013anaplasticlymphomakinase pages 1-2, li2008developmentofanaplastic pages 3-5).
+
+**Expression:**
+Under normal conditions, ALK mRNA is highly expressed in the adult human brain and is also present in the small intestine, testis, prostate, and colon (corte2018roleandtargeting pages 1-3, zhao2015anaplasticlymphomakinase pages 1-6). It is not expressed in lymphoid tissues or the lungs (corte2018roleandtargeting pages 1-3). During embryonic development, expression is primarily localized to the nervous system, including the hippocampus and spinal cord motor neurons (huang2018anaplasticlymphomakinase pages 1-5, webb2009anaplasticlymphomakinase pages 3-4).
+
+**Signaling Pathways:**
+- **Upstream:** Known activating ligands for ALK include midkine (MK) and pleiotrophin (PTN), although they are not specific to ALK (corte2018roleandtargeting pages 1-3, li2008developmentofanaplastic pages 3-5). The *Drosophila* ortholog DAlk is activated by the ligand Jelly belly (Jeb) (li2008developmentofanaplastic pages 5-7).
+- **Downstream:** Upon activation, ALK phosphorylates intracellular substrates such as Insulin Receptor Substrate-1 (IRS-1), SHC, and Phospholipase C-gamma (PLC-γ), initiating multiple downstream signaling pathways (li2008developmentofanaplastic pages 3-5). These pathways include:
+    - PLCγ (corte2018roleandtargeting pages 1-3)
+    - JAK-STAT (corte2018roleandtargeting pages 1-3)
+    - PI3K-AKT-mTOR (corte2018roleandtargeting pages 1-3)
+    - RAS/MEK/ERK (MAPK) (corte2018roleandtargeting pages 1-3, kong2019drugdiscoverytargeting pages 3-5)
+    - Sonic hedgehog (SHH) (corte2018roleandtargeting pages 1-3)
+These signaling cascades promote cell growth, transformation, and anti-apoptotic effects (corte2018roleandtargeting pages 1-3). ALK may also act as a dependence receptor, triggering apoptosis in the absence of a ligand (li2008developmentofanaplastic pages 3-5).
+
+
+## Inhibitors
+Several small-molecule inhibitors targeting the ATP-binding pocket of the ALK kinase domain have demonstrated clinical efficacy (corte2018roleandtargeting pages 1-3). These include crizotinib, ceritinib, and alectinib (corte2018roleandtargeting pages 1-3, huang2018anaplasticlymphomakinase pages 7-10). Crizotinib was the first such inhibitor to receive FDA approval for treating ALK-positive non-small cell lung cancer (roskoski2013anaplasticlymphomakinase pages 1-2).
+
+
+## Other Comments
+Aberrant ALK activation is a critical oncogenic driver in several malignancies, such as anaplastic large-cell lymphoma (ALCL), non-small cell lung cancer (NSCLC), neuroblastoma, and inflammatory myofibroblastic tumors (IMT) (corte2018roleandtargeting pages 1-3, huang2018anaplasticlymphomakinase pages 7-10).
+
+**Mechanisms of Oncogenic Activation:**
+- **Chromosomal Rearrangements:** The most frequent mechanism of activation is through chromosomal translocations that create fusion proteins. These fusions cause ligand-independent dimerization and constitutive kinase activity (corte2018roleandtargeting pages 1-3, huang2018anaplasticlymphomakinase pages 7-10). The most prominent examples are NPM-ALK in ALCL and EML4-ALK in NSCLC (corte2018roleandtargeting pages 1-3).
+- **Activating Mutations:** Germline and somatic mutations are common in neuroblastoma, with mutational hotspots at residues F1174, F1245, and R1275 (huang2018anaplasticlymphomakinase pages 7-10). Mutations such as F1174L and R1275Q enhance kinase activity by destabilizing the inactive conformation (lee2010crystalstructureof pages 2-3).
+- **Gene Amplification and Overexpression:** Increased ALK gene copy number and protein overexpression are found in neuroblastoma and rhabdomyosarcomas (huang2018anaplasticlymphomakinase pages 7-10, kong2019drugdiscoverytargeting pages 3-5).
+
+Acquired resistance to ALK inhibitors is a clinical challenge, often arising from secondary mutations within the ALK kinase domain or the activation of alternative bypass signaling pathways (roskoski2013anaplasticlymphomakinase pages 1-2, corte2018roleandtargeting pages 1-3).
+
+References
+
+1. (corte2018roleandtargeting pages 1-3): Carminia Maria Della Corte, Giuseppe Viscardi, Raimondo Di Liello, Morena Fasano, Erika Martinelli, Teresa Troiani, Fortunato Ciardiello, and Floriana Morgillo. Role and targeting of anaplastic lymphoma kinase in cancer. Molecular Cancer, Feb 2018. URL: https://doi.org/10.1186/s12943-018-0776-2, doi:10.1186/s12943-018-0776-2. This article has 134 citations and is from a highest quality peer-reviewed journal.
+
+2. (huang2018anaplasticlymphomakinase pages 7-10): Hao Huang. Anaplastic lymphoma kinase (alk) receptor tyrosine kinase: a catalytic receptor with many faces. International Journal of Molecular Sciences, Nov 2018. URL: https://doi.org/10.3390/ijms19113448, doi:10.3390/ijms19113448. This article has 93 citations and is from a peer-reviewed journal.
+
+3. (kong2019drugdiscoverytargeting pages 3-5): Xiaotian Kong, Peichen Pan, Huiyong Sun, Hongguang Xia, Xuwen Wang, Youyong Li, and Tingjun Hou. Drug discovery targeting anaplastic lymphoma kinase (alk). Journal of Medicinal Chemistry, 62:10927-10954, Aug 2019. URL: https://doi.org/10.1021/acs.jmedchem.9b00446, doi:10.1021/acs.jmedchem.9b00446. This article has 116 citations and is from a highest quality peer-reviewed journal.
+
+4. (lee2010crystalstructureof pages 1-2): Christian C. Lee, Yong Jia, Nanxin Li, Xiuying Sun, K. Ng, Eileen Ambing, Mu-Yun Gao, S. Hua, Connie Chen, Sungjoon Kim, P. Michellys, S. Lesley, Jennifer L. Harris, and G. Spraggon. Crystal structure of the alk (anaplastic lymphoma kinase) catalytic domain. The Biochemical journal, 430 3:425-37, Sep 2010. URL: https://doi.org/10.1042/bj20100609, doi:10.1042/bj20100609. This article has 224 citations.
+
+5. (lee2010crystalstructureof pages 2-3): Christian C. Lee, Yong Jia, Nanxin Li, Xiuying Sun, K. Ng, Eileen Ambing, Mu-Yun Gao, S. Hua, Connie Chen, Sungjoon Kim, P. Michellys, S. Lesley, Jennifer L. Harris, and G. Spraggon. Crystal structure of the alk (anaplastic lymphoma kinase) catalytic domain. The Biochemical journal, 430 3:425-37, Sep 2010. URL: https://doi.org/10.1042/bj20100609, doi:10.1042/bj20100609. This article has 224 citations.
+
+6. (li2008developmentofanaplastic pages 3-5): Rongshi Li and Stephan W. Morris. Development of anaplastic lymphoma kinase (alk) small‐molecule inhibitors for cancer therapy. Medicinal Research Reviews, May 2008. URL: https://doi.org/10.1002/med.20109, doi:10.1002/med.20109. This article has 170 citations and is from a domain leading peer-reviewed journal.
+
+7. (roskoski2013anaplasticlymphomakinase pages 1-2): R. Roskoski. Anaplastic lymphoma kinase (alk): structure, oncogenic activation, and pharmacological inhibition. Pharmacological research, 68 1:68-94, Feb 2013. URL: https://doi.org/10.1016/j.phrs.2012.11.007, doi:10.1016/j.phrs.2012.11.007. This article has 353 citations and is from a highest quality peer-reviewed journal.
+
+8. (roskoski2013anaplasticlymphomakinase pages 4-5): R. Roskoski. Anaplastic lymphoma kinase (alk): structure, oncogenic activation, and pharmacological inhibition. Pharmacological research, 68 1:68-94, Feb 2013. URL: https://doi.org/10.1016/j.phrs.2012.11.007, doi:10.1016/j.phrs.2012.11.007. This article has 353 citations and is from a highest quality peer-reviewed journal.
+
+9. (roskoski2017anaplasticlymphomakinase pages 16-20): R. Roskoski. Anaplastic lymphoma kinase (alk) inhibitors in the treatment of alk-driven lung cancers. Pharmacological research, 117:343-356, Mar 2017. URL: https://doi.org/10.1016/j.phrs.2017.01.007, doi:10.1016/j.phrs.2017.01.007. This article has 135 citations and is from a highest quality peer-reviewed journal.
+
+10. (webb2009anaplasticlymphomakinase pages 1-3): Thomas R Webb, Jake Slavish, Rani E George, A Thomas Look, Liquan Xue, Qin Jiang, Xiaoli Cui, Walter B Rentrop, and Stephan W Morris. Anaplastic lymphoma kinase: role in cancer pathogenesis and small-molecule inhibitor development for therapy. Expert Review of Anticancer Therapy, 9:331-356, Mar 2009. URL: https://doi.org/10.1586/14737140.9.3.331, doi:10.1586/14737140.9.3.331. This article has 300 citations and is from a peer-reviewed journal.
+
+11. (yaronbarir2024theintrinsicsubstrate pages 3-3): Tomer M. Yaron-Barir, Brian A. Joughin, Emily M. Huntsman, Alexander Kerelsky, Daniel M. Cizin, Benjamin M. Cohen, Amit Regev, Junho Song, Neil Vasan, Ting-Yu Lin, Jose M. Orozco, Christina Schoenherr, Cari Sagum, Mark T. Bedford, R. Max Wynn, Shih-Chia Tso, David T. Chuang, Lei Li, Shawn S.-C. Li, Pau Creixell, Konstantin Krismer, Mina Takegami, Harin Lee, Bin Zhang, Jingyi Lu, Ian Cossentino, Sean D. Landry, Mohamed Uduman, John Blenis, Olivier Elemento, Margaret C. Frame, Peter V. Hornbeck, Lewis C. Cantley, Benjamin E. Turk, Michael B. Yaffe, and Jared L. Johnson. The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629:1174-1181, May 2024. URL: https://doi.org/10.1038/s41586-024-07407-y, doi:10.1038/s41586-024-07407-y. This article has 59 citations and is from a highest quality peer-reviewed journal.
+
+12. (zhao2015anaplasticlymphomakinase pages 1-6): Zhihong Zhao, V. Verma, and Mutian Zhang. Anaplastic lymphoma kinase: role in cancer and therapy perspective. Cancer Biology & Therapy, 16:1691-1701, Nov 2015. URL: https://doi.org/10.1080/15384047.2015.1095407, doi:10.1080/15384047.2015.1095407. This article has 55 citations.
+
+13. (huang2018anaplasticlymphomakinase pages 1-5): Hao Huang. Anaplastic lymphoma kinase (alk) receptor tyrosine kinase: a catalytic receptor with many faces. International Journal of Molecular Sciences, Nov 2018. URL: https://doi.org/10.3390/ijms19113448, doi:10.3390/ijms19113448. This article has 93 citations and is from a peer-reviewed journal.
+
+14. (lee2010crystalstructureof pages 4-5): Christian C. Lee, Yong Jia, Nanxin Li, Xiuying Sun, K. Ng, Eileen Ambing, Mu-Yun Gao, S. Hua, Connie Chen, Sungjoon Kim, P. Michellys, S. Lesley, Jennifer L. Harris, and G. Spraggon. Crystal structure of the alk (anaplastic lymphoma kinase) catalytic domain. The Biochemical journal, 430 3:425-37, Sep 2010. URL: https://doi.org/10.1042/bj20100609, doi:10.1042/bj20100609. This article has 224 citations.
+
+15. (lee2010crystalstructureof pages 7-8): Christian C. Lee, Yong Jia, Nanxin Li, Xiuying Sun, K. Ng, Eileen Ambing, Mu-Yun Gao, S. Hua, Connie Chen, Sungjoon Kim, P. Michellys, S. Lesley, Jennifer L. Harris, and G. Spraggon. Crystal structure of the alk (anaplastic lymphoma kinase) catalytic domain. The Biochemical journal, 430 3:425-37, Sep 2010. URL: https://doi.org/10.1042/bj20100609, doi:10.1042/bj20100609. This article has 224 citations.
+
+16. (lee2010crystalstructureof pages 8-9): Christian C. Lee, Yong Jia, Nanxin Li, Xiuying Sun, K. Ng, Eileen Ambing, Mu-Yun Gao, S. Hua, Connie Chen, Sungjoon Kim, P. Michellys, S. Lesley, Jennifer L. Harris, and G. Spraggon. Crystal structure of the alk (anaplastic lymphoma kinase) catalytic domain. The Biochemical journal, 430 3:425-37, Sep 2010. URL: https://doi.org/10.1042/bj20100609, doi:10.1042/bj20100609. This article has 224 citations.
+
+17. (li2008developmentofanaplastic pages 16-19): Rongshi Li and Stephan W. Morris. Development of anaplastic lymphoma kinase (alk) small‐molecule inhibitors for cancer therapy. Medicinal Research Reviews, May 2008. URL: https://doi.org/10.1002/med.20109, doi:10.1002/med.20109. This article has 170 citations and is from a domain leading peer-reviewed journal.
+
+18. (li2008developmentofanaplastic pages 5-7): Rongshi Li and Stephan W. Morris. Development of anaplastic lymphoma kinase (alk) small‐molecule inhibitors for cancer therapy. Medicinal Research Reviews, May 2008. URL: https://doi.org/10.1002/med.20109, doi:10.1002/med.20109. This article has 170 citations and is from a domain leading peer-reviewed journal.
+
+19. (palmer2009anaplasticlymphomakinase pages 1-2): R. Palmer, Emma Vernersson, C. Grabbe, and B. Hallberg. Anaplastic lymphoma kinase: signalling in development and disease. Biochemical Journal, 420:345-361, May 2009. URL: https://doi.org/10.1042/bj20090387, doi:10.1042/bj20090387. This article has 553 citations and is from a domain leading peer-reviewed journal.
+
+20. (palmer2009anaplasticlymphomakinase pages 2-3): R. Palmer, Emma Vernersson, C. Grabbe, and B. Hallberg. Anaplastic lymphoma kinase: signalling in development and disease. Biochemical Journal, 420:345-361, May 2009. URL: https://doi.org/10.1042/bj20090387, doi:10.1042/bj20090387. This article has 553 citations and is from a domain leading peer-reviewed journal.
+
+21. (roskoski2013anaplasticlymphomakinase pages 3-4): R. Roskoski. Anaplastic lymphoma kinase (alk): structure, oncogenic activation, and pharmacological inhibition. Pharmacological research, 68 1:68-94, Feb 2013. URL: https://doi.org/10.1016/j.phrs.2012.11.007, doi:10.1016/j.phrs.2012.11.007. This article has 353 citations and is from a highest quality peer-reviewed journal.
+
+22. (roskoski2013anaplasticlymphomakinase pages 5-6): R. Roskoski. Anaplastic lymphoma kinase (alk): structure, oncogenic activation, and pharmacological inhibition. Pharmacological research, 68 1:68-94, Feb 2013. URL: https://doi.org/10.1016/j.phrs.2012.11.007, doi:10.1016/j.phrs.2012.11.007. This article has 353 citations and is from a highest quality peer-reviewed journal.
+
+23. (roskoski2017anaplasticlymphomakinase pages 11-16): R. Roskoski. Anaplastic lymphoma kinase (alk) inhibitors in the treatment of alk-driven lung cancers. Pharmacological research, 117:343-356, Mar 2017. URL: https://doi.org/10.1016/j.phrs.2017.01.007, doi:10.1016/j.phrs.2017.01.007. This article has 135 citations and is from a highest quality peer-reviewed journal.
+
+24. (webb2009anaplasticlymphomakinase pages 3-4): Thomas R Webb, Jake Slavish, Rani E George, A Thomas Look, Liquan Xue, Qin Jiang, Xiaoli Cui, Walter B Rentrop, and Stephan W Morris. Anaplastic lymphoma kinase: role in cancer pathogenesis and small-molecule inhibitor development for therapy. Expert Review of Anticancer Therapy, 9:331-356, Mar 2009. URL: https://doi.org/10.1586/14737140.9.3.331, doi:10.1586/14737140.9.3.331. This article has 300 citations and is from a peer-reviewed journal.
+
+25. (manning2002theproteinkinase pages 3-3): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.

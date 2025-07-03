@@ -1,0 +1,100 @@
+## Phylogeny
+Apoptosis signal-regulating kinase 1 (ASK1), also designated MAP3K5, is a member of the mitogen-activated protein kinase kinase kinase (MAP3K) family (baig2019ask1andits pages 1-5, hayakawa2012therapeutictargetsin pages 1-3). Based on the kinome analysis by Manning et al. 2002, ASK1 is assigned to the MAP3K group and is also classified within the STE group of the kinase superfamily (baig2019ask1andits pages 1-5, honzejkova2024thecryoemstructure pages 15-16, trevelyan2020structurebasedmechanismof pages 32-35). ASK1 is part of the ASK protein family, which also includes ASK2 and ASK3 (unknownauthors2024structuralstudiesof pages 20-24). The kinase is conserved across multiple species, including mouse, *Drosophila*, and *C. elegans* (kawarazaki2014apoptosissignalregulatingkinase pages 1-2).
+
+
+## Reaction Catalyzed
+As a serine/threonine kinase, ASK1 catalyzes the ATP-dependent transfer of a gamma-phosphate to a serine or threonine residue on its protein substrates (obsil2017structuralaspectsof pages 7-10, ogier2020ask1inhibitiona pages 1-3). Its primary substrates are downstream MAP kinase kinases (MAP2Ks), including MAP2K3/MKK3, MAP2K4/SEK1, MAP2K6/MKK6, and MAP2K7/MKK7 (hayakawa2012therapeutictargetsin pages 1-3, kawarazaki2014apoptosissignalregulatingkinase pages 1-2).
+
+ATP + [MAP2K protein] → ADP + [MAP2K phosphoprotein]
+
+
+## Cofactor Requirements
+The catalytic activity of ASK1 requires ATP and divalent metal ions, typically Mg²⁺ or Mn²⁺, which is standard for this kinase family (unknownauthors2024structuralstudiesof pages 106-108, obsilova2021structuralinsightssupport pages 1-3). Its activity is also allosterically modulated by the regulatory protein thioredoxin-1 (TRX1), which functions as a regulatory partner rather than a direct catalytic cofactor (honzejkova2024thecryoemstructure pages 15-16, obsilova2021structuralinsightssupport pages 3-4).
+
+
+## Substrate Specificity
+Biochemical analysis using peptide libraries determined that ASK1 has a strong preference for threonine over serine as the phosphoacceptor residue (bunkoczi2007structuralandfunctional pages 5-6). The consensus phosphorylation motif shows a strong preference for aromatic and aliphatic hydrophobic residues at the +1 position (C-terminal to the phosphorylation site). Additionally, peptides containing threonine residues at either the -2 or +2 positions are strongly phosphorylated (bunkoczi2007structuralandfunctional pages 5-6, bunkoczi2007structuralandfunctional pages 6-7). Secondary preferences include glutamine at the -2 position and serine, arginine, or tyrosine at the +2 position; the kinase is not strongly selective at other positions (bunkoczi2007structuralandfunctional pages 6-7). In contrast, another source describes the ASK1 consensus motif as being characterized by proline-directed serine/threonine residues (unknownauthors2024structuralstudiesof pages 106-108).
+
+
+## Structure
+ASK1 is a large, 1374 amino acid protein with a multi-domain architecture (baig2019ask1andits pages 1-5, obsilova2021structuralinsightssupport pages 3-4). Its domains include:
+*   An N-terminal thioredoxin-binding domain (TBD, residues 46–277), which binds the physiological inhibitor thioredoxin (Trx) (kawarazaki2014apoptosissignalregulatingkinase pages 2-3, obsilova2021structuralinsightssupport pages 3-4).
+*   A central regulatory region (CRR) containing coiled-coil motifs, TRAF-binding sites, and pleckstrin homology (PH) domains, which is involved in protein-protein interactions and activation (unknownauthors2024structuralstudiesof pages 24-28, obsilova2021structuralinsightssupport pages 3-4).
+*   A C-terminal kinase domain (KD, residues 671–938) responsible for its catalytic activity (kawarazaki2014apoptosissignalregulatingkinase pages 2-3). The KD adopts a canonical bilobal fold, with a smaller N-terminal lobe composed of a five-stranded beta-sheet and an alpha-C (αC) helix, and a larger, predominantly alpha-helical C-terminal lobe (unknownauthors2024structuralstudiesof pages 28-31).
+*   A C-terminal region containing another coiled-coil domain (CCC) and a sterile alpha motif (SAM) domain, which mediate homo- and hetero-oligomerization, as well as a binding motif for 14-3-3 proteins (baig2019ask1andits pages 1-5, obsilova2020the1433proteins pages 3-6).
+
+The activation loop within the KD contains Thr845 (human numbering, or ortholog Thr838), a critical phosphorylation site for kinase activation (baig2019ask1andits pages 1-5, hayakawa2012therapeutictargetsin pages 1-3). The αC-helix is a key regulatory element within the kinase domain's N-lobe (unknownauthors2024structuralstudiesof pages 28-31). The hydrophobic spine is also noted as an important structural feature underpinning ASK1 conformation and activity (obsilova2021structuralinsightssupport pages 1-3). Cryo-EM studies reveal an asymmetric architecture for the full-length complex, which is allosterically modulated by Trx1 (honzejkova2024thecryoemstructure pages 15-16). In solution, the kinase domain forms a stable head-to-tail dimer (bunkoczi2007structuralandfunctional pages 5-6).
+
+
+## Regulation
+ASK1 activity is controlled by a complex network of post-translational modifications (PTMs) and protein-protein interactions.
+
+**Post-Translational Modifications:**
+*   **Phosphorylation:**
+    *   **Activating:** Phosphorylation of Thr845 (or Thr838) within the activation loop is essential for activation (baig2019ask1andits pages 1-5). Autophosphorylation also occurs at sites Thr813 and Thr842 (obsilova2021structuralinsightssupport pages 3-4, unknownauthors2024structuralstudiesof pages 24-28).
+    *   **Inhibitory:** Phosphorylation at Ser967 (or Ser966) facilitates the binding of inhibitory 14-3-3 proteins (baig2019ask1andits pages 1-5). The kinase Akt phosphorylates Ser83 to suppress ASK1 activity (kawarazaki2014apoptosissignalregulatingkinase pages 3-4).
+*   **Ubiquitination:** ASK1 stability is regulated by ubiquitination, which is promoted by the E3 ligase Roquin-2 and reversed by the deubiquitinating enzyme USP9X (kawarazaki2014apoptosissignalregulatingkinase pages 3-4).
+*   **Methylation:** PRMT1-mediated methylation of Arg78 and Arg80 inhibits the dissociation of Trx, thereby maintaining ASK1 in an inactive state (kawarazaki2014apoptosissignalregulatingkinase pages 3-4).
+
+**Regulatory Proteins and Enzymes:**
+*   **Inhibitory Partners:** Under non-stress conditions, ASK1 is inhibited by direct binding of dithiol oxidoreductases like thioredoxin (Trx), glutaredoxin (Grx), and peroxiredoxin 1 (PRX1) to its N-terminal TBD (ogier2020ask1inhibitiona pages 1-3, obsilova2021structuralinsightssupport pages 1-3). 14-3-3 proteins also inhibit ASK1 by binding to the phosphorylated Ser967 site (baig2019ask1andits pages 1-5).
+*   **Activating Partners:** Stress signals cause the dissociation of inhibitors and allow the recruitment of TNF receptor-associated factors (TRAF2 and TRAF6), which promote ASK1 oligomerization and activation (baig2019ask1andits pages 1-5, kawarazaki2014apoptosissignalregulatingkinase pages 3-4).
+*   **Regulating Enzymes:** The phosphatase PP5 dephosphorylates the activating Thr845/Thr838 site to inactivate ASK1 (baig2019ask1andits pages 1-5). The kinase Akt phosphorylates inhibitory sites (kawarazaki2014apoptosissignalregulatingkinase pages 2-3).
+
+
+## Function
+ASK1 acts as a pivotal node in cellular stress signaling, integrating diverse stimuli to activate specific downstream pathways (hayakawa2012therapeutictargetsin pages 1-3).
+
+*   **Upstream Signals:** ASK1 is activated by a wide range of stimuli, including reactive oxygen species (ROS), endoplasmic reticulum (ER) stress, inflammatory cytokines (e.g., TNF-α), lipopolysaccharides (LPS), and calcium influx (baig2019ask1andits pages 1-5, kawarazaki2014apoptosissignalregulatingkinase pages 1-2).
+*   **Signaling Pathways:** Upon activation, ASK1 phosphorylates and activates MAP2Ks (MKK3/6 and MKK4/7), which in turn activate the stress-responsive p38 and JNK MAPKs (baig2019ask1andits pages 1-5, hayakawa2012therapeutictargetsin pages 1-3).
+*   **Biological Roles:** Through the JNK and p38 pathways, ASK1 regulates critical cellular processes such as apoptosis, inflammation, fibrosis, differentiation, and cytokine production (baig2019ask1andits pages 1-5, ogier2020ask1inhibitiona pages 1-3). It plays an important role in the innate immune response (kawarazaki2014apoptosissignalregulatingkinase pages 11-11).
+
+
+## Inhibitors
+Several small-molecule inhibitors have been developed to target the kinase activity of ASK1. These include the experimental compounds K811 and MSC2032964A, as well as Selonsertib, which has been investigated in clinical trials (kawarazaki2014apoptosissignalregulatingkinase pages 1-2, trevelyan2020structurebasedmechanismof pages 35-37). The general kinase inhibitor staurosporine is also known to bind to the ASK1 kinase domain (unknownauthors2024structuralstudiesof pages 28-31).
+
+
+## Other Comments
+The dysregulation of ASK1 signaling is implicated in the pathogenesis of a wide array of human diseases, including cardiovascular disorders, neurodegenerative diseases (such as Alzheimer's, Parkinson's, and ALS), inflammatory diseases (like rheumatoid arthritis and multiple sclerosis), cancer, diabetes, and nonalcoholic steatohepatitis (NASH) (baig2019ask1andits pages 1-5, ogier2020ask1inhibitiona pages 1-3, unknownauthors2024structuralstudiesof pages 20-24). Genetic studies have identified frequent somatic mutations in the *MAP3K5* gene in metastatic melanoma (trevelyan2020structurebasedmechanismof pages 35-37). Specific mutations, such as at Cys250 in the TBD, have been shown to reduce Trx binding and alter ASK1 function (obsilova2021structuralinsightssupport pages 3-4).
+
+References
+
+1. (baig2019ask1andits pages 1-5): Mohd Hassan Baig, Abu Baker, Ghulam M Ashraf, and Jae-June Dong. Ask1 and its role in cardiovascular and other disorders: available treatments and future prospects. Expert Review of Proteomics, 16:857-870, Oct 2019. URL: https://doi.org/10.1080/14789450.2019.1676735, doi:10.1080/14789450.2019.1676735. This article has 20 citations and is from a peer-reviewed journal.
+
+2. (bunkoczi2007structuralandfunctional pages 5-6): G. Bunkoczi, E. Salah, P. Filippakopoulos, O. Fedorov, S. Müller, F. Sobott, Sirlester A. Parker, Haifeng Zhang, W. Min, B. Turk, and S. Knapp. Structural and functional characterization of the human protein kinase ask1. Structure(London, England:1993), 15:1215-1226, Oct 2007. URL: https://doi.org/10.1016/j.str.2007.08.011, doi:10.1016/j.str.2007.08.011. This article has 141 citations.
+
+3. (bunkoczi2007structuralandfunctional pages 6-7): G. Bunkoczi, E. Salah, P. Filippakopoulos, O. Fedorov, S. Müller, F. Sobott, Sirlester A. Parker, Haifeng Zhang, W. Min, B. Turk, and S. Knapp. Structural and functional characterization of the human protein kinase ask1. Structure(London, England:1993), 15:1215-1226, Oct 2007. URL: https://doi.org/10.1016/j.str.2007.08.011, doi:10.1016/j.str.2007.08.011. This article has 141 citations.
+
+4. (hayakawa2012therapeutictargetsin pages 1-3): R. Hayakawa, Teruyuki Hayakawa, K. Takeda, and H. Ichijo. Therapeutic targets in the ask1-dependent stress signaling pathways. Proceedings of the Japan Academy. Series B, Physical and Biological Sciences, 88:434-453, Oct 2012. URL: https://doi.org/10.2183/pjab.88.434, doi:10.2183/pjab.88.434. This article has 163 citations.
+
+5. (kawarazaki2014apoptosissignalregulatingkinase pages 1-2): Yosuke Kawarazaki, Hidenori Ichijo, and Isao Naguro. Apoptosis signal-regulating kinase 1 as a therapeutic target. Expert Opinion on Therapeutic Targets, 18:651-664, May 2014. URL: https://doi.org/10.1517/14728222.2014.896903, doi:10.1517/14728222.2014.896903. This article has 109 citations and is from a peer-reviewed journal.
+
+6. (kawarazaki2014apoptosissignalregulatingkinase pages 2-3): Yosuke Kawarazaki, Hidenori Ichijo, and Isao Naguro. Apoptosis signal-regulating kinase 1 as a therapeutic target. Expert Opinion on Therapeutic Targets, 18:651-664, May 2014. URL: https://doi.org/10.1517/14728222.2014.896903, doi:10.1517/14728222.2014.896903. This article has 109 citations and is from a peer-reviewed journal.
+
+7. (kawarazaki2014apoptosissignalregulatingkinase pages 3-4): Yosuke Kawarazaki, Hidenori Ichijo, and Isao Naguro. Apoptosis signal-regulating kinase 1 as a therapeutic target. Expert Opinion on Therapeutic Targets, 18:651-664, May 2014. URL: https://doi.org/10.1517/14728222.2014.896903, doi:10.1517/14728222.2014.896903. This article has 109 citations and is from a peer-reviewed journal.
+
+8. (obsil2017structuralaspectsof pages 7-10): T. Obsil and V. Obsilova. Structural aspects of protein kinase ask1 regulation. Advances in biological regulation, 66:31-36, Dec 2017. URL: https://doi.org/10.1016/j.jbior.2017.10.002, doi:10.1016/j.jbior.2017.10.002. This article has 27 citations and is from a peer-reviewed journal.
+
+9. (obsilova2020the1433proteins pages 3-6): V. Obsilova and T. Obsil. The 14-3-3 proteins as important allosteric regulators of protein kinases. International Journal of Molecular Sciences, Nov 2020. URL: https://doi.org/10.3390/ijms21228824, doi:10.3390/ijms21228824. This article has 67 citations and is from a peer-reviewed journal.
+
+10. (obsilova2021structuralinsightssupport pages 1-3): Veronika Obsilova, Karolina Honzejkova, and Tomas Obsil. Structural insights support targeting ask1 kinase for therapeutic interventions. International Journal of Molecular Sciences, 22:13395, Dec 2021. URL: https://doi.org/10.3390/ijms222413395, doi:10.3390/ijms222413395. This article has 32 citations and is from a peer-reviewed journal.
+
+11. (obsilova2021structuralinsightssupport pages 3-4): Veronika Obsilova, Karolina Honzejkova, and Tomas Obsil. Structural insights support targeting ask1 kinase for therapeutic interventions. International Journal of Molecular Sciences, 22:13395, Dec 2021. URL: https://doi.org/10.3390/ijms222413395, doi:10.3390/ijms222413395. This article has 32 citations and is from a peer-reviewed journal.
+
+12. (ogier2020ask1inhibitiona pages 1-3): Jacqueline M. Ogier, B. Nayagam, and P. Lockhart. Ask1 inhibition: a therapeutic strategy with multi-system benefits. Journal of Molecular Medicine (Berlin, Germany), 98:335-348, Feb 2020. URL: https://doi.org/10.1007/s00109-020-01878-y, doi:10.1007/s00109-020-01878-y. This article has 107 citations.
+
+13. (trevelyan2020structurebasedmechanismof pages 32-35): Sarah J. Trevelyan, Jodi L. Brewster, Abigail E. Burgess, Jennifer M. Crowther, Antonia L. Cadell, Benjamin L. Parker, David R. Croucher, Renwick C. J. Dobson, James M. Murphy, and Peter D. Mace. Structure-based mechanism of preferential complex formation by apoptosis signal–regulating kinases. Science Signaling, Mar 2020. URL: https://doi.org/10.1126/scisignal.aay6318, doi:10.1126/scisignal.aay6318. This article has 24 citations and is from a domain leading peer-reviewed journal.
+
+14. (trevelyan2020structurebasedmechanismof pages 35-37): Sarah J. Trevelyan, Jodi L. Brewster, Abigail E. Burgess, Jennifer M. Crowther, Antonia L. Cadell, Benjamin L. Parker, David R. Croucher, Renwick C. J. Dobson, James M. Murphy, and Peter D. Mace. Structure-based mechanism of preferential complex formation by apoptosis signal–regulating kinases. Science Signaling, Mar 2020. URL: https://doi.org/10.1126/scisignal.aay6318, doi:10.1126/scisignal.aay6318. This article has 24 citations and is from a domain leading peer-reviewed journal.
+
+15. (unknownauthors2024structuralstudiesof pages 106-108): Structural studies of selected protein complexes involved in signal transduction
+
+16. (unknownauthors2024structuralstudiesof pages 20-24): Structural studies of selected protein complexes involved in signal transduction
+
+17. (unknownauthors2024structuralstudiesof pages 24-28): Structural studies of selected protein complexes involved in signal transduction
+
+18. (honzejkova2024thecryoemstructure pages 15-16): Karolina Honzejkova, Dalibor Košek, Veronika Obsilova, and Tomas Obsil. The cryo-em structure of ask1 reveals an asymmetric architecture allosterically modulated by trx1. eLife, Mar 2024. URL: https://doi.org/10.7554/elife.95199.1, doi:10.7554/elife.95199.1. This article has 2 citations and is from a domain leading peer-reviewed journal.
+
+19. (kawarazaki2014apoptosissignalregulatingkinase pages 11-11): Yosuke Kawarazaki, Hidenori Ichijo, and Isao Naguro. Apoptosis signal-regulating kinase 1 as a therapeutic target. Expert Opinion on Therapeutic Targets, 18:651-664, May 2014. URL: https://doi.org/10.1517/14728222.2014.896903, doi:10.1517/14728222.2014.896903. This article has 109 citations and is from a peer-reviewed journal.
+
+20. (unknownauthors2024structuralstudiesof pages 28-31): Structural studies of selected protein complexes involved in signal transduction

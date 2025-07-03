@@ -1,0 +1,102 @@
+## Phylogeny
+The Tousled-like kinase (TLK) family is an evolutionarily conserved family of serine/threonine kinases found in plants and animals, with orthologs identified in *Arabidopsis thaliana* (TSL), *Caenorhabditis elegans* (TLK-1), *Drosophila melanogaster*, and the early-diverging protozoan *Trypanosoma brucei* (han2003thec.elegans pages 1-2, segurabayona2017differentialrequirementsfor pages 1-2, li2007tousledlikekinasein pages 1-2). TLKs are absent in unicellular eukaryotes like *Saccharomyces cerevisiae* (sillje1999mammalianhomologuesof pages 1-2). Vertebrates possess two closely related paralogs, TLK1 and TLK2, which share approximately 84% sequence similarity (unknownauthors2020molecularbasisand pages 1-3, segurabayona2017differentialrequirementsfor pages 1-2, sillje1999mammalianhomologuesof pages 1-2). According to the kinome classification by Manning et al., the TLK family belongs to the 'Other' group of protein kinases, distinct from the major kinase families (han2003thec.elegans pages 1-2, li2007tousledlikekinasein pages 1-2, mortuza2018molecularbasisof pages 6-7, segurabayona2017differentialrequirementsfor pages 1-2). Due to sequence divergence in their activation loop, TLKs are positioned between the Polo and AGC kinase families (mortuza2018molecularbasisof pages 6-7).
+
+
+## Reaction Catalyzed
+TLK1 is a serine/threonine protein kinase that catalyzes the transfer of the γ-phosphate group from an ATP molecule to a serine or threonine residue on a protein substrate, producing ADP and a phosphoprotein substrate (mortuza2018molecularbasisof pages 6-7, segurabayona2019thetousledlikekinases pages 1-3, unknownauthors2020molecularbasisand pages 1-3).
+
+
+## Cofactor Requirements
+The kinase activity of TLK1 requires ATP as a phosphate donor cofactor (asquith2024discoveryandoptimization pages 1-3, li2007tousledlikekinasein pages 10-11, segurabayona2019thetousledlikekinases pages 1-3). Its activity also depends on divalent metal ions such as Mg²⁺ (mortuza2018molecularbasisof pages 1-2, sillje1999mammalianhomologuesof pages 7-9).
+
+
+## Substrate Specificity
+Based on a comprehensive atlas of substrate specificities for the human serine/threonine kinome, the optimal consensus motif for TLK1 shows a strong preference for an Aspartate (D) residue at the -2 position relative to the phosphorylation site and a Phenylalanine (F) residue at the +1 position (mortuza2018molecularbasisof pages 6-7, simon2022tousledlikekinase2 pages 1-2, simon2022tousledlikekinase2 pages 2-4, simon2022tousledlikekinase2 pages 7-8, simon2022tousledlikekinase2 pages 12-12).
+
+
+## Structure
+TLK1 possesses a modular domain architecture consisting of an N-terminal regulatory domain containing a nuclear localization signal (NLS) and coiled-coil (CC) motifs, and a highly conserved C-terminal kinase domain (segurabayona2019thetousledlikekinases pages 1-3, unknownauthors2014theinteractionbetween pages 107-111, unknownauthors2020molecularbasisand pages 1-3). The CC domains are critical for mediating the homo- and heterodimerization required for kinase activation (asquith2024discoveryandoptimization pages 1-3, mortuza2018molecularbasisof pages 1-2). The kinase domains of human TLK1 and TLK2 are 94% identical, and the crystal structure of the TLK2 kinase domain serves as a strong structural model for TLK1 (mortuza2018molecularbasisof pages 1-2). A splice variant, TLK1B, lacks the first 169-238 amino acids of the N-terminus but retains the kinase domain and catalytic activity (singh2017identificationofthe pages 1-6, unknownauthors2014theinteractionbetween pages 107-111).
+
+
+## Regulation
+TLK1 activity is cell cycle-regulated, peaking during the S-phase and tightly coupled to ongoing DNA replication (segurabayona2019thetousledlikekinases pages 5-7, sillje1999mammalianhomologuesof pages 1-2). Its activation is dependent on dimerization and ordered cis- and trans-autophosphorylation events (asquith2024discoveryandoptimization pages 1-3, mortuza2018molecularbasisof pages 1-2, segurabayona2019thetousledlikekinases pages 1-3). In response to DNA double-strand breaks (DSBs), TLK1 activity is rapidly and transiently inhibited via phosphorylation by upstream checkpoint kinases (benedetti2012thetousledlikekinases pages 1-2). The ATM-Chk2 and ATR-Chk1 pathways mediate this inhibition by phosphorylating TLK1 at Serine 695 (S695) (ghosh2023untouslingtherole pages 2-4, groth2003humantousledlike pages 7-9, segurabayona2019thetousledlikekinases pages 5-7). This inhibition is reversible, and TLK1 activity is restored following DNA repair to facilitate checkpoint recovery (ghosh2023untouslingtherole pages 2-4, unknownauthors2014theinteractionbetween pages 107-111).
+
+
+## Function
+TLK1 is a nuclear kinase that functions as a key regulator of genome integrity by participating in chromatin assembly, DNA replication, transcription, and DNA repair (benedetti2012thetousledlikekinases pages 1-2). It phosphorylates a limited number of substrates to control these processes.
+
+Key upstream and downstream partners include:
+*   **Upstream Kinases**: TLK1 is regulated by the DNA damage response kinases ATM, ATR, and CHK1 (benedetti2012thetousledlikekinases pages 1-2, ghosh2023untouslingtherole pages 2-4).
+*   **Substrates**:
+    *   **ASF1**: Phosphorylation of the histone chaperones ASF1a and ASF1b enhances their histone H3/H4 binding affinity, promoting chromatin assembly during replication and repair (segurabayona2019thetousledlikekinases pages 4-5).
+    *   **RAD9**: Phosphorylation of the 9-1-1 checkpoint complex component Rad9 at S328 and T355 regulates its dissociation from chromatin, which is critical for proper checkpoint exit after DNA damage (benedetti2012thetousledlikekinases pages 1-2, segurabayona2019thetousledlikekinases pages 4-5, unknownauthors2014theinteractionbetween pages 111-115).
+    *   **NEK1**: TLK1 phosphorylates the kinase NEK1 at T141, enhancing NEK1's kinase activity and contributing to checkpoint activation (ghosh2023untouslingtherole pages 2-4, singh2017identificationofthe pages 6-9, singh2017identificationofthe pages 9-13).
+    *   **RAD54**: Phosphorylation of the homologous recombination protein RAD54 at T41, T59, and T700 modulates its nuclear-cytoplasmic shuttling during DNA repair (ghosh2023untouslingtherole pages 2-4).
+    *   **Histone H3**: TLK1 phosphorylates histone H3 at Serine 10 (H3S10) (benedetti2012thetousledlikekinases pages 1-2, segurabayona2019thetousledlikekinases pages 4-5).
+*   **Other Interacting Partners**: TLK1 interacts with 14-3-3 proteins and the DDR factor RIF1 (benedetti2012thetousledlikekinases pages 1-2, segurabayona2019thetousledlikekinases pages 5-7).
+
+
+## Inhibitors
+Known small-molecule inhibitors of TLK1 include J54, a specific inhibitor derived from the phenothiazine family of antipsychotics, and thioridazine (THD) (ghosh2023untouslingtherole pages 2-4, singh2017identificationofthe pages 1-6, unknownauthors2014theinteractionbetween pages 115-119).
+
+
+## Other Comments
+TLK1 is frequently overexpressed or amplified in various cancers, including cholangiocarcinoma, prostate cancer, and glioblastoma, where its expression often correlates with poor prognosis and radioresistance (benedetti2012thetousledlikekinases pages 1-2, ghosh2023untouslingtherole pages 7-8). This oncogenic role has positioned TLK1 as a promising therapeutic target; its inhibition sensitizes cancer cells to DNA-damaging agents like cisplatin and has shown synthetic lethality in combination with PARP inhibitors (benedetti2012thetousledlikekinases pages 1-2, ghosh2023untouslingtherole pages 7-8, unknownauthors2014theinteractionbetween pages 115-119). While TLK1 mutations are rare in cancer, mutations in its paralog, TLK2, are associated with neurodevelopmental disorders, including intellectual disability and autism spectrum disorders (segurabayona2019thetousledlikekinases pages 1-3). Depletion of TLK1 leads to replication stress, genomic instability, and reactivation of latent viruses (segurabayona2019thetousledlikekinases pages 7-8).
+
+References
+
+1. (benedetti2012thetousledlikekinases pages 1-2): Arrigo De Benedetti. The tousled-like kinases as guardians of genome integrity. ISRN Molecular Biology, 2012:1-9, May 2012. URL: https://doi.org/10.5402/2012/627596, doi:10.5402/2012/627596. This article has 44 citations.
+
+2. (ghosh2023untouslingtherole pages 2-4): Ishita Ghosh and A. De Benedetti. Untousling the role of tousled-like kinase 1 in dna damage repair. International Journal of Molecular Sciences, Aug 2023. URL: https://doi.org/10.3390/ijms241713369, doi:10.3390/ijms241713369. This article has 4 citations and is from a peer-reviewed journal.
+
+3. (ghosh2023untouslingtherole pages 7-8): Ishita Ghosh and A. De Benedetti. Untousling the role of tousled-like kinase 1 in dna damage repair. International Journal of Molecular Sciences, Aug 2023. URL: https://doi.org/10.3390/ijms241713369, doi:10.3390/ijms241713369. This article has 4 citations and is from a peer-reviewed journal.
+
+4. (groth2003humantousledlike pages 7-9): Anja Groth, J. Lukas, E. Nigg, H. Silljé, C. Wernstedt, J. Bartek, and K. Hansen. Human tousled like kinases are targeted by an atm- and chk1-dependent dna damage checkpoint. The EMBO Journal, 22:1676-1687, Apr 2003. URL: https://doi.org/10.1093/emboj/cdg151, doi:10.1093/emboj/cdg151. This article has 205 citations.
+
+5. (han2003thec.elegans pages 1-2): Zhenbo Han, Jennifer R. Saam, Henry P. Adams, Susan E. Mango, and Jill M. Schumacher. The c. elegans tousled-like kinase (tlk-1) has an essential role in transcription. Current Biology, 13:1921-1929, Nov 2003. URL: https://doi.org/10.1016/j.cub.2003.10.035, doi:10.1016/j.cub.2003.10.035. This article has 73 citations and is from a highest quality peer-reviewed journal.
+
+6. (li2007tousledlikekinasein pages 1-2): Ziyin Li, S. Gourguechon, and C. C. Wang. Tousled-like kinase in a microbial eukaryote regulates spindle assembly and s-phase progression by interacting with aurora kinase and chromatin assembly factors. Journal of Cell Science, 120:3883-3894, Nov 2007. URL: https://doi.org/10.1242/jcs.007955, doi:10.1242/jcs.007955. This article has 77 citations and is from a domain leading peer-reviewed journal.
+
+7. (li2007tousledlikekinasein pages 10-11): Ziyin Li, S. Gourguechon, and C. C. Wang. Tousled-like kinase in a microbial eukaryote regulates spindle assembly and s-phase progression by interacting with aurora kinase and chromatin assembly factors. Journal of Cell Science, 120:3883-3894, Nov 2007. URL: https://doi.org/10.1242/jcs.007955, doi:10.1242/jcs.007955. This article has 77 citations and is from a domain leading peer-reviewed journal.
+
+8. (mortuza2018molecularbasisof pages 6-7): Gulnahar B. Mortuza, Dario Hermida, Anna-Kathrine Pedersen, Sandra Segura-Bayona, Blanca López-Méndez, Pilar Redondo, Patrick Rüther, Irina Pozdnyakova, Ana M. Garrote, Inés G. Muñoz, Marina Villamor-Payà, Cristina Jauset, Jesper V. Olsen, Travis H. Stracker, and Guillermo Montoya. Molecular basis of tousled-like kinase 2 activation. Nature Communications, Jun 2018. URL: https://doi.org/10.1038/s41467-018-04941-y, doi:10.1038/s41467-018-04941-y. This article has 44 citations and is from a highest quality peer-reviewed journal.
+
+9. (segurabayona2017differentialrequirementsfor pages 1-2): Sandra Segura-Bayona, Philip A Knobel, Helena González-Burón, Sameh A Youssef, Aida Peña-Blanco, Étienne Coyaud, Teresa López-Rovira, Katrin Rein, Lluís Palenzuela, Julien Colombelli, Stephen Forrow, Brian Raught, Anja Groth, Alain de Bruin, and Travis H Stracker. Differential requirements for tousled-like kinases 1 and 2 in mammalian development. Cell Death &amp; Differentiation, 24:1872-1885, Jul 2017. URL: https://doi.org/10.1038/cdd.2017.108, doi:10.1038/cdd.2017.108. This article has 38 citations.
+
+10. (segurabayona2019thetousledlikekinases pages 1-3): Sandra Segura-Bayona and Travis H. Stracker. The tousled-like kinases regulate genome and epigenome stability: implications in development and disease. Cellular and Molecular Life Sciences, 76:3827-3841, Jul 2019. URL: https://doi.org/10.1007/s00018-019-03208-z, doi:10.1007/s00018-019-03208-z. This article has 51 citations and is from a domain leading peer-reviewed journal.
+
+11. (segurabayona2019thetousledlikekinases pages 4-5): Sandra Segura-Bayona and Travis H. Stracker. The tousled-like kinases regulate genome and epigenome stability: implications in development and disease. Cellular and Molecular Life Sciences, 76:3827-3841, Jul 2019. URL: https://doi.org/10.1007/s00018-019-03208-z, doi:10.1007/s00018-019-03208-z. This article has 51 citations and is from a domain leading peer-reviewed journal.
+
+12. (segurabayona2019thetousledlikekinases pages 5-7): Sandra Segura-Bayona and Travis H. Stracker. The tousled-like kinases regulate genome and epigenome stability: implications in development and disease. Cellular and Molecular Life Sciences, 76:3827-3841, Jul 2019. URL: https://doi.org/10.1007/s00018-019-03208-z, doi:10.1007/s00018-019-03208-z. This article has 51 citations and is from a domain leading peer-reviewed journal.
+
+13. (segurabayona2019thetousledlikekinases pages 7-8): Sandra Segura-Bayona and Travis H. Stracker. The tousled-like kinases regulate genome and epigenome stability: implications in development and disease. Cellular and Molecular Life Sciences, 76:3827-3841, Jul 2019. URL: https://doi.org/10.1007/s00018-019-03208-z, doi:10.1007/s00018-019-03208-z. This article has 51 citations and is from a domain leading peer-reviewed journal.
+
+14. (sillje1999mammalianhomologuesof pages 1-2): H. Silljé, Kazuo Takahashi, Kayoko Tanaka, G. Houwe, and Erich A. Nigg. Mammalian homologues of the plant tousled gene code for cell-cycle-regulated kinases with maximal activities linked to ongoing dna replication. The EMBO Journal, 18:5691-5702, Oct 1999. URL: https://doi.org/10.1093/emboj/18.20.5691, doi:10.1093/emboj/18.20.5691. This article has 172 citations.
+
+15. (sillje1999mammalianhomologuesof pages 7-9): H. Silljé, Kazuo Takahashi, Kayoko Tanaka, G. Houwe, and Erich A. Nigg. Mammalian homologues of the plant tousled gene code for cell-cycle-regulated kinases with maximal activities linked to ongoing dna replication. The EMBO Journal, 18:5691-5702, Oct 1999. URL: https://doi.org/10.1093/emboj/18.20.5691, doi:10.1093/emboj/18.20.5691. This article has 172 citations.
+
+16. (simon2022tousledlikekinase2 pages 1-2): B. Simon, H. Lou, Clotilde Huet-Calderwood, G. Shi, T. Boggon, B. Turk, and D. Calderwood. Tousled-like kinase 2 targets asf1 histone chaperones through client mimicry. Nature Communications, Feb 2022. URL: https://doi.org/10.1038/s41467-022-28427-0, doi:10.1038/s41467-022-28427-0. This article has 22 citations and is from a highest quality peer-reviewed journal.
+
+17. (simon2022tousledlikekinase2 pages 12-12): B. Simon, H. Lou, Clotilde Huet-Calderwood, G. Shi, T. Boggon, B. Turk, and D. Calderwood. Tousled-like kinase 2 targets asf1 histone chaperones through client mimicry. Nature Communications, Feb 2022. URL: https://doi.org/10.1038/s41467-022-28427-0, doi:10.1038/s41467-022-28427-0. This article has 22 citations and is from a highest quality peer-reviewed journal.
+
+18. (simon2022tousledlikekinase2 pages 2-4): B. Simon, H. Lou, Clotilde Huet-Calderwood, G. Shi, T. Boggon, B. Turk, and D. Calderwood. Tousled-like kinase 2 targets asf1 histone chaperones through client mimicry. Nature Communications, Feb 2022. URL: https://doi.org/10.1038/s41467-022-28427-0, doi:10.1038/s41467-022-28427-0. This article has 22 citations and is from a highest quality peer-reviewed journal.
+
+19. (simon2022tousledlikekinase2 pages 7-8): B. Simon, H. Lou, Clotilde Huet-Calderwood, G. Shi, T. Boggon, B. Turk, and D. Calderwood. Tousled-like kinase 2 targets asf1 histone chaperones through client mimicry. Nature Communications, Feb 2022. URL: https://doi.org/10.1038/s41467-022-28427-0, doi:10.1038/s41467-022-28427-0. This article has 22 citations and is from a highest quality peer-reviewed journal.
+
+20. (singh2017identificationofthe pages 1-6): Vibha Singh, Zachary M. Connelly, Xinggui Shen, and Arrigo De Benedetti. Identification of the proteome complement of humantlk1 reveals it binds and phosphorylates nek1 regulating its activity. Cell Cycle, 16:915-926, Apr 2017. URL: https://doi.org/10.1080/15384101.2017.1314421, doi:10.1080/15384101.2017.1314421. This article has 40 citations and is from a peer-reviewed journal.
+
+21. (singh2017identificationofthe pages 6-9): Vibha Singh, Zachary M. Connelly, Xinggui Shen, and Arrigo De Benedetti. Identification of the proteome complement of humantlk1 reveals it binds and phosphorylates nek1 regulating its activity. Cell Cycle, 16:915-926, Apr 2017. URL: https://doi.org/10.1080/15384101.2017.1314421, doi:10.1080/15384101.2017.1314421. This article has 40 citations and is from a peer-reviewed journal.
+
+22. (unknownauthors2014theinteractionbetween pages 107-111): The interaction between Rad9 and Tousled-like kinase 1 in the cell cycle and the DNA damage response
+
+23. (unknownauthors2014theinteractionbetween pages 111-115): The interaction between Rad9 and Tousled-like kinase 1 in the cell cycle and the DNA damage response
+
+24. (unknownauthors2014theinteractionbetween pages 115-119): The interaction between Rad9 and Tousled-like kinase 1 in the cell cycle and the DNA damage response
+
+25. (unknownauthors2020molecularbasisand pages 1-3): Molecular basis and functional diversity of TOUSLED kinase
+
+26. (asquith2024discoveryandoptimization pages 1-3): C. Asquith, Michael P. East, T. Laitinen, Carla Alamillo-Ferrer, Erkka Hartikainen, C. Wells, Alison D. Axtman, D. Drewry, G. Tizzard, A. Poso, Timothy M. Willson, and Gary L Johnson. Discovery and optimization of narrow spectrum inhibitors of tousled like kinase 2 (tlk2) using quantitative structure activity relationships. European journal of medicinal chemistry, 271:116357-116357, Apr 2024. URL: https://doi.org/10.1016/j.ejmech.2024.116357, doi:10.1016/j.ejmech.2024.116357. This article has 2 citations and is from a domain leading peer-reviewed journal.
+
+27. (mortuza2018molecularbasisof pages 1-2): Gulnahar B. Mortuza, Dario Hermida, Anna-Kathrine Pedersen, Sandra Segura-Bayona, Blanca López-Méndez, Pilar Redondo, Patrick Rüther, Irina Pozdnyakova, Ana M. Garrote, Inés G. Muñoz, Marina Villamor-Payà, Cristina Jauset, Jesper V. Olsen, Travis H. Stracker, and Guillermo Montoya. Molecular basis of tousled-like kinase 2 activation. Nature Communications, Jun 2018. URL: https://doi.org/10.1038/s41467-018-04941-y, doi:10.1038/s41467-018-04941-y. This article has 44 citations and is from a highest quality peer-reviewed journal.
+
+28. (singh2017identificationofthe pages 9-13): Vibha Singh, Zachary M. Connelly, Xinggui Shen, and Arrigo De Benedetti. Identification of the proteome complement of humantlk1 reveals it binds and phosphorylates nek1 regulating its activity. Cell Cycle, 16:915-926, Apr 2017. URL: https://doi.org/10.1080/15384101.2017.1314421, doi:10.1080/15384101.2017.1314421. This article has 40 citations and is from a peer-reviewed journal.

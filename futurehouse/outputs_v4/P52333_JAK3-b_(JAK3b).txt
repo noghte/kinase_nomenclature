@@ -1,0 +1,114 @@
+Protein: Tyrosine-protein kinase JAK3 (UniProt P52333)  
+
+## Phylogeny  
+• Kinome placement: Tyrosine Kinase (TK) group, Janus kinase (JAK) family together with paralogues JAK1, JAK2 and TYK2 (yamaoka2004thejanuskinases pages 1-2).  
+• Vertebrate orthologs: Homo sapiens JAK3; Mus musculus Jak3 on chromosome 8 (yamaoka2004thejanuskinases pages 1-2); Gallus gallus Jak3 ortholog; Danio rerio jak3 ortholog (yamaoka2004thejanuskinases pages 1-2).  
+• Invertebrate ortholog: Drosophila melanogaster Hopscotch, the single ancestral JAK (yamaoka2004thejanuskinases pages 1-2).  
+• Evolution: the four-member vertebrate JAK set arose by gene duplication after divergence from the single invertebrate Hopscotch ancestor (yamaoka2004thejanuskinases pages 1-2).  
+
+## Reaction Catalyzed  
+MgATP + protein-L-tyrosine-OH → protein-L-tyrosine-OPO₃²⁻ + MgADP + H⁺ (roskoski2016januskinase(jak) pages 1-8).  
+
+## Cofactor Requirements  
+Catalytic phosphotransfer strictly requires Mg²⁺ as divalent cofactor (roskoski2016januskinase(jak) pages 1-8).  
+
+## Substrate Specificity  
+• Cellular substrates: tyrosine residues within γc-containing cytokine receptor tails and STAT1-6 transcription factors (roskoski2016januskinase(jak) pages 8-12, cetkoviccvrlje2004therapeuticpotentialof pages 1-2).  
+• Linear consensus motif: not defined; substrate choice is governed by spatial proximity in cytokine receptor complexes rather than a strict primary-sequence preference (roskoski2016januskinase(jak) pages 8-12).  
+
+## Structure  
+Domain architecture  
+1. FERM (JH7-JH6) – receptor binding (yamaoka2004thejanuskinases pages 2-3).  
+2. SH2-like (JH5-JH3) – stabilises FERM-receptor interaction (yamaoka2004thejanuskinases pages 2-3).  
+3. Pseudokinase JH2 – autoinhibitory regulator (lupardus2014structureofthe pages 6-6).  
+4. Catalytic kinase JH1 – executes tyrosyl phosphorylation (yamaoka2004thejanuskinases pages 2-3).  
+
+Three-dimensional information  
+• Kinase-domain crystal structure PDB 3LXK defines the bilobal fold and ATP pocket (roskoski2016januskinase(jak) pages 58-72).  
+• Covalent inhibitor complex PDB 4Z16 shows electrophile attachment to hinge Cys909 unique to JAK3 (tan2015developmentofselective pages 1-3).  
+• Catalytic motifs: Gly-rich 829GKGNFG834, β3 Lys855, αC Glu871, HRD Asp949, DFG Asp967, activation segment 967-997 (roskoski2016januskinase(jak) pages 72-78).  
+• Regulatory spine anchor Tyr913 and complete catalytic spine align with active kinase architecture (roskoski2016januskinase(jak) pages 78-87).  
+• Selectivity residues near ATP site: Ser826, Asn832, Tyr904, Ser907, Cys909 distinguish JAK3 from other JAKs (roskoski2016januskinase(jak) pages 87-87).  
+
+## Regulation  
+Post-translational modifications  
+• Activation-loop autophosphorylation enhances catalytic efficiency (babon2014themolecularregulation pages 1-3).  
+• Tyr785 phosphorylation recruits SH2-Bβ and augments activity (yamaoka2004thejanuskinases pages 3-4).  
+• Tyr841 phosphorylation correlates with oncogenic activation (unknownauthors2016arequirementfor pages 22-27).  
+• SOCS1 binding to phosphorylated activation loop promotes poly-ubiquitination via elongin B/C-Cullin-5-Rbx1 E3 ligase, leading to degradation (unknownauthors2008therapeutictargetingof pages 1-2).  
+• Tyrosine phosphatases SHP1, SHP2, PTP1B, TCPTP and CD45 dephosphorylate and attenuate signalling (roskoski2016januskinase(jak) pages 8-12).  
+
+Allosteric/conformational control  
+• Intramolecular JH2-JH1 contacts maintain autoinhibition; cytokine-induced receptor dimerisation or gain-of-function mutations (M511I, A572V, R657Q) disrupt this interface and allow constitutive signalling (lupardus2014structureofthe pages 6-6, raivola2018hyperactivationofoncogenic pages 4-7).  
+
+## Function  
+Expression  
+High constitutive expression in NK cells, thymocytes, mast cells and platelets; inducible in activated T and B lymphocytes; minimal in non-hematopoietic tissues (cetkoviccvrlje2004therapeuticpotentialof pages 1-2).  
+
+Signalling network  
+• Upstream activators: interleukin receptors sharing the γc chain (IL-2, ‑4, ‑7, ‑9, ‑15, ‑21) (cetkoviccvrlje2004therapeuticpotentialof pages 1-2, roskoski2016januskinase(jak) pages 72-78).  
+• Obligatory partner kinase: JAK1 forms heterodimers on these receptors (tan2015developmentofselective pages 1-3).  
+• Direct substrates: STAT3, STAT5, STAT6 which dimerise and drive transcription of genes governing lymphoid proliferation and differentiation (roskoski2016januskinase(jak) pages 72-78).  
+• Adapter/regulators: SH2-Bβ (positive), APS (negative), and STAM/AMSH/HRS endosomal proteins modulate output (unknownauthors2008therapeutictargetingof pages 2-4).  
+
+## Inhibitors  
+ATP-competitive  
+• Tofacitinib (CP-690,550) IC₅₀ ≈ 1.6 nM; approved immunomodulator (roskoski2016januskinase(jak) pages 78-87, yamaoka2004thejanuskinases pages 4-5).  
+• Decernotinib (VX-509) IC₅₀ ≈ 2 nM; selective JAK3 inhibitor (roskoski2016januskinase(jak) pages 78-87).  
+
+Covalent  
+• Cyanamide-based electrophiles targeting Cys909 with high selectivity (casimirogarcia2018identificationofcyanamidebased pages 32-33).  
+• 4-Aminopyrimidine covalent series exploiting Cys909 (tan2015developmentofselective pages 1-3).  
+
+Tool compounds  
+• Staurosporine analogues define ATP-pocket geometry but lack selectivity (lupardus2014structureofthe pages 6-6).  
+
+## Other Comments  
+Disease associations  
+• Autosomal recessive severe combined immunodeficiency (T- B⁺ NK⁻) caused by loss-of-function JAK3 mutations across all domains (babon2014themolecularregulation pages 4-6, yamaoka2004thejanuskinases pages 3-4).  
+• Somatic gain-of-function mutations M511I, A572V, R657Q, L857Q drive T-cell acute lymphoblastic leukaemia and other haematologic malignancies (raivola2018hyperactivationofoncogenic pages 4-7, unknownauthors2008therapeutictargetingof pages 5-6, unknownauthors2016arequirementfor pages 22-27).  
+• Additional activating mutations reported in Down-syndrome-associated acute megakaryoblastic leukaemia and myeloproliferative disorders (unknownauthors2008therapeutictargetingof pages 5-6).
+
+References
+
+1. (casimirogarcia2018identificationofcyanamidebased pages 32-33): Agustin Casimiro-Garcia, John I. Trujillo, Felix Vajdos, Brian Juba, Mary Ellen Banker, Ann Aulabaugh, Paul Balbo, Jonathan Bauman, Jill Chrencik, Jotham W. Coe, Robert Czerwinski, Martin Dowty, John D. Knafels, Soojin Kwon, Louis Leung, Sidney Liang, Ralph P. Robinson, Jean-Baptiste Telliez, Ray Unwalla, Xin Yang, and Atli Thorarensen. Identification of cyanamide-based janus kinase 3 (jak3) covalent inhibitors. Journal of Medicinal Chemistry, 61:10665-10699, Nov 2018. URL: https://doi.org/10.1021/acs.jmedchem.8b01308, doi:10.1021/acs.jmedchem.8b01308. This article has 80 citations and is from a highest quality peer-reviewed journal.
+
+2. (lupardus2014structureofthe pages 6-6): P. Lupardus, M. Ultsch, H. Wallweber, Pawan Bir Kohli, Adam R. Johnson, and C. Eigenbrot. Structure of the pseudokinase–kinase domains from protein kinase tyk2 reveals a mechanism for janus kinase (jak) autoinhibition. Proceedings of the National Academy of Sciences, 111:8025-8030, May 2014. URL: https://doi.org/10.1073/pnas.1401180111, doi:10.1073/pnas.1401180111. This article has 229 citations.
+
+3. (roskoski2016januskinase(jak) pages 1-8): Robert Roskoski. Janus kinase (jak) inhibitors in the treatment of inflammatory and neoplastic diseases. Pharmacological Research, 111:784-803, Sep 2016. URL: https://doi.org/10.1016/j.phrs.2016.07.038, doi:10.1016/j.phrs.2016.07.038. This article has 406 citations and is from a highest quality peer-reviewed journal.
+
+4. (tan2015developmentofselective pages 1-3): L. Tan, K. Akahane, R. McNally, Kathleen M. Reyskens, S. Ficarro, Suhu Liu, G. Herter-Sprie, S. Koyama, Michael J. Pattison, Katherine Labella, Liv Johannessen, Esra A. Akbay, Kwok-kin Wong, David A. Frank, J. Marto, Thomas A. Look, J. Simon C. Arthur, M. Eck, and Nathanael S. Gray. Development of selective covalent janus kinase 3 inhibitors. Journal of medicinal chemistry, 58 16:6589-606, Aug 2015. URL: https://doi.org/10.1021/acs.jmedchem.5b00710, doi:10.1021/acs.jmedchem.5b00710. This article has 121 citations and is from a highest quality peer-reviewed journal.
+
+5. (yamaoka2004thejanuskinases pages 2-3): Kunihiro Yamaoka, Pipsa Saharinen, Marko Pesu, Vance ET Holt, Olli Silvennoinen, and John J O'Shea. The janus kinases (jaks). Genome Biology, 5:253-253, Nov 2004. URL: https://doi.org/10.1186/gb-2004-5-12-253, doi:10.1186/gb-2004-5-12-253. This article has 851 citations and is from a highest quality peer-reviewed journal.
+
+6. (yamaoka2004thejanuskinases pages 3-4): Kunihiro Yamaoka, Pipsa Saharinen, Marko Pesu, Vance ET Holt, Olli Silvennoinen, and John J O'Shea. The janus kinases (jaks). Genome Biology, 5:253-253, Nov 2004. URL: https://doi.org/10.1186/gb-2004-5-12-253, doi:10.1186/gb-2004-5-12-253. This article has 851 citations and is from a highest quality peer-reviewed journal.
+
+7. (babon2014themolecularregulation pages 1-3): Jeffrey J. Babon, Isabelle S. Lucet, James M. Murphy, Nicos A. Nicola, and Leila N. Varghese. The molecular regulation of janus kinase (jak) activation. The Biochemical journal, 462 1:1-13, Aug 2014. URL: https://doi.org/10.1042/bj20140712, doi:10.1042/bj20140712. This article has 412 citations.
+
+8. (babon2014themolecularregulation pages 4-6): Jeffrey J. Babon, Isabelle S. Lucet, James M. Murphy, Nicos A. Nicola, and Leila N. Varghese. The molecular regulation of janus kinase (jak) activation. The Biochemical journal, 462 1:1-13, Aug 2014. URL: https://doi.org/10.1042/bj20140712, doi:10.1042/bj20140712. This article has 412 citations.
+
+9. (cetkoviccvrlje2004therapeuticpotentialof pages 1-2): M. Cetkovic-Cvrlje and Tibbles He. Therapeutic potential of janus kinase 3 (jak3) inhibitors. Current Pharmaceutical Design, 10:1767-1784, Jun 2004. URL: https://doi.org/10.2174/1381612043384529, doi:10.2174/1381612043384529. This article has 34 citations and is from a peer-reviewed journal.
+
+10. (roskoski2016januskinase(jak) pages 58-72): Robert Roskoski. Janus kinase (jak) inhibitors in the treatment of inflammatory and neoplastic diseases. Pharmacological Research, 111:784-803, Sep 2016. URL: https://doi.org/10.1016/j.phrs.2016.07.038, doi:10.1016/j.phrs.2016.07.038. This article has 406 citations and is from a highest quality peer-reviewed journal.
+
+11. (roskoski2016januskinase(jak) pages 72-78): Robert Roskoski. Janus kinase (jak) inhibitors in the treatment of inflammatory and neoplastic diseases. Pharmacological Research, 111:784-803, Sep 2016. URL: https://doi.org/10.1016/j.phrs.2016.07.038, doi:10.1016/j.phrs.2016.07.038. This article has 406 citations and is from a highest quality peer-reviewed journal.
+
+12. (roskoski2016januskinase(jak) pages 78-87): Robert Roskoski. Janus kinase (jak) inhibitors in the treatment of inflammatory and neoplastic diseases. Pharmacological Research, 111:784-803, Sep 2016. URL: https://doi.org/10.1016/j.phrs.2016.07.038, doi:10.1016/j.phrs.2016.07.038. This article has 406 citations and is from a highest quality peer-reviewed journal.
+
+13. (roskoski2016januskinase(jak) pages 8-12): Robert Roskoski. Janus kinase (jak) inhibitors in the treatment of inflammatory and neoplastic diseases. Pharmacological Research, 111:784-803, Sep 2016. URL: https://doi.org/10.1016/j.phrs.2016.07.038, doi:10.1016/j.phrs.2016.07.038. This article has 406 citations and is from a highest quality peer-reviewed journal.
+
+14. (roskoski2016januskinase(jak) pages 87-87): Robert Roskoski. Janus kinase (jak) inhibitors in the treatment of inflammatory and neoplastic diseases. Pharmacological Research, 111:784-803, Sep 2016. URL: https://doi.org/10.1016/j.phrs.2016.07.038, doi:10.1016/j.phrs.2016.07.038. This article has 406 citations and is from a highest quality peer-reviewed journal.
+
+15. (unknownauthors2008therapeutictargetingof pages 1-2): Therapeutic targeting of Janus kinases
+
+16. (unknownauthors2008therapeutictargetingof pages 2-4): Therapeutic targeting of Janus kinases
+
+17. (unknownauthors2008therapeutictargetingof pages 5-6): Therapeutic targeting of Janus kinases
+
+18. (yamaoka2004thejanuskinases pages 1-2): Kunihiro Yamaoka, Pipsa Saharinen, Marko Pesu, Vance ET Holt, Olli Silvennoinen, and John J O'Shea. The janus kinases (jaks). Genome Biology, 5:253-253, Nov 2004. URL: https://doi.org/10.1186/gb-2004-5-12-253, doi:10.1186/gb-2004-5-12-253. This article has 851 citations and is from a highest quality peer-reviewed journal.
+
+19. (raivola2018hyperactivationofoncogenic pages 4-7): Juuli Raivola, Henrik M. Hammarén, Anniina T. Virtanen, Vilasha Bulleeraz, Alister C. Ward, and Olli Silvennoinen. Hyperactivation of oncogenic jak3 mutants depend on atp binding to the pseudokinase domain. Frontiers in Oncology, Dec 2018. URL: https://doi.org/10.3389/fonc.2018.00560, doi:10.3389/fonc.2018.00560. This article has 19 citations and is from a peer-reviewed journal.
+
+20. (unknownauthors2016arequirementfor pages 22-27): A requirement for Y841 in Jak3 enzymatic activity and hematopoietic cancers
+
+21. (yamaoka2004thejanuskinases pages 4-5): Kunihiro Yamaoka, Pipsa Saharinen, Marko Pesu, Vance ET Holt, Olli Silvennoinen, and John J O'Shea. The janus kinases (jaks). Genome Biology, 5:253-253, Nov 2004. URL: https://doi.org/10.1186/gb-2004-5-12-253, doi:10.1186/gb-2004-5-12-253. This article has 851 citations and is from a highest quality peer-reviewed journal.

@@ -1,0 +1,78 @@
+## Phylogeny  
+• Kinome assignment: STE group → Germinal Center Kinase subfamily 6 (GCK-VI) within the Ste20-like serine/threonine kinases (serafim2021discoveryofa pages 1-6, thiriet2013cytoplasmicproteinserinethreonine pages 11-14).  
+• Closest human paralog: SLK, sharing 76–84 % identity in the kinase domain and 61–70 % in the coiled-coil region (unknownauthors2020investigationofresistance pages 26-31, serafim2021discoveryofa pages 1-6).  
+• Verified vertebrate orthologs: mouse LOK (98 % identity in the kinase domain), rat Stk10, zebrafish Stk10 (unknownauthors2020investigationofresistance pages 26-31, serafim2021discoveryofa pages 43-46).  
+• Invertebrate orthologs: Drosophila Slik and Caenorhabditis elegans GCK-3, demonstrating conservation across metazoa (serafim2021discoveryofa pages 43-46, leroy2016caspasecleavagesof pages 14-14).  
+
+## Reaction Catalyzed  
+ATP + [protein]-L-Ser/Thr ⇌ ADP + [protein]-O-phospho-L-Ser/Thr (serafim2021discoveryofa pages 22-25).  
+
+## Cofactor Requirements  
+Mg²⁺ is required for catalytic activity as used in in-vitro kinase assays (serafim2021discoveryofa pages 22-25).  
+
+## Substrate Specificity  
+• Cellular substrates: ezrin, radixin and moesin (phosphorylation of moesin Thr558 is a standard read-out) (leroy2016caspasecleavagesof pages 1-2, serafim2021discoveryofa pages 22-25).  
+• Additional substrates: vimentin Ser56 and PLK1 in vitro (serafim2021discoveryofa pages 43-46, unknownauthors2020investigationofresistance pages 26-31).  
+• Motif profiling: STK10 was included in the 2023 kinome atlas; a distinct consensus motif was reported but exact sequence information is not present in the excerpt (serafim2021discoveryofa pages 46-48).  
+
+## Structure  
+• Domain organisation: N-terminal kinase domain (≈ residues 1–300), a proline-rich segment, and a long C-terminal coiled-coil lacking a CRIB motif (thiriet2013cytoplasmicproteinserinethreonine pages 11-14, unknownauthors2020investigationofresistance pages 26-31).  
+• Crystal structure: isolated kinase domain (PDB 2J7T) shows activation-segment exchange dimerisation that drives trans-autophosphorylation (goldsmith2007substrateanddocking pages 5-6).  
+• Catalytic motifs: VAIK Lys49, HRD Asp158, DFG Asp176; autophosphorylation site Thr183 resides in the activation loop (goldsmith2007substrateanddocking pages 5-6).  
+• Regulatory cleavage: Asp332 marks a caspase-3 site separating kinase and coiled-coil regions (goldsmith2007substrateanddocking pages 5-6).  
+• Inhibitor complex: co-crystal with a 3-anilino-4-arylmaleimide (compound 56) reveals bifurcated hinge hydrogen bonds (E111/C113) and displacement of the glycine-rich loop (serafim2021discoveryofa pages 11-15).  
+• Membrane-targeting feature: basic residues adjacent to αG participate in a PIP₂-dependent wedge that confines activity to the cortical membrane (serafim2021discoveryofa pages 43-46).  
+
+## Regulation  
+• Autophosphorylation on Thr183 enhances catalytic output (goldsmith2007substrateanddocking pages 5-6).  
+• Activation-segment exchange homodimer augments activity (goldsmith2007substrateanddocking pages 5-6).  
+• Caspase-3 cleavage at Asp332 during apoptosis abolishes ERM phosphorylation (leroy2016caspasecleavagesof pages 1-2).  
+• Spatial regulation: PIP₂-anchored wedge restricts kinase action to apical cortex and lymphocyte uropod (serafim2021discoveryofa pages 43-46).  
+• Signalling cross-talk: functions as a negative modulator of MAP3K1/MEKK1 (annunziata2020phosphorylationsitesin pages 22-24).  
+
+## Function  
+• Expression: highest in spleen, thymus and bone marrow, predominantly in lymphocytes (leroy2016caspasecleavagesof pages 1-2, thiriet2013cytoplasmicproteinserinethreonine pages 11-14).  
+• Cytoskeletal control: ERM phosphorylation maintains cortical rigidity, microvilli structure and drives lymphocyte migration (leroy2016caspasecleavagesof pages 14-14, serafim2021discoveryofa pages 1-6).  
+• Cell-cycle interface: associates with and phosphorylates PLK1, linking STK10 to G2/M progression (unknownauthors2020investigationofresistance pages 26-31, thiriet2013cytoplasmicproteinserinethreonine pages 11-14).  
+• MAPK pathway modulation: suppresses MAP3K1/MEKK1 signalling (annunziata2020phosphorylationsitesin pages 22-24).  
+• Broader interactome: proximity labelling detects KRAS, RHOA, RHOB and adaptor CRKL, situating STK10 in Rho/Ras cytoskeletal networks (unknownauthors2023profilingtheinteractome pages 93-98).  
+
+## Inhibitors  
+• 3-Anilino-4-arylmaleimide series: compound 31, enzymatic IC₅₀ ≈ 12 nM; cellular IC₅₀ ≈ 1.4 µM; co-crystal data confirm ATP-site binding (serafim2021discoveryofa pages 15-18, serafim2021discoveryofa pages 11-15).  
+
+## Other Comments  
+• Cancer-associated missense mutation R634H in the coiled-coil abrogates NF-κB suppression and confers anti-apoptotic activity in peripheral T-cell lymphoma (unknownauthors2020investigationofresistance pages 26-31, leroy2016caspasecleavagesof pages 14-14).  
+• Stk10 knockout mice exhibit accelerated tumour growth due to tumour-microenvironment dysregulation (ma2022stk10deficiencyin pages 13-14).  
+• STK10 depletion sensitises triple-negative breast-cancer cells to the PI3Kα inhibitor BYL-719 (unknownauthors2020investigationofresistance pages 60-67).
+
+References
+
+1. (annunziata2020phosphorylationsitesin pages 22-24): Maria Carmela Annunziata, Melania Parisi, Gabriella Esposito, Gabriella Fabbrocini, Rosario Ammendola, and Fabio Cattaneo. Phosphorylation sites in protein kinases and phosphatases regulated by formyl peptide receptor 2 signaling. International Journal of Molecular Sciences, 21:3818, May 2020. URL: https://doi.org/10.3390/ijms21113818, doi:10.3390/ijms21113818. This article has 30 citations and is from a peer-reviewed journal.
+
+2. (goldsmith2007substrateanddocking pages 5-6): Elizabeth J. Goldsmith, Radha Akella, Xiaoshan Min, Tianjun Zhou, and John M. Humphreys. Substrate and docking interactions in serine/threonine protein kinases. Chemical Reviews, 107:5065-5081, Oct 2007. URL: https://doi.org/10.1021/cr068221w, doi:10.1021/cr068221w. This article has 155 citations and is from a highest quality peer-reviewed journal.
+
+3. (leroy2016caspasecleavagesof pages 14-14): C. Leroy, N. Belkina, Thavy Long, E. Deruy, C. Dissous, S. Shaw, and D. Tulasne. Caspase cleavages of the lymphocyte-oriented kinase prevent ezrin, radixin, and moesin phosphorylation during apoptosis*. The Journal of Biological Chemistry, 291:10148-10161, Mar 2016. URL: https://doi.org/10.1074/jbc.m116.721365, doi:10.1074/jbc.m116.721365. This article has 15 citations.
+
+4. (serafim2021discoveryofa pages 1-6): Ricardo A. M. Serafim, Fiona J. Sorrell, Benedict-Tilman Berger, Ross J. Collins, Stanley N. S. Vasconcelos, Katlin B. Massirer, Stefan Knapp, James Bennett, Oleg Fedorov, Hitesh Patel, William J. Zuercher, and Jonathan M. Elkins. Discovery of a potent dual slk/stk10 inhibitor based on a maleimide scaffold. Journal of Medicinal Chemistry, 64:13259-13278, Aug 2021. URL: https://doi.org/10.1021/acs.jmedchem.0c01579, doi:10.1021/acs.jmedchem.0c01579. This article has 13 citations and is from a highest quality peer-reviewed journal.
+
+5. (serafim2021discoveryofa pages 15-18): Ricardo A. M. Serafim, Fiona J. Sorrell, Benedict-Tilman Berger, Ross J. Collins, Stanley N. S. Vasconcelos, Katlin B. Massirer, Stefan Knapp, James Bennett, Oleg Fedorov, Hitesh Patel, William J. Zuercher, and Jonathan M. Elkins. Discovery of a potent dual slk/stk10 inhibitor based on a maleimide scaffold. Journal of Medicinal Chemistry, 64:13259-13278, Aug 2021. URL: https://doi.org/10.1021/acs.jmedchem.0c01579, doi:10.1021/acs.jmedchem.0c01579. This article has 13 citations and is from a highest quality peer-reviewed journal.
+
+6. (serafim2021discoveryofa pages 43-46): Ricardo A. M. Serafim, Fiona J. Sorrell, Benedict-Tilman Berger, Ross J. Collins, Stanley N. S. Vasconcelos, Katlin B. Massirer, Stefan Knapp, James Bennett, Oleg Fedorov, Hitesh Patel, William J. Zuercher, and Jonathan M. Elkins. Discovery of a potent dual slk/stk10 inhibitor based on a maleimide scaffold. Journal of Medicinal Chemistry, 64:13259-13278, Aug 2021. URL: https://doi.org/10.1021/acs.jmedchem.0c01579, doi:10.1021/acs.jmedchem.0c01579. This article has 13 citations and is from a highest quality peer-reviewed journal.
+
+7. (serafim2021discoveryofa pages 46-48): Ricardo A. M. Serafim, Fiona J. Sorrell, Benedict-Tilman Berger, Ross J. Collins, Stanley N. S. Vasconcelos, Katlin B. Massirer, Stefan Knapp, James Bennett, Oleg Fedorov, Hitesh Patel, William J. Zuercher, and Jonathan M. Elkins. Discovery of a potent dual slk/stk10 inhibitor based on a maleimide scaffold. Journal of Medicinal Chemistry, 64:13259-13278, Aug 2021. URL: https://doi.org/10.1021/acs.jmedchem.0c01579, doi:10.1021/acs.jmedchem.0c01579. This article has 13 citations and is from a highest quality peer-reviewed journal.
+
+8. (unknownauthors2020investigationofresistance pages 26-31): Investigation of resistance mechanisms in response to PIK3CA inhibition in breast cancer
+
+9. (leroy2016caspasecleavagesof pages 1-2): C. Leroy, N. Belkina, Thavy Long, E. Deruy, C. Dissous, S. Shaw, and D. Tulasne. Caspase cleavages of the lymphocyte-oriented kinase prevent ezrin, radixin, and moesin phosphorylation during apoptosis*. The Journal of Biological Chemistry, 291:10148-10161, Mar 2016. URL: https://doi.org/10.1074/jbc.m116.721365, doi:10.1074/jbc.m116.721365. This article has 15 citations.
+
+10. (ma2022stk10deficiencyin pages 13-14): Jin-Xia Ma, Dan-Dan Xu, Shun-Yuan Lu, Qian-Lan Wang, Lu Zhang, Rui Guo, Ling-Yun Tang, Yan Shen, Chun-Ling Shen, Jin-Jin Wang, Li-Ming Lu, Zhu-Gang Wang, and Hong-Xin Zhang. Stk10 deficiency in mice promotes tumor growth by dysregulating the tumor microenvironment. Biology, 11:1668, Nov 2022. URL: https://doi.org/10.3390/biology11111668, doi:10.3390/biology11111668. This article has 1 citations and is from a peer-reviewed journal.
+
+11. (serafim2021discoveryofa pages 11-15): Ricardo A. M. Serafim, Fiona J. Sorrell, Benedict-Tilman Berger, Ross J. Collins, Stanley N. S. Vasconcelos, Katlin B. Massirer, Stefan Knapp, James Bennett, Oleg Fedorov, Hitesh Patel, William J. Zuercher, and Jonathan M. Elkins. Discovery of a potent dual slk/stk10 inhibitor based on a maleimide scaffold. Journal of Medicinal Chemistry, 64:13259-13278, Aug 2021. URL: https://doi.org/10.1021/acs.jmedchem.0c01579, doi:10.1021/acs.jmedchem.0c01579. This article has 13 citations and is from a highest quality peer-reviewed journal.
+
+12. (serafim2021discoveryofa pages 22-25): Ricardo A. M. Serafim, Fiona J. Sorrell, Benedict-Tilman Berger, Ross J. Collins, Stanley N. S. Vasconcelos, Katlin B. Massirer, Stefan Knapp, James Bennett, Oleg Fedorov, Hitesh Patel, William J. Zuercher, and Jonathan M. Elkins. Discovery of a potent dual slk/stk10 inhibitor based on a maleimide scaffold. Journal of Medicinal Chemistry, 64:13259-13278, Aug 2021. URL: https://doi.org/10.1021/acs.jmedchem.0c01579, doi:10.1021/acs.jmedchem.0c01579. This article has 13 citations and is from a highest quality peer-reviewed journal.
+
+13. (thiriet2013cytoplasmicproteinserinethreonine pages 11-14): Marc Thiriet. Cytoplasmic protein serine/threonine kinases. Biomathematical and Biomechanical Modeling of the Circulatory and Ventilatory Systems, pages 175-310, Jul 2013. URL: https://doi.org/10.1007/978-1-4614-4370-4\_5, doi:10.1007/978-1-4614-4370-4\_5. This article has 12 citations.
+
+14. (unknownauthors2020investigationofresistance pages 60-67): Investigation of resistance mechanisms in response to PIK3CA inhibition in breast cancer
+
+15. (unknownauthors2023profilingtheinteractome pages 93-98): PROFILING THE INTERACTOME OF STK10

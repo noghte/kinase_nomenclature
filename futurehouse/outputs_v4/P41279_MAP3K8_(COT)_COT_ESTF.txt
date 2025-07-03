@@ -1,0 +1,102 @@
+## Phylogeny  
+Orthologs: Mus musculus Map3k8, Rattus norvegicus Tpl2, Danio rerio map3k8 paralogs, and the Drosophila melanogaster MAP3K “slpr” (slipper) (manning2002theproteinkinase pages 2-3, manning2002theproteinkinase pages 3-3, guan2023functionsofmap3ks pages 13-14).  
+Kinome position: STE group → MAP3K family → MAP3K8/Tpl2 subfamily (manning2002theproteinkinase pages 2-3).  
+Distinctive evolutionary feature: the Gly-rich loop contains Pro145 instead of the canonical glycine, a substitution unique among human kinases (gantke2011regulationandfunction pages 10-12).  
+
+## Reaction Catalyzed  
+ATP + [MAP2K]-Ser/Thr-OH ⇌ ADP + [MAP2K]-Ser/Thr-O-PO₃²⁻ (gantke2011regulationandfunction pages 2-4).  
+
+## Cofactor Requirements  
+Catalysis requires divalent metal ions; in vitro activity is supported by 5 mM Mg²⁺ + 2 mM Mn²⁺ (chan2005trafdependentassociationof pages 1-2). Independent peptide-array profiling employed 10 mM MgCl₂ (parikh2009comparisonofpeptide pages 2-3).  
+
+## Substrate Specificity  
+Verified protein substrates: MEK1/2, MKK4, MEK5, MKK6; MKK7 is not phosphorylated (gantke2011regulationandfunction pages 2-4, chiu2024map3k8isa pages 7-8).  
+Peptide-array mapping reveals a stringent preference for phenylalanine at −3/−2/−1 and +1 and for lysine at basic positions surrounding the phosphorylated Ser/Thr; most peptides remain unmodified, indicating narrow specificity (parikh2009comparisonofpeptide pages 6-7, parikh2009comparisonofpeptide pages 7-9).  
+No consensus motif for MAP3K8 was reported in the kinome-wide atlas by Johnson et al.; therefore a definitive linear motif is presently undefined (parikh2009comparisonofpeptide pages 3-5).  
+
+## Structure  
+Domain architecture: N-terminal regulatory segment harboring a nuclear-export sequence; central bilobed kinase domain; C-terminal inhibitory degron (residues 435-457) (collins2018theiκbproteinbcl3 pages 6-9, gantke2011regulationandfunction pages 2-4).  
+Crystallography: a 2.6 Å structure of the catalytic core (COT/Tpl2) displays an atypical fold with a flexible P-loop insert (gutmann2015thecrystalstructure pages 1-1).  
+Catalytic motifs: Lys-Glu salt bridge, HRD catalytic triad, DFG Mg²⁺-binding motif, and the unique Pro145 in the Gly-rich loop (bayliss2015theysand pages 20-25, gantke2011regulationandfunction pages 10-12).  
+Activation loop: Thr290 autophosphorylation site; Ser400 phosphorylation creates a 14-3-3 docking site (gantke2011regulationandfunction pages 7-9, gutmann2015thecrystalstructure pages 1-1).  
+Hydrophobic R- and C-spines align in the active state; the C-terminal tail folds back to suppress activity until proteolysis removes the degron (bayliss2015theysand pages 1-4, gantke2011regulationandfunction pages 2-4).  
+Quaternary assembly: physiological folding and stability require a stoichiometric complex with NF-κB1 p105 and ABIN-2 (gantke2011regulationandfunction pages 1-2, webb2019abin2ofthe pages 2-3).  
+
+## Regulation  
+Sequestration: In resting cells, MAP3K8 is inhibited within the p105–ABIN-2 ternary complex (gantke2011regulationandfunction pages 1-2).  
+Activation: IKKβ phosphorylates p105, causing K48-linked ubiquitination and proteasomal degradation that liberates MAP3K8 (collins2018theiκbproteinbcl3 pages 1-6).  
+Autophosphorylation/Trans-phosphorylation: Thr290 (autocatalytic) and Ser400 (auto- or trans-phosphorylation) are required for full activity and 14-3-3 binding (gantke2011regulationandfunction pages 7-9).  
+Nuclear turnover: After stimulus-induced nuclear translocation, MAP3K8 is polyubiquitinated and degraded; BCL-3 accelerates this process, lowering the MAPK activation threshold (collins2018theiκbproteinbcl3 pages 13-17).  
+Metabolic modulation: Extracellular L-arginine enhances Thr290/Ser400 phosphorylation and boosts signalling amplitude (gantke2011regulationandfunction pages 7-9).  
+C-terminal degron: residues 435-457 target the kinase for proteasomal destruction; truncations stabilize the protein and confer constitutive activity (gantke2011regulationandfunction pages 2-4).  
+
+## Function  
+Expression: Abundant in macrophages and other myeloid cells; inducible in airway epithelium and adipocytes (chiu2024map3k8isa pages 7-8, gantke2011regulationandfunction pages 1-2).  
+Upstream stimuli: TLR2/4/9 ligands, IL-1β, TNF, CD40, TRAF6; activation routes require the MyD88–IKK axis (gantke2011regulationandfunction pages 1-2, chiu2024map3k8isa pages 7-8).  
+Downstream signalling: Dominant MEK1/2→ERK1/2 cascade; context-dependent activation of MKK4→JNK and MKK3/6→p38 (chiu2024map3k8isa pages 7-8, gantke2011regulationandfunction pages 2-4).  
+Cytokine and chemokine control: indispensable for LPS-induced TNF; modulates IL-1β, IL-6, IL-8, IL-10, IL-12, CCL2, CXCL8, and related chemokines (gantke2011regulationandfunction pages 7-9, chiu2024map3k8isa pages 7-8).  
+Metabolism: couples IL-1β/TNF signalling to ERK-dependent lipolysis in adipocytes (gantke2011regulationandfunction pages 1-2).  
+Immune polarization: required for macrophage M2 lipid-metabolic programming and limits Schistosoma-induced Th2 fibrosis (kannan2016tpl2regulatesmacrophage pages 20-22).  
+Antiviral interface: Foot-and-mouth disease virus VP1 blocks Thr290 phosphorylation, dampening IRF3-mediated IFN-β induction (guan2023functionsofmap3ks pages 5-7).  
+
+## Inhibitors  
+• C34: ATP-competitive probe that suppresses MAP3K8-dependent cytokine production in macrophages (kannan2016tpl2regulatesmacrophage pages 20-22).  
+• Quinoline-3-carbonitrile series; analogue IIIa is the most potent inhibitor in biochemical assays targeting Tpl2 (hu2007inhibitionoftpl2 pages 1-1).  
+• 8-Substituted-4-anilino-6-aminoquinoline-3-carbonitriles demonstrate selective Tpl2 inhibition with in-vivo anti-inflammatory efficacy (unknownauthors2023combinationtherapiestargeting pages 199-201).  
+Quantitative IC₅₀ values were not provided in the cited excerpts.  
+
+## Other Comments  
+Oncogenic activation: C-terminal truncations that delete the degron enhance stability and transforming potential in lymphoid models (gantke2011regulationandfunction pages 10-12).  
+Disease linkage: Elevated MAP3K8 activity is implicated in rheumatoid arthritis, Crohn’s disease, colitis-associated cancer, melanoma, breast carcinoma and inflammatory bowel disease (gantke2011regulationandfunction pages 10-12, webb2019abin2ofthe pages 10-10).
+
+References
+
+1. (chan2005trafdependentassociationof pages 1-2): H. Chan and John Calvin Reed. Traf-dependent association of protein kinase tpl2/cot1 (map3k8) with cd40. Biochemical and biophysical research communications, 328 1:198-205, Mar 2005. URL: https://doi.org/10.1016/j.bbrc.2004.12.155, doi:10.1016/j.bbrc.2004.12.155. This article has 25 citations and is from a peer-reviewed journal.
+
+2. (chiu2024map3k8isa pages 7-8): Chih-Yung Chiu, S. Willis-Owen, Kenny C. C. Wong, Stuart N Farrow, W. Cookson, Miriam F. Moffatt, and Youming Zhang. Map3k8 is a potential therapeutic target in airway epithelial inflammation. Journal of Inflammation (London, England), Jul 2024. URL: https://doi.org/10.1186/s12950-024-00400-2, doi:10.1186/s12950-024-00400-2. This article has 5 citations.
+
+3. (collins2018theiκbproteinbcl3 pages 1-6): P. E. Collins, D. Somma, D. Kerrigan, Felicity D. Herrington, Karen Keeshan, R. Nibbs, and R. Carmody. The iκb-protein bcl-3 controls mapk activity by promoting tpl-2 degradation in the nucleus. bioRxiv, Jul 2018. URL: https://doi.org/10.1101/373209, doi:10.1101/373209. This article has 0 citations.
+
+4. (collins2018theiκbproteinbcl3 pages 13-17): P. E. Collins, D. Somma, D. Kerrigan, Felicity D. Herrington, Karen Keeshan, R. Nibbs, and R. Carmody. The iκb-protein bcl-3 controls mapk activity by promoting tpl-2 degradation in the nucleus. bioRxiv, Jul 2018. URL: https://doi.org/10.1101/373209, doi:10.1101/373209. This article has 0 citations.
+
+5. (gantke2011regulationandfunction pages 1-2): T. Gantke, S. Sriskantharajah, and S. Ley. Regulation and function of tpl-2, an iκb kinase-regulated map kinase kinase kinase. Cell Research, 21:131-145, 2011. URL: https://doi.org/10.1038/cr.2010.173, doi:10.1038/cr.2010.173. This article has 202 citations and is from a domain leading peer-reviewed journal.
+
+6. (gantke2011regulationandfunction pages 10-12): T. Gantke, S. Sriskantharajah, and S. Ley. Regulation and function of tpl-2, an iκb kinase-regulated map kinase kinase kinase. Cell Research, 21:131-145, 2011. URL: https://doi.org/10.1038/cr.2010.173, doi:10.1038/cr.2010.173. This article has 202 citations and is from a domain leading peer-reviewed journal.
+
+7. (gantke2011regulationandfunction pages 2-4): T. Gantke, S. Sriskantharajah, and S. Ley. Regulation and function of tpl-2, an iκb kinase-regulated map kinase kinase kinase. Cell Research, 21:131-145, 2011. URL: https://doi.org/10.1038/cr.2010.173, doi:10.1038/cr.2010.173. This article has 202 citations and is from a domain leading peer-reviewed journal.
+
+8. (gantke2011regulationandfunction pages 7-9): T. Gantke, S. Sriskantharajah, and S. Ley. Regulation and function of tpl-2, an iκb kinase-regulated map kinase kinase kinase. Cell Research, 21:131-145, 2011. URL: https://doi.org/10.1038/cr.2010.173, doi:10.1038/cr.2010.173. This article has 202 citations and is from a domain leading peer-reviewed journal.
+
+9. (guan2023functionsofmap3ks pages 5-7): Jizhong Guan, Yao-min Fan, Shuai Wang, and Fangfang Zhou. Functions of map3ks in antiviral immunity. Immunologic Research, 71:814-832, Jun 2023. URL: https://doi.org/10.1007/s12026-023-09401-4, doi:10.1007/s12026-023-09401-4. This article has 14 citations and is from a peer-reviewed journal.
+
+10. (manning2002theproteinkinase pages 2-3): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+11. (parikh2009comparisonofpeptide pages 3-5): K. Parikh, S. Diks, J. Tuynman, A. Verhaar, M. Löwenberg, D. Hommes, J. Joore, A. Pandey, and M. Peppelenbosch. Comparison of peptide array substrate phosphorylation of c-raf and mitogen activated protein kinase kinase kinase 8. PLoS ONE, Jul 2009. URL: https://doi.org/10.1371/journal.pone.0006440, doi:10.1371/journal.pone.0006440. This article has 24 citations and is from a peer-reviewed journal.
+
+12. (parikh2009comparisonofpeptide pages 7-9): K. Parikh, S. Diks, J. Tuynman, A. Verhaar, M. Löwenberg, D. Hommes, J. Joore, A. Pandey, and M. Peppelenbosch. Comparison of peptide array substrate phosphorylation of c-raf and mitogen activated protein kinase kinase kinase 8. PLoS ONE, Jul 2009. URL: https://doi.org/10.1371/journal.pone.0006440, doi:10.1371/journal.pone.0006440. This article has 24 citations and is from a peer-reviewed journal.
+
+13. (bayliss2015theysand pages 20-25): Richard Bayliss, Tamanna Haq, and Sharon Yeoh. The ys and wherefores of protein kinase autoinhibition. Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics, 1854:1586-1594, Oct 2015. URL: https://doi.org/10.1016/j.bbapap.2015.04.025, doi:10.1016/j.bbapap.2015.04.025. This article has 21 citations.
+
+14. (guan2023functionsofmap3ks pages 13-14): Jizhong Guan, Yao-min Fan, Shuai Wang, and Fangfang Zhou. Functions of map3ks in antiviral immunity. Immunologic Research, 71:814-832, Jun 2023. URL: https://doi.org/10.1007/s12026-023-09401-4, doi:10.1007/s12026-023-09401-4. This article has 14 citations and is from a peer-reviewed journal.
+
+15. (gutmann2015thecrystalstructure pages 1-1): S. Gutmann, A. Hinniger, G. Fendrich, Peter Drückes, Sylvie Antz, H. Mattes, Henrik Möbitz, S. Ofner, Niko Schmiedeberg, A. Stojanović, S. Rieffel, A. Strauss, T. Troxler, Ralf Glatthar, and H. Sparrer. The crystal structure of cancer osaka thyroid kinase reveals an unexpected kinase domain fold*. The Journal of Biological Chemistry, 290:15210-15218, Apr 2015. URL: https://doi.org/10.1074/jbc.m115.648097, doi:10.1074/jbc.m115.648097. This article has 24 citations.
+
+16. (hu2007inhibitionoftpl2 pages 1-1): Yonghan Hu. Inhibition of tpl2 kinase and tnfα production with quinoline‐3‐carbonitriles for the treatment of rheumatoid arthritis. ChemInform, Mar 2007. URL: https://doi.org/10.1002/chin.200711116, doi:10.1002/chin.200711116. This article has 87 citations.
+
+17. (kannan2016tpl2regulatesmacrophage pages 20-22): Y. Kannan, J. Perez-Lloret, Yanda Li, Lewis J. Entwistle, Hania Khoury, S. Papoutsopoulou, R. Mahmood, Nuha R Mansour, Stanley Ching-Cheng Huang, E. Pearce, Luiz Pedro S de Carvalho, S. Ley, and M. Wilson. Tpl-2 regulates macrophage lipid metabolism and m2 differentiation to control th2-mediated immunopathology. PLoS Pathogens, Aug 2016. URL: https://doi.org/10.1371/journal.ppat.1005783, doi:10.1371/journal.ppat.1005783. This article has 30 citations and is from a highest quality peer-reviewed journal.
+
+18. (manning2002theproteinkinase pages 3-3): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+19. (parikh2009comparisonofpeptide pages 2-3): K. Parikh, S. Diks, J. Tuynman, A. Verhaar, M. Löwenberg, D. Hommes, J. Joore, A. Pandey, and M. Peppelenbosch. Comparison of peptide array substrate phosphorylation of c-raf and mitogen activated protein kinase kinase kinase 8. PLoS ONE, Jul 2009. URL: https://doi.org/10.1371/journal.pone.0006440, doi:10.1371/journal.pone.0006440. This article has 24 citations and is from a peer-reviewed journal.
+
+20. (parikh2009comparisonofpeptide pages 6-7): K. Parikh, S. Diks, J. Tuynman, A. Verhaar, M. Löwenberg, D. Hommes, J. Joore, A. Pandey, and M. Peppelenbosch. Comparison of peptide array substrate phosphorylation of c-raf and mitogen activated protein kinase kinase kinase 8. PLoS ONE, Jul 2009. URL: https://doi.org/10.1371/journal.pone.0006440, doi:10.1371/journal.pone.0006440. This article has 24 citations and is from a peer-reviewed journal.
+
+21. (unknownauthors2023combinationtherapiestargeting pages 199-201): Combination Therapies Targeting Extracellular Signal Regulated Kinases 1/2 and Histone Deacetylase 6 as Potential Therapeutics for B-Cell Lymphoma
+
+22. (webb2019abin2ofthe pages 10-10): Louise V. Webb, S. Ventura, and S. Ley. Abin-2, of the tpl-2 signaling complex, modulates mammalian inflammation. Trends in immunology, Aug 2019. URL: https://doi.org/10.1016/j.it.2019.07.001, doi:10.1016/j.it.2019.07.001. This article has 24 citations and is from a domain leading peer-reviewed journal.
+
+23. (webb2019abin2ofthe pages 2-3): Louise V. Webb, S. Ventura, and S. Ley. Abin-2, of the tpl-2 signaling complex, modulates mammalian inflammation. Trends in immunology, Aug 2019. URL: https://doi.org/10.1016/j.it.2019.07.001, doi:10.1016/j.it.2019.07.001. This article has 24 citations and is from a domain leading peer-reviewed journal.
+
+24. (bayliss2015theysand pages 1-4): Richard Bayliss, Tamanna Haq, and Sharon Yeoh. The ys and wherefores of protein kinase autoinhibition. Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics, 1854:1586-1594, Oct 2015. URL: https://doi.org/10.1016/j.bbapap.2015.04.025, doi:10.1016/j.bbapap.2015.04.025. This article has 21 citations.
+
+25. (collins2018theiκbproteinbcl3 pages 6-9): P. E. Collins, D. Somma, D. Kerrigan, Felicity D. Herrington, Karen Keeshan, R. Nibbs, and R. Carmody. The iκb-protein bcl-3 controls mapk activity by promoting tpl-2 degradation in the nucleus. bioRxiv, Jul 2018. URL: https://doi.org/10.1101/373209, doi:10.1101/373209. This article has 0 citations.

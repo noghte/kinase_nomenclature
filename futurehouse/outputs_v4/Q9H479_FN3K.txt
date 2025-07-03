@@ -1,0 +1,88 @@
+## Phylogeny  
+• Single-copy orthologs occur from bacteria (Escherichia coli YihX) through plants (Arabidopsis thaliana AtFN3K) to lower eukaryotes such as Danio rerio and Mus musculus, underscoring deep conservation of the FN3K family (shrestha2020aredoxactiveswitch pages 1-1).  
+• Two independent gene-duplication events in tetrapods produced the human paralogs FN3K and FN3K-related protein (FN3KRP); fish and urochordates retain only an FN3KRP-like locus (delplanque2004tissuedistributionand pages 1-1).  
+• Human FN3K and FN3KRP share ≈65 % sequence identity and are clustered on chromosome 17q25.3 (avemaria2015possibleroleof pages 1-2, collard2003amammalianprotein pages 2-4).  
+• Sequence/structural comparisons place FN3K within the protein-kinase-like (PKL) clade of the human kinome, most closely related to small-molecule aminoglycoside phosphotransferases rather than canonical eukaryotic Ser/Thr or Tyr kinases (unknownauthors2023elucidatingtheunderstudied pages 61-65, payne2008mappingofthe pages 1-2).  
+
+## Reaction Catalyzed  
+ATP + protein-bound Nε-fructosyl-L-lysine ⇌ ADP + protein-bound Nε-fructosyl-L-lysine-3-phosphate (delpierre2003fructosamine3kinasean pages 1-2).  
+
+## Cofactor Requirements  
+• Catalytic activity requires Mg²⁺; Mg²⁺ chelation abolishes phosphate transfer (delplanque2004tissuedistributionand pages 3-4).  
+• In vitro assays confirm ATP-Mg²⁺ as the obligatory nucleotide/cofactor pair (payne2008mappingofthe pages 1-2).  
+
+## Substrate Specificity  
+• Highest turnover is observed on protein-bound fructosamine adducts (fructoselysine); unmodified proteins are not phosphorylated (szwergold2001humanfructosamine3kinasepurification pages 2-4).  
+• FN3K also accepts psicosamine- and ribulosamine-modified proteins, albeit with lower efficiency (collard2003amammalianprotein pages 2-4, delplanque2004tissuedistributionand pages 1-1).  
+• The small-molecule mimic 1-deoxy-1-morpholino-D-fructose (DMF) is an efficient competitive substrate (delpierre2003fructosamine3kinasean pages 1-2).  
+• Substrate recognition is governed by the ketosamine moiety; no linear peptide consensus motif has been defined (delpierre2003fructosamine3kinasean pages 1-2).  
+
+## Structure  
+• Crystal structures of plant FN3K (PDB 6O0V/6O0W) reveal a canonical bilobal PKL kinase fold with conserved VAIK, HGD and DFG catalytic motifs (unknownauthors2023elucidatingtheunderstudied pages 27-32).  
+• A conserved P-loop cysteine (Cys24 in human FN3K) forms an inter-subunit disulfide, creating a strand-exchange dimer that functions as a redox switch (shrestha2020aredoxactiveswitch pages 1-1).  
+• Human FN3K crystallizes as a domain-swapped dimer; key catalytic residues include Lys41, Glu55, Asp217 and Asp234 positioned for ATP and sugar coordination (garg2025themolecularbasis pages 2-3, garg2025themolecularbasis pages 8-10, payne2008mappingofthe pages 2-3).  
+• FN3K lacks the extended activation segment typical of eukaryotic protein kinases, consistent with its specialization for small-molecule substrates (unknownauthors2023elucidatingtheunderstudied pages 27-32).  
+
+## Regulation  
+• Redox control: oxidation of Cys24 triggers disulfide-linked dimerization; reduction reverses the process, modulating activity (shrestha2020aredoxactiveswitch pages 1-1, unknownauthors2023elucidatingtheunderstudied pages 45-51).  
+• Dimerization enhances catalytic efficiency (~60 % increase compared with monomer) (garg2025themolecularbasis pages 1-2).  
+• NADH binds the ATP pocket and stabilizes the protein thermally while inhibiting kinase activity in a concentration-dependent manner (kannan2024illuminatingthefunctions pages 9-11).  
+• No experimentally verified phosphorylation, ubiquitination or other covalent PTMs have been reported; PhosphoSitePlus currently lists sites of unknown functional relevance (kannan2024illuminatingthefunctions pages 28-34).  
+
+## Function  
+• Catalyzes intracellular protein deglycation, thereby repairing early glycation damage and preventing accumulation of advanced glycation end products (delpierre2003fructosamine3kinasean pages 1-2).  
+• Highly expressed in erythrocytes, brain, heart, kidney, skeletal muscle and lens; lower activity in lung, spleen and thymus (delplanque2004tissuedistributionand pages 3-4).  
+• Localizes to cytoplasm, mitochondria and nucleus, consistent with a broad protein-repair role (kannan2024illuminatingthefunctions pages 9-11).  
+• Deglycates the transcription factor NRF2, preserving oxidative-stress responses (beeraka2021thetamingof pages 12-14).  
+• Interactome analyses identify partners in glycolysis (LDHA) and lipid metabolism (FASN), linking FN3K to metabolic pathway regulation (kannan2024illuminatingthefunctions pages 6-9).  
+
+## Inhibitors  
+• 1-Deoxy-1-morpholino-D-fructose (DMF) competes with protein substrates and reduces activity in vitro (delpierre2003fructosamine3kinasean pages 1-2).  
+• NADH acts as a micromolar-range inhibitor via ATP-site binding (kannan2024illuminatingthefunctions pages 9-11).  
+• Dimethyl fumarate has been reported to suppress FN3K activity in cell-free assays (beeraka2021thetamingof pages 14-15).  
+
+## Other Comments  
+• Reduced FN3K activity or loss-of-function polymorphisms elevate protein glycation and associate with diabetic complications, including retinopathy and neuropathy (avemaria2015possibleroleof pages 1-2, shrestha2020aredoxactiveswitch pages 1-1).  
+• FN3K expression is altered in hepatocellular and colorectal carcinomas, implicating the enzyme in cancer metabolism via the NRF2 axis (beeraka2021thetamingof pages 12-14).
+
+References
+
+1. (beeraka2021thetamingof pages 14-15): Narasimha M. Beeraka, Venugopal R. Bovilla, Shalini H. Doreswamy, Sujatha Puttalingaiah, Asha Srinivasan, and SubbaRao V. Madhunapantula. The taming of nuclear factor erythroid-2-related factor-2 (nrf2) deglycation by fructosamine-3-kinase (fn3k)-inhibitors-a novel strategy to combat cancers. Cancers, 13:281, Jan 2021. URL: https://doi.org/10.3390/cancers13020281, doi:10.3390/cancers13020281. This article has 26 citations and is from a peer-reviewed journal.
+
+2. (garg2025themolecularbasis pages 1-2): Ankur Garg, Kin Fan On, Yang Xiao, Elad Elkayam, Paolo Cifani, Yael David, and Leemor Joshua-Tor. The molecular basis of human fn3k mediated phosphorylation of glycated substrates. Nature Communications, Jan 2025. URL: https://doi.org/10.1038/s41467-025-56207-z, doi:10.1038/s41467-025-56207-z. This article has 2 citations and is from a highest quality peer-reviewed journal.
+
+3. (garg2025themolecularbasis pages 2-3): Ankur Garg, Kin Fan On, Yang Xiao, Elad Elkayam, Paolo Cifani, Yael David, and Leemor Joshua-Tor. The molecular basis of human fn3k mediated phosphorylation of glycated substrates. Nature Communications, Jan 2025. URL: https://doi.org/10.1038/s41467-025-56207-z, doi:10.1038/s41467-025-56207-z. This article has 2 citations and is from a highest quality peer-reviewed journal.
+
+4. (garg2025themolecularbasis pages 8-10): Ankur Garg, Kin Fan On, Yang Xiao, Elad Elkayam, Paolo Cifani, Yael David, and Leemor Joshua-Tor. The molecular basis of human fn3k mediated phosphorylation of glycated substrates. Nature Communications, Jan 2025. URL: https://doi.org/10.1038/s41467-025-56207-z, doi:10.1038/s41467-025-56207-z. This article has 2 citations and is from a highest quality peer-reviewed journal.
+
+5. (kannan2024illuminatingthefunctions pages 28-34): Natarajan Kannan, Safal Shrestha, Rahil Taujale, and Samiksha Katiyar. Illuminating the functions of the understudied fructosamine-3-kinase (fn3k) using a multi-omics approach reveals new links to lipid, carbon, and co-factor metabolic pathways. Research Square, Feb 2024. URL: https://doi.org/10.21203/rs.3.rs-3934957/v1, doi:10.21203/rs.3.rs-3934957/v1. This article has 2 citations.
+
+6. (kannan2024illuminatingthefunctions pages 9-11): Natarajan Kannan, Safal Shrestha, Rahil Taujale, and Samiksha Katiyar. Illuminating the functions of the understudied fructosamine-3-kinase (fn3k) using a multi-omics approach reveals new links to lipid, carbon, and co-factor metabolic pathways. Research Square, Feb 2024. URL: https://doi.org/10.21203/rs.3.rs-3934957/v1, doi:10.21203/rs.3.rs-3934957/v1. This article has 2 citations.
+
+7. (shrestha2020aredoxactiveswitch pages 1-1): Safal Shrestha, Samiksha Katiyar, Carlos E. Sanz-Rodriguez, Nolan R. Kemppinen, Hyun W. Kim, Renuka Kadirvelraj, Charalampos Panagos, Neda Keyhaninejad, Maxwell Colonna, Pradeep Chopra, Dominic P. Byrne, Geert J. Boons, Esther van der Knaap, Patrick A. Eyers, Arthur S. Edison, Zachary A. Wood, and Natarajan Kannan. A redox-active switch in fructosamine-3-kinases expands the regulatory repertoire of the protein kinase superfamily. Science Signaling, Jul 2020. URL: https://doi.org/10.1126/scisignal.aax6313, doi:10.1126/scisignal.aax6313. This article has 23 citations and is from a domain leading peer-reviewed journal.
+
+8. (unknownauthors2023elucidatingtheunderstudied pages 27-32): Elucidating the Understudied Fructosamine-3-Kinase (FN3K) Family: A Combined Experimental and Computational Study on Structure, Function, Evolution, and …
+
+9. (unknownauthors2023elucidatingtheunderstudied pages 61-65): Elucidating the Understudied Fructosamine-3-Kinase (FN3K) Family: A Combined Experimental and Computational Study on Structure, Function, Evolution, and …
+
+10. (avemaria2015possibleroleof pages 1-2): Francesca Avemaria, Paola Carrera, Annunziata Lapolla, Giovanni Sartore, Nino Cristiano Chilelli, Renata Paleari, Alessandro Ambrosi, Maurizio Ferrari, and Andrea Mosca. Possible role of fructosamine 3-kinase genotyping for the management of diabetic patients. Clinical Chemistry and Laboratory Medicine (CCLM), 53:1315-1320, Aug 2015. URL: https://doi.org/10.1515/cclm-2015-0207, doi:10.1515/cclm-2015-0207. This article has 23 citations.
+
+11. (beeraka2021thetamingof pages 12-14): Narasimha M. Beeraka, Venugopal R. Bovilla, Shalini H. Doreswamy, Sujatha Puttalingaiah, Asha Srinivasan, and SubbaRao V. Madhunapantula. The taming of nuclear factor erythroid-2-related factor-2 (nrf2) deglycation by fructosamine-3-kinase (fn3k)-inhibitors-a novel strategy to combat cancers. Cancers, 13:281, Jan 2021. URL: https://doi.org/10.3390/cancers13020281, doi:10.3390/cancers13020281. This article has 26 citations and is from a peer-reviewed journal.
+
+12. (collard2003amammalianprotein pages 2-4): François Collard, Ghislain Delpierre, Vincent Stroobant, Gert Matthijs, and Emile Van Schaftingen. A mammalian protein homologous to fructosamine-3-kinase is a ketosamine-3-kinase acting on psicosamines and ribulosamines but not on fructosamines. Diabetes, 52:2888-2895, Dec 2003. URL: https://doi.org/10.2337/diabetes.52.12.2888, doi:10.2337/diabetes.52.12.2888. This article has 66 citations.
+
+13. (delpierre2003fructosamine3kinasean pages 1-2): Ghislain Delpierre and E. Schaftingen. Fructosamine 3-kinase, an enzyme involved in protein deglycation. Biochemical Society Transactions, 31:1354-1357, Dec 2003. URL: https://doi.org/10.1042/bst0311354, doi:10.1042/bst0311354. This article has 48 citations and is from a peer-reviewed journal.
+
+14. (delplanque2004tissuedistributionand pages 3-4): Jérôme Delplanque, Ghislain Delpierre, Fred R. Opperdoes, and Emile Van Schaftingen. Tissue distribution and evolution of fructosamine 3-kinase and fructosamine 3-kinase-related protein*. Journal of Biological Chemistry, 279:46606-46613, Nov 2004. URL: https://doi.org/10.1074/jbc.m407678200, doi:10.1074/jbc.m407678200. This article has 67 citations and is from a domain leading peer-reviewed journal.
+
+15. (kannan2024illuminatingthefunctions pages 6-9): Natarajan Kannan, Safal Shrestha, Rahil Taujale, and Samiksha Katiyar. Illuminating the functions of the understudied fructosamine-3-kinase (fn3k) using a multi-omics approach reveals new links to lipid, carbon, and co-factor metabolic pathways. Research Square, Feb 2024. URL: https://doi.org/10.21203/rs.3.rs-3934957/v1, doi:10.21203/rs.3.rs-3934957/v1. This article has 2 citations.
+
+16. (payne2008mappingofthe pages 1-2): Leo S. Payne, Peter M. Brown, Martin Middleditch, Edward Baker, Garth J. S. Cooper, and Kerry M. Loomes. Mapping of the atp-binding domain of human fructosamine 3-kinase-related protein by affinity labelling with 5'-[p-(fluorosulfonyl)benzoyl]adenosine. The Biochemical journal, 416 2:281-8, Dec 2008. URL: https://doi.org/10.1042/bj20080389, doi:10.1042/bj20080389. This article has 14 citations.
+
+17. (unknownauthors2023elucidatingtheunderstudied pages 45-51): Elucidating the Understudied Fructosamine-3-Kinase (FN3K) Family: A Combined Experimental and Computational Study on Structure, Function, Evolution, and …
+
+18. (delplanque2004tissuedistributionand pages 1-1): Jérôme Delplanque, Ghislain Delpierre, Fred R. Opperdoes, and Emile Van Schaftingen. Tissue distribution and evolution of fructosamine 3-kinase and fructosamine 3-kinase-related protein*. Journal of Biological Chemistry, 279:46606-46613, Nov 2004. URL: https://doi.org/10.1074/jbc.m407678200, doi:10.1074/jbc.m407678200. This article has 67 citations and is from a domain leading peer-reviewed journal.
+
+19. (payne2008mappingofthe pages 2-3): Leo S. Payne, Peter M. Brown, Martin Middleditch, Edward Baker, Garth J. S. Cooper, and Kerry M. Loomes. Mapping of the atp-binding domain of human fructosamine 3-kinase-related protein by affinity labelling with 5'-[p-(fluorosulfonyl)benzoyl]adenosine. The Biochemical journal, 416 2:281-8, Dec 2008. URL: https://doi.org/10.1042/bj20080389, doi:10.1042/bj20080389. This article has 14 citations.
+
+20. (szwergold2001humanfructosamine3kinasepurification pages 2-4): B. Szwergold, S. Howell, and P. Beisswenger. Human fructosamine-3-kinase: purification, sequencing, substrate specificity, and evidence of activity in vivo. Diabetes, 50 9:2139-47, Sep 2001. URL: https://doi.org/10.2337/diabetes.50.9.2139, doi:10.2337/diabetes.50.9.2139. This article has 212 citations.

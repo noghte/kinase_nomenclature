@@ -1,0 +1,110 @@
+## Phylogeny  
+• Orthologs identified across eukaryotes include Saccharomyces cerevisiae Fus3 and Slt2/Mpk1, Drosophila melanogaster rolled, Caenorhabditis elegans mpk-1, Xenopus laevis Erk2, and Mus musculus Mapk1, confirming deep conservation of the ERK branch (goshenlago2016variantsofthe pages 12-13, kushnir2020anactivatingmutation pages 10-11, yashar1993novelmembersof pages 1-2).  
+• Kinome assignment: CMGC group → MAP kinase family → ERK sub-family, as reiterated for ERK1/2 in multiple comparative analyses (roskoski2012erk12mapkinases pages 4-5, coulombe2007atypicalmitogenactivatedprotein pages 1-2).  
+• Paralog relationship: ERK2 shares ~84 % sequence identity with ERK1, together forming a distinct clade separate from the p38, JNK, and ERK5 families (roskoski2012erk12mapkinases pages 4-5).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + protein-Ser/Thr-phosphate (roskoski2012erk12mapkinases pages 36-36).  
+
+## Cofactor Requirements  
+Catalytic activity requires divalent cations, preferentially Mg²⁺; Mn²⁺ can substitute (roskoski2012erk12mapkinases pages 36-36).  
+
+## Substrate Specificity  
+• Minimal consensus motif: Pro-X-Ser/Thr-Pro with an obligatory Pro at +1; Pro at –2 and basic residues at –3 enhance efficiency (roskoski2012erk12mapkinases pages 11-12).  
+• Position-specific scoring of 303 human Ser/Thr kinases confirms enrichment for Pro at +1 and Lys/Arg at –3 in ERK2 substrates (johnson2023anatlasof pages 4-5).  
+• High-affinity recognition is reinforced by substrate D-sites ((R/K)₂₋₃-X₂₋₆-Φ-X-Φ) and F-sites (Φ-X-Φ-P) that dock to the kinase D- and F-recruitment surfaces, respectively (roskoski2012erk12mapkinases pages 11-12).  
+• Proximity-induced catalysis through distal docking domains has been demonstrated biochemically with ETS-family substrates (rainey2005proximityinducedcatalysisby pages 1-2).  
+
+## Structure  
+• Bilobal kinase fold: a five-stranded antiparallel β-sheet and αC-helix form the N-lobe, while an α-helical C-lobe houses the activation segment and substrate-binding surfaces (roskoski2012erk12mapkinases pages 6-8).  
+• Catalytic motifs: VAIK (Lys54 couples to Glu71 in αC), HRD (His147-Arg148-Asp149) constitutes the catalytic base, and DFG (Asp167-Phe168-Gly169) initiates the activation segment and coordinates Mg²⁺/ATP (roskoski2012erk12mapkinases pages 6-8, 8-9).  
+• Activation loop residues Thr183 and Tyr185 undergo dual phosphorylation, aligning the regulatory hydrophobic spine (Ile103, Leu92, Leu187, His164, Asp227) and closing the inter-lobe cleft (roskoski2012erk12mapkinases pages 8-9).  
+• Common docking (CD) domain centred on Asp318/Asp321 mediates binding of substrates, phosphatases and scaffold proteins; charge-reversal mutations at this surface destabilise the kinase and reduce k_cat (novak2023mutationinthe pages 2-4).  
+• Unique structural insert: a 31-residue C-terminal extension (helices 1L14/2L14) packs against the activation loop, modulating conformational transitions (roskoski2012erk12mapkinases pages 8-9).  
+• Hinge dynamics between the lobes govern global motions; mutations in this energetic hotspot alter allostery and function (taylor2019functionaldivergencecaused pages 7-8).  
+• Representative coordinates: inactive ERK2 (PDB 2OJG) and active doubly phosphorylated ERK2 (PDB 2ERK) (goshenlago2016variantsofthe pages 13-13); MEK-bound active complex (PDB 6OPL) captures an on-pathway conformation (unknownauthors2021impactoferk2 pages 12-18); full-length AlphaFold model AF-P28482-F1 provides unresolved termini (unknownauthors2021impactoferk2 pages 12-18).  
+• Comparative analysis with p38 illustrates a wider inter-lobe angle and distinct activation-loop topology, underscoring family-specific substrate pockets (wang1997thestructureof pages 3-5).  
+
+## Regulation  
+• Activation: MEK1/2 phosphorylate Thr183 followed by Tyr185 within the TEY motif, increasing catalytic efficiency by ~5 × 10⁴-fold (roskoski2012erk12mapkinases pages 2-4, 9-10; novak2023mutationinthe pages 1-2).  
+• Inactivation: multiple dual-specificity phosphatases (DUSPs) remove both phosphates, terminating signalling (roskoski2012erk12mapkinases pages 2-4).  
+• Acetylation: CBP and p300 acetylate Lys72 (and Lys48, Lys203, Lys344); acetylation diminishes kinase activity by disrupting ATP-binding salt bridges, whereas HDAC6-mediated deacetylation restores activity (unknownauthors2017histonedeacetylase6 pages 5-6, 15-16; wu2018histonedeacetylase6 pages 15-16).  
+• Ubiquitination: ERK2 is ubiquitinated, but precise sites and E3 ligases remain unassigned (unknownauthors2017regulationofextracellular pages 18-22).  
+• Allosteric control: CD-site charge-neutralising substitutions (e.g., D321N, E322K) or hinge-region mutations alter inter-lobe coupling and substrate turnover (novak2023mutationinthe pages 20-21, taylor2019functionaldivergencecaused pages 7-8).  
+
+## Function  
+• Expression is ubiquitous with particularly high levels in placenta, heart and brain (aouadi2006roleofmapks pages 2-3, muslin2008mapksignallingin pages 3-5).  
+• Genetic ablation in mice causes embryonic lethality owing to placental and mesodermal defects, highlighting essential developmental roles (aouadi2006roleofmapks pages 2-3).  
+• Upstream cascade: activated Ras-GTP → RAF (A-Raf/B-Raf/Raf-1) → MEK1/2 → ERK2, assembled by scaffolds KSR1/2 and MP1 (coulombe2007atypicalmitogenactivatedprotein pages 1-2, roskoski2012erk12mapkinases pages 2-4).  
+• Downstream targets: nuclear transcription factors (c-Fos, Elk-1) and cytoplasmic substrates such as RSK1/2 and cytoskeletal regulators, governing proliferation, differentiation, adhesion and survival (roskoski2012erk12mapkinases pages 1-2, unknownauthors2021impactoferk2 pages 12-18).  
+• Additional signalling: participates in KIT/KITLG pathways and other receptor-tyrosine-kinase networks, broadening its physiological impact (roskoski2012erk12mapkinases pages 1-2).  
+
+## Inhibitors  
+• Ulixertinib (BVD-523): reversible ATP-competitive inhibitor, K_i ≈ 0.04 nM for phosphorylated ERK2; active in BRAF- and MEK-inhibitor-resistant cancer models (germann2017targetingthemapk pages 10-13).  
+• SCH772984: mixed type I/II inhibitor that occupies the ATP site and an allosteric pocket, retaining potency against common resistance mechanisms (germann2017targetingthemapk pages 24-28).  
+• Additional ATP-competitive agents include FR180204, AZD0364 and KO-947 under pre-clinical or early clinical evaluation (roskoski2012erk12mapkinases pages 2-4, germann2017targetingthemapk pages 24-28).  
+
+## Other Comments  
+• Persistent ERK activation driven by oncogenic RAS or BRAF contributes to ~30 % of human cancers; ERK2 itself is a validated therapeutic target (germann2017targetingthemapk pages 1-5, roskoski2012erk12mapkinases pages 5-6).  
+• Germline or somatic gain-of-function ERK2 mutations in the CD domain or hinge region enhance signalling and can confer drug resistance (novak2023mutationinthe pages 20-21, taylor2019functionaldivergencecaused pages 7-8).  
+• Hyperactivation of the ERK pathway underlies several developmental disorders collectively termed RASopathies (roskoski2012erk12mapkinases pages 5-6).
+
+References
+
+1. (goshenlago2016variantsofthe pages 12-13): T. Goshen-Lago, Anat Goldberg-Carp, Dganit Melamed, I. Darlyuk-Saadon, Chen Bai, N. Ahn, A. Admon, and D. Engelberg. Variants of the yeast mapk mpk1 are fully functional independently of activation loop phosphorylation. Molecular Biology of the Cell, 27:2771-2783, Sep 2016. URL: https://doi.org/10.1091/mbc.e16-03-0167, doi:10.1091/mbc.e16-03-0167. This article has 13 citations and is from a domain leading peer-reviewed journal.
+
+2. (novak2023mutationinthe pages 1-2): L. Novak, M. Petrosino, A. Pasquo, A. Chaikuad, R. Chiaraluce, S. Knapp, and V. Consalvi. Mutation in the common docking domain affects map kinase erk2 catalysis and stability. Cancers, May 2023. URL: https://doi.org/10.3390/cancers15112938, doi:10.3390/cancers15112938. This article has 4 citations and is from a peer-reviewed journal.
+
+3. (roskoski2012erk12mapkinases pages 1-2): R. Roskoski. Erk1/2 map kinases: structure, function, and regulation. Pharmacological research, 66 2:105-43, Aug 2012. URL: https://doi.org/10.1016/j.phrs.2012.04.005, doi:10.1016/j.phrs.2012.04.005. This article has 2102 citations and is from a highest quality peer-reviewed journal.
+
+4. (roskoski2012erk12mapkinases pages 36-36): R. Roskoski. Erk1/2 map kinases: structure, function, and regulation. Pharmacological research, 66 2:105-43, Aug 2012. URL: https://doi.org/10.1016/j.phrs.2012.04.005, doi:10.1016/j.phrs.2012.04.005. This article has 2102 citations and is from a highest quality peer-reviewed journal.
+
+5. (roskoski2012erk12mapkinases pages 4-5): R. Roskoski. Erk1/2 map kinases: structure, function, and regulation. Pharmacological research, 66 2:105-43, Aug 2012. URL: https://doi.org/10.1016/j.phrs.2012.04.005, doi:10.1016/j.phrs.2012.04.005. This article has 2102 citations and is from a highest quality peer-reviewed journal.
+
+6. (roskoski2012erk12mapkinases pages 6-8): R. Roskoski. Erk1/2 map kinases: structure, function, and regulation. Pharmacological research, 66 2:105-43, Aug 2012. URL: https://doi.org/10.1016/j.phrs.2012.04.005, doi:10.1016/j.phrs.2012.04.005. This article has 2102 citations and is from a highest quality peer-reviewed journal.
+
+7. (roskoski2012erk12mapkinases pages 8-9): R. Roskoski. Erk1/2 map kinases: structure, function, and regulation. Pharmacological research, 66 2:105-43, Aug 2012. URL: https://doi.org/10.1016/j.phrs.2012.04.005, doi:10.1016/j.phrs.2012.04.005. This article has 2102 citations and is from a highest quality peer-reviewed journal.
+
+8. (unknownauthors2021impactoferk2 pages 12-18): Impact of ERK2 missense variants found in cancer: structural, function and stability experimental analysis
+
+9. (aouadi2006roleofmapks pages 2-3): M. Aouadi, B. Binetruy, L. Caron, Y. Le Marchand-Brustel, and F. Bost. Role of mapks in development and differentiation: lessons from knockout mice. Biochimie, 88:1091-1098, Sep 2006. URL: https://doi.org/10.1016/j.biochi.2006.06.003, doi:10.1016/j.biochi.2006.06.003. This article has 229 citations and is from a peer-reviewed journal.
+
+10. (coulombe2007atypicalmitogenactivatedprotein pages 1-2): Phillipe Coulombe and S. Meloche. Atypical mitogen-activated protein kinases: structure, regulation and functions. Biochimica et biophysica acta, 1773 8:1376-87, Aug 2007. URL: https://doi.org/10.1016/j.bbamcr.2006.11.001, doi:10.1016/j.bbamcr.2006.11.001. This article has 469 citations.
+
+11. (germann2017targetingthemapk pages 1-5): U. Germann, Brinley F Furey, W. Markland, R. Hoover, A. Aronov, J. Roix, Michael R. Hale, D. Boucher, D. Sorrell, G. Martínez-Botella, M. Fitzgibbon, P. Shapiro, M. Wick, R. Samadani, K. Meshaw, A. Groover, G. Decrescenzo, M. Namchuk, Caroline M. Emery, Saurabh Saha, and D. Welsch. Targeting the mapk signaling pathway in cancer: promising preclinical activity with the novel selective erk1/2 inhibitor bvd-523 (ulixertinib). Molecular Cancer Therapeutics, 16:2351-2363, Sep 2017. URL: https://doi.org/10.1158/1535-7163.mct-17-0456, doi:10.1158/1535-7163.mct-17-0456. This article has 255 citations and is from a peer-reviewed journal.
+
+12. (germann2017targetingthemapk pages 24-28): U. Germann, Brinley F Furey, W. Markland, R. Hoover, A. Aronov, J. Roix, Michael R. Hale, D. Boucher, D. Sorrell, G. Martínez-Botella, M. Fitzgibbon, P. Shapiro, M. Wick, R. Samadani, K. Meshaw, A. Groover, G. Decrescenzo, M. Namchuk, Caroline M. Emery, Saurabh Saha, and D. Welsch. Targeting the mapk signaling pathway in cancer: promising preclinical activity with the novel selective erk1/2 inhibitor bvd-523 (ulixertinib). Molecular Cancer Therapeutics, 16:2351-2363, Sep 2017. URL: https://doi.org/10.1158/1535-7163.mct-17-0456, doi:10.1158/1535-7163.mct-17-0456. This article has 255 citations and is from a peer-reviewed journal.
+
+13. (goshenlago2016variantsofthe pages 13-13): T. Goshen-Lago, Anat Goldberg-Carp, Dganit Melamed, I. Darlyuk-Saadon, Chen Bai, N. Ahn, A. Admon, and D. Engelberg. Variants of the yeast mapk mpk1 are fully functional independently of activation loop phosphorylation. Molecular Biology of the Cell, 27:2771-2783, Sep 2016. URL: https://doi.org/10.1091/mbc.e16-03-0167, doi:10.1091/mbc.e16-03-0167. This article has 13 citations and is from a domain leading peer-reviewed journal.
+
+14. (johnson2023anatlasof pages 4-5): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+15. (kushnir2020anactivatingmutation pages 10-11): Tatyana Kushnir, Shaked Bar-Cohen, Navit Mooshayef, Rotem Lange, A. Bar-Sinai, Helit Rozen, A. Salzberg, D. Engelberg, and Z. Paroush. An activating mutation in erk causes hyperplastic tumors in a scribble mutant tissue in drosophila. Genetics, 214:109-120, Nov 2020. URL: https://doi.org/10.1534/genetics.119.302794, doi:10.1534/genetics.119.302794. This article has 11 citations and is from a domain leading peer-reviewed journal.
+
+16. (muslin2008mapksignallingin pages 3-5): Anthony J. Muslin. Mapk signalling in cardiovascular health and disease: molecular mechanisms and therapeutic targets. Clinical science, 115 7:203-18, Oct 2008. URL: https://doi.org/10.1042/cs20070430, doi:10.1042/cs20070430. This article has 653 citations and is from a peer-reviewed journal.
+
+17. (novak2023mutationinthe pages 2-4): L. Novak, M. Petrosino, A. Pasquo, A. Chaikuad, R. Chiaraluce, S. Knapp, and V. Consalvi. Mutation in the common docking domain affects map kinase erk2 catalysis and stability. Cancers, May 2023. URL: https://doi.org/10.3390/cancers15112938, doi:10.3390/cancers15112938. This article has 4 citations and is from a peer-reviewed journal.
+
+18. (rainey2005proximityinducedcatalysisby pages 1-2): Mark A. Rainey, Kari Callaway, Richard Barnes, Brian Wilson, and Kevin N. Dalby. Proximity-induced catalysis by the protein kinase erk2. Journal of the American Chemical Society, 127 30:10494-5, Aug 2005. URL: https://doi.org/10.1021/ja052915p, doi:10.1021/ja052915p. This article has 55 citations and is from a highest quality peer-reviewed journal.
+
+19. (roskoski2012erk12mapkinases pages 11-12): R. Roskoski. Erk1/2 map kinases: structure, function, and regulation. Pharmacological research, 66 2:105-43, Aug 2012. URL: https://doi.org/10.1016/j.phrs.2012.04.005, doi:10.1016/j.phrs.2012.04.005. This article has 2102 citations and is from a highest quality peer-reviewed journal.
+
+20. (roskoski2012erk12mapkinases pages 2-4): R. Roskoski. Erk1/2 map kinases: structure, function, and regulation. Pharmacological research, 66 2:105-43, Aug 2012. URL: https://doi.org/10.1016/j.phrs.2012.04.005, doi:10.1016/j.phrs.2012.04.005. This article has 2102 citations and is from a highest quality peer-reviewed journal.
+
+21. (roskoski2012erk12mapkinases pages 5-6): R. Roskoski. Erk1/2 map kinases: structure, function, and regulation. Pharmacological research, 66 2:105-43, Aug 2012. URL: https://doi.org/10.1016/j.phrs.2012.04.005, doi:10.1016/j.phrs.2012.04.005. This article has 2102 citations and is from a highest quality peer-reviewed journal.
+
+22. (taylor2019functionaldivergencecaused pages 7-8): Clinton A. Taylor, Kevin W. Cormier, Shannon E. Keenan, Svetlana Earnest, Steve Stippec, Chonlarat Wichaidit, Yu-Chi Juang, Junmei Wang, Stanislav Y. Shvartsman, Elizabeth J. Goldsmith, and Melanie H. Cobb. Functional divergence caused by mutations in an energetic hotspot in erk2. Proceedings of the National Academy of Sciences, 116:15514-15523, Jul 2019. URL: https://doi.org/10.1073/pnas.1905015116, doi:10.1073/pnas.1905015116. This article has 31 citations.
+
+23. (unknownauthors2017histonedeacetylase6 pages 5-6): Histone deacetylase 6 (HDAC6) deacetylates extracellular signal-regulated kinase 1 (ERK1) and thereby stimulates ERK1 activity* Jheng-Yu Wua, b, Shengyan …
+
+24. (unknownauthors2017regulationofextracellular pages 18-22): Regulation of Extracellular Signal-Regulated Kinase by Histone Deacetylase 6
+
+25. (wang1997thestructureof pages 3-5): Zhulun Wang, Paul C. Harkins, Richard J. Ulevitch, Jiahuai Han, Melanie H. Cobb, and Elizabeth J. Goldsmith. The structure of mitogen-activated protein kinase p38 at 2.1-å resolution. Proceedings of the National Academy of Sciences, 94:2327-2332, Mar 1997. URL: https://doi.org/10.1073/pnas.94.6.2327, doi:10.1073/pnas.94.6.2327. This article has 384 citations.
+
+26. (wu2018histonedeacetylase6 pages 15-16): Jheng-Yu Wu, Shengyan Xiang, Mu Zhang, B. Fang, He Huang, Oh Kwang Kwon, Yingming Zhao, Zhe Yang, Wenlong Bai, G. Bepler, and X. Zhang. Histone deacetylase 6 (hdac6) deacetylates extracellular signal-regulated kinase 1 (erk1) and thereby stimulates erk1 activity. The Journal of Biological Chemistry, 293:1976-1993, Dec 2018. URL: https://doi.org/10.1074/jbc.m117.795955, doi:10.1074/jbc.m117.795955. This article has 44 citations.
+
+27. (yashar1993novelmembersof pages 1-2): Beverly M. Yashar, Clair Kelley, Karen Yee, Beverly Errede, and Leonardi. Zon. Novel members of the mitogen-activated protein kinase activator family in <i>xenopus laevis</i>. Molecular and Cellular Biology, 13:5738-5748, Sep 1993. URL: https://doi.org/10.1128/mcb.13.9.5738-5748.1993, doi:10.1128/mcb.13.9.5738-5748.1993. This article has 83 citations and is from a domain leading peer-reviewed journal.
+
+28. (germann2017targetingthemapk pages 10-13): U. Germann, Brinley F Furey, W. Markland, R. Hoover, A. Aronov, J. Roix, Michael R. Hale, D. Boucher, D. Sorrell, G. Martínez-Botella, M. Fitzgibbon, P. Shapiro, M. Wick, R. Samadani, K. Meshaw, A. Groover, G. Decrescenzo, M. Namchuk, Caroline M. Emery, Saurabh Saha, and D. Welsch. Targeting the mapk signaling pathway in cancer: promising preclinical activity with the novel selective erk1/2 inhibitor bvd-523 (ulixertinib). Molecular Cancer Therapeutics, 16:2351-2363, Sep 2017. URL: https://doi.org/10.1158/1535-7163.mct-17-0456, doi:10.1158/1535-7163.mct-17-0456. This article has 255 citations and is from a peer-reviewed journal.
+
+29. (novak2023mutationinthe pages 20-21): L. Novak, M. Petrosino, A. Pasquo, A. Chaikuad, R. Chiaraluce, S. Knapp, and V. Consalvi. Mutation in the common docking domain affects map kinase erk2 catalysis and stability. Cancers, May 2023. URL: https://doi.org/10.3390/cancers15112938, doi:10.3390/cancers15112938. This article has 4 citations and is from a peer-reviewed journal.

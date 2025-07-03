@@ -1,0 +1,117 @@
+## Phylogeny
+RIPK1 is a serine/threonine protein kinase belonging to the Receptor-Interacting Protein Kinase (RIPK) family, which in humans has 5 members (manning2002theproteinkinase pages 3-4, martens2020inhibitorstargetingripk1ripk3 pages 2-4, wegner2017complexpathologicroles pages 4-5). Based on sequence comparison of catalytic domains, the RIPK family is classified within the Tyrosine Kinase-Like (TKL) group of the human kinome (manning2002theproteinkinase pages 3-3, manning2002theproteinkinase pages 3-4, manning2002theproteinkinase pages 2-3). The RIPK family shows human-specific expansion and is absent in fly and worm kinomes (manning2002theproteinkinase pages 3-4). Murine Ripk1 is an ortholog of human RIPK1 (degterev2019targetingripk1for pages 3-3).
+
+
+## Reaction Catalyzed
+RIPK1 is a dual-specificity kinase that can phosphorylate serine/threonine and tyrosine residues (martens2020inhibitorstargetingripk1ripk3 pages 1-2). It catalyzes the reaction: ATP + a protein substrate -> ADP + a phosphoprotein substrate (chen2022advancesinripk1 pages 2-3).
+
+
+## Cofactor Requirements
+RIPK1 kinase activity requires a divalent cation, specifically Mg²⁺, for catalysis and to facilitate ATP binding (mifflin2020receptorinteractingproteinkinase pages 1-2, martens2020inhibitorstargetingripk1ripk3 pages 2-4, martens2020inhibitorstargetingripk1ripk3 pages 4-6).
+
+
+## Substrate Specificity
+RIPK1 phosphorylates substrates on serine or threonine residues (johnson2023anatlasof pages 2-3). The consensus substrate motif for the RIPK cluster, including RIPK1, involves basic residues on both the N- and C-terminal sides of the phospho-acceptor site, with a dominant selection for an aromatic residue at the +3 position (johnson2023anatlasof pages 2-3).
+
+
+## Structure
+RIPK1 is a multidomain protein composed of an N-terminal kinase domain (KD; amino acids 1-312), an intermediate domain (ID; amino acids 313-531), and a C-terminal death domain (DD; amino acids 582-671) (degterev2019targetingripk1for pages 2-3, du2024regulationofripk1 pages 1-3, yuan2019necroptosisandripk1mediated pages 7-8). The KD mediates catalytic activity and contains key regulatory features, including the activation loop, which begins with a conserved DFG motif and coordinates the transition between active (DFG-in) and inactive (DFG-out) conformations (martens2020inhibitorstargetingripk1ripk3 pages 2-4, martens2020inhibitorstargetingripk1ripk3 pages 4-6, du2024regulationofripk1 pages 4-6). The kinase domain features a conserved ATP-binding site with a catalytic triplet (Lys45-Glu63-Asp156) and a unique hydrophobic allosteric regulatory pocket targeted by selective inhibitors (chen2022advancesinripk1 pages 2-3, mifflin2020receptorinteractingproteinkinase pages 1-2). The ID contains a RIP Homotypic Interaction Motif (RHIM) that enables interactions with other RHIM-containing proteins like RIPK3, TRIF, and ZBP1 (degterev2019targetingripk1for pages 2-3, du2024regulationofripk1 pages 1-3). The C-terminal DD mediates recruitment to other death domain-containing proteins like TNFR1, FADD, and TRADD (degterev2019targetingripk1for pages 2-3, du2024regulationofripk1 pages 1-3).
+
+
+## Regulation
+RIPK1 activity is tightly regulated by post-translational modifications (PTMs), primarily phosphorylation, ubiquitination, and proteolytic cleavage (degterev2019targetingripk1for pages 2-3, mifflin2020receptorinteractingproteinkinase pages 1-2, shan2018necroptosisindevelopment pages 1-2).
+
+**Phosphorylation**
+-   **Activating autophosphorylation sites:** Ser14/15, Ser20, and Ser161/166 (degterev2019targetingripk1for pages 2-3, du2024regulationofripk1 pages 4-6). Phosphorylation at Ser166 is a biomarker for RIPK1 activation (degterev2019targetingripk1for pages 2-3, martens2020inhibitorstargetingripk1ripk3 pages 1-2).
+-   **Inhibitory phosphorylation sites:** Phosphorylation by kinases including TAK1, IKKα/β, MK2, and TBK1 suppresses RIPK1 kinase activity (degterev2019targetingripk1for pages 2-3, mifflin2020receptorinteractingproteinkinase pages 2-3). Specific inhibitory sites include S25 (phosphorylated by IKKα/β), T189 (phosphorylated by TBK1/IKKε), S320/S335 (human) or S321/S336 (murine) (phosphorylated by TAK1/MK2), S416 (by AMPK), and Y384 (by JAK1 and Src) (martens2020inhibitorstargetingripk1ripk3 pages 1-2, yuan2019necroptosisandripk1mediated pages 7-8, du2024regulationofripk1 pages 6-7). Phosphatases such as PP1γ dephosphorylate inhibitory sites to promote RIPK1 activation (du2024regulationofripk1 pages 6-7).
+
+**Ubiquitination**
+-   In TNF-α signaling Complex I, RIPK1 is ubiquitinated by E3 ligases cIAP1/2 and LUBAC (degterev2019targetingripk1for pages 2-3, chen2022advancesinripk1 pages 1-2).
+-   cIAP1/2 mediate K63-linked ubiquitination, notably at Lys377, which facilitates recruitment of the LUBAC and TAK1 complexes (degterev2019targetingripk1for pages 2-3, shan2018necroptosisindevelopment pages 1-2). The E3 ligase PELI1 also mediates K63-linked ubiquitination at Lys115 (degterev2019targetingripk1for pages 3-3).
+-   The LUBAC complex adds M1-linked (linear) ubiquitin chains, which recruit the IKK complex via NEMO/IKKγ to activate NF-κB signaling (degterev2019targetingripk1for pages 2-3, du2024regulationofripk1 pages 3-4).
+-   Other ubiquitin linkages, including K11 and K48, are also involved (chen2022advancesinripk1 pages 1-2, liu2021regulatorymechanismsof pages 2-2).
+-   Deubiquitinating enzymes (DUBs) such as CYLD and A20 remove ubiquitin chains from RIPK1, a step that can promote its transition to death-inducing complexes (wegner2017complexpathologicroles pages 2-4, chen2_chen2022advancesinripk1 pages 2-3).
+
+**Proteolytic Cleavage**
+-   Caspase-8 cleaves RIPK1 at aspartate 324 (D324), which separates the kinase domain from the death domain and serves as a negative feedback loop to block RIPK1-mediated apoptosis and necroptosis (yuan2019necroptosisandripk1mediated pages 7-8, martens2020inhibitorstargetingripk1ripk3 pages 2-4).
+
+
+## Function
+RIPK1 has a dual role: it acts as a kinase-independent scaffold to promote pro-survival and inflammatory signaling, and as a kinase-dependent executor of programmed cell death (apoptosis and necroptosis) (martens2020inhibitorstargetingripk1ripk3 pages 1-2, mifflin2020receptorinteractingproteinkinase pages 1-2).
+
+**Upstream/Downstream Signaling and Interacting Partners**
+-   **Upstream:** RIPK1 is a key signaling node downstream of death receptors like TNFR1 and Fas, as well as pattern recognition receptors like TLR3, TLR4, and RIG-I/MDA-5 (du2024regulationofripk1 pages 1-3, udawatte2021viralsuppressionof pages 3-5).
+-   **Pro-survival/Inflammatory Signaling (Scaffold Function):** Upon TNF-α stimulation, RIPK1 is recruited to TNFR1 to form Complex I, along with TRADD, TRAF2, and the E3 ligases cIAP1/2 and LUBAC (degterev2019targetingripk1for pages 2-3, chen2022advancesinripk1 pages 1-2). Ubiquitination of RIPK1 within this complex serves as a scaffold to recruit and activate the TAK1 and IKK complexes, leading to the activation of NF-κB and MAPK pathways (du2024regulationofripk1 pages 3-4, chen2_chen2022advancesinripk1 pages 2-3).
+-   **Cell Death Signaling (Kinase Function):** When ubiquitination or inhibitory phosphorylation is impaired, RIPK1 transitions to cytosolic death-inducing complexes (mifflin2020receptorinteractingproteinkinase pages 2-3).
+    -   **Apoptosis:** RIPK1 forms Complex IIa with FADD and caspase-8, triggering caspase-8 activation and RIPK1-dependent apoptosis (RDA) (shan2018necroptosisindevelopment pages 1-2).
+    -   **Necroptosis:** In the absence of active caspase-8, RIPK1 interacts with RIPK3 via their RHIM domains to form the necrosome (Complex IIb) (degterev2019targetingripk1for pages 2-3). RIPK1 autophosphorylates, leading to the activation of RIPK3, which in turn phosphorylates the downstream effector MLKL, causing plasma membrane disruption and necroptosis (degterev2019targetingripk1for pages 2-3, du2024regulationofripk1 pages 3-4).
+-   **Key Interacting Partners:** TNFR1, TRADD, FADD, caspase-8, RIPK3, MLKL, TRIF, ZBP1, TRAF2/5, cIAP1/2, LUBAC, TAK1, IKK complex, NEMO, CYLD, and A20 (wegner2017complexpathologicroles pages 2-4, du2024regulationofripk1 pages 3-4).
+
+
+## Inhibitors
+Several classes of RIPK1 kinase inhibitors have been developed.
+-   **Type II/III Allosteric Inhibitors:** These include necrostatin-1 (Nec-1) and its more potent analog Nec-1s, GSK’772, GSK’547, and GNE684 (shan2018necroptosisindevelopment pages 1-2, martens2020inhibitorstargetingripk1ripk3 pages 1-2, mifflin2020receptorinteractingproteinkinase pages 2-3). These inhibitors bind to an allosteric pocket near the ATP-binding site (mifflin2020receptorinteractingproteinkinase pages 1-2, chen2_chen2022advancesinripk1 pages 1-2).
+-   **CNS-Penetrant Inhibitors:** DNL747 and DNL788 are brain-permeable RIPK1 inhibitors developed for neurodegenerative diseases (mifflin2020receptorinteractingproteinkinase pages 1-2, yuan2019necroptosisandripk1mediated pages 7-8).
+-   **Multi-kinase Inhibitors:** Several cancer drugs have off-target activity against RIPK1, including sorafenib, ponatinib, pazopanib, and dabrafenib (martens2020inhibitorstargetingripk1ripk3 pages 1-2, martens2020inhibitorstargetingripk1ripk3 pages 13-14).
+-   **Type I Inhibitors:** Type I ATP-competitive inhibitors targeting the active state of RIPK1 are also developed (chen2_chen2022advancesinripk1 pages 1-2, martens2020inhibitorstargetingripk1ripk3 pages 13-14).
+
+
+## Other Comments
+Dysregulation of RIPK1 is implicated in a wide range of human diseases, including inflammatory and autoimmune disorders (rheumatoid arthritis, psoriasis, ulcerative colitis, inflammatory bowel disease), neurodegenerative diseases (ALS, MS, Alzheimer's disease), ischemic injury, and sepsis (mifflin2020receptorinteractingproteinkinase pages 1-2, martens2020inhibitorstargetingripk1ripk3 pages 1-2).
+
+**Disease-Associated Mutations**
+-   Human RIPK1 deficiency causes immunodeficiency, gut inflammation, and progressive polyarthritis (martens2020inhibitorstargetingripk1ripk3 pages 2-4).
+-   Mutations in the caspase-8 cleavage site at D324 (e.g., D324Y, D324H) cause a human autoinflammatory disease known as CRIA (Cleavage-Resistant RIPK1-Induced Autoinflammatory) syndrome, characterized by fever, lymphadenopathy, and multi-organ inflammation (liu2021regulatorymechanismsof pages 4-4, martens2020inhibitorstargetingripk1ripk3 pages 13-14).
+-   Experimental kinase-dead knock-in mutations, such as D138N and K45A, are used to dissect RIPK1's kinase-dependent functions and have been shown to protect against inflammatory conditions in mouse models (mifflin2020receptorinteractingproteinkinase pages 2-3, wegner2017complexpathologicroles pages 4-5).
+
+References
+
+1. (degterev2019targetingripk1for pages 2-3): Alexei Degterev, Dimitry Ofengeim, and Junying Yuan. Targeting ripk1 for the treatment of human diseases. Proceedings of the National Academy of Sciences, 116:9714-9722, May 2019. URL: https://doi.org/10.1073/pnas.1901179116, doi:10.1073/pnas.1901179116. This article has 365 citations.
+
+2. (johnson2023anatlasof pages 2-3): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+3. (manning2002theproteinkinase pages 3-3): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+4. (manning2002theproteinkinase pages 3-4): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+5. (martens2020inhibitorstargetingripk1ripk3 pages 1-2): Sofie Martens, Sam Hofmans, W. Declercq, K. Augustyns, and P. Vandenabeele. Inhibitors targeting ripk1/ripk3: old and new drugs. Trends in pharmacological sciences, Feb 2020. URL: https://doi.org/10.1016/j.tips.2020.01.002, doi:10.1016/j.tips.2020.01.002. This article has 151 citations and is from a highest quality peer-reviewed journal.
+
+6. (martens2020inhibitorstargetingripk1ripk3 pages 2-4): Sofie Martens, Sam Hofmans, W. Declercq, K. Augustyns, and P. Vandenabeele. Inhibitors targeting ripk1/ripk3: old and new drugs. Trends in pharmacological sciences, Feb 2020. URL: https://doi.org/10.1016/j.tips.2020.01.002, doi:10.1016/j.tips.2020.01.002. This article has 151 citations and is from a highest quality peer-reviewed journal.
+
+7. (mifflin2020receptorinteractingproteinkinase pages 1-2): Lauren Mifflin, Dimitry Ofengeim, and Junying Yuan. Receptor-interacting protein kinase 1 (ripk1) as a therapeutic target. Nature Reviews Drug Discovery, 19:553-571, Jul 2020. URL: https://doi.org/10.1038/s41573-020-0071-y, doi:10.1038/s41573-020-0071-y. This article has 381 citations and is from a highest quality peer-reviewed journal.
+
+8. (mifflin2020receptorinteractingproteinkinase pages 2-3): Lauren Mifflin, Dimitry Ofengeim, and Junying Yuan. Receptor-interacting protein kinase 1 (ripk1) as a therapeutic target. Nature Reviews Drug Discovery, 19:553-571, Jul 2020. URL: https://doi.org/10.1038/s41573-020-0071-y, doi:10.1038/s41573-020-0071-y. This article has 381 citations and is from a highest quality peer-reviewed journal.
+
+9. (shan2018necroptosisindevelopment pages 1-2): B. Shan, Heling Pan, Ayaz Najafov, and Junying Yuan. Necroptosis in development and diseases. Genes & Development, 32:327-340, Mar 2018. URL: https://doi.org/10.1101/gad.312561.118, doi:10.1101/gad.312561.118. This article has 367 citations.
+
+10. (wegner2017complexpathologicroles pages 2-4): K. W. Wegner, Danish Saleh, and A. Degterev. Complex pathologic roles of ripk1 and ripk3: moving beyond necroptosis. Trends in pharmacological sciences, 38 3:202-225, Mar 2017. URL: https://doi.org/10.1016/j.tips.2016.12.005, doi:10.1016/j.tips.2016.12.005. This article has 182 citations and is from a highest quality peer-reviewed journal.
+
+11. (wegner2017complexpathologicroles pages 4-5): K. W. Wegner, Danish Saleh, and A. Degterev. Complex pathologic roles of ripk1 and ripk3: moving beyond necroptosis. Trends in pharmacological sciences, 38 3:202-225, Mar 2017. URL: https://doi.org/10.1016/j.tips.2016.12.005, doi:10.1016/j.tips.2016.12.005. This article has 182 citations and is from a highest quality peer-reviewed journal.
+
+12. (yuan2019necroptosisandripk1mediated pages 7-8): Junying Yuan, Palak Amin, and Dimitry Ofengeim. Necroptosis and ripk1-mediated neuroinflammation in cns diseases. Nature Reviews Neuroscience, 20:19-33, Nov 2019. URL: https://doi.org/10.1038/s41583-018-0093-1, doi:10.1038/s41583-018-0093-1. This article has 837 citations and is from a highest quality peer-reviewed journal.
+
+13. (chen2022advancesinripk1 pages 1-2): Lu Chen, Xiaoqin Zhang, Yaqing Ou, Maoyu Liu, Dongke Yu, Zhiheng Song, Lihong Niu, Lijuan Zhang, and Jianyou Shi. Advances in ripk1 kinase inhibitors. Frontiers in Pharmacology, Sep 2022. URL: https://doi.org/10.3389/fphar.2022.976435, doi:10.3389/fphar.2022.976435. This article has 32 citations and is from a peer-reviewed journal.
+
+14. (chen2022advancesinripk1 pages 2-3): Lu Chen, Xiaoqin Zhang, Yaqing Ou, Maoyu Liu, Dongke Yu, Zhiheng Song, Lihong Niu, Lijuan Zhang, and Jianyou Shi. Advances in ripk1 kinase inhibitors. Frontiers in Pharmacology, Sep 2022. URL: https://doi.org/10.3389/fphar.2022.976435, doi:10.3389/fphar.2022.976435. This article has 32 citations and is from a peer-reviewed journal.
+
+15. (degterev2019targetingripk1for pages 3-3): Alexei Degterev, Dimitry Ofengeim, and Junying Yuan. Targeting ripk1 for the treatment of human diseases. Proceedings of the National Academy of Sciences, 116:9714-9722, May 2019. URL: https://doi.org/10.1073/pnas.1901179116, doi:10.1073/pnas.1901179116. This article has 365 citations.
+
+16. (du2024regulationofripk1 pages 1-3): Jingchun Du and Zhigao Wang. Regulation of ripk1 phosphorylation: implications for inflammation, cell death, and therapeutic interventions. Biomedicines, Jul 2024. URL: https://doi.org/10.3390/biomedicines12071525, doi:10.3390/biomedicines12071525. This article has 6 citations and is from a peer-reviewed journal.
+
+17. (du2024regulationofripk1 pages 3-4): Jingchun Du and Zhigao Wang. Regulation of ripk1 phosphorylation: implications for inflammation, cell death, and therapeutic interventions. Biomedicines, Jul 2024. URL: https://doi.org/10.3390/biomedicines12071525, doi:10.3390/biomedicines12071525. This article has 6 citations and is from a peer-reviewed journal.
+
+18. (du2024regulationofripk1 pages 4-6): Jingchun Du and Zhigao Wang. Regulation of ripk1 phosphorylation: implications for inflammation, cell death, and therapeutic interventions. Biomedicines, Jul 2024. URL: https://doi.org/10.3390/biomedicines12071525, doi:10.3390/biomedicines12071525. This article has 6 citations and is from a peer-reviewed journal.
+
+19. (liu2021regulatorymechanismsof pages 2-2): Zhijun Liu and F. Chan. Regulatory mechanisms of ripk1 in cell death and inflammation. Seminars in cell & developmental biology, Jun 2021. URL: https://doi.org/10.1016/j.semcdb.2020.06.013, doi:10.1016/j.semcdb.2020.06.013. This article has 41 citations.
+
+20. (liu2021regulatorymechanismsof pages 4-4): Zhijun Liu and F. Chan. Regulatory mechanisms of ripk1 in cell death and inflammation. Seminars in cell & developmental biology, Jun 2021. URL: https://doi.org/10.1016/j.semcdb.2020.06.013, doi:10.1016/j.semcdb.2020.06.013. This article has 41 citations.
+
+21. (manning2002theproteinkinase pages 2-3): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+22. (martens2020inhibitorstargetingripk1ripk3 pages 13-14): Sofie Martens, Sam Hofmans, W. Declercq, K. Augustyns, and P. Vandenabeele. Inhibitors targeting ripk1/ripk3: old and new drugs. Trends in pharmacological sciences, Feb 2020. URL: https://doi.org/10.1016/j.tips.2020.01.002, doi:10.1016/j.tips.2020.01.002. This article has 151 citations and is from a highest quality peer-reviewed journal.
+
+23. (martens2020inhibitorstargetingripk1ripk3 pages 4-6): Sofie Martens, Sam Hofmans, W. Declercq, K. Augustyns, and P. Vandenabeele. Inhibitors targeting ripk1/ripk3: old and new drugs. Trends in pharmacological sciences, Feb 2020. URL: https://doi.org/10.1016/j.tips.2020.01.002, doi:10.1016/j.tips.2020.01.002. This article has 151 citations and is from a highest quality peer-reviewed journal.
+
+24. (udawatte2021viralsuppressionof pages 3-5): Darshika J. Udawatte and Alan L. Rothman. Viral suppression of ripk1-mediated signaling. mBio, Aug 2021. URL: https://doi.org/10.1128/mbio.01723-21, doi:10.1128/mbio.01723-21. This article has 25 citations and is from a domain leading peer-reviewed journal.
+
+25. (du2024regulationofripk1 pages 6-7): Jingchun Du and Zhigao Wang. Regulation of ripk1 phosphorylation: implications for inflammation, cell death, and therapeutic interventions. Biomedicines, Jul 2024. URL: https://doi.org/10.3390/biomedicines12071525, doi:10.3390/biomedicines12071525. This article has 6 citations and is from a peer-reviewed journal.

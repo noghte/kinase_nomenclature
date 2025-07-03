@@ -1,0 +1,90 @@
+## Phylogeny  
+CDK16 is assigned to the CMGC kinase group and the PCTAIRE subfamily (CDK16-18) (malumbres2009cyclindependentkinasesa pages 1-2).  
+It shares 52–58 % sequence identity with CDK5 and 42–46 % with PFTAIRE kinases CDK14/15 (karimbayli2024insightsintothe pages 2-4).  
+The catalytic domain contains the signature PCTAIRE motif that replaces the canonical PSTAIRE motif of classical CDKs (amrhein2022discoveryof3amino1hpyrazolebased pages 1-3).  
+Orthologs are experimentally documented across vertebrates; a nematode ortholog (PCT-1) exists, whereas true PCTAIRE kinases are absent from Drosophila, indicating emergence in eumetazoans (mikolcevic2012orphankinasesturn pages 8-9).  
+Cyclin Y activators co-evolved with PCTAIRE kinases, showing conserved N-myristoylation and binding motifs (mikolcevic2012orphankinasesturn pages 9-10).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + protein-O-phospho-Ser/Thr (amrhein2022discoveryof3amino1hpyrazolebased pages 1-3).  
+
+## Cofactor Requirements  
+Catalysis is Mg²⁺-dependent (dixonclarke2017structureandinhibitor pages 14-15).  
+
+## Substrate Specificity  
+The kinase prefers serine or threonine followed by proline (S/T-P) and displays a motif distinct from canonical CDKs (dixonclarke2017structureandinhibitor pages 10-13).  
+Validated cellular substrates include p27 Ser10, p53 Ser315, PRC1 Thr481 and CCNY Ser336 (karimbayli2024insightsintothe pages 10-13, unknownauthors2022dissectingtherole pages 19-22).  
+
+## Structure  
+The protein comprises:  
+- N-terminal regulatory extension (residues 1-≈161) harboring Ser153 and cyclin-binding elements;  
+- Bilobal kinase domain (Met162-Ala474) with VAIK (Lys194), HRD (His292-Arg293-Asp294) and DFG (Asp304-Phe305-Gly306) motifs;  
+- Short C-terminal tail (dixonclarke2017structureandinhibitor pages 8-10).  
+Crystal structures 3MTL (indirubin E804, 2.4 Å) and 5G6V (rebastinib, 2.2 Å) reveal a flexible αC helix carrying the PCTAIRE motif and an activation segment (Asp304–Val323) adopting DFG-in or DFG-out conformations (dixonclarke2017structureandinhibitor pages 8-10).  
+A CDK/MAPK insert forms an αGH1 helix generating a unique interaction surface (dixonclarke2017structureandinhibitor pages 8-10).  
+Partial unfolding of αC in cyclin-free states underscores pronounced conformational plasticity (dixonclarke2017structureandinhibitor pages 1-3).  
+
+## Regulation  
+Ser153 phosphorylation by PKA prevents cyclin Y binding and inhibits activation (karimbayli2024insightsintothe pages 7-9).  
+Ser95 phosphorylation by the CDK5/p35 complex increases kinase activity (karimbayli2024insightsintothe pages 7-9).  
+AMPK phosphorylates cyclin Y at Ser100 and Ser326, fostering assembly of the CDK16–cyclin Y–14-3-3 complex and stimulating autophagy (dohmen2020ampkdependentactivationof pages 1-2).  
+Autophosphorylation of Ser336 within the activation segment follows complex formation (amrhein2022discoveryof3amino1hpyrazolebased pages 3-4).  
+14-3-3 proteins bind phosphorylated complexes and stabilize the active conformation (dixonclarke2017structureandinhibitor pages 13-14).  
+
+## Function  
+Expression is high in brain (Purkinje and pyramidal neurons) and testis (post-meiotic spermatids) but absent in mature spermatozoa (amrhein2022discoveryof3amino1hpyrazolebased pages 3-4).  
+CDK16 regulates vesicle trafficking and neurite outgrowth, partly by phosphorylating NSF and modulating CDK5 pathways (karimbayli2024insightsintothe pages 17-18).  
+It is essential for spermatogenesis through complexes with cyclin Y-like 1; loss causes male infertility in mice (karimbayli2024insightsintothe pages 7-9).  
+Phosphorylation of p27 Ser10 accelerates its degradation, easing G2/M progression (amrhein2022discoveryof3amino1hpyrazolebased pages 3-4).  
+Phosphorylation of p53 Ser315 promotes cytoplasmic retention and radioresistance in lung cancer cells (karimbayli2024insightsintothe pages 10-13).  
+The AMPK-cyclin Y-CDK16 axis activates ULK1/Beclin1-dependent autophagy during energy stress (dohmen2020ampkdependentactivationof pages 1-2).  
+Interacting partners include cyclin Y, cyclin Y-like 1, 14-3-3, NSF, p27, p53, PRC1, COPII Sec23A and RIPK1 (unknownauthors2022dissectingtherole pages 19-22, karimbayli2024insightsintothe pages 18-19).  
+
+## Inhibitors  
+Rebastinib: type II DFG-out inhibitor, IC50 ≈ 32 nM, PDB 5G6V (dixonclarke2017structureandinhibitor pages 7-8).  
+Dabrafenib: type I αC-out inhibitor, IC50 ≈ 35 nM; disrupts cyclin Y binding (dixonclarke2017structureandinhibitor pages 7-8).  
+Indirubin E804: type I hinge-binding inhibitor, IC50 ≈ 83 nM, PDB 3MTL (dixonclarke2017structureandinhibitor pages 7-8).  
+3-Amino-1H-pyrazole derivatives: potent, sub-100 nM cellular activity across PCTAIRE kinases (amrhein2022discoveryof3amino1hpyrazolebased pages 1-3).  
+
+## Other Comments  
+CDK16 overexpression correlates with aggressive phenotypes in breast, prostate, cervical and lung cancers; knockdown induces apoptosis and G2/M arrest (karimbayli2024insightsintothe pages 10-13, amrhein2022discoveryof3amino1hpyrazolebased pages 3-4).  
+Missense mutations are scattered without clear hotspots in tumors (karimbayli2024insightsintothe pages 10-13).  
+Reduced CDK16 activity impairs insulin secretion and general vesicle exocytosis in β-cells (amrhein2022discoveryof3amino1hpyrazolebased pages 3-4).
+
+References
+
+1. (amrhein2022discoveryof3amino1hpyrazolebased pages 1-3): Jennifer Alisa Amrhein, Lena Marie Berger, Amelie Tjaden, Andreas Krämer, Lewis Elson, Tuomas Tolvanen, Daniel Martinez-Molina, Astrid Kaiser, Manfred Schubert-Zsilavecz, Susanne Müller, Stefan Knapp, and Thomas Hanke. Discovery of 3-amino-1h-pyrazole-based kinase inhibitors to illuminate the understudied pctaire family. International Journal of Molecular Sciences, 23:14834, Nov 2022. URL: https://doi.org/10.3390/ijms232314834, doi:10.3390/ijms232314834. This article has 6 citations and is from a peer-reviewed journal.
+
+2. (amrhein2022discoveryof3amino1hpyrazolebased pages 3-4): Jennifer Alisa Amrhein, Lena Marie Berger, Amelie Tjaden, Andreas Krämer, Lewis Elson, Tuomas Tolvanen, Daniel Martinez-Molina, Astrid Kaiser, Manfred Schubert-Zsilavecz, Susanne Müller, Stefan Knapp, and Thomas Hanke. Discovery of 3-amino-1h-pyrazole-based kinase inhibitors to illuminate the understudied pctaire family. International Journal of Molecular Sciences, 23:14834, Nov 2022. URL: https://doi.org/10.3390/ijms232314834, doi:10.3390/ijms232314834. This article has 6 citations and is from a peer-reviewed journal.
+
+3. (dixonclarke2017structureandinhibitor pages 1-3): Sarah E. Dixon-Clarke, Saifeldin N. Shehata, Tobias Krojer, Timothy D. Sharpe, Frank von Delft, Kei Sakamoto, and Alex N. Bullock. Structure and inhibitor specificity of the pctaire-family kinase cdk16. Biochemical Journal, 474:699-713, Feb 2017. URL: https://doi.org/10.1042/bcj20160941, doi:10.1042/bcj20160941. This article has 46 citations and is from a domain leading peer-reviewed journal.
+
+4. (dixonclarke2017structureandinhibitor pages 10-13): Sarah E. Dixon-Clarke, Saifeldin N. Shehata, Tobias Krojer, Timothy D. Sharpe, Frank von Delft, Kei Sakamoto, and Alex N. Bullock. Structure and inhibitor specificity of the pctaire-family kinase cdk16. Biochemical Journal, 474:699-713, Feb 2017. URL: https://doi.org/10.1042/bcj20160941, doi:10.1042/bcj20160941. This article has 46 citations and is from a domain leading peer-reviewed journal.
+
+5. (dixonclarke2017structureandinhibitor pages 13-14): Sarah E. Dixon-Clarke, Saifeldin N. Shehata, Tobias Krojer, Timothy D. Sharpe, Frank von Delft, Kei Sakamoto, and Alex N. Bullock. Structure and inhibitor specificity of the pctaire-family kinase cdk16. Biochemical Journal, 474:699-713, Feb 2017. URL: https://doi.org/10.1042/bcj20160941, doi:10.1042/bcj20160941. This article has 46 citations and is from a domain leading peer-reviewed journal.
+
+6. (dixonclarke2017structureandinhibitor pages 7-8): Sarah E. Dixon-Clarke, Saifeldin N. Shehata, Tobias Krojer, Timothy D. Sharpe, Frank von Delft, Kei Sakamoto, and Alex N. Bullock. Structure and inhibitor specificity of the pctaire-family kinase cdk16. Biochemical Journal, 474:699-713, Feb 2017. URL: https://doi.org/10.1042/bcj20160941, doi:10.1042/bcj20160941. This article has 46 citations and is from a domain leading peer-reviewed journal.
+
+7. (dixonclarke2017structureandinhibitor pages 8-10): Sarah E. Dixon-Clarke, Saifeldin N. Shehata, Tobias Krojer, Timothy D. Sharpe, Frank von Delft, Kei Sakamoto, and Alex N. Bullock. Structure and inhibitor specificity of the pctaire-family kinase cdk16. Biochemical Journal, 474:699-713, Feb 2017. URL: https://doi.org/10.1042/bcj20160941, doi:10.1042/bcj20160941. This article has 46 citations and is from a domain leading peer-reviewed journal.
+
+8. (karimbayli2024insightsintothe pages 10-13): Javad Karimbayli, Ilenia Pellarin, Barbara Belletti, and Gustavo Baldassarre. Insights into the structural and functional activities of forgotten kinases: pctaires cdks. Molecular Cancer, Jun 2024. URL: https://doi.org/10.1186/s12943-024-02043-6, doi:10.1186/s12943-024-02043-6. This article has 4 citations and is from a highest quality peer-reviewed journal.
+
+9. (karimbayli2024insightsintothe pages 17-18): Javad Karimbayli, Ilenia Pellarin, Barbara Belletti, and Gustavo Baldassarre. Insights into the structural and functional activities of forgotten kinases: pctaires cdks. Molecular Cancer, Jun 2024. URL: https://doi.org/10.1186/s12943-024-02043-6, doi:10.1186/s12943-024-02043-6. This article has 4 citations and is from a highest quality peer-reviewed journal.
+
+10. (karimbayli2024insightsintothe pages 18-19): Javad Karimbayli, Ilenia Pellarin, Barbara Belletti, and Gustavo Baldassarre. Insights into the structural and functional activities of forgotten kinases: pctaires cdks. Molecular Cancer, Jun 2024. URL: https://doi.org/10.1186/s12943-024-02043-6, doi:10.1186/s12943-024-02043-6. This article has 4 citations and is from a highest quality peer-reviewed journal.
+
+11. (karimbayli2024insightsintothe pages 2-4): Javad Karimbayli, Ilenia Pellarin, Barbara Belletti, and Gustavo Baldassarre. Insights into the structural and functional activities of forgotten kinases: pctaires cdks. Molecular Cancer, Jun 2024. URL: https://doi.org/10.1186/s12943-024-02043-6, doi:10.1186/s12943-024-02043-6. This article has 4 citations and is from a highest quality peer-reviewed journal.
+
+12. (karimbayli2024insightsintothe pages 7-9): Javad Karimbayli, Ilenia Pellarin, Barbara Belletti, and Gustavo Baldassarre. Insights into the structural and functional activities of forgotten kinases: pctaires cdks. Molecular Cancer, Jun 2024. URL: https://doi.org/10.1186/s12943-024-02043-6, doi:10.1186/s12943-024-02043-6. This article has 4 citations and is from a highest quality peer-reviewed journal.
+
+13. (malumbres2009cyclindependentkinasesa pages 1-2): Marcos Malumbres, Edward Harlow, Tim Hunt, Tony Hunter, Jill M. Lahti, Gerard Manning, David O. Morgan, Li-Huei Tsai, and Debra J. Wolgemuth. Cyclin-dependent kinases: a family portrait. Nature Cell Biology, 11:1275-1276, Nov 2009. URL: https://doi.org/10.1038/ncb1109-1275, doi:10.1038/ncb1109-1275. This article has 592 citations and is from a highest quality peer-reviewed journal.
+
+14. (mikolcevic2012orphankinasesturn pages 8-9): Petra Mikolcevic, Johannes Rainer, and Stephan Geley. Orphan kinases turn eccentric. Cell Cycle, 11:3758-3768, Aug 2012. URL: https://doi.org/10.4161/cc.21592, doi:10.4161/cc.21592. This article has 67 citations and is from a peer-reviewed journal.
+
+15. (mikolcevic2012orphankinasesturn pages 9-10): Petra Mikolcevic, Johannes Rainer, and Stephan Geley. Orphan kinases turn eccentric. Cell Cycle, 11:3758-3768, Aug 2012. URL: https://doi.org/10.4161/cc.21592, doi:10.4161/cc.21592. This article has 67 citations and is from a peer-reviewed journal.
+
+16. (unknownauthors2022dissectingtherole pages 19-22): Dissecting the role of CDK17 in Epithelial Ovarian Cancer
+
+17. (dixonclarke2017structureandinhibitor pages 14-15): Sarah E. Dixon-Clarke, Saifeldin N. Shehata, Tobias Krojer, Timothy D. Sharpe, Frank von Delft, Kei Sakamoto, and Alex N. Bullock. Structure and inhibitor specificity of the pctaire-family kinase cdk16. Biochemical Journal, 474:699-713, Feb 2017. URL: https://doi.org/10.1042/bcj20160941, doi:10.1042/bcj20160941. This article has 46 citations and is from a domain leading peer-reviewed journal.
+
+18. (dohmen2020ampkdependentactivationof pages 1-2): M. Dohmen, Sarah Krieg, G. Agalaridis, Xiaoqin Zhu, Saifeldin N. Shehata, Elisabeth Pfeiffenberger, Jan Amelang, Mareike Bütepage, Elena Buerova, C. Pfaff, Dipanjan Chanda, S. Geley, C. Preisinger, K. Sakamoto, B. Lüscher, D. Neumann, and J. Vervoorts. Ampk-dependent activation of the cyclin y/cdk16 complex controls autophagy. Nature Communications, Feb 2020. URL: https://doi.org/10.1038/s41467-020-14812-0, doi:10.1038/s41467-020-14812-0. This article has 45 citations and is from a highest quality peer-reviewed journal.

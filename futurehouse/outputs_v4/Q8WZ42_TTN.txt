@@ -1,0 +1,89 @@
+Protein: Titin kinase domain (TK) within Titin / TTN (UniProt Q8WZ42)  
+
+======================================================================  
+Phylogeny  
+• Orthologous TK‐like domains are present in vertebrate titin, invertebrate twitchin (Caenorhabditis elegans), projectin (Drosophila melanogaster) and UNC-89, forming a titin-like kinase clade that is conserved across metazoans (bogomolovas2014titinkinaseis pages 5-6, gautel2011cytoskeletalproteinkinases pages 9-11).  
+• Kinome placement: CAMK group → MLCK-like family; closely related to death-associated protein kinases (Manning classification) (gautel2011cytoskeletalproteinkinases pages 1-2, bogomolovas2014titinkinaseis pages 5-6).  
+• Vertebrate TKs are catalytically impaired pseudokinases, whereas invertebrate orthologs (e.g., twitchin kinase) retain full catalytic motifs (bogomolovas2014titinkinaseis pages 5-6).  
+
+======================================================================  
+Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + protein-Ser/Thr-P (canonical protein-serine/threonine phosphotransfer) (mayans1998structuralbasisfor pages 2-3, gautel2011cytoskeletalproteinkinases pages 1-2).  
+
+======================================================================  
+Cofactor Requirements  
+Activity assays employ divalent cations; Mg²⁺ is required and Mn²⁺ can substitute (bogomolovas2014titinkinaseis pages 10-11, castelmur2012identificationofan pages 6-6).  
+
+======================================================================  
+Substrate Specificity  
+• Consensus phosphorylation motif: not determined; TTN was not assigned a motif class in the kinome-wide peptide atlas (johnson2023anatlasof pages 6-7).  
+• Verified substrate: telethonin/Tcap in early myofibrillogenesis (mayans1998structuralbasisfor pages 2-3).  
+
+======================================================================  
+Structure  
+• Modular arrangement: IgA168–IgA169–FnIII A170–linker–TK catalytic core–C-terminal regulatory domain (CRD)–IgM1 (bogomolovas2021titinkinaseubiquitination pages 1-2).  
+• Crystal structures (PDB 1TKI, 2.0 Å) show an N-lobe/C-lobe kinase fold with a 60-residue CRD tail. CRD helix αR2 penetrates the active-site cleft and blocks ATP binding; βR1 extends the β-sheet, enforcing autoinhibition (mayans1998structuralbasisfor pages 2-3, bogomolovas2014titinkinaseis pages 10-11).  
+• Activation loop adopts an atypical non-RD configuration; Tyr170 in the P+1 loop hydrogen-bonds to catalytic Asp127, sterically occluding the catalytic base (gautel2011cytoskeletalproteinkinases pages 4-5).  
+• Hydrophobic spine residues are conserved but distorted in the autoinhibited state, realigning upon mechanical unfolding (puchner2008mechanoenzymaticsoftitin pages 5-6).  
+• Two copies per asymmetric unit overlay with RMSD 0.14 Å, confirming structural rigidity (bogomolovas2014titinkinaseis pages 10-11).  
+
+======================================================================  
+Regulation  
+Post-translational modifications  
+– Phosphorylation of Tyr170 disrupts the Tyr170–Asp127 clamp, relieving autoinhibition (mayans1998structuralbasisfor pages 6-7).  
+– Autophosphorylation of regulatory tails in twitchin/TK homologs reinforces inhibition after force release (williams2018autophosphorylationisa pages 18-22).  
+– CRD ubiquitination promotes binding of autophagy receptors Nbr1/p62 under stretch (bogomolovas2021titinkinaseubiquitination pages 1-2).  
+
+Allosteric / conformational control  
+– Dual autoinhibition by the CRD and Tyr170; mechanical forces (~30 pN) unfold CRD, opening the active site (puchner2008mechanoenzymaticsoftitin pages 6-7, gautel2011cytoskeletalproteinkinases pages 4-5).  
+– Ca²⁺/calmodulin can bind N-terminal helix αR1, contributing to tail disengagement in vitro (mayans1998structuralbasisfor pages 6-7).  
+
+======================================================================  
+Function  
+• Localization: C-terminal M-band of striated-muscle titin; scaffolds mechanosensory complexes (bogomolovas2014titinkinaseis pages 8-9).  
+• Interactors: MuRF1/MuRF2 E3 ubiquitin ligases, Nbr1, p62, telethonin (bogomolovas2021titinkinaseubiquitination pages 1-2, bogomolovas2014titinkinaseis pages 8-9).  
+• Signaling role: strain-dependent recruitment of MuRFs links sarcomeric tension to protein turnover and gene expression programmes (puchner2008mechanoenzymaticsoftitin pages 6-7).  
+• Expression: highly enriched in cardiac and skeletal muscle; lower levels reported in dividing non-muscle cells where full-length titin participates in mitosis (protein information section; supported by gautel2011cytoskeletalproteinkinases pages 11-12).  
+
+======================================================================  
+Other Comments  
+• Catalytic status is contentious: early structural/biochemical work reported low but measurable Ser/Thr activity, whereas later mutagenesis and high-purity preparations classify vertebrate TK as an inactive pseudokinase scaffold (bogomolovas2014titinkinaseis pages 6-7, mayans1998structuralbasisfor pages 2-3).  
+• Disease links: TTN truncating variants, including those near the kinase region, are major causes of dilated cardiomyopathy and contribute to altered phosphorylation signalling (tabish2017geneticepidemiologyof pages 5-6, vikhorev2022titintruncatingmutationsassociated pages 4-5).
+
+References
+
+1. (bogomolovas2014titinkinaseis pages 10-11): Julijus Bogomolovas, Alexander Gasch, Felix Simkovic, Daniel J. Rigden, Siegfried Labeit, and Olga Mayans. Titin kinase is an inactive pseudokinase scaffold that supports murf1 recruitment to the sarcomeric m-line. Open Biology, 4:140041, May 2014. URL: https://doi.org/10.1098/rsob.140041, doi:10.1098/rsob.140041. This article has 80 citations and is from a peer-reviewed journal.
+
+2. (bogomolovas2014titinkinaseis pages 5-6): Julijus Bogomolovas, Alexander Gasch, Felix Simkovic, Daniel J. Rigden, Siegfried Labeit, and Olga Mayans. Titin kinase is an inactive pseudokinase scaffold that supports murf1 recruitment to the sarcomeric m-line. Open Biology, 4:140041, May 2014. URL: https://doi.org/10.1098/rsob.140041, doi:10.1098/rsob.140041. This article has 80 citations and is from a peer-reviewed journal.
+
+3. (bogomolovas2014titinkinaseis pages 8-9): Julijus Bogomolovas, Alexander Gasch, Felix Simkovic, Daniel J. Rigden, Siegfried Labeit, and Olga Mayans. Titin kinase is an inactive pseudokinase scaffold that supports murf1 recruitment to the sarcomeric m-line. Open Biology, 4:140041, May 2014. URL: https://doi.org/10.1098/rsob.140041, doi:10.1098/rsob.140041. This article has 80 citations and is from a peer-reviewed journal.
+
+4. (bogomolovas2021titinkinaseubiquitination pages 1-2): Julius Bogomolovas, Jennifer R Fleming, Barbara Franke, Bruno Manso, Bernd Simon, Alexander Gasch, Marija Markovic, Thomas Brunner, Ralph Knöll, Ju Chen, Siegfried Labeit, Martin Scheffner, Christine Peter, and Olga Mayans. Titin kinase ubiquitination aligns autophagy receptors with mechanical signals in the sarcomere. EMBO reports, Aug 2021. URL: https://doi.org/10.15252/embr.201948018, doi:10.15252/embr.201948018. This article has 41 citations and is from a highest quality peer-reviewed journal.
+
+5. (castelmur2012identificationofan pages 6-6): Eleonore von Castelmur, Johan Strümpfer, Barbara Franke, Julijus Bogomolovas, Sonia Barbieri, Hiroshi Qadota, Petr V. Konarev, Dmitri I. Svergun, Siegfried Labeit, Guy M. Benian, Klaus Schulten, and Olga Mayans. Identification of an n-terminal inhibitory extension as the primary mechanosensory regulator of twitchin kinase. Proceedings of the National Academy of Sciences, 109:13608-13613, Aug 2012. URL: https://doi.org/10.1073/pnas.1200697109, doi:10.1073/pnas.1200697109. This article has 32 citations.
+
+6. (gautel2011cytoskeletalproteinkinases pages 1-2): Mathias Gautel. Cytoskeletal protein kinases: titin and its relations in mechanosensing. Pflügers Archiv - European Journal of Physiology, 462:119-134, Mar 2011. URL: https://doi.org/10.1007/s00424-011-0946-1, doi:10.1007/s00424-011-0946-1. This article has 167 citations.
+
+7. (gautel2011cytoskeletalproteinkinases pages 4-5): Mathias Gautel. Cytoskeletal protein kinases: titin and its relations in mechanosensing. Pflügers Archiv - European Journal of Physiology, 462:119-134, Mar 2011. URL: https://doi.org/10.1007/s00424-011-0946-1, doi:10.1007/s00424-011-0946-1. This article has 167 citations.
+
+8. (gautel2011cytoskeletalproteinkinases pages 9-11): Mathias Gautel. Cytoskeletal protein kinases: titin and its relations in mechanosensing. Pflügers Archiv - European Journal of Physiology, 462:119-134, Mar 2011. URL: https://doi.org/10.1007/s00424-011-0946-1, doi:10.1007/s00424-011-0946-1. This article has 167 citations.
+
+9. (mayans1998structuralbasisfor pages 2-3): O. Mayans, P. F. Ven, M. Wilm, A. Mues, P. Young, D. Fürst, M. Wilmanns, and M. Gautel. Structural basis for activation of the titin kinase domain during myofibrillogenesis. Nature, 395:863-869, Oct 1998. URL: https://doi.org/10.1038/27603, doi:10.1038/27603. This article has 490 citations and is from a highest quality peer-reviewed journal.
+
+10. (mayans1998structuralbasisfor pages 6-7): O. Mayans, P. F. Ven, M. Wilm, A. Mues, P. Young, D. Fürst, M. Wilmanns, and M. Gautel. Structural basis for activation of the titin kinase domain during myofibrillogenesis. Nature, 395:863-869, Oct 1998. URL: https://doi.org/10.1038/27603, doi:10.1038/27603. This article has 490 citations and is from a highest quality peer-reviewed journal.
+
+11. (puchner2008mechanoenzymaticsoftitin pages 5-6): Elias M. Puchner, Alexander Alexandrovich, Ay Lin Kho, Ulf Hensen, Lars V. Schäfer, Birgit Brandmeier, Frauke Gräter, Helmut Grubmüller, Hermann E. Gaub, and Mathias Gautel. Mechanoenzymatics of titin kinase. Proceedings of the National Academy of Sciences, 105:13385-13390, Sep 2008. URL: https://doi.org/10.1073/pnas.0805034105, doi:10.1073/pnas.0805034105. This article has 434 citations.
+
+12. (puchner2008mechanoenzymaticsoftitin pages 6-7): Elias M. Puchner, Alexander Alexandrovich, Ay Lin Kho, Ulf Hensen, Lars V. Schäfer, Birgit Brandmeier, Frauke Gräter, Helmut Grubmüller, Hermann E. Gaub, and Mathias Gautel. Mechanoenzymatics of titin kinase. Proceedings of the National Academy of Sciences, 105:13385-13390, Sep 2008. URL: https://doi.org/10.1073/pnas.0805034105, doi:10.1073/pnas.0805034105. This article has 434 citations.
+
+13. (bogomolovas2014titinkinaseis pages 6-7): Julijus Bogomolovas, Alexander Gasch, Felix Simkovic, Daniel J. Rigden, Siegfried Labeit, and Olga Mayans. Titin kinase is an inactive pseudokinase scaffold that supports murf1 recruitment to the sarcomeric m-line. Open Biology, 4:140041, May 2014. URL: https://doi.org/10.1098/rsob.140041, doi:10.1098/rsob.140041. This article has 80 citations and is from a peer-reviewed journal.
+
+14. (gautel2011cytoskeletalproteinkinases pages 11-12): Mathias Gautel. Cytoskeletal protein kinases: titin and its relations in mechanosensing. Pflügers Archiv - European Journal of Physiology, 462:119-134, Mar 2011. URL: https://doi.org/10.1007/s00424-011-0946-1, doi:10.1007/s00424-011-0946-1. This article has 167 citations.
+
+15. (johnson2023anatlasof pages 6-7): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+16. (tabish2017geneticepidemiologyof pages 5-6): Ali M. Tabish, Valerio Azzimato, Aris Alexiadis, Byambajav Buyandelger, and Ralph Knöll. Genetic epidemiology of titin-truncating variants in the etiology of dilated cardiomyopathy. Biophysical Reviews, 9:207-223, May 2017. URL: https://doi.org/10.1007/s12551-017-0265-7, doi:10.1007/s12551-017-0265-7. This article has 83 citations and is from a peer-reviewed journal.
+
+17. (williams2018autophosphorylationisa pages 18-22): Rhys M. Williams, Barbara Franke, Mark Wilkinson, Jennifer R. Fleming, Daniel J. Rigden, Guy M. Benian, Patrick A. Eyers, and Olga Mayans. Autophosphorylation is a mechanism of inhibition in twitchin kinase. Journal of molecular biology, 430 6:793-805, Mar 2018. URL: https://doi.org/10.1016/j.jmb.2018.01.020, doi:10.1016/j.jmb.2018.01.020. This article has 3 citations and is from a domain leading peer-reviewed journal.
+
+18. (vikhorev2022titintruncatingmutationsassociated pages 4-5): P. Vikhorev, N. Vikhoreva, W. Yeung, Amy Li, S. Lal, C. D. dos Remedios, Cheavar A. Blair, M. Guglin, K. Campbell, M. Yacoub, P. D. de Tombe, and Steven B Marston. Titin-truncating mutations associated with dilated cardiomyopathy alter length-dependent activation and its modulation via phosphorylation. Cardiovascular Research, 118:241-253, Nov 2022. URL: https://doi.org/10.1093/cvr/cvaa316, doi:10.1093/cvr/cvaa316. This article has 39 citations and is from a domain leading peer-reviewed journal.

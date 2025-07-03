@@ -1,0 +1,125 @@
+Serine/threonine-protein kinase LATS1 – Comprehensive Nomenclature and Functional Profile  
+
+## Phylogeny  
+• AGC kinase group, NDR/LATS subfamily; ~85 % catalytic-domain identity with LATS2 (furth2017thelats1and pages 2-3).  
+• Orthologs: Mus musculus Lats1, Rattus norvegicus Lats1, Xenopus laevis lats1, Danio rerio lats1, Drosophila melanogaster Warts, Caenorhabditis elegans Wts-1, Saccharomyces cerevisiae Dbf2/Dbf20 (furth2017thelats1and pages 1-2, visser2010latstumorsuppressor pages 1-2).  
+• Human LATS1 rescues Drosophila Warts loss, confirming functional conservation (hergovich2013regulationandfunctions pages 1-2).  
+
+## Reaction Catalyzed  
+ATP + [protein] ⇌ ADP + [protein]-O-phospho-Ser/Thr (hao2008tumorsuppressorlats1 pages 1-1).  
+
+## Cofactor Requirements  
+No explicit divalent-cation requirement is reported in the available literature (furth2017thelats1and pages 2-3).  
+
+## Substrate Specificity  
+• Prefers H-X-(R/H/K)-X-X-S/T motif; His-5 is critical for YAP/TAZ phosphorylation (hao2008tumorsuppressorlats1 pages 11-12).  
+• Also phosphorylates basic R/K-X-X-S/T motifs (hergovich2013regulationandfunctions pages 5-6).  
+• Shows serine preference at the phospho-acceptor site (hao2008tumorsuppressorlats1 pages 11-12).  
+
+## Structure  
+Domain organisation  
+– UBA domain (furth2017thelats1and pages 2-3).  
+– Proline-rich P-stretch (visser2010latstumorsuppressor pages 2-4).  
+– Dual PPxY motifs (furth2017thelats1and pages 2-3).  
+– MOB-binding NTR domain, residues 621-703 (kim2016structuralbasisfor pages 8-10).  
+– Kinase domain 705-1010 with VII–VIII insert (visser2010latstumorsuppressor pages 2-4).  
+– Hydrophobic motifs 845-857 and 905-915 plus NFD/Thr1079 (furth2017thelats1and pages 3-4, chan2005theste20likekinase pages 1-3).  
+
+3D information  
+• MOB1–LATS1 NTR complexes, PDB 5BRK/5BKK, show bi-helical NTR engaging MOB1 (kim2016structuralbasisfor pages 8-10).  
+• AlphaFold model AF-O95835-F1 captures full AGC fold (kim2016structuralbasisfor pages 14-15).  
+• Long activation segment analogous to NDR1 auto-inhibition (xiong2018structuralbasisfor pages 1-3).  
+• Regulatory spine includes Ser909 (A-loop) and Thr1079 (HM) aligned by the C-helix (chan2005theste20likekinase pages 1-3).  
+
+## Regulation  
+Phosphorylation  
+– MST1/2 prime Ser909 and Thr1079 (hergovich2013regulationandfunctions pages 2-4, furth2017thelats1and pages 2-3).  
+– MOB1 binding triggers auto-phosphorylation at Ser674 and Ser1049 (furth2017thelats1and pages 2-3).  
+– CDK1/CDC2 phosphorylates Thr490 and Ser613 in mitosis (furth2017thelats1and pages 3-4).  
+– NUAK1 targets Ser464, decreasing stability (furth2017thelats1and pages 3-4).  
+– MAP4Ks, PKA, CHK1/2 and ATR provide alternative inputs (furth2017thelats1and pages 2-3).  
+– PP2A removes Ser909/Thr1079 phosphates (furth2017thelats1and pages 2-3).  
+
+Ubiquitination  
+– NEDD4, ITCH and WWP1 poly-ubiquitinate Lys383, Lys527, Lys633, Lys968 (furth2017thelats1and pages 3-4).  
+
+Protein-protein control  
+– Phospho-MOB1 binding to NTR is indispensable for activation (hergovich2009mammalianndrlatsprotein pages 1-2).  
+– KIBRA and DCAF1 modulate activation and stability (furth2017thelats1and pages 3-3).  
+
+## Function  
+Expression/localisation  
+– Highest expression in ovary; broad ectodermal distribution (visser2010latstumorsuppressor pages 4-5).  
+– Centrosomal during interphase, spindle-associated in mitosis; cytoplasmic and nuclear pools observed (furth2017thelats1and pages 2-3, visser2010latstumorsuppressor pages 4-5).  
+
+Upstream regulators  
+– MST1/2-SAV1, MOB1A/B (chan2005theste20likekinase pages 1-3, hergovich2013regulationandfunctions pages 2-4).  
+– MAP4Ks, PKA, CHK1/2, ATR (furth2017thelats1and pages 2-3, meng2015map4kfamilykinases pages 3-4).  
+– Merlin/NF2 for membrane recruitment (hergovich2013regulationandfunctions pages 1-2).  
+
+Downstream substrates  
+– YAP1 and WWTR1/TAZ (hao2008tumorsuppressorlats1 pages 12-13, hergovich2013regulationandfunctions pages 5-6).  
+– Aurora B (furth2017thelats1and pages 7-8).  
+– MYPT1 Ser445 (hergovich2013regulationandfunctions pages 5-6).  
+– RAF1 Ser259 (furth2017thelats1and pages 7-8).  
+– Regulates Cyclin E/CDK2 and tetraploidy checkpoint (furth2017thelats1and pages 7-8).  
+
+Pathway  
+Core effector kinase of the Hippo cascade governing organ size, apoptosis and contact inhibition (furth2017thelats1and pages 2-3, hergovich2013regulationandfunctions pages 1-2).  
+
+## Inhibitors  
+TRULI, an ATP-competitive inhibitor of LATS kinases, has been described in cellular studies (furth2017thelats1and pages 1-2).  
+
+## Other Comments  
+• LOH at 6q24-q25 in breast, liver and lung cancers (visser2010latstumorsuppressor pages 2-4).  
+• Somatic mutation rate ~1.1 %; enriched in stomach, endometrial and bladder tumours (yu2015mutationanalysisof pages 1-2).  
+• Function-impairing mutations I81M, R82Q, T255N, S336G, R744Q, N1038H cluster in critical domains (yu2015mutationanalysisof pages 2-3, yu2015mutationanalysisof pages 3-5).  
+• Promoter hypermethylation and E3-mediated degradation contribute to down-regulation in cancer (furth2017thelats1and pages 3-4).
+
+References
+
+1. (furth2017thelats1and pages 2-3): Noa Furth and Yael Aylon. The lats1 and lats2 tumor suppressors: beyond the hippo pathway. Cell Death &amp; Differentiation, 24:1488-1501, Jun 2017. URL: https://doi.org/10.1038/cdd.2017.99, doi:10.1038/cdd.2017.99. This article has 251 citations.
+
+2. (furth2017thelats1and pages 3-3): Noa Furth and Yael Aylon. The lats1 and lats2 tumor suppressors: beyond the hippo pathway. Cell Death &amp; Differentiation, 24:1488-1501, Jun 2017. URL: https://doi.org/10.1038/cdd.2017.99, doi:10.1038/cdd.2017.99. This article has 251 citations.
+
+3. (furth2017thelats1and pages 3-4): Noa Furth and Yael Aylon. The lats1 and lats2 tumor suppressors: beyond the hippo pathway. Cell Death &amp; Differentiation, 24:1488-1501, Jun 2017. URL: https://doi.org/10.1038/cdd.2017.99, doi:10.1038/cdd.2017.99. This article has 251 citations.
+
+4. (hergovich2013regulationandfunctions pages 1-2): Alexander Hergovich. Regulation and functions of mammalian lats/ndr kinases: looking beyond canonical hippo signalling. Cell & Bioscience, Aug 2013. URL: https://doi.org/10.1186/2045-3701-3-32, doi:10.1186/2045-3701-3-32. This article has 124 citations.
+
+5. (hergovich2013regulationandfunctions pages 2-4): Alexander Hergovich. Regulation and functions of mammalian lats/ndr kinases: looking beyond canonical hippo signalling. Cell & Bioscience, Aug 2013. URL: https://doi.org/10.1186/2045-3701-3-32, doi:10.1186/2045-3701-3-32. This article has 124 citations.
+
+6. (kim2016structuralbasisfor pages 14-15): Sun-Yong Kim, Y. Tachioka, Tomoyuki Mori, and T. Hakoshima. Structural basis for autoinhibition and its relief of mob1 in the hippo pathway. Scientific Reports, Jun 2016. URL: https://doi.org/10.1038/srep28488, doi:10.1038/srep28488. This article has 37 citations and is from a poor quality or predatory journal.
+
+7. (visser2010latstumorsuppressor pages 2-4): Stacy Visser and Xiaolong Yang. Lats tumor suppressor: a new governor of cellular homeostasis. Cell Cycle, 9:3892-3903, Oct 2010. URL: https://doi.org/10.4161/cc.9.19.13386, doi:10.4161/cc.9.19.13386. This article has 256 citations and is from a peer-reviewed journal.
+
+8. (visser2010latstumorsuppressor pages 4-5): Stacy Visser and Xiaolong Yang. Lats tumor suppressor: a new governor of cellular homeostasis. Cell Cycle, 9:3892-3903, Oct 2010. URL: https://doi.org/10.4161/cc.9.19.13386, doi:10.4161/cc.9.19.13386. This article has 256 citations and is from a peer-reviewed journal.
+
+9. (yu2015mutationanalysisof pages 2-3): Tian Yu, John Bachman, and Zhi-Chun Lai. Mutation analysis of large tumor suppressor genes lats1 and lats2 supports a tumor suppressor role in human cancer. Protein &amp; Cell, 6:6-11, Dec 2015. URL: https://doi.org/10.1007/s13238-014-0122-4, doi:10.1007/s13238-014-0122-4. This article has 50 citations.
+
+10. (yu2015mutationanalysisof pages 3-5): Tian Yu, John Bachman, and Zhi-Chun Lai. Mutation analysis of large tumor suppressor genes lats1 and lats2 supports a tumor suppressor role in human cancer. Protein &amp; Cell, 6:6-11, Dec 2015. URL: https://doi.org/10.1007/s13238-014-0122-4, doi:10.1007/s13238-014-0122-4. This article has 50 citations.
+
+11. (chan2005theste20likekinase pages 1-3): Eunice H Y Chan, Marjaana Nousiainen, Ravindra B Chalamalasetty, Anja Schäfer, Erich A Nigg, and Herman H W Silljé. The ste20-like kinase mst2 activates the human large tumor suppressor kinase lats1. Oncogene, 24:2076-2086, Mar 2005. URL: https://doi.org/10.1038/sj.onc.1208445, doi:10.1038/sj.onc.1208445. This article has 713 citations and is from a domain leading peer-reviewed journal.
+
+12. (furth2017thelats1and pages 1-2): Noa Furth and Yael Aylon. The lats1 and lats2 tumor suppressors: beyond the hippo pathway. Cell Death &amp; Differentiation, 24:1488-1501, Jun 2017. URL: https://doi.org/10.1038/cdd.2017.99, doi:10.1038/cdd.2017.99. This article has 251 citations.
+
+13. (furth2017thelats1and pages 7-8): Noa Furth and Yael Aylon. The lats1 and lats2 tumor suppressors: beyond the hippo pathway. Cell Death &amp; Differentiation, 24:1488-1501, Jun 2017. URL: https://doi.org/10.1038/cdd.2017.99, doi:10.1038/cdd.2017.99. This article has 251 citations.
+
+14. (hao2008tumorsuppressorlats1 pages 1-1): Y. Hao, Alex Chun, Kevin J. Cheung, Babak Rashidi, and Xiaolong Yang. Tumor suppressor lats1 is a negative regulator of oncogene yap*. Journal of Biological Chemistry, 283:5496-5509, Feb 2008. URL: https://doi.org/10.1074/jbc.m709037200, doi:10.1074/jbc.m709037200. This article has 900 citations and is from a domain leading peer-reviewed journal.
+
+15. (hao2008tumorsuppressorlats1 pages 11-12): Y. Hao, Alex Chun, Kevin J. Cheung, Babak Rashidi, and Xiaolong Yang. Tumor suppressor lats1 is a negative regulator of oncogene yap*. Journal of Biological Chemistry, 283:5496-5509, Feb 2008. URL: https://doi.org/10.1074/jbc.m709037200, doi:10.1074/jbc.m709037200. This article has 900 citations and is from a domain leading peer-reviewed journal.
+
+16. (hao2008tumorsuppressorlats1 pages 12-13): Y. Hao, Alex Chun, Kevin J. Cheung, Babak Rashidi, and Xiaolong Yang. Tumor suppressor lats1 is a negative regulator of oncogene yap*. Journal of Biological Chemistry, 283:5496-5509, Feb 2008. URL: https://doi.org/10.1074/jbc.m709037200, doi:10.1074/jbc.m709037200. This article has 900 citations and is from a domain leading peer-reviewed journal.
+
+17. (hergovich2009mammalianndrlatsprotein pages 1-2): Alexander Hergovich and Brian A. Hemmings. Mammalian ndr/lats protein kinases in hippo tumor suppressor signaling. BioFactors, Jul 2009. URL: https://doi.org/10.1002/biof.47, doi:10.1002/biof.47. This article has 94 citations and is from a peer-reviewed journal.
+
+18. (hergovich2013regulationandfunctions pages 5-6): Alexander Hergovich. Regulation and functions of mammalian lats/ndr kinases: looking beyond canonical hippo signalling. Cell & Bioscience, Aug 2013. URL: https://doi.org/10.1186/2045-3701-3-32, doi:10.1186/2045-3701-3-32. This article has 124 citations.
+
+19. (kim2016structuralbasisfor pages 8-10): Sun-Yong Kim, Y. Tachioka, Tomoyuki Mori, and T. Hakoshima. Structural basis for autoinhibition and its relief of mob1 in the hippo pathway. Scientific Reports, Jun 2016. URL: https://doi.org/10.1038/srep28488, doi:10.1038/srep28488. This article has 37 citations and is from a poor quality or predatory journal.
+
+20. (meng2015map4kfamilykinases pages 3-4): Z. Meng, T. Moroishi, Violaine Mottier-Pavie, Steven W Plouffe, C. G. Hansen, Audrey W. Hong, H. Park, Jung-Soon Mo, Wenqi Lu, Shicong Lu, Fabian Flores, Fa-Xing Yu, G. Halder, and K. Guan. Map4k family kinases act in parallel to mst1/2 to activate lats1/2 in the hippo pathway. Nature Communications, Oct 2015. URL: https://doi.org/10.1038/ncomms9357, doi:10.1038/ncomms9357. This article has 566 citations and is from a highest quality peer-reviewed journal.
+
+21. (visser2010latstumorsuppressor pages 1-2): Stacy Visser and Xiaolong Yang. Lats tumor suppressor: a new governor of cellular homeostasis. Cell Cycle, 9:3892-3903, Oct 2010. URL: https://doi.org/10.4161/cc.9.19.13386, doi:10.4161/cc.9.19.13386. This article has 256 citations and is from a peer-reviewed journal.
+
+22. (xiong2018structuralbasisfor pages 1-3): Shawn Xiong, Kristina Lorenzen, Amber L. Couzens, Catherine M. Templeton, Dushyandi Rajendran, Daniel Y.L. Mao, Yu-Chi Juang, David Chiovitti, Igor Kurinov, Sebastian Guettler, Anne-Claude Gingras, and Frank Sicheri. Structural basis for auto-inhibition of the ndr1 kinase domain by an atypically long activation segment. Structure, 26:1101-1115.e6, Aug 2018. URL: https://doi.org/10.1016/j.str.2018.05.014, doi:10.1016/j.str.2018.05.014. This article has 20 citations and is from a domain leading peer-reviewed journal.
+
+23. (yu2015mutationanalysisof pages 1-2): Tian Yu, John Bachman, and Zhi-Chun Lai. Mutation analysis of large tumor suppressor genes lats1 and lats2 supports a tumor suppressor role in human cancer. Protein &amp; Cell, 6:6-11, Dec 2015. URL: https://doi.org/10.1007/s13238-014-0122-4, doi:10.1007/s13238-014-0122-4. This article has 50 citations.

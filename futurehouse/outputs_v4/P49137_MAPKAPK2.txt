@@ -1,0 +1,96 @@
+## Phylogeny  
+• Orthologs: Homo sapiens (MAPKAPK2), Mus musculus (Mapkapk2), Rattus norvegicus, Danio rerio, Drosophila melanogaster (~60 % identity) and Caenorhabditis elegans (~60 % identity) (cargnello2011activationandfunction pages 21-23, roux2004erkandp38 pages 16-17).  
+• Yeast analogs: Rck1/Rck2 in Saccharomyces cerevisiae and Srk1/Mkp2 in Schizosaccharomyces pombe act downstream of p38-like modules but are not direct orthologs (cargnello2011activationandfunction pages 21-23).  
+• Kinome position: MAPKAPK2 groups with MAPKAPK3 (75 % identity) in the MAPK-activated protein kinase sub-family on the CaMK-like branch of the human kinome (roux2004erkandp38 pages 5-7, cargnello2011activationandfunction pages 21-23).  
+
+  
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr → ADP + [protein]-O-phospho-Ser/Thr (fiore2016targetingmitogenactivatedprotein pages 10-12).  
+
+  
+## Cofactor Requirements  
+• Requires Mg²⁺; standard assays use 25 mM MgCl₂ (powell2003proteomicidentificationof pages 2-2).  
+• Mn²⁺ can substitute for Mg²⁺ with retained activity in crystallographic studies (fiore2016targetingmitogenactivatedprotein pages 70-73).  
+
+  
+## Substrate Specificity  
+• Consensus motif: Φ-X-Arg-X₂-Ser/Thr (Φ = large hydrophobic residue) (johnson2023anatlasof pages 4-5).  
+• Experimentally confirmed cellular substrates include HSP27/HSPB1, TTP/ZFP36, LIMK1, LSP1, CDC25B/C, ALOX5 and ELAVL1 (schindler2007p38pathwaykinases pages 5-6, fiore2016targetingmitogenactivatedprotein pages 51-54).  
+
+  
+## Structure  
+• Domain map (isoform 1, 400 aa)  
+  – 10–40: Proline-rich SH3-binding segment (fiore2016targetingmitogenactivatedprotein pages 7-10).  
+  – 64–325: Bilobal kinase domain; gatekeeper Met138 shapes a narrow ATP pocket (fiore2016targetingmitogenactivatedprotein pages 10-12).  
+  – 328–364: Autoinhibitory α-helix masking the catalytic cleft (fiore2016targetingmitogenactivatedprotein pages 7-10).  
+  – 356–365: Nuclear export signal (singh2017biologicalfunctionsand pages 1-6).  
+  – 366–390: High-affinity p38 docking site (fiore2016targetingmitogenactivatedprotein pages 10-12).  
+  – 371–374 & 385–389: Bipartite NLS (singh2017biologicalfunctionsand pages 1-6).  
+• Representative structures: apo (1KWP), ADP/staurosporine-bound (1NY3, 1NXK), active T222E mutant (3KA0), p38α-MK2 heterodimers (2OZA, 2ONL) (fiore2016targetingmitogenactivatedprotein pages 10-12).  
+• Activation entails hydrophobic-spine completion and αC-helix rotation; phosphorylation displaces the autoinhibitory helix, exposing the active site and NLS (fiore2016targetingmitogenactivatedprotein pages 54-57).  
+
+  
+## Regulation  
+• p38α/MAPK14 phosphorylates Thr222, Ser272 (activation loop) and Thr334 (C-terminus) to activate MK2 and unmask the NES (singh2017biologicalfunctionsand pages 1-6, roux2004erkandp38 pages 17-18).  
+• Autophosphorylation occurs at Ser9, Thr25 and Ser328 (fiore2016targetingmitogenactivatedprotein pages 7-10).  
+• SUMOylation at Lys353 by PIAS1 suppresses activity; K353R mutation abolishes this inhibition (fiore2016targetingmitogenactivatedprotein pages 10-12).  
+• Tight p38 docking via residues 370–400 (K_d ≈ 20 nM) is obligatory for efficient phosphorylation (fiore2016targetingmitogenactivatedprotein pages 10-12).  
+• Loss-of-function mutants Lys93→Arg or Asp207→Ala abolish catalysis; phosphomimetics Thr222E/Thr334E render the kinase constitutively active (fiore2016targetingmitogenactivatedprotein pages 10-12).  
+• Ubiquitination: none reported in the current literature.  
+
+  
+## Function  
+• Highly expressed in heart, skeletal muscle and kidney; detectable in immune and stromal cells (roux2004erkandp38 pages 16-17).  
+• Upstream cascade: stress → MKK3/6 → p38α → MK2 (singh2017biologicalfunctionsand pages 1-6).  
+• Major roles:  
+  – Actin remodeling and cell migration via HSP27 phosphorylation (schindler2007p38pathwaykinases pages 5-6).  
+  – Post-transcriptional control of inflammatory cytokines by phosphorylating TTP/ZFP36 and ELAVL1 (soni2019mapkapk2themaster pages 3-4).  
+  – Cell-cycle and DNA-damage checkpoints through CDC25B/C and LIMK1 regulation (fiore2016targetingmitogenactivatedprotein pages 51-54).  
+  – Identified as a driver kinase in colitis models (strasser2019substratebasedkinaseactivity pages 13-14).  
+
+  
+## Inhibitors  
+• ATP-competitive type I  
+  – Staurosporine (reference ligand; co-crystal 1NY3) (fiore2016targetingmitogenactivatedprotein pages 10-12).  
+  – PF-3644022: benzothiophene scaffold; IC₅₀ ≈ 5 nM enzymatic, ~150 nM cellular; suppresses TNF-α release in vivo (fiore2016targetingmitogenactivatedprotein pages 18-21).  
+• Indirect inhibition: p38α blocker SB203580 prevents MK2 activation (schindler2007p38pathwaykinases pages 5-6).  
+
+  
+## Other Comments  
+• Mapkapk2-knockout mice show impaired TNF-α/IL-6 production and resistance to endotoxic shock (schindler2007p38pathwaykinases pages 5-6).  
+• Persistent MK2 signaling stabilizes oncogenic transcripts and promotes tumor progression (soni2019mapkapk2themaster pages 3-4).  
+• Hyperactivation of the p38/MK2 axis contributes to inflammatory bowel disease pathology (strasser2019substratebasedkinaseactivity pages 13-14).
+
+References
+
+1. (cargnello2011activationandfunction pages 21-23): Marie Cargnello and Philippe P. Roux. Activation and function of the mapks and their substrates, the mapk-activated protein kinases. Microbiology and Molecular Biology Reviews, 75:50-83, Mar 2011. URL: https://doi.org/10.1128/mmbr.00031-10, doi:10.1128/mmbr.00031-10. This article has 4045 citations and is from a domain leading peer-reviewed journal.
+
+2. (fiore2016targetingmitogenactivatedprotein pages 10-12): Mario Fiore, Stefano Forli, and Fabrizio Manetti. Targeting mitogen-activated protein kinase-activated protein kinase 2 (mapkapk2, mk2): medicinal chemistry efforts to lead small molecule inhibitors to clinical trials. Journal of medicinal chemistry, 59 8:3609-34, Apr 2016. URL: https://doi.org/10.1021/acs.jmedchem.5b01457, doi:10.1021/acs.jmedchem.5b01457. This article has 86 citations and is from a highest quality peer-reviewed journal.
+
+3. (fiore2016targetingmitogenactivatedprotein pages 54-57): Mario Fiore, Stefano Forli, and Fabrizio Manetti. Targeting mitogen-activated protein kinase-activated protein kinase 2 (mapkapk2, mk2): medicinal chemistry efforts to lead small molecule inhibitors to clinical trials. Journal of medicinal chemistry, 59 8:3609-34, Apr 2016. URL: https://doi.org/10.1021/acs.jmedchem.5b01457, doi:10.1021/acs.jmedchem.5b01457. This article has 86 citations and is from a highest quality peer-reviewed journal.
+
+4. (fiore2016targetingmitogenactivatedprotein pages 7-10): Mario Fiore, Stefano Forli, and Fabrizio Manetti. Targeting mitogen-activated protein kinase-activated protein kinase 2 (mapkapk2, mk2): medicinal chemistry efforts to lead small molecule inhibitors to clinical trials. Journal of medicinal chemistry, 59 8:3609-34, Apr 2016. URL: https://doi.org/10.1021/acs.jmedchem.5b01457, doi:10.1021/acs.jmedchem.5b01457. This article has 86 citations and is from a highest quality peer-reviewed journal.
+
+5. (roux2004erkandp38 pages 17-18): Philippe P. Roux and John Blenis. Erk and p38 mapk-activated protein kinases: a family of protein kinases with diverse biological functions. Microbiology and Molecular Biology Reviews, 68:320-344, Jun 2004. URL: https://doi.org/10.1128/mmbr.68.2.320-344.2004, doi:10.1128/mmbr.68.2.320-344.2004. This article has 3367 citations and is from a domain leading peer-reviewed journal.
+
+6. (roux2004erkandp38 pages 5-7): Philippe P. Roux and John Blenis. Erk and p38 mapk-activated protein kinases: a family of protein kinases with diverse biological functions. Microbiology and Molecular Biology Reviews, 68:320-344, Jun 2004. URL: https://doi.org/10.1128/mmbr.68.2.320-344.2004, doi:10.1128/mmbr.68.2.320-344.2004. This article has 3367 citations and is from a domain leading peer-reviewed journal.
+
+7. (schindler2007p38pathwaykinases pages 5-6): J.F. Schindler, J.B. Monahan, and W.G. Smith. P38 pathway kinases as anti-inflammatory drug targets. Journal of Dental Research, 86:800-811, Sep 2007. URL: https://doi.org/10.1177/154405910708600902, doi:10.1177/154405910708600902. This article has 333 citations and is from a highest quality peer-reviewed journal.
+
+8. (singh2017biologicalfunctionsand pages 1-6): R. Singh, A. Najmi, and S. Dastidar. Biological functions and role of mitogen-activated protein kinase activated protein kinase 2 (mk2) in inflammatory diseases. Pharmacological Reports, 69:746-756, Jul 2017. URL: https://doi.org/10.1016/j.pharep.2017.03.023, doi:10.1016/j.pharep.2017.03.023. This article has 56 citations and is from a peer-reviewed journal.
+
+9. (soni2019mapkapk2themaster pages 3-4): Sourabh Soni, Prince Anand, and Yogendra S. Padwad. Mapkapk2: the master regulator of rna-binding proteins modulates transcript stability and tumor progression. Journal of Experimental &amp; Clinical Cancer Research, Mar 2019. URL: https://doi.org/10.1186/s13046-019-1115-1, doi:10.1186/s13046-019-1115-1. This article has 150 citations.
+
+10. (strasser2019substratebasedkinaseactivity pages 13-14): Samantha Dale Strasser, Phaedra C. Ghazi, A. Starchenko, M. Boukhali, Amanda Edwards, L. Suarez-Lopez, J. Lyons, P. Changelian, J. Monahan, J. Jacobsen, Douglas K. Brubaker, Brian A. Joughin, M. Yaffe, W. Haas, D. Lauffenburger, and K. Haigis. Substrate-based kinase activity inference identifies mk2 as driver of colitis. Integrative biology : quantitative biosciences from nano to macro, Jul 2019. URL: https://doi.org/10.1093/intbio/zyz025, doi:10.1093/intbio/zyz025. This article has 23 citations.
+
+11. (fiore2016targetingmitogenactivatedprotein pages 51-54): Mario Fiore, Stefano Forli, and Fabrizio Manetti. Targeting mitogen-activated protein kinase-activated protein kinase 2 (mapkapk2, mk2): medicinal chemistry efforts to lead small molecule inhibitors to clinical trials. Journal of medicinal chemistry, 59 8:3609-34, Apr 2016. URL: https://doi.org/10.1021/acs.jmedchem.5b01457, doi:10.1021/acs.jmedchem.5b01457. This article has 86 citations and is from a highest quality peer-reviewed journal.
+
+12. (fiore2016targetingmitogenactivatedprotein pages 70-73): Mario Fiore, Stefano Forli, and Fabrizio Manetti. Targeting mitogen-activated protein kinase-activated protein kinase 2 (mapkapk2, mk2): medicinal chemistry efforts to lead small molecule inhibitors to clinical trials. Journal of medicinal chemistry, 59 8:3609-34, Apr 2016. URL: https://doi.org/10.1021/acs.jmedchem.5b01457, doi:10.1021/acs.jmedchem.5b01457. This article has 86 citations and is from a highest quality peer-reviewed journal.
+
+13. (johnson2023anatlasof pages 4-5): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+14. (powell2003proteomicidentificationof pages 2-2): David W. Powell, Madhavi J. Rane, Brian A. Joughin, Ralitsa Kalmukova, Jeong-Ho Hong, Bruce Tidor, William L. Dean, William M. Pierce, Jon B. Klein, Michael B. Yaffe, and Kenneth R. McLeish. Proteomic identification of 14-3-3ζ as a mitogen-activated protein kinase-activated protein kinase 2 substrate: role in dimer formation and ligand binding. Molecular and Cellular Biology, 23:5376-5387, Aug 2003. URL: https://doi.org/10.1128/mcb.23.15.5376-5387.2003, doi:10.1128/mcb.23.15.5376-5387.2003. This article has 172 citations and is from a domain leading peer-reviewed journal.
+
+15. (roux2004erkandp38 pages 16-17): Philippe P. Roux and John Blenis. Erk and p38 mapk-activated protein kinases: a family of protein kinases with diverse biological functions. Microbiology and Molecular Biology Reviews, 68:320-344, Jun 2004. URL: https://doi.org/10.1128/mmbr.68.2.320-344.2004, doi:10.1128/mmbr.68.2.320-344.2004. This article has 3367 citations and is from a domain leading peer-reviewed journal.
+
+16. (fiore2016targetingmitogenactivatedprotein pages 18-21): Mario Fiore, Stefano Forli, and Fabrizio Manetti. Targeting mitogen-activated protein kinase-activated protein kinase 2 (mapkapk2, mk2): medicinal chemistry efforts to lead small molecule inhibitors to clinical trials. Journal of medicinal chemistry, 59 8:3609-34, Apr 2016. URL: https://doi.org/10.1021/acs.jmedchem.5b01457, doi:10.1021/acs.jmedchem.5b01457. This article has 86 citations and is from a highest quality peer-reviewed journal.

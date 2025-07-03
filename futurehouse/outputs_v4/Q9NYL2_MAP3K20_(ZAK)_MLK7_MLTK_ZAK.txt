@@ -1,0 +1,89 @@
+## Phylogeny  
+• Member of the STE group, mixed-lineage kinase (MLK) subfamily; shares ~40 % sequence identity with MLK1 and DLK, placing it on the STE11 branch of the human kinome (mathea2016structureofthe pages 1-3, mathea2016structureofthe pages 14-16).  
+• Vertebrate orthologs are reported in Mus musculus, Rattus norvegicus, Gallus gallus, Xenopus laevis and Danio rerio; zebrafish encodes separate genes for the α- and β-type isoforms (mathea2016structureofthe pages 14-16, nordgaard2022zakβisactivated pages 10-12).  
+• A single nematode homolog, zak-1, functions upstream of the p38 ortholog pmk-1 in Caenorhabditis elegans (vind2020zakαrecognizesstalled pages 11-13).  
+• No clear ortholog is present in Saccharomyces cerevisiae or Drosophila melanogaster, indicating lineage-restricted expansion (vind2020ribosomalstresssurveillancethree pages 10-10).  
+
+## Reaction Catalyzed  
+Protein-Ser/Thr + ATP ⇄ Protein-Ser/Thr-P + ADP (mathea2016structureofthe pages 1-3).  
+
+## Cofactor Requirements  
+Catalysis is ATP-dependent; the cited literature does not specify divalent metal requirements (mathea2016structureofthe pages 13-14).  
+
+## Substrate Specificity  
+• Positional-scanning peptide libraries defined a consensus W-H-T-ϕ-H-ϕ motif (ϕ = A,V,I,F,Y,W,Q) centered on a threonine phosphoacceptor; histidine is preferred at –1 and +2 (mathea2016structureofthe pages 6-8).  
+• “ZAKtide” (ANHWHTVHLRA) is an optimized reporter substrate; KM,ATP ≈ 140 µM (mathea2016structureofthe pages 6-8).  
+• Activation-segment peptides from MAP2K4 and MAP2K7 are poor substrates, indicating a requirement for supplemental docking interactions in full-length targets (mathea2016structureofthe pages 8-10).  
+• Phosphoproteomics of skeletal-muscle lysate identified 48 direct substrates and ~1 200 putative targets enriched at the Z-disc and focal adhesions, including FLNC, SYNPO2 and BAG3 (stonadge2023myofibrillarmyopathyhallmarks pages 6-7).  
+
+## Structure  
+• Domain organisation – ZAKα: N-terminal kinase domain (KD, residues 5-309), leucine-zipper (LZ), sterile-α motif (SAM) and a C-terminal ribosome-binding module composed of semi-redundant S and CTD domains (vind2020zakαrecognizesstalled pages 13-14). ZAKβ: identical KD + LZ followed by a unique stress-fiber-binding domain (SFBD) in place of the SAM/CTD cassette (nordgaard2022zakβisactivated pages 6-8).  
+• Crystal structure of KD-LZ (PDB 5HES) bound to vemurafenib reveals a bilobed fold with αC displaced outward, breaking the Lys45–Glu53 ion pair and locking the kinase in an inactive DFG-in state (mathea2016structureofthe pages 8-10).  
+• The P-loop is kinked; Phe27 π-stacks with the inhibitor, while Cys24 lies adjacent to the chlorophenyl group, providing a potential covalent anchor site (mathea2016structureofthe pages 10-13).  
+• Activation loop: Thr161 is phosphorylated in the crystal; Ser165 remains disordered, underscoring the requirement for dual phosphorylation for full activity (mathea2016structureofthe pages 8-10).  
+• The LZ packs against αG forming a hydrophobic patch yet does not mediate dimerisation in the crystal (mathea2016structureofthe pages 16-19).  
+• The SAM domain functions as an autoinhibitory element restricting ribosome engagement until relieved by phosphorylation (vind2020zakαrecognizesstalled pages 13-14).  
+
+## Regulation  
+• Autophosphorylation of Thr161 and Ser165 in the activation loop is necessary for maximal catalytic output (mathea2016structureofthe pages 8-10).  
+• Protein kinase N1 promotes trans-autophosphorylation of these sites under osmotic stress (mathea2016structureofthe pages 1-3).  
+• ZAKα undergoes additional autophosphorylations flanking the ribosome-binding region that modulate sensor engagement (vind2020zakαrecognizesstalled pages 11-13).  
+• ZAKβ is phosphorylated at Ser335 and Ser339 during cellular compression or in contracting muscle (nordgaard2022zakβisactivated pages 8-10).  
+• Isoform-specific stimuli – stalled/damaged ribosomes activate ZAKα, whereas stress-fiber perturbation and mechanical compression activate ZAKβ (vind2020zakαrecognizesstalled pages 13-14, nordgaard2022zakβisactivated pages 6-8).  
+
+## Function  
+• Acts upstream of MAP2K7/MAP2K4→JNK and MAP2K3/MAP2K6→p38 in stress-activated cascades (mathea2016structureofthe pages 1-3).  
+• ZAKα binds 18S rRNA helix 14 and initiates the ribotoxic-stress response leading to p38/JNK activation (vind2020zakαrecognizesstalled pages 13-14).  
+• ZAKβ localises to Z-discs and stress fibres, senses cellular compression, and is indispensable for contraction-induced p38/JNK activation in skeletal muscle (nordgaard2022zakβisactivated pages 6-8).  
+• Highly expressed in adult human cardiomyocytes where it controls hypertrophic and doxorubicin-induced stress signalling (mathea2016structureofthe pages 1-3).  
+• Phosphorylates Z-disc proteins FLNC, SYNPO2, BAG3 and others, linking kinase activity to myofibrillar integrity (stonadge2023myofibrillarmyopathyhallmarks pages 6-7).  
+
+## Inhibitors  
+• Vemurafenib: KD ≈ 29 nM by ITC; IC₅₀ ≈ 23 nM in enzymatic assay; crystal structure defines binding mode (mathea2016structureofthe pages 10-13, mathea2016structureofthe pages 16-19).  
+• Ponatinib, nilotinib, sorafenib, dabrafenib and rebastinib produce ΔT_m up to 15 °C and inhibit the kinase with low-nanomolar potency in biochemical assays (mathea2016structureofthe pages 6-8).  
+• PLX4720 blocks ZAKβ in cell-based actin-ruffling assays (stonadge2023myofibrillarmyopathyhallmarks pages 5-6).  
+• DHP-2 is an experimental inhibitor that suppresses ZAK-dependent ribotoxic signalling (vind2020ribosomalstresssurveillancethree pages 5-6).  
+
+## Other Comments  
+• Off-target inhibition of ZAK by RAF inhibitors (vemurafenib, dabrafenib, sorafenib) diminishes UV-induced apoptosis and contributes to cutaneous squamous-cell carcinoma in mouse models (mathea2016structureofthe pages 3-6).  
+• Germline SAM-domain mutation F368C causes congenital split-hand/foot malformation via constitutive pathway activation and reduced protein stability (vind2020zakαrecognizesstalled pages 11-13).  
+• Homozygous MAP3K20 loss results in a myofibrillar myopathy with FLNC and BAG3 accumulation in patients and Zak-deficient mice (stonadge2023myofibrillarmyopathyhallmarks pages 1-1).  
+• Zak knockout mice display atrophy of slow-twitch fibres and impaired p38/JNK activation after muscle contraction (nordgaard2022zakβisactivated pages 8-10).
+
+References
+
+1. (mathea2016structureofthe pages 13-14): Sebastian Mathea, Kamal R. Abdul Azeez, Eidarus Salah, Cynthia Tallant, Finn Wolfreys, Rebecca Konietzny, Roman Fischer, Hua Jane Lou, Paul E. Brennan, Gisela Schnapp, Alexander Pautsch, Benedikt M. Kessler, Benjamin E. Turk, and Stefan Knapp. Structure of the human protein kinase zak in complex with vemurafenib. ACS Chemical Biology, 11:1595-1602, Mar 2016. URL: https://doi.org/10.1021/acschembio.6b00043, doi:10.1021/acschembio.6b00043. This article has 26 citations and is from a domain leading peer-reviewed journal.
+
+2. (vind2020zakαrecognizesstalled pages 11-13): A. Vind, Goda Snieckute, Melanie Blasius, Christopher Tiedje, Nicolai Krogh, Dorte B. Bekker-Jensen, K. Andersen, Cathrine Nordgaard, M. Tollenaere, A. Lund, J. Olsen, H. Nielsen, and Simon Bekker-Jensen. Zakα recognizes stalled ribosomes through partially redundant sensor domains. Molecular cell, Apr 2020. URL: https://doi.org/10.1016/j.molcel.2020.03.021, doi:10.1016/j.molcel.2020.03.021. This article has 135 citations and is from a highest quality peer-reviewed journal.
+
+3. (vind2020zakαrecognizesstalled pages 13-14): A. Vind, Goda Snieckute, Melanie Blasius, Christopher Tiedje, Nicolai Krogh, Dorte B. Bekker-Jensen, K. Andersen, Cathrine Nordgaard, M. Tollenaere, A. Lund, J. Olsen, H. Nielsen, and Simon Bekker-Jensen. Zakα recognizes stalled ribosomes through partially redundant sensor domains. Molecular cell, Apr 2020. URL: https://doi.org/10.1016/j.molcel.2020.03.021, doi:10.1016/j.molcel.2020.03.021. This article has 135 citations and is from a highest quality peer-reviewed journal.
+
+4. (mathea2016structureofthe pages 1-3): Sebastian Mathea, Kamal R. Abdul Azeez, Eidarus Salah, Cynthia Tallant, Finn Wolfreys, Rebecca Konietzny, Roman Fischer, Hua Jane Lou, Paul E. Brennan, Gisela Schnapp, Alexander Pautsch, Benedikt M. Kessler, Benjamin E. Turk, and Stefan Knapp. Structure of the human protein kinase zak in complex with vemurafenib. ACS Chemical Biology, 11:1595-1602, Mar 2016. URL: https://doi.org/10.1021/acschembio.6b00043, doi:10.1021/acschembio.6b00043. This article has 26 citations and is from a domain leading peer-reviewed journal.
+
+5. (mathea2016structureofthe pages 10-13): Sebastian Mathea, Kamal R. Abdul Azeez, Eidarus Salah, Cynthia Tallant, Finn Wolfreys, Rebecca Konietzny, Roman Fischer, Hua Jane Lou, Paul E. Brennan, Gisela Schnapp, Alexander Pautsch, Benedikt M. Kessler, Benjamin E. Turk, and Stefan Knapp. Structure of the human protein kinase zak in complex with vemurafenib. ACS Chemical Biology, 11:1595-1602, Mar 2016. URL: https://doi.org/10.1021/acschembio.6b00043, doi:10.1021/acschembio.6b00043. This article has 26 citations and is from a domain leading peer-reviewed journal.
+
+6. (mathea2016structureofthe pages 16-19): Sebastian Mathea, Kamal R. Abdul Azeez, Eidarus Salah, Cynthia Tallant, Finn Wolfreys, Rebecca Konietzny, Roman Fischer, Hua Jane Lou, Paul E. Brennan, Gisela Schnapp, Alexander Pautsch, Benedikt M. Kessler, Benjamin E. Turk, and Stefan Knapp. Structure of the human protein kinase zak in complex with vemurafenib. ACS Chemical Biology, 11:1595-1602, Mar 2016. URL: https://doi.org/10.1021/acschembio.6b00043, doi:10.1021/acschembio.6b00043. This article has 26 citations and is from a domain leading peer-reviewed journal.
+
+7. (mathea2016structureofthe pages 6-8): Sebastian Mathea, Kamal R. Abdul Azeez, Eidarus Salah, Cynthia Tallant, Finn Wolfreys, Rebecca Konietzny, Roman Fischer, Hua Jane Lou, Paul E. Brennan, Gisela Schnapp, Alexander Pautsch, Benedikt M. Kessler, Benjamin E. Turk, and Stefan Knapp. Structure of the human protein kinase zak in complex with vemurafenib. ACS Chemical Biology, 11:1595-1602, Mar 2016. URL: https://doi.org/10.1021/acschembio.6b00043, doi:10.1021/acschembio.6b00043. This article has 26 citations and is from a domain leading peer-reviewed journal.
+
+8. (mathea2016structureofthe pages 8-10): Sebastian Mathea, Kamal R. Abdul Azeez, Eidarus Salah, Cynthia Tallant, Finn Wolfreys, Rebecca Konietzny, Roman Fischer, Hua Jane Lou, Paul E. Brennan, Gisela Schnapp, Alexander Pautsch, Benedikt M. Kessler, Benjamin E. Turk, and Stefan Knapp. Structure of the human protein kinase zak in complex with vemurafenib. ACS Chemical Biology, 11:1595-1602, Mar 2016. URL: https://doi.org/10.1021/acschembio.6b00043, doi:10.1021/acschembio.6b00043. This article has 26 citations and is from a domain leading peer-reviewed journal.
+
+9. (nordgaard2022zakβisactivated pages 6-8): Cathrine Nordgaard, Anna Constance Vind, Amy Stonadge, Rasmus Kjøbsted, Goda Snieckute, Pedro Antas, Melanie Blasius, Marie Sofie Reinert, Ana Martinez Del Val, Dorte Breinholdt Bekker‐Jensen, Peter Haahr, Yekaterina A Miroshnikova, Abdelghani Mazouzi, Sarah Falk, Emeline Perrier‐Groult, Christopher Tiedje, Xiang Li, Jens Rithamer Jakobsen, Nicolas Oldenburg Jørgensen, Jørgen FP Wojtaszewski, Frederic Mallein‐Gerin, Jesper Løvind Andersen, Cristian Pablo Pennisi, Christoffer Clemmensen, Moustapha Kassem, Abbas Jafari, Thijn Brummelkamp, Vivian SW Li, Sara A Wickström, Jesper Velgaard Olsen, Gonzalo Blanco, and Simon Bekker‐Jensen. Zakβ is activated by cellular compression and mediates contraction‐induced <scp>map</scp> kinase signaling in skeletal muscle. The EMBO Journal, Jul 2022. URL: https://doi.org/10.15252/embj.2022111650, doi:10.15252/embj.2022111650. This article has 27 citations.
+
+10. (nordgaard2022zakβisactivated pages 8-10): Cathrine Nordgaard, Anna Constance Vind, Amy Stonadge, Rasmus Kjøbsted, Goda Snieckute, Pedro Antas, Melanie Blasius, Marie Sofie Reinert, Ana Martinez Del Val, Dorte Breinholdt Bekker‐Jensen, Peter Haahr, Yekaterina A Miroshnikova, Abdelghani Mazouzi, Sarah Falk, Emeline Perrier‐Groult, Christopher Tiedje, Xiang Li, Jens Rithamer Jakobsen, Nicolas Oldenburg Jørgensen, Jørgen FP Wojtaszewski, Frederic Mallein‐Gerin, Jesper Løvind Andersen, Cristian Pablo Pennisi, Christoffer Clemmensen, Moustapha Kassem, Abbas Jafari, Thijn Brummelkamp, Vivian SW Li, Sara A Wickström, Jesper Velgaard Olsen, Gonzalo Blanco, and Simon Bekker‐Jensen. Zakβ is activated by cellular compression and mediates contraction‐induced <scp>map</scp> kinase signaling in skeletal muscle. The EMBO Journal, Jul 2022. URL: https://doi.org/10.15252/embj.2022111650, doi:10.15252/embj.2022111650. This article has 27 citations.
+
+11. (stonadge2023myofibrillarmyopathyhallmarks pages 1-1): Amy Stonadge, Aitana V Genzor, Alex Russell, Mohamed F Hamed, Norma Romero, Gareth Evans, Mary Elizabeth Pownall, Simon Bekker-Jensen, and Gonzalo Blanco. Myofibrillar myopathy hallmarks associated with zak deficiency. Human Molecular Genetics, 32:2751-2770, Jul 2023. URL: https://doi.org/10.1093/hmg/ddad113, doi:10.1093/hmg/ddad113. This article has 2 citations and is from a domain leading peer-reviewed journal.
+
+12. (stonadge2023myofibrillarmyopathyhallmarks pages 6-7): Amy Stonadge, Aitana V Genzor, Alex Russell, Mohamed F Hamed, Norma Romero, Gareth Evans, Mary Elizabeth Pownall, Simon Bekker-Jensen, and Gonzalo Blanco. Myofibrillar myopathy hallmarks associated with zak deficiency. Human Molecular Genetics, 32:2751-2770, Jul 2023. URL: https://doi.org/10.1093/hmg/ddad113, doi:10.1093/hmg/ddad113. This article has 2 citations and is from a domain leading peer-reviewed journal.
+
+13. (mathea2016structureofthe pages 14-16): Sebastian Mathea, Kamal R. Abdul Azeez, Eidarus Salah, Cynthia Tallant, Finn Wolfreys, Rebecca Konietzny, Roman Fischer, Hua Jane Lou, Paul E. Brennan, Gisela Schnapp, Alexander Pautsch, Benedikt M. Kessler, Benjamin E. Turk, and Stefan Knapp. Structure of the human protein kinase zak in complex with vemurafenib. ACS Chemical Biology, 11:1595-1602, Mar 2016. URL: https://doi.org/10.1021/acschembio.6b00043, doi:10.1021/acschembio.6b00043. This article has 26 citations and is from a domain leading peer-reviewed journal.
+
+14. (mathea2016structureofthe pages 3-6): Sebastian Mathea, Kamal R. Abdul Azeez, Eidarus Salah, Cynthia Tallant, Finn Wolfreys, Rebecca Konietzny, Roman Fischer, Hua Jane Lou, Paul E. Brennan, Gisela Schnapp, Alexander Pautsch, Benedikt M. Kessler, Benjamin E. Turk, and Stefan Knapp. Structure of the human protein kinase zak in complex with vemurafenib. ACS Chemical Biology, 11:1595-1602, Mar 2016. URL: https://doi.org/10.1021/acschembio.6b00043, doi:10.1021/acschembio.6b00043. This article has 26 citations and is from a domain leading peer-reviewed journal.
+
+15. (nordgaard2022zakβisactivated pages 10-12): Cathrine Nordgaard, Anna Constance Vind, Amy Stonadge, Rasmus Kjøbsted, Goda Snieckute, Pedro Antas, Melanie Blasius, Marie Sofie Reinert, Ana Martinez Del Val, Dorte Breinholdt Bekker‐Jensen, Peter Haahr, Yekaterina A Miroshnikova, Abdelghani Mazouzi, Sarah Falk, Emeline Perrier‐Groult, Christopher Tiedje, Xiang Li, Jens Rithamer Jakobsen, Nicolas Oldenburg Jørgensen, Jørgen FP Wojtaszewski, Frederic Mallein‐Gerin, Jesper Løvind Andersen, Cristian Pablo Pennisi, Christoffer Clemmensen, Moustapha Kassem, Abbas Jafari, Thijn Brummelkamp, Vivian SW Li, Sara A Wickström, Jesper Velgaard Olsen, Gonzalo Blanco, and Simon Bekker‐Jensen. Zakβ is activated by cellular compression and mediates contraction‐induced <scp>map</scp> kinase signaling in skeletal muscle. The EMBO Journal, Jul 2022. URL: https://doi.org/10.15252/embj.2022111650, doi:10.15252/embj.2022111650. This article has 27 citations.
+
+16. (stonadge2023myofibrillarmyopathyhallmarks pages 5-6): Amy Stonadge, Aitana V Genzor, Alex Russell, Mohamed F Hamed, Norma Romero, Gareth Evans, Mary Elizabeth Pownall, Simon Bekker-Jensen, and Gonzalo Blanco. Myofibrillar myopathy hallmarks associated with zak deficiency. Human Molecular Genetics, 32:2751-2770, Jul 2023. URL: https://doi.org/10.1093/hmg/ddad113, doi:10.1093/hmg/ddad113. This article has 2 citations and is from a domain leading peer-reviewed journal.
+
+17. (vind2020ribosomalstresssurveillancethree pages 10-10): A. Vind, Aitana Victoria Genzor, and Simon Bekker-Jensen. Ribosomal stress-surveillance: three pathways is a magic number. Nucleic Acids Research, 48:10648-10661, Sep 2020. URL: https://doi.org/10.1093/nar/gkaa757, doi:10.1093/nar/gkaa757. This article has 134 citations and is from a highest quality peer-reviewed journal.
+
+18. (vind2020ribosomalstresssurveillancethree pages 5-6): A. Vind, Aitana Victoria Genzor, and Simon Bekker-Jensen. Ribosomal stress-surveillance: three pathways is a magic number. Nucleic Acids Research, 48:10648-10661, Sep 2020. URL: https://doi.org/10.1093/nar/gkaa757, doi:10.1093/nar/gkaa757. This article has 134 citations and is from a highest quality peer-reviewed journal.

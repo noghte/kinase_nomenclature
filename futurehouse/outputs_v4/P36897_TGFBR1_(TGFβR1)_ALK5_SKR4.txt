@@ -1,0 +1,72 @@
+Phylogeny  
+• Member of the type I Activin-like kinase (ALK) branch of the TGF-β receptor family; ALK5 shares 60–79 % sequence identity with ALK4 and ALK7 but only ~40 % with type II receptors, underscoring a distinct evolutionary sub-clade within metazoan serine/threonine kinases (unknownauthors2023molecularinsightsinto pages 26-31).  
+• Retains the bilobal protein-kinase core found in all eukaryotic kinases, but uniquely acquires an N-terminal glycine/serine-rich (GS) regulatory domain and an L45 loop that are absent from type II receptors (goebel2019structuralbiologyof pages 9-11).  
+• The signaling module comprising ligand, type I, and type II receptors is conserved across metazoans, indicating early evolutionary origin of this kinase lineage (massague2023tgfβsignalingin pages 6-8).  
+
+Reaction Catalyzed  
+ATP + [protein-Ser/Thr] ⇌ ADP + [protein-phospho-Ser/Thr] (massague2023tgfβsignalingin pages 6-8).  
+
+Cofactor Requirements  
+Activity requires divalent Mg²⁺ in biochemical assays (inman2002sb431542isa pages 2-3).  
+
+Substrate Specificity  
+• High specificity for the C-terminal S-X-S motif of receptor-regulated SMADs, generating a pSer-X-pSer signature (goebel2019structuralbiologyof pages 8-9).  
+• No broader consensus motif beyond the SXS core has been reported in the cited datasets (massague2023tgfβsignalingin pages 6-8).  
+
+Structure  
+• Domain layout: extracellular cysteine-rich ligand-binding ectodomain → single-pass transmembrane helix → ~30-residue GS domain → intracellular serine/threonine kinase domain with N- and C-lobes (unknownauthors2023engineeredantibodiesfor pages 20-24).  
+• N-lobe features a five-stranded β-sheet and the αC helix; C-lobe is predominantly α-helical (goebel2019structuralbiologyof pages 8-9).  
+• L45 loop between β4 and β5 dictates SMAD docking selectivity (goebel2019structuralbiologyof pages 8-9).  
+• Catalytic Lys232 (β3)–Glu245 (αC) salt bridge forms in the active state; FKBP12 binding disrupts this bridge and occludes the ATP pocket (goebel2019structuralbiologyof pages 9-11).  
+• Activation involves GS-domain phosphorylation–induced realignment of the αC helix and assembly of the hydrophobic regulatory spine; activation-loop phosphorylation is not required (goebel2019structuralbiologyof pages 9-11).  
+• Multiple crystal structures of apo and inhibitor-bound kinase domains, including PDB 3KCF (pyrazolone), 3TZM (SB-431542) and indolinone complexes, define the 3-D architecture (unknownauthors2023molecularinsightsinto pages 272-275).  
+
+Regulation  
+Post-translational modifications  
+– Phosphorylation of conserved Ser/Thr residues within the GS domain by constitutively active TGFBR2 converts the receptor to an active conformation and creates a SMAD docking site (hinck2011structuresoftgfβ pages 1-2).  
+– Autophosphorylation events in the kinase domain have been detected, although specific sites are not detailed in the cited excerpts (unknownauthors2023molecularinsightsinto pages 26-31).  
+
+Protein–protein interactions and allostery  
+– FKBP12 binds the unphosphorylated GS domain, stabilising an inactive conformation and preventing ligand-independent signaling; phosphorylation releases FKBP12 (goebel2019structuralbiologyof pages 9-11, massague2023tgfβsignalingin pages 6-8).  
+– The pseudoreceptor BAMBI associates with the receptor complex and limits SMAD3 phosphorylation as part of a negative feedback loop (unknownauthors2023molecularinsightsinto pages 26-31).  
+
+Function  
+• Forms a heterotetrameric complex of two TGFBR2 and two TGFBR1 molecules upon TGFB1-3 binding; TGFBR2 phosphorylates and activates TGFBR1 (hinck2011structuresoftgfβ pages 1-2).  
+• Activated ALK5 phosphorylates SMAD2 and SMAD3, which then pair with SMAD4 and translocate to the nucleus to regulate transcription (massague2023tgfβsignalingin pages 6-8).  
+• Governs epithelial–mesenchymal transition, extracellular matrix production, immune suppression, and fibrotic as well as oncogenic processes (inman2002sb431542isa pages 1-2).  
+• Expression is broadly ubiquitous across human tissues (unknownauthors2023molecularinsightsinto pages 26-31).  
+
+Inhibitors  
+• SB-431542: ATP-competitive inhibitor; IC₅₀ ≈ 94 nM; selectively blocks ALK5/4/7 and abrogates SMAD2 phosphorylation (inman2002sb431542isa pages 2-3).  
+• SB-505124: Three- to five-fold more potent than SB-431542 while retaining selectivity for ALK4/5/7 (byfield2004sb505124isa pages 1-1).  
+• Additional co-crystallised inhibitors include pyrazolone (PDB 3KCF) and indolinone scaffolds (unknownauthors2023molecularinsightsinto pages 272-275).  
+• Key binding determinants: hinge hydrogen bond to His283 and contacts with Lys232, Glu245, Tyr249 and Asp351 stabilize ATP-site ligands (jiang20182dqsarstudymolecular pages 11-14).  
+
+Other Comments  
+• Kinase-domain mutation T204D disrupts FKBP12 binding, yields ligand-independent activity and is linked to ovarian sex cord-stromal tumors (goebel2019structuralbiologyof pages 9-11).  
+• GS-domain mutation R206H confers constitutive activity and underlies fibrodysplasia ossificans progressiva (goebel2019structuralbiologyof pages 9-11).  
+• Somatic loss-of-function mutations occur across diverse cancers, and inherited variants in the pathway predispose to connective-tissue disorders (massague2023tgfβsignalingin pages 6-8).
+
+References
+
+1. (goebel2019structuralbiologyof pages 9-11): Erich J Goebel, Kaitlin N Hart, Jason C McCoy, and Thomas B Thompson. Structural biology of the tgfβ family. Experimental Biology and Medicine, 244:1530-1546, Oct 2019. URL: https://doi.org/10.1177/1535370219880894, doi:10.1177/1535370219880894. This article has 39 citations and is from a peer-reviewed journal.
+
+2. (massague2023tgfβsignalingin pages 6-8): Joan Massagué and Dean Sheppard. Tgf-β signaling in health and disease. Cell, 186:4007-4037, Sep 2023. URL: https://doi.org/10.1016/j.cell.2023.07.036, doi:10.1016/j.cell.2023.07.036. This article has 431 citations and is from a highest quality peer-reviewed journal.
+
+3. (goebel2019structuralbiologyof pages 8-9): Erich J Goebel, Kaitlin N Hart, Jason C McCoy, and Thomas B Thompson. Structural biology of the tgfβ family. Experimental Biology and Medicine, 244:1530-1546, Oct 2019. URL: https://doi.org/10.1177/1535370219880894, doi:10.1177/1535370219880894. This article has 39 citations and is from a peer-reviewed journal.
+
+4. (hinck2011structuresoftgfβ pages 1-2): A. Hinck and M. O’Connor-McCourt. Structures of tgf-β receptor complexes: implications for function and therapeutic intervention using ligand traps. Current pharmaceutical biotechnology, 12 12:2081-98, Nov 2011. URL: https://doi.org/10.2174/138920111798808383, doi:10.2174/138920111798808383. This article has 26 citations and is from a peer-reviewed journal.
+
+5. (inman2002sb431542isa pages 1-2): Gareth J. Inman, Francisco J. Nicolás, James F. Callahan, John D. Harling, Laramie M. Gaster, Alastair D. Reith, Nicholas J. Laping, and Caroline S. Hill. Sb-431542 is a potent and specific inhibitor of transforming growth factor-β superfamily type i activin receptor-like kinase (alk) receptors alk4, alk5, and alk7. Molecular Pharmacology, 62:65-74, Jul 2002. URL: https://doi.org/10.1124/mol.62.1.65, doi:10.1124/mol.62.1.65. This article has 2036 citations and is from a domain leading peer-reviewed journal.
+
+6. (inman2002sb431542isa pages 2-3): Gareth J. Inman, Francisco J. Nicolás, James F. Callahan, John D. Harling, Laramie M. Gaster, Alastair D. Reith, Nicholas J. Laping, and Caroline S. Hill. Sb-431542 is a potent and specific inhibitor of transforming growth factor-β superfamily type i activin receptor-like kinase (alk) receptors alk4, alk5, and alk7. Molecular Pharmacology, 62:65-74, Jul 2002. URL: https://doi.org/10.1124/mol.62.1.65, doi:10.1124/mol.62.1.65. This article has 2036 citations and is from a domain leading peer-reviewed journal.
+
+7. (unknownauthors2023engineeredantibodiesfor pages 20-24): Engineered Antibodies for Igsf8 and Tgfbr1 Modulate TGF-β Signals in Melanoma
+
+8. (unknownauthors2023molecularinsightsinto pages 26-31): Molecular insights into signalling mechanisms within TGF-β superfamily
+
+9. (unknownauthors2023molecularinsightsinto pages 272-275): Molecular insights into signalling mechanisms within TGF-β superfamily
+
+10. (byfield2004sb505124isa pages 1-1): Stacey DaCosta Byfield, Christopher Major, Nicholas J. Laping, and Anita B. Roberts. Sb-505124 is a selective inhibitor of transforming growth factor-β type i receptors alk4, alk5, and alk7. Molecular Pharmacology, 65:744-752, Mar 2004. URL: https://doi.org/10.1124/mol.65.3.744, doi:10.1124/mol.65.3.744. This article has 504 citations and is from a domain leading peer-reviewed journal.
+
+11. (jiang20182dqsarstudymolecular pages 11-14): Meng-Nan Jiang, Xiao-Ping Zhou, Dong-Ru Sun, Huan Gao, Qing-Chuan Zheng, Hong-Xing Zhang, and Di Liang. 2d-qsar study, molecular docking, and molecular dynamics simulation studies of interaction mechanism between inhibitors and transforming growth factor-beta receptor i (alk5). Journal of Biomolecular Structure and Dynamics, 36:3705-3717, Oct 2018. URL: https://doi.org/10.1080/07391102.2017.1396256, doi:10.1080/07391102.2017.1396256. This article has 5 citations and is from a peer-reviewed journal.

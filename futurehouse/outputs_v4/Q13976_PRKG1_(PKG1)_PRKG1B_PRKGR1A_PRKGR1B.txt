@@ -1,0 +1,95 @@
+## Phylogeny  
+PRKG1 is classified within the AGC kinase group, PKG family, in the canonical human kinome taxonomy (arencibia2013agcproteinkinases pages 2-3, manning2002evolutionofprotein pages 1-2).  
+Representative orthologs with experimental or bioinformatic support include: Homo sapiens PRKG1, Mus musculus Prkg1, Rattus norvegicus Prkg1 (arencibia2013agcproteinkinases pages 1-2); Drosophila melanogaster DG1/PKG-like and Caenorhabditis elegans egl-4 (arencibia2013agcproteinkinases pages 1-2); Plasmodium falciparum and P. vivax PKG (bakkouri2019structuresofthe pages 1-2). Saccharomyces cerevisiae lacks a direct PKG counterpart but retains other AGC kinases (arencibia2013agcproteinkinases pages 1-2). Phylogenetically, PRKG1 clusters closest to PRKG2 and shares the PIF-pocket sub-family feature with PKA and PKC isoforms (arencibia2013agcproteinkinases pages 2-3).  
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr → ADP + protein-L-Ser/Thr-phosphate (arencibia2013agcproteinkinases pages 2-3).  
+
+## Cofactor Requirements  
+Catalytic turnover requires divalent Mg²⁺ ions; MgCl₂ is routinely included in kinase assays and Mg²⁺ is coordinated in nucleotide-bound crystal structures (guo2013recurrentgainoffunctionmutation pages 4-5, chan2020asubstitutionin pages 6-8, bakkouri2019structuresofthe pages 1-2).  
+
+## Substrate Specificity  
+PRKG1 recognises basic residues at −3/−2 and a hydrophobic residue at +1 relative to the phosphoacceptor, yielding a consensus R/K-R/K-X-X-S/T-Φ motif (thomas1990substrateandkinasedirected pages 6-7, arencibia2013agcproteinkinases pages 18-18). Established cellular targets that conform to this pattern include VASP Ser239, MYPT1 Ser695/Thr696, and cG-BPDE serine sites (hofmann2006functionofcgmpdependent pages 23-23, thomas1990substrateandkinasedirected pages 1-1, vaandrager1996signallingbycgmpdependent pages 6-7).  
+
+## Structure  
+Domain organisation  
+• N-terminal leucine-zipper dimerisation/targeting region containing an autoinhibitory segment (hofmann2005thebiologyof pages 1-1).  
+• Tandem cyclic nucleotide-binding domains: CNB-A (high-affinity) and CNB-B (low-affinity) (campbell2016structuralbasisof pages 1-2).  
+• C-terminal serine/threonine kinase domain with canonical AGC fold and PIF-pocket (arencibia2013agcproteinkinases pages 2-3).  
+
+3D information  
+Human structures: CNB-B (PDB 4KU8), CNB-A (5C53), isolated kinase domain (4O4X) resolve nucleotide-recognition and catalytic motifs (chan2020asubstitutionin pages 1-1). Full-length Plasmodium PKG structures show a pentagonal arrangement in which the autoinhibitory segment occupies the substrate groove; sequential cGMP binding releases this segment, a mechanism conserved in PRKG1 (bakkouri2019structuresofthe pages 1-2). The catalytic core exhibits an ordered activation loop and hydrophobic C- and R-spines typical of active AGC kinases (bakkouri2019structuresofthe pages 4-5). Arg177 in CNB-A anchors the cyclic-phosphate of cGMP; the pathogenic Arg177Gln substitution disrupts this contact and favours an active conformation (guo2013recurrentgainoffunctionmutation pages 2-4).  
+
+## Regulation  
+• Allosteric: sub-micromolar cGMP binding to CNB-A/B displaces the autoinhibitory segment and activates the kinase (hofmann2005thebiologyof pages 1-1).  
+• Autophosphorylation: Ser65 in PKG1α and Ser80 in PKG1β enhance and stabilise activation (chan2020asubstitutionin pages 1-1). Additional N-terminal autophosphorylations modulate substrate selectivity (hofmann2005thebiologyof pages 1-1).  
+• Allosteric PIF-pocket provides an additional regulatory site targeted by small molecules (arencibia2013agcproteinkinases pages 2-3).  
+
+## Function  
+Expression: highly abundant in vascular and visceral smooth muscle, platelets, cerebellum, hippocampus and dorsal root ganglia; lower in cardiac muscle and other neurons (hofmann2006functionofcgmpdependent pages 2-3).  
+
+Upstream signalling: NO-stimulated soluble guanylate cyclase and natriuretic peptide receptor guanylate cyclases elevate cGMP, engaging PRKG1 (hofmann2005thebiologyof pages 1-1).  
+
+Downstream actions  
+• Smooth-muscle relaxation via MYPT1 phosphorylation and subsequent myosin light-chain dephosphorylation (hofmann2006functionofcgmpdependent pages 23-23).  
+• Platelet inhibition through VASP phosphorylation and cytoskeletal remodelling (arencibia2013agcproteinkinases pages 2-3).  
+• Reduction of cardiac L-type Ca²⁺ current by stimulating phosphodiesterase II (vaandrager1996signallingbycgmpdependent pages 6-7).  
+• Neuronal roles in axon guidance, synaptic plasticity and nociception (hofmann2006functionofcgmpdependent pages 16-17).  
+
+## Inhibitors  
+• Rp-8-pCPT-cGMPS and Rp-8-pCPT-PET-cGMPS competitively block cyclic nucleotide binding and partially inhibit wild-type and R177Q mutant PRKG1 (chan2020asubstitutionin pages 4-5, chan2020asubstitutionin pages 8-9).  
+• DT-2 peptide inhibits mutant and wild-type kinase activity (chan2020asubstitutionin pages 6-8).  
+• H-8, a pan-AGC small molecule, diminishes PRKG1 signalling in cellular systems (jafari2015pharmacologicalinhibitionof pages 5-6).  
+
+## Other Comments  
+Gain-of-function variant p.Arg177Gln causes autosomal-dominant thoracic aortic aneurysm and dissection with full penetrance; the mutant kinase is constitutively active independent of cGMP (guo2013recurrentgainoffunctionmutation pages 1-2). A de novo p.Gly370Ser substitution in the glycine-rich ATP-binding loop is likely pathogenic, associating with aortic dissection and tortuosity (zhang2018exomesequencingreveals pages 3-4). PRKG1 is recognised as a category A hereditary TAAD gene in clinical genetics guidelines (takeda2019geneticbasisof pages 1-2).
+
+References
+
+1. (arencibia2013agcproteinkinases pages 2-3): José M. Arencibia, Daniel Pastor-Flores, Angelika F. Bauer, Jörg O. Schulze, and Ricardo M. Biondi. Agc protein kinases: from structural mechanism of regulation to allosteric drug development for the treatment of human diseases. Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics, 1834:1302-1321, Jul 2013. URL: https://doi.org/10.1016/j.bbapap.2013.03.010, doi:10.1016/j.bbapap.2013.03.010. This article has 239 citations.
+
+2. (guo2013recurrentgainoffunctionmutation pages 1-2): Dong-chuan Guo, Ellen Regalado, Darren E. Casteel, Regie L. Santos-Cortez, Limin Gong, Jeong Joo Kim, Sarah Dyack, S. Gabrielle Horne, Guijuan Chang, Guillaume Jondeau, Catherine Boileau, Joseph S. Coselli, Zhenyu Li, Suzanne M. Leal, Jay Shendure, Mark J. Rieder, Michael J. Bamshad, Deborah A. Nickerson, Choel Kim, and Dianna M. Milewicz. Recurrent gain-of-function mutation in prkg1 causes thoracic aortic aneurysms and acute aortic dissections. American journal of human genetics, 93 2:398-404, Aug 2013. URL: https://doi.org/10.1016/j.ajhg.2013.06.019, doi:10.1016/j.ajhg.2013.06.019. This article has 249 citations and is from a highest quality peer-reviewed journal.
+
+3. (guo2013recurrentgainoffunctionmutation pages 2-4): Dong-chuan Guo, Ellen Regalado, Darren E. Casteel, Regie L. Santos-Cortez, Limin Gong, Jeong Joo Kim, Sarah Dyack, S. Gabrielle Horne, Guijuan Chang, Guillaume Jondeau, Catherine Boileau, Joseph S. Coselli, Zhenyu Li, Suzanne M. Leal, Jay Shendure, Mark J. Rieder, Michael J. Bamshad, Deborah A. Nickerson, Choel Kim, and Dianna M. Milewicz. Recurrent gain-of-function mutation in prkg1 causes thoracic aortic aneurysms and acute aortic dissections. American journal of human genetics, 93 2:398-404, Aug 2013. URL: https://doi.org/10.1016/j.ajhg.2013.06.019, doi:10.1016/j.ajhg.2013.06.019. This article has 249 citations and is from a highest quality peer-reviewed journal.
+
+4. (guo2013recurrentgainoffunctionmutation pages 4-5): Dong-chuan Guo, Ellen Regalado, Darren E. Casteel, Regie L. Santos-Cortez, Limin Gong, Jeong Joo Kim, Sarah Dyack, S. Gabrielle Horne, Guijuan Chang, Guillaume Jondeau, Catherine Boileau, Joseph S. Coselli, Zhenyu Li, Suzanne M. Leal, Jay Shendure, Mark J. Rieder, Michael J. Bamshad, Deborah A. Nickerson, Choel Kim, and Dianna M. Milewicz. Recurrent gain-of-function mutation in prkg1 causes thoracic aortic aneurysms and acute aortic dissections. American journal of human genetics, 93 2:398-404, Aug 2013. URL: https://doi.org/10.1016/j.ajhg.2013.06.019, doi:10.1016/j.ajhg.2013.06.019. This article has 249 citations and is from a highest quality peer-reviewed journal.
+
+5. (thomas1990substrateandkinasedirected pages 6-7): Melissa K. Thomas, S. Francis, and J. Corbin. Substrate- and kinase-directed regulation of phosphorylation of a cgmp-binding phosphodiesterase by cgmp. The Journal of biological chemistry, 265 25:14971-8, Sep 1990. URL: https://doi.org/10.1016/s0021-9258(18)77211-6, doi:10.1016/s0021-9258(18)77211-6. This article has 203 citations.
+
+6. (zhang2018exomesequencingreveals pages 3-4): Wenwen Zhang, Qian Han, Zhao Liu, Wei Zhou, Qing Cao, and Weimin Zhou. Exome sequencing reveals a de novo prkg1 mutation in a sporadic patient with aortic dissection. BMC Medical Genetics, Dec 2018. URL: https://doi.org/10.1186/s12881-018-0735-1, doi:10.1186/s12881-018-0735-1. This article has 21 citations and is from a peer-reviewed journal.
+
+7. (arencibia2013agcproteinkinases pages 1-2): José M. Arencibia, Daniel Pastor-Flores, Angelika F. Bauer, Jörg O. Schulze, and Ricardo M. Biondi. Agc protein kinases: from structural mechanism of regulation to allosteric drug development for the treatment of human diseases. Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics, 1834:1302-1321, Jul 2013. URL: https://doi.org/10.1016/j.bbapap.2013.03.010, doi:10.1016/j.bbapap.2013.03.010. This article has 239 citations.
+
+8. (bakkouri2019structuresofthe pages 1-2): Majida El Bakkouri, Imène Kouidmi, Amy K. Wernimont, Mehrnaz Amani, Ashley Hutchinson, Peter Loppnau, Jeong Joo Kim, Christian Flueck, John R. Walker, Alma Seitova, Guillermo Senisterra, Yoshito Kakihara, Choel Kim, Michael J. Blackman, Charles Calmettes, David A. Baker, and Raymond Hui. Structures of the cgmp-dependent protein kinase in malaria parasites reveal a unique structural relay mechanism for activation. Proceedings of the National Academy of Sciences, 116:14164-14173, Jun 2019. URL: https://doi.org/10.1073/pnas.1905558116, doi:10.1073/pnas.1905558116. This article has 45 citations.
+
+9. (chan2020asubstitutionin pages 1-1): Matthew H. Chan, Sahar Aminzai, Tingfei Hu, Amatya Taran, Sheng Li, Choel Kim, Renate B. Pilz, and Darren E. Casteel. A substitution in cgmp-dependent protein kinase 1 associated with aortic disease induces an active conformation in the absence of cgmp. Journal of Biological Chemistry, 295:10394-10405, Jul 2020. URL: https://doi.org/10.1074/jbc.ra119.010984, doi:10.1074/jbc.ra119.010984. This article has 13 citations and is from a domain leading peer-reviewed journal.
+
+10. (chan2020asubstitutionin pages 6-8): Matthew H. Chan, Sahar Aminzai, Tingfei Hu, Amatya Taran, Sheng Li, Choel Kim, Renate B. Pilz, and Darren E. Casteel. A substitution in cgmp-dependent protein kinase 1 associated with aortic disease induces an active conformation in the absence of cgmp. Journal of Biological Chemistry, 295:10394-10405, Jul 2020. URL: https://doi.org/10.1074/jbc.ra119.010984, doi:10.1074/jbc.ra119.010984. This article has 13 citations and is from a domain leading peer-reviewed journal.
+
+11. (hofmann2005thebiologyof pages 1-1): Franz Hofmann. The biology of cyclic gmp-dependent protein kinases*. Journal of Biological Chemistry, 280:1-4, Jan 2005. URL: https://doi.org/10.1074/jbc.r400035200, doi:10.1074/jbc.r400035200. This article has 323 citations and is from a domain leading peer-reviewed journal.
+
+12. (hofmann2006functionofcgmpdependent pages 16-17): F. Hofmann, R. Feil, T. Kleppisch, and J. Schlossmann. Function of cgmp-dependent protein kinases as revealed by gene deletion. Physiological Reviews, 86:1-23, Jan 2006. URL: https://doi.org/10.1152/physrev.00015.2005, doi:10.1152/physrev.00015.2005. This article has 525 citations and is from a highest quality peer-reviewed journal.
+
+13. (hofmann2006functionofcgmpdependent pages 23-23): F. Hofmann, R. Feil, T. Kleppisch, and J. Schlossmann. Function of cgmp-dependent protein kinases as revealed by gene deletion. Physiological Reviews, 86:1-23, Jan 2006. URL: https://doi.org/10.1152/physrev.00015.2005, doi:10.1152/physrev.00015.2005. This article has 525 citations and is from a highest quality peer-reviewed journal.
+
+14. (takeda2019geneticbasisof pages 1-2): Norifumi Takeda and Issei Komuro. Genetic basis of hereditary thoracic aortic aneurysms and dissections. Journal of Cardiology, 74:136-143, Aug 2019. URL: https://doi.org/10.1016/j.jjcc.2019.03.014, doi:10.1016/j.jjcc.2019.03.014. This article has 76 citations and is from a peer-reviewed journal.
+
+15. (arencibia2013agcproteinkinases pages 18-18): José M. Arencibia, Daniel Pastor-Flores, Angelika F. Bauer, Jörg O. Schulze, and Ricardo M. Biondi. Agc protein kinases: from structural mechanism of regulation to allosteric drug development for the treatment of human diseases. Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics, 1834:1302-1321, Jul 2013. URL: https://doi.org/10.1016/j.bbapap.2013.03.010, doi:10.1016/j.bbapap.2013.03.010. This article has 239 citations.
+
+16. (bakkouri2019structuresofthe pages 4-5): Majida El Bakkouri, Imène Kouidmi, Amy K. Wernimont, Mehrnaz Amani, Ashley Hutchinson, Peter Loppnau, Jeong Joo Kim, Christian Flueck, John R. Walker, Alma Seitova, Guillermo Senisterra, Yoshito Kakihara, Choel Kim, Michael J. Blackman, Charles Calmettes, David A. Baker, and Raymond Hui. Structures of the cgmp-dependent protein kinase in malaria parasites reveal a unique structural relay mechanism for activation. Proceedings of the National Academy of Sciences, 116:14164-14173, Jun 2019. URL: https://doi.org/10.1073/pnas.1905558116, doi:10.1073/pnas.1905558116. This article has 45 citations.
+
+17. (campbell2016structuralbasisof pages 1-2): James C. Campbell, Kevin Li, J. J. Kim, G. Huang, A. Reger, S. Matsuda, B. Sankaran, T. Link, K. Yuasa, J. Ladbury, and Choel Kim. Structural basis of cyclic nucleotide selectivity in cgmp dependent protein kinase ii. BMC Pharmacology & Toxicology, 16:A15-A15, Sep 2016. URL: https://doi.org/10.1186/2050-6511-16-s1-a15, doi:10.1186/2050-6511-16-s1-a15. This article has 22 citations and is from a peer-reviewed journal.
+
+18. (chan2020asubstitutionin pages 4-5): Matthew H. Chan, Sahar Aminzai, Tingfei Hu, Amatya Taran, Sheng Li, Choel Kim, Renate B. Pilz, and Darren E. Casteel. A substitution in cgmp-dependent protein kinase 1 associated with aortic disease induces an active conformation in the absence of cgmp. Journal of Biological Chemistry, 295:10394-10405, Jul 2020. URL: https://doi.org/10.1074/jbc.ra119.010984, doi:10.1074/jbc.ra119.010984. This article has 13 citations and is from a domain leading peer-reviewed journal.
+
+19. (chan2020asubstitutionin pages 8-9): Matthew H. Chan, Sahar Aminzai, Tingfei Hu, Amatya Taran, Sheng Li, Choel Kim, Renate B. Pilz, and Darren E. Casteel. A substitution in cgmp-dependent protein kinase 1 associated with aortic disease induces an active conformation in the absence of cgmp. Journal of Biological Chemistry, 295:10394-10405, Jul 2020. URL: https://doi.org/10.1074/jbc.ra119.010984, doi:10.1074/jbc.ra119.010984. This article has 13 citations and is from a domain leading peer-reviewed journal.
+
+20. (hofmann2006functionofcgmpdependent pages 2-3): F. Hofmann, R. Feil, T. Kleppisch, and J. Schlossmann. Function of cgmp-dependent protein kinases as revealed by gene deletion. Physiological Reviews, 86:1-23, Jan 2006. URL: https://doi.org/10.1152/physrev.00015.2005, doi:10.1152/physrev.00015.2005. This article has 525 citations and is from a highest quality peer-reviewed journal.
+
+21. (jafari2015pharmacologicalinhibitionof pages 5-6): Abbas Jafari, Majken S. Siersbaek, Li Chen, Diyako Qanie, Walid Zaher, Basem M. Abdallah, and Moustapha Kassem. Pharmacological inhibition of protein kinase g1 enhances bone formation by human skeletal stem cells through activation of rhoa‐akt signaling. STEM CELLS, Jul 2015. URL: https://doi.org/10.1002/stem.2013, doi:10.1002/stem.2013. This article has 26 citations and is from a highest quality peer-reviewed journal.
+
+22. (manning2002evolutionofprotein pages 1-2): Gerard Manning, Gregory D Plowman, Tony Hunter, and Sucha Sudarsanam. Evolution of protein kinase signaling from yeast to man. Trends in Biochemical Sciences, 27:514-520, Oct 2002. URL: https://doi.org/10.1016/s0968-0004(02)02179-5, doi:10.1016/s0968-0004(02)02179-5. This article has 1324 citations and is from a domain leading peer-reviewed journal.
+
+23. (thomas1990substrateandkinasedirected pages 1-1): Melissa K. Thomas, S. Francis, and J. Corbin. Substrate- and kinase-directed regulation of phosphorylation of a cgmp-binding phosphodiesterase by cgmp. The Journal of biological chemistry, 265 25:14971-8, Sep 1990. URL: https://doi.org/10.1016/s0021-9258(18)77211-6, doi:10.1016/s0021-9258(18)77211-6. This article has 203 citations.
+
+24. (vaandrager1996signallingbycgmpdependent pages 6-7): Arie B. Vaandrager and Hugo R. de Jonge. Signalling by cgmp-dependent protein kinases. Molecular and Cellular Biochemistry, 157:23-30, Apr 1996. URL: https://doi.org/10.1007/bf00227877, doi:10.1007/bf00227877. This article has 295 citations and is from a peer-reviewed journal.

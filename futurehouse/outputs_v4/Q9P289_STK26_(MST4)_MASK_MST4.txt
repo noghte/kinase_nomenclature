@@ -1,0 +1,75 @@
+## Phylogeny  
+STK26 (MST4) is placed in the germinal-center kinase III (GCK-III) subgroup of the STE20 serine/threonine kinase superfamily (miller2019comprehensiveprofilingof pages 28-29).  
+It forms a paralogous clade with MST3 (STK24) and STK25/SOK1 (miller2019comprehensiveprofilingof pages 28-29).  
+Orthologs are reported in Mus musculus, Danio rerio and Drosophila melanogaster, demonstrating broad metazoan conservation (yin2012multiplefunctionsof pages 9-9).  
+More distant homologues exist in filamentous fungi such as Sordaria macrospora and Neurospora crassa, retaining the activation-loop threonine (frey2015thestripakcomplex pages 105-106).  
+Yeast kinases Orb3/Nak1 and Kic1 occupy the same evolutionary branch that governs polarized growth and cytokinesis (thompson2015mstkinasesin pages 1-3).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-phospho-Ser/Thr (record2010structuralcomparisonof pages 1-3).  
+
+## Cofactor Requirements  
+Catalytic activity depends on divalent cations; Mg²⁺ or Mn²⁺ efficiently support phosphorylation (yin2012multiplefunctionsof pages 9-9).  
+
+## Substrate Specificity  
+Johnson 2023 mapped a consensus phosphorylation motif for MST4, although the precise sequence is not provided in the excerpt (yin2012multiplefunctionsof pages 9-9).  
+Validated cellular substrates include ATG4B Ser383, ERM proteins, GM130 and MOB4, indicating tolerance for serine or threonine within varied sequence contexts (unknownauthors2023mst3andmst4 pages 22-26).  
+TRAF6 is an additional substrate, phosphorylated on Thr463/468 during innate immune responses (getu2023themammaliansterile pages 3-4).  
+
+## Structure  
+The protein contains an N-terminal kinase domain (residues 1–251) featuring the ATP-binding Lys53 and the catalytic HRD motif within a canonical bilobal fold (unknownauthors2023mst3andmst4 pages 22-26).  
+The activation loop harbours Thr190, whose phosphorylation is essential for activity (record2010structuralcomparisonof pages 1-3).  
+A C-terminal regulatory tail binds PDCD10 (CCM3) and GM130, enabling dimerization and subcellular targeting (unknownauthors2023mst3andmst4 pages 22-26).  
+A crystal structure of the inactive kinase domain bound to a quinazoline inhibitor (PDB 3GGF) reveals a conserved hydrophobic spine and an unphosphorylated activation loop (record2010structuralcomparisonof pages 1-3).  
+AlphaFold modelling reproduces the overall architecture and predicts a MO25 interaction surface that shields Thr190 from phosphatases (unknownauthors2023mst3andmst4 pages 22-26).  
+
+## Regulation  
+Autophosphorylation on Thr190 activates MST4 (yin2012multiplefunctionsof pages 9-9).  
+PP2A contained within striatin-based STRIPAK complexes dephosphorylates Thr190 and suppresses kinase activity (unknownauthors2023mst3andmst4 pages 22-26).  
+Allosteric binding of MO25/CAB39 stabilises the active conformation by protecting Thr190 from dephosphorylation (unknownauthors2023mst3andmst4 pages 22-26).  
+GM130 anchors MST4 at the Golgi, promoting autophosphorylation, whereas CCM3 recruits the kinase into STRIPAK assemblies (frey2015thestripakcomplex pages 28-31).  
+MST4 is resistant to caspase cleavage, distinguishing its apoptotic regulation from MST1/2 (wang2011stk24promotesmyogenic pages 28-32).  
+
+## Function  
+RNA-seq and GTEx datasets show ubiquitous expression with highest levels in placenta, thymus and immune tissues (getu2023themammaliansterile pages 3-4).  
+Golgi localisation is mediated by GM130, with redistribution during polarized migration (unknownauthors2023mst3andmst4 pages 22-26).  
+Epidermal growth factor receptor stimulation enhances MST4 activity in prostate tumour cells (shi2016stripakcomplexesin pages 1-2).  
+STK26 and STK24 jointly limit RHO-driven Golgi reorientation during directed migration (unknownauthors2023mst3andmst4 pages 22-26).  
+Phosphorylation of ATG4B Ser383 by MST4 increases autophagic flux (unknownauthors2023mst3andmst4 pages 22-26).  
+ERM protein phosphorylation links MST4 to actin cytoskeleton remodelling (unknownauthors2023mst3andmst4 pages 22-26).  
+MST4 phosphorylates AMPKα1 in vitro, connecting it to energy-sensing pathways (liu2022biochemicalpurificationuncovers pages 9-9).  
+Within STRIPAK, MST4 phosphorylates MOB4, integrating Hippo pathway signalling (unknownauthors2023mst3andmst4 pages 22-26).  
+
+## Inhibitors  
+A quinazoline scaffold has been co-crystallised in the ATP pocket of MST4, but no selective inhibitors have been validated in cellular systems (record2010structuralcomparisonof pages 1-3).  
+
+## Other Comments  
+Over-expression of MST4 correlates with hepatocarcinogenesis and other cancers, promoting proliferation, migration and therapy resistance (getu2023themammaliansterile pages 15-18).  
+Neratinib induces autophagic degradation of MST4, offering a potential therapeutic angle (getu2023themammaliansterile pages 15-18).  
+Somatic STK26 mutations have been catalogued, though their functional impact remains undefined (miller2019comprehensiveprofilingof pages 28-29).
+
+References
+
+1. (unknownauthors2023mst3andmst4 pages 22-26): MST3 and MST4: Critical Regulators of Liver Lipid Partitioning and Hepatocarcinogenesis
+
+2. (yin2012multiplefunctionsof pages 9-9): Hailei Yin, Cuicui Chen, Miao Feng, Zhubing Shi, Mark I. Greene, and Zhaocai Zhou. Multiple functions of mammalian germinal center kinases. Current Chemical Biology, 6:123-133, Jun 2012. URL: https://doi.org/10.2174/187231312801254778, doi:10.2174/187231312801254778. This article has 1 citations and is from a peer-reviewed journal.
+
+3. (frey2015thestripakcomplex pages 105-106): Stefan Frey. The STRIPAK complex and its role in fruiting-body development of the filamentous fungus Sordaria macrospora. PhD thesis, University Goettingen Repository, 2015. URL: https://doi.org/10.53846/goediss-5284, doi:10.53846/goediss-5284.
+
+4. (frey2015thestripakcomplex pages 28-31): Stefan Frey. The STRIPAK complex and its role in fruiting-body development of the filamentous fungus Sordaria macrospora. PhD thesis, University Goettingen Repository, 2015. URL: https://doi.org/10.53846/goediss-5284, doi:10.53846/goediss-5284.
+
+5. (getu2023themammaliansterile pages 3-4): Ayechew A. Getu, Ming Zhou, Shi-Yuan Cheng, and Ming Tan. The mammalian sterile 20-like kinase 4 (mst4) signaling in tumor progression: implications for therapy. Cancer Letters, 563:216183, Jun 2023. URL: https://doi.org/10.1016/j.canlet.2023.216183, doi:10.1016/j.canlet.2023.216183. This article has 7 citations and is from a peer-reviewed journal.
+
+6. (liu2022biochemicalpurificationuncovers pages 9-9): Yuxiang Liu, Tao V. Wang, Yunfeng Cui, Shengxian Gao, and Yi Rao. Biochemical purification uncovers mammalian sterile 3 (mst3) as a new protein kinase for multifunctional protein kinases ampk and sik3. Journal of Biological Chemistry, 298:101929, May 2022. URL: https://doi.org/10.1016/j.jbc.2022.101929, doi:10.1016/j.jbc.2022.101929. This article has 4 citations and is from a domain leading peer-reviewed journal.
+
+7. (miller2019comprehensiveprofilingof pages 28-29): Chad J. Miller, Hua Jane Lou, Craig Simpson, Bert van de Kooij, Byung Hak Ha, Oriana S. Fisher, Natasha L. Pirman, Titus J. Boggon, Jesse Rinehart, Michael B. Yaffe, Rune Linding, and Benjamin E. Turk. Comprehensive profiling of the ste20 kinase family defines features essential for selective substrate targeting and signaling output. PLOS Biology, 17:e2006540, Mar 2019. URL: https://doi.org/10.1371/journal.pbio.2006540, doi:10.1371/journal.pbio.2006540. This article has 52 citations and is from a highest quality peer-reviewed journal.
+
+8. (record2010structuralcomparisonof pages 1-3): Christopher J. Record, Apirat Chaikuad, Peter Rellos, Sanjan Das, Ashley C. W. Pike, Oleg Fedorov, Brian D. Marsden, Stefan Knapp, and Wen Hwa Lee. Structural comparison of human mammalian ste20-like kinases. PLoS ONE, 5:e11905, Aug 2010. URL: https://doi.org/10.1371/journal.pone.0011905, doi:10.1371/journal.pone.0011905. This article has 68 citations and is from a peer-reviewed journal.
+
+9. (shi2016stripakcomplexesin pages 1-2): Zhubing Shi, Zhubing Shi, S. Jiao, Zhaocai Zhou, and Zhaocai Zhou. Stripak complexes in cell signaling and cancer. Oncogene, 35:4549-4557, Sep 2016. URL: https://doi.org/10.1038/onc.2016.9, doi:10.1038/onc.2016.9. This article has 109 citations and is from a domain leading peer-reviewed journal.
+
+10. (thompson2015mstkinasesin pages 1-3): Barry J. Thompson and Erik Sahai. Mst kinases in development and disease. Journal of Cell Biology, 210:871-882, Sep 2015. URL: https://doi.org/10.1083/jcb.201507005, doi:10.1083/jcb.201507005. This article has 172 citations and is from a highest quality peer-reviewed journal.
+
+11. (wang2011stk24promotesmyogenic pages 28-32): Xi Wang. Stk24 promotes myogenic differentiation via multiple mechanisms. PhD thesis, The Hong Kong University of Science and Technology Library, 2011. URL: https://doi.org/10.14711/thesis-b1155425, doi:10.14711/thesis-b1155425.
+
+12. (getu2023themammaliansterile pages 15-18): Ayechew A. Getu, Ming Zhou, Shi-Yuan Cheng, and Ming Tan. The mammalian sterile 20-like kinase 4 (mst4) signaling in tumor progression: implications for therapy. Cancer Letters, 563:216183, Jun 2023. URL: https://doi.org/10.1016/j.canlet.2023.216183, doi:10.1016/j.canlet.2023.216183. This article has 7 citations and is from a peer-reviewed journal.

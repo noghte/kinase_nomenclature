@@ -1,0 +1,87 @@
+## Phylogeny  
+Orthologs are reported in vertebrates (Homo sapiens, Mus musculus, Danio rerio) and invertebrates such as Drosophila melanogaster and Caenorhabditis elegans; several non-mammalian homologs lack either the TBC or rhodanese domain, indicating lineage-specific truncation events (cagwin2025decodingtbckfrom pages 1-2).  
+Amino-acid identity among mammalian TBCK sequences exceeds 90 %, underscoring strong evolutionary constraint (wu2021multiplefunctionsof pages 1-3).  
+The conserved TBC domain places TBCK in the TBC1 domain-containing kinase family within the “Other” group of the human kinome as catalogued by kinome surveys following the Manning classification (cagwin2025decodingtbckfrom pages 19-19, cagwin2025decodingtbckfrom pages 18-19).  
+
+## Reaction Catalyzed  
+An ATP-dependent phosphorylation reaction has not been demonstrated; the N-terminal domain lacks the G-loop, VAIK, HRD and DFG motifs required for catalysis, supporting pseudokinase status (cagwin2025decodingtbckfrom pages 4-6, liu2013tbckinfluencescell pages 7-9).  
+
+## Cofactor Requirements  
+No requirement for divalent metal ions or other cofactors has been established; biochemical nucleotide-binding data are absent (cagwin2025decodingtbckfrom pages 2-4).  
+
+## Substrate Specificity  
+TBCK is not represented in the human serine/threonine kinase substrate atlas, and no consensus phosphorylation motif or physiological kinase substrates have been identified (cagwin2025decodingtbckfrom pages 19-19, cagwin2025decodingtbckfrom pages 17-18).  
+
+## Structure  
+Domain organisation: pseudokinase domain (residues 1-273) → low-complexity linker 1 (274-425) → TBC Rab-GAP domain (426-710) → low-complexity linker 2 (710-790) → rhodanese-like domain (790-891) (cagwin2025decodingtbckfrom pages 4-6).  
+AlphaFold model AF-Q8TEA7-F1 predicts well-folded individual domains connected by flexible linkers, giving an elongated modular architecture (cagwin2025decodingtbckfrom pages 1-2, cagwin2025decodingtbckfrom pages 2-4).  
+Pseudokinase domain: retains the bilobal kinase fold but catalytic Lys, HRD Asp and DFG Asp are replaced, generating a shallow nucleotide pocket incompatible with ATP binding (cagwin2025decodingtbckfrom pages 4-6).  
+TBC domain: harbours the IX₂DX₂R “R-finger” (Arg511) and YXQ “Q-finger” arranged as in canonical Rab-GAPs; mutation of Arg511 (p.Arg511His) disrupts GAP activity in patient cells (chong2016recessiveinactivatingmutationsa pages 6-9).  
+Rhodanese-like domain: conserves the DXR scaffold but lacks the catalytic cysteine, indicating a protein-interaction rather than enzymatic role (cagwin2025decodingtbckfrom pages 8-9).  
+Cryo-EM of the FERRY complex (PMID 37267905) shows TBCK occupying a peripheral position while remaining unresolved at high resolution (cagwin2025decodingtbckfrom pages 17-17).  
+TBCK is the only human TBC protein fused to a pseudokinase domain, combining predicted scaffolding and Rab-GAP modules in one polypeptide (cagwin2025decodingtbckfrom pages 4-6).  
+
+## Regulation  
+Reported post-translational modifications derived from large-scale proteomics:  
+– Phosphorylation: Ser118, Tyr153, Thr169 (pseudokinase domain); Tyr732, Thr775, Thr782, Ser784 (linker 2) (cagwin2025decodingtbckfrom pages 4-6).  
+– Ubiquitination: Lys271 (pseudokinase); Lys285, Lys343, Lys349 (linker 1); Lys450, Lys456, Lys461, Lys495, Lys706 (TBC); Lys881 (rhodanese) (cagwin2025decodingtbckfrom pages 6-8, cagwin2025decodingtbckfrom pages 8-9).  
+– Acetylation: Lys450, Lys456, Lys461, Lys495, Lys706 (TBC) (cagwin2025decodingtbckfrom pages 6-8).  
+– Arginine monomethylation: Arg503 (TBC) (cagwin2025decodingtbckfrom pages 6-8).  
+Enzymes responsible for these modifications and their functional consequences have not been defined (cagwin2025decodingtbckfrom pages 6-8).  
+
+## Function  
+Expression and localisation: TBCK is cytosolic and enriched near the nucleus, centrosomes and the mitotic spindle in HEK293 and HeLa cells (cagwin2025decodingtbckfrom pages 9-10, wu2021multiplefunctionsof pages 3-4).  
+Complex assembly: constitutes one of five subunits of the FERRY complex together with PPP1R21, CRYZL1, C12ORF4 and GATD1; the complex binds RAB5A-GTP, mRNAs and ribosomes to mediate early-endosomal mRNA transport (cagwin2025decodingtbckfrom pages 8-9, cagwin2025decodingtbckfrom pages 17-17).  
+mTOR signalling: TBCK knock-down reduces transcription and protein levels of mTOR, Raptor, Rictor and mLST8, leading to diminished phosphorylation of 4E-BP1, p70 S6K and Akt-Ser473 (liu2013tbckinfluencescell pages 6-7, cagwin2025decodingtbckfrom pages 17-17).  
+Actin cytoskeleton: depletion disrupts stress fibres and lowers F-actin intensity without affecting microtubules (liu2013tbckinfluencescell pages 6-7).  
+Autophagy–lysosome–mitochondria axis: loss of TBCK produces autophagosome accumulation, lysosomal dysfunction, increased reactive oxygen species and impaired oxidative phosphorylation in neuronal models (angireddy2024anovelhuman pages 12-14).  
+Interactome studies identify associations with centrosomal proteins, TRIM27, JIP4 and mitochondrial quality-control factors, suggesting additional roles in vesicle trafficking and mitophagy (floresmendez2025tbckdeficiencyleadsto pages 7-10).  
+
+## Other Comments  
+Disease association: biallelic loss-of-function variants cause TBCK syndrome (infantile hypotonia with psychomotor retardation type 3), characterised by developmental delay, brain atrophy, seizures and multi-organ involvement (durham2023tbcksyndromea pages 1-3, durham2023tbcksyndromea pages 3-4).  
+Pathogenic mutations include the splice-site change NM_033115:c.1708+1G>A and the missense p.Arg511His disrupting the TBC R-finger, both markedly reducing TBCK protein levels (cagwin2025decodingtbckfrom pages 1-2, chong2016recessiveinactivatingmutationsa pages 13-17).  
+Somatic frameshift and missense mutations occur in colorectal adenocarcinoma and head-and-neck squamous carcinoma, implicating TBCK in tumorigenesis (liu2013tbckinfluencescell pages 6-7, wu2021multiplefunctionsof pages 4-5).
+
+References
+
+1. (cagwin2025decodingtbckfrom pages 1-2): Emma M. Cagwin, Caitlin M. Padgett, Yvonne Lin, and Wen Zhu. Decoding tbck: from bioinformatic insights of domain architecture to disease implications. Frontiers in Biophysics, Apr 2025. URL: https://doi.org/10.3389/frbis.2025.1560824, doi:10.3389/frbis.2025.1560824. This article has 0 citations.
+
+2. (cagwin2025decodingtbckfrom pages 17-17): Emma M. Cagwin, Caitlin M. Padgett, Yvonne Lin, and Wen Zhu. Decoding tbck: from bioinformatic insights of domain architecture to disease implications. Frontiers in Biophysics, Apr 2025. URL: https://doi.org/10.3389/frbis.2025.1560824, doi:10.3389/frbis.2025.1560824. This article has 0 citations.
+
+3. (cagwin2025decodingtbckfrom pages 17-18): Emma M. Cagwin, Caitlin M. Padgett, Yvonne Lin, and Wen Zhu. Decoding tbck: from bioinformatic insights of domain architecture to disease implications. Frontiers in Biophysics, Apr 2025. URL: https://doi.org/10.3389/frbis.2025.1560824, doi:10.3389/frbis.2025.1560824. This article has 0 citations.
+
+4. (cagwin2025decodingtbckfrom pages 18-19): Emma M. Cagwin, Caitlin M. Padgett, Yvonne Lin, and Wen Zhu. Decoding tbck: from bioinformatic insights of domain architecture to disease implications. Frontiers in Biophysics, Apr 2025. URL: https://doi.org/10.3389/frbis.2025.1560824, doi:10.3389/frbis.2025.1560824. This article has 0 citations.
+
+5. (cagwin2025decodingtbckfrom pages 19-19): Emma M. Cagwin, Caitlin M. Padgett, Yvonne Lin, and Wen Zhu. Decoding tbck: from bioinformatic insights of domain architecture to disease implications. Frontiers in Biophysics, Apr 2025. URL: https://doi.org/10.3389/frbis.2025.1560824, doi:10.3389/frbis.2025.1560824. This article has 0 citations.
+
+6. (cagwin2025decodingtbckfrom pages 2-4): Emma M. Cagwin, Caitlin M. Padgett, Yvonne Lin, and Wen Zhu. Decoding tbck: from bioinformatic insights of domain architecture to disease implications. Frontiers in Biophysics, Apr 2025. URL: https://doi.org/10.3389/frbis.2025.1560824, doi:10.3389/frbis.2025.1560824. This article has 0 citations.
+
+7. (cagwin2025decodingtbckfrom pages 4-6): Emma M. Cagwin, Caitlin M. Padgett, Yvonne Lin, and Wen Zhu. Decoding tbck: from bioinformatic insights of domain architecture to disease implications. Frontiers in Biophysics, Apr 2025. URL: https://doi.org/10.3389/frbis.2025.1560824, doi:10.3389/frbis.2025.1560824. This article has 0 citations.
+
+8. (cagwin2025decodingtbckfrom pages 6-8): Emma M. Cagwin, Caitlin M. Padgett, Yvonne Lin, and Wen Zhu. Decoding tbck: from bioinformatic insights of domain architecture to disease implications. Frontiers in Biophysics, Apr 2025. URL: https://doi.org/10.3389/frbis.2025.1560824, doi:10.3389/frbis.2025.1560824. This article has 0 citations.
+
+9. (cagwin2025decodingtbckfrom pages 8-9): Emma M. Cagwin, Caitlin M. Padgett, Yvonne Lin, and Wen Zhu. Decoding tbck: from bioinformatic insights of domain architecture to disease implications. Frontiers in Biophysics, Apr 2025. URL: https://doi.org/10.3389/frbis.2025.1560824, doi:10.3389/frbis.2025.1560824. This article has 0 citations.
+
+10. (cagwin2025decodingtbckfrom pages 9-10): Emma M. Cagwin, Caitlin M. Padgett, Yvonne Lin, and Wen Zhu. Decoding tbck: from bioinformatic insights of domain architecture to disease implications. Frontiers in Biophysics, Apr 2025. URL: https://doi.org/10.3389/frbis.2025.1560824, doi:10.3389/frbis.2025.1560824. This article has 0 citations.
+
+11. (durham2023tbcksyndromea pages 3-4): E. Durham, Rajesh Angireddy, A. Black, Ashley J. Melendez-Perez, Sarina Smith, E. M. Gonzalez, Kristen G. Navarro, Abdias Díaz, E. Bhoj, and K. Katsura. Tbck syndrome: a rare multi-organ neurodegenerative disease. Trends in molecular medicine, Jul 2023. URL: https://doi.org/10.1016/j.molmed.2023.06.009, doi:10.1016/j.molmed.2023.06.009. This article has 12 citations and is from a domain leading peer-reviewed journal.
+
+12. (wu2021multiplefunctionsof pages 4-5): Jin Wu and Guanting Lu. Multiple functions of tbck protein in neurodevelopment disorders and tumors (review). Oncology Letters, 21:1-1, Nov 2021. URL: https://doi.org/10.3892/ol.2020.12278, doi:10.3892/ol.2020.12278. This article has 18 citations and is from a peer-reviewed journal.
+
+13. (angireddy2024anovelhuman pages 12-14): Rajesh Angireddy, Bhanu Chandra Karisetty, Kaitlin A Katsura, Abdias Díaz, Svathi Murali, Sarina Smith, Laura Ohl, Kelly Clark, Andrew V. Kossenkov, and Elizabeth J.K. Bhoj. A novel human tbck- neuronal cell model results in severe neurodegeneration and partial rescue with mitochondrial fission inhibition. BioRxiv, Oct 2024. URL: https://doi.org/10.1101/2024.10.30.621078, doi:10.1101/2024.10.30.621078. This article has 2 citations.
+
+14. (chong2016recessiveinactivatingmutationsa pages 13-17): Jessica X Chong, Viviana Caputo, Ian G Phelps, Lorenzo Stella, Lisa Worgan, Jennifer C Dempsey, Alina Nguyen, Vincenzo Leuzzi, Richard Webster, Antonio Pizzuti, Colby T Marvin, Gisele E Ishak, Simone Ardern-Holmes, Zara Richmond, Michael J Bamshad, Xilma R Ortiz-Gonzalez, Marco Tartaglia, Maya Chopra, and Dan Doherty. Recessive inactivating mutations in tbck, encoding a rab gtpase-activating protein that modulates mtor signaling, cause severe infantile syndromic encephalopathy. bioRxiv, Jan 2016. URL: https://doi.org/10.1101/036111, doi:10.1101/036111. This article has 2 citations.
+
+15. (chong2016recessiveinactivatingmutationsa pages 6-9): Jessica X Chong, Viviana Caputo, Ian G Phelps, Lorenzo Stella, Lisa Worgan, Jennifer C Dempsey, Alina Nguyen, Vincenzo Leuzzi, Richard Webster, Antonio Pizzuti, Colby T Marvin, Gisele E Ishak, Simone Ardern-Holmes, Zara Richmond, Michael J Bamshad, Xilma R Ortiz-Gonzalez, Marco Tartaglia, Maya Chopra, and Dan Doherty. Recessive inactivating mutations in tbck, encoding a rab gtpase-activating protein that modulates mtor signaling, cause severe infantile syndromic encephalopathy. bioRxiv, Jan 2016. URL: https://doi.org/10.1101/036111, doi:10.1101/036111. This article has 2 citations.
+
+16. (durham2023tbcksyndromea pages 1-3): E. Durham, Rajesh Angireddy, A. Black, Ashley J. Melendez-Perez, Sarina Smith, E. M. Gonzalez, Kristen G. Navarro, Abdias Díaz, E. Bhoj, and K. Katsura. Tbck syndrome: a rare multi-organ neurodegenerative disease. Trends in molecular medicine, Jul 2023. URL: https://doi.org/10.1016/j.molmed.2023.06.009, doi:10.1016/j.molmed.2023.06.009. This article has 12 citations and is from a domain leading peer-reviewed journal.
+
+17. (floresmendez2025tbckdeficiencyleadsto pages 7-10): Marco Flores-Mendez, Jesus A. Tintos-Hernández, Leonardo Ramos-Rodriguez, Leann Miles, Tsz Y. Lo, Yuanquan Song, and X. Ortiz-González. Tbck-deficiency leads to compartment-specific mrna and lysosomal trafficking defects in patient-derived neurons. bioRxiv, Mar 2025. URL: https://doi.org/10.1101/2025.03.02.641041, doi:10.1101/2025.03.02.641041. This article has 0 citations.
+
+18. (liu2013tbckinfluencescell pages 6-7): Yueli Liu, Xiaoyi Yan, and Tianhua Zhou. Tbck influences cell proliferation, cell size and mtor signaling pathway. PLoS ONE, 8:e71349, Aug 2013. URL: https://doi.org/10.1371/journal.pone.0071349, doi:10.1371/journal.pone.0071349. This article has 64 citations and is from a peer-reviewed journal.
+
+19. (liu2013tbckinfluencescell pages 7-9): Yueli Liu, Xiaoyi Yan, and Tianhua Zhou. Tbck influences cell proliferation, cell size and mtor signaling pathway. PLoS ONE, 8:e71349, Aug 2013. URL: https://doi.org/10.1371/journal.pone.0071349, doi:10.1371/journal.pone.0071349. This article has 64 citations and is from a peer-reviewed journal.
+
+20. (wu2021multiplefunctionsof pages 1-3): Jin Wu and Guanting Lu. Multiple functions of tbck protein in neurodevelopment disorders and tumors (review). Oncology Letters, 21:1-1, Nov 2021. URL: https://doi.org/10.3892/ol.2020.12278, doi:10.3892/ol.2020.12278. This article has 18 citations and is from a peer-reviewed journal.
+
+21. (wu2021multiplefunctionsof pages 3-4): Jin Wu and Guanting Lu. Multiple functions of tbck protein in neurodevelopment disorders and tumors (review). Oncology Letters, 21:1-1, Nov 2021. URL: https://doi.org/10.3892/ol.2020.12278, doi:10.3892/ol.2020.12278. This article has 18 citations and is from a peer-reviewed journal.

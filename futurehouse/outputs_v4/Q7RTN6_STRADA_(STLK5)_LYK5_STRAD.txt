@@ -1,0 +1,80 @@
+Protein: STE20-related kinase adaptor protein α (STRADα) Gene: STRADA UniProt: Q7RTN6  
+
+## Phylogeny  
+STRADα is classified within the STE20 group of the human kinome on the basis of sequence similarity to SPAK and ILPIP and the presence of a kinase-like domain that lacks catalytic residues (baas2003activationofthe pages 2-3, smith2021typeiibinders pages 3-4).  
+A single vertebrate duplication produced the paralog STRADβ, leaving STRADα as the ancestral branch member (velevarotse2014stradpseudokinasesregulate pages 1-4).  
+Verified orthologs include Mus musculus Strada (baas2003activationofthe pages 2-3), Drosophila melanogaster Strad (baas2003activationofthe pages 2-3), and Caenorhabditis elegans strd-1 (narbonne2010differentialrequirementsfor pages 1-2).  
+No STRAD homologue is detected in Saccharomyces cerevisiae, consistent with co-evolution alongside STK11/LKB1 in metazoans (narbonne2010differentialrequirementsfor pages 1-2).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + protein-Ser/Thr-P.  
+No phosphotransfer catalysis has been observed; STRADα is a catalytically inactive pseudokinase (zeqiraj2009atpandmo25α pages 1-2, baas2003activationofthe pages 2-3).  
+
+## Cofactor Requirements  
+ATP binds to STRADα without a requirement for Mg²⁺ or other divalent cations (zeqiraj2009atpandmo25α pages 9-12).  
+
+## Substrate Specificity  
+Radioactive and in-gel assays show no detectable phosphorylation of generic Ser/Thr substrates; consequently no consensus motif is assigned (baas2003activationofthe pages 2-3, zeqiraj2009structureofthe pages 1-2).  
+Large-scale kinase-substrate profiling further failed to attribute a motif to STRADα, confirming the absence of intrinsic specificity (smith2021typeiibinders pages 6-8).  
+
+## Structure  
+STRADα is a single ~430-residue pseudokinase domain that adopts the canonical bilobal fold (zeqiraj2009structureofthe pages 1-2).  
+Crystal structures of the heterotrimeric LKB1–STRADα–MO25α complex at 2.65 Å reveal STRADα in a closed, ‘active-like’ conformation with AMP-PNP bound (zeqiraj2009structureofthe pages 5-8).  
+Key catalytic motifs are degenerate: the HRD Asp is replaced by Ser232, and the DFG motif is substituted by GLR240-242, rationalising loss of catalysis (zeqiraj2009atpandmo25α pages 1-2).  
+The αC-helix, WEF motif, p+1 loop and αEF/αF loop form an extensive interface that docks LKB1 as a pseudosubstrate, while MO25α clamps the ordered activation loop of LKB1 (zeqiraj2009structureofthe pages 4-5, zeqiraj2009atpandmo25α pages 8-9).  
+Solution studies and thermal-shift screens demonstrate interchangeable “GLR-in” (closed) and “GLR-out” (open) nucleotide-binding states that can be targeted by small molecules (smith2021typeiibinders pages 22-25).  
+
+## Regulation  
+LKB1 phosphorylates STRADα on Thr329 and Thr419 both in vitro and in cells (baas2003activationofthe pages 2-3).  
+In LKB1-null cancer cells STRADα is poly-ubiquitinated and degraded in an Hsp90- and proteasome-dependent manner (eggers2012ste20relatedkinaseadaptor pages 1-2).  
+Multiple leucine-rich nuclear-export signals confer CRM1/Exportin-7-dependent cytoplasmic localization of the STRADα–LKB1 complex (smith2021typeiibinders pages 6-8).  
+ATP and MO25α bind cooperatively to lock STRADα in the closed conformation required for high-activity LKB1; loss of both interactions abrogates activation (zeqiraj2009atpandmo25α pages 9-12).  
+
+## Function  
+STRADα is broadly expressed, with enrichment in brain, skeletal muscle and diverse epithelial tissues (velevarotse2014stradpseudokinasesregulate pages 8-9).  
+It forms a 1:1:1 complex with STK11/LKB1 and CAB39/MO25 that stabilises LKB1 and increases its kinase activity (zeqiraj2009structureofthe pages 1-2).  
+Activated LKB1 phosphorylates AMPK and twelve related kinases, thereby promoting catabolic metabolism and inhibiting mTOR-dependent anabolism (trelford2024lkb1biologyassessing pages 4-5).  
+STRADα-directed nuclear export of LKB1 is essential for epithelial and neuronal polarity programmes (trelford2024lkb1biologyassessing pages 2-4).  
+In LKB1-deficient tumour cells STRADα independently limits Rac1–PAK1 signalling, constraining motility and invasion (eggers2012ste20relatedkinaseadaptor pages 1-2).  
+
+## Inhibitors  
+Fragment screens identified compound 11 and related scaffolds that bind the “GLR-out” pocket of STRADα and thermally stabilise the protein, providing tool compounds for pseudokinase pharmacology (smith2021typeiibinders pages 22-25).  
+
+## Other Comments  
+A homozygous truncation at residue 251 abolishes LKB1 binding and causes polyhydramnios-megalencephaly-symptomatic epilepsy (PMSE) syndrome (zeqiraj2009atpandmo25α pages 9-12).  
+STRADα-null mice exhibit perinatal lethality and cortical axogenesis defects, mirroring the human PMSE phenotype (velevarotse2014stradpseudokinasesregulate pages 8-9).  
+In lung adenocarcinoma, numerous tumour-derived LKB1 mutants fail to engage the STRADα–MO25 scaffold, underscoring the complex’s importance in tumour suppression (eggers2012ste20relatedkinaseadaptor pages 1-2).
+
+References
+
+1. (baas2003activationofthe pages 2-3): A. Baas, J. Boudeau, Gopal P. Sapkota, L. Smit, R. Medema, N. Morrice, D. Alessi, and H. Clevers. Activation of the tumour suppressor kinase lkb1 by the ste20-like pseudokinase strad. The EMBO Journal, 22:3062-3072, Jun 2003. URL: https://doi.org/10.1093/emboj/cdg292, doi:10.1093/emboj/cdg292. This article has 490 citations.
+
+2. (eggers2012ste20relatedkinaseadaptor pages 1-2): Carrie M. Eggers, Erik R. Kline, Diansheng Zhong, Wei Zhou, and Adam I. Marcus. Ste20-related kinase adaptor protein α (stradα) regulates cell polarity and invasion through pak1 signaling in lkb1-null cells. Journal of Biological Chemistry, 287:18758-18768, May 2012. URL: https://doi.org/10.1074/jbc.m111.316422, doi:10.1074/jbc.m111.316422. This article has 30 citations and is from a domain leading peer-reviewed journal.
+
+3. (smith2021typeiibinders pages 3-4): Ryan H. B. Smith, Zaigham M. Khan, Peter Man-Un Ung, Alex P. Scopton, Lisa Silber, Seshat M. Mack, Alexander M. Real, Avner Schlessinger, and Arvin C. Dar. Type ii binders targeting the “glr-out” conformation of the pseudokinase stradα. Biochemistry, 60:289-302, Jan 2021. URL: https://doi.org/10.1021/acs.biochem.0c00714, doi:10.1021/acs.biochem.0c00714. This article has 8 citations and is from a peer-reviewed journal.
+
+4. (trelford2024lkb1biologyassessing pages 2-4): Charles B. Trelford and Trevor G. Shepherd. Lkb1 biology: assessing the therapeutic relevancy of lkb1 inhibitors. Cell Communication and Signaling, Jun 2024. URL: https://doi.org/10.1186/s12964-024-01689-5, doi:10.1186/s12964-024-01689-5. This article has 12 citations and is from a peer-reviewed journal.
+
+5. (velevarotse2014stradpseudokinasesregulate pages 1-4): Biliana O Veleva-Rotse, James L Smart, Annette F Baas, Benjamin Edmonds, Zi-ming Zhao, Allyson Brown, Lillian R Klug, Kelly Hansen, Gabrielle Reilly, Alexandria P Gardner, Krishnaveni Subbiah, Eric A Gaucher, Hans Clevers, and Anthony P Barnes. Strad pseudokinases regulate axogenesis and lkb1 stability. Neural Development, Mar 2014. URL: https://doi.org/10.1186/1749-8104-9-5, doi:10.1186/1749-8104-9-5. This article has 30 citations and is from a peer-reviewed journal.
+
+6. (velevarotse2014stradpseudokinasesregulate pages 8-9): Biliana O Veleva-Rotse, James L Smart, Annette F Baas, Benjamin Edmonds, Zi-ming Zhao, Allyson Brown, Lillian R Klug, Kelly Hansen, Gabrielle Reilly, Alexandria P Gardner, Krishnaveni Subbiah, Eric A Gaucher, Hans Clevers, and Anthony P Barnes. Strad pseudokinases regulate axogenesis and lkb1 stability. Neural Development, Mar 2014. URL: https://doi.org/10.1186/1749-8104-9-5, doi:10.1186/1749-8104-9-5. This article has 30 citations and is from a peer-reviewed journal.
+
+7. (zeqiraj2009atpandmo25α pages 1-2): Elton Zeqiraj, Beatrice Maria Filippi, Simon Goldie, Iva Navratilova, Jérôme Boudeau, Maria Deak, Dario R. Alessi, and Daan M. F. van Aalten. Atp and mo25α regulate the conformational state of the stradα pseudokinase and activation of the lkb1 tumour suppressor. PLoS Biology, 7:e1000126, Jun 2009. URL: https://doi.org/10.1371/journal.pbio.1000126, doi:10.1371/journal.pbio.1000126. This article has 167 citations and is from a highest quality peer-reviewed journal.
+
+8. (zeqiraj2009atpandmo25α pages 9-12): Elton Zeqiraj, Beatrice Maria Filippi, Simon Goldie, Iva Navratilova, Jérôme Boudeau, Maria Deak, Dario R. Alessi, and Daan M. F. van Aalten. Atp and mo25α regulate the conformational state of the stradα pseudokinase and activation of the lkb1 tumour suppressor. PLoS Biology, 7:e1000126, Jun 2009. URL: https://doi.org/10.1371/journal.pbio.1000126, doi:10.1371/journal.pbio.1000126. This article has 167 citations and is from a highest quality peer-reviewed journal.
+
+9. (zeqiraj2009structureofthe pages 1-2): Elton Zeqiraj, Beatrice Maria Filippi, Maria Deak, Dario R. Alessi, and Daan M. F. van Aalten. Structure of the lkb1-strad-mo25 complex reveals an allosteric mechanism of kinase activation. Science, 326:1707-1711, Dec 2009. URL: https://doi.org/10.1126/science.1178377, doi:10.1126/science.1178377. This article has 422 citations and is from a highest quality peer-reviewed journal.
+
+10. (zeqiraj2009structureofthe pages 4-5): Elton Zeqiraj, Beatrice Maria Filippi, Maria Deak, Dario R. Alessi, and Daan M. F. van Aalten. Structure of the lkb1-strad-mo25 complex reveals an allosteric mechanism of kinase activation. Science, 326:1707-1711, Dec 2009. URL: https://doi.org/10.1126/science.1178377, doi:10.1126/science.1178377. This article has 422 citations and is from a highest quality peer-reviewed journal.
+
+11. (zeqiraj2009structureofthe pages 5-8): Elton Zeqiraj, Beatrice Maria Filippi, Maria Deak, Dario R. Alessi, and Daan M. F. van Aalten. Structure of the lkb1-strad-mo25 complex reveals an allosteric mechanism of kinase activation. Science, 326:1707-1711, Dec 2009. URL: https://doi.org/10.1126/science.1178377, doi:10.1126/science.1178377. This article has 422 citations and is from a highest quality peer-reviewed journal.
+
+12. (narbonne2010differentialrequirementsfor pages 1-2): P. Narbonne, Vincent Hyenne, Shaoling Li, J. Labbé, and R. Roy. Differential requirements for strad in lkb1-dependent functions in c. elegans. Development, 137:661-670, Feb 2010. URL: https://doi.org/10.1242/dev.042044, doi:10.1242/dev.042044. This article has 48 citations and is from a domain leading peer-reviewed journal.
+
+13. (smith2021typeiibinders pages 22-25): Ryan H. B. Smith, Zaigham M. Khan, Peter Man-Un Ung, Alex P. Scopton, Lisa Silber, Seshat M. Mack, Alexander M. Real, Avner Schlessinger, and Arvin C. Dar. Type ii binders targeting the “glr-out” conformation of the pseudokinase stradα. Biochemistry, 60:289-302, Jan 2021. URL: https://doi.org/10.1021/acs.biochem.0c00714, doi:10.1021/acs.biochem.0c00714. This article has 8 citations and is from a peer-reviewed journal.
+
+14. (smith2021typeiibinders pages 6-8): Ryan H. B. Smith, Zaigham M. Khan, Peter Man-Un Ung, Alex P. Scopton, Lisa Silber, Seshat M. Mack, Alexander M. Real, Avner Schlessinger, and Arvin C. Dar. Type ii binders targeting the “glr-out” conformation of the pseudokinase stradα. Biochemistry, 60:289-302, Jan 2021. URL: https://doi.org/10.1021/acs.biochem.0c00714, doi:10.1021/acs.biochem.0c00714. This article has 8 citations and is from a peer-reviewed journal.
+
+15. (trelford2024lkb1biologyassessing pages 4-5): Charles B. Trelford and Trevor G. Shepherd. Lkb1 biology: assessing the therapeutic relevancy of lkb1 inhibitors. Cell Communication and Signaling, Jun 2024. URL: https://doi.org/10.1186/s12964-024-01689-5, doi:10.1186/s12964-024-01689-5. This article has 12 citations and is from a peer-reviewed journal.
+
+16. (zeqiraj2009atpandmo25α pages 8-9): Elton Zeqiraj, Beatrice Maria Filippi, Simon Goldie, Iva Navratilova, Jérôme Boudeau, Maria Deak, Dario R. Alessi, and Daan M. F. van Aalten. Atp and mo25α regulate the conformational state of the stradα pseudokinase and activation of the lkb1 tumour suppressor. PLoS Biology, 7:e1000126, Jun 2009. URL: https://doi.org/10.1371/journal.pbio.1000126, doi:10.1371/journal.pbio.1000126. This article has 167 citations and is from a highest quality peer-reviewed journal.

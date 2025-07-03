@@ -1,0 +1,120 @@
+## Phylogeny  
+CSNK1A1 is a member of the Casein Kinase 1 (CK1) group, a discrete branch of the human kinome distinct from AGC, CAMK, CMGC, STE, TK and TKL groups (manning2002theproteinkinase pages 3-3).  
+Within this group it clusters with tau-tubulin (TTBK) and vaccinia-related (VRK) kinases, reflecting an ancient serine/threonine lineage (venerando2014caseinkinasethe pages 8-9).  
+Orthologs are conserved across fungi—Saccharomyces cerevisiae HRR25 and YCK1-3, Schizosaccharomyces pombe Cki1/2 and Hhp1/2—demonstrating early eukaryotic origin (gross1998caseinkinasei pages 2-4).  
+Dictyostelium discoideum retains two CK1 genes, whereas Caenorhabditis elegans shows ~85 paralogs and Drosophila melanogaster ~10, exemplifying lineage-specific expansion (goldberg2006thedictyosteliumkinome—analysis pages 2-3, manning2002evolutionofprotein pages 1-2).  
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr ⇌ ADP + protein-L-Ser/Thr-phosphate (cullati2024substratedisplacementof pages 15-15).  
+
+## Cofactor Requirements  
+Catalysis is Mg²⁺-dependent; the kinase does not utilize GTP as an alternative phosphate donor (venerando2014caseinkinasethe pages 16-20, unknownauthors2020effectsofck1 pages 10-14).  
+
+## Substrate Specificity  
+CK1α preferentially phosphorylates serine or threonine residues that lie three to four positions C-terminal to a pre-existing phospho-Ser/Thr or an acidic residue, generating the consensus pS/pT-X-X-S/T with a strong Asp/Glu bias at −3 (xu2019structureregulationand pages 9-11).  
+High-density peptide arrays confirm maximal activity when an aspartate or phospho-serine occupies the −3 position (cullati2024substratedisplacementof pages 10-11).  
+An SLS (Ser-Leu-Ser) motif followed by acidic residues, as found in β-catenin and NFAT, constitutes a recognized variant (xu2019structureregulationand pages 9-11).  
+
+## Structure  
+The protein contains an N-terminal ~300-residue kinase domain followed by a variable autoinhibitory C-terminal tail (venerando2014caseinkinasethe pages 8-9).  
+Paralog structures CK1δ (PDB 1CKI) and CK1γ (PDB 2CMW) reveal the canonical bilobal fold used to model CK1α (unknownauthors2023reversibleandcovalent pages 30-33, unknownauthors2020effectsofck1 pages 10-14).  
+Key catalytic elements include Lys46 for ATP anchoring, Asp133 in the HRD motif as catalytic base, and Asp149 of the DFG motif coordinating Mg²⁺ (xu2019structureregulationand pages 4-6).  
+Subdomain VIII possesses the CK1-signature SIN (Ser-Ile-Asn) triad replacing the conventional APE sequence (venerando2014caseinkinasethe pages 8-9).  
+Met82 acts as the gatekeeper residue controlling inhibitor access (xu2019structureregulationand pages 4-6).  
+The activation loop (L-9D) opens for catalysis, whereas a multi-phosphorylated C-tail can fold across the substrate pocket, enforcing autoinhibition (knippschild2014theck1family pages 1-2, cullati2024substratedisplacementof pages 10-11).  
+
+## Regulation  
+• Autophosphorylation at Ser318/321/326 creates a pseudo-substrate segment that suppresses activity (jiang2018caseinkinase1α pages 23-24).  
+• PKA phosphorylation at Ser370 further decreases catalytic efficiency (knippschild2014theck1family pages 3-5).  
+• SCF^FBXW7-mediated ubiquitination promotes proteasomal degradation; SUMOylation alters localization (knippschild2014theck1family pages 3-5).  
+• Proteolytic removal or substrate-induced displacement of the C-tail relieves inhibition (venerando2014caseinkinasethe pages 10-11, cullati2024substratedisplacementof pages 10-11).  
+• A dimer interface observed in CK1δ structures can occlude the ATP site, suggesting a transient inhibitory assembly for CK1α (xu2019structureregulationand pages 8-9).  
+• Binding of phosphatidylinositol-4,5-bisphosphate diminishes activity in specific cell types (venerando2014caseinkinasethe pages 10-11).  
+
+## Function  
+CK1α is ubiquitously expressed, with high levels in intestinal epithelium, melanomas, multiple myeloma, lung and breast cancers, and hematopoietic progenitors (jiang2018caseinkinase1α pages 14-15).  
+It initiates canonical Wnt signalling turnover by phosphorylating β-catenin at Ser45 (janovska2020targetingcaseinkinase pages 13-14).  
+Phosphorylation of PER1/2 integrates CK1α into the circadian clock (jiang2018caseinkinase1α pages 6-7).  
+By phosphorylating DEPTOR at Ser286/287/291, the kinase activates mTORC1/2 under nutrient-rich conditions (jiang2018caseinkinase1α pages 6-7).  
+Association with the mitotic spindle supports chromosome segregation during cell division (gross1998caseinkinasei pages 1-2).  
+Targeting of keratin intermediate filaments facilitates cytoskeletal remodeling and epithelial migration (unknownauthors2020effectsofck1 pages 17-20).  
+CK1α phosphorylation of NLRP3 restrains inflammasome assembly and innate immune activation (knippschild2014theck1family pages 2-3).  
+
+## Inhibitors  
+D4476: ATP-competitive inhibitor, IC₅₀ ≈ 0.2–0.3 µM against CK1 isoforms; >20-fold selectivity over unrelated kinases (perez2011proteinkinasesck1 pages 11-13).  
+PF-670462: Imidazol-pyrazol-pyrimidine derivative; IC₅₀ ≈ 0.013 µM for CK1δ with partial cross-activity toward CK1α (cozza2016caseinkinasesas pages 10-12).  
+SR-3029: Nanomolar inhibitor selective for CK1δ yet active on CK1α (knippschild2014theck1family pages 18-21).  
+IC261: Indolinone compound; IC₅₀ ≈ 1 µM for CK1δ/ε and ~10 µM for CK1α; also binds tubulin (cozza2016caseinkinasesas pages 10-12).  
+CK1α shows relative resistance to staurosporine, requiring ≥100 µM for inhibition (venerando2014caseinkinasethe pages 16-20).  
+
+## Other Comments  
+Haploinsufficiency of CSNK1A1 caused by 5q deletion activates β-catenin and expands hematopoietic stem cells in myelodysplastic syndrome (unknownauthors2017pathophysiologyandtreatment pages 30-35).  
+Missense mutations E98K, H134L and D140A occur in ~5–7 % of del(5q) MDS cases and impair kinase function (bello2015csnk1a1mutationsand pages 1-2).  
+Combined CSNK1A1 haploinsufficiency and mutant TP53 elevate MYC expression and accelerate leukemic transformation (fuchs2024collaborativeeffectof pages 10-11).  
+Low CK1α expression associates with poor prognosis in colorectal cancer (jiang2018caseinkinase1α pages 22-23).  
+CK1α activity modulates resistance to EGFR inhibitors and chemotherapeutics in solid tumours and multiple myeloma (jiang2018caseinkinase1α pages 22-23).  
+Phosphorylation of tau and α-synuclein by CK1 family members links the kinase to Alzheimer-related pathology (qiao2019smallmoleculemodulators pages 2-2).
+
+References
+
+1. (cullati2024substratedisplacementof pages 15-15): Sierra N. Cullati, Kazutoshi Akizuki, Jun-Song Chen, Jared L. Johnson, Tomer M. Yaron-Barir, Lewis C. Cantley, and Kathleen L. Gould. Substrate displacement of ck1 c-termini regulates kinase specificity. Science Advances, May 2024. URL: https://doi.org/10.1126/sciadv.adj5185, doi:10.1126/sciadv.adj5185. This article has 6 citations and is from a highest quality peer-reviewed journal.
+
+2. (goldberg2006thedictyosteliumkinome—analysis pages 2-3): Jonathan M Goldberg, Gerard Manning, Allen Liu, Petra Fey, Karen E Pilcher, Yanji Xu, and Janet L Smith. The dictyostelium kinome—analysis of the protein kinases from a simple model organism. PLoS Genetics, 2:e38, Mar 2006. URL: https://doi.org/10.1371/journal.pgen.0020038, doi:10.1371/journal.pgen.0020038. This article has 222 citations and is from a domain leading peer-reviewed journal.
+
+3. (janovska2020targetingcaseinkinase pages 13-14): Pavlína Janovská, Emmanuel Normant, Hari Miskin, and Vítězslav Bryja. Targeting casein kinase 1 (ck1) in hematological cancers. International Journal of Molecular Sciences, 21:9026, Nov 2020. URL: https://doi.org/10.3390/ijms21239026, doi:10.3390/ijms21239026. This article has 65 citations and is from a peer-reviewed journal.
+
+4. (jiang2018caseinkinase1α pages 14-15): Shaojie Jiang, Miaofeng Zhang, Jihong Sun, and Xiaoming Yang. Casein kinase 1α: biological mechanisms and theranostic potential. Cell Communication and Signaling, May 2018. URL: https://doi.org/10.1186/s12964-018-0236-z, doi:10.1186/s12964-018-0236-z. This article has 121 citations and is from a peer-reviewed journal.
+
+5. (jiang2018caseinkinase1α pages 22-23): Shaojie Jiang, Miaofeng Zhang, Jihong Sun, and Xiaoming Yang. Casein kinase 1α: biological mechanisms and theranostic potential. Cell Communication and Signaling, May 2018. URL: https://doi.org/10.1186/s12964-018-0236-z, doi:10.1186/s12964-018-0236-z. This article has 121 citations and is from a peer-reviewed journal.
+
+6. (jiang2018caseinkinase1α pages 6-7): Shaojie Jiang, Miaofeng Zhang, Jihong Sun, and Xiaoming Yang. Casein kinase 1α: biological mechanisms and theranostic potential. Cell Communication and Signaling, May 2018. URL: https://doi.org/10.1186/s12964-018-0236-z, doi:10.1186/s12964-018-0236-z. This article has 121 citations and is from a peer-reviewed journal.
+
+7. (knippschild2014theck1family pages 1-2): U. Knippschild, M. Krüger, J. Richter, Pengfei Xu, Balbina García-Reyes, C. Peifer, Jakob Halekotte, V. Bakulev, and J. Bischof. The ck1 family: contribution to cellular stress response and its role in carcinogenesis. Frontiers in Oncology, May 2014. URL: https://doi.org/10.3389/fonc.2014.00096, doi:10.3389/fonc.2014.00096. This article has 312 citations and is from a peer-reviewed journal.
+
+8. (knippschild2014theck1family pages 18-21): U. Knippschild, M. Krüger, J. Richter, Pengfei Xu, Balbina García-Reyes, C. Peifer, Jakob Halekotte, V. Bakulev, and J. Bischof. The ck1 family: contribution to cellular stress response and its role in carcinogenesis. Frontiers in Oncology, May 2014. URL: https://doi.org/10.3389/fonc.2014.00096, doi:10.3389/fonc.2014.00096. This article has 312 citations and is from a peer-reviewed journal.
+
+9. (knippschild2014theck1family pages 3-5): U. Knippschild, M. Krüger, J. Richter, Pengfei Xu, Balbina García-Reyes, C. Peifer, Jakob Halekotte, V. Bakulev, and J. Bischof. The ck1 family: contribution to cellular stress response and its role in carcinogenesis. Frontiers in Oncology, May 2014. URL: https://doi.org/10.3389/fonc.2014.00096, doi:10.3389/fonc.2014.00096. This article has 312 citations and is from a peer-reviewed journal.
+
+10. (manning2002evolutionofprotein pages 1-2): Gerard Manning, Gregory D Plowman, Tony Hunter, and Sucha Sudarsanam. Evolution of protein kinase signaling from yeast to man. Trends in Biochemical Sciences, 27:514-520, Oct 2002. URL: https://doi.org/10.1016/s0968-0004(02)02179-5, doi:10.1016/s0968-0004(02)02179-5. This article has 1324 citations and is from a domain leading peer-reviewed journal.
+
+11. (unknownauthors2017pathophysiologyandtreatment pages 30-35): Pathophysiology and treatment of myelodysplasia with del (5q)
+
+12. (unknownauthors2020effectsofck1 pages 10-14): Effects of CK1 specific inhibitors on wild type and mutant CK1δ in vitro and their ability to inhibit growth of tumor cell lines
+
+13. (unknownauthors2020effectsofck1 pages 17-20): Effects of CK1 specific inhibitors on wild type and mutant CK1δ in vitro and their ability to inhibit growth of tumor cell lines
+
+14. (venerando2014caseinkinasethe pages 10-11): Andrea Venerando, Maria Ruzzene, and Lorenzo A. Pinna. Casein kinase: the triple meaning of a misnomer. The Biochemical journal, 460 2:141-56, Jun 2014. URL: https://doi.org/10.1042/bj20140178, doi:10.1042/bj20140178. This article has 152 citations.
+
+15. (venerando2014caseinkinasethe pages 16-20): Andrea Venerando, Maria Ruzzene, and Lorenzo A. Pinna. Casein kinase: the triple meaning of a misnomer. The Biochemical journal, 460 2:141-56, Jun 2014. URL: https://doi.org/10.1042/bj20140178, doi:10.1042/bj20140178. This article has 152 citations.
+
+16. (venerando2014caseinkinasethe pages 8-9): Andrea Venerando, Maria Ruzzene, and Lorenzo A. Pinna. Casein kinase: the triple meaning of a misnomer. The Biochemical journal, 460 2:141-56, Jun 2014. URL: https://doi.org/10.1042/bj20140178, doi:10.1042/bj20140178. This article has 152 citations.
+
+17. (xu2019structureregulationand pages 4-6): Pengfei Xu, Chiara Ianes, Fabian Gärtner, Congxing Liu, Timo Burster, Vasiliy Bakulev, Najma Rachidi, Uwe Knippschild, and Joachim Bischof. Structure, regulation, and (patho-)physiological functions of the stress-induced protein kinase ck1 delta (csnk1d). Gene, 715:144005, Oct 2019. URL: https://doi.org/10.1016/j.gene.2019.144005, doi:10.1016/j.gene.2019.144005. This article has 82 citations and is from a peer-reviewed journal.
+
+18. (xu2019structureregulationand pages 8-9): Pengfei Xu, Chiara Ianes, Fabian Gärtner, Congxing Liu, Timo Burster, Vasiliy Bakulev, Najma Rachidi, Uwe Knippschild, and Joachim Bischof. Structure, regulation, and (patho-)physiological functions of the stress-induced protein kinase ck1 delta (csnk1d). Gene, 715:144005, Oct 2019. URL: https://doi.org/10.1016/j.gene.2019.144005, doi:10.1016/j.gene.2019.144005. This article has 82 citations and is from a peer-reviewed journal.
+
+19. (xu2019structureregulationand pages 9-11): Pengfei Xu, Chiara Ianes, Fabian Gärtner, Congxing Liu, Timo Burster, Vasiliy Bakulev, Najma Rachidi, Uwe Knippschild, and Joachim Bischof. Structure, regulation, and (patho-)physiological functions of the stress-induced protein kinase ck1 delta (csnk1d). Gene, 715:144005, Oct 2019. URL: https://doi.org/10.1016/j.gene.2019.144005, doi:10.1016/j.gene.2019.144005. This article has 82 citations and is from a peer-reviewed journal.
+
+20. (bello2015csnk1a1mutationsand pages 1-2): Erica Bello, Andrea Pellagatti, Jacqueline Shaw, Cristina Mecucci, Rajko Kušec, Sally Killick, Aristoteles Giagounidis, Sophie Raynaud, María J. Calasanz, Pierre Fenaux, and Jacqueline Boultwood. <i>csnk1a1</i> mutations and gene expression analysis in myelodysplastic syndromes with del(5q). British Journal of Haematology, 171:210-214, Jun 2015. URL: https://doi.org/10.1111/bjh.13563, doi:10.1111/bjh.13563. This article has 25 citations and is from a domain leading peer-reviewed journal.
+
+21. (cozza2016caseinkinasesas pages 10-12): Giorgio Cozza and Lorenzo A Pinna. Casein kinases as potential therapeutic targets. Expert Opinion on Therapeutic Targets, 20:319-340, Mar 2016. URL: https://doi.org/10.1517/14728222.2016.1091883, doi:10.1517/14728222.2016.1091883. This article has 103 citations and is from a peer-reviewed journal.
+
+22. (cullati2024substratedisplacementof pages 10-11): Sierra N. Cullati, Kazutoshi Akizuki, Jun-Song Chen, Jared L. Johnson, Tomer M. Yaron-Barir, Lewis C. Cantley, and Kathleen L. Gould. Substrate displacement of ck1 c-termini regulates kinase specificity. Science Advances, May 2024. URL: https://doi.org/10.1126/sciadv.adj5185, doi:10.1126/sciadv.adj5185. This article has 6 citations and is from a highest quality peer-reviewed journal.
+
+23. (fuchs2024collaborativeeffectof pages 10-11): Stijn N. R. Fuchs, Ursula S. A. Stalmann, Inge A. M. Snoeren, Eric Bindels, Stephani Schmitz, Bella Banjanin, Remco M. Hoogenboezem, Stanley van Herk, Mohamed Saad, Wencke Walter, Torsten Haferlach, Lancelot Seillier, Julio Saez-Rodriguez, Aurélien J. F. Dugourd, Kjong-Van Lehmann, Yinon Ben-Neriah, Hélène F. E. Gleitz, and Rebekka K. Schneider. Collaborative effect of csnk1a1 haploinsufficiency and mutant p53 in myc induction can promote leukemic transformation. Blood Advances, 8:766-779, Feb 2024. URL: https://doi.org/10.1182/bloodadvances.2022008926, doi:10.1182/bloodadvances.2022008926. This article has 4 citations and is from a peer-reviewed journal.
+
+24. (gross1998caseinkinasei pages 1-2): S. D. Gross and R. Anderson. Casein kinase i: spatial organization and positioning of a multifunctional protein kinase family. Cellular signalling, 10 10:699-711, Nov 1998. URL: https://doi.org/10.1016/s0898-6568(98)00042-4, doi:10.1016/s0898-6568(98)00042-4. This article has 416 citations and is from a peer-reviewed journal.
+
+25. (gross1998caseinkinasei pages 2-4): S. D. Gross and R. Anderson. Casein kinase i: spatial organization and positioning of a multifunctional protein kinase family. Cellular signalling, 10 10:699-711, Nov 1998. URL: https://doi.org/10.1016/s0898-6568(98)00042-4, doi:10.1016/s0898-6568(98)00042-4. This article has 416 citations and is from a peer-reviewed journal.
+
+26. (jiang2018caseinkinase1α pages 23-24): Shaojie Jiang, Miaofeng Zhang, Jihong Sun, and Xiaoming Yang. Casein kinase 1α: biological mechanisms and theranostic potential. Cell Communication and Signaling, May 2018. URL: https://doi.org/10.1186/s12964-018-0236-z, doi:10.1186/s12964-018-0236-z. This article has 121 citations and is from a peer-reviewed journal.
+
+27. (knippschild2014theck1family pages 2-3): U. Knippschild, M. Krüger, J. Richter, Pengfei Xu, Balbina García-Reyes, C. Peifer, Jakob Halekotte, V. Bakulev, and J. Bischof. The ck1 family: contribution to cellular stress response and its role in carcinogenesis. Frontiers in Oncology, May 2014. URL: https://doi.org/10.3389/fonc.2014.00096, doi:10.3389/fonc.2014.00096. This article has 312 citations and is from a peer-reviewed journal.
+
+28. (manning2002theproteinkinase pages 3-3): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10732 citations and is from a highest quality peer-reviewed journal.
+
+29. (perez2011proteinkinasesck1 pages 11-13): Daniel I. Perez, Carmen Gil, and Ana Martinez. Protein kinases ck1 and ck2 as new targets for neurodegenerative diseases. Medicinal Research Reviews, Nov 2011. URL: https://doi.org/10.1002/med.20207, doi:10.1002/med.20207. This article has 199 citations and is from a domain leading peer-reviewed journal.
+
+30. (qiao2019smallmoleculemodulators pages 2-2): Y. Qiao, Tingkai Chen, Hongyu Yang, Yao Chen, Hongzhi Lin, Wei Qu, F. Feng, Wenyuan Liu, Q. Guo, Zongliang Liu, and Haopeng Sun. Small molecule modulators targeting protein kinase ck1 and ck2. European journal of medicinal chemistry, 181:111581, Nov 2019. URL: https://doi.org/10.1016/j.ejmech.2019.111581, doi:10.1016/j.ejmech.2019.111581. This article has 51 citations and is from a domain leading peer-reviewed journal.
+
+31. (unknownauthors2023reversibleandcovalent pages 30-33): Reversible and covalent protein kinase CK1δ inhibitors: potential neuroprotective agents in neurodegenerative diseases

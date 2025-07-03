@@ -1,0 +1,57 @@
+## Phylogeny  
+• Orthologs curated in UniProt/Ensembl exist for human, mouse, rat, zebrafish, Drosophila and C. elegans, demonstrating broad conservation of SBK1 (brenes2019theencyclopediaof pages 2-3).  
+• Kinome placement (Manning 2002 framework): Group – CaMK; Family – SBK-related CAMK; Sub-family – SBK1 (johnson2023anatlasof pages 9-10, brenes2019theencyclopediaof pages 2-3).  
+• Closest human paralogues by sequence/motif clustering are CAMK1G and CAMK2G within the CaMK group (johnson2023anatlasof pages 9-10).  
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr ⇌ ADP + protein-L-Ser/Thr-phosphate (reveguk2024classifyingproteinkinase pages 1-2).  
+
+## Cofactor Requirements  
+Mg²⁺ is required, coordinated by the Asp of the DFG motif (reveguk2024classifyingproteinkinase pages 1-2).  
+
+## Substrate Specificity  
+Not experimentally determined; SBK1 lacks an assigned consensus motif in the current substrate-specificity atlas (johnson2023anatlasof pages 4-5).  
+
+## Structure  
+• Single canonical protein-kinase catalytic domain (~250 aa) with no auxiliary domains (reveguk2024classifyingproteinkinase pages 2-4).  
+• No crystal structure; high-confidence AlphaFold2 model AF-Q52WX2-F1 included in structural survey (reveguk2024classifyingproteinkinase pages 1-2, 10-12).  
+• Conserved motifs: VAIK Lys (β3) for ATP anchoring, HRD Asp (catalytic loop), DFG Asp-Phe-Gly initiating the activation loop; both DFG-in and DFG-out conformations observed in clustering (reveguk2024classifyingproteinkinase pages 4-5).  
+• Regulatory architecture: αC-Glu/Lys salt bridge present in active state; hydrophobic spine residues at positions 120 & 142 align with canonical active packing (reveguk2024classifyingproteinkinase pages 10-12).  
+• No unique insertions or ligand-bound complexes reported (reveguk2024classifyingproteinkinase pages 2-4).  
+
+## Regulation  
+• Post-transcriptional: cytoplasmic ceRNA axis with lncRNA DRAIC; DRAIC sponges miR-92a-1-5p, limiting miRNA repression of SBK1 (alhammad2024dysregulationofthe pages 7-10).  
+• Post-translational: no experimentally mapped phosphorylation, ubiquitination or other modification sites reported (reveguk2024classifyingproteinkinase pages 1-2).  
+• Allosteric/conformational controls specific to SBK1 have not been described (johnson2023anatlasof pages 4-5).  
+
+## Function  
+• Localisation: predominantly cytoplasmic (alhammad2024dysregulationofthe pages 7-10).  
+• Cancer-linked expression:  
+  – Up-regulated in ovarian cancer; promotes cell survival and apoptosis resistance (alhammad2024dysregulationofthe pages 7-10).  
+  – Down-regulated in lung and oesophageal cancers; low expression associates with poor overall survival in LUAD/LUSC (alhammad2024dysregulationofthe pages 7-10).  
+  – Classified as a dark kinase; gene-dependency in 56/990 cancer lines and over-expressed in KIRC, LGG, LIHC, THYM (unknownauthors2021integrativeanalysisof pages 97-102).  
+• No experimentally validated interacting partners, upstream regulators or downstream substrates are reported in the cited sources (johnson2023anatlasof pages 4-5).  
+
+## Other Comments  
+• Disease associations: combined low DRAIC/SBK1 predicts poor prognosis in non-small-cell lung cancer; SBK1 amplification/over-expression occurs in multiple tumour types (alhammad2024dysregulationofthe pages 7-10, unknownauthors2021integrativeanalysisof pages 97-102).  
+• No peer-reviewed germline/somatic mutations or selective inhibitors have been reported; no PDB structures are available (unknownauthors2021integrativeanalysisof pages 97-102).
+
+References
+
+1. (alhammad2024dysregulationofthe pages 7-10): Rashed Alhammad, Milicia Allison, Fares Alhammad, and C. Anene. Dysregulation of the draic/sbk1 axis promotes lung cancer progression. Diagnostics, Oct 2024. URL: https://doi.org/10.3390/diagnostics14192227, doi:10.3390/diagnostics14192227. This article has 0 citations and is from a peer-reviewed journal.
+
+2. (brenes2019theencyclopediaof pages 2-3): A. Brenes and A. Lamond. The encyclopedia of proteome dynamics: the kinoviewer. Bioinformatics, 35:1441-1442, Sep 2019. URL: https://doi.org/10.1093/bioinformatics/bty823, doi:10.1093/bioinformatics/bty823. This article has 10 citations and is from a highest quality peer-reviewed journal.
+
+3. (johnson2023anatlasof pages 4-5): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+4. (johnson2023anatlasof pages 9-10): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+5. (reveguk2024classifyingproteinkinase pages 1-2): Ivan Reveguk and Thomas Simonson. Classifying protein kinase conformations with machine learning. Protein Science, Mar 2024. URL: https://doi.org/10.1002/pro.4918, doi:10.1002/pro.4918. This article has 3 citations and is from a peer-reviewed journal.
+
+6. (reveguk2024classifyingproteinkinase pages 10-12): Ivan Reveguk and Thomas Simonson. Classifying protein kinase conformations with machine learning. Protein Science, Mar 2024. URL: https://doi.org/10.1002/pro.4918, doi:10.1002/pro.4918. This article has 3 citations and is from a peer-reviewed journal.
+
+7. (reveguk2024classifyingproteinkinase pages 2-4): Ivan Reveguk and Thomas Simonson. Classifying protein kinase conformations with machine learning. Protein Science, Mar 2024. URL: https://doi.org/10.1002/pro.4918, doi:10.1002/pro.4918. This article has 3 citations and is from a peer-reviewed journal.
+
+8. (reveguk2024classifyingproteinkinase pages 4-5): Ivan Reveguk and Thomas Simonson. Classifying protein kinase conformations with machine learning. Protein Science, Mar 2024. URL: https://doi.org/10.1002/pro.4918, doi:10.1002/pro.4918. This article has 3 citations and is from a peer-reviewed journal.
+
+9. (unknownauthors2021integrativeanalysisof pages 97-102): Integrative Analysis of Multi-omics Kinome Data and Virtual Screening of Identified Targets with Pan-Cancer Application

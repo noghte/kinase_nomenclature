@@ -1,0 +1,114 @@
+## Phylogeny  
+- Orthologs experimentally confirmed in mouse Prkd2, rat Prkd2, zebrafish prkd2, Drosophila melanogaster pkd, and the C. elegans kinases dkf-1/dkf-2, demonstrating broad metazoan conservation (ellwanger2013physiologicalfunctionsof pages 1-3, ellwanger2013physiologicalfunctionsof pages 3-4, ellwanger2013physiologicalfunctionsof pages 4-6).  
+- Within the human kinome, PRKD2 is assigned to the Ca²⁺/calmodulin-dependent protein kinase (CAMK) group, PKD subfamily, together with PRKD1 and PRKD3 (zhang2021multifacetedfunctionsof pages 1-2, cobbaut2017differentialregulationof pages 1-2).  
+- Phylogenetic analysis indicates that PRKD1 and PRKD2 are the closest paralogs and that PRKD2 emerged later in mammalian evolution, whereas a PKD1-like isoform is present in earlier vertebrates (azoitei2018proteinkinased2 pages 1-2).  
+
+## Reaction Catalyzed  
+- ATP + protein-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (anti2009nonspecificserinethreonineprotein pages 19-22, cobbaut2017differentialregulationof pages 14-15).  
+
+## Cofactor Requirements  
+- Catalytic activity requires divalent Mg²⁺ or Mn²⁺; in vitro kinase assays routinely use 10 mM MgCl₂ to support phosphotransfer (cobbaut2017differentialregulationof pages 14-15, unknownauthors2023proteinkinased pages 53-54).  
+
+## Substrate Specificity  
+- A quantitative motif analysis defined the preferred consensus (L/I/V)-x-R-x-x-S/T with a hydrophobic residue at −5 and an arginine at −3 relative to the phospho-acceptor (unknownauthors2023proteinkinased pages 53-54).  
+- Phosphoproteomic profiling in vasopressin-stimulated collecting-duct cells corroborated enrichment of [L-X-R-(R/H)-X-pS/T] motifs among PRKD2 substrates (datta2021phosphoproteomicidentificationof pages 7-8).  
+- Peptide-array screens confirmed tolerance for diverse flanking residues but strict requirement for a central Ser/Thr target (cobbaut2017differentialregulationof pages 14-15).  
+
+## Structure  
+- Domain organisation: Ubiquitin-like dimerisation domain (ULD) → tandem C1 domains (C1a/C1b) → PH domain → Ser/Thr kinase domain → C-terminal PDZ-binding tail (reinhardt2020ittakestwo pages 3-4, zhang2021multifacetedfunctionsof pages 2-4).  
+- 3D information: crystal/NMR structures are available for the ULD-C1a cassette from C. elegans DKF-1 (PDB 6RAO) and the human PH domain (PDB 2COA) (reinhardt2020ittakestwo pages 3-4). AlphaFold modelling confirms a canonical bilobal kinase fold and face-to-face homodimer interface (unknownauthors2023proteinkinased pages 45-46).  
+- Catalytic and regulatory features: activation loop contains Ser706/Ser710 (human numbering) and the P + 1 loop Tyr717 situated between the conserved DFG and APE motifs; a unique LNQ sequence immediately C-terminal to APE modulates Abl docking (cobbaut2017differentialregulationof pages 11-12, cobbaut2017differentialregulationof pages 7-10).  
+- ULD-mediated dimerisation juxtaposes the activation loops for trans-autophosphorylation; phosphorylation disrupts the dimer to permit substrate access (reinhardt2020ittakestwo pages 4-5).  
+- The αG helix acidic patch and hydrophobic spine participate in dimer stabilisation and small-molecule inhibitor binding (unknownauthors2014structuralinsightinto pages 20-28).  
+
+## Regulation  
+- Ser706 (activation loop): phosphorylated by novel PKC isoforms, relieving PH-domain autoinhibition (cobbaut2017differentialregulationof pages 6-7).  
+- Ser710: autophosphorylation cooperating with Ser706 for full catalytic activity (cobbaut2017differentialregulationof pages 6-7).  
+- Tyr717: phosphorylated by Abl during oxidative stress, increasing catalytic turnover toward peptide substrates (cobbaut2017differentialregulationof pages 7-10).  
+- Tyr87 (N-terminus): oxidant-induced phosphorylation, dispensable for PKCδ binding (cobbaut2017differentialregulationof pages 6-7).  
+- Tyr438 (PH domain): phosphorylated by BCR-Abl in leukemic cells, contributing to NF-κB activation (cobbaut2017differentialregulationof pages 1-2).  
+- Ser876 (C-terminal tail): autophosphorylation event used as an activity marker and required for maximal signalling in glioma cells (bernhart2014silencingofprotein pages 8-8).  
+- Hierarchical interplay: Ser706/Ser710 phosphorylation primes subsequent Tyr717 phosphorylation under oxidative stress (cobbaut2017differentialregulationof pages 7-10).  
+- Allosteric mechanisms include DAG binding to C1 domains for membrane recruitment, ULD-driven dimerisation for activation-loop trans-phosphorylation, and PH-domain autoinhibition relieved by activation-loop phosphorylation (reinhardt2020ittakestwo pages 3-4, reinhardt2020ittakestwo pages 4-5).  
+
+## Function  
+- Tissue expression is high in lung, brain, kidney, heart, smooth muscle, pancreas and prostate (zhang2021multifacetedfunctionsof pages 1-2).  
+- Immune system: abundant in thymocytes and peripheral T cells; required for TCR-driven cytokine production and extensive phosphoregulation networks in cytotoxic T lymphocytes (ellwanger2013physiologicalfunctionsof pages 7-8, navarro2014quantitativephosphoproteomicsof pages 4-6).  
+- Upstream activators: DAG-driven PKCδ phosphorylates Ser706; oxidative stress activates Abl for Tyr717 modification (steinberg2012regulationofprotein pages 1-2, cobbaut2017differentialregulationof pages 7-10).  
+- Downstream signalling:  
+  - Sustains ERK1/2 activation to potentiate mitogenic immediate-early gene expression (zhang2021multifacetedfunctionsof pages 1-2).  
+  - Phosphorylates PI4KIIIβ and other Golgi substrates controlling vesicle fission and secretion (navarro2014quantitativephosphoproteomicsof pages 12-13).  
+  - Mediates oxidative-stress-induced NF-κB activation (cobbaut2017differentialregulationof pages 14-15).  
+  - Enhances matrix metalloproteinase-9 secretion, supporting invasive behaviour (cobbaut2017differentialregulationof pages 12-13).  
+
+## Inhibitors  
+- CRT0066101: ATP-competitive pan-PKD inhibitor; IC₅₀ = 1 nM (PKD1), 2.5 nM (PKD2); orally bioavailable and blocks tumour growth in vivo (unknownauthors2011targetingproteinkinase pages 92-95).  
+- CID755673: non-ATP-competitive inhibitor; biochemical IC₅₀ ≈ 200 nM for all PKD isoforms; minimal activity against classical PKCs (unknownauthors2011targetingproteinkinase pages 87-92).  
+- kb-NB142-70: improved analog of CID755673; IC₅₀ = 28 nM for PKD1 with ~4-fold enhanced potency for PKD2/3; cellular IC₅₀ ≈ 2 µM (unknownauthors2011targetingproteinkinase pages 92-95).  
+- Imatinib (STI-571): indirectly suppresses PRKD2 Tyr717 phosphorylation by inhibiting Abl (cobbaut2017differentialregulationof pages 7-10).  
+
+## Other Comments  
+- Cancer: PRKD2 promotes prostate-cancer cell survival and invasion and is linked to poor prognosis in several solid tumours (azoitei2018proteinkinased2 pages 1-2, zhang2021multifacetedfunctionsof pages 26-27).  
+- Hematologic malignancy: BCR-Abl-mediated Tyr438 phosphorylation couples PRKD2 to NF-κB activation in chronic myeloid leukaemia (mihailovic2004proteinkinased2 pages 6-7, cobbaut2017differentialregulationof pages 1-2).  
+- Cardiac pathology: PKD family inhibition mitigates pressure-overload-induced hypertrophy, although isoform redundancy complicates interpretation (unknownauthors2014structuralinsightinto pages 13-20).  
+- Neurological disease: PRKD2 signalling influences glioma cell proliferation and senescence through Ser876 autophosphorylation (bernhart2014silencingofprotein pages 8-8).
+
+References
+
+1. (cobbaut2017differentialregulationof pages 1-2): Mathias Cobbaut, Rita Derua, Heike Döppler, Hua Jane Lou, Sandy Vandoninck, Peter Storz, Benjamin E. Turk, Thomas Seufferlein, Etienne Waelkens, Veerle Janssens, and Johan Van Lint. Differential regulation of pkd isoforms in oxidative stress conditions through phosphorylation of a conserved tyr in the p+1 loop. Scientific Reports, Apr 2017. URL: https://doi.org/10.1038/s41598-017-00800-w, doi:10.1038/s41598-017-00800-w. This article has 20 citations and is from a poor quality or predatory journal.
+
+2. (cobbaut2017differentialregulationof pages 11-12): Mathias Cobbaut, Rita Derua, Heike Döppler, Hua Jane Lou, Sandy Vandoninck, Peter Storz, Benjamin E. Turk, Thomas Seufferlein, Etienne Waelkens, Veerle Janssens, and Johan Van Lint. Differential regulation of pkd isoforms in oxidative stress conditions through phosphorylation of a conserved tyr in the p+1 loop. Scientific Reports, Apr 2017. URL: https://doi.org/10.1038/s41598-017-00800-w, doi:10.1038/s41598-017-00800-w. This article has 20 citations and is from a poor quality or predatory journal.
+
+3. (cobbaut2017differentialregulationof pages 12-13): Mathias Cobbaut, Rita Derua, Heike Döppler, Hua Jane Lou, Sandy Vandoninck, Peter Storz, Benjamin E. Turk, Thomas Seufferlein, Etienne Waelkens, Veerle Janssens, and Johan Van Lint. Differential regulation of pkd isoforms in oxidative stress conditions through phosphorylation of a conserved tyr in the p+1 loop. Scientific Reports, Apr 2017. URL: https://doi.org/10.1038/s41598-017-00800-w, doi:10.1038/s41598-017-00800-w. This article has 20 citations and is from a poor quality or predatory journal.
+
+4. (cobbaut2017differentialregulationof pages 6-7): Mathias Cobbaut, Rita Derua, Heike Döppler, Hua Jane Lou, Sandy Vandoninck, Peter Storz, Benjamin E. Turk, Thomas Seufferlein, Etienne Waelkens, Veerle Janssens, and Johan Van Lint. Differential regulation of pkd isoforms in oxidative stress conditions through phosphorylation of a conserved tyr in the p+1 loop. Scientific Reports, Apr 2017. URL: https://doi.org/10.1038/s41598-017-00800-w, doi:10.1038/s41598-017-00800-w. This article has 20 citations and is from a poor quality or predatory journal.
+
+5. (cobbaut2017differentialregulationof pages 7-10): Mathias Cobbaut, Rita Derua, Heike Döppler, Hua Jane Lou, Sandy Vandoninck, Peter Storz, Benjamin E. Turk, Thomas Seufferlein, Etienne Waelkens, Veerle Janssens, and Johan Van Lint. Differential regulation of pkd isoforms in oxidative stress conditions through phosphorylation of a conserved tyr in the p+1 loop. Scientific Reports, Apr 2017. URL: https://doi.org/10.1038/s41598-017-00800-w, doi:10.1038/s41598-017-00800-w. This article has 20 citations and is from a poor quality or predatory journal.
+
+6. (ellwanger2013physiologicalfunctionsof pages 1-3): Kornelia Ellwanger and Angelika Hausser. Physiological functions of protein kinase d in vivo. IUBMB Life, Feb 2013. URL: https://doi.org/10.1002/iub.1116, doi:10.1002/iub.1116. This article has 61 citations and is from a peer-reviewed journal.
+
+7. (ellwanger2013physiologicalfunctionsof pages 3-4): Kornelia Ellwanger and Angelika Hausser. Physiological functions of protein kinase d in vivo. IUBMB Life, Feb 2013. URL: https://doi.org/10.1002/iub.1116, doi:10.1002/iub.1116. This article has 61 citations and is from a peer-reviewed journal.
+
+8. (ellwanger2013physiologicalfunctionsof pages 4-6): Kornelia Ellwanger and Angelika Hausser. Physiological functions of protein kinase d in vivo. IUBMB Life, Feb 2013. URL: https://doi.org/10.1002/iub.1116, doi:10.1002/iub.1116. This article has 61 citations and is from a peer-reviewed journal.
+
+9. (reinhardt2020ittakestwo pages 3-4): Ronja Reinhardt, Linda Truebestein, Heiko A. Schmidt, and Thomas A. Leonard. It takes two to tango: activation of protein kinase d by dimerization. BioEssays, Jan 2020. URL: https://doi.org/10.1002/bies.201900222, doi:10.1002/bies.201900222. This article has 30 citations and is from a peer-reviewed journal.
+
+10. (reinhardt2020ittakestwo pages 4-5): Ronja Reinhardt, Linda Truebestein, Heiko A. Schmidt, and Thomas A. Leonard. It takes two to tango: activation of protein kinase d by dimerization. BioEssays, Jan 2020. URL: https://doi.org/10.1002/bies.201900222, doi:10.1002/bies.201900222. This article has 30 citations and is from a peer-reviewed journal.
+
+11. (unknownauthors2011targetingproteinkinase pages 87-92): Targeting protein kinase D by novel small molecule inhibitors and RNA interference in prostate cancer
+
+12. (unknownauthors2011targetingproteinkinase pages 92-95): Targeting protein kinase D by novel small molecule inhibitors and RNA interference in prostate cancer
+
+13. (unknownauthors2023proteinkinased pages 53-54): Protein kinase D autoinhibition in trans regulates activation loop autophosphorylation in cis
+
+14. (zhang2021multifacetedfunctionsof pages 1-2): Xuejing Zhang, Jaclyn Connelly, Yapeng Chao, and Qiming Jane Wang. Multifaceted functions of protein kinase d in pathological processes and human diseases. Biomolecules, 11:483, Mar 2021. URL: https://doi.org/10.3390/biom11030483, doi:10.3390/biom11030483. This article has 53 citations and is from a peer-reviewed journal.
+
+15. (zhang2021multifacetedfunctionsof pages 2-4): Xuejing Zhang, Jaclyn Connelly, Yapeng Chao, and Qiming Jane Wang. Multifaceted functions of protein kinase d in pathological processes and human diseases. Biomolecules, 11:483, Mar 2021. URL: https://doi.org/10.3390/biom11030483, doi:10.3390/biom11030483. This article has 53 citations and is from a peer-reviewed journal.
+
+16. (azoitei2018proteinkinased2 pages 1-2): Ninel Azoitei, Mathias Cobbaut, Alexander Becher, Johan Van Lint, and Thomas Seufferlein. Protein kinase d2: a versatile player in cancer biology. Oncogene, 37:1263-1278, Mar 2018. URL: https://doi.org/10.1038/s41388-017-0052-8, doi:10.1038/s41388-017-0052-8. This article has 26 citations and is from a domain leading peer-reviewed journal.
+
+17. (cobbaut2017differentialregulationof pages 14-15): Mathias Cobbaut, Rita Derua, Heike Döppler, Hua Jane Lou, Sandy Vandoninck, Peter Storz, Benjamin E. Turk, Thomas Seufferlein, Etienne Waelkens, Veerle Janssens, and Johan Van Lint. Differential regulation of pkd isoforms in oxidative stress conditions through phosphorylation of a conserved tyr in the p+1 loop. Scientific Reports, Apr 2017. URL: https://doi.org/10.1038/s41598-017-00800-w, doi:10.1038/s41598-017-00800-w. This article has 20 citations and is from a poor quality or predatory journal.
+
+18. (datta2021phosphoproteomicidentificationof pages 7-8): Arnab Datta, Chin‐Rang Yang, Karim Salhadar, Euijung Park, Chung‐Lin Chou, Viswanathan Raghuram, and Mark A. Knepper. Phosphoproteomic identification of vasopressin‐regulated protein kinases in collecting duct cells. British Journal of Pharmacology, 178:1426-1444, Feb 2021. URL: https://doi.org/10.1111/bph.15352, doi:10.1111/bph.15352. This article has 17 citations and is from a highest quality peer-reviewed journal.
+
+19. (ellwanger2013physiologicalfunctionsof pages 7-8): Kornelia Ellwanger and Angelika Hausser. Physiological functions of protein kinase d in vivo. IUBMB Life, Feb 2013. URL: https://doi.org/10.1002/iub.1116, doi:10.1002/iub.1116. This article has 61 citations and is from a peer-reviewed journal.
+
+20. (steinberg2012regulationofprotein pages 1-2): S. Steinberg. Regulation of protein kinase d1 activity. Molecular Pharmacology, 81:284-291, Mar 2012. URL: https://doi.org/10.1124/mol.111.075986, doi:10.1124/mol.111.075986. This article has 107 citations and is from a domain leading peer-reviewed journal.
+
+21. (unknownauthors2014structuralinsightinto pages 13-20): Structural Insight Into Protein Kinase D Small Molecule Inhibition
+
+22. (unknownauthors2014structuralinsightinto pages 20-28): Structural Insight Into Protein Kinase D Small Molecule Inhibition
+
+23. (unknownauthors2023proteinkinased pages 45-46): Protein kinase D autoinhibition in trans regulates activation loop autophosphorylation in cis
+
+24. (zhang2021multifacetedfunctionsof pages 26-27): Xuejing Zhang, Jaclyn Connelly, Yapeng Chao, and Qiming Jane Wang. Multifaceted functions of protein kinase d in pathological processes and human diseases. Biomolecules, 11:483, Mar 2021. URL: https://doi.org/10.3390/biom11030483, doi:10.3390/biom11030483. This article has 53 citations and is from a peer-reviewed journal.
+
+25. (anti2009nonspecificserinethreonineprotein pages 19-22): Unknown author(s). Non-specific serine/threonine protein kinase. Class 2 Transferases, pages 1-123, Jan 2009. URL: https://doi.org/10.1007/978-3-540-85699-3\_1, doi:10.1007/978-3-540-85699-3\_1. This article has 0 citations.
+
+26. (bernhart2014silencingofprotein pages 8-8): E. Bernhart, S. Damm, P. Heffeter, A. Wintersperger, M. Asslaber, S. Frank, A. Hammer, H. Strohmaier, T. Devaney, M. Mrfka, H. Eder, C. Windpassinger, C. Ireson, P. Mischel, W. Berger, and W. Sattler. Silencing of protein kinase d2 induces glioma cell senescence via p53-dependent and -independent pathways. Neuro-Oncology, 16:933-945, Jan 2014. URL: https://doi.org/10.1093/neuonc/not303, doi:10.1093/neuonc/not303. This article has 40 citations and is from a domain leading peer-reviewed journal.
+
+27. (mihailovic2004proteinkinased2 pages 6-7): Tamara Mihailovic, Martin Marx, Alexandra Auer, Johan Van Lint, Mathias Schmid, Christoph Weber, and Thomas Seufferlein. Protein kinase d2 mediates activation of nuclear factor κb by bcr-abl in bcr-abl+ human myeloid leukemia cells. Cancer Research, 64:8939-8944, Dec 2004. URL: https://doi.org/10.1158/0008-5472.can-04-0981, doi:10.1158/0008-5472.can-04-0981. This article has 108 citations and is from a highest quality peer-reviewed journal.
+
+28. (navarro2014quantitativephosphoproteomicsof pages 12-13): M. N. Navarro, Juergen Goebel, J. Hukelmann, and D. Cantrell. Quantitative phosphoproteomics of cytotoxic t cells to reveal protein kinase d 2 regulated networks*. Molecular & Cellular Proteomics : MCP, 13:3544-3557, Sep 2014. URL: https://doi.org/10.1074/mcp.m113.037242, doi:10.1074/mcp.m113.037242. This article has 22 citations.
+
+29. (navarro2014quantitativephosphoproteomicsof pages 4-6): M. N. Navarro, Juergen Goebel, J. Hukelmann, and D. Cantrell. Quantitative phosphoproteomics of cytotoxic t cells to reveal protein kinase d 2 regulated networks*. Molecular & Cellular Proteomics : MCP, 13:3544-3557, Sep 2014. URL: https://doi.org/10.1074/mcp.m113.037242, doi:10.1074/mcp.m113.037242. This article has 22 citations.

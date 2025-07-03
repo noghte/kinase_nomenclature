@@ -1,0 +1,110 @@
+## Phylogeny
+Ribosomal protein S6 kinase beta-1 (RPS6KB1), also known as p70S6K, is classified within the AGC group of protein kinases, specifically belonging to the RSK (ribosomal S6 kinase) family (manning2002theproteinkinase pages 3-3, manning2002theproteinkinase pages 7-8). The RSK family shares a close evolutionary relationship with other AGC kinase families, including protein kinase A (PKA), protein kinase G (PKG), and protein kinase C (PKC) (manning2002theproteinkinase pages 7-8). The kinase has clear orthologs in key model organisms including yeast, the nematode worm (*Caenorhabditis elegans*), and the fruit fly (*Drosophila melanogaster*), demonstrating deep evolutionary roots and conservation of the signaling pathway across eukaryotes (manning2002evolutionofprotein pages 1-2, manning2002theproteinkinase pages 7-8).
+
+
+
+## Reaction Catalyzed
+RPS6KB1 is a serine/threonine protein kinase that catalyzes the transfer of a gamma-phosphate from ATP to the hydroxyl groups of serine or threonine residues on substrate proteins (magnuson2012regulationandfunction pages 1-2, magnuson2012regulationandfunction pages 3-4, pende2014ribosomalproteins6 pages 1-3). The catalytic chemical reaction is described as: ATP + protein-serine/threonine → ADP + protein-serine/threonine-phosphate (pende2014ribosomalproteins6 pages 1-3, tchevkina2012proteinphosphorylationas pages 41-44).
+
+
+
+## Cofactor Requirements
+The kinase activity of RPS6KB1 requires ATP as the phosphate donor cofactor (bahramib2014p70ribosomalprotein pages 1-2, johnson2023anatlasof pages 4-4, pende2014ribosomalproteins6 pages 1-3). The reaction also requires Mg²⁺ ions as an essential cofactor, which coordinates and stabilizes ATP binding to facilitate the phosphate transfer (magnuson2012regulationandfunction pages 1-2, fenton2011functionsandregulation pages 13-13, sridhar2022targetingrps6k1for pages 16-16, tchevkina2012proteinphosphorylationas pages 41-44).
+
+
+
+## Substrate Specificity
+RPS6KB1 is a basophilic kinase whose substrate recognition is strongly influenced by basic amino acids at upstream positions relative to the phosphorylation site (johnson2023anatlasof pages 3-4). Analysis of its substrate specificity shows strong preferences for the basic residues Arginine (R) and Lysine (K) at positions -3 and -5 N-terminal to the phosphorylated serine or threonine residue (johnson2023anatlasof pages 3-4, johnson2023anatlasof pages 1-2). This defined substrate motif allows for the accurate prediction of kinase-substrate relationships (johnson2023anatlasof pages 6-7).
+
+
+
+## Structure
+The structure of RPS6KB1 includes a bilobal kinase domain typical of the AGC family, featuring a small N-terminal lobe and a larger C-terminal lobe that coordinates ATP binding (magnuson2012regulationandfunction pages 3-4, magnuson2012regulationandfunction pages 2-3). The crystal structure of the catalytic domain (PDB ID: 3A62) reveals key structural features: the N-terminal lobe contains the ATP-binding site and a conserved C-helix, while the larger C-terminal lobe contains the activation loop (johnson2023anatlasof pages 6-7). The hydrophobic spine, formed by aligned hydrophobic residues, provides structural integrity and stabilizes the active conformation (johnson2023anatlasof pages 6-7). Domain organization includes:
+- An N-terminal TOS (TOR signaling) motif, with the sequence FDIDL, which is required for binding to the Raptor component of mTORC1 (magnuson2012regulationandfunction pages 4-5, unknownauthors2011investigationofthe pages 34-39).
+- A central kinase domain containing the activation loop (T-loop) and the critical phosphorylation site Thr229 (magnuson2012regulationandfunction pages 3-4, magnuson2012regulationandfunction pages 4-5).
+- A C-terminal region containing a hydrophobic motif (HM) with the phosphorylation site Thr389 and an autoinhibitory pseudosubstrate region (magnuson2012regulationandfunction pages 2-3, magnuson2012regulationandfunction pages 3-4).
+- Alternative translational start sites produce isoforms like p85-S6K1, which has an N-terminal nuclear localization signal, and the predominantly cytoplasmic p70-S6K1, which lacks it (fenton2011functionsandregulation pages 2-2, magnuson2012regulationandfunction pages 3-4).
+
+
+
+## Regulation
+RPS6KB1 activation is governed by an allosteric mechanism and a hierarchical multi-site phosphorylation cascade (magnuson2012regulationandfunction pages 4-5, tchevkina2012proteinphosphorylationas pages 26-29). The TOS motif of S6K1 binds to the RAPTOR component of mTORC1, an essential allosteric interaction that brings the kinase into proximity for phosphorylation by mTORC1 (tchevkina2012proteinphosphorylationas pages 26-29, xu2020targetingmtorfor pages 1-2). This priming event is followed by subsequent phosphorylation steps:
+- **Thr389 (T389):** This hydrophobic motif residue is phosphorylated by mTORC1 as a prerequisite for further activation (tchevkina2012proteinphosphorylationas pages 26-29, magnuson2012regulationandfunction pages 4-5). This phosphorylation creates a docking site for PDK1 (magnuson2012regulationandfunction pages 4-5, folajimi2024themultifacetedrole pages 7-8).
+- **Thr229 (T229):** Following Thr389 phosphorylation, PDK1 phosphorylates this residue in the activation loop, leading to full kinase activation (fenton2011functionsandregulation pages 1-2, tchevkina2012proteinphosphorylationas pages 19-21, pende2014ribosomalproteins6 pages 5-7).
+- Additional phosphorylation at sites including Ser411, Ser418, Thr421, and Ser424 by kinases like ERK1/2 and p38-MAPK further regulates activity (folajimi2024themultifacetedrole pages 7-8).
+- The C-terminal domain has an autoinhibitory role that is relieved by mitogen-induced phosphorylation, allowing access for mTORC1 and PDK1 (magnuson2012regulationandfunction pages 4-5).
+- Regulation also occurs via miRNAs like miR-506-3p, which suppress expression by targeting its mRNA, and competing acetylation and ubiquitination modifications that influence protein stability (folajimi2024themultifacetedrole pages 7-8).
+
+
+
+## Function
+RPS6KB1 is a key downstream effector of the mTORC1 signaling pathway, integrating signals from growth factors, cytokines, and nutrients to regulate fundamental cellular processes (fenton2011functionsandregulation pages 1-2, magnuson2012regulationandfunction pages 1-2).
+- **Upstream regulators:** The kinase is activated by mTORC1 and PDK1 (fenton2011functionsandregulation pages 1-2). Its activity is also influenced by PI3K, Akt, and small G-proteins like Cdc42 and Rac (magnuson2012regulationandfunction pages 4-5).
+- **Downstream substrates:** Activated RPS6KB1 phosphorylates multiple substrates to promote protein synthesis, cell growth, and proliferation (fenton2011functionsandregulation pages 1-2). Key substrates include:
+    - Ribosomal protein S6 (RPS6), promoting the translation of mRNAs with a 5' terminal oligopyrimidine (TOP) motif (fenton2011functionsandregulation pages 1-2, bahramib2014p70ribosomalprotein pages 1-2).
+    - Eukaryotic initiation factor 4B (EIF4B) at Ser422, which enhances translation initiation (fenton2011functionsandregulation pages 1-2, tchevkina2012proteinphosphorylationas pages 19-21).
+    - Programmed cell death 4 (PDCD4) at Ser67, leading to its ubiquitination and degradation and promoting translation (pende2014ribosomalproteins6 pages 5-7, tchevkina2012proteinphosphorylationas pages 19-21).
+    - Eukaryotic elongation factor 2 kinase (eEF2K), relieving inhibition of translation elongation (pende2014ribosomalproteins6 pages 5-7).
+- **Biological roles:** RPS6KB1 also regulates mRNA processing, glucose homeostasis, cell survival, cell cycle progression, and participates in negative feedback loops controlling the PI3K pathway (fenton2011functionsandregulation pages 1-2).
+
+
+
+## Inhibitors
+Direct inhibitors of RPS6KB1 are in development by pharmaceutical companies, but pharmacological inhibition is most commonly achieved indirectly by targeting its upstream activator, mTORC1 (fenton2011functionsandregulation pages 1-2, tchevkina2012proteinphosphorylationas pages 26-29). mTOR inhibitors like rapamycin and its analogs (rapalogs) form a complex with FKBP12 that binds to the FRB domain of mTOR, preventing mTORC1-mediated phosphorylation of RPS6KB1 at Thr389 and thereby blocking its activation (magnuson2012regulationandfunction pages 1-2, magnuson2012regulationandfunction pages 2-3, roux2018signalingpathwaysinvolved pages 3-5).
+
+
+
+## Other Comments
+Dysregulation of RPS6KB1 activity, including overexpression and hyperactivation, is implicated in numerous pathologies such as cancer, obesity, diabetes, and aging (fenton2011functionsandregulation pages 1-2). Gene amplification of its chromosomal region (17q23) is correlated with proliferation in breast cancer (folajimi2024themultifacetedrole pages 7-8). Due to its central role in these diseases, RPS6KB1 has become a target for therapeutic intervention (fenton2011functionsandregulation pages 1-2).
+
+References
+
+1. (fenton2011functionsandregulation pages 1-2): Tim R. Fenton and Ivan T. Gout. Functions and regulation of the 70 kda ribosomal s6 kinases. The International Journal of Biochemistry &amp; Cell Biology, 43:47-59, Jan 2011. URL: https://doi.org/10.1016/j.biocel.2010.09.018, doi:10.1016/j.biocel.2010.09.018. This article has 429 citations.
+
+2. (folajimi2024themultifacetedrole pages 7-8): Oreoluwa Elizabeth Folajimi, Benjamin Ayodipupo Babalola, Aduragbemi Alabi, and Taiwo Funlola Akintola. The multifaceted role of s6k1 in cellular regulation: structural insights, isoform-specific functions, and therapeutic potential. Unknown journal, Aug 2024. URL: https://doi.org/10.20944/preprints202408.1156.v1, doi:10.20944/preprints202408.1156.v1.
+
+3. (johnson2023anatlasof pages 4-4): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+4. (magnuson2012regulationandfunction pages 1-2): Brian Magnuson, Bilgen Ekim, and Diane C. Fingar. Regulation and function of ribosomal protein s6 kinase (s6k) within mtor signalling networks. Biochemical Journal, 441:1-21, Dec 2012. URL: https://doi.org/10.1042/bj20110892, doi:10.1042/bj20110892. This article has 1241 citations and is from a domain leading peer-reviewed journal.
+
+5. (magnuson2012regulationandfunction pages 2-3): Brian Magnuson, Bilgen Ekim, and Diane C. Fingar. Regulation and function of ribosomal protein s6 kinase (s6k) within mtor signalling networks. Biochemical Journal, 441:1-21, Dec 2012. URL: https://doi.org/10.1042/bj20110892, doi:10.1042/bj20110892. This article has 1241 citations and is from a domain leading peer-reviewed journal.
+
+6. (magnuson2012regulationandfunction pages 4-5): Brian Magnuson, Bilgen Ekim, and Diane C. Fingar. Regulation and function of ribosomal protein s6 kinase (s6k) within mtor signalling networks. Biochemical Journal, 441:1-21, Dec 2012. URL: https://doi.org/10.1042/bj20110892, doi:10.1042/bj20110892. This article has 1241 citations and is from a domain leading peer-reviewed journal.
+
+7. (manning2002theproteinkinase pages 3-3): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+8. (manning2002theproteinkinase pages 7-8): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+9. (pende2014ribosomalproteins6 pages 1-3): Mario Pende and Caroline Treins. Ribosomal protein s6 and s6 kinases. Translation and Its Regulation in Cancer Biology and Medicine, pages 345-362, Jan 2014. URL: https://doi.org/10.1007/978-94-017-9078-9\_16, doi:10.1007/978-94-017-9078-9\_16. This article has 1 citations.
+
+10. (pende2014ribosomalproteins6 pages 5-7): Mario Pende and Caroline Treins. Ribosomal protein s6 and s6 kinases. Translation and Its Regulation in Cancer Biology and Medicine, pages 345-362, Jan 2014. URL: https://doi.org/10.1007/978-94-017-9078-9\_16, doi:10.1007/978-94-017-9078-9\_16. This article has 1 citations.
+
+11. (roux2018signalingpathwaysinvolved pages 3-5): Philippe P. Roux and Ivan Topisirovic. Signaling pathways involved in the regulation of mrna translation. Molecular and Cellular Biology, Jun 2018. URL: https://doi.org/10.1128/mcb.00070-18, doi:10.1128/mcb.00070-18. This article has 338 citations and is from a domain leading peer-reviewed journal.
+
+12. (tchevkina2012proteinphosphorylationas pages 19-21): Elena Tchevkina and Andrey Komelkov. Protein phosphorylation as a key mechanism of mtorc1/2 signaling pathways. Protein Phosphorylation in Human Health, Sep 2012. URL: https://doi.org/10.5772/48274, doi:10.5772/48274. This article has 30 citations.
+
+13. (tchevkina2012proteinphosphorylationas pages 26-29): Elena Tchevkina and Andrey Komelkov. Protein phosphorylation as a key mechanism of mtorc1/2 signaling pathways. Protein Phosphorylation in Human Health, Sep 2012. URL: https://doi.org/10.5772/48274, doi:10.5772/48274. This article has 30 citations.
+
+14. (unknownauthors2011investigationofthe pages 34-39): Investigation of the effects of different mTOR inhibitors on protein synthesis
+
+15. (xu2020targetingmtorfor pages 1-2): Tian Xu, De-juan Sun, Yi Chen, and Ouyang Liang. Targeting mtor for fighting diseases: a revisited review of mtor inhibitors. European Journal of Medicinal Chemistry, 199:112391, Aug 2020. URL: https://doi.org/10.1016/j.ejmech.2020.112391, doi:10.1016/j.ejmech.2020.112391. This article has 85 citations and is from a domain leading peer-reviewed journal.
+
+16. (bahramib2014p70ribosomalprotein pages 1-2): Farnaz Bahrami-B, Parvin Ataie-Kachoie, Mohammad H Pourgholami, and David L Morris. P70 ribosomal protein s6 kinase (<i>rps6kb1</i>): an update. Journal of Clinical Pathology, 67:1019-1025, Aug 2014. URL: https://doi.org/10.1136/jclinpath-2014-202560, doi:10.1136/jclinpath-2014-202560. This article has 119 citations and is from a peer-reviewed journal.
+
+17. (fenton2011functionsandregulation pages 13-13): Tim R. Fenton and Ivan T. Gout. Functions and regulation of the 70 kda ribosomal s6 kinases. The International Journal of Biochemistry &amp; Cell Biology, 43:47-59, Jan 2011. URL: https://doi.org/10.1016/j.biocel.2010.09.018, doi:10.1016/j.biocel.2010.09.018. This article has 429 citations.
+
+18. (fenton2011functionsandregulation pages 2-2): Tim R. Fenton and Ivan T. Gout. Functions and regulation of the 70 kda ribosomal s6 kinases. The International Journal of Biochemistry &amp; Cell Biology, 43:47-59, Jan 2011. URL: https://doi.org/10.1016/j.biocel.2010.09.018, doi:10.1016/j.biocel.2010.09.018. This article has 429 citations.
+
+19. (johnson2023anatlasof pages 1-2): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+20. (magnuson2012regulationandfunction pages 3-4): Brian Magnuson, Bilgen Ekim, and Diane C. Fingar. Regulation and function of ribosomal protein s6 kinase (s6k) within mtor signalling networks. Biochemical Journal, 441:1-21, Dec 2012. URL: https://doi.org/10.1042/bj20110892, doi:10.1042/bj20110892. This article has 1241 citations and is from a domain leading peer-reviewed journal.
+
+21. (manning2002evolutionofprotein pages 1-2): Gerard Manning, Gregory D Plowman, Tony Hunter, and Sucha Sudarsanam. Evolution of protein kinase signaling from yeast to man. Trends in Biochemical Sciences, 27:514-520, Oct 2002. URL: https://doi.org/10.1016/s0968-0004(02)02179-5, doi:10.1016/s0968-0004(02)02179-5. This article has 1322 citations and is from a domain leading peer-reviewed journal.
+
+22. (sridhar2022targetingrps6k1for pages 16-16): Jayalakshmi Sridhar, Rajesh Komati, and Satyendra Kumar. Targeting rps6k1 for refractory breast cancer therapy. Breast Cancer, pages 163-178, Aug 2022. URL: https://doi.org/10.36255/exon-publications-breast-cancer-rps6k1, doi:10.36255/exon-publications-breast-cancer-rps6k1. This article has 6 citations and is from a peer-reviewed journal.
+
+23. (tchevkina2012proteinphosphorylationas pages 41-44): Elena Tchevkina and Andrey Komelkov. Protein phosphorylation as a key mechanism of mtorc1/2 signaling pathways. Protein Phosphorylation in Human Health, Sep 2012. URL: https://doi.org/10.5772/48274, doi:10.5772/48274. This article has 30 citations.
+
+24. (johnson2023anatlasof pages 3-4): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+25. (johnson2023anatlasof pages 6-7): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.

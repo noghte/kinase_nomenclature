@@ -1,0 +1,128 @@
+## Phylogeny
+PRKDC (DNA-PKcs) is a member of the atypical kinase group and is classified within the Phosphatidylinositol 3-kinase-related kinase (PIKK) family (bartlett2018establishedandemerging pages 1-4, chen2021roleofprkdc pages 1-3, smith1999thednadependentprotein pages 1-2, yue2020dnapkcsamultifaceted pages 1-2). This family also includes other large kinases involved in stress-induced signaling and DNA damage response, such as ATM, ATR, and mTOR, with which DNA-PKcs shares structural and functional similarities (camfield2024secretsofdnapkcs pages 1-2, dylgjeri2022dnapkcsatargetable pages 8-8, smith1999thednadependentprotein pages 1-2). DNA-PKcs is the largest member of the PIKK family (camfield2024secretsofdnapkcs pages 1-2).
+
+Orthologs of PRKDC are conserved in several vertebrate species, including humans, mice, chicken, dog, horse, and amphibians like the toad (bartlett2018establishedandemerging pages 1-4, bartlett2018establishedandemerging pages 4-7). A putative homolog has been identified in the slime mold *Dictyostelium discoideum* (bartlett2018establishedandemerging pages 1-4). However, PRKDC is absent in several common model organisms, including *Caenorhabditis elegans*, *Arabidopsis thaliana*, *Drosophila melanogaster*, and yeast species (bartlett2018establishedandemerging pages 1-4, bartlett2018establishedandemerging pages 4-7).
+
+
+
+## Reaction Catalyzed
+As a serine/threonine-protein kinase, PRKDC catalyzes the transfer of a phosphate group from ATP to a protein substrate (puustinen2020dnadependentproteinkinase pages 9-9).
+- ATP + a [protein]-L-serine = ADP + a [protein]-L-serine phosphate (puustinen2020dnadependentproteinkinase pages 9-9).
+- ATP + a [protein]-L-threonine = ADP + a [protein]-L-threonine phosphate (puustinen2020dnadependentproteinkinase pages 9-9).
+
+
+
+## Cofactor Requirements
+The catalytic activity of PRKDC is DNA-dependent and requires double-stranded DNA (dsDNA), particularly DNA ends, as a cofactor for activation (bartlett2018establishedandemerging pages 4-7, dylgjeri2022dnapkcsatargetable pages 1-1, puustinen2020dnadependentproteinkinase pages 9-9, smith1999thednadependentprotein pages 1-2, yue2020dnapkcsamultifaceted pages 1-2). The presence of magnesium ions (Mg²⁺) is also required for its kinase activity (chen2021roleofprkdc pages 1-3, dylgjeri2022dnapkcsatargetable pages 1-1, johnson2023anatlasof pages 4-4, puustinen2020dnadependentproteinkinase pages 9-9, smith1999thednadependentprotein pages 1-2, yue2020dnapkcsamultifaceted pages 1-2). Its activity is stimulated more strongly by dsDNA with single-stranded overhangs than by blunt-ended dsDNA (bartlett2018establishedandemerging pages 4-7).
+
+
+
+## Substrate Specificity
+PRKDC preferentially phosphorylates serine or threonine residues that are immediately followed by a glutamine (Q) residue (johnson2023anatlasof pages 4-4, yue2020dnapkcsamultifaceted pages 1-2). The consensus substrate motif is defined as [S/T]Q (bartlett2018establishedandemerging pages 1-4, johnson2023anatlasof pages 4-4, puustinen2020dnadependentproteinkinase pages 9-9, smith1999thednadependentprotein pages 1-2, yue2020dnapkcsamultifaceted pages 1-2). This substrate specificity is shared with other members of the PIKK family, such as ATM and ATR (bartlett2018establishedandemerging pages 4-7, yue2020dnapkcsamultifaceted pages 1-2). However, PRKDC is also capable of phosphorylating non-SQ/TQ sites, such as serine or threonine followed by leucine or tyrosine, and can phosphorylate substrates that lack a clear consensus sequence, such as the C-terminal domain of RNA polymerase II (dylgjeri2022dnapkcsatargetable pages 3-3).
+
+
+
+## Structure
+PRKDC is a very large protein of over 4000 amino acids organized into three major structural regions: an N-terminal region, a central Circular Cradle, and a C-terminal Head (chen2021roleofprkdc pages 1-3, sibanda2017dnapkcsstructuresuggests pages 1-5).
+
+**Domain Organization:**
+-   **N-terminal Solenoid/Cradle:** The extensive N-terminal region (residues 1-2801) is composed of α-helical HEAT repeats and armadillo domains arranged into a solenoid that forms a hollow, double-ring or cradle shape (baretic2019structuralinsightsinto pages 2-3, bartlett2018establishedandemerging pages 4-7, sibanda2017dnapkcsstructuresuggests pages 10-14). This region creates a central channel or cavity for binding dsDNA and mediates interaction with the Ku70/80 heterodimer (bartlett2018establishedandemerging pages 4-7, chen2021roleofprkdc pages 1-3). It can be subdivided into an N-terminal unit (residues 1-892) and a Circular Cradle unit (residues 893-2801) (baretic2019structuralinsightsinto pages 2-3, sibanda2017dnapkcsstructuresuggests pages 10-14).
+-   **C-terminal Head:** The C-terminal Head (residues 2802-4128) contains the catalytic and regulatory domains (baretic2019structuralinsightsinto pages 2-3, sibanda2017dnapkcsstructuresuggests pages 10-14). This includes the FAT (FRAP-ATM-TRRAP) domain, the kinase domain (KD), the FRB (FKBP12-rapamycin binding) domain, the Lst8 binding element (LBE), the PIKK regulatory domain (PRD), and the C-terminal FAT (FATC) domain (baretic2019structuralinsightsinto pages 2-3, dylgjeri2022dnapkcsatargetable pages 1-1). The FAT and FATC domains form an α-solenoid structure that surrounds and clamps the kinase domain, contributing to restricted access to the active site (bartlett2018establishedandemerging pages 7-9, sibanda2017dnapkcsstructuresuggests pages 1-5).
+-   **Kinase Domain (KD):** The KD is bilobal, comprising a small N-terminal lobe and a larger C-terminal lobe separated by a flexible hinge, and shares structural features with other PIKKs like mTOR (bartlett2018establishedandemerging pages 4-7, bartlett2018establishedandemerging pages 7-9, sibanda2017dnapkcsstructuresuggests pages 1-5). It contains conserved motifs such as a P-loop, catalytic loop, and activation loop (sibanda2017dnapkcsstructuresuggests pages 1-5, sibanda2017dnapkcsstructuresuggests pages 14-19).
+-   **FRB Domain:** A unique FRB-like domain inserts into the N-terminal lobe of the kinase domain and is thought to act as a gatekeeper, regulating substrate access to the active site (bartlett2018establishedandemerging pages 7-9, camfield2024secretsofdnapkcs pages 1-2).
+
+The overall structure has been resolved by cryo-EM and X-ray crystallography, revealing the arrangement of these domains (baretic2019structuralinsightsinto pages 2-3, bartlett2018establishedandemerging pages 4-7).
+
+
+
+## Regulation
+The kinase activity of PRKDC is tightly regulated through allosteric mechanisms, protein-protein interactions, and post-translational modifications (PTMs).
+
+**Allosteric Regulation:**
+PRKDC kinase activity is allosterically activated upon recruitment to DSBs by the Ku70/80 heterodimer (baretic2019structuralinsightsinto pages 2-3, bartlett2018establishedandemerging pages 4-7). The C-terminal tail of Ku80 binds directly to PRKDC, inducing conformational changes in the HEAT repeat domains (bartlett2018establishedandemerging pages 7-9, jette2015thednadependentprotein pages 6-9). This remodels the catalytic cleft, in part by moving the FRB domain, to allow increased access to the active site (bartlett2018establishedandemerging pages 7-9).
+
+**Post-Translational Modifications:**
+-   **Autophosphorylation:** Upon activation, PRKDC undergoes extensive autophosphorylation on serine and threonine residues located within distinct regulatory regions, most notably the PQR and ABCDE clusters (baretic2019structuralinsightsinto pages 2-3, bartlett2018establishedandemerging pages 1-4, sibanda2017dnapkcsstructuresuggests pages 10-14). Key sites include S2056 (within the PQR cluster) and T2609 (within the ABCDE cluster) (bartlett2018establishedandemerging pages 9-12, camfield2024secretsofdnapkcs pages 1-2, williams2008cryoemstructureof pages 1-2). These phosphorylation events induce further conformational changes that regulate kinase activity and facilitate the disassembly of PRKDC from DNA ends, allowing access for downstream repair factors (baretic2019structuralinsightsinto pages 6-7, bartlett2018establishedandemerging pages 7-9, bartlett2018establishedandemerging pages 9-12).
+-   **Phosphorylation by other kinases:** PRKDC is also phosphorylated by other kinases, including ATM, ATR, and AKT, which modulates its activity (dylgjeri2022dnapkcsatargetable pages 3-3, yue2020dnapkcsamultifaceted pages 1-2).
+-   **Other PTMs:** PRKDC is subject to other PTMs that contribute to its regulation, including PARylation, acetylation, ubiquitylation, neddylation, nitrosylation, and glycosylation (dylgjeri2022dnapkcsatargetable pages 3-3).
+
+
+
+## Function
+PRKDC is a multifunctional kinase that is abundantly expressed in human cells and plays a central role in maintaining genomic stability (yue2020dnapkcsamultifaceted pages 1-2).
+
+**Signaling Pathways and Biological Roles:**
+-   **DNA Repair:** The primary function of PRKDC is as a molecular sensor for DNA damage and a key component of the non-homologous end joining (NHEJ) pathway for repairing DNA double-strand breaks (DSBs) (bartlett2018establishedandemerging pages 1-4, chen2021roleofprkdc pages 1-3, yue2020dnapkcsamultifaceted pages 1-2). It forms the DNA-PK holoenzyme with the Ku70/80 heterodimer, which recruits PRKDC to DSBs (wu2024themultifacetedfunctions pages 1-2). DNA-PKcs then acts as a scaffold to protect DNA ends and recruit other NHEJ factors (chen2021roleofprkdc pages 1-3).
+-   **V(D)J Recombination:** PRKDC is essential for V(D)J recombination, the process that generates immune receptor diversity in developing B and T lymphocytes (bartlett2018establishedandemerging pages 1-4, wu2024themultifacetedfunctions pages 1-2). This function requires the activation of the nuclease Artemis (bartlett2018establishedandemerging pages 9-12).
+-   **Other Cellular Processes:** PRKDC also participates in other cellular processes, including the regulation of transcription, mitosis, cell migration, and autophagy (bartlett2018establishedandemerging pages 1-4, puustinen2020dnadependentproteinkinase pages 9-9, yang2020beyonddnarepair pages 11-14).
+
+**Substrates and Interacting Partners:**
+-   **Ku70/80:** Forms the DNA-PK holoenzyme with PRKDC and recruits it to DNA ends (baretic2019structuralinsightsinto pages 2-3).
+-   **Artemis (DCLRE1C):** A key substrate whose nuclease activity is activated by PRKDC-mediated phosphorylation, which is critical for processing DNA hairpins during V(D)J recombination and some forms of NHEJ (bartlett2018establishedandemerging pages 9-12, matsumoto2022developmentandevolution pages 2-4, wu2024themultifacetedfunctions pages 1-2).
+-   **XRCC4:** A substrate that works with DNA ligase IV to facilitate the final ligation step of NHEJ (bartlett2018establishedandemerging pages 1-4, chen2021roleofprkdc pages 1-3, wu2024themultifacetedfunctions pages 1-2).
+-   **Other substrates:** Known substrates include histone H2AX, XLF, p53, Ku70/80, hsp90, and RNA polymerase II (bartlett2018establishedandemerging pages 4-7, bartlett2018establishedandemerging pages 9-12, chen2021roleofprkdc pages 1-3).
+
+
+
+## Inhibitors
+Several small molecule inhibitors targeting the kinase activity of PRKDC have been developed for experimental and therapeutic use (wu2024themultifacetedfunctions pages 1-2). These include the PI3K/PIKK family inhibitors wortmannin and LY294002 (unknownauthors1999dnadependentproteinkinase pages 1-4). More selective inhibitors include NU-7441, VX-984, AZD7648, and M3814 (pepetinib) (bartlett2018establishedandemerging pages 1-4, wu2024themultifacetedfunctions pages 1-2). Dual DNA-PKcs/mTOR inhibitors such as CC-115 also exist (bartlett2018establishedandemerging pages 1-4).
+
+
+
+## Other Comments
+Mutations or deficiencies in the *PRKDC* gene are associated with human diseases, primarily due to impaired DNA repair and V(D)J recombination (bartlett2018establishedandemerging pages 1-4).
+
+-   **Severe Combined Immunodeficiency (SCID):** Loss-of-function mutations in *PRKDC* cause a form of SCID characterized by impaired lymphocyte development, radiosensitivity, and genomic instability (bartlett2018establishedandemerging pages 1-4, matsumoto2022developmentandevolution pages 2-4, wu2024themultifacetedfunctions pages 1-2). For example, a patient with homozygous or compound heterozygous mutations, including an A3574V substitution and an exon 16 deletion, presented with SCID and profound neurological abnormalities, including cortical disorganization (woodbine2013prkdcmutationsin pages 7-8). These mutations drastically reduce or ablate kinase activity (woodbine2013prkdcmutationsin pages 7-8).
+-   **Cancer:** As a key regulator of genome stability, dysfunction of PRKDC is linked to increased cancer risk (bartlett2018establishedandemerging pages 1-4). Its inhibition is being explored as a therapeutic strategy to sensitize tumors to DNA-damaging therapies like radiation and chemotherapy (chen2021roleofprkdc pages 1-3, wu2024themultifacetedfunctions pages 1-2).
+
+References
+
+1. (baretic2019structuralinsightsinto pages 2-3): Domagoj Baretić, Taiana Maia de Oliveira, Martina Niess, Paul Wan, Hannah K Pollard, Christopher M. Johnson, C. Truman, E. McCall, David I. Fisher, Roger L. Williams, and C. Phillips. Structural insights into the critical dna damage sensors dna-pkcs, atm and atr. Progress in biophysics and molecular biology, Oct 2019. URL: https://doi.org/10.1016/j.pbiomolbio.2019.06.003, doi:10.1016/j.pbiomolbio.2019.06.003. This article has 30 citations and is from a peer-reviewed journal.
+
+2. (bartlett2018establishedandemerging pages 1-4): Edward J. Bartlett and Susan P. Lees-Miller. Established and emerging roles of the dna-dependent protein kinase catalytic subunit (dna-pkcs). Cancer Drug Discovery and Development, pages 315-338, Jan 2018. URL: https://doi.org/10.1007/978-3-319-75836-7\_12, doi:10.1007/978-3-319-75836-7\_12. This article has 4 citations.
+
+3. (bartlett2018establishedandemerging pages 4-7): Edward J. Bartlett and Susan P. Lees-Miller. Established and emerging roles of the dna-dependent protein kinase catalytic subunit (dna-pkcs). Cancer Drug Discovery and Development, pages 315-338, Jan 2018. URL: https://doi.org/10.1007/978-3-319-75836-7\_12, doi:10.1007/978-3-319-75836-7\_12. This article has 4 citations.
+
+4. (bartlett2018establishedandemerging pages 7-9): Edward J. Bartlett and Susan P. Lees-Miller. Established and emerging roles of the dna-dependent protein kinase catalytic subunit (dna-pkcs). Cancer Drug Discovery and Development, pages 315-338, Jan 2018. URL: https://doi.org/10.1007/978-3-319-75836-7\_12, doi:10.1007/978-3-319-75836-7\_12. This article has 4 citations.
+
+5. (bartlett2018establishedandemerging pages 9-12): Edward J. Bartlett and Susan P. Lees-Miller. Established and emerging roles of the dna-dependent protein kinase catalytic subunit (dna-pkcs). Cancer Drug Discovery and Development, pages 315-338, Jan 2018. URL: https://doi.org/10.1007/978-3-319-75836-7\_12, doi:10.1007/978-3-319-75836-7\_12. This article has 4 citations.
+
+6. (camfield2024secretsofdnapkcs pages 1-2): Sydney Camfield, Sayan Chakraborty, S. Dwivedi, Pijush Kanti Pramanik, Priyabrata Mukherjee, and Resham Bhattacharya. Secrets of dna-pkcs beyond dna repair. NPJ Precision Oncology, Jul 2024. URL: https://doi.org/10.1038/s41698-024-00655-1, doi:10.1038/s41698-024-00655-1. This article has 8 citations and is from a peer-reviewed journal.
+
+7. (chen2021roleofprkdc pages 1-3): Yu Chen, Yi Li, Jiani Xiong, Bin Lan, Xuefeng Wang, Jun Liu, Jing Lin, Zhaodong Fei, Xiaobin Zheng, and Chuanben Chen. Role of prkdc in cancer initiation, progression, and treatment. Cancer Cell International, Oct 2021. URL: https://doi.org/10.1186/s12935-021-02229-8, doi:10.1186/s12935-021-02229-8. This article has 41 citations and is from a peer-reviewed journal.
+
+8. (dylgjeri2022dnapkcsatargetable pages 1-1): Emanuela Dylgjeri and K. Knudsen. Dna-pkcs: a targetable protumorigenic protein kinase. Cancer Research, 82:523-533, Dec 2022. URL: https://doi.org/10.1158/0008-5472.can-21-1756, doi:10.1158/0008-5472.can-21-1756. This article has 54 citations and is from a highest quality peer-reviewed journal.
+
+9. (dylgjeri2022dnapkcsatargetable pages 3-3): Emanuela Dylgjeri and K. Knudsen. Dna-pkcs: a targetable protumorigenic protein kinase. Cancer Research, 82:523-533, Dec 2022. URL: https://doi.org/10.1158/0008-5472.can-21-1756, doi:10.1158/0008-5472.can-21-1756. This article has 54 citations and is from a highest quality peer-reviewed journal.
+
+10. (dylgjeri2022dnapkcsatargetable pages 8-8): Emanuela Dylgjeri and K. Knudsen. Dna-pkcs: a targetable protumorigenic protein kinase. Cancer Research, 82:523-533, Dec 2022. URL: https://doi.org/10.1158/0008-5472.can-21-1756, doi:10.1158/0008-5472.can-21-1756. This article has 54 citations and is from a highest quality peer-reviewed journal.
+
+11. (jette2015thednadependentprotein pages 6-9): N. Jette and S. Lees-Miller. The dna-dependent protein kinase: a multifunctional protein kinase with roles in dna double strand break repair and mitosis. Progress in biophysics and molecular biology, 117 2-3:194-205, Mar 2015. URL: https://doi.org/10.1016/j.pbiomolbio.2014.12.003, doi:10.1016/j.pbiomolbio.2014.12.003. This article has 339 citations and is from a peer-reviewed journal.
+
+12. (johnson2023anatlasof pages 4-4): Jared L. Johnson, Tomer M. Yaron, Emily M Huntsman, A. Kerelsky, Junho Song, Amit Regev, Ting Lin, Katarina M Liberatore, Daniel M. Cizin, Benjamin M. Cohen, N. Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, N. Käufer, M. Dorovkov, A. Ryazanov, Y. Takagi, Edward R. Kastenhuber, M. Goncalves, B. Hopkins, O. Elemento, D. Taatjes, A. Maucuer, A. Yamashita, A. Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, R. Linding, J. Blenis, P. Hornbeck, B. Turk, M. Yaffe, and L. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+13. (matsumoto2022developmentandevolution pages 2-4): Y. Matsumoto. Development and evolution of dna-dependent protein kinase inhibitors toward cancer therapy. International Journal of Molecular Sciences, Apr 2022. URL: https://doi.org/10.3390/ijms23084264, doi:10.3390/ijms23084264. This article has 36 citations and is from a peer-reviewed journal.
+
+14. (puustinen2020dnadependentproteinkinase pages 9-9): Pietri Puustinen, Anne Keldsbo, Elisabeth Corcelle-Termeau, Kevin Ngoei, Stine L. Sønder, Thomas Farkas, Klaus Kaae Andersen, Jon S. Oakhill, and Marja Jäättelä. Dna-dependent protein kinase regulates lysosomal amp-dependent protein kinase activation and autophagy. Autophagy, 16:1871-1888, Jan 2020. URL: https://doi.org/10.1080/15548627.2019.1710430, doi:10.1080/15548627.2019.1710430. This article has 60 citations and is from a domain leading peer-reviewed journal.
+
+15. (sibanda2017dnapkcsstructuresuggests pages 1-5): Bancinyane L. Sibanda, Dimitri Y. Chirgadze, David B. Ascher, and Tom L. Blundell. Dna-pkcs structure suggests an allosteric mechanism modulating dna double-strand break repair. Science, 355:520-524, Feb 2017. URL: https://doi.org/10.1126/science.aak9654, doi:10.1126/science.aak9654. This article has 188 citations and is from a highest quality peer-reviewed journal.
+
+16. (sibanda2017dnapkcsstructuresuggests pages 10-14): Bancinyane L. Sibanda, Dimitri Y. Chirgadze, David B. Ascher, and Tom L. Blundell. Dna-pkcs structure suggests an allosteric mechanism modulating dna double-strand break repair. Science, 355:520-524, Feb 2017. URL: https://doi.org/10.1126/science.aak9654, doi:10.1126/science.aak9654. This article has 188 citations and is from a highest quality peer-reviewed journal.
+
+17. (sibanda2017dnapkcsstructuresuggests pages 14-19): Bancinyane L. Sibanda, Dimitri Y. Chirgadze, David B. Ascher, and Tom L. Blundell. Dna-pkcs structure suggests an allosteric mechanism modulating dna double-strand break repair. Science, 355:520-524, Feb 2017. URL: https://doi.org/10.1126/science.aak9654, doi:10.1126/science.aak9654. This article has 188 citations and is from a highest quality peer-reviewed journal.
+
+18. (smith1999thednadependentprotein pages 1-2): G. Smith and S. Jackson. The dna-dependent protein kinase. Genes & Development, 13:916-934, Apr 1999. URL: https://doi.org/10.1101/gad.13.8.916, doi:10.1101/gad.13.8.916. This article has 1227 citations.
+
+19. (unknownauthors1999dnadependentproteinkinase pages 1-4): DNA-dependent protein kinase and related proteins
+
+20. (williams2008cryoemstructureof pages 1-2): Dewight R Williams, Kyung-jong Lee, Jian Shi, David J. Chen, and P. Stewart. Cryo-em structure of the dna-dependent protein kinase catalytic subunit at subnanometer resolution reveals alpha helices and insight into dna binding. Structure, 16 3:468-77, Mar 2008. URL: https://doi.org/10.1016/j.str.2007.12.014, doi:10.1016/j.str.2007.12.014. This article has 101 citations and is from a domain leading peer-reviewed journal.
+
+21. (woodbine2013prkdcmutationsin pages 7-8): L. Woodbine, Jessica A. Neal, N. Sasi, Mayuko Shimada, K. Deem, H. Coleman, W. B. Dobyns, T. Ogi, K. Meek, E. Graham Davies, and P. Jeggo. Prkdc mutations in a scid patient with profound neurological abnormalities. The Journal of clinical investigation, 123 7:2969-80, Jul 2013. URL: https://doi.org/10.1172/jci67349, doi:10.1172/jci67349. This article has 164 citations.
+
+22. (wu2024themultifacetedfunctions pages 1-2): Jinghong Wu, Liwei Song, Mingjun Lu, Qing Gao, Shaofa Xu, Ping-Kun Zhou, and Teng Ma. The multifaceted functions of dna‐pkcs: implications for the therapy of human diseases. MedComm, Jun 2024. URL: https://doi.org/10.1002/mco2.613, doi:10.1002/mco2.613. This article has 3 citations.
+
+23. (yang2020beyonddnarepair pages 11-14): Hai-xia Yang, F. Yao, T. Marti, R. Schmid, and R. Peng. Beyond dna repair: dna-pkcs in tumor metastasis, metabolism and immunity. Cancers, Nov 2020. URL: https://doi.org/10.3390/cancers12113389, doi:10.3390/cancers12113389. This article has 36 citations and is from a peer-reviewed journal.
+
+24. (yue2020dnapkcsamultifaceted pages 1-2): Xiaoqiao Yue, Chenjun Bai, Dafei Xie, Teng Ma, and Ping-Kun Zhou. Dna-pkcs: a multi-faceted player in dna damage response. Frontiers in Genetics, Dec 2020. URL: https://doi.org/10.3389/fgene.2020.607428, doi:10.3389/fgene.2020.607428. This article has 166 citations and is from a peer-reviewed journal.
+
+25. (baretic2019structuralinsightsinto pages 6-7): Domagoj Baretić, Taiana Maia de Oliveira, Martina Niess, Paul Wan, Hannah K Pollard, Christopher M. Johnson, C. Truman, E. McCall, David I. Fisher, Roger L. Williams, and C. Phillips. Structural insights into the critical dna damage sensors dna-pkcs, atm and atr. Progress in biophysics and molecular biology, Oct 2019. URL: https://doi.org/10.1016/j.pbiomolbio.2019.06.003, doi:10.1016/j.pbiomolbio.2019.06.003. This article has 30 citations and is from a peer-reviewed journal.

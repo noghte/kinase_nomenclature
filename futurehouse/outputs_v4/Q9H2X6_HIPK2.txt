@@ -1,0 +1,101 @@
+## Phylogeny  
+• Kinome hierarchy: CMGC group → DYRK-related clade → HIPK sub-branch (agnew2019thecrystalstructure pages 1-2).  
+• Vertebrate paralogues: HIPK1, HIPK3, HIPK4; kinase-domain identity HIPK1 vs HIPK2 ≈93 % (kaltheuner2021abemaciclibisa pages 1-2).  
+• Representative orthologs: Mus musculus Hipk2, Danio rerio hipk2, Xenopus laevis hipk2, Drosophila melanogaster minibrain (Mnb) and Saccharomyces cerevisiae Yak1 (hofmann2000humanhomeodomaininteractingprotein pages 2-5).  
+• Bayesian comparison of 1 498 HIPK sequences against 14 296 CMGC kinases highlights HIPK-specific residues in the αC-β4 loop and CMGC-insert that phylogenetically separate HIPKs from DYRKs and CLKs (agnew2019thecrystalstructure pages 25-26).  
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr ⇌ ADP + protein-L-Ser/Thr-phosphate (agnew2019thecrystalstructure pages 18-20).  
+
+## Cofactor Requirements  
+Catalysis is Mg²⁺-dependent, consistent with CMGC kinase chemistry (kaltheuner2021abemaciclibisa pages 1-2).  
+
+## Substrate Specificity  
+• Consensus motifs determined biochemically: S/T-P and S/T-P-X-P, indicating strong proline preference at +1 and optional +3 positions (saul2013hipk2kinaseactivity pages 1-2).  
+• Autophosphorylation specificity: Tyr354 (human Tyr361 in crystal structure) within an S-x-Y motif characteristic of DYRK/HIPK kinases (agnew2019thecrystalstructure pages 2-3).  
+
+## Structure  
+Domain organisation  
+1 – ≈330: N-terminal kinase domain; 331 – ≈480: homeoprotein-interacting domain (HID); ≈481 – ≈740: PEST/speckle-retention sequence (SRS) with SUMO-binding motif; ≈741 – ≈915: autoinhibitory domain (AID); ≈916 - end: SQA-rich tail (kaltheuner2021abemaciclibisa pages 1-2, agnew2019thecrystalstructure pages 2-3).  
+
+3-D architecture  
+• Crystal structure at 2.2 Å (kinase domain + CX-4945, PDB reported in primary study) adopts an active helix-C-in/DFG-in conformation with a complete regulatory spine (agnew2019thecrystalstructure pages 3-4).  
+• Activation loop: pTyr361 hydrogen-bonds to Arg368 (CMGC arginine) and Gln363, locking the active state (agnew2019thecrystalstructure pages 22-25).  
+• Unique CMGC-insert: extended helix H, short helix M and β-hairpin bearing auto-pSer441; pSer441 interacts with Arg437 to stabilise the insert (agnew2019thecrystalstructure pages 7-8).  
+• HIPK-specific αC-β4 loop expands the N-lobe surface and contacts the CMGC-insert, a signature feature absent from DYRK1A/2 (agnew2019thecrystalstructure pages 8-9).  
+• Catalytic residues: Lys228 (β3), Glu243 (helix C), Asp346-Phe347-Gly348 (DFG), His365-Arg368 (HRD-equivalent) (agnew2019thecrystalstructure pages 3-4).  
+
+## Regulation  
+Post-translational modifications  
+• Cis-autophosphorylation: Tyr354/Tyr361 and Ser357 within the activation loop are indispensable for catalytic activity and substrate affinity (saul2013hipk2kinaseactivity pages 1-2).  
+• Additional autophosphorylation: Ser441 in the CMGC-insert modulates monomer–dimer equilibrium (agnew2019thecrystalstructure pages 8-9).  
+• SUMOylation: Lys25 by PIAS1 supports speckle retention and transcriptional repression (agnew2019thecrystalstructure pages 3-4).  
+• Acetylation: Lys10 and multiple kinase-domain lysines by CBP/p300 enhance oxidative-stress signalling (agnew2019thecrystalstructure pages 3-4).  
+• Ubiquitination: Siah-1 and WSB-1 target HIPK2 for proteasomal degradation under basal conditions (agnew2019thecrystalstructure pages 1-2, kuwano2016homeodomaininteractingproteinkinase2 pages 3-5).  
+• Caspase-6 cleavage at Asp916 & Asp977 removes the AID, increasing kinase activity during genotoxic stress (kuwano2016homeodomaininteractingproteinkinase2 pages 3-5).  
+Upstream regulation  
+• ATM and ATR phosphorylate and stabilise HIPK2 in the DNA-damage response (kuwano2016homeodomaininteractingproteinkinase2 pages 1-3).  
+
+## Function  
+Expression and localisation  
+• Predominantly nuclear; concentrates in subnuclear speckles via the SRS (kuwano2016homeodomaininteractingproteinkinase2 pages 1-3).  
+• Broad tissue distribution; notable expression in cardiomyocytes where it supports basal ERK signalling (guo2019cardiomyocytehipk2maintains pages 21-23).  
+
+Signalling roles  
+• DNA damage/apoptosis: phosphorylates p53 Ser46 to drive pro-apoptotic transcription (agnew2019thecrystalstructure pages 1-2).  
+• Wnt/β-catenin: phosphorylates β-catenin leading to β-TrCP-dependent degradation (agnew2019thecrystalstructure pages 2-3).  
+• TGF-β/JNK: cooperates with DAXX to activate JNK after TGF-β stimulation (agnew2019thecrystalstructure pages 1-2).  
+• Hypoxia: acts as transcriptional co-suppressor of HIF-1α (agnew2019thecrystalstructure pages 1-2).  
+Principal substrates/interactors: PML, EP300, CTBP1, SMAD1, POU4F1/Brn3a, CREB1, CBX4, RUNX1, HMGA1, ZBTB4, DAZAP2, Pin1 (agnew2019thecrystalstructure pages 13-15, saul2013hipk2kinaseactivity pages 7-7).  
+
+## Inhibitors  
+• CX-4945: ATP-competitive; co-crystallised with the kinase domain (agnew2019thecrystalstructure pages 22-25).  
+• Abemaciclib: potent nanomolar inhibitor of HIPK2, HIPK3 and DYRK1A (kaltheuner2021abemaciclibisa pages 1-2).  
+• TBID: selective inhibitor; IC₅₀ = 0.33 µM (cozza2014synthesisandproperties pages 1-2).  
+• D-115893: cellular inhibitor identified in activity assays (saul2013hipk2kinaseactivity pages 8-9).  
+
+## Other Comments  
+• Cancer: HIPK2 is amplified or overexpressed in cervical cancer, tonsillar squamous cell carcinoma and pilocytic astrocytoma; loss enhances tumorigenesis (agnew2019thecrystalstructure pages 13-15).  
+• Fibrosis: drives TGF-β/Smad3-dependent renal and pulmonary fibrosis and keloid formation (agnew2019thecrystalstructure pages 13-15).  
+• Neurodegeneration: promotes ER-stress-mediated neuronal death in Alzheimer’s disease and ALS models (agnew2019thecrystalstructure pages 12-13).  
+• Hematological disease: pathogenic missense variant R868W and del(7q) events in myelodysplastic syndrome reduce HIPK2 dosage (agnew2019thecrystalstructure pages 13-15, hofmann2000humanhomeodomaininteractingprotein pages 2-5).
+
+References
+
+1. (agnew2019thecrystalstructure pages 1-2): Christopher Agnew, Lijun Liu, Shu Liu, Wei Xu, Liang You, Wayland Yeung, Natarajan Kannan, David Jablons, and Natalia Jura. The crystal structure of the protein kinase hipk2 reveals a unique architecture of its cmgc-insert region. Journal of Biological Chemistry, 294:13545-13559, Sep 2019. URL: https://doi.org/10.1074/jbc.ra119.009725, doi:10.1074/jbc.ra119.009725. This article has 30 citations and is from a domain leading peer-reviewed journal.
+
+2. (agnew2019thecrystalstructure pages 13-15): Christopher Agnew, Lijun Liu, Shu Liu, Wei Xu, Liang You, Wayland Yeung, Natarajan Kannan, David Jablons, and Natalia Jura. The crystal structure of the protein kinase hipk2 reveals a unique architecture of its cmgc-insert region. Journal of Biological Chemistry, 294:13545-13559, Sep 2019. URL: https://doi.org/10.1074/jbc.ra119.009725, doi:10.1074/jbc.ra119.009725. This article has 30 citations and is from a domain leading peer-reviewed journal.
+
+3. (agnew2019thecrystalstructure pages 18-20): Christopher Agnew, Lijun Liu, Shu Liu, Wei Xu, Liang You, Wayland Yeung, Natarajan Kannan, David Jablons, and Natalia Jura. The crystal structure of the protein kinase hipk2 reveals a unique architecture of its cmgc-insert region. Journal of Biological Chemistry, 294:13545-13559, Sep 2019. URL: https://doi.org/10.1074/jbc.ra119.009725, doi:10.1074/jbc.ra119.009725. This article has 30 citations and is from a domain leading peer-reviewed journal.
+
+4. (agnew2019thecrystalstructure pages 2-3): Christopher Agnew, Lijun Liu, Shu Liu, Wei Xu, Liang You, Wayland Yeung, Natarajan Kannan, David Jablons, and Natalia Jura. The crystal structure of the protein kinase hipk2 reveals a unique architecture of its cmgc-insert region. Journal of Biological Chemistry, 294:13545-13559, Sep 2019. URL: https://doi.org/10.1074/jbc.ra119.009725, doi:10.1074/jbc.ra119.009725. This article has 30 citations and is from a domain leading peer-reviewed journal.
+
+5. (agnew2019thecrystalstructure pages 3-4): Christopher Agnew, Lijun Liu, Shu Liu, Wei Xu, Liang You, Wayland Yeung, Natarajan Kannan, David Jablons, and Natalia Jura. The crystal structure of the protein kinase hipk2 reveals a unique architecture of its cmgc-insert region. Journal of Biological Chemistry, 294:13545-13559, Sep 2019. URL: https://doi.org/10.1074/jbc.ra119.009725, doi:10.1074/jbc.ra119.009725. This article has 30 citations and is from a domain leading peer-reviewed journal.
+
+6. (agnew2019thecrystalstructure pages 7-8): Christopher Agnew, Lijun Liu, Shu Liu, Wei Xu, Liang You, Wayland Yeung, Natarajan Kannan, David Jablons, and Natalia Jura. The crystal structure of the protein kinase hipk2 reveals a unique architecture of its cmgc-insert region. Journal of Biological Chemistry, 294:13545-13559, Sep 2019. URL: https://doi.org/10.1074/jbc.ra119.009725, doi:10.1074/jbc.ra119.009725. This article has 30 citations and is from a domain leading peer-reviewed journal.
+
+7. (agnew2019thecrystalstructure pages 8-9): Christopher Agnew, Lijun Liu, Shu Liu, Wei Xu, Liang You, Wayland Yeung, Natarajan Kannan, David Jablons, and Natalia Jura. The crystal structure of the protein kinase hipk2 reveals a unique architecture of its cmgc-insert region. Journal of Biological Chemistry, 294:13545-13559, Sep 2019. URL: https://doi.org/10.1074/jbc.ra119.009725, doi:10.1074/jbc.ra119.009725. This article has 30 citations and is from a domain leading peer-reviewed journal.
+
+8. (guo2019cardiomyocytehipk2maintains pages 21-23): Yuanjun Guo, Jennifer Y. Sui, Kyungsoo Kim, Zhentao Zhang, Xiaoyan A. Qu, Young-Jae Nam, Robert N. Willette, Joey V. Barnett, Bjorn C. Knollmann, Thomas Force, and Hind Lal. Cardiomyocyte homeodomain-interacting protein kinase 2 maintains basal cardiac function via extracellular signal-regulated kinase signaling. Circulation, 140:1820-1833, Nov 2019. URL: https://doi.org/10.1161/circulationaha.119.040740, doi:10.1161/circulationaha.119.040740. This article has 27 citations and is from a highest quality peer-reviewed journal.
+
+9. (kaltheuner2021abemaciclibisa pages 1-2): Ines H. Kaltheuner, Kanchan Anand, Jonas Moecking, Robert Düster, Jinhua Wang, Nathanael S. Gray, and Matthias Geyer. Abemaciclib is a potent inhibitor of dyrk1a and hip kinases involved in transcriptional regulation. Nature Communications, Nov 2021. URL: https://doi.org/10.1038/s41467-021-26935-z, doi:10.1038/s41467-021-26935-z. This article has 29 citations and is from a highest quality peer-reviewed journal.
+
+10. (kuwano2016homeodomaininteractingproteinkinase2 pages 3-5): Y. Kuwano, K. Nishida, Yoko Akaike, Ken Kurokawa, Tatsuya Nishikawa, Kiyoshi Masuda, and K. Rokutan. Homeodomain-interacting protein kinase-2: a critical regulator of the dna damage response and the epigenome. International Journal of Molecular Sciences, Sep 2016. URL: https://doi.org/10.3390/ijms17101638, doi:10.3390/ijms17101638. This article has 38 citations and is from a peer-reviewed journal.
+
+11. (saul2013hipk2kinaseactivity pages 1-2): Vera V. Saul, Laureano de la Vega, Maja Milanovic, Marcus Krüger, Thomas Braun, Karin Fritz-Wolf, Katja Becker, and M. Lienhard Schmitz. Hipk2 kinase activity depends on cis-autophosphorylation of its activation loop. Journal of Molecular Cell Biology, 5:27-38, Feb 2013. URL: https://doi.org/10.1093/jmcb/mjs053, doi:10.1093/jmcb/mjs053. This article has 75 citations and is from a peer-reviewed journal.
+
+12. (saul2013hipk2kinaseactivity pages 7-7): Vera V. Saul, Laureano de la Vega, Maja Milanovic, Marcus Krüger, Thomas Braun, Karin Fritz-Wolf, Katja Becker, and M. Lienhard Schmitz. Hipk2 kinase activity depends on cis-autophosphorylation of its activation loop. Journal of Molecular Cell Biology, 5:27-38, Feb 2013. URL: https://doi.org/10.1093/jmcb/mjs053, doi:10.1093/jmcb/mjs053. This article has 75 citations and is from a peer-reviewed journal.
+
+13. (agnew2019thecrystalstructure pages 12-13): Christopher Agnew, Lijun Liu, Shu Liu, Wei Xu, Liang You, Wayland Yeung, Natarajan Kannan, David Jablons, and Natalia Jura. The crystal structure of the protein kinase hipk2 reveals a unique architecture of its cmgc-insert region. Journal of Biological Chemistry, 294:13545-13559, Sep 2019. URL: https://doi.org/10.1074/jbc.ra119.009725, doi:10.1074/jbc.ra119.009725. This article has 30 citations and is from a domain leading peer-reviewed journal.
+
+14. (agnew2019thecrystalstructure pages 22-25): Christopher Agnew, Lijun Liu, Shu Liu, Wei Xu, Liang You, Wayland Yeung, Natarajan Kannan, David Jablons, and Natalia Jura. The crystal structure of the protein kinase hipk2 reveals a unique architecture of its cmgc-insert region. Journal of Biological Chemistry, 294:13545-13559, Sep 2019. URL: https://doi.org/10.1074/jbc.ra119.009725, doi:10.1074/jbc.ra119.009725. This article has 30 citations and is from a domain leading peer-reviewed journal.
+
+15. (agnew2019thecrystalstructure pages 25-26): Christopher Agnew, Lijun Liu, Shu Liu, Wei Xu, Liang You, Wayland Yeung, Natarajan Kannan, David Jablons, and Natalia Jura. The crystal structure of the protein kinase hipk2 reveals a unique architecture of its cmgc-insert region. Journal of Biological Chemistry, 294:13545-13559, Sep 2019. URL: https://doi.org/10.1074/jbc.ra119.009725, doi:10.1074/jbc.ra119.009725. This article has 30 citations and is from a domain leading peer-reviewed journal.
+
+16. (cozza2014synthesisandproperties pages 1-2): Giorgio Cozza, Sofia Zanin, Renate Determann, Maria Ruzzene, Conrad Kunick, and Lorenzo A. Pinna. Synthesis and properties of a selective inhibitor of homeodomain–interacting protein kinase 2 (hipk2). PLoS ONE, 9:e89176, Feb 2014. URL: https://doi.org/10.1371/journal.pone.0089176, doi:10.1371/journal.pone.0089176. This article has 31 citations and is from a peer-reviewed journal.
+
+17. (hofmann2000humanhomeodomaininteractingprotein pages 2-5): Thomas G Hofmann, Antoaneta Mincheva, Peter Lichter, Wulf Dröge, and M Lienhard Schmitz. Human homeodomain-interacting protein kinase-2 (hipk2) is a member of the dyrk family of protein kinases and maps to chromosome 7q32-q34. Biochimie, 82:1123-1127, Dec 2000. URL: https://doi.org/10.1016/s0300-9084(00)01196-2, doi:10.1016/s0300-9084(00)01196-2. This article has 62 citations and is from a peer-reviewed journal.
+
+18. (kuwano2016homeodomaininteractingproteinkinase2 pages 1-3): Y. Kuwano, K. Nishida, Yoko Akaike, Ken Kurokawa, Tatsuya Nishikawa, Kiyoshi Masuda, and K. Rokutan. Homeodomain-interacting protein kinase-2: a critical regulator of the dna damage response and the epigenome. International Journal of Molecular Sciences, Sep 2016. URL: https://doi.org/10.3390/ijms17101638, doi:10.3390/ijms17101638. This article has 38 citations and is from a peer-reviewed journal.
+
+19. (saul2013hipk2kinaseactivity pages 8-9): Vera V. Saul, Laureano de la Vega, Maja Milanovic, Marcus Krüger, Thomas Braun, Karin Fritz-Wolf, Katja Becker, and M. Lienhard Schmitz. Hipk2 kinase activity depends on cis-autophosphorylation of its activation loop. Journal of Molecular Cell Biology, 5:27-38, Feb 2013. URL: https://doi.org/10.1093/jmcb/mjs053, doi:10.1093/jmcb/mjs053. This article has 75 citations and is from a peer-reviewed journal.

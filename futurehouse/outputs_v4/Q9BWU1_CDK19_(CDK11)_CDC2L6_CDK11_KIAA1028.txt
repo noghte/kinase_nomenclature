@@ -1,0 +1,57 @@
+## Phylogeny  
+• Member of the CMGC kinase superfamily; assigned to the transcriptional CDK subgroup that contains CDK7–CDK13 and is evolutionarily distinct from the cell-cycle CDKs (kaveh2024derivinggeneralstructure–activityselectivity pages 1-2, wood2018structuralinsightsinto pages 1-2).  
+• Closest human paralog is CDK8; both kinases pair with cyclin C within the Mediator kinase module (wood2018structuralinsightsinto pages 18-19).  
+• No primary source in the provided corpus enumerates non-mammalian orthologs for CDK19.  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + protein-phospho-Ser/Thr (peyressatre2015targetingcyclindependentkinases pages 6-8).  
+
+## Cofactor Requirements  
+Requires divalent Mg²⁺ for phosphotransferase activity (peyressatre2015targetingcyclindependentkinases pages 6-8).  
+
+## Substrate Specificity  
+• Positional-scanning peptide arrays define a strict requirement for Pro at +1 relative to the phospho-acceptor (consensus S/T-P) (johnson2023anatlasof pages 21-23).  
+• The extended motif S/T-P-X-K/R is tolerated, although the +3 basic residue is less critical for transcriptional CDKs (errico2010identificationofsubstrates pages 10-12).  
+• High-confidence cellular substrates: RNA-polymerase II subunit POLR2A at Ser1616 (QSPSYSPTSP) and Ser1619 (SYSPTSPSYS); CDK19 ranks in the 89.9th and 98.4th percentiles, respectively, among 303 kinases for these sites (johnson2023anatlasof pages 21-23).  
+
+## Structure  
+• Possesses an N-terminal bilobal serine/threonine kinase domain with the catalytic β-sheet N-lobe, α-helical C-lobe, catalytic Lys in β3 strand, αC-helix Glu, HRD motif Asp, and DFG motif Asp coordinating Mg²⁺–ATP (wood2018structuralinsightsinto pages 2-3).  
+• Activation loop contains a Thr homologous to CDK2 Thr160 that undergoes phosphorylation for maximal activity (wood2018structuralinsightsinto pages 2-3).  
+• An extended C-terminal tail mediates binding to cyclin C and incorporation into the Mediator kinase module (wood2018structuralinsightsinto pages 18-19).  
+• No experimental CDK19 crystal structure is available; structural inferences rely on homology to CDK8 and AlphaFold models referenced in review literature (pellarin2025cyclindependentproteinkinases pages 2-4).  
+
+## Regulation  
+• Activation requires association with cyclin C, which re-positions the αC-helix and orders the activation loop (wood2018structuralinsightsinto pages 18-19).  
+• CDK-activating kinase (CDK7–cyclin H–MAT1) phosphorylates the activation-loop Thr (wood2018structuralinsightsinto pages 2-3).  
+• Inhibitory phosphorylation of residues equivalent to CDK2 Thr14/Tyr15 by Wee1/Myt1 is a conserved CDK control mechanism; specific CDK19 sites have not yet been mapped (peyressatre2015targetingcyclindependentkinases pages 6-8).  
+• Transient docking of the CDK19–cyclin C module onto Mediator provides an additional layer of allosteric regulation (wood2018structuralinsightsinto pages 18-19).  
+
+## Function  
+• Forms the Mediator kinase module with cyclin C to regulate RNA-polymerase II transcription (wood2018structuralinsightsinto pages 18-19).  
+• Directly phosphorylates POLR2A CTD at Ser1616 and Ser1619, modulating transcription elongation dynamics (johnson2023anatlasof pages 21-23).  
+• Shares substrate overlap and partial functional redundancy with CDK8 (johnson2023anatlasof pages 21-23).  
+• Classified among transcription-regulating CDKs, separating its signaling role from the cell-cycle CDKs (kaveh2024derivinggeneralstructure–activityselectivity pages 1-2).  
+
+## Inhibitors  
+Flavopiridol, a broad-spectrum ATP-competitive inhibitor, suppresses multiple CDKs including transcriptional family members; CDK19-selective inhibitors are not described in the cited corpus (peyressatre2015targetingcyclindependentkinases pages 6-8).  
+
+## Other Comments  
+Review literature flags CDK19 dysregulation as a cancer-relevant event, positioning the kinase as a potential therapeutic target (pellarin2025cyclindependentproteinkinases pages 2-4).
+
+References
+
+1. (johnson2023anatlasof pages 21-23): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+2. (errico2010identificationofsubstrates pages 10-12): A. Errico, K. Deshmukh, Yoshimi Tanaka, Andrei Pozniakovsky, and T. Hunt. Identification of substrates for cyclin dependent kinases. Advances in enzyme regulation, 50 1:375-99, 2010. URL: https://doi.org/10.1016/j.advenzreg.2009.12.001, doi:10.1016/j.advenzreg.2009.12.001. This article has 167 citations.
+
+3. (kaveh2024derivinggeneralstructure–activityselectivity pages 1-2): S. Kaveh, A. Mani-varnosfaderani, and M. S. Neiband. Deriving general structure–activity/selectivity relationship patterns for different subfamilies of cyclin-dependent kinase inhibitors using machine learning methods. Scientific Reports, Jul 2024. URL: https://doi.org/10.1038/s41598-024-66173-z, doi:10.1038/s41598-024-66173-z. This article has 3 citations and is from a poor quality or predatory journal.
+
+4. (pellarin2025cyclindependentproteinkinases pages 2-4): Ilenia Pellarin, Alessandra Dall'Acqua, Andrea Favero, I. Segatto, Valentina Rossi, Nicole Crestan, Javad Karimbayli, B. Belletti, and Gustavo Baldassarre. Cyclin-dependent protein kinases and cell cycle regulation in biology and disease. Signal Transduction and Targeted Therapy, Jan 2025. URL: https://doi.org/10.1038/s41392-024-02080-z, doi:10.1038/s41392-024-02080-z. This article has 40 citations and is from a peer-reviewed journal.
+
+5. (peyressatre2015targetingcyclindependentkinases pages 6-8): Marion Peyressatre, Camille Prével, Morgan Pellerano, and May Morris. Targeting cyclin-dependent kinases in human cancers: from small molecules to peptide inhibitors. Cancers, 7:179-237, Jan 2015. URL: https://doi.org/10.3390/cancers7010179, doi:10.3390/cancers7010179. This article has 405 citations and is from a peer-reviewed journal.
+
+6. (wood2018structuralinsightsinto pages 18-19): Daniel J. Wood and Jane A. Endicott. Structural insights into the functional diversity of the cdk–cyclin family. Open Biology, Sep 2018. URL: https://doi.org/10.1098/rsob.180112, doi:10.1098/rsob.180112. This article has 267 citations and is from a peer-reviewed journal.
+
+7. (wood2018structuralinsightsinto pages 1-2): Daniel J. Wood and Jane A. Endicott. Structural insights into the functional diversity of the cdk–cyclin family. Open Biology, Sep 2018. URL: https://doi.org/10.1098/rsob.180112, doi:10.1098/rsob.180112. This article has 267 citations and is from a peer-reviewed journal.
+
+8. (wood2018structuralinsightsinto pages 2-3): Daniel J. Wood and Jane A. Endicott. Structural insights into the functional diversity of the cdk–cyclin family. Open Biology, Sep 2018. URL: https://doi.org/10.1098/rsob.180112, doi:10.1098/rsob.180112. This article has 267 citations and is from a peer-reviewed journal.

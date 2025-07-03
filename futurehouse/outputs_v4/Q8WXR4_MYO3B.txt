@@ -1,0 +1,98 @@
+## Phylogeny  
+Orthologs identified include vertebrate MYO3A (human), MYO3B (mouse), and class IIIB paralogs in zebrafish (Danio rerio) that conserve tail and loop-2 phosphosites (unknownauthors2011mouseclassiii pages 10-12). Invertebrate orthologs are Limulus polyphemus Myo3 (LpMYO3) and Drosophila melanogaster ninaC, both retaining the kinase-motor architecture (kempler2007loop2of pages 1-2, komaba2003determinationofhuman pages 1-1).  
+Kinome placement: the N-terminal kinase domain clusters within the STE group, STE20/HGK–GCK branch of the PAK superfamily as defined by sequence comparison to human STE kinases (coluccio2008myosins pages 297-300, quintero2013myosin3akinase pages 3-4).  
+
+## Reaction Catalyzed  
+ATP + protein L-serine/threonine ⇌ ADP + protein O-phospho-L-serine/threonine (coluccio2008myosins pages 297-300).  
+
+## Cofactor Requirements  
+Dependence on divalent cations (Mg²⁺ or Mn²⁺) has not been experimentally reported for the MYO3B kinase domain (quintero2013myosin3akinase pages 10-11).  
+
+## Substrate Specificity  
+• Verified substrates in vitro: myosin regulatory light chain, calponin, actin, and myelin basic protein; phosphorylation occurs on Ser/Thr residues (coluccio2008myosins pages 297-300).  
+• Autophosphorylation and heterophosphorylation target basic-rich motifs; kinase-domain consensus shows preference for basic residue at P-3, consistent with PKA-like determinants (unknownauthors2011mouseclassiii pages 8-10).  
+• MYO3B was not included in the Johnson 2023 atlas of human Ser/Thr kinase specificities (quintero2013myosin3akinase pages 10-11).  
+
+## Structure  
+Domain organisation  
+– N-terminal Ser/Thr kinase domain containing a glycine-rich P-loop (GxGGxxG) and catalytic Lys (Lys41 in human sequence numbering) (komaba2003determinationofhuman pages 1-1).  
+– Central myosin motor domain with ATPase and actin-binding sites; spends most of its cycle in weak actin affinity states and drives plus-end motility (~0.11 µm s⁻¹) (komaba2003determinationofhuman pages 8-8).  
+– Neck with two IQ motifs that bind calmodulin, mediating Ca²⁺-dependent regulation (unknownauthors2018calciumregulationof pages 37-41).  
+– C-terminal tail homology domain I (THDI) that binds espin-1; tail homology domain II is absent in MYO3B (cirilo2021functionalroleof pages 5-7).  
+
+3-D architecture  
+AlphaFold modelling and homology comparisons support a bilobed kinase fold contiguous with the canonical myosin motor fold; no experimental crystal structure is currently available (unknownauthors2018calciumregulationof pages 41-42, komaba2003determinationofhuman pages 9-10).  
+
+Key catalytic/regulatory features  
+– Activation loop contains Thr178 (mouse numbering; conserved in human) whose phosphorylation is required for full kinase activity (quintero2013myosin3akinase pages 3-4).  
+– Motor-domain loop 2 harbours phosphosites Ser887 and Thr935; phosphorylation decreases actin affinity (unknownauthors2011mouseclassiii pages 8-10).  
+– Tail autophosphorylation site Thr1263 lies within THDI and may modulate espin binding (unknownauthors2011mouseclassiii pages 10-12).  
+
+## Regulation  
+Autophosphorylation  
+• Intramolecular autophosphorylation enhances kinase activity ~3.3-fold (coluccio2008myosins pages 297-300).  
+• Documented sites: Thr178 (activation loop), Ser887/Thr935 (loop 2), Ser1120 and Thr1263 in the tail (unknownauthors2011mouseclassiii pages 8-10, unknownauthors2011mouseclassiii pages 10-12).  
+
+Activation-loop phosphorylation  
+• Phosphorylation of Thr178 (human homolog of Thr184 in MYO3A) is obligatory for catalytic competence and proper subcellular localisation (quintero2013myosin3akinase pages 10-11).  
+
+Calcium/calmodulin  
+• Ca²⁺ binding to calmodulin causes partial dissociation from the two IQ motifs, reducing ATPase rate and increasing actin affinity, thereby retaining MYO3B at stereocilia tips (unknownauthors2018calciumregulationof pages 37-41).  
+
+Heterologous phosphorylation  
+• Loop 2 residues in the Limulus ortholog are substrates for PKA, indicating potential cross-talk with cAMP signalling pathways (kempler2007loop2of pages 1-2).  
+
+## Function  
+Expression  
+Highest levels in cochlear and vestibular hair cells, photoreceptor calyceal processes, with additional expression in retina, brain, testes, and gastrointestinal tract (unknownauthors2018calciumregulationof pages 7-12, cirilo2021functionalroleof pages 5-7).  
+
+Cellular roles  
+• Plus-end-directed actin motor transporting espin-1 to stereocilia barbed ends; modulates stereocilia number, length, and staircase architecture, and restricts ectopic microvilli during early hair-bundle morphogenesis (unknownauthors2018calciumregulationof pages 41-42).  
+• Requires espin-1 binding via THDI for efficient tip localisation and supports actin-bundle elongation cooperatively with espin (liu2016myosiniiimediatedcrosslinking pages 14-15, unknownauthors2018calciumregulationof pages 12-17).  
+
+Interacting partners  
+Espin-1 (THDI), F-actin (motor domain), calmodulin (IQ motifs); MORN4 interacts preferentially with MYO3A and has not been confirmed for MYO3B (unknownauthors2018calciumregulationof pages 12-17).  
+
+Signalling context  
+Acts as a motor-kinase hybrid integrating mechanical activity with local phosphorylation events within actin-rich protrusions (coluccio2008myosins pages 297-300).  
+
+## Other Comments  
+Disease associations  
+• Loss-of-function mutations in paralog MYO3A cause DFNB30 progressive nonsyndromic hearing loss; MYO3B has not yet been linked to human disease but resides in a genomic region overlapping Bardet-Biedl syndrome loci (komaba2003determinationofhuman pages 1-2, unknownauthors2018calciumregulationof pages 41-42).  
+• Functional redundancy with MYO3A may mask phenotypes; mouse studies suggest MYO3B supports cochlear hair-bundle development (unknownauthors2011mouseclassiii pages 1-2).
+
+References
+
+1. (unknownauthors2018calciumregulationof pages 41-42): Calcium Regulation of Myosin3B
+
+2. (cirilo2021functionalroleof pages 5-7): Joseph A. Cirilo, Laura K. Gunther, and Christopher M. Yengo. Functional role of class iii myosins in hair cells. Frontiers in Cell and Developmental Biology, Feb 2021. URL: https://doi.org/10.3389/fcell.2021.643856, doi:10.3389/fcell.2021.643856. This article has 23 citations and is from a peer-reviewed journal.
+
+3. (coluccio2008myosins pages 297-300): Lynne M. Coluccio. Myosins. Springer Netherlands, Jan 2008. ISBN 9781402065194. URL: https://doi.org/10.1007/978-1-4020-6519-4, doi:10.1007/978-1-4020-6519-4.
+
+4. (kempler2007loop2of pages 1-2): Karen Kempler, Judit Tóth, Roxanne Yamashita, Gretchen Mapel, Kimberly Robinson, Helene Cardasis, Stanley Stevens, James R. Sellers, and Barbara-Anne Battelle. Loop 2 of limulus myosin iii is phosphorylated by protein kinase a and autophosphorylation. Biochemistry, 46 14:4280-93, Apr 2007. URL: https://doi.org/10.1021/bi062112u, doi:10.1021/bi062112u. This article has 30 citations and is from a peer-reviewed journal.
+
+5. (komaba2003determinationofhuman pages 1-1): Shigeru Komaba, Akira Inoue, Shinsaku Maruta, Hiroshi Hosoya, and Mitsuo Ikebe. Determination of human myosin iii as a motor protein having a protein kinase activity*. Journal of Biological Chemistry, 278:21352-21360, Jun 2003. URL: https://doi.org/10.1074/jbc.m300757200, doi:10.1074/jbc.m300757200. This article has 72 citations and is from a domain leading peer-reviewed journal.
+
+6. (komaba2003determinationofhuman pages 1-2): Shigeru Komaba, Akira Inoue, Shinsaku Maruta, Hiroshi Hosoya, and Mitsuo Ikebe. Determination of human myosin iii as a motor protein having a protein kinase activity*. Journal of Biological Chemistry, 278:21352-21360, Jun 2003. URL: https://doi.org/10.1074/jbc.m300757200, doi:10.1074/jbc.m300757200. This article has 72 citations and is from a domain leading peer-reviewed journal.
+
+7. (komaba2003determinationofhuman pages 8-8): Shigeru Komaba, Akira Inoue, Shinsaku Maruta, Hiroshi Hosoya, and Mitsuo Ikebe. Determination of human myosin iii as a motor protein having a protein kinase activity*. Journal of Biological Chemistry, 278:21352-21360, Jun 2003. URL: https://doi.org/10.1074/jbc.m300757200, doi:10.1074/jbc.m300757200. This article has 72 citations and is from a domain leading peer-reviewed journal.
+
+8. (komaba2003determinationofhuman pages 9-10): Shigeru Komaba, Akira Inoue, Shinsaku Maruta, Hiroshi Hosoya, and Mitsuo Ikebe. Determination of human myosin iii as a motor protein having a protein kinase activity*. Journal of Biological Chemistry, 278:21352-21360, Jun 2003. URL: https://doi.org/10.1074/jbc.m300757200, doi:10.1074/jbc.m300757200. This article has 72 citations and is from a domain leading peer-reviewed journal.
+
+9. (quintero2013myosin3akinase pages 10-11): Omar A. Quintero, William C. Unrath, Stanley M. Stevens, Uri Manor, Bechara Kachar, and Christopher M. Yengo. Myosin 3a kinase activity is regulated by phosphorylation of the kinase domain activation loop. Journal of Biological Chemistry, 288:37126-37137, Dec 2013. URL: https://doi.org/10.1074/jbc.m113.511014, doi:10.1074/jbc.m113.511014. This article has 32 citations and is from a domain leading peer-reviewed journal.
+
+10. (unknownauthors2018calciumregulationof pages 12-17): Calcium Regulation of Myosin3B
+
+11. (liu2016myosiniiimediatedcrosslinking pages 14-15): Haiyang Liu, Jianchao Li, Manmeet H Raval, Ningning Yao, Xiaoying Deng, Qing Lu, Si Nie, Wei Feng, Jun Wan, Christopher M Yengo, Wei Liu, and Mingjie Zhang. Myosin iii-mediated cross-linking and stimulation of actin bundling activity of espin. eLife, Jan 2016. URL: https://doi.org/10.7554/elife.12856, doi:10.7554/elife.12856. This article has 26 citations and is from a domain leading peer-reviewed journal.
+
+12. (quintero2013myosin3akinase pages 3-4): Omar A. Quintero, William C. Unrath, Stanley M. Stevens, Uri Manor, Bechara Kachar, and Christopher M. Yengo. Myosin 3a kinase activity is regulated by phosphorylation of the kinase domain activation loop. Journal of Biological Chemistry, 288:37126-37137, Dec 2013. URL: https://doi.org/10.1074/jbc.m113.511014, doi:10.1074/jbc.m113.511014. This article has 32 citations and is from a domain leading peer-reviewed journal.
+
+13. (unknownauthors2011mouseclassiii pages 1-2): Mouse class III myosins: kinase activity and phosphorylation sites
+
+14. (unknownauthors2011mouseclassiii pages 10-12): Mouse class III myosins: kinase activity and phosphorylation sites
+
+15. (unknownauthors2011mouseclassiii pages 8-10): Mouse class III myosins: kinase activity and phosphorylation sites
+
+16. (unknownauthors2018calciumregulationof pages 37-41): Calcium Regulation of Myosin3B
+
+17. (unknownauthors2018calciumregulationof pages 7-12): Calcium Regulation of Myosin3B

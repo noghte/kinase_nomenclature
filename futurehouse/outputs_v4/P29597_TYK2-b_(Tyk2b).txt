@@ -1,0 +1,84 @@
+## Phylogeny  
+• Member of the protein-tyrosine kinase (TK) group, Janus kinase (JAK) family, clustering with JAK1, JAK2 and JAK3 (borcherding2021tyk2incancer pages 5-6, woss2019tyk2anupstream pages 1-3).  
+• Orthologs documented in human (TYK2), mouse (Tyk2), chicken (TYK2) and zebrafish (tyk2), illustrating strong conservation of the four-domain JAK architecture across vertebrates (borcherding2021tyk2incancer pages 5-6).  
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + protein-L-tyrosine-O-phosphate (woss2019tyk2anupstream pages 1-3, borcherding2021tyk2incancer pages 5-6).  
+
+## Cofactor Requirements  
+Catalysis requires two Mg²⁺ ions that coordinate ATP in the JH1 active site (wang2025atripleactioninhibitory pages 24-32).  
+
+## Substrate Specificity  
+• Cellular substrates include STAT1, STAT3, STAT4, STAT5A/B and receptor tyrosines within IFNAR1, IL-12Rβ1, IL-10Rβ and IL-13Rα1 (borcherding2021tyk2incancer pages 5-6).  
+• Recognition is driven by SH2-mediated docking to receptor pY-X-X-L/I motifs; no stringent linear consensus for free peptides has been defined (wang2025atripleactioninhibitory pages 5-8).  
+
+## Structure  
+• Domain organization: N-terminal FERM (JH7-JH5) for receptor binding; SH2-like JH4; JH2 pseudokinase providing autoinhibition/allosteric control; C-terminal JH1 catalytic kinase (borcherding2021tyk2incancer pages 5-6, min2015structuralandfunctional pages 1-2).  
+• Isolated JH2 crystal structure (PDB 4OLI, 1.9 Å) adopts a closed active-like fold with a rigid αAL helix replacing the P+1 loop, blocking substrate access and explaining absent phosphotransferase activity (min2015structuralandfunctional pages 6-7).  
+• Tandem JH2-JH1 structure reveals extensive N-lobe contacts that lock JH1 in an autoinhibited conformation; interface-disrupting mutations yield constitutive activity (lupardus2014structureofthe pages 5-6).  
+• Catalytic landmarks in JH1: Lys930 (VAVK), Glu927 (αC), Asp1010 (HRD), Asp1028 (DFG), gatekeeper Thr981, activation-loop Tyr1054/Tyr1055 that undergo trans-autophosphorylation, and a hydrophobic spine whose alignment accompanies activation (borcherding2021tyk2incancer pages 5-6, min2015structuralandfunctional pages 7-8, wang2025atripleactioninhibitory pages 24-32).  
+
+## Regulation  
+Post-translational modifications  
+• Autophosphorylation at Tyr1054/Tyr1055 is essential for full catalytic activity (borcherding2021tyk2incancer pages 5-6).  
+• Additional phosphorylation at Ser491/Ser499 modulates signaling amplitude (borcherding2021tyk2incancer pages 5-6).  
+• Dephosphorylation by PTP1B and SHP1 attenuates kinase activity (borcherding2021tyk2incancer pages 5-6).  
+• SOCS1/3 and the E3 ligase SIAH2 promote ubiquitin-dependent proteasomal degradation (borcherding2021tyk2incancer pages 5-6, woss2019tyk2anupstream pages 6-8).  
+• HSP90 acts as a chaperone; its inhibition destabilises TYK2 (borcherding2021tyk2incancer pages 6-8).  
+
+Allosteric and conformational control  
+• ATP binding to the JH2 pseudokinase thermally stabilises the domain and restricts JH1 flexibility without measurable phosphotransferase activity (min2015structuralandfunctional pages 1-2).  
+• Gain-of-function mutations V678F, P760L and G761V in JH2 weaken the JH2-JH1 interface, producing ligand-independent kinase activity (min2015structuralandfunctional pages 7-8, woss2019tyk2anupstream pages 3-5).  
+
+## Function  
+• Broad expression with highest levels in hematopoietic and epithelial cells; indispensable for innate and adaptive immunity, antiviral defence and epithelial homeostasis (woss2019tyk2anupstream pages 1-3, borcherding2021tyk2incancer pages 6-8).  
+• Associates with IFNAR1, IL-12Rβ1, IL-10Rβ and IL-13Rα1; complementary receptor chains recruit JAK1 or JAK2 to form functional heterodimers (borcherding2021tyk2incancer pages 5-6).  
+• Upon cytokine binding, TYK2 phosphorylates receptor tails and STAT1/3/4/6, driving transcriptional programs governing inflammation, cell survival and differentiation (woss2019tyk2anupstream pages 1-3).  
+• Kinase-independent scaffolding by TYK2 is required for surface expression of IFNAR1 and IL-10R2 (sohn2013arestrictedrole pages 2-3).  
+
+## Inhibitors  
+• Deucravacitinib (BMS-986165): high-affinity JH2 allosteric binder that locks TYK2 in the autoinhibited state and suppresses type I IFN and IL-23 signaling in humans (burke2019autoimmunepathwaysin pages 11-12).  
+• BMS-986202 and TAK-279: investigational JH2-selective inhibitors exploiting the same pocket (wang2025atripleactioninhibitory pages 5-8).  
+• Pyrazine-based ATP-competitive probe for JH2 (Kd ≈ 0.25 µM) enables structural interrogation (min2015structuralandfunctional pages 6-7).  
+• Pan-JAK active-site inhibitors such as tofacitinib, baricitinib and ruxolitinib also inhibit TYK2 but lack selectivity (sohn2013arestrictedrole pages 1-2, borcherding2021tyk2incancer pages 8-10).  
+
+## Other Comments  
+• Loss-of-function variants: rs34536443 (P1104A) and splice variant E971fsX67 impair STAT activation, causing immunodeficiency yet confer protection from several autoimmune diseases (borcherding2021tyk2incancer pages 5-6).  
+• Gain-of-function variants: V678F, P760L and G761V relieve autoinhibition and are linked to hematologic malignancies (min2015structuralandfunctional pages 7-8, woss2019tyk2anupstream pages 3-5).  
+• Oncogenic fusions NPM1-TYK2, NFκB2-TYK2 and MYB-TYK2 create constitutively active kinases driving leukemias and lymphomas (borcherding2021tyk2incancer pages 3-5, woss2019tyk2anupstream pages 5-6).
+
+References
+
+1. (borcherding2021tyk2incancer pages 5-6): Dana C. Borcherding, Kevin He, Neha V Amin, and A. Hirbe. Tyk2 in cancer metastases: genomic and proteomic discovery. Cancers, Aug 2021. URL: https://doi.org/10.3390/cancers13164171, doi:10.3390/cancers13164171. This article has 31 citations and is from a peer-reviewed journal.
+
+2. (min2015structuralandfunctional pages 1-2): Xiaoshan Min, Daniela Ungureanu, Sarah Maxwell, Henrik Hammarén, Steve Thibault, Ellin-Kristina Hillert, Merrill Ayres, Brad Greenfield, John Eksterowicz, Chris Gabel, Nigel Walker, Olli Silvennoinen, and Zhulun Wang. Structural and functional characterization of the jh2 pseudokinase domain of jak family tyrosine kinase 2 (tyk2). Journal of Biological Chemistry, 290:27261-27270, Nov 2015. URL: https://doi.org/10.1074/jbc.m115.672048, doi:10.1074/jbc.m115.672048. This article has 110 citations and is from a domain leading peer-reviewed journal.
+
+3. (min2015structuralandfunctional pages 7-8): Xiaoshan Min, Daniela Ungureanu, Sarah Maxwell, Henrik Hammarén, Steve Thibault, Ellin-Kristina Hillert, Merrill Ayres, Brad Greenfield, John Eksterowicz, Chris Gabel, Nigel Walker, Olli Silvennoinen, and Zhulun Wang. Structural and functional characterization of the jh2 pseudokinase domain of jak family tyrosine kinase 2 (tyk2). Journal of Biological Chemistry, 290:27261-27270, Nov 2015. URL: https://doi.org/10.1074/jbc.m115.672048, doi:10.1074/jbc.m115.672048. This article has 110 citations and is from a domain leading peer-reviewed journal.
+
+4. (wang2025atripleactioninhibitory pages 24-32): Jimin Wang, I. Lomakin, Victor S. Batista, and C. Bunick. A triple-action inhibitory mechanism of allosteric tyk2-specific inhibitors. The Journal of investigative dermatology, May 2025. URL: https://doi.org/10.1016/j.jid.2025.04.025, doi:10.1016/j.jid.2025.04.025. This article has 2 citations.
+
+5. (wang2025atripleactioninhibitory pages 5-8): Jimin Wang, I. Lomakin, Victor S. Batista, and C. Bunick. A triple-action inhibitory mechanism of allosteric tyk2-specific inhibitors. The Journal of investigative dermatology, May 2025. URL: https://doi.org/10.1016/j.jid.2025.04.025, doi:10.1016/j.jid.2025.04.025. This article has 2 citations.
+
+6. (woss2019tyk2anupstream pages 1-3): K. Wöss, Natalija Simonović, B. Strobl, Sabine Macho-Maschler, and Mathias Müller. Tyk2: an upstream kinase of stats in cancer. Cancers, Nov 2019. URL: https://doi.org/10.3390/cancers11111728, doi:10.3390/cancers11111728. This article has 61 citations and is from a peer-reviewed journal.
+
+7. (borcherding2021tyk2incancer pages 3-5): Dana C. Borcherding, Kevin He, Neha V Amin, and A. Hirbe. Tyk2 in cancer metastases: genomic and proteomic discovery. Cancers, Aug 2021. URL: https://doi.org/10.3390/cancers13164171, doi:10.3390/cancers13164171. This article has 31 citations and is from a peer-reviewed journal.
+
+8. (borcherding2021tyk2incancer pages 6-8): Dana C. Borcherding, Kevin He, Neha V Amin, and A. Hirbe. Tyk2 in cancer metastases: genomic and proteomic discovery. Cancers, Aug 2021. URL: https://doi.org/10.3390/cancers13164171, doi:10.3390/cancers13164171. This article has 31 citations and is from a peer-reviewed journal.
+
+9. (borcherding2021tyk2incancer pages 8-10): Dana C. Borcherding, Kevin He, Neha V Amin, and A. Hirbe. Tyk2 in cancer metastases: genomic and proteomic discovery. Cancers, Aug 2021. URL: https://doi.org/10.3390/cancers13164171, doi:10.3390/cancers13164171. This article has 31 citations and is from a peer-reviewed journal.
+
+10. (lupardus2014structureofthe pages 5-6): Patrick J. Lupardus, Mark Ultsch, Heidi Wallweber, Pawan Bir Kohli, Adam R. Johnson, and Charles Eigenbrot. Structure of the pseudokinase–kinase domains from protein kinase tyk2 reveals a mechanism for janus kinase (jak) autoinhibition. Proceedings of the National Academy of Sciences, 111:8025-8030, May 2014. URL: https://doi.org/10.1073/pnas.1401180111, doi:10.1073/pnas.1401180111. This article has 229 citations.
+
+11. (min2015structuralandfunctional pages 6-7): Xiaoshan Min, Daniela Ungureanu, Sarah Maxwell, Henrik Hammarén, Steve Thibault, Ellin-Kristina Hillert, Merrill Ayres, Brad Greenfield, John Eksterowicz, Chris Gabel, Nigel Walker, Olli Silvennoinen, and Zhulun Wang. Structural and functional characterization of the jh2 pseudokinase domain of jak family tyrosine kinase 2 (tyk2). Journal of Biological Chemistry, 290:27261-27270, Nov 2015. URL: https://doi.org/10.1074/jbc.m115.672048, doi:10.1074/jbc.m115.672048. This article has 110 citations and is from a domain leading peer-reviewed journal.
+
+12. (sohn2013arestrictedrole pages 2-3): S. Sohn, K. Barrett, Anne van Abbema, Christine Chang, P. B. Kohli, Hidenobu Kanda, Jan Smith, Yingjie Lai, Aihe Zhou, Birong Zhang, Wenqian Yang, Karen Williams, Calum Macleod, Christopher A. Hurley, J. Kulagowski, N. Lewin‐Koh, Hart S. Dengler, Adam R. Johnson, N. Ghilardi, M. Zak, Jun Liang, W. Blair, Steven Magnuson, and Lawren C. Wu. A restricted role for tyk2 catalytic activity in human cytokine responses revealed by novel tyk2-selective inhibitors. The Journal of Immunology, 191:2205-2216, Sep 2013. URL: https://doi.org/10.4049/jimmunol.1202859, doi:10.4049/jimmunol.1202859. This article has 132 citations.
+
+13. (woss2019tyk2anupstream pages 3-5): K. Wöss, Natalija Simonović, B. Strobl, Sabine Macho-Maschler, and Mathias Müller. Tyk2: an upstream kinase of stats in cancer. Cancers, Nov 2019. URL: https://doi.org/10.3390/cancers11111728, doi:10.3390/cancers11111728. This article has 61 citations and is from a peer-reviewed journal.
+
+14. (woss2019tyk2anupstream pages 5-6): K. Wöss, Natalija Simonović, B. Strobl, Sabine Macho-Maschler, and Mathias Müller. Tyk2: an upstream kinase of stats in cancer. Cancers, Nov 2019. URL: https://doi.org/10.3390/cancers11111728, doi:10.3390/cancers11111728. This article has 61 citations and is from a peer-reviewed journal.
+
+15. (woss2019tyk2anupstream pages 6-8): K. Wöss, Natalija Simonović, B. Strobl, Sabine Macho-Maschler, and Mathias Müller. Tyk2: an upstream kinase of stats in cancer. Cancers, Nov 2019. URL: https://doi.org/10.3390/cancers11111728, doi:10.3390/cancers11111728. This article has 61 citations and is from a peer-reviewed journal.
+
+16. (burke2019autoimmunepathwaysin pages 11-12): James R. Burke, Lihong Cheng, Kathleen M. Gillooly, Joann Strnad, Adriana Zupa-Fernandez, Ian M. Catlett, Yifan Zhang, Elizabeth M. Heimrich, Kim W. McIntyre, Mark D. Cunningham, Julie A. Carman, Xiadi Zhou, Dana Banas, Charu Chaudhry, Sha Li, Celia D’Arienzo, Anjaneya Chimalakonda, XiaoXia Yang, Jenny H. Xie, Jian Pang, Qihong Zhao, Shawn M. Rose, Jinwen Huang, Ryan M. Moslin, Stephen T. Wrobleski, David S. Weinstein, and Luisa M. Salter-Cid. Autoimmune pathways in mice and humans are blocked by pharmacological stabilization of the tyk2 pseudokinase domain. Science Translational Medicine, Jul 2019. URL: https://doi.org/10.1126/scitranslmed.aaw1736, doi:10.1126/scitranslmed.aaw1736. This article has 265 citations and is from a highest quality peer-reviewed journal.
+
+17. (sohn2013arestrictedrole pages 1-2): S. Sohn, K. Barrett, Anne van Abbema, Christine Chang, P. B. Kohli, Hidenobu Kanda, Jan Smith, Yingjie Lai, Aihe Zhou, Birong Zhang, Wenqian Yang, Karen Williams, Calum Macleod, Christopher A. Hurley, J. Kulagowski, N. Lewin‐Koh, Hart S. Dengler, Adam R. Johnson, N. Ghilardi, M. Zak, Jun Liang, W. Blair, Steven Magnuson, and Lawren C. Wu. A restricted role for tyk2 catalytic activity in human cytokine responses revealed by novel tyk2-selective inhibitors. The Journal of Immunology, 191:2205-2216, Sep 2013. URL: https://doi.org/10.4049/jimmunol.1202859, doi:10.4049/jimmunol.1202859. This article has 132 citations.

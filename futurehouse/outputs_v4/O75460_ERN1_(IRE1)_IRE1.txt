@@ -1,0 +1,104 @@
+## Phylogeny  
+• Orthologs are present in Saccharomyces cerevisiae (Ire1p), Schizosaccharomyces pombe (Ire1), Caenorhabditis elegans (IRE-1), Drosophila melanogaster (Ire1), Arabidopsis thaliana (IRE1A/B) and all vertebrates (IRE1α/IRE1β) (goupil2024exploringtheire1 pages 3-5).  
+• Vertebrates encode two paralogs: ubiquitously expressed IRE1α (ERN1) and mucosa-restricted IRE1β (ERN2) (goupil2024exploringtheire1 pages 2-3).  
+• The catalytic domain belongs to the Tyrosine-Kinase-Like (TKL) group, BCK1/IRE1 subfamily within the human kinome according to the Manning 2002 classification (riaz2020roleofendoplasmic pages 19-21).  
+
+## Reaction Catalyzed  
+ATP + [protein]-L-Ser/Thr ⇌ ADP + [protein]-O-phospho-L-Ser/Thr (ferri2020activationofthe pages 1-2).  
+
+## Cofactor Requirements  
+Mg²⁺ is required for phosphotransfer; Mn²⁺ can substitute in vitro (mendez2015endoplasmicreticulumstressindependent pages 21-26).  
+
+## Substrate Specificity  
+• A canonical Ser/Thr consensus motif for trans-phosphorylation has not been defined; kinase substrates reported in cells include BCL-2 S70, FMRP, filamin A, pumilio (PUM1), and sphingosine-1-phosphate lyase (goupil2024exploringtheire1 pages 10-12).  
+• Endoribonuclease activity recognizes a CUGCAG stem-loop within target RNAs such as XBP1 and many RIDD substrates (goupil2024exploringtheire1 pages 1-2).  
+
+## Structure  
+• Domain layout: N-terminal ER luminal sensor (S24–V390) → single-pass transmembrane helix → cytosolic Ser/Thr kinase (residues 571–832) → C-terminal RNase (835–963) (siwecka2021thestructureactivation pages 7-9).  
+• Luminal domains dimerize through an MHC-like groove; BiP release or direct peptide binding enables higher-order oligomerization (siwecka2021thestructureactivation pages 5-7).  
+• Crystal structures reveal two quaternary states: (i) face-to-face kinase dimers competent for trans-autophosphorylation (ali2011structureofthe pages 1-2); (ii) back-to-back dimers aligning RNase active sites for RNA cleavage (ferri2020activationofthe pages 1-2).  
+• Key catalytic elements: VAIK lysine, HRD catalytic loop, DFG motif (711-713), αC-helix; activation-loop phosphosites S724/S726/S729 stabilize the active DFG-in/αC-in conformation (ferri2020activationofthe pages 1-2).  
+• The kinase front pocket is conformationally plastic; ATP-competitive ligands remodel this pocket to allosterically control RNase activation (ferri2020activationofthe pages 13-14).  
+• RNase catalytic Lys907 sits in a β-sheet-rich fold and is covalently targeted by salicylaldehyde inhibitors (siwecka2021thestructureactivation pages 12-14).  
+
+## Regulation  
+Post-translational modifications  
+• Autophosphorylation on S724, S726, S729 is obligatory for full RNase activation (ferri2020activationofthe pages 1-2).  
+• Additional phosphorylation at S840, S841, T844 and S850 modulates signaling amplitude (read2021theunfoldedprotein pages 2-4).  
+• Ubiquitination by MITOL/MARCHF5, CHIP, RNF13 and Synoviolin promotes proteasomal turnover (goupil2024exploringtheire1 pages 2-3).  
+• Caspase cleavage truncates the cytosolic tail, biasing signaling toward apoptosis (siwecka2021thestructureactivation pages 12-14).  
+
+Allosteric and conformational control  
+• BiP binding maintains an inactive monomer; release enables luminal-domain dimerization and cytosolic oligomerization (siwecka2021thestructureactivation pages 5-7).  
+• Lipid bilayer stress and direct misfolded-protein binding provide phosphorylation-independent activation inputs (siwecka2021thestructureactivation pages 5-7).  
+• IRE1β hetero-oligomerization dampens IRE1α RNase output in mucosal epithelia (goupil2024exploringtheire1 pages 3-5).  
+• Type I ligands force a DFG-in conformation and can paradoxically activate the RNase, whereas type II ligands lock DFG-out and inhibit both kinase and RNase functions (mendez2015endoplasmicreticulumstressindependent pages 26-33).  
+
+## Function  
+• IRE1α is expressed in virtually all tissues; IRE1β expression is restricted to intestinal and airway epithelia (goupil2024exploringtheire1 pages 2-3).  
+• Serves as the primary ER stress sensor; RNase excises a 26-nt intron from XBP1 mRNA, generating transcription factor XBP1s that induces chaperones and ERAD components (ali2011structureofthe pages 1-2).  
+• Executes Regulated IRE1-Dependent Decay (RIDD) of select ER-associated RNAs to reduce folding load (ferri2020activationofthe pages 1-2).  
+• Recruits TRAF2, activating the ASK1-JNK and p38 MAPK cascades that integrate with apoptotic signaling (siwecka2021thestructureactivation pages 12-14).  
+• Direct kinase substrates connect ER stress to apoptosis (BCL-2), lipid metabolism (FMRP), cytoskeletal remodeling (filamin A), RNA stability (pumilio) and mitochondrial stress (SPL) (goupil2024exploringtheire1 pages 10-12).  
+• Interacts with STIM1 and IP₃ receptors to modulate ER-to-cytosol Ca²⁺ flux (goupil2024exploringtheire1 pages 10-12).  
+• Sustained XBP1s signaling supports plasma-cell and pancreatic β-cell secretory differentiation; overactivation promotes survival of secretory cancers such as multiple myeloma (ali2011structureofthe pages 1-2).  
+
+## Inhibitors  
+Kinase-directed  
+• Type I ATP-competitive: staurosporine, sunitinib (ali2011structureofthe pages 1-2); APY29 (mendez2015endoplasmicreticulumstressindependent pages 21-26).  
+• Type II DFG-out: KIRA6, KIRA7, KIRA8 (siwecka2021thestructureactivation pages 15-17).  
+• Front-pocket activator/inhibitor: G-1749 (ferri2020activationofthe pages 1-2).  
+
+RNase-directed  
+• Salicylaldehydes (4µ8C) (cross2012themolecularbasis pages 9-9); MKC-8866, MKC-3946, STF-083010, HNA (siwecka2021thestructureactivation pages 21-22).  
+• Toyocamycin blocks ER-stress-induced XBP1 splicing (jiang2015targetingtheire1α–xbp1 pages 7-7).  
+
+Allosteric activators  
+• Quercetin and ADP analogs enhance RNase activity without phosphotransfer (jiang2015targetingtheire1α–xbp1 pages 7-7).  
+• IXA1/4/6 selectively boost the IRE1/XBP1s axis (siwecka2021thestructureactivation pages 20-21).  
+
+## Other Comments  
+• Aberrant IRE1 signaling contributes to cancer, metabolic syndrome, inflammation and neurodegeneration (riaz2020roleofendoplasmic pages 19-21).  
+• No recurrent oncogenic point mutations have been firmly established in the cited literature (goupil2024exploringtheire1 pages 12-13).
+
+References
+
+1. (ali2011structureofthe pages 1-2): Maruf M. U. Ali, T. Bagratuni, E. Davenport, Piotr R. Nowak, M. C. Silva-Santisteban, A. Hardcastle, C. McAndrews, Martin G. Rowlands, Gareth J. Morgan, W. Aherne, I. Collins, Faith E. Davies, and Laurence H. Pearl. Structure of the ire1 autophosphorylation complex and implications for the unfolded protein response. The EMBO Journal, 30:894-905, Feb 2011. URL: https://doi.org/10.1038/emboj.2011.18, doi:10.1038/emboj.2011.18. This article has 317 citations.
+
+2. (cross2012themolecularbasis pages 9-9): Benedict C. S. Cross, Peter J. Bond, Pawel G. Sadowski, Babal Kant Jha, Jaroslav Zak, Jonathan M. Goodman, Robert H. Silverman, Thomas A. Neubert, Ian R. Baxendale, David Ron, and Heather P. Harding. The molecular basis for selective inhibition of unconventional mrna splicing by an ire1-binding small molecule. Proceedings of the National Academy of Sciences, 109:E869-E878, Feb 2012. URL: https://doi.org/10.1073/pnas.1115623109, doi:10.1073/pnas.1115623109. This article has 628 citations.
+
+3. (ferri2020activationofthe pages 1-2): Elena Ferri, Adrien Le Thomas, Heidi Ackerly Wallweber, Eric S. Day, Benjamin T. Walters, Susan E. Kaufman, Marie-Gabrielle Braun, Kevin R. Clark, Maureen H. Beresini, Kyle Mortara, Yung-Chia A. Chen, Breanna Canter, Wilson Phung, Peter S. Liu, Alfred Lammens, Avi Ashkenazi, Joachim Rudolph, and Weiru Wang. Activation of the ire1 rnase through remodeling of the kinase front pocket by atp-competitive ligands. Nature Communications, Dec 2020. URL: https://doi.org/10.1038/s41467-020-19974-5, doi:10.1038/s41467-020-19974-5. This article has 35 citations and is from a highest quality peer-reviewed journal.
+
+4. (goupil2024exploringtheire1 pages 3-5): Simon Le Goupil, Hadrien Laprade, Marc Aubry, and Eric Chevet. Exploring the ire1 interactome: from canonical signaling functions to unexpected roles. Journal of Biological Chemistry, 300:107169, Apr 2024. URL: https://doi.org/10.1016/j.jbc.2024.107169, doi:10.1016/j.jbc.2024.107169. This article has 23 citations and is from a domain leading peer-reviewed journal.
+
+5. (jiang2015targetingtheire1α–xbp1 pages 7-7): Dadi Jiang, Maho Niwa, and Albert C. Koong. Targeting the ire1α–xbp1 branch of the unfolded protein response in human diseases. Seminars in Cancer Biology, 33:48-56, Aug 2015. URL: https://doi.org/10.1016/j.semcancer.2015.04.010, doi:10.1016/j.semcancer.2015.04.010. This article has 209 citations and is from a peer-reviewed journal.
+
+6. (mendez2015endoplasmicreticulumstressindependent pages 21-26): Aaron S Mendez, Jennifer Alfaro, Marisol A Morales-Soto, Arvin C Dar, Emma McCullagh, Katja Gotthardt, Han Li, Diego Acosta-Alvear, Carmela Sidrauski, Alexei V Korennykh, Sebastian Bernales, Kevan M Shokat, and Peter Walter. Endoplasmic reticulum stress-independent activation of unfolded protein response kinases by a small molecule atp-mimic. eLife, May 2015. URL: https://doi.org/10.7554/elife.05434, doi:10.7554/elife.05434. This article has 68 citations and is from a domain leading peer-reviewed journal.
+
+7. (riaz2020roleofendoplasmic pages 19-21): Thoufiqul Alam Riaz, R. Junjappa, Mallikarjun Handigund, J. Ferdous, Hyung-Ryong Kim, and H. Chae. Role of endoplasmic reticulum stress sensor ire1α in cellular physiology, calcium, ros signaling, and metaflammation. Cells, May 2020. URL: https://doi.org/10.3390/cells9051160, doi:10.3390/cells9051160. This article has 101 citations and is from a peer-reviewed journal.
+
+8. (siwecka2021thestructureactivation pages 12-14): Natalia Siwecka, Wioletta Rozpędek-Kamińska, Adam Wawrzynkiewicz, D. Pytel, J. Diehl, and I. Majsterek. The structure, activation and signaling of ire1 and its role in determining cell fate. Biomedicines, Feb 2021. URL: https://doi.org/10.3390/biomedicines9020156, doi:10.3390/biomedicines9020156. This article has 150 citations and is from a peer-reviewed journal.
+
+9. (siwecka2021thestructureactivation pages 7-9): Natalia Siwecka, Wioletta Rozpędek-Kamińska, Adam Wawrzynkiewicz, D. Pytel, J. Diehl, and I. Majsterek. The structure, activation and signaling of ire1 and its role in determining cell fate. Biomedicines, Feb 2021. URL: https://doi.org/10.3390/biomedicines9020156, doi:10.3390/biomedicines9020156. This article has 150 citations and is from a peer-reviewed journal.
+
+10. (goupil2024exploringtheire1 pages 1-2): Simon Le Goupil, Hadrien Laprade, Marc Aubry, and Eric Chevet. Exploring the ire1 interactome: from canonical signaling functions to unexpected roles. Journal of Biological Chemistry, 300:107169, Apr 2024. URL: https://doi.org/10.1016/j.jbc.2024.107169, doi:10.1016/j.jbc.2024.107169. This article has 23 citations and is from a domain leading peer-reviewed journal.
+
+11. (goupil2024exploringtheire1 pages 10-12): Simon Le Goupil, Hadrien Laprade, Marc Aubry, and Eric Chevet. Exploring the ire1 interactome: from canonical signaling functions to unexpected roles. Journal of Biological Chemistry, 300:107169, Apr 2024. URL: https://doi.org/10.1016/j.jbc.2024.107169, doi:10.1016/j.jbc.2024.107169. This article has 23 citations and is from a domain leading peer-reviewed journal.
+
+12. (goupil2024exploringtheire1 pages 2-3): Simon Le Goupil, Hadrien Laprade, Marc Aubry, and Eric Chevet. Exploring the ire1 interactome: from canonical signaling functions to unexpected roles. Journal of Biological Chemistry, 300:107169, Apr 2024. URL: https://doi.org/10.1016/j.jbc.2024.107169, doi:10.1016/j.jbc.2024.107169. This article has 23 citations and is from a domain leading peer-reviewed journal.
+
+13. (read2021theunfoldedprotein pages 2-4): A. Read and M. Schröder. The unfolded protein response: an overview. Biology, Apr 2021. URL: https://doi.org/10.3390/biology10050384, doi:10.3390/biology10050384. This article has 418 citations and is from a peer-reviewed journal.
+
+14. (siwecka2021thestructureactivation pages 15-17): Natalia Siwecka, Wioletta Rozpędek-Kamińska, Adam Wawrzynkiewicz, D. Pytel, J. Diehl, and I. Majsterek. The structure, activation and signaling of ire1 and its role in determining cell fate. Biomedicines, Feb 2021. URL: https://doi.org/10.3390/biomedicines9020156, doi:10.3390/biomedicines9020156. This article has 150 citations and is from a peer-reviewed journal.
+
+15. (siwecka2021thestructureactivation pages 20-21): Natalia Siwecka, Wioletta Rozpędek-Kamińska, Adam Wawrzynkiewicz, D. Pytel, J. Diehl, and I. Majsterek. The structure, activation and signaling of ire1 and its role in determining cell fate. Biomedicines, Feb 2021. URL: https://doi.org/10.3390/biomedicines9020156, doi:10.3390/biomedicines9020156. This article has 150 citations and is from a peer-reviewed journal.
+
+16. (siwecka2021thestructureactivation pages 21-22): Natalia Siwecka, Wioletta Rozpędek-Kamińska, Adam Wawrzynkiewicz, D. Pytel, J. Diehl, and I. Majsterek. The structure, activation and signaling of ire1 and its role in determining cell fate. Biomedicines, Feb 2021. URL: https://doi.org/10.3390/biomedicines9020156, doi:10.3390/biomedicines9020156. This article has 150 citations and is from a peer-reviewed journal.
+
+17. (siwecka2021thestructureactivation pages 5-7): Natalia Siwecka, Wioletta Rozpędek-Kamińska, Adam Wawrzynkiewicz, D. Pytel, J. Diehl, and I. Majsterek. The structure, activation and signaling of ire1 and its role in determining cell fate. Biomedicines, Feb 2021. URL: https://doi.org/10.3390/biomedicines9020156, doi:10.3390/biomedicines9020156. This article has 150 citations and is from a peer-reviewed journal.
+
+18. (ferri2020activationofthe pages 13-14): Elena Ferri, Adrien Le Thomas, Heidi Ackerly Wallweber, Eric S. Day, Benjamin T. Walters, Susan E. Kaufman, Marie-Gabrielle Braun, Kevin R. Clark, Maureen H. Beresini, Kyle Mortara, Yung-Chia A. Chen, Breanna Canter, Wilson Phung, Peter S. Liu, Alfred Lammens, Avi Ashkenazi, Joachim Rudolph, and Weiru Wang. Activation of the ire1 rnase through remodeling of the kinase front pocket by atp-competitive ligands. Nature Communications, Dec 2020. URL: https://doi.org/10.1038/s41467-020-19974-5, doi:10.1038/s41467-020-19974-5. This article has 35 citations and is from a highest quality peer-reviewed journal.
+
+19. (goupil2024exploringtheire1 pages 12-13): Simon Le Goupil, Hadrien Laprade, Marc Aubry, and Eric Chevet. Exploring the ire1 interactome: from canonical signaling functions to unexpected roles. Journal of Biological Chemistry, 300:107169, Apr 2024. URL: https://doi.org/10.1016/j.jbc.2024.107169, doi:10.1016/j.jbc.2024.107169. This article has 23 citations and is from a domain leading peer-reviewed journal.
+
+20. (mendez2015endoplasmicreticulumstressindependent pages 26-33): Aaron S Mendez, Jennifer Alfaro, Marisol A Morales-Soto, Arvin C Dar, Emma McCullagh, Katja Gotthardt, Han Li, Diego Acosta-Alvear, Carmela Sidrauski, Alexei V Korennykh, Sebastian Bernales, Kevan M Shokat, and Peter Walter. Endoplasmic reticulum stress-independent activation of unfolded protein response kinases by a small molecule atp-mimic. eLife, May 2015. URL: https://doi.org/10.7554/elife.05434, doi:10.7554/elife.05434. This article has 68 citations and is from a domain leading peer-reviewed journal.

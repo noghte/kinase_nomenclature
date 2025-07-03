@@ -1,0 +1,83 @@
+## Phylogeny  
+CDC42BPG encodes MRCK γ, a member of the AGC kinase group within the ROCK/DMPK/MRCK branch of Rho-GTPase-regulated kinases (unbekandt2014theactinmyosinregulatory pages 1-2).  
+The catalytic domain shares ~44 % identity with MRCK β and ~60 % identity with dystrophia-myotonica protein kinase (DMPK) (zhao2015myotonicdystrophykinaserelated pages 1-2, unbekandt2014theactinmyosinregulatory pages 2-4).  
+Verified orthologs include Mus musculus Cdc42bpg, Rattus norvegicus Cdc42bpg, Danio rerio cdc42bpg, Xenopus laevis cdc42bpg, Drosophila melanogaster Genghis-Khan (Gek) and Caenorhabditis elegans MRCK homologs (unbekandt2014theactinmyosinregulatory pages 1-2, zhao2015myotonicdystrophykinaserelated pages 5-6).  
+
+## Reaction Catalyzed  
+Protein-L-Ser/Thr + ATP ⇌ Protein-L-Ser/Thr-phosphate + ADP (leung1998myotonicdystrophykinaserelated pages 1-2).  
+
+## Cofactor Requirements  
+Catalytic turnover requires Mg²⁺ (zhao2015myotonicdystrophykinaserelated pages 1-2).  
+
+## Substrate Specificity  
+Sequence-profiling indicates preference for acidic residues at −3 and −2 and a hydrophobic residue at +1 relative to the phospho-acceptor site (ruscetta2023opportunitiesandchallenges pages 2-6).  
+Validated phosphosites include: MLC2 Ser19 (mono-phosphorylation) and Thr18 (zhao2015myotonicdystrophykinaserelated pages 4-5); MYPT1 Thr696/Thr853/Ser472 (zhao2015myotonicdystrophykinaserelated pages 4-5); LIMK1/2 activation-loop sites and moesin family ERM proteins (unbekandt2014theactinmyosinregulatory pages 4-6).  
+
+## Structure  
+Domain organisation: N-terminal kinase domain – C1 zinc-finger – PH-like segment – extended coiled-coil/Citron-homology region containing an autoinhibitory kinase-inhibitory motif (KIM) – C-terminal CRIB motif that binds CDC42/TC10 (unbekandt2014theactinmyosinregulatory pages 2-4, zhao2015myotonicdystrophykinaserelated pages 3-4).  
+Crystal structure of the paralogue MRCK β (PDB 3TKU) shows an active kinase fold with ordered activation loop and dimeric interface; this architecture is conserved in MRCK γ (zhao2015myotonicdystrophykinaserelated pages 4-5).  
+An AlphaFold model is available for full-length MRCK γ (AF-Q6DT37-F1) and displays canonical HRD and DFG motifs, an intact regulatory αC-helix and a continuous hydrophobic spine (ruscetta2023opportunitiesandchallenges pages 1-2).  
+The catalytic lysine equivalent to Lys105 in MRCK β is essential for ATP coordination (unbekandt2020thecdc42effector pages 1-3).  
+Full-length MRCK forms predominantly inactive tetramers (~900 kDa) that dissociate upon activation (zhao2015myotonicdystrophykinaserelated pages 4-5).  
+
+## Regulation  
+• Binding of GTP-loaded CDC42 or TC10 to the CRIB domain relieves KIM-mediated autoinhibition and recruits the kinase to cortical actin structures (zhao2015myotonicdystrophykinaserelated pages 3-4).  
+• Diacylglycerol or phorbol esters engage the C1 domain, producing ~3-fold catalytic enhancement (zhao2015myotonicdystrophykinaserelated pages 3-4).  
+• Inter- and intramolecular coiled-coil contacts generate an autoinhibited state; disruption by N-terminal dimerisation and trans-autophosphorylation activates the enzyme (tan2001intermolecularandintramolecular pages 1-2).  
+• Family autophosphorylation on Thr1108 (validated in MRCK β) serves as an activity biomarker; the homologous MRCK γ residue remains unverified (unbekandt2020thecdc42effector pages 1-3).  
+• Phosphorylation-dependent 14-3-3 binding and ubiquitination have been reported but require further validation (ruscetta2023opportunitiesandchallenges pages 1-2).  
+• Gene transcription is regulated by promoter DNA methylation and Sp1 binding (zhao2015myotonicdystrophykinaserelated pages 6-7).  
+
+## Function  
+Expression is highest in heart, skeletal muscle, blood, larynx and peripheral nervous system, with low or absent transcripts in approximately one-third of GTEx tissues (unbekandt2014theactinmyosinregulatory pages 2-4, ruscetta2023opportunitiesandchallenges pages 6-9).  
+Upstream regulators: CDC42-GTP, TC10-GTP, diacylglycerol/phorbol esters (zhao2015myotonicdystrophykinaserelated pages 3-4).  
+Interacting partners: LRAP35a, LRAP25, MYO18A and LIMK1 assemble signalling complexes at the cell edge (zhao2015myotonicdystrophykinaserelated pages 4-5, ruscetta2023opportunitiesandchallenges pages 2-6).  
+Downstream events: phosphorylation of MLC2 and inhibitory phosphorylation of MYPT1 elevate local actomyosin contractility; concomitant LIMK activation stabilises F-actin, facilitating lamellipodial dynamics and invasive migration (zhao2015myotonicdystrophykinaserelated pages 4-5, unbekandt2014theactinmyosinregulatory pages 4-6).  
+
+## Inhibitors  
+BDP5290 (TCPA-1): ATP-competitive; >50-fold selectivity over ROCK; blocks tumour-cell invasion (zhao2015myotonicdystrophykinaserelated pages 4-5, unbekandt2014anovelsmallmolecule pages 1-2).  
+BDP9066 and C21: second-generation inhibitors with high potency and maintained MRCK selectivity (unbekandt2014theactinmyosinregulatory pages 7-8, ruscetta2023opportunitiesandchallenges pages 14-16).  
+Chelerythrine, staurosporine, fasudil and Y-27632 inhibit MRCK but lack isoform selectivity (unbekandt2014theactinmyosinregulatory pages 4-6).  
+
+## Other Comments  
+Genomic alterations or over-expression of CDC42BPG are observed in ovarian, breast, oral, pancreatic and oesophageal cancers and correlate with aggressive phenotypes (unbekandt2014theactinmyosinregulatory pages 6-7, ruscetta2023opportunitiesandchallenges pages 6-9).  
+Selective MRCK inhibition suppresses invasion in RAS-driven squamous-cell carcinoma, breast-cancer and glioma models (unbekandt2014anovelsmallmolecule pages 1-2, unbekandt2020thecdc42effector pages 1-3).  
+The gene is located at chromosome 11q13.1 (ruscetta2023opportunitiesandchallenges pages 2-6).
+
+References
+
+1. (ruscetta2023opportunitiesandchallenges pages 1-2): Vanessa M. Ruscetta, Taj J. Seaton, Aleen Shakeel, Stanley N. S. Vasconcelos, Russell D. Viirre, Marc J. Adler, and Michael F. Olson. Opportunities and challenges for the development of mrck kinases inhibitors as potential cancer chemotherapeutics. Cells, 12:534, Feb 2023. URL: https://doi.org/10.3390/cells12040534, doi:10.3390/cells12040534. This article has 3 citations and is from a peer-reviewed journal.
+
+2. (ruscetta2023opportunitiesandchallenges pages 2-6): Vanessa M. Ruscetta, Taj J. Seaton, Aleen Shakeel, Stanley N. S. Vasconcelos, Russell D. Viirre, Marc J. Adler, and Michael F. Olson. Opportunities and challenges for the development of mrck kinases inhibitors as potential cancer chemotherapeutics. Cells, 12:534, Feb 2023. URL: https://doi.org/10.3390/cells12040534, doi:10.3390/cells12040534. This article has 3 citations and is from a peer-reviewed journal.
+
+3. (unbekandt2014theactinmyosinregulatory pages 2-4): Mathieu Unbekandt and Michael F. Olson. The actin-myosin regulatory mrck kinases: regulation, biological functions and associations with human cancer. Journal of Molecular Medicine, 92:217-225, Feb 2014. URL: https://doi.org/10.1007/s00109-014-1133-6, doi:10.1007/s00109-014-1133-6. This article has 100 citations.
+
+4. (unbekandt2014theactinmyosinregulatory pages 7-8): Mathieu Unbekandt and Michael F. Olson. The actin-myosin regulatory mrck kinases: regulation, biological functions and associations with human cancer. Journal of Molecular Medicine, 92:217-225, Feb 2014. URL: https://doi.org/10.1007/s00109-014-1133-6, doi:10.1007/s00109-014-1133-6. This article has 100 citations.
+
+5. (zhao2015myotonicdystrophykinaserelated pages 3-4): Zhuo-shen Zhao and E. Manser. Myotonic dystrophy kinase-related cdc42-binding kinases (mrck), the rock-like effectors of cdc42 and rac1. Small GTPases, 6:81-88, Apr 2015. URL: https://doi.org/10.1080/21541248.2014.1000699, doi:10.1080/21541248.2014.1000699. This article has 79 citations and is from a peer-reviewed journal.
+
+6. (zhao2015myotonicdystrophykinaserelated pages 4-5): Zhuo-shen Zhao and E. Manser. Myotonic dystrophy kinase-related cdc42-binding kinases (mrck), the rock-like effectors of cdc42 and rac1. Small GTPases, 6:81-88, Apr 2015. URL: https://doi.org/10.1080/21541248.2014.1000699, doi:10.1080/21541248.2014.1000699. This article has 79 citations and is from a peer-reviewed journal.
+
+7. (zhao2015myotonicdystrophykinaserelated pages 5-6): Zhuo-shen Zhao and E. Manser. Myotonic dystrophy kinase-related cdc42-binding kinases (mrck), the rock-like effectors of cdc42 and rac1. Small GTPases, 6:81-88, Apr 2015. URL: https://doi.org/10.1080/21541248.2014.1000699, doi:10.1080/21541248.2014.1000699. This article has 79 citations and is from a peer-reviewed journal.
+
+8. (leung1998myotonicdystrophykinaserelated pages 1-2): Thomas Leung, Xiang-Qun Chen, Ivan Tan, Edward Manser, and Louis Lim. Myotonic dystrophy kinase-related cdc42-binding kinase acts as a cdc42 effector in promoting cytoskeletal reorganization. Molecular and Cellular Biology, 18:130-140, Jan 1998. URL: https://doi.org/10.1128/mcb.18.1.130, doi:10.1128/mcb.18.1.130. This article has 374 citations and is from a domain leading peer-reviewed journal.
+
+9. (ruscetta2023opportunitiesandchallenges pages 14-16): Vanessa M. Ruscetta, Taj J. Seaton, Aleen Shakeel, Stanley N. S. Vasconcelos, Russell D. Viirre, Marc J. Adler, and Michael F. Olson. Opportunities and challenges for the development of mrck kinases inhibitors as potential cancer chemotherapeutics. Cells, 12:534, Feb 2023. URL: https://doi.org/10.3390/cells12040534, doi:10.3390/cells12040534. This article has 3 citations and is from a peer-reviewed journal.
+
+10. (tan2001intermolecularandintramolecular pages 1-2): Ivan Tan, Kah Tong Seow, Louis Lim, and Thomas Leung. Intermolecular and intramolecular interactions regulate catalytic activity of myotonic dystrophy kinase-related cdc42-binding kinase α. Molecular and Cellular Biology, 21:2767-2778, Apr 2001. URL: https://doi.org/10.1128/mcb.21.8.2767-2778.2001, doi:10.1128/mcb.21.8.2767-2778.2001. This article has 105 citations and is from a domain leading peer-reviewed journal.
+
+11. (unbekandt2014anovelsmallmolecule pages 1-2): Mathieu Unbekandt, Daniel R Croft, Diane Crighton, Mokdad Mezna, Duncan McArthur, Patricia McConnell, Alexander W Schüttelkopf, Simone Belshaw, Andrew Pannifer, Mairi Sime, Justin Bower, Martin Drysdale, and Michael F Olson. A novel small-molecule mrck inhibitor blocks cancer cell invasion. Cell Communication and Signaling, Oct 2014. URL: https://doi.org/10.1186/s12964-014-0054-x, doi:10.1186/s12964-014-0054-x. This article has 74 citations and is from a peer-reviewed journal.
+
+12. (unbekandt2014theactinmyosinregulatory pages 1-2): Mathieu Unbekandt and Michael F. Olson. The actin-myosin regulatory mrck kinases: regulation, biological functions and associations with human cancer. Journal of Molecular Medicine, 92:217-225, Feb 2014. URL: https://doi.org/10.1007/s00109-014-1133-6, doi:10.1007/s00109-014-1133-6. This article has 100 citations.
+
+13. (unbekandt2014theactinmyosinregulatory pages 4-6): Mathieu Unbekandt and Michael F. Olson. The actin-myosin regulatory mrck kinases: regulation, biological functions and associations with human cancer. Journal of Molecular Medicine, 92:217-225, Feb 2014. URL: https://doi.org/10.1007/s00109-014-1133-6, doi:10.1007/s00109-014-1133-6. This article has 100 citations.
+
+14. (unbekandt2014theactinmyosinregulatory pages 6-7): Mathieu Unbekandt and Michael F. Olson. The actin-myosin regulatory mrck kinases: regulation, biological functions and associations with human cancer. Journal of Molecular Medicine, 92:217-225, Feb 2014. URL: https://doi.org/10.1007/s00109-014-1133-6, doi:10.1007/s00109-014-1133-6. This article has 100 citations.
+
+15. (unbekandt2020thecdc42effector pages 1-3): Mathieu Unbekandt, Sergio Lilla, Sara Zanivan, and Michael F. Olson. The cdc42 effector protein mrckβ autophosphorylates on threonine 1108. Small GTPases, 11:451-460, Jan 2020. URL: https://doi.org/10.1080/21541248.2018.1564472, doi:10.1080/21541248.2018.1564472. This article has 6 citations and is from a peer-reviewed journal.
+
+16. (zhao2015myotonicdystrophykinaserelated pages 1-2): Zhuo-shen Zhao and E. Manser. Myotonic dystrophy kinase-related cdc42-binding kinases (mrck), the rock-like effectors of cdc42 and rac1. Small GTPases, 6:81-88, Apr 2015. URL: https://doi.org/10.1080/21541248.2014.1000699, doi:10.1080/21541248.2014.1000699. This article has 79 citations and is from a peer-reviewed journal.
+
+17. (zhao2015myotonicdystrophykinaserelated pages 6-7): Zhuo-shen Zhao and E. Manser. Myotonic dystrophy kinase-related cdc42-binding kinases (mrck), the rock-like effectors of cdc42 and rac1. Small GTPases, 6:81-88, Apr 2015. URL: https://doi.org/10.1080/21541248.2014.1000699, doi:10.1080/21541248.2014.1000699. This article has 79 citations and is from a peer-reviewed journal.
+
+18. (ruscetta2023opportunitiesandchallenges pages 6-9): Vanessa M. Ruscetta, Taj J. Seaton, Aleen Shakeel, Stanley N. S. Vasconcelos, Russell D. Viirre, Marc J. Adler, and Michael F. Olson. Opportunities and challenges for the development of mrck kinases inhibitors as potential cancer chemotherapeutics. Cells, 12:534, Feb 2023. URL: https://doi.org/10.3390/cells12040534, doi:10.3390/cells12040534. This article has 3 citations and is from a peer-reviewed journal.

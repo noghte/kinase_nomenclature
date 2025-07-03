@@ -1,0 +1,77 @@
+## Phylogeny  
+Human MAST1 (UniProt Q9Y2H9) is classified within the AGC serine/threonine kinase group, MAST subfamily, distinct from the Greatwall (MASTL) branch (lemke2025mastkinases’function pages 1-2).  
+Orthologs possessing the DUF1908–kinase–PDZ architecture are reported for Caenorhabditis elegans kin-4, Drosophila melanogaster drop-out (dop) and Hydra vulgaris MAST-like proteins, demonstrating conservation across Metazoa (lemke2025mastkinases’function pages 2-4).  
+Phylogenetic analyses place the MAST lineage as an early diverging branch that predates PDZ-lacking plant and protist paralogs and precedes the elongated-loop MASTL clade (lemke2025mastkinases’function pages 4-6).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + protein-Ser/Thr-phosphate (rumpf2023microtubuleassociatedserinethreonine(mast) pages 1-2).  
+
+## Cofactor Requirements  
+Catalytic activity depends on divalent Mg²⁺ ions (rumpf2023microtubuleassociatedserinethreonine(mast) pages 1-2).  
+
+## Substrate Specificity  
+Kinome-wide profiling did not assign a consensus phosphorylation motif to MAST1 (lemke2025mastkinases’function pages 2-4).  
+MAST1 directly phosphorylates MEK1 at Ser221 (rumpf2023microtubuleassociatedserinethreonine(mast) pages 8-10).  
+The C-terminal PDZ domain recognises class-I motifs of the type X-S/T-X-V/I/L, aiding substrate recruitment (rumpf2023microtubuleassociatedserinethreonine(mast) pages 2-5).  
+
+## Structure  
+MAST1 is a 1 316-residue protein comprising an N-terminal DUF1908 (≈1–275), a central AGC kinase domain (≈276–543) and a C-terminal PDZ domain (≈948–1212) (rumpf2023microtubuleassociatedserinethreonine(mast) pages 2-5).  
+DUF1908 contains an intrinsically disordered Ser/Tyr/Thr-rich segment followed by an eight-helix α-barrel (rumpf2023microtubuleassociatedserinethreonine(mast) pages 2-5).  
+The kinase domain retains canonical VAIK, HRD, DFG and APE motifs; uniquely, the first glycine of the GXGXXG loop is replaced by serine, a putative regulatory site (rumpf2023microtubuleassociatedserinethreonine(mast) pages 5-7).  
+Its activation segment spans ~37 residues and alternates between DFGin and DFGout conformations governing activity (lemke2025mastkinases’function pages 4-6).  
+A full-length AlphaFold model (AF-Q9Y2H9-F1) is available, and the isolated PDZ domain structure has been solved (PDB 3PS4) (lemke2025mastkinases’function pages 1-2).  
+
+## Regulation  
+Phosphorylation of Ser161 within DUF1908 creates a high-affinity 14-3-3β docking site that stabilises MAST1 (lemke2025mastkinases’function pages 8-11).  
+CHIP ubiquitinates Lys317 and Lys545, promoting degradation; USP1 reverses this modification, and Hsp90β binding shields the same lysines to extend protein half-life (rumpf2023microtubuleassociatedserinethreonine(mast) pages 8-10).  
+Glucocorticoid receptor signalling up-regulates MAST1 transcription during cisplatin exposure (rumpf2023microtubuleassociatedserinethreonine(mast) pages 8-10).  
+Pathogenic variants L232P (DUF1908) and G522E (near DFG motif) destabilise domain folding and impair adoption of the active conformation (lemke2025mastkinases’function pages 11-12).  
+
+## Function  
+GTEx and Human Protein Atlas data show highest expression in brain with additional levels in heart, lung, liver, skeletal muscle, kidney and testis (lemke2025mastkinases’function pages 6-8).  
+Immunostaining demonstrates cytoplasmic co-localisation of MAST1 with microtubule filaments in HeLa and HEK-293 cells (benmahmoud2020evaluatingtherole pages 1-2).  
+Through its PDZ domain MAST1 binds β2-syntrophin, linking the dystrophin/utrophin complex to microtubules (rumpf2023microtubuleassociatedserinethreonine(mast) pages 5-7).  
+Verified interactors include DMD, UTRN, SNTB2, MEK1, c-Raf, PTEN, 14-3-3β, Hsp90β, CHIP and USP1 (rumpf2023microtubuleassociatedserinethreonine(mast) pages 7-8).  
+Phosphorylation of MEK1-Ser221 activates ERK signalling and drives cisplatin resistance in tumour models (rumpf2023microtubuleassociatedserinethreonine(mast) pages 8-10).  
+MAST1 participates in PP2A regulation through ARPP-16 phosphorylation described for the MAST family (lemke2025mastkinases’function pages 15-17).  
+
+## Inhibitors  
+No direct small-molecule inhibitors have been reported (lemke2025mastkinases’function pages 15-17).  
+
+## Other Comments  
+A de novo c.3539T>G missense variant in the last exon causes developmental delay and intellectual disability (benmahmoud2020evaluatingtherole pages 4-6).  
+Variants L232P, G522E, S93L and P500L are linked to mega-corpus-callosum syndrome with cerebellar hypoplasia and cortical malformations (lemke2025mastkinases’function pages 11-12).  
+MAST1 over-expression, promoter hypomethylation or gene fusions are documented in breast carcinoma, non-small-cell lung cancer, hepatocellular carcinoma and uterine corpus endometrial carcinoma (rumpf2023microtubuleassociatedserinethreonine(mast) pages 11-13).  
+Stabilisation of MAST1 by USP1 and Hsp90β contributes to cisplatin resistance; disruption of these interactions restores drug sensitivity (rumpf2023microtubuleassociatedserinethreonine(mast) pages 8-10).
+
+References
+
+1. (benmahmoud2020evaluatingtherole pages 4-6): Afif Ben-Mahmoud, Aisha M. Al-Shamsi, Bassam R. Ali, and Lihadh Al-Gazali. Evaluating the role of mast1 as an intellectual disability disease gene: identification of a novel de novo variant in a patient with developmental disabilities. Journal of Molecular Neuroscience, 70:320-327, Nov 2020. URL: https://doi.org/10.1007/s12031-019-01415-8, doi:10.1007/s12031-019-01415-8. This article has 16 citations and is from a peer-reviewed journal.
+
+2. (lemke2025mastkinases’function pages 1-2): Michael C. Lemke, Nithin R. Avala, Michael T. Rader, Stefan R. Hargett, Daniel S. Lank, Brandon D. Seltzer, and Thurl E. Harris. Mast kinases’ function and regulation: insights from structural modeling and disease mutations. Biomedicines, 13:925, Apr 2025. URL: https://doi.org/10.3390/biomedicines13040925, doi:10.3390/biomedicines13040925. This article has 0 citations and is from a peer-reviewed journal.
+
+3. (lemke2025mastkinases’function pages 15-17): Michael C. Lemke, Nithin R. Avala, Michael T. Rader, Stefan R. Hargett, Daniel S. Lank, Brandon D. Seltzer, and Thurl E. Harris. Mast kinases’ function and regulation: insights from structural modeling and disease mutations. Biomedicines, 13:925, Apr 2025. URL: https://doi.org/10.3390/biomedicines13040925, doi:10.3390/biomedicines13040925. This article has 0 citations and is from a peer-reviewed journal.
+
+4. (lemke2025mastkinases’function pages 2-4): Michael C. Lemke, Nithin R. Avala, Michael T. Rader, Stefan R. Hargett, Daniel S. Lank, Brandon D. Seltzer, and Thurl E. Harris. Mast kinases’ function and regulation: insights from structural modeling and disease mutations. Biomedicines, 13:925, Apr 2025. URL: https://doi.org/10.3390/biomedicines13040925, doi:10.3390/biomedicines13040925. This article has 0 citations and is from a peer-reviewed journal.
+
+5. (lemke2025mastkinases’function pages 6-8): Michael C. Lemke, Nithin R. Avala, Michael T. Rader, Stefan R. Hargett, Daniel S. Lank, Brandon D. Seltzer, and Thurl E. Harris. Mast kinases’ function and regulation: insights from structural modeling and disease mutations. Biomedicines, 13:925, Apr 2025. URL: https://doi.org/10.3390/biomedicines13040925, doi:10.3390/biomedicines13040925. This article has 0 citations and is from a peer-reviewed journal.
+
+6. (rumpf2023microtubuleassociatedserinethreonine(mast) pages 1-2): Marie Rumpf, Sabine Pautz, Benedikt Drebes, Friedrich W. Herberg, and Hans-Arno J. Müller. Microtubule-associated serine/threonine (mast) kinases in development and disease. International Journal of Molecular Sciences, 24:11913, Jul 2023. URL: https://doi.org/10.3390/ijms241511913, doi:10.3390/ijms241511913. This article has 6 citations and is from a peer-reviewed journal.
+
+7. (rumpf2023microtubuleassociatedserinethreonine(mast) pages 5-7): Marie Rumpf, Sabine Pautz, Benedikt Drebes, Friedrich W. Herberg, and Hans-Arno J. Müller. Microtubule-associated serine/threonine (mast) kinases in development and disease. International Journal of Molecular Sciences, 24:11913, Jul 2023. URL: https://doi.org/10.3390/ijms241511913, doi:10.3390/ijms241511913. This article has 6 citations and is from a peer-reviewed journal.
+
+8. (rumpf2023microtubuleassociatedserinethreonine(mast) pages 7-8): Marie Rumpf, Sabine Pautz, Benedikt Drebes, Friedrich W. Herberg, and Hans-Arno J. Müller. Microtubule-associated serine/threonine (mast) kinases in development and disease. International Journal of Molecular Sciences, 24:11913, Jul 2023. URL: https://doi.org/10.3390/ijms241511913, doi:10.3390/ijms241511913. This article has 6 citations and is from a peer-reviewed journal.
+
+9. (rumpf2023microtubuleassociatedserinethreonine(mast) pages 8-10): Marie Rumpf, Sabine Pautz, Benedikt Drebes, Friedrich W. Herberg, and Hans-Arno J. Müller. Microtubule-associated serine/threonine (mast) kinases in development and disease. International Journal of Molecular Sciences, 24:11913, Jul 2023. URL: https://doi.org/10.3390/ijms241511913, doi:10.3390/ijms241511913. This article has 6 citations and is from a peer-reviewed journal.
+
+10. (benmahmoud2020evaluatingtherole pages 1-2): Afif Ben-Mahmoud, Aisha M. Al-Shamsi, Bassam R. Ali, and Lihadh Al-Gazali. Evaluating the role of mast1 as an intellectual disability disease gene: identification of a novel de novo variant in a patient with developmental disabilities. Journal of Molecular Neuroscience, 70:320-327, Nov 2020. URL: https://doi.org/10.1007/s12031-019-01415-8, doi:10.1007/s12031-019-01415-8. This article has 16 citations and is from a peer-reviewed journal.
+
+11. (lemke2025mastkinases’function pages 11-12): Michael C. Lemke, Nithin R. Avala, Michael T. Rader, Stefan R. Hargett, Daniel S. Lank, Brandon D. Seltzer, and Thurl E. Harris. Mast kinases’ function and regulation: insights from structural modeling and disease mutations. Biomedicines, 13:925, Apr 2025. URL: https://doi.org/10.3390/biomedicines13040925, doi:10.3390/biomedicines13040925. This article has 0 citations and is from a peer-reviewed journal.
+
+12. (lemke2025mastkinases’function pages 8-11): Michael C. Lemke, Nithin R. Avala, Michael T. Rader, Stefan R. Hargett, Daniel S. Lank, Brandon D. Seltzer, and Thurl E. Harris. Mast kinases’ function and regulation: insights from structural modeling and disease mutations. Biomedicines, 13:925, Apr 2025. URL: https://doi.org/10.3390/biomedicines13040925, doi:10.3390/biomedicines13040925. This article has 0 citations and is from a peer-reviewed journal.
+
+13. (rumpf2023microtubuleassociatedserinethreonine(mast) pages 11-13): Marie Rumpf, Sabine Pautz, Benedikt Drebes, Friedrich W. Herberg, and Hans-Arno J. Müller. Microtubule-associated serine/threonine (mast) kinases in development and disease. International Journal of Molecular Sciences, 24:11913, Jul 2023. URL: https://doi.org/10.3390/ijms241511913, doi:10.3390/ijms241511913. This article has 6 citations and is from a peer-reviewed journal.
+
+14. (rumpf2023microtubuleassociatedserinethreonine(mast) pages 2-5): Marie Rumpf, Sabine Pautz, Benedikt Drebes, Friedrich W. Herberg, and Hans-Arno J. Müller. Microtubule-associated serine/threonine (mast) kinases in development and disease. International Journal of Molecular Sciences, 24:11913, Jul 2023. URL: https://doi.org/10.3390/ijms241511913, doi:10.3390/ijms241511913. This article has 6 citations and is from a peer-reviewed journal.
+
+15. (lemke2025mastkinases’function pages 4-6): Michael C. Lemke, Nithin R. Avala, Michael T. Rader, Stefan R. Hargett, Daniel S. Lank, Brandon D. Seltzer, and Thurl E. Harris. Mast kinases’ function and regulation: insights from structural modeling and disease mutations. Biomedicines, 13:925, Apr 2025. URL: https://doi.org/10.3390/biomedicines13040925, doi:10.3390/biomedicines13040925. This article has 0 citations and is from a peer-reviewed journal.

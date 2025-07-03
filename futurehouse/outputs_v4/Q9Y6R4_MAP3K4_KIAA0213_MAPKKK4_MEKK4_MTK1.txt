@@ -1,0 +1,121 @@
+## Phylogeny  
+• Widely conserved: orthologs detected in >500 species, including Danio rerio and Macaca mulatta (huang2024map3k4kinaseaction pages 1-3)  
+• Mammalian ortholog: murine MEKK-4β shows 91 % overall and 98 % catalytic-domain identity to human MAP3K4 (chanhui1998humanmitogenactivatedprotein pages 4-6)  
+• Fungal counterpart: functional homologue of Saccharomyces cerevisiae Ssk2p (bettinger2007themekkinases pages 5-6)  
+• Kinome assignment: member of the sterile-like (STE) MAP3K group, MEKK subfamily (huang2024reconstructingthedeep pages 3-5)  
+• Paralog relationships: catalytic domain shares 33–42 % identity with MEKK1, MEKK2 and MEKK3 (chanhui1998humanmitogenactivatedprotein pages 4-6)  
+
+
+
+## Reaction Catalyzed  
+ATP + MAP2K4/6 → ADP + phospho-MAP2K4/6 (Ser/Thr in activation loop) (chanhui1998humanmitogenactivatedprotein pages 3-4)  
+
+
+
+## Cofactor Requirements  
+No explicit cofactor requirement is reported in the cited literature.  
+
+
+
+## Substrate Specificity  
+• Direct MAP2K substrates: MKK3, MKK4, MKK6, MKK7 (chanhui1998humanmitogenactivatedprotein pages 3-4, gerwins1997cloningofa pages 5-6, huang2024map3k4kinaseaction pages 1-3)  
+• Phosphorylation occurs on conserved Ser/Thr residues within MAP2K activation loops; for JNK activation, MKK4 preferentially targets Tyr185 and MKK7 targets Thr183 on JNK (huang2024map3k4kinaseaction pages 1-3)  
+• A consensus peptide motif has not been defined in the available specificity atlas data.  
+
+
+
+## Structure  
+• Length / mass: 1 608 aa, ~181.7 kDa (huang2024map3k4kinaseaction pages 1-3)  
+• Domain organization  
+  – N-terminal autoinhibitory regulatory region (residues 1-~1300) (abell2007mekk4stimulationof pages 1-1)  
+  – Pleckstrin-homology-like fold (residues 161-408) (chanhui1998humanmitogenactivatedprotein pages 4-6)  
+  – Proline-rich SH3-binding segment (gerwins1997cloningofa pages 3-4)  
+  – Partial CRIB motif adjacent to the kinase domain mediating Rac1/Cdc42 binding (gerwins1997cloningofa pages 3-4)  
+  – C-terminal Ser/Thr kinase domain containing subdomains I–XI (chanhui1998humanmitogenactivatedprotein pages 4-6)  
+• Catalytic features  
+  – Activation loop Thr1493 is the major autophosphorylation site required for activity (huang2009regulationofjnk pages 5-6)  
+  – Dimerization interface spans the kinase domain and N-terminal elements (abell2007mekk4stimulationof pages 1-1)  
+• Structural models  
+  – AlphaFold2 predicts a high-confidence CODI conformation expanding the accessible drug-binding space (herrington2023exploringthedruggable pages 8-10)  
+  – No experimental crystal structure has been reported in the cited sources.  
+
+
+
+## Regulation  
+• Autoinhibition: intramolecular interaction between N-terminal region and kinase domain keeps the enzyme inactive (abell2007mekk4stimulationof pages 1-1)  
+• Activating mechanisms  
+  – Autophosphorylation at Thr1493 upon dimerization (huang2009regulationofjnk pages 5-6)  
+  – GADD45α/β/γ binding to residues 147-250 disrupts autoinhibition and promotes dimerization (huang2009regulationofjnk pages 5-6, bettinger2007themekkinases pages 5-6)  
+  – Rac1/Cdc42 engage the CRIB motif in a GTP-dependent manner to stimulate kinase activity (gerwins1997cloningofa pages 6-7)  
+  – External stressors (NH₄Cl, Na-arsenite, anisomycin, H₂O₂, osmotic shock, UV-C) enhance kinase activation (chanhui1998humanmitogenactivatedprotein pages 9-10)  
+• Inhibitory inputs  
+  – GSK3β binds the kinase domain and phosphorylates N-terminal Ser/Thr residues, preventing dimerization and suppressing activity (abell2007mekk4stimulationof pages 1-1)  
+• Post-translational modifications  
+  – Polyubiquitination via adaptor CIN85 modulates activation state (huang2024map3k4kinaseaction pages 3-5)  
+  – Caspase-3 cleavage generates a 110-kDa fragment observed under apoptotic conditions (chanhui1998humanmitogenactivatedprotein pages 9-10)  
+• Additional regulation  
+  – RACK1 sequestration in stress granules limits MAP3K4 activation during cellular stress (huang2024map3k4kinaseaction pages 3-5)  
+
+
+
+## Function  
+• Expression profile  
+  – Broad tissue distribution with high mRNA levels in exocrine glands, hematopoietic tissues, heart, skeletal muscle, placenta, neural and reproductive organs (chanhui1998humanmitogenactivatedprotein pages 4-6)  
+  – Elevated expression in K562 (CML) and SW480 (colorectal) tumour cell lines (chanhui1998humanmitogenactivatedprotein pages 4-6)  
+• Subcellular localization: perinuclear, Golgi-associated vesicular structures (gerwins1997cloningofa pages 6-7)  
+• Upstream regulators  
+  – Small GTPases Rac1/Cdc42 (gerwins1997cloningofa pages 6-7)  
+  – GADD45 protein family (huang2009regulationofjnk pages 5-6)  
+  – TRAF4 and Axin scaffolds (abell2007mekk4stimulationof pages 1-1)  
+  – TGFβ signaling via SMAD-dependent induction of GADD45β (sapkota2013thetgfβinducedphosphorylation pages 6-7)  
+  – GSK3β negative regulation (abell2007mekk4stimulationof pages 1-1)  
+• Downstream signaling  
+  – Phosphorylates MKK3/6 and MKK4/7, leading to activation of p38α and JNK1/2; full-length enzyme shows limited ERK2 activation (chanhui1998humanmitogenactivatedprotein pages 4-6)  
+  – Targets transcription factors ATF-2 and c-Jun via downstream MAPKs (chanhui1998humanmitogenactivatedprotein pages 4-6)  
+• Biological roles  
+  – Mediates cellular responses to osmotic, oxidative, DNA-damage and UV stress, promoting either repair or apoptosis (chanhui1998humanmitogenactivatedprotein pages 11-11)  
+  – Required for Th1 differentiation and IFN-γ production through p38 signaling (huang2009regulationofjnk pages 5-6)  
+  – Essential for neural tube closure and skeletal patterning in mice (abell2007mekk4stimulationof pages 1-1)  
+  – Responsible for TGFβ-induced p38 activation independently of TAK1 (sapkota2013thetgfβinducedphosphorylation pages 6-7)  
+
+
+
+## Other Comments  
+• Dysregulation exhibits dual oncogenic and tumour-suppressive outcomes depending on cellular context (huang2024map3k4kinaseaction pages 11-13)  
+• Stress-granule sequestration of MAP3K4–RACK1 complexes contributes to chemoresistance by limiting apoptosis (huang2024map3k4kinaseaction pages 3-5)  
+• MAP3K4 loss-of-function in mice leads to neural tube defects akin to TRAF4 and Dishevelled-2 knockouts (abell2007mekk4stimulationof pages 1-1)  
+• High basal expression in leukemia and colorectal carcinoma cell lines links MAP3K4 to malignant phenotypes (chanhui1998humanmitogenactivatedprotein pages 4-6)
+
+References
+
+1. (chanhui1998humanmitogenactivatedprotein pages 4-6): Po-Ying CHAN-HUI and Robert WEAVER. Human mitogen-activated protein kinase kinase kinase mediates the stress-induced activation of mitogen-activated protein kinase cascades. Biochemical Journal, 336:599-609, Dec 1998. URL: https://doi.org/10.1042/bj3360599, doi:10.1042/bj3360599. This article has 105 citations and is from a domain leading peer-reviewed journal.
+
+2. (chanhui1998humanmitogenactivatedprotein pages 9-10): Po-Ying CHAN-HUI and Robert WEAVER. Human mitogen-activated protein kinase kinase kinase mediates the stress-induced activation of mitogen-activated protein kinase cascades. Biochemical Journal, 336:599-609, Dec 1998. URL: https://doi.org/10.1042/bj3360599, doi:10.1042/bj3360599. This article has 105 citations and is from a domain leading peer-reviewed journal.
+
+3. (huang2009regulationofjnk pages 5-6): Gonghua Huang, Lewis Zhichang Shi, and Hongbo Chi. Regulation of jnk and p38 mapk in the immune system: signal integration, propagation and termination. Cytokine, 48:161-169, Dec 2009. URL: https://doi.org/10.1016/j.cyto.2009.08.002, doi:10.1016/j.cyto.2009.08.002. This article has 408 citations and is from a peer-reviewed journal.
+
+4. (huang2024map3k4kinaseaction pages 1-3): Yuxin Huang, Guanwen Wang, Ningning Zhang, and Xiaohua Zeng. Map3k4 kinase action and dual role in cancer. Discover Oncology, Apr 2024. URL: https://doi.org/10.1007/s12672-024-00961-x, doi:10.1007/s12672-024-00961-x. This article has 8 citations and is from a poor quality or predatory journal.
+
+5. (huang2024map3k4kinaseaction pages 11-13): Yuxin Huang, Guanwen Wang, Ningning Zhang, and Xiaohua Zeng. Map3k4 kinase action and dual role in cancer. Discover Oncology, Apr 2024. URL: https://doi.org/10.1007/s12672-024-00961-x, doi:10.1007/s12672-024-00961-x. This article has 8 citations and is from a poor quality or predatory journal.
+
+6. (huang2024map3k4kinaseaction pages 3-5): Yuxin Huang, Guanwen Wang, Ningning Zhang, and Xiaohua Zeng. Map3k4 kinase action and dual role in cancer. Discover Oncology, Apr 2024. URL: https://doi.org/10.1007/s12672-024-00961-x, doi:10.1007/s12672-024-00961-x. This article has 8 citations and is from a poor quality or predatory journal.
+
+7. (abell2007mekk4stimulationof pages 1-1): Amy N. Abell, Deborah A. Granger, and Gary L. Johnson. Mekk4 stimulation of p38 and jnk activity is negatively regulated by gsk3β*. Journal of Biological Chemistry, 282:30476-30484, Oct 2007. URL: https://doi.org/10.1074/jbc.m705783200, doi:10.1074/jbc.m705783200. This article has 80 citations and is from a domain leading peer-reviewed journal.
+
+8. (bettinger2007themekkinases pages 5-6): Blaine T. Bettinger and David C. Amberg. The mek kinases mekk4/ssk2p facilitate complexity in the stress signaling responses of diverse systems. Journal of Cellular Biochemistry, May 2007. URL: https://doi.org/10.1002/jcb.21289, doi:10.1002/jcb.21289. This article has 35 citations and is from a peer-reviewed journal.
+
+9. (chanhui1998humanmitogenactivatedprotein pages 11-11): Po-Ying CHAN-HUI and Robert WEAVER. Human mitogen-activated protein kinase kinase kinase mediates the stress-induced activation of mitogen-activated protein kinase cascades. Biochemical Journal, 336:599-609, Dec 1998. URL: https://doi.org/10.1042/bj3360599, doi:10.1042/bj3360599. This article has 105 citations and is from a domain leading peer-reviewed journal.
+
+10. (chanhui1998humanmitogenactivatedprotein pages 3-4): Po-Ying CHAN-HUI and Robert WEAVER. Human mitogen-activated protein kinase kinase kinase mediates the stress-induced activation of mitogen-activated protein kinase cascades. Biochemical Journal, 336:599-609, Dec 1998. URL: https://doi.org/10.1042/bj3360599, doi:10.1042/bj3360599. This article has 105 citations and is from a domain leading peer-reviewed journal.
+
+11. (gerwins1997cloningofa pages 3-4): Pär Gerwins, L. Blank Jonathan, and Gary L. Johnson. Cloning of a novel mitogen-activated protein kinase kinase kinase, mekk4, that selectively regulates the c-jun amino terminal kinase pathway*. The Journal of Biological Chemistry, 272:8288-8295, Mar 1997. URL: https://doi.org/10.1074/jbc.272.13.8288, doi:10.1074/jbc.272.13.8288. This article has 326 citations.
+
+12. (gerwins1997cloningofa pages 5-6): Pär Gerwins, L. Blank Jonathan, and Gary L. Johnson. Cloning of a novel mitogen-activated protein kinase kinase kinase, mekk4, that selectively regulates the c-jun amino terminal kinase pathway*. The Journal of Biological Chemistry, 272:8288-8295, Mar 1997. URL: https://doi.org/10.1074/jbc.272.13.8288, doi:10.1074/jbc.272.13.8288. This article has 326 citations.
+
+13. (gerwins1997cloningofa pages 6-7): Pär Gerwins, L. Blank Jonathan, and Gary L. Johnson. Cloning of a novel mitogen-activated protein kinase kinase kinase, mekk4, that selectively regulates the c-jun amino terminal kinase pathway*. The Journal of Biological Chemistry, 272:8288-8295, Mar 1997. URL: https://doi.org/10.1074/jbc.272.13.8288, doi:10.1074/jbc.272.13.8288. This article has 326 citations.
+
+14. (huang2024reconstructingthedeep pages 3-5): EJ Huang, Jeeun Parksong, Amy F. Peterson, Fernando Torres, Sergi Regot, and Gabriel S. Bever. Reconstructing the deep phylogeny of the mapk signaling network: functional specialization via multi-tier coevolutionary expansion. BioRxiv, Oct 2024. URL: https://doi.org/10.1101/2024.10.01.616093, doi:10.1101/2024.10.01.616093. This article has 1 citations.
+
+15. (sapkota2013thetgfβinducedphosphorylation pages 6-7): Gopal P. Sapkota. The tgfβ-induced phosphorylation and activation of p38 mitogen-activated protein kinase is mediated by map3k4 and map3k10 but not tak1. Open Biology, 3:130067, Jun 2013. URL: https://doi.org/10.1098/rsob.130067, doi:10.1098/rsob.130067. This article has 37 citations and is from a peer-reviewed journal.
+
+16. (herrington2023exploringthedruggable pages 8-10): Noah B. Herrington, David Stein, Yan Chak Li, Gaurav Pandey, and Avner Schlessinger. Exploring the druggable conformational space of protein kinases using ai-generated structures. BioRxiv, Sep 2023. URL: https://doi.org/10.1101/2023.08.31.555779, doi:10.1101/2023.08.31.555779. This article has 9 citations.

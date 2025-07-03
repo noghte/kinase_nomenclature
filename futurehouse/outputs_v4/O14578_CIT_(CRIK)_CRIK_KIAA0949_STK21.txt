@@ -1,0 +1,73 @@
+## Phylogeny
+Citron kinase (CIT), also known as STK21, is a serine/threonine kinase classified within the AGC group of the human kinome (pallavicini2019precisionrevisitedtargeting pages 3-5, capra2006frequentalterationsin pages 7-8). This classification is based on the foundational kinome analysis by Manning et al. (2002), which places CIT in the DMPK (dystrophia myotonica protein kinase) family, also referred to as the myotonic dystrophy kinase subfamily (pallavicini2019precisionrevisitedtargeting pages 3-5, li2016biallelicmutationsin pages 1-2, park2011globalanalysisof pages 4-5). Phylogenetically, CIT is closely related to other Rho-associated coiled-coil containing protein kinases such as ROCK1, ROCK2, and MRCKs (pallavicini2019precisionrevisitedtargeting pages 3-5, capra2006frequentalterationsin pages 7-8). The protein is evolutionarily conserved, with a functional ortholog in *Drosophila melanogaster* known as Sticky (unknownauthors2017citronkinase–renaissanceof pages 2-3).
+
+
+## Reaction Catalyzed
+CIT is a serine/threonine protein kinase that catalyzes the transfer of a γ-phosphate group from ATP to the hydroxyl group of serine or threonine residues on protein substrates (unknownauthors2017citronkinase–renaissanceof pages 1-2, li2016biallelicmutationsin pages 1-2).
+
+ATP + [protein]-L-serine = ADP + [protein]-O-phospho-L-serine
+ATP + [protein]-L-threonine = ADP + [protein]-O-phospho-L-threonine
+
+
+## Cofactor Requirements
+The catalytic activity of CIT, as a serine/threonine kinase, generally requires a divalent cation cofactor such as Mg²⁺ or Mn²⁺ (unknownauthors2017citronkinase–renaissanceof pages 1-2, pallavicini2019precisionrevisitedtargeting pages 3-5).
+
+
+## Substrate Specificity
+According to an analysis of the Johnson et al., 2023 *Nature* study, CIT-K recognizes and phosphorylates substrates containing a consensus motif characterized by a serine/threonine residue followed by a proline (S/T-P motif) (unknownauthors2017citronkinase–renaissanceof pages 2-3). This motif is common among mitotic kinases, but CIT-K possesses a unique extended specificity defined by surrounding residues that confers high-fidelity substrate targeting (unknownauthors2017citronkinase–renaissanceof pages 2-3). The Johnson et al. (2023) atlas contains detailed substrate specificity profiles for 303 human serine/threonine kinases, including STK21/CIT, detailing amino acid preferences at positions surrounding the phosphorylation site (johnson2023anatlasof pages 3-4).
+
+
+## Structure
+Citron kinase is a large, multi-domain protein with a molecular mass ranging from 183 kDa to 230 kDa (li2016biallelicmutationsin pages 1-2, pallavicini2019precisionrevisitedtargeting pages 3-5). Mammals express two main isoforms: the full-length, kinase-containing CIT-K and a shorter CIT-N isoform which lacks the kinase domain (unknownauthors2017citronkinase–renaissanceof pages 1-2). The modular architecture of CIT-K consists of an N-terminal serine/threonine kinase domain, two central coiled-coil domains (CC1 and CC2), a Rho/Rac-binding domain (RBD) within the CC2 region, a cysteine-rich C1 motif, a Pleckstrin homology (PH) domain, and a C-terminal Citron-Nik1 homology (CNH) domain (unknownauthors2017citronkinase–renaissanceof pages 1-2, pallavicini2019precisionrevisitedtargeting pages 3-5, li2016biallelicmutationsin pages 1-2). Based on AlphaFold modeling for UniProt O14578, the kinase domain contains conserved catalytic features including the activation loop and C-helix, which are critical for its enzymatic activity and regulation (unknownauthors2017citronkinase–renaissanceof pages 8-8, li2016biallelicmutationsin pages 1-2).
+
+
+## Regulation
+The regulation of CIT is primarily driven by post-translational modifications, particularly phosphorylation, and protein-protein interactions (unknownauthors2017citronkinase–renaissanceof pages 1-2). CIT is a substrate for several mitotic kinases including Aurora B, Cdk1, and Plk1 (unknownauthors2017citronkinase–renaissanceof pages 4-5). Aurora B phosphorylates CIT-K at multiple sites within the CC1 and C1 domains, including Serine 699 (S699) (mckenzie2016crossregulationbetweenaurora pages 9-10, mckenzie2016crossregulationbetweenaurora pages 8-9). This phosphorylation event modulates CIT-K localization by preventing its premature accumulation at the spindle midzone, an effect mediated by inhibiting its interaction with the motor protein KIF23/MKLP1 (unknownauthors2017citronkinase–renaissanceof pages 3-4, mckenzie2016crossregulationbetweenaurora pages 8-9). Extracellular signaling via the Ephrin/EphB2 pathway activates Src kinase, which in turn phosphorylates CIT-K, enhancing its association with active RhoA (unknownauthors2017citronkinase–renaissanceof pages 4-5).
+
+CIT binds directly to the GTP-bound forms of Rho and Rac GTPases via its RBD (li2016biallelicmutationsin pages 1-2, unknownauthors2017citronkinase–renaissanceof pages 7-8). A cross-regulatory feedback loop exists with Aurora B: CIT phosphorylates the Chromosomal Passenger Complex (CPC) subunit INCENP to promote Aurora B activity, while Aurora B phosphorylates CIT to control its localization and interactions (unknownauthors2017citronkinase–renaissanceof pages 2-3, mckenzie2016crossregulationbetweenaurora pages 1-2).
+
+
+## Function
+CIT is expressed in proliferating cells, with protein levels peaking during the G2/M phase of the cell cycle (pallavicini2019precisionrevisitedtargeting pages 3-5). Its localization is dynamic throughout mitosis: it is cytoplasmic during interphase, moves to the spindle poles in metaphase, accumulates at the cleavage furrow in anaphase, and forms a ring at the midbody during telophase (unknownauthors2017citronkinase–renaissanceof pages 2-3).
+
+The primary function of CIT is in the final stages of cell division, where it orchestrates midbody organization and abscission (li2016biallelicmutationsin pages 1-2, pallavicini2019precisionrevisitedtargeting pages 3-5). It is also required for proper mitotic spindle orientation, a function mediated through interaction with ASPM and the organization of astral microtubules (pallavicini2019precisionrevisitedtargeting pages 3-5, gai2017citronkinasein pages 2-2). Additionally, CIT contributes to the DNA damage response by facilitating the recruitment of RAD51 to DNA damage foci (pallavicini2019precisionrevisitedtargeting pages 3-5).
+
+CIT interacts with a network of proteins to perform its functions, including GTPases (RhoA, Rac), kinesins (KIF14, KIF23/MKLP1), cytoskeletal components (anillin, MYL9), and mitotic regulators like the CPC and ASPM (li2016biallelicmutationsin pages 1-2, pallavicini2019precisionrevisitedtargeting pages 3-5, unknownauthors2017citronkinase–renaissanceof pages 2-3). Known substrates of its kinase activity include the CPC component INCENP and MYL9 (pallavicini2019precisionrevisitedtargeting pages 3-5, unknownauthors2017citronkinase–renaissanceof pages 2-3, li2016biallelicmutationsin pages 1-2). It also modulates the phosphorylation of tubulin beta III (TUBB3) by recruiting casein kinase 2 alpha (CK2α) (unknownauthors2017citronkinase–renaissanceof pages 3-4).
+
+
+## Other Comments
+Biallelic missense mutations in the *CIT* gene's kinase domain are a cause of autosomal-recessive primary microcephaly (MCPH17), a neurodevelopmental disorder defined by a significantly reduced head and brain size at birth and intellectual disability (li2016biallelicmutationsin pages 1-2, pallavicini2019precisionrevisitedtargeting pages 3-5). These pathogenic mutations affect evolutionarily conserved residues and result in impaired or abolished kinase activity without altering mRNA expression or protein localization (li2016biallelicmutationsin pages 1-2, gai2017citronkinasein pages 2-2). The cellular phenotype in neural progenitor cells includes failed cytokinesis, multipolar spindles, delayed mitosis, and increased apoptosis (li2016biallelicmutationsin pages 1-2).
+
+CIT is also implicated in tumorigenesis. It is highly expressed in certain cancers, such as medulloblastoma, and its knockdown via RNAi causes cytokinesis failure and limits tumor growth in preclinical models (pallavicini2019precisionrevisitedtargeting pages 3-5).
+
+References
+
+1. (li2016biallelicmutationsin pages 1-2): Hongda Li, Stephanie L. Bielas, Maha S. Zaki, Samira Ismail, Dorit Farfara, Kyongmi Um, Rasim O. Rosti, Eric C. Scott, Shu Tu, Neil C. Chi, Stacey Gabriel, Emine Z. Erson-Omay, A. Gulhan Ercan-Sencicek, Katsuhito Yasuno, Ahmet Okay Çağlayan, Hande Kaymakçalan, Barış Ekici, Kaya Bilguvar, Murat Gunel, and Joseph G. Gleeson. Biallelic mutations in citron kinase link mitotic cytokinesis to human primary microcephaly. American journal of human genetics, 99 2:501-10, Aug 2016. URL: https://doi.org/10.1016/j.ajhg.2016.07.004, doi:10.1016/j.ajhg.2016.07.004. This article has 89 citations and is from a highest quality peer-reviewed journal.
+
+2. (pallavicini2019precisionrevisitedtargeting pages 3-5): Gianmarco Pallavicini, Gaia E. Berto, and F. Di Cunto. Precision revisited: targeting microcephaly kinases in brain tumors. International Journal of Molecular Sciences, Apr 2019. URL: https://doi.org/10.3390/ijms20092098, doi:10.3390/ijms20092098. This article has 16 citations and is from a peer-reviewed journal.
+
+3. (unknownauthors2017citronkinase–renaissanceof pages 1-2): Citron kinase–renaissance of a neglected mitotic kinase
+
+4. (unknownauthors2017citronkinase–renaissanceof pages 2-3): Citron kinase–renaissance of a neglected mitotic kinase
+
+5. (unknownauthors2017citronkinase–renaissanceof pages 3-4): Citron kinase–renaissance of a neglected mitotic kinase
+
+6. (unknownauthors2017citronkinase–renaissanceof pages 4-5): Citron kinase–renaissance of a neglected mitotic kinase
+
+7. (unknownauthors2017citronkinase–renaissanceof pages 7-8): Citron kinase–renaissance of a neglected mitotic kinase
+
+8. (capra2006frequentalterationsin pages 7-8): Maria Capra, Paolo Giovanni Nuciforo, Stefano Confalonieri, Micaela Quarto, Marco Bianchi, Manuela Nebuloni, Renzo Boldorini, Francesco Pallotti, Giuseppe Viale, Mikhail L. Gishizky, Giulio F. Draetta, and Pier Paolo Di Fiore. Frequent alterations in the expression of serine/threonine kinases in human cancers. Cancer Research, 66:8147-8154, Aug 2006. URL: https://doi.org/10.1158/0008-5472.can-05-3489, doi:10.1158/0008-5472.can-05-3489. This article has 244 citations and is from a highest quality peer-reviewed journal.
+
+9. (gai2017citronkinasein pages 2-2): Marta Gai and Ferdinando Di Cunto. Citron kinase in spindle orientation and primary microcephaly. Cell Cycle, 16:245-246, Feb 2017. URL: https://doi.org/10.1080/15384101.2016.1252584, doi:10.1080/15384101.2016.1252584. This article has 6 citations and is from a peer-reviewed journal.
+
+10. (mckenzie2016crossregulationbetweenaurora pages 9-10): Callum McKenzie, Zuni I. Bassi, Janusz Debski, Marco Gottardo, Giuliano Callaini, Michal Dadlez, and Pier Paolo D'Avino. Cross-regulation between aurora b and citron kinase controls midbody architecture in cytokinesis. Open Biology, 6:160019, Mar 2016. URL: https://doi.org/10.1098/rsob.160019, doi:10.1098/rsob.160019. This article has 53 citations and is from a peer-reviewed journal.
+
+11. (park2011globalanalysisof pages 4-5): Gyungsoon Park, Jacqueline A. Servin, Gloria E. Turner, Lorena Altamirano, Hildur V. Colot, Patrick Collopy, Liubov Litvinkova, Liande Li, Carol A. Jones, Fitz-Gerald Diala, Jay C. Dunlap, and Katherine A. Borkovich. Global analysis of serine-threonine protein kinase genes in neurospora crassa. Eukaryotic Cell, 10:1553-1564, Nov 2011. URL: https://doi.org/10.1128/ec.05140-11, doi:10.1128/ec.05140-11. This article has 106 citations and is from a peer-reviewed journal.
+
+12. (unknownauthors2017citronkinase–renaissanceof pages 8-8): Citron kinase–renaissance of a neglected mitotic kinase
+
+13. (johnson2023anatlasof pages 3-4): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 444 citations and is from a highest quality peer-reviewed journal.
+
+14. (mckenzie2016crossregulationbetweenaurora pages 1-2): Callum McKenzie, Zuni I. Bassi, Janusz Debski, Marco Gottardo, Giuliano Callaini, Michal Dadlez, and Pier Paolo D'Avino. Cross-regulation between aurora b and citron kinase controls midbody architecture in cytokinesis. Open Biology, 6:160019, Mar 2016. URL: https://doi.org/10.1098/rsob.160019, doi:10.1098/rsob.160019. This article has 53 citations and is from a peer-reviewed journal.
+
+15. (mckenzie2016crossregulationbetweenaurora pages 8-9): Callum McKenzie, Zuni I. Bassi, Janusz Debski, Marco Gottardo, Giuliano Callaini, Michal Dadlez, and Pier Paolo D'Avino. Cross-regulation between aurora b and citron kinase controls midbody architecture in cytokinesis. Open Biology, 6:160019, Mar 2016. URL: https://doi.org/10.1098/rsob.160019, doi:10.1098/rsob.160019. This article has 53 citations and is from a peer-reviewed journal.

@@ -1,0 +1,81 @@
+## Phylogeny  
+Orthologs of STYK1 are present across jawed vertebrates, including fish, amphibians, birds and mammals (brunet2016wholegenomeduplications pages 4-5).  
+The gene was lost in the lizard Anolis carolinensis, whereas two paralogs are retained in turtles and birds (liu2017identificationandcharacterization pages 9-11).  
+Maximum-likelihood trees place human STYK1 as a distinct receptor tyrosine kinase subfamily that arose during the first two vertebrate whole-genome duplications (brunet2016wholegenomeduplications pages 4-5).  
+Hidden-Markov-model annotation assigns STYK1 to the SuRTK106 subfamily most closely related to the VEGFR/PDGFR/RET/FGFR/Tie lineage despite secondary extracellular domain reduction (filis2023proteomewidedetectionand pages 2-4).  
+
+## Reaction Catalyzed  
+ATP + [protein]-L-tyrosine ⇌ ADP + [protein]-O-phospho-L-tyrosine (ye2003isolationandcharacterization pages 1-2).  
+
+## Cofactor Requirements  
+Receptor tyrosine kinases require a divalent cation such as Mg²⁺ for catalysis, a dependency expected for STYK1 (gu2006designandevaluation pages 7-8).  
+
+## Substrate Specificity  
+STYK1 phosphorylates the catalytic subunit PIK3C3 on tyrosine residues within the autophagy-specific class III phosphatidylinositol 3-kinase complex I (zhou2020styk1promotesautophagy pages 14-17).  
+The kinase increases serine phosphorylation of BECN1 in the same complex (zhou2020styk1promotesautophagy pages 9-11).  
+A kinome-wide peptide-array survey did not report an intrinsic consensus motif for STYK1 (yaronbarir2024theintrinsicsubstrate pages 1-2).  
+
+## Structure  
+STYK1 contains a truncated extracellular segment (<30 aa), a single transmembrane helix (~residues 37–59) and an intracellular kinase domain spanning residues 116–378 (ye2003isolationandcharacterization pages 2-6).  
+Its glycine-rich loop is an atypical CSGSCG-K motif (ye2003isolationandcharacterization pages 6-6).  
+Catalytic Lys147 and Glu157 form the conserved Lys–Glu pair that anchors ATP (ye2003isolationandcharacterization pages 2-6).  
+The HRD motif is replaced by HGDVAARN in subdomain VIb (ye2003isolationandcharacterization pages 6-6).  
+Phosphorylation of Tyr191 within the activation segment promotes homodimerisation and activation (zhou2020styk1promotesautophagy pages 14-17).  
+Mutation K147R abolishes ATP binding and catalytic activity (zhou2020styk1promotesautophagy pages 9-11).  
+Homology modelling predicts a canonical bilobal kinase fold with an intact regulatory spine; no experimental crystal structure is available (zhou2020styk1promotesautophagy pages 9-11).  
+
+## Regulation  
+Autophosphorylation of Tyr191 strengthens dimer formation and enhances binding to ATG14, BECN1 and PIK3C3 (zhou2020styk1promotesautophagy pages 14-17).  
+EGFR phosphorylates STYK1 at Tyr356, an event blocked by erlotinib or gefitinib (zhou2022phosphorylatedstyk1restrains pages 7-10).  
+AMPK phosphorylates Ser304 following EGFR-TKI treatment (zhou2022phosphorylatedstyk1restrains pages 7-10).  
+C-terminal Tyr417 acts as an autoinhibitory site; its removal increases mitogenic signalling (hou2015nokmediatedmitogenic pages 9-10).  
+Constitutive homodimerisation via transmembrane and kinase domains is required for full activity (zhou2020styk1promotesautophagy pages 14-17).  
+
+## Function  
+STYK1 mRNA is expressed broadly, with highest levels in brain, placenta and prostate (ye2003isolationandcharacterization pages 1-2).  
+Overexpression occurs in lung, estrogen-receptor-negative breast, castration-resistant prostate, ovarian, colorectal cancers and acute leukaemia (hou2015nokmediatedmitogenic pages 9-10).  
+High transcript levels associate with chemotherapy non-response in acute leukaemia (nirasawa2014significanceofserine pages 5-8).  
+STYK1 promotes assembly of the PtdIns3K-C1 complex, elevates PIK3C3 lipid-kinase activity and accelerates autophagosome formation (zhou2020styk1promotesautophagy pages 20-21).  
+The kinase activates MAPK and PI3K/Akt pathways, leading to GSK-3β Ser9 phosphorylation (hu2015serinethreoninetyrosine pages 4-5).  
+By relieving EGFR-mediated autophagy inhibition, STYK1 modulates sensitivity of non-small-cell lung cancer cells to EGFR-targeted therapy (zhou2022phosphorylatedstyk1restrains pages 7-10).  
+
+## Inhibitors  
+No peer-reviewed small-molecule or biological inhibitors that directly target STYK1 catalytic activity have been reported (nirasawa2014significanceofserine pages 5-8).  
+
+## Other Comments  
+STYK1 functions as an oncogene that promotes tumour invasion and metastasis in vivo (hou2015nokmediatedmitogenic pages 9-10).  
+High STYK1 expression predicts poor prognosis in colorectal cancer (hu2015serinethreoninetyrosine pages 4-5).  
+Cancer-associated variants P302L and V395I diminish STYK1-mediated mitogenic signalling (hou2015nokmediatedmitogenic pages 9-10).  
+The kinase-dead mutant K147R fails to promote autophagy (zhou2020styk1promotesautophagy pages 9-11).
+
+References
+
+1. (brunet2016wholegenomeduplications pages 4-5): Frédéric G. Brunet, Jean-Nicolas Volff, and Manfred Schartl. Whole genome duplications shaped the receptor tyrosine kinase repertoire of jawed vertebrates. Genome Biology and Evolution, 8:1600-1613, May 2016. URL: https://doi.org/10.1093/gbe/evw103, doi:10.1093/gbe/evw103. This article has 34 citations and is from a domain leading peer-reviewed journal.
+
+2. (nirasawa2014significanceofserine pages 5-8): SHINYA NIRASAWA, DAISUKE KOBAYASHI, TAKASHI KONDOH, KAGEAKI KURIBAYASHI, MAKI TANAKA, NOZOMI YANAGIHARA, and NAOKI WATANABE. Significance of serine threonine tyrosine kinase 1 as a drug resistance factor and therapeutic predictor in acute leukemia. International journal of oncology, 45 5:1867-74, Nov 2014. URL: https://doi.org/10.3892/ijo.2014.2633, doi:10.3892/ijo.2014.2633. This article has 13 citations and is from a peer-reviewed journal.
+
+3. (ye2003isolationandcharacterization pages 2-6): Xin Ye, Chaoneng Ji, Qingshan Huang, Chao Cheng, Rong Tang, Jian Xu, Li Zeng, Jianfeng Dai, Qihan Wu, Shaohua Gu, Yi Xie, and Yumin Mao. Isolation and characterization of a human putative receptor protein kinase cdna styk1*. Molecular Biology Reports, 30:91-96, Jun 2003. URL: https://doi.org/10.1023/a:1023934017174, doi:10.1023/a:1023934017174. This article has 35 citations and is from a peer-reviewed journal.
+
+4. (zhou2020styk1promotesautophagy pages 14-17): Cefan Zhou, Xuehong Qian, Miao Hu, Rui Zhang, Nanxi Liu, Yuan Huang, Jing Yang, Juan Zhang, Hua Bai, Yuyan Yang, Yefu Wang, Declan Ali, Marek Michalak, Xing-Zhen Chen, and Jingfeng Tang. Styk1 promotes autophagy through enhancing the assembly of autophagy-specific class iii phosphatidylinositol 3-kinase complex i. Autophagy, 16:1786-1806, Nov 2020. URL: https://doi.org/10.1080/15548627.2019.1687212, doi:10.1080/15548627.2019.1687212. This article has 40 citations and is from a domain leading peer-reviewed journal.
+
+5. (zhou2020styk1promotesautophagy pages 9-11): Cefan Zhou, Xuehong Qian, Miao Hu, Rui Zhang, Nanxi Liu, Yuan Huang, Jing Yang, Juan Zhang, Hua Bai, Yuyan Yang, Yefu Wang, Declan Ali, Marek Michalak, Xing-Zhen Chen, and Jingfeng Tang. Styk1 promotes autophagy through enhancing the assembly of autophagy-specific class iii phosphatidylinositol 3-kinase complex i. Autophagy, 16:1786-1806, Nov 2020. URL: https://doi.org/10.1080/15548627.2019.1687212, doi:10.1080/15548627.2019.1687212. This article has 40 citations and is from a domain leading peer-reviewed journal.
+
+6. (zhou2022phosphorylatedstyk1restrains pages 7-10): Cefan Zhou, Xueying Dong, Ming Wang, Xuehong Qian, Miao Hu, Kai Liang, Yan-Cui Liang, Rui Zhang, Yuan Huang, Hao Lyu, Shuai Xiao, Yongfei Tang, D. Ali, M. Michalak, Xing-Zhen Chen, and Jingfeng Tang. Phosphorylated styk1 restrains the inhibitory role of egfr in autophagy initiation and egfr-tkis sensitivity. Cell Insight, Jun 2022. URL: https://doi.org/10.1016/j.cellin.2022.100045, doi:10.1016/j.cellin.2022.100045. This article has 9 citations.
+
+7. (gu2006designandevaluation pages 7-8): Xianfeng Gu, Yuehao Wang, Anil Kumar, Guofeng Ye, Keykavous Parang, and Gongqin Sun. Design and evaluation of hydroxamate derivatives as metal-mediated inhibitors of a protein tyrosine kinase. Journal of Medicinal Chemistry, 49:7532-7539, Nov 2006. URL: https://doi.org/10.1021/jm061058c, doi:10.1021/jm061058c. This article has 13 citations and is from a highest quality peer-reviewed journal.
+
+8. (hou2015nokmediatedmitogenic pages 9-10): S. Hou and Li Liu. Nok mediated mitogenic signaling is altered by p203l and v395i mutations. Frontiers in bioscience, 20:1179-89, Jun 2015. URL: https://doi.org/10.2741/4366, doi:10.2741/4366. This article has 3 citations and is from a peer-reviewed journal.
+
+9. (hu2015serinethreoninetyrosine pages 4-5): Liang Hu, Hai-Yang Chen, Jianhui Cai, Yu Zhang, Chen-Ye Qi, Hui Gong, Yan-Xia Zhai, Hao Fu, Guang-zhen Yang, and C. Gao. Serine threonine tyrosine kinase 1 is a potential prognostic marker in colorectal cancer. BMC Cancer, Apr 2015. URL: https://doi.org/10.1186/s12885-015-1285-y, doi:10.1186/s12885-015-1285-y. This article has 31 citations and is from a peer-reviewed journal.
+
+10. (liu2017identificationandcharacterization pages 9-11): Ake Liu, Funan He, and Xun Gu. Identification and characterization of tyrosine kinases in anole lizard indicate the conserved tyrosine kinase repertoire in vertebrates. Molecular Genetics and Genomics, 292:1405-1418, Aug 2017. URL: https://doi.org/10.1007/s00438-017-1356-7, doi:10.1007/s00438-017-1356-7. This article has 6 citations and is from a peer-reviewed journal.
+
+11. (yaronbarir2024theintrinsicsubstrate pages 1-2): Tomer M. Yaron-Barir, Brian A. Joughin, Emily M. Huntsman, Alexander Kerelsky, Daniel M. Cizin, Benjamin M. Cohen, Amit Regev, Junho Song, Neil Vasan, Ting-Yu Lin, Jose M. Orozco, Christina Schoenherr, Cari Sagum, Mark T. Bedford, R. Max Wynn, Shih-Chia Tso, David T. Chuang, Lei Li, Shawn S.-C. Li, Pau Creixell, Konstantin Krismer, Mina Takegami, Harin Lee, Bin Zhang, Jingyi Lu, Ian Cossentino, Sean D. Landry, Mohamed Uduman, John Blenis, Olivier Elemento, Margaret C. Frame, Peter V. Hornbeck, Lewis C. Cantley, Benjamin E. Turk, Michael B. Yaffe, and Jared L. Johnson. The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629:1174-1181, May 2024. URL: https://doi.org/10.1038/s41586-024-07407-y, doi:10.1038/s41586-024-07407-y. This article has 59 citations and is from a highest quality peer-reviewed journal.
+
+12. (ye2003isolationandcharacterization pages 1-2): Xin Ye, Chaoneng Ji, Qingshan Huang, Chao Cheng, Rong Tang, Jian Xu, Li Zeng, Jianfeng Dai, Qihan Wu, Shaohua Gu, Yi Xie, and Yumin Mao. Isolation and characterization of a human putative receptor protein kinase cdna styk1*. Molecular Biology Reports, 30:91-96, Jun 2003. URL: https://doi.org/10.1023/a:1023934017174, doi:10.1023/a:1023934017174. This article has 35 citations and is from a peer-reviewed journal.
+
+13. (ye2003isolationandcharacterization pages 6-6): Xin Ye, Chaoneng Ji, Qingshan Huang, Chao Cheng, Rong Tang, Jian Xu, Li Zeng, Jianfeng Dai, Qihan Wu, Shaohua Gu, Yi Xie, and Yumin Mao. Isolation and characterization of a human putative receptor protein kinase cdna styk1*. Molecular Biology Reports, 30:91-96, Jun 2003. URL: https://doi.org/10.1023/a:1023934017174, doi:10.1023/a:1023934017174. This article has 35 citations and is from a peer-reviewed journal.
+
+14. (zhou2020styk1promotesautophagy pages 20-21): Cefan Zhou, Xuehong Qian, Miao Hu, Rui Zhang, Nanxi Liu, Yuan Huang, Jing Yang, Juan Zhang, Hua Bai, Yuyan Yang, Yefu Wang, Declan Ali, Marek Michalak, Xing-Zhen Chen, and Jingfeng Tang. Styk1 promotes autophagy through enhancing the assembly of autophagy-specific class iii phosphatidylinositol 3-kinase complex i. Autophagy, 16:1786-1806, Nov 2020. URL: https://doi.org/10.1080/15548627.2019.1687212, doi:10.1080/15548627.2019.1687212. This article has 40 citations and is from a domain leading peer-reviewed journal.
+
+15. (filis2023proteomewidedetectionand pages 2-4): G. Filis, Fotis A. Baltoumas, Georgios Spanogiannis, Zoi I. Litou, and V. Iconomidou. Proteome-wide detection and annotation of receptor tyrosine kinases (rtks): rtk-pred and the tyrek database. Biomolecules, Feb 2023. URL: https://doi.org/10.3390/biom13020270, doi:10.3390/biom13020270. This article has 2 citations and is from a peer-reviewed journal.

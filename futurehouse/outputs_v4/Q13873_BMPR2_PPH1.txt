@@ -1,0 +1,82 @@
+## Phylogeny  
+BMPR2 is classified within the Tyrosine Kinase-Like (TKL) group, TGF-β/BMP type II receptor subfamily of the human kinome (chaikuad2019structuralconsequencesof pages 5-8). Orthologs are present in Mus musculus (Bmpr2), Rattus norvegicus (Bmpr2), Danio rerio (bmpr2a/b), Drosophila melanogaster (wishful-thinking) and Caenorhabditis elegans (daf-4), demonstrating deep evolutionary conservation (gomez‐puerto2019bonemorphogeneticprotein pages 27-30, iwasa2023computationalandexperimental pages 17-18, hiepen2019bmpr2actsas pages 43-44). BMPR2 clusters with the paralogous type II receptors ACVR2A and ACVR2B, which share closely related extracellular and kinase architectures (chu2022typeiibmp pages 11-12).  
+
+  
+
+## Reaction Catalyzed  
+ATP + [type I BMP receptor]-Ser/Thr → ADP + [type I BMP receptor]-O-Ser/Thr-P (agnew2021structuralbasisfor pages 1-2, chaikuad2019structuralconsequencesof pages 5-8).  
+
+  
+
+## Cofactor Requirements  
+Catalytic activity requires Mg²⁺; the crystal structure of the kinase domain was solved in complex with Mg-ADP (chaikuad2019structuralconsequencesof pages 5-8).  
+
+  
+
+## Substrate Specificity  
+BMPR2 phosphorylates serine/threonine residues within the glycine-rich GS domain of cognate type I receptors (agnew2021structuralbasisfor pages 1-2). The Johnson et al. 2023 kinome atlas did not assign a definitive consensus motif to BMPR2, indicating that detailed sequence preferences remain unresolved (iwasa2023computationalandexperimental pages 17-18).  
+
+  
+
+## Structure  
+The receptor comprises: (i) an extracellular ligand-binding domain (exons 2–3) that recognizes BMP9/10 and activin B (guo2022crystalstructuresof pages 1-2, chu2022typeiibmp pages 11-12); (ii) a single-pass transmembrane helix (exon 4) (machado2006mutationsofthe pages 2-3); (iii) an intracellular bilobal kinase domain (residues 189–517) solved at 2.35 Å (PDB 3G2F) in an active conformation with Mg-ADP (chaikuad2019structuralconsequencesof pages 17-26); and (iv) an extended C-terminal tail (residues 518–1038) that binds LIMK1 and Tctex-1 and modulates endocytosis and SMAD signaling (gipson2020structuralperspectiveof pages 12-14). Catalytic hallmarks include the Lys230(β3)–Glu243(αC) salt bridge, an HRD catalytic triad (~His-Arg-Asp330), a DFG motif preceding a partially disordered activation loop with a six-residue insertion, and a complete hydrophobic spine; the receptor lacks a GS domain, explaining its constitutive activity (chaikuad2019structuralconsequencesof pages 5-8, chaikuad2019structuralconsequencesof pages 12-17). C-lobe surfaces mediate heterodimerization with ALK2 in the signaling tetramer (agnew2021structuralbasisfor pages 1-2). A full-length AlphaFold model (AF-Q13873-F1) is congruent with these experimental data (gomez‐puerto2019bonemorphogeneticprotein pages 27-30).  
+
+  
+
+## Regulation  
+Ser/Thr phosphorylation events across the kinase domain and tail support downstream signaling, though exact sites remain incompletely mapped (gipson2020structuralperspectiveof pages 12-14). PRMT1-mediated arginine methylation slows SMAD activation kinetics (gipson2020structuralperspectiveof pages 12-14). Smurf1 ubiquitinates BMPR2, and SUMOylation further modulates receptor stability, although precise lysine targets and the SUMO E3 ligase are not fully defined (gomez‐puerto2019bonemorphogeneticprotein pages 27-30). Full-length BMPR2 is internalized via clathrin-mediated endocytosis, whereas a splice isoform lacking most of the tail displays enhanced SMAD output (gipson2020structuralperspectiveof pages 12-14). FKBP12 binds the GS domain of partner type I receptors, preventing their phosphorylation until ligand engagement (agnew2021structuralbasisfor pages 1-2).  
+
+  
+
+## Function  
+BMPR2 is abundantly expressed in vascular endothelial cells, pulmonary artery smooth-muscle cells, lung parenchyma and bone-related tissues (gomez‐puerto2019bonemorphogeneticprotein pages 27-30, guo2022crystalstructuresof pages 1-2, wang2023dysregulatedsmoothmuscle pages 1-3). Upon binding BMP2, BMP4, BMP7, BMP9, BMP10, GDF6 or activin A/B, two type II and two type I receptors assemble; BMPR2 phosphorylates ALK1/ALK2 GS domains to initiate signaling (chu2022typeiibmp pages 9-10, agnew2021structuralbasisfor pages 1-2). Canonical signaling proceeds through SMAD1/5/8 phosphorylation, SMAD4 association and nuclear transcriptional regulation (newman2001mutationinthe pages 3-4, machado2006mutationsofthe pages 2-3). Non-canonical outputs include p38 MAPK, ERK1/2, JNK, AKT and RHOA/RAC1 activation, particularly in mutant settings (rudarakanchana2002functionalanalysisof pages 2-3, johnson2012cytoskeletaldefectsin pages 1-2, wang2023dysregulatedsmoothmuscle pages 1-3). Interactors encompass SMAD1/5/8, ALK1/ALK2, FKBP12, LIMK1, Tctex-1, Endoglin, β-Arrestin2, SRC and Smurf1 (gipson2020structuralperspectiveof pages 12-14, gomez‐puerto2019bonemorphogeneticprotein pages 27-30, johnson2012cytoskeletaldefectsin pages 1-2).  
+
+  
+
+## Inhibitors  
+None reported to date; available BMP pathway inhibitors target type I receptors and lack BMPR2 selectivity (gipson2020structuralperspectiveof pages 12-14, gomez‐puerto2019bonemorphogeneticprotein pages 27-30, iwasa2023computationalandexperimental pages 17-18).  
+
+  
+
+## Other Comments  
+Heterozygous loss-of-function variants in BMPR2 account for 53–96 % of heritable and ~25 % of idiopathic pulmonary arterial hypertension (gipson2020structuralperspectiveof pages 12-14). More than 400 pathogenic mutations are catalogued; core-destabilizing missense variants such as S301P, A313P, C347R/Y, C420R/Y, C483R and R491W compromise the C-lobe hydrophobic core, whereas surface substitutions including R303H, A490V, C496Y and E503D have milder effects (chaikuad2019structuralconsequencesof pages 17-26, chaikuad2019structuralconsequencesof pages 8-12). Extracellular cysteine substitutions (e.g., C347Y, C420R, C483R) block surface trafficking and trigger constitutive p38 MAPK activation (rudarakanchana2002functionalanalysisof pages 3-4). The truncating R899X mutation in the tail induces cytoskeletal defects via aberrant Rac1 signaling (johnson2012cytoskeletaldefectsin pages 1-2). Disease penetrance is incomplete and exhibits a female bias (machado2006mutationsofthe pages 12-12).
+
+References
+
+1. (gipson2020structuralperspectiveof pages 12-14): Gregory R. Gipson, Erich J. Goebel, Kaitlin N. Hart, Emily C. Kappes, Chandramohan Kattamuri, Jason C. McCoy, and Thomas B. Thompson. Structural perspective of bmp ligands and signaling. Bone, 140:115549, Nov 2020. URL: https://doi.org/10.1016/j.bone.2020.115549, doi:10.1016/j.bone.2020.115549. This article has 57 citations and is from a domain leading peer-reviewed journal.
+
+2. (gomez‐puerto2019bonemorphogeneticprotein pages 27-30): Maria Catalina Gomez‐Puerto, Prasanna Vasudevan Iyengar, Amaya García de Vinuesa, Peter ten Dijke, and Gonzalo Sanchez‐Duffhues. Bone morphogenetic protein receptor signal transduction in human disease. The Journal of Pathology, 247:9-20, Nov 2019. URL: https://doi.org/10.1002/path.5170, doi:10.1002/path.5170. This article has 243 citations.
+
+3. (iwasa2023computationalandexperimental pages 17-18): T. Iwasa, Akihiro Urasaki, Yuki Kakihana, Nami Nagata-Akaho, Yukihiro Harada, S. Takeda, Teruhisa Kawamura, I. Shiraishi, K. Kurosaki, H. Morisaki, O. Yamada, and Osamu Nakagawa. Computational and experimental analyses for pathogenicity prediction of acvrl1 missense variants in hereditary hemorrhagic telangiectasia. Journal of Clinical Medicine, Jul 2023. URL: https://doi.org/10.3390/jcm12155002, doi:10.3390/jcm12155002. This article has 1 citations and is from a peer-reviewed journal.
+
+4. (agnew2021structuralbasisfor pages 1-2): C. Agnew, P. Ayaz, Risa Kashima, Hanna S. Loving, Prajakta Ghatpande, J. Kung, Eric S. Underbakke, Yibing Shan, D. Shaw, A. Hata, and N. Jura. Structural basis for alk2/bmpr2 receptor complex signaling through kinase domain oligomerization. Nature Communications, Aug 2021. URL: https://doi.org/10.1038/s41467-021-25248-5, doi:10.1038/s41467-021-25248-5. This article has 31 citations and is from a highest quality peer-reviewed journal.
+
+5. (chaikuad2019structuralconsequencesof pages 17-26): Apirat Chaikuad, Chancievan Thangaratnarajah, Frank von Delft, and Alex N Bullock. Structural consequences of bmpr2 kinase domain mutations causing pulmonary arterial hypertension. Scientific Reports, Sep 2019. URL: https://doi.org/10.1101/786756, doi:10.1101/786756. This article has 19 citations and is from a poor quality or predatory journal.
+
+6. (chaikuad2019structuralconsequencesof pages 5-8): Apirat Chaikuad, Chancievan Thangaratnarajah, Frank von Delft, and Alex N Bullock. Structural consequences of bmpr2 kinase domain mutations causing pulmonary arterial hypertension. Scientific Reports, Sep 2019. URL: https://doi.org/10.1101/786756, doi:10.1101/786756. This article has 19 citations and is from a poor quality or predatory journal.
+
+7. (chaikuad2019structuralconsequencesof pages 8-12): Apirat Chaikuad, Chancievan Thangaratnarajah, Frank von Delft, and Alex N Bullock. Structural consequences of bmpr2 kinase domain mutations causing pulmonary arterial hypertension. Scientific Reports, Sep 2019. URL: https://doi.org/10.1101/786756, doi:10.1101/786756. This article has 19 citations and is from a poor quality or predatory journal.
+
+8. (chu2022typeiibmp pages 11-12): Kit-Yee Chu, Anjali Malik, Vijayalakshmi Thamilselvan, and Erik Martinez-Hackert. Type ii bmp and activin receptors bmpr2 and acvr2a share a conserved mode of growth factor recognition. Journal of Biological Chemistry, 298:102076, Jul 2022. URL: https://doi.org/10.1016/j.jbc.2022.102076, doi:10.1016/j.jbc.2022.102076. This article has 11 citations and is from a domain leading peer-reviewed journal.
+
+9. (chu2022typeiibmp pages 9-10): Kit-Yee Chu, Anjali Malik, Vijayalakshmi Thamilselvan, and Erik Martinez-Hackert. Type ii bmp and activin receptors bmpr2 and acvr2a share a conserved mode of growth factor recognition. Journal of Biological Chemistry, 298:102076, Jul 2022. URL: https://doi.org/10.1016/j.jbc.2022.102076, doi:10.1016/j.jbc.2022.102076. This article has 11 citations and is from a domain leading peer-reviewed journal.
+
+10. (machado2006mutationsofthe pages 12-12): Rajiv D. Machado, Micheala A. Aldred, Victoria James, Rachel E. Harrison, Bhakti Patel, Edward C. Schwalbe, Ekkehard Gruenig, Bart Janssen, Rolf Koehler, Werner Seeger, Oliver Eickelberg, Horst Olschewski, C. Gregory Elliott, Eric Glissmeyer, John Carlquist, Miryoung Kim, Adam Torbicki, Anna Fijalkowska, Grzegorz Szewczyk, Jasmine Parma, Marc J. Abramowicz, Nazzareno Galie, Hiroko Morisaki, Shingo Kyotani, Norifumi Nakanishi, Takayuki Morisaki, Marc Humbert, Gerald Simonneau, Olivier Sitbon, Florent Soubrier, Florence Coulet, Nicholas W. Morrell, and Richard C. Trembath. Mutations of the tgf-β type ii receptorbmpr2 in pulmonary arterial hypertension. Human Mutation, 27:121-132, Feb 2006. URL: https://doi.org/10.1002/humu.20285, doi:10.1002/humu.20285. This article has 547 citations and is from a domain leading peer-reviewed journal.
+
+11. (machado2006mutationsofthe pages 2-3): Rajiv D. Machado, Micheala A. Aldred, Victoria James, Rachel E. Harrison, Bhakti Patel, Edward C. Schwalbe, Ekkehard Gruenig, Bart Janssen, Rolf Koehler, Werner Seeger, Oliver Eickelberg, Horst Olschewski, C. Gregory Elliott, Eric Glissmeyer, John Carlquist, Miryoung Kim, Adam Torbicki, Anna Fijalkowska, Grzegorz Szewczyk, Jasmine Parma, Marc J. Abramowicz, Nazzareno Galie, Hiroko Morisaki, Shingo Kyotani, Norifumi Nakanishi, Takayuki Morisaki, Marc Humbert, Gerald Simonneau, Olivier Sitbon, Florent Soubrier, Florence Coulet, Nicholas W. Morrell, and Richard C. Trembath. Mutations of the tgf-β type ii receptorbmpr2 in pulmonary arterial hypertension. Human Mutation, 27:121-132, Feb 2006. URL: https://doi.org/10.1002/humu.20285, doi:10.1002/humu.20285. This article has 547 citations and is from a domain leading peer-reviewed journal.
+
+12. (newman2001mutationinthe pages 3-4): John H. Newman, Lisa Wheeler, Kirk B. Lane, Emily Loyd, Radhika Gaddipati, John A. Phillips, and James E. Loyd. Mutation in the gene for bone morphogenetic protein receptor ii as a cause of primary pulmonary hypertension in a large kindred. New England Journal of Medicine, 345:319-324, Aug 2001. URL: https://doi.org/10.1056/nejm200108023450502, doi:10.1056/nejm200108023450502. This article has 489 citations and is from a highest quality peer-reviewed journal.
+
+13. (rudarakanchana2002functionalanalysisof pages 2-3): N. Rudarakanchana, J. Flanagan, Hailan Chen, P. Upton, R. Machado, D. Patel, R. Trembath, and N. Morrell. Functional analysis of bone morphogenetic protein type ii receptor mutations underlying primary pulmonary hypertension. Human Molecular Genetics, 11:1517-1525, Jun 2002. URL: https://doi.org/10.1093/hmg/11.13.1517, doi:10.1093/hmg/11.13.1517. This article has 332 citations and is from a domain leading peer-reviewed journal.
+
+14. (rudarakanchana2002functionalanalysisof pages 3-4): N. Rudarakanchana, J. Flanagan, Hailan Chen, P. Upton, R. Machado, D. Patel, R. Trembath, and N. Morrell. Functional analysis of bone morphogenetic protein type ii receptor mutations underlying primary pulmonary hypertension. Human Molecular Genetics, 11:1517-1525, Jun 2002. URL: https://doi.org/10.1093/hmg/11.13.1517, doi:10.1093/hmg/11.13.1517. This article has 332 citations and is from a domain leading peer-reviewed journal.
+
+15. (chaikuad2019structuralconsequencesof pages 12-17): Apirat Chaikuad, Chancievan Thangaratnarajah, Frank von Delft, and Alex N Bullock. Structural consequences of bmpr2 kinase domain mutations causing pulmonary arterial hypertension. Scientific Reports, Sep 2019. URL: https://doi.org/10.1101/786756, doi:10.1101/786756. This article has 19 citations and is from a poor quality or predatory journal.
+
+16. (guo2022crystalstructuresof pages 1-2): Jingxu Guo, B. Liu, M. Thorikay, Minmin Yu, Xiaoyan Li, Z. Tong, R. Salmon, Randy J. Read, P. ten Dijke, N. Morrell, and Wei Li. Crystal structures of bmprii extracellular domain in binary and ternary receptor complexes with bmp10. Nature Communications, May 2022. URL: https://doi.org/10.1038/s41467-022-30111-2, doi:10.1038/s41467-022-30111-2. This article has 17 citations and is from a highest quality peer-reviewed journal.
+
+17. (hiepen2019bmpr2actsas pages 43-44): Christian Hiepen, Jerome Jatzlau, Susanne Hildebrandt, Branka Kampfrath, M. Goktas, Arunima Murgai, José Luis Cuellar Camacho, R. Haag, C. Ruppert, G. Sengle, E. A. Cavalcanti‐Adam, Kerstin G. Blank, and P. Knaus. Bmpr2 acts as a gatekeeper to protect endothelial cells from increased tgfβ responses and altered cell mechanics. PLoS Biology, Dec 2019. URL: https://doi.org/10.1371/journal.pbio.3000557, doi:10.1371/journal.pbio.3000557. This article has 111 citations and is from a highest quality peer-reviewed journal.
+
+18. (johnson2012cytoskeletaldefectsin pages 1-2): Jennifer A. Johnson, Anna R. Hemnes, Daniel S. Perrien, Manfred Schuster, Linda J. Robinson, Santhi Gladson, Hans Loibner, Susan Bai, Tom R. Blackwell, Yuji Tada, Julie W. Harral, Megha Talati, Kirk B. Lane, Karen A. Fagan, and James West. Cytoskeletal defects in bmpr2-associated pulmonary arterial hypertension. American Journal of Physiology-Lung Cellular and Molecular Physiology, 302:L474-L484, Mar 2012. URL: https://doi.org/10.1152/ajplung.00202.2011, doi:10.1152/ajplung.00202.2011. This article has 113 citations.
+
+19. (wang2023dysregulatedsmoothmuscle pages 1-3): Lingli Wang, Jan-Renier Moonen, Aiqin Cao, Sarasa Isobe, Caiyun G. Li, Nancy F. Tojais, Shalina Taylor, David P. Marciano, Pin-I. Chen, Mingxia Gu, Dan Li, Rebecca L. Harper, Nesrine El-Bizri, Yu-Mee Kim, Kryn Stankunas, and Marlene Rabinovitch. Dysregulated smooth muscle cell bmpr2–arrb2 axis causes pulmonary hypertension. Circulation Research, 132:545-564, Mar 2023. URL: https://doi.org/10.1161/circresaha.121.320541, doi:10.1161/circresaha.121.320541. This article has 30 citations and is from a highest quality peer-reviewed journal.

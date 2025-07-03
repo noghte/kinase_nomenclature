@@ -1,0 +1,107 @@
+## Phylogeny
+MAP kinase-interacting kinases 1 and 2 (MNK1 and MNK2) are classified within the CAMK (calcium/calmodulin-dependent kinase) group and constitute the distinct MNK family (cargnello2011activationandfunction pages 20-21, dreas2017mitogenactivatedproteinkinase pages 2-3, joshi2014mnkkinasepathway pages 1-2). This assignment is based on kinase domain sequence homology and structural characteristics as established in the comprehensive kinome analysis by Manning et al. (cargnello2011activationandfunction pages 20-21, jauch2005crystalstructuresof pages 1-2). Despite their classification in the CAMK group, MNKs do not bind calmodulin (jin2021progressindeveloping pages 2-3). MNK1 shares approximately 70-80% amino acid identity with its paralog, MNK2 (cargnello2011activationandfunction pages 20-21, dreas2017mitogenactivatedproteinkinase pages 2-3).
+
+MNKs are evolutionarily conserved from invertebrates to humans (cargnello2011activationandfunction pages 20-21, manning2002theproteinkinase pages 2-3). Human MNK1 has orthologs in other species, sharing ~51% amino acid identity with *Drosophila* LK6, ~46% with *C. elegans* mnk-1, and ~94% with its mouse counterpart (cargnello2011activationandfunction pages 20-21, prabhu2020themnk12eif4eaxis pages 3-5). The knockdown of mnk-1 in *C. elegans* is embryonic lethal (cargnello2011activationandfunction pages 20-21).
+
+
+
+## Reaction Catalyzed
+As a serine/threonine protein kinase, MNK1 catalyzes the transfer of the γ-phosphate from ATP to the hydroxyl group of a serine or threonine residue on a protein substrate (dreas2017mitogenactivatedproteinkinase pages 1-2, pintodiez2020deepinginthe pages 23-25).
+The reaction is: ATP + [protein]-L-serine/threonine → ADP + [protein]-L-phosphoserine/phosphothreonine (dreas2017mitogenactivatedproteinkinase pages 1-2, pintodiez2020deepinginthe pages 23-25).
+
+
+
+## Cofactor Requirements
+The catalytic activity of MNK1 requires the divalent cation Mg²⁺ as a cofactor, which serves to coordinate the ATP substrate within the active site (dreas2017mitogenactivatedproteinkinase pages 1-2, pintodiez2020deepinginthe pages 23-25).
+
+
+
+## Substrate Specificity
+Analysis of the human serine/threonine kinome classifies MKNK1 (MNK1) as a basophilic kinase (johnson2023anatlasof pages 4-4). The consensus substrate motif for MKNK1 involves a basophilic environment around the phosphorylation site (johnson2023anatlasof pages 4-4). The kinase exhibits a strong preference for positively charged amino acids, such as lysine and arginine, at positions adjacent to the target serine or threonine residue (johnson2023anatlasof pages 4-4). This distinct amino acid preference contributes to substrate specificity and ensures signaling fidelity by insulating its substrates from phosphorylation by non-cognate kinases (johnson2023anatlasof pages 4-4, johnson2023anatlasof pages 6-7).
+
+
+
+## Structure
+MNK1 has a bi-lobal kinase architecture, featuring an N-terminal domain composed primarily of β-sheets and a C-terminal domain that is predominantly α-helical, linked by a hinge region forming the ATP-binding site (dreas2017mitogenactivatedproteinkinase pages 2-3).
+
+**Domain Organization:**
+*   **N-terminal Region:** Contains a polybasic sequence that functions as both a nuclear localization signal (NLS) and a binding site for the eIF4G scaffold protein (hou2012targetingmnksfor pages 2-4, pintodiez2020deepinginthe pages 1-3).
+*   **Catalytic Domain:** The central kinase domain contains key structural elements, including a critical αC helix (dreas2017mitogenactivatedproteinkinase pages 2-3).
+*   **C-terminal Region:** The longer MNK1a isoform possesses a C-terminal MAPK-binding domain with a Leu-Ala-Arg-Arg-Arg motif and a nuclear export signal (NES), which are absent in the shorter MNK1b isoform (unknownauthors2015themapkinaseinteracting pages 32-37, cargnello2011activationandfunction pages 20-21).
+
+**Key Structural Features:**
+*   **Activation Loop:** A defining feature is the Asp-Phe-Asp (DFD) motif (Asp191-Phe192-Asp193) in subdomain VII, which replaces the canonical Asp-Phe-Gly (DFG) motif found in most kinases (cargnello2011activationandfunction pages 20-21, unknownauthors2015themapkinaseinteracting pages 32-37). The DFD motif adopts a DFG/D-out conformation, which contributes to a lower affinity for ATP (unknownauthors2015themapkinaseinteracting pages 32-37).
+*   **Autoinhibition:** The kinase is maintained in an inactive state by an autoinhibitory mechanism where Phe230 in the activation loop repositions Phe192 of the DFD motif into the ATP-binding site, blocking substrate access (pintodiez2020deepinginthe pages 1-3, boupetit2022overcomingparadoxicalkinase pages 1-2).
+*   **Unique Inserts:** The kinase domain contains two distinctive short inserts, one in the activation loop and another following the APE motif, which are conserved in its *Drosophila* ortholog (cargnello2011activationandfunction pages 20-21).
+*   **Zinc-Binding Module:** MNK1 contains a unique zinc-binding site formed by four cysteine residues located in an insertion near the C-terminus (dreas2017mitogenactivatedproteinkinase pages 2-3, jauch2005crystalstructuresof pages 1-2).
+
+
+
+## Regulation
+The primary mechanism for MNK1 activation is phosphorylation by upstream kinases of the MAPK pathway (hou2012targetingmnksfor pages 2-4, xie2019themapkinaseinteracting pages 31-36).
+
+*   **Phosphorylation:** ERK1/2 and p38 MAPKs directly phosphorylate and activate the MNK1a isoform at two threonine residues, Thr209 and Thr214, located within the activation loop (cargnello2011activationandfunction pages 20-21, hou2012targetingmnksfor pages 2-4). This phosphorylation event is critical for relieving autoinhibition and inducing full catalytic activity (xie2019themapkinaseinteracting pages 6-9). A third site, Thr344, also influences MNK1 activity, as a phosphomimetic mutation at this position results in constitutive activation (cargnello2011activationandfunction pages 20-21).
+*   **Isoform-Specific Regulation:** The full-length MNK1a isoform is an inducible kinase due to its C-terminal MAPK-binding domain, which facilitates its phosphorylation by ERK and p38 (dreas2017mitogenactivatedproteinkinase pages 1-2). In contrast, the shorter MNK1b isoform lacks this domain and is therefore a poor MAPK substrate, exhibiting low, MAPK-independent basal activity (dreas2017mitogenactivatedproteinkinase pages 1-2, xie2019themapkinaseinteracting pages 6-9).
+
+
+
+## Function
+MNK1 functions as a key downstream effector of the ERK and p38 MAPK signaling pathways, primarily regulating cap-dependent mRNA translation (dreas2017mitogenactivatedproteinkinase pages 1-2, hou2012targetingmnksfor pages 2-4).
+
+*   **Expression and Localization:** MNK1 is widely expressed in tissues such as the liver, pancreas, heart, and placenta and is particularly abundant in skeletal muscle, but it is not detected in the brain (cargnello2011activationandfunction pages 20-21, pintodiez2020deepinginthe pages 1-3). The MNK1a isoform is predominantly cytoplasmic due to its nuclear export signal (NES), whereas MNK1b lacks the NES and resides in both the cytoplasm and the nucleus (pintodiez2020deepinginthe pages 1-3).
+*   **Signaling and Substrates:**
+    *   **Upstream Kinases:** MNK1 is directly activated by ERK1/2 and p38 MAPKs (dreas2017mitogenactivatedproteinkinase pages 1-2).
+    *   **Downstream Substrates and Interacting Partners:** The principal substrate of MNK1 is the eukaryotic translation initiation factor 4E (eIF4E), which it phosphorylates exclusively on Ser209 (dreas2017mitogenactivatedproteinkinase pages 2-3, hou2012targetingmnksfor pages 4-6). This phosphorylation enhances the affinity of eIF4E for the 5' mRNA cap structure, selectively promoting the translation of mRNAs that encode proteins involved in cell cycle progression (cyclin D1), angiogenesis (VEGF), and anti-apoptosis (MCL-1) (dreas2017mitogenactivatedproteinkinase pages 1-2). MNK1 is brought into proximity with eIF4E through its interaction with the scaffold protein eIF4G (hou2012targetingmnksfor pages 4-6). Other identified substrates include the splicing factor hnRNP A1 and the regulatory protein LARP1 (pintodiez2020deepinginthe pages 1-3, unknownauthors2023investigatingthetherapeutic pages 147-152).
+
+
+
+## Inhibitors
+Both experimental and clinical-stage small-molecule inhibitors targeting MNK1 have been developed.
+
+*   **Experimental Inhibitors:** Early prototype inhibitors include CGP57380 and cercosporamide; however, CGP57380 has poor selectivity (dreas2017mitogenactivatedproteinkinase pages 1-2, cargnello2011activationandfunction pages 20-21). A more recent compound, EB1, is a pyrazolo[3,4-b]pyridin-3-amine derivative that specifically binds to the inactive, DFD-out conformation of MNK1 (boupetit2022overcomingparadoxicalkinase pages 1-2).
+*   **Clinical-Stage Inhibitors:** More potent and selective inhibitors have entered clinical trials for oncology indications. These include eFT508 (tomivosertib), which has reached Phase II trials, and BAY 1143269, which has been tested in Phase I trials (xie2019themapkinaseinteracting pages 31-36, dreas2017mitogenactivatedproteinkinase pages 1-2). Other inhibitors investigated include SEL-201, QL-X-138, and merestinib (xie2019themapkinaseinteracting pages 31-36, jin2021progressindeveloping pages 2-3).
+
+
+
+## Other Comments
+MNK1 activity is strongly implicated in oncogenic transformation and the progression of various human cancers (dreas2017mitogenactivatedproteinkinase pages 1-2, hou2012targetingmnksfor pages 4-6). Elevated expression of MNK1 and increased phosphorylation of its substrate eIF4E are associated with poor patient prognosis in a variety of solid tumors and hematologic malignancies (dreas2017mitogenactivatedproteinkinase pages 2-3, jin2021progressindeveloping pages 2-3). The MNK1/eIF4E axis is especially important in tumors characterized by Ras mutations, c-Myc amplification, or loss of PTEN function (dreas2017mitogenactivatedproteinkinase pages 2-3, hou2012targetingmnksfor pages 4-6). Mouse models with dual knockout of MNK1 and MNK2 are viable, develop normally, and show resistance to oncogenic transformation, highlighting the potential of MNK inhibition as a therapeutic strategy with a favorable safety profile (dreas2017mitogenactivatedproteinkinase pages 1-2, hou2012targetingmnksfor pages 4-6).
+
+References
+
+1. (cargnello2011activationandfunction pages 20-21): Marie Cargnello and Philippe P. Roux. Activation and function of the mapks and their substrates, the mapk-activated protein kinases. Microbiology and Molecular Biology Reviews, 75:50-83, Mar 2011. URL: https://doi.org/10.1128/mmbr.00031-10, doi:10.1128/mmbr.00031-10. This article has 4045 citations and is from a domain leading peer-reviewed journal.
+
+2. (dreas2017mitogenactivatedproteinkinase pages 1-2): Agnieszka Dreas, Maciej Mikulski, Mariusz Milik, Charles-Henry Fabritius, Krzysztof Brzózka, and Tomasz Rzymski. Mitogen-activated protein kinase (mapk) interacting kinases 1 and 2 (mnk1 and mnk2) as targets for cancer therapy: recent progress in the development of mnk inhibitors. Current Medicinal Chemistry, 24:3025-3053, Sep 2017. URL: https://doi.org/10.2174/0929867324666170203123427, doi:10.2174/0929867324666170203123427. This article has 79 citations and is from a peer-reviewed journal.
+
+3. (dreas2017mitogenactivatedproteinkinase pages 2-3): Agnieszka Dreas, Maciej Mikulski, Mariusz Milik, Charles-Henry Fabritius, Krzysztof Brzózka, and Tomasz Rzymski. Mitogen-activated protein kinase (mapk) interacting kinases 1 and 2 (mnk1 and mnk2) as targets for cancer therapy: recent progress in the development of mnk inhibitors. Current Medicinal Chemistry, 24:3025-3053, Sep 2017. URL: https://doi.org/10.2174/0929867324666170203123427, doi:10.2174/0929867324666170203123427. This article has 79 citations and is from a peer-reviewed journal.
+
+4. (hou2012targetingmnksfor pages 2-4): Jinqiang Hou, F. Lam, C. Proud, and Shudong Wang. Targeting mnks for cancer therapy. Oncotarget, 3:118-131, Feb 2012. URL: https://doi.org/10.18632/oncotarget.453, doi:10.18632/oncotarget.453. This article has 185 citations and is from a poor quality or predatory journal.
+
+5. (hou2012targetingmnksfor pages 4-6): Jinqiang Hou, F. Lam, C. Proud, and Shudong Wang. Targeting mnks for cancer therapy. Oncotarget, 3:118-131, Feb 2012. URL: https://doi.org/10.18632/oncotarget.453, doi:10.18632/oncotarget.453. This article has 185 citations and is from a poor quality or predatory journal.
+
+6. (jauch2005crystalstructuresof pages 1-2): R. Jauch, Stefan Jaekel, C. Netter, K. Schreiter, B. Aicher, H. Jäckle, and M. Wahl. Crystal structures of the mnk2 kinase domain reveal an inhibitory conformation and a zinc binding site. Structure, 13 10:1559-68, Oct 2005. URL: https://doi.org/10.1016/j.str.2005.07.013, doi:10.1016/j.str.2005.07.013. This article has 84 citations and is from a domain leading peer-reviewed journal.
+
+7. (jin2021progressindeveloping pages 2-3): Xin Jin, Rilei Yu, Xuemin Wang, Christopher G. Proud, and Tao Jiang. Progress in developing mnk inhibitors. European Journal of Medicinal Chemistry, 219:113420, Jul 2021. URL: https://doi.org/10.1016/j.ejmech.2021.113420, doi:10.1016/j.ejmech.2021.113420. This article has 41 citations and is from a domain leading peer-reviewed journal.
+
+8. (pintodiez2020deepinginthe pages 1-3): C. Pinto-Díez, R. Ferreras-Martín, R. Carrión-Marchante, V. Gonzalez, and M. E. Martín. Deeping in the role of the map-kinases interacting kinases (mnks) in cancer. International Journal of Molecular Sciences, Apr 2020. URL: https://doi.org/10.3390/ijms21082967, doi:10.3390/ijms21082967. This article has 41 citations and is from a peer-reviewed journal.
+
+9. (unknownauthors2015themapkinaseinteracting pages 32-37): The MAP-kinase interacting kinases (Mnks) as targets in cancer
+
+10. (xie2019themapkinaseinteracting pages 31-36): Jianling Xie, James E. Merrett, K. Jensen, and C. Proud. The map kinase-interacting kinases (mnks) as targets in oncology. Expert Opinion on Therapeutic Targets, 23:187-199, Jan 2019. URL: https://doi.org/10.1080/14728222.2019.1571043, doi:10.1080/14728222.2019.1571043. This article has 40 citations and is from a peer-reviewed journal.
+
+11. (xie2019themapkinaseinteracting pages 6-9): Jianling Xie, James E. Merrett, K. Jensen, and C. Proud. The map kinase-interacting kinases (mnks) as targets in oncology. Expert Opinion on Therapeutic Targets, 23:187-199, Jan 2019. URL: https://doi.org/10.1080/14728222.2019.1571043, doi:10.1080/14728222.2019.1571043. This article has 40 citations and is from a peer-reviewed journal.
+
+12. (johnson2023anatlasof pages 4-4): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+13. (joshi2014mnkkinasepathway pages 1-2): S. Joshi and L. Platanias. Mnk kinase pathway: cellular functions and biological outcomes. World journal of biological chemistry, 5 3:321-33, Aug 2014. URL: https://doi.org/10.4331/wjbc.v5.i3.321, doi:10.4331/wjbc.v5.i3.321. This article has 196 citations.
+
+14. (pintodiez2020deepinginthe pages 23-25): C. Pinto-Díez, R. Ferreras-Martín, R. Carrión-Marchante, V. Gonzalez, and M. E. Martín. Deeping in the role of the map-kinases interacting kinases (mnks) in cancer. International Journal of Molecular Sciences, Apr 2020. URL: https://doi.org/10.3390/ijms21082967, doi:10.3390/ijms21082967. This article has 41 citations and is from a peer-reviewed journal.
+
+15. (prabhu2020themnk12eif4eaxis pages 3-5): S. Prabhu, O. Moussa, W. Miller, and S. D. Del Rincon. The mnk1/2-eif4e axis as a potential therapeutic target in melanoma. International Journal of Molecular Sciences, Jun 2020. URL: https://doi.org/10.3390/ijms21114055, doi:10.3390/ijms21114055. This article has 38 citations and is from a peer-reviewed journal.
+
+16. (boupetit2022overcomingparadoxicalkinase pages 1-2): Elisabeth Bou-Petit, Stefan Hümmer, H. Alarcon, Konstantin Slobodnyuk, Marta Cano-Galietero, P. Fuentes, Pedro J. Guijarro, M. J. Muñoz, Leticia Suárez-Cabrera, A. Santamaría, R. Estrada-Tejedor, J. Borrell, and S. Ramón y. Cajal. Overcoming paradoxical kinase priming by a novel mnk1 inhibitor. Journal of Medicinal Chemistry, 65:6070-6087, Apr 2022. URL: https://doi.org/10.1021/acs.jmedchem.1c01941, doi:10.1021/acs.jmedchem.1c01941. This article has 13 citations and is from a highest quality peer-reviewed journal.
+
+17. (johnson2023anatlasof pages 6-7): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+18. (manning2002theproteinkinase pages 2-3): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+19. (unknownauthors2023investigatingthetherapeutic pages 147-152): Investigating the Therapeutic and Biological Impact of MNK1/2 Kinases

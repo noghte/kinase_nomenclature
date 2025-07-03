@@ -1,0 +1,96 @@
+## Phylogeny  
+MAST4 belongs to the MAST subfamily within the AGC serine/threonine kinase superfamily and is one of four mammalian paralogs (MAST1-4) that diverged early from the MAST-like (MASTL) lineage (lemke2025mastkinases’function pages 2-4). Orthologous tri-domain MAST kinases (DUF1908-kinase-PDZ) are conserved in invertebrates, including the Drosophila homolog Dop and related worm kinases, while protist and plant precursors retain only the DUF1908 domain (lemke2025mastkinases’function pages 4-6, rumpf2023microtubuleassociatedserinethreonine(mast) pages 14-16). Sequence analysis places MAST4 closest to MAST3; all four human paralogs share identical catalytic core motifs and an extended activation segment (~37 aa) (lemke2025mastkinases’function pages 17-18).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + protein-O-phospho-Ser/Thr (sakaji2023mast4promotesprimary pages 3-5, rumpf2023microtubuleassociatedserinethreonine(mast) pages 1-2).  
+
+## Cofactor Requirements  
+Catalysis requires a divalent metal ion coordinated by the DFG^522-524 loop; Mg²⁺ has been demonstrated for related AGC kinases and inferred for MAST4 (sakaji2023mast4promotesprimary pages 3-5, rumpf2023microtubuleassociatedserinethreonine(mast) pages 1-2).  
+
+## Substrate Specificity  
+Experimentally validated substrates  
+• Dynein light-chain Tctex-1, Thr94 (sakaji2023mast4promotesprimary pages 1-2).  
+• FOXO3 transcription factor, regulatory Ser/Thr sites leading to inactivation (fujiwaratani2024nuclearmast4suppresses pages 5-8).  
+• Sox9 transcription factor, Ser494 (lemke2025mastkinases’function pages 6-8).  
+A consensus phosphorylation motif for MAST4 has not been defined; large-scale mapping studies have yet to report a preferred sequence context (lemke2025mastkinases’function pages 12-14).  
+
+## Structure  
+Domain organisation (2 434 aa) (sakaji2023mast4promotesprimary pages 2-3)  
+N-terminal DUF1908 (regulatory/interaction) – central AGC kinase domain – C-terminal PDZ domain, flanked by intrinsically disordered regions (lemke2025mastkinases’function pages 17-18).  
+Key catalytic elements  
+• RD motif R^503-D^504-K^506 (catalysis) (sakaji2023mast4promotesprimary pages 3-5).  
+• DFG^522-524 loop (metal binding) (sakaji2023mast4promotesprimary pages 3-5).  
+• Autophosphorylation site Thr^535 in the activation segment (sakaji2023mast4promotesprimary pages 3-5).  
+3-D architecture  
+AlphaFold modeling shows a canonical bilobal kinase fold with an extended activation loop and conserved hydrophobic spine; domain alignments reveal near-identity of the ATP pocket across MAST1-4 (karpov2024predictionofproteinligand pages 1-2, lemke2025mastkinases’function pages 4-6). Pocket mapping identifies multiple conserved ligandable surfaces beyond the ATP cleft (karpov2024predictionofproteinligand pages 2-5). The DUF domain folds into an α-helical barrel predicted to mediate protein interactions (lemke2025mastkinases’function pages 4-6).  
+
+## Regulation  
+Post-translational modifications  
+• Autophosphorylation at Thr^535 is required for full catalytic activity (sakaji2023mast4promotesprimary pages 3-5).  
+• Multiple phospho-Ser/Thr sites in the DUF1908 and C-terminal regions create docking motifs for 14-3-3 proteins identified in interactome data (lemke2025mastkinases’function pages 8-11).  
+Transcriptional / post-transcriptional control  
+• miR-582-5p directly represses MAST4 mRNA; reduced miR-582-5p elevates MAST4 in gemcitabine-resistant pancreatic cancer cells (fujiwaratani2024nuclearmast4suppresses pages 5-8).  
+Subcellular localisation  
+• Serum stimulation targets MAST4 to basal bodies and axonemes in ciliated cells (sakaji2023mast4promotesprimary pages 6-7).  
+• In gemcitabine-resistant PDAC cells, MAST4 accumulates in the nucleus and complexes with AKT3 (fujiwaratani2024nuclearmast4suppresses pages 9-12).  
+
+## Function  
+Expression pattern  
+MAST4 exhibits the lowest baseline expression among MAST paralogs; protein is detectable in cytoplasm of brain, esophagus and bladder epithelia and in ciliated retinal pigment epithelial cells (lemke2025mastkinases’function pages 6-8). Nuclear over-expression is observed in pancreatic ductal adenocarcinoma (fujiwaratani2024nuclearmast4suppresses pages 8-9).  
+Biological roles  
+• Ciliary dynamics: phosphorylates Tctex-1 to activate Cdc42 and Rab5, driving serum-induced primary ciliary resorption during G1-S and G2-M transitions (sakaji2023mast4promotesprimary pages 6-7).  
+• Chemoresistance: nuclear MAST4 interacts with AKT3, enhances FOXO3 phosphorylation and promotes gemcitabine resistance in PDAC cells (fujiwaratani2024nuclearmast4suppresses pages 5-8, fujiwaratani2024nuclearmast4suppresses pages 9-12).  
+• Skeletal differentiation: phosphorylates Sox9 Ser494, leading to its degradation and favouring osteogenic differentiation of mesenchymal stromal cells (lemke2025mastkinases’function pages 6-8).  
+Interactome highlights  
+Tctex-1, AKT3, FOXO3, 14-3-3 proteins, Cdc42, Rab5 (sakaji2023mast4promotesprimary pages 6-7, fujiwaratani2024nuclearmast4suppresses pages 5-8, lemke2025mastkinases’function pages 8-11).  
+
+## Inhibitors  
+AX13587 inhibits MAST4 kinase activity in cell-based assays, reducing phosphorylation of AKT3 and FOXO3 and restoring gemcitabine sensitivity in pancreatic cancer models (fujiwaratani2024nuclearmast4suppresses pages 8-9). Structural analysis shows the ATP pocket is highly conserved across MAST kinases, potentially limiting selectivity of ATP-competitive compounds (karpov2024predictionofproteinligand pages 2-5).  
+
+## Other Comments  
+Disease associations  
+• High nuclear MAST4 correlates with poor overall survival and chemoresistance in pancreatic ductal adenocarcinoma (fujiwaratani2024nuclearmast4suppresses pages 8-9).  
+• MAST4 up-regulation contributes to osteolytic lesions in multiple myeloma via estrogen-responsive signalling (lemke2025mastkinases’function pages 6-8).  
+• Point mutation I898T in the catalytic hydrophobic-motif is linked to neurodevelopmental disability and predicts reduced kinase activity (lemke2025mastkinases’function pages 11-12).  
+• Co-over-expression of MAST4 and Tctex-1 has been reported in breast cancer (sakaji2023mast4promotesprimary pages 7-8).  
+• Impaired ciliary disassembly due to loss of MAST4 activity is implicated in ciliopathy-related pathologies (sakaji2023mast4promotesprimary pages 1-2).
+
+References
+
+1. (fujiwaratani2024nuclearmast4suppresses pages 5-8): Rina Fujiwara-Tani, Takamitsu Sasaki, U. Bhawal, Shiori Mori, Ruiko Ogata, Rika Sasaki, Ayaka Ikemoto, Shingo Kishi, K. Fujii, Hitoshi Ohmori, Masayuki Sho, and Hiroki Kuniyasu. Nuclear mast4 suppresses foxo3 through interaction with akt3 and induces chemoresistance in pancreatic ductal carcinoma. International Journal of Molecular Sciences, Apr 2024. URL: https://doi.org/10.3390/ijms25074056, doi:10.3390/ijms25074056. This article has 3 citations and is from a peer-reviewed journal.
+
+2. (fujiwaratani2024nuclearmast4suppresses pages 9-12): Rina Fujiwara-Tani, Takamitsu Sasaki, U. Bhawal, Shiori Mori, Ruiko Ogata, Rika Sasaki, Ayaka Ikemoto, Shingo Kishi, K. Fujii, Hitoshi Ohmori, Masayuki Sho, and Hiroki Kuniyasu. Nuclear mast4 suppresses foxo3 through interaction with akt3 and induces chemoresistance in pancreatic ductal carcinoma. International Journal of Molecular Sciences, Apr 2024. URL: https://doi.org/10.3390/ijms25074056, doi:10.3390/ijms25074056. This article has 3 citations and is from a peer-reviewed journal.
+
+3. (karpov2024predictionofproteinligand pages 1-2): P. Karpov, A. O. Steshenko, S. Ozheredov, and Y. Blume. Prediction of protein-ligand binding sites modulating activity of mast protein kinases. Faktori eksperimental'noi evolucii organizmiv, Sep 2024. URL: https://doi.org/10.7124/feeo.v35.1677, doi:10.7124/feeo.v35.1677. This article has 0 citations.
+
+4. (lemke2025mastkinases’function pages 17-18): Michael C. Lemke, Nithin R. Avala, Michael T. Rader, Stefan R. Hargett, Daniel S. Lank, Brandon D. Seltzer, and Thurl E. Harris. Mast kinases’ function and regulation: insights from structural modeling and disease mutations. Biomedicines, 13:925, Apr 2025. URL: https://doi.org/10.3390/biomedicines13040925, doi:10.3390/biomedicines13040925. This article has 0 citations and is from a peer-reviewed journal.
+
+5. (lemke2025mastkinases’function pages 6-8): Michael C. Lemke, Nithin R. Avala, Michael T. Rader, Stefan R. Hargett, Daniel S. Lank, Brandon D. Seltzer, and Thurl E. Harris. Mast kinases’ function and regulation: insights from structural modeling and disease mutations. Biomedicines, 13:925, Apr 2025. URL: https://doi.org/10.3390/biomedicines13040925, doi:10.3390/biomedicines13040925. This article has 0 citations and is from a peer-reviewed journal.
+
+6. (sakaji2023mast4promotesprimary pages 2-3): Kensuke Sakaji, Sara Ebrahimiazar, Yasuhiro Harigae, Kenichi Ishibashi, Takeya Sato, Takeo Yoshikawa, Gen-ichi Atsumi, Ching-Hwa Sung, and Masaki Saito. Mast4 promotes primary ciliary resorption through phosphorylation of tctex-1. Life Science Alliance, 6:e202301947, Sep 2023. URL: https://doi.org/10.26508/lsa.202301947, doi:10.26508/lsa.202301947. This article has 4 citations and is from a peer-reviewed journal.
+
+7. (fujiwaratani2024nuclearmast4suppresses pages 8-9): Rina Fujiwara-Tani, Takamitsu Sasaki, U. Bhawal, Shiori Mori, Ruiko Ogata, Rika Sasaki, Ayaka Ikemoto, Shingo Kishi, K. Fujii, Hitoshi Ohmori, Masayuki Sho, and Hiroki Kuniyasu. Nuclear mast4 suppresses foxo3 through interaction with akt3 and induces chemoresistance in pancreatic ductal carcinoma. International Journal of Molecular Sciences, Apr 2024. URL: https://doi.org/10.3390/ijms25074056, doi:10.3390/ijms25074056. This article has 3 citations and is from a peer-reviewed journal.
+
+8. (lemke2025mastkinases’function pages 11-12): Michael C. Lemke, Nithin R. Avala, Michael T. Rader, Stefan R. Hargett, Daniel S. Lank, Brandon D. Seltzer, and Thurl E. Harris. Mast kinases’ function and regulation: insights from structural modeling and disease mutations. Biomedicines, 13:925, Apr 2025. URL: https://doi.org/10.3390/biomedicines13040925, doi:10.3390/biomedicines13040925. This article has 0 citations and is from a peer-reviewed journal.
+
+9. (lemke2025mastkinases’function pages 12-14): Michael C. Lemke, Nithin R. Avala, Michael T. Rader, Stefan R. Hargett, Daniel S. Lank, Brandon D. Seltzer, and Thurl E. Harris. Mast kinases’ function and regulation: insights from structural modeling and disease mutations. Biomedicines, 13:925, Apr 2025. URL: https://doi.org/10.3390/biomedicines13040925, doi:10.3390/biomedicines13040925. This article has 0 citations and is from a peer-reviewed journal.
+
+10. (lemke2025mastkinases’function pages 2-4): Michael C. Lemke, Nithin R. Avala, Michael T. Rader, Stefan R. Hargett, Daniel S. Lank, Brandon D. Seltzer, and Thurl E. Harris. Mast kinases’ function and regulation: insights from structural modeling and disease mutations. Biomedicines, 13:925, Apr 2025. URL: https://doi.org/10.3390/biomedicines13040925, doi:10.3390/biomedicines13040925. This article has 0 citations and is from a peer-reviewed journal.
+
+11. (lemke2025mastkinases’function pages 4-6): Michael C. Lemke, Nithin R. Avala, Michael T. Rader, Stefan R. Hargett, Daniel S. Lank, Brandon D. Seltzer, and Thurl E. Harris. Mast kinases’ function and regulation: insights from structural modeling and disease mutations. Biomedicines, 13:925, Apr 2025. URL: https://doi.org/10.3390/biomedicines13040925, doi:10.3390/biomedicines13040925. This article has 0 citations and is from a peer-reviewed journal.
+
+12. (rumpf2023microtubuleassociatedserinethreonine(mast) pages 14-16): Marie Rumpf, Sabine Pautz, Benedikt Drebes, Friedrich W. Herberg, and Hans-Arno J. Müller. Microtubule-associated serine/threonine (mast) kinases in development and disease. International Journal of Molecular Sciences, 24:11913, Jul 2023. URL: https://doi.org/10.3390/ijms241511913, doi:10.3390/ijms241511913. This article has 6 citations and is from a peer-reviewed journal.
+
+13. (sakaji2023mast4promotesprimary pages 1-2): Kensuke Sakaji, Sara Ebrahimiazar, Yasuhiro Harigae, Kenichi Ishibashi, Takeya Sato, Takeo Yoshikawa, Gen-ichi Atsumi, Ching-Hwa Sung, and Masaki Saito. Mast4 promotes primary ciliary resorption through phosphorylation of tctex-1. Life Science Alliance, 6:e202301947, Sep 2023. URL: https://doi.org/10.26508/lsa.202301947, doi:10.26508/lsa.202301947. This article has 4 citations and is from a peer-reviewed journal.
+
+14. (sakaji2023mast4promotesprimary pages 3-5): Kensuke Sakaji, Sara Ebrahimiazar, Yasuhiro Harigae, Kenichi Ishibashi, Takeya Sato, Takeo Yoshikawa, Gen-ichi Atsumi, Ching-Hwa Sung, and Masaki Saito. Mast4 promotes primary ciliary resorption through phosphorylation of tctex-1. Life Science Alliance, 6:e202301947, Sep 2023. URL: https://doi.org/10.26508/lsa.202301947, doi:10.26508/lsa.202301947. This article has 4 citations and is from a peer-reviewed journal.
+
+15. (sakaji2023mast4promotesprimary pages 6-7): Kensuke Sakaji, Sara Ebrahimiazar, Yasuhiro Harigae, Kenichi Ishibashi, Takeya Sato, Takeo Yoshikawa, Gen-ichi Atsumi, Ching-Hwa Sung, and Masaki Saito. Mast4 promotes primary ciliary resorption through phosphorylation of tctex-1. Life Science Alliance, 6:e202301947, Sep 2023. URL: https://doi.org/10.26508/lsa.202301947, doi:10.26508/lsa.202301947. This article has 4 citations and is from a peer-reviewed journal.
+
+16. (sakaji2023mast4promotesprimary pages 7-8): Kensuke Sakaji, Sara Ebrahimiazar, Yasuhiro Harigae, Kenichi Ishibashi, Takeya Sato, Takeo Yoshikawa, Gen-ichi Atsumi, Ching-Hwa Sung, and Masaki Saito. Mast4 promotes primary ciliary resorption through phosphorylation of tctex-1. Life Science Alliance, 6:e202301947, Sep 2023. URL: https://doi.org/10.26508/lsa.202301947, doi:10.26508/lsa.202301947. This article has 4 citations and is from a peer-reviewed journal.
+
+17. (karpov2024predictionofproteinligand pages 2-5): P. Karpov, A. O. Steshenko, S. Ozheredov, and Y. Blume. Prediction of protein-ligand binding sites modulating activity of mast protein kinases. Faktori eksperimental'noi evolucii organizmiv, Sep 2024. URL: https://doi.org/10.7124/feeo.v35.1677, doi:10.7124/feeo.v35.1677. This article has 0 citations.
+
+18. (lemke2025mastkinases’function pages 8-11): Michael C. Lemke, Nithin R. Avala, Michael T. Rader, Stefan R. Hargett, Daniel S. Lank, Brandon D. Seltzer, and Thurl E. Harris. Mast kinases’ function and regulation: insights from structural modeling and disease mutations. Biomedicines, 13:925, Apr 2025. URL: https://doi.org/10.3390/biomedicines13040925, doi:10.3390/biomedicines13040925. This article has 0 citations and is from a peer-reviewed journal.
+
+19. (rumpf2023microtubuleassociatedserinethreonine(mast) pages 1-2): Marie Rumpf, Sabine Pautz, Benedikt Drebes, Friedrich W. Herberg, and Hans-Arno J. Müller. Microtubule-associated serine/threonine (mast) kinases in development and disease. International Journal of Molecular Sciences, 24:11913, Jul 2023. URL: https://doi.org/10.3390/ijms241511913, doi:10.3390/ijms241511913. This article has 6 citations and is from a peer-reviewed journal.

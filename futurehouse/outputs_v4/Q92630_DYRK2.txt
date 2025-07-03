@@ -1,0 +1,88 @@
+Phylogeny  
+• CMGC kinase group → DYRK family → class II branch comprising DYRK2, DYRK3 and DYRK4 (correasaez2020updatingdualspecificitytyrosinephosphorylationregulated pages 1-2).  
+• Orthologs are present from yeast to mammals; examples include C. elegans MBK-2 and Drosophila dDyrk3, both corresponding to mammalian DYRK2 (deboever2022theomnipresenceof pages 1-3).  
+• Additional conservation extends to yeast, plants, unicellular algae and parasites (lindberg2021dualspecificitytyrosinephosphorylationregulated pages 2-4).  
+• The catalytic domain shares >90 % sequence identity with DYRK3, reflecting recent divergence within class II DYRKs (tandon2021emergingrolesof pages 1-2).  
+
+Reaction Catalyzed  
+ATP + protein-L-Ser/Thr ⇌ ADP + protein-O-phospho-L-Ser/Thr (chowdhury2023cmgckinasesin pages 9-10).  
+
+Cofactor Requirements  
+Activity requires divalent Mg²⁺ or Mn²⁺ ions (becker1998sequencecharacteristicssubcellular pages 10-11).  
+
+Substrate Specificity  
+• Preferred consensus: R-x(0-2)-S/T-P, with an arginine at −2/−3 and a proline at +1 (correasaez2020updatingdualspecificitytyrosinephosphorylationregulated pages 4-7).  
+• Johnson 2023 kinome atlas refines the motif to ‘Rx(x)S/TP’ for DYRK2 substrates (correasaez2020updatingdualspecificitytyrosinephosphorylationregulated pages 13-14).  
+• Kinase frequently primes substrates for downstream GSK3β phosphorylation (chowdhury2023cmgckinasesin pages 9-10).  
+• Peptide-library profiling indicates reduced tolerance for proline at the +1 position in selected substrates (soundararajan2013structuresofdown pages 1-2).  
+
+Structure  
+• Domain organisation: N-terminal NAPA1/NAPA2 autophosphorylation accessory regions, nuclear localisation signal (aa 189-191), DYRK-homology (DH) box (aa 200-210), catalytic kinase domain (aa 222-535) containing the YxY activation loop, and a CMGC-specific insert (correasaez2020updatingdualspecificitytyrosinephosphorylationregulated pages 1-2).  
+• Solved crystal structures: apo form PDB 3KL2, curcumin-bound PDB 5ZTN, inhibitor complex PDB 6K0J; all reveal the canonical bilobal fold with phosphorylated Tyr382 stabilising the activation loop (correasaez2020updatingdualspecificitytyrosinephosphorylationregulated pages 1-2).  
+• Active-site elements: Lys251 (VAIK motif) anchors ATP, HRD-His functions as catalytic base, DFG-Asp coordinates Mg²⁺, and pTyr382 completes the regulatory hydrophobic spine (unknownauthors2022determinationofnew pages 35-38).  
+
+Regulation  
+• Autophosphorylation on Tyr382 is obligatory for full activity (correasaez2020updatingdualspecificitytyrosinephosphorylationregulated pages 11-13).  
+• ATM kinase phosphorylates Thr33 and Ser369 after DNA damage, prevents MDM2-mediated degradation and promotes nuclear retention (unknownauthors2022determinationofnew pages 35-38).  
+• MAP3K10 phosphorylates Thr308 and Ser376, linking Hedgehog signalling to DYRK2 (correasaez2020updatingdualspecificitytyrosinephosphorylationregulated pages 4-7).  
+• Prolyl-4-hydroxylation at Pro441 enhances subsequent Tyr382 autophosphorylation (lindberg2021dualspecificitytyrosinephosphorylationregulated pages 2-4).  
+• Ubiquitination by SIAH2 and by the EDVP (EDD-DDB1-VprBP) E3 complex targets DYRK2 for proteasomal degradation; ATM-dependent phosphorylation counteracts this process (tandon2021emergingrolesof pages 1-2, unknownauthors2022determinationofnew pages 35-38).  
+• Cep78 modulates EDVP complex assembly, thereby influencing DYRK2 stability (unknownauthors2022determinationofnew pages 35-38).  
+
+Function  
+• Highest transcript levels occur in small intestine and heart muscle (correasaez2020updatingdualspecificitytyrosinephosphorylationregulated pages 1-2).  
+• Protein is enriched in neuronal tissue and participates in neurodevelopmental processes (santosduran2022rolesofdual pages 7-8).  
+• Upstream regulator ATM activates DYRK2 during DNA-damage signalling (chowdhury2023cmgckinasesin pages 9-10).  
+• DYRK2 phosphorylates p53 at Ser46, triggering apoptosis (chowdhury2023cmgckinasesin pages 9-10).  
+• Phosphorylates NFATC1, limiting its nuclear accumulation and transcriptional output (chowdhury2023cmgckinasesin pages 9-10).  
+• Phosphorylates EIF2B5 at Ser544 to facilitate subsequent GSK3β-mediated inhibition (chowdhury2023cmgckinasesin pages 9-10).  
+• Targets CRMP2 and CRMP4 to prime GSK3β during neuronal morphogenesis (correasaez2020updatingdualspecificitytyrosinephosphorylationregulated pages 4-7).  
+• Inactivates glycogen synthase by phosphorylating GYS1 at Ser641 (correasaez2020updatingdualspecificitytyrosinephosphorylationregulated pages 4-7).  
+• Promotes degradation of c-Myc, c-Jun and GLI2 via sequential GSK3β phosphorylation (chowdhury2023cmgckinasesin pages 9-10).  
+• Acts as scaffold for the EDVP E3 ligase, directing proteasomal turnover of substrates such as TERT (correasaez2020updatingdualspecificitytyrosinephosphorylationregulated pages 14-15).  
+• Modulates 26S proteasome activity to maintain proteostasis (tandon2021emergingrolesof pages 1-2).  
+• Controls G2/M progression and spindle dynamics during mitosis (unknownauthors2022determinationofnew pages 35-38).  
+
+Inhibitors  
+• LDN-192960: ATP-competitive, IC₅₀ ≈ 13 nM against DYRK2 (tandon2021emergingrolesof pages 11-12).  
+• Harmine: pan-DYRK inhibitor, IC₅₀ ≈ 0.8 µM for DYRK2 (correasaez2020updatingdualspecificitytyrosinephosphorylationregulated pages 1-2).  
+• Curcumin: non-selective inhibitor, nanomolar potency; co-crystallised in PDB 5ZTN (correasaez2020updatingdualspecificitytyrosinephosphorylationregulated pages 1-2).  
+• AZ191, 7BIO and ID-8 exhibit micromolar inhibition in biochemical assays (correasaez2020updatingdualspecificitytyrosinephosphorylationregulated pages 11-13).  
+
+Other Comments  
+• Reduced DYRK2 expression is associated with poor prognosis in colorectal, bladder and ovarian cancers, whereas over-expression promotes progression in certain breast and lung carcinomas (boni2020thedyrkfamily pages 23-25).  
+• Cancer-specific mutations at the EDVP-interaction surface alter substrate selectivity, explaining context-dependent tumour-suppressor versus oncogenic roles (tandon2021emergingrolesof pages 12-13).
+
+References
+
+1. (chowdhury2023cmgckinasesin pages 9-10): Iftekhar Chowdhury, Giovanna Dashi, and S. Keskitalo. Cmgc kinases in health and cancer. Cancers, Jul 2023. URL: https://doi.org/10.3390/cancers15153838, doi:10.3390/cancers15153838. This article has 19 citations and is from a peer-reviewed journal.
+
+2. (correasaez2020updatingdualspecificitytyrosinephosphorylationregulated pages 1-2): Alejandro Correa-Sáez, Rafael Jiménez-Izquierdo, Martín Garrido-Rodríguez, Rosario Morrugares, Eduardo Muñoz, and Marco A. Calzado. Updating dual-specificity tyrosine-phosphorylation-regulated kinase 2 (dyrk2): molecular basis, functions and role in diseases. Cellular and Molecular Life Sciences, 77:4747-4763, May 2020. URL: https://doi.org/10.1007/s00018-020-03556-1, doi:10.1007/s00018-020-03556-1. This article has 42 citations and is from a domain leading peer-reviewed journal.
+
+3. (correasaez2020updatingdualspecificitytyrosinephosphorylationregulated pages 11-13): Alejandro Correa-Sáez, Rafael Jiménez-Izquierdo, Martín Garrido-Rodríguez, Rosario Morrugares, Eduardo Muñoz, and Marco A. Calzado. Updating dual-specificity tyrosine-phosphorylation-regulated kinase 2 (dyrk2): molecular basis, functions and role in diseases. Cellular and Molecular Life Sciences, 77:4747-4763, May 2020. URL: https://doi.org/10.1007/s00018-020-03556-1, doi:10.1007/s00018-020-03556-1. This article has 42 citations and is from a domain leading peer-reviewed journal.
+
+4. (correasaez2020updatingdualspecificitytyrosinephosphorylationregulated pages 13-14): Alejandro Correa-Sáez, Rafael Jiménez-Izquierdo, Martín Garrido-Rodríguez, Rosario Morrugares, Eduardo Muñoz, and Marco A. Calzado. Updating dual-specificity tyrosine-phosphorylation-regulated kinase 2 (dyrk2): molecular basis, functions and role in diseases. Cellular and Molecular Life Sciences, 77:4747-4763, May 2020. URL: https://doi.org/10.1007/s00018-020-03556-1, doi:10.1007/s00018-020-03556-1. This article has 42 citations and is from a domain leading peer-reviewed journal.
+
+5. (correasaez2020updatingdualspecificitytyrosinephosphorylationregulated pages 4-7): Alejandro Correa-Sáez, Rafael Jiménez-Izquierdo, Martín Garrido-Rodríguez, Rosario Morrugares, Eduardo Muñoz, and Marco A. Calzado. Updating dual-specificity tyrosine-phosphorylation-regulated kinase 2 (dyrk2): molecular basis, functions and role in diseases. Cellular and Molecular Life Sciences, 77:4747-4763, May 2020. URL: https://doi.org/10.1007/s00018-020-03556-1, doi:10.1007/s00018-020-03556-1. This article has 42 citations and is from a domain leading peer-reviewed journal.
+
+6. (deboever2022theomnipresenceof pages 1-3): E. Deboever, Alessandra Fistrovich, C. Hulme, and T. Dunckley. The omnipresence of dyrk1a in human diseases. International Journal of Molecular Sciences, Aug 2022. URL: https://doi.org/10.3390/ijms23169355, doi:10.3390/ijms23169355. This article has 45 citations and is from a peer-reviewed journal.
+
+7. (lindberg2021dualspecificitytyrosinephosphorylationregulated pages 2-4): M. F. Lindberg and L. Meijer. Dual-specificity, tyrosine phosphorylation-regulated kinases (dyrks) and cdc2-like kinases (clks) in human disease, an overview. International Journal of Molecular Sciences, Jun 2021. URL: https://doi.org/10.3390/ijms22116047, doi:10.3390/ijms22116047. This article has 93 citations and is from a peer-reviewed journal.
+
+8. (santosduran2022rolesofdual pages 7-8): Gabriel Nicolás Santos-Durán and Antón Barreiro-Iglesias. Roles of dual specificity tyrosine-phosphorylation-regulated kinase 2 in nervous system development and disease. Frontiers in Neuroscience, Sep 2022. URL: https://doi.org/10.3389/fnins.2022.994256, doi:10.3389/fnins.2022.994256. This article has 11 citations and is from a peer-reviewed journal.
+
+9. (soundararajan2013structuresofdown pages 1-2): Meera Soundararajan, A. Roos, P. Savitsky, P. Filippakopoulos, A. Kettenbach, J. Olsen, S. Gerber, J. Eswaran, S. Knapp, and J. Elkins. Structures of down syndrome kinases, dyrks, reveal mechanisms of kinase activation and substrate recognition. Structure(London, England:1993), 21:986-996, Jun 2013. URL: https://doi.org/10.1016/j.str.2013.03.012, doi:10.1016/j.str.2013.03.012. This article has 181 citations.
+
+10. (tandon2021emergingrolesof pages 1-2): Vasudha Tandon, L. de la Vega, and Sourav Banerjee. Emerging roles of dyrk2 in cancer. The Journal of Biological Chemistry, Dec 2021. URL: https://doi.org/10.1074/jbc.rev120.015217, doi:10.1074/jbc.rev120.015217. This article has 54 citations.
+
+11. (unknownauthors2022determinationofnew pages 35-38): Determination of new DYRK2 functions in response to genotoxic stress
+
+12. (becker1998sequencecharacteristicssubcellular pages 10-11): W. Becker, Y. Weber, K. Wetzel, Klaus Eirmbter, F. Tejedor, and H. Joost. Sequence characteristics, subcellular localization, and substrate specificity of dyrk-related kinases, a novel family of dual specificity protein kinases*. The Journal of Biological Chemistry, 273:25893-25902, Oct 1998. URL: https://doi.org/10.1074/jbc.273.40.25893, doi:10.1074/jbc.273.40.25893. This article has 349 citations.
+
+13. (boni2020thedyrkfamily pages 23-25): Jacopo Boni, C. Rubio-Perez, N. López-Bigas, C. Fillat, and S. de la Luna. The dyrk family of kinases in cancer: molecular functions and therapeutic opportunities. Cancers, Jul 2020. URL: https://doi.org/10.3390/cancers12082106, doi:10.3390/cancers12082106. This article has 90 citations and is from a peer-reviewed journal.
+
+14. (correasaez2020updatingdualspecificitytyrosinephosphorylationregulated pages 14-15): Alejandro Correa-Sáez, Rafael Jiménez-Izquierdo, Martín Garrido-Rodríguez, Rosario Morrugares, Eduardo Muñoz, and Marco A. Calzado. Updating dual-specificity tyrosine-phosphorylation-regulated kinase 2 (dyrk2): molecular basis, functions and role in diseases. Cellular and Molecular Life Sciences, 77:4747-4763, May 2020. URL: https://doi.org/10.1007/s00018-020-03556-1, doi:10.1007/s00018-020-03556-1. This article has 42 citations and is from a domain leading peer-reviewed journal.
+
+15. (tandon2021emergingrolesof pages 11-12): Vasudha Tandon, L. de la Vega, and Sourav Banerjee. Emerging roles of dyrk2 in cancer. The Journal of Biological Chemistry, Dec 2021. URL: https://doi.org/10.1074/jbc.rev120.015217, doi:10.1074/jbc.rev120.015217. This article has 54 citations.
+
+16. (tandon2021emergingrolesof pages 12-13): Vasudha Tandon, L. de la Vega, and Sourav Banerjee. Emerging roles of dyrk2 in cancer. The Journal of Biological Chemistry, Dec 2021. URL: https://doi.org/10.1074/jbc.rev120.015217, doi:10.1074/jbc.rev120.015217. This article has 54 citations.

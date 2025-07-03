@@ -1,0 +1,110 @@
+## Phylogeny
+CDK11A is classified within the eukaryotic protein kinase (ePK) superfamily, belonging to the CMGC group, which also includes mitogen-activated protein kinases (MAPKs), glycogen synthase kinases (GSKs), and CDK-like kinases (CLKs) (manning2002theproteinkinase pages 1-2, 2-3, 3-4; manning2002evolutionofprotein pages 2-3). It is a member of the Cyclin-Dependent Kinase (CDK) family and is phylogenetically related to other CDKs involved in cell cycle regulation and transcription (manning2002theproteinkinase pages 1-1, 1-2, 7-8; manning2002evolutionofprotein pages 1-2).
+
+CDK11A is a close paralog of CDK8, sharing 91% protein sequence identity over most of their lengths (manning2002theproteinkinase pages 2-3). The gene duplication event that created CDK11 from an ancestral CDK8/CDK11 kinase is specific to vertebrates (manning2002theproteinkinase pages 2-3). Orthologs of CDK11A are found in model organisms such as mouse, and related family members exist in *Drosophila melanogaster* (fly), *Caenorhabditis elegans* (worm), and *Saccharomyces cerevisiae* (yeast), which have a single member of the CDK8/CDK11 family (manning2002theproteinkinase pages 1-2, 2-3, 7-8).
+
+
+## Reaction Catalyzed
+ATP + a protein = ADP + a phosphoprotein (johnson2023anatlasof pages 10-11).
+
+
+## Cofactor Requirements
+The kinase activity of CDK11A requires a divalent cation cofactor, typically magnesium (Mg²⁺) or manganese (Mn²⁺), which is essential for coordinating ATP in the active site and facilitating catalysis (karimbayli2024insightsintothe pages 2-4; wood2018structuralinsightsinto pages 3-4; unknownauthors2011molecularmodellingand pages 21-26; unknownauthors2021biochemicalcharacterizationof pages 23-28).
+
+
+## Substrate Specificity
+CDK11A is a serine/threonine kinase that demonstrates proline-directed substrate specificity (johnson2023anatlasof pages 2-3, 3-4). It preferentially phosphorylates serine or threonine residues that are immediately followed by a proline, which corresponds to the consensus motif [S/T]–P (johnson2023anatlasof pages 3-4, 12-18). As a transcriptional CDK, its substrate motif contains additional preferences in flanking positions that distinguish it from the motifs of classical cell-cycle CDKs (johnson2023anatlasof pages 3-4). The substrate specificity profile for CDK11A has been determined using position-specific scoring matrices (PSSMs) derived from peptide library screening (johnson2023anatlasof pages 10-11).
+
+
+## Structure
+The CDK11A kinase domain has a canonical bi-lobal architecture, with a smaller N-terminal lobe composed mostly of beta-sheets and a larger C-terminal lobe dominated by alpha-helices (karimbayli2024insightsintothe pages 2-4; wood2018structuralinsightsinto pages 4-5; unknownauthors2011molecularmodellingand pages 21-26). The crystal structure of the CDK11 kinase domain bound to the inhibitor OTS964 shows an active-like conformation (kelso2022crystalstructureof pages 16-20).
+
+Key structural features include the glycine-rich loop and the C-helix (or αC-helix) located in the N-terminal lobe, and the activation loop (or T-loop) located in the C-terminal lobe (wood2018structuralinsightsinto pages 3-4; unknownauthors2011molecularmodellingand pages 21-26; karimbayli2024insightsintothe pages 2-4). The ATP binding pocket is situated in the cleft between the two lobes (unknownauthors2011molecularmodellingand pages 21-26). The unique glycine residue at the xDFG position (Gly223) is critical for high-affinity binding of the inhibitor OTS964 (kelso2022crystalstructureof pages 5-6).
+
+
+## Regulation
+CDK11A activity is regulated through multiple mechanisms, including binding to regulatory partners, post-translational modifications, and isoform expression.
+
+Its kinase activity requires association with cyclin partners, predominantly Cyclin L1 and Cyclin L2 (loyer2020rolesofcdkcyclin pages 5-6, 6-6; unknownauthors2020investigatingtherole pages 21-25; unknownauthors2023genomewidecrisprscreening pages 32-35).
+
+Phosphorylation is a key regulatory event. The kinase is regulated by phosphorylation at activation sites, including a critical threonine residue (Thr229) within the activation segment (kelso2022crystalstructureof pages 16-20; loyer2020rolesofcdkcyclin pages 9-9). Upstream kinases identified as capable of phosphorylating CDK11 include Checkpoint Kinase 2 (CHK2) and casein kinase 2 (unknownauthors2020investigatingtherole pages 25-28, 71-75).
+
+CDK11A exists as multiple isoforms with distinct regulatory mechanisms. The full-length CDK11p110 is constitutively expressed (unknownauthors2023genomewidecrisprscreening pages 32-35). The CDK11p58 isoform is specifically translated via an internal ribosome entry site (IRES) during the G2/M phase of the cell cycle (loyer2020rolesofcdkcyclin pages 5-6; unknownauthors2023genomewidecrisprscreening pages 32-35). During apoptosis, caspase-dependent cleavage produces the catalytically active CDK11p46 isoform and the CDK11p60 fragment (loyer2020rolesofcdkcyclin pages 5-6).
+
+
+## Function
+CDK11A is a ubiquitously expressed nuclear enzyme that plays multiple roles in transcription, pre-mRNA splicing, cell cycle regulation, apoptosis, and autophagy (blazek2023therapeuticpotentialof pages 1-3).
+
+In transcription and splicing, CDK11/cyclin L complexes associate with the hyperphosphorylated form of RNA polymerase II (RNAPII) and phosphorylate its C-terminal domain (CTD) (loyer2020rolesofcdkcyclin pages 6-6; unknownauthors2020investigatingtherole pages 25-28). It also phosphorylates splicing factors, including SF3B1 and SFRS7 (9G8), thereby regulating pre-mRNA spliceosome assembly and alternative splicing (blazek2023therapeuticpotentialof pages 1-3; loyer2020rolesofcdkcyclin pages 5-6, 6-6, 9-9). Known interacting partners in these processes include RNPS1, RNAPII, TFIIF, TFIIS, and ELL2 (loyer2020rolesofcdkcyclin pages 6-6; unknownauthors2020investigatingtherole pages 25-28).
+
+In cell cycle control, CDK11 is involved in G2/M phase progression, and its depletion leads to G2/M arrest (li2022synthesisandstructureactivity pages 1-3; lin2019offtargettoxicityis pages 8-9). The CDK11p58 isoform has specific roles in sister chromatid cohesion, spindle formation, and cytokinesis (unknownauthors2023genomewidecrisprscreening pages 32-35).
+
+In apoptosis, caspase-mediated cleavage of CDK11 generates the p46 and p60 isoforms. The p46 isoform promotes apoptosis by targeting eIF3 subunits to inhibit translation, while the p60 fragment relocates to mitochondria (loyer2020rolesofcdkcyclin pages 5-6; unknownauthors2020investigatingtherole pages 25-28).
+
+
+## Inhibitors
+OTS964 is a potent and selective inhibitor of CDK11, initially identified as a TOPK inhibitor (blazek2023therapeuticpotentialof pages 1-3; kelso2022crystalstructureof pages 3-5). It binds to CDK11B with a KD of 40 nM and has over 10-fold selectivity against other CDKs (lin2019offtargettoxicityis pages 8-9). One source describes the OTS964 scaffold as nonselective (li2022synthesisandstructureactivity pages 1-3). Inhibition of CDK11 by OTS964 disrupts pre-mRNA splicing by blocking spliceosome assembly (blazek2023therapeuticpotentialof pages 1-3).
+
+ZNL-05-044 is another inhibitor based on a diaminothiazole scaffold that targets CDK11 but is less potent than OTS964 (kelso2022crystalstructureof pages 3-5; li2022synthesisandstructureactivity pages 1-3).
+
+
+## Other Comments
+CDK11A is overexpressed in numerous cancers, including osteosarcoma, breast cancer, multiple myeloma, ovarian cancer, liposarcoma, colon cancer, melanoma, and esophageal squamous cell carcinoma (blazek2023therapeuticpotentialof pages 1-3; kelso2022crystalstructureof pages 3-5). Its overexpression often correlates with poor clinical outcomes and increased malignancy (blazek2023therapeuticpotentialof pages 1-3; loyer2020rolesofcdkcyclin pages 8-9). The growth of many cancer cell types is dependent on CDK11 (blazek2023therapeuticpotentialof pages 1-3; lin2019offtargettoxicityis pages 8-9). Cell lines with inactivating mutations in the tumor suppressor FBXW7 show increased sensitivity to CDK11 inhibition (kelso2022crystalstructureof pages 3-5). CDK11 has also been implicated in neuroblastoma, AIDS, and Alzheimer's disease (unknownauthors2020investigatingtherole pages 21-25).
+
+Specific mutations in CDK11 have been identified that confer resistance to the inhibitor OTS964. These include G223S, G223A, E89G, and M160F, which interfere with inhibitor binding (kelso2022crystalstructureof pages 16-20, 20-26; kelso2022crystalstructureof pages 3-5). The G223S mutation (corresponding to G579S in CDK11B) has been shown to confer resistance in multiple cancer cell lines (kelso2022crystalstructureof pages 16-20; lin2019offtargettoxicityis pages 7-8).
+
+References
+
+1. (blazek2023therapeuticpotentialof pages 1-3): Dalibor Blazek. Therapeutic potential of cdk11 in cancer. Clinical and Translational Medicine, Feb 2023. URL: https://doi.org/10.1002/ctm2.1201, doi:10.1002/ctm2.1201. This article has 4 citations and is from a peer-reviewed journal.
+
+2. (kelso2022crystalstructureof pages 16-20): S. Kelso, Siobhan O’Brien, I. Kurinov, S. Angers, and F. Sicheri. Crystal structure of the cdk11 kinase domain bound to the small-molecule inhibitor ots964. Structure, Oct 2022. URL: https://doi.org/10.1016/j.str.2022.10.003, doi:10.1016/j.str.2022.10.003. This article has 7 citations and is from a domain leading peer-reviewed journal.
+
+3. (kelso2022crystalstructureof pages 3-5): S. Kelso, Siobhan O’Brien, I. Kurinov, S. Angers, and F. Sicheri. Crystal structure of the cdk11 kinase domain bound to the small-molecule inhibitor ots964. Structure, Oct 2022. URL: https://doi.org/10.1016/j.str.2022.10.003, doi:10.1016/j.str.2022.10.003. This article has 7 citations and is from a domain leading peer-reviewed journal.
+
+4. (li2022synthesisandstructureactivity pages 1-3): Zhengnian Li, Ryosuke Ishida, Y. Liu, Jinhua Wang, Yina Li, Yang Gao, Jie Jiang, Jianwei Che, J. Sheltzer, M. Robers, Tinghu Zhang, K. Westover, Behnam Nabet, and N. Gray. Synthesis and structure-activity relationships of cyclin-dependent kinase 11 inhibitors based on a diaminothiazole scaffold. European journal of medicinal chemistry, 238:114433, May 2022. URL: https://doi.org/10.1016/j.ejmech.2022.114433, doi:10.1016/j.ejmech.2022.114433. This article has 5 citations and is from a domain leading peer-reviewed journal.
+
+5. (loyer2020rolesofcdkcyclin pages 5-6): Pascal Loyer and Janeen H. Trembley. Roles of cdk/cyclin complexes in transcription and pre-mrna splicing: cyclins l and cdk11 at the cross-roads of cell cycle and regulation of gene expression. Seminars in Cell &amp; Developmental Biology, 107:36-45, Nov 2020. URL: https://doi.org/10.1016/j.semcdb.2020.04.016, doi:10.1016/j.semcdb.2020.04.016. This article has 64 citations.
+
+6. (loyer2020rolesofcdkcyclin pages 6-6): Pascal Loyer and Janeen H. Trembley. Roles of cdk/cyclin complexes in transcription and pre-mrna splicing: cyclins l and cdk11 at the cross-roads of cell cycle and regulation of gene expression. Seminars in Cell &amp; Developmental Biology, 107:36-45, Nov 2020. URL: https://doi.org/10.1016/j.semcdb.2020.04.016, doi:10.1016/j.semcdb.2020.04.016. This article has 64 citations.
+
+7. (loyer2020rolesofcdkcyclin pages 9-9): Pascal Loyer and Janeen H. Trembley. Roles of cdk/cyclin complexes in transcription and pre-mrna splicing: cyclins l and cdk11 at the cross-roads of cell cycle and regulation of gene expression. Seminars in Cell &amp; Developmental Biology, 107:36-45, Nov 2020. URL: https://doi.org/10.1016/j.semcdb.2020.04.016, doi:10.1016/j.semcdb.2020.04.016. This article has 64 citations.
+
+8. (manning2002theproteinkinase pages 1-2): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+9. (manning2002theproteinkinase pages 2-3): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+10. (unknownauthors2020investigatingtherole pages 21-25): Investigating the Role of CDK11 in Animal Cytokinesis
+
+11. (unknownauthors2020investigatingtherole pages 25-28): Investigating the Role of CDK11 in Animal Cytokinesis
+
+12. (johnson2023anatlasof pages 10-11): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+13. (johnson2023anatlasof pages 2-3): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+14. (johnson2023anatlasof pages 3-4): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+15. (karimbayli2024insightsintothe pages 2-4): Javad Karimbayli, Ilenia Pellarin, Barbara Belletti, and Gustavo Baldassarre. Insights into the structural and functional activities of forgotten kinases: pctaires cdks. Molecular Cancer, Jun 2024. URL: https://doi.org/10.1186/s12943-024-02043-6, doi:10.1186/s12943-024-02043-6. This article has 4 citations and is from a highest quality peer-reviewed journal.
+
+16. (kelso2022crystalstructureof pages 5-6): S. Kelso, Siobhan O’Brien, I. Kurinov, S. Angers, and F. Sicheri. Crystal structure of the cdk11 kinase domain bound to the small-molecule inhibitor ots964. Structure, Oct 2022. URL: https://doi.org/10.1016/j.str.2022.10.003, doi:10.1016/j.str.2022.10.003. This article has 7 citations and is from a domain leading peer-reviewed journal.
+
+17. (lin2019offtargettoxicityis pages 7-8): Ann Lin, Christopher J. Giuliano, Ann Palladino, Kristen M. John, Connor Abramowicz, Monet Lou Yuan, Erin L. Sausville, Devon A. Lukow, Luwei Liu, Alexander R. Chait, Zachary C. Galluzzo, Clara Tucker, and Jason M. Sheltzer. Off-target toxicity is a common mechanism of action of cancer drugs undergoing clinical trials. Science Translational Medicine, Sep 2019. URL: https://doi.org/10.1126/scitranslmed.aaw8412, doi:10.1126/scitranslmed.aaw8412. This article has 697 citations and is from a highest quality peer-reviewed journal.
+
+18. (lin2019offtargettoxicityis pages 8-9): Ann Lin, Christopher J. Giuliano, Ann Palladino, Kristen M. John, Connor Abramowicz, Monet Lou Yuan, Erin L. Sausville, Devon A. Lukow, Luwei Liu, Alexander R. Chait, Zachary C. Galluzzo, Clara Tucker, and Jason M. Sheltzer. Off-target toxicity is a common mechanism of action of cancer drugs undergoing clinical trials. Science Translational Medicine, Sep 2019. URL: https://doi.org/10.1126/scitranslmed.aaw8412, doi:10.1126/scitranslmed.aaw8412. This article has 697 citations and is from a highest quality peer-reviewed journal.
+
+19. (loyer2020rolesofcdkcyclin pages 8-9): Pascal Loyer and Janeen H. Trembley. Roles of cdk/cyclin complexes in transcription and pre-mrna splicing: cyclins l and cdk11 at the cross-roads of cell cycle and regulation of gene expression. Seminars in Cell &amp; Developmental Biology, 107:36-45, Nov 2020. URL: https://doi.org/10.1016/j.semcdb.2020.04.016, doi:10.1016/j.semcdb.2020.04.016. This article has 64 citations.
+
+20. (manning2002evolutionofprotein pages 1-2): Gerard Manning, Gregory D Plowman, Tony Hunter, and Sucha Sudarsanam. Evolution of protein kinase signaling from yeast to man. Trends in Biochemical Sciences, 27:514-520, Oct 2002. URL: https://doi.org/10.1016/s0968-0004(02)02179-5, doi:10.1016/s0968-0004(02)02179-5. This article has 1322 citations and is from a domain leading peer-reviewed journal.
+
+21. (manning2002evolutionofprotein pages 2-3): Gerard Manning, Gregory D Plowman, Tony Hunter, and Sucha Sudarsanam. Evolution of protein kinase signaling from yeast to man. Trends in Biochemical Sciences, 27:514-520, Oct 2002. URL: https://doi.org/10.1016/s0968-0004(02)02179-5, doi:10.1016/s0968-0004(02)02179-5. This article has 1322 citations and is from a domain leading peer-reviewed journal.
+
+22. (manning2002theproteinkinase pages 1-1): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+23. (unknownauthors2011molecularmodellingand pages 21-26): Molecular modelling and bioinformatics studies of CDK4 and related proteins
+
+24. (unknownauthors2021biochemicalcharacterizationof pages 23-28): Biochemical characterization of the human Cyclin-dependent kinases Cdk7 and Cdk10
+
+25. (unknownauthors2023genomewidecrisprscreening pages 32-35): Genome-wide CRISPR screening in FBXW7-mutant cells uncovers multiple druggable synthetic lethal interactions involving cell cycle control
+
+26. (wood2018structuralinsightsinto pages 3-4): Daniel J. Wood and Jane A. Endicott. Structural insights into the functional diversity of the cdk–cyclin family. Open Biology, Sep 2018. URL: https://doi.org/10.1098/rsob.180112, doi:10.1098/rsob.180112. This article has 267 citations and is from a peer-reviewed journal.
+
+27. (wood2018structuralinsightsinto pages 4-5): Daniel J. Wood and Jane A. Endicott. Structural insights into the functional diversity of the cdk–cyclin family. Open Biology, Sep 2018. URL: https://doi.org/10.1098/rsob.180112, doi:10.1098/rsob.180112. This article has 267 citations and is from a peer-reviewed journal.

@@ -1,0 +1,117 @@
+## Phylogeny
+Aurora kinase A (AURKA) is a member of the Aurora family of serine/threonine kinases, which in humans also includes Aurora B (AURKB) and Aurora C (AURKC) (malumbres2014aurorakinasea pages 1-2). The family is highly conserved, with the founding member, Ipl1, identified in *Saccharomyces cerevisiae* (nikonova2013auroraakinase pages 1-2). Orthologues of AURKA exist in species including *Drosophila melanogaster*, *Caenorhabditis elegans*, *Xenopus laevis*, dog, mouse, chicken, and zebrafish (nikonova2013auroraakinase pages 1-2, durlacher2016anupdateon pages 2-4). Evolutionary data suggest that AURKA diverged early from the lineage that gave rise to AURKB and AURKC (unknownauthors2010aurorakinaseinhibitorsrising pages 1-2). While its kinase domain shares ~40% sequence identity with AGC-family and polo-like kinases, the Aurora kinase family is phylogenetically placed in its own family, typically categorized within the 'Other' group of the human kinome, distinct from the main seven clades of eukaryotic protein kinases (levinson2018themultifacetedallosteric pages 1-2, unknownauthors2010aurorakinaseinhibitorsrising pages 1-2).
+
+
+## Reaction Catalyzed
+AURKA is a serine/threonine kinase that catalyzes the transfer of the gamma-phosphate group from an ATP molecule to the hydroxyl group of serine or threonine residues on a substrate protein (durlacher2016anupdateon pages 1-2, malumbres2014aurorakinasea pages 1-2, nikonova2013auroraakinase pages 1-2). The reaction is: ATP + protein -> ADP + phosphoprotein (durlacher2016anupdateon pages 1-2, vats2025aurorakinasessignaling pages 2-4).
+
+
+## Cofactor Requirements
+The catalytic activity of AURKA requires ATP as the phosphate donor cofactor (durlacher2016anupdateon pages 1-2, nikonova2013auroraakinase pages 1-2). Additionally, kinase activity depends on essential divalent cation cofactors, specifically Mg²⁺, which is necessary to coordinate ATP in the active site and facilitate catalysis (janecek2016allostericmodulationof pages 8-9, sarı2024aurorakinasestheir pages 2-3).
+
+
+## Substrate Specificity
+AURKA phosphorylates serine or threonine residues located within specific consensus sequence motifs (du2021targetingaurkain pages 7-8). Positional amino acid analysis shows that AURKA substrate motifs are often characterized by a proline (P) residue at the +1 position immediately following the phosphorylated serine or threonine (johnson2023anatlasof pages 2-3). The kinase also displays a preference for basic residues, particularly arginine (R), at the -3 position relative to the phosphorylation site (johnson2023anatlasof pages 3-4).
+
+
+## Structure
+Human AURKA is a 403-amino acid protein composed of an N-terminal regulatory domain and a C-terminal catalytic kinase domain (residues 133-383) connected by a hinge (souza2020structuralbasisfor pages 2-3, unknownauthors2010aurorakinaseinhibitorsrising pages 1-2). The kinase domain contains a conserved ATP-binding pocket, a C-helix, and a mobile activation loop (souza2020structuralbasisfor pages 1-2, durlacher2016anupdateon pages 1-2). The activation loop (residues 274–299) begins with a DFG motif and contains the critical phosphorylation site Thr288 (souza2020structuralbasisfor pages 2-3). The N-terminal domain contains a destruction box (D-Box) required for proteolysis and intrinsically disordered regions that facilitate binding to regulatory proteins like TPX2 (nguyen2022aurorakinasesas pages 20-23). The catalytic domain also contains the conserved HRD motif (souza2020structuralbasisfor pages 2-3). Crystal structures (e.g., PDB 3E5A) show AURKA complexed with its activator TPX2 and inhibitors (nguyen2022aurorakinasesas pages 20-23).
+
+
+## Regulation
+AURKA activity is controlled by post-translational modifications, protein-protein interactions, and conformational changes (durlacher2016anupdateon pages 1-2).
+
+**Conformational Regulation:** AURKA exists in distinct active and inactive states determined by the conformation of its DFG motif. The active state corresponds to a 'DFG-in' conformation, which is competent for ATP binding and catalysis, whereas the inactive state is characterized by a 'DFG-out' conformation (nguyen2022aurorakinasesas pages 20-23, levinson2018themultifacetedallosteric pages 14-15). An unusual 'DFG-up' conformation has also been observed (nikonova2013auroraakinase pages 11-12).
+
+**Phosphorylation:** Activation requires phosphorylation at Thr288 in the activation loop, which is achieved through autophosphorylation (durlacher2016anupdateon pages 2-2, malumbres2014aurorakinasea pages 1-2). The kinase is deactivated by dephosphorylation of Thr288 by protein phosphatases PP1 and PP2A (durlacher2016anupdateon pages 2-2, unknownauthors2010aurorakinaseinhibitorsrising pages 2-4).
+
+**Protein Interactions and Allostery:** The microtubule-associated protein TPX2 is a critical allosteric activator. TPX2 binding promotes AURKA autophosphorylation, stabilizes the active 'DFG-in' conformation, and protects the phosphorylated Thr288 from phosphatases (durlacher2016anupdateon pages 1-2, souza2020structuralbasisfor pages 2-3). TPX2 binding induces a conformational change that forms a salt bridge between pThr288 and Arg255 of the HRD motif, stabilizing the active kinase form (souza2020structuralbasisfor pages 2-3).
+
+**Proteolysis:** AURKA protein levels are regulated by ubiquitin-dependent proteolysis mediated by the anaphase-promoting complex/cyclosome (APC/C), which recognizes the D-Box in the N-terminal domain (durlacher2016anupdateon pages 1-2, nguyen2022aurorakinasesas pages 20-23).
+
+
+## Function
+AURKA is a key mitotic kinase whose expression and activity peak during the G2 phase and mitosis, particularly at pro-metaphase (nguyen2022aurorakinasesas pages 20-23, unknownauthors2010aurorakinaseinhibitorsrising pages 1-2). It localizes to centrosomes and spindle microtubules to regulate critical mitotic events, including centrosome maturation and separation, bipolar spindle assembly, chromosome alignment and segregation, and cytokinesis (durlacher2016anupdateon pages 1-2, nikhil2024thesignificantothers pages 1-2).
+
+AURKA phosphorylates numerous substrates to orchestrate these processes, including:
+*   **PLK1 (Polo-like kinase 1):** Phosphorylation of PLK1 by AURKA coordinates centrosome maturation and spindle assembly (durlacher2016anupdateon pages 1-2).
+*   **TACC3 (Transforming acidic coiled-coil-containing protein 3):** Phosphorylation of TACC3 facilitates its recruitment to microtubules, which is essential for spindle stability (durlacher2016anupdateon pages 1-2, souza2020structuralbasisfor pages 1-2).
+*   **CDC25B:** AURKA activates CDC25B phosphatase, which in turn activates CDK1 to promote mitotic entry (nguyen2022aurorakinasesas pages 20-23, durlacher2016anupdateon pages 2-2).
+*   **p53:** AURKA can phosphorylate the tumor suppressor p53, targeting it for degradation via the MDM2 ubiquitin ligase (durlacher2016anupdateon pages 2-2).
+*   **BRCA1 and Histone H3** are also substrates (durlacher2016anupdateon pages 2-2).
+
+Outside of mitosis, AURKA has roles in ciliogenesis, mitochondrial dynamics, and neuronal outgrowth (nikhil2024thesignificantothers pages 1-2). It is also implicated in cancer stem cell maintenance through activation of the Wnt/β-catenin pathway (souza2020structuralbasisfor pages 1-2).
+
+
+## Inhibitors
+Numerous small-molecule inhibitors targeting AURKA have been developed (mou2021aurorakinasea pages 3-5). They can be classified by their mechanism and selectivity.
+
+*   **Selective AURKA Inhibitors:** These primarily target AURKA. Alisertib (MLN8237) is a potent, oral, ATP-competitive inhibitor with approximately 200-fold selectivity for AURKA over AURKB (malumbres2014aurorakinasea pages 5-7, unknownauthors2010aurorakinaseinhibitorsrising pages 5-7). Other selective inhibitors include MLN8054, MK-5108 (VX-689), and ENMD-2076 (durlacher2016anupdateon pages 5-6, malumbres2014aurorakinasea pages 14-15).
+*   **Pan-Aurora Inhibitors:** These compounds inhibit AURKA, AURKB, and AURKC. Examples include Danusertib (PHA-739358), Tozasertib (MK-0457/VX-680), AT9283, AMG900, SNS-314, and PF-03814735 (borah2021aurorakinaseb pages 17-18, mou2021aurorakinasea pages 5-6). AT9283 and AMG900 are pan-Aurora kinase inhibitors that function as competitive ATP binding inhibitors, with AT9283 also inhibiting JAKs and Abl (T315I) (borah2021aurorakinaseb pages 17-18).
+*   **Non-ATP Competitive Inhibitors:** SP-96 is the first described non-ATP competitive inhibitor with high selectivity for AURKB (borah2021aurorakinaseb pages 17-18).
+
+
+## Other Comments
+Amplification of the *AURKA* gene (located at chromosome 20q13.2) and overexpression of the protein are frequent events in a broad spectrum of human cancers, including breast, colon, ovarian, lung, gastric, and pancreatic tumors (durlacher2016anupdateon pages 4-5, unknownauthors2010aurorakinaseinhibitorsrising pages 2-4). Elevated AURKA levels correlate with centrosomal abnormalities, aneuploidy, genomic instability, higher tumor grade, and poor patient prognosis (durlacher2016anupdateon pages 1-2, unknownauthors2010aurorakinaseinhibitorsrising pages 2-4).
+
+Specific disease-associated mutations in AURKA have been identified.
+*   **F31I and V57A:** These variants can alter the kinase's stability, activity, and interaction with regulatory partners like TPX2, contributing to oncogenic processes (nguyen2022aurorakinasesas pages 20-23, souza2020structuralbasisfor pages 2-3).
+*   **S155R:** This somatic mutation is located at the interface between AURKA and its activator TPX2 and is linked to cancer, likely by affecting the protein-protein interaction (nikonova2013auroraakinase pages 11-12).
+
+References
+
+1. (borah2021aurorakinaseb pages 17-18): Naheed Arfin Borah and Mamatha M. Reddy. Aurora kinase b inhibition: a potential therapeutic strategy for cancer. Molecules, 26:1981, Apr 2021. URL: https://doi.org/10.3390/molecules26071981, doi:10.3390/molecules26071981. This article has 153 citations and is from a peer-reviewed journal.
+
+2. (durlacher2016anupdateon pages 1-2): Cameron T. Durlacher, Zhi-ling Li, Xiao-wu Chen, Zhi-xu He, and Shufeng Zhou. An update on the pharmacokinetics and pharmacodynamics of alisertib, a selective aurora kinase a inhibitor. Clinical and Experimental Pharmacology and Physiology, Jun 2016. URL: https://doi.org/10.1111/1440-1681.12571, doi:10.1111/1440-1681.12571. This article has 50 citations and is from a peer-reviewed journal.
+
+3. (durlacher2016anupdateon pages 2-2): Cameron T. Durlacher, Zhi-ling Li, Xiao-wu Chen, Zhi-xu He, and Shufeng Zhou. An update on the pharmacokinetics and pharmacodynamics of alisertib, a selective aurora kinase a inhibitor. Clinical and Experimental Pharmacology and Physiology, Jun 2016. URL: https://doi.org/10.1111/1440-1681.12571, doi:10.1111/1440-1681.12571. This article has 50 citations and is from a peer-reviewed journal.
+
+4. (durlacher2016anupdateon pages 4-5): Cameron T. Durlacher, Zhi-ling Li, Xiao-wu Chen, Zhi-xu He, and Shufeng Zhou. An update on the pharmacokinetics and pharmacodynamics of alisertib, a selective aurora kinase a inhibitor. Clinical and Experimental Pharmacology and Physiology, Jun 2016. URL: https://doi.org/10.1111/1440-1681.12571, doi:10.1111/1440-1681.12571. This article has 50 citations and is from a peer-reviewed journal.
+
+5. (durlacher2016anupdateon pages 5-6): Cameron T. Durlacher, Zhi-ling Li, Xiao-wu Chen, Zhi-xu He, and Shufeng Zhou. An update on the pharmacokinetics and pharmacodynamics of alisertib, a selective aurora kinase a inhibitor. Clinical and Experimental Pharmacology and Physiology, Jun 2016. URL: https://doi.org/10.1111/1440-1681.12571, doi:10.1111/1440-1681.12571. This article has 50 citations and is from a peer-reviewed journal.
+
+6. (janecek2016allostericmodulationof pages 8-9): M. Janecek, M. Rossmann, Pooja Sharma, A. Emery, D. Huggins, S. Stockwell, Jamie E. Stokes, Y. S. Tan, E. G. Almeida, B. Hardwick, A. Narváez, M. Hyvönen, D. Spring, G. McKenzie, and A. Venkitaraman. Allosteric modulation of aurka kinase activity by a small-molecule inhibitor of its protein-protein interaction with tpx2. Scientific Reports, Jun 2016. URL: https://doi.org/10.1038/srep28528, doi:10.1038/srep28528. This article has 107 citations and is from a poor quality or predatory journal.
+
+7. (malumbres2014aurorakinasea pages 14-15): Marcos Malumbres and I. Pérez de Castro. Aurora kinase a inhibitors: promising agents in antitumoral therapy. Expert Opinion on Therapeutic Targets, 18:1377-1393, Nov 2014. URL: https://doi.org/10.1517/14728222.2014.956085, doi:10.1517/14728222.2014.956085. This article has 95 citations and is from a peer-reviewed journal.
+
+8. (malumbres2014aurorakinasea pages 5-7): Marcos Malumbres and I. Pérez de Castro. Aurora kinase a inhibitors: promising agents in antitumoral therapy. Expert Opinion on Therapeutic Targets, 18:1377-1393, Nov 2014. URL: https://doi.org/10.1517/14728222.2014.956085, doi:10.1517/14728222.2014.956085. This article has 95 citations and is from a peer-reviewed journal.
+
+9. (mou2021aurorakinasea pages 3-5): Pui Kei Mou, Eun Ju Yang, Changxiang Shi, Guowen Ren, Shishi Tao, and Joong Sup Shim. Aurora kinase a, a synthetic lethal target for precision cancer medicine. Experimental &amp; Molecular Medicine, 53:835-847, May 2021. URL: https://doi.org/10.1038/s12276-021-00635-6, doi:10.1038/s12276-021-00635-6. This article has 101 citations.
+
+10. (mou2021aurorakinasea pages 5-6): Pui Kei Mou, Eun Ju Yang, Changxiang Shi, Guowen Ren, Shishi Tao, and Joong Sup Shim. Aurora kinase a, a synthetic lethal target for precision cancer medicine. Experimental &amp; Molecular Medicine, 53:835-847, May 2021. URL: https://doi.org/10.1038/s12276-021-00635-6, doi:10.1038/s12276-021-00635-6. This article has 101 citations.
+
+11. (nguyen2022aurorakinasesas pages 20-23): Theodore T Nguyen, Flaviane N Silva, and E. Golemis. Aurora kinases as therapeutic targets in head and neck cancer. Cancer journal, 28 5:387-400, Sep 2022. URL: https://doi.org/10.1097/ppo.0000000000000614, doi:10.1097/ppo.0000000000000614. This article has 10 citations and is from a peer-reviewed journal.
+
+12. (nikhil2024thesignificantothers pages 1-2): Kumar Nikhil and Kavita Shah. The significant others of aurora kinase a in cancer: combination is the key. Biomarker Research, Sep 2024. URL: https://doi.org/10.1186/s40364-024-00651-4, doi:10.1186/s40364-024-00651-4. This article has 3 citations and is from a peer-reviewed journal.
+
+13. (souza2020structuralbasisfor pages 1-2): Valéria Barbosa de Souza and Daniel Fábio Kawano. Structural basis for the design of allosteric inhibitors of the aurora kinase a enzyme in the cancer chemotherapy. Biochimica et Biophysica Acta (BBA) - General Subjects, 1864:129448, Jan 2020. URL: https://doi.org/10.1016/j.bbagen.2019.129448, doi:10.1016/j.bbagen.2019.129448. This article has 25 citations.
+
+14. (souza2020structuralbasisfor pages 2-3): Valéria Barbosa de Souza and Daniel Fábio Kawano. Structural basis for the design of allosteric inhibitors of the aurora kinase a enzyme in the cancer chemotherapy. Biochimica et Biophysica Acta (BBA) - General Subjects, 1864:129448, Jan 2020. URL: https://doi.org/10.1016/j.bbagen.2019.129448, doi:10.1016/j.bbagen.2019.129448. This article has 25 citations.
+
+15. (unknownauthors2010aurorakinaseinhibitorsrising pages 1-2): Aurora kinase inhibitors-rising stars in cancer therapeutics?
+
+16. (unknownauthors2010aurorakinaseinhibitorsrising pages 2-4): Aurora kinase inhibitors-rising stars in cancer therapeutics?
+
+17. (unknownauthors2010aurorakinaseinhibitorsrising pages 5-7): Aurora kinase inhibitors-rising stars in cancer therapeutics?
+
+18. (durlacher2016anupdateon pages 2-4): Cameron T. Durlacher, Zhi-ling Li, Xiao-wu Chen, Zhi-xu He, and Shufeng Zhou. An update on the pharmacokinetics and pharmacodynamics of alisertib, a selective aurora kinase a inhibitor. Clinical and Experimental Pharmacology and Physiology, Jun 2016. URL: https://doi.org/10.1111/1440-1681.12571, doi:10.1111/1440-1681.12571. This article has 50 citations and is from a peer-reviewed journal.
+
+19. (johnson2023anatlasof pages 2-3): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+20. (levinson2018themultifacetedallosteric pages 14-15): Nicholas Mark Levinson. The multifaceted allosteric regulation of aurora kinase a. Biochemical Journal, 475:2025-2042, Jun 2018. URL: https://doi.org/10.1042/bcj20170771, doi:10.1042/bcj20170771. This article has 72 citations and is from a domain leading peer-reviewed journal.
+
+21. (malumbres2014aurorakinasea pages 1-2): Marcos Malumbres and I. Pérez de Castro. Aurora kinase a inhibitors: promising agents in antitumoral therapy. Expert Opinion on Therapeutic Targets, 18:1377-1393, Nov 2014. URL: https://doi.org/10.1517/14728222.2014.956085, doi:10.1517/14728222.2014.956085. This article has 95 citations and is from a peer-reviewed journal.
+
+22. (nikonova2013auroraakinase pages 1-2): Anna S. Nikonova, Igor Astsaturov, Ilya G. Serebriiskii, Roland L. Dunbrack, and Erica A. Golemis. Aurora a kinase (aurka) in normal and pathological cell division. Cellular and Molecular Life Sciences, 70:661-687, Aug 2013. URL: https://doi.org/10.1007/s00018-012-1073-7, doi:10.1007/s00018-012-1073-7. This article has 560 citations and is from a domain leading peer-reviewed journal.
+
+23. (nikonova2013auroraakinase pages 11-12): Anna S. Nikonova, Igor Astsaturov, Ilya G. Serebriiskii, Roland L. Dunbrack, and Erica A. Golemis. Aurora a kinase (aurka) in normal and pathological cell division. Cellular and Molecular Life Sciences, 70:661-687, Aug 2013. URL: https://doi.org/10.1007/s00018-012-1073-7, doi:10.1007/s00018-012-1073-7. This article has 560 citations and is from a domain leading peer-reviewed journal.
+
+24. (sarı2024aurorakinasestheir pages 2-3): Sibel Sarı and Elif Rumeysa Özsoy. Aurora kinases: their role in cancer and cellular processes. Türk Doğa ve Fen Dergisi, 13:128-139, Jun 2024. URL: https://doi.org/10.46810/tdfd.1476374, doi:10.46810/tdfd.1476374. This article has 3 citations.
+
+25. (vats2025aurorakinasessignaling pages 2-4): Prerna Vats, Chainsee Saini, Bhavika Baweja, Sandeep K. Srivastava, Ashok Kumar, Atar Singh Kushwah, and Rajeev Nema. Aurora kinases signaling in cancer: from molecular perception to targeted therapies. Molecular Cancer, Jun 2025. URL: https://doi.org/10.1186/s12943-025-02353-3, doi:10.1186/s12943-025-02353-3. This article has 0 citations and is from a highest quality peer-reviewed journal.
+
+26. (du2021targetingaurkain pages 7-8): Ruijuan Du, Chuntian Huang, Kangdong Liu, Xiang Li, and Zigang Dong. Targeting aurka in cancer: molecular mechanisms and opportunities for cancer therapy. Molecular Cancer, Jan 2021. URL: https://doi.org/10.1186/s12943-020-01305-3, doi:10.1186/s12943-020-01305-3. This article has 448 citations and is from a highest quality peer-reviewed journal.
+
+27. (johnson2023anatlasof pages 3-4): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+28. (levinson2018themultifacetedallosteric pages 1-2): Nicholas Mark Levinson. The multifaceted allosteric regulation of aurora kinase a. Biochemical Journal, 475:2025-2042, Jun 2018. URL: https://doi.org/10.1042/bcj20170771, doi:10.1042/bcj20170771. This article has 72 citations and is from a domain leading peer-reviewed journal.

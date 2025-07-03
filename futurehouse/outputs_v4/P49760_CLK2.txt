@@ -1,0 +1,100 @@
+## Phylogeny  
+CLK2 is classified within the CMGC kinase group, CDC-like kinase (CLK) sub-family in the human kinome, as established by comparative kinome analyses that cite the original Manning 2002 framework (song2023cdc2likekinasesstructure pages 20-21).  
+Paralog relationships: CLK2 shares 67–87 % sequence identity with human CLK1, CLK3 and CLK4 (lindberg2021dualspecificitytyrosinephosphorylationregulated pages 2-4).  
+Orthologs retaining the canonical CLK fold have been documented with kinase-domain identity of 98 % in Mus musculus, 90 % in Xenopus tropicalis, 84 % in Danio rerio, 72 % in Drosophila melanogaster (Doa), 63 % in Caenorhabditis elegans (MADD-3), 48 % in Arabidopsis thaliana (AFC2) and 44 % in Schizosaccharomyces pombe (Lkh1) (ogle2024comparisonofthe pages 7-9).  
+Structure-based phylogeny positions CLK2 closest to casein kinase 2 within CMGC enzymes, despite low primary-sequence identity, reflecting marked structural similarity (lee2019structuralbasisfor pages 1-2).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr/Tyr → ADP + [protein]-O-phospho-Ser/Thr/Tyr (moyano2020cdclikekinases(clks) pages 1-3, lee2019structuralbasisfor pages 1-2).  
+
+## Cofactor Requirements  
+Catalytic turnover requires ATP and divalent Mg²⁺ ions, consistent with biochemical assays on CLK family members (song2023cdc2likekinasesstructure pages 21-22).  
+
+## Substrate Specificity  
+• Preferred linear consensus: R-x-x-S/T within arginine/serine-rich (RS) regions, concordant with the CLK substrate classes catalogued in the Johnson 2023 serine/threonine atlas referenced by Song et al. (song2023cdc2likekinasesstructure pages 21-22).  
+• Documented cellular substrates include SRSF1-12, PTPN1, SRSF3, PPP2R5B, PPARGC1A, PAGE4 and the tissue-factor pre-mRNA product F3 (song2023cdc2likekinasesstructure pages 3-3, song2023cdc2likekinasesstructure pages 21-22).  
+• Dual-specificity toward tyrosine is supported by autophosphorylation on an activation-loop Tyr, aligning with intrinsic specificity data from the Yaron-Barir 2024 atlas cited in Lindberg et al. (lindberg2021dualspecificitytyrosinephosphorylationregulated pages 4-7).  
+
+## Structure  
+Domain organisation: intrinsically disordered RS-rich region (residues 1-≈120); bilobal kinase domain R130–D496 containing the invariant EHLAMMERILG/LAMMER motif (kallen2018x‐raystructuresand pages 8-9).  
+Experimental structures: apo CLK2 (PDB 3NR9) and inhibitor complexes 6FYL and 6KHE resolved at 1.8–2.2 Å (lindberg2021dualspecificitytyrosinephosphorylationregulated pages 4-7).  
+Key catalytic and regulatory elements:  
+– Lys–Glu salt bridge stabilising the N-lobe/C-helix interface and a continuous hydrophobic spine spanning β4-αC-DFG (song2023cdc2likekinasesstructure pages 3-3).  
+– Activation loop bearing an autophosphorylated Tyr critical for activity and responsible for temperature-sensitive structural rearrangements (lindberg2021dualspecificitytyrosinephosphorylationregulated pages 10-12).  
+– β-hairpin and MAPK-like insertions flank the ATP pocket, modulating substrate access (song2023cdc2likekinasesstructure pages 3-3).  
+– Active-site cavity is the largest and most hydrophobic among CLKs; Val326 forms a decisive hydrophobic contact with benzonaphthyridine inhibitors, underpinning high affinity of CX-4945 (lee2019structuralbasisfor pages 7-9).  
+
+## Regulation  
+Post-translational modifications  
+– Autophosphorylation on the activation-loop Tyr activates the kinase (lee2019structuralbasisfor pages 1-2).  
+– AKT1 phosphorylates Ser34, Thr127 and Thr344, providing cross-talk with insulin signalling (prak2016benzobisthiazolesrepresenta pages 1-5).  
+– Temperature-dependent conformational shifts within the activation segment modulate catalytic output (lindberg2021dualspecificitytyrosinephosphorylationregulated pages 10-12).  
+Transcriptional / post-transcriptional control  
+– Insulin pathway effectors and microRNAs miR-573 and miR-144 down-regulate CLK2 expression (song2023cdc2likekinasesstructure pages 7-8).  
+– Autoregulatory intron retention analogous to CLK1 is proposed for CLK2 (lindberg2021dualspecificitytyrosinephosphorylationregulated pages 10-12).  
+
+## Function  
+Expression and localisation  
+– Broad tissue distribution with higher expression in nervous tissue and colon; predominant nuclear localisation (song2023cdc2likekinasesstructure pages 21-22).  
+Splicing regulation  
+– Phosphorylation of SR proteins redistributes them from speckles to nucleoplasm, altering splice-site selection including Tau exon-10 (lindberg2021dualspecificitytyrosinephosphorylationregulated pages 10-12).  
+Metabolic control  
+– Phosphorylation of PPARGC1A suppresses hepatic gluconeogenic gene expression and glucose output (moyano2020cdclikekinases(clks) pages 8-10).  
+Signal transduction  
+– Phosphorylates PPP2R5B, promoting PP2A assembly with AKT1 and facilitating AKT1 dephosphorylation (song2023cdc2likekinasesstructure pages 21-22).  
+– Multisite phosphorylation of PAGE4 attenuates JUN-mediated transcription (song2023cdc2likekinasesstructure pages 21-22).  
+Additional roles  
+– Supports HIV-1 gene expression; concurrent inhibition of CLK2, CLK3 and CLK4 blocks viral production (lindberg2021dualspecificitytyrosinephosphorylationregulated pages 10-12).  
+– Enhances migration and invasion of breast, prostate and gastrointestinal cancer cells (song2023cdc2likekinasesstructure pages 16-17).  
+
+## Inhibitors  
+CX-4945 (silmitasertib), ATP-competitive; IC₅₀ = 3.8 nM on CLK2 (lee2019structuralbasisfor pages 1-2).  
+CC-671, dual CLK2/TTK inhibitor; IC₅₀ = 6 nM on CLK2 (song2023cdc2likekinasesstructure pages 20-21).  
+MU1210, selective probe; IC₅₀ = 20 nM on CLK2 with broad kinome selectivity (moyano2020cdclikekinases(clks) pages 19-23).  
+SM08502 (lorecivivint), pan-CLK inhibitor with low-nanomolar potency on CLK2 (moyano2020cdclikekinases(clks) pages 19-23).  
+Indazole series (e.g., Indazole1); IC₅₀ < 50 nM, ΔTₘ > 4 °C in thermal-shift assay (kallen2018x‐raystructuresand pages 8-9).  
+KuWal151, 6,7-dihydropyrrolo[3,4-g]indol-8-one scaffold; potent against CLK1/2/4 with minimal DYRK crossover (walter2018molecularstructuresof pages 1-2).  
+Benzobisthiazole 3A5; IC₅₀ = 68 nM on CLK2 (prak2016benzobisthiazolesrepresenta pages 14-18).  
+Additional tool compounds TG003, T-025 and DB18 inhibit CLK2-mediated SR-protein phosphorylation at nanomolar concentrations (song2023cdc2likekinasesstructure pages 16-17).  
+
+## Other Comments  
+Disease associations include sporadic Alzheimer’s disease via Tau mis-splicing, Phelan–McDermid syndrome, intellectual disability, knee osteoarthritis, tendinopathy, obesity, MYC-driven and triple-negative breast cancer, glioblastoma and HIV infection (lindberg2021dualspecificitytyrosinephosphorylationregulated pages 10-12, kallen2018x‐raystructuresand pages 8-9, moyano2020cdclikekinases(clks) pages 8-10).  
+No recurrent pathogenic point mutations in CLK2 have been reported as of the latest surveys, although oncogenic mutations are documented for related family members (song2023cdc2likekinasesstructure pages 21-22).
+
+References
+
+1. (lee2019structuralbasisfor pages 1-2): Joo Youn Lee, Ji-Sook Yun, Woo-Keun Kim, Hang-Suk Chun, Hyeonseok Jin, Sungchan Cho, and Jeong Ho Chang. Structural basis for the selective inhibition of cdc2-like kinases by cx-4945. BioMed Research International, 2019:1-10, Aug 2019. URL: https://doi.org/10.1155/2019/6125068, doi:10.1155/2019/6125068. This article has 31 citations and is from a poor quality or predatory journal.
+
+2. (lindberg2021dualspecificitytyrosinephosphorylationregulated pages 10-12): Mattias F. Lindberg and Laurent Meijer. Dual-specificity, tyrosine phosphorylation-regulated kinases (dyrks) and cdc2-like kinases (clks) in human disease, an overview. International Journal of Molecular Sciences, 22:6047, Jun 2021. URL: https://doi.org/10.3390/ijms22116047, doi:10.3390/ijms22116047. This article has 93 citations and is from a peer-reviewed journal.
+
+3. (lindberg2021dualspecificitytyrosinephosphorylationregulated pages 2-4): Mattias F. Lindberg and Laurent Meijer. Dual-specificity, tyrosine phosphorylation-regulated kinases (dyrks) and cdc2-like kinases (clks) in human disease, an overview. International Journal of Molecular Sciences, 22:6047, Jun 2021. URL: https://doi.org/10.3390/ijms22116047, doi:10.3390/ijms22116047. This article has 93 citations and is from a peer-reviewed journal.
+
+4. (moyano2020cdclikekinases(clks) pages 8-10): Paula Martín Moyano, V. Němec, and K. Paruch. Cdc-like kinases (clks): biology, chemical probes, and therapeutic potential. International Journal of Molecular Sciences, Oct 2020. URL: https://doi.org/10.3390/ijms21207549, doi:10.3390/ijms21207549. This article has 75 citations and is from a peer-reviewed journal.
+
+5. (song2023cdc2likekinasesstructure pages 20-21): Mengqiu Song, Luping Pang, Mengmeng Zhang, Yingzi Qu, Kyle Vaughn Laster, and Zigang Dong. Cdc2-like kinases: structure, biological function and therapeutic targets for diseases. Signal Transduction and Targeted Therapy, Apr 2023. URL: https://doi.org/10.1038/s41392-023-01409-4, doi:10.1038/s41392-023-01409-4. This article has 47 citations and is from a peer-reviewed journal.
+
+6. (song2023cdc2likekinasesstructure pages 21-22): Mengqiu Song, Luping Pang, Mengmeng Zhang, Yingzi Qu, Kyle Vaughn Laster, and Zigang Dong. Cdc2-like kinases: structure, biological function and therapeutic targets for diseases. Signal Transduction and Targeted Therapy, Apr 2023. URL: https://doi.org/10.1038/s41392-023-01409-4, doi:10.1038/s41392-023-01409-4. This article has 47 citations and is from a peer-reviewed journal.
+
+7. (song2023cdc2likekinasesstructure pages 3-3): Mengqiu Song, Luping Pang, Mengmeng Zhang, Yingzi Qu, Kyle Vaughn Laster, and Zigang Dong. Cdc2-like kinases: structure, biological function and therapeutic targets for diseases. Signal Transduction and Targeted Therapy, Apr 2023. URL: https://doi.org/10.1038/s41392-023-01409-4, doi:10.1038/s41392-023-01409-4. This article has 47 citations and is from a peer-reviewed journal.
+
+8. (kallen2018x‐raystructuresand pages 8-9): Joerg Kallen, Christian Bergsdorf, Bertrand Arnaud, Mario Bernhard, Murielle Brichet, Amanda Cobos‐Correa, Azeddine Elhajouji, Felix Freuler, Ivan Galimberti, Christel Guibourdenche, Simon Haenni, Sandra Holzinger, Juerg Hunziker, Aude Izaac, Markus Kaufmann, Lukas Leder, Hans‐Joerg Martus, Peter von Matt, Valery Polyakov, Patrik Roethlisberger, Guglielmo Roma, Nikolaus Stiefl, Marianne Uteng, and Andreas Lerchner. X‐ray structures and feasibility assessment of clk2 inhibitors for phelan–mcdermid syndrome. ChemMedChem, 13:1997-2007, Aug 2018. URL: https://doi.org/10.1002/cmdc.201800344, doi:10.1002/cmdc.201800344. This article has 28 citations and is from a peer-reviewed journal.
+
+9. (lindberg2021dualspecificitytyrosinephosphorylationregulated pages 4-7): Mattias F. Lindberg and Laurent Meijer. Dual-specificity, tyrosine phosphorylation-regulated kinases (dyrks) and cdc2-like kinases (clks) in human disease, an overview. International Journal of Molecular Sciences, 22:6047, Jun 2021. URL: https://doi.org/10.3390/ijms22116047, doi:10.3390/ijms22116047. This article has 93 citations and is from a peer-reviewed journal.
+
+10. (moyano2020cdclikekinases(clks) pages 1-3): Paula Martín Moyano, V. Němec, and K. Paruch. Cdc-like kinases (clks): biology, chemical probes, and therapeutic potential. International Journal of Molecular Sciences, Oct 2020. URL: https://doi.org/10.3390/ijms21207549, doi:10.3390/ijms21207549. This article has 75 citations and is from a peer-reviewed journal.
+
+11. (moyano2020cdclikekinases(clks) pages 19-23): Paula Martín Moyano, V. Němec, and K. Paruch. Cdc-like kinases (clks): biology, chemical probes, and therapeutic potential. International Journal of Molecular Sciences, Oct 2020. URL: https://doi.org/10.3390/ijms21207549, doi:10.3390/ijms21207549. This article has 75 citations and is from a peer-reviewed journal.
+
+12. (prak2016benzobisthiazolesrepresenta pages 1-5): Krisna Prak, Janos Kriston-Vizi, A. W. Edith Chan, Christin Luft, Joana R. Costa, Niccolo Pengo, and Robin Ketteler. Benzobisthiazoles represent a novel scaffold for kinase inhibitors of clk family members. Biochemistry, 55:608-617, Jan 2016. URL: https://doi.org/10.1021/acs.biochem.5b01128, doi:10.1021/acs.biochem.5b01128. This article has 17 citations and is from a peer-reviewed journal.
+
+13. (prak2016benzobisthiazolesrepresenta pages 14-18): Krisna Prak, Janos Kriston-Vizi, A. W. Edith Chan, Christin Luft, Joana R. Costa, Niccolo Pengo, and Robin Ketteler. Benzobisthiazoles represent a novel scaffold for kinase inhibitors of clk family members. Biochemistry, 55:608-617, Jan 2016. URL: https://doi.org/10.1021/acs.biochem.5b01128, doi:10.1021/acs.biochem.5b01128. This article has 17 citations and is from a peer-reviewed journal.
+
+14. (song2023cdc2likekinasesstructure pages 16-17): Mengqiu Song, Luping Pang, Mengmeng Zhang, Yingzi Qu, Kyle Vaughn Laster, and Zigang Dong. Cdc2-like kinases: structure, biological function and therapeutic targets for diseases. Signal Transduction and Targeted Therapy, Apr 2023. URL: https://doi.org/10.1038/s41392-023-01409-4, doi:10.1038/s41392-023-01409-4. This article has 47 citations and is from a peer-reviewed journal.
+
+15. (song2023cdc2likekinasesstructure pages 7-8): Mengqiu Song, Luping Pang, Mengmeng Zhang, Yingzi Qu, Kyle Vaughn Laster, and Zigang Dong. Cdc2-like kinases: structure, biological function and therapeutic targets for diseases. Signal Transduction and Targeted Therapy, Apr 2023. URL: https://doi.org/10.1038/s41392-023-01409-4, doi:10.1038/s41392-023-01409-4. This article has 47 citations and is from a peer-reviewed journal.
+
+16. (lee2019structuralbasisfor pages 7-9): Joo Youn Lee, Ji-Sook Yun, Woo-Keun Kim, Hang-Suk Chun, Hyeonseok Jin, Sungchan Cho, and Jeong Ho Chang. Structural basis for the selective inhibition of cdc2-like kinases by cx-4945. BioMed Research International, 2019:1-10, Aug 2019. URL: https://doi.org/10.1155/2019/6125068, doi:10.1155/2019/6125068. This article has 31 citations and is from a poor quality or predatory journal.
+
+17. (ogle2024comparisonofthe pages 7-9): R. Ogle, J. Netherton, Benjamin R. Robinson, Florian Heyd, Xu Dong Zhang, and Mark A. Baker. Comparison of the cdc2-like kinase family across eukaryotes highlights the functional conservation of these unique biological thermometers. bioRxiv, Jun 2024. URL: https://doi.org/10.1101/2024.06.21.599975, doi:10.1101/2024.06.21.599975. This article has 0 citations.
+
+18. (walter2018molecularstructuresof pages 1-2): A. Walter, A. Chaikuad, Renate Helmer, Nadége Loaëc, L. Preu, I. Ott, S. Knapp, L. Meijer, and C. Kunick. Molecular structures of cdc2-like kinases in complex with a new inhibitor chemotype. PLoS ONE, May 2018. URL: https://doi.org/10.1371/journal.pone.0196761, doi:10.1371/journal.pone.0196761. This article has 28 citations and is from a peer-reviewed journal.

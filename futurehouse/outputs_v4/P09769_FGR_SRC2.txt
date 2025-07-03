@@ -1,0 +1,89 @@
+## Phylogeny  
+Human Fgr (SRC2) is a cytoplasmic non-receptor tyrosine kinase within the Src family of the TK group of the human kinome (shen2018thesrcfamily pages 1-2, hunter2015theeukaryoticprotein pages 3-6).  
+Orthologs are conserved across vertebrates; the murine c-Fgr protein shares ~85 % overall and 92 % C-terminal identity with the human enzyme, reflecting strong evolutionary conservation of catalytic and regulatory domains (unknownauthors1995expressionofthe pages 25-28).  
+Phylogenetically, Fgr clusters with Src, Yes, Fyn, Lyn, Hck, Lck and Blk, arising from early gene duplication events in vertebrate evolution (link1995theprotooncogenecfgr pages 3-3).  
+
+## Reaction Catalyzed  
+Protein-L-tyrosine + ATP → Protein-L-tyrosine-phosphate + ADP + H⁺ (du2022atpsiteinhibitorsinduce pages 1-3, shen2018thesrcfamily pages 1-2).  
+
+## Cofactor Requirements  
+Not explicitly reported in the cited literature.  
+
+## Substrate Specificity  
+A global consensus motif has not been delineated. Experimentally, Fgr phosphorylates ITAM-containing substrates such as the FcεRI γ-chain and the kinase Syk, implying tolerance for YxxL/I contexts (lee2011thesrcfamily pages 5-6). In vitro peptide studies show preference for sequences surrounding its own activation loop Tyr400 (KDDEYNPA) over the C-terminal tail peptide EPQYQPA (ruzzene1994regulationofcfgr pages 4-6).  
+
+## Structure  
+Domain organisation: N-terminal myristoylated unique segment (removed in recombinant constructs), SH3 (residues 77–138), SH2 (144–241), SH2–kinase linker, bilobed kinase domain (263–516) and C-terminal regulatory tail (527–530) (du2022atpsiteinhibitorsinduce pages 11-13).  
+Crystallography:  
+• SH3 domain, 1.93 Å, PDB 7JT9, space group I222 (perez2022amodelfor pages 27-28).  
+• Near-full-length Fgr:A-419259, 2.55 Å, PDB 7UY0; closed Src-like conformation with SH3 bound to PPII linker and SH2 engaged with pTyr527 tail (du2022atpsiteinhibitorsinduce pages 14-18).  
+• Near-full-length Fgr:TL02-59, 2.99 Å, PDB 7UY3; SH3 and SH2 released, kinase adopts DFG-out/αC-in type II state (du2022atpsiteinhibitorsinduce pages 18-23).  
+Key catalytic/regulatory elements: Lys295–Glu310 ion pair, DFG motif (Asp404) toggle, gatekeeper Thr338, activation-loop Tyr416. A distinctive Asn-Pro-Cys (NPC) motif replaces the TAR sequence of other SFKs, preventing α-helix formation in the inactive loop and favouring an extended, solvent-exposed Tyr416 (shen2018thesrcfamily pages 6-6). Crystal packing reveals dimers orienting one activation loop into the partner’s active site, explaining trans-autophosphorylation (du2022atpsiteinhibitorsinduce pages 5-6).  
+
+## Regulation  
+Phosphorylation  
+• Tyr416 (activation loop): autophosphorylation; activates catalytic activity (shen2018thesrcfamily pages 6-7).  
+• Tyr527 (C-terminal tail): phosphorylated by C-terminal Src kinase (CSK); forms SH2 interaction yet fails to suppress Fgr activity, contrasting with other SFKs (ruzzene1994regulationofcfgr pages 4-6, shen2018thesrcfamily pages 2-3).  
+• Dual phosphorylation (Tyr400/Tyr511 in c-Fgr numbering) is promoted by polycationic effectors, with Tyr400 overriding the inhibitory effect of Tyr511 (ruzzene1994regulationofcfgr pages 6-7).  
+
+Allosteric and conformational control  
+Canonical SH3-linker and SH2-tail interactions assemble a closed conformation, but Fgr retains high basal activity even when these contacts are intact, indicating weakened allosteric coupling (shen2018thesrcfamily pages 3-3). Binding of ATP-site inhibitors elicits large-scale repositioning of SH3 and SH2 domains, demonstrating drug-induced allostery (du2022atpsiteinhibitorsinduce pages 18-23).  
+
+## Function  
+Expression: Predominantly in myeloid hematopoietic cells—neutrophils, monocytes, macrophages and mast cells—as well as mantle zone B lymphocytes (lee2011thesrcfamily pages 1-2, link1995theprotooncogenecfgr pages 3-3).  
+Upstream receptors: FcεRI, FcγR, integrins ITGB1/ITGB2 (lee2011thesrcfamily pages 6-7).  
+Downstream signalling: Enhances phosphorylation and activation of Syk, LAT, SLP76, Gab2, Akt, ERK1/2, p38 and JNK, driving degranulation, cytokine and leukotriene production in mast cells (lee2011thesrcfamily pages 5-6). In AML cells, constitutive Fgr activity supports proliferation and transformation independent of SH3-SH2 regulation (shen2018thesrcfamily pages 6-7).  
+Cellular roles: Promotes mast-cell degranulation and IgE-mediated anaphylaxis; modulates cytoskeletal rearrangement, adhesion and migration in neutrophils and macrophages; context-dependent negative feedback on ITGB2-mediated phagocytosis (lee2011thesrcfamily pages 7-8).  
+
+## Inhibitors  
+A-419259: type I, αC-out/DFG-in inhibitor that stabilises the closed conformation (du2022atpsiteinhibitorsinduce pages 6-8).  
+TL02-59: type II, αC-in/DFG-out inhibitor that displaces SH3 and SH2 domains, producing an open allosteric state (du2022atpsiteinhibitorsinduce pages 18-23).  
+
+## Other Comments  
+Disease links: Over-expression and constitutive activation in acute myeloid leukaemia (AML) (shen2018thesrcfamily pages 1-2). SH3-domain cancer mutations cluster in RT and distal loops, potentially perturbing regulatory interactions (perez2022amodelfor pages 27-28). Fgr knock-down attenuates passive cutaneous anaphylaxis in mice, highlighting therapeutic potential in allergic disorders (lee2011thesrcfamily pages 8-9).
+
+References
+
+1. (du2022atpsiteinhibitorsinduce pages 1-3): Shoucheng Du, John J. Alvarado, Thomas E. Wales, Jamie A. Moroco, John R. Engen, and Thomas E. Smithgall. Atp-site inhibitors induce unique conformations of the acute myeloid leukemia-associated src-family kinase, fgr. Structure, 30:1508-1517.e3, Nov 2022. URL: https://doi.org/10.1016/j.str.2022.08.008, doi:10.1016/j.str.2022.08.008. This article has 9 citations and is from a domain leading peer-reviewed journal.
+
+2. (du2022atpsiteinhibitorsinduce pages 11-13): Shoucheng Du, John J. Alvarado, Thomas E. Wales, Jamie A. Moroco, John R. Engen, and Thomas E. Smithgall. Atp-site inhibitors induce unique conformations of the acute myeloid leukemia-associated src-family kinase, fgr. Structure, 30:1508-1517.e3, Nov 2022. URL: https://doi.org/10.1016/j.str.2022.08.008, doi:10.1016/j.str.2022.08.008. This article has 9 citations and is from a domain leading peer-reviewed journal.
+
+3. (du2022atpsiteinhibitorsinduce pages 14-18): Shoucheng Du, John J. Alvarado, Thomas E. Wales, Jamie A. Moroco, John R. Engen, and Thomas E. Smithgall. Atp-site inhibitors induce unique conformations of the acute myeloid leukemia-associated src-family kinase, fgr. Structure, 30:1508-1517.e3, Nov 2022. URL: https://doi.org/10.1016/j.str.2022.08.008, doi:10.1016/j.str.2022.08.008. This article has 9 citations and is from a domain leading peer-reviewed journal.
+
+4. (du2022atpsiteinhibitorsinduce pages 18-23): Shoucheng Du, John J. Alvarado, Thomas E. Wales, Jamie A. Moroco, John R. Engen, and Thomas E. Smithgall. Atp-site inhibitors induce unique conformations of the acute myeloid leukemia-associated src-family kinase, fgr. Structure, 30:1508-1517.e3, Nov 2022. URL: https://doi.org/10.1016/j.str.2022.08.008, doi:10.1016/j.str.2022.08.008. This article has 9 citations and is from a domain leading peer-reviewed journal.
+
+5. (du2022atpsiteinhibitorsinduce pages 5-6): Shoucheng Du, John J. Alvarado, Thomas E. Wales, Jamie A. Moroco, John R. Engen, and Thomas E. Smithgall. Atp-site inhibitors induce unique conformations of the acute myeloid leukemia-associated src-family kinase, fgr. Structure, 30:1508-1517.e3, Nov 2022. URL: https://doi.org/10.1016/j.str.2022.08.008, doi:10.1016/j.str.2022.08.008. This article has 9 citations and is from a domain leading peer-reviewed journal.
+
+6. (du2022atpsiteinhibitorsinduce pages 6-8): Shoucheng Du, John J. Alvarado, Thomas E. Wales, Jamie A. Moroco, John R. Engen, and Thomas E. Smithgall. Atp-site inhibitors induce unique conformations of the acute myeloid leukemia-associated src-family kinase, fgr. Structure, 30:1508-1517.e3, Nov 2022. URL: https://doi.org/10.1016/j.str.2022.08.008, doi:10.1016/j.str.2022.08.008. This article has 9 citations and is from a domain leading peer-reviewed journal.
+
+7. (lee2011thesrcfamily pages 1-2): Jun Ho Lee, Jie Wan Kim, Do Kyun Kim, Hyuk Soon Kim, Hye Jin Park, Dong Ki Park, A-Ram Kim, Bokyung Kim, Michael A Beaven, Kui Lea Park, Young Mi Kim, and Wahn Soo Choi. The src family kinase fgr is critical for activation of mast cells and ige-mediated anaphylaxis in mice. The Journal of Immunology, 187:1807-1815, Aug 2011. URL: https://doi.org/10.4049/jimmunol.1100296, doi:10.4049/jimmunol.1100296. This article has 56 citations.
+
+8. (lee2011thesrcfamily pages 5-6): Jun Ho Lee, Jie Wan Kim, Do Kyun Kim, Hyuk Soon Kim, Hye Jin Park, Dong Ki Park, A-Ram Kim, Bokyung Kim, Michael A Beaven, Kui Lea Park, Young Mi Kim, and Wahn Soo Choi. The src family kinase fgr is critical for activation of mast cells and ige-mediated anaphylaxis in mice. The Journal of Immunology, 187:1807-1815, Aug 2011. URL: https://doi.org/10.4049/jimmunol.1100296, doi:10.4049/jimmunol.1100296. This article has 56 citations.
+
+9. (lee2011thesrcfamily pages 6-7): Jun Ho Lee, Jie Wan Kim, Do Kyun Kim, Hyuk Soon Kim, Hye Jin Park, Dong Ki Park, A-Ram Kim, Bokyung Kim, Michael A Beaven, Kui Lea Park, Young Mi Kim, and Wahn Soo Choi. The src family kinase fgr is critical for activation of mast cells and ige-mediated anaphylaxis in mice. The Journal of Immunology, 187:1807-1815, Aug 2011. URL: https://doi.org/10.4049/jimmunol.1100296, doi:10.4049/jimmunol.1100296. This article has 56 citations.
+
+10. (lee2011thesrcfamily pages 7-8): Jun Ho Lee, Jie Wan Kim, Do Kyun Kim, Hyuk Soon Kim, Hye Jin Park, Dong Ki Park, A-Ram Kim, Bokyung Kim, Michael A Beaven, Kui Lea Park, Young Mi Kim, and Wahn Soo Choi. The src family kinase fgr is critical for activation of mast cells and ige-mediated anaphylaxis in mice. The Journal of Immunology, 187:1807-1815, Aug 2011. URL: https://doi.org/10.4049/jimmunol.1100296, doi:10.4049/jimmunol.1100296. This article has 56 citations.
+
+11. (lee2011thesrcfamily pages 8-9): Jun Ho Lee, Jie Wan Kim, Do Kyun Kim, Hyuk Soon Kim, Hye Jin Park, Dong Ki Park, A-Ram Kim, Bokyung Kim, Michael A Beaven, Kui Lea Park, Young Mi Kim, and Wahn Soo Choi. The src family kinase fgr is critical for activation of mast cells and ige-mediated anaphylaxis in mice. The Journal of Immunology, 187:1807-1815, Aug 2011. URL: https://doi.org/10.4049/jimmunol.1100296, doi:10.4049/jimmunol.1100296. This article has 56 citations.
+
+12. (ruzzene1994regulationofcfgr pages 4-6): M. Ruzzene, P. James, A.M. Brunati, A. Donella-Deana, and L.A. Pinna. Regulation of c-fgr protein kinase by c-src kinase (csk) and by polycationic effectors. The Journal of biological chemistry, 269 22:15885-91, Jun 1994. URL: https://doi.org/10.1016/s0021-9258(17)40763-0, doi:10.1016/s0021-9258(17)40763-0. This article has 37 citations.
+
+13. (ruzzene1994regulationofcfgr pages 6-7): M. Ruzzene, P. James, A.M. Brunati, A. Donella-Deana, and L.A. Pinna. Regulation of c-fgr protein kinase by c-src kinase (csk) and by polycationic effectors. The Journal of biological chemistry, 269 22:15885-91, Jun 1994. URL: https://doi.org/10.1016/s0021-9258(17)40763-0, doi:10.1016/s0021-9258(17)40763-0. This article has 37 citations.
+
+14. (shen2018thesrcfamily pages 1-2): Kexin Shen, Jamie A. Moroco, Ravi K. Patel, Haibin Shi, John R. Engen, Heather R. Dorman, and Thomas E. Smithgall. The src family kinase fgr is a transforming oncoprotein that functions independently of sh3-sh2 domain regulation. Science Signaling, Oct 2018. URL: https://doi.org/10.1126/scisignal.aat5916, doi:10.1126/scisignal.aat5916. This article has 31 citations and is from a domain leading peer-reviewed journal.
+
+15. (shen2018thesrcfamily pages 2-3): Kexin Shen, Jamie A. Moroco, Ravi K. Patel, Haibin Shi, John R. Engen, Heather R. Dorman, and Thomas E. Smithgall. The src family kinase fgr is a transforming oncoprotein that functions independently of sh3-sh2 domain regulation. Science Signaling, Oct 2018. URL: https://doi.org/10.1126/scisignal.aat5916, doi:10.1126/scisignal.aat5916. This article has 31 citations and is from a domain leading peer-reviewed journal.
+
+16. (shen2018thesrcfamily pages 3-3): Kexin Shen, Jamie A. Moroco, Ravi K. Patel, Haibin Shi, John R. Engen, Heather R. Dorman, and Thomas E. Smithgall. The src family kinase fgr is a transforming oncoprotein that functions independently of sh3-sh2 domain regulation. Science Signaling, Oct 2018. URL: https://doi.org/10.1126/scisignal.aat5916, doi:10.1126/scisignal.aat5916. This article has 31 citations and is from a domain leading peer-reviewed journal.
+
+17. (shen2018thesrcfamily pages 6-7): Kexin Shen, Jamie A. Moroco, Ravi K. Patel, Haibin Shi, John R. Engen, Heather R. Dorman, and Thomas E. Smithgall. The src family kinase fgr is a transforming oncoprotein that functions independently of sh3-sh2 domain regulation. Science Signaling, Oct 2018. URL: https://doi.org/10.1126/scisignal.aat5916, doi:10.1126/scisignal.aat5916. This article has 31 citations and is from a domain leading peer-reviewed journal.
+
+18. (shen2018thesrcfamily pages 6-6): Kexin Shen, Jamie A. Moroco, Ravi K. Patel, Haibin Shi, John R. Engen, Heather R. Dorman, and Thomas E. Smithgall. The src family kinase fgr is a transforming oncoprotein that functions independently of sh3-sh2 domain regulation. Science Signaling, Oct 2018. URL: https://doi.org/10.1126/scisignal.aat5916, doi:10.1126/scisignal.aat5916. This article has 31 citations and is from a domain leading peer-reviewed journal.
+
+19. (unknownauthors1995expressionofthe pages 25-28): Expression of the c-fgr proto-oncogene in monoblastoid cells
+
+20. (hunter2015theeukaryoticprotein pages 3-6): Tony Hunter and Gerard Manning. The eukaryotic protein kinase superfamily and the emergence of receptor tyrosine kinases. Receptor Tyrosine Kinases: Structure, Functions and Role in Human Disease, pages 1-15, Oct 2015. URL: https://doi.org/10.1007/978-1-4939-2053-2\_1, doi:10.1007/978-1-4939-2053-2\_1. This article has 6 citations.
+
+21. (link1995theprotooncogenecfgr pages 3-3): D. Link and M. Zutter. The proto-oncogene c-fgr is expressed in normal mantle zone b lymphocytes and is developmentally regulated during myelomonocytic differentiation in vivo. Blood, 85:472-479, Jan 1995. URL: https://doi.org/10.1182/blood.v85.2.472.472, doi:10.1182/blood.v85.2.472.472. This article has 24 citations and is from a highest quality peer-reviewed journal.
+
+22. (perez2022amodelfor pages 27-28): Ivette Perez, Sandra Berndt, Rupesh Agarwal, Manuel A. Castro, Sergey A. Vishnivetskiy, Jeremy C. Smith, Charles R. Sanders, Vsevolod V. Gurevich, and T.M. Iverson. A model for the signal initiation complex between arrestin-3 and the src family kinase fgr. Journal of Molecular Biology, 434:167400, Jan 2022. URL: https://doi.org/10.1016/j.jmb.2021.167400, doi:10.1016/j.jmb.2021.167400. This article has 12 citations and is from a domain leading peer-reviewed journal.

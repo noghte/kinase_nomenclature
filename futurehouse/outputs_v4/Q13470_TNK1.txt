@@ -1,0 +1,86 @@
+Phylogeny  
+• Homo sapiens TNK1 (Uniprot Q13470) is the human ortholog and reference sequence (ahmed2022thenoncatalyticregions pages 1-2).  
+• Mus musculus Tnk1 (Uniprot Q9D0C6) is the mouse ortholog used for phospho-proteomic studies (unknownauthors2020discoveryofa pages 30-35).  
+• Danio rerio tnk1a retains the proline-rich phospho-cluster corresponding to human S502 (unknownauthors2022examinationof1433 pages 59-63).  
+• TNK1 and ACK1/TNK2 form the ACK subfamily within the Tyrosine Kinase (TK) group of the human kinome as classified in the Manning kinome framework (balasooriya2024integratingclinicalcancer pages 14-15, prietoechague2011regulationofackfamily pages 6-7).  
+
+Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + protein-L-tyrosine-phosphate (ahmed2022thenoncatalyticregions pages 1-2).  
+
+Cofactor Requirements  
+• Catalysis requires Mg²⁺; Mn²⁺ also supports activity in vitro (chan2021tnk1isa pages 14-15, ahmed2022thenoncatalyticregions pages 8-9).  
+
+Substrate Specificity  
+• Highest in-vitro turnover toward a WASP-derived PxxP peptide; Km = 214 µM (ahmed2022thenoncatalyticregions pages 1-2).  
+• Secondary phosphorylation observed on an Abl YxxP peptide, indicating partial overlap with Abl-family motifs (ahmed2022thenoncatalyticregions pages 1-2).  
+• Cellular tyrosine substrates include PLC-γ1 Y783 and STAT3 Y705, whereas STAT5 is not phosphorylated (unknownauthors2020discoveryofa pages 53-58).  
+• Yeast phospho-proteomics defines a motif enriched in proline residues flanking pTyr and basic residues at +1/+2, consistent with P-x-x-pY-[K/R]-[K/R] (unknownauthors2016decipheringhumancytoplasmic pages 79-82).  
+• The 2024 tyrosine-kinome atlas does not report intrinsic specificity data for TNK1; motif therefore remains experimentally defined as above (unknownauthors2020discoveryofa pages 35-40).  
+
+Structure  
+• Domain organization: SAM 1-111; Kinase core 112-350 (activation-loop autophosphorylation site Y277); SH3 351-410; Proline-rich 411-589 containing 14-3-3 site S502; UBA 590-666 (chan2021tnk1isa pages 14-15, ahmed2022thenoncatalyticregions pages 8-9).  
+• AlphaFold model AF-Q13470-F1 covers the full polypeptide and preserves canonical kinase features including β3 Lys, HRD274-276 catalytic triad, and DFG292-294 motif (ahmed2022thenoncatalyticregions pages 9-10, unknownauthors2022examinationof1433 pages 79-83).  
+• UBA domain folds into a five-helix bundle that forms a high-affinity ubiquitin-binding pocket (chan2021tnk1isa pages 14-15).  
+• No experimental crystal or cryo-EM structures have been reported to date (ahmed2022thenoncatalyticregions pages 9-10).  
+
+Regulation  
+• Autophosphorylation at Y277 within the activation loop enhances catalytic activity (unknownauthors2022examinationof1433 pages 79-83).  
+• MARK1-4 phosphorylate S502, creating a docking site for multiple 14-3-3 isoforms which sequester and inhibit TNK1 (unknownauthors2022examinationof1433 pages 59-63).  
+• Loss of 14-3-3 binding (S502A or C-terminal truncation) induces cytosolic puncta and increases kinase signaling (unknownauthors2022examinationof1433 pages 70-75).  
+• The C-terminal UBA domain binds K48-, K63-, and M1-linked poly-ubiquitin with nanomolar affinity; ubiquitin engagement is required for full activation (unknownauthors2020discoveryofa pages 44-48).  
+• Y661 inside the UBA is a major phosphorylation site that modulates 14-3-3 and ubiquitin interactions (unknownauthors2022examinationof1433 pages 115-119).  
+
+Function  
+• mRNA is ubiquitous in fetal tissues and restricted in adults to prostate, testis, ovary, colon, and small intestine; elevated expression is observed in AML, ALL, prostate and ovarian cancer cell lines (unknownauthors2020discoveryofa pages 13-17).  
+• Upstream regulator: LKB1-activated MARK kinases mediate S502 phosphorylation (unknownauthors2022examinationof1433 pages 63-66).  
+• Key interactors: 14-3-3 proteins (phospho-dependent binding), poly-ubiquitin chains (UBA-dependent), p62/SQSTM1, and TBK1 within ubiquitin condensates (unknownauthors2020discoveryofa pages 53-58, unknownauthors2022examinationof1433 pages 115-119).  
+• Downstream signaling: phosphorylates PLC-γ1 and STAT3, negatively modulates Ras-RAF-MEK-ERK and NF-κB pathways, and enhances IFN-STAT1 antiviral signaling (unknownauthors2020tnk1inducesapoptosis pages 36-42, unknownauthors2020discoveryofa pages 53-58).  
+
+Inhibitors  
+• TP-5801: ATP-competitive inhibitor; biochemical IC₅₀ = 1.4 nM, Ba/F3 cell growth IC₅₀ = 37-78 nM; oral dosing reduces tumor burden and prolongs survival in TNK1-driven mouse models (unknownauthors2020discoveryofa pages 53-58, unknownauthors2022amachinelearning pages 71-72).  
+• (R)-9b exhibits micromolar inhibition in radiometric kinase assays (ahmed2022thenoncatalyticregions pages 8-9).  
+
+Other Comments  
+• High TNK1 expression correlates with poor overall and relapse-free survival in ALL patient cohorts (unknownauthors2020discoveryofa pages 35-40).  
+• A Hodgkin lymphoma-derived C-terminal truncation lacking the 14-3-3 binding region yields a hyperactive oncogenic variant (unknownauthors2020discoveryofa pages 13-17).  
+• Whole-body Tnk1 knockout mice develop spontaneous lymphomas and carcinomas, indicating context-dependent tumor-suppressor functions (unknownauthors2020discoveryofa pages 13-17).
+
+References
+
+1. (ahmed2022thenoncatalyticregions pages 1-2): Sultan Ahmed and W. Miller. The noncatalytic regions of the tyrosine kinase tnk1 are important for activity and substrate specificity. The Journal of Biological Chemistry, Nov 2022. URL: https://doi.org/10.1016/j.jbc.2022.102664, doi:10.1016/j.jbc.2022.102664. This article has 5 citations.
+
+2. (ahmed2022thenoncatalyticregions pages 8-9): Sultan Ahmed and W. Miller. The noncatalytic regions of the tyrosine kinase tnk1 are important for activity and substrate specificity. The Journal of Biological Chemistry, Nov 2022. URL: https://doi.org/10.1016/j.jbc.2022.102664, doi:10.1016/j.jbc.2022.102664. This article has 5 citations.
+
+3. (chan2021tnk1isa pages 14-15): T. Chan, Christina M Egbert, Julia E. Maxson, A. Siddiqui, Logan Larsen, Kristina Kohler, E. Balasooriya, K. Pennington, T. Tsang, Madison Frey, E. Soderblom, H. Geng, M. Müschen, Tetyana V. Forostyan, Savannah Free, Gaelle Mercenne, C. Banks, J. Valdoz, Clifford J. Whatcott, J. Foulks, D. Bearss, T. O'hare, D. Huang, K. Christensen, J. Moody, S. Warner, J. Tyner, and J. Andersen. Tnk1 is a ubiquitin-binding and 14-3-3-regulated kinase that can be targeted to block tumor growth. Nature Communications, Sep 2021. URL: https://doi.org/10.1038/s41467-021-25622-3, doi:10.1038/s41467-021-25622-3. This article has 24 citations and is from a highest quality peer-reviewed journal.
+
+4. (unknownauthors2020discoveryofa pages 13-17): Discovery of a Novel Regulatory Mechanism of TNK1 by 14-3-3 and Its Ubiquitin Association Domain Provides a Potential Therapeutic Targeting Opportunity in …
+
+5. (unknownauthors2020discoveryofa pages 30-35): Discovery of a Novel Regulatory Mechanism of TNK1 by 14-3-3 and Its Ubiquitin Association Domain Provides a Potential Therapeutic Targeting Opportunity in …
+
+6. (unknownauthors2020discoveryofa pages 35-40): Discovery of a Novel Regulatory Mechanism of TNK1 by 14-3-3 and Its Ubiquitin Association Domain Provides a Potential Therapeutic Targeting Opportunity in …
+
+7. (unknownauthors2020discoveryofa pages 44-48): Discovery of a Novel Regulatory Mechanism of TNK1 by 14-3-3 and Its Ubiquitin Association Domain Provides a Potential Therapeutic Targeting Opportunity in …
+
+8. (unknownauthors2020discoveryofa pages 53-58): Discovery of a Novel Regulatory Mechanism of TNK1 by 14-3-3 and Its Ubiquitin Association Domain Provides a Potential Therapeutic Targeting Opportunity in …
+
+9. (unknownauthors2020tnk1inducesapoptosis pages 36-42): TNK1 induces apoptosis by regulating Bcl-2 family proteins in immortalized human hepatocytes
+
+10. (unknownauthors2022amachinelearning pages 71-72): A Machine Learning Approach that Integrates Clinical Data and PTM Proteomics Identifies a Mechanism of ACK1 Activation and Stabilization in Cancer
+
+11. (unknownauthors2022examinationof1433 pages 115-119): Examination of 14-3-3 Interactors Identifies a Novel Mechanism of Regulation for the Ubiquitin Binding Kinase TNK1 That Can Be Targeted to Block Tumor Growth
+
+12. (unknownauthors2022examinationof1433 pages 59-63): Examination of 14-3-3 Interactors Identifies a Novel Mechanism of Regulation for the Ubiquitin Binding Kinase TNK1 That Can Be Targeted to Block Tumor Growth
+
+13. (unknownauthors2022examinationof1433 pages 63-66): Examination of 14-3-3 Interactors Identifies a Novel Mechanism of Regulation for the Ubiquitin Binding Kinase TNK1 That Can Be Targeted to Block Tumor Growth
+
+14. (unknownauthors2022examinationof1433 pages 70-75): Examination of 14-3-3 Interactors Identifies a Novel Mechanism of Regulation for the Ubiquitin Binding Kinase TNK1 That Can Be Targeted to Block Tumor Growth
+
+15. (unknownauthors2022examinationof1433 pages 79-83): Examination of 14-3-3 Interactors Identifies a Novel Mechanism of Regulation for the Ubiquitin Binding Kinase TNK1 That Can Be Targeted to Block Tumor Growth
+
+16. (ahmed2022thenoncatalyticregions pages 9-10): Sultan Ahmed and W. Miller. The noncatalytic regions of the tyrosine kinase tnk1 are important for activity and substrate specificity. The Journal of Biological Chemistry, Nov 2022. URL: https://doi.org/10.1016/j.jbc.2022.102664, doi:10.1016/j.jbc.2022.102664. This article has 5 citations.
+
+17. (balasooriya2024integratingclinicalcancer pages 14-15): E. Balasooriya, D. Madhusanka, Tania P Lopez-Palacios, Riley J Eastmond, Dasun Jayatunge, Jake J Owen, Jack S Gashler, Christina M Egbert, Chanaka Bulathsinghalage, Lu Liu, Stephen R. Piccolo, and Joshua L Andersen. Integrating clinical cancer and ptm proteomics data identifies a mechanism of ack1 kinase activation. Molecular Cancer Research, 22:137-151, Oct 2024. URL: https://doi.org/10.1158/1541-7786.mcr-23-0153, doi:10.1158/1541-7786.mcr-23-0153. This article has 2 citations and is from a peer-reviewed journal.
+
+18. (prietoechague2011regulationofackfamily pages 6-7): Victoria Prieto-Echagüe and W. Todd Miller. Regulation of ack-family nonreceptor tyrosine kinases. Journal of Signal Transduction, 2011:1-9, Feb 2011. URL: https://doi.org/10.1155/2011/742372, doi:10.1155/2011/742372. This article has 72 citations.
+
+19. (unknownauthors2016decipheringhumancytoplasmic pages 79-82): Deciphering Human Cytoplasmic Protein Tyrosine Kinase Phosphorylation Specificity In Yeast

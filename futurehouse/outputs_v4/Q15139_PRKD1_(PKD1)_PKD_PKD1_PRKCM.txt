@@ -1,0 +1,90 @@
+## Phylogeny
+Protein kinase D1 (PRKD1) was initially classified as an atypical member of the protein kinase C (PKC) family, named PKCμ, but was later reclassified into the distinct PKD family based on structural and kinase domain sequence analysis (sundram2011emergingrolesof pages 1-3, rykx2003proteinkinased pages 1-2). Sources conflict on its broader kinome group classification. Several sources place PRKD1 within the Ca2+/calmodulin-dependent protein kinase (CAMK) superfamily, based on kinase domain sequence similarities (johnson2023anatlasof pages 4-4, gilles2021developmentsinthe pages 1-3, rykx2003proteinkinased pages 1-2, sundram2011emergingrolesof pages 1-3). In contrast, the foundational kinome analysis by Manning et al. (2002) and other reports classify PRKD1 within the AGC group of kinases (manning2002theproteinkinase pages 1-2, lint2002proteinkinased pages 1-2).
+
+The PKD family consists of three isoforms in humans: PKD1, PKD2, and PKD3 (gilles2021developmentsinthe pages 1-3, rykx2003proteinkinased pages 1-2). PRKD1 is evolutionarily conserved with orthologs identified in multiple species, including mice (Mus musculus), rats (Rattus norvegicus), flies (Drosophila melanogaster), worms (Caenorhabditis elegans), and yeast (Saccharomyces cerevisiae) (sundram2011emergingrolesof pages 1-3).
+
+
+## Reaction Catalyzed
+PRKD1 is a serine/threonine kinase that catalyzes the transfer of a phosphate group from ATP to the hydroxyl group of serine or threonine residues on substrate proteins (sundram2011emergingrolesof pages 3-4).
+
+
+## Cofactor Requirements
+The catalytic activity of PRKD1 requires Mg2+ as a cofactor (sundram2011emergingrolesof pages 3-4).
+
+
+## Substrate Specificity
+Based on a comprehensive kinome-wide analysis, PRKD1 is classified as a basophilic kinase (johnson2023anatlasof pages 4-4). Its substrate recognition motif is characterized by a preference for basic residues, specifically arginine (R), at the -3 or -2 positions relative to the phosphorylated serine or threonine residue (johnson2023anatlasof pages 12-18, johnson2023anatlasof pages 4-4).
+
+
+## Structure
+PRKD1 is a multi-domain protein of approximately 912 amino acids (zhang2021multifacetedfunctionsof pages 1-2). Its modular structure includes an N-terminal regulatory region and a C-terminal kinase domain (steinberg2012regulationofprotein pages 1-2). The regulatory region contains a ubiquitin-like domain (ULD) implicated in dimerization, tandem cysteine-rich C1 domains (C1a and C1b) that bind diacylglycerol (DAG), and a pleckstrin homology (PH) domain that mediates autoinhibition (zhang2021multifacetedfunctionsof pages 2-4, zhang2021multifacetedfunctionsof pages 1-2). The C-terminus contains the catalytic kinase domain and a PDZ-binding motif involved in substrate recognition (zhang2021multifacetedfunctionsof pages 2-4, sundram2011emergingrolesof pages 1-3).
+
+An experimentally determined crystal structure for PRKD1 is unavailable; however, its 3D structure is understood through homology modeling and the AlphaFold model (unknownauthors2013pkd13dstructure pages 10-17, zhang2021multifacetedfunctionsof pages 2-4). The kinase domain adopts a conserved bi-lobed catalytic core architecture with an ATP-binding cleft between the N- and C-terminal lobes (unknownauthors2013pkd13dstructure pages 17-24). Key structural features within the kinase domain include the C-helix in the N-lobe, which is crucial for positioning catalytic residues for ATP binding, and a hydrophobic spine, a set of conserved hydrophobic residues spanning both lobes that stabilizes the active conformation of the kinase (steinberg2012regulationofprotein pages 1-2, zhang2021multifacetedfunctionsof pages 2-4, unknownauthors2013pkd13dstructure pages 17-24).
+
+
+## Regulation
+PRKD1 is allosterically regulated by the direct binding of diacylglycerol (DAG) to its tandem C1a and C1b domains (cobbaut2018functionandregulation pages 3-4). Upon generation by phospholipase C (PLC), DAG recruits cytosolic PRKD1 to cellular membranes (fu2011proteinkinased pages 1-2, zhang2021multifacetedfunctionsof pages 2-4). This binding event induces a conformational change that relieves an intramolecular autoinhibitory mechanism mediated by the N-terminal regulatory region, particularly the PH domain (cobbaut2018functionandregulation pages 2-3, fu2011proteinkinased pages 1-2, steinberg2012regulationofprotein pages 1-2).
+
+This membrane localization and conformational opening primes PRKD1 for trans-phosphorylation by upstream protein kinase C (PKC) isoforms (e.g., novel PKCs δ, ε, θ, η) (rozengurt2011proteinkinased pages 1-2, fu2011proteinkinased pages 1-2). PKC phosphorylates critical serine residues in the activation loop of PRKD1—Ser738 and Ser742 in human (equivalent to Ser744/Ser748 in mouse)—which stabilizes the active conformation and leads to full kinase activation (gilles2021developmentsinthe pages 1-3, fu2011proteinkinased pages 1-2, steinberg2012regulationofprotein pages 1-2). Phosphorylation at Ser738 by PKC triggers autophosphorylation at the adjacent Ser742 (zhang2021multifacetedfunctionsof pages 2-4). Following activation, PRKD1 autophosphorylates at Ser910 in its C-terminus, a modification which further modulates its activity (cobbaut2018functionandregulation pages 2-3, steinberg2012regulationofprotein pages 1-2).
+
+PRKD1 can also be activated by oxidative stress via tyrosine phosphorylation by Abl and Src kinases at sites within the PH domain and N-terminus (gilles2021developmentsinthe pages 1-3). Nucleocytoplasmic shuttling is regulated by phosphorylation at Ser244 by casein kinase 1 (CK1) (zhang2021multifacetedfunctionsof pages 22-23).
+
+
+## Function
+PRKD1 is ubiquitously expressed in human tissues, with the highest expression reported in prostate and testis germ cells (sundram2011emergingrolesof pages 1-3). The kinase localizes to multiple cellular compartments, including the cytoplasm, plasma membrane, Golgi apparatus, mitochondria, and nucleus, where it phosphorylates numerous substrates to regulate diverse signaling pathways (gilles2021developmentsinthe pages 1-3, zhang2021multifacetedfunctionsof pages 2-4).
+
+PRKD1 is activated downstream of stimuli that engage GPCRs or receptor tyrosine kinases, leading to PLC-dependent DAG production and PKC activation (rozengurt2011proteinkinased pages 1-2). Known substrates of PRKD1 include class IIa histone deacetylases (HDACs), such as HDAC5, which are excluded from the nucleus upon phosphorylation (lavalle2010proteinkinased pages 4-5, rozengurt2011proteinkinased pages 8-9). Other substrates include cardiac troponin I, myosin binding protein C, CREB, phosphatidylinositol-4 kinase IIIβ (PI4KIIIβ) at the Golgi, and the actin-remodeling proteins SSH1L and EVL-1 (rozengurt2011proteinkinased pages 8-9, zhang2021multifacetedfunctionsof pages 22-23, lavalle2010proteinkinased pages 4-5). It interacts with proteins such as AKAP-Lbc, paxillin, and cortactin (rozengurt2011proteinkinased pages 8-9, lavalle2010proteinkinased pages 4-5).
+
+Functionally, PRKD1 regulates a wide array of biological processes, including cell proliferation, survival, apoptosis, motility, vesicle trafficking, and angiogenesis (rozengurt2011proteinkinased pages 1-2, lavalle2010proteinkinased pages 4-5). It acts as a key regulator of cardiac hypertrophy and fibrosis and is involved in oxidative stress responses through NF-κB activation (gilles2021developmentsinthe pages 1-3, zhang2021multifacetedfunctionsof pages 22-23).
+
+
+## Inhibitors
+The development of small-molecule inhibitors for PRKD1 has yielded specifically designed bioactive molecules, including compounds from the benzothienothiazepinone class (gilles2021developmentsinthe pages 1-3, bravoaltamirano2011synthesisandstructure−activity pages 4-5). As PRKD1 activation requires upstream phosphorylation by PKC, its activity is also blocked by PKC inhibitors that do not directly target PRKD1's catalytic activity (rozengurt2011proteinkinased pages 1-2).
+
+
+## Other Comments
+Dysregulated PRKD1 signaling is associated with pathological conditions including various cancers (pancreatic, breast, skin), cardiac hypertrophy, and other cardiovascular diseases (gilles2021developmentsinthe pages 1-3, zhang2021multifacetedfunctionsof pages 1-2). In cancer, its role can be context-dependent; PRKD1 expression is epigenetically silenced in highly invasive breast cancer cells, while in pancreatic cancer it is overexpressed and linked to proliferation (lavalle2010proteinkinased pages 4-5). Recurrent PRKD1 mutations have been reported in breast and colon cancers (rozengurt2011proteinkinased pages 8-9). Global knockout of PRKD1 in mice results in embryonic lethality, indicating an essential biological role (rozengurt2011proteinkinased pages 8-9).
+
+References
+
+1. (cobbaut2018functionandregulation pages 2-3): Mathias Cobbaut and Johan Van Lint. Function and regulation of protein kinase d in oxidative stress: a tale of isoforms. Oxidative Medicine and Cellular Longevity, Apr 2018. URL: https://doi.org/10.1155/2018/2138502, doi:10.1155/2018/2138502. This article has 49 citations and is from a poor quality or predatory journal.
+
+2. (cobbaut2018functionandregulation pages 3-4): Mathias Cobbaut and Johan Van Lint. Function and regulation of protein kinase d in oxidative stress: a tale of isoforms. Oxidative Medicine and Cellular Longevity, Apr 2018. URL: https://doi.org/10.1155/2018/2138502, doi:10.1155/2018/2138502. This article has 49 citations and is from a poor quality or predatory journal.
+
+3. (fu2011proteinkinased pages 1-2): Ya Fu and C. Rubin. Protein kinase d: coupling extracellular stimuli to the regulation of cell physiology. EMBO reports, Aug 2011. URL: https://doi.org/10.1038/embor.2011.139, doi:10.1038/embor.2011.139. This article has 178 citations and is from a highest quality peer-reviewed journal.
+
+4. (gilles2021developmentsinthe pages 1-3): Philippe Gilles, Lauren Voets, Johan Van Lint, and Wim M. De Borggraeve. Developments in the discovery and design of protein kinase d inhibitors. ChemMedChem, 16:2158-2171, May 2021. URL: https://doi.org/10.1002/cmdc.202100110, doi:10.1002/cmdc.202100110. This article has 13 citations and is from a peer-reviewed journal.
+
+5. (johnson2023anatlasof pages 4-4): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+6. (lint2002proteinkinased pages 1-2): J. Van Lint, A. Rykx, Y. Maeda, T. Vántus, Sabine Sturany, V. Malhotra, J. Vandenheede, and T. Seufferlein. Protein kinase d: an intracellular traffic regulator on the move. Trends in cell biology, 12 4:193-200, Apr 2002. URL: https://doi.org/10.1016/s0962-8924(02)02262-6, doi:10.1016/s0962-8924(02)02262-6. This article has 285 citations and is from a domain leading peer-reviewed journal.
+
+7. (rozengurt2011proteinkinased pages 1-2): Enrique Rozengurt. Protein kinase d signaling: multiple biological functions in health and disease. Physiology, 26:23-33, Feb 2011. URL: https://doi.org/10.1152/physiol.00037.2010, doi:10.1152/physiol.00037.2010. This article has 311 citations and is from a peer-reviewed journal.
+
+8. (rykx2003proteinkinased pages 1-2): A. Rykx, L. De Kimpe, S. Mikhalap, T. Vántus, T. Seufferlein, J. Vandenheede, and J. Van Lint. Protein kinase d: a family affair. FEBS Letters, Jul 2003. URL: https://doi.org/10.1016/s0014-5793(03)00487-3, doi:10.1016/s0014-5793(03)00487-3. This article has 308 citations and is from a peer-reviewed journal.
+
+9. (steinberg2012regulationofprotein pages 1-2): S. Steinberg. Regulation of protein kinase d1 activity. Molecular Pharmacology, 81:284-291, Mar 2012. URL: https://doi.org/10.1124/mol.111.075986, doi:10.1124/mol.111.075986. This article has 107 citations and is from a domain leading peer-reviewed journal.
+
+10. (sundram2011emergingrolesof pages 1-3): Vasudha Sundram, S. Chauhan, and M. Jaggi. Emerging roles of protein kinase d1 in cancer. Molecular Cancer Research, 9:985-996, Jun 2011. URL: https://doi.org/10.1158/1541-7786.mcr-10-0365, doi:10.1158/1541-7786.mcr-10-0365. This article has 120 citations and is from a peer-reviewed journal.
+
+11. (sundram2011emergingrolesof pages 3-4): Vasudha Sundram, S. Chauhan, and M. Jaggi. Emerging roles of protein kinase d1 in cancer. Molecular Cancer Research, 9:985-996, Jun 2011. URL: https://doi.org/10.1158/1541-7786.mcr-10-0365, doi:10.1158/1541-7786.mcr-10-0365. This article has 120 citations and is from a peer-reviewed journal.
+
+12. (zhang2021multifacetedfunctionsof pages 2-4): Xuejing Zhang, Jaclyn Connelly, Yapeng Chao, and Qiming Jane Wang. Multifaceted functions of protein kinase d in pathological processes and human diseases. Biomolecules, 11:483, Mar 2021. URL: https://doi.org/10.3390/biom11030483, doi:10.3390/biom11030483. This article has 53 citations and is from a peer-reviewed journal.
+
+13. (zhang2021multifacetedfunctionsof pages 22-23): Xuejing Zhang, Jaclyn Connelly, Yapeng Chao, and Qiming Jane Wang. Multifaceted functions of protein kinase d in pathological processes and human diseases. Biomolecules, 11:483, Mar 2021. URL: https://doi.org/10.3390/biom11030483, doi:10.3390/biom11030483. This article has 53 citations and is from a peer-reviewed journal.
+
+14. (bravoaltamirano2011synthesisandstructure−activity pages 4-5): Karla Bravo-Altamirano, Kara M. George, Marie-Céline Frantz, Courtney R. LaValle, Manuj Tandon, Stephanie Leimgruber, Elizabeth R. Sharlow, John S. Lazo, Q. Jane Wang, and Peter Wipf. Synthesis and structure−activity relationships of benzothienothiazepinone inhibitors of protein kinase d. ACS Medicinal Chemistry Letters, 2:154-159, Feb 2011. URL: https://doi.org/10.1021/ml100230n, doi:10.1021/ml100230n. This article has 45 citations and is from a peer-reviewed journal.
+
+15. (lavalle2010proteinkinased pages 4-5): C. LaValle, Kara M. George, E. Sharlow, J. Lazo, Peter Wipf, and Q. J. Wang. Protein kinase d as a potential new target for cancer therapy. Biochimica et biophysica acta, 1806 2:183-92, Dec 2010. URL: https://doi.org/10.1016/j.bbcan.2010.05.003, doi:10.1016/j.bbcan.2010.05.003. This article has 131 citations.
+
+16. (manning2002theproteinkinase pages 1-2): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+17. (rozengurt2011proteinkinased pages 8-9): Enrique Rozengurt. Protein kinase d signaling: multiple biological functions in health and disease. Physiology, 26:23-33, Feb 2011. URL: https://doi.org/10.1152/physiol.00037.2010, doi:10.1152/physiol.00037.2010. This article has 311 citations and is from a peer-reviewed journal.
+
+18. (unknownauthors2013pkd13dstructure pages 17-24): PKD1 3D Structure Model and Docking Studies for New PKD Inhibitors
+
+19. (zhang2021multifacetedfunctionsof pages 1-2): Xuejing Zhang, Jaclyn Connelly, Yapeng Chao, and Qiming Jane Wang. Multifaceted functions of protein kinase d in pathological processes and human diseases. Biomolecules, 11:483, Mar 2021. URL: https://doi.org/10.3390/biom11030483, doi:10.3390/biom11030483. This article has 53 citations and is from a peer-reviewed journal.
+
+20. (johnson2023anatlasof pages 12-18): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+21. (unknownauthors2013pkd13dstructure pages 10-17): PKD1 3D Structure Model and Docking Studies for New PKD Inhibitors

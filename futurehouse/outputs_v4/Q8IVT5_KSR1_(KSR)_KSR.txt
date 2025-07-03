@@ -1,0 +1,109 @@
+## Phylogeny  
+Orthologs have been identified in Caenorhabditis elegans (ksr-1, ksr-2), Drosophila melanogaster (D-ksr), Xenopus laevis (Ksr), Danio rerio (ksr1), Rattus norvegicus (Ksr1), Mus musculus (Ksr1), and Homo sapiens (KSR1, KSR2) (zhang2014identificationofksr1 pages 42-46, kornfeld1995theksr1gene pages 6-7).  
+Within the human kinome, KSR1 belongs to the Tyrosine-Kinase-Like (TKL) group and clusters with RAF-related pseudokinases sharing the five CA1-CA5 conserved areas (claperon2007ksrandcnk pages 5-6, martinvega2023navigatingtheerk12 pages 14-16).  
+The protein is evolutionarily related to RAF family MAP3Ks yet diverged by loss of the canonical Ras-binding domain and catalytic β3-lysine, reflecting specialization toward scaffolding and allosteric regulation (claperon2007ksrandcnk pages 5-6).  
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr ⇌ ADP + protein-L-Ser/Thr-P in vitro (goettel2011ksr1isa pages 1-2).  
+Physiological catalytic activity remains unconfirmed; structural studies capture an αC-OUT inactive conformation (brennan2011arafinducedallosteric pages 1-7).  
+
+## Cofactor Requirements  
+ATP binding is obligatory for structural integrity; mutations in the nucleotide pocket abolish function (goettel2011ksr1isa pages 1-2).  
+A divalent metal requirement has not been demonstrated; Mg²⁺ dependence is unresolved (roskoski2012mek12dualspecificityprotein pages 5-6).  
+
+## Substrate Specificity  
+Validated substrate: MAP2K1/MEK1 is phosphorylated on non-activation-segment serines in vitro (goettel2011ksr1isa pages 1-2, roskoski2012mek12dualspecificityprotein pages 5-6).  
+No consensus phosphorylation motif has been defined for KSR1 (neilsen2017ksrasa pages 6-8).  
+
+## Structure  
+Domain organisation:  
+• CA1 – N-terminal CC-SAM mediating membrane recruitment and binding to the BRAF-specific BRS region (lavoie2018mekdrivesbraf pages 1-2).  
+• CA2 – proline-rich segment of undefined function (frodyma2017coordinatingerksignaling pages 4-6).  
+• CA3 – atypical C1/CRD enabling lipid-dependent plasma-membrane localisation (claperon2007ksrandcnk pages 5-6).  
+• CA4 – Ser/Thr-rich region containing an FXFP ERK-docking motif (frodyma2017coordinatingerksignaling pages 4-6).  
+• CA5 – C-terminal pseudokinase domain; Arg637 replaces the canonical catalytic Lys, HRD and DFG motifs are retained (martinvega2023navigatingtheerk12 pages 14-16).  
+
+3-D data: Crystal structures of MEK-bound KSR1/2 kinase domains (PDB 5UHV, 6B8C) reveal an αC-OUT inactive state with a partially assembled hydrophobic spine and an unphosphorylated activation loop; helix αG in the KSR C-lobe engages MEK, whereas the N-lobe side-to-side surface mediates heterodimerisation with BRAF (chow2022conformationalcontroland pages 1-3, maloney2022themechanismof pages 1-2, khan2020structuralbasisfor pages 21-25).  
+Allosteric interfaces: MEK occupancy stabilises the KSR C-lobe and drives formation of BRAF-KSR heterodimers that activate BRAF catalysis (lavoie2018mekdrivesbraf pages 1-2).  
+
+## Regulation  
+Phosphorylation  
+• Ser297, Ser392 – constitutive C-TAK1 targets; create 14-3-3 docking sites that retain KSR1 in the cytosol (cacace1999identificationofconstitutive pages 1-1, muller2001ctak1regulatesras pages 3-5).  
+• Thr260, Thr274, Ser443 – Ras-inducible ERK sites; contribute to feedback regulation (cacace1999identificationofconstitutive pages 3-4).  
+• Ser392 is dephosphorylated by PP2A upon growth-factor stimulation to permit membrane translocation (claperon2007ksrandcnk pages 5-6).  
+
+Ubiquitination  
+Praja2 polyubiquitinates KSR1, targeting it for proteasomal degradation (goettel2011ksr1isa pages 12-12).  
+
+Conformational and allosteric control  
+MEK binding triggers BRAF–KSR1 heterodimer formation, allosterically activating BRAF (lavoie2018mekdrivesbraf pages 1-2).  
+The ATP-site ligand APS-2-79 stabilises the αC-OUT conformation and prevents RAF interaction (frodyma2017coordinatingerksignaling pages 4-6).  
+
+Chaperone regulation  
+HSP90, HSP70, HSP68 and p50CDC37 associate with the kinase domain, supporting protein stability (stewart1999kinasesuppressorof pages 1-1).  
+
+## Function  
+Expression is high in brain and detectable in T cells and colonic epithelium (frodyma2017coordinatingerksignaling pages 1-3, goettel2011ksr1isa pages 12-12).  
+Constitutively binds MEK1/2; forms inducible heterodimers with BRAF and RAF1; interacts with ERK1/2, 14-3-3, PP2A, IMP, and HSP90 complexes (stewart1999kinasesuppressorof pages 9-10, mckay2009signalingdynamicsof pages 1-1).  
+Acts as a scaffold and MEK-dependent allosteric activator within the RAS–RAF–MEK–ERK cascade, modulating signal amplitude and duration downstream of receptor tyrosine-kinase or cAMP inputs (neilsen2017ksrasa pages 4-6).  
+
+## Inhibitors  
+APS-2-79 binds the nucleotide pocket, blocks KSR1–BRAF heterodimerisation, and attenuates Ras-dependent ERK signalling (neilsen2017ksrasa pages 8-9, chow2022conformationalcontroland pages 1-3).  
+
+## Other Comments  
+Ksr1-null mice are viable but resistant to Ras-driven tumourigenesis (neilsen2017ksrasa pages 1-3).  
+Oncogenic mutations: C809Y disrupts MEK binding yet enhances ERK activation; P505A alters kinase-domain integrity (frodyma2017coordinatingerksignaling pages 3-4, unknownauthors2010kinasesuppressorof pages 19-23).
+
+References
+
+1. (cacace1999identificationofconstitutive pages 1-1): Angela M. Cacace, Neil R. Michaud, Marc Therrien, Karen Mathes, Terry Copeland, Gerald M. Rubin, and Deborah K. Morrison. Identification of constitutive and ras-inducible phosphorylation sites of ksr: implications for 14-3-3 binding, mitogen-activated protein kinase binding, and ksr overexpression. Molecular and Cellular Biology, 19:229-240, Jan 1999. URL: https://doi.org/10.1128/mcb.19.1.229, doi:10.1128/mcb.19.1.229. This article has 288 citations and is from a domain leading peer-reviewed journal.
+
+2. (cacace1999identificationofconstitutive pages 3-4): Angela M. Cacace, Neil R. Michaud, Marc Therrien, Karen Mathes, Terry Copeland, Gerald M. Rubin, and Deborah K. Morrison. Identification of constitutive and ras-inducible phosphorylation sites of ksr: implications for 14-3-3 binding, mitogen-activated protein kinase binding, and ksr overexpression. Molecular and Cellular Biology, 19:229-240, Jan 1999. URL: https://doi.org/10.1128/mcb.19.1.229, doi:10.1128/mcb.19.1.229. This article has 288 citations and is from a domain leading peer-reviewed journal.
+
+3. (chow2022conformationalcontroland pages 1-3): Arthur Chow, Z. Khan, William Marsiglia, and A. Dar. Conformational control and regulation of the pseudokinase ksr via small molecule binding interactions. Methods in enzymology, 667:365-402, 2022. URL: https://doi.org/10.1016/bs.mie.2022.03.039, doi:10.1016/bs.mie.2022.03.039. This article has 4 citations and is from a peer-reviewed journal.
+
+4. (claperon2007ksrandcnk pages 5-6): A. Clapéron and M. Therrien. Ksr and cnk: two scaffolds regulating ras-mediated raf activation. Oncogene, 26:3143-3158, May 2007. URL: https://doi.org/10.1038/sj.onc.1210408, doi:10.1038/sj.onc.1210408. This article has 182 citations and is from a domain leading peer-reviewed journal.
+
+5. (frodyma2017coordinatingerksignaling pages 1-3): Danielle E Frodyma, B. Neilsen, Diane Costanzo-Garvey, K. Fisher, and Robert E. Lewis. Coordinating erk signaling via the molecular scaffold kinase suppressor of ras. F1000Research, Aug 2017. URL: https://doi.org/10.12688/f1000research.11895.1, doi:10.12688/f1000research.11895.1. This article has 46 citations and is from a peer-reviewed journal.
+
+6. (frodyma2017coordinatingerksignaling pages 4-6): Danielle E Frodyma, B. Neilsen, Diane Costanzo-Garvey, K. Fisher, and Robert E. Lewis. Coordinating erk signaling via the molecular scaffold kinase suppressor of ras. F1000Research, Aug 2017. URL: https://doi.org/10.12688/f1000research.11895.1, doi:10.12688/f1000research.11895.1. This article has 46 citations and is from a peer-reviewed journal.
+
+7. (goettel2011ksr1isa pages 1-2): J. Goettel, Dong-chun Liang, Valda C. Hilliard, Karen L. Edelblum, Matthew R. Broadus, K. Gould, S. Hanks, and D. Polk. Ksr1 is a functional protein kinase capable of serine autophosphorylation and direct phosphorylation of mek1. Experimental cell research, 317 4:452-63, Feb 2011. URL: https://doi.org/10.1016/j.yexcr.2010.11.018, doi:10.1016/j.yexcr.2010.11.018. This article has 36 citations and is from a peer-reviewed journal.
+
+8. (goettel2011ksr1isa pages 12-12): J. Goettel, Dong-chun Liang, Valda C. Hilliard, Karen L. Edelblum, Matthew R. Broadus, K. Gould, S. Hanks, and D. Polk. Ksr1 is a functional protein kinase capable of serine autophosphorylation and direct phosphorylation of mek1. Experimental cell research, 317 4:452-63, Feb 2011. URL: https://doi.org/10.1016/j.yexcr.2010.11.018, doi:10.1016/j.yexcr.2010.11.018. This article has 36 citations and is from a peer-reviewed journal.
+
+9. (lavoie2018mekdrivesbraf pages 1-2): H. Lavoie, M. Sahmi, P. Maisonneuve, S. Marullo, Neroshan Thevakumaran, Ting Jin, I. Kurinov, F. Sicheri, and M. Therrien. Mek drives braf activation through allosteric control of ksr proteins. Nature, 554:549-553, Feb 2018. URL: https://doi.org/10.1038/nature25478, doi:10.1038/nature25478. This article has 145 citations and is from a highest quality peer-reviewed journal.
+
+10. (maloney2022themechanismof pages 1-2): Ryan C. Maloney, Mingzhen Zhang, Yonglan Liu, Hyunbum Jang, and R. Nussinov. The mechanism of activation of mek1 by b-raf and ksr1. Cellular and Molecular Life Sciences: CMLS, May 2022. URL: https://doi.org/10.1007/s00018-022-04296-0, doi:10.1007/s00018-022-04296-0. This article has 21 citations.
+
+11. (martinvega2023navigatingtheerk12 pages 14-16): Ana Martín-Vega and Melanie H. Cobb. Navigating the erk1/2 mapk cascade. Biomolecules, 13:1555, Oct 2023. URL: https://doi.org/10.3390/biom13101555, doi:10.3390/biom13101555. This article has 58 citations and is from a peer-reviewed journal.
+
+12. (mckay2009signalingdynamicsof pages 1-1): Melissa M. McKay, Daniel A. Ritt, and Deborah K. Morrison. Signaling dynamics of the ksr1 scaffold complex. Proceedings of the National Academy of Sciences, 106:11022-11027, Jul 2009. URL: https://doi.org/10.1073/pnas.0901590106, doi:10.1073/pnas.0901590106. This article has 218 citations.
+
+13. (neilsen2017ksrasa pages 4-6): Beth K. Neilsen, Danielle E. Frodyma, Robert E. Lewis, and Kurt W. Fisher. Ksr as a therapeutic target for ras-dependent cancers. Expert Opinion on Therapeutic Targets, 21:499-509, Apr 2017. URL: https://doi.org/10.1080/14728222.2017.1311325, doi:10.1080/14728222.2017.1311325. This article has 42 citations and is from a peer-reviewed journal.
+
+14. (neilsen2017ksrasa pages 6-8): Beth K. Neilsen, Danielle E. Frodyma, Robert E. Lewis, and Kurt W. Fisher. Ksr as a therapeutic target for ras-dependent cancers. Expert Opinion on Therapeutic Targets, 21:499-509, Apr 2017. URL: https://doi.org/10.1080/14728222.2017.1311325, doi:10.1080/14728222.2017.1311325. This article has 42 citations and is from a peer-reviewed journal.
+
+15. (neilsen2017ksrasa pages 8-9): Beth K. Neilsen, Danielle E. Frodyma, Robert E. Lewis, and Kurt W. Fisher. Ksr as a therapeutic target for ras-dependent cancers. Expert Opinion on Therapeutic Targets, 21:499-509, Apr 2017. URL: https://doi.org/10.1080/14728222.2017.1311325, doi:10.1080/14728222.2017.1311325. This article has 42 citations and is from a peer-reviewed journal.
+
+16. (roskoski2012mek12dualspecificityprotein pages 5-6): Robert Roskoski. Mek1/2 dual-specificity protein kinases: structure and regulation. Biochemical and biophysical research communications, 417 1:5-10, Jan 2012. URL: https://doi.org/10.1016/j.bbrc.2011.11.145, doi:10.1016/j.bbrc.2011.11.145. This article has 354 citations and is from a peer-reviewed journal.
+
+17. (stewart1999kinasesuppressorof pages 1-1): Scott Stewart, M. Sundaram, Yanping Zhang, Jeeyong Lee, Min Han, and K. Guan. Kinase suppressor of ras forms a multiprotein signaling complex and modulates mek localization. Molecular and Cellular Biology, 19:5523-5534, Aug 1999. URL: https://doi.org/10.1128/mcb.19.8.5523, doi:10.1128/mcb.19.8.5523. This article has 283 citations and is from a domain leading peer-reviewed journal.
+
+18. (stewart1999kinasesuppressorof pages 9-10): Scott Stewart, M. Sundaram, Yanping Zhang, Jeeyong Lee, Min Han, and K. Guan. Kinase suppressor of ras forms a multiprotein signaling complex and modulates mek localization. Molecular and Cellular Biology, 19:5523-5534, Aug 1999. URL: https://doi.org/10.1128/mcb.19.8.5523, doi:10.1128/mcb.19.8.5523. This article has 283 citations and is from a domain leading peer-reviewed journal.
+
+19. (unknownauthors2010kinasesuppressorof pages 19-23): Kinase suppressor of Ras 1 is a functional protein kinase and protects from experimental colitis in mice by regulating T lymphocyte IFN-γ production
+
+20. (zhang2014identificationofksr1 pages 42-46): Hua-Ying Zhang. Identification of ksr1 as a novel target and decoding tyrosine kinase proteome in breast cancer. Unknown journal, Apr 2014. URL: https://doi.org/10.25560/34315, doi:10.25560/34315. This article has 0 citations.
+
+21. (brennan2011arafinducedallosteric pages 1-7): D. F. Brennan, A. Dar, Nicholas T. Hertz, W. Chao, A. Burlingame, K. Shokat, and D. Barford. A raf-induced allosteric transition of ksr stimulates phosphorylation of mek. Nature, 472:366-369, Apr 2011. URL: https://doi.org/10.1038/nature09860, doi:10.1038/nature09860. This article has 308 citations and is from a highest quality peer-reviewed journal.
+
+22. (frodyma2017coordinatingerksignaling pages 3-4): Danielle E Frodyma, B. Neilsen, Diane Costanzo-Garvey, K. Fisher, and Robert E. Lewis. Coordinating erk signaling via the molecular scaffold kinase suppressor of ras. F1000Research, Aug 2017. URL: https://doi.org/10.12688/f1000research.11895.1, doi:10.12688/f1000research.11895.1. This article has 46 citations and is from a peer-reviewed journal.
+
+23. (khan2020structuralbasisfor pages 21-25): Zaigham M. Khan, Alexander M. Real, William M. Marsiglia, Arthur Chow, Mary E. Duffy, Jayasudhan R. Yerabolu, Alex P. Scopton, and Arvin C. Dar. Structural basis for the action of the drug trametinib at ksr-bound mek. Nature, 588:509-514, Sep 2020. URL: https://doi.org/10.1038/s41586-020-2760-4, doi:10.1038/s41586-020-2760-4. This article has 147 citations and is from a highest quality peer-reviewed journal.
+
+24. (kornfeld1995theksr1gene pages 6-7): K. Kornfeld, Dennis B. Hom, and H. Horvitz. The ksr-1 gene encodes a novel protein kinase involved in ras-mediated signaling in c. elegans. Cell, 83:903-913, Dec 1995. URL: https://doi.org/10.1016/0092-8674(95)90206-6, doi:10.1016/0092-8674(95)90206-6. This article has 393 citations and is from a highest quality peer-reviewed journal.
+
+25. (muller2001ctak1regulatesras pages 3-5): Jurgen Müller, Stéphane Ory, T. Copeland, H. Piwnica-Worms, and D. Morrison. C-tak1 regulates ras signaling by phosphorylating the mapk scaffold, ksr1. Molecular cell, 8 5:983-93, Nov 2001. URL: https://doi.org/10.1016/s1097-2765(01)00383-5, doi:10.1016/s1097-2765(01)00383-5. This article has 383 citations and is from a highest quality peer-reviewed journal.
+
+26. (neilsen2017ksrasa pages 1-3): Beth K. Neilsen, Danielle E. Frodyma, Robert E. Lewis, and Kurt W. Fisher. Ksr as a therapeutic target for ras-dependent cancers. Expert Opinion on Therapeutic Targets, 21:499-509, Apr 2017. URL: https://doi.org/10.1080/14728222.2017.1311325, doi:10.1080/14728222.2017.1311325. This article has 42 citations and is from a peer-reviewed journal.

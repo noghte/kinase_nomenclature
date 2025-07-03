@@ -1,0 +1,98 @@
+## Phylogeny
+Fibroblast growth factor receptor 2 (FGFR2) is a member of the FGFR family, which consists of four members (FGFR1–FGFR4) exhibiting high sequence homology of 56%-71% (dai2019fibroblastgrowthfactor pages 1-4). Based on Manning et al., FGFRs are classified within the receptor tyrosine kinase (RTK) family (dai2019fibroblastgrowthfactor pages 4-5, lian2024elucidatingtherole pages 1-2). The human RTK superfamily includes over fifty kinases across twenty subfamilies (lian2024elucidatingtherole pages 1-2). The kinase domains of FGFR1 and FGFR2 share approximately 90% sequence identity (lew2007structuralbasisfor pages 3-5).
+
+
+## Reaction Catalyzed
+ATP + [a protein-L-tyrosine] = ADP + [a protein-L-tyrosine phosphate] (dai2019fibroblastgrowthfactor pages 4-5, dai2019fibroblastgrowthfactor pages 1-4, lew2007structuralbasisfor pages 1-2, lian2024elucidatingtherole pages 1-2).
+
+
+## Cofactor Requirements
+The catalytic activity of FGFR2 is Mg2+-dependent (dai2019fibroblastgrowthfactor pages 4-5). Mg2+ ions function as essential cofactors that facilitate the correct orientation and binding of ATP phosphates for the phosphoryl transfer reaction (dai2019fibroblastgrowthfactor pages 4-5, lew2007structuralbasisfor pages 3-5). The conserved aspartate residue of the DFG-motif coordinates these magnesium ions (dai2019fibroblastgrowthfactor pages 4-5).
+
+
+## Substrate Specificity
+The intrinsic substrate specificity of FGFR2 has been experimentally determined using peptide substrate profiling arrays (PSPA) (yaronbarir2024theintrinsicsubstrate pages 2-2, yaronbarir2024theintrinsicsubstrate pages 2-3). Tyrosine kinases, including FGFR2, display strong and diverse preferences for amino acids surrounding the target tyrosine (yaronbarir2024theintrinsicsubstrate pages 15-16). FGFR2 shows strong selectivity for residues at positions −1 to +3 relative to the phosphorylated tyrosine (yaronbarir2024theintrinsicsubstrate pages 15-16). The consensus substrate motif for FGFR2 aligns with preferences for hydrophobic or charged residues in these key positions (yaronbarir2024theintrinsicsubstrate pages 15-16). Substrate recognition is also influenced by basic residues in the kinase catalytic domain that recognize acidic or phosphorylated residues on the substrate (yaronbarir2024theintrinsicsubstrate pages 16-17). Based on hierarchical clustering of motif preferences, FGFR-family kinases cluster together with a unique substrate motif distinct from other RTK families (yaronbarir2024theintrinsicsubstrate pages 2-2).
+
+
+## Structure
+FGFR2 is a single-pass transmembrane receptor composed of three extracellular immunoglobulin-like (Ig-like) domains (D1, D2, and D3), a transmembrane domain, and an intracellular tyrosine kinase domain (TKD) (lian2024elucidatingtherole pages 1-2, dai2019fibroblastgrowthfactor pages 1-4, lew2007structuralbasisfor pages 1-2). The TKD has a bilobed architecture common to protein kinases, with an ATP-binding cleft located between a flexible N-lobe and a more rigid C-lobe (dai2019fibroblastgrowthfactor pages 1-4, dai2019fibroblastgrowthfactor pages 4-5).
+
+Key catalytic and regulatory features of the TKD include:
+*   **Activation Loop (A-loop):** A key regulatory segment (residues 643–649 and 651–664) that controls kinase activity by switching between inactive and active conformations upon phosphorylation (lian2024elucidatingtherole pages 4-5, lian2024elucidatingtherole pages 2-4). It contains the conserved Asp-Phe-Gly (DFG) motif, which adopts a DFG-in conformation in the active state and a DFG-out conformation in the inactive state (dai2019fibroblastgrowthfactor pages 4-5).
+*   **Catalytic Pocket:** This region (residues 620–630) forms the enzymatic active site (lian2024elucidatingtherole pages 4-5). It includes the catalytic loop containing the His-Arg-Asp (HRD) motif, where the aspartate residue (Asp-626) acts as the catalytic base for phosphotransfer (dai2019fibroblastgrowthfactor pages 4-5, lew2007structuralbasisfor pages 3-5).
+*   **P-loop:** A glycine-rich nucleotide-binding loop (residues 480–490) that orients and encloses ATP during catalysis (dai2019fibroblastgrowthfactor pages 4-5, lian2024elucidatingtherole pages 4-5).
+*   **αC-helix:** Located in the N-lobe (residues 525–539), its orientation is critical for creating a catalytically competent state upon activation (dai2019fibroblastgrowthfactor pages 4-5, lian2024elucidatingtherole pages 2-4).
+*   **Kinase Hinge and Molecular Brake:** The hinge region (residues 566–571) facilitates domain movement and contains elements of a "molecular brake" that contributes to autoinhibition in the inactive state (lian2024elucidatingtherole pages 4-5, lian2024elucidatingtherole pages 1-2).
+
+Experimentally determined structures are available in the Protein Data Bank, including inactive wild-type (PDB: 1GJO, 2PSQ), active wild-type (PDB: 2PVF), and various disease-associated mutant forms (PDB: 2PVY, 2PWL, 3B2T, 5UGX) (lian2024elucidatingtherole pages 4-5, lian2024elucidatingtherole pages 11-13, lew2007structuralbasisfor pages 5-6).
+
+
+## Regulation
+FGFR2 activation is initiated by ligand-induced dimerization, which promotes trans-autophosphorylation on specific tyrosine residues within the cytoplasmic domain (dai2019fibroblastgrowthfactor pages 1-4, unknownauthors2021characterisationofthe pages 15-21). This autophosphorylation occurs in a sequential and ordered manner on two conserved tyrosine residues in the activation loop, Tyr653 and Tyr654 (unknownauthors2021characterisationofthe pages 15-21, unknownauthors2011theroleof pages 47-53). Phosphorylation of Tyr653 enhances catalytic activity 50- to 100-fold, while subsequent phosphorylation of Tyr654 results in a further 500- to 1000-fold increase in activity (furdui2006autophosphorylationoffgfr1 pages 1-2). These phosphorylation events induce conformational changes that relieve autoinhibition, fully activating the kinase (unknownauthors2021characterisationofthe pages 15-21).
+
+The kinase is maintained in an inactive state by an autoinhibitory mechanism involving a "molecular brake" in the kinase hinge region (lian2024elucidatingtherole pages 1-2, dai2019fibroblastgrowthfactor pages 4-5). FGFR2 exhibits a less stringent autoinhibition mechanism and a faster autophosphorylation rate compared to FGFR1 (lew2007structuralbasisfor pages 1-2). Allosteric regulation occurs via interactions between structural domains, such as the αC-helix and kinase hinge, and can be modulated by peptide mimetics (lian2024elucidatingtherole pages 11-13, katoh2009fgfr2relatedpathogenesisand pages 4-4).
+
+Signaling is negatively regulated by the E3 ubiquitin ligase CBL, which binds to phosphorylated FGFR2 and mediates its ubiquitination (unknownauthors2021characterisationofthe pages 15-21, unknownauthors2013analysisoffgf pages 22-27). This post-translational modification targets the receptor for lysosomal degradation or recycling, thereby attenuating signal duration (unknownauthors2021characterisationofthe pages 15-21, unknownauthors2013analysisoffgf pages 22-27).
+
+
+## Function
+FGFR2 is a receptor tyrosine kinase that plays a vital role in regulating cell proliferation, differentiation, migration, and survival (lian2024elucidatingtherole pages 1-2, dai2019fibroblastgrowthfactor pages 1-4). Alternative splicing generates isoforms with distinct expression patterns; the IIIb isoform is expressed in epithelial cells and the IIIc isoform in mesenchymal cells (lew2007structuralbasisfor pages 1-2).
+
+Upon activation by ligands such as FGF10, FGFR2 phosphorylates downstream signaling molecules including FRS2 and PLCG1 (katoh2009fgfr2relatedpathogenesisand pages 4-4). This initiates signaling cascades, including the MAPK and PLCγ pathways, which modulate targets such as the osteogenesis transcription factor CBFA1 (xie2020fgffgfrsignalingin pages 6-7). Interacting partners recruited to phosphorylated FRS2 include GRB2, GAB1, PIK3R1, and SOS1 (katoh2009fgfr2relatedpathogenesisand pages 4-4).
+
+FGFR2 is essential for embryonic development, particularly for limb outgrowth, lung morphogenesis, and osteogenesis (katoh2009fgfr2relatedpathogenesisand pages 4-4, xie2020fgffgfrsignalingin pages 6-7). In skeletal development, it regulates osteoblast and chondrocyte proliferation and differentiation (xie2020fgffgfrsignalingin pages 6-7). A nuclear form of FGFR2 also contributes to limb development and cell fate determination (xie2020fgffgfrsignalingin pages 6-7).
+
+
+## Inhibitors
+Both small-molecule and RNA-based inhibitors targeting FGFR2 have been developed (lian2024elucidatingtherole pages 1-2, katoh2009fgfr2relatedpathogenesisand pages 4-4). Small molecules often target the ATP-binding site within the kinase domain, with inhibitor-bound structures available (e.g., PDB IDs 4V05, 5JKG) (dai2019fibroblastgrowthfactor pages 4-5). RNA-based therapeutics, such as siRNA, synthetic miRNA, and RNA aptamers, represent an emerging class of inhibitors that block FGFR2 signaling (katoh2009fgfr2relatedpathogenesisand pages 4-4).
+
+
+## Other Comments
+Dysregulation of FGFR2 is associated with developmental disorders and multiple types of cancer (lian2024elucidatingtherole pages 1-2). Depending on the cellular context, FGFR2 can act as either an oncogene or a tumor suppressor (katoh2009fgfr2relatedpathogenesisand pages 4-4).
+
+Disease-associated mutations are frequently gain-of-function and cause constitutive activation by disrupting autoinhibitory mechanisms (lian2024elucidatingtherole pages 1-2). Notable diseases linked to FGFR2 mutations include:
+*   **Craniosynostosis Syndromes:** Mutations are linked to Apert, Crouzon, and Pfeiffer syndromes (katoh2009fgfr2relatedpathogenesisand pages 4-4, xie2020fgffgfrsignalingin pages 6-7). Specific activating mutations include S252W and P253R in Apert and Crouzon syndromes, and K659N/M/E/Q/T mutations in the activation loop are associated with Crouzon and Pfeiffer syndromes (xie2020fgffgfrsignalingin pages 6-7, lian2024elucidatingtherole pages 11-13).
+*   **LADD Syndrome (Lacrimo-auriculo-dento-digital syndrome):** Caused by mutations like A628T and A648T that impair kinase activity by altering the catalytic pocket, leading to reduced downstream signaling (lian2024elucidatingtherole pages 16-17, lew2007structuralbasisfor pages 1-2).
+*   **Cancer:** Somatic mutations are found in endometrial, gastric, colorectal, breast, and lung cancers (katoh2009fgfr2relatedpathogenesisand pages 4-4, lian2024elucidatingtherole pages 1-2). Mutations such as N549H and K659N are observed in endometrial cancer (lian2024elucidatingtherole pages 11-13).
+
+References
+
+1. (dai2019fibroblastgrowthfactor pages 4-5): S. Dai, Zhan Zhou, Zhuchu Chen, Guangyu Xu, and Yongheng Chen. Fibroblast growth factor receptors (fgfrs): structures and small molecule inhibitors. Cells, Jun 2019. URL: https://doi.org/10.3390/cells8060614, doi:10.3390/cells8060614. This article has 293 citations and is from a peer-reviewed journal.
+
+2. (katoh2009fgfr2relatedpathogenesisand pages 4-4): Y. Katoh and M. Katoh. Fgfr2-related pathogenesis and fgfr2-targeted therapeutics (review). International journal of molecular medicine, 23 3:307-11, Mar 2009. URL: https://doi.org/10.3892/ijmm\_00000132, doi:10.3892/ijmm\_00000132. This article has 190 citations and is from a peer-reviewed journal.
+
+3. (lian2024elucidatingtherole pages 1-2): Yiyang Lian, Dale Bodian, and Amarda Shehu. Elucidating the role of wildtype and variant fgfr2 structural dynamics in (dys)function and disorder. International Journal of Molecular Sciences, Apr 2024. URL: https://doi.org/10.3390/ijms25084523, doi:10.3390/ijms25084523. This article has 0 citations and is from a peer-reviewed journal.
+
+4. (lian2024elucidatingtherole pages 11-13): Yiyang Lian, Dale Bodian, and Amarda Shehu. Elucidating the role of wildtype and variant fgfr2 structural dynamics in (dys)function and disorder. International Journal of Molecular Sciences, Apr 2024. URL: https://doi.org/10.3390/ijms25084523, doi:10.3390/ijms25084523. This article has 0 citations and is from a peer-reviewed journal.
+
+5. (lian2024elucidatingtherole pages 16-17): Yiyang Lian, Dale Bodian, and Amarda Shehu. Elucidating the role of wildtype and variant fgfr2 structural dynamics in (dys)function and disorder. International Journal of Molecular Sciences, Apr 2024. URL: https://doi.org/10.3390/ijms25084523, doi:10.3390/ijms25084523. This article has 0 citations and is from a peer-reviewed journal.
+
+6. (lian2024elucidatingtherole pages 4-5): Yiyang Lian, Dale Bodian, and Amarda Shehu. Elucidating the role of wildtype and variant fgfr2 structural dynamics in (dys)function and disorder. International Journal of Molecular Sciences, Apr 2024. URL: https://doi.org/10.3390/ijms25084523, doi:10.3390/ijms25084523. This article has 0 citations and is from a peer-reviewed journal.
+
+7. (unknownauthors2021characterisationofthe pages 15-21): Characterisation of the interaction between FGFR2/EGL-15 and CRKL/CED-2
+
+8. (xie2020fgffgfrsignalingin pages 6-7): Yangli Xie, N. Su, Jing Yang, Q. Tan, Shuo Huang, M. Jin, Z. Ni, Bin Zhang, Dali Zhang, F. Luo, Hangang Chen, Xianding Sun, Jian Q. Feng, H. Qi, and Lin Chen. Fgf/fgfr signaling in health and disease. Signal Transduction and Targeted Therapy, Sep 2020. URL: https://doi.org/10.1038/s41392-020-00222-7, doi:10.1038/s41392-020-00222-7. This article has 776 citations and is from a peer-reviewed journal.
+
+9. (dai2019fibroblastgrowthfactor pages 1-4): S. Dai, Zhan Zhou, Zhuchu Chen, Guangyu Xu, and Yongheng Chen. Fibroblast growth factor receptors (fgfrs): structures and small molecule inhibitors. Cells, Jun 2019. URL: https://doi.org/10.3390/cells8060614, doi:10.3390/cells8060614. This article has 293 citations and is from a peer-reviewed journal.
+
+10. (furdui2006autophosphorylationoffgfr1 pages 1-2): C. Furdui, E. Lew, J. Schlessinger, and K. Anderson. Autophosphorylation of fgfr1 kinase is mediated by a sequential and precisely ordered reaction. Molecular cell, 21 5:711-7, Mar 2006. URL: https://doi.org/10.1016/j.molcel.2006.01.022, doi:10.1016/j.molcel.2006.01.022. This article has 305 citations and is from a highest quality peer-reviewed journal.
+
+11. (lew2007structuralbasisfor pages 1-2): E. Lew, J. Bae, E. Rohmann, B. Wollnik, and J. Schlessinger. Structural basis for reduced fgfr2 activity in ladd syndrome: implications for fgfr autoinhibition and activation. Proceedings of the National Academy of Sciences, 104:19802-19807, Dec 2007. URL: https://doi.org/10.1073/pnas.0709905104, doi:10.1073/pnas.0709905104. This article has 57 citations.
+
+12. (lew2007structuralbasisfor pages 3-5): E. Lew, J. Bae, E. Rohmann, B. Wollnik, and J. Schlessinger. Structural basis for reduced fgfr2 activity in ladd syndrome: implications for fgfr autoinhibition and activation. Proceedings of the National Academy of Sciences, 104:19802-19807, Dec 2007. URL: https://doi.org/10.1073/pnas.0709905104, doi:10.1073/pnas.0709905104. This article has 57 citations.
+
+13. (lew2007structuralbasisfor pages 5-6): E. Lew, J. Bae, E. Rohmann, B. Wollnik, and J. Schlessinger. Structural basis for reduced fgfr2 activity in ladd syndrome: implications for fgfr autoinhibition and activation. Proceedings of the National Academy of Sciences, 104:19802-19807, Dec 2007. URL: https://doi.org/10.1073/pnas.0709905104, doi:10.1073/pnas.0709905104. This article has 57 citations.
+
+14. (lian2024elucidatingtherole pages 2-4): Yiyang Lian, Dale Bodian, and Amarda Shehu. Elucidating the role of wildtype and variant fgfr2 structural dynamics in (dys)function and disorder. International Journal of Molecular Sciences, Apr 2024. URL: https://doi.org/10.3390/ijms25084523, doi:10.3390/ijms25084523. This article has 0 citations and is from a peer-reviewed journal.
+
+15. (unknownauthors2011theroleof pages 47-53): The role of Grb2 in FGFR2IIIc-mediated early signalling complexes
+
+16. (unknownauthors2013analysisoffgf pages 22-27): Analysis of FGF receptor signalling and trafficking by live-cell imaging
+
+17. (yaronbarir2024theintrinsicsubstrate pages 15-16): Tomer M. Yaron-Barir, Brian A. Joughin, Emily M. Huntsman, Alexander Kerelsky, Daniel M. Cizin, Benjamin M. Cohen, Amit Regev, Junho Song, Neil Vasan, Ting-Yu Lin, Jose M. Orozco, Christina Schoenherr, Cari Sagum, Mark T. Bedford, R. Max Wynn, Shih-Chia Tso, David T. Chuang, Lei Li, Shawn S.-C. Li, Pau Creixell, Konstantin Krismer, Mina Takegami, Harin Lee, Bin Zhang, Jingyi Lu, Ian Cossentino, Sean D. Landry, Mohamed Uduman, John Blenis, Olivier Elemento, Margaret C. Frame, Peter V. Hornbeck, Lewis C. Cantley, Benjamin E. Turk, Michael B. Yaffe, and Jared L. Johnson. The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629:1174-1181, May 2024. URL: https://doi.org/10.1038/s41586-024-07407-y, doi:10.1038/s41586-024-07407-y. This article has 59 citations and is from a highest quality peer-reviewed journal.
+
+18. (yaronbarir2024theintrinsicsubstrate pages 16-17): Tomer M. Yaron-Barir, Brian A. Joughin, Emily M. Huntsman, Alexander Kerelsky, Daniel M. Cizin, Benjamin M. Cohen, Amit Regev, Junho Song, Neil Vasan, Ting-Yu Lin, Jose M. Orozco, Christina Schoenherr, Cari Sagum, Mark T. Bedford, R. Max Wynn, Shih-Chia Tso, David T. Chuang, Lei Li, Shawn S.-C. Li, Pau Creixell, Konstantin Krismer, Mina Takegami, Harin Lee, Bin Zhang, Jingyi Lu, Ian Cossentino, Sean D. Landry, Mohamed Uduman, John Blenis, Olivier Elemento, Margaret C. Frame, Peter V. Hornbeck, Lewis C. Cantley, Benjamin E. Turk, Michael B. Yaffe, and Jared L. Johnson. The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629:1174-1181, May 2024. URL: https://doi.org/10.1038/s41586-024-07407-y, doi:10.1038/s41586-024-07407-y. This article has 59 citations and is from a highest quality peer-reviewed journal.
+
+19. (yaronbarir2024theintrinsicsubstrate pages 2-2): Tomer M. Yaron-Barir, Brian A. Joughin, Emily M. Huntsman, Alexander Kerelsky, Daniel M. Cizin, Benjamin M. Cohen, Amit Regev, Junho Song, Neil Vasan, Ting-Yu Lin, Jose M. Orozco, Christina Schoenherr, Cari Sagum, Mark T. Bedford, R. Max Wynn, Shih-Chia Tso, David T. Chuang, Lei Li, Shawn S.-C. Li, Pau Creixell, Konstantin Krismer, Mina Takegami, Harin Lee, Bin Zhang, Jingyi Lu, Ian Cossentino, Sean D. Landry, Mohamed Uduman, John Blenis, Olivier Elemento, Margaret C. Frame, Peter V. Hornbeck, Lewis C. Cantley, Benjamin E. Turk, Michael B. Yaffe, and Jared L. Johnson. The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629:1174-1181, May 2024. URL: https://doi.org/10.1038/s41586-024-07407-y, doi:10.1038/s41586-024-07407-y. This article has 59 citations and is from a highest quality peer-reviewed journal.
+
+20. (yaronbarir2024theintrinsicsubstrate pages 2-3): Tomer M. Yaron-Barir, Brian A. Joughin, Emily M. Huntsman, Alexander Kerelsky, Daniel M. Cizin, Benjamin M. Cohen, Amit Regev, Junho Song, Neil Vasan, Ting-Yu Lin, Jose M. Orozco, Christina Schoenherr, Cari Sagum, Mark T. Bedford, R. Max Wynn, Shih-Chia Tso, David T. Chuang, Lei Li, Shawn S.-C. Li, Pau Creixell, Konstantin Krismer, Mina Takegami, Harin Lee, Bin Zhang, Jingyi Lu, Ian Cossentino, Sean D. Landry, Mohamed Uduman, John Blenis, Olivier Elemento, Margaret C. Frame, Peter V. Hornbeck, Lewis C. Cantley, Benjamin E. Turk, Michael B. Yaffe, and Jared L. Johnson. The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629:1174-1181, May 2024. URL: https://doi.org/10.1038/s41586-024-07407-y, doi:10.1038/s41586-024-07407-y. This article has 59 citations and is from a highest quality peer-reviewed journal.

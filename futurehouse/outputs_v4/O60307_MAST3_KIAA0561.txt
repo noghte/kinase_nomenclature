@@ -1,0 +1,105 @@
+## Phylogeny
+MAST3 is classified within the AGC (PKA/PKG/PKC-like) superfamily of serine/threonine protein kinases (rumpf2023microtubuleassociatedserinethreonine(mast) pages 1-2, lemke2025mastkinases’function pages 1-2). Within the human kinome, the MAST family is phylogenetically related to the nuclear Dbf2-related (NDR) family, large tumor suppressor (LATS) kinases, and Rho-activated kinases like ROCK (unknownauthors2008molecularinvestigationof pages 93-98). The MAST kinase subfamily is one of the earliest divergent lineages of AGC kinases in eukaryotes and expanded with the evolution of multicellularity, with MAST and MASTL kinases having diverged from a primordial MAST kinase (lemke2025mastkinases’function pages 1-2, lemke2025mastkinases’function pages 2-4).
+
+MAST kinase homologs are present across metazoan species, including vertebrates, insects (*Drosophila melanogaster*), nematodes (*Caenorhabditis elegans*), and simple metazoans such as *Hydra vulgaris* (rumpf2023microtubuleassociatedserinethreonine(mast) pages 13-14, rumpf2023microtubuleassociatedserinethreonine(mast) pages 2-5). While simpler species typically possess one MAST kinase, humans have four paralogs (MAST1-4), including MAST3 (rumpf2023microtubuleassociatedserinethreonine(mast) pages 13-14, lemke2025mastkinases’function pages 2-4). The human MAST3 protein shares 91% amino acid identity with its mouse ortholog (unknownauthors2012mast3facteurde pages 127-131).
+
+
+
+## Reaction Catalyzed
+MAST3 catalyzes the ATP-dependent transfer of the γ-phosphate from ATP to the hydroxyl group of serine or threonine residues on a protein substrate (rumpf2023microtubuleassociatedserinethreonine(mast) pages 1-2, lemke2025mastkinases’function pages 1-2).
+
+The chemical reaction is: Protein-OH + ATP → Protein-O-PO3 + ADP (rumpf2023microtubuleassociatedserinethreonine(mast) pages 13-14).
+
+
+
+## Cofactor Requirements
+The catalytic activity of MAST3 requires ATP as the phosphate donor and a divalent metal ion cofactor, typically Mg²⁺ or Mn²⁺, to facilitate ATP binding and the phosphotransfer reaction (rumpf2023microtubuleassociatedserinethreonine(mast) pages 13-14, rumpf2023microtubuleassociatedserinethreonine(mast) pages 2-5, lemke2025mastkinases’function pages 14-15).
+
+
+
+## Substrate Specificity
+Based on positional scanning peptide library (PSPA) experiments, MAST3 is a basophilic kinase with a preference for arginine (Arg) at the P-3 position and proline (Pro) at the P+1 position relative to the phosphorylated serine/threonine residue (johnson2023anatlasof pages 12-18). The experimentally determined consensus phosphorylation motif is R-x-x-S/T-P (johnson2023anatlasof pages 12-18).
+
+
+
+## Structure
+MAST3 is a modular protein with a conserved domain architecture composed of an N-terminal Domain of Unknown Function 1908 (DUF1908), a central serine/threonine kinase domain, and a C-terminal PDZ domain (rumpf2023microtubuleassociatedserinethreonine(mast) pages 1-2, lemke2025mastkinases’function pages 1-2). The DUF1908 domain is approximately 275 amino acids with a poorly understood function, the kinase domain belongs to the AGC family, and the PDZ domain mediates protein-protein interactions (rumpf2023microtubuleassociatedserinethreonine(mast) pages 2-5).
+
+Structural models from AlphaFold confirm this tri-domain organization (rumpf2023microtubuleassociatedserinethreonine(mast) pages 2-5). The kinase domain has a canonical bi-lobed structure, with an N-lobe composed primarily of β-strands and a C-lobe of α-helices, which form the ATP-binding active site cleft (rumpf2023microtubuleassociatedserinethreonine(mast) pages 1-2). This domain contains conserved motifs essential for kinase function, including DFG, APE, and HRD (rumpf2023microtubuleassociatedserinethreonine(mast) pages 2-5). The T-loop (DFG) region undergoes dynamic DFGin/DFGout conformational shifts that are critical for regulating kinase activity (lemke2025mastkinases’function pages 11-12). A unique feature of MAST kinases is the substitution of the first glycine with a serine in the glycine-rich loop (GXGXXG), which may serve as a regulatory phosphorylation site (rumpf2023microtubuleassociatedserinethreonine(mast) pages 2-5, rumpf2023microtubuleassociatedserinethreonine(mast) pages 5-7).
+
+
+
+## Regulation
+MAST3 activity is regulated by post-translational modifications and protein-protein interactions.
+
+**Phosphorylation:** PKA phosphorylates MAST3 at threonine 389, which modulates its activity (rumpf2023microtubuleassociatedserinethreonine(mast) pages 7-8). The serine residue substituting a glycine in the kinase domain's glycine-rich loop is a potential site for regulatory phosphorylation (rumpf2023microtubuleassociatedserinethreonine(mast) pages 2-5). Pathogenic mutations such as S101F and S104L within the DUF domain alter phosphosites and disrupt kinase function (lemke2025mastkinases’function pages 11-12). MAST3-mediated phosphorylation of YAP at serine 127 is a critical regulatory event that inhibits YAP's function (deng2025microtubuleassociatedserinethreonine pages 9-14).
+
+**Ubiquitination:** The phosphorylation of YAP at Ser127 by MAST3 facilitates its subsequent ubiquitin-mediated proteasomal degradation (deng2025microtubuleassociatedserinethreonine pages 9-14).
+
+**Allosteric and Conformational Regulation:** The kinase's catalytic activity is modulated by conformational shifts (DFGin/DFGout) in its T-loop (lemke2025mastkinases’function pages 11-12). MAST3 also engages in phosphorylation-dependent interactions with 14-3-3 proteins, which can modulate protein stability, localization, and activity (lemke2025mastkinases’function pages 6-8, rumpf2023microtubuleassociatedserinethreonine(mast) pages 7-8).
+
+
+
+## Function
+**Expression and Localization:** MAST3 transcripts are most highly expressed in the brain cortex, whole blood, pituitary, and spleen, with broader expression in tissues such as the heart, lung, liver, intestine, and kidney (lemke2025mastkinases’function pages 6-8, rumpf2023microtubuleassociatedserinethreonine(mast) pages 1-2). Unlike other MAST kinases which are predominantly cytoplasmic, MAST3 localizes to nuclear speckles (lemke2025mastkinases’function pages 6-8). In breast cancer specimens, MAST3 expression is found to be reduced (deng2025microtubuleassociatedserinethreonine pages 9-14).
+
+**Substrates and Interacting Partners:**
+- **Substrates:** Known substrates include Yes-associated protein (YAP), which is specifically phosphorylated at Ser127, and ARPP-16, a cAMP-regulated phosphoprotein phosphorylated at Ser46 (deng2025microtubuleassociatedserinethreonine pages 9-14, lemke2025mastkinases’function pages 6-8, rumpf2023microtubuleassociatedserinethreonine(mast) pages 7-8).
+- **Interacting Partners:** MAST3 interacts directly with YAP via its PDZ domain (deng2025microtubuleassociatedserinethreonine pages 9-14). It also binds to the tumor suppressors PTEN and Adenomatous polyposis coli (APC), as well as 14-3-3 proteins (unknownauthors2012mast3facteurde pages 127-131, rumpf2023microtubuleassociatedserinethreonine(mast) pages 8-10, lemke2025mastkinases’function pages 6-8).
+- **Upstream Kinases:** PKA phosphorylates and regulates MAST3 (rumpf2023microtubuleassociatedserinethreonine(mast) pages 7-8).
+
+**Signaling Pathways:**
+- **Hippo Pathway:** In breast cancer, MAST3 functions as a tumor suppressor by regulating the Hippo pathway. Its phosphorylation of YAP triggers YAP's degradation, thereby inhibiting the transcriptional activity of the YAP-TEAD complex and downregulating downstream oncogenic targets such as CTGF, CYR61, and CCNE1 (deng2025microtubuleassociatedserinethreonine pages 9-14).
+- **PP2A Regulation:** In neuronal cells, MAST3 phosphorylates ARPP-16, leading to the inhibition of protein phosphatase 2A (PP2A) activity and modulating PP2A-dependent signaling, which affects processes like cell cycle progression (lemke2025mastkinases’function pages 6-8, rumpf2023microtubuleassociatedserinethreonine(mast) pages 7-8).
+- **Inflammatory Signaling:** MAST3 functions as a positive regulator of the Toll-like receptor 4 (TLR4)-dependent NF-κB signaling pathway (rumpf2023microtubuleassociatedserinethreonine(mast) pages 10-11).
+
+
+
+## Inhibitors
+Verteporfin counteracts the effects of reduced MAST3 by inhibiting the activity of the downstream YAP-TEAD complex (deng2025microtubuleassociatedserinethreonine pages 9-14).
+
+
+
+## Other Comments
+**Disease Associations:**
+- **Cancer:** Reduced expression of MAST3, a tumor suppressor, is observed in breast cancer (deng2025microtubuleassociatedserinethreonine pages 9-14). It is also associated with liver cancer, myeloma, and prostate cancer (rumpf2023microtubuleassociatedserinethreonine(mast) pages 1-2, rumpf2023microtubuleassociatedserinethreonine(mast) pages 10-11).
+- **Inflammatory and Neurological Disorders:** MAST3 is a genetic susceptibility factor for inflammatory bowel disease (IBD) (unknownauthors2012mast3facteurde pages 127-131). Mutations in MAST3 are associated with neuronal disorders, such as developmental and epileptic encephalopathies, and neuronal disability (lemke2025mastkinases’function pages 6-8, lemke2025mastkinases’function pages 11-12, rumpf2023microtubuleassociatedserinethreonine(mast) pages 1-2). It has also been linked to cystic fibrosis (rumpf2023microtubuleassociatedserinethreonine(mast) pages 1-2).
+
+**Disease-Related Mutations and Functional Impact:**
+- A risk variant for IBD, rs273506, located in an intron of MAST3, is associated with a missense coding variant, S861G (unknownauthors2012mast3facteurde pages 127-131).
+- Mutations S101F and S104L in the DUF domain are associated with neuronal disability and affect post-translational modification sites (lemke2025mastkinases’function pages 11-12).
+- Catalytic domain mutations, such as G510S, G515S, and L516P, are predicted to alter the conformational dynamics (DFGin/DFGout) that regulate kinase activity without destabilizing the protein structure (lemke2025mastkinases’function pages 11-12).
+
+References
+
+1. (deng2025microtubuleassociatedserinethreonine pages 9-14): Ning Deng, Wei Kang, Jiang Du, Xuezhu Rong, and Qiang Han. Microtubule associated serine/threonine kinase-3 inhibits the malignant phenotype of breast cancer by promoting phosphorylation-mediated ubiquitination degradation of yes-associated protein. Breast Cancer Research, May 2025. URL: https://doi.org/10.1186/s13058-025-02028-3, doi:10.1186/s13058-025-02028-3. This article has 0 citations and is from a domain leading peer-reviewed journal.
+
+2. (lemke2025mastkinases’function pages 11-12): Michael C. Lemke, Nithin R. Avala, Michael T. Rader, Stefan R. Hargett, Daniel S. Lank, Brandon D. Seltzer, and Thurl E. Harris. Mast kinases’ function and regulation: insights from structural modeling and disease mutations. Biomedicines, 13:925, Apr 2025. URL: https://doi.org/10.3390/biomedicines13040925, doi:10.3390/biomedicines13040925. This article has 0 citations and is from a peer-reviewed journal.
+
+3. (lemke2025mastkinases’function pages 6-8): Michael C. Lemke, Nithin R. Avala, Michael T. Rader, Stefan R. Hargett, Daniel S. Lank, Brandon D. Seltzer, and Thurl E. Harris. Mast kinases’ function and regulation: insights from structural modeling and disease mutations. Biomedicines, 13:925, Apr 2025. URL: https://doi.org/10.3390/biomedicines13040925, doi:10.3390/biomedicines13040925. This article has 0 citations and is from a peer-reviewed journal.
+
+4. (rumpf2023microtubuleassociatedserinethreonine(mast) pages 1-2): Marie Rumpf, Sabine Pautz, Benedikt Drebes, Friedrich W. Herberg, and Hans-Arno J. Müller. Microtubule-associated serine/threonine (mast) kinases in development and disease. International Journal of Molecular Sciences, 24:11913, Jul 2023. URL: https://doi.org/10.3390/ijms241511913, doi:10.3390/ijms241511913. This article has 6 citations and is from a peer-reviewed journal.
+
+5. (rumpf2023microtubuleassociatedserinethreonine(mast) pages 13-14): Marie Rumpf, Sabine Pautz, Benedikt Drebes, Friedrich W. Herberg, and Hans-Arno J. Müller. Microtubule-associated serine/threonine (mast) kinases in development and disease. International Journal of Molecular Sciences, 24:11913, Jul 2023. URL: https://doi.org/10.3390/ijms241511913, doi:10.3390/ijms241511913. This article has 6 citations and is from a peer-reviewed journal.
+
+6. (rumpf2023microtubuleassociatedserinethreonine(mast) pages 2-5): Marie Rumpf, Sabine Pautz, Benedikt Drebes, Friedrich W. Herberg, and Hans-Arno J. Müller. Microtubule-associated serine/threonine (mast) kinases in development and disease. International Journal of Molecular Sciences, 24:11913, Jul 2023. URL: https://doi.org/10.3390/ijms241511913, doi:10.3390/ijms241511913. This article has 6 citations and is from a peer-reviewed journal.
+
+7. (unknownauthors2012mast3facteurde pages 127-131): MAST3: facteur de risque génétique aux maladies inflammatoires de l'intestin et modulateur d'inflammation
+
+8. (johnson2023anatlasof pages 12-18): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+9. (lemke2025mastkinases’function pages 1-2): Michael C. Lemke, Nithin R. Avala, Michael T. Rader, Stefan R. Hargett, Daniel S. Lank, Brandon D. Seltzer, and Thurl E. Harris. Mast kinases’ function and regulation: insights from structural modeling and disease mutations. Biomedicines, 13:925, Apr 2025. URL: https://doi.org/10.3390/biomedicines13040925, doi:10.3390/biomedicines13040925. This article has 0 citations and is from a peer-reviewed journal.
+
+10. (lemke2025mastkinases’function pages 14-15): Michael C. Lemke, Nithin R. Avala, Michael T. Rader, Stefan R. Hargett, Daniel S. Lank, Brandon D. Seltzer, and Thurl E. Harris. Mast kinases’ function and regulation: insights from structural modeling and disease mutations. Biomedicines, 13:925, Apr 2025. URL: https://doi.org/10.3390/biomedicines13040925, doi:10.3390/biomedicines13040925. This article has 0 citations and is from a peer-reviewed journal.
+
+11. (lemke2025mastkinases’function pages 2-4): Michael C. Lemke, Nithin R. Avala, Michael T. Rader, Stefan R. Hargett, Daniel S. Lank, Brandon D. Seltzer, and Thurl E. Harris. Mast kinases’ function and regulation: insights from structural modeling and disease mutations. Biomedicines, 13:925, Apr 2025. URL: https://doi.org/10.3390/biomedicines13040925, doi:10.3390/biomedicines13040925. This article has 0 citations and is from a peer-reviewed journal.
+
+12. (rumpf2023microtubuleassociatedserinethreonine(mast) pages 10-11): Marie Rumpf, Sabine Pautz, Benedikt Drebes, Friedrich W. Herberg, and Hans-Arno J. Müller. Microtubule-associated serine/threonine (mast) kinases in development and disease. International Journal of Molecular Sciences, 24:11913, Jul 2023. URL: https://doi.org/10.3390/ijms241511913, doi:10.3390/ijms241511913. This article has 6 citations and is from a peer-reviewed journal.
+
+13. (rumpf2023microtubuleassociatedserinethreonine(mast) pages 5-7): Marie Rumpf, Sabine Pautz, Benedikt Drebes, Friedrich W. Herberg, and Hans-Arno J. Müller. Microtubule-associated serine/threonine (mast) kinases in development and disease. International Journal of Molecular Sciences, 24:11913, Jul 2023. URL: https://doi.org/10.3390/ijms241511913, doi:10.3390/ijms241511913. This article has 6 citations and is from a peer-reviewed journal.
+
+14. (rumpf2023microtubuleassociatedserinethreonine(mast) pages 7-8): Marie Rumpf, Sabine Pautz, Benedikt Drebes, Friedrich W. Herberg, and Hans-Arno J. Müller. Microtubule-associated serine/threonine (mast) kinases in development and disease. International Journal of Molecular Sciences, 24:11913, Jul 2023. URL: https://doi.org/10.3390/ijms241511913, doi:10.3390/ijms241511913. This article has 6 citations and is from a peer-reviewed journal.
+
+15. (unknownauthors2008molecularinvestigationof pages 93-98): Molecular investigation of the MAST kinase family in the mammalian CNS
+
+16. (rumpf2023microtubuleassociatedserinethreonine(mast) pages 8-10): Marie Rumpf, Sabine Pautz, Benedikt Drebes, Friedrich W. Herberg, and Hans-Arno J. Müller. Microtubule-associated serine/threonine (mast) kinases in development and disease. International Journal of Molecular Sciences, 24:11913, Jul 2023. URL: https://doi.org/10.3390/ijms241511913, doi:10.3390/ijms241511913. This article has 6 citations and is from a peer-reviewed journal.

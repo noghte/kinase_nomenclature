@@ -1,0 +1,113 @@
+## Phylogeny  
+– Human TBK1 shares 99 % amino-acid identity with its murine ortholog, illustrating strong conservation across mammals (revach2020targetingtankbindingkinase pages 1-3).  
+– The kinase is assigned to the non-canonical IκB-kinase (IKK-related) subfamily within the CAMK-like group and clusters most closely with IKKε, with 49 % identity in the kinase domain (xiang2021tankbindingkinase1 pages 1-2).  
+– Sequence identity with canonical IKKα/IKKβ is ~28–35 %, indicating early divergence inside the broader IKK clade (tu2013structureandubiquitinationdependent pages 2-4, larabi2013crystalstructureand pages 1-2).  
+– Orthologous proteins are reported across vertebrates; the dimer interface residues and regulatory lysines are conserved from fish to mammals (tu2013structureandubiquitinationdependent pages 4-5).  
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr ⇌ ADP + phosphoprotein-L-Ser/Thr (ma2012molecularbasisof pages 1-1).  
+
+## Cofactor Requirements  
+Catalytic turnover requires ATP binding in the active site; activity of this Ser/Thr kinase is divalent-cation dependent, although the specific metal (Mg²⁺ versus Mn²⁺) is not detailed in the cited excerpts (revach2020targetingtankbindingkinase pages 14-15).  
+
+## Substrate Specificity  
+– Kinase-domain peptide profiling indicates preference for a bulky hydrophobic residue (Leu/Ile) at the +1 position, yielding a φ-X-S/T-φ consensus (helgason2013recentinsightsinto pages 3-5).  
+– Structural analyses corroborate broad tolerance elsewhere in the motif, rationalising phosphorylation of diverse substrates bearing the hydrophobic +1 residue (ma2012molecularbasisof pages 5-6).  
+
+## Structure  
+– Domain organisation: kinase domain (1-307), ubiquitin-like domain (ULD, 310-385), scaffold/dimerisation domain (SDD, 407-657), C-terminal adaptor-binding tail (657-729) (revach2020targetingtankbindingkinase pages 1-3).  
+– Full-length crystal structures reveal a back-to-back homodimer in which each KD-ULD-SDD trio forms an elongated subunit; the interface clamps but does not occlude the active sites (tu2013structureandubiquitinationdependent pages 2-4).  
+– Activation loop (Leu164-Gly199) is disordered in the apo state; trans-autophosphorylation of Ser172 orders the loop and locks the C-helix via a Glu55-Lys38 salt bridge and Arg54/Arg134/Arg162 contacts (xiang2021tankbindingkinase1 pages 1-2).  
+– An activation-loop-swapped dimer captured in PDB 4EUT/4EUU supports the trans-phosphorylation mechanism (ma2012molecularbasisof pages 1-1).  
+– Inhibitor-bound structures (e.g., BX795, amlexanox) show a conserved hinge hydrogen bond with Cys89 and pocket plasticity accommodating diverse chemotypes (xiang2021tankbindingkinase1 pages 9-10).  
+– The ULD E355/R357 “EGR” motif forms salt bridges with SDD residue R547; mutations on either side disrupt dimer stability and abolish activation (tu2013structureandubiquitinationdependent pages 4-5).  
+
+## Regulation  
+Phosphorylation  
+– Ser172 autophosphorylation is indispensable for catalytic competence (larabi2013crystalstructureand pages 1-2).  
+– Tyr179 phosphorylation by Src enhances activation (zhao2019tankbindingkinase1 pages 7-10).  
+– Ser716 phosphorylation by PKCθ modulates downstream signal amplitude (revach2020targetingtankbindingkinase pages 3-4).  
+– Ser527 phosphorylation by DYRK2 earmarks TBK1 for proteasomal turnover (zhao2019tankbindingkinase1 pages 7-10).  
+Dephosphorylation  
+– PPM1B, PP4, Cdc25A and PPM1A remove pSer172, providing negative feedback (revach2020targetingtankbindingkinase pages 14-15).  
+Ubiquitination  
+– K63-linked poly-ubiquitination on Lys30 and Lys401 by TRAF-family E3 ligases (MIB1, MIB2, RNF128, RNF144B, RNF41) is essential for activation; CYLD and USP2b reverse this modification (revach2020targetingtankbindingkinase pages 3-4).  
+– K48-linked chains target TBK1 for degradation (revach2020targetingtankbindingkinase pages 3-4).  
+SUMOylation  
+– Lys694 SUMOylation augments antiviral signalling (revach2020targetingtankbindingkinase pages 3-4).  
+Higher-order Assembly  
+– K63-Ub chains plus adaptor proteins TANK, NAP1 and SINTBAD drive clustering, positioning kinase domains for trans-autophosphorylation (tu2013structureandubiquitinationdependent pages 8-9).  
+
+## Function  
+– Constitutive expression in most tissues; elevated in immune cells, hepatocytes and multiple tumour types (hui2025tankbindingkinase1 pages 1-2).  
+Upstream pathways  
+– Activated downstream of TLR3/4-TRIF, RIG-I/MAVS and cGAS-STING sensors (revach2020targetingtankbindingkinase pages 3-4).  
+Core adaptors/interactors  
+– TANK, NAP1, SINTBAD, TRAF3, TRAF2, STING, OPTN and NDP52 coordinate localisation and pathway selection (helgason2013recentinsightsinto pages 1-2).  
+Key substrates  
+– IRF3, IRF7, STING Ser366, RIPK1, Rab7, PLK1, CEP170, NUMA, AKT (revach2020targetingtankbindingkinase pages 27-29, unknownauthors2020regulationofintracellular pages 66-69, revach2020targetingtankbindingkinase pages 6-7).  
+Signalling outputs  
+– Type I interferon induction, NF-κB activation, selective autophagy/mitophagy, modulation of apoptosis–necroptosis decisions, and support of KRAS-driven oncogenic survival via the RalB–Sec5 axis (tu2013structureandubiquitinationdependent pages 2-4).  
+
+## Inhibitors  
+– BX795, IC₅₀ ≈ 1 nM, co-crystal PDB 4IW0, multi-kinase profile (revach2020targetingtankbindingkinase pages 27-29).  
+– MRT67307, IC₅₀ 19 nM, selective versus canonical IKKs (tu2013structureandubiquitinationdependent pages 4-5).  
+– GSK8612, highly selective with in-vivo efficacy (revach2020targetingtankbindingkinase pages 23-27).  
+– Amlexanox, IC₅₀ 0.85 µM, co-crystal PDB 5W5V (xiang2021tankbindingkinase1 pages 9-10).  
+– CYT387/Momelotinib, IC₅₀ 58 nM (revach2020targetingtankbindingkinase pages 27-29).  
+– Cmpd1, IC₅₀ 1 nM (revach2020targetingtankbindingkinase pages 27-29).  
+– BAY-985, IC₅₀ 2 nM, limited pharmacokinetics (xiang2021tankbindingkinase1 pages 9-10).  
+– Compound II and DMXD-011 exhibit anti-inflammatory efficacy in pre-clinical models (hui2025tankbindingkinase1 pages 12-14).  
+
+## Other Comments  
+– Germline deletion in mice is embryonic-lethal owing to hepatocyte apoptosis, underscoring essential developmental roles (revach2020targetingtankbindingkinase pages 6-7).  
+– ALS/FTD-linked variants (e.g., K38D, S172A, G175S, CCD2 deletions) impair dimerisation, autophosphorylation or adaptor binding, leading to defective autophagy and neuroinflammation (umair2021impactofsingle pages 1-2, foster2020alsassociatedtbk1variant pages 1-2, oakes2017tbk1anew pages 1-2).  
+– Hyper-activated TBK1 sustains survival of KRAS-mutant lung and pancreatic cancers, representing a synthetic-lethal vulnerability (tu2013structureandubiquitinationdependent pages 2-4).
+
+References
+
+1. (tu2013structureandubiquitinationdependent pages 2-4): D. Tu, Zehua Zhu, A. Zhou, C. Yun, Kyung-Eun Lee, A. Toms, Yiqun Li, G. Dunn, Edmond M. Chan, Tran C Thai, Shenghong Yang, S. Ficarro, J. Marto, H. Jeon, W. Hahn, D. Barbie, and M. Eck. Structure and ubiquitination-dependent activation of tank-binding kinase 1. Cell reports, 3 3:747-58, Mar 2013. URL: https://doi.org/10.1016/j.celrep.2013.01.033, doi:10.1016/j.celrep.2013.01.033. This article has 224 citations and is from a highest quality peer-reviewed journal.
+
+2. (tu2013structureandubiquitinationdependent pages 8-9): D. Tu, Zehua Zhu, A. Zhou, C. Yun, Kyung-Eun Lee, A. Toms, Yiqun Li, G. Dunn, Edmond M. Chan, Tran C Thai, Shenghong Yang, S. Ficarro, J. Marto, H. Jeon, W. Hahn, D. Barbie, and M. Eck. Structure and ubiquitination-dependent activation of tank-binding kinase 1. Cell reports, 3 3:747-58, Mar 2013. URL: https://doi.org/10.1016/j.celrep.2013.01.033, doi:10.1016/j.celrep.2013.01.033. This article has 224 citations and is from a highest quality peer-reviewed journal.
+
+3. (helgason2013recentinsightsinto pages 1-2): Elizabeth Helgason, Qui T. Phung, and Erin C. Dueber. Recent insights into the complexity of tank‐binding kinase 1 signaling networks: the emerging role of cellular localization in the activation and substrate specificity of tbk1. FEBS Letters, Apr 2013. URL: https://doi.org/10.1016/j.febslet.2013.01.059, doi:10.1016/j.febslet.2013.01.059. This article has 206 citations and is from a peer-reviewed journal.
+
+4. (larabi2013crystalstructureand pages 1-2): A. Larabi, J. Devos, Sze-Ling Ng, M. Nanao, A. Round, T. Maniatis, and D. Panne. Crystal structure and mechanism of activation of tank-binding kinase 1. Cell reports, 3 3:734-46, Mar 2013. URL: https://doi.org/10.1016/j.celrep.2013.01.034, doi:10.1016/j.celrep.2013.01.034. This article has 247 citations and is from a highest quality peer-reviewed journal.
+
+5. (ma2012molecularbasisof pages 1-1): Xiaolei Ma, Elizabeth Helgason, Qui T. Phung, Clifford L. Quan, Rekha S. Iyer, Michelle W. Lee, Krista K. Bowman, Melissa A. Starovasnik, and Erin C. Dueber. Molecular basis of tank-binding kinase 1 activation by transautophosphorylation. Proceedings of the National Academy of Sciences, 109:9378-9383, May 2012. URL: https://doi.org/10.1073/pnas.1121552109, doi:10.1073/pnas.1121552109. This article has 271 citations.
+
+6. (ma2012molecularbasisof pages 5-6): Xiaolei Ma, Elizabeth Helgason, Qui T. Phung, Clifford L. Quan, Rekha S. Iyer, Michelle W. Lee, Krista K. Bowman, Melissa A. Starovasnik, and Erin C. Dueber. Molecular basis of tank-binding kinase 1 activation by transautophosphorylation. Proceedings of the National Academy of Sciences, 109:9378-9383, May 2012. URL: https://doi.org/10.1073/pnas.1121552109, doi:10.1073/pnas.1121552109. This article has 271 citations.
+
+7. (revach2020targetingtankbindingkinase pages 1-3): Or-Yam Revach, Shuming Liu, and R. Jenkins. Targeting tank-binding kinase 1 (tbk1) in cancer. Expert Opinion on Therapeutic Targets, 24:1065-1078, Sep 2020. URL: https://doi.org/10.1080/14728222.2020.1826929, doi:10.1080/14728222.2020.1826929. This article has 49 citations and is from a peer-reviewed journal.
+
+8. (revach2020targetingtankbindingkinase pages 14-15): Or-Yam Revach, Shuming Liu, and R. Jenkins. Targeting tank-binding kinase 1 (tbk1) in cancer. Expert Opinion on Therapeutic Targets, 24:1065-1078, Sep 2020. URL: https://doi.org/10.1080/14728222.2020.1826929, doi:10.1080/14728222.2020.1826929. This article has 49 citations and is from a peer-reviewed journal.
+
+9. (revach2020targetingtankbindingkinase pages 23-27): Or-Yam Revach, Shuming Liu, and R. Jenkins. Targeting tank-binding kinase 1 (tbk1) in cancer. Expert Opinion on Therapeutic Targets, 24:1065-1078, Sep 2020. URL: https://doi.org/10.1080/14728222.2020.1826929, doi:10.1080/14728222.2020.1826929. This article has 49 citations and is from a peer-reviewed journal.
+
+10. (revach2020targetingtankbindingkinase pages 27-29): Or-Yam Revach, Shuming Liu, and R. Jenkins. Targeting tank-binding kinase 1 (tbk1) in cancer. Expert Opinion on Therapeutic Targets, 24:1065-1078, Sep 2020. URL: https://doi.org/10.1080/14728222.2020.1826929, doi:10.1080/14728222.2020.1826929. This article has 49 citations and is from a peer-reviewed journal.
+
+11. (revach2020targetingtankbindingkinase pages 3-4): Or-Yam Revach, Shuming Liu, and R. Jenkins. Targeting tank-binding kinase 1 (tbk1) in cancer. Expert Opinion on Therapeutic Targets, 24:1065-1078, Sep 2020. URL: https://doi.org/10.1080/14728222.2020.1826929, doi:10.1080/14728222.2020.1826929. This article has 49 citations and is from a peer-reviewed journal.
+
+12. (tu2013structureandubiquitinationdependent pages 4-5): D. Tu, Zehua Zhu, A. Zhou, C. Yun, Kyung-Eun Lee, A. Toms, Yiqun Li, G. Dunn, Edmond M. Chan, Tran C Thai, Shenghong Yang, S. Ficarro, J. Marto, H. Jeon, W. Hahn, D. Barbie, and M. Eck. Structure and ubiquitination-dependent activation of tank-binding kinase 1. Cell reports, 3 3:747-58, Mar 2013. URL: https://doi.org/10.1016/j.celrep.2013.01.033, doi:10.1016/j.celrep.2013.01.033. This article has 224 citations and is from a highest quality peer-reviewed journal.
+
+13. (umair2021impactofsingle pages 1-2): Mohd Umair, Shama Khan, Taj Mohammad, Alaa Shafie, Farah Anjum, Asimul Islam, and Md. Imtaiyaz Hassan. Impact of single amino acid substitution on the structure and function of tank‐binding kinase‐1. Journal of Cellular Biochemistry, 122:1475-1490, Jul 2021. URL: https://doi.org/10.1002/jcb.30070, doi:10.1002/jcb.30070. This article has 19 citations and is from a peer-reviewed journal.
+
+14. (unknownauthors2020regulationofintracellular pages 66-69): Regulation of intracellular traffic by TBK1 and its relevance to ALS
+
+15. (xiang2021tankbindingkinase1 pages 1-2): Shuang Xiang, Shukai Song, Haotian Tang, Jeff B. Smaill, Aiqun Wang, Hua Xie, and Xiaoyun Lu. Tank-binding kinase 1 (tbk1): an emerging therapeutic target for drug discovery. Drug Discovery Today, 26:2445-2455, Oct 2021. URL: https://doi.org/10.1016/j.drudis.2021.05.016, doi:10.1016/j.drudis.2021.05.016. This article has 34 citations and is from a domain leading peer-reviewed journal.
+
+16. (xiang2021tankbindingkinase1 pages 9-10): Shuang Xiang, Shukai Song, Haotian Tang, Jeff B. Smaill, Aiqun Wang, Hua Xie, and Xiaoyun Lu. Tank-binding kinase 1 (tbk1): an emerging therapeutic target for drug discovery. Drug Discovery Today, 26:2445-2455, Oct 2021. URL: https://doi.org/10.1016/j.drudis.2021.05.016, doi:10.1016/j.drudis.2021.05.016. This article has 34 citations and is from a domain leading peer-reviewed journal.
+
+17. (zhao2019tankbindingkinase1 pages 7-10): Chunyuan Zhao and Wei Zhao. Tank-binding kinase 1 as a novel therapeutic target for viral diseases. Expert Opinion on Therapeutic Targets, 23:437-446, Apr 2019. URL: https://doi.org/10.1080/14728222.2019.1601702, doi:10.1080/14728222.2019.1601702. This article has 66 citations and is from a peer-reviewed journal.
+
+18. (foster2020alsassociatedtbk1variant pages 1-2): A. Foster, P. Downing, E. Figredo, N. Polain, A. Stott, R. Layfield, and S. Rea. Als-associated tbk1 variant p.g175s is defective in phosphorylation of p62 and impacts tbk1-mediated signalling and tdp-43 autophagic degradation. Molecular and Cellular Neuroscience, Aug 2020. URL: https://doi.org/10.1016/j.mcn.2020.103539, doi:10.1016/j.mcn.2020.103539. This article has 25 citations and is from a peer-reviewed journal.
+
+19. (helgason2013recentinsightsinto pages 3-5): Elizabeth Helgason, Qui T. Phung, and Erin C. Dueber. Recent insights into the complexity of tank‐binding kinase 1 signaling networks: the emerging role of cellular localization in the activation and substrate specificity of tbk1. FEBS Letters, Apr 2013. URL: https://doi.org/10.1016/j.febslet.2013.01.059, doi:10.1016/j.febslet.2013.01.059. This article has 206 citations and is from a peer-reviewed journal.
+
+20. (hui2025tankbindingkinase1 pages 1-2): Lu Hui, Xiaolin Chen, Meng-ke Huang, Yong-Mei Jiang, and Ting Liu. Tank-binding kinase 1 in the pathogenesis and treatment of inflammation-related diseases. International Journal of Molecular Sciences, 26:1941, Feb 2025. URL: https://doi.org/10.3390/ijms26051941, doi:10.3390/ijms26051941. This article has 0 citations and is from a peer-reviewed journal.
+
+21. (hui2025tankbindingkinase1 pages 12-14): Lu Hui, Xiaolin Chen, Meng-ke Huang, Yong-Mei Jiang, and Ting Liu. Tank-binding kinase 1 in the pathogenesis and treatment of inflammation-related diseases. International Journal of Molecular Sciences, 26:1941, Feb 2025. URL: https://doi.org/10.3390/ijms26051941, doi:10.3390/ijms26051941. This article has 0 citations and is from a peer-reviewed journal.
+
+22. (oakes2017tbk1anew pages 1-2): James A. Oakes, Maria C. Davies, and Mark O. Collins. Tbk1: a new player in als linking autophagy and neuroinflammation. Molecular Brain, Feb 2017. URL: https://doi.org/10.1186/s13041-017-0287-x, doi:10.1186/s13041-017-0287-x. This article has 329 citations and is from a peer-reviewed journal.
+
+23. (revach2020targetingtankbindingkinase pages 6-7): Or-Yam Revach, Shuming Liu, and R. Jenkins. Targeting tank-binding kinase 1 (tbk1) in cancer. Expert Opinion on Therapeutic Targets, 24:1065-1078, Sep 2020. URL: https://doi.org/10.1080/14728222.2020.1826929, doi:10.1080/14728222.2020.1826929. This article has 49 citations and is from a peer-reviewed journal.

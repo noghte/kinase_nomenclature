@@ -1,0 +1,145 @@
+Protein: Eukaryotic elongation factor-2 kinase  
+Gene: EEF2K  
+UniProt: O00418  
+
+## Phylogeny  
+• Atypical protein-kinase-like (PKL) supergroup member; classified within the α-kinase family on human kinome maps derived from Manning et al. 2002 (chitjian2018regulationofelongation pages 12-19)  
+• Only Ca²⁺/calmodulin-dependent enzyme in the α-kinase clade (chitjian2018regulationofelongation pages 19-23)  
+• Vertebrate orthologs: Homo sapiens, Mus musculus, Rattus norvegicus share 90-97 % sequence identity (ryazanov1997identificationofa pages 5-5)  
+• Invertebrate ortholog: Caenorhabditis elegans retains ~40 % identity (ryazanov1997identificationofa pages 5-5)  
+• Additional metazoan orthologs detected in Trichoplax adhaerens and diatom Thalassiosira pseudonana (middelbeek2010thealphakinasefamily pages 1-2)  
+• Orthologs are absent in insects and fungi, indicating lineage-specific loss (piserchio2024revealingeef2kinase pages 14-17)  
+• Clusters with Dictyostelium myosin heavy-chain kinases B/C within the α-kinase branch (middelbeek2010thealphakinasefamily pages 1-2)  
+
+## Reaction Catalyzed  
+ATP + [eEF2] Thr56 → ADP + [eEF2] Thr56-O-phosphate (karakas2020eukaryoticelongationfactor2 pages 1-2)  
+
+## Cofactor Requirements  
+• Activation requires Ca²⁺-bound calmodulin (chitjian2018regulationofelongation pages 19-23)  
+• Catalysis depends on Mg²⁺ coordinated by Asp-284 in the DFG motif (chitjian2018regulationofelongation pages 19-23)  
+• Acidic pH partially compensates for Ca²⁺ absence, sustaining activity (chitjian2018regulationofelongation pages 12-19)  
+
+## Substrate Specificity  
+• Canonical substrate: eEF2 Thr56 (karakas2020eukaryoticelongationfactor2 pages 1-2)  
+• Consensus motif derived from chemical-genetic and peptide studies: acidic residue (E/D) at −2, Lys/Arg at +1 and +3 surrounding the phospho-threonine (lazarus2017discoveryofnew pages 6-7, crawley2008determinantsforsubstrate pages 1-2)  
+• Strong threonine preference; targets residues embedded in α-helical segments (pavur2000mappingthefunctional pages 7-8)  
+• Validated additional substrates: PP2A adaptor α4, NDRG1, and AMPKα Thr482 (lazarus2017discoveryofnew pages 4-6)  
+
+## Structure  
+Domain organization  
+– 79-96: CaM-targeting helix with DXDXDG Ca²⁺-binding motif; Trp-85 anchors CaM (chitjian2018regulationofelongation pages 19-23)  
+– 116-326: α-kinase catalytic domain containing GXGXXG glycine loop, catalytic Lys-170, and Asp-284 (chitjian2018regulationofelongation pages 19-23)  
+– 327-489: Regulatory loop enriched in phosphorylation sites and intrinsically disordered (chitjian2018regulationofelongation pages 12-19)  
+– 490-725: C-terminal SEL1-like helical repeats mediating substrate docking (pigott2012insightsintothe pages 1-2)  
+
+Three-dimensional information  
+• CaM-bound active core (PDB 7SHQ) reveals dual-lobed α-kinase fold with autophospho-Thr348 occupying an allosteric phosphate pocket (klupt2023eef2kinhibitordesign pages 10-11)  
+• ATP-competitive inhibitor A-484954 co-crystal structures (PDB 7S0U/7S0V) define the nucleotide pocket and drug-binding determinants (piserchio2023structureofthe pages 1-2)  
+• Additional CaM complexes (PDB 8GM4/8GM5) capture conformational heterogeneity in the regulatory loop and C-helix (piserchio2023structureofthe pages 5-6)  
+• AlphaFold2 full-length model corroborates domain arrangement and inter-domain contacts (klupt2023eef2kinhibitordesign pages 10-11)  
+
+Key catalytic/regulatory elements  
+• Allosteric phosphate pocket (Lys205-Arg252-Thr254) binds pThr348 to stabilize the active conformation (unknownauthors2018molecularsignalprocessing pages 12-16)  
+• CaM binding re-orients the C-helix, forming the Lys170-Glu191 catalytic salt bridge (klupt2023eef2kinhibitordesign pages 10-11)  
+• A ~150-residue flexible loop hampers crystallization and mediates multisite regulation (chitjian2018regulationofelongation pages 12-19)  
+
+## Regulation  
+Autophosphorylation  
+– Thr348: obligatory for activity (klupt2023eef2kinhibitordesign pages 1-2)  
+– Ser500: enhances Ca²⁺/CaM sensitivity (unknownauthors2018molecularsignalprocessing pages 21-25)  
+
+Activating upstream phosphorylation  
+– Ser392, Ser398, Ser499 under stress signals elevate activity (karakas2020eukaryoticelongationfactor2 pages 1-2)  
+
+Inhibitory upstream phosphorylation  
+– Ser78, Ser359, Ser366 phosphorylated by mTORC1-p70 S6K or ERK-p90 RSK diminish activity (wang2014eukaryoticelongationfactor pages 1-6)  
+
+Proteolytic control  
+– Diphosphorylated Ser441/Ser445 creates a SCFβTrCP degron driving ubiquitination and rapid turnover (unknownauthors2018molecularsignalprocessing pages 29-33)  
+– Hsp90 binding stabilizes the kinase, extending half-life (unknownauthors2018molecularsignalprocessing pages 29-33)  
+
+Other modifications  
+– Pro98 hydroxylation disrupts CaM interaction, reducing activity (unknownauthors2018molecularsignalprocessing pages 29-33)  
+
+Environmental regulation  
+– Acidic intracellular pH increases CaM affinity and can sustain activity without Ca²⁺ (chitjian2018regulationofelongation pages 12-19)  
+
+## Function  
+Expression  
+• Broadly expressed; markedly elevated in breast, pancreatic, lung, esophageal and brain cancers where high levels correlate with poor prognosis (karakas2020eukaryoticelongationfactor2 pages 1-2)  
+
+Biological roles  
+• Phosphorylation of eEF2 Thr56 slows ribosomal translocation, conserving ATP and amino acids during nutrient deprivation, hypoxia, DNA damage and ER stress (wang2017eukaryoticelongationfactor pages 1-3)  
+• Promotes cell survival, proliferation, angiogenesis, migration and epithelial-mesenchymal transition in tumors (karakas2020eukaryoticelongationfactor2 pages 1-2)  
+
+Upstream regulators  
+– AMPK activates EEF2K under energy stress (karakas2020eukaryoticelongationfactor2 pages 1-2)  
+– mTORC1 and ERK–p90 RSK pathways provide inhibitory phosphorylation (wang2014eukaryoticelongationfactor pages 1-6)  
+– CDK1 phosphorylates Ser359 during mitosis, raising Ca²⁺ requirement (unknownauthors2018molecularsignalprocessing pages 21-25)  
+
+Downstream substrates and partners  
+– Primary: eEF2 Thr56 (karakas2020eukaryoticelongationfactor2 pages 1-2)  
+– Additional: α4, NDRG1, AMPKα Thr482 (lazarus2017discoveryofnew pages 4-6)  
+– Essential regulatory partner: calmodulin (chitjian2018regulationofelongation pages 19-23)  
+
+## Inhibitors  
+Compound | Mechanism | Potency  
+ | --- | ---  
+NH125 | Active-site inhibitor | IC₅₀ ≈ 60 nM (klupt2023eef2kinhibitordesign pages 4-6)  
+A-484954 | ATP-competitive; structural complex resolved | High specificity, in-cell efficacy (piserchio2023structureofthe pages 4-5)  
+Rottlerin | Non-selective kinase inhibitor | IC₅₀ ≈ 5.3 µM (klupt2023eef2kinhibitordesign pages 4-6)  
+TS-2 | 5,6-dihydro-4H-1,3-selenazine derivative | IC₅₀ 0.36 µM (klupt2023eef2kinhibitordesign pages 4-6)  
+TS-4 | 5,6-dihydro-4H-1,3-selenazine derivative | IC₅₀ 0.31 µM (klupt2023eef2kinhibitordesign pages 4-6)  
+CAM1 | De novo protein binder blocks CaM-binding helix | In vitro inhibition comparable to A-484954 (klupt2024developmentofade pages 4-7)  
+
+## Other Comments  
+• Cancer-associated surface Arg→His/Cys missense mutations increase catalytic activity and eEF2 phosphorylation (unknownauthors2018molecularsignalprocessing pages 29-33)  
+• Dysregulation implicated in Alzheimer’s disease and major depressive disorder (chitjian2018regulationofelongation pages 19-23)
+
+References
+
+1. (chitjian2018regulationofelongation pages 12-19): Catrina A Chitjian. Regulation of elongation factor 2 kinase (eef-2k) by acidity. Unknown journal, Aug 2018. URL: https://doi.org/10.15781/t2ht2gz7g, doi:10.15781/t2ht2gz7g. This article has 0 citations.
+
+2. (chitjian2018regulationofelongation pages 19-23): Catrina A Chitjian. Regulation of elongation factor 2 kinase (eef-2k) by acidity. Unknown journal, Aug 2018. URL: https://doi.org/10.15781/t2ht2gz7g, doi:10.15781/t2ht2gz7g. This article has 0 citations.
+
+3. (karakas2020eukaryoticelongationfactor2 pages 1-2): Didem Karakas and Bulent Ozpolat. Eukaryotic elongation factor-2 kinase (eef2k) signaling in tumor and microenvironment as a novel molecular target. Journal of Molecular Medicine, 98:775-787, May 2020. URL: https://doi.org/10.1007/s00109-020-01917-8, doi:10.1007/s00109-020-01917-8. This article has 42 citations.
+
+4. (klupt2023eef2kinhibitordesign pages 1-2): Kody A. Klupt and Zongchao Jia. Eef2k inhibitor design: the progression of exemplary structure-based drug design. Molecules, 28:1095, Jan 2023. URL: https://doi.org/10.3390/molecules28031095, doi:10.3390/molecules28031095. This article has 6 citations and is from a peer-reviewed journal.
+
+5. (klupt2023eef2kinhibitordesign pages 10-11): Kody A. Klupt and Zongchao Jia. Eef2k inhibitor design: the progression of exemplary structure-based drug design. Molecules, 28:1095, Jan 2023. URL: https://doi.org/10.3390/molecules28031095, doi:10.3390/molecules28031095. This article has 6 citations and is from a peer-reviewed journal.
+
+6. (lazarus2017discoveryofnew pages 4-6): M. Lazarus, Rebecca S Levin, and K. Shokat. Discovery of new substrates of the elongation factor-2 kinase suggests a broader role in the cellular nutrient response. Cellular signalling, 29:78-83, 2017. URL: https://doi.org/10.1016/j.cellsig.2016.10.006, doi:10.1016/j.cellsig.2016.10.006. This article has 23 citations and is from a peer-reviewed journal.
+
+7. (lazarus2017discoveryofnew pages 6-7): M. Lazarus, Rebecca S Levin, and K. Shokat. Discovery of new substrates of the elongation factor-2 kinase suggests a broader role in the cellular nutrient response. Cellular signalling, 29:78-83, 2017. URL: https://doi.org/10.1016/j.cellsig.2016.10.006, doi:10.1016/j.cellsig.2016.10.006. This article has 23 citations and is from a peer-reviewed journal.
+
+8. (middelbeek2010thealphakinasefamily pages 1-2): Jeroen Middelbeek, Kristopher Clark, Hanka Venselaar, Martijn A. Huynen, and Frank N. van Leeuwen. The alpha-kinase family: an exceptional branch on the protein kinase tree. Cellular and Molecular Life Sciences, 67:875-890, Dec 2010. URL: https://doi.org/10.1007/s00018-009-0215-z, doi:10.1007/s00018-009-0215-z. This article has 150 citations and is from a domain leading peer-reviewed journal.
+
+9. (pavur2000mappingthefunctional pages 7-8): Karen S. Pavur, Alexey N. Petrov, and Alexey G. Ryazanov. Mapping the functional domains of elongation factor-2 kinase. Biochemistry, 39 40:12216-24, Oct 2000. URL: https://doi.org/10.1021/bi0007270, doi:10.1021/bi0007270. This article has 85 citations and is from a peer-reviewed journal.
+
+10. (pigott2012insightsintothe pages 1-2): Craig Pigott, H. Mikolajek, C. E. Moore, Stephen J. Finn, C. W. Phippen, J. Werner, and C. Proud. Insights into the regulation of eukaryotic elongation factor 2 kinase and the interplay between its domains. Biochemical Journal, 442:105-118, Nov 2012. URL: https://doi.org/10.1042/bj20111536, doi:10.1042/bj20111536. This article has 58 citations and is from a domain leading peer-reviewed journal.
+
+11. (piserchio2024revealingeef2kinase pages 14-17): Andrea Piserchio, Kevin N. Dalby, and Ranajeet Ghose. Revealing eef-2 kinase: recent structural insights into function. Trends in Biochemical Sciences, 49:169-182, Feb 2024. URL: https://doi.org/10.1016/j.tibs.2023.11.004, doi:10.1016/j.tibs.2023.11.004. This article has 2 citations and is from a domain leading peer-reviewed journal.
+
+12. (ryazanov1997identificationofa pages 5-5): Alexey G. Ryazanov, Michael D. Ward, Charmaine E. Mendola, Karen S. Pavur, Maxim V. Dorovkov, Martin Wiedmann, Hediye Erdjument-Bromage, Paul Tempst, Toni Gestone Parmer, C. Robert Prostko, F. Joseph Germino, and William N. Hait. Identification of a new class of protein kinases represented by eukaryotic elongation factor-2 kinase. Proceedings of the National Academy of Sciences, 94:4884-4889, May 1997. URL: https://doi.org/10.1073/pnas.94.10.4884, doi:10.1073/pnas.94.10.4884. This article has 259 citations.
+
+13. (unknownauthors2018molecularsignalprocessing pages 12-16): Molecular signal processing by eukaryotic elongation factor 2 kinase (eEF-2K)
+
+14. (unknownauthors2018molecularsignalprocessing pages 29-33): Molecular signal processing by eukaryotic elongation factor 2 kinase (eEF-2K)
+
+15. (wang2014eukaryoticelongationfactor pages 1-6): Xuemin Wang, Sergio Regufe da Mota, Rui Liu, Claire E. Moore, Jianling Xie, Francesco Lanucara, Usha Agarwala, Sébastien Pyr dit Ruys, Didier Vertommen, Mark H. Rider, Claire E. Eyers, and Christopher G. Proud. Eukaryotic elongation factor 2 kinase activity is controlled by multiple inputs from oncogenic signaling. Molecular and Cellular Biology, 34:4088-4103, Nov 2014. URL: https://doi.org/10.1128/mcb.01035-14, doi:10.1128/mcb.01035-14. This article has 110 citations and is from a domain leading peer-reviewed journal.
+
+16. (wang2017eukaryoticelongationfactor pages 1-3): Xuemin Wang, Jianling Xie, and Christopher Proud. Eukaryotic elongation factor 2 kinase (eef2k) in cancer. Cancers, 9:162, Nov 2017. URL: https://doi.org/10.3390/cancers9120162, doi:10.3390/cancers9120162. This article has 74 citations and is from a peer-reviewed journal.
+
+17. (crawley2008determinantsforsubstrate pages 1-2): Scott W. Crawley and Graham P. Côté. Determinants for substrate phosphorylation by dictyostelium myosin ii heavy chain kinases a and b and eukaryotic elongation factor-2 kinase. Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics, 1784:908-915, Jun 2008. URL: https://doi.org/10.1016/j.bbapap.2008.03.001, doi:10.1016/j.bbapap.2008.03.001. This article has 19 citations.
+
+18. (klupt2023eef2kinhibitordesign pages 4-6): Kody A. Klupt and Zongchao Jia. Eef2k inhibitor design: the progression of exemplary structure-based drug design. Molecules, 28:1095, Jan 2023. URL: https://doi.org/10.3390/molecules28031095, doi:10.3390/molecules28031095. This article has 6 citations and is from a peer-reviewed journal.
+
+19. (piserchio2023structureofthe pages 1-2): Andrea Piserchio, Eta A. Isiorho, Kevin N. Dalby, and Ranajeet Ghose. Structure of the complex between calmodulin and a functional construct of eukaryotic elongation factor 2 kinase bound to an atp-competitive inhibitor. Journal of Biological Chemistry, 299:104813, Jun 2023. URL: https://doi.org/10.1016/j.jbc.2023.104813, doi:10.1016/j.jbc.2023.104813. This article has 7 citations and is from a domain leading peer-reviewed journal.
+
+20. (unknownauthors2018molecularsignalprocessing pages 21-25): Molecular signal processing by eukaryotic elongation factor 2 kinase (eEF-2K)
+
+21. (klupt2024developmentofade pages 4-7): Kody A. Klupt, Ethan Belrose, and Zongchao Jia. Development of a<i>de novo</i>protein binder that inhibits the alpha kinase eef2k. BioRxiv, Dec 2024. URL: https://doi.org/10.1101/2024.12.10.627789, doi:10.1101/2024.12.10.627789. This article has 0 citations.
+
+22. (piserchio2023structureofthe pages 4-5): Andrea Piserchio, Eta A. Isiorho, Kevin N. Dalby, and Ranajeet Ghose. Structure of the complex between calmodulin and a functional construct of eukaryotic elongation factor 2 kinase bound to an atp-competitive inhibitor. Journal of Biological Chemistry, 299:104813, Jun 2023. URL: https://doi.org/10.1016/j.jbc.2023.104813, doi:10.1016/j.jbc.2023.104813. This article has 7 citations and is from a domain leading peer-reviewed journal.
+
+23. (piserchio2023structureofthe pages 5-6): Andrea Piserchio, Eta A. Isiorho, Kevin N. Dalby, and Ranajeet Ghose. Structure of the complex between calmodulin and a functional construct of eukaryotic elongation factor 2 kinase bound to an atp-competitive inhibitor. Journal of Biological Chemistry, 299:104813, Jun 2023. URL: https://doi.org/10.1016/j.jbc.2023.104813, doi:10.1016/j.jbc.2023.104813. This article has 7 citations and is from a domain leading peer-reviewed journal.

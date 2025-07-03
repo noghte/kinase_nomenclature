@@ -1,0 +1,96 @@
+Protein: Tyrosine-protein kinase receptor UFO (AXL)  
+UniProt ID: P30530  
+
+## Phylogeny  
+Human AXL belongs to the Tyrosine Kinase (TK) group, Receptor Tyrosine Kinase (RTK) class, TAM subfamily together with TYRO3 and MERTK, as defined in the canonical human kinome classification (feneyrolles2014axlkinaseas pages 1-3, gajiwala2017theaxlkinase pages 12-13). Orthologs are documented in Mus musculus, Rattus norvegicus and Danio rerio, demonstrating conservation across vertebrates (paccez2014thereceptortyrosine pages 1-6, zhu2019axlreceptortyrosine pages 16-16). Structural superposition of AXL and MERTK kinase domains yields an RMSD of ~0.8–0.9 Å, indicating high evolutionary conservation within the TAM family (gajiwala2017theaxlkinase pages 3-4).  
+
+## Reaction Catalyzed  
+ATP + [protein]-L-tyrosine → ADP + [protein]-O-phospho-L-tyrosine (feneyrolles2014axlkinaseas pages 1-3, gajiwala2017theaxlkinase pages 3-4).  
+
+## Cofactor Requirements  
+Catalytic activity requires divalent cations; purified human AXL kinase domain is active in the presence of Mg²⁺ or Mn²⁺ (myers2016axlinhibitorsin pages 1-4).  
+
+## Substrate Specificity  
+High-throughput bacterial display mapping shows a preference for hydrophobic residues at +1 to +5 (Φ), leucine or isoleucine at –1, and asparagine at –5 to –3 relative to the phosphorylated tyrosine, whereas lysine/arginine are disfavoured; consensus motif: NxxI/L-Y-ΦΦΦ (creixell2023dissectingsignalingregulators pages 20-23). Directly validated substrates include FAK1 Y861, ACK1, SHP-2, CTNND1, TJP2, BCAR1, CBLB and CBLC (creixell2023dissectingsignalingregulators pages 20-23). Autophosphorylation at Y779 creates a PI3K docking site, underscoring context-specific substrate selection (gajiwala2017theaxlkinase pages 3-4).  
+
+## Structure  
+Domain organisation: two N-terminal immunoglobulin-like domains followed by two fibronectin type III domains form the ectodomain; a single-pass transmembrane helix precedes a juxtamembrane segment and a C-terminal kinase domain containing the TAM-signature KWIAIES motif (feneyrolles2014axlkinaseas pages 1-3).  
+3D architecture: the first crystal structure of the human kinase domain bound to a macrocyclic inhibitor captures both an inactive and an active molecule within the asymmetric unit, distinguished by C-helix orientation and juxtamembrane packing (gajiwala2017theaxlkinase pages 11-12). Catalytic features include gatekeeper Thr683, canonical HRD and DFG motifs, a fully assembled hydrophobic spine and an activation loop harbouring Y779, Y821 and Y866 (gajiwala2017theaxlkinase pages 3-4). Juxtamembrane Leu526 stabilises the active conformation; the L526A mutation halves catalytic turnover and reduces autophosphorylation (gajiwala2017theaxlkinase pages 3-4). Hydrogen-deuterium exchange shows higher conformational dynamics for AXL relative to MERTK, offering exploitable selectivity determinants (gajiwala2017theaxlkinase pages 24-25).  
+
+## Regulation  
+Post-translational modifications  
+• Autophosphorylation: Y698, Y702, Y703, Y779, Y821, Y866; Y866 can serve as an inhibitory site (feneyrolles2014axlkinaseas pages 1-3).  
+• Ubiquitination promotes endocytosis and down-regulation (zhu2019axlreceptortyrosine pages 16-16).  
+• Ectodomain shedding by ADAM10/ADAM17 limits surface abundance (myers2016axlinhibitorsin pages 1-4).  
+• HSP90 chaperoning stabilises the receptor (levin2016axlreceptoraxis pages 1-3).  
+
+Activation mechanisms  
+• Ligand-dependent homodimerisation upon GAS6 binding in the presence of phosphatidylserine (levin2016axlreceptoraxis pages 1-3, dagamajalu2021apathwaymap pages 1-2).  
+• Ligand-independent activation via receptor overexpression, oxidative stress, or heterodimerisation with TYRO3, EGFR or MET (myers2016axlinhibitorsin pages 4-8, levin2016axlreceptoraxis pages 1-3).  
+
+Transcriptional/epigenetic control  
+• Positive regulators: SP1, SP3, mutant p53, YAP1, HIF-1 (levin2016axlreceptoraxis pages 1-3, bhalla2023axlinhibitorsstatus pages 1-3).  
+• Negative regulators: promoter CpG methylation; miR-34a and miR-199a/b mediated mRNA degradation (myers2016axlinhibitorsin pages 4-8).  
+
+## Function  
+Expression: detectable in endothelial cells, vascular smooth-muscle, Schwann cells, neurons, monocytes, platelets and multiple adult organs; frequently overexpressed in lung, breast, glioblastoma, melanoma and pancreatic cancers (feneyrolles2014axlkinaseas pages 1-3, dagamajalu2021apathwaymap pages 4-5, myers2016axlinhibitorsin pages 4-8).  
+
+Upstream inputs  
+• Primary ligand GAS6; additional ligands TULP-1 and galectin-3 bind selectively to AXL (myers2016axlinhibitorsin pages 4-8).  
+• Crosstalk with EGFR, MET and TYRO3 facilitates bypass signalling (myers2016axlinhibitorsin pages 4-8, levin2016axlreceptoraxis pages 1-3).  
+
+Interactors and substrates  
+• SH2/SH3 adaptors: PIK3R1/2/3, GRB2, PLCG1, NCK2 (dagamajalu2021apathwaymap pages 4-5).  
+• Phosphatase: PTPN11 (dagamajalu2021apathwaymap pages 4-5).  
+• Kinases: SRC family, LCK, FAK1, ACK1 (creixell2023dissectingsignalingregulators pages 20-23, dagamajalu2021apathwaymap pages 4-5).  
+• E3 ligases: CBLB, CBLC (creixell2023dissectingsignalingregulators pages 20-23).  
+
+Downstream pathways  
+Activation of PI3K-AKT-mTOR, RAS-RAF-MEK-ERK, SRC/FAK, JAK/STAT and NF-κB cascades governs survival, proliferation, migration, epithelial-mesenchymal transition, angiogenesis, immune modulation and efferocytosis (feneyrolles2014axlkinaseas pages 1-3, paccez2014thereceptortyrosine pages 16-21, levin2016axlreceptoraxis pages 1-3).  
+
+## Inhibitors  
+• R428/BGB324 (bemcentinib) – selective nanomolar AXL inhibitor that blocks downstream signalling and enhances chemosensitivity in vivo (paccez2014thereceptortyrosine pages 16-21, danielli2024evaluationofthe pages 13-13).  
+• Macrocyclic inhibitor captured in the AXL crystal structure, stabilising the active conformation (gajiwala2017theaxlkinase pages 12-13).  
+• S49076 (ATP-competitive MET/AXL/FGFR inhibitor), 2-D08, UNC2025, SGI-7079 and UNC569 show sub-micromolar AXL potency (zhu2019axlreceptortyrosine pages 9-10).  
+• Dasatinib suppresses SRC-dependent AXL phosphorylation clusters C2/C3 (creixell2023dissectingsignalingregulators pages 17-20).  
+
+## Other Comments  
+AXL overexpression, gene amplification or activating fusions correlate with metastasis, poor prognosis and resistance to EGFR inhibitors, chemotherapy and immune checkpoint blockade in multiple solid tumours (myers2016axlinhibitorsin pages 4-8, levin2016axlreceptoraxis pages 1-3, zhu2019axlreceptortyrosine pages 16-16). The L526A juxtamembrane mutation impairs catalytic activity by ~50 % (gajiwala2017theaxlkinase pages 3-4). Dysregulated GAS6-AXL signalling is additionally implicated in fibrosis, chronic immune disorders and vascular pathologies (dagamajalu2021apathwaymap pages 1-2).
+
+References
+
+1. (dagamajalu2021apathwaymap pages 4-5): Shobha Dagamajalu, D. A. B. Rex, Akhina Palollathil, Rohan Shetty, Guruprasad Bhat, Lydia W. T. Cheung, and T. S. Keshava Prasad. A pathway map of axl receptor-mediated signaling network. Journal of Cell Communication and Signaling, 15:143-148, Aug 2021. URL: https://doi.org/10.1007/s12079-020-00580-5, doi:10.1007/s12079-020-00580-5. This article has 24 citations and is from a peer-reviewed journal.
+
+2. (feneyrolles2014axlkinaseas pages 1-3): Clémence Feneyrolles, Aurélia Spenlinhauer, Léa Guiet, B. Fauvel, Bénédicte Daydé-Cazals, P. Warnault, G. Chevé, and A. Yasri. Axl kinase as a key target for oncology: focus on small molecule inhibitors. Molecular Cancer Therapeutics, 13:2141-2148, Aug 2014. URL: https://doi.org/10.1158/1535-7163.mct-13-1083, doi:10.1158/1535-7163.mct-13-1083. This article has 90 citations and is from a peer-reviewed journal.
+
+3. (gajiwala2017theaxlkinase pages 11-12): K. Gajiwala, N. Grodsky, Ben Bolanos, Junli Feng, R. Ferre, Sergei L. Timofeevski, Meirong Xu, B. Murray, T. Johnson, and A. Stewart. The axl kinase domain in complex with a macrocyclic inhibitor offers first structural insights into an active tam receptor kinase. The Journal of Biological Chemistry, 292:15705-15716, Jul 2017. URL: https://doi.org/10.1074/jbc.m116.771485, doi:10.1074/jbc.m116.771485. This article has 53 citations.
+
+4. (levin2016axlreceptoraxis pages 1-3): P. A. Levin, R. Brekken, L. Byers, J. Heymach, and D. Gerber. Axl receptor axis: a new therapeutic target in lung cancer. Journal of Thoracic Oncology, 11:1357–1362, Aug 2016. URL: https://doi.org/10.1016/j.jtho.2016.04.015, doi:10.1016/j.jtho.2016.04.015. This article has 46 citations and is from a domain leading peer-reviewed journal.
+
+5. (myers2016axlinhibitorsin pages 4-8): Samuel H. Myers, Valerie G. Brunton, and Asier Unciti-Broceta. Axl inhibitors in cancer: a medicinal chemistry perspective. Journal of Medicinal Chemistry, 59:3593-3608, Nov 2016. URL: https://doi.org/10.1021/acs.jmedchem.5b01273, doi:10.1021/acs.jmedchem.5b01273. This article has 228 citations and is from a highest quality peer-reviewed journal.
+
+6. (paccez2014thereceptortyrosine pages 16-21): Juliano D. Paccez, Matjaz Vogelsang, M. Iqbal Parker, and Luiz F. Zerbini. The receptor tyrosine kinase axl in cancer: biological functions and therapeutic implications. International Journal of Cancer, Mar 2014. URL: https://doi.org/10.1002/ijc.28246, doi:10.1002/ijc.28246. This article has 185 citations and is from a domain leading peer-reviewed journal.
+
+7. (bhalla2023axlinhibitorsstatus pages 1-3): Sheena Bhalla and David E. Gerber. Axl inhibitors: status of clinical development. Current Oncology Reports, 25:521-529, Mar 2023. URL: https://doi.org/10.1007/s11912-023-01392-7, doi:10.1007/s11912-023-01392-7. This article has 30 citations and is from a peer-reviewed journal.
+
+8. (creixell2023dissectingsignalingregulators pages 17-20): Marc Creixell, Scott D. Taylor, Jacqueline S. Gerritsen, Song Yi Bae, Mingxuan Jiang, Teresa Augustin, Michelle Loui, Carmen Boixo, Pau Creixell, Forest M. White, and Aaron S. Meyer. Dissecting signaling regulators driving axl-mediated bypass resistance and associated phenotypes by phosphosite perturbations. bioRxiv, Oct 2023. URL: https://doi.org/10.1101/2023.10.20.563266, doi:10.1101/2023.10.20.563266. This article has 0 citations.
+
+9. (dagamajalu2021apathwaymap pages 1-2): Shobha Dagamajalu, D. A. B. Rex, Akhina Palollathil, Rohan Shetty, Guruprasad Bhat, Lydia W. T. Cheung, and T. S. Keshava Prasad. A pathway map of axl receptor-mediated signaling network. Journal of Cell Communication and Signaling, 15:143-148, Aug 2021. URL: https://doi.org/10.1007/s12079-020-00580-5, doi:10.1007/s12079-020-00580-5. This article has 24 citations and is from a peer-reviewed journal.
+
+10. (gajiwala2017theaxlkinase pages 3-4): K. Gajiwala, N. Grodsky, Ben Bolanos, Junli Feng, R. Ferre, Sergei L. Timofeevski, Meirong Xu, B. Murray, T. Johnson, and A. Stewart. The axl kinase domain in complex with a macrocyclic inhibitor offers first structural insights into an active tam receptor kinase. The Journal of Biological Chemistry, 292:15705-15716, Jul 2017. URL: https://doi.org/10.1074/jbc.m116.771485, doi:10.1074/jbc.m116.771485. This article has 53 citations.
+
+11. (myers2016axlinhibitorsin pages 1-4): Samuel H. Myers, Valerie G. Brunton, and Asier Unciti-Broceta. Axl inhibitors in cancer: a medicinal chemistry perspective. Journal of Medicinal Chemistry, 59:3593-3608, Nov 2016. URL: https://doi.org/10.1021/acs.jmedchem.5b01273, doi:10.1021/acs.jmedchem.5b01273. This article has 228 citations and is from a highest quality peer-reviewed journal.
+
+12. (paccez2014thereceptortyrosine pages 1-6): Juliano D. Paccez, Matjaz Vogelsang, M. Iqbal Parker, and Luiz F. Zerbini. The receptor tyrosine kinase axl in cancer: biological functions and therapeutic implications. International Journal of Cancer, Mar 2014. URL: https://doi.org/10.1002/ijc.28246, doi:10.1002/ijc.28246. This article has 185 citations and is from a domain leading peer-reviewed journal.
+
+13. (zhu2019axlreceptortyrosine pages 16-16): Chenjing Zhu, Yu‐quan Wei, and Xiawei Wei. Axl receptor tyrosine kinase as a promising anti-cancer approach: functions, molecular mechanisms and clinical applications. Molecular Cancer, Nov 2019. URL: https://doi.org/10.1186/s12943-019-1090-3, doi:10.1186/s12943-019-1090-3. This article has 462 citations and is from a highest quality peer-reviewed journal.
+
+14. (zhu2019axlreceptortyrosine pages 9-10): Chenjing Zhu, Yu‐quan Wei, and Xiawei Wei. Axl receptor tyrosine kinase as a promising anti-cancer approach: functions, molecular mechanisms and clinical applications. Molecular Cancer, Nov 2019. URL: https://doi.org/10.1186/s12943-019-1090-3, doi:10.1186/s12943-019-1090-3. This article has 462 citations and is from a highest quality peer-reviewed journal.
+
+15. (creixell2023dissectingsignalingregulators pages 20-23): Marc Creixell, Scott D. Taylor, Jacqueline S. Gerritsen, Song Yi Bae, Mingxuan Jiang, Teresa Augustin, Michelle Loui, Carmen Boixo, Pau Creixell, Forest M. White, and Aaron S. Meyer. Dissecting signaling regulators driving axl-mediated bypass resistance and associated phenotypes by phosphosite perturbations. bioRxiv, Oct 2023. URL: https://doi.org/10.1101/2023.10.20.563266, doi:10.1101/2023.10.20.563266. This article has 0 citations.
+
+16. (danielli2024evaluationofthe pages 13-13): Sara G Danielli, Jakob Wurth, Sarah Morice, Samanta Kisele, Didier Surdez, O. Delattre, P. Bode, Marco Wachtel, and Beat W Schafer. Evaluation of the role of axl in fusion-positive pediatric rhabdomyosarcoma identifies the small-molecule inhibitor bemcentinib (bgb324) as potent chemosensitizer. Molecular Cancer Therapeutics, 23:864-876, Mar 2024. URL: https://doi.org/10.1158/1535-7163.mct-23-0285, doi:10.1158/1535-7163.mct-23-0285. This article has 1 citations and is from a peer-reviewed journal.
+
+17. (gajiwala2017theaxlkinase pages 12-13): K. Gajiwala, N. Grodsky, Ben Bolanos, Junli Feng, R. Ferre, Sergei L. Timofeevski, Meirong Xu, B. Murray, T. Johnson, and A. Stewart. The axl kinase domain in complex with a macrocyclic inhibitor offers first structural insights into an active tam receptor kinase. The Journal of Biological Chemistry, 292:15705-15716, Jul 2017. URL: https://doi.org/10.1074/jbc.m116.771485, doi:10.1074/jbc.m116.771485. This article has 53 citations.
+
+18. (gajiwala2017theaxlkinase pages 24-25): K. Gajiwala, N. Grodsky, Ben Bolanos, Junli Feng, R. Ferre, Sergei L. Timofeevski, Meirong Xu, B. Murray, T. Johnson, and A. Stewart. The axl kinase domain in complex with a macrocyclic inhibitor offers first structural insights into an active tam receptor kinase. The Journal of Biological Chemistry, 292:15705-15716, Jul 2017. URL: https://doi.org/10.1074/jbc.m116.771485, doi:10.1074/jbc.m116.771485. This article has 53 citations.

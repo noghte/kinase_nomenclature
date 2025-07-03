@@ -1,0 +1,120 @@
+## Phylogeny  
+Orthologs have been identified in Homo sapiens, Mus musculus, Rattus norvegicus, Danio rerio, Drosophila melanogaster (Asator), and Caenorhabditis elegans (H05L14.1/dkf-2), reflecting conservation of the catalytic domain from invertebrates to vertebrates (taylor2019tautubulinkinases pages 4-5, liachko2014thetautubulin pages 3-5).  
+Large-scale kinome phylogeny places TTBK1 within the Casein Kinase 1 (CK1) group, Tau-tubulin kinase (TTBK) family (manning2002theproteinkinase pages 3-3).  
+The closest human paralogue is TTBK2, sharing 88 % identity and 96 % similarity across residues 23-280 of the kinase domain (bao2021mechanismsofregulation pages 1-2).  
+
+
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr/Tyr → ADP + protein-L-Ser/Thr/Tyr-phosphate (ikezu2014tautubulinkinase pages 3-5).  
+
+
+
+## Cofactor Requirements  
+Catalysis requires a divalent cation; crystal structures were solved with Mg²⁺ coordinating ATP/ADP in the active site (xue2013x‐raystructuralanalysis pages 1-2).  
+
+
+
+## Substrate Specificity  
+Direct cellular substrates include MAPT/tau (Ser198, Ser199, Ser202, Thr231, Ser396, Ser422, Tyr197), α/β-tubulin, TDP-43 (Ser409/Ser410), SV2A, Cep164, MAP1B and additional MAP family members (dillon2020acuteinhibitionof pages 2-4, bao2021mechanismsofregulation pages 12-13, bao2021mechanismsofregulation pages 1-2).  
+A definitive TTBK1 consensus motif has not been resolved; the paralogous kinase TTBK2 prefers S/T-X-pY(+2) or primed CK1-type pS/pT-X-X-S/T motifs, but TTBK1 was not profiled in the kinome-wide motif atlas (johnson2023anatlasof pages 2-3, ikezu2014tautubulinkinase pages 2-3).  
+
+
+
+## Structure  
+Domain organisation  
+• N-terminal kinase domain, residues 34-297, containing VAIK (Lys63), HRD (Asp164) and DFG (176-178) catalytic motifs (xue2013x‐raystructuralanalysis pages 2-4).  
+• Central regulatory region (297-770) harbouring multiple autophosphorylation sites required for activity and localisation (bao2021mechanismsofregulation pages 13-14).  
+• Unique poly-glutamate stretch, residues 733-771, responsible for anomalous SDS-PAGE mobility (nozal2019tautubulinkinase pages 1-7).  
+• C-terminal region with SxIP and PEST motifs implicated in protein–protein interactions and turnover (kiefer2014thestructureof pages 1-2).  
+
+3-D structures  
+Five high-resolution crystal structures of the kinase domain (PDB 4BTJ, 4BTK, 4BTM, 4NFN, 4NFM) reveal the canonical bilobed kinase fold with a properly aligned C-helix (Glu79), ordered activation segment including the APE motif, and intact regulatory/catalytic hydrophobic spines (kiefer2014thestructureof pages 1-2, xue2013x‐raystructuralanalysis pages 1-2).  
+AlphaFold predicts the full-length architecture and positions the acidic insertions adjacent to the activation loop (bao2021mechanismsofregulation pages 5-7).  
+
+Unique features  
+A flexible insertion N-terminal to the activation loop and the extended poly-glutamate tract are not present in other CK1 family members and may modulate substrate engagement (bao2021mechanismsofregulation pages 5-7).  
+
+
+
+## Regulation  
+Post-translational modifications  
+• Autophosphorylation: thirteen sites identified—S320, T321, S322, T323, S324, T325, T344, S529, S540, S821, S942, S943, S1061 (bao2021mechanismsofregulation pages 8-10).  
+  ‑ Phospho-silencing (13S→D) abolishes tau-S422 phosphorylation; phospho-mimetic (13S→A) reduces activity by ~65 % (bao2021mechanismsofregulation pages 8-10).  
+• Trans-phosphorylation: TTBK1 phosphorylates TTBK2 in cells (bao2021mechanismsofregulation pages 13-14).  
+• Proteolytic processing produces smaller fragments detected in neurodegenerative brain tissue (taylor2019tautubulinkinases pages 4-5).  
+No ubiquitination events have been reported (bao2021mechanismsofregulation pages 13-14).  
+Allosteric regulation has not been described.  
+
+
+
+## Function  
+Expression pattern  
+TTBK1 mRNA and protein are highly enriched in adult human and mouse cerebral cortex, hippocampus and cerebellar granule layer; expression is negligible in peripheral tissues (bao2021mechanismsofregulation pages 5-7, nozal2019tautubulinkinase pages 1-7).  
+
+Molecular roles  
+• Cytoskeletal control: interacts with MAPT, MAP1A/B, MAP2/6, MAP7D2 and MAPRE1, influencing microtubule plus-end dynamics (+TIP) (bao2021mechanismsofregulation pages 12-13).  
+• Vesicular trafficking: associates with DVL1-3 and AAK1, linking to WNT-regulated endocytic sorting (bao2021mechanismsofregulation pages 12-13).  
+• Tau regulation: phosphorylation decreases tau-microtubule affinity, impairs tubulin polymerisation and promotes tau aggregation (dillon2020acuteinhibitionof pages 2-4).  
+• TDP-43 regulation: phosphorylation at Ser409/410 facilitates cytoplasmic inclusion formation (dillon2020acuteinhibitionof pages 2-4).  
+
+Upstream regulators have not been definitively identified; downstream effects converge on cytoskeletal organisation and synaptic function (bao2021mechanismsofregulation pages 12-13).  
+
+
+
+## Inhibitors  
+BIIB-TTBKi-284: ATP-competitive, IC₅₀ ≈ 15 nM (TTBK1) and 8 nM (TTBK2); inhibits 13/150 kinases >50 % at 3 µM (bao2021mechanismsofregulation pages 13-14).  
+BIIB-TTBK1i: brain-penetrant probe; IC₅₀ ≈ 9.8 nM for tau-S422 reduction; 82 % in vivo target occupancy at 75 mg kg⁻¹ with high kinome selectivity (dillon2020acuteinhibitionof pages 8-9).  
+AZ-1 and AZ-2: anilinoquinazoline derivatives; IC₅₀ = 4.4 µM (AZ-1) and 2.6 µM (AZ-2) against TTBK1; confer neuroprotection in phospho-TDP-43 cellular assays (baier2022ck2andprotein pages 10-13).  
+
+
+
+## Other Comments  
+Disease associations  
+Elevated TTBK1 expression and kinase activity correlate with Alzheimer’s disease, frontotemporal dementia, amyotrophic lateral sclerosis, chronic traumatic encephalopathy and Down’s syndrome (nozal2019tautubulinkinase pages 24-25).  
+Genome-wide association studies identify TTBK1 SNPs modulating Alzheimer’s disease risk, but specific pathogenic missense or truncating variants such as p.R141* or p.M677Kfs*15 have not been reported (nozal2019tautubulinkinase pages 11-14).  
+
+Therapeutic relevance  
+Selective inhibition of TTBK1 lowers pathological tau and TDP-43 phosphorylation in preclinical models, highlighting the kinase as a potential target for modifying neurodegenerative disease progression (dillon2020acuteinhibitionof pages 2-4, bao2021mechanismsofregulation pages 13-14).
+
+References
+
+1. (bao2021mechanismsofregulation pages 1-2): Channa Bao, Bekim Bajrami, Douglas J. Marcotte, Jayanth V. Chodaparambil, Hannah M. Kerns, Jaclyn Henderson, Ru Wei, Benbo Gao, and Gregory M. Dillon. Mechanisms of regulation and diverse activities of tau-tubulin kinase (ttbk) isoforms. Cellular and Molecular Neurobiology, 41:669-685, May 2021. URL: https://doi.org/10.1007/s10571-020-00875-6, doi:10.1007/s10571-020-00875-6. This article has 21 citations and is from a peer-reviewed journal.
+
+2. (bao2021mechanismsofregulation pages 13-14): Channa Bao, Bekim Bajrami, Douglas J. Marcotte, Jayanth V. Chodaparambil, Hannah M. Kerns, Jaclyn Henderson, Ru Wei, Benbo Gao, and Gregory M. Dillon. Mechanisms of regulation and diverse activities of tau-tubulin kinase (ttbk) isoforms. Cellular and Molecular Neurobiology, 41:669-685, May 2021. URL: https://doi.org/10.1007/s10571-020-00875-6, doi:10.1007/s10571-020-00875-6. This article has 21 citations and is from a peer-reviewed journal.
+
+3. (bao2021mechanismsofregulation pages 5-7): Channa Bao, Bekim Bajrami, Douglas J. Marcotte, Jayanth V. Chodaparambil, Hannah M. Kerns, Jaclyn Henderson, Ru Wei, Benbo Gao, and Gregory M. Dillon. Mechanisms of regulation and diverse activities of tau-tubulin kinase (ttbk) isoforms. Cellular and Molecular Neurobiology, 41:669-685, May 2021. URL: https://doi.org/10.1007/s10571-020-00875-6, doi:10.1007/s10571-020-00875-6. This article has 21 citations and is from a peer-reviewed journal.
+
+4. (bao2021mechanismsofregulation pages 8-10): Channa Bao, Bekim Bajrami, Douglas J. Marcotte, Jayanth V. Chodaparambil, Hannah M. Kerns, Jaclyn Henderson, Ru Wei, Benbo Gao, and Gregory M. Dillon. Mechanisms of regulation and diverse activities of tau-tubulin kinase (ttbk) isoforms. Cellular and Molecular Neurobiology, 41:669-685, May 2021. URL: https://doi.org/10.1007/s10571-020-00875-6, doi:10.1007/s10571-020-00875-6. This article has 21 citations and is from a peer-reviewed journal.
+
+5. (nozal2019tautubulinkinase pages 1-7): Vanesa Nozal and Ana Martínez. Tau tubulin kinase 1 (ttbk1), a new player in the fight against neurodegenerative diseases. European Journal of Medicinal Chemistry, 161:39-47, Jan 2019. URL: https://doi.org/10.1016/j.ejmech.2018.10.030, doi:10.1016/j.ejmech.2018.10.030. This article has 45 citations and is from a domain leading peer-reviewed journal.
+
+6. (taylor2019tautubulinkinases pages 4-5): Laura M. Taylor, P. McMillan, B. Kraemer, and Nicole F. Liachko. Tau tubulin kinases in proteinopathy. The FEBS Journal, Jul 2019. URL: https://doi.org/10.1111/febs.14866, doi:10.1111/febs.14866. This article has 22 citations.
+
+7. (xue2013x‐raystructuralanalysis pages 1-2): Yafeng Xue, Paul T. Wan, Per Hillertz, Fritz Schweikart, Yanlong Zhao, Lisa Wissler, and Niek Dekker. X‐ray structural analysis of tau‐tubulin kinase 1 and its interactions with small molecular inhibitors. ChemMedChem, Nov 2013. URL: https://doi.org/10.1002/cmdc.201300274, doi:10.1002/cmdc.201300274. This article has 38 citations and is from a peer-reviewed journal.
+
+8. (bao2021mechanismsofregulation pages 12-13): Channa Bao, Bekim Bajrami, Douglas J. Marcotte, Jayanth V. Chodaparambil, Hannah M. Kerns, Jaclyn Henderson, Ru Wei, Benbo Gao, and Gregory M. Dillon. Mechanisms of regulation and diverse activities of tau-tubulin kinase (ttbk) isoforms. Cellular and Molecular Neurobiology, 41:669-685, May 2021. URL: https://doi.org/10.1007/s10571-020-00875-6, doi:10.1007/s10571-020-00875-6. This article has 21 citations and is from a peer-reviewed journal.
+
+9. (dillon2020acuteinhibitionof pages 2-4): Gregory M. Dillon, Jaclyn L. Henderson, Channa Bao, John A. Joyce, Michael Calhoun, Brenda Amaral, Kristopher W. King, Bekim Bajrami, and Dania Rabah. Acute inhibition of the cns-specific kinase ttbk1 significantly lowers tau phosphorylation at several disease relevant sites. PLOS ONE, 15:e0228771, Apr 2020. URL: https://doi.org/10.1371/journal.pone.0228771, doi:10.1371/journal.pone.0228771. This article has 26 citations and is from a peer-reviewed journal.
+
+10. (dillon2020acuteinhibitionof pages 8-9): Gregory M. Dillon, Jaclyn L. Henderson, Channa Bao, John A. Joyce, Michael Calhoun, Brenda Amaral, Kristopher W. King, Bekim Bajrami, and Dania Rabah. Acute inhibition of the cns-specific kinase ttbk1 significantly lowers tau phosphorylation at several disease relevant sites. PLOS ONE, 15:e0228771, Apr 2020. URL: https://doi.org/10.1371/journal.pone.0228771, doi:10.1371/journal.pone.0228771. This article has 26 citations and is from a peer-reviewed journal.
+
+11. (ikezu2014tautubulinkinase pages 2-3): Seiko Ikezu and Tsuneya Ikezu. Tau-tubulin kinase. Frontiers in Molecular Neuroscience, Apr 2014. URL: https://doi.org/10.3389/fnmol.2014.00033, doi:10.3389/fnmol.2014.00033. This article has 81 citations and is from a peer-reviewed journal.
+
+12. (ikezu2014tautubulinkinase pages 3-5): Seiko Ikezu and Tsuneya Ikezu. Tau-tubulin kinase. Frontiers in Molecular Neuroscience, Apr 2014. URL: https://doi.org/10.3389/fnmol.2014.00033, doi:10.3389/fnmol.2014.00033. This article has 81 citations and is from a peer-reviewed journal.
+
+13. (johnson2023anatlasof pages 2-3): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+14. (kiefer2014thestructureof pages 1-2): S. E. Kiefer, Chiehying J Chang, S. Kimura, M. Gao, D. Xie, Yaqun Zhang, Guifen Zhang, Martin B. Gill, H. Mastalerz, L. Thompson, A. Cacace, and S. Sheriff. The structure of human tau-tubulin kinase 1 both in the apo form and in complex with an inhibitor. Acta crystallographica. Section F, Structural biology communications, 70 Pt 2:173-81, Feb 2014. URL: https://doi.org/10.1107/s2053230x14000144, doi:10.1107/s2053230x14000144. This article has 32 citations.
+
+15. (liachko2014thetautubulin pages 3-5): Nicole F. Liachko, P. McMillan, T. Strovas, Elaine Loomis, Lynne Greenup, J. Murrell, B. Ghetti, M. Raskind, T. Montine, T. Bird, J. Leverenz, and B. Kraemer. The tau tubulin kinases ttbk1/2 promote accumulation of pathological tdp-43. PLoS Genetics, Dec 2014. URL: https://doi.org/10.1371/journal.pgen.1004803, doi:10.1371/journal.pgen.1004803. This article has 130 citations and is from a domain leading peer-reviewed journal.
+
+16. (manning2002theproteinkinase pages 3-3): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+17. (nozal2019tautubulinkinase pages 11-14): Vanesa Nozal and Ana Martínez. Tau tubulin kinase 1 (ttbk1), a new player in the fight against neurodegenerative diseases. European Journal of Medicinal Chemistry, 161:39-47, Jan 2019. URL: https://doi.org/10.1016/j.ejmech.2018.10.030, doi:10.1016/j.ejmech.2018.10.030. This article has 45 citations and is from a domain leading peer-reviewed journal.
+
+18. (nozal2019tautubulinkinase pages 24-25): Vanesa Nozal and Ana Martínez. Tau tubulin kinase 1 (ttbk1), a new player in the fight against neurodegenerative diseases. European Journal of Medicinal Chemistry, 161:39-47, Jan 2019. URL: https://doi.org/10.1016/j.ejmech.2018.10.030, doi:10.1016/j.ejmech.2018.10.030. This article has 45 citations and is from a domain leading peer-reviewed journal.
+
+19. (xue2013x‐raystructuralanalysis pages 2-4): Yafeng Xue, Paul T. Wan, Per Hillertz, Fritz Schweikart, Yanlong Zhao, Lisa Wissler, and Niek Dekker. X‐ray structural analysis of tau‐tubulin kinase 1 and its interactions with small molecular inhibitors. ChemMedChem, Nov 2013. URL: https://doi.org/10.1002/cmdc.201300274, doi:10.1002/cmdc.201300274. This article has 38 citations and is from a peer-reviewed journal.
+
+20. (baier2022ck2andprotein pages 10-13): Andrea Baier and Ryszard Szyszka. Ck2 and protein kinases of the ck1 superfamily as targets for neurodegenerative disorders. Frontiers in Molecular Biosciences, Oct 2022. URL: https://doi.org/10.3389/fmolb.2022.916063, doi:10.3389/fmolb.2022.916063. This article has 14 citations and is from a peer-reviewed journal.

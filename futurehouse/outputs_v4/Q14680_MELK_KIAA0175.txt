@@ -1,0 +1,111 @@
+## Phylogeny  
+• Kinome lineage: CAMK group → AMPK-related family → MELK sub-branch (beullens2005substratespecificityand pages 1-1, pitner2017melkapotential pages 16-20).  
+• Closest human paralogues: MARK1-4, NUAK1/2, ARK5, BRSK1/2, sharing N-terminal kinase plus UBA domain architecture (beullens2005substratespecificityand pages 1-1).  
+• Vertebrate orthologs: Mus musculus MPK38, Xenopus laevis xMELK, Danio rerio MELK (thangaraj2020melkmpk38incancer pages 1-2, badouel2006mphasemelkactivity pages 3-3, ganguly2015melk—aconservedkinase pages 1-2).  
+• Invertebrate ortholog: Caenorhabditis elegans pig-1, functionally linked to PAR-4/LKB1 polarity signalling (ganguly2015melk—aconservedkinase pages 1-2).  
+
+## Reaction Catalyzed  
+ATP + [protein]-L-Ser/Thr ⇌ ADP + [protein]-O-phospho-L-Ser/Thr (beullens2005substratespecificityand pages 2-4).  
+
+## Cofactor Requirements  
+• Requires Mg²⁺ for phosphotransfer; kinase assays conducted with MgATP (beullens2005substratespecificityand pages 2-4).  
+• Full activity observed only under reducing conditions such as 2 mM DTT or GSH (beullens2005substratespecificityand pages 1-1).  
+• Free Ca²⁺ ≈1 µM binds the catalytic region and inhibits activity in a dose-dependent manner (beullens2005substratespecificityand pages 7-8).  
+
+## Substrate Specificity  
+• Kinome-wide peptide array defined a preference for basic-XX-Ser/Thr motifs; assignment derived from Johnson 2023 analysis referenced therein (pitner2017melkapotential pages 16-20).  
+• Earlier peptide arrays showed broad recognition without a stringent consensus (beullens2005substratespecificityand pages 4-5).  
+• Verified cellular substrates: CDC25B (mitotic targeting), MAP3K5/ASK1-Thr838 (pro-apoptotic activation), p53-Ser15, BCL2L14, ZNF622, Smad2/3/4/7, PDK1-Thr354, SQSTM1/p62 (thangaraj2020melkmpk38incancer pages 2-3, jiang2013maternalembryonicleucine pages 1-3, janostiak2017melkpromotesmelanoma pages 8-10).  
+• Common in-vitro substrates: MBP, Histone H1, AMARA/SAMS peptides, NIPP1, SAP155 (beullens2005substratespecificityand pages 4-5).  
+
+## Structure  
+• Domain map: N-terminal kinase (aa 10-259) → UBA (aa ≈260-315) → TP-rich segment → C-terminal KA1 autoinhibitory module (aa ≈550-643) (thangaraj2020melkmpk38incancer pages 2-3, beullens2005substratespecificityand pages 1-1).  
+• Crystal structures: inhibitor-free kinase-UBA complex (PDB 5K0X) reveals a 1 600 Å² interface essential for folding; activation segment (Asp150–Glu178) ordered despite lack of phosphorylation (cao2013structuralbasisfor pages 5-6, mcdonald2020enigmaticmelkthe pages 10-12).  
+• Catalytic core: Lys40–Glu93 salt bridge, HRD (His148-Arg149-Asp150), DFG-Asp150, hinge Glu87/Cys89 critical for ATP/inhibitor binding (canevari2013structuralinsightinto pages 5-6).  
+• Hydrophobic spine and C-helix adopt an active-like alignment even in apo state (cao2013structuralbasisfor pages 10-11).  
+• Inhibitor complex with dorsomorphin shows classic Type I, DFG-in binding mode (rembacz2019crystalstructureof pages 1-2).  
+• KA1 folds back onto the kinase C-lobe, providing intramolecular autoinhibition (beullens2005substratespecificityand pages 7-8).  
+
+## Regulation  
+• Activation-loop autophosphorylation: Thr167 and Ser171 mandatory for catalytic competence; Tyr163 also autophosphorylated but not required for activity (beullens2005substratespecificityand pages 8-9).  
+• ≥16 additional auto-sites distributed through catalytic and TP-rich regions (thangaraj2020melkmpk38incancer pages 2-3).  
+• M-phase promoting factor (CDK1/cyclin B) and MAPK phosphorylate Thr414, Thr449, Thr451, Ser498 during oocyte maturation, enhancing activity (badouel2006mphasemelkactivity pages 3-3).  
+• Redox switch: putative Cys154–Cys168 disulfide limits activity; reducing agents restore catalysis (unknownauthors2020exploringthecontroversial pages 43-47).  
+• Ca²⁺ binding to the kinase domain allosterically suppresses turnover (beullens2005substratespecificityand pages 7-8).  
+• Protein regulators:  
+  – Thioredoxin binds the C-terminus, keeps MELK inactive and recruits proteasomal degradation; MELK phosphorylates Trx-Thr76 in a negative feedback loop (thangaraj2020melkmpk38incancer pages 2-3).  
+  – ZPR9 interaction and phosphorylation at Thr252 stabilise the active kinase (thangaraj2020melkmpk38incancer pages 2-3).  
+  – FBXO15 ubiquitinates MELK, limiting protein stability (pitner2017melkapotential pages 16-20).  
+• Transcriptional control: E2F1 and FoxM1 induce MELK mRNA at G2/M; APC/C-Cdh1 targets MELK for degradation after mitosis (unknownauthors2020exploringthecontroversial pages 39-43).  
+
+## Function  
+• Expression: high in oocytes, early embryos, thymus, spleen, neural progenitors; low in differentiated kidney, liver and muscle (thangaraj2020melkmpk38incancer pages 1-2, beullens2005substratespecificityand pages 1-1).  
+• Cell-cycle control: phosphorylates CDC25B to drive centrosomal localisation and mitotic entry (beullens2005substratespecificityand pages 1-1).  
+• Apoptosis and stress: phosphorylation of ASK1-Thr838 and p53-Ser15 augments pro-apoptotic signalling and checkpoint arrest (thangaraj2020melkmpk38incancer pages 2-3, jiang2013maternalembryonicleucine pages 1-3).  
+• TGF-β pathway: inhibits PDK1-Thr354 and phosphorylates Smad2/3/4/7 to favour ASK1-mediated apoptosis (thangaraj2020melkmpk38incancer pages 2-3).  
+• RNA metabolism: ZNF622 phosphorylation inhibits spliceosome assembly during mitosis (janostiak2017melkpromotesmelanoma pages 8-10).  
+• NF-κB signalling: phosphorylates SQSTM1/p62, stimulating NF-κB transcription and melanoma growth (janostiak2017melkpromotesmelanoma pages 8-10).  
+• DNA replication & checkpoint: interacts with MCM complex and PCNA; MELK inhibition triggers γ-H2AX (Ser139) and Chk2-Thr68 activation, indicating DNA damage response (unknownauthors2020exploringthecontroversial pages 158-162).  
+• Stem cell maintenance: essential for proliferation of embryonic and neural progenitors (ganguly2015melk—aconservedkinase pages 1-2).  
+
+## Inhibitors  
+• OTSSP167: low-nanomolar biochemical potency but broad off-target kinase profile (thangaraj2020melkmpk38incancer pages 2-3, unknownauthors2020exploringthecontroversial pages 71-75).  
+• NVS-MELK8a: high cellular selectivity, delays mitotic entry without apoptosis (unknownauthors2020exploringthecontroversial pages 158-162).  
+• MELK-T1 series: improved selectivity compared with OTSSP167 (unknownauthors2020exploringthecontroversial pages 164-167).  
+• HTH-01-091: poor cellular inhibition of MELK (unknownauthors2020exploringthecontroversial pages 71-75).  
+• Dorsomorphin (Compound C): Type I ATP-competitive; crystal structure solved with MELK (rembacz2019crystalstructureof pages 1-2).  
+• Siomycin A reduces MELK protein and suppresses glioblastoma growth (jiang2013maternalembryonicleucine pages 3-5).  
+
+## Other Comments  
+• Over-expression correlates with poor prognosis in glioblastoma, triple-negative breast, colorectal cancer and melanoma (unknownauthors2020exploringthecontroversial pages 39-43, janostiak2017melkpromotesmelanoma pages 8-10).  
+• Genetic dependency is context-dependent: RNAi knockdown impairs proliferation, whereas CRISPR deletion can yield viable cells, fuelling controversy (unknownauthors2020exploringthecontroversial pages 31-34, mcdonald2020enigmaticmelkthe pages 10-12).
+
+References
+
+1. (beullens2005substratespecificityand pages 1-1): Monique Beullens, Sadia Vancauwenbergh, Nick Morrice, Rita Derua, Hugo Ceulemans, Etienne Waelkens, and Mathieu Bollen. Substrate specificity and activity regulation of protein kinase melk*. Journal of Biological Chemistry, 280:40003-40011, Dec 2005. URL: https://doi.org/10.1074/jbc.m507274200, doi:10.1074/jbc.m507274200. This article has 117 citations and is from a domain leading peer-reviewed journal.
+
+2. (beullens2005substratespecificityand pages 2-4): Monique Beullens, Sadia Vancauwenbergh, Nick Morrice, Rita Derua, Hugo Ceulemans, Etienne Waelkens, and Mathieu Bollen. Substrate specificity and activity regulation of protein kinase melk*. Journal of Biological Chemistry, 280:40003-40011, Dec 2005. URL: https://doi.org/10.1074/jbc.m507274200, doi:10.1074/jbc.m507274200. This article has 117 citations and is from a domain leading peer-reviewed journal.
+
+3. (beullens2005substratespecificityand pages 4-5): Monique Beullens, Sadia Vancauwenbergh, Nick Morrice, Rita Derua, Hugo Ceulemans, Etienne Waelkens, and Mathieu Bollen. Substrate specificity and activity regulation of protein kinase melk*. Journal of Biological Chemistry, 280:40003-40011, Dec 2005. URL: https://doi.org/10.1074/jbc.m507274200, doi:10.1074/jbc.m507274200. This article has 117 citations and is from a domain leading peer-reviewed journal.
+
+4. (beullens2005substratespecificityand pages 7-8): Monique Beullens, Sadia Vancauwenbergh, Nick Morrice, Rita Derua, Hugo Ceulemans, Etienne Waelkens, and Mathieu Bollen. Substrate specificity and activity regulation of protein kinase melk*. Journal of Biological Chemistry, 280:40003-40011, Dec 2005. URL: https://doi.org/10.1074/jbc.m507274200, doi:10.1074/jbc.m507274200. This article has 117 citations and is from a domain leading peer-reviewed journal.
+
+5. (beullens2005substratespecificityand pages 8-9): Monique Beullens, Sadia Vancauwenbergh, Nick Morrice, Rita Derua, Hugo Ceulemans, Etienne Waelkens, and Mathieu Bollen. Substrate specificity and activity regulation of protein kinase melk*. Journal of Biological Chemistry, 280:40003-40011, Dec 2005. URL: https://doi.org/10.1074/jbc.m507274200, doi:10.1074/jbc.m507274200. This article has 117 citations and is from a domain leading peer-reviewed journal.
+
+6. (ganguly2015melk—aconservedkinase pages 1-2): Ranjit Ganguly, Ahmed Mohyeldin, Jordyn Thiel, Harley I Kornblum, Monique Beullens, and Ichiro Nakano. Melk—a conserved kinase: functions, signaling, cancer, and controversy. Clinical and Translational Medicine, Mar 2015. URL: https://doi.org/10.1186/s40169-014-0045-y, doi:10.1186/s40169-014-0045-y. This article has 121 citations and is from a peer-reviewed journal.
+
+7. (jiang2013maternalembryonicleucine pages 3-5): Pengfei Jiang and Deli Zhang. Maternal embryonic leucine zipper kinase (melk): a novel regulator in cell cycle control, embryonic development, and cancer. International Journal of Molecular Sciences, 14:21551-21560, Oct 2013. URL: https://doi.org/10.3390/ijms141121551, doi:10.3390/ijms141121551. This article has 89 citations and is from a peer-reviewed journal.
+
+8. (mcdonald2020enigmaticmelkthe pages 10-12): Ian M. McDonald and L. Graves. Enigmatic melk: the controversy surrounding its complex role in cancer. The Journal of Biological Chemistry, 295:8195-8203, Apr 2020. URL: https://doi.org/10.1074/jbc.rev120.013433, doi:10.1074/jbc.rev120.013433. This article has 32 citations.
+
+9. (pitner2017melkapotential pages 16-20): Mary Kathryn Pitner, Juliana M. Taliaferro, Kevin N. Dalby, and Chandra Bartholomeusz. Melk: a potential novel therapeutic target for tnbc and other aggressive malignancies. Expert Opinion on Therapeutic Targets, 21:849-859, Aug 2017. URL: https://doi.org/10.1080/14728222.2017.1363183, doi:10.1080/14728222.2017.1363183. This article has 56 citations and is from a peer-reviewed journal.
+
+10. (thangaraj2020melkmpk38incancer pages 2-3): Karthik Thangaraj, Lavanya Ponnusamy, S. Natarajan, and R. Manoharan. Melk/mpk38 in cancer: from mechanistic aspects to therapeutic strategies. Drug discovery today, Sep 2020. URL: https://doi.org/10.1016/j.drudis.2020.09.029, doi:10.1016/j.drudis.2020.09.029. This article has 24 citations and is from a domain leading peer-reviewed journal.
+
+11. (unknownauthors2020exploringthecontroversial pages 164-167): Exploring the Controversial Role of Melk in Cancer
+
+12. (unknownauthors2020exploringthecontroversial pages 43-47): Exploring the Controversial Role of Melk in Cancer
+
+13. (unknownauthors2020exploringthecontroversial pages 71-75): Exploring the Controversial Role of Melk in Cancer
+
+14. (badouel2006mphasemelkactivity pages 3-3): Caroline Badouel, Roman Körner, Marie Frank-Vaillant, Anne Couturier, Erich A. Nigg, and Jean-Pierre Tassan. M-phase melk activity is regulated by mpf and mapk. Cell Cycle, 5:883-889, Mar 2006. URL: https://doi.org/10.4161/cc.5.8.2683, doi:10.4161/cc.5.8.2683. This article has 48 citations and is from a peer-reviewed journal.
+
+15. (cao2013structuralbasisfor pages 10-11): Lu-Sha Cao, Jue Wang, Yuling Chen, Haiteng Deng, Zhi-Xin Wang, and Jia‐Wei Wu. Structural basis for the regulation of maternal embryonic leucine zipper kinase. PLoS ONE, Jul 2013. URL: https://doi.org/10.1371/journal.pone.0070031, doi:10.1371/journal.pone.0070031. This article has 27 citations and is from a peer-reviewed journal.
+
+16. (cao2013structuralbasisfor pages 5-6): Lu-Sha Cao, Jue Wang, Yuling Chen, Haiteng Deng, Zhi-Xin Wang, and Jia‐Wei Wu. Structural basis for the regulation of maternal embryonic leucine zipper kinase. PLoS ONE, Jul 2013. URL: https://doi.org/10.1371/journal.pone.0070031, doi:10.1371/journal.pone.0070031. This article has 27 citations and is from a peer-reviewed journal.
+
+17. (janostiak2017melkpromotesmelanoma pages 8-10): Radoslav Janostiak, Navin Rauniyar, Tukiet T. Lam, Jianhong Ou, L. Zhu, Michael R. Green, and N. Wajapeyee. Melk promotes melanoma growth by stimulating the nf-κb pathway. Cell reports, 21 10:2829-2841, Dec 2017. URL: https://doi.org/10.1016/j.celrep.2017.11.033, doi:10.1016/j.celrep.2017.11.033. This article has 80 citations and is from a highest quality peer-reviewed journal.
+
+18. (jiang2013maternalembryonicleucine pages 1-3): Pengfei Jiang and Deli Zhang. Maternal embryonic leucine zipper kinase (melk): a novel regulator in cell cycle control, embryonic development, and cancer. International Journal of Molecular Sciences, 14:21551-21560, Oct 2013. URL: https://doi.org/10.3390/ijms141121551, doi:10.3390/ijms141121551. This article has 89 citations and is from a peer-reviewed journal.
+
+19. (rembacz2019crystalstructureof pages 1-2): K. Rembacz, K. Źrubek, Przemyslaw Golik, Kinga Michalik, J. Bogusz, B. Władyka, M. Romanowska, and G. Dubin. Crystal structure of maternal embryonic leucine zipper kinase (melk) in complex with dorsomorphin (compound c). Archives of biochemistry and biophysics, 671:1-7, May 2019. URL: https://doi.org/10.1016/j.abb.2019.05.014, doi:10.1016/j.abb.2019.05.014. This article has 4 citations and is from a peer-reviewed journal.
+
+20. (thangaraj2020melkmpk38incancer pages 1-2): Karthik Thangaraj, Lavanya Ponnusamy, S. Natarajan, and R. Manoharan. Melk/mpk38 in cancer: from mechanistic aspects to therapeutic strategies. Drug discovery today, Sep 2020. URL: https://doi.org/10.1016/j.drudis.2020.09.029, doi:10.1016/j.drudis.2020.09.029. This article has 24 citations and is from a domain leading peer-reviewed journal.
+
+21. (unknownauthors2020exploringthecontroversial pages 158-162): Exploring the Controversial Role of Melk in Cancer
+
+22. (unknownauthors2020exploringthecontroversial pages 39-43): Exploring the Controversial Role of Melk in Cancer
+
+23. (canevari2013structuralinsightinto pages 5-6): Giulia Canevari, Stefania Re Depaolini, Ulisse Cucchi, Jay A. Bertrand, Elena Casale, Claudia Perrera, Barbara Forte, Patrizia Carpinelli, and Eduard R. Felder. Structural insight into maternal embryonic leucine zipper kinase (melk) conformation and inhibition toward structure-based drug design. Biochemistry, 52:6380-6387, Sep 2013. URL: https://doi.org/10.1021/bi4005864, doi:10.1021/bi4005864. This article has 37 citations and is from a peer-reviewed journal.
+
+24. (unknownauthors2020exploringthecontroversial pages 31-34): Exploring the Controversial Role of Melk in Cancer

@@ -1,0 +1,84 @@
+## Phylogeny
+Protein kinase C alpha (PKCα), encoded by the PRKCA gene, is classified as a conventional (or classical) PKC (cPKC) isozyme within the Protein Kinase C (PKC) family (newton2003regulationofthe pages 1-2, ron1999newinsightsinto pages 2-3, singh2017proteinkinasecα pages 1-2). According to the kinome classification by Manning et al., the PKC family belongs to the AGC group of serine/threonine kinases (singh2017proteinkinasecα pages 2-4, unknownauthors2019deregulationofprotein pages 144-148, unknownauthors2019deregulationofprotein pages 22-26). Within the AGC kinome, PKCα is closely related to Akt, p70 S6 kinase, and PDK-1 (newton2010proteinkinasec pages 1-2, newton2018proteinkinasec pages 3-5). The PKC gene family evolved from a single yeast homolog, Pkc1 (newton2018proteinkinasec pages 3-5). Orthologs of PRKCA are found across diverse eukaryotes, including mammals, and lower eukaryotes such as *Drosophila* (fly) and *Caenorhabditis elegans* (worm), underscoring its evolutionary conservation (newton2003regulationofthe pages 1-2, unknownauthors2019deregulationofprotein pages 148-152).
+
+
+## Reaction Catalyzed
+PKCα is a serine/threonine-protein kinase that catalyzes the following chemical reaction: ATP + [protein]-L-serine/threonine → ADP + phosphorylated [protein]-L-serine/threonine (singh2017proteinkinasecα pages 1-2, unknownauthors2019deregulationofprotein pages 148-152, unknownauthors2018functionalroleof pages 20-27). The catalytic turnover rate is approximately a few reactions per second (newton2018proteinkinasec pages 3-5).
+
+
+## Cofactor Requirements
+As a conventional PKC, activation of PKCα requires Ca²⁺, the lipid second messenger diacylglycerol (DAG), and phospholipids, particularly phosphatidylserine (PS) (newton2010proteinkinasec pages 1-2, newton2018proteinkinasec pages 1-3, silnitsky2023anupdateon pages 3-5). Its catalytic activity is also dependent on Mg²⁺ as a cofactor for ATP binding and catalysis (newton2018proteinkinasec pages 1-3, singh2017proteinkinasecα pages 1-2, unknownauthors2019deregulationofprotein pages 144-148).
+
+
+## Substrate Specificity
+PKCα is a basophilic kinase that phosphorylates serine or threonine residues within a consensus motif characterized by basic residues upstream and hydrophobic residues downstream of the phosphorylation site (johnson2023anatlasof pages 4-4). The consensus sequence logo shows a strong preference for basic residues, especially lysine and arginine, at the P-3 position (johnson2023anatlasof pages 4-4, newton2018proteinkinasec pages 5-6). Positions P-2 and P-1 show less stringent preferences but favor positive or neutral side chains, while positions P+1, P+2, and P+3 tend to prefer hydrophobic or neutral residues (johnson2023anatlasof pages 4-4). The presence of a hydrophobic residue at the P+1 position particularly enhances substrate recognition (newton2018proteinkinasec pages 5-6). A general motif pattern is described as [R/K]-X-[S/T]-X, where X is any amino acid (unknownauthors2019deregulationofprotein pages 148-152).
+
+
+## Structure
+PKCα consists of an N-terminal regulatory moiety (~35 kDa) linked by a flexible hinge region (V3) to a C-terminal kinase domain (~45 kDa) (newton2018proteinkinasec pages 3-5, singh2017proteinkinasecα pages 2-4). Structural data from crystal structures and AlphaFold models confirm this topology (singh2017proteinkinasecα pages 1-2, unknownauthors2019deregulationofprotein pages 148-152). The regulatory domain contains an autoinhibitory pseudosubstrate segment, tandem C1 domains (C1A and C1B) for binding DAG and phorbol esters, and a C2 domain that binds Ca²⁺ and anionic phospholipids like PIP2 (newton2010proteinkinasec pages 1-2, newton2018proteinkinasec pages 3-5, ron1999newinsightsinto pages 2-3). The catalytic domain contains the ATP- and substrate-binding sites (C3 and C4 regions, respectively) and shares a fold typical of AGC kinases (singh2017proteinkinasecα pages 1-2, altman2016proteinkinasec pages 3-4, silnitsky2023anupdateon pages 5-7). Key structural features of the kinase domain include a conserved C-helix, a hydrophobic spine crucial for catalytic activity, and an activation loop that must be phosphorylated for the enzyme to become catalytically competent (singh2017proteinkinasecα pages 1-2, newton2010proteinkinasec pages 1-2, unknownauthors2019deregulationofprotein pages 148-152).
+
+
+## Regulation
+Regulation of PKCα involves allosteric control, autoinhibition, and post-translational modifications (PTMs), primarily phosphorylation (newton2010proteinkinasec pages 1-2, newton2018proteinkinasec pages 1-3). In its inactive state, an N-terminal pseudosubstrate sequence binds to the active site, sterically inhibiting activity (newton2018proteinkinasec pages 1-3, ron1999newinsightsinto pages 2-3). Activation requires the allosteric binding of Ca²⁺ to the C2 domain and DAG to the C1 domain, which displaces the pseudosubstrate and recruits the kinase to the membrane (newton2010proteinkinasec pages 1-2, igumenova2015dynamicsandmembrane pages 3-5). Maturation into a stable, catalytically competent enzyme requires an ordered phosphorylation cascade at three conserved sites, a process assisted by Hsp90 and Cdc37 chaperones (newton2018proteinkinasec pages 5-6, singh2017proteinkinasecα pages 2-4):
+1.  **Activation Loop (Thr497):** Phosphorylated by phosphoinositide-dependent kinase-1 (PDK-1) (singh2017proteinkinasecα pages 1-2, singh2017proteinkinasecα pages 2-4, unknownauthors2018functionalroleof pages 27-30).
+2.  **Turn Motif (Thr638):** Phosphorylation is regulated by mTORC2 (silnitsky2023anupdateon pages 5-7, singh2017proteinkinasecα pages 2-4, unknownauthors2018functionalroleof pages 27-30).
+3.  **Hydrophobic Motif (Ser657):** Undergoes autophosphorylation (singh2017proteinkinasecα pages 1-2, singh2017proteinkinasecα pages 2-4).
+Prolonged activation leads to dephosphorylation by PHLPP phosphatases and subsequent degradation (unknownauthors2019deregulationofprotein pages 22-26, unknownauthors2019deregulationofprotein pages 148-152).
+
+
+## Function
+PKCα is a broadly expressed kinase that functions as a critical transducer in signaling pathways governing cell proliferation, apoptosis, migration, and differentiation (singh2017proteinkinasecα pages 1-2, unknownauthors2019deregulationofprotein pages 144-148). It is highly expressed in the brain, particularly in neurons and glia of the hippocampus and cerebral cortex (unknownauthors2019deregulationofprotein pages 22-26).
+*   **Upstream/Downstream Signaling:** PKCα is activated downstream of Gq-coupled receptor-mediated phospholipase C (PLC) activation, which generates DAG and mobilizes Ca²⁺ (newton2018proteinkinasec pages 1-3, unknownauthors2019deregulationofprotein pages 22-26). Its downstream targets include RAF1, which activates the MAPK/ERK cascade, and the oncoprotein K-Ras, which PKCα negatively regulates via phosphorylation (unknownauthors2019deregulationofprotein pages 22-26, unknownauthors2019deregulationofprotein pages 144-148). Other substrates include MARCKS, which regulates PIP2 levels and actin dynamics (unknownauthors2019deregulationofprotein pages 31-35).
+*   **Interacting Partners:** Upon activation, PKCα translocates to cellular compartments where its activity is localized by scaffolding proteins such as Receptors for Activated C Kinase (RACKs) (singh2017proteinkinasecα pages 2-4). It also interacts with proteins containing PDZ domains, including PICK1 and DLG1, via a PDZ ligand on its C-terminus (unknownauthors2019deregulationofprotein pages 148-152, unknownauthors2019deregulationofprotein pages 22-26).
+
+
+## Inhibitors
+PKCα can be modulated by various experimental compounds. Activators include phorbol esters (e.g., PMA, PDBu) and DAG analogs (e.g., DiC8), which bind the C1 domain and mimic DAG (newton2010proteinkinasec pages 1-2, unknownauthors2018functionalroleof pages 27-30). Bryostatin-1 also binds the C1 domain and can cause PKCα downregulation (unknownauthors2018functionalroleof pages 27-30, unknownauthors2019deregulationofprotein pages 22-26). Experimental inhibitors include bisindolylmaleimides such as Gö6976 (selective for conventional PKCs) and Gö6983 (inhibits conventional and novel PKCs), as well as Bisindolylmaleimide IV (BisIV), which inhibits scaffold-bound PKCα (newton2018proteinkinasec pages 5-6, unknownauthors2019deregulationofprotein pages 31-35). Other small molecule inhibitors that target the ATP-competitive site include Midostaurin and Riluzole (silnitsky2023anupdateon pages 19-21).
+
+
+## Other Comments
+Dysregulation of PKCα signaling is associated with numerous pathologies, with its role being highly context-dependent (igumenova2015dynamicsandmembrane pages 18-20). It is implicated in cancer, cardiac hypertrophy, diabetic complications, hypertension, and mood disorders (igumenova2015dynamicsandmembrane pages 18-20, silnitsky2023anupdateon pages 19-21). Loss-of-function is often associated with cancer, suggesting a tumor-suppressive role, whereas gain-of-function is linked to neurodegenerative diseases like Alzheimer's disease (newton2018proteinkinasec pages 1-3, unknownauthors2019deregulationofprotein pages 144-148). Germline gain-of-function mutations (e.g., M489V) enhance kinase activity and are associated with Alzheimer's disease pathology by increasing phosphorylation of substrates like MARCKS (unknownauthors2019deregulationofprotein pages 31-35). Somatic loss-of-function mutations are found in various cancers (newton2018proteinkinasec pages 1-3).
+
+References
+
+1. (igumenova2015dynamicsandmembrane pages 18-20): Tatyana I. Igumenova. Dynamics and membrane interactions of protein kinase c. Biochemistry, 54:4953-4968, Aug 2015. URL: https://doi.org/10.1021/acs.biochem.5b00565, doi:10.1021/acs.biochem.5b00565. This article has 111 citations and is from a peer-reviewed journal.
+
+2. (newton2010proteinkinasec pages 1-2): A. Newton. Protein kinase c: poised to signal. American journal of physiology. Endocrinology and metabolism, 298 3:E395-402, Mar 2010. URL: https://doi.org/10.1152/ajpendo.00477.2009, doi:10.1152/ajpendo.00477.2009. This article has 651 citations.
+
+3. (newton2018proteinkinasec pages 1-3): Alexandra C. Newton. Protein kinase c: perfectly balanced. Critical Reviews in Biochemistry and Molecular Biology, 53:208-230, Mar 2018. URL: https://doi.org/10.1080/10409238.2018.1442408, doi:10.1080/10409238.2018.1442408. This article has 324 citations and is from a peer-reviewed journal.
+
+4. (newton2018proteinkinasec pages 3-5): Alexandra C. Newton. Protein kinase c: perfectly balanced. Critical Reviews in Biochemistry and Molecular Biology, 53:208-230, Mar 2018. URL: https://doi.org/10.1080/10409238.2018.1442408, doi:10.1080/10409238.2018.1442408. This article has 324 citations and is from a peer-reviewed journal.
+
+5. (newton2018proteinkinasec pages 5-6): Alexandra C. Newton. Protein kinase c: perfectly balanced. Critical Reviews in Biochemistry and Molecular Biology, 53:208-230, Mar 2018. URL: https://doi.org/10.1080/10409238.2018.1442408, doi:10.1080/10409238.2018.1442408. This article has 324 citations and is from a peer-reviewed journal.
+
+6. (silnitsky2023anupdateon pages 19-21): Shmuel Silnitsky, Samuel J. S. Rubin, Mulate Zerihun, and Nir Qvit. An update on protein kinases as therapeutic targets—part i: protein kinase c activation and its role in cancer and cardiovascular diseases. International Journal of Molecular Sciences, Dec 2023. URL: https://doi.org/10.3390/ijms242417600, doi:10.3390/ijms242417600. This article has 25 citations and is from a peer-reviewed journal.
+
+7. (silnitsky2023anupdateon pages 5-7): Shmuel Silnitsky, Samuel J. S. Rubin, Mulate Zerihun, and Nir Qvit. An update on protein kinases as therapeutic targets—part i: protein kinase c activation and its role in cancer and cardiovascular diseases. International Journal of Molecular Sciences, Dec 2023. URL: https://doi.org/10.3390/ijms242417600, doi:10.3390/ijms242417600. This article has 25 citations and is from a peer-reviewed journal.
+
+8. (singh2017proteinkinasecα pages 1-2): R. Singh, S. Kumar, P. K. Gautam, M. Tomar, P. Verma, S. P. Singh, S. Kumar, and A. Acharya. Protein kinase c-α and the regulation of diverse cell responses. Biomolecular Concepts, 8:143-153, Sep 2017. URL: https://doi.org/10.1515/bmc-2017-0005, doi:10.1515/bmc-2017-0005. This article has 90 citations and is from a peer-reviewed journal.
+
+9. (singh2017proteinkinasecα pages 2-4): R. Singh, S. Kumar, P. K. Gautam, M. Tomar, P. Verma, S. P. Singh, S. Kumar, and A. Acharya. Protein kinase c-α and the regulation of diverse cell responses. Biomolecular Concepts, 8:143-153, Sep 2017. URL: https://doi.org/10.1515/bmc-2017-0005, doi:10.1515/bmc-2017-0005. This article has 90 citations and is from a peer-reviewed journal.
+
+10. (unknownauthors2018functionalroleof pages 20-27): Functional Role of Protein Kinase C Alpha in Endometrial Carcinogenesis
+
+11. (unknownauthors2018functionalroleof pages 27-30): Functional Role of Protein Kinase C Alpha in Endometrial Carcinogenesis
+
+12. (unknownauthors2019deregulationofprotein pages 144-148): Deregulation of Protein Kinase C alpha Signaling in Neurodegenerative Disease
+
+13. (unknownauthors2019deregulationofprotein pages 148-152): Deregulation of Protein Kinase C alpha Signaling in Neurodegenerative Disease
+
+14. (unknownauthors2019deregulationofprotein pages 22-26): Deregulation of Protein Kinase C alpha Signaling in Neurodegenerative Disease
+
+15. (unknownauthors2019deregulationofprotein pages 31-35): Deregulation of Protein Kinase C alpha Signaling in Neurodegenerative Disease
+
+16. (altman2016proteinkinasec pages 3-4): Amnon Altman and Kok-Fai Kong. Protein kinase c enzymes in the hematopoietic and immune systems. Annual Review of Immunology, 34:511-538, May 2016. URL: https://doi.org/10.1146/annurev-immunol-041015-055347, doi:10.1146/annurev-immunol-041015-055347. This article has 53 citations and is from a highest quality peer-reviewed journal.
+
+17. (igumenova2015dynamicsandmembrane pages 3-5): Tatyana I. Igumenova. Dynamics and membrane interactions of protein kinase c. Biochemistry, 54:4953-4968, Aug 2015. URL: https://doi.org/10.1021/acs.biochem.5b00565, doi:10.1021/acs.biochem.5b00565. This article has 111 citations and is from a peer-reviewed journal.
+
+18. (johnson2023anatlasof pages 4-4): Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613:759-766, Jan 2023. URL: https://doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 446 citations and is from a highest quality peer-reviewed journal.
+
+19. (newton2003regulationofthe pages 1-2): A. Newton. Regulation of the abc kinases by phosphorylation: protein kinase c as a paradigm. The Biochemical journal, 370 Pt 2:361-71, Mar 2003. URL: https://doi.org/10.1042/bj20021626, doi:10.1042/bj20021626. This article has 1072 citations.
+
+20. (ron1999newinsightsinto pages 2-3): D. Ron and M. Kazanietz. New insights into the regulation of protein kinase c and novel phorbol ester receptors. The FASEB Journal, 13:1658-1676, Oct 1999. URL: https://doi.org/10.1096/fasebj.13.13.1658, doi:10.1096/fasebj.13.13.1658. This article has 795 citations.
+
+21. (silnitsky2023anupdateon pages 3-5): Shmuel Silnitsky, Samuel J. S. Rubin, Mulate Zerihun, and Nir Qvit. An update on protein kinases as therapeutic targets—part i: protein kinase c activation and its role in cancer and cardiovascular diseases. International Journal of Molecular Sciences, Dec 2023. URL: https://doi.org/10.3390/ijms242417600, doi:10.3390/ijms242417600. This article has 25 citations and is from a peer-reviewed journal.

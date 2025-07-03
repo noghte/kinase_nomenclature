@@ -1,0 +1,102 @@
+## Phylogeny
+According to the kinome classification by Manning et al., Protein Tyrosine Kinase 7 (PTK7) is placed within the Protein Tyrosine Kinase (PTK) group, specifically in the Receptor Tyrosine Kinase (RTK) family (manning2002theproteinkinase pages 4-5, golubkov2014proteintyrosinepseudokinase7 pages 1-1, sheetz2020structuralinsightsinto pages 1-3). It is further classified as a pseudokinase, a subgroup of kinases that lack one or more conserved residues essential for catalytic activity (dessaux2024recentinsightsinto pages 1-2, manning2002theproteinkinase pages 1-2). PTK7 is specifically designated as a Class 1 pseudokinase, defined as members unable to bind ATP or Mg2+ (dessaux2024recentinsightsinto pages 1-2, dessaux2024recentinsightsinto pages 8-10). In phylogenetic trees, PTK7 occupies a specific branch near RTKs of the ALK family, the Insulin Receptor family, and other Class 1 pseudokinases such as ROR1/2, RYK, and the DDR family, indicating a close evolutionary relationship (dessaux2024recentinsightsinto pages 1-2, dessaux2024recentinsightsinto pages 10-10, sheetz2020structuralinsightsinto pages 1-3). Orthologues of PTK7 are evolutionarily conserved and have been identified in various species, including *Drosophila* (off-track, otk), chicken, frogs (*Xenopus*), zebrafish, mice, and *Hydra* (dunn2016ptk7andmcc pages 3-5, hayes2013ptk7promotesnoncanonical pages 3-4).
+
+
+
+## Reaction Catalyzed
+PTK7 is a pseudokinase that is catalytically inactive (dessaux2024recentinsightsinto pages 1-2, golubkov2014proteintyrosinepseudokinase7 pages 1-1, sheetz2020structuralinsightsinto pages 1-3). It lacks phosphotransferase activity due to non-canonical amino acid substitutions in conserved motifs within its kinase domain (dessaux2024recentinsightsinto pages 1-2). Therefore, it does not catalyze phosphorylation reactions (dessaux2024recentinsightsinto pages 4-5, yaronbarir2024theintrinsicsubstrate pages 1-2).
+
+
+
+## Cofactor Requirements
+PTK7 is classified as a Class 1 pseudokinase that is unable to bind ATP or the cofactor Mg2+ (dessaux2024recentinsightsinto pages 1-2, dessaux2024recentinsightsinto pages 2-4). Structural analysis confirms its ATP-binding site is sterically occluded, and key motifs required for Mg2+ coordination are altered, rendering it independent of these cofactors for its function (dessaux2024recentinsightsinto pages 2-4, sheetz2020structuralinsightsinto pages 3-4, sheetz2020structuralinsightsinto pages 4-6).
+
+
+
+## Substrate Specificity
+As a catalytically inactive pseudokinase, PTK7 does not perform phosphorylation and therefore does not have a consensus substrate motif for phosphotransfer (dessaux2024recentinsightsinto pages 4-5, yaronbarir2024theintrinsicsubstrate pages 1-2). The comprehensive analysis of the human tyrosine kinome by Yaron-Barir et al. (2024) did not assign a substrate motif to PTK7, which is consistent with its lack of enzymatic activity (yaronbarir2024theintrinsicsubstrate pages 1-2).
+
+
+
+## Structure
+PTK7 is a single-pass transmembrane protein composed of three main regions: an N-terminal extracellular domain (ECD), a transmembrane helix, and a C-terminal intracellular domain (ICD) (jin2024ptk7anunderestimated pages 1-2, golubkov2014proteintyrosinepseudokinase7 pages 1-1). The ECD contains seven immunoglobulin-like (Ig-like) domains that mediate protein-protein interactions (jin2024ptk7anunderestimated pages 1-2). The ICD contains a catalytically inactive kinase-like domain, or pseudokinase domain (golubkov2014proteintyrosinepseudokinase7 pages 1-1).
+
+The pseudokinase domain is rendered inactive by substitutions in highly conserved kinase motifs (dessaux2024recentinsightsinto pages 1-2):
+- The glycine-rich GxGxxG motif is altered.
+- The VAIK motif, critical for ATP orientation, is modified.
+- The HRD motif, containing the catalytic aspartate, is non-canonical.
+- The DFG motif, essential for Mg2+ binding, is changed to an ALG motif.
+
+Structurally, the ATP-binding pocket is occluded by the side chains of tyrosine 877 (Y877) and leucine 949 (L949), which sterically prevent ATP binding (dessaux2024recentinsightsinto pages 2-4, sheetz2020structuralinsightsinto pages 3-4). Despite being inactive, the pseudokinase domain exhibits a "hybrid" conformation, with some features resembling an active kinase, such as an active-like αC-helix conformation and the formation of the conserved salt bridge between K830 and E846 (dessaux2024recentinsightsinto pages 2-4, sheetz2020structuralinsightsinto pages 4-6). However, its activation loop adopts an inactive conformation similar to that of the autoinhibited insulin receptor kinase (IRK) (dessaux2024recentinsightsinto pages 2-4, sheetz2020structuralinsightsinto pages 1-3). Alternative splicing can produce several isoforms of PTK7, which may lack certain Ig-like domains or the entire pseudokinase domain (dessaux2024recentinsightsinto pages 4-5).
+
+
+
+## Regulation
+The primary regulatory mechanism for PTK7 is post-translational proteolytic cleavage (jin2024ptk7anunderestimated pages 1-2, dunn2016ptk7andmcc pages 9-11). PTK7 undergoes sequential cleavage by multiple proteases. The sheddase ADAM17 and the metalloproteinase MT1-MMP cleave the extracellular domain at specific sites, including L622, Q689, and G721 (jin2024ptk7anunderestimated pages 1-2, dunn2016ptk7andmcc pages 9-11, dessaux2024recentinsightsinto pages 4-5). This cleavage generates a soluble N-terminal PTK7 fragment (sPTK7) (jin2024ptk7anunderestimated pages 1-2). Subsequent cleavage by the gamma-secretase complex can release the intracellular domain (dunn2016ptk7andmcc pages 9-11). The ratio of cleaved to full-length PTK7 has been shown to correlate with the metastatic potential of colon cancer cells (golubkov2014proteintyrosinepseudokinase7 pages 10-10). A YxxxYY motif within the activation loop may be subject to phosphorylation, which could modulate the conformational state of the pseudokinase domain (sheetz2020structuralinsightsinto pages 12-13).
+
+
+
+## Function
+PTK7 functions primarily as a scaffold protein and a co-receptor in signaling pathways, rather than as an enzyme (dessaux2024recentinsightsinto pages 2-4, dessaux2024recentinsightsinto pages 4-5). It is a key regulator of both the canonical Wnt/β-catenin pathway and the non-canonical Wnt/planar cell polarity (PCP) pathway (dunn2016ptk7andmcc pages 3-5, berger2017ptk7facesthe pages 1-2). In the Wnt/PCP pathway, PTK7 regulates cell migration, cell polarity, and cytoskeletal organization (dunn2016ptk7andmcc pages 3-5, berger2017ptk7facesthe pages 1-2).
+
+PTK7 expression is found in various cancers, including gastric, colon, ovarian, breast, and esophageal cancers, and it is also considered a stem cell marker in hematopoietic and colonic tissues (dunn2016ptk7andmcc pages 3-5, dunn2016ptk7andmcc pages 9-11).
+
+Known interacting partners include:
+- **Upstream/Co-receptors**: Wnt ligands (Wnt3a, Wnt5a, Wnt8), Frizzled 7 (Fzd7), ROR2, and VEGFR (dunn2016ptk7andmcc pages 3-5, dessaux2024recentinsightsinto pages 4-5, martinez2015theptk7and pages 1-2). It also interacts with Plexin A to mediate repulsive signaling in neuronal pathfinding (dunn2016ptk7andmcc pages 3-5).
+- **Downstream/Intracellular**: Dishevelled (Dsh/Dvl), β-catenin, and RACK1 (dunn2016ptk7andmcc pages 3-5, dessaux2024recentinsightsinto pages 4-5).
+
+Through these interactions, PTK7 influences JNK phosphorylation, a downstream effect of the WNT/PCP pathway (martinez2015theptk7and pages 14-18). It can function via heterodimerization with active RTKs, such as ROR2 and VEGFR, to modulate their signaling output (dessaux2024recentinsightsinto pages 1-2, dessaux2024recentinsightsinto pages 4-5, martinez2015theptk7and pages 1-2).
+
+
+
+## Inhibitors
+Small molecules that disrupt the interaction between PTK7 and β-catenin have been identified; these compounds downregulate WNT signaling in colorectal cancer cells in a manner similar to PTK7 knockdown (dessaux2024recentinsightsinto pages 4-5).
+
+
+
+## Other Comments
+Dysregulation and mutations of PTK7 are associated with human diseases. Its expression is often upregulated in cancers of the lung, colon, and stomach, where it is linked to poor prognosis and metastasis (dunn2016ptk7andmcc pages 3-5). In contrast, loss of PTK7 expression has been observed in metastatic melanoma (dunn2016ptk7andmcc pages 9-11). Mutations in PTK7 are linked to developmental disorders, including neural tube defects and idiopathic scoliosis (dunn2016ptk7andmcc pages 3-5, berger2017ptk7facesthe pages 1-2). A specific mutation, V354 in an extracellular domain, has been identified in colorectal cancer (dessaux2024recentinsightsinto pages 4-5).
+
+References
+
+1. (dessaux2024recentinsightsinto pages 1-2): Charlotte Dessaux, Laetitia Ganier, Louis Guiraud, and Jean-Paul Borg. Recent insights into the therapeutic strategies targeting the pseudokinase ptk7 in cancer. Oncogene, 43:1973-1984, May 2024. URL: https://doi.org/10.1038/s41388-024-03060-x, doi:10.1038/s41388-024-03060-x. This article has 12 citations and is from a domain leading peer-reviewed journal.
+
+2. (dessaux2024recentinsightsinto pages 10-10): Charlotte Dessaux, Laetitia Ganier, Louis Guiraud, and Jean-Paul Borg. Recent insights into the therapeutic strategies targeting the pseudokinase ptk7 in cancer. Oncogene, 43:1973-1984, May 2024. URL: https://doi.org/10.1038/s41388-024-03060-x, doi:10.1038/s41388-024-03060-x. This article has 12 citations and is from a domain leading peer-reviewed journal.
+
+3. (dessaux2024recentinsightsinto pages 2-4): Charlotte Dessaux, Laetitia Ganier, Louis Guiraud, and Jean-Paul Borg. Recent insights into the therapeutic strategies targeting the pseudokinase ptk7 in cancer. Oncogene, 43:1973-1984, May 2024. URL: https://doi.org/10.1038/s41388-024-03060-x, doi:10.1038/s41388-024-03060-x. This article has 12 citations and is from a domain leading peer-reviewed journal.
+
+4. (dessaux2024recentinsightsinto pages 4-5): Charlotte Dessaux, Laetitia Ganier, Louis Guiraud, and Jean-Paul Borg. Recent insights into the therapeutic strategies targeting the pseudokinase ptk7 in cancer. Oncogene, 43:1973-1984, May 2024. URL: https://doi.org/10.1038/s41388-024-03060-x, doi:10.1038/s41388-024-03060-x. This article has 12 citations and is from a domain leading peer-reviewed journal.
+
+5. (dunn2016ptk7andmcc pages 3-5): Norris Dunn and Nicholas Tolwinski. Ptk7 and mcc, unfancied components in non-canonical wnt signaling and cancer. Cancers, 8:68, Jul 2016. URL: https://doi.org/10.3390/cancers8070068, doi:10.3390/cancers8070068. This article has 44 citations and is from a peer-reviewed journal.
+
+6. (dunn2016ptk7andmcc pages 9-11): Norris Dunn and Nicholas Tolwinski. Ptk7 and mcc, unfancied components in non-canonical wnt signaling and cancer. Cancers, 8:68, Jul 2016. URL: https://doi.org/10.3390/cancers8070068, doi:10.3390/cancers8070068. This article has 44 citations and is from a peer-reviewed journal.
+
+7. (golubkov2014proteintyrosinepseudokinase7 pages 1-1): V. Golubkov, N. Prigozhina, Yong Zhang, K. Stoletov, J. Lewis, P. E. Schwartz, R. Hoffman, and A. Strongin. Protein-tyrosine pseudokinase 7 (ptk7) directs cancer cell motility and metastasis*. The Journal of Biological Chemistry, 289:24238-24249, Jul 2014. URL: https://doi.org/10.1074/jbc.m114.574459, doi:10.1074/jbc.m114.574459. This article has 71 citations.
+
+8. (golubkov2014proteintyrosinepseudokinase7 pages 10-10): V. Golubkov, N. Prigozhina, Yong Zhang, K. Stoletov, J. Lewis, P. E. Schwartz, R. Hoffman, and A. Strongin. Protein-tyrosine pseudokinase 7 (ptk7) directs cancer cell motility and metastasis*. The Journal of Biological Chemistry, 289:24238-24249, Jul 2014. URL: https://doi.org/10.1074/jbc.m114.574459, doi:10.1074/jbc.m114.574459. This article has 71 citations.
+
+9. (jin2024ptk7anunderestimated pages 1-2): Zhipeng Jin, Tianyu Guo, Xue Zhang, Xin Wang, and Yefu Liu. Ptk7: an underestimated contributor to human cancer. Frontiers in Oncology, Oct 2024. URL: https://doi.org/10.3389/fonc.2024.1448695, doi:10.3389/fonc.2024.1448695. This article has 6 citations and is from a peer-reviewed journal.
+
+10. (sheetz2020structuralinsightsinto pages 1-3): Joshua B. Sheetz, Sebastian Mathea, Hanna Karvonen, Ketan Malhotra, Deep Chatterjee, Wilhelmiina Niininen, Robert Perttilä, Franziska Preuss, Krishna Suresh, Steven E. Stayrook, Yuko Tsutsui, Ravi Radhakrishnan, Daniela Ungureanu, Stefan Knapp, and Mark A. Lemmon. Structural insights into pseudokinase domains of receptor tyrosine kinases. Molecular Cell, 79:390-405.e7, Aug 2020. URL: https://doi.org/10.1016/j.molcel.2020.06.018, doi:10.1016/j.molcel.2020.06.018. This article has 88 citations and is from a highest quality peer-reviewed journal.
+
+11. (berger2017ptk7facesthe pages 1-2): Hanna Berger, Andreas Wodarz, and Annette Borchers. Ptk7 faces the wnt in development and disease. Frontiers in Cell and Developmental Biology, Apr 2017. URL: https://doi.org/10.3389/fcell.2017.00031, doi:10.3389/fcell.2017.00031. This article has 102 citations and is from a peer-reviewed journal.
+
+12. (dessaux2024recentinsightsinto pages 8-10): Charlotte Dessaux, Laetitia Ganier, Louis Guiraud, and Jean-Paul Borg. Recent insights into the therapeutic strategies targeting the pseudokinase ptk7 in cancer. Oncogene, 43:1973-1984, May 2024. URL: https://doi.org/10.1038/s41388-024-03060-x, doi:10.1038/s41388-024-03060-x. This article has 12 citations and is from a domain leading peer-reviewed journal.
+
+13. (hayes2013ptk7promotesnoncanonical pages 3-4): M. Hayes, M. Naito, Avais M. Daulat, S. Angers, and B. Ciruna. Ptk7 promotes non-canonical wnt/pcp-mediated morphogenesis and inhibits wnt/β-catenin-dependent cell fate decisions during vertebrate development. Development, 140:1807-1818, Apr 2013. URL: https://doi.org/10.1242/dev.090183, doi:10.1242/dev.090183. This article has 157 citations and is from a domain leading peer-reviewed journal.
+
+14. (manning2002theproteinkinase pages 1-2): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+15. (manning2002theproteinkinase pages 4-5): G. Manning, D. B. Whyte, R. Martinez, T. Hunter, and S. Sudarsanam. The protein kinase complement of the human genome. Science, 298:1912-1934, Dec 2002. URL: https://doi.org/10.1126/science.1075762, doi:10.1126/science.1075762. This article has 10728 citations and is from a highest quality peer-reviewed journal.
+
+16. (martinez2015theptk7and pages 1-2): Sébastien Martinez, Pierluigi Scerbo, M. Giordano, Avais M. Daulat, A. Lhoumeau, Virginie Thomé, L. Kodjabachian, and J. Borg. The ptk7 and ror2 protein receptors interact in the vertebrate wnt/planar cell polarity (pcp) pathway*. The Journal of Biological Chemistry, 290:30562-30572, Oct 2015. URL: https://doi.org/10.1074/jbc.m115.697615, doi:10.1074/jbc.m115.697615. This article has 124 citations.
+
+17. (martinez2015theptk7and pages 14-18): Sébastien Martinez, Pierluigi Scerbo, M. Giordano, Avais M. Daulat, A. Lhoumeau, Virginie Thomé, L. Kodjabachian, and J. Borg. The ptk7 and ror2 protein receptors interact in the vertebrate wnt/planar cell polarity (pcp) pathway*. The Journal of Biological Chemistry, 290:30562-30572, Oct 2015. URL: https://doi.org/10.1074/jbc.m115.697615, doi:10.1074/jbc.m115.697615. This article has 124 citations.
+
+18. (sheetz2020structuralinsightsinto pages 12-13): Joshua B. Sheetz, Sebastian Mathea, Hanna Karvonen, Ketan Malhotra, Deep Chatterjee, Wilhelmiina Niininen, Robert Perttilä, Franziska Preuss, Krishna Suresh, Steven E. Stayrook, Yuko Tsutsui, Ravi Radhakrishnan, Daniela Ungureanu, Stefan Knapp, and Mark A. Lemmon. Structural insights into pseudokinase domains of receptor tyrosine kinases. Molecular Cell, 79:390-405.e7, Aug 2020. URL: https://doi.org/10.1016/j.molcel.2020.06.018, doi:10.1016/j.molcel.2020.06.018. This article has 88 citations and is from a highest quality peer-reviewed journal.
+
+19. (sheetz2020structuralinsightsinto pages 3-4): Joshua B. Sheetz, Sebastian Mathea, Hanna Karvonen, Ketan Malhotra, Deep Chatterjee, Wilhelmiina Niininen, Robert Perttilä, Franziska Preuss, Krishna Suresh, Steven E. Stayrook, Yuko Tsutsui, Ravi Radhakrishnan, Daniela Ungureanu, Stefan Knapp, and Mark A. Lemmon. Structural insights into pseudokinase domains of receptor tyrosine kinases. Molecular Cell, 79:390-405.e7, Aug 2020. URL: https://doi.org/10.1016/j.molcel.2020.06.018, doi:10.1016/j.molcel.2020.06.018. This article has 88 citations and is from a highest quality peer-reviewed journal.
+
+20. (sheetz2020structuralinsightsinto pages 4-6): Joshua B. Sheetz, Sebastian Mathea, Hanna Karvonen, Ketan Malhotra, Deep Chatterjee, Wilhelmiina Niininen, Robert Perttilä, Franziska Preuss, Krishna Suresh, Steven E. Stayrook, Yuko Tsutsui, Ravi Radhakrishnan, Daniela Ungureanu, Stefan Knapp, and Mark A. Lemmon. Structural insights into pseudokinase domains of receptor tyrosine kinases. Molecular Cell, 79:390-405.e7, Aug 2020. URL: https://doi.org/10.1016/j.molcel.2020.06.018, doi:10.1016/j.molcel.2020.06.018. This article has 88 citations and is from a highest quality peer-reviewed journal.
+
+21. (yaronbarir2024theintrinsicsubstrate pages 1-2): Tomer M. Yaron-Barir, Brian A. Joughin, Emily M. Huntsman, Alexander Kerelsky, Daniel M. Cizin, Benjamin M. Cohen, Amit Regev, Junho Song, Neil Vasan, Ting-Yu Lin, Jose M. Orozco, Christina Schoenherr, Cari Sagum, Mark T. Bedford, R. Max Wynn, Shih-Chia Tso, David T. Chuang, Lei Li, Shawn S.-C. Li, Pau Creixell, Konstantin Krismer, Mina Takegami, Harin Lee, Bin Zhang, Jingyi Lu, Ian Cossentino, Sean D. Landry, Mohamed Uduman, John Blenis, Olivier Elemento, Margaret C. Frame, Peter V. Hornbeck, Lewis C. Cantley, Benjamin E. Turk, Michael B. Yaffe, and Jared L. Johnson. The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629:1174-1181, May 2024. URL: https://doi.org/10.1038/s41586-024-07407-y, doi:10.1038/s41586-024-07407-y. This article has 59 citations and is from a highest quality peer-reviewed journal.

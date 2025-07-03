@@ -1,0 +1,103 @@
+## Phylogeny  
+Cyclin-dependent kinase 2 (CDK2) is assigned to the CMGC group, CDK family of the eukaryotic kinome (volkart2019cyclindependentkinase2 pages 9-10).  
+Conserved orthologs are documented in Mus musculus Cdk2, Rattus norvegicus Cdk2, Danio rerio cdk2, Drosophila melanogaster Cdk2/Cdc2c, Caenorhabditis elegans cdk-2, Saccharomyces cerevisiae CDC28 and Arabidopsis thaliana CDKA;1 (malumbres2014cyclindependentkinases pages 8-9, talapati2021structuralandbinding pages 11-12, cao2014phylogeneticanalysisof pages 16-16).  
+Phylogenetic analysis clusters CDK2 with CDK1 and CDK3, whereas CDK4/6 form a distinct branch lacking several CDC25A-contact residues conserved in CDK2 (rowland2024cryoemstructureof pages 18-21, zhang2024cdk2andcdk4 pages 1-2).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr → ADP + [protein]-Ser/Thr-P (schulzegahmen1996highresolutioncrystalstructures pages 6-7).  
+
+## Cofactor Requirements  
+Catalytic activity requires a divalent metal ion; Mg²⁺ is preferred and Mn²⁺ can substitute in vitro (schulzegahmen1996highresolutioncrystalstructures pages 6-7, cheng2006theroleof pages 6-6).  
+
+## Substrate Specificity  
+CDK2 preferentially phosphorylates the consensus motif (S/T)P X (K/R), with an obligatory proline at +1 and a basic residue at +3 enhancing catalysis (cheng2006theroleof pages 1-2).  
+High-throughput motif profiling confirms enrichment for Lys/Arg at +3 across CDK substrates (ord2024highthroughputdiscoveryand pages 33-35).  
+Many physiological substrates present an N-terminal RXL motif that docks to the cyclin A hydrophobic patch, boosting local substrate concentration and processivity (hope2024crystallographicfragmentscreening pages 1-4, cheng2006theroleof pages 1-2).  
+
+## Structure  
+CDK2 comprises an N-terminal β-sheet with the PSTAIRE αC-helix and a C-terminal α-helical lobe housing the HRD and DFG motifs (hardcastle2002designinginhibitorsof pages 1-3).  
+Crystal structures at 1.8–1.9 Å resolution define hinge residues Leu83 and Asp86 that anchor adenine and most ATP-competitive inhibitors (schulzegahmen1996highresolutioncrystalstructures pages 6-7, volkart2019cyclindependentkinase2 pages 6-8).  
+Phosphorylation of Thr160 stabilises the activation loop via an Arg50–Arg126–Arg150 network, completes the hydrophobic spine and locks the Lys33–Glu51 catalytic salt bridge (vivo2006roleofphosphorylated pages 8-9).  
+A 2.91 Å cryo-EM structure of the CDK2–cyclin A–CDC25A complex reveals the GDSEID platform that accommodates CDC25A, KAP and CKS1 (rowland2024cryoemstructureof pages 27-30).  
+Fragment screening uncovers a flexible “Palm” pocket that is closed in monomeric CDK2 and opens upon cyclin binding, mimicking the p27 binding mode (hope2024crystallographicfragmentscreening pages 7-10).  
+Cyclin E/A binding re-orients the PSTAIRE helix without extensive domain rearrangement, contrasting with the more constrained activation mechanism of CDK4 (zhang2024cdk2andcdk4 pages 13-14).  
+
+## Regulation  
+Thr160 phosphorylation by the CDK-activating kinase CDK7–cyclin H, or by CDK2 trans-autophosphorylation, is required for full activation (hardcastle2002designinginhibitorsof pages 1-3, abbas2007autocatalyticphosphorylationof pages 10-10).  
+Inhibitory Thr14 and Tyr15 phosphorylations are installed by WEE1/MYT1 and removed by CDC25A to control cell-cycle transitions (hardcastle2002designinginhibitorsof pages 1-3, rowland2024cryoemstructureof pages 15-18).  
+KAP binds the GDSEID surface to dephosphorylate pThr160 and inactivate the kinase (rowland2024cryoemstructureof pages 15-18).  
+CKIs p21^Cip1 and p27^Kip1 obstruct the active site and block access of CAK to Thr160 (hardcastle2002designinginhibitorsof pages 1-3, hope2024crystallographicfragmentscreening pages 7-10).  
+Ubiquitin-mediated turnover of cyclins and regulators through SCF^Skp2 and APC/C pathways further modulates CDK2 signalling (ord2024highthroughputdiscoveryand pages 33-35, volkart2019cyclindependentkinase2 pages 8-9).  
+CKS1 engagement on the GDSEID site promotes processive multi-site phosphorylation of substrates, providing an additional layer of allosteric control (rowland2024cryoemstructureof pages 15-18).  
+
+## Function  
+CDK2 is expressed in virtually all proliferating tissues, peaks during late G1 and S phases, and is indispensable for meiosis but dispensable for somatic mitosis in mice (malumbres2014cyclindependentkinases pages 8-9).  
+Cyclin E/CDK2 phosphorylates RB1, releasing E2F transcription factors to activate S-phase gene expression (zhang2024cdk2andcdk4 pages 1-2).  
+Cyclin A/CDK2 phosphorylates CDC6 and p107 to initiate DNA replication (cheng2006theroleof pages 6-6).  
+The kinase coordinates centrosome duplication and DNA-damage responses via p53/p21 signalling and can impose permanent senescence when persistently inhibited (volkart2019cyclindependentkinase2 pages 3-4).  
+Key regulators and partners include cyclins E/A (activators), CDK7–cyclin H (activating kinase), WEE1/MYT1 (inhibitory kinases), CDC25A and KAP (phosphatases), CKS1 (processivity factor) and CKIs p21/p27 (inhibitors) (hardcastle2002designinginhibitorsof pages 1-3, rowland2024cryoemstructureof pages 15-18).  
+
+## Inhibitors  
+Roscovitine binds the Leu83/Asp86 hinge with higher affinity for the cyclin-bound enzyme than for monomeric CDK2 (zhang2024cdk2andcdk4 pages 13-14, abbas2007autocatalyticphosphorylationof pages 10-11).  
+Dinaciclib is a nanomolar dual CDK1/2 inhibitor that induces senescence in Myc-driven tumours and is under advanced clinical evaluation (volkart2019cyclindependentkinase2 pages 9-10).  
+Early scaffolds such as flavonoids and butyrolactone I provided the first structural templates for CDK2 inhibition (schulzegahmen1996highresolutioncrystalstructures pages 7-7).  
+Structure-guided optimisation of purine, imidazole and pyrazolo-pyrimidine series exploits interactions with Leu83, Lys33 and structured water molecules for potency and selectivity (hardcastle2002designinginhibitorsof pages 1-3, ikuta2001crystallographicapproachto pages 1-2, volkart2019cyclindependentkinase2 pages 10-11).  
+
+## Other Comments  
+CDK2 hyperactivation through cyclin E/A amplification or disruption of the p16^INK4a–CDK4/6–Rb axis is frequent in breast, colorectal and lung cancers (volkart2019cyclindependentkinase2 pages 2-3, hardcastle2002designinginhibitorsof pages 1-3).  
+Dual CDK1/2 inhibition produces durable senescence in Myc-amplified tumours, underscoring therapeutic synergy (volkart2019cyclindependentkinase2 pages 3-4).  
+Oncogenic phenotypes arise primarily from altered expression of cyclin partners or upstream regulators, while pathogenic CDK2 coding mutations are rare (volkart2019cyclindependentkinase2 pages 2-3).
+
+References
+
+1. (hardcastle2002designinginhibitorsof pages 1-3): Ian R. Hardcastle, Bernard T. Golding, and Roger J. Griffin. Designing inhibitors of cyclin-dependent kinases. Annual Review of Pharmacology and Toxicology, 42:325-348, Apr 2002. URL: https://doi.org/10.1146/annurev.pharmtox.42.090601.125940, doi:10.1146/annurev.pharmtox.42.090601.125940. This article has 138 citations and is from a highest quality peer-reviewed journal.
+
+2. (hope2024crystallographicfragmentscreening pages 1-4): Ian Hope, Martin E. M. Noble, Michael J. Waring, E. M. Martin Noble, Jane A. Endicott, and Natalie J. Tatum. Crystallographic fragment screening of cdk2-cyclin a: fraglites map sites of protein-protein interaction. BioRxiv, Jun 2024. URL: https://doi.org/10.1101/2024.06.03.596235, doi:10.1101/2024.06.03.596235. This article has 2 citations.
+
+3. (schulzegahmen1996highresolutioncrystalstructures pages 7-7): Ursula Schulze-Gahmen, Hendrik L. De Bondt, and Sung-Hou Kim. High-resolution crystal structures of human cyclin-dependent kinase 2 with and without atp: bound waters and natural ligand as guides for inhibitor design. Journal of medicinal chemistry, 39 23:4540-6, Nov 1996. URL: https://doi.org/10.1021/jm960402a, doi:10.1021/jm960402a. This article has 249 citations and is from a highest quality peer-reviewed journal.
+
+4. (volkart2019cyclindependentkinase2 pages 2-3): Priscylla Andrade Volkart, Gabriela Bitencourt-Ferreira, André Arigony Souto, and Walter Filgueira de Azevedo. Cyclin-dependent kinase 2 in cellular senescence and cancer. a structural and functional review. Current drug targets, 20 7:716-726, May 2019. URL: https://doi.org/10.2174/1389450120666181204165344, doi:10.2174/1389450120666181204165344. This article has 63 citations and is from a peer-reviewed journal.
+
+5. (volkart2019cyclindependentkinase2 pages 6-8): Priscylla Andrade Volkart, Gabriela Bitencourt-Ferreira, André Arigony Souto, and Walter Filgueira de Azevedo. Cyclin-dependent kinase 2 in cellular senescence and cancer. a structural and functional review. Current drug targets, 20 7:716-726, May 2019. URL: https://doi.org/10.2174/1389450120666181204165344, doi:10.2174/1389450120666181204165344. This article has 63 citations and is from a peer-reviewed journal.
+
+6. (volkart2019cyclindependentkinase2 pages 9-10): Priscylla Andrade Volkart, Gabriela Bitencourt-Ferreira, André Arigony Souto, and Walter Filgueira de Azevedo. Cyclin-dependent kinase 2 in cellular senescence and cancer. a structural and functional review. Current drug targets, 20 7:716-726, May 2019. URL: https://doi.org/10.2174/1389450120666181204165344, doi:10.2174/1389450120666181204165344. This article has 63 citations and is from a peer-reviewed journal.
+
+7. (zhang2024cdk2andcdk4 pages 1-2): Wengang Zhang, Yonglan Liu, Hyunbum Jang, and Ruth Nussinov. Cdk2 and cdk4: cell cycle functions evolve distinct, catalysis-competent conformations, offering drug targets. JACS Au, 4:1911-1927, May 2024. URL: https://doi.org/10.1021/jacsau.4c00138, doi:10.1021/jacsau.4c00138. This article has 14 citations and is from a peer-reviewed journal.
+
+8. (abbas2007autocatalyticphosphorylationof pages 10-10): Tarek Abbas, Sudhakar Jha, Nicholas E. Sherman, and Anindya Dutta. Autocatalytic phosphorylation of cdk2 at the activating thr160. Cell Cycle, 6:843-852, Apr 2007. URL: https://doi.org/10.4161/cc.6.7.4000, doi:10.4161/cc.6.7.4000. This article has 50 citations and is from a peer-reviewed journal.
+
+9. (abbas2007autocatalyticphosphorylationof pages 10-11): Tarek Abbas, Sudhakar Jha, Nicholas E. Sherman, and Anindya Dutta. Autocatalytic phosphorylation of cdk2 at the activating thr160. Cell Cycle, 6:843-852, Apr 2007. URL: https://doi.org/10.4161/cc.6.7.4000, doi:10.4161/cc.6.7.4000. This article has 50 citations and is from a peer-reviewed journal.
+
+10. (cao2014phylogeneticanalysisof pages 16-16): Lihuan Cao, Fang Chen, Xian-mei Yang, Weijin Xu, Jun Xie, and Long Yu. Phylogenetic analysis of cdk and cyclin proteins in premetazoan lineages. BMC Evolutionary Biology, Jan 2014. URL: https://doi.org/10.1186/1471-2148-14-10, doi:10.1186/1471-2148-14-10. This article has 181 citations.
+
+11. (cheng2006theroleof pages 1-2): Kin-Yip Cheng, Martin E.M. Noble, Vicky Skamnaki, Nick R. Brown, Ed D. Lowe, Luke Kontogiannis, Kui Shen, Philip A. Cole, Giuliano Siligardi, and Louise N. Johnson. The role of the phospho-cdk2/cyclin a recruitment site in substrate recognition*. Journal of Biological Chemistry, 281:23167-23179, Aug 2006. URL: https://doi.org/10.1074/jbc.m600480200, doi:10.1074/jbc.m600480200. This article has 118 citations and is from a domain leading peer-reviewed journal.
+
+12. (hope2024crystallographicfragmentscreening pages 7-10): Ian Hope, Martin E. M. Noble, Michael J. Waring, E. M. Martin Noble, Jane A. Endicott, and Natalie J. Tatum. Crystallographic fragment screening of cdk2-cyclin a: fraglites map sites of protein-protein interaction. BioRxiv, Jun 2024. URL: https://doi.org/10.1101/2024.06.03.596235, doi:10.1101/2024.06.03.596235. This article has 2 citations.
+
+13. (malumbres2014cyclindependentkinases pages 8-9): Marcos Malumbres. Cyclin-dependent kinases. Genome Biology, 15:122-122, Jun 2014. URL: https://doi.org/10.1186/gb4184, doi:10.1186/gb4184. This article has 1898 citations and is from a highest quality peer-reviewed journal.
+
+14. (rowland2024cryoemstructureof pages 15-18): Rhianna J. Rowland, Svitlana Korolchuk, Marco Salamina, James R. Ault, Sam Hart, Johan P. Turkenburg, James N. Blaza, Martin E.M. Noble, and Jane A. Endicott. Cryo-em structure of the cdk2-cyclin a-cdc25a complex. BioRxiv, Oct 2024. URL: https://doi.org/10.1101/2023.10.17.562665, doi:10.1101/2023.10.17.562665. This article has 3 citations.
+
+15. (rowland2024cryoemstructureof pages 18-21): Rhianna J. Rowland, Svitlana Korolchuk, Marco Salamina, James R. Ault, Sam Hart, Johan P. Turkenburg, James N. Blaza, Martin E.M. Noble, and Jane A. Endicott. Cryo-em structure of the cdk2-cyclin a-cdc25a complex. BioRxiv, Oct 2024. URL: https://doi.org/10.1101/2023.10.17.562665, doi:10.1101/2023.10.17.562665. This article has 3 citations.
+
+16. (rowland2024cryoemstructureof pages 27-30): Rhianna J. Rowland, Svitlana Korolchuk, Marco Salamina, James R. Ault, Sam Hart, Johan P. Turkenburg, James N. Blaza, Martin E.M. Noble, and Jane A. Endicott. Cryo-em structure of the cdk2-cyclin a-cdc25a complex. BioRxiv, Oct 2024. URL: https://doi.org/10.1101/2023.10.17.562665, doi:10.1101/2023.10.17.562665. This article has 3 citations.
+
+17. (schulzegahmen1996highresolutioncrystalstructures pages 6-7): Ursula Schulze-Gahmen, Hendrik L. De Bondt, and Sung-Hou Kim. High-resolution crystal structures of human cyclin-dependent kinase 2 with and without atp: bound waters and natural ligand as guides for inhibitor design. Journal of medicinal chemistry, 39 23:4540-6, Nov 1996. URL: https://doi.org/10.1021/jm960402a, doi:10.1021/jm960402a. This article has 249 citations and is from a highest quality peer-reviewed journal.
+
+18. (talapati2021structuralandbinding pages 11-12): Sumalatha Rani Talapati, Megha Goyal, Vijayashankar Nataraj, Manoj Pothuganti, Sreevidya M. R, Suraj Gore, Murali Ramachandra, Thomas Antony, Sunil S. More, and Narasimha K. Rao. Structural and binding studies of cyclin‐dependent kinase 2 with nu6140 inhibitor. Chemical Biology &amp; Drug Design, 98:857-868, Sep 2021. URL: https://doi.org/10.1111/cbdd.13941, doi:10.1111/cbdd.13941. This article has 2 citations.
+
+19. (vivo2006roleofphosphorylated pages 8-9): Marco De Vivo, Andrea Cavalli, Giovanni Bottegoni, Paolo Carloni, and Maurizio Recanatini. Role of phosphorylated thr160 for the activation of the <i>cdk2/cyclin a</i> complex. Proteins: Structure, Function, and Bioinformatics, 62:89-98, Nov 2006. URL: https://doi.org/10.1002/prot.20697, doi:10.1002/prot.20697. This article has 25 citations.
+
+20. (volkart2019cyclindependentkinase2 pages 3-4): Priscylla Andrade Volkart, Gabriela Bitencourt-Ferreira, André Arigony Souto, and Walter Filgueira de Azevedo. Cyclin-dependent kinase 2 in cellular senescence and cancer. a structural and functional review. Current drug targets, 20 7:716-726, May 2019. URL: https://doi.org/10.2174/1389450120666181204165344, doi:10.2174/1389450120666181204165344. This article has 63 citations and is from a peer-reviewed journal.
+
+21. (volkart2019cyclindependentkinase2 pages 8-9): Priscylla Andrade Volkart, Gabriela Bitencourt-Ferreira, André Arigony Souto, and Walter Filgueira de Azevedo. Cyclin-dependent kinase 2 in cellular senescence and cancer. a structural and functional review. Current drug targets, 20 7:716-726, May 2019. URL: https://doi.org/10.2174/1389450120666181204165344, doi:10.2174/1389450120666181204165344. This article has 63 citations and is from a peer-reviewed journal.
+
+22. (zhang2024cdk2andcdk4 pages 13-14): Wengang Zhang, Yonglan Liu, Hyunbum Jang, and Ruth Nussinov. Cdk2 and cdk4: cell cycle functions evolve distinct, catalysis-competent conformations, offering drug targets. JACS Au, 4:1911-1927, May 2024. URL: https://doi.org/10.1021/jacsau.4c00138, doi:10.1021/jacsau.4c00138. This article has 14 citations and is from a peer-reviewed journal.
+
+23. (cheng2006theroleof pages 6-6): Kin-Yip Cheng, Martin E.M. Noble, Vicky Skamnaki, Nick R. Brown, Ed D. Lowe, Luke Kontogiannis, Kui Shen, Philip A. Cole, Giuliano Siligardi, and Louise N. Johnson. The role of the phospho-cdk2/cyclin a recruitment site in substrate recognition*. Journal of Biological Chemistry, 281:23167-23179, Aug 2006. URL: https://doi.org/10.1074/jbc.m600480200, doi:10.1074/jbc.m600480200. This article has 118 citations and is from a domain leading peer-reviewed journal.
+
+24. (ikuta2001crystallographicapproachto pages 1-2): Mari Ikuta, Kenji Kamata, Kazuhiro Fukasawa, Teruki Honma, Takumitsu Machida, Hiroshi Hirai, Ikuko Suzuki-Takahashi, Takashi Hayama, and Susumu Nishimura. Crystallographic approach to identification of cyclin-dependent kinase 4 (cdk4)-specific inhibitors by using cdk4 mimic cdk2 protein*. The Journal of Biological Chemistry, 276:27548-27554, Jul 2001. URL: https://doi.org/10.1074/jbc.m102060200, doi:10.1074/jbc.m102060200. This article has 162 citations.
+
+25. (ord2024highthroughputdiscoveryand pages 33-35): Mihkel Örd, Matthew J. Winters, Mythili S. Subbanna, Natalia de Martin Garrido, Victoria I. Cushing, Johanna Kliche, Caroline Benz, Ylva Ivarsson, Basil J. Greber, Peter M. Pryciak, and Norman E. Davey. High-throughput discovery and deep characterization of cyclin-cdk docking motifs. BioRxiv, Dec 2024. URL: https://doi.org/10.1101/2024.12.03.625240, doi:10.1101/2024.12.03.625240. This article has 1 citations.
+
+26. (volkart2019cyclindependentkinase2 pages 10-11): Priscylla Andrade Volkart, Gabriela Bitencourt-Ferreira, André Arigony Souto, and Walter Filgueira de Azevedo. Cyclin-dependent kinase 2 in cellular senescence and cancer. a structural and functional review. Current drug targets, 20 7:716-726, May 2019. URL: https://doi.org/10.2174/1389450120666181204165344, doi:10.2174/1389450120666181204165344. This article has 63 citations and is from a peer-reviewed journal.

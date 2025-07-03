@@ -1,0 +1,109 @@
+## Phylogeny
+STK38, also known as NDR1, is a serine/threonine protein kinase classified within the AGC group (protein kinase A/G/C-like) of the human kinome, as established by Manning et al. (cornils2010functionalcharacterizationof pages 9-14, fukasawa2023theroleof pages 1-2). Within the AGC group, it belongs to the nuclear Dbf2-related (NDR) kinase family (cornils2010functionalcharacterizationof pages 18-22, hergovich2008mammalianndrprotein pages 1-2). The human genome encodes four NDR-related kinases: NDR1 (STK38), NDR2 (STK38L), LATS1, and LATS2 (cornils2010functionalcharacterizationof pages 9-14). The NDR kinase family is highly conserved from yeast to humans (hergovich2016therolesof pages 1-3).
+
+Orthologs of STK38 are found across diverse species, including *Saccharomyces cerevisiae* (Dbf2p, Dbf20p, Cbk1p), *Schizosaccharomyces pombe* (Sid2p, Orb6), *Caenorhabditis elegans* (SAX-1), and *Drosophila melanogaster* (Tricornered, Trc) (cornils2010functionalcharacterizationof pages 9-14, hergovich2008mammalianndrprotein pages 1-2, martin2021thestk38–xpo1axis pages 2-4). This evolutionary conservation is highlighted by the ability of human NDR1 to functionally rescue the loss of the Trc kinase in flies (cornils2010functionalcharacterizationof pages 18-22, hergovich2016therolesof pages 1-3).
+
+
+## Reaction Catalyzed
+As a serine/threonine protein kinase, STK38 catalyzes the transfer of the γ-phosphate from ATP to the hydroxyl group of serine or threonine residues on substrate proteins (cornils2010functionalcharacterizationof pages 9-14, fukasawa2023theroleof pages 1-2, hergovich2008mammalianndrprotein pages 1-2).
+
+
+## Cofactor Requirements
+The catalytic activity of STK38 requires divalent metal ions, such as Mg²⁺ or Mn²⁺ (hergovich2008mammalianndrprotein pages 1-2, hergovich2016therolesof pages 11-12).
+
+
+## Substrate Specificity
+According to a comprehensive atlas of kinase specificities, STK38 preferentially phosphorylates substrates containing a consensus motif characterized by an Arginine (Arg) residue at the -3 position and hydrophobic residues at the +1 and +2 positions relative to the phosphorylated serine/threonine (fukasawa2023theroleof pages 8-10). Another characterization describes the consensus recognition motif as HXRXX(S*/T*), where S*/T* is the phosphorylation site, indicating a preference for a basic residue-rich motif (fukasawa2023theroleof pages 8-10, hergovich2016therolesof pages 3-5). Specific substrate sequences phosphorylated by NDR1/2 kinases include HVRGDpS, HSRQApS, HVRAHpS, and HLRQSpS (hergovich2016therolesof pages 3-5).
+
+
+## Structure
+STK38 has a canonical two-lobed kinase architecture and is characterized by several key domains and structural features (fukasawa2023theroleof pages 1-2, xiong2018structuralbasisfor pages 1-3):
+-   An N-terminal regulatory (NTR) domain (residues 15-80) that mediates binding to regulatory proteins, including MOB family members and S100B (cornils2010functionalcharacterizationof pages 9-14, fukasawa2023theroleof pages 1-2, martin2021thestk38–xpo1axis pages 2-4).
+-   A central catalytic kinase domain containing a critical lysine residue at position 118 (K118) in subdomain II required for ATP binding (fukasawa2023theroleof pages 2-4).
+-   A unique insertion of 30-60 amino acids located between subdomains VII and VIII, which includes an auto-inhibitory sequence (AIS, residues 265–276) rich in basic residues that negatively regulates kinase activity (hergovich2008mammalianndrprotein pages 1-2, martin2021thestk38–xpo1axis pages 2-4, fukasawa2023theroleof pages 2-4).
+-   An atypically long activation segment (AS; residues 277–292) containing the key autophosphorylation site Ser281 (fukasawa2023theroleof pages 1-2, xiong2018structuralbasisfor pages 1-3). The crystal structure of the inactive kinase reveals that this elongated activation segment acts as an auto-inhibitory loop, blocking substrate access and stabilizing a non-productive conformation of the αC helix (xiong2018structuralbasisfor pages 1-3, martin2021thestk38–xpo1axis pages 2-4).
+-   A C-terminal hydrophobic motif (HM; residues 439–451) containing the regulatory phosphorylation site Thr444 (fukasawa2023theroleof pages 1-2, fukasawa2023theroleof pages 2-4).
+
+
+## Regulation
+STK38 activity is tightly controlled through post-translational modifications, protein-protein interactions, and targeted degradation.
+
+**Phosphorylation:**
+-   **Activation:** Full kinase activation is a multi-step process requiring phosphorylation at several key sites. This includes autophosphorylation at Ser281 within the activation segment and phosphorylation at Thr444 within the hydrophobic motif by upstream kinases such as MST1, MST2, MST3, and MAP4Ks (hergovich2008mammalianndrprotein pages 1-2, martin2020thehippokinase pages 7-9, xiong2018structuralbasisfor pages 1-3). Full activity also requires phosphorylation at Thr74 within the NTR domain (martin2020thehippokinase pages 7-9).
+-   **Inhibition:** Protein phosphatase 2A (PP2A) inactivates STK38 by dephosphorylating Ser281 and Thr444 (fukasawa2023theroleof pages 2-4, martin2020thehippokinase pages 7-9, hergovich2016therolesof pages 1-3). Glycogen synthase kinase 3 (GSK-3) negatively regulates STK38 by phosphorylating Ser6 and Thr7, an event primed by phosphorylation at Ser10 and Ser11 (fukasawa2023theroleof pages 2-4).
+-   **Stability:** The upstream kinase MEKK2 phosphorylates STK38 at Ser91, which protects it from degradation mediated by calpain (fukasawa2023theroleof pages 4-6, fukasawa2023theroleof pages 8-10).
+
+**Protein Interactions:**
+-   **MOB proteins:** Binding of MOB1 to the NTR domain is essential for relieving auto-inhibition by the AIS and promoting STK38 activation (fukasawa2023theroleof pages 1-2, hergovich2008mammalianndrprotein pages 1-2). In contrast, MOB2 competes with MOB1 for binding to unphosphorylated STK38, thereby acting as a negative regulator (cornils2010functionalcharacterizationof pages 18-22, hergovich2016therolesof pages 3-5).
+-   **S100B:** The calcium-binding protein S100B binds to the NTR and stimulates STK38 kinase activity in a Ca²⁺-dependent manner (fukasawa2023theroleof pages 2-4).
+
+**Other Regulation:**
+-   STK38 protein levels are regulated by SOCS2-mediated ubiquitination and degradation (fukasawa2023theroleof pages 2-4).
+-   Kinase activity is increased in response to cellular and oxidative stress, such as exposure to hydrogen peroxide and X-rays (fukasawa2023theroleof pages 1-2, fukasawa2023theroleof pages 2-4).
+
+
+## Function
+STK38 is a widely expressed kinase that localizes to both the nucleus and cytoplasm, with high protein expression observed in lymphoid tissues (fukasawa2023theroleof pages 2-4). It is a key signaling node involved in diverse cellular processes.
+
+**Signaling Pathways:**
+-   **Hippo Pathway:** STK38 is a component of the Hippo signaling pathway, acting downstream of the MST1/2 and MOB1 kinases to phosphorylate and inhibit the transcriptional co-activators YAP/TAZ (hergovich2016therolesof pages 1-3, martin2020thehippokinase pages 7-9).
+-   **DNA Damage Response (DDR):** STK38 is activated by DNA damage and participates in cell cycle checkpoint control (fukasawa2023theroleof pages 1-2, xiao2021thehipposignaling pages 27-27). It functions as a reader of mono-ufmylated histone H4, which promotes ATM activation (xiao2021thehipposignaling pages 27-27). It also phosphorylates CDC25A at Ser76, targeting it for degradation to enforce the G2/M checkpoint (fukasawa2023theroleof pages 4-6, hergovich2016therolesof pages 3-5).
+-   **Nuclear Export:** STK38 phosphorylates and activates the nuclear export receptor XPO1, thereby regulating the subcellular localization of XPO1 cargoes such as Beclin1 and YAP1 (unknownauthors2019thestk38kinase pages 89-94, unknownauthors2019thestk38kinase pages 238-239).
+
+**Cellular Processes and Substrates:**
+-   STK38 regulates centrosome duplication, mitotic chromosome alignment, apoptosis, autophagy, and cell cycle progression through the G1/S transition (hergovich2008mammalianndrprotein pages 1-2, martin2020thehippokinase pages 7-9, hergovich2016therolesof pages 11-12).
+-   Identified substrates of STK38 include p21/Cip1 (at Ser146), c-Myc, HP1α (Ser95), Rabin8 (Ser240/272), MAP3K2, and Beclin1 (hergovich2016therolesof pages 3-5, hergovich2016therolesof pages 11-12, martin2020thehippokinase pages 7-9, fukasawa2023theroleof pages 11-12).
+
+
+## Inhibitors
+No specific, direct inhibitors of STK38 have been reported (fukasawa2023theroleof pages 8-10, hergovich2008mammalianndrprotein pages 1-2). However, its activity and stability can be modulated indirectly:
+-   **Okadaic acid**, an inhibitor of the phosphatase PP2A, leads to hyperphosphorylation and activation of STK38 (fukasawa2023theroleof pages 2-4, xiong2018structuralbasisfor pages 12-13).
+-   **17-AAG**, an inhibitor of HSP90, causes downregulation of STK38 protein levels (fukasawa2023theroleof pages 8-10).
+-   **Calpeptin**, an inhibitor of calpain proteases, prevents the degradation of STK38 under conditions of heat stress (fukasawa2023theroleof pages 8-10).
+
+
+## Other Comments
+Dysregulation of STK38 is associated with cancer and other diseases (cornils2010functionalcharacterizationof pages 9-14, hergovich2016therolesof pages 1-3).
+-   **Cancer:** STK38 can act as either a tumor suppressor or an oncogene depending on the cellular context (fukasawa2023theroleof pages 11-12). Somatic mutations affecting its regulatory and catalytic domains have been found in skin tumors (E18K), lung cancer (A136G), and ovarian cancer (K332T, K354N) (fukasawa2023theroleof pages 2-4).
+-   **Other Diseases:** Mutations in the NDR kinase family are linked to early retinal degeneration and predisposition to T cell lymphoma (hergovich2016therolesof pages 11-12). STK38 is also a target of the HIV-1 protease, which impacts immune function (unknownauthors2019thestk38kinase pages 42-45).
+-   **Development:** The combined knockout of *Ndr1* and its paralog *Ndr2* in mice results in embryonic lethality around day 10, with defects in somitogenesis and cardiac looping, demonstrating its critical role during development (hergovich2016therolesof pages 1-3).
+
+References
+
+1. (cornils2010functionalcharacterizationof pages 18-22): Functional characterization of mammalian NDR kinase deficiency : novel functions and insights into downstream signaling mechanisms
+
+2. (cornils2010functionalcharacterizationof pages 9-14): Functional characterization of mammalian NDR kinase deficiency : novel functions and insights into downstream signaling mechanisms
+
+3. (fukasawa2023theroleof pages 1-2): T. Fukasawa, Atsushi Enomoto, A. Yoshizaki-Ogawa, Shinichi Sato, K. Miyagawa, and A. Yoshizaki. The role of mammalian stk38 in dna damage response and targeting for radio-sensitization. Cancers, Mar 2023. URL: https://doi.org/10.3390/cancers15072054, doi:10.3390/cancers15072054. This article has 5 citations and is from a peer-reviewed journal.
+
+4. (fukasawa2023theroleof pages 11-12): T. Fukasawa, Atsushi Enomoto, A. Yoshizaki-Ogawa, Shinichi Sato, K. Miyagawa, and A. Yoshizaki. The role of mammalian stk38 in dna damage response and targeting for radio-sensitization. Cancers, Mar 2023. URL: https://doi.org/10.3390/cancers15072054, doi:10.3390/cancers15072054. This article has 5 citations and is from a peer-reviewed journal.
+
+5. (fukasawa2023theroleof pages 2-4): T. Fukasawa, Atsushi Enomoto, A. Yoshizaki-Ogawa, Shinichi Sato, K. Miyagawa, and A. Yoshizaki. The role of mammalian stk38 in dna damage response and targeting for radio-sensitization. Cancers, Mar 2023. URL: https://doi.org/10.3390/cancers15072054, doi:10.3390/cancers15072054. This article has 5 citations and is from a peer-reviewed journal.
+
+6. (fukasawa2023theroleof pages 8-10): T. Fukasawa, Atsushi Enomoto, A. Yoshizaki-Ogawa, Shinichi Sato, K. Miyagawa, and A. Yoshizaki. The role of mammalian stk38 in dna damage response and targeting for radio-sensitization. Cancers, Mar 2023. URL: https://doi.org/10.3390/cancers15072054, doi:10.3390/cancers15072054. This article has 5 citations and is from a peer-reviewed journal.
+
+7. (hergovich2008mammalianndrprotein pages 1-2): Alexander Hergovich, Hauke Cornils, and Brian A. Hemmings. Mammalian ndr protein kinases: from regulation to a role in centrosome duplication. Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics, 1784:3-15, Jan 2008. URL: https://doi.org/10.1016/j.bbapap.2007.07.017, doi:10.1016/j.bbapap.2007.07.017. This article has 81 citations.
+
+8. (hergovich2016therolesof pages 1-3): Alexander Hergovich. The roles of ndr protein kinases in hippo signalling. Genes, 7:21, May 2016. URL: https://doi.org/10.3390/genes7050021, doi:10.3390/genes7050021. This article has 109 citations and is from a peer-reviewed journal.
+
+9. (hergovich2016therolesof pages 11-12): Alexander Hergovich. The roles of ndr protein kinases in hippo signalling. Genes, 7:21, May 2016. URL: https://doi.org/10.3390/genes7050021, doi:10.3390/genes7050021. This article has 109 citations and is from a peer-reviewed journal.
+
+10. (hergovich2016therolesof pages 3-5): Alexander Hergovich. The roles of ndr protein kinases in hippo signalling. Genes, 7:21, May 2016. URL: https://doi.org/10.3390/genes7050021, doi:10.3390/genes7050021. This article has 109 citations and is from a peer-reviewed journal.
+
+11. (martin2020thehippokinase pages 7-9): Alexandre PJ Martin and Jacques H Camonis. The hippo kinase stk38 ensures functionality of xpo1. Cell Cycle, 19:2982-2995, Oct 2020. URL: https://doi.org/10.1080/15384101.2020.1826619, doi:10.1080/15384101.2020.1826619. This article has 4 citations and is from a peer-reviewed journal.
+
+12. (martin2021thestk38–xpo1axis pages 2-4): Alexandre PJ. Martin, Vasily N. Aushev, Gérard Zalcman, and Jacques H. Camonis. The stk38–xpo1 axis, a new actor in physiology and cancer. Cellular and Molecular Life Sciences, 78:1943-1955, Nov 2021. URL: https://doi.org/10.1007/s00018-020-03690-w, doi:10.1007/s00018-020-03690-w. This article has 14 citations and is from a domain leading peer-reviewed journal.
+
+13. (unknownauthors2019thestk38kinase pages 42-45): The STK38 kinase regulates the subcellular distribution of downstream partners by phosphorylating the auto-inhibitory domain of XPO1
+
+14. (xiao2021thehipposignaling pages 27-27): Yi Xiao and Jixin Dong. The hippo signaling pathway in cancer: a cell cycle perspective. Cancers, Dec 2021. URL: https://doi.org/10.3390/cancers13246214, doi:10.3390/cancers13246214. This article has 73 citations and is from a peer-reviewed journal.
+
+15. (xiong2018structuralbasisfor pages 1-3): Shawn Xiong, Kristina Lorenzen, Amber L. Couzens, Catherine M. Templeton, Dushyandi Rajendran, Daniel Y.L. Mao, Yu-Chi Juang, David Chiovitti, Igor Kurinov, Sebastian Guettler, Anne-Claude Gingras, and Frank Sicheri. Structural basis for auto-inhibition of the ndr1 kinase domain by an atypically long activation segment. Structure, 26:1101-1115.e6, Aug 2018. URL: https://doi.org/10.1016/j.str.2018.05.014, doi:10.1016/j.str.2018.05.014. This article has 20 citations and is from a domain leading peer-reviewed journal.
+
+16. (xiong2018structuralbasisfor pages 12-13): Shawn Xiong, Kristina Lorenzen, Amber L. Couzens, Catherine M. Templeton, Dushyandi Rajendran, Daniel Y.L. Mao, Yu-Chi Juang, David Chiovitti, Igor Kurinov, Sebastian Guettler, Anne-Claude Gingras, and Frank Sicheri. Structural basis for auto-inhibition of the ndr1 kinase domain by an atypically long activation segment. Structure, 26:1101-1115.e6, Aug 2018. URL: https://doi.org/10.1016/j.str.2018.05.014, doi:10.1016/j.str.2018.05.014. This article has 20 citations and is from a domain leading peer-reviewed journal.
+
+17. (fukasawa2023theroleof pages 4-6): T. Fukasawa, Atsushi Enomoto, A. Yoshizaki-Ogawa, Shinichi Sato, K. Miyagawa, and A. Yoshizaki. The role of mammalian stk38 in dna damage response and targeting for radio-sensitization. Cancers, Mar 2023. URL: https://doi.org/10.3390/cancers15072054, doi:10.3390/cancers15072054. This article has 5 citations and is from a peer-reviewed journal.
+
+18. (unknownauthors2019thestk38kinase pages 238-239): The STK38 kinase regulates the subcellular distribution of downstream partners by phosphorylating the auto-inhibitory domain of XPO1
+
+19. (unknownauthors2019thestk38kinase pages 89-94): The STK38 kinase regulates the subcellular distribution of downstream partners by phosphorylating the auto-inhibitory domain of XPO1

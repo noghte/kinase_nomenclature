@@ -1,0 +1,94 @@
+## Phylogeny  
+ATR is an atypical serine/threonine kinase that belongs to the phosphatidylinositol-3-kinase-related kinase (PIKK) group of the human kinome, clustering with ATM, DNA-PKcs, mTOR, SMG-1 and TRRAP based on the conserved FAT-kinase-FATC module (templeton2005thephosphoinositide‐3‐oh‐kinase‐relatedkinases pages 1-2).  
+Orthologs are conserved across eukaryotes and include Saccharomyces cerevisiae Mec1, Schizosaccharomyces pombe Rad3, Drosophila melanogaster Mei-41, Caenorhabditis elegans ATL-1, Mus musculus Atr and Arabidopsis thaliana AtATR, underscoring deep evolutionary conservation of ATR signalling (lempiainen2009emergingcommonthemes pages 1-2, templeton2005thephosphoinositide‐3‐oh‐kinase‐relatedkinases pages 2-3).  
+Cryo-EM comparisons reveal that the dimeric FATKIN arrangement is retained between human ATR and yeast Mec1, highlighting structural continuity throughout evolution (williams2020structuresandregulations pages 3-5).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr → ADP + [protein]-phospho-Ser/Thr (kim1999substratespecificitiesand pages 1-2).  
+
+## Cofactor Requirements  
+Maximal catalytic activity is achieved with Mn²⁺, whereas Mg²⁺ supports lower turnover in vitro (kim1999substratespecificitiesand pages 3-4). Structural analyses used MgCl₂ together with reducing agents such as TCEP or DTT to maintain enzyme integrity, indicating tolerance for both divalent cations under specific conditions (baretic2019structuralinsightsinto pages 6-7).  
+
+## Substrate Specificity  
+ATR preferentially phosphorylates serine or threonine residues immediately followed by glutamine, defining the minimal [S/T]Q consensus (kim1999substratespecificitiesand pages 4-5). Hydrophobic or acidic residues at positions –1 to –3 enhance catalysis, whereas positively charged residues in these positions inhibit phosphorylation (kim1999substratespecificitiesand pages 4-5). Large-scale phosphoproteomics after UV exposure confirmed extensive cellular utilisation of the [S/T]Q motif (stokes2007profilingofuvinduced pages 1-2). Efficient dephosphorylation by Wip1 requires acidic residues N-terminal to the p[S/T]Q site, corroborating the importance of local negative charge for recognition (yamaguchi2007thewip1phosphatase pages 4-6).  
+
+## Structure  
+ATR (2 644 amino acids) is organised into an N-terminal α-solenoid of N-HEAT and M-HEAT repeats, a central FAT domain, a bilobed kinase domain, an internal PIKK regulatory domain (PRD) and a C-terminal FATC segment that is essential for catalytic integrity (baretic2019structuralinsightsinto pages 2-3).  
+Cryo-EM structures of the human ATR-ATRIP complex at 3.9–4.7 Å resolution (PDB 5YZ0, 6NJS) reveal a head-to-head dimer of FATKIN modules with catalytic clefts exposed to solvent; ATRIP forms an S-shaped bridge between the N-HEAT regions of both protomers (rao2018cryoemstructureof pages 1-2).  
+The active site contains conserved HRD, DFN (DFG-like) and APE motifs, an intact hydrophobic spine and a flexible activation loop; absence of the inhibitory helix found in mTOR leaves the substrate groove unobstructed (rao2018cryoemstructureof pages 2-6).  
+The PRD, built from Ka9/Ka10 helices plus a short insert, rests over the substrate-binding groove in the apo state and is displaced upon TopBP1 engagement to relieve autoinhibition (williams2020structuresandregulations pages 3-5).  
+Mutation Ser1333Ala within the N-HEAT solenoid increases basal kinase activity, demonstrating long-range conformational control of the active site (luzwick2014mutationofserine pages 1-2).  
+
+## Regulation  
+Autophosphorylation at Thr1989 occurs after recruitment to RPA-coated single-stranded DNA and creates a high-affinity docking site for TopBP1, amplifying kinase output (liu2011atrautophosphorylationas pages 1-2).  
+Phosphorylation at Ser428 permits binding of the prolyl isomerase Pin1, which converts cis-ATR to trans-ATR and modulates its anti-apoptotic versus pro-apoptotic functions (makinwa2020phosphorylationdependentpin1isomerization pages 2-3).  
+Ubiquitination by the E3 ligase E6AP regulates protein stability, whereas PP2A reverses key phosphorylation events, providing negative feedback (wilson2022atrinhibitorazd6738 pages 13-13).  
+Allosteric activation further requires ATRIP for localisation and the Rad17-loaded 9-1-1 clamp plus TopBP1 for PRD displacement, together relieving steric inhibition of the catalytic cleft (mordes2008activationofatr pages 1-2, yazinski2016functionsregulationand pages 2-3).  
+
+## Function  
+ATR is expressed ubiquitously with pronounced activity in proliferative tissues and is predominantly nuclear, while a regulated cytoplasmic pool engages mitochondrial targets (baretic2019structuralinsightsinto pages 1-2, makinwa2020phosphorylationdependentpin1isomerization pages 2-3).  
+Upstream activation signals include RPA-ssDNA, ATRIP, the Rad17-9-1-1 clamp and TopBP1, which assemble hierarchically at stalled replication forks or processed DNA lesions (yazinski2016functionsregulationand pages 5-6, mordes2008activationofatr pages 2-4).  
+Downstream substrates include Chk1 (Ser345), RPA2, MCM2, BRCA1, FANCI, Rad17 and numerous additional S/TQ-bearing proteins that coordinate S-phase checkpoint control, replication origin firing, fork stabilisation and homologous recombination (kim1999substratespecificitiesand pages 5-6, rao2018cryoemstructureof pages 2-6, yazinski2016functionsregulationand pages 5-6).  
+
+## Inhibitors  
+VE-821 and its clinical analogue VE-822/VX-970 are ATP-competitive inhibitors that disable ATR-mediated replication-stress responses and sensitise tumour cells to topoisomerase I poisons (josse2014atrinhibitorsve821 pages 12-13).  
+AZD6738 (ceralasertib) shows potent antitumour activity as monotherapy and in combination with chemotherapeutics or PARP inhibitors; PP2A-mediated dephosphorylation modulates responses to this inhibitor (wilson2022atrinhibitorazd6738 pages 13-13).  
+Cryo-EM mapping confirms VX-970 occupancy of the ATP pocket in the active site, consistent with type I inhibitor binding (rao2018cryoemstructureof pages 2-6).  
+
+## Other Comments  
+Complete Atr knockout in mice is embryonic lethal, whereas hypomorphic human mutations cause Seckel syndrome characterised by microcephaly and growth retardation (yazinski2016functionsregulationand pages 2-3).  
+The Ser1333Asp allele diminishes activity, contrasting with the hyperactive Ser1333Ala variant, illustrating sensitivity of the HEAT solenoid to single-residue changes (luzwick2014mutationofserine pages 1-2).  
+Triple substitution Thr1566Ala/Thr1578Ala/Thr1589Ala uncouples essential S-phase functions from G2 checkpoint control, demonstrating separable regulatory surfaces within the HEAT region (nam2011analysisofmutations pages 1-2).  
+Tumour cells experiencing oncogene-induced replication stress exhibit heightened dependence on ATR signalling, supporting therapeutic exploitation of ATR inhibition (yazinski2016functionsregulationand pages 5-6).
+
+References
+
+1. (baretic2019structuralinsightsinto pages 1-2): Domagoj Baretic, Taiana Maia de Oliveira, Martina Niess, Paul Wan, Hannah Pollard, Christopher M. Johnson, Caroline Truman, Eileen McCall, David Fisher, Roger Williams, and Christopher Phillips. Structural insights into the critical dna damage sensors dna-pkcs, atm and atr. Progress in Biophysics and Molecular Biology, 147:4-16, Oct 2019. URL: https://doi.org/10.1016/j.pbiomolbio.2019.06.003, doi:10.1016/j.pbiomolbio.2019.06.003. This article has 30 citations and is from a peer-reviewed journal.
+
+2. (baretic2019structuralinsightsinto pages 2-3): Domagoj Baretic, Taiana Maia de Oliveira, Martina Niess, Paul Wan, Hannah Pollard, Christopher M. Johnson, Caroline Truman, Eileen McCall, David Fisher, Roger Williams, and Christopher Phillips. Structural insights into the critical dna damage sensors dna-pkcs, atm and atr. Progress in Biophysics and Molecular Biology, 147:4-16, Oct 2019. URL: https://doi.org/10.1016/j.pbiomolbio.2019.06.003, doi:10.1016/j.pbiomolbio.2019.06.003. This article has 30 citations and is from a peer-reviewed journal.
+
+3. (baretic2019structuralinsightsinto pages 6-7): Domagoj Baretic, Taiana Maia de Oliveira, Martina Niess, Paul Wan, Hannah Pollard, Christopher M. Johnson, Caroline Truman, Eileen McCall, David Fisher, Roger Williams, and Christopher Phillips. Structural insights into the critical dna damage sensors dna-pkcs, atm and atr. Progress in Biophysics and Molecular Biology, 147:4-16, Oct 2019. URL: https://doi.org/10.1016/j.pbiomolbio.2019.06.003, doi:10.1016/j.pbiomolbio.2019.06.003. This article has 30 citations and is from a peer-reviewed journal.
+
+4. (josse2014atrinhibitorsve821 pages 12-13): Rozenn Jossé, Scott E. Martin, Rajarshi Guha, Pinar Ormanoglu, Thomas D. Pfister, Philip M. Reaper, Christopher S. Barnes, Julie Jones, Peter Charlton, John R. Pollard, Joel Morris, James H. Doroshow, and Yves Pommier. Atr inhibitors ve-821 and vx-970 sensitize cancer cells to topoisomerase i inhibitors by disabling dna replication initiation and fork elongation responses. Cancer research, 74 23:6968-79, Dec 2014. URL: https://doi.org/10.1158/0008-5472.can-13-3369, doi:10.1158/0008-5472.can-13-3369. This article has 208 citations and is from a highest quality peer-reviewed journal.
+
+5. (kim1999substratespecificitiesand pages 1-2): S. T. Kim, D. Lim, C. Canman, and M. Kastan. Substrate specificities and identification of putative substrates of atm kinase family members*. The Journal of Biological Chemistry, 274:37538-37543, Dec 1999. URL: https://doi.org/10.1074/jbc.274.53.37538, doi:10.1074/jbc.274.53.37538. This article has 1079 citations.
+
+6. (kim1999substratespecificitiesand pages 3-4): S. T. Kim, D. Lim, C. Canman, and M. Kastan. Substrate specificities and identification of putative substrates of atm kinase family members*. The Journal of Biological Chemistry, 274:37538-37543, Dec 1999. URL: https://doi.org/10.1074/jbc.274.53.37538, doi:10.1074/jbc.274.53.37538. This article has 1079 citations.
+
+7. (lempiainen2009emergingcommonthemes pages 1-2): Harri Lempiäinen and Thanos D Halazonetis. Emerging common themes in regulation of pikks and pi3ks. The EMBO Journal, 28:3067-3073, Sep 2009. URL: https://doi.org/10.1038/emboj.2009.281, doi:10.1038/emboj.2009.281. This article has 414 citations.
+
+8. (luzwick2014mutationofserine pages 1-2): Jessica W Luzwick, E. Nam, R. Zhao, and D. Cortez. Mutation of serine 1333 in the atr heat repeats creates a hyperactive kinase. PLoS ONE, Jun 2014. URL: https://doi.org/10.1371/journal.pone.0099397, doi:10.1371/journal.pone.0099397. This article has 13 citations and is from a peer-reviewed journal.
+
+9. (rao2018cryoemstructureof pages 1-2): Q. Rao, Mengjie Liu, Yuan Tian, Zihan Wu, Y. Hao, Lei Song, Zhaoyu Qin, Chen Ding, Hongwei Wang, Jiawei Wang, and Yanhui Xu. Cryo-em structure of human atr-atrip complex. Cell Research, 28:143-156, Dec 2018. URL: https://doi.org/10.1038/cr.2017.158, doi:10.1038/cr.2017.158. This article has 103 citations and is from a domain leading peer-reviewed journal.
+
+10. (rao2018cryoemstructureof pages 2-6): Q. Rao, Mengjie Liu, Yuan Tian, Zihan Wu, Y. Hao, Lei Song, Zhaoyu Qin, Chen Ding, Hongwei Wang, Jiawei Wang, and Yanhui Xu. Cryo-em structure of human atr-atrip complex. Cell Research, 28:143-156, Dec 2018. URL: https://doi.org/10.1038/cr.2017.158, doi:10.1038/cr.2017.158. This article has 103 citations and is from a domain leading peer-reviewed journal.
+
+11. (templeton2005thephosphoinositide‐3‐oh‐kinase‐relatedkinases pages 1-2): George W. Templeton and Greg B.G. Moorhead. The phosphoinositide‐3‐oh‐kinase‐related kinases of <i>arabidopsis thaliana</i>. EMBO reports, 6:723-728, Aug 2005. URL: https://doi.org/10.1038/sj.embor.7400479, doi:10.1038/sj.embor.7400479. This article has 42 citations and is from a highest quality peer-reviewed journal.
+
+12. (templeton2005thephosphoinositide‐3‐oh‐kinase‐relatedkinases pages 2-3): George W. Templeton and Greg B.G. Moorhead. The phosphoinositide‐3‐oh‐kinase‐related kinases of <i>arabidopsis thaliana</i>. EMBO reports, 6:723-728, Aug 2005. URL: https://doi.org/10.1038/sj.embor.7400479, doi:10.1038/sj.embor.7400479. This article has 42 citations and is from a highest quality peer-reviewed journal.
+
+13. (williams2020structuresandregulations pages 3-5): Rhys M Williams, Luke A Yates, and Xiaodong Zhang. Structures and regulations of atm and atr, master kinases in genome integrity. Current Opinion in Structural Biology, 61:98-105, Apr 2020. URL: https://doi.org/10.1016/j.sbi.2019.12.010, doi:10.1016/j.sbi.2019.12.010. This article has 42 citations and is from a peer-reviewed journal.
+
+14. (wilson2022atrinhibitorazd6738 pages 13-13): Zena Wilson, R. Odedra, Y. Wallez, P. Wijnhoven, Adina M. Hughes, Joe Gerrard, Gemma N. Jones, Hannah Bargh-Dawson, Elane Brown, Lucy A Young, M. O’Connor, and A. Lau. Atr inhibitor azd6738 (ceralasertib) exerts antitumor activity as a monotherapy and in combination with chemotherapy and the parp inhibitor olaparib. Cancer Research, 82:1140-1152, Jan 2022. URL: https://doi.org/10.1158/0008-5472.can-21-2997, doi:10.1158/0008-5472.can-21-2997. This article has 103 citations and is from a highest quality peer-reviewed journal.
+
+15. (kim1999substratespecificitiesand pages 4-5): S. T. Kim, D. Lim, C. Canman, and M. Kastan. Substrate specificities and identification of putative substrates of atm kinase family members*. The Journal of Biological Chemistry, 274:37538-37543, Dec 1999. URL: https://doi.org/10.1074/jbc.274.53.37538, doi:10.1074/jbc.274.53.37538. This article has 1079 citations.
+
+16. (kim1999substratespecificitiesand pages 5-6): S. T. Kim, D. Lim, C. Canman, and M. Kastan. Substrate specificities and identification of putative substrates of atm kinase family members*. The Journal of Biological Chemistry, 274:37538-37543, Dec 1999. URL: https://doi.org/10.1074/jbc.274.53.37538, doi:10.1074/jbc.274.53.37538. This article has 1079 citations.
+
+17. (liu2011atrautophosphorylationas pages 1-2): Shizhou Liu, Bunsyo Shiotani, Mayurika Lahiri, Alexandre Maréchal, Alice Tse, Charles Chung Yun Leung, J.N. Mark Glover, Xiaohong H. Yang, and Lee Zou. Atr autophosphorylation as a molecular switch for checkpoint activation. Molecular cell, 43 2:192-202, Jul 2011. URL: https://doi.org/10.1016/j.molcel.2011.06.019, doi:10.1016/j.molcel.2011.06.019. This article has 340 citations and is from a highest quality peer-reviewed journal.
+
+18. (makinwa2020phosphorylationdependentpin1isomerization pages 2-3): Yetunde Makinwa, P. Musich, and Y. Zou. Phosphorylation-dependent pin1 isomerization of atr: its role in regulating atr’s anti-apoptotic function at mitochondria, and the implications in cancer. Frontiers in Cell and Developmental Biology, Apr 2020. URL: https://doi.org/10.3389/fcell.2020.00281, doi:10.3389/fcell.2020.00281. This article has 25 citations and is from a peer-reviewed journal.
+
+19. (mordes2008activationofatr pages 1-2): Daniel A. Mordes and David Cortez. Activation of atr and related pikks. Cell Cycle, 7:2809-2812, Sep 2008. URL: https://doi.org/10.4161/cc.7.18.6689, doi:10.4161/cc.7.18.6689. This article has 109 citations and is from a peer-reviewed journal.
+
+20. (mordes2008activationofatr pages 2-4): Daniel A. Mordes and David Cortez. Activation of atr and related pikks. Cell Cycle, 7:2809-2812, Sep 2008. URL: https://doi.org/10.4161/cc.7.18.6689, doi:10.4161/cc.7.18.6689. This article has 109 citations and is from a peer-reviewed journal.
+
+21. (nam2011analysisofmutations pages 1-2): E. Nam, R. Zhao, and D. Cortez. Analysis of mutations that dissociate g2 and essential s phase functions of human ataxia telangiectasia-mutated and rad3-related (atr) protein kinase*. The Journal of Biological Chemistry, 286:37320-37327, Sep 2011. URL: https://doi.org/10.1074/jbc.m111.276113, doi:10.1074/jbc.m111.276113. This article has 21 citations.
+
+22. (stokes2007profilingofuvinduced pages 1-2): M. Stokes, J. Rush, Joan Macneill, J. Ren, K. Sprott, J. Nardone, Vicky Yang, S. Beausoleil, S. Gygi, M. Livingstone, Hui Zhang, R. Polakiewicz, and M. Comb. Profiling of uv-induced atm/atr signaling pathways. Proceedings of the National Academy of Sciences, 104:19855-19860, Dec 2007. URL: https://doi.org/10.1073/pnas.0707579104, doi:10.1073/pnas.0707579104. This article has 406 citations.
+
+23. (yamaguchi2007thewip1phosphatase pages 4-6): H. Yamaguchi, S. Durell, D. K. Chatterjee, C. Anderson, and E. Appella. The wip1 phosphatase ppm1d dephosphorylates sq/tq motifs in checkpoint substrates phosphorylated by pi3k-like kinases. Biochemistry, 46 44:12594-603, Oct 2007. URL: https://doi.org/10.1021/bi701096s, doi:10.1021/bi701096s. This article has 83 citations and is from a peer-reviewed journal.
+
+24. (yazinski2016functionsregulationand pages 2-3): Stephanie A. Yazinski and Lee Zou. Functions, regulation, and therapeutic implications of the atr checkpoint pathway. Annual review of genetics, 50:155-173, Nov 2016. URL: https://doi.org/10.1146/annurev-genet-121415-121658, doi:10.1146/annurev-genet-121415-121658. This article has 199 citations and is from a domain leading peer-reviewed journal.
+
+25. (yazinski2016functionsregulationand pages 5-6): Stephanie A. Yazinski and Lee Zou. Functions, regulation, and therapeutic implications of the atr checkpoint pathway. Annual review of genetics, 50:155-173, Nov 2016. URL: https://doi.org/10.1146/annurev-genet-121415-121658, doi:10.1146/annurev-genet-121415-121658. This article has 199 citations and is from a domain leading peer-reviewed journal.

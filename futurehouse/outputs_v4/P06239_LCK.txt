@@ -1,0 +1,85 @@
+## Phylogeny
+Tyrosine-protein kinase Lck is a member of the Src family of non-receptor protein tyrosine kinases (rudd2021howthediscovery pages 2-3, rj2000thesrchomology2 pages 4-6). As per Manning et al. (2002), LCK is classified within the SRC family of kinases, which is part of the tyrosine kinase group (unknownauthors1997regulationoflymphocytespecific pages 34-38, unknownauthors2013primarytcell pages 164-167, unknownauthors2013primarytcell pages 32-36). Known orthologs of Lck exist in mouse and other vertebrates, indicating a conserved function in adaptive immunity (kastle2020tyrosine192within pages 1-2, unknownauthors1997regulationoflymphocytespecific pages 34-38, unknownauthors2013primarytcell pages 164-167).
+
+
+## Reaction Catalyzed
+The kinase catalyzes the transfer of a phosphate group from ATP to a tyrosine residue on a protein substrate (rj2000thesrchomology2 pages 6-8, rj2000thesrchomology2 pages 4-6).
+
+ATP + [protein]-L-tyrosine → ADP + [protein]-L-tyrosine phosphate (rj2000thesrchomology2 pages 6-8).
+
+
+## Cofactor Requirements
+The catalytic activity of LCK requires divalent metal ion cofactors, specifically Mg2+ or Mn2+ (kastle2020tyrosine192within pages 1-2, unknownauthors1997regulationoflymphocytespecific pages 34-38, unknownauthors2013primarytcell pages 164-167).
+
+
+## Substrate Specificity
+The substrate specificity consensus motif for Lck, as determined by Yaron-Barir et al. (2024), defines amino acid preferences at positions spanning from -3 to +3 relative to the phosphoacceptor tyrosine (Y=0) (unknownauthors1997regulationoflymphocytespecific pages 34-38, unknownauthors2013primarytcell pages 164-167).
+
+
+## Structure
+Lck is a ~56 kDa protein of 509 amino acids with several distinct domains: an N-terminal SH4 domain containing myristylation and palmitoylation signals for membrane targeting, a unique region that binds to CD4/CD8 coreceptors, an SH3 domain that mediates interactions with proline-rich peptides, an SH2 domain that binds phosphotyrosine-containing proteins, and a C-terminal kinase (SH1) domain (rj2000thesrchomology2 pages 6-8, unknownauthors1997regulationoflymphocytespecific pages 93-98).
+
+Crystal structures of the Lck kinase domain are available, including PDB entries 1QPC (inactive state) and 3LCK (active state) (unknownauthors2013primarytcell pages 32-36). The transition between active and inactive states involves significant conformational changes in the C-helix and the activation loop (kastle2020tyrosine192within pages 1-2, unknownauthors2013primarytcell pages 164-167). The inactive state is characterized by a "C-helix-out" conformation and a folded activation loop that blocks the active site, whereas the active state exhibits a "C-helix-in" conformation and an extended, open activation loop that permits substrate access (unknownauthors2013primarytcell pages 164-167).
+
+
+## Regulation
+Lck's activity is tightly regulated by post-translational modifications and conformational changes (kastle2020tyrosine192within pages 1-2).
+
+- **Phosphorylation Sites**:
+    - **Y505 (Tyrosine 505)**: This is an inhibitory phosphorylation site in the C-terminal tail. Phosphorylation of Y505 by C-terminal Src kinase (CSK) induces an intramolecular interaction with the SH2 domain, which stabilizes a closed, inactive conformation (kastle2020tyrosine192within pages 1-2, rj2000thesrchomology2 pages 6-8).
+    - **Y394 (Tyrosine 394)**: This is the activating site located within the activation loop. Autophosphorylation at Y394 is required for full catalytic activity and promotes an open, active conformation (kastle2020tyrosine192within pages 1-2, bell1991thelymphocytespecifictyrosine pages 6-7).
+    - **Y192 (Tyrosine 192)**: A conserved tyrosine in the SH2 domain that modulates Lck function independently of Lck/CD45 interactions by affecting Lck's association with CD45 and its recruitment to the TCR complex (kastle2020tyrosine192within pages 1-2).
+    - **S59 (Serine 59)**: Phosphorylation at S59 by MAPK/ERK-1/2 has been reported to modulate Lck function. One source indicates this phosphorylation stabilizes the active conformation (unknownauthors2013primarytcell pages 32-36), while another suggests it may enhance SH2 domain binding to the phosphorylated tail, thereby inhibiting kinase activity (unknownauthors1997regulationoflymphocytespecific pages 42-47).
+
+- **Regulatory Enzymes**:
+    - **CD45**: This transmembrane tyrosine phosphatase activates Lck by dephosphorylating the inhibitory Y505 residue (kastle2020tyrosine192within pages 1-2, rj2000thesrchomology2 pages 6-8, bell1991thelymphocytespecifictyrosine pages 6-7).
+    - **CSK**: This kinase phosphorylates Y505, maintaining Lck in an inactive state (kastle2020tyrosine192within pages 1-2, rj2000thesrchomology2 pages 9-12, bell1991thelymphocytespecifictyrosine pages 6-7).
+    - **SHP-1**: This SH2-domain-containing phosphatase negatively regulates Lck by dephosphorylating it (unknownauthors1997regulationoflymphocytespecific pages 38-42).
+
+Lck can exist in at least four distinct conformations: inactive (closed), primed (non-phosphorylated), active (Y394 phosphorylated), and doubly phosphorylated (kastle2020tyrosine192within pages 1-2).
+
+
+## Function
+Lck is primarily expressed in thymocytes, mature T cells, and natural killer cells (kastle2020tyrosine192within pages 1-2, rj2000thesrchomology2 pages 6-8). It plays a pivotal role in T-cell receptor (TCR) signal transduction by associating with the co-receptors CD4 and CD8 (kastle2020tyrosine192within pages 1-2).
+
+Upon TCR engagement, Lck phosphorylates tyrosine residues within the Immunoreceptor Tyrosine-based Activation Motifs (ITAMs) of the TCR/CD3 complex components (kastle2020tyrosine192within pages 1-2, unknownauthors1997regulationoflymphocytespecific pages 34-38). This phosphorylation event creates docking sites for the downstream kinase ZAP70, which is then recruited to the complex, where it is subsequently phosphorylated and activated by Lck, propagating T-cell activation signals (kastle2020tyrosine192within pages 1-2, rj2000thesrchomology2 pages 12-13).
+
+Lck's substrates extend beyond the TCR complex to include other signaling proteins such as PLCγ-1, Cbl, Vav, SLP-76, HS1, Raf-1, and SHP-1 (unknownauthors1997regulationoflymphocytespecific pages 34-38). Its interaction partners include CD4, CD8, CD45, ZAP70, and LAT (kastle2020tyrosine192within pages 1-2).
+
+
+## Inhibitors
+Experimentally validated and clinically relevant kinase inhibitors of Lck include Dasatinib and Saracatinib (kastle2020tyrosine192within pages 1-2, unknownauthors1997regulationoflymphocytespecific pages 34-38, unknownauthors2013primarytcell pages 164-167). Additionally, inhibitors are being developed that target the SH2 domain of Lck to act as immunosuppressants (rj2000thesrchomology2 pages 12-13).
+
+
+## Other Comments
+Dysregulation of Lck is associated with immunodeficiencies, cancer, and autoimmune disorders (rj2000thesrchomology2 pages 12-13). Deficiencies in Lck or the presence of non-functional Lck result in impaired T-cell development, thymic atrophy, and poor TCR response (kastle2020tyrosine192within pages 1-2, rj2000thesrchomology2 pages 6-8). Constitutively active forms of Lck have been linked to thymic tumors and T-cell leukemias (rj2000thesrchomology2 pages 6-8).
+
+Specific mutations have significant functional consequences: mutation of Y505 to phenylalanine (Y505F) results in a constitutively active and oncogenic form of Lck, while mutation of the activation loop tyrosine Y394 impairs kinase activity and T-cell responsiveness (unknownauthors1997regulationoflymphocytespecific pages 42-47).
+
+References
+
+1. (kastle2020tyrosine192within pages 1-2): Matthias Kästle, Camilla Merten, Roland Hartig, Thilo Kaehne, Ardiyanto Liaunardy-Jopeace, Nadine M. Woessner, Wolfgang W. Schamel, John James, Susana Minguet, Luca Simeoni, and Burkhart Schraven. Tyrosine 192 within the sh2 domain of the src-protein tyrosine kinase p56lck regulates t-cell activation independently of lck/cd45 interactions. Cell Communication and Signaling, Nov 2020. URL: https://doi.org/10.1186/s12964-020-00673-z, doi:10.1186/s12964-020-00673-z. This article has 19 citations and is from a peer-reviewed journal.
+
+2. (unknownauthors1997regulationoflymphocytespecific pages 34-38): Regulation of lymphocyte-specific tyrosine protein kinase p56lck by tyrosine phosphorylation.
+
+3. (unknownauthors2013primarytcell pages 164-167): Primary T cell immunodeficiencies associated with disturbed proximal T cell receptor signalling caused by human autosomal recessive LCK, ZAP-70 and ITK …
+
+4. (rj2000thesrchomology2 pages 6-8): Broadbridge Rj and Sharma Rp. The src homology-2 domains (sh2 domains) of the protein tyrosine kinase p56 lck structure, mechanism and drug design. Current Drug Targets, 1:365-386, Dec 2000. URL: https://doi.org/10.2174/1389450003349074, doi:10.2174/1389450003349074. This article has 28 citations and is from a peer-reviewed journal.
+
+5. (rj2000thesrchomology2 pages 9-12): Broadbridge Rj and Sharma Rp. The src homology-2 domains (sh2 domains) of the protein tyrosine kinase p56 lck structure, mechanism and drug design. Current Drug Targets, 1:365-386, Dec 2000. URL: https://doi.org/10.2174/1389450003349074, doi:10.2174/1389450003349074. This article has 28 citations and is from a peer-reviewed journal.
+
+6. (unknownauthors1997regulationoflymphocytespecific pages 38-42): Regulation of lymphocyte-specific tyrosine protein kinase p56lck by tyrosine phosphorylation.
+
+7. (unknownauthors1997regulationoflymphocytespecific pages 42-47): Regulation of lymphocyte-specific tyrosine protein kinase p56lck by tyrosine phosphorylation.
+
+8. (unknownauthors1997regulationoflymphocytespecific pages 93-98): Regulation of lymphocyte-specific tyrosine protein kinase p56lck by tyrosine phosphorylation.
+
+9. (bell1991thelymphocytespecifictyrosine pages 6-7): John C. Bell, Naham Sonnenberg, Guest Editors, Ninan Abraham, and André Veillette. The lymphocyte-specific tyrosine protein kinase p56lck. Seminars in immunology, 3 3:143-52, May 1991. URL: https://doi.org/10.3109/07357909109084644, doi:10.3109/07357909109084644. This article has 64 citations and is from a peer-reviewed journal.
+
+10. (rj2000thesrchomology2 pages 12-13): Broadbridge Rj and Sharma Rp. The src homology-2 domains (sh2 domains) of the protein tyrosine kinase p56 lck structure, mechanism and drug design. Current Drug Targets, 1:365-386, Dec 2000. URL: https://doi.org/10.2174/1389450003349074, doi:10.2174/1389450003349074. This article has 28 citations and is from a peer-reviewed journal.
+
+11. (rj2000thesrchomology2 pages 4-6): Broadbridge Rj and Sharma Rp. The src homology-2 domains (sh2 domains) of the protein tyrosine kinase p56 lck structure, mechanism and drug design. Current Drug Targets, 1:365-386, Dec 2000. URL: https://doi.org/10.2174/1389450003349074, doi:10.2174/1389450003349074. This article has 28 citations and is from a peer-reviewed journal.
+
+12. (rudd2021howthediscovery pages 2-3): Christopher E. Rudd. How the discovery of the cd4/cd8-p56lck complexes changed immunology and immunotherapy. Frontiers in Cell and Developmental Biology, Mar 2021. URL: https://doi.org/10.3389/fcell.2021.626095, doi:10.3389/fcell.2021.626095. This article has 44 citations and is from a peer-reviewed journal.
+
+13. (unknownauthors2013primarytcell pages 32-36): Primary T cell immunodeficiencies associated with disturbed proximal T cell receptor signalling caused by human autosomal recessive LCK, ZAP-70 and ITK …

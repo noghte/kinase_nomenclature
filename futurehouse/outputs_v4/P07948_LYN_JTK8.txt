@@ -1,0 +1,107 @@
+## Phylogeny  
+Human Lyn (UniProt P07948) belongs to the Tyrosine Kinase (TK) group, Src-family branch, Lyn/Hck sub-subfamily as defined in the kinome census (ingley2012functionsofthe pages 1-2). Orthologs with high sequence conservation are documented in Mus musculus, Rattus norvegicus, Danio rerio and Gallus gallus, and the Drosophila paralogue Src42A represents the invertebrate counterpart (berndt2019crystalstructureof pages 8-10, ingley2012functionsofthe pages 1-2). Within the Src family, Lyn clusters most closely with Hck, Lck and Blk, reflecting a recent duplication that generated the Lyn-related sub-branch (unknownauthors2018lynregulatesdrug pages 17-22).  
+
+
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + protein-L-tyrosine-phosphate (unknownauthors2018lynregulatesdrug pages 17-22).  
+
+
+
+## Cofactor Requirements  
+Catalytic turnover requires a divalent metal ion; either Mg²⁺ or Mn²⁺ can occupy the nucleotide-binding site and coordinate the β- and γ-phosphates of ATP (berndt2019crystalstructureof pages 8-10, ingley2012functionsofthe pages 1-2).  
+
+
+
+## Substrate Specificity  
+A recent high-throughput phosphoproteomics survey refined Lyn’s intrinsic consensus around the target tyrosine, favouring acidic or small residues at the +1 position and hydrophobic residues at +3 (berndt2019crystalstructureof pages 8-10). In immune signalling contexts Lyn phosphorylates canonical ITAM motifs (YxxL/Ix₆–₁₂YxxL/I) and ITIM motifs (S/I/V/LxYxxL/V) present in immunoreceptors (weerawarna2023lynkinasestructure pages 1-3).  
+
+
+
+## Structure  
+Domain organisation: SH4 (Met-Gly-Cys myristoylation/palmitoylation motif) – Unique – SH3 – SH2 – Kinase (SH1) – C-terminal regulatory tail (ingley2012functionsofthe pages 1-2).  
+• SH3 domain: five-stranded β-barrel; ligand pocket formed by Tyr74, Trp99 and Pro114; crystal structure solved at 1.3 Å (PDB 1W1F) (berndt2019crystalstructureof pages 4-6).  
+• SH2 domain: canonical α/β fold; phosphorylation of EF-loop Tyr194 remodels the phosphotyrosine pocket and modulates ligand preference; structure deposited as PDB 4TZI (jin2015tyrosinephosphorylationof pages 10-14, jin2015tyrosinephosphorylationof pages 22-25).  
+• Kinase domain: bilobal Src-like fold with Lys275-Glu290 catalytic salt bridge, HRD motif His371-Arg372-Asp373, and DFG motif Asp385-Phe386-Gly387; autophosphorylation site Tyr397 resides in the activation loop; active DFG-in/αC-in structures include PDB 3ERP and 4RJ3 (weerawarna2023lynkinasestructure pages 4-7, berndt2019crystalstructureof pages 7-8).  
+• C-terminal tail carries inhibitory Tyr508 that docks into the SH2 domain to stabilise the closed conformation (ingley2012functionsofthe pages 1-2).  
+No full-length Lyn structure has been solved; the autoinhibited topology is inferred from Src-family templates showing simultaneous SH3-linker and SH2-tail contacts (berndt2019crystalstructureof pages 4-6).  
+
+
+
+## Regulation  
+Post-translational modifications  
+– Tyr508: phosphorylated by Csk or Chk to generate an SH2-binding site that suppresses kinase activity (ingley2012functionsofthe pages 1-2, unknownauthors2018lynregulatesdrug pages 17-22).  
+– Tyr397: autophosphorylated following Tyr508 dephosphorylation; required for full catalytic competence (ingley2012functionsofthe pages 1-2, kinoshita2008proteinpurificationand pages 5-6).  
+– Tyr194 (SH2): phosphorylated by EphA4, PDGFR or Syk, decreasing affinity for canonical pYEEI ligands and redirecting binding specificity (jin2015tyrosinephosphorylationof pages 22-25).  
+– Tyr32 (unique domain): isoform-specific site phosphorylated downstream of EGFR, with incompletely defined functional consequences (weerawarna2023lynkinasestructure pages 3-4).  
+– Ser13 (SH4): phosphorylated by CK1γ at the Golgi; modification attenuates electrostatic membrane interactions during trafficking (kinoshitakikuta2020proteinnmyristoylationdependentphosphorylationof pages 10-10).  
+
+Dephosphorylation  
+CD45 and SHP-2 remove pTyr508 to initiate activation, whereas SHP-1 and SHP-2 dephosphorylate pTyr397 to terminate signalling (ingley2012functionsofthe pages 1-2).  
+
+Ubiquitination  
+The E3 ligase c-Cbl interacts via the Lyn SH3 domain and polyubiquitinates active Lyn, targeting it for proteasomal degradation (weerawarna2023lynkinasestructure pages 10-12, sun2021theroleof pages 6-6).  
+
+Conformational control  
+Intramolecular SH3-linker and SH2-pTyr508 engagements lock the kinase in an αC-out inactive state; disengagement or mutation of either interface yields constitutive activation (berndt2019crystalstructureof pages 4-6).  
+
+
+
+## Function  
+Expression  
+Highly expressed in B cells, mast cells, macrophages, platelets and brain neurons/microglia; absent in resting T lymphocytes (ingley2012functionsofthe pages 1-2, weerawarna2023lynkinasestructure pages 10-12).  
+
+Upstream receptors  
+B-cell receptor components CD79A/B, CD19, CD22, FcεRI, FcγRI/II, TLR2, TLR4 and various growth-factor receptors recruit and activate Lyn (ingley2012functionsofthe pages 1-2, berndt2019crystalstructureof pages 6-7).  
+
+Downstream partners and substrates  
+Key signalling nodes include SYK, BTK, PLCγ2 and PI3K; additional substrates comprise β-catenin, N-myristoyl-transferase-1, STAT3, Na⁺/K⁺-ATPase α3 and NMDA receptor subunits (berndt2019crystalstructureof pages 1-2, weerawarna2023lynkinasestructure pages 10-12).  
+
+Pathways  
+Lyn phosphorylates ITAMs and ITIMs to fine-tune immune-receptor signalling, drives PI3K–NF-κB activation downstream of TLR2, regulates platelet activation and integrin outside-in signalling, and modulates neuronal responses to amyloid-β in Alzheimer’s disease models (berndt2019crystalstructureof pages 6-7, weerawarna2023lynkinasestructure pages 10-12).  
+
+
+
+## Inhibitors  
+Clinically deployed multi-kinase inhibitors with nanomolar Lyn potency include Dasatinib, Bosutinib, Ponatinib, Nintedanib, Bafetinib and the investigational agent Saracatinib; a benzimidazole scaffold Lyn-INH-59 provides greater selectivity in experimental settings (berndt2019crystalstructureof pages 1-2, berndt2019crystalstructureof pages 7-8, berndt2019crystalstructureof pages 8-10).  
+
+
+
+## Other Comments  
+Over-expression or gain-of-function activation of Lyn is documented in acute myeloid leukaemia, breast, colorectal, renal, ovarian and lung cancers, where it correlates with poor prognosis (berndt2019crystalstructureof pages 1-2). Germline missense and nonsense mutations at Tyr508 (p.Tyr508His, p.Tyr508Phe, p.Tyr508*) cause early-onset systemic autoinflammatory disease through constitutive kinase activation (unknownauthors2022denovogain‐of‐function pages 3-3). Somatic cancer-associated mutations across the SH3 domain (e.g., D81N, W99L, E98K, V118M) destabilise the autoinhibited fold and elevate kinase activity (berndt2019crystalstructureof pages 4-6). Lyn-null mice develop lupus-like autoimmunity, underscoring its role in immune self-tolerance (berndt2019crystalstructureof pages 8-10).
+
+References
+
+1. (berndt2019crystalstructureof pages 1-2): Sandra Berndt, V. Gurevich, and Tina M Iverson. Crystal structure of the sh3 domain of human lyn non-receptor tyrosine kinase. PLoS ONE, Apr 2019. URL: https://doi.org/10.1371/journal.pone.0215140, doi:10.1371/journal.pone.0215140. This article has 11 citations and is from a peer-reviewed journal.
+
+2. (berndt2019crystalstructureof pages 7-8): Sandra Berndt, V. Gurevich, and Tina M Iverson. Crystal structure of the sh3 domain of human lyn non-receptor tyrosine kinase. PLoS ONE, Apr 2019. URL: https://doi.org/10.1371/journal.pone.0215140, doi:10.1371/journal.pone.0215140. This article has 11 citations and is from a peer-reviewed journal.
+
+3. (berndt2019crystalstructureof pages 8-10): Sandra Berndt, V. Gurevich, and Tina M Iverson. Crystal structure of the sh3 domain of human lyn non-receptor tyrosine kinase. PLoS ONE, Apr 2019. URL: https://doi.org/10.1371/journal.pone.0215140, doi:10.1371/journal.pone.0215140. This article has 11 citations and is from a peer-reviewed journal.
+
+4. (ingley2012functionsofthe pages 1-2): Evan Ingley. Functions of the lyn tyrosine kinase in health and disease. Cell Communication and Signaling, Jul 2012. URL: https://doi.org/10.1186/1478-811x-10-21, doi:10.1186/1478-811x-10-21. This article has 224 citations and is from a peer-reviewed journal.
+
+5. (jin2015tyrosinephosphorylationof pages 10-14): Lily L. Jin, L. Wybenga-Groot, Jiefei Tong, Paul Taylor, M. Minden, S. Trudel, C. McGlade, and M. Moran. Tyrosine phosphorylation of the lyn src homology 2 (sh2) domain modulates its binding affinity and specificity*. Molecular & Cellular Proteomics, 14:695-706, Jan 2015. URL: https://doi.org/10.1074/mcp.m114.044404, doi:10.1074/mcp.m114.044404. This article has 51 citations.
+
+6. (jin2015tyrosinephosphorylationof pages 22-25): Lily L. Jin, L. Wybenga-Groot, Jiefei Tong, Paul Taylor, M. Minden, S. Trudel, C. McGlade, and M. Moran. Tyrosine phosphorylation of the lyn src homology 2 (sh2) domain modulates its binding affinity and specificity*. Molecular & Cellular Proteomics, 14:695-706, Jan 2015. URL: https://doi.org/10.1074/mcp.m114.044404, doi:10.1074/mcp.m114.044404. This article has 51 citations.
+
+7. (weerawarna2023lynkinasestructure pages 1-3): P. Weerawarna and Timothy I. Richardson. Lyn kinase structure, regulation, and involvement in neurodegenerative diseases: a mini review. Kinases and Phosphatases, Jan 2023. URL: https://doi.org/10.3390/kinasesphosphatases1010004, doi:10.3390/kinasesphosphatases1010004. This article has 9 citations.
+
+8. (berndt2019crystalstructureof pages 4-6): Sandra Berndt, V. Gurevich, and Tina M Iverson. Crystal structure of the sh3 domain of human lyn non-receptor tyrosine kinase. PLoS ONE, Apr 2019. URL: https://doi.org/10.1371/journal.pone.0215140, doi:10.1371/journal.pone.0215140. This article has 11 citations and is from a peer-reviewed journal.
+
+9. (berndt2019crystalstructureof pages 6-7): Sandra Berndt, V. Gurevich, and Tina M Iverson. Crystal structure of the sh3 domain of human lyn non-receptor tyrosine kinase. PLoS ONE, Apr 2019. URL: https://doi.org/10.1371/journal.pone.0215140, doi:10.1371/journal.pone.0215140. This article has 11 citations and is from a peer-reviewed journal.
+
+10. (kinoshita2008proteinpurificationand pages 5-6): T. Kinoshita, N. Miyano, Ryoko Nakai, K. Yokota, H. Ishiguro, and T. Tada. Protein purification and preliminary crystallographic analysis of human lyn tyrosine kinase. Protein expression and purification, 58 2:318-24, Apr 2008. URL: https://doi.org/10.1016/j.pep.2008.01.007, doi:10.1016/j.pep.2008.01.007. This article has 14 citations and is from a peer-reviewed journal.
+
+11. (unknownauthors2018lynregulatesdrug pages 17-22): LYN Regulates Drug Resistance Mechanisms in Chronic Myelogenous Leukemia (CML)
+
+12. (weerawarna2023lynkinasestructure pages 10-12): P. Weerawarna and Timothy I. Richardson. Lyn kinase structure, regulation, and involvement in neurodegenerative diseases: a mini review. Kinases and Phosphatases, Jan 2023. URL: https://doi.org/10.3390/kinasesphosphatases1010004, doi:10.3390/kinasesphosphatases1010004. This article has 9 citations.
+
+13. (weerawarna2023lynkinasestructure pages 3-4): P. Weerawarna and Timothy I. Richardson. Lyn kinase structure, regulation, and involvement in neurodegenerative diseases: a mini review. Kinases and Phosphatases, Jan 2023. URL: https://doi.org/10.3390/kinasesphosphatases1010004, doi:10.3390/kinasesphosphatases1010004. This article has 9 citations.
+
+14. (weerawarna2023lynkinasestructure pages 4-7): P. Weerawarna and Timothy I. Richardson. Lyn kinase structure, regulation, and involvement in neurodegenerative diseases: a mini review. Kinases and Phosphatases, Jan 2023. URL: https://doi.org/10.3390/kinasesphosphatases1010004, doi:10.3390/kinasesphosphatases1010004. This article has 9 citations.
+
+15. (kinoshitakikuta2020proteinnmyristoylationdependentphosphorylationof pages 10-10): Emiko Kinoshita-Kikuta, T. Utsumi, Aya Miyazaki, Chiharu Tokumoto, Kyosuke Doi, Haruna Harada, E. Kinoshita, and T. Koike. Protein-n-myristoylation-dependent phosphorylation of serine 13 of tyrosine kinase lyn by casein kinase 1γ at the golgi during intracellular protein traffic. Scientific Reports, Oct 2020. URL: https://doi.org/10.1038/s41598-020-73248-0, doi:10.1038/s41598-020-73248-0. This article has 17 citations and is from a poor quality or predatory journal.
+
+16. (sun2021theroleof pages 6-6): Yizhao Sun, Yanlei Yang, Yang Zhao, Xiangsheng Li, Yanfen Zhang, and Zhongcheng Liu. The role of the tyrosine kinase lyn in allergy and cancer. Molecular immunology, Jan 2021. URL: https://doi.org/10.1016/j.molimm.2020.12.028, doi:10.1016/j.molimm.2020.12.028. This article has 18 citations and is from a peer-reviewed journal.
+
+17. (unknownauthors2022denovogain‐of‐function pages 3-3): De novo gain‐of‐function variations in LYN lead to an early onset systemic autoinflammatory disorder

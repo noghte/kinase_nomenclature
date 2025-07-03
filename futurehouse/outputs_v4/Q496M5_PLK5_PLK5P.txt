@@ -1,0 +1,102 @@
+## Phylogeny
+Polo-like kinase 5 (PLK5) is a member of the polo-like kinase (PLK) family, which is evolutionarily conserved from yeast to humans (su2023potentialtumorsuppressor pages 1-2). It is phylogenetically classified within the PLK family as described by Manning et al., 2002 (andrysik2010thenovelmouse pages 4-5, kressin2021modellingthefunctions pages 17-18, wyatt2024insightsintothe pages 14-16). PLK5 belongs to the PLK2 subfamily, which arose from gene duplication events in vertebrates (carcer2011fromplk1to pages 1-3, carcer2011plk5apolo pages 12-13). It is the most recently identified and most divergent member of the family, sharing approximately 50% identity in the kinase domain and 37-41% overall sequence identity with PLK2 and PLK3 (su2023potentialtumorsuppressor pages 1-2, carcer2011plk5apolo pages 3-3, wyatt2024insightsintothe pages 14-16). PLK5 has clear orthologs across mammals and is retained in *Xenopus*, but it has been secondarily lost in birds (carcer2011fromplk1to pages 1-3, carcer2011plk5apolo pages 2-3).
+
+
+
+## Reaction Catalyzed
+PLK5 is catalytically inactive as a kinase (andrysik2010thenovelmouse pages 4-5, unknownauthors2016selectivelytargetingpololike pages 18-22, carcer2011fromplk1to pages 4-6). The human protein is truncated due to a nonsense TAG stop codon, resulting in the absence of two-thirds of the kinase domain, including the ATP-binding site (andrysik2010thenovelmouse pages 4-5). The full-length mouse PLK5 protein also lacks kinase activity (su2023potentialtumorsuppressor pages 1-2). Its biological functions are independent of catalytic kinase activity (su2023potentialtumorsuppressor pages 1-2, carcer2011plk5apolo pages 3-3).
+
+
+
+## Cofactor Requirements
+Serine/threonine kinases typically require a divalent cation, such as Mg²⁺ or Mn²⁺, as a cofactor to catalyze phosphorylation reactions (unknownauthors2014pololikekinase4 pages 18-26, unknownauthors2022developmentofpeptidomimetic pages 42-46, wyatt2024insightsintothe pages 1-3). Since the PLK5 kinase domain is truncated and catalytically inactive, the cofactor requirement for phosphotransfer activity is not applicable (carcer2011fromplk1to pages 4-6, unknownauthors2014pololikekinase4 pages 18-26, baxter2020peptidomimeticpolo‐box‐targetedinhibitors pages 11-12, unknownauthors2016selectivelytargetingpololike pages 81-85).
+
+
+
+## Substrate Specificity
+PLK5 is considered an inactive kinase that does not phosphorylate substrates; its functions are mediated through protein-protein interactions via its polo-box domain (PBD) (unknownauthors2014pololikekinase4 pages 50-53, wyatt2024insightsintothe pages 3-7). Consistent with its inactive status, PLK5 was not profiled in the comprehensive screen of the human serine/threonine kinome by Johnson et al. (2023) (carcer2011fromplk1to pages 4-6, unknownauthors2014pololikekinase4 pages 18-26, unknownauthors2016selectivelytargetingpololike pages 81-85, wyatt2024insightsintothe pages 14-16). The PLK5 PBD lacks key phosphosubstrate recognition residues found in other PLKs and does not bind phosphopeptides in the canonical manner (carcer2011fromplk1to pages 4-6, wyatt2024insightsintothe pages 14-16). Instead, PLK5 and PLK2 share a PBind motif near the PBD that can bind proteins such as NSF in a phosphorylation-independent manner (carcer2011fromplk1to pages 4-6).
+
+
+
+## Structure
+Polo-like kinases are characterized by an N-terminal catalytic kinase domain (KD) and a C-terminal polo-box domain (PBD) that mediates substrate binding and subcellular localization (carcer2011fromplk1to pages 1-3, unknownauthors2014pololikekinase4 pages 18-26). The canonical function of the PBD is to recognize phosphorylated serine/threonine motifs on substrates, thereby targeting the kinase to specific cellular structures (shakil2019molecularandenzoinformatics pages 2-3, unknownauthors2014pololikekinase4 pages 18-26).
+
+Human PLK5 is a truncated protein of 336 amino acids (~36-40 kDa) due to a premature stop codon and is sometimes referred to as a "Polo Box Domain-only" protein (su2023potentialtumorsuppressor pages 1-2, carcer2011plk5apolo pages 3-3, carcer2011plk5apolo pages 12-13, carcer2011plk5apolo pages 8-9, unknownauthors2022developmentofpeptidomimetic pages 119-123). This truncation removes most of the KD, including the ATP-binding site and key T-loop activatory residues, but retains the PBD (andrysik2010thenovelmouse pages 4-5, carcer2011fromplk1to pages 4-6, carcer2011plk5apolo pages 12-13). AlphaFold models indicate a severely truncated KD (residues 1-81), an unstructured interdomain linker, and a truncated PBD with low sequence homology (25-32%) to PLK1-3 (wyatt2024insightsintothe pages 14-16, wyatt2024insightsintothe pages 3-7).
+
+In contrast, mouse PLK5 is a full-length 599-amino-acid protein with a complete, albeit inactive, kinase domain and PBD (su2023potentialtumorsuppressor pages 1-2, andrysik2010thenovelmouse pages 4-5). The mouse protein also contains three putative nucleolar localization sequences (NoLS) (andrysik2010thenovelmouse pages 4-5).
+
+
+
+## Regulation
+PLK5 is regulated at the transcriptional level and through protein degradation, while specific post-translational modifications (PTMs) are not well-characterized (carcer2011plk5apolo pages 12-13, su2023potentialtumorsuppressor pages 1-2).
+
+**Transcriptional and Epigenetic Regulation:**
+The PLK5 promoter contains p53 consensus response elements and CpG islands (andrysik2010thenovelmouse pages 4-5). The gene is frequently silenced in brain tumors, including glioblastomas and astrocytomas, via promoter hypermethylation (carcer2011plk5apolo pages 1-2, carcer2011plk5apolo pages 12-13, unknownauthors2014pololikekinase4 pages 50-53, unknownauthors2014thepololikekinases pages 57-61). PLK5 expression is downregulated in proliferating cells and during serum stimulation, while it accumulates in quiescent cells and under serum deprivation (carcer2011plk5apolo pages 1-2, carcer2011plk5apolo pages 12-13). Its mRNA is not serum inducible (andrysik2010thenovelmouse pages 4-5).
+
+**Post-Translational Regulation:**
+The PLK5 protein is subject to proteasome-dependent degradation (carcer2011plk5apolo pages 12-13).
+
+
+
+## Function
+**Expression and Localization:**
+PLK5 is expressed in both human and mouse tissues, with high levels in non-proliferative, differentiated tissues such as the brain (cerebellum and cortex), eye, and ovary (andrysik2010thenovelmouse pages 4-5, su2023potentialtumorsuppressor pages 1-2, carcer2011fromplk1to pages 1-3). It is localized to the cytoplasm and nucleus of neurons and glial cells (carcer2011plk5apolo pages 8-9, unknownauthors2016selectivelytargetingpololike pages 18-22). Mouse PLK5 localizes to the nucleolus (andrysik2010thenovelmouse pages 4-5, kressin2021modellingthefunctions pages 17-18).
+
+**Biological Roles:**
+PLK5 functions are independent of kinase activity and include roles in cell cycle control, apoptosis, and neuronal differentiation.
+- **Cell Cycle Regulation:** Ectopic expression of mouse PLK5 induces G1 cell cycle arrest and inhibits cellular proliferation (andrysik2010thenovelmouse pages 4-5). It responds to DNA damage, and its knockdown in human cells leads to a loss of the G2/M checkpoint (andrysik2010thenovelmouse pages 6-7).
+- **Apoptosis:** Overexpression of PLK5 leads to apoptosis and cell death (andrysik2010thenovelmouse pages 4-5).
+- **Neuronal Differentiation:** PLK5 plays a critical role in neuronal biology by modulating neurite and axon outgrowth in response to nerve growth factor (NGF), brain-derived neurotrophic factor (BDNF), and Ras signaling (carcer2011fromplk1to pages 1-3, carcer2011plk5apolo pages 1-2, carcer2011plk5apolo pages 12-13).
+
+
+
+## Other Comments
+PLK5 acts as a tumor suppressor (andrysik2010thenovelmouse pages 4-5, carcer2011plk5apolo pages 3-3). Its expression is epigenetically silenced by promoter hypermethylation in brain tumors like glioblastomas and astrocytomas (carcer2011plk5apolo pages 1-2, unknownauthors2014pololikekinase4 pages 50-53, unknownauthors2014thepololikekinases pages 57-61). Downregulation is also observed in cancers of the ovary, lung, testis, endometrium, cervix, and fallopian tube (su2023potentialtumorsuppressor pages 1-2). Due to the premature stop codon, the human `PLK5` gene is considered a pseudogene, although it can encode a truncated protein (carcer2011plk5apolo pages 3-3).
+
+References
+
+1. (andrysik2010thenovelmouse pages 4-5): Z. Andrysik, W. Z. Bernstein, L. Deng, D. Myer, Ya‐Qin Li, J. Tischfield, P. Stambrook, and E. Bahassi. The novel mouse polo-like kinase 5 responds to dna damage and localizes in the nucleolus. Nucleic Acids Research, 38:2931-2943, Jan 2010. URL: https://doi.org/10.1093/nar/gkq011, doi:10.1093/nar/gkq011. This article has 124 citations and is from a highest quality peer-reviewed journal.
+
+2. (carcer2011fromplk1to pages 1-3): Guillermo de Cárcer, Gerard Manning, and Marcos Malumbres. From plk1 to plk5. Cell Cycle, 10:2255-2262, Jul 2011. URL: https://doi.org/10.4161/cc.10.14.16494, doi:10.4161/cc.10.14.16494. This article has 338 citations and is from a peer-reviewed journal.
+
+3. (carcer2011fromplk1to pages 4-6): Guillermo de Cárcer, Gerard Manning, and Marcos Malumbres. From plk1 to plk5. Cell Cycle, 10:2255-2262, Jul 2011. URL: https://doi.org/10.4161/cc.10.14.16494, doi:10.4161/cc.10.14.16494. This article has 338 citations and is from a peer-reviewed journal.
+
+4. (carcer2011plk5apolo pages 1-2): G. de Cárcer, Beatriz Escobar, Alonso M. Higuero, L. Garcia, A. Anson, Gema Pérez, M. Mollejo, G. Manning, B. Meléndez, J. Abad-Rodríguez, and Marcos Malumbres. Plk5, a polo box domain-only protein with specific roles in neuron differentiation and glioblastoma suppression. Molecular and Cellular Biology, 31:1225-1239, Jan 2011. URL: https://doi.org/10.1128/mcb.00607-10, doi:10.1128/mcb.00607-10. This article has 164 citations and is from a domain leading peer-reviewed journal.
+
+5. (carcer2011plk5apolo pages 12-13): G. de Cárcer, Beatriz Escobar, Alonso M. Higuero, L. Garcia, A. Anson, Gema Pérez, M. Mollejo, G. Manning, B. Meléndez, J. Abad-Rodríguez, and Marcos Malumbres. Plk5, a polo box domain-only protein with specific roles in neuron differentiation and glioblastoma suppression. Molecular and Cellular Biology, 31:1225-1239, Jan 2011. URL: https://doi.org/10.1128/mcb.00607-10, doi:10.1128/mcb.00607-10. This article has 164 citations and is from a domain leading peer-reviewed journal.
+
+6. (carcer2011plk5apolo pages 2-3): G. de Cárcer, Beatriz Escobar, Alonso M. Higuero, L. Garcia, A. Anson, Gema Pérez, M. Mollejo, G. Manning, B. Meléndez, J. Abad-Rodríguez, and Marcos Malumbres. Plk5, a polo box domain-only protein with specific roles in neuron differentiation and glioblastoma suppression. Molecular and Cellular Biology, 31:1225-1239, Jan 2011. URL: https://doi.org/10.1128/mcb.00607-10, doi:10.1128/mcb.00607-10. This article has 164 citations and is from a domain leading peer-reviewed journal.
+
+7. (carcer2011plk5apolo pages 3-3): G. de Cárcer, Beatriz Escobar, Alonso M. Higuero, L. Garcia, A. Anson, Gema Pérez, M. Mollejo, G. Manning, B. Meléndez, J. Abad-Rodríguez, and Marcos Malumbres. Plk5, a polo box domain-only protein with specific roles in neuron differentiation and glioblastoma suppression. Molecular and Cellular Biology, 31:1225-1239, Jan 2011. URL: https://doi.org/10.1128/mcb.00607-10, doi:10.1128/mcb.00607-10. This article has 164 citations and is from a domain leading peer-reviewed journal.
+
+8. (carcer2011plk5apolo pages 8-9): G. de Cárcer, Beatriz Escobar, Alonso M. Higuero, L. Garcia, A. Anson, Gema Pérez, M. Mollejo, G. Manning, B. Meléndez, J. Abad-Rodríguez, and Marcos Malumbres. Plk5, a polo box domain-only protein with specific roles in neuron differentiation and glioblastoma suppression. Molecular and Cellular Biology, 31:1225-1239, Jan 2011. URL: https://doi.org/10.1128/mcb.00607-10, doi:10.1128/mcb.00607-10. This article has 164 citations and is from a domain leading peer-reviewed journal.
+
+9. (kressin2021modellingthefunctions pages 17-18): M. Kressin, D. Fietz, S. Becker, and K. Strebhardt. Modelling the functions of polo-like kinases in mice and their applications as cancer targets with a special focus on ovarian cancer. Cells, May 2021. URL: https://doi.org/10.3390/cells10051176, doi:10.3390/cells10051176. This article has 20 citations and is from a peer-reviewed journal.
+
+10. (shakil2019molecularandenzoinformatics pages 2-3): S. Shakil, Mohd Hassan Baig, S. Tabrez, S. Rizvi, S. Zaidi, Ghulam M Ashraf, S. Ansari, A. Khan, M. Al-Qahtani, Adel M. Abuzenadah, and A. Chaudhary. Molecular and enzoinformatics perspectives of targeting polo-like kinase 1 in cancer therapy. Seminars in cancer biology, 56:47-55, Nov 2019. URL: https://doi.org/10.1016/j.semcancer.2017.11.004, doi:10.1016/j.semcancer.2017.11.004. This article has 37 citations and is from a peer-reviewed journal.
+
+11. (su2023potentialtumorsuppressor pages 1-2): S. Su, M. Ndiaye, Glorimar Guzmán‐Pérez, Rebecca M. Baus, Wei Huang, M. Patankar, and Nihal Ahmad. Potential tumor suppressor role of polo-like kinase 5 in cancer. Cancers, Nov 2023. URL: https://doi.org/10.3390/cancers15225457, doi:10.3390/cancers15225457. This article has 3 citations and is from a peer-reviewed journal.
+
+12. (unknownauthors2014pololikekinase4 pages 18-26): Polo-like kinase 4 at the nexus of epigenetic modifications and the DNA damage signaling network
+
+13. (unknownauthors2014pololikekinase4 pages 50-53): Polo-like kinase 4 at the nexus of epigenetic modifications and the DNA damage signaling network
+
+14. (unknownauthors2014thepololikekinases pages 57-61): The Polo-like kinases as recipients and enablers of epigenetic modifications in tumourigenesis
+
+15. (unknownauthors2016selectivelytargetingpololike pages 18-22): Selectively targeting Polo-like Kinase 1 (PLK1) using novel inhibitors of the polo-box domain
+
+16. (unknownauthors2016selectivelytargetingpololike pages 81-85): Selectively targeting Polo-like Kinase 1 (PLK1) using novel inhibitors of the polo-box domain
+
+17. (unknownauthors2022developmentofpeptidomimetic pages 119-123): Development of Peptidomimetic Inhibitors Targeting the Polo Box Domain of PLK1 as Potential Cancer Therapeutics
+
+18. (wyatt2024insightsintothe pages 14-16): Michael D. Wyatt and Campbell McInnes. Insights into the structural regulation of polo-like kinase activity using alphafold. BioRxiv, Oct 2024. URL: https://doi.org/10.1101/2024.10.21.618045, doi:10.1101/2024.10.21.618045. This article has 2 citations.
+
+19. (wyatt2024insightsintothe pages 3-7): Michael D. Wyatt and Campbell McInnes. Insights into the structural regulation of polo-like kinase activity using alphafold. BioRxiv, Oct 2024. URL: https://doi.org/10.1101/2024.10.21.618045, doi:10.1101/2024.10.21.618045. This article has 2 citations.
+
+20. (andrysik2010thenovelmouse pages 6-7): Z. Andrysik, W. Z. Bernstein, L. Deng, D. Myer, Ya‐Qin Li, J. Tischfield, P. Stambrook, and E. Bahassi. The novel mouse polo-like kinase 5 responds to dna damage and localizes in the nucleolus. Nucleic Acids Research, 38:2931-2943, Jan 2010. URL: https://doi.org/10.1093/nar/gkq011, doi:10.1093/nar/gkq011. This article has 124 citations and is from a highest quality peer-reviewed journal.
+
+21. (unknownauthors2022developmentofpeptidomimetic pages 42-46): Development of Peptidomimetic Inhibitors Targeting the Polo Box Domain of PLK1 as Potential Cancer Therapeutics
+
+22. (wyatt2024insightsintothe pages 1-3): Michael D. Wyatt and Campbell McInnes. Insights into the structural regulation of polo-like kinase activity using alphafold. BioRxiv, Oct 2024. URL: https://doi.org/10.1101/2024.10.21.618045, doi:10.1101/2024.10.21.618045. This article has 2 citations.
+
+23. (baxter2020peptidomimeticpolo‐box‐targetedinhibitors pages 11-12): Merissa Baxter, Danda Chapagai, Sandra Craig, Cecilia Hurtado, Jessy Varghese, Elmar Nurmemmedov, Michael D. Wyatt, and Campbell McInnes. Peptidomimetic polo‐box‐targeted inhibitors that engage plk1 in tumor cells and are selective against the plk3 tumor suppressor. ChemMedChem, 15:1058-1066, Apr 2020. URL: https://doi.org/10.1002/cmdc.202000137, doi:10.1002/cmdc.202000137. This article has 17 citations and is from a peer-reviewed journal.

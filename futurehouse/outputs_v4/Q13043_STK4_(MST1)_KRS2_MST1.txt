@@ -1,0 +1,96 @@
+## Phylogeny  
+– Member of the STE20 kinase group, Germinal Center Kinase-II (GCK-II) subfamily (galan2016mst1mst2proteinkinases pages 1-3).  
+– Closest human paralog: STK3/MST2, ≈75 % overall identity (fitamant2013mst12andother pages 33-36).  
+– Orthologs: Mus musculus Stk4, Drosophila melanogaster Hippo (Hpo), Caenorhabditis elegans cst-1, Saccharomyces cerevisiae Ste20 (ling2008biosignalingofmammalian pages 1-2, avruch2012proteinkinasesof pages 2-3).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + protein-O-phospho-Ser/Thr (record2010structuralcomparisonof pages 4-6).  
+
+## Cofactor Requirements  
+Requires Mg²⁺ for catalysis; Mn²⁺, Zn²⁺ or Co²⁺ can substitute in vitro (delpire2009themammalianfamily pages 8-9, record2010structuralcomparisonof pages 3-4).  
+
+## Substrate Specificity  
+Consensus motif: Φ-X-T-Φ-K/R-K/R (Φ = hydrophobic or aromatic), preferring threonine at the phospho-acceptor and basic residues at +2/+3 (miller2019comprehensiveprofilingof pages 3-5, miller2019comprehensiveprofilingof pages 28-29).  
+Experimentally verified sites:  
+– MOB1A/B Thr35, Thr12 (avruch2012proteinkinasesof pages 2-3).  
+– LATS1 Thr1079, LATS2 Thr1041 (galan2016mst1mst2proteinkinases pages 9-11).  
+– FOXO3 Ser207 (delpire2009themammalianfamily pages 7-9).  
+– Histone H2B Ser14 (ling2008biosignalingofmammalian pages 8-9).  
+– Ezrin Thr567 (record2010structuralcomparisonof pages 10-11).  
+
+## Structure  
+Domain organisation: N-terminal kinase domain (aa 30-281) containing Lys59 (ATP anchor), HRD catalytic triad and DFG motif; central autoinhibitory linker with caspase sites Asp326 and Asp349; C-terminal SARAH coiled-coil (aa 432-480) mediating homo-/heterodimerisation (unknownauthors2014integrativeanalysesof pages 68-73, fitamant2013mst12andother pages 33-36).  
+Crystal structure PDB 3COM shows an active conformation with Lys59-Glu73 salt bridge and diphosphorylated Thr177/Thr183 activation loop (record2010structuralcomparisonof pages 4-6).  
+Face-to-face dimers exchange activation loops for trans-autophosphorylation (record2010structuralcomparisonof pages 6-8).  
+AlphaFold model PDB 5B7B confirms the canonical bilobal fold and SARAH placement (galan2016mst1mst2proteinkinases pages 13-14).  
+
+## Regulation  
+Post-translational modifications  
+– Autophosphorylation at Thr183 activates the kinase (unknownauthors2017regulationofhippo pages 26-29).  
+– TAO kinases phosphorylate the activation loop to augment activity (galan2016mst1mst2proteinkinases pages 9-11).  
+– PP2A-STRIPAK complex and PTPN14 bind/dephosphorylate MST1 to inhibit signalling (galan2016mst1mst2proteinkinases pages 9-11, eden2024mst4anovel pages 17-18).  
+– Oxidation-induced SARAH dimerisation enhances activity under oxidative stress (galan2016mst1mst2proteinkinases pages 9-11).  
+– Akt phosphorylation at Thr120 and JNK phosphorylation at Ser82 attenuate activity (unknownauthors2014integrativeanalysesof pages 68-73).  
+– Abl/Src phosphorylation at Tyr433 modulates stability and neuronal apoptosis (galan2016mst1mst2proteinkinases pages 9-11).  
+– Caspase-3 cleavage at Asp326/Asp349 produces a 34 kDa fragment that translocates to the nucleus and is constitutively active (delpire2009themammalianfamily pages 7-9).  
+Protein-protein interactions  
+– SARAH-mediated association with SAV1 promotes dimerisation and activation; RASSF isoforms or STRIPAK limit activation (fitamant2013mst12andother pages 33-36, galan2016mst1mst2proteinkinases pages 3-4).  
+
+## Function  
+Expression: ubiquitous, highest in lymphoid tissues, heart, kidney and placenta (avruch2012proteinkinasesof pages 2-3, record2010structuralcomparisonof pages 3-4).  
+Upstream inputs: Rap1-RAPL pathway, oxidative stress, TAO kinases, Akt, c-Abl/Src (ling2008biosignalingofmammalian pages 8-9, galan2016mst1mst2proteinkinases pages 9-11).  
+Downstream cascade: phosphorylates MOB1A/B and activates LATS1/2 and NDR1/2; these kinases phosphorylate YAP/TAZ to restrict proliferation and promote apoptosis (avruch2012proteinkinasesof pages 2-3, hamilton2013hippopathwayand pages 33-36).  
+Additional substrates: FOXO3 (nuclear translocation), histone H2B (chromatin condensation), Ezrin (cell polarity) (delpire2009themammalianfamily pages 7-9, record2010structuralcomparisonof pages 10-11).  
+Physiological roles: organ size control, stress-induced apoptosis, maintenance of naïve T-cell homeostasis, suppression of cardiac hypertrophy (avruch2012proteinkinasesof pages 2-3, ling2008biosignalingofmammalian pages 8-9).  
+
+## Inhibitors  
+– XMU-MP-1: selective MST1/2 inhibitor, IC₅₀ ≈ 71 nM (galan2016mst1mst2proteinkinases pages 13-14).  
+– Broad-spectrum ATP-competitive ligands such as staurosporine and quinazoline derivatives bind the active site in crystal complexes (record2010structuralcomparisonof pages 4-6, record2010structuralcomparisonof pages 8-10).  
+
+## Other Comments  
+Biallelic loss-of-function mutations cause autosomal-recessive combined immunodeficiency with profound naïve T-cell lymphopenia (galan2016mst1mst2proteinkinases pages 13-14, avruch2012proteinkinasesof pages 2-3).  
+Somatic cancer mutations concentrate in the kinase domain; K59R abolishes ATP binding, V184M and R181Q impair Thr183 autophosphorylation, D326N/D349N confer caspase resistance (unknownauthors2014integrativeanalysesof pages 68-73).  
+Reduced MST1 expression accompanies progression of prostate and colorectal cancers (record2010structuralcomparisonof pages 3-4).  
+Cardiac over-expression promotes myocyte apoptosis and dilated cardiomyopathy, while inhibition mitigates post-infarction heart failure in mice (delpire2009themammalianfamily pages 7-9).
+
+References
+
+1. (avruch2012proteinkinasesof pages 2-3): Joseph Avruch, Dawang Zhou, Julien Fitamant, Nabeel Bardeesy, Fan Mou, and Laura Regué Barrufet. Protein kinases of the hippo pathway: regulation and substrates. Seminars in Cell &amp; Developmental Biology, 23:770-784, Sep 2012. URL: https://doi.org/10.1016/j.semcdb.2012.07.002, doi:10.1016/j.semcdb.2012.07.002. This article has 268 citations.
+
+2. (delpire2009themammalianfamily pages 7-9): Eric Delpire. The mammalian family of sterile 20p-like protein kinases. Pflügers Archiv - European Journal of Physiology, 458:953-967, Apr 2009. URL: https://doi.org/10.1007/s00424-009-0674-y, doi:10.1007/s00424-009-0674-y. This article has 181 citations.
+
+3. (fitamant2013mst12andother pages 33-36): Julien Fitamant, Dawang Zhou, F. Mou, L. Barrufet, N. Bardeesy, and J. Avruch. Mst1/2 and other upstream signaling that affect hippo pathway function. Unknown journal, pages 27-49, 2013. URL: https://doi.org/10.1007/978-1-4614-6220-0\_3, doi:10.1007/978-1-4614-6220-0\_3. This article has 2 citations.
+
+4. (galan2016mst1mst2proteinkinases pages 1-3): Jacob A. Galan and Joseph Avruch. Mst1/mst2 protein kinases: regulation and physiologic roles. Biochemistry, 55:5507-5519, Sep 2016. URL: https://doi.org/10.1021/acs.biochem.6b00763, doi:10.1021/acs.biochem.6b00763. This article has 100 citations and is from a peer-reviewed journal.
+
+5. (galan2016mst1mst2proteinkinases pages 13-14): Jacob A. Galan and Joseph Avruch. Mst1/mst2 protein kinases: regulation and physiologic roles. Biochemistry, 55:5507-5519, Sep 2016. URL: https://doi.org/10.1021/acs.biochem.6b00763, doi:10.1021/acs.biochem.6b00763. This article has 100 citations and is from a peer-reviewed journal.
+
+6. (galan2016mst1mst2proteinkinases pages 3-4): Jacob A. Galan and Joseph Avruch. Mst1/mst2 protein kinases: regulation and physiologic roles. Biochemistry, 55:5507-5519, Sep 2016. URL: https://doi.org/10.1021/acs.biochem.6b00763, doi:10.1021/acs.biochem.6b00763. This article has 100 citations and is from a peer-reviewed journal.
+
+7. (galan2016mst1mst2proteinkinases pages 9-11): Jacob A. Galan and Joseph Avruch. Mst1/mst2 protein kinases: regulation and physiologic roles. Biochemistry, 55:5507-5519, Sep 2016. URL: https://doi.org/10.1021/acs.biochem.6b00763, doi:10.1021/acs.biochem.6b00763. This article has 100 citations and is from a peer-reviewed journal.
+
+8. (hamilton2013hippopathwayand pages 33-36): Garth Hamilton and Eric O’Neill. Hippo pathway and apoptosis. Unknown journal, 9781461462200:117-145, Mar 2013. URL: https://doi.org/10.1007/978-1-4614-6220-0\_7, doi:10.1007/978-1-4614-6220-0\_7. This article has 9 citations.
+
+9. (miller2019comprehensiveprofilingof pages 28-29): Chad J. Miller, Hua Jane Lou, Craig Simpson, Bert van de Kooij, Byung Hak Ha, Oriana S. Fisher, Natasha L. Pirman, Titus J. Boggon, Jesse Rinehart, Michael B. Yaffe, Rune Linding, and Benjamin E. Turk. Comprehensive profiling of the ste20 kinase family defines features essential for selective substrate targeting and signaling output. PLOS Biology, 17:e2006540, Mar 2019. URL: https://doi.org/10.1371/journal.pbio.2006540, doi:10.1371/journal.pbio.2006540. This article has 52 citations and is from a highest quality peer-reviewed journal.
+
+10. (record2010structuralcomparisonof pages 10-11): Christopher J. Record, Apirat Chaikuad, Peter Rellos, Sanjan Das, Ashley C. W. Pike, Oleg Fedorov, Brian D. Marsden, Stefan Knapp, and Wen Hwa Lee. Structural comparison of human mammalian ste20-like kinases. PLoS ONE, 5:e11905, Aug 2010. URL: https://doi.org/10.1371/journal.pone.0011905, doi:10.1371/journal.pone.0011905. This article has 68 citations and is from a peer-reviewed journal.
+
+11. (record2010structuralcomparisonof pages 3-4): Christopher J. Record, Apirat Chaikuad, Peter Rellos, Sanjan Das, Ashley C. W. Pike, Oleg Fedorov, Brian D. Marsden, Stefan Knapp, and Wen Hwa Lee. Structural comparison of human mammalian ste20-like kinases. PLoS ONE, 5:e11905, Aug 2010. URL: https://doi.org/10.1371/journal.pone.0011905, doi:10.1371/journal.pone.0011905. This article has 68 citations and is from a peer-reviewed journal.
+
+12. (unknownauthors2014integrativeanalysesof pages 68-73): Integrative analyses of hippo pathway Mutations in human cancer genome
+
+13. (unknownauthors2017regulationofhippo pages 26-29): Regulation of Hippo Pathway Kinases MST1/2 by DLG5 and Other Signaling Factors
+
+14. (eden2024mst4anovel pages 17-18): M. Eden, M. Leye, J. Hahn, Emanuel Heilein, Marcin Luzarowski, Bill Völschow, C. Tannert, S. Sossalla, C. Lucena-Porcel, Derk Frank, and N. Frey. Mst4, a novel cardiac stripak complex–associated kinase, regulates cardiomyocyte growth and survival and is upregulated in human cardiomyopathy. The Journal of Biological Chemistry, Apr 2024. URL: https://doi.org/10.1016/j.jbc.2024.107255, doi:10.1016/j.jbc.2024.107255. This article has 2 citations.
+
+15. (ling2008biosignalingofmammalian pages 1-2): Pin Ling, Te-Jung Lu, Chiun-Jye Yuan, and Ming-Derg Lai. Biosignaling of mammalian ste20-related kinases. Cellular Signalling, 20:1237-1247, Jul 2008. URL: https://doi.org/10.1016/j.cellsig.2007.12.019, doi:10.1016/j.cellsig.2007.12.019. This article has 167 citations and is from a peer-reviewed journal.
+
+16. (ling2008biosignalingofmammalian pages 8-9): Pin Ling, Te-Jung Lu, Chiun-Jye Yuan, and Ming-Derg Lai. Biosignaling of mammalian ste20-related kinases. Cellular Signalling, 20:1237-1247, Jul 2008. URL: https://doi.org/10.1016/j.cellsig.2007.12.019, doi:10.1016/j.cellsig.2007.12.019. This article has 167 citations and is from a peer-reviewed journal.
+
+17. (miller2019comprehensiveprofilingof pages 3-5): Chad J. Miller, Hua Jane Lou, Craig Simpson, Bert van de Kooij, Byung Hak Ha, Oriana S. Fisher, Natasha L. Pirman, Titus J. Boggon, Jesse Rinehart, Michael B. Yaffe, Rune Linding, and Benjamin E. Turk. Comprehensive profiling of the ste20 kinase family defines features essential for selective substrate targeting and signaling output. PLOS Biology, 17:e2006540, Mar 2019. URL: https://doi.org/10.1371/journal.pbio.2006540, doi:10.1371/journal.pbio.2006540. This article has 52 citations and is from a highest quality peer-reviewed journal.
+
+18. (record2010structuralcomparisonof pages 4-6): Christopher J. Record, Apirat Chaikuad, Peter Rellos, Sanjan Das, Ashley C. W. Pike, Oleg Fedorov, Brian D. Marsden, Stefan Knapp, and Wen Hwa Lee. Structural comparison of human mammalian ste20-like kinases. PLoS ONE, 5:e11905, Aug 2010. URL: https://doi.org/10.1371/journal.pone.0011905, doi:10.1371/journal.pone.0011905. This article has 68 citations and is from a peer-reviewed journal.
+
+19. (record2010structuralcomparisonof pages 6-8): Christopher J. Record, Apirat Chaikuad, Peter Rellos, Sanjan Das, Ashley C. W. Pike, Oleg Fedorov, Brian D. Marsden, Stefan Knapp, and Wen Hwa Lee. Structural comparison of human mammalian ste20-like kinases. PLoS ONE, 5:e11905, Aug 2010. URL: https://doi.org/10.1371/journal.pone.0011905, doi:10.1371/journal.pone.0011905. This article has 68 citations and is from a peer-reviewed journal.
+
+20. (record2010structuralcomparisonof pages 8-10): Christopher J. Record, Apirat Chaikuad, Peter Rellos, Sanjan Das, Ashley C. W. Pike, Oleg Fedorov, Brian D. Marsden, Stefan Knapp, and Wen Hwa Lee. Structural comparison of human mammalian ste20-like kinases. PLoS ONE, 5:e11905, Aug 2010. URL: https://doi.org/10.1371/journal.pone.0011905, doi:10.1371/journal.pone.0011905. This article has 68 citations and is from a peer-reviewed journal.

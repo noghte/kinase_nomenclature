@@ -1,0 +1,111 @@
+## Phylogeny  
+Orthologs are reported in Saccharomyces cerevisiae, Schizosaccharomyces pombe, Neurospora crassa, Aspergillus nidulans, Arabidopsis thaliana, Caenorhabditis elegans, Drosophila melanogaster, Danio rerio, Xenopus tropicalis, Mus musculus and Homo sapiens, illustrating conservation across eukaryotes (castilho2014keepingtheeif2 pages 3-4).  
+Comparative analyses identify GCN2 as the ancestral eIF2α kinase; subsequent gene duplications generated HRI, PERK, PKR and the fish-specific PKZ (rothenburg2016evolutionofeif2α pages 4-7, berlanga2016eif2αkinasesand pages 239-242).  
+Within the human kinome, EIF2AK4 is placed in the eIF2α-kinase subgroup of the CMGC serine/threonine kinase group (rothenburg2016evolutionofeif2α pages 4-7).  
+
+## Reaction Catalyzed  
+ATP + EIF2S1(Ser51) → ADP + EIF2S1(Ser51-phosphate) (castilho2014keepingtheeif2 pages 1-2).  
+
+## Cofactor Requirements  
+Divalent Mg²⁺ ions are required for nucleotide binding and phosphoryl transfer; two Mg²⁺ ions are visible in crystal structures of the kinase domain, and no Mn²⁺ dependence has been documented (masson2019towardsamodel pages 1-2, padyana2005structuralbasisfor pages 2-2).  
+
+## Substrate Specificity  
+GCN2 shows narrow specificity, phosphorylating Ser51 within the eIF2α subunit; no broader linear consensus motif has been defined, and recognition relies on the eIF2α surface, as underscored by competitive viral mimics such as Vaccinia virus K3L (berlanga2016eif2αkinasesand pages 256-258).  
+
+## Structure  
+Human GCN2 (1 649 aa, ≈190 kDa) comprises five ordered domains: N-terminal RWD (ribosome/GCN1 docking), pseudokinase, catalytic kinase, HisRS-like sensor, and C-terminal dimerization/ribosome-binding domain (masson2019towardsamodel pages 1-2).  
+• RWD: solution structure, PDB 1UKX (masson2019towardsamodel pages 1-2).  
+• Kinase: bilobal fold, PDB 1ZYD; catalytic Lys628, HRD motif, DFG motif, and a long activation loop harbouring Thr899/Thr904 autophosphorylation sites; hinge residue Arg794 forms autoinhibitory contacts that are disrupted in activating mutant R794G (padyana2005structuralbasisfor pages 2-3, padyana2005structuralbasisfor pages 5-7).  
+• HisRS-like: crystal and cryo-EM analyses reveal a constitutive intertwined dimer that mimics histidyl-tRNA synthetase but lacks catalytic activity, providing the principal uncharged-tRNA binding platform (bounader2024gcn2structurallymimics pages 7-8, soloriokirpichyan2024cryoemstructureof pages 10-14).  
+• CTD: interdigitated dimer, PDB 4OTN; this domain stabilises back-to-back kinase dimers and contains lysines critical for ribosome interaction (berlanga2016eif2αkinasesand pages 246-249, masson2019towardsamodel pages 2-4).  
+Cryo-EM shows junction α-helices linking the kinase and HisRS domains cross the dimer interface and enforce the active kinase configuration (soloriokirpichyan2024cryoemstructureof pages 14-18).  
+
+## Regulation  
+• Activation is triggered by binding of accumulated uncharged tRNAs to the HisRS-like domain, relieving autoinhibition and permitting trans-autophosphorylation of Thr899/Thr904 (castilho2014keepingtheeif2 pages 2-3).  
+• The GCN1-GCN20 complex tethers GCN2 to translating ribosomes and delivers uncharged tRNA; deletion of GCN1 abrogates activation in vivo (masson2019towardsamodel pages 2-4).  
+• Ribosome-P-stalk engagement and collision-sensing provide tRNA-independent activation routes (altintas2024generalcontrolnonderepressible pages 1-2).  
+• mTORC1 directly phosphorylates Ser230 in the N-terminus, elevating kinase activity during amino-acid stress (darawshi2024phosphorylationofgcn2 pages 5-6).  
+• Yeast Ser577 phosphorylation, controlled by TOR signalling, maintains an inhibited state under nutrient sufficiency (donnelly2013theeif2αkinases pages 5-6).  
+• Constitutive CTD–kinase and HisRS–kinase contacts impose basal autoinhibition; their disruption by tRNA or junction-helix mutations activates the enzyme (masson2019towardsamodel pages 2-4, soloriokirpichyan2024cryoemstructureof pages 6-10).  
+• Downstream, eIF2α is dephosphorylated by PPP1R15A/B complexes to terminate signalling (castilho2014keepingtheeif2 pages 17-18).  
+
+## Function  
+GCN2 is ubiquitously expressed and serves as the principal amino-acid deprivation sensor in the Integrated Stress Response (ISR), phosphorylating eIF2α to attenuate global translation while selectively enhancing ATF4 synthesis (altintas2024generalcontrolnonderepressible pages 1-2).  
+The kinase also responds to ribosome stalling in neuronal tissues, limiting neurodegeneration by initiating ISR gene programmes (ishimura2016activationofgcn2 pages 6-8).  
+Cross-talk with mTORC1 coordinates translational and growth control: pharmacological mTOR inhibition suppresses GCN2 signalling, whereas mTOR-mediated Ser230 phosphorylation potentiates it (bruggenthies2022acellbasedchemicalgenetic pages 2-3, darawshi2024phosphorylationofgcn2 pages 5-6).  
+Interactors include GCN1, GCN20, the ribosomal P-stalk, IMPACT/YIH1, eEF1A and Hsp90, which modulate localisation or folding (castilho2014keepingtheeif2 pages 3-4, berlanga2016eif2αkinasesand pages 256-258).  
+GCN2-dependent ISR contributes to memory formation, immune regulation, metabolic homeostasis and lifespan control (castilho2014keepingtheeif2 pages 1-2).  
+
+## Inhibitors  
+Compound | Mechanism | Potency  
+GCN2-IN-6 (allosteric) | non-competitive | IC₅₀ ≈ 1.8 nM (unknownauthors2021geneticandchemical pages 43-46)  
+GCN2iB (ATP-site) | type I½ binder | IC₅₀ ≈ 1.8 nM; activates certain mutants at low dose (unknownauthors2021geneticandchemical pages 43-46, carlson2023activationofgcn2 pages 14-15)  
+A-92/GCN2-IN-1 (allosteric) | non-competitive | cell-active probe (unknownauthors2021geneticandchemical pages 43-46)  
+Lestaurtinib, R406, Fedratinib, Neratinib, Dovitinib (ATP-competitive) | Kd 3–100 nM range versus isolated kinase (tang2022gcn2kinaseactivation pages 1-3)  
+Staurosporine, SP600125, Indirubin-3′-monoxime | ATP-competitive | IC₅₀ ≈ 2–20 µM (unknownauthors2009blockinguv‐inducedeif2α pages 6-8, unknownauthors2009blockinguv‐inducedeif2α pages 17-20)  
+Torin-class mTOR inhibitors attenuate cellular GCN2 activation indirectly (bruggenthies2022acellbasedchemicalgenetic pages 2-3).  
+
+## Other Comments  
+Biallelic loss-of-function mutations in EIF2AK4 cause hereditary pulmonary veno-occlusive disease/pulmonary capillary hemangiomatosis (castilho2014keepingtheeif2 pages 3-4).  
+GCN2 activity supports survival of acute lymphoblastic leukaemia and multiple myeloma cells under nutrient stress (nwosu2022targetingtheintegrated pages 4-6).  
+Persistent ISR signalling via GCN2 contributes to neurodegenerative phenotypes in mouse models of ribosome stalling (ishimura2016activationofgcn2 pages 6-8).  
+The kinase-domain variant S808G alters inhibitor binding kinetics and is used in chemical-genetic studies (tang2022gcn2kinaseactivation pages 1-3).  
+An activating structural mutant, R794G, disrupts hinge autoinhibition and is widely employed to probe regulatory mechanics (padyana2005structuralbasisfor pages 5-7).
+
+References
+
+1. (berlanga2016eif2αkinasesand pages 239-242): Juan José Berlanga, César de Haro, Miguel A. Rodríguez-Gabriel, and Iván Ventoso. Eif2α kinases and the evolution of stress response in eukaryotes. Evolution of the Protein Synthesis Machinery and Its Regulation, pages 261-276, Jan 2016. URL: https://doi.org/10.1007/978-3-319-39468-8\_12, doi:10.1007/978-3-319-39468-8\_12. This article has 3 citations.
+
+2. (berlanga2016eif2αkinasesand pages 246-249): Juan José Berlanga, César de Haro, Miguel A. Rodríguez-Gabriel, and Iván Ventoso. Eif2α kinases and the evolution of stress response in eukaryotes. Evolution of the Protein Synthesis Machinery and Its Regulation, pages 261-276, Jan 2016. URL: https://doi.org/10.1007/978-3-319-39468-8\_12, doi:10.1007/978-3-319-39468-8\_12. This article has 3 citations.
+
+3. (bounader2024gcn2structurallymimics pages 7-8): Charles Bou-Nader, Swati Gaikwad, Soheila Bahmanjah, Fan Zhang, Alan G. Hinnebusch, and Jinwei Zhang. Gcn2 structurally mimics and functionally repurposes the hisrs enzyme for the integrated stress response. Proceedings of the National Academy of Sciences, Aug 2024. URL: https://doi.org/10.1073/pnas.2409628121, doi:10.1073/pnas.2409628121. This article has 5 citations.
+
+4. (bruggenthies2022acellbasedchemicalgenetic pages 2-3): Johanna B. Brüggenthies, Alessandra Fiore, Marion Russier, Christina Bitsina, Julian Brötzmann, Susanne Kordes, Sascha Menninger, Alexander Wolf, Elena Conti, Jan E. Eickhoff, and Peter J. Murray. A cell-based chemical-genetic screen for amino acid stress response inhibitors reveals torins reverse stress kinase gcn2 signaling. Journal of Biological Chemistry, 298:102629, Dec 2022. URL: https://doi.org/10.1016/j.jbc.2022.102629, doi:10.1016/j.jbc.2022.102629. This article has 11 citations and is from a domain leading peer-reviewed journal.
+
+5. (castilho2014keepingtheeif2 pages 1-2): B. A. Castilho, Renuka Shanmugam, Richard C. Silva, Rashmi Ramesh, B. Himme, and E. Sattlegger. Keeping the eif2 alpha kinase gcn2 in check. Biochimica et biophysica acta, 1843 9:1948-68, Sep 2014. URL: https://doi.org/10.1016/j.bbamcr.2014.04.006, doi:10.1016/j.bbamcr.2014.04.006. This article has 346 citations.
+
+6. (castilho2014keepingtheeif2 pages 17-18): B. A. Castilho, Renuka Shanmugam, Richard C. Silva, Rashmi Ramesh, B. Himme, and E. Sattlegger. Keeping the eif2 alpha kinase gcn2 in check. Biochimica et biophysica acta, 1843 9:1948-68, Sep 2014. URL: https://doi.org/10.1016/j.bbamcr.2014.04.006, doi:10.1016/j.bbamcr.2014.04.006. This article has 346 citations.
+
+7. (castilho2014keepingtheeif2 pages 2-3): B. A. Castilho, Renuka Shanmugam, Richard C. Silva, Rashmi Ramesh, B. Himme, and E. Sattlegger. Keeping the eif2 alpha kinase gcn2 in check. Biochimica et biophysica acta, 1843 9:1948-68, Sep 2014. URL: https://doi.org/10.1016/j.bbamcr.2014.04.006, doi:10.1016/j.bbamcr.2014.04.006. This article has 346 citations.
+
+8. (castilho2014keepingtheeif2 pages 3-4): B. A. Castilho, Renuka Shanmugam, Richard C. Silva, Rashmi Ramesh, B. Himme, and E. Sattlegger. Keeping the eif2 alpha kinase gcn2 in check. Biochimica et biophysica acta, 1843 9:1948-68, Sep 2014. URL: https://doi.org/10.1016/j.bbamcr.2014.04.006, doi:10.1016/j.bbamcr.2014.04.006. This article has 346 citations.
+
+9. (ishimura2016activationofgcn2 pages 6-8): R. Ishimura, Gabor Nagy, Iván Dotú, Jeffrey H. Chuang, and S. Ackerman. Activation of gcn2 kinase by ribosome stalling links translation elongation with translation initiation. eLife, Apr 2016. URL: https://doi.org/10.7554/elife.14295, doi:10.7554/elife.14295. This article has 215 citations and is from a domain leading peer-reviewed journal.
+
+10. (masson2019towardsamodel pages 1-2): G. Masson. Towards a model of gcn2 activation. Biochemical Society Transactions, 47:1481-1488, Oct 2019. URL: https://doi.org/10.1042/bst20190331, doi:10.1042/bst20190331. This article has 142 citations and is from a peer-reviewed journal.
+
+11. (masson2019towardsamodel pages 2-4): G. Masson. Towards a model of gcn2 activation. Biochemical Society Transactions, 47:1481-1488, Oct 2019. URL: https://doi.org/10.1042/bst20190331, doi:10.1042/bst20190331. This article has 142 citations and is from a peer-reviewed journal.
+
+12. (padyana2005structuralbasisfor pages 2-2): Anil K. Padyana, Hongfang Qiu, Antonina Roll-Mecak, Alan G. Hinnebusch, and Stephen K. Burley. Structural basis for autoinhibition and mutational activation of eukaryotic initiation factor 2α protein kinase gcn2*[boxs]. Journal of Biological Chemistry, 280:29289-29299, Aug 2005. URL: https://doi.org/10.1074/jbc.m504096200, doi:10.1074/jbc.m504096200. This article has 146 citations and is from a domain leading peer-reviewed journal.
+
+13. (padyana2005structuralbasisfor pages 2-3): Anil K. Padyana, Hongfang Qiu, Antonina Roll-Mecak, Alan G. Hinnebusch, and Stephen K. Burley. Structural basis for autoinhibition and mutational activation of eukaryotic initiation factor 2α protein kinase gcn2*[boxs]. Journal of Biological Chemistry, 280:29289-29299, Aug 2005. URL: https://doi.org/10.1074/jbc.m504096200, doi:10.1074/jbc.m504096200. This article has 146 citations and is from a domain leading peer-reviewed journal.
+
+14. (padyana2005structuralbasisfor pages 5-7): Anil K. Padyana, Hongfang Qiu, Antonina Roll-Mecak, Alan G. Hinnebusch, and Stephen K. Burley. Structural basis for autoinhibition and mutational activation of eukaryotic initiation factor 2α protein kinase gcn2*[boxs]. Journal of Biological Chemistry, 280:29289-29299, Aug 2005. URL: https://doi.org/10.1074/jbc.m504096200, doi:10.1074/jbc.m504096200. This article has 146 citations and is from a domain leading peer-reviewed journal.
+
+15. (rothenburg2016evolutionofeif2α pages 4-7): Stefan Rothenburg, Millie M. Georgiadis, and Ronald C. Wek. Evolution of eif2α kinases: adapting translational control to diverse stresses. Evolution of the Protein Synthesis Machinery and Its Regulation, pages 235-260, Jan 2016. URL: https://doi.org/10.1007/978-3-319-39468-8\_11, doi:10.1007/978-3-319-39468-8\_11. This article has 14 citations.
+
+16. (soloriokirpichyan2024cryoemstructureof pages 10-14): Kristina Solorio-Kirpichyan, Xiao Fan, Dmitrij Golovenko, Andrei A. Korostelev, Nieng Yan, and Alexei Korennykh. Cryo-em structure of hrsl domain reveals activating crossed helices at the core of gcn2. BioRxiv, Apr 2024. URL: https://doi.org/10.1101/2024.04.24.591037, doi:10.1101/2024.04.24.591037. This article has 1 citations.
+
+17. (soloriokirpichyan2024cryoemstructureof pages 14-18): Kristina Solorio-Kirpichyan, Xiao Fan, Dmitrij Golovenko, Andrei A. Korostelev, Nieng Yan, and Alexei Korennykh. Cryo-em structure of hrsl domain reveals activating crossed helices at the core of gcn2. BioRxiv, Apr 2024. URL: https://doi.org/10.1101/2024.04.24.591037, doi:10.1101/2024.04.24.591037. This article has 1 citations.
+
+18. (soloriokirpichyan2024cryoemstructureof pages 6-10): Kristina Solorio-Kirpichyan, Xiao Fan, Dmitrij Golovenko, Andrei A. Korostelev, Nieng Yan, and Alexei Korennykh. Cryo-em structure of hrsl domain reveals activating crossed helices at the core of gcn2. BioRxiv, Apr 2024. URL: https://doi.org/10.1101/2024.04.24.591037, doi:10.1101/2024.04.24.591037. This article has 1 citations.
+
+19. (tang2022gcn2kinaseactivation pages 1-3): Colin P Tang, O. Clark, J. Ferrarone, Carl Campos, A. Lalani, J. Chodera, A. Intlekofer, O. Elemento, and I. Mellinghoff. Gcn2 kinase activation by atp-competitive kinase inhibitors. Nature Chemical Biology, 18:207-215, Dec 2022. URL: https://doi.org/10.1038/s41589-021-00947-8, doi:10.1038/s41589-021-00947-8. This article has 42 citations and is from a highest quality peer-reviewed journal.
+
+20. (unknownauthors2009blockinguv‐inducedeif2α pages 17-20): Blocking UV‐Induced eIF2α Phosphorylation with Small Molecule Inhibitors of GCN2
+
+21. (unknownauthors2009blockinguv‐inducedeif2α pages 6-8): Blocking UV‐Induced eIF2α Phosphorylation with Small Molecule Inhibitors of GCN2
+
+22. (unknownauthors2021geneticandchemical pages 43-46): Genetic and chemical perturbation of amino acid sensing by the GCN1-GCN2 pathway
+
+23. (altintas2024generalcontrolnonderepressible pages 1-2): Ozlem Altintas and Michael R. MacArthur. General control nonderepressible 2 (gcn2) as a therapeutic target in age-related diseases. Frontiers in Aging, Sep 2024. URL: https://doi.org/10.3389/fragi.2024.1447370, doi:10.3389/fragi.2024.1447370. This article has 0 citations and is from a peer-reviewed journal.
+
+24. (berlanga2016eif2αkinasesand pages 256-258): Juan José Berlanga, César de Haro, Miguel A. Rodríguez-Gabriel, and Iván Ventoso. Eif2α kinases and the evolution of stress response in eukaryotes. Evolution of the Protein Synthesis Machinery and Its Regulation, pages 261-276, Jan 2016. URL: https://doi.org/10.1007/978-3-319-39468-8\_12, doi:10.1007/978-3-319-39468-8\_12. This article has 3 citations.
+
+25. (carlson2023activationofgcn2 pages 14-15): Kenneth R. Carlson, M. Georgiadis, Feven Tameire, K. Staschke, and R. Wek. Activation of gcn2 by small molecules designed to be inhibitors. The Journal of Biological Chemistry, Mar 2023. URL: https://doi.org/10.1016/j.jbc.2023.104595, doi:10.1016/j.jbc.2023.104595. This article has 35 citations.
+
+26. (darawshi2024phosphorylationofgcn2 pages 5-6): Odai Darawshi, Olaya Yassin, Miri Shmuel, Ronald C. Wek, S. J. Mahdizadeh, Leif A. Eriksson, M. Hatzoglou, and B. Tirosh. Phosphorylation of gcn2 by mtor confers adaptation to conditions of hyper-mtor activation under stress. The Journal of Biological Chemistry, Jul 2024. URL: https://doi.org/10.1016/j.jbc.2024.107575, doi:10.1016/j.jbc.2024.107575. This article has 6 citations.
+
+27. (donnelly2013theeif2αkinases pages 5-6): Neysan Donnelly, Adrienne M. Gorman, Sanjeev Gupta, and Afshin Samali. The eif2α kinases: their structures and functions. Cellular and Molecular Life Sciences, 70:3493-3511, Jan 2013. URL: https://doi.org/10.1007/s00018-012-1252-6, doi:10.1007/s00018-012-1252-6. This article has 1044 citations and is from a domain leading peer-reviewed journal.
+
+28. (nwosu2022targetingtheintegrated pages 4-6): Gus O Nwosu, J. Powell, and S. Pitson. Targeting the integrated stress response in hematologic malignancies. Experimental Hematology & Oncology, Nov 2022. URL: https://doi.org/10.1186/s40164-022-00348-0, doi:10.1186/s40164-022-00348-0. This article has 17 citations and is from a peer-reviewed journal.

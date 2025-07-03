@@ -1,0 +1,52 @@
+## Phylogeny  
+• ACVR1B (ALK4) is classified within the receptor serine/threonine kinase (RSTK) group, TGF-β receptor family, activin receptor-like kinase (ALK) subgroup, as defined by kinome surveys that place it alongside ALK2 (ACVR1) and ALK5 (TGFBR1) (olsen2020activinsasdual pages 14-15).  
+• Verified orthologs include human ACVR1B, mouse Acvr1b, chicken ALK4, and zebrafish Acvr1b-like; the β4β5-loop residue Tyr74 required for Activin A docking is conserved in most vertebrate orthologs and absent only in zebrafish and Drosophila sequences, underscoring broad evolutionary conservation (goebel2025cryoemstructureof pages 6-8).  
+• Paralog relationships within the ALK family reveal closest similarity to ALK2 and ALK5, all sharing the GS regulatory motif and catalytic core (goebel2025cryoemstructureof pages 6-8, olsen2020activinsasdual pages 14-15).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr → ADP + [protein]-Ser/Thr-P (olsen2020activinsasdual pages 14-15).  
+
+## Cofactor Requirements  
+Catalysis is Mg²⁺-dependent, coordinated by the conserved AxK Lys and DLG Asp residues that bind ATP within the kinase active site (iwasa2023computationalandexperimental pages 6-7).  
+
+## Substrate Specificity  
+• Highest activity toward receptor-regulated SMADs bearing a C-terminal SSXS motif, with SMAD2 and SMAD3 being the primary cellular substrates (olsen2020activinsasdual pages 14-15).  
+• Phospho-acceptor preference is serine at position 0 within the SSXS cassette; flanking serines at –2/–1 and +2 further enhance recognition, a consensus shared across TGF-β/Activin type I receptors (olsen2020activinsasdual pages 14-15).  
+
+## Structure  
+• Modular organisation: N-terminal extracellular ligand-binding domain (two-domain β-sandwich), single-pass transmembrane helix, GS regulatory loop, and C-terminal bilobal kinase domain containing the activation loop (olsen2020activinsasdual pages 14-15).  
+• Cryo-EM structure of the ActRIIB:Activin A:ALK4 ternary complex (PDB 7OLY) shows an extended β4β5-loop; Tyr74 within this loop forms a direct interface with Activin A fingertip residue Asp406, explaining ligand specificity (goebel2025cryoemstructureof pages 20-26).  
+• The kinase adopts a canonical DFG-in conformation with aligned VAIK Lys, HRD Asp, and DFG Asp; regulatory and catalytic hydrophobic spines are intact, consistent with an active state (olsen2020activinsasdual pages 14-15).  
+• Conserved catalytic elements (AxK Lys, DLG Asp, HRD His-Arg-Asp) identified in ALK family alignments underscore structural homology across vertebrate receptors (iwasa2023computationalandexperimental pages 6-7).  
+
+## Regulation  
+• Activation requires trans-phosphorylation of multiple Ser/Thr residues within the GS loop by type II receptors ACVR2A or ACVR2B, relieving autoinhibition and positioning the αC-helix for catalysis (olsen2020activinsasdual pages 14-15, szilagyi2022competitionbetweentype pages 19-20).  
+• Subsequent autophosphorylation within the activation loop stabilises the active kinase conformation (olsen2020activinsasdual pages 14-15).  
+• Dephosphorylation by the phosphatase PPM1A terminates signalling (olsen2020activinsasdual pages 14-15).  
+• SMURF2-mediated ubiquitination targets the receptor for degradation, providing additional negative control (olsen2020activinsasdual pages 14-15).  
+• The extracellular domain is N-glycosylated, a modification required for proper folding and cell-surface localisation (szilagyi2022competitionbetweentype pages 19-20).  
+
+## Function  
+• Ligand binding: Activin A (and related ligands) first engages ACVR2A/B, which then recruits and phosphorylates ALK4 to form an active heterotetrameric complex (olsen2020activinsasdual pages 14-15).  
+• Downstream signalling: Activated ALK4 phosphorylates SMAD2/3; these associate with SMAD4 and translocate to the nucleus to regulate transcription of genes controlling neuronal differentiation, hair follicle cycling, FSH synthesis, wound repair, extracellular matrix production, and immunomodulation (olsen2020activinsasdual pages 14-15).  
+• Tissue distribution: High expression is reported in ovary, pituitary, and brain, with functional receptor detected in human U2OS osteosarcoma cells (olsen2020activinsasdual pages 14-15, szilagyi2022competitionbetweentype pages 19-20).  
+• Pathway crosstalk: Competition between ALK4 and BMP-type I receptors for ACVR2A availability modulates pathway choice between SMAD2/3 and SMAD1/5/9 cascades (szilagyi2022competitionbetweentype pages 19-20).  
+• Extracellular antagonists such as Follistatin and Cerberus sequester Activins, attenuating ALK4 activation (olsen2020activinsasdual pages 14-15).  
+
+## Inhibitors  
+SB-431542 is an ATP-competitive small molecule that selectively inhibits ALK4/5/7, blocking SMAD2/3 phosphorylation with sub-micromolar potency in cell-based assays (olsen2020activinsasdual pages 14-15).  
+
+## Other Comments  
+Disease-linked missense variants (e.g., K232R in the kinase N-lobe and R338Q near the catalytic loop) impair or dysregulate SMAD2/3 activation and have been detected in pathological contexts, although detailed phenotypic correlations remain limited (olsen2020activinsasdual pages 14-15).
+
+References
+
+1. (olsen2020activinsasdual pages 14-15): Oddrun Elise Olsen, Hanne Hella, Samah Elsaadi, Carsten Jacobi, Erik Martinez-Hackert, and Toril Holien. Activins as dual specificity tgf-β family molecules: smad-activation via activin- and bmp-type 1 receptors. Biomolecules, 10:519, Mar 2020. URL: https://doi.org/10.3390/biom10040519, doi:10.3390/biom10040519. This article has 53 citations and is from a peer-reviewed journal.
+
+2. (goebel2025cryoemstructureof pages 20-26): Erich J. Goebel, Senem Aykul, Kei Saotome, Aris N. Economides, Matthew C. Franklin, and Vincent J. Idone. Cryoem structure of alk2:bmp6 reveals distinct mechanisms that allow alk2 to interact with both bmp and activin ligands. BioRxiv, Feb 2025. URL: https://doi.org/10.1101/2025.02.07.637115, doi:10.1101/2025.02.07.637115. This article has 0 citations.
+
+3. (szilagyi2022competitionbetweentype pages 19-20): Szabina Szófia Szilágyi, Ayelet R. Amsalem-Zafran, Keren E. Shapira, Marcelo Ehrlich, and Yoav I. Henis. Competition between type i activin and bmp receptors for binding to acvr2a regulates signaling to distinct smad pathways. BMC Biology, Feb 2022. URL: https://doi.org/10.1186/s12915-022-01252-z, doi:10.1186/s12915-022-01252-z. This article has 20 citations and is from a domain leading peer-reviewed journal.
+
+4. (goebel2025cryoemstructureof pages 6-8): Erich J. Goebel, Senem Aykul, Kei Saotome, Aris N. Economides, Matthew C. Franklin, and Vincent J. Idone. Cryoem structure of alk2:bmp6 reveals distinct mechanisms that allow alk2 to interact with both bmp and activin ligands. BioRxiv, Feb 2025. URL: https://doi.org/10.1101/2025.02.07.637115, doi:10.1101/2025.02.07.637115. This article has 0 citations.
+
+5. (iwasa2023computationalandexperimental pages 6-7): Toru Iwasa, Akihiro Urasaki, Yuki Kakihana, Nami Nagata-Akaho, Yukihiro Harada, Soichi Takeda, Teruhisa Kawamura, Isao Shiraishi, Kenichi Kurosaki, Hiroko Morisaki, Osamu Yamada, and Osamu Nakagawa. Computational and experimental analyses for pathogenicity prediction of acvrl1 missense variants in hereditary hemorrhagic telangiectasia. Journal of Clinical Medicine, 12:5002, Jul 2023. URL: https://doi.org/10.3390/jcm12155002, doi:10.3390/jcm12155002. This article has 1 citations and is from a peer-reviewed journal.

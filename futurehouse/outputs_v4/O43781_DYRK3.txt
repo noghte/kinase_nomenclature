@@ -1,0 +1,74 @@
+## Phylogeny  
+Human DYRK3 (UniProt O43781) is classified within the CMGC kinase group, DYRK subfamily, class II branch that also contains DYRK2 and DYRK4 (kim2018crystalstructureof pages 1-6). Phylogenetic analyses place DYRK kinases closest to CLK and PRP4 subfamilies inside CMGC (becker1999structuralandfunctional pages 7-11). Orthologs are detected across eukaryotes, including Saccharomyces cerevisiae Yak1p, Drosophila melanogaster minibrain/dDyrk3, Caenorhabditis elegans MBK-2, Trypanosoma brucei class-2 DYRK, Danio rerio dyrk3, Mus musculus Dyrk3 and Homo sapiens DYRK3, indicating conservation before the last eukaryotic common ancestor (aranda2011dyrkfamilyof pages 2-3, han2012deepevolutionaryconservation pages 2-3). Manning et al. 2002 placed DYRK3 in the CMGC→DYRK clade of the human kinome (han2012deepevolutionaryconservation pages 9-9).  
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (substrate phosphorylation) (becker1998sequencecharacteristicssubcellular pages 1-1).  
+ATP + DYRK3-L-Tyr ⇌ ADP + DYRK3-O-phospho-Tyr (intramolecular activation-loop autophosphorylation) (kim2018crystalstructureof pages 1-6).  
+
+## Cofactor Requirements  
+Catalysis requires Mg²⁺ for ATP coordination; no additional divalent cation dependence has been reported (kim2018crystalstructureof pages 9-13).  
+
+## Substrate Specificity  
+A kinome-wide consensus motif for DYRK3 has not been reported; the kinase phosphorylates serine/threonine residues within flexible, proline-rich segments of substrates. Experimentally validated sites include PRAS40 Thr246 in vitro and histone H2B Ser/Thr residues, while activation-loop Tyr321 undergoes autophosphorylation (kim2018crystalstructureof pages 18-22, becker1998sequencecharacteristicssubcellular pages 1-1).  
+
+## Structure  
+Crystal structures of human DYRK3 (PDB 5Y86 and 6EJ8) resolve residues 138-533 at 1.9 Å, revealing a bilobal kinase fold (kim2018crystalstructureof pages 22-31).  
+– N-terminal auto-phosphorylation accessory (NAPA) domain: residues 154-172; promotes efficient Tyr321 autophosphorylation and shields a hydrophobic N-lobe surface (kim2018crystalstructureof pages 6-9).  
+– DYRK homology (DH) box: residues 187-197; contributes to structural integrity typical of DYRK family kinases (kim2018crystalstructureof pages 6-9).  
+– Catalytic domain: canonical CMGC motifs Lys178-Glu194 (β3-αC), HRD 291-293, DFG 309-311 and the activation-segment THEYxY sequence containing Tyr321 (kim2018crystalstructureof pages 22-31, becker1999structuralandfunctional pages 7-11).  
+– Regulatory Ser350 within the C-lobe is surface-exposed; its phosphorylation increases thermal stability (kim2018crystalstructureof pages 18-22).  
+– A MAPK-like insert between β7-β8 and a continuous hydrophobic spine are present, consistent with an active C-helix-in conformation (kim2018crystalstructureof pages 22-31).  
+
+## Regulation  
+Autophosphorylation  
+– Tyr321: co-translational, essential for catalytic competence (kim2018crystalstructureof pages 1-6).  
+– Ser350: increases protein stability and catalytic activity (kim2018crystalstructureof pages 18-22).  
+
+Other post-translational modifications  
+– Reported ubiquitination events modulate stability, although specific lysines and E3 ligases remain undefined (unknownauthors2022regulationofposttranslational pages 174-174).  
+
+Localization and context-dependent control  
+– Predominantly cytoplasmic; accumulates in stress granules under oxidative or arsenite stress and re-activates upon stress relief (kim2018crystalstructureof pages 1-6).  
+
+## Function  
+Expression is enriched in erythroid progenitors, testis, kidney and liver (zhang2005dyrkgenestructure pages 1-2). DYRK3 limits stress erythropoiesis: knockout mice display expanded CFU-E compartments and elevated reticulocyte output, whereas transgenic overexpression suppresses pro-erythroblast development (bogacheva2008dyrk3dualspecificitykinase pages 9-10). The kinase phosphorylates PRAS40 and histone H2B, linking it to mTORC1 pathway modulation and chromatin regulation (kim2018crystalstructureof pages 18-22, becker1998sequencecharacteristicssubcellular pages 1-1). DYRK3 translocates to stress granules and participates in dynamic control of membraneless organelles during cellular stress (kim2018crystalstructureof pages 1-6).  
+
+## Inhibitors  
+– Harmine: ATP-competitive inhibitor co-crystallised with DYRK3 (PDB 5Y86); binds deep hydrophobic ATP pocket (kim2018crystalstructureof pages 1-6).  
+– Benzothiazole derivative “compound 53”: >90 % inhibition of DYRK3 at 10 µM; sub-micromolar potency against related DYRKs (demuro2021gsk3βfynand pages 21-23).  
+– Leucettine analogues bind the ATP site; structural and selectivity data available from DYRK family complexes (tahtouh2012selectivitycocrystalstructures pages 15-16).  
+
+## Other Comments  
+The human DYRK3 gene contains four exons, representing one of the simplest architectures within the DYRK family (zhang2005dyrkgenestructure pages 1-2). DYRK3 dysregulation contributes to anaemia phenotypes, supporting its potential as a therapeutic target in haematological disorders (bogacheva2008dyrk3dualspecificitykinase pages 9-10).
+
+References
+
+1. (becker1999structuralandfunctional pages 7-11): W. Becker and Hans-G. Joost. Structural and functional characteristics of dyrk, a novel subfamily of protein kinases with dual specificity. Progress in nucleic acid research and molecular biology, 62:1-17, 1999. URL: https://doi.org/10.1016/s0079-6603(08)60503-6, doi:10.1016/s0079-6603(08)60503-6. This article has 299 citations.
+
+2. (kim2018crystalstructureof pages 1-6): Kuglae Kim, J. S. Cha, Yong-Soon Cho, Hoyoung Kim, N. Chang, Hye-Jung Kim, and Hyun-soo Cho. Crystal structure of human dual-specificity tyrosine-regulated kinase 3 reveals new structural features and insights into its auto-phosphorylation. Journal of molecular biology, 430 10:1521-1530, May 2018. URL: https://doi.org/10.1016/j.jmb.2018.04.001, doi:10.1016/j.jmb.2018.04.001. This article has 14 citations and is from a domain leading peer-reviewed journal.
+
+3. (kim2018crystalstructureof pages 18-22): Kuglae Kim, J. S. Cha, Yong-Soon Cho, Hoyoung Kim, N. Chang, Hye-Jung Kim, and Hyun-soo Cho. Crystal structure of human dual-specificity tyrosine-regulated kinase 3 reveals new structural features and insights into its auto-phosphorylation. Journal of molecular biology, 430 10:1521-1530, May 2018. URL: https://doi.org/10.1016/j.jmb.2018.04.001, doi:10.1016/j.jmb.2018.04.001. This article has 14 citations and is from a domain leading peer-reviewed journal.
+
+4. (kim2018crystalstructureof pages 22-31): Kuglae Kim, J. S. Cha, Yong-Soon Cho, Hoyoung Kim, N. Chang, Hye-Jung Kim, and Hyun-soo Cho. Crystal structure of human dual-specificity tyrosine-regulated kinase 3 reveals new structural features and insights into its auto-phosphorylation. Journal of molecular biology, 430 10:1521-1530, May 2018. URL: https://doi.org/10.1016/j.jmb.2018.04.001, doi:10.1016/j.jmb.2018.04.001. This article has 14 citations and is from a domain leading peer-reviewed journal.
+
+5. (kim2018crystalstructureof pages 6-9): Kuglae Kim, J. S. Cha, Yong-Soon Cho, Hoyoung Kim, N. Chang, Hye-Jung Kim, and Hyun-soo Cho. Crystal structure of human dual-specificity tyrosine-regulated kinase 3 reveals new structural features and insights into its auto-phosphorylation. Journal of molecular biology, 430 10:1521-1530, May 2018. URL: https://doi.org/10.1016/j.jmb.2018.04.001, doi:10.1016/j.jmb.2018.04.001. This article has 14 citations and is from a domain leading peer-reviewed journal.
+
+6. (kim2018crystalstructureof pages 9-13): Kuglae Kim, J. S. Cha, Yong-Soon Cho, Hoyoung Kim, N. Chang, Hye-Jung Kim, and Hyun-soo Cho. Crystal structure of human dual-specificity tyrosine-regulated kinase 3 reveals new structural features and insights into its auto-phosphorylation. Journal of molecular biology, 430 10:1521-1530, May 2018. URL: https://doi.org/10.1016/j.jmb.2018.04.001, doi:10.1016/j.jmb.2018.04.001. This article has 14 citations and is from a domain leading peer-reviewed journal.
+
+7. (aranda2011dyrkfamilyof pages 2-3): Sergi Aranda, Ariadna Laguna, and Susana de la Luna. Dyrk family of protein kinases: evolutionary relationships, biochemical properties, and functional roles. The FASEB Journal, 25:449-462, Feb 2011. URL: https://doi.org/10.1096/fj.10-165837, doi:10.1096/fj.10-165837. This article has 368 citations.
+
+8. (becker1998sequencecharacteristicssubcellular pages 1-1): W. Becker, Y. Weber, K. Wetzel, Klaus Eirmbter, F. Tejedor, and H. Joost. Sequence characteristics, subcellular localization, and substrate specificity of dyrk-related kinases, a novel family of dual specificity protein kinases*. The Journal of Biological Chemistry, 273:25893-25902, Oct 1998. URL: https://doi.org/10.1074/jbc.273.40.25893, doi:10.1074/jbc.273.40.25893. This article has 349 citations.
+
+9. (bogacheva2008dyrk3dualspecificitykinase pages 9-10): O. Bogacheva, Oleg Bogachev, Madhu P Menon, A. Dev, E. Houde, Elizabeth I. Valoret, H. Prosser, C. Creasy, Susan J. Pickering, Evelyn Grau, Kim Rance, G. P. Livi, V. Karur, C. Erickson-Miller, and D. Wojchowski. Dyrk3 dual-specificity kinase attenuates erythropoiesis during anemia*. Journal of Biological Chemistry, 283:36665-36675, Dec 2008. URL: https://doi.org/10.1074/jbc.m807844200, doi:10.1074/jbc.m807844200. This article has 43 citations and is from a domain leading peer-reviewed journal.
+
+10. (han2012deepevolutionaryconservation pages 2-3): Jing-fen Han, Diego Miranda-Saavedra, Nathan Luebbering, Aman Singh, G. Sibbet, M. Ferguson, and V. Cleghon. Deep evolutionary conservation of an intramolecular protein kinase activation mechanism. PLoS ONE, Jan 2012. URL: https://doi.org/10.1371/journal.pone.0029702, doi:10.1371/journal.pone.0029702. This article has 29 citations and is from a peer-reviewed journal.
+
+11. (han2012deepevolutionaryconservation pages 9-9): Jing-fen Han, Diego Miranda-Saavedra, Nathan Luebbering, Aman Singh, G. Sibbet, M. Ferguson, and V. Cleghon. Deep evolutionary conservation of an intramolecular protein kinase activation mechanism. PLoS ONE, Jan 2012. URL: https://doi.org/10.1371/journal.pone.0029702, doi:10.1371/journal.pone.0029702. This article has 29 citations and is from a peer-reviewed journal.
+
+12. (unknownauthors2022regulationofposttranslational pages 174-174): Regulation of post-translational modifications with pharmacological intervention: autoimmune diseases and cancer
+
+13. (zhang2005dyrkgenestructure pages 1-2): Diya Zhang, Ke Li, C. Erickson-Miller, Mitch Weiss, and D. Wojchowski. Dyrk gene structure and erythroid-restricted features of dyrk3 gene expression. Genomics, 85 1:117-30, 2005. URL: https://doi.org/10.1016/j.ygeno.2004.08.021, doi:10.1016/j.ygeno.2004.08.021. This article has 36 citations and is from a peer-reviewed journal.
+
+14. (demuro2021gsk3βfynand pages 21-23): Stefania Demuro, R. D. Di Martino, José Antonio Ortega, and A. Cavalli. Gsk-3β, fyn, and dyrk1a: master regulators in neurodegenerative pathways. International Journal of Molecular Sciences, Aug 2021. URL: https://doi.org/10.3390/ijms22169098, doi:10.3390/ijms22169098. This article has 70 citations and is from a peer-reviewed journal.
+
+15. (tahtouh2012selectivitycocrystalstructures pages 15-16): Tania Tahtouh, Jonathan M. Elkins, Panagis Filippakopoulos, Meera Soundararajan, Guillaume Burgy, Emilie Durieu, Claude Cochet, Ralf S. Schmid, Donald C. Lo, Florent Delhommel, Anselm E. Oberholzer, Laurence H. Pearl, François Carreaux, Jean-Pierre Bazureau, Stefan Knapp, and Laurent Meijer. Selectivity, cocrystal structures, and neuroprotective properties of leucettines, a family of protein kinase inhibitors derived from the marine sponge alkaloid leucettamine b. Journal of Medicinal Chemistry, 55:9312-9330, Oct 2012. URL: https://doi.org/10.1021/jm301034u, doi:10.1021/jm301034u. This article has 244 citations and is from a highest quality peer-reviewed journal.

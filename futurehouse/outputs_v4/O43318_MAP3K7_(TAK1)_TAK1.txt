@@ -1,0 +1,99 @@
+## Phylogeny  
+• MAP3K7/TAK1 is classified within the MAP kinase kinase kinase (MAP3K) family of the Tyrosine-Like Kinase (TKL) group of the human kinome (unknownauthors2017targetingtransforminggrowth pages 28-34).  
+• One-to-one orthologs are documented in Mus musculus (Map3k7), Drosophila melanogaster (Tak1) and Saccharomyces cerevisiae members of the STE kinase group, demonstrating conservation from yeast to mammals (kilty2015tak1selectiveinhibition pages 7-8, totzke2020tak1apotent pages 4-5).  
+• Sequence/structure clustering positions TAK1 closest to IRAK1, IRAK4 and TNNI3K, kinases that share the distinctive DFG-1 cysteine in the ATP pocket (unknownauthors2017targetingtransforminggrowth pages 64-76).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr → ADP + [protein]-Ser/Thr-P (unknownauthors2017targetingtransforminggrowth pages 76-87).  
+
+## Cofactor Requirements  
+Catalysis requires divalent cations; Mg²⁺ or Mn²⁺ support optimal turnover in purified kinase assays (unknownauthors2017targetingtransforminggrowth pages 45-50).  
+
+## Substrate Specificity  
+• Phosphoproteomic profiling and peptide-based assays define a preference for basic residues at positions −3/−2 and a hydrophobic residue at +1 surrounding the phospho-acceptor Ser/Thr (fechtner2017transforminggrowthfactor pages 9-9).  
+• The optimized assay peptide RLGRDKYKTLRQIRQ embodies this consensus and is efficiently phosphorylated by TAK1 (unknownauthors2017targetingtransforminggrowth pages 56-64).  
+• Johnson et al. 2023 is cited in these studies as the global source of the TAK1 consensus motif (kilty2015tak1selectiveinhibition pages 8-10).  
+
+## Structure  
+• The catalytic domain spans residues 35–303 and adopts the canonical bilobal kinase fold with an N-lobe (residues 1-104), hinge (Met104-Ser111) and C-lobe (111-303) (unknownauthors2017targetingtransforminggrowth pages 28-34).  
+• Key catalytic elements: Lys63 (β3) couples with Glu77 (αC) for salt-bridge formation; the Asp175-Phe176-Gly177 (DFG) motif coordinates Mg²⁺; Cys174 at DFG-1 is a reactive nucleophile targeted by covalent inhibitors (tan2017structureguideddevelopmentof pages 17-21).  
+• Crystal structures capture active DFG-in (TAK1–TAB1–Takinib, PDB 5V5N) and inactive DFG-out (TAK1–ABC-FP, PDB 4L53) conformations, illustrating activation-loop mobility and hydrophobic spine alignment (unknownauthors2017targetingtransforminggrowth pages 39-45).  
+• A TAB1-binding helix centred on Phe484 within the C-terminal regulatory tail stabilises the active kinase (unknownauthors2017targetingtransforminggrowth pages 28-34).  
+
+## Regulation  
+Post-translational modifications  
+– Autophosphorylation on Thr178, Thr184, Thr187 and Ser192 is essential for full catalytic activity (unknownauthors2017targetingtransforminggrowth pages 87-91).  
+– PKA/PRKX-mediated phosphorylation of Ser412 provides an additional positive regulatory site (unknownauthors2018novelsignalingmechanisms pages 27-31).  
+– K63-linked polyubiquitination at Lys158 (and Lys209) or monoubiquitination at Lys34 promotes activation, whereas K48-linked chains at Lys72 target the kinase for degradation (fechtner2017transforminggrowthfactor pages 1-2).  
+Enzymes  
+– TRAF6 (IL-1/TLR) and TRAF2/5 (TNF) catalyse activating ubiquitination; the deubiquitinase CYLD removes K63 chains to terminate signalling (hirata2017posttranslationalmodificationsof pages 10-12).  
+– ITCH adds inhibitory ubiquitin chains that attenuate output (roh2014tak1regulateshepatic pages 7-8).  
+Complex assembly and conformational control  
+– Constitutive TAB1 binding and TAB2/3 recruitment via K63-Ub chains position TAK1 molecules for intermolecular autophosphorylation (conner2006tak1bindingprotein1 pages 1-2).  
+– Switching between DFG-out and DFG-in states serves as an intrinsic conformational gate and dictates inhibitor binding mode (unknownauthors2017targetingtransforminggrowth pages 39-45).  
+
+## Function  
+Expression  
+– TAK1 is broadly expressed with pronounced levels in immune cells, hepatocytes, keratinocytes and fibroblasts (roh2014tak1regulateshepatic pages 7-8).  
+Upstream signalling  
+– Activated downstream of TNF-R via RIP1–TRAF2/5, IL-1R/TLR4 via MyD88–IRAK1/4–TRAF6, and TGF-β/BMP receptors via TRAF6 (fechtner2017transforminggrowthfactor pages 1-2).  
+Downstream targets  
+– Direct substrates include MAP2K4/7 leading to JNK activation, MAP2K3/6 leading to p38 activation, and the IKK complex leading to NF-κB activation (kilty2015tak1selectiveinhibition pages 10-10).  
+Physiological roles  
+– Coordinates pro-inflammatory cytokine production, maintains epithelial integrity, supports skeletal morphogenesis and preserves hepatocyte survival (roh2014tak1regulateshepatic pages 7-8, unknownauthors2017targetingtransforminggrowth pages 197-201).  
+
+## Inhibitors  
+• 5Z-7-Oxozeaenol – irreversible covalent inhibitor targeting Cys174; IC₅₀ ≈ 9 nM (kilty2015tak1selectiveinhibition pages 7-8).  
+• Takinib – type 1.5 ATP-competitive inhibitor; IC₅₀ 8–10 nM; co-crystal structure PDB 5V5N (unknownauthors2017targetingtransforminggrowth pages 56-64).  
+• NG-25 – type II inhibitor that stabilises the DFG-out state; IC₅₀ ≈ 4 nM (unknownauthors2017targetingtransforminggrowth pages 39-45).  
+• LYTAK1 – reversible ATP-competitive inhibitor with anti-inflammatory and anti-cancer activity (roh2014tak1regulateshepatic pages 7-8).  
+• 2,4-Disubstituted pyrimidines (e.g., compound 5) – covalent inhibitors exploiting the DFG-1 cysteine, single-digit nM potency (tan2017structureguideddevelopmentof pages 17-21).  
+
+## Other Comments  
+• Germline MAP3K7 mutations that enhance autophosphorylation cause frontometaphyseal dysplasia; kinase-domain missense variants produce milder skeletal phenotypes (wade2016mutationsinmap3k7 pages 2-3).  
+• Heterozygous loss- or gain-of-function variants also underlie cardiospondylocarpofacial syndrome, indicating the developmental importance of tightly regulated TAK1 activity (goff2016heterozygousmutationsin pages 7-7).  
+• Persistent TAK1 activation is implicated in rheumatoid arthritis, osteoarthritis, Sjögren’s syndrome, gout and multiple cancers (fechtner2017transforminggrowthfactor pages 1-2, unknownauthors2017targetingtransforminggrowth pages 197-201).
+
+References
+
+1. (fechtner2017transforminggrowthfactor pages 9-9): Sabrina Fechtner, David A. Fox, and Salahuddin Ahmed. Transforming growth factor β activated kinase 1: a potential therapeutic target for rheumatic diseases. Rheumatology, 56:kew301, Aug 2017. URL: https://doi.org/10.1093/rheumatology/kew301, doi:10.1093/rheumatology/kew301. This article has 50 citations and is from a peer-reviewed journal.
+
+2. (goff2016heterozygousmutationsin pages 7-7): Carine Le Goff, Curtis Rogers, Wilfried Le Goff, Graziella Pinto, Damien Bonnet, Maya Chrabieh, Olivier Alibeu, Patrick Nistchke, Arnold Munnich, Capucine Picard, and Valérie Cormier-Daire. Heterozygous mutations in map3k7, encoding tgf-β-activated kinase 1, cause cardiospondylocarpofacial syndrome. American journal of human genetics, 99 2:407-13, Aug 2016. URL: https://doi.org/10.1016/j.ajhg.2016.06.005, doi:10.1016/j.ajhg.2016.06.005. This article has 48 citations and is from a highest quality peer-reviewed journal.
+
+3. (hirata2017posttranslationalmodificationsof pages 10-12): Yusuke Hirata, Miki Takahashi, Tohru Morishita, T. Noguchi, and A. Matsuzawa. Post-translational modifications of the tak1-tab complex. International Journal of Molecular Sciences, Jan 2017. URL: https://doi.org/10.3390/ijms18010205, doi:10.3390/ijms18010205. This article has 170 citations and is from a peer-reviewed journal.
+
+4. (kilty2015tak1selectiveinhibition pages 7-8): Iain Kilty and Lyn H Jones. Tak1 selective inhibition: state of the art and future opportunities. Future medicinal chemistry, 7 1:23-33, Jan 2015. URL: https://doi.org/10.4155/fmc.14.138, doi:10.4155/fmc.14.138. This article has 43 citations and is from a peer-reviewed journal.
+
+5. (totzke2020tak1apotent pages 4-5): Juliane Totzke, Scott A. Scarneo, Kelly W. Yang, and Timothy A. J. Haystead. Tak1: a potent tumour necrosis factor inhibitor for the treatment of inflammatory diseases. Open Biology, Sep 2020. URL: https://doi.org/10.1098/rsob.200099, doi:10.1098/rsob.200099. This article has 47 citations and is from a peer-reviewed journal.
+
+6. (unknownauthors2017targetingtransforminggrowth pages 28-34): Targeting Transforming Growth Factor Beta-Activated Kinase 1 as a Therapeutic Strategy in Cancer and Immune Disease
+
+7. (unknownauthors2017targetingtransforminggrowth pages 39-45): Targeting Transforming Growth Factor Beta-Activated Kinase 1 as a Therapeutic Strategy in Cancer and Immune Disease
+
+8. (unknownauthors2017targetingtransforminggrowth pages 56-64): Targeting Transforming Growth Factor Beta-Activated Kinase 1 as a Therapeutic Strategy in Cancer and Immune Disease
+
+9. (unknownauthors2018novelsignalingmechanisms pages 27-31): Novel signaling mechanisms for Transforming Growth Factor-beta; activated kinase-1 (TAK1) in microtubule and endoplasmic reticulum dynamics
+
+10. (fechtner2017transforminggrowthfactor pages 1-2): Sabrina Fechtner, David A. Fox, and Salahuddin Ahmed. Transforming growth factor β activated kinase 1: a potential therapeutic target for rheumatic diseases. Rheumatology, 56:kew301, Aug 2017. URL: https://doi.org/10.1093/rheumatology/kew301, doi:10.1093/rheumatology/kew301. This article has 50 citations and is from a peer-reviewed journal.
+
+11. (kilty2015tak1selectiveinhibition pages 10-10): Iain Kilty and Lyn H Jones. Tak1 selective inhibition: state of the art and future opportunities. Future medicinal chemistry, 7 1:23-33, Jan 2015. URL: https://doi.org/10.4155/fmc.14.138, doi:10.4155/fmc.14.138. This article has 43 citations and is from a peer-reviewed journal.
+
+12. (kilty2015tak1selectiveinhibition pages 8-10): Iain Kilty and Lyn H Jones. Tak1 selective inhibition: state of the art and future opportunities. Future medicinal chemistry, 7 1:23-33, Jan 2015. URL: https://doi.org/10.4155/fmc.14.138, doi:10.4155/fmc.14.138. This article has 43 citations and is from a peer-reviewed journal.
+
+13. (roh2014tak1regulateshepatic pages 7-8): Yoon Seok Roh, Jingyi Song, and Ekihiro Seki. Tak1 regulates hepatic cell survival and carcinogenesis. Journal of Gastroenterology, 49:185-194, Jan 2014. URL: https://doi.org/10.1007/s00535-013-0931-x, doi:10.1007/s00535-013-0931-x. This article has 105 citations and is from a domain leading peer-reviewed journal.
+
+14. (tan2017structureguideddevelopmentof pages 17-21): Li Tan, Deepak Gurbani, Ellen L. Weisberg, John C. Hunter, Lianbo Li, Douglas S. Jones, Scott B. Ficarro, Samar Mowafy, Chun-Pong Tam, Suman Rao, Guangyan Du, James D. Griffin, Peter K. Sorger, Jarrod A. Marto, Kenneth D. Westover, and Nathanael S. Gray. Structure-guided development of covalent tak1 inhibitors. Bioorganic &amp; Medicinal Chemistry, 25:838-846, Feb 2017. URL: https://doi.org/10.1016/j.bmc.2016.11.035, doi:10.1016/j.bmc.2016.11.035. This article has 40 citations.
+
+15. (unknownauthors2017targetingtransforminggrowth pages 197-201): Targeting Transforming Growth Factor Beta-Activated Kinase 1 as a Therapeutic Strategy in Cancer and Immune Disease
+
+16. (unknownauthors2017targetingtransforminggrowth pages 45-50): Targeting Transforming Growth Factor Beta-Activated Kinase 1 as a Therapeutic Strategy in Cancer and Immune Disease
+
+17. (wade2016mutationsinmap3k7 pages 2-3): Emma M. Wade, Philip B. Daniel, Zandra A. Jenkins, Aideen McInerney-Leo, Paul Leo, Tim Morgan, Marie Claude Addor, Lesley C. Adès, Debora Bertola, Axel Bohring, Erin Carter, Tae-Joon Cho, Hans-Christoph Duba, Elaine Fletcher, Chong A. Kim, Deborah Krakow, Eva Morava, Teresa Neuhann, Andrea Superti-Furga, Irma Veenstra-Knol, Dagmar Wieczorek, Louise C. Wilson, Raoul C.M. Hennekam, Andrew J. Sutherland-Smith, Tim M. Strom, Andrew O.M. Wilkie, Matthew A. Brown, Emma L. Duncan, David M. Markie, and Stephen P. Robertson. Mutations in map3k7 that alter the activity of the tak1 signaling complex cause frontometaphyseal dysplasia. American journal of human genetics, 99 2:392-406, Aug 2016. URL: https://doi.org/10.1016/j.ajhg.2016.05.024, doi:10.1016/j.ajhg.2016.05.024. This article has 76 citations and is from a highest quality peer-reviewed journal.
+
+18. (conner2006tak1bindingprotein1 pages 1-2): Sarah H. Conner, Gursant Kular, Mark Peggie, Sharon Shepherd, Alexander W. Schüttelkopf, Philip Cohen, and Daan M. F. Van Aalten. Tak1-binding protein 1 is a pseudophosphatase. Biochemical Journal, 399:427-434, Oct 2006. URL: https://doi.org/10.1042/bj20061077, doi:10.1042/bj20061077. This article has 90 citations and is from a domain leading peer-reviewed journal.
+
+19. (unknownauthors2017targetingtransforminggrowth pages 64-76): Targeting Transforming Growth Factor Beta-Activated Kinase 1 as a Therapeutic Strategy in Cancer and Immune Disease
+
+20. (unknownauthors2017targetingtransforminggrowth pages 76-87): Targeting Transforming Growth Factor Beta-Activated Kinase 1 as a Therapeutic Strategy in Cancer and Immune Disease
+
+21. (unknownauthors2017targetingtransforminggrowth pages 87-91): Targeting Transforming Growth Factor Beta-Activated Kinase 1 as a Therapeutic Strategy in Cancer and Immune Disease

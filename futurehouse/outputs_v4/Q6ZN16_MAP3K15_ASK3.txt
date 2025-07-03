@@ -1,0 +1,94 @@
+## Phylogeny  
+• MAP3K15 (ASK3) is one of three human Apoptosis Signal-regulating Kinases (ASK1/MAP3K5, ASK2/MAP3K6, ASK3/MAP3K15), a sub-family within the MAP3K group of the human kinome (trevelyan2020structurebasedmechanismof pages 32-35).  
+• Orthologs are reported in mouse, rat and zebrafish genomes; no ortholog is documented in Drosophila (trevelyan2020structurebasedmechanismof pages 32-35, unknownauthors2024structuralstudiesof pages 20-24).  
+• The kinase domain shares 88 % amino-acid identity with ASK1, underscoring close evolutionary relatedness inside the ASK branch (unknownauthors2024structuralstudiesof pages 24-28).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr ⇌ ADP + [protein]-O-phospho-Ser/Thr (kaji2010ask3anovel pages 4-5).  
+
+## Cofactor Requirements  
+Catalytic turnover requires divalent cations, with Mg²⁺ reported as the physiological cofactor for MAP3K family members, including ASK3 (honzejkova2024thecryoemstructure pages 16-17).  
+
+## Substrate Specificity  
+No experimentally validated consensus phosphorylation motif for human MAP3K15 has been published; large-scale kinome profiling did not assign a sequence logo to ASK3 (trevelyan2019mechanismofpreferential pages 1-4, unknownauthors2024structuralstudiesof pages 24-28).  
+
+## Structure  
+Domain organisation  
+• N-terminal regulatory segment (residues 1-≈400) predicted to contain a thioredoxin-binding fold analogous to ASK1 (obsilova2021structuralinsightssupport pages 3-4).  
+• Central protein kinase domain (≈400-770); Lys681 is the catalytic Lys as shown by loss-of-function K681M mutant (maruyama2016osmoticstressinduces pages 12-13).  
+• C-terminal regulatory region with coiled-coil sequences followed by a sterile-alpha motif (SAM, residues ≈1200-1313) (trevelyan2020structurebasedmechanismof pages 1-4).  
+3D structural data  
+• SAM domain crystal structure solved at 1.80 Å (PDB 6V0M) reveals a classical five-helix SAM fold that assembles into concentration-independent pentameric/hexameric rings via mid-loop:end-helix interfaces (trevelyan2020structurebasedmechanismof pages 4-8).  
+• SAXS confirms higher-order oligomers for the SAM domain in solution; oligomerisation is markedly more stable than that of ASK1/ASK2 (trevelyan2020structurebasedmechanismof pages 23-29).  
+• Homology modelling predicts an upstream TPR-PH scaffold similar to ASK1, supporting autoregulatory architecture (weijman2017structuralbasisof pages 4-4).  
+Catalytic and regulatory features  
+• Activation loop and DFG motif are conserved; the C-helix and hydrophobic spines align with canonical serine/threonine kinase architecture in the AlphaFold model (unknownauthors2024structuralstudiesof pages 24-28).  
+• SAM-mediated oligomerisation nucleates ASK signalosomes, a prerequisite for kinase activation (trevelyan2020structurebasedmechanismof pages 1-4).  
+
+## Regulation  
+Post-translational modifications  
+• ASK3 contains a ubiquitin-like motif that recruits the de-ubiquitinase USP9X, protecting the kinase from proteasomal degradation and promoting oxidative-stress-induced cell death (trevelyan2019mechanismofpreferential pages 35-37).  
+• Association with 14-3-3 isoforms modulates subcellular localisation and activity; binding is phosphorylation-dependent (federspiel2016assemblydynamicsand pages 15-15).  
+Protein–protein and allosteric control  
+• Stable SAM-domain oligomerisation (pentamer/hexamer) is essential for electrophile- and osmotic-stress signalling (trevelyan2020structurebasedmechanismof pages 1-4).  
+• A PP6-ASK3 module orchestrates bidirectional cell-volume regulation under osmotic stress (obsilova2021structuralinsightssupport pages 12-13).  
+
+## Function  
+Expression  
+• High transcript and protein levels are detected in kidney, brain (including fetal brain) and several other tissues; variant-specific up-regulation occurs in rectum tumours and Alzheimer’s hippocampus, whereas down-regulation is noted in kidney tumours and Alzheimer’s frontal lobe (kaji2010ask3anovel pages 1-2, kaji2010ask3anovel pages 4-5).  
+Biological roles and pathways  
+• Acts upstream of the p38 and JNK MAPK cascades to mediate stress-induced apoptosis in HeLa cells; siRNA depletion abolishes Fas-, TNF-α- and H₂O₂-triggered cell death (kaji2010ask3anovel pages 6-6).  
+• Functions as an osmotic-stress sensor in kidney epithelia; activates p38-MAPK–MK signalling leading to WNK4-Ser575 phosphorylation, and suppresses the WNK1–SPAK/OSR1 axis, thereby modulating sodium-chloride handling and systemic blood pressure (maruyama2016osmoticstressinduces pages 11-12, trevelyan2019mechanismofpreferential pages 35-37).  
+• Forms hetero-complexes with ASK1/ASK2, integrating electrophilic and inflammatory cues within ASK signalosomes (trevelyan2020structurebasedmechanismof pages 1-4).  
+Key interactors  
+• WNK1, WNK4, PP6, 14-3-3, USP9X (maruyama2016osmoticstressinduces pages 11-12, federspiel2016assemblydynamicsand pages 15-15, trevelyan2019mechanismofpreferential pages 35-37).  
+
+## Inhibitors  
+No small-molecule inhibitors of MAP3K15 have been reported or advanced to clinical evaluation (cuarental2019map3kkinasesand pages 5-6).  
+
+## Other Comments  
+• Ask3-/- mice develop salt-sensitive hypertension, linking kinase loss to dysregulated renal osmotic signalling (cuarental2019map3kkinasesand pages 5-6).  
+• Aberrant ASK3 transcript levels are observed in Alzheimer’s disease brain regions and diverse tumours, implicating the kinase in neurodegeneration and oncogenesis (kaji2010ask3anovel pages 1-2).  
+• ASK3 contributes to kidney injury and fibrotic responses by modulating stress-activated MAPK pathways (cuarental2019map3kkinasesand pages 6-7).
+
+References
+
+1. (kaji2010ask3anovel pages 1-2): Takahide Kaji, Sawako Yoshida, Kunji Kawai, Yoshihiro Fuchigami, Wakako Watanabe, Hideo Kubodera, and Toshimitsu Kishimoto. Ask3, a novel member of the apoptosis signal-regulating kinase family, is essential for stress-induced cell death in hela cells. Biochemical and biophysical research communications, 395 2:213-8, Apr 2010. URL: https://doi.org/10.1016/j.bbrc.2010.03.164, doi:10.1016/j.bbrc.2010.03.164. This article has 46 citations and is from a peer-reviewed journal.
+
+2. (trevelyan2019mechanismofpreferential pages 1-4): Sarah J. Trevelyan, Jodi L. Brewster, Abigail E. Burgess, Jennifer M. Crowther, Antonia L. Cadell, Benjamin L. Parker, David R. Croucher, Renwick C.J. Dobson, James M. Murphy, and Peter D. Mace. Mechanism of preferential complex formation by apoptosis signal-regulating kinases. Unknown journal, Jul 2019. URL: https://doi.org/10.1101/693663, doi:10.1101/693663.
+
+3. (trevelyan2020structurebasedmechanismof pages 1-4): Sarah J. Trevelyan, Jodi L. Brewster, Abigail E. Burgess, Jennifer M. Crowther, Antonia L. Cadell, Benjamin L. Parker, David R. Croucher, Renwick C. J. Dobson, James M. Murphy, and Peter D. Mace. Structure-based mechanism of preferential complex formation by apoptosis signal–regulating kinases. Science Signaling, Mar 2020. URL: https://doi.org/10.1126/scisignal.aay6318, doi:10.1126/scisignal.aay6318. This article has 24 citations and is from a domain leading peer-reviewed journal.
+
+4. (trevelyan2020structurebasedmechanismof pages 32-35): Sarah J. Trevelyan, Jodi L. Brewster, Abigail E. Burgess, Jennifer M. Crowther, Antonia L. Cadell, Benjamin L. Parker, David R. Croucher, Renwick C. J. Dobson, James M. Murphy, and Peter D. Mace. Structure-based mechanism of preferential complex formation by apoptosis signal–regulating kinases. Science Signaling, Mar 2020. URL: https://doi.org/10.1126/scisignal.aay6318, doi:10.1126/scisignal.aay6318. This article has 24 citations and is from a domain leading peer-reviewed journal.
+
+5. (cuarental2019map3kkinasesand pages 5-6): Leticia Cuarental, David Sucunza-Sáenz, Lara Valiño-Rivas, Beatriz Fernandez-Fernandez, Ana Belen Sanz, Alberto Ortiz, Juan José Vaquero, and Maria Dolores Sanchez-Niño. Map3k kinases and kidney injury. Nefrología, 39:568-580, Nov 2019. URL: https://doi.org/10.1016/j.nefro.2019.03.004, doi:10.1016/j.nefro.2019.03.004. This article has 42 citations.
+
+6. (cuarental2019map3kkinasesand pages 6-7): Leticia Cuarental, David Sucunza-Sáenz, Lara Valiño-Rivas, Beatriz Fernandez-Fernandez, Ana Belen Sanz, Alberto Ortiz, Juan José Vaquero, and Maria Dolores Sanchez-Niño. Map3k kinases and kidney injury. Nefrología, 39:568-580, Nov 2019. URL: https://doi.org/10.1016/j.nefro.2019.03.004, doi:10.1016/j.nefro.2019.03.004. This article has 42 citations.
+
+7. (federspiel2016assemblydynamicsand pages 15-15): Joel D. Federspiel, S. Codreanu, Amy M. Palubinsky, Ama J. Winland, Carlos Morales Betanzos, B. McLaughlin, and D. Liebler. Assembly dynamics and stoichiometry of the apoptosis signal-regulating kinase (ask) signalosome in response to electrophile stress*. Molecular & Cellular Proteomics, 15:1947-1961, Mar 2016. URL: https://doi.org/10.1074/mcp.m115.057364, doi:10.1074/mcp.m115.057364. This article has 35 citations.
+
+8. (honzejkova2024thecryoemstructure pages 16-17): Karolína Honzejková, D. Kosek, V. Obsilova, and T. Obsil. The cryo-em structure of ask1 reveals an asymmetric architecture allosterically modulated by trx1. eLife, Feb 2024. URL: https://doi.org/10.1101/2023.12.20.572539, doi:10.1101/2023.12.20.572539. This article has 2 citations and is from a domain leading peer-reviewed journal.
+
+9. (kaji2010ask3anovel pages 4-5): Takahide Kaji, Sawako Yoshida, Kunji Kawai, Yoshihiro Fuchigami, Wakako Watanabe, Hideo Kubodera, and Toshimitsu Kishimoto. Ask3, a novel member of the apoptosis signal-regulating kinase family, is essential for stress-induced cell death in hela cells. Biochemical and biophysical research communications, 395 2:213-8, Apr 2010. URL: https://doi.org/10.1016/j.bbrc.2010.03.164, doi:10.1016/j.bbrc.2010.03.164. This article has 46 citations and is from a peer-reviewed journal.
+
+10. (kaji2010ask3anovel pages 6-6): Takahide Kaji, Sawako Yoshida, Kunji Kawai, Yoshihiro Fuchigami, Wakako Watanabe, Hideo Kubodera, and Toshimitsu Kishimoto. Ask3, a novel member of the apoptosis signal-regulating kinase family, is essential for stress-induced cell death in hela cells. Biochemical and biophysical research communications, 395 2:213-8, Apr 2010. URL: https://doi.org/10.1016/j.bbrc.2010.03.164, doi:10.1016/j.bbrc.2010.03.164. This article has 46 citations and is from a peer-reviewed journal.
+
+11. (maruyama2016osmoticstressinduces pages 11-12): Junichi Maruyama, Yumie Kobayashi, Tsuyoshi Umeda, Alain Vandewalle, Kohsuke Takeda, Hidenori Ichijo, and Isao Naguro. Osmotic stress induces the phosphorylation of wnk4 ser575 via the p38mapk-mk pathway. Scientific Reports, Jan 2016. URL: https://doi.org/10.1038/srep18710, doi:10.1038/srep18710. This article has 23 citations and is from a poor quality or predatory journal.
+
+12. (obsilova2021structuralinsightssupport pages 12-13): Veronika Obsilova, Karolina Honzejkova, and Tomas Obsil. Structural insights support targeting ask1 kinase for therapeutic interventions. International Journal of Molecular Sciences, 22:13395, Dec 2021. URL: https://doi.org/10.3390/ijms222413395, doi:10.3390/ijms222413395. This article has 32 citations and is from a peer-reviewed journal.
+
+13. (obsilova2021structuralinsightssupport pages 3-4): Veronika Obsilova, Karolina Honzejkova, and Tomas Obsil. Structural insights support targeting ask1 kinase for therapeutic interventions. International Journal of Molecular Sciences, 22:13395, Dec 2021. URL: https://doi.org/10.3390/ijms222413395, doi:10.3390/ijms222413395. This article has 32 citations and is from a peer-reviewed journal.
+
+14. (trevelyan2019mechanismofpreferential pages 35-37): Sarah J. Trevelyan, Jodi L. Brewster, Abigail E. Burgess, Jennifer M. Crowther, Antonia L. Cadell, Benjamin L. Parker, David R. Croucher, Renwick C.J. Dobson, James M. Murphy, and Peter D. Mace. Mechanism of preferential complex formation by apoptosis signal-regulating kinases. Unknown journal, Jul 2019. URL: https://doi.org/10.1101/693663, doi:10.1101/693663.
+
+15. (trevelyan2020structurebasedmechanismof pages 23-29): Sarah J. Trevelyan, Jodi L. Brewster, Abigail E. Burgess, Jennifer M. Crowther, Antonia L. Cadell, Benjamin L. Parker, David R. Croucher, Renwick C. J. Dobson, James M. Murphy, and Peter D. Mace. Structure-based mechanism of preferential complex formation by apoptosis signal–regulating kinases. Science Signaling, Mar 2020. URL: https://doi.org/10.1126/scisignal.aay6318, doi:10.1126/scisignal.aay6318. This article has 24 citations and is from a domain leading peer-reviewed journal.
+
+16. (trevelyan2020structurebasedmechanismof pages 4-8): Sarah J. Trevelyan, Jodi L. Brewster, Abigail E. Burgess, Jennifer M. Crowther, Antonia L. Cadell, Benjamin L. Parker, David R. Croucher, Renwick C. J. Dobson, James M. Murphy, and Peter D. Mace. Structure-based mechanism of preferential complex formation by apoptosis signal–regulating kinases. Science Signaling, Mar 2020. URL: https://doi.org/10.1126/scisignal.aay6318, doi:10.1126/scisignal.aay6318. This article has 24 citations and is from a domain leading peer-reviewed journal.
+
+17. (unknownauthors2024structuralstudiesof pages 24-28): Structural studies of selected protein complexes involved in signal transduction
+
+18. (maruyama2016osmoticstressinduces pages 12-13): Junichi Maruyama, Yumie Kobayashi, Tsuyoshi Umeda, Alain Vandewalle, Kohsuke Takeda, Hidenori Ichijo, and Isao Naguro. Osmotic stress induces the phosphorylation of wnk4 ser575 via the p38mapk-mk pathway. Scientific Reports, Jan 2016. URL: https://doi.org/10.1038/srep18710, doi:10.1038/srep18710. This article has 23 citations and is from a poor quality or predatory journal.
+
+19. (unknownauthors2024structuralstudiesof pages 20-24): Structural studies of selected protein complexes involved in signal transduction
+
+20. (weijman2017structuralbasisof pages 4-4): Johannes F. Weijman, Abhishek Kumar, Sam A. Jamieson, Chontelle M. King, Tom T. Caradoc-Davies, Elizabeth C. Ledgerwood, James M. Murphy, and Peter D. Mace. Structural basis of autoregulatory scaffolding by apoptosis signal-regulating kinase 1. Proceedings of the National Academy of Sciences, 114:E2096-E2105, Feb 2017. URL: https://doi.org/10.1073/pnas.1620813114, doi:10.1073/pnas.1620813114. This article has 48 citations.

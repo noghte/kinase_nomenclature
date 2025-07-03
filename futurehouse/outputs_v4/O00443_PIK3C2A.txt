@@ -1,0 +1,87 @@
+## Phylogeny
+PIK3C2A is a member of the phosphoinositide 3-kinase (PI3K) family and is assigned to the Class II subgroup based on amino acid sequence homology, regulatory domains, and substrate specificity (foster2003thephosphoinositide(pi) pages 2-3, brown2011phylogenomicsofphosphoinositide pages 1-3). Class II PI3Ks, which also include PIK3C2B and PIK3C2G, are metazoan-specific proteins that emerged in early multicellular organisms (margaria2019classiipi3ks pages 1-4, brown2011phylogenomicsofphosphoinositide pages 8-9). The three mammalian Class II isoforms are vertebrate-specific and form a distinct phylogenetic clade derived from an ancestral PI3K2 gene through gene duplication events early in vertebrate evolution (brown2011phylogenomicsofphosphoinositide pages 4-6). PIK3C2A has orthologs across metazoans, including *Caenorhabditis elegans* (piki-1) and *Drosophila melanogaster* (Pi3K68D) (foster2003thephosphoinositide(pi) pages 2-3, margaria2019classiipi3ks pages 1-4, foster2003thephosphoinositide(pi) pages 1-1).
+
+
+
+## Reaction Catalyzed
+The enzyme catalyzes the Mg²⁺-dependent phosphorylation of the 3'-hydroxyl group of the inositol ring of phosphatidylinositol (PtdIns) lipids using ATP as the phosphate donor (foster2003thephosphoinositide(pi) pages 2-3, foster2003thephosphoinositide(pi) pages 1-1).
+
+-   PtdIns + ATP → PtdIns(3)P + ADP (foster2003thephosphoinositide(pi) pages 2-3, lo2022structuralbasisof pages 1-2)
+-   PtdIns(4)P + ATP → PtdIns(3,4)P₂ + ADP (foster2003thephosphoinositide(pi) pages 2-3, lo2022structuralbasisof pages 1-2)
+
+
+
+## Cofactor Requirements
+The lipid kinase activity of PIK3C2A is dependent on the divalent cation Mg²⁺, which acts as a cofactor for ATP binding and catalysis (foster2003thephosphoinositide(pi) pages 2-3, lo2022structuralbasisof pages 1-2, margaria2019classiipi3ks pages 11-13). Structural studies have confirmed the binding of Mg²⁺ in the active site (lo2022structuralbasisof pages 1-2).
+
+
+
+## Substrate Specificity
+PIK3C2A preferentially phosphorylates phosphatidylinositol (PtdIns) and phosphatidylinositol 4-phosphate (PtdIns(4)P) (foster2003thephosphoinositide(pi) pages 3-4, lo2022structuralbasisof pages 1-2). Unlike Class I PI3Ks, it cannot efficiently phosphorylate phosphatidylinositol 4,5-bisphosphate (PtdIns(4,5)P₂) (foster2003thephosphoinositide(pi) pages 3-4). However, some in vitro activity toward PtdIns(4,5)P₂ has been observed in the presence of phosphatidylserine or upon binding to clathrin (margaria2019classiipi3ks pages 4-6). The provided context does not contain information on consensus motifs for protein substrates.
+
+
+
+## Structure
+PIK3C2A has a multi-domain architecture consisting of an N-terminal clathrin-binding domain (CBD), a Ras-binding domain (RBD), a TACC3 binding domain (TBD), an N-terminal C2 domain (N-C2), a helical bundle domain (HBD), a kinase domain (KD), a distal Phox homology (PX) domain, and a C-terminal C2 domain (C-C2) (margaria2019classiipi3ks pages 1-4, margaria2019classiipi3ks pages 4-6, lo2022structuralbasisof pages 2-3). The PX and C2 domains are involved in membrane targeting and autoregulation (lo2022structuralbasisof pages 4-5, margaria2019classiipi3ks pages 4-6). The kinase domain is composed of an N-lobe and a C-lobe and contains conserved catalytic motifs, including a DRH motif (lo2022structuralbasisof pages 1-2, lo2022structuralbasisof pages 2-3). A single-particle cryo-EM structure of human PI3KC2α has been resolved at 4.4 Å resolution, and crystal structures of the PX and C2 domains are available (PDB IDs: 6BUB, 6BTY, 6BTZ, 6BU0) (lo2022structuralbasisof pages 4-5, chen2018molecularbasisfor pages 18-19). The PX and C-C2 domains interact with the kinase domain to mediate autoinhibition (lo2022structuralbasisof pages 2-3, burke2018structuralbasisfor pages 8-10). The HBD forms a stalk connecting the RBD and N-C2 domains and serves as a protein interaction scaffold (lo2022structuralbasisof pages 2-3).
+
+
+
+## Regulation
+PIK3C2A activity is regulated by intramolecular autoinhibition, where the distal PX and C2 domains fold back onto the kinase and RBD domains, maintaining an inactive state (burke2018structuralbasisfor pages 8-10, margaria2019classiipi3ks pages 4-6). This inhibition is relieved upon recruitment to membranes containing PI(4,5)P₂ and by direct interaction of its N-terminal region with clathrin at clathrin-coated pits (burke2018structuralbasisfor pages 8-10). The binding of a second Mg²⁺ ion has also been proposed to relieve intramolecular inhibition via a conformational change (lo2022structuralbasisof pages 2-3). Additionally, elevated Ca²⁺ concentrations perturb the membrane binding of the PX-C2 module, representing another regulatory mechanism (chen2018molecularbasisfor pages 1-4). Upstream stimulation by growth factors and chemokines can activate the enzyme, potentially through mechanisms involving tyrosine phosphorylation or adaptor protein recruitment, though these are not fully defined (foster2003thephosphoinositide(pi) pages 2-3).
+
+
+
+## Function
+PIK3C2A is ubiquitously expressed in human cells and is the most well-characterized Class II isoform (margaria2019classiipi3ks pages 4-6). Its activity is stimulated downstream of various receptors, including the insulin receptor, EGFR, TGFBR1, VEGFR, and GPCRs (margaria2019classiipi3ks pages 4-6). The enzyme functions in critical cellular processes such as clathrin-mediated endocytosis, insulin signaling, primary cilia signaling, angiogenesis, platelet formation, mitosis, and viral replication (lo2022structuralbasisof pages 1-2, burke2018structuralbasisfor pages 8-10). In insulin signaling, it is required for the activation of PKBα/Akt1 and the translocation of the GLUT4 glucose transporter to the plasma membrane (margaria2019classiipi3ks pages 11-13, margaria2019classiipi3ks pages 4-6). Its lipid products, PI(3)P and PI(3,4)P₂, regulate endosomal trafficking by activating downstream effectors, including the small GTPases Rab11a, Rhoa, Rac1, and Rap1 (margaria2019classiipi3ks pages 6-7). PIK3C2A also has a non-catalytic scaffolding role in mitotic spindle assembly through interactions with clathrin and TACC3 (burke2018structuralbasisfor pages 8-10).
+
+
+
+## Inhibitors
+PIK3C2A is resistant to the pan-PI3K inhibitor LY294002 (falasca2017classiiphosphoinositide pages 1-2). Reports on its sensitivity to wortmannin are conflicting; one source states it is affected but at a higher IC₅₀ compared to Class I PI3Ks, while another notes it is resistant (foster2003thephosphoinositide(pi) pages 2-3, margaria2019classiipi3ks pages 1-4). The ATP-competitive inhibitors Torin-2 and PIK-90 bind to the kinase domain of PIK3C2A (lo2022structuralbasisof pages 4-5). Other partially selective, low-affinity inhibitors have been identified, including PI701 and Compound 26 (burke2018structuralbasisfor pages 4-5, burke2018structuralbasisfor pages 8-10).
+
+
+
+## Other Comments
+Mutations in *PIK3C2A* are associated with human diseases. Loss-of-function mutations cause a syndrome characterized by short stature, skeletal abnormalities, cataracts, kidney cysts, and neurological symptoms linked to ciliary dysfunction (lo2022structuralbasisof pages 1-2, tiosano2019mutationsinpik3c2a pages 17-18). In mice, complete deficiency of PIK3C2A is early embryonic lethal due to defective vasculogenesis, while hypomorphic mutations causing reduced enzyme activity lead to stunted growth and chronic kidney failure (falasca2017classiiphosphoinositide pages 5-6). PIK3C2A has also been implicated in colorectal cancer, where its elevated expression promotes tumor growth (falasca2017classiiphosphoinositide pages 5-6).
+
+References
+
+1. (foster2003thephosphoinositide(pi) pages 2-3): Fiona M. Foster, Colin J. Traer, Siemon M. Abraham, and Michael J. Fry. The phosphoinositide (pi) 3-kinase family. Journal of Cell Science, 116:3037-3040, Aug 2003. URL: https://doi.org/10.1242/jcs.00609, doi:10.1242/jcs.00609. This article has 471 citations and is from a domain leading peer-reviewed journal.
+
+2. (foster2003thephosphoinositide(pi) pages 3-4): Fiona M. Foster, Colin J. Traer, Siemon M. Abraham, and Michael J. Fry. The phosphoinositide (pi) 3-kinase family. Journal of Cell Science, 116:3037-3040, Aug 2003. URL: https://doi.org/10.1242/jcs.00609, doi:10.1242/jcs.00609. This article has 471 citations and is from a domain leading peer-reviewed journal.
+
+3. (lo2022structuralbasisof pages 1-2): Wen-Ting Lo, Yingyi Zhang, Oscar Vadas, Yvette Roske, Federico Gulluni, Maria Chiara De Santis, Andreja Vujicic Zagar, Heike Stephanowitz, Emilio Hirsch, Fan Liu, Oliver Daumke, Misha Kudryashev, and Volker Haucke. Structural basis of phosphatidylinositol 3-kinase c2α function. Nature Structural &amp; Molecular Biology, 29:218-228, Mar 2022. URL: https://doi.org/10.1038/s41594-022-00730-w, doi:10.1038/s41594-022-00730-w. This article has 34 citations.
+
+4. (lo2022structuralbasisof pages 2-3): Wen-Ting Lo, Yingyi Zhang, Oscar Vadas, Yvette Roske, Federico Gulluni, Maria Chiara De Santis, Andreja Vujicic Zagar, Heike Stephanowitz, Emilio Hirsch, Fan Liu, Oliver Daumke, Misha Kudryashev, and Volker Haucke. Structural basis of phosphatidylinositol 3-kinase c2α function. Nature Structural &amp; Molecular Biology, 29:218-228, Mar 2022. URL: https://doi.org/10.1038/s41594-022-00730-w, doi:10.1038/s41594-022-00730-w. This article has 34 citations.
+
+5. (lo2022structuralbasisof pages 4-5): Wen-Ting Lo, Yingyi Zhang, Oscar Vadas, Yvette Roske, Federico Gulluni, Maria Chiara De Santis, Andreja Vujicic Zagar, Heike Stephanowitz, Emilio Hirsch, Fan Liu, Oliver Daumke, Misha Kudryashev, and Volker Haucke. Structural basis of phosphatidylinositol 3-kinase c2α function. Nature Structural &amp; Molecular Biology, 29:218-228, Mar 2022. URL: https://doi.org/10.1038/s41594-022-00730-w, doi:10.1038/s41594-022-00730-w. This article has 34 citations.
+
+6. (margaria2019classiipi3ks pages 1-4): Jean Piero Margaria, Edoardo Ratto, Luca Gozzelino, Huayi Li, and Emilio Hirsch. Class ii pi3ks at the intersection between signal transduction and membrane trafficking. Biomolecules, 9:104, Mar 2019. URL: https://doi.org/10.3390/biom9030104, doi:10.3390/biom9030104. This article has 60 citations and is from a peer-reviewed journal.
+
+7. (margaria2019classiipi3ks pages 11-13): Jean Piero Margaria, Edoardo Ratto, Luca Gozzelino, Huayi Li, and Emilio Hirsch. Class ii pi3ks at the intersection between signal transduction and membrane trafficking. Biomolecules, 9:104, Mar 2019. URL: https://doi.org/10.3390/biom9030104, doi:10.3390/biom9030104. This article has 60 citations and is from a peer-reviewed journal.
+
+8. (margaria2019classiipi3ks pages 4-6): Jean Piero Margaria, Edoardo Ratto, Luca Gozzelino, Huayi Li, and Emilio Hirsch. Class ii pi3ks at the intersection between signal transduction and membrane trafficking. Biomolecules, 9:104, Mar 2019. URL: https://doi.org/10.3390/biom9030104, doi:10.3390/biom9030104. This article has 60 citations and is from a peer-reviewed journal.
+
+9. (margaria2019classiipi3ks pages 6-7): Jean Piero Margaria, Edoardo Ratto, Luca Gozzelino, Huayi Li, and Emilio Hirsch. Class ii pi3ks at the intersection between signal transduction and membrane trafficking. Biomolecules, 9:104, Mar 2019. URL: https://doi.org/10.3390/biom9030104, doi:10.3390/biom9030104. This article has 60 citations and is from a peer-reviewed journal.
+
+10. (brown2011phylogenomicsofphosphoinositide pages 1-3): James R Brown and Kurt R Auger. Phylogenomics of phosphoinositide lipid kinases: perspectives on the evolution of second messenger signaling and drug discovery. BMC Evolutionary Biology, 11:4-4, Jan 2011. URL: https://doi.org/10.1186/1471-2148-11-4, doi:10.1186/1471-2148-11-4. This article has 129 citations.
+
+11. (brown2011phylogenomicsofphosphoinositide pages 4-6): James R Brown and Kurt R Auger. Phylogenomics of phosphoinositide lipid kinases: perspectives on the evolution of second messenger signaling and drug discovery. BMC Evolutionary Biology, 11:4-4, Jan 2011. URL: https://doi.org/10.1186/1471-2148-11-4, doi:10.1186/1471-2148-11-4. This article has 129 citations.
+
+12. (brown2011phylogenomicsofphosphoinositide pages 8-9): James R Brown and Kurt R Auger. Phylogenomics of phosphoinositide lipid kinases: perspectives on the evolution of second messenger signaling and drug discovery. BMC Evolutionary Biology, 11:4-4, Jan 2011. URL: https://doi.org/10.1186/1471-2148-11-4, doi:10.1186/1471-2148-11-4. This article has 129 citations.
+
+13. (burke2018structuralbasisfor pages 8-10): John E. Burke. Structural basis for regulation of phosphoinositide kinases and their involvement in human disease. Molecular Cell, 71:653-673, Sep 2018. URL: https://doi.org/10.1016/j.molcel.2018.08.005, doi:10.1016/j.molcel.2018.08.005. This article has 255 citations and is from a highest quality peer-reviewed journal.
+
+14. (chen2018molecularbasisfor pages 1-4): Kai-En Chen, Vikas A. Tillu, Mintu Chandra, and Brett M. Collins. Molecular basis for membrane recruitment by the px and c2 domains of class ii phosphoinositide 3-kinase-c2α. Structure, 26:1612-1625.e4, Dec 2018. URL: https://doi.org/10.1016/j.str.2018.08.010, doi:10.1016/j.str.2018.08.010. This article has 41 citations and is from a domain leading peer-reviewed journal.
+
+15. (chen2018molecularbasisfor pages 18-19): Kai-En Chen, Vikas A. Tillu, Mintu Chandra, and Brett M. Collins. Molecular basis for membrane recruitment by the px and c2 domains of class ii phosphoinositide 3-kinase-c2α. Structure, 26:1612-1625.e4, Dec 2018. URL: https://doi.org/10.1016/j.str.2018.08.010, doi:10.1016/j.str.2018.08.010. This article has 41 citations and is from a domain leading peer-reviewed journal.
+
+16. (falasca2017classiiphosphoinositide pages 1-2): Marco Falasca, Justin R. Hamilton, Maria Selvadurai, Krithika Sundaram, Aleksandra Adamska, and Philip E. Thompson. Class ii phosphoinositide 3-kinases as novel drug targets. Journal of medicinal chemistry, 60 1:47-65, Jan 2017. URL: https://doi.org/10.1021/acs.jmedchem.6b00963, doi:10.1021/acs.jmedchem.6b00963. This article has 48 citations and is from a highest quality peer-reviewed journal.
+
+17. (falasca2017classiiphosphoinositide pages 5-6): Marco Falasca, Justin R. Hamilton, Maria Selvadurai, Krithika Sundaram, Aleksandra Adamska, and Philip E. Thompson. Class ii phosphoinositide 3-kinases as novel drug targets. Journal of medicinal chemistry, 60 1:47-65, Jan 2017. URL: https://doi.org/10.1021/acs.jmedchem.6b00963, doi:10.1021/acs.jmedchem.6b00963. This article has 48 citations and is from a highest quality peer-reviewed journal.
+
+18. (foster2003thephosphoinositide(pi) pages 1-1): Fiona M. Foster, Colin J. Traer, Siemon M. Abraham, and Michael J. Fry. The phosphoinositide (pi) 3-kinase family. Journal of Cell Science, 116:3037-3040, Aug 2003. URL: https://doi.org/10.1242/jcs.00609, doi:10.1242/jcs.00609. This article has 471 citations and is from a domain leading peer-reviewed journal.
+
+19. (tiosano2019mutationsinpik3c2a pages 17-18): D. Tiosano, H. Feldman, Anlu Chen, M. Hitzert, M. Schueler, F. Gulluni, Antje Wiesener, A. Bergua, A. Mory, Brett R Copeland, J. Gleeson, P. Rump, H. van Meer, D. Sival, V. Haucke, J. Kriwinsky, K. Knaup, A. Reis, Nadine N. Hauer, E. Hirsch, R. Roepman, R. Pfundt, C. Thiel, M. Wiesener, M. Aslanyan, and David A. Buchner. Mutations in pik3c2a cause syndromic short stature, skeletal abnormalities, and cataracts associated with ciliary dysfunction. PLoS Genetics, Dec 2019. URL: https://doi.org/10.1371/journal.pgen.1008088, doi:10.1371/journal.pgen.1008088. This article has 63 citations and is from a domain leading peer-reviewed journal.
+
+20. (burke2018structuralbasisfor pages 4-5): John E. Burke. Structural basis for regulation of phosphoinositide kinases and their involvement in human disease. Molecular Cell, 71:653-673, Sep 2018. URL: https://doi.org/10.1016/j.molcel.2018.08.005, doi:10.1016/j.molcel.2018.08.005. This article has 255 citations and is from a highest quality peer-reviewed journal.

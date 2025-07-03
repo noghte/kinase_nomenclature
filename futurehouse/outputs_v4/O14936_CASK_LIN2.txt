@@ -1,0 +1,85 @@
+## Phylogeny  
+Orthologs are documented in Caenorhabditis elegans (LIN-2), Drosophila melanogaster (CAKI/CMG), basal metazoans such as Trichoplax adherens, and throughout vertebrates including mouse, rat, zebrafish and human, underscoring deep conservation across Metazoa (laconte2013structuralconstraintsand pages 2-4).  
+Vertebrate CASK acquired lineage-specific residues, e.g. Tyr268, that are absent in invertebrate paralogs, indicating functional specialization during chordate evolution (laconte2013structuralconstraintsand pages 5-6).  
+Within the human kinome it belongs to the Ca²⁺/calmodulin-dependent kinase (CAMK) group, MAGUK-CAMK subfamily, as classified in the Manning 2002 framework referenced in contemporary analyses (laconte2018twomicrocephalyassociatednovel pages 16-17).  
+The catalytic domain diverged from canonical CAMKs through motif replacements (DFG→GFG, Asn→Cys) that converted a primordial Mg²⁺-dependent enzyme into today’s Mg²⁺-inhibited kinase (mukherjee2010evolutionofcask pages 5-7).  
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr → ADP + protein-L-O-phospho-Ser/Thr (mukherjee2008caskfunctionsas pages 12-12).  
+
+## Cofactor Requirements  
+Catalysis proceeds without divalent cations; free Mg²⁺ binds the distorted active site and inhibits rather than stimulates phosphotransfer (mukherjee2008caskfunctionsas pages 9-10, hsueh2009calciumcalmodulin‐dependentserineprotein pages 2-3).  
+
+## Substrate Specificity  
+Physiological substrates include the presynaptic adhesion molecule neurexin-1 and the scaffold liprin-α2 (mukherjee2008caskfunctionsas pages 12-12, laconte2013structuralconstraintsand pages 5-6).  
+A universal phosphoacceptor consensus is not defined; substrate selection relies on spatial recruitment via PDZ- or CaMK-mediated docking rather than primary-sequence preference (mukherjee2008caskfunctionsas pages 12-12).  
+For CaMK-binding partners such as Caskin1 the recognition motif ζ-x-ψ-W-ψ-x-R has been delineated structurally (wang2022crystalstructureof pages 7-10).  
+
+## Structure  
+Domain organisation: N-terminal CaMK-like kinase, tandem L27A/L27B oligomerisation modules, class II PDZ domain, SH3 domain, 4.1-binding HOOK segment, and C-terminal guanylate-kinase-like (GK) domain (hsueh2009calciumcalmodulin‐dependentserineprotein pages 1-2).  
+CaMK domain crystal structure (PDB 3C0H) shows a pre-activated fold with the non-canonical GFG motif and His145 occupying the metal pocket, explaining Mg²⁺ inhibition (mukherjee2008caskfunctionsas pages 9-10).  
+Reversion of four active-site residues (CASK4M mutant) restores Mg²⁺ coordination and canonical catalytic geometry, confirming evolutionary rewiring (mukherjee2010evolutionofcask pages 5-7).  
+An AlphaFold/experimental hybrid model (PDB 6G99) maps additional active-site substitutions linked to disease (laconte2018twomicrocephalyassociatednovel pages 16-17).  
+The CaMK domain bound to Caskin1 CID peptide reveals a hydrophobic W376–I375 core engaging residues V117/H120/Y121 of CASK, exemplifying partner specificity (wang2022crystalstructureof pages 7-10).  
+The PDZ–SH3–GK supramodule forms an integrated scaffold that stabilises intramolecular contacts and creates composite binding surfaces (wu2020structuralbasisfor pages 14-14).  
+Catalytic and regulatory spines are pre-assembled, and the activation loop is ordered without phosphorylation, accounting for constitutive low-level activity (mukherjee2008caskfunctionsas pages 9-10).  
+
+## Regulation  
+• Autophosphorylation occurs constitutively because the canonical Ca²⁺/calmodulin autoinhibitory segment is degenerate (mukherjee2010evolutionofcask pages 5-7).  
+• CDK5 phosphorylates Ser151 and Ser155 within the CaMK domain and sites in the L27 modules, enhancing presynaptic targeting and liprin-α interaction (hsueh2009calciumcalmodulin‐dependentserineprotein pages 1-2, laconte2013structuralconstraintsand pages 5-6).  
+• Tyr72 is an additional regulatory phosphosite identified in cell-based analyses (laconte2013structuralconstraintsand pages 5-6).  
+• SUMO-1 conjugates Lys679, weakening protein 4.1 binding and altering dendritic spine morphology (laconte2018twomicrocephalyassociatednovel pages 16-17).  
+• The E3 ligase Mdm2 ubiquitinates CASK, implicating proteasomal turnover in abundance control (laconte2018twomicrocephalyassociatednovel pages 16-17).  
+• Free Mg²⁺ or Mn²⁺ acts as an allosteric inhibitor by occupying the distorted nucleotide pocket (mukherjee2008caskfunctionsas pages 9-10).  
+
+## Function  
+Expression is highest in neuronal soma, axons, presynaptic terminals, dendritic spines and retinal ganglion cells, with lower levels in non-neural tissues (hsueh2009calciumcalmodulin‐dependentserineprotein pages 2-3, laconte2019ann‐terminalheterozygous pages 1-3).  
+Presynaptically, CASK assembles a complex with neurexin-1, liprin-α2, Mint1 and Caskin1, coupling cell-adhesion to synaptic vesicle release (hsueh2009calciumcalmodulin‐dependentserineprotein pages 1-2, mukherjee2008caskfunctionsas pages 12-12).  
+Postsynaptically, it links syndecan-2 to the actin/α-spectrin cytoskeleton via protein 4.1, shaping spine morphology (hsueh2009calciumcalmodulin‐dependentserineprotein pages 2-3).  
+Within the LIN-10–LIN-2–LIN-7 complex it associates with KIF17 to transport NR2B-containing NMDA receptor vesicles along microtubules (unknownauthors2002identificationandcharacterization pages 30-35).  
+In the nucleus, the GK domain binds TBR1 and co-activates transcription of developmental genes such as reelin and NR2B (unknownauthors2002identificationandcharacterization pages 39-44, hsueh2009calciumcalmodulin‐dependentserineprotein pages 2-3).  
+Upstream regulator: CDK5; downstream phosphorylated substrates: neurexin-1 and liprin-α2 (hsueh2009calciumcalmodulin‐dependentserineprotein pages 1-2, laconte2013structuralconstraintsand pages 5-6).  
+
+## Other Comments  
+Loss-of-function or missense variants cause X-linked intellectual disability, microcephaly with pontocerebellar hypoplasia, FG syndrome and congenital nystagmus (hsueh2009calciumcalmodulin‐dependentserineprotein pages 6-6, laconte2013structuralconstraintsand pages 6-6).  
+Pathogenic mutations include:  
+– Y268H in the activation segment, abolishing a vertebrate-specific residue required for liprin binding (laconte2013structuralconstraintsand pages 5-6).  
+– L209P in the αF helix, destabilising the CaMK domain and causing microcephaly with retinal dystrophy (laconte2019ann‐terminalheterozygous pages 17-20).  
+– N299S in the catalytic core, associated with intellectual disability (laconte2013structuralconstraintsand pages 5-6).  
+– PDZ mutation M519T and SH3 mutation G659D disrupt neurexin interaction and underlie pontocerebellar hypoplasia (laconte2018twomicrocephalyassociatednovel pages 1-3).
+
+References
+
+1. (hsueh2009calciumcalmodulin‐dependentserineprotein pages 1-2): Yi‐Ping Hsueh. Calcium/calmodulin‐dependent serine protein kinase and mental retardation. Annals of Neurology, 66:438-443, Oct 2009. URL: https://doi.org/10.1002/ana.21755, doi:10.1002/ana.21755. This article has 109 citations and is from a highest quality peer-reviewed journal.
+
+2. (hsueh2009calciumcalmodulin‐dependentserineprotein pages 2-3): Yi‐Ping Hsueh. Calcium/calmodulin‐dependent serine protein kinase and mental retardation. Annals of Neurology, 66:438-443, Oct 2009. URL: https://doi.org/10.1002/ana.21755, doi:10.1002/ana.21755. This article has 109 citations and is from a highest quality peer-reviewed journal.
+
+3. (hsueh2009calciumcalmodulin‐dependentserineprotein pages 6-6): Yi‐Ping Hsueh. Calcium/calmodulin‐dependent serine protein kinase and mental retardation. Annals of Neurology, 66:438-443, Oct 2009. URL: https://doi.org/10.1002/ana.21755, doi:10.1002/ana.21755. This article has 109 citations and is from a highest quality peer-reviewed journal.
+
+4. (laconte2013structuralconstraintsand pages 2-4): L. LaConte and K. Mukherjee. Structural constraints and functional divergences in cask evolution. Biochemical Society transactions, 41 4:1017-22, Aug 2013. URL: https://doi.org/10.1042/bst20130061, doi:10.1042/bst20130061. This article has 27 citations and is from a peer-reviewed journal.
+
+5. (laconte2013structuralconstraintsand pages 5-6): L. LaConte and K. Mukherjee. Structural constraints and functional divergences in cask evolution. Biochemical Society transactions, 41 4:1017-22, Aug 2013. URL: https://doi.org/10.1042/bst20130061, doi:10.1042/bst20130061. This article has 27 citations and is from a peer-reviewed journal.
+
+6. (laconte2013structuralconstraintsand pages 6-6): L. LaConte and K. Mukherjee. Structural constraints and functional divergences in cask evolution. Biochemical Society transactions, 41 4:1017-22, Aug 2013. URL: https://doi.org/10.1042/bst20130061, doi:10.1042/bst20130061. This article has 27 citations and is from a peer-reviewed journal.
+
+7. (laconte2018twomicrocephalyassociatednovel pages 1-3): Leslie E. W. LaConte, Vrushali Chavan, Abdallah F. Elias, Cynthia Hudson, Corbin Schwanke, Katie Styren, Jonathan Shoof, Fernando Kok, Sarika Srivastava, and Konark Mukherjee. Two microcephaly-associated novel missense mutations in cask specifically disrupt the cask–neurexin interaction. Human Genetics, 137:231-246, Feb 2018. URL: https://doi.org/10.1007/s00439-018-1874-3, doi:10.1007/s00439-018-1874-3. This article has 42 citations and is from a peer-reviewed journal.
+
+8. (laconte2018twomicrocephalyassociatednovel pages 16-17): Leslie E. W. LaConte, Vrushali Chavan, Abdallah F. Elias, Cynthia Hudson, Corbin Schwanke, Katie Styren, Jonathan Shoof, Fernando Kok, Sarika Srivastava, and Konark Mukherjee. Two microcephaly-associated novel missense mutations in cask specifically disrupt the cask–neurexin interaction. Human Genetics, 137:231-246, Feb 2018. URL: https://doi.org/10.1007/s00439-018-1874-3, doi:10.1007/s00439-018-1874-3. This article has 42 citations and is from a peer-reviewed journal.
+
+9. (laconte2019ann‐terminalheterozygous pages 1-3): Leslie E. W. LaConte, Vrushali Chavan, Stephanie DeLuca, Karol Rubin, Jessica Malc, Susan Berry, C. Gail Summers, and Konark Mukherjee. An n‐terminal heterozygous missense cask mutation is associated with microcephaly and bilateral retinal dystrophy plus optic nerve atrophy. American Journal of Medical Genetics Part A, 179:94-103, Dec 2019. URL: https://doi.org/10.1002/ajmg.a.60687, doi:10.1002/ajmg.a.60687. This article has 28 citations.
+
+10. (mukherjee2008caskfunctionsas pages 12-12): K. Mukherjee, Manu Sharma, H. Urlaub, G. Bourenkov, R. Jahn, T. Südhof, and M. Wahl. Cask functions as a mg2+-independent neurexin kinase. Cell, 133:328-339, Apr 2008. URL: https://doi.org/10.1016/j.cell.2008.02.036, doi:10.1016/j.cell.2008.02.036. This article has 326 citations and is from a highest quality peer-reviewed journal.
+
+11. (mukherjee2008caskfunctionsas pages 9-10): K. Mukherjee, Manu Sharma, H. Urlaub, G. Bourenkov, R. Jahn, T. Südhof, and M. Wahl. Cask functions as a mg2+-independent neurexin kinase. Cell, 133:328-339, Apr 2008. URL: https://doi.org/10.1016/j.cell.2008.02.036, doi:10.1016/j.cell.2008.02.036. This article has 326 citations and is from a highest quality peer-reviewed journal.
+
+12. (mukherjee2010evolutionofcask pages 5-7): Konark Mukherjee, Manu Sharma, Reinhard Jahn, Markus C. Wahl, and Thomas C. Südhof. Evolution of cask into a mg <sup>2+</sup> -sensitive kinase. Science Signaling, 3:ra33-ra33, Apr 2010. URL: https://doi.org/10.1126/scisignal.2000800, doi:10.1126/scisignal.2000800. This article has 89 citations and is from a domain leading peer-reviewed journal.
+
+13. (laconte2019ann‐terminalheterozygous pages 17-20): Leslie E. W. LaConte, Vrushali Chavan, Stephanie DeLuca, Karol Rubin, Jessica Malc, Susan Berry, C. Gail Summers, and Konark Mukherjee. An n‐terminal heterozygous missense cask mutation is associated with microcephaly and bilateral retinal dystrophy plus optic nerve atrophy. American Journal of Medical Genetics Part A, 179:94-103, Dec 2019. URL: https://doi.org/10.1002/ajmg.a.60687, doi:10.1002/ajmg.a.60687. This article has 28 citations.
+
+14. (unknownauthors2002identificationandcharacterization pages 30-35): Identification and characterization of a novel interaction between cask and the transforming growth factor beta receptor interacting protein
+
+15. (wang2022crystalstructureof pages 7-10): Yue L Wang, Qiangou Chen, Riting Jiang, Xiaoyang Ye, J. Wan, Jianchao Li, and Wei Liu. Crystal structure of caskin1/cask complex reveals the molecular basis of the binding specificity of cask_camk domain and its binding partners. BioRxiv, Jan 2022. URL: https://doi.org/10.1101/2022.01.16.476467, doi:10.1101/2022.01.16.476467. This article has 0 citations.
+
+16. (unknownauthors2002identificationandcharacterization pages 39-44): Identification and characterization of a novel interaction between cask and the transforming growth factor beta receptor interacting protein
+
+17. (wu2020structuralbasisfor pages 14-14): Xiandeng Wu, Qixu Cai, Yiyun Chen, Shihan Zhu, Jing Mi, Jiguang Wang, and Mingjie Zhang. Structural basis for the high-affinity interaction between cask and mint1. Structure, 28:664-673.e3, Jun 2020. URL: https://doi.org/10.1016/j.str.2020.04.001, doi:10.1016/j.str.2020.04.001. This article has 20 citations and is from a domain leading peer-reviewed journal.
