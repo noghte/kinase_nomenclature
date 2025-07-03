@@ -1,0 +1,43 @@
+## Phylogeny  
+Member of the STE group, Germinal Center Kinase subfamily 6 (GCK-VI) within the Ste20-like serine/threonine kinases (Serafim et al., 2021; Thiriet, 2013). The closest human paralogue is SLK, sharing ~76–84 % identity across the kinase domain and 61–70 % within the coiled-coil region (Investigation of Resistance, 2020; Serafim et al., 2021). Verified vertebrate orthologues include mouse LOK (98 % identity in the catalytic domain), rat Stk10 and zebrafish Stk10, while invertebrate counterparts comprise Drosophila Slik and C. elegans GCK-3, underscoring broad metazoan conservation (Leroy et al., 2016; Serafim et al., 2021).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Serafim et al., 2021).
+
+## Cofactor Requirements  
+Requires Mg²⁺ for catalytic activity (Serafim et al., 2021).
+
+## Substrate Specificity  
+Principal cellular targets are the ERM proteins ezrin, radixin and moesin; phosphorylation of moesin Thr558 is a routine activity read-out (Leroy et al., 2016; Serafim et al., 2021). Additional reported substrates include vimentin Ser56 and PLK1 in vitro (Investigation of Resistance, 2020; Serafim et al., 2021). Motif profiling in a recent kinome atlas revealed a distinct consensus sequence, although the precise residues were not provided in the excerpt (Serafim et al., 2021).
+
+## Structure  
+The protein comprises an N-terminal kinase domain (≈ residues 1–300), a proline-rich segment and an extended C-terminal coiled-coil that lacks a CRIB motif (Investigation of Resistance, 2020; Thiriet, 2013). A crystal structure of the isolated kinase domain (PDB 2J7T) displays activation-segment exchange dimerisation that promotes trans-autophosphorylation (Goldsmith et al., 2007). Canonical catalytic motifs include VAIK Lys49, HRD Asp158 and DFG Asp176; autophosphorylation occurs on Thr183 within the activation segment (Goldsmith et al., 2007). Asp332 represents a caspase-3 cleavage site separating the kinase and coiled-coil regions (Goldsmith et al., 2007). A co-crystal with a 3-anilino-4-arylmaleimide inhibitor shows bifurcated hinge hydrogen bonds (E111/C113) and displacement of the glycine-rich loop (Serafim et al., 2021). Basic residues adjacent to helix αG form a PIP₂-dependent wedge that tethers the kinase to cortical membranes (Serafim et al., 2021).
+
+## Regulation  
+Activity is enhanced by autophosphorylation of Thr183 and by activation-segment exchange homodimerisation (Goldsmith et al., 2007). Caspase-3 cleavage at Asp332 during apoptosis abolishes ERM phosphorylation (Leroy et al., 2016). Spatial confinement is provided by a PIP₂-anchored basic wedge that restricts signalling to the apical cortex and lymphocyte uropod (Serafim et al., 2021). The kinase also acts as a negative modulator of MAP3K1/MEKK1 signalling (Annunziata et al., 2020).
+
+## Function  
+Highest expression is observed in spleen, thymus and bone marrow, predominantly within lymphocytes (Leroy et al., 2016; Thiriet, 2013). ERM phosphorylation maintains cortical rigidity, microvilli structure and promotes lymphocyte migration (Leroy et al., 2016; Serafim et al., 2021). Association with and phosphorylation of PLK1 links the kinase to G2/M cell-cycle progression (Investigation of Resistance, 2020; Thiriet, 2013). By suppressing MAP3K1/MEKK1 it modulates MAPK pathway output (Annunziata et al., 2020). Proximity-labelling studies identify interactors such as KRAS, RHOA, RHOB and CRKL, situating the kinase within Rho/Ras cytoskeletal networks (Profiling the Interactome, 2023).
+
+## Inhibitors  
+A series of 3-anilino-4-arylmaleimides yields compound 31 with an enzymatic IC₅₀ ≈ 12 nM and cellular IC₅₀ ≈ 1.4 µM; crystallographic data confirm ATP-site engagement (Serafim et al., 2021).
+
+## Other Comments  
+A cancer-associated R634H mutation in the coiled-coil domain abrogates NF-κB suppression and confers anti-apoptotic activity in peripheral T-cell lymphoma (Investigation of Resistance, 2020; Leroy et al., 2016). Stk10-knockout mice display accelerated tumour growth due to tumour-micro-environment dysregulation (Ma et al., 2022). Depletion of the kinase sensitises triple-negative breast-cancer cells to the PI3Kα inhibitor BYL-719 (Investigation of Resistance, 2020).
+
+## 9. References  
+Annunziata, M. C., Parisi, M., Esposito, G., Fabbrocini, G., Ammendola, R., & Cattaneo, F. (2020). Phosphorylation sites in protein kinases and phosphatases regulated by formyl peptide receptor 2 signaling. International Journal of Molecular Sciences, 21, 3818. https://doi.org/10.3390/ijms21113818  
+
+Goldsmith, E. J., Akella, R., Min, X., Zhou, T., & Humphreys, J. M. (2007). Substrate and docking interactions in serine/threonine protein kinases. Chemical Reviews, 107, 5065–5081. https://doi.org/10.1021/cr068221w  
+
+Leroy, C., Belkina, N., Long, T., Deruy, E., Dissous, C., Shaw, S., & Tulasne, D. (2016). Caspase cleavages of the lymphocyte-oriented kinase prevent ezrin, radixin, and moesin phosphorylation during apoptosis. The Journal of Biological Chemistry, 291, 10148–10161. https://doi.org/10.1074/jbc.M116.721365  
+
+Ma, J.-X., Xu, D.-D., Lu, S.-Y., Wang, Q.-L., Zhang, L., Guo, R., … Zhang, H.-X. (2022). Stk10 deficiency in mice promotes tumor growth by dysregulating the tumor microenvironment. Biology, 11, 1668. https://doi.org/10.3390/biology11111668  
+
+Serafim, R. A. M., Sorrell, F. J., Berger, B.-T., Collins, R. J., Vasconcelos, S. N. S., Massirer, K. B., … Elkins, J. M. (2021). Discovery of a potent dual SLK/STK10 inhibitor based on a maleimide scaffold. Journal of Medicinal Chemistry, 64, 13259–13278. https://doi.org/10.1021/acs.jmedchem.0c01579  
+
+Thiriet, M. (2013). Cytoplasmic protein serine/threonine kinases. In Biomathematical and Biomechanical Modeling of the Circulatory and Ventilatory Systems (pp. 175–310). Springer. https://doi.org/10.1007/978-1-4614-4370-4_5  
+
+Investigation of resistance mechanisms in response to PIK3CA inhibition in breast cancer. (2020). [Sections 26–31; 60–67].  
+
+Profiling the interactome of STK10. (2023). [Pages 93–98].

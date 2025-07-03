@@ -1,0 +1,64 @@
+## Phylogeny  
+LRRK2 is a ROCO‐family dual enzyme that forms a small branch with its paralogue LRRK1 within the receptor-interacting protein kinase (RIPK) arm of the human kinome (Greggio & Cookson, 2009). Orthologues are conserved in vertebrates (mouse, rat, zebrafish, Xenopus), invertebrates (Caenorhabditis elegans, Drosophila melanogaster) and basal metazoans such as Nematostella vectensis, indicating an origin that predates the protostome–deuterostome split (Langston et al., 2016; Marín, 2006). ROCO proteins are also found in slime moulds, certain plants, bacteria and archaea, reflecting an ancient but discontinuous evolutionary distribution (Marín, 2006).
+
+## Reaction Catalyzed  
+Protein-L-Ser/Thr + ATP → Protein-L-phospho-Ser/Thr + ADP (Nichols, 2017).
+
+## Cofactor Requirements  
+Full kinase activity requires GTP binding to the internal ROC GTPase domain; no divalent metal preference was reported (Nichols, 2017).
+
+## Substrate Specificity  
+LRRK2 selectively phosphorylates a Thr/Ser within the switch-II loop of multiple Rab GTPases, recognising the minimal sequence D/N-x-T/S-I/L (Alessi & Sammler, 2018; Ordoñez et al., 2019). Confirmed cellular substrates include Rab3A/B/C/D, Rab5A/B/C, Rab8A/B, Rab10, Rab12, Rab29, Rab35 and Rab43 (Alessi & Sammler, 2018). Moesin and other ERM family members are additional Ser/Thr targets linked to cytoskeletal regulation (Nichols, 2017).
+
+## Structure  
+Domain organisation: ARM/ANK repeats – leucine-rich repeats – ROC GTPase – COR – Ser/Thr kinase – WD40 (Greggio & Cookson, 2009). Cryo-EM of full-length human LRRK2 (PDB 7LI3; EMD-26034) shows monomers, dimers and tetramers; activation involves COR-kinase hinge rotation and membrane-associated oligomerisation (Zhu et al., 2022). Additional cryo-EM structures (PDB 6VP6, 6VRA) depict inactive and active states, including the DFGψ-out/in transition and microtubule-binding interfaces (Tasegian et al., 2021). Key catalytic residues are Lys1906 (VAIK), Glu1920 (αC), and Asp2017 (HRD) (Zhu et al., 2022). Two invariant tyrosines in the regulatory and catalytic spines give the ATP pocket unusual flexibility (Liu et al., 2014). Negative-stain and cryo-EM confirm constitutive homodimerisation via COR and WD40 surfaces, required for maximal activity (Sejwal et al., 2017).
+
+## Regulation  
+Post-translational phosphorylation:  
+• Autophosphorylation at Ser1292 reports intrinsic activity and rises in pathogenic mutants (Tasegian et al., 2021).  
+• CK1α and PKA phosphorylate Ser910, Ser935, Ser955 and Ser973, creating 14-3-3 docking sites; kinase inhibition or disease-linked mutations cause dephosphorylation, 14-3-3 dissociation and microtubule relocalisation (Nichols, 2017; Tasegian et al., 2021).  
+
+Allosteric control:  
+• GTP-loaded ROC domain favours the active conformation; ROC mutants such as R1441C slow GTP hydrolysis and increase kinase output (Nichols, 2017).  
+• Rab29 binding to the ARM domain recruits LRRK2 to membranes, promotes higher-order oligomerisation and stimulates kinase activity (Zhu et al., 2022).
+
+## Function  
+Expression profile: highly expressed in peripheral immune cells (monocytes, macrophages, neutrophils), kidney, lung and select neuronal populations (Alessi & Sammler, 2018; Liu et al., 2014; Tasegian et al., 2021).  
+
+Cellular roles:  
+• Governs endolysosomal trafficking, autophagy-lysosome dynamics and primary cilium maintenance through broad Rab phosphorylation (Alessi & Sammler, 2018; Ordoñez et al., 2019).  
+• Ensures centrosomal cohesion and ciliogenesis via Rab8/Rab10 and RILPL1 (Ordoñez et al., 2019).  
+• Modulates NLRC4 inflammasome activation and pro-inflammatory cytokine production in innate immune cells (Alessi & Sammler, 2018).  
+• Alters neurite morphology and exacerbates α-synuclein toxicity when hyperactive (Liu et al., 2014).  
+• Drosophila LRRK regulates lysosomal positioning through Rab7, illustrating conserved endolysosomal control (Dodson et al., 2012).
+
+## Inhibitors  
+Type I ATP-competitive inhibitors: GSK2578215A, MLi-2, PF-06447475 and LRRK2-IN-1 achieve potent, brain-penetrant inhibition and trigger Ser935 dephosphorylation (Alessi & Sammler, 2018; Tasegian et al., 2021).  
+Type II inhibitors: GZD-824, Rebastinib and Ponatinib bind the DFGψ-out state, suppress Rab phosphorylation without affecting Ser935, but show limited selectivity (Tasegian et al., 2021).  
+Mutant-selective chemistry: SRI-29132 exploits ATP-pocket flexibility for mutant‐selective inhibition (Liu et al., 2014).
+
+## Other Comments  
+Missense variants G2019S and R1441C/G/H elevate kinase activity two- to four-fold and are the most common genetic causes of autosomal-dominant Parkinson’s disease (Alessi & Sammler, 2018; Liu et al., 2014). Chronic LRRK2 inhibition in rodents and non-human primates produces reversible lung and kidney changes linked to autophagy-lysosome suppression, indicating on-target safety liabilities (Alessi & Sammler, 2018; Tasegian et al., 2021).
+
+## References  
+Alessi, D. R., & Sammler, E. (2018). LRRK2 kinase in Parkinson's disease. Science, 360, 36–37. https://doi.org/10.1126/science.aar5683  
+
+Dodson, M., Zhang, T., Jiang, C., Chen, S., & Guo, M. (2012). Roles of the Drosophila LRRK2 homolog in Rab7-dependent lysosomal positioning. Human Molecular Genetics, 21(6), 1350–1363. https://doi.org/10.1093/hmg/ddr573  
+
+Greggio, E., & Cookson, M. R. (2009). Leucine-rich repeat kinase 2 mutations and Parkinson's disease: three questions. ASN Neuro. https://doi.org/10.1042/an20090007  
+
+Langston, R., Rudenko, I., & Cookson, M. (2016). The function of orthologues of the human Parkinson's disease gene LRRK2 across species: Implications for disease modelling in preclinical research. Biochemical Journal, 473(3), 221–232. https://doi.org/10.1042/BJ20150985  
+
+Liu, Z., Galemmo, R. A., Fraser, K. B., Moehle, M. S., Sen, S., Volpicelli-Daley, L. A., … & West, A. B. (2014). Unique functional and structural properties of the LRRK2 protein ATP-binding pocket. Journal of Biological Chemistry, 289, 32937–32951. https://doi.org/10.1074/jbc.M114.602318  
+
+Marín, I. (2006). The Parkinson disease gene LRRK2: Evolutionary and structural insights. Molecular Biology and Evolution, 23(12), 2423–2433. https://doi.org/10.1093/molbev/msl114  
+
+Nichols, R. J. (2017). LRRK2 phosphorylation. Advances in Neurobiology, 14, 51–70. https://doi.org/10.1007/978-3-319-49969-7_3  
+
+Ordoñez, A. J. L., Fernández, B., Fdez, E., Romo-Lozano, M., Madero-Pérez, J., Lobbestael, E., … & Hilfiker, S. (2019). Rab8, Rab10 and RILPL1 contribute to both LRRK2 kinase-mediated centrosomal cohesion and ciliogenesis deficits. Human Molecular Genetics, 28, 3552–3568. https://doi.org/10.1093/hmg/ddz201  
+
+Sejwal, K., Chami, M., Rémigy, H., Vancraenenbroeck, R., Sibran, W., Sütterlin, R., … & Taymans, J.-M. (2017). Cryo-EM analysis of homodimeric full-length LRRK2 and LRRK1 protein complexes. Scientific Reports. https://doi.org/10.1038/s41598-017-09126-z  
+
+Tasegian, A., Singh, F., Ganley, I., Reith, A., & Alessi, D. (2021). Impact of type II LRRK2 inhibitors on signaling and mitophagy. Biochemical Journal, 478, 3555–3573. https://doi.org/10.1042/BCJ20210375  
+
+Zhu, H., Tonelli, F., Alessi, D. R., & Sun, J. (2022). Structural basis of human LRRK2 membrane recruitment and activation. bioRxiv. https://doi.org/10.1101/2022.04.26.489605

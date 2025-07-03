@@ -1,0 +1,48 @@
+## Phylogeny  
+MAST3 is a member of the AGC serine/threonine protein-kinase superfamily and forms one of the earliest divergent AGC lineages in eukaryotes (Lemke et al., 2025, pp. 1-4; Rumpf et al., 2023, pp. 1-2). Within the human kinome it clusters with NDR, LATS and ROCK kinases (Unknown Authors, 2008, pp. 93-98). Orthologues occur throughout metazoans—from simple animals such as Hydra to insects, nematodes and vertebrates—where most species encode a single MAST kinase, whereas humans possess four paralogues (MAST1-4) (Lemke et al., 2025, pp. 2-4; Rumpf et al., 2023, pp. 13-14). Human MAST3 shares 91 % amino-acid identity with mouse Mast3 (Unknown Authors, 2012, pp. 127-131).
+
+## Reaction Catalyzed  
+Protein-OH + ATP → Protein-O-PO₃ + ADP (Rumpf et al., 2023, pp. 13-14).
+
+## Cofactor Requirements  
+Catalysis requires ATP and a divalent metal ion, typically Mg²⁺ or Mn²⁺ (Lemke et al., 2025, pp. 14-15; Rumpf et al., 2023, pp. 2-5, 13-14).
+
+## Substrate Specificity  
+Positional-scanning peptide-library analyses classify MAST3 as a basophilic kinase preferring Arg at the –3 position and Pro at +1, giving the consensus motif R-x-x-S/T-P (Johnson et al., 2023, pp. 12-18).
+
+## Structure  
+MAST3 is a modular protein comprising an N-terminal DUF1908 (~275 aa), a central AGC-type kinase domain and a C-terminal PDZ domain (Lemke et al., 2025, pp. 1-2; Rumpf et al., 2023, pp. 2-5). AlphaFold models confirm this tri-domain organisation (Rumpf et al., 2023, pp. 2-5). The kinase domain adopts the canonical two-lobed fold with conserved HRD, DFG and APE motifs and undergoes DFGin/DFGout transitions within the activation loop (Lemke et al., 2025, pp. 11-12). A distinctive Ser replaces the first Gly of the glycine-rich loop (GXGXXG), creating a potential regulatory phospho-site (Rumpf et al., 2023, pp. 5-7).
+
+## Regulation  
+• Phosphorylation: PKA phosphorylates Thr389, modulating activity; an atypical Ser in the glycine-rich loop may also be phosphorylated (Rumpf et al., 2023, pp. 2-5, 7-8). Disease-linked DUF variants S101F and S104L change local phospho-sites (Lemke et al., 2025, pp. 11-12).  
+• Autonomous activity depends on T-loop DFGin/DFGout conformational shifts (Lemke et al., 2025, pp. 11-12).  
+• Protein interactions: Phosphorylation of YAP at Ser127 recruits 14-3-3 proteins and promotes YAP ubiquitination and degradation (Deng et al., 2025, pp. 9-14; Lemke et al., 2025, pp. 6-8).  
+
+## Function  
+Expression/localisation: Highest mRNA levels in brain cortex, whole blood, pituitary and spleen but detectable in heart, lung, liver, intestine and kidney; protein localises mainly to nuclear speckles (Lemke et al., 2025, pp. 6-8; Rumpf et al., 2023, pp. 1-2).  
+Substrates: Yes-associated protein (YAP) Ser127 and ARPP-16 Ser46 (Deng et al., 2025, pp. 9-14; Rumpf et al., 2023, pp. 7-8).  
+Interactors: YAP (via PDZ), PTEN, APC and 14-3-3 proteins (Unknown Authors, 2012, pp. 127-131; Rumpf et al., 2023, pp. 8-10).  
+Upstream kinase: PKA (Rumpf et al., 2023, pp. 7-8).  
+Signalling pathways:  
+– Hippo pathway: MAST3 acts as a tumour suppressor in breast cancer by phosphorylating and destabilising YAP, thereby attenuating YAP-TEAD transcription of CTGF, CYR61 and CCNE1 (Deng et al., 2025, pp. 9-14).  
+– PP2A regulation: Phosphorylation of ARPP-16 inhibits PP2A, influencing cell-cycle-related signalling in neurons (Lemke et al., 2025, pp. 6-8; Rumpf et al., 2023, pp. 7-8).  
+– Inflammation: Positively regulates TLR4-dependent NF-κB signalling (Rumpf et al., 2023, pp. 10-11).
+
+## Inhibitors  
+Verteporfin offsets reduced MAST3 activity by blocking the downstream YAP-TEAD complex (Deng et al., 2025, pp. 9-14).
+
+## Other Comments  
+Reduced MAST3 expression is reported in breast, liver, prostate cancers and myeloma (Deng et al., 2025, pp. 9-14; Rumpf et al., 2023, pp. 1-2, 10-11). An intronic IBD risk variant (rs273506; S861G) and missense mutations S101F, S104L (DUF) and G510S, G515S, L516P (kinase domain) are linked to inflammatory bowel disease, epileptic encephalopathy, neuronal disability and altered kinase dynamics (Lemke et al., 2025, pp. 11-12; Unknown Authors, 2012, pp. 127-131). Associations with cystic fibrosis have also been noted (Rumpf et al., 2023, pp. 1-2).
+
+## References  
+Deng, N., Kang, W., Du, J., Rong, X., & Han, Q. (2025). Microtubule associated serine/threonine kinase-3 inhibits the malignant phenotype of breast cancer by promoting phosphorylation-mediated ubiquitination degradation of yes-associated protein. Breast Cancer Research. https://doi.org/10.1186/s13058-025-02028-3  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759-766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Lemke, M. C., Avala, N. R., Rader, M. T., Hargett, S. R., Lank, D. S., Seltzer, B. D., & Harris, T. E. (2025). MAST kinases’ function and regulation: Insights from structural modeling and disease mutations. Biomedicines, 13, 925. https://doi.org/10.3390/biomedicines13040925  
+
+Rumpf, M., Pautz, S., Drebes, B., Herberg, F. W., & Müller, H.-A. J. (2023). Microtubule-associated serine/threonine (MAST) kinases in development and disease. International Journal of Molecular Sciences, 24, 11913. https://doi.org/10.3390/ijms241511913  
+
+Unknown Authors. (2008). Molecular investigation of the MAST kinase family in the mammalian CNS (pp. 93-98).  
+
+Unknown Authors. (2012). MAST3: facteur de risque génétique aux maladies inflammatoires de l'intestin et modulateur d'inflammation (pp. 127-131).

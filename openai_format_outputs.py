@@ -10,8 +10,8 @@ from langchain_openai import ChatOpenAI
 # ─── Settings ──────────────────────────────────────────────────────────────────
 EIGHTY_PROFESSORS = False  # True: enable the filter, False: all kinases
 
-INPUT_DIR   = Path("./futurehouse/outputs")
-OUTPUT_ROOT = Path("./futurehouse/formatted")
+INPUT_DIR   = Path("./futurehouse/outputs_v4")
+OUTPUT_ROOT = Path("./futurehouse/formatted_v4")
 OUTPUT_ROOT.mkdir(parents=True, exist_ok=True)
 
 CSV_PATH = Path("./data/kinases_professors.csv")

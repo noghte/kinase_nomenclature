@@ -1,0 +1,57 @@
+## Phylogeny  
+TTBK2 belongs to the tau-tubulin kinase (TTBK) family within the casein kinase 1 (CK1) super-group and is excluded from the CMGC clade (Bouskila et al., 2011; Johnson et al., 2023; Bernatík et al., 2020). Its kinase domain shares ~88 % amino-acid identity with the paralogue TTBK1 and ~38 % identity with CK1δ (Marcotte et al., 2020; Bouskila et al., 2011). All TTBK isoforms carry a P-P-E signature in sub-domain VIII, in contrast to the canonical S-I-N found in other CK1 enzymes (Bouskila et al., 2011). The catalytic region is highly conserved in vertebrates and is the only segment retained in invertebrate orthologues (Ikezu & Ikezu, 2014).
+
+## Reaction Catalyzed  
+Protein-Ser/Thr + ATP ⇌ Protein-phospho-Ser/Thr + ADP (Bernatík et al., 2020; Bouskila et al., 2011; Johnson et al., 2023).
+
+## Cofactor Requirements  
+Activity requires ATP and a divalent metal ion; Mg²⁺ or Mn²⁺ supports catalysis in vitro (Bouskila et al., 2011; Bao et al., 2021).
+
+## Substrate Specificity  
+Comprehensive kinome profiling classifies TTBK2 (UniProt Q6IQ55) as a basophilic kinase that strongly prefers Arg at −3 and −2 and disfavors Pro at +1 relative to the phospho-acceptor residue (Johnson et al., 2023). This consensus overrides earlier, smaller-scale motifs that proposed S/T-X-Yᴾ or L(+1)–E(+3) patterns (Bouskila et al., 2011; Bernatík et al., 2020; Ikezu & Ikezu, 2014).
+
+## Structure  
+The human enzyme comprises 1 244 aa with an N-terminal kinase domain (residues 20–280) and a lengthy C-terminal regulatory tail containing SxIP motifs that bind EB1/3 (Bouskila et al., 2011; Felício & Santos, 2024). The kinase domain crystal structure has been solved at 1.75 Å (PDB 6U0K) in complex with an ATP-competitive inhibitor (Marcotte et al., 2020). Catalytic residues Lys50 and Asp141 form the active site; Lys50, Lys143, and Arg181 line a phosphate-binding groove that recognises primed substrates (Bouskila et al., 2011; Potjewyd et al., 2023). Region VIII displays the distinctive P-P-E motif diagnostic for TTBKs (Bouskila et al., 2011).
+
+## Regulation  
+TTBK2 undergoes extensive autophosphorylation within its non-catalytic region—key sites include T309, T311, S312, S313, and T332—and throughout the C-terminus (Bao et al., 2021; Bernatík et al., 2020). Multiple phosphorylation events are needed for full activity; single-site mutants retain residual function (Bao et al., 2021). Proteolytic processing yields smaller active fragments (Taylor et al., 2019; Unknown authors, 2018). Spinocerebellar ataxia 11 (SCA11) truncations (~aa 1–450) diminish kinase activity and shift localisation towards the nucleus (Bouskila et al., 2011; Ikezu & Ikezu, 2014).
+
+## Function  
+TTBK2 is ubiquitously expressed, with highest levels in brain regions such as cerebellar Purkinje cells, hippocampus, midbrain, substantia nigra, and in testis (Bouskila et al., 2011; Potjewyd et al., 2023). It is a master trigger of ciliogenesis, localising to the distal mother centriole to remove the inhibitory CP110–CEP97 complex through phosphorylation of MPP9, CEP97, CEP164, CEP83, CEP89, Rabin8, CCDC92, and DVL2/3 (Felício & Santos, 2024; Unknown authors, 2021; Bernatík et al., 2020). As a microtubule +TIP, it phosphorylates KIF2A on Ser135, stabilising axonemal microtubules (Felício & Santos, 2024; Nozal & Martínez, 2019). Additional substrates include tau (Ser208/210), tubulin, TDP-43 (Ser409/410), and SV2A, and it interacts with MAP1B and CCT5/6A/8 chaperonin subunits (Marcotte et al., 2020; Bao et al., 2021; Liachko et al., 2014).
+
+## Inhibitors  
+Several ATP-competitive inhibitors target TTBK2: AZ-1, AZ-2 (low-µM IC₅₀), WHI-P180 (co-crystallised, PDB 6U0K), BGN31, and indolyl-pyrimidinamine analogues (Baier & Szyszka, 2022; Marcotte et al., 2020; Potjewyd et al., 2023).
+
+## Other Comments  
+Heterozygous truncating variants in TTBK2 cause SCA11, characterised by progressive cerebellar ataxia, cerebellar atrophy, Purkinje cell loss and tau pathology; the mutant protein exerts dominant-negative effects on ciliogenesis (Bouskila et al., 2011; Unknown authors, 2019; Ikezu & Ikezu, 2014). Homozygous loss is embryonic lethal in mice, underscoring its developmental necessity (Bouskila et al., 2011).
+
+## 9. References  
+Baier, A., & Szyszka, R. (2022). CK2 and protein kinases of the CK1 superfamily as targets for neurodegenerative disorders. Frontiers in Molecular Biosciences, 9, 916063. https://doi.org/10.3389/fmolb.2022.916063  
+
+Bao, C., Bajrami, B., Marcotte, D. J., Chodaparambil, J. V., Kerns, H. M., Henderson, J., Wei, R., Gao, B., & Dillon, G. M. (2021). Mechanisms of regulation and diverse activities of tau-tubulin kinase (TTBK) isoforms. Cellular and Molecular Neurobiology, 41, 669–685. https://doi.org/10.1007/s10571-020-00875-6  
+
+Bernatík, O., Pejšková, P., Vysloužil, D., Hanáková, K., Zdráhal, Z., & Čajánek, L. (2020). Phosphorylation of multiple proteins involved in ciliogenesis by tau-tubulin kinase 2. Molecular Biology of the Cell, 31, 1032–1046. https://doi.org/10.1091/mbc.e19-06-0334  
+
+Bouskila, M., Esoof, N., Gay, L., Fang, E. H., Deak, M., Begley, M. J., Cantley, L. C., Prescott, A., Storey, K. G., & Alessi, D. R. (2011). TTBK2 kinase substrate specificity and the impact of spinocerebellar-ataxia-causing mutations on expression, activity, localization and development. Biochemical Journal, 437, 157–167. https://doi.org/10.1042/BJ20110276  
+
+Felício, D., & Santos, M. (2024). Spinocerebellar ataxia type 11 (SCA11): TTBK2 variants, functions and associated disease mechanisms. The Cerebellum, 23, 678–687. https://doi.org/10.1007/s12311-023-01540-6  
+
+Ikezu, S., & Ikezu, T. (2014). Tau-tubulin kinase. Frontiers in Molecular Neuroscience, 7, 33. https://doi.org/10.3389/fnmol.2014.00033  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Liachko, N. F., McMillan, P. J., Strovas, T. J., Loomis, E., Greenup, L., Murrell, J., … Kraemer, B. C. (2014). The tau-tubulin kinases TTBK1/2 promote accumulation of pathological TDP-43. PLoS Genetics, 10, e1004803. https://doi.org/10.1371/journal.pgen.1004803  
+
+Marcotte, D. J., Spilker, K. A., Wen, D., Hesson, T., Patterson, T. A., Kumar, P. R., & Chodaparambil, J. (2020). The crystal structure of the catalytic domain of tau-tubulin kinase 2 in complex with a small-molecule inhibitor. Acta Crystallographica Section F, 76, 103–108. https://doi.org/10.1107/S2053230X2000031X  
+
+Nozal, V., & Martínez, A. (2019). Tau tubulin kinase 1 (TTBK1), a new player in the fight against neurodegenerative diseases. European Journal of Medicinal Chemistry, 161, 39–47. https://doi.org/10.1016/j.ejmech.2018.10.030  
+
+Potjewyd, F., Marquez, A. B., Chaikuad, A., Howell, S., Dunn, A. S., Beltran, A. A., … Axtman, A. D. (2023). Modulation of tau-tubulin kinases (TTBK1 and TTBK2) impacts ciliogenesis. Scientific Reports, 13, 10392. https://doi.org/10.1038/s41598-023-35955-7  
+
+Taylor, L. M., McMillan, P., Kraemer, B. C., & Liachko, N. F. (2019). Tau-tubulin kinases in proteinopathy. The FEBS Journal, 286, 249–263. https://doi.org/10.1111/febs.14866  
+
+Unknown authors. (2018). Understanding the role and regulation of TTBK1/2 during neurodegenerative disease progression.  
+
+Unknown authors. (2019). TTBK2 and primary cilia are required for Purkinje cell survival.  
+
+Unknown authors. (2021). Functional characterization of a new TTBK2 variant in spinocerebellar ataxia type 11.

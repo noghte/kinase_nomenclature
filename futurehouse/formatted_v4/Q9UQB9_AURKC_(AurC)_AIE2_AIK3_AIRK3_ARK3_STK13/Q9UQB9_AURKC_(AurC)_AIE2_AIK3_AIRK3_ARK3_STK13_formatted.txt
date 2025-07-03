@@ -1,0 +1,56 @@
+## Phylogeny  
+Aurora kinase C (AURKC) belongs to the Aurora sub-family within the CMGC group of the human kinome. It clusters most closely with its paralogue AURKB and more distantly with AURKA (Vats et al., 2025; Moura, 2016). Orthologues have been reported in Mus musculus, Rattus norvegicus, Danio rerio and Xenopus laevis, whereas a single ancestral Ipl1 fulfils the Aurora role in Drosophila melanogaster and Saccharomyces cerevisiae (Willems et al., 2018; Vats et al., 2025).
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr ⇌ ADP + [protein]-O-phospho-Ser/Thr (Unknown Authors, 2021).
+
+## Cofactor Requirements  
+Catalysis requires divalent Mg²⁺ or Mn²⁺ ions (Abdul Azeez et al., 2019).
+
+## Substrate Specificity  
+AURKC prefers the motif R/K/N-X-S/T-Φ (Φ = hydrophobic residue), resembling AURKB preference (Abdul Azeez et al., 2019). Verified cellular substrates include histone H3 S10/S28, INCENP S893/S894, BIRC5/Survivin, and TACC1 S228 (Abdul Azeez et al., 2019; Sarı & Özsoy, 2024).
+
+## Structure  
+The protein comprises a short N-terminal segment (~1–38 aa), a bilobal catalytic domain (39–290 aa) and a C-terminal tail with an internal RxxL D-box (291–306 aa) (Vats et al., 2025). Crystal structures of fully active human AURKC bound to phosphorylated INCENP (PDB 6GR8, 6GR9; 1.75 Å) reveal an ordered activation loop in the DFG-in state, with pThr198 anchored by three arginines (Abdul Azeez et al., 2019). The INCENP TSSxxW motif embraces both faces of the αC helix; Trp897 stacks against His97 and His190, completing the regulatory spine. Lack of Met249 prevents the domain-swap dimer seen in AURKB, favouring a monomeric configuration (Abdul Azeez et al., 2019).
+
+## Regulation  
+• Autophosphorylation on Thr198 is essential for activity (Abdul Azeez et al., 2019).  
+• Binding of phosphorylated INCENP (S893/S894) re-orders the αC helix and hydrophobic spine, markedly increasing k_cat; alanine substitution at either site elevates K_M and lowers catalytic efficiency (Abdul Azeez et al., 2019).  
+• PLK1 controls Chromosomal Passenger Complex (CPC) localisation, thereby influencing spatial activation of AURKC during cell division (Santos et al., 2011).  
+• Methylation of INCENP Arg887 weakens binding and down-regulates kinase activity (Abdul Azeez et al., 2019).  
+• An internal RxxL D-box (but no KEN or DAD/A motifs) suggests APC/C-Cdh1-mediated proteolysis distinct from AURKA/B (Vats et al., 2025; Lindon et al., 2016).  
+• Allosteric activation is achieved through binding of phosphorylated INCENP, which locks the kinase in the active conformation (Abdul Azeez et al., 2019).
+
+## Function  
+AURKC is most abundant in testis germ cells, with lower basal expression in placenta, lung, bladder and skeletal muscle (Sarı & Özsoy, 2024). As the catalytic core of the CPC (with INCENP, BIRC5 and CDCA8), it governs chromosome alignment, kinetochore–microtubule attachment, spindle-assembly checkpoint function and cytokinesis in mitosis and meiosis (Unknown Authors, 2021; Goldenson & Crispino, 2015). AURKC is largely redundant with AURKB and can compensate for AURKB loss in mitotic cells (Goldenson & Crispino, 2015). Downstream phosphorylation of histone H3 facilitates chromatin condensation, while phosphorylation of TACC1 promotes spindle stability, supporting faithful chromosome segregation (Sarı & Özsoy, 2024; Abdul Azeez et al., 2019).
+
+## Inhibitors  
+• VX-680 (tozasertib): IC₅₀ = 4.6 nM; crystal structure shows ATP-site binding that partially disrupts INCENP contacts (Kovacs et al., 2023; Abdul Azeez et al., 2019).  
+• BRD-7880: nanomolar affinity for Aurora B/C; binds the hinge region while preserving the INCENP interface, retaining the active conformation (Abdul Azeez et al., 2019).  
+• CCT137690: IC₅₀ = 19 nM (Kovacs et al., 2023).
+
+## Other Comments  
+Germline mutations Y248*, W279* and c.T1093C in AURKC cause macrozoospermia and male infertility (Sarı & Özsoy, 2024; Santos et al., 2011; Moraes et al., 2024). Over-expression of AURKC has been detected in several epithelial cancers, suggesting oncogenic potential (Sarı & Özsoy, 2024).
+
+## 9. References  
+Abdul Azeez, K. R., Chatterjee, S., Yu, C., Golub, T. R., Sobott, F., & Elkins, J. M. (2019). Structural mechanism of synergistic activation of aurora kinase B/C by phosphorylated INCENP. Nature Communications, 10, 1–13. https://doi.org/10.1038/s41467-019-11085-0  
+
+Goldenson, B. H., & Crispino, J. D. (2015). The Aurora kinases in cell cycle and leukemia. Oncogene, 34, 537–545. https://doi.org/10.1038/onc.2014.14  
+
+Kovacs, A. H., Zhao, D.-J., & Hou, J. (2023). Aurora B inhibitors as cancer therapeutics. Molecules, 28, 3385. https://doi.org/10.3390/molecules28083385  
+
+Lindon, C., Grant, R., & Min, M. (2016). Ubiquitin-mediated degradation of Aurora kinases. Frontiers in Oncology, 5, 307. https://doi.org/10.3389/fonc.2015.00307  
+
+Moraes, B., Gomes, H., Saramago, L., Braz, V., Parizi, L. F., Braz, G., Vaz, I. S., Logullo, C., & Moraes, J. (2024). Aurora kinase as a putative target to tick control. Parasitology, 151, 983–991. https://doi.org/10.1017/S003118202400101X  
+
+Moura, D. S. (2016). Roles of human VRK1 Ser-Thr kinase in the regulation of cell proliferation (Doctoral thesis). Ediciones Universidad de Salamanca. https://doi.org/10.14201/gredos.132914  
+
+Santos, M. A., van de Werken, C., de Vries, M., Jahr, H., Vromans, M. J. M., Laven, J., Fauser, B., Kops, G., Lens, S., & Baart, E. (2011). A role for Aurora C in the chromosomal passenger complex during human preimplantation embryo development. Human Reproduction, 26, 1868–1881. https://doi.org/10.1093/humrep/der111  
+
+Sarı, S., & Özsoy, E. R. (2024). Aurora kinases: Their role in cancer and cellular processes. Türk Doğa ve Fen Dergisi, 13, 128–139. https://doi.org/10.46810/tdfd.1476374  
+
+Unknown Authors. (2021). Disrupting inhibitory-κB kinase (IKK)–Aurora kinase signalling in prostate cancer cells (pp. 45–53).  
+
+Vats, P., Saini, C., Baweja, B., Srivastava, S. K., Kumar, A., Kushwah, A. S., & Nema, R. (2025). Aurora kinases signalling in cancer: From molecular perception to targeted therapies. Molecular Cancer, 24, 1–25. https://doi.org/10.1186/s12943-025-02353-3  
+
+Willems, E., Dedobbeleer, M., Digregorio, M., Lombard, A., Lumapat, P. N., & Rogister, B. (2018). The functional diversity of Aurora kinases: A comprehensive review. Cell Division, 13, 7. https://doi.org/10.1186/s13008-018-0040-6

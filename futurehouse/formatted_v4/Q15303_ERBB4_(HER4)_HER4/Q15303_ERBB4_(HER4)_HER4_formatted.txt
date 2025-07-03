@@ -1,0 +1,46 @@
+Phylogeny  
+ErbB4 is a tyrosine-protein kinase belonging to the ErbB (EGFR/HER) sub-family within the Tyrosine Kinase group. Its cytoplasmic domain shares ~79 % amino-acid identity with EGFR/HER1 (El-Gamal et al., 2021). Vertebrate orthologues are conserved; genetic ablation of Mus musculus Erbb4 causes embryonic cardiac and neural defects (Monsey et al., 2010).
+
+Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + protein-L-tyrosine-phosphate (Qiu et al., 2008).
+
+Cofactor Requirements  
+Catalytic activity is divalent-cation dependent; in vitro assays are typically carried out with 10 mM Mn²⁺ (Qiu et al., 2008).
+
+Substrate Specificity  
+Phosphorylates generic tyrosine-containing peptides; biochemical assays have not identified a strict consensus motif (Qiu et al., 2008).
+
+Structure  
+ErbB4 comprises an ectodomain of four β-hairpin subdomains linked to a JM-a stalk, a single transmembrane helix, an intracellular juxtamembrane segment, a bilobed kinase domain, and a C-terminal tail containing multiple autophosphorylation sites (El-Gamal et al., 2021; Río et al., 2000). Crystal structures of the isolated kinase bound to AMP-PNP or lapatinib display canonical N- and C-lobes with an activation loop that toggles between active and inactive conformations; lapatinib occupies the ATP-binding pocket (Qiu et al., 2008). Catalytic features include Lys726 (β3) for ATP anchoring, Asp836/Phe837 (HRD motif) for catalysis and spine assembly, and Thr771/Met774 lining the adenine pocket (Sahu et al., 2017). Signal activation requires formation of asymmetric C-lobe/N-lobe dimers analogous to EGFR, a cooperative and concentration-dependent process (Monsey et al., 2010). The JM-a sequence confers unique susceptibility to TACE cleavage, absent in other ErbBs (Río et al., 2000).
+
+Regulation  
+Ligand binding by neuregulins 1–4, betacellulin, epiregulin or HB-EGF triggers homo- or heterodimerization followed by trans-autophosphorylation (El-Gamal et al., 2021). Principal autophosphorylation sites are Y984, Y1056 and Y1188 (Ojala et al., 2024). Feedback phosphorylation by ERK attenuates signalling (El-Gamal et al., 2021). The JM-a isoform undergoes sequential cleavage by TACE and γ-secretase, generating a nuclear intracellular domain (ICD) that associates with STAT5A (Río et al., 2000; Määttä et al., 2006). Heterodimerization with HER2 augments kinase activity, while co-expression with HER3 amplifies downstream Akt and ERK phosphorylation (Monsey et al., 2010; Wandinger et al., 2016). Cancer-associated mutations (e.g., K935I, Y285C, D595V) enhance dimerization, autophosphorylation and ICD release (El-Gamal et al., 2021).
+
+Function  
+ErbB4 is widely expressed in fetal heart, nervous system, basal epidermis, skeletal muscle neuromuscular junctions, adult cardiomyocytes and mammary epithelium (El-Gamal et al., 2021). It is essential for cardiac trabeculation, neural crest migration, axon guidance, and mammary gland differentiation/lactation (El-Gamal et al., 2021). Upon activation it engages PI3K/AKT and MAPK cascades; neuregulin-stimulated homodimers induce BRCA1 expression and G2/M checkpoint activation, slowing proliferation in breast cancer cells (El-Gamal et al., 2021). Co-expression with HER3 strengthens Akt-Ser474 and MEK/ERK phosphorylation after neuregulin stimulation (Wandinger et al., 2016). The cleaved nuclear ICD partners with STAT5A to regulate transcription (Määttä et al., 2006).
+
+Inhibitors  
+Reversible ATP-competitive inhibitors: lapatinib (Ki = 347 nM), gefitinib (Ki = 1.1 µM), erlotinib (Ki = 1.5 µM) and AC-480/BMS-599626 (IC₅₀ = 190 nM) (Bose & Zhang, 2009; El-Gamal et al., 2021).  
+Irreversible inhibitors: canertinib (IC₅₀ = 14 nM), ibrutinib (covalent), pyrotinib (pan-HER) and imidazo[2,1-b]thiazole derivatives (Compound I IC₅₀ = 15.24 nM; Compound II IC₅₀ = 17.70 nM) showing >60-fold kinome selectivity (El-Gamal et al., 2021; Sahu et al., 2017).
+
+Other Comments  
+Phosphorylated ErbB4 correlates with poor prognosis in glioblastoma, melanoma and gastric cancer, whereas high total ErbB4 expression predicts favourable outcomes in bladder and hormone-sensitive prostate cancers (El-Gamal et al., 2021). Recurrent activating mutations can confer resistance to targeted therapies (Ojala et al., 2024).
+
+References  
+Bose, R., & Zhang, X. (2009). The ErbB kinase domain: Structural perspectives into kinase activation and inhibition. Experimental Cell Research, 315(4), 649–658. https://doi.org/10.1016/j.yexcr.2008.07.031  
+
+El-Gamal, M., Mewafi, N. H., Abdelmotteleb, N. E., Emara, M. A., Tarazi, H., Sbenati, R. M., … Anbar, H. S. (2021). A review of HER4 (ErbB4) kinase, its impact on cancer, and its inhibitors. Molecules, 26, 237376. https://doi.org/10.3390/molecules26237376  
+
+Määttä, J. A., Sundvall, M., Junttila, T. T., Peri, L., Laine, V. J. O., Isola, J., … Elenius, K. (2006). Proteolytic cleavage and phosphorylation of a tumor-associated ErbB4 isoform promote ligand-independent survival and cancer cell growth. Molecular Biology of the Cell, 17, 67–79. https://doi.org/10.1091/mbc.e05-05-0402  
+
+Monsey, J., Shen, W., Schlesinger, P., & Bose, R. (2010). HER4 and HER2/neu tyrosine kinase domains dimerize and activate in a reconstituted in vitro system. Journal of Biological Chemistry, 285, 7035–7044. https://doi.org/10.1074/jbc.M109.096032  
+
+Ojala, V. K., Ahonen, S., Tuohisto-Kokko, A., Esparta, O., Suominen, P., Jokilammi, A., … Kurppa, K. J. (2024). Recurrent cancer-associated ERBB4 mutations are transforming and confer resistance to targeted therapies. bioRxiv. https://doi.org/10.1101/2024.12.19.626686  
+
+Qiu, C., Tarrant, M. K., Choi, S. H., Sathyamurthy, A., Bose, R., Banjade, S., … Leahy, D. J. (2008). Mechanism of activation and inhibition of the HER4/ErbB4 kinase. Structure, 16(3), 460–467. https://doi.org/10.1016/j.str.2007.12.016  
+
+Río, C., Buxbaum, J., Peschon, J., & Corfas, G. (2000). Tumor necrosis factor-α-converting enzyme is required for cleavage of ErbB4/HER4. Journal of Biological Chemistry, 275, 10379–10387. https://doi.org/10.1074/jbc.275.14.10379  
+
+Sahu, A., Patra, P. K., Yadav, M., & Varma, M. (2017). Identification and characterization of ErbB4 kinase inhibitors for effective breast cancer therapy. Journal of Receptors and Signal Transduction, 37, 470–480. https://doi.org/10.1080/10799893.2017.1342129  
+
+Wandinger, S., Lahortiga, I., Jacobs, K., Klammer, M., Jordan, N., Elschenbroich, S., … Daub, H. (2016). Quantitative phosphoproteomics analysis of ErbB3/ErbB4 signaling. PLoS ONE, 11(1), e0146100. https://doi.org/10.1371/journal.pone.0146100

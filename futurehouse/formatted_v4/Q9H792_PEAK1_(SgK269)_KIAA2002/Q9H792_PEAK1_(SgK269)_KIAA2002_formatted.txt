@@ -1,0 +1,50 @@
+Phylogeny  
+PEAK1 belongs to the New Kinase Family 3 (NKF3) pseudokinases, clustering with PEAK2/Pragmin and PEAK3 (Ha & Boggon, 2018; Hou et al., 2021). It shares >45 % sequence identity across the kinase fold with PEAK2 (Ha & Boggon, 2018). Phylogenetic analyses indicate that a PEAK1/PEAK2 gene-duplication occurred after divergence from the PEAK3 lineage early in vertebrate evolution (Ounoughene et al., 2021). Orthologues are present in Mus musculus (Peak1) and Danio rerio (peak1a/peak1b), underscoring conservation within vertebrates (Wang et al., 2010; Yang et al., 2024). Because of its extensive low-complexity N-terminus, PEAK1 was initially omitted from the first human kinome survey but is now classified in the “Other/atypical” kinase group (Lopez et al., 2019).  
+
+Reaction Catalyzed  
+ATP + protein → ADP + phosphoprotein; however, neither nucleotide binding nor catalytic turnover has been detected (Ha & Boggon, 2018).  
+
+Cofactor Requirements  
+No divalent‐metal requirement has been reported, consistent with the absence of measurable catalytic activity (Ha & Boggon, 2018).  
+
+Substrate Specificity  
+Large-scale kinase substrate profiling reports no intrinsic kinase activity and thus no consensus phosphorylation motif (Hou et al., 2021). Early in-vitro assays noted only weak autophosphorylation and low-level phosphorylation of myelin basic protein without motif definition (Wang et al., 2010).  
+
+Structure  
+PEAK1 comprises an N-terminal low-complexity segment (~ residues 1–1200) enriched in SH2/SH3 docking motifs, a central split-helical dimerisation (SHED) module, and a C-terminal pseudokinase domain (residues 1330–1664) (Ha & Boggon, 2018; Wang et al., 2010). The crystal structure (PDB 6FJ3) reveals a canonical bilobal kinase fold with an occluded nucleotide pocket. Catalytic motifs are degenerate (HRD → HCD; DFG → NFL), the αC helix is displaced, and both catalytic and regulatory spines are disrupted (Ha & Boggon, 2018). The SHED forms an “XL” four-helix bundle that buries ~ 1900 Å² to mediate obligate dimerisation (Ha & Boggon, 2018). Despite loss of catalytic residues, the pseudokinase core aligns most closely with RET and Aurora A kinase structures (Ha & Boggon, 2018).  
+
+Regulation  
+• Tyrosine phosphorylation  
+  – Y665, Y635 and Y1188 by Src; Y797 by Abl (Hou et al., 2021; Wang et al., 2010; Kelber & Klemke, 2010; Agajanian et al., 2015).  
+• Ser/Thr phosphorylation  
+  – S779 and T783 by ERK (Wang et al., 2010).  
+  – Multiple sites by CaMK2 following binding to an R297-L301-R303 motif (Yang et al., 2024).  
+• Dephosphorylation by the phosphatase PTPN12 (Hou et al., 2021).  
+• Oligomerisation through the SHED domain (homo- or heterodimers with other NKF3 members) is required for signalling (Ha & Boggon, 2018; Hou et al., 2021).  
+
+Function  
+PEAK1 is broadly expressed, with highest levels in brain, kidney and spleen (Wang et al., 2010; Ounoughene et al., 2021). Acting as a scaffolding pseudokinase, it regulates cytoskeletal organisation, focal-adhesion turnover, cell spreading and migration (Ha & Boggon, 2018; Kelber & Klemke, 2010). EGFR and selected integrins drive Src-dependent phosphorylation of PEAK1, initiating signalling (Hou et al., 2021). Reported interactors include Src family kinases, Grb2, Shc1, Csk, Crk/CrkL, Paxillin, p130Cas, FAK, ASAP1, PYK2, CaMK2 isoforms and 14-3-3 proteins (Hou et al., 2021; Yang et al., 2024; Kelber & Klemke, 2010). Downstream pathways comprise the Src–p130Cas–Crk–Paxillin axis, Ras/MAPK via Grb2, an EGFR/Src/ErbB2 amplification loop, JAK1/STAT3 signalling, and a PEAK1–Ca²⁺/CaMK2 feed-forward circuit that promotes migration and invasion (Kelber & Klemke, 2010; Patel et al., 2020; Tactacan et al., 2015; Yang et al., 2024).  
+
+Other Comments  
+PEAK1 is overexpressed in breast, colon (> 80 % of lesions), lung and pancreatic cancers (Kelber & Klemke, 2010; Hou et al., 2021; Patel et al., 2020). High co-expression with CAMK2D correlates with poor prognosis in triple-negative breast cancer (Yang et al., 2024). Overexpression promotes epithelial–mesenchymal transition, whereas knock-down drives mesenchymal–epithelial transition (Hou et al., 2021).  
+
+9. References  
+Agajanian, M., Campeau, A., Hoover, M. Y., Hou, A., Brambilla, D., Kim, S., Klemke, R., & Kelber, J. (2015). PEAK1 acts as a molecular switch to regulate context-dependent TGFβ responses in breast cancer. PLoS ONE. https://doi.org/10.1371/journal.pone.0135748  
+
+Ha, B. H., & Boggon, T. J. (2018). The crystal structure of pseudokinase PEAK1 (Sugen kinase 269) reveals an unusual catalytic cleft and a novel mode of kinase-fold dimerisation. Journal of Biological Chemistry, 293, 1642–1650. https://doi.org/10.1074/jbc.ra117.000751  
+
+Hou, J., Nguyen, E. V., Surudoi, M., Roy, M. J., Patel, O., Lucet, I. S., Ma, X., & Daly, R. J. (2021). PEAK3 pseudokinase represents a pro-migratory and ‑invasive signalling scaffold. bioRxiv. https://doi.org/10.1101/2021.02.17.431740  
+
+Kelber, J. A., & Klemke, R. L. (2010). PEAK1, a novel kinase target in the fight against cancer. Oncotarget, 1, 219–223. https://doi.org/10.18632/oncotarget.128  
+
+Lopez, M. L., Lo, M., Kung, J. E., Dudkiewicz, M., Jang, G. M., Von Dollen, J., … Jura, N. (2019). PEAK3/C19orf35 pseudokinase, a new NFK3 kinase family member, inhibits CRKII through dimerisation. Proceedings of the National Academy of Sciences, 116, 15495–15504. https://doi.org/10.1073/pnas.1906360116  
+
+Ounoughene, Y., Fourgous, E., Boublik, Y., Saland, E., Guiraud, N., Recher, C., … Roche, S. (2021). SHED-dependent oncogenic signalling of the PEAK3 pseudo-kinase. Cancers, 13, 6344. https://doi.org/10.3390/cancers13246344  
+
+Patel, O., Roy, M. J., Murphy, J. M., & Lucet, I. S. (2020). The PEAK family of pseudokinases, their role in cell signalling and cancer. The FEBS Journal. https://doi.org/10.1111/febs.15087  
+
+Tactacan, C. M., Phua, Y. W., Liu, L., Zhang, L., Humphrey, E. S., Cowley, M., … Daly, R. J. (2015). The pseudokinase SGK223 promotes invasion of pancreatic ductal epithelial cells through JAK1/STAT3 signaling. Molecular Cancer. https://doi.org/10.1186/s12943-015-0412-3  
+
+Wang, Y., Kelber, J. A., Tran Cao, H. S., Cantin, G. T., Lin, R., Wang, W., … Klemke, R. L. (2010). Pseudopodium-enriched atypical kinase 1 regulates the cytoskeleton and cancer progression. Proceedings of the National Academy of Sciences, 107, 10920–10925. https://doi.org/10.1073/pnas.0914776107  
+
+Yang, X., Ma, X., Zhao, T., Croucher, D. R., Nguyen, E. V., Clark, K. C., … Daly, R. J. (2024). Feed-forward stimulation of CaMK2 by the oncogenic pseudokinase PEAK1 generates a therapeutically “actionable” signalling axis in triple negative breast cancer. bioRxiv. https://doi.org/10.1101/2024.02.14.580406

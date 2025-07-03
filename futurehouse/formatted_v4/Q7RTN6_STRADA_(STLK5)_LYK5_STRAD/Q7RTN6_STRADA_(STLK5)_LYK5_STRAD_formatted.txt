@@ -1,0 +1,53 @@
+## Phylogeny  
+STRADα is a member of the STE20 group of the human kinome and contains a pseudokinase domain related to SPAK and ILPIP (Baas et al., 2003; Smith et al., 2021). A single vertebrate duplication generated the paralogue STRADβ, leaving STRADα as the ancestral branch (Veleva-Rotse et al., 2014). Verified orthologues are present in Mus musculus (Strada), Drosophila melanogaster (Strad) and Caenorhabditis elegans (strd-1) (Baas et al., 2003; Narbonne et al., 2010). No homologue is detected in Saccharomyces cerevisiae, consistent with co-evolution alongside LKB1 in metazoans (Narbonne et al., 2010).
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-Ser/Thr-P.  
+(Note: no phosphotransfer activity has been detected; STRADα behaves as a catalytically inactive pseudokinase) (Zeqiraj et al., 2009; Baas et al., 2003).
+
+## Cofactor Requirements  
+ATP binds in the absence of Mg²⁺ or other divalent cations (Zeqiraj et al., 2009).
+
+## Substrate Specificity  
+Radioactive, in-gel and large-scale profiling assays detect no phosphorylation of generic Ser/Thr substrates; consequently, no consensus motif is assigned (Baas et al., 2003; Zeqiraj et al., 2009; Smith et al., 2021).
+
+## Structure  
+• Single ~430-residue pseudokinase adopting the canonical bilobal fold (Zeqiraj et al., 2009).  
+• Crystal structures of the LKB1–STRADα–MO25α heterotrimer (2.65 Å) show STRADα in a closed, “active-like” conformation with bound AMP-PNP (Zeqiraj et al., 2009).  
+• Catalytic motifs are degenerate: HRD Asp → Ser232; DFG → GLR240-242, rationalising loss of activity (Zeqiraj et al., 2009).  
+• αC-helix, WEF motif, p+1 loop and αEF/αF loop create the docking surface for LKB1, while MO25α clamps the ordered LKB1 activation loop (Zeqiraj et al., 2009).  
+• Solution studies reveal interchangeable “GLR-in” (closed) and “GLR-out” (open) nucleotide-binding states (Smith et al., 2021).
+
+## Regulation  
+• LKB1 phosphorylates STRADα on Thr329 and Thr419 (Baas et al., 2003).  
+• In LKB1-null cancer cells, STRADα is poly-ubiquitinated and degraded via Hsp90- and proteasome-dependent pathways (Eggers et al., 2012).  
+• Multiple leucine-rich NESs drive CRM1/Exportin-7-dependent cytoplasmic localisation of the STRADα–LKB1 complex (Smith et al., 2021).  
+• Cooperative binding of ATP and MO25α locks STRADα in the closed conformation required for full LKB1 activation; loss of either interaction abolishes activation (Zeqiraj et al., 2009).
+
+## Function  
+STRADα is broadly expressed, with enrichment in brain, skeletal muscle and diverse epithelia (Veleva-Rotse et al., 2014). It forms a 1:1:1 complex with STK11/LKB1 and CAB39/MO25, stabilising LKB1 and greatly enhancing its kinase activity (Zeqiraj et al., 2009). Activated LKB1 phosphorylates AMPK and twelve related kinases, promoting catabolic metabolism and suppressing mTOR-dependent anabolism (Trelford & Shepherd, 2024). STRADα-mediated nuclear export of LKB1 is essential for epithelial and neuronal polarity (Trelford & Shepherd, 2024). In LKB1-deficient tumour cells, STRADα independently restrains Rac1–PAK1 signalling, limiting motility and invasion (Eggers et al., 2012).
+
+## Inhibitors  
+Fragment screens identified compound 11 and related scaffolds that bind the “GLR-out” pocket, thermally stabilising STRADα and providing chemical probes for pseudokinase pharmacology (Smith et al., 2021).
+
+## Other Comments  
+• A homozygous truncation at residue 251 disrupts LKB1 binding and causes polyhydramnios-megalencephaly-symptomatic epilepsy (PMSE) syndrome (Zeqiraj et al., 2009).  
+• STRADα-null mice die perinatally and display cortical axogenesis defects, recapitulating the human PMSE phenotype (Veleva-Rotse et al., 2014).  
+• Many tumour-derived LKB1 mutants fail to engage the STRADα–MO25 scaffold, underscoring the complex’s role in tumour suppression (Eggers et al., 2012).
+
+## References  
+Baas, A., Boudeau, J., Sapkota, G. P., Smit, L., Medema, R., Morrice, N., Alessi, D., & Clevers, H. (2003). Activation of the tumour suppressor kinase LKB1 by the STE20-like pseudokinase STRAD. The EMBO Journal, 22, 3062–3072. https://doi.org/10.1093/emboj/cdg292  
+
+Eggers, C. M., Kline, E. R., Zhong, D., Zhou, W., & Marcus, A. I. (2012). STE20-related kinase adaptor protein α (STRADα) regulates cell polarity and invasion through PAK1 signaling in LKB1-null cells. Journal of Biological Chemistry, 287, 18758–18768. https://doi.org/10.1074/jbc.M111.316422  
+
+Narbonne, P., Hyenne, V., Li, S., Labbé, J., & Roy, R. (2010). Differential requirements for STRAD in LKB1-dependent functions in C. elegans. Development, 137, 661–670. https://doi.org/10.1242/dev.042044  
+
+Smith, R. H. B., Khan, Z. M., Ung, P. M.-U., Scopton, A. P., Silber, L., Mack, S. M., Real, A. M., Schlessinger, A., & Dar, A. C. (2021). Type II binders targeting the “GLR-out” conformation of the pseudokinase STRADα. Biochemistry, 60, 289–302. https://doi.org/10.1021/acs.biochem.0c00714  
+
+Trelford, C. B., & Shepherd, T. G. (2024). LKB1 biology: Assessing the therapeutic relevancy of LKB1 inhibitors. Cell Communication and Signaling. https://doi.org/10.1186/s12964-024-01689-5  
+
+Veleva-Rotse, B. O., Smart, J. L., Baas, A. F., Edmonds, B., Zhao, Z.-m., Brown, A., Klug, L. R., Hansen, K., Reilly, G., Gardner, A. P., Subbiah, K., Gaucher, E. A., Clevers, H., & Barnes, A. P. (2014). STRAD pseudokinases regulate axogenesis and LKB1 stability. Neural Development, 9, 5. https://doi.org/10.1186/1749-8104-9-5  
+
+Zeqiraj, E., Filippi, B. M., Goldie, S., Navratilova, I., Boudeau, J., Deak, M., Alessi, D. R., & van Aalten, D. M. F. (2009). ATP and MO25α regulate the conformational state of the STRADα pseudokinase and activation of the LKB1 tumour suppressor. PLoS Biology, 7, e1000126. https://doi.org/10.1371/journal.pbio.1000126  
+
+Zeqiraj, E., Filippi, B. M., Deak, M., Alessi, D. R., & van Aalten, D. M. F. (2009). Structure of the LKB1-STRAD-MO25 complex reveals an allosteric mechanism of kinase activation. Science, 326, 1707–1711. https://doi.org/10.1126/science.1178377

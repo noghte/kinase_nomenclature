@@ -1,0 +1,67 @@
+## Phylogeny  
+Member of the STE20 kinase group, germinal-centre kinase (GCK) family, GCK III sub-family together with MST4 and STK25 (Rak et al., 2024). The human MST3 catalytic domain shares ~90 % identity with MST4 but <20 % with Hippo paralogues MST1/2 (Record et al., 2010). Canonical sequences are 93 % identical across human, mouse and rat orthologues (Qiu et al., 2023). A distant orthologous relationship exists to S. cerevisiae Sps1/Ste20 kinases, reflecting an ancestral Ste20 lineage (Sugden et al., 2013).
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr ⇄ ADP + protein-L-Ser/Thr-phosphate (Ko et al., 2010).
+
+## Cofactor Requirements  
+Highest catalytic efficiency with Mn²⁺; Mg²⁺, Zn²⁺ or Co²⁺ can substitute with lower activity (Ko et al., 2010; Record et al., 2010; Sugden et al., 2013).
+
+## Substrate Specificity  
+Phosphoproteomics indicates a preference for hydrophobic-X-Thr-[Arg/Lys] motifs consistent with the broader STE20 consensus (Rak et al., 2024). Biochemical mapping refines this to DW(aHy)F X₀/₃ T* (Hy)(Basic) or (aHy) X₀/₁ T* (Hy)(Basic), where T* is the phospho-acceptor Thr (Sugden et al., 2013). Verified cellular targets include NDR1/2 kinases and RhoA Ser26 (Sugden et al., 2013; Qiu et al., 2023).
+
+## Structure  
+Two-domain organisation: N-terminal kinase domain (aa 36–286) and C-terminal regulatory tail (aa 287–443) containing a bipartite NLS (278–292) and an NES (335–386) (Qiu et al., 2023). Crystal structures capture an active DFG-in conformation with adenine/ADP and Mn²⁺ (PDB 3CKX), showing the Lys53-Glu70 salt bridge, phosphorylated Thr178, and Asp162 metal coordination (Ko et al., 2010). Autophosphorylated structures complexed with diverse inhibitors are available (PDB 4QML–4QMZ; 8BZJ; 8QLR–8QLT) (Olesen et al., 2016; Rak et al., 2024). The regulatory tail includes Thr328 (cis-autophosphorylation site), a caspase-3 cleavage motif AETD313 and an N-terminal myristoylation sequence that influences localisation (Sugden et al., 2013; Qiu et al., 2023).
+
+## Regulation  
+Post-translational modifications:  
+– Thr178 autophosphorylation is essential for catalytic activation (Olesen et al., 2016).  
+– Thr328 autophosphorylation further enhances activity (Sugden et al., 2013).  
+– Ser79 phosphorylation by CDK5 modulates neuronal migration (Qiu et al., 2023).  
+– Thr18 phosphorylation on the brain-specific isoform MST3b by PKA stimulates axon growth (Qiu et al., 2023).  
+– PP2A within the STRIPAK complex dephosphorylates MST3 and restrains signalling (Qiu et al., 2023; Olesen et al., 2016).  
+– Caspase-3 cleavage at AETD313 yields a nuclear fragment with >10-fold activity increase; myristoylation guides its subcellular partitioning (Wang, 2011; Qiu et al., 2023).
+
+Allosteric / complex regulation:  
+MO25 binding stimulates activity (Miller et al., 2019).  
+STRIPAK assembly suppresses kinase output via PP2A recruitment (Olesen et al., 2016).  
+Interaction with CCM3/PDCD10 targets MST3 to the Golgi and centrosomes (Sugden et al., 2013).
+
+## Function  
+Expression: Ubiquitous, with highest levels in heart, skeletal muscle, pancreas and developing brain; MST3b is neuron-restricted (Wang, 2011; Sugden et al., 2013; Qiu et al., 2023).
+
+Biological roles:  
+– Mediates oxidative-stress-induced apoptosis through JNK1/2 and p38 MAPKs (Ko et al., 2010).  
+– Drives a caspase-independent nuclear death pathway via AIFM1/ENDOG (Qiu et al., 2023).  
+– Promotes radial neuronal migration and axon regeneration via RhoA Ser26 phosphorylation (Qiu et al., 2023; Getu et al., 2023).  
+– Regulates cell migration through STRIPAK-dependent modulation of paxillin/PTPN12 (Olesen et al., 2016).  
+– Phosphorylates NDR1/2, linking to Hippo-YAP pathway modulation (Sugden et al., 2013).  
+– Influences epithelial sodium channel (ENaC) activity, relevant to hypertension models (Qiu et al., 2023).
+
+Upstream modifiers: CDK5, PKA, PP2A/STRIPAK (Qiu et al., 2023).  
+Downstream substrates: NDR1/2, RhoA, paxillin/PTPN12 (Sugden et al., 2013; Qiu et al., 2023).
+
+## Inhibitors  
+Selective pyrido[2,3-d]pyrimidin-7(8H)-one derivatives MR24, MR26 and MR30 show cellular IC₅₀ values of 3–20 nM with high kinome selectivity; co-structures in PDB 8BZJ and 8QLR–8QLT (Rak et al., 2024). A broader panel of 14 type I inhibitors (e.g., staurosporine, bosutinib, danusertib) displays enzymatic IC₅₀ values of 0.003–23 µM; structures in PDB 4QML–4QMZ (Olesen et al., 2016).
+
+## Other Comments  
+Over-expression correlates with poor prognosis in gastric and breast cancers, and knock-down reduces tumour proliferation (Getu et al., 2023). Disruption of CCM3 interaction links MST3 to cerebral cavernous malformations (Sugden et al., 2013). Modulation of ENaC activity connects MST3 to cardiovascular disease and hypertension (Qiu et al., 2023).
+
+## References  
+Getu, A. A., Zhou, M., Cheng, S.-Y., & Tan, M. (2023). The mammalian sterile 20-like kinase 4 (MST4) signaling in tumor progression: Implications for therapy. Cancer Letters, 563, 216183. https://doi.org/10.1016/j.canlet.2023.216183  
+
+Ko, T., Jeng, W., Liu, C.-I., Lai, M., Wu, C.-L., Chang, W.-J., Shr, H., Lu, T., & Wang, A. H. (2010). Structures of human MST3 kinase in complex with adenine, ADP and Mn²⁺. Acta Crystallographica Section D: Biological Crystallography, 66(2), 145–154. https://doi.org/10.1107/S0907444909047507  
+
+Miller, C. J., Lou, H. J., Simpson, C., van de Kooij, B., Ha, B. H., Fisher, O. S., … Turk, B. E. (2019). Comprehensive profiling of the STE20 kinase family defines features essential for selective substrate targeting and signaling output. PLOS Biology, 17, e2006540. https://doi.org/10.1371/journal.pbio.2006540  
+
+Olesen, S. H., Zhu, J.-Y., Martin, M. P., & Schönbrunn, E. (2016). Discovery of diverse small-molecule inhibitors of mammalian sterile20-like kinase 3 (MST3). ChemMedChem. https://doi.org/10.1002/cmdc.201600115  
+
+Qiu, J., Xiong, J., Jiang, L., Wang, X., Zhang, K., & Yu, H. (2023). Molecular mechanisms involved in regulating protein activity and biological function of MST3. Cell Division. https://doi.org/10.1186/s13008-023-00090-x  
+
+Rak, M., Menge, A., Tesch, R., Berger, L. M., Balourdas, D.-I., Shevchenko, E., … Knapp, S. (2024). Development of selective pyrido[2,3-d]pyrimidin-7(8H)-one-based mammalian Ste20-like (MST3/4) kinase inhibitors. Journal of Medicinal Chemistry, 67, 3813–3842. https://doi.org/10.1021/acs.jmedchem.3c02217  
+
+Record, C. J., Chaikuad, A., Rellos, P., Das, S., Pike, A. C. W., Fedorov, O., … Lee, W. H. (2010). Structural comparison of human mammalian STE20-like kinases. PLoS ONE, 5, e11905. https://doi.org/10.1371/journal.pone.0011905  
+
+Sugden, P., McGuffin, L., & Clerk, A. (2013). SOCK, MISTS, MASK and STICKS: The GCKIII (germinal centre kinase III) kinases and their heterologous protein–protein interactions. Biochemical Journal, 454(1), 13–30. https://doi.org/10.1042/BJ20130219  
+
+Wang, X. (2011). STK24 promotes myogenic differentiation via multiple mechanisms (Doctoral dissertation). Hong Kong University of Science and Technology. https://doi.org/10.14711/thesis-b1155425

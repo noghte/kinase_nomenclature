@@ -1,0 +1,64 @@
+Phylogeny  
+• Classified within the Ca²⁺/calmodulin-dependent protein kinase (CaMK) group, CAMK1/2 branch of the human kinome (Byrne et al., 2023).  
+• Closest paralogue is PSKH2, a catalytically impaired pseudokinase that diverged from PSKH1 but retains the kinase fold (Byrne et al., 2023).  
+• Shares conserved catalytic and regulatory motifs with CaMK1γ and CaMK2 (“Illuminating the Regulation…”, 2024, pp. 9–11).  
+• PSKH1 orthologues are present throughout vertebrates, whereas PSKH2 is lost from mouse and rat genomes, indicating differential evolutionary retention (Shrestha et al., 2020).
+
+Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-Ser/Thr-P (“Illuminating the Regulation…”, 2024, pp. 78–84, 131–137).
+
+Cofactor Requirements  
+• Mg²⁺ is obligatory for phosphotransfer (“Illuminating the Regulation…”, 2024, pp. 78–84).  
+• Ca²⁺/calmodulin enhances, but is not essential for, basal activity (“Illuminating the Regulation…”, 2024, pp. 101–108, 131–137).
+
+Substrate Specificity  
+• Positional-scanning peptide arrays defined a basophilic consensus L-x-R-T-x-S*-F-x-x-x with a strict Arg at –3 and a strong preference for serine over threonine as the phospho-acceptor (“Illuminating the Regulation…”, 2024, pp. 175–180).  
+• Independent profiling confirmed the Arg(–3) bias and overall serine selectivity (Horne et al., 2025).
+
+Structure  
+• N-terminus (res. 1–30): dual lipidation sites Gly2 (N-myristoylation) and Cys3 (palmitoylation) plus a PxxP SH3-binding motif (“Illuminating the Regulation…”, 2024, pp. 201–206).  
+• Two calmodulin-binding domains (CBDs): an N-terminal CBD (~80–100; inverted 1-5-8 motif, Phe90 anchor) and a C-terminal CBD containing autophospho-Ser372 that modulates CaM affinity (“Illuminating the Regulation…”, 2024, pp. 140–144).  
+• Catalytic core (≈86–424) retains canonical VAIK (Lys104), HRD (Asp218) and DFG (Asp254) motifs; deletions beyond residue 98 abolish activity (“Illuminating the Regulation…”, 2024, pp. 140–144).  
+• Activation segment sites: Thr256 (major autophosphorylation), Thr260, Ser363 and Ser372 (“Illuminating the Regulation…”, 2024, pp. 101–108, 140–144).  
+• AlphaFold2 predicts a head-to-toe homodimer that can engage CaM at both termini; no crystal or NMR structure is available (model AF-P11801-F1) (“Illuminating the Regulation…”, 2024, pp. 140–144).
+
+Regulation  
+Post-translational modifications  
+– Cis-autophosphorylation at Thr256, Thr260, Ser363 and Ser372 increases catalytic turnover (“Illuminating the Regulation…”, 2024, pp. 101–108, 140–144).  
+– N-myristoylation (Gly2) and palmitoylation (Cys3) drive membrane and Golgi localisation (“Illuminating the Regulation…”, 2024, pp. 201–206).  
+
+Allosteric control  
+– Ca²⁺/calmodulin modestly stimulates activity at low Ca²⁺ (“Illuminating the Regulation…”, 2024, pp. 131–137).  
+– Ca²⁺ sensors Reticulocalbin-1/-3 suppress autophosphorylation and catalytic output, whereas calumenin selectively reduces autophosphorylation (“Illuminating the Regulation…”, 2024, pp. 131–137).  
+– UNC119B binds the kinase domain and enhances activity independently of N-terminal acylation (Horne et al., 2025).  
+– Glucose withdrawal up-regulates kinase activity, linking PSKH1 to metabolic stress (“Illuminating the Regulation…”, 2024, pp. 16–21).
+
+Function  
+Expression & localisation  
+• Broadly expressed with highest levels in testis; over-expressed in prostate, lung and kidney cancers (Horne et al., 2025; “Illuminating the Regulation…”, 2024, pp. 21–24).  
+• Localises to Golgi, centrosome, nucleus and, when dually acylated, the plasma membrane (“Illuminating the Regulation…”, 2024, pp. 189–193, 201–206).
+
+Signalling roles  
+• Phosphorylates SR-rich splice factors, modulating pre-mRNA splicing (“Illuminating the Regulation…”, 2024, pp. 16–21).  
+• Acts as a metabolic sensor that promotes fatty-acid utilisation and prostate cancer cell proliferation under glucose scarcity (“Illuminating the Regulation…”, 2024, pp. 175–180, 189–193).  
+• Regulates vesicle trafficking and cell migration via interactions with SORBS1, PAK4 and other actin-related proteins (“Illuminating the Regulation…”, 2024, pp. 210–214).  
+• Direct substrate: phosphorylates RSK1 at Ser380, facilitating PDK1-dependent RSK1 activation and downstream inhibition of eEF2K (“Illuminating the Regulation…”, 2024, pp. 180–185).  
+• Upstream kinase: PAK1 can phosphorylate PSKH1 Thr256 in vitro (“Illuminating the Regulation…”, 2024, pp. 157–163).  
+• Interactome includes Golgi resident GOLGA8R and Ca²⁺ sensor Reticulocalbin-3 (Horne et al., 2025).
+
+Inhibitors  
+• ATP-competitive compound “C2” inhibits PSKH1 and blocks proliferation of PSKH1-positive prostate cancer cells under glucose stress (“Illuminating the Regulation…”, 2024, pp. 175–180).  
+• Chemoproteomic screens identified afatinib and neratinib as covalent binders, although potency was not reported (Shrestha et al., 2020).
+
+Other Comments  
+• Disease links: driver of metastatic prostate cancer, loss-of-function mutations associated with hepatorenal ciliopathy, and P66L/R79L variants linked to Crohn’s disease (“Illuminating the Regulation…”, 2024, pp. 175–180, 201–206; Horne et al., 2025).  
+• Experimental gap: lack of a phospho-Thr256–specific antibody hampers direct monitoring of activation-loop status (“Illuminating the Regulation…”, 2024, pp. 157–163).
+
+References  
+Byrne, D. P., Shrestha, S., Daly, L. A., Marensi, V., Ramakrishnan, K., Eyers, C. E., Kannan, N., & Eyers, P. A. (2023). Evolutionary and cellular analysis of the ‘dark’ pseudokinase PSKH2. Biochemical Journal, 480, 141–160. https://doi.org/10.1042/BCJ20220474  
+
+Horne, C. R., Dite, T. A., Young, S. N., Mather, L. J., Dagley, L. F., Johnson, J. L., … Murphy, J. M. (2025). PSKH1 kinase activity is differentially modulated via allosteric binding of Ca²⁺ sensor proteins. Proceedings of the National Academy of Sciences. https://doi.org/10.1073/pnas.2420961122  
+
+Shrestha, S., Byrne, D. P., Harris, J. A., Kannan, N., & Eyers, P. A. (2020). Cataloguing the dead: Breathing new life into pseudokinase research. FEBS Journal, 287, 4150–4169. https://doi.org/10.1111/febs.15246  
+
+Unknown Authors. (2024). Illuminating the Regulation of the Dark Kinase PSKH1 (pp. 9–214). [Details unavailable].

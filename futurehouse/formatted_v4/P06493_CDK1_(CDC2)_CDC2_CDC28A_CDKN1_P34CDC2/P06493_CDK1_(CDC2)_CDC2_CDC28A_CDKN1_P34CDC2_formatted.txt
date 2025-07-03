@@ -1,0 +1,58 @@
+## Phylogeny  
+CDK1 is a member of the CMGC protein-kinase group and the founding enzyme of the cyclin-dependent kinase (CDK) family (Manning et al., 2002a). It is highly conserved in all eukaryotes; key yeast orthologues are Cdc28 in Saccharomyces cerevisiae and Cdc2 in Schizosaccharomyces pombe (Manning et al., 2002a; Sánchez & Dynlacht, 2005; Enserink & Kolodner, 2010; Lim & Kaldis, 2013). In mammals CDK1 is the only CDK whose loss is lethal, underscoring its unique, non-redundant role (Brown et al., 2015).  
+
+## Reaction Catalyzed  
+ATP + [protein]-L-serine ⇌ ADP + [protein]-L-serine phosphate  
+ATP + [protein]-L-threonine ⇌ ADP + [protein]-L-threonine phosphate (Lim & Kaldis, 2013; Wang et al., 2023).  
+
+## Cofactor Requirements  
+Requires Mg²⁺ for catalytic activity (Wang et al., 2023).  
+
+## Substrate Specificity  
+CDK1 is a proline-directed Ser/Thr kinase. The minimal consensus sequence is S/T-P; a basic residue (Lys/Arg) or, less frequently, Gly at the +3 position can enhance recognition, giving the expanded motif [S/T]-P-X-[K/R] (Johnson et al., 2023; Sánchez & Dynlacht, 2005).  
+
+## Structure  
+The enzyme displays the canonical bilobal kinase fold (~200 aa catalytic core) with an N-terminal ATP-binding lobe and a predominantly helical C-terminal lobe (Brown et al., 2015; Fischer & Lane, 2000). Key regulatory elements include:  
+• PSTAIRE helix (cyclin-binding)  
+• Activation (T) loop containing Thr161  
+Crystal structures of human CDK1 bound to cyclin B reveal conformational plasticity that can be exploited for inhibitor design (Brown et al., 2015).  
+
+## Regulation  
+• Cyclin binding – mainly cyclins A and B – is required for activity; binding repositions the T-loop (Brown et al., 2015; Lim & Kaldis, 2013).  
+• Activating phosphorylation of Thr161 by CDK-activating kinase (CAK; CDK7 complex) completes activation (Brown et al., 2015; Enserink & Kolodner, 2010).  
+• Inhibitory phosphorylation at Thr14 and Tyr15 by Wee1 and Myt1 blocks ATP binding (Brown et al., 2015; Lim & Kaldis, 2013; Wang et al., 2023).  
+• Cdc25 phosphatases (CDC25A/B/C) remove the inhibitory phosphates to trigger mitotic entry (Enserink & Kolodner, 2010; Wang et al., 2023).  
+• Accessory proteins Cks1/2 facilitate docking of primed substrates (Brown et al., 2015).  
+• Additional control occurs via transcription, translation (e.g., NSUN2-mediated mRNA methylation) and proteolysis (Wang et al., 2023).  
+
+## Function  
+CDK1 is the master regulator of the eukaryotic cell cycle. In complex with cyclins A/B it drives the G2/M transition and many mitotic events; it also contributes to the G1/S transition (Brown et al., 2015; Lim & Kaldis, 2013; Wang et al., 2023). Hundreds of substrates are phosphorylated to coordinate chromosome condensation (Histone H1), nuclear-envelope breakdown (lamins A/B), spindle assembly (KIF4A, CENPA, SKA3), checkpoint control (CDC20, CDC25C, WEE1) and cytokinesis (Enserink & Kolodner, 2010; Payton et al., 2006; Wang et al., 2023). CDK1 also participates in DNA replication, DNA-damage repair, genome stability and, in a kinase-independent manner, transcriptional regulation via proteasome recruitment (Enserink & Kolodner, 2010).  
+
+## Inhibitors  
+ATP-competitive small molecules include the pan-CDK inhibitor roscovitine (CYC202); more selective agents are RO-3306 and CGP-74514A (Brown et al., 2015; Wang et al., 2023). Additional pan-CDK drugs with CDK1 activity are flavopiridol, dinaciclib and roniciclib (Wang et al., 2023). Natural protein inhibitors such as p16^INK4 and p21^WAF1 also antagonize CDK1 (Fischer & Lane, 2000).  
+
+## Other Comments  
+CDK1 overexpression or dysregulation is common in many cancers and correlates with aggressive disease and poor prognosis, making it an attractive therapeutic target (Brown et al., 2015; Wang et al., 2023). Complete genetic ablation of CDK1 is embryonically lethal in mammals, reflecting its essential role (Payton et al., 2006).  
+
+## References  
+Brown, N. R., Korolchuk, S., Martin, M. P., Stanley, W. A., Moukhametzianov, R., Noble, M. E. M., & Endicott, J. A. (2015). CDK1 structures reveal conserved and unique features of the essential cell cycle CDK. Nature Communications, 6, 6769. https://doi.org/10.1038/ncomms7769  
+
+Enserink, J., & Kolodner, R. (2010). An overview of CDK1-controlled targets and processes. Cell Division, 5, 11. https://doi.org/10.1186/1747-1028-5-11  
+
+Fischer, P., & Lane, D. (2000). Inhibitors of cyclin-dependent kinases as anti-cancer therapeutics. Current Medicinal Chemistry, 7, 1213–1245. https://doi.org/10.2174/0929867003374048  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Lim, S., & Kaldis, P. (2013). CDKs, cyclins and CKIs: roles beyond cell cycle regulation. Development, 140, 3079–3093. https://doi.org/10.1242/dev.091744  
+
+Manning, G., Plowman, G. D., Hunter, T., & Sudarsanam, S. (2002). Evolution of protein kinase signaling from yeast to man. Trends in Biochemical Sciences, 27, 514–520. https://doi.org/10.1016/S0968-0004(02)02179-5  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Nigg, E. A. (1995). Cyclin-dependent protein kinases: key regulators of the eukaryotic cell cycle. BioEssays, 17, 471–480. https://doi.org/10.1002/bies.950170603  
+
+Payton, M., Chung, G., Yakowec, P., Wong, A., Powers, D., Xiong, L., … Coats, S. (2006). Discovery and evaluation of dual CDK1 and CDK2 inhibitors. Cancer Research, 66, 4299–4308. https://doi.org/10.1158/0008-5472.CAN-05-2507  
+
+Sánchez, I., & Dynlacht, B. (2005). New insights into cyclins, CDKs, and cell cycle control. Seminars in Cell & Developmental Biology, 16(3), 311–321. https://doi.org/10.1016/j.semcdb.2005.02.007  
+
+Wang, Q., Bode, A., & Zhang, T. (2023). Targeting CDK1 in cancer: mechanisms and implications. NPJ Precision Oncology, 7, Article 73. https://doi.org/10.1038/s41698-023-00407-7

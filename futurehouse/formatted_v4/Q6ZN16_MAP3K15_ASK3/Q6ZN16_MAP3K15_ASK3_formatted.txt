@@ -1,0 +1,73 @@
+## Phylogeny  
+MAP3K15 (ASK3) is one of the three human Apoptosis Signal-regulating Kinases (ASK1/MAP3K5, ASK2/MAP3K6, ASK3/MAP3K15) that form a distinct branch within the MAP3K family of the human kinome (Trevelyan et al., 2020). Orthologues are documented in mouse, rat and zebrafish, but not in Drosophila (Trevelyan et al., 2020; “Structural studies…”, 2024). The catalytic domain shares ~88 % amino-acid identity with ASK1, highlighting their close evolutionary relationship (“Structural studies…”, 2024).
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr ⇌ ADP + [protein]-O-phospho-Ser/Thr (Kaji et al., 2010).
+
+## Cofactor Requirements  
+Catalysis requires a divalent cation; Mg²⁺ is reported as the physiological cofactor for MAP3K family members, including ASK3 (Honzejková et al., 2024).
+
+## Substrate Specificity  
+No experimentally validated consensus phosphorylation motif has been defined for human MAP3K15. Large-scale kinome profiling failed to assign a sequence logo to ASK3 (Trevelyan et al., 2019; “Structural studies…”, 2024).
+
+## Structure  
+• N-terminal regulatory segment (residues 1–≈400) predicted to contain a thioredoxin-binding fold analogous to ASK1 (Obsilová et al., 2021).  
+• Central serine/threonine kinase domain (≈400–770); Lys681 acts as the catalytic lysine (Maruyama et al., 2016).  
+• C-terminal region comprises coiled-coil sequences followed by a sterile-alpha motif (SAM, ≈1200–1313) (Trevelyan et al., 2020).  
+
+3-D data  
+– SAM domain crystal structure at 1.80 Å (PDB 6V0M) reveals a canonical five-helix fold that forms pentameric/hexameric rings via mid-loop:end-helix interfaces (Trevelyan et al., 2020).  
+– SAXS confirms higher-order SAM oligomers in solution; oligomerisation is more stable than that of ASK1/ASK2 (Trevelyan et al., 2020).  
+– Homology modelling predicts an upstream TPR-PH scaffold similar to ASK1, supporting an autoregulatory architecture (Weijman et al., 2017).  
+– Conserved activation loop, DFG motif, C-helix and hydrophobic spines align with canonical kinase architecture (“Structural studies…”, 2024).  
+– SAM-driven oligomerisation nucleates ASK signalosomes, a prerequisite for kinase activation (Trevelyan et al., 2020).
+
+## Regulation  
+Post-translational modifications  
+• A ubiquitin-like motif recruits the de-ubiquitinase USP9X, shielding ASK3 from proteasomal degradation and promoting oxidative-stress-induced cell death (Trevelyan et al., 2019).  
+• Phosphorylation-dependent association with 14-3-3 isoforms modulates localisation and activity (Federspiel et al., 2016).  
+
+Protein–protein / allosteric control  
+• Stable pentamer/hexamer SAM oligomers are essential for electrophile- and osmotic-stress signalling (Trevelyan et al., 2020).  
+• A PP6–ASK3 module coordinates cell-volume recovery during osmotic stress (Obsilová et al., 2021).
+
+## Function  
+Expression  
+High transcript and protein levels occur in kidney and brain (including fetal brain). Variant-specific up-regulation is seen in rectum tumours and Alzheimer’s hippocampus, whereas down-regulation appears in kidney tumours and Alzheimer’s frontal lobe (Kaji et al., 2010).  
+
+Biological roles  
+• Acts upstream of the p38 and JNK MAPK cascades to mediate stress-induced apoptosis; siRNA depletion blocks Fas-, TNF-α- and H₂O₂-triggered cell death (Kaji et al., 2010).  
+• Functions as an osmotic-stress sensor in kidney epithelia: activates p38-MAPK–MK signalling leading to WNK4-Ser575 phosphorylation and suppresses the WNK1–SPAK/OSR1 axis, influencing NaCl handling and blood pressure (Maruyama et al., 2016; Trevelyan et al., 2019).  
+• Forms hetero-complexes with ASK1 and ASK2, integrating electrophilic and inflammatory cues within ASK signalosomes (Trevelyan et al., 2020).  
+
+Key interactors  
+WNK1, WNK4, PP6, 14-3-3, USP9X (Maruyama et al., 2016; Federspiel et al., 2016; Trevelyan et al., 2019).
+
+## Inhibitors  
+No small-molecule inhibitors of MAP3K15 have been reported or advanced to clinical evaluation (Cuarental et al., 2019).
+
+## Other Comments  
+• Ask3⁻/⁻ mice develop salt-sensitive hypertension, linking kinase loss to dysregulated renal osmotic signalling (Cuarental et al., 2019).  
+• Aberrant ASK3 transcript levels are observed in various tumours and Alzheimer’s disease brain regions, implicating the kinase in oncogenesis and neurodegeneration (Kaji et al., 2010).  
+• ASK3 contributes to kidney injury and fibrotic responses through stress-activated MAPK pathways (Cuarental et al., 2019).
+
+## References  
+Cuarental, L., Sucunza-Sáenz, D., Valiño-Rivas, L., Fernández-Fernández, B., Sanz, A. B., Ortiz, A., … Sánchez-Niño, M. D. (2019). MAP3K kinases and kidney injury. Nefrología, 39, 568–580. https://doi.org/10.1016/j.nefro.2019.03.004  
+
+Federspiel, J. D., Codreanu, S., Palubinsky, A. M., Winland, A. J., Morales-Betanzos, C., McLaughlin, B., & Liebler, D. (2016). Assembly dynamics and stoichiometry of the apoptosis signal-regulating kinase (ASK) signalosome in response to electrophile stress. Molecular & Cellular Proteomics, 15, 1947–1961. https://doi.org/10.1074/mcp.M115.057364  
+
+Honzejková, K., Kosek, D., Obsilová, V., & Obsil, T. (2024). The cryo-EM structure of ASK1 reveals an asymmetric architecture allosterically modulated by Trx1. eLife. https://doi.org/10.1101/2023.12.20.572539  
+
+Kaji, T., Yoshida, S., Kawai, K., Fuchigami, Y., Watanabe, W., Kubodera, H., & Kishimoto, T. (2010). ASK3, a novel member of the apoptosis signal-regulating kinase family, is essential for stress-induced cell death in HeLa cells. Biochemical and Biophysical Research Communications, 395(2), 213–218. https://doi.org/10.1016/j.bbrc.2010.03.164  
+
+Maruyama, J., Kobayashi, Y., Umeda, T., Vandewalle, A., Takeda, K., Ichijo, H., & Naguro, I. (2016). Osmotic stress induces the phosphorylation of WNK4 Ser575 via the p38MAPK-MK pathway. Scientific Reports, 6, 18710. https://doi.org/10.1038/srep18710  
+
+Obsilová, V., Honzejková, K., & Obsil, T. (2021). Structural insights support targeting ASK1 kinase for therapeutic interventions. International Journal of Molecular Sciences, 22, 13395. https://doi.org/10.3390/ijms222413395  
+
+Trevelyan, S. J., Brewster, J. L., Burgess, A. E., Crowther, J. M., Cadell, A. L., Parker, B. L., … Mace, P. D. (2019). Mechanism of preferential complex formation by apoptosis signal-regulating kinases. bioRxiv. https://doi.org/10.1101/693663  
+
+Trevelyan, S. J., Brewster, J. L., Burgess, A. E., Crowther, J. M., Cadell, A. L., Parker, B. L., … Mace, P. D. (2020). Structure-based mechanism of preferential complex formation by apoptosis signal-regulating kinases. Science Signaling. https://doi.org/10.1126/scisignal.aay6318  
+
+Weijman, J. F., Kumar, A., Jamieson, S. A., King, C. M., Caradoc-Davies, T. T., Ledgerwood, E. C., Murphy, J. M., & Mace, P. D. (2017). Structural basis of autoregulatory scaffolding by apoptosis signal-regulating kinase 1. Proceedings of the National Academy of Sciences, 114, E2096–E2105. https://doi.org/10.1073/pnas.1620813114  
+
+Structural studies of selected protein complexes involved in signal transduction. (2024). [Unpublished manuscript].

@@ -1,0 +1,56 @@
+## Phylogeny  
+TXK (also called RLK) is a member of the tyrosine-kinase (TK) group, Tec family, within the human kinome (Unknown Authors, 2009; Smith et al., 2001).  Orthologous genes are confirmed in Homo sapiens (chromosome 4p12) and Mus musculus (Txk, chromosome 5), with a rat cDNA fragment also reported; the platypus genome lacks a Txk locus (Haire et al., 1994; Haire & Litman, 1995; Ortutay et al., 2008).  Invertebrates such as Drosophila possess a single Tec-family gene (Btk29A) but no direct TXK ortholog, and amphibian/fish genomes encode other Tec kinases yet lack a dedicated Txk gene (Ortutay et al., 2008).  Gene duplications that created the five vertebrate Tec kinases (BTK, BMX, ITK, TEC, TXK) pre-dated vertebrate radiation, placing TXK on a branch paralogous to ITK (Ortutay et al., 2008).  
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine → ADP + protein-L-tyrosine-phosphate (Ellis et al., 1998).  
+
+## Cofactor Requirements  
+Maximal activity requires ≥ 5 mM Mg²⁺ or Mn²⁺, with no marked preference between the two divalent cations (Ellis et al., 1998).  
+
+## Substrate Specificity  
+Peptide-array screening shows minimal phosphorylation of motifs preferred by Src, Syk or ZAP70 kinases, indicating a distinct specificity (Ellis et al., 1998).  A recent tyrosine-kinome atlas assigns TXK an intrinsic but non-consensus preference, favouring hydrophobic residues at +1 and +3 relative to the Tyr to be phosphorylated (Yaron-Barir et al., 2024).  Verified cellular substrates during T-cell-receptor (TCR) signalling include PLC-γ1 and the adaptor SLP-76 (Chamorro et al., 2001).  
+
+## Structure  
+The protein comprises an N-terminal palmitoylated cysteine string (membrane targeting), a proline-rich region containing a bipartite nuclear localisation signal, followed by SH3, SH2 and a bilobal kinase domain; unlike other Tec kinases, it lacks a PH domain (Haire et al., 1994; Chamorro et al., 2001).  The activation loop harbours Tyr420 (equivalent to BTK Tyr551) flanked by divergent residues (Chamorro et al., 2001).  An AlphaFold model (AF-P42681-F1) exhibits the canonical TK fold with conserved C-helix, HRD, DFG and hydrophobic spine (Unknown Authors, 2007).  No experimental crystal or NMR structure is yet available; structural insight is inferred from homology models of Tec-family kinase domains (Unknown Authors, 2007).  
+
+## Regulation  
+•  Src-family kinases Fyn and Lck bind the N-terminal proline-rich motif and trans-phosphorylate Tyr420 to achieve full activation (Chamorro et al., 2001).  
+•  Autophosphorylation contributes to basal activity in vitro (Ellis et al., 1998).  
+•  S-palmitoylation of clustered N-terminal cysteines drives constitutive lipid-raft localisation independently of Tyr420 phosphorylation (Chamorro et al., 2001).  
+•  Phosphorylation promotes proteolytic turnover, suggesting ubiquitin-mediated degradation, although the responsible E3 ligase is unknown (Chamorro et al., 2001).  
+•  PI3K activity is not required for membrane recruitment or activation, distinguishing TXK from PH-domain-containing Tec kinases (Chamorro et al., 2001).  
+•  After TCR engagement, the intrinsic NLS directs a fraction of active TXK to the nucleus where it binds promoter DNA (Mihara & Suzuki, 2007).  
+
+## Function  
+Expression is high in thymocytes, peripheral T cells, NK cells and mast cells, but low in B cells and most non-haematopoietic tissues (Haire et al., 1994; Ellis et al., 1998).  
+Upstream activators: TCR-proximal Src kinases Fyn and Lck (Chamorro et al., 2001).  
+Downstream substrates/partners: PLC-γ1, SLP-76, LAT, VAV1 and actin-regulatory complexes, facilitating Ca²⁺ mobilisation and cytoskeletal remodelling (Chamorro et al., 2001; Unknown Authors, 2009).  
+Functional overlap with ITK: combined Itk/Txk deficiency severely impairs PLC-γ1 phosphorylation and T-cell signalling (Unknown Authors, 2009).  
+Nuclear role: binds the −53/−39 IFNG promoter element in Th1 cells to enhance IFN-γ transcription and promote Th1 differentiation (Mihara & Suzuki, 2007).  
+Contributes to development and function of invariant NKT cells (Ortutay et al., 2008).  
+
+## Other Comments  
+Elevated TXK expression is associated with Th1-dominant autoimmune disorders (e.g., rheumatoid arthritis, Behçet’s disease), whereas reduced levels correlate with Th2-skewed conditions such as asthma and atopic dermatitis (Mihara & Suzuki, 2007).  
+
+## 9. References  
+Chamorro, M., Czar, M. J., Debnath, J., Cheng, G., Lenardo, M. J., Varmus, H. E., & Schwartzberg, P. L. (2001). Requirements for activation and raft localization of the T-lymphocyte kinase RLK/TXK. BMC Immunology, 2, 3. https://doi.org/10.1186/1471-2172-2-3  
+
+Ellis, J. H., Sutmuller, R. P. M., Sims, M. J., & Cooksley, S. (1998). Functional analysis of the T-cell-restricted protein tyrosine kinase TXK. Biochemical Journal, 335, 277–284. https://doi.org/10.1042/bj3350277  
+
+Haire, R. N., Ohta, Y., Lewis, J. E., Fu, S. M., Kroisel, P., & Litman, G. W. (1994). TXK, a novel human tyrosine kinase expressed in T cells, shares sequence identity with Tec family kinases and maps to 4p12. Human Molecular Genetics, 3(6), 897–901. https://doi.org/10.1093/hmg/3.6.897  
+
+Haire, R. N., & Litman, G. W. (1995). The murine form of TXK, a novel Tec kinase expressed in thymus, maps to chromosome 5. Mammalian Genome, 6, 476–480. https://doi.org/10.1007/BF00360659  
+
+Mihara, S., & Suzuki, N. (2007). Role of TXK, a member of the Tec family of tyrosine kinases, in immune-inflammatory diseases. International Reviews of Immunology, 26, 333–348. https://doi.org/10.1080/08830180701690835  
+
+Ortutay, C., Nore, B. F., Vihinen, M., & Smith, C. I. E. (2008). Phylogeny of Tec family kinases: Identification of a pre-metazoan origin of BTK, BMX, ITK, TEC, TXK, and the BTK regulator SH3BP5. Advances in Genetics, 64, 51–80. https://doi.org/10.1016/S0065-2660(08)00803-1  
+
+Smith, C. I. E., Islam, T. C., Mattsson, P. T., Mohamed, A. J., Nore, B. F., & Vihinen, M. (2001). The Tec family of cytoplasmic tyrosine kinases: Mammalian BTK, BMX, ITK, TEC, TXK and homologs in other species. BioEssays. https://doi.org/10.1002/bies.1062  
+
+Unknown Authors. (2007). Exploring structure and plasticity of tyrosine kinase domains for drug discovery.  
+
+Unknown Authors. (2009). Tec family kinases: Transcriptional and post-translational regulation.  
+
+Unknown Authors. (2009). Tec kinases regulate T-lymphocyte development and function: New insights into the roles of ITK and RLK/TXK.  
+
+Yaron-Barir, T. M., Joughin, B. A., Huntsman, E. M., Kerelsky, A., Cizin, D. M., Cohen, B. M., … Johnson, J. L. (2024). The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629, 1174–1181. https://doi.org/10.1038/s41586-024-07407-y

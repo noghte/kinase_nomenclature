@@ -1,0 +1,67 @@
+## Proposed EC/sub-subclass  
+2.7.11.– (protein-serine/threonine kinase; specific sub-subclass not yet designated)
+
+## Accepted name  
+Serine/threonine-protein kinase Pim-3
+
+## Synonyms  
+PIM3
+
+## Phylogeny  
+Single-copy member of the three-gene vertebrate PIM kinase family; human Pim-3 shares 71 % sequence identity with Pim-1 and 44 % with Pim-2 (Atalay & Ozpolat, 2024). Orthologues are verified in jawed vertebrates including mouse, rat, dog, opossum, platypus, chicken and pufferfish, with additional avian and amphibian homologues, indicating broad conservation across vertebrates (Eichmann et al., 2000; Kong et al., 2010). All PIM kinases form a distinct sub-family within the CAMK group of the eukaryotic kinome (Manning et al., 2002).
+
+## Reaction Catalyzed  
+ATP + [protein] ⇌ ADP + [protein]-O-phospho-Ser/Thr (Atalay & Ozpolat, 2024).
+
+## Cofactor Requirements  
+Mg²⁺ is routinely included in in-vitro assays, although structural studies show catalytic activity can proceed without obligatory metal coordination, implying partial metal independence (Bullock et al., 2009; Asati et al., 2019).
+
+## Substrate Specificity  
+Classic consensus R-x(4)-H-x-P-S/T-G was defined using BAD mutagenesis (Li et al., 2006). Pim-3 phosphorylates BAD on Ser112, Ser136 and Ser155, with preference for Ser136/155 relative to Pim-1/2 (Nawijn et al., 2011). Additional validated sites include p27 Thr157/Thr198, 4EBP1 Ser65, MYC Ser62/Thr58, multiple IRS1/2 sites and AMPK-linked residues (Atalay & Ozpolat, 2024). No high-throughput motif atlas is yet available (Atalay & Ozpolat, 2024).
+
+## Structure  
+The protein comprises a single bilobal kinase domain lacking N- or C-terminal regulatory extensions (Atalay & Ozpolat, 2024). AlphaFold model AF-Q86V86-F1 superposes on Pim-1 with <1.5 Å RMSD (Atalay & Ozpolat, 2024). Surrogate crystal structures of Pim-1 (PDB 3FXW) and Pim-2 (PDB 3CY7) reveal a constitutively active conformation in which a Pro in the ERPXPX hinge removes one ATP hydrogen bond (Bullock et al., 2009). Catalytic motifs VAIK-Lys, HRD-Asp and DFG-Asp are conserved; an activation-loop Asp mimics phospho-activation (Kumar et al., 2005). A weakened C-helix Lys-Glu salt bridge correlates with high intrinsic activity but elevated Km for ATP (Bullock et al., 2009).
+
+## Regulation  
+• SUMOylation at Lys172 stabilises the protein (Atalay & Ozpolat, 2024).  
+• SOCS6- and RNF4-dependent ubiquitination promotes proteasomal degradation (Atalay & Ozpolat, 2024).  
+• Transcription is induced by JAK–STAT signalling (IL-5, GM-CSF) via STAT3/5, and further trans-activated by ETS fusion oncogenes (Atalay & Ozpolat, 2024).  
+• Lack of an autoinhibitory domain renders the kinase constitutively active once expressed (Atalay & Ozpolat, 2024).
+
+## Function  
+Physiological expression is enriched in liver, pancreas and haematopoietic tissues (Atalay & Ozpolat, 2024). Over-expression is reported in hepatocellular, pancreatic, colon, gastric, lung, melanoma, glioblastoma and triple-negative breast cancers (Atalay & Ozpolat, 2024). Upstream pathway: JAK–STAT transcriptional activation. Downstream effects include STAT3 Tyr705 phosphorylation, VEGF induction and EMT factor up-regulation (Atalay & Ozpolat, 2024). Substrate phosphorylation events mediate:  
+• BAD inactivation → inhibition of apoptosis (Li et al., 2006)  
+• p27 cytoplasmic export → cell-cycle progression (Atalay & Ozpolat, 2024)  
+• 4EBP1 activation → cap-dependent translation (Atalay & Ozpolat, 2024)  
+• MYC stabilisation → enhanced oncogenic transcription (Atalay & Ozpolat, 2024)  
+• Modulation of AMPK signalling affecting MYC and PPARGC1A (Zhang et al., 2018)  
+Interaction with SOCS6 links Pim-3 to control of ERK1/2 and insulin secretion (Atalay & Ozpolat, 2024).
+
+## Inhibitors  
+• SGI-1776: pan-PIM inhibitor, IC₅₀ = 69 nM; clinical development halted due to QTc prolongation (Atalay & Ozpolat, 2024).  
+• AZD1208: oral pan-PIM inhibitor, IC₅₀ = 1.9 nM; discontinued after limited efficacy and CYP3A4 induction (Atalay & Ozpolat, 2024).  
+• PIM447 (LGH447): Ki = 0.009 nM; clinically tolerated with modest monotherapy benefit (Atalay & Ozpolat, 2024).
+
+## Other Comments  
+Transgenic mice over-expressing Pim-3 develop accelerated hepatocellular carcinoma, confirming oncogenic potential; conversely, Pim-3 knock-down increases DNA-damage markers and radiosensitivity in tumour models (Atalay & Ozpolat, 2024).
+
+## References  
+Asati, V., Mahapatra, D. K., & Bharti, S. K. (2019). Pim kinase inhibitors: Structural and pharmacological perspectives. European Journal of Medicinal Chemistry, 172, 95-108. https://doi.org/10.1016/j.ejmech.2019.03.050  
+
+Atalay, P., & Ozpolat, B. (2024). Pim3 kinase: A promising novel target in solid cancers. Cancers, 16, 03535. https://doi.org/10.3390/cancers16030535  
+
+Bullock, A. N., Russo, S., Amos, A., Pagano, N., Bregman, H., Debreczeni, J. É., … Knapp, S. (2009). Crystal structure of the Pim2 kinase in complex with an organoruthenium inhibitor. PLoS ONE, 4, e7112. https://doi.org/10.1371/journal.pone.0007112  
+
+Eichmann, A., Yuan, L., Bréant, C., Alitalo, K., & Koskinen, P. (2000). Developmental expression of Pim kinases suggests functions also outside of the hematopoietic system. Oncogene, 19, 1215-1224. https://doi.org/10.1038/sj.onc.1203355  
+
+Kong, L., Lovell, P. V., Heger, A., Mello, C. V., & Ponting, C. P. (2010). Accelerated evolution of PAK3- and Pim1-like kinase gene families in the zebra finch, Taeniopygia guttata. Molecular Biology and Evolution, 27, 1923-1934. https://doi.org/10.1093/molbev/msq080  
+
+Kumar, A., Mandiyan, V., Suzuki, Y., Zhang, C., Rice, J., Tsai, J., … Bremer, R. (2005). Crystal structures of proto-oncogene kinase Pim-1: A target of aberrant somatic hypermutations in diffuse large cell lymphoma. Journal of Molecular Biology, 348, 183-193. https://doi.org/10.1016/j.jmb.2005.02.039  
+
+Li, Y.-Y., Popivanova, B. K., Nagai, Y., Ishikura, H., Fujii, C., & Mukaida, N. (2006). Pim-3, a proto-oncogene with serine/threonine kinase activity, is aberrantly expressed in human pancreatic cancer and phosphorylates BAD to block BAD-mediated apoptosis. Cancer Research, 66, 6741-6747. https://doi.org/10.1158/0008-5472.CAN-05-4272  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912-1934. https://doi.org/10.1126/science.1075762  
+
+Nawijn, M., Alendar, A., & Berns, A. (2011). For better or for worse: The role of Pim oncogenes in tumorigenesis. Nature Reviews Cancer, 11, 23-34. https://doi.org/10.1038/nrc2986  
+
+Zhang, X., Song, M., Kundu, J., Lee, M.-H., & Liu, Z.-Z. (2018). Pim kinase as an executional target in cancer. Journal of Cancer Prevention, 23, 109-116. https://doi.org/10.15430/jcp.2018.23.3.109

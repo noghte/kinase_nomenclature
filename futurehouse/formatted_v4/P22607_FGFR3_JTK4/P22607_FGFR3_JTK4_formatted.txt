@@ -1,0 +1,48 @@
+## Phylogeny  
+Orthologues in mouse (Fgfr3) and chicken (Cek-2) cluster with human FGFR1/2 inside the fibroblast growth-factor-receptor branch of the receptor tyrosine kinase family (Keegan et al., 1991). The catalytic domain retains the canonical HRD and DFG motifs universal to protein tyrosine kinases (Mohammadi et al., 1996).
+
+## Reaction Catalyzed  
+ATP + [protein]-L-tyrosine ⇌ ADP + [protein]-O-phospho-L-tyrosine (Mohammadi et al., 1996).
+
+## Cofactor Requirements  
+Activity is supported by ATP (or the non-hydrolysable analog AMP-PCP); no additional divalent metal requirement was reported in the in-vitro assays (Mohammadi et al., 1996).
+
+## Substrate Specificity  
+• Autophosphorylation on Y647 and Y648 in the activation loop markedly increases activity.  
+• Phosphorylated Y724 in the C-terminal lobe forms a high-affinity docking site for downstream effectors.  
+• Juxtacatalytic tyrosines Y760, Y762, Y770 and Y779, once phosphorylated, serve as SH2-domain docking sites (Farrell & Breeze, 2018).  
+• Y724 phosphorylation promotes cellular transformation, whereas Y770 phosphorylation is growth-suppressive (L’Hôte & Knowles, 2005).  
+• The kinase phosphorylates adaptor proteins FRS2 and PLCG1, initiating MAPK and PLCγ cascades (L’Hôte & Knowles, 2005).
+
+## Structure  
+The 806-residue receptor contains a signal peptide, three extracellular Ig-like domains separated by an acidic box, a single-pass transmembrane helix, a juxtamembrane region, a split intracellular kinase domain with an internal insert, and a C-terminal tail (Keegan et al., 1991).  
+Crystal structures of the kinase domain (e.g., PDB 4K33, 3GQI) reveal the bilobal protein-kinase fold with GXGXXG, HRD, and DFG motifs (Farrell & Breeze, 2018). The unphosphorylated enzyme adopts an autoinhibitory activation-loop conformation that blocks substrate binding (Mohammadi et al., 1996). Activation is stabilized via a Lys508–Glu525 salt bridge in the αC helix and assembly of the hydrophobic spine (Farrell & Breeze, 2018). Pathogenic K650E in the activation loop mimics phosphorylation and locks the kinase in an active conformation (Farrell & Breeze, 2018). An extracellular Ig-domain model is available based on FGFR1 (PDB 1RY7).
+
+## Regulation  
+Ligand-induced dimerization drives ordered phosphorylation of seven cytoplasmic tyrosines, progressively activating the kinase and exposing adaptor-protein docking sites (Narayana & Horton, 2015). The E3 ligase CBL polyubiquitinates activated FGFR3, targeting it to lysosomes; gain-of-function mutations lessen this ubiquitination and prolong signalling (L’Hôte & Knowles, 2005; Narayana & Horton, 2015). Seven predicted N-linked glycans in the ectodomain are required for correct folding and trafficking (Keegan et al., 1991). Hsp90–Cdc37 chaperoning stabilises the receptor, whereas Hsp90 inhibition recruits CHIP and triggers proteasomal degradation (Narayana & Horton, 2015). Regulated intramembrane proteolysis yields a soluble intracellular fragment that can translocate to the nucleus (Narayana & Horton, 2015). Sprouty and Sef proteins provide negative feedback by dampening MAPK signalling (Bogale, 2024).
+
+## Function  
+The IIIc splice isoform predominates in growth-plate chondrocytes, while the IIIb isoform is enriched in epithelia (L’Hôte & Knowles, 2005). Expression is documented in brain, skeleton, gut and skin (Narayana & Horton, 2015). FGF1 and FGF9 activate both isoforms, with FGF9 favouring IIIc; heparan-sulfate proteoglycans are obligatory co-factors (L’Hôte & Knowles, 2005). Phosphorylated FRS2 recruits GRB2, GAB1, PIK3R1 and SOS1 to stimulate RAS–MAPK and PI3K–AKT pathways, while PLCG1 phosphorylation couples to DAG/IP₃ and PKC signalling (L’Hôte & Knowles, 2005). STAT1 activation in chondrocytes enforces growth arrest, whereas STAT3/5 activation elsewhere promotes proliferation (L’Hôte & Knowles, 2005). FGFR3 restrains chondrocyte proliferation and differentiation, limiting bone elongation (Narayana & Horton, 2015). Constitutive activation by point mutations or FGFR3-TACC3 fusion sustains MAPK and AKT signalling that drives oncogenic growth (Karkera et al., 2017).
+
+## Inhibitors  
+Type I½A inhibitor erdafitinib (IC₅₀ ≈ 4 nM), type I inhibitor AZD4547, selective type I inhibitor BGJ398 (infigratinib), covalent type VI inhibitor futibatinib, and type II inhibitor ponatinib all target the FGFR3 kinase domain. FGFR3-TACC3-positive tumour models show heightened sensitivity to erdafitinib (Roskoski, 2020; Karkera et al., 2017).
+
+## Other Comments  
+Germline mutations G380R (transmembrane) and K650M/E/N/Q (activation loop) produce achondroplasia and thanatophoric dysplasia, with increasing kinase activation correlating with clinical severity (L’Hôte & Knowles, 2005). Somatic cysteine substitutions such as S249C and R248C drive ligand-independent dimerization in bladder carcinoma (L’Hôte & Knowles, 2005). K650E stabilizes the active conformation and causes constitutive signalling (Farrell & Breeze, 2018).
+
+## References  
+Bogale, D. E. (2024). The roles of FGFR3 and c-Myc in urothelial bladder cancer. Discover Oncology. https://doi.org/10.1007/s12672-024-01173-z  
+
+Farrell, B., & Breeze, A. L. (2018). Structure, activation and dysregulation of fibroblast growth factor receptor kinases: Perspectives for clinical targeting. Biochemical Society Transactions, 46, 1753–1770. https://doi.org/10.1042/BST20180004  
+
+Karkera, J. D., Martinez Cardona, G., Bell, K., Gaffney, D., Portale, J. C., Santiago-Walker, A., … Platero, S. J. (2017). Oncogenic characterization and pharmacologic sensitivity of activating fibroblast growth factor receptor (FGFR) genetic alterations to the selective FGFR inhibitor erdafitinib. Molecular Cancer Therapeutics, 16, 1717–1726. https://doi.org/10.1158/1535-7163.MCT-16-0518  
+
+Keegan, K., Daniel, E., Williams, L. T., & Hayman, M. (1991). Isolation of an additional member of the fibroblast growth factor receptor family, FGFR-3. Proceedings of the National Academy of Sciences, 88, 1095–1099. https://doi.org/10.1073/pnas.88.4.1095  
+
+L’Hôte, C. G. M., & Knowles, M. A. (2005). Cell responses to FGFR3 signalling: Growth, differentiation and apoptosis. Experimental Cell Research, 304, 417–431. https://doi.org/10.1016/j.yexcr.2004.11.012  
+
+Mohammadi, M., Schlessinger, J., & Hubbard, S. R. (1996). Structure of the FGF receptor tyrosine kinase domain reveals a novel autoinhibitory mechanism. Cell, 86, 577–587. https://doi.org/10.1016/S0092-8674(00)80131-2  
+
+Narayana, J., & Horton, W. A. (2015). FGFR3 biology and skeletal disease. Connective Tissue Research, 56, 427–433. https://doi.org/10.3109/03008207.2015.1051224  
+
+Roskoski, R. (2020). The role of fibroblast growth factor receptor (FGFR) protein-tyrosine kinase inhibitors in the treatment of cancers including those of the urinary bladder. Pharmacological Research, 151, 104567. https://doi.org/10.1016/j.phrs.2019.104567

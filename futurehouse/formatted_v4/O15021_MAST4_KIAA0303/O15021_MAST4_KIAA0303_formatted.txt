@@ -1,0 +1,58 @@
+## Phylogeny  
+MAST4 is one of four mammalian MAST paralogs (MAST1-4) within the AGC serine/threonine kinase superfamily and diverged early from the MAST-like (MASTL) branch (Lemke et al., 2025). Orthologous tri-domain kinases (DUF1908–kinase–PDZ) are conserved in invertebrates such as the Drosophila kinase Dop and related nematode proteins, while protist and plant precursors typically retain only the DUF1908 module (Lemke et al., 2025; Rumpf et al., 2023). Sequence comparisons position MAST4 closest to MAST3, and all four human paralogs share identical catalytic core motifs together with an unusually long (~37 aa) activation segment (Lemke et al., 2025).  
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr ⇌ ADP + protein-O-phospho-L-Ser/Thr (Sakaji et al., 2023; Rumpf et al., 2023).  
+
+## Cofactor Requirements  
+Catalysis requires a divalent metal ion coordinated by the DFG^522-524 loop; Mg²⁺ is inferred from studies on related AGC kinases (Sakaji et al., 2023; Rumpf et al., 2023).  
+
+## Substrate Specificity  
+Validated substrates include:  
+• Dynein light chain Tctex-1 (Thr94) (Sakaji et al., 2023)  
+• FOXO3 transcription factor (multiple regulatory Ser/Thr sites) (Fujiwara-Tani et al., 2024)  
+• Sox9 transcription factor (Ser494) (Lemke et al., 2025)  
+
+A consensus phosphorylation motif has not yet been defined and large-scale mapping has not revealed a preferred sequence context (Lemke et al., 2025).  
+
+## Structure  
+The 2 434-residue protein is organised as an N-terminal DUF1908 domain, a central AGC kinase catalytic core, and a C-terminal PDZ domain separated by intrinsically disordered regions (Sakaji et al., 2023; Lemke et al., 2025).  
+Key catalytic elements: RD motif R^503-D^504-K^506, DFG^522-524 metal-binding loop, and an autophosphorylation site Thr^535 within the activation segment (Sakaji et al., 2023).  
+AlphaFold models show a canonical bilobal kinase fold with an extended activation loop and a conserved hydrophobic spine; the ATP-binding pocket is almost identical across MAST1-4, and additional conserved ligandable surfaces are predicted (Karpov et al., 2024; Lemke et al., 2025). The DUF1908 folds into an α-helical barrel predicted to mediate protein interactions (Lemke et al., 2025).  
+
+## Regulation  
+• Autophosphorylation of Thr^535 is required for full activity (Sakaji et al., 2023).  
+• Multiple Ser/Thr phosphorylation sites in DUF1908 and the C-terminus create 14-3-3 docking motifs (Lemke et al., 2025).  
+• miR-582-5p represses MAST4 mRNA; its down-regulation raises MAST4 levels in gemcitabine-resistant pancreatic cancer cells (Fujiwara-Tani et al., 2024).  
+• Subcellular localisation is stimulus-dependent: serum induces recruitment to basal bodies/axonemes, whereas in gemcitabine-resistant PDAC cells the kinase accumulates in the nucleus and complexes with AKT3 (Sakaji et al., 2023; Fujiwara-Tani et al., 2024).  
+
+## Function  
+Expression pattern: MAST4 shows the lowest baseline expression among MAST paralogs; protein is detectable in the cytoplasm of brain, oesophagus and bladder epithelia and in ciliated retinal pigment epithelial cells, while nuclear over-expression is observed in pancreatic ductal adenocarcinoma (Lemke et al., 2025; Fujiwara-Tani et al., 2024).  
+
+Biological roles  
+• Ciliary dynamics – phosphorylates Tctex-1 to activate Cdc42 and Rab5, promoting serum-induced primary cilium resorption at G1–S and G2–M transitions (Sakaji et al., 2023).  
+• Chemoresistance – nuclear MAST4 interacts with AKT3, enhances FOXO3 phosphorylation and supports gemcitabine resistance in PDAC cells (Fujiwara-Tani et al., 2024).  
+• Skeletal differentiation – phosphorylates Sox9 Ser494, triggering Sox9 degradation and favouring osteogenic differentiation of mesenchymal stromal cells (Lemke et al., 2025).  
+
+Reported interactors: Tctex-1, AKT3, FOXO3, 14-3-3 proteins, Cdc42 and Rab5 (Sakaji et al., 2023; Fujiwara-Tani et al., 2024; Lemke et al., 2025).  
+
+## Inhibitors  
+AX13587 inhibits cellular MAST4 activity, decreases phosphorylation of AKT3 and FOXO3 and restores gemcitabine sensitivity in pancreatic cancer models (Fujiwara-Tani et al., 2024). The high conservation of the ATP pocket across MAST kinases may limit selectivity of ATP-competitive inhibitors (Karpov et al., 2024).  
+
+## Other Comments  
+• High nuclear MAST4 correlates with poor overall survival and chemoresistance in pancreatic ductal adenocarcinoma (Fujiwara-Tani et al., 2024).  
+• Up-regulation contributes to osteolytic lesions in multiple myeloma via oestrogen-responsive signalling (Lemke et al., 2025).  
+• Point mutation I898T in the hydrophobic motif is linked to neurodevelopmental disability and predicts reduced kinase activity (Lemke et al., 2025).  
+• Co-over-expression of MAST4 and Tctex-1 has been reported in breast cancer (Sakaji et al., 2023).  
+• Loss of MAST4 activity leading to defective ciliary disassembly is implicated in ciliopathy-related pathologies (Sakaji et al., 2023).  
+
+## References  
+Fujiwara-Tani, R., Sasaki, T., Bhawal, U., Mori, S., Ogata, R., Sasaki, R., Ikemoto, A., Kishi, S., Fujii, K., Ohmori, H., Sho, M., & Kuniyasu, H. (2024). Nuclear MAST4 suppresses FOXO3 through interaction with AKT3 and induces chemoresistance in pancreatic ductal carcinoma. International Journal of Molecular Sciences, 25, 407056. https://doi.org/10.3390/ijms25074056  
+
+Karpov, P., Steshenko, A. O., Ozheredov, S., & Blume, Y. (2024). Prediction of protein-ligand binding sites modulating activity of MAST protein kinases. Faktori Eksperimental'noi Evolucii Organizmiv, 35, 1677. https://doi.org/10.7124/feeo.v35.1677  
+
+Lemke, M. C., Avala, N. R., Rader, M. T., Hargett, S. R., Lank, D. S., Seltzer, B. D., & Harris, T. E. (2025). MAST kinases’ function and regulation: Insights from structural modelling and disease mutations. Biomedicines, 13, 925. https://doi.org/10.3390/biomedicines13040925  
+
+Rumpf, M., Pautz, S., Drebes, B., Herberg, F. W., & Müller, H.-A. J. (2023). Microtubule-associated serine/threonine (MAST) kinases in development and disease. International Journal of Molecular Sciences, 24, 11913. https://doi.org/10.3390/ijms241511913  
+
+Sakaji, K., Ebrahimiazar, S., Harigae, Y., Ishibashi, K., Sato, T., Yoshikawa, T., Atsumi, G., Sung, C.-H., & Saito, M. (2023). MAST4 promotes primary ciliary resorption through phosphorylation of Tctex-1. Life Science Alliance, 6, e202301947. https://doi.org/10.26508/lsa.202301947

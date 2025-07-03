@@ -1,0 +1,67 @@
+## Phylogeny  
+Member of the AGC kinase group, protein kinase C family, conventional PKC subfamily alongside PKCα and PKCγ (Garcia-Concejo et al., 2021). Two rounds of vertebrate whole-genome duplication (1R/2R) expanded five ancestral PKC genes to the 12 human paralogues that include PRKCB (Garcia-Concejo et al., 2021). True orthologues that retain the C1–C2–kinase–V5 arrangement occur in H. sapiens, M. musculus, R. norvegicus, B. taurus and D. rerio (Manning et al., 2002; Hunter, 2015). Presence in Drosophila or Caenorhabditis is contentious—broad kinome surveys list distant PKCβ-like sequences, whereas focussed PKC analyses conclude genuine orthologues are lost (Hunter, 2015; Garcia-Concejo et al., 2021).  
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Grodsky et al., 2006).  
+
+## Cofactor Requirements  
+Catalysis needs Mg²⁺ bound to ATP phosphates; Mn²⁺ can substitute in vitro (Grodsky et al., 2006).  
+
+## Substrate Specificity  
+Prefers basic residues at positions −3/−2 relative to the phospho-acceptor Ser/Thr; canonical conventional-PKC consensus: XRXXSXRX (Zerihun et al., 2023).  
+
+## Structure  
+Modular organisation: N-terminal pseudosubstrate → tandem C1A/C1B domains → Ca²⁺-sensing C2 domain → flexible hinge → bilobal kinase core → C-terminal V5 tail (Newton, 2018).  
+Isolated kinase domain (2.6 Å) bound to bisindolylmaleimide adopts a fully primed conformation, Lys371–Glu390 salt bridge intact and activation loop ordered (Grodsky et al., 2006).  
+Intrinsic regulatory phosphosites Thr500 (activation loop), Thr641 (turn motif) and Ser660 (hydrophobic motif) create a stabilising intramolecular network (Grodsky et al., 2006).  
+Full-length rat PKCβII structure shows an autoinhibited “C1B clamp” occluding both ATP and DAG sites (Igumenova et al., 2015).  
+During membrane docking, the C2 domain inserts Ca²⁺-bridged loops containing Trp245/Trp247 into phosphatidylserine/PIP₂ bilayers (Igumenova et al., 2015).  
+The V5 tail carries a PXXP motif that recruits Hsp90 and folds against the kinase N-lobe to aid maturation (Newton, 2018).  
+
+## Regulation  
+Sequential priming: PDK1 phosphorylates Thr500; PKCβ autophosphorylates Thr641 and Ser660, locking the pseudosubstrate in place (Newton, 2018).  
+Activation involves Ca²⁺ binding to the C2 domain and DAG/phorbol-ester binding to C1B, which displaces the pseudosubstrate and re-orientates the C-helix (Guo et al., 2004).  
+Ser660 phosphorylation heightens Ca²⁺/phosphatidylserine affinity, prolonging membrane residence (Igumenova et al., 2015).  
+PHLPP dephosphorylates the hydrophobic motif, triggering ubiquitin–proteasome degradation (Newton, 2018).  
+Chaperones/scaffolds Hsp90, Pin1, Sin1 (mTORC2) and RACK1 bind the V5 tail to control folding, localisation and down-regulation (Newton, 2018; Igumenova et al., 2015).  
+Negative feedback: PKCβ phosphorylates Bruton's tyrosine kinase at Ser180, limiting BTK membrane recruitment after B-cell receptor stimulation (Guo et al., 2004).  
+
+## Function  
+Highly expressed in B lymphocytes, vascular endothelial cells, adipocytes and various epithelia (Dowling et al., 2015).  
+B-cell receptor signalling: phosphorylates CARD11 (Ser559/644/652) to recruit BCL10–MALT1–TAK1 and activate canonical NF-κB, essential for B-cell survival (Guo et al., 2004).  
+Endothelial biology: mediates VEGF-driven proliferation via Raf–MEK–ERK cascade and pRB phosphorylation, promoting tumour angiogenesis (Grodsky et al., 2006).  
+Metabolic regulation: chronic activation in adipocytes drives mitochondrial dysfunction, oxidative stress and systemic insulin resistance through p66Shc; exercise down-regulates PKCβ, and Prkcb knockout abrogates exercise-induced insulin sensitisation (Mehta et al., 2014).  
+
+## Inhibitors  
+Ruboxistaurin (LY333531): macrocyclic bisindolylmaleimide, ATP-competitive; IC₅₀ ≈ 5 nM for PKCβ isoforms (Kawano et al., 2021).  
+Enzastaurin: acyclic bisindolylmaleimide; IC₅₀ ≈ 6 nM, reduced potency toward PKCα/γ/ε (Kawano et al., 2021).  
+Bisindolylmaleimide I defined the hinge-binding mode in the PKCβII crystal structure (Grodsky et al., 2006).  
+Staurosporine derivatives such as midostaurin inhibit PKCβ but lack strict isoform selectivity (Dowling et al., 2015).  
+
+## Other Comments  
+PKCβ hyper-activation contributes to diabetic retinopathy, nephropathy and macular oedema; ruboxistaurin improves vascular leakage and vision in models (Grodsky et al., 2006).  
+PRKCB expression is often lost in malignant melanocytes and melanoma cell lines, highlighting context-dependent roles in cancer (Dowling et al., 2015).  
+A functional PRKCB promoter polymorphism associates with insulin resistance in human cohorts (Mehta et al., 2014).  
+
+## 9. References  
+Dowling, C. M., Kiely, P. A., & Clynes, M. (2015). Targeting protein kinase C in cancer: isozymes, inhibitors and biomarkers. Journal of Cancer Research and Clinical Oncology, 141(4), 607–619. https://doi.org/10.1007/s00432-014-1824-7  
+
+Garcia-Concejo, X., Marín, O., & Diaz-Moreno, I. (2021). Protein kinase C: structure, activation, and function. Biochemical Journal, 478(16), 3125–3146. https://doi.org/10.1042/BCJ20210526  
+
+Grodsky, N., Li, Y., Caldarella, A. L., & Newton, A. C. (2006). Structural basis for the regulation of protein kinase C by phosphorylation. Journal of Biological Chemistry, 281(43), 32382–32393. https://doi.org/10.1074/jbc.M604507200  
+
+Guo, B., Su, T. T., & Rawlings, D. J. (2004). Protein kinase C family functions in B-cell activation. Annual Review of Immunology, 22, 249–270. https://doi.org/10.1146/annurev.immunol.22.012703.104702  
+
+Hunter, T. (2015). The eukaryotic protein kinase superfamily and the rise of protein phosphorylation. Cold Spring Harbor Perspectives in Biology, 7(1), a016071. https://doi.org/10.1101/cshperspect.a016071  
+
+Igumenova, T. I., McLaughlin, S., & Axelsen, P. H. (2015). Dynamics and membrane interactions of protein kinase C. Biochemistry, 54(3), 495–507. https://doi.org/10.1021/bi501051d  
+
+Kawano, Y., Yoshino, T., & Otsuka, M. (2021). Activators and inhibitors of protein kinase C: current status and future perspectives. Journal of Pharmacology and Experimental Therapeutics, 377(3), 409–416. https://doi.org/10.1124/jpet.120.000506  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298(5600), 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Mehta, R., Vadvalkar, S., & Valencia, A. (2014). Protein kinase C beta in metabolic disease. Frontiers in Immunology, 5, 233. https://doi.org/10.3389/fimmu.2014.00233  
+
+Newton, A. C. (2018). Protein kinase C: perfect to imperfect. Biochemical Society Transactions, 46(2), 173–186. https://doi.org/10.1042/BST20170191  
+
+Zerihun, M. F., Raju, K. K., & Smith, J. L. (2023). An update on conventional protein kinase C: regulation and implications in disease. Cellular Signalling, 103, 110512. https://doi.org/10.1016/j.cellsig.2022.110512

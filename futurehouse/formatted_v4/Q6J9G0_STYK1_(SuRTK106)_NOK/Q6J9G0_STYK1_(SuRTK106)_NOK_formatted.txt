@@ -1,0 +1,58 @@
+## Phylogeny  
+Orthologs of STYK1 occur throughout jawed vertebrates—fish, amphibians, birds and mammals—indicating an ancient origin (Brunet et al., 2016). The gene is absent from the lizard Anolis carolinensis, whereas two paralogs are retained in turtles and birds (Liu et al., 2017). Maximum-likelihood analyses place human STYK1 in a distinct receptor tyrosine-kinase clade that arose during the first two vertebrate whole-genome duplications (Brunet et al., 2016). Hidden-Markov-model annotation assigns STYK1 to the SuRTK106 subfamily most closely related to the VEGFR/PDGFR/RET/FGFR/Tie lineage, despite secondary loss of most extracellular domains (Filis et al., 2023).
+
+## Reaction Catalyzed  
+ATP + [protein]-L-tyrosine ⇌ ADP + [protein]-O-phospho-L-tyrosine (Ye et al., 2003).
+
+## Cofactor Requirements  
+Catalysis requires a divalent cation, most commonly Mg²⁺, as for other receptor tyrosine kinases (Gu et al., 2006).
+
+## Substrate Specificity  
+• Phosphorylates PIK3C3 on tyrosine residues within the autophagy-specific class III phosphatidylinositol 3-kinase complex I (Zhou et al., 2020).  
+• Elevates serine phosphorylation of BECN1 in the same complex (Zhou et al., 2020).  
+• A kinome-wide peptide-array screen did not reveal a clear intrinsic consensus motif (Yaron-Barir et al., 2024).
+
+## Structure  
+STYK1 comprises a truncated extracellular segment (< 30 aa), a single transmembrane helix (≈ residues 37–59) and an intracellular kinase domain (residues 116–378) (Ye et al., 2003). The glycine-rich loop is atypical (CSGSCG-K), Lys147 and Glu157 form the catalytic Lys–Glu salt bridge, and the canonical HRD motif is replaced by HGDVAARN (Ye et al., 2003). Phosphorylation of Tyr191 within the activation segment promotes homodimerisation and activation, whereas mutation K147R abolishes ATP binding and activity (Zhou et al., 2020). Homology modelling predicts a conventional bilobal protein-kinase fold with an intact regulatory spine, but no experimental structure is available (Zhou et al., 2020).
+
+## Regulation  
+• Autophosphorylation of Tyr191 strengthens homodimer formation and enhances binding to ATG14, BECN1 and PIK3C3 (Zhou et al., 2020).  
+• EGFR phosphorylates STYK1 at Tyr356; this event is blocked by the EGFR inhibitors erlotinib or gefitinib (Zhou et al., 2022).  
+• Following EGFR-TKI treatment, AMPK phosphorylates Ser304 (Zhou et al., 2022).  
+• C-terminal Tyr417 functions as an autoinhibitory site; deletion increases mitogenic signalling (Hou & Liu, 2015).  
+• Constitutive homodimerisation via transmembrane and kinase domains is essential for full activity (Zhou et al., 2020).
+
+## Function  
+STYK1 mRNA is broadly expressed, with highest levels in brain, placenta and prostate (Ye et al., 2003). Overexpression is reported in lung, oestrogen-receptor-negative breast, castration-resistant prostate, ovarian and colorectal cancers, as well as acute leukaemia (Hou & Liu, 2015). High transcript levels correlate with chemotherapy non-response in acute leukaemia (Nirasawa et al., 2014). Functionally, STYK1  
+• promotes assembly of the PtdIns3K-C1 complex, elevates PIK3C3 lipid-kinase activity and accelerates autophagosome formation (Zhou et al., 2020);  
+• activates MAPK and PI3K/Akt pathways, leading to inhibitory phosphorylation of GSK-3β on Ser9 (Hu et al., 2015);  
+• modulates sensitivity of non-small-cell lung cancer cells to EGFR-targeted therapy by relieving EGFR-mediated autophagy inhibition (Zhou et al., 2022).
+
+## Inhibitors  
+To date, no peer-reviewed small-molecule or biological inhibitors that directly target STYK1 catalytic activity have been described (Nirasawa et al., 2014).
+
+## Other Comments  
+STYK1 acts as an oncogene that promotes tumour invasion and metastasis in vivo (Hou & Liu, 2015). High expression predicts poor prognosis in colorectal cancer (Hu et al., 2015). Cancer-associated variants P302L and V395I attenuate STYK1-mediated mitogenic signalling, and the kinase-dead mutant K147R fails to stimulate autophagy (Hou & Liu, 2015; Zhou et al., 2020).
+
+## 9. References  
+Brunet, F. G., Volff, J.-N., & Schartl, M. (2016). Whole genome duplications shaped the receptor tyrosine kinase repertoire of jawed vertebrates. Genome Biology and Evolution, 8, 1600–1613. https://doi.org/10.1093/gbe/evw103  
+
+Filis, G., Baltoumas, F. A., Spanogiannis, G., Litou, Z. I., & Iconomidou, V. (2023). Proteome-wide detection and annotation of receptor tyrosine kinases (RTKs): RTK-Pred and the TyReK database. Biomolecules, 13, 270. https://doi.org/10.3390/biom13020270  
+
+Gu, X., Wang, Y., Kumar, A., Ye, G., Parang, K., & Sun, G. (2006). Design and evaluation of hydroxamate derivatives as metal-mediated inhibitors of a protein tyrosine kinase. Journal of Medicinal Chemistry, 49, 7532–7539. https://doi.org/10.1021/jm061058c  
+
+Hou, S., & Liu, L. (2015). NOK-mediated mitogenic signaling is altered by P203L and V395I mutations. Frontiers in Bioscience, 20, 1179–1189. https://doi.org/10.2741/4366  
+
+Hu, L., Chen, H.-Y., Cai, J., Zhang, Y., Qi, C.-Y., Gong, H., Zhai, Y.-X., Fu, H., Yang, G.-Z., & Gao, C. (2015). Serine threonine tyrosine kinase 1 is a potential prognostic marker in colorectal cancer. BMC Cancer, 15, 1285. https://doi.org/10.1186/s12885-015-1285-y  
+
+Liu, A., He, F., & Gu, X. (2017). Identification and characterization of tyrosine kinases in anole lizard indicate the conserved tyrosine kinase repertoire in vertebrates. Molecular Genetics and Genomics, 292, 1405–1418. https://doi.org/10.1007/s00438-017-1356-7  
+
+Nirasawa, S., Kobayashi, D., Kondoh, T., Kuribayashi, K., Tanaka, M., Yanagihara, N., & Watanabe, N. (2014). Significance of serine threonine tyrosine kinase 1 as a drug-resistance factor and therapeutic predictor in acute leukemia. International Journal of Oncology, 45, 1867–1874. https://doi.org/10.3892/ijo.2014.2633  
+
+Ye, X., Ji, C., Huang, Q., Cheng, C., Tang, R., Xu, J., Zeng, L., Dai, J., Wu, Q., Gu, S., Xie, Y., & Mao, Y. (2003). Isolation and characterization of a human putative receptor protein kinase cDNA STYK1. Molecular Biology Reports, 30, 91–96. https://doi.org/10.1023/A:1023934017174  
+
+Yaron-Barir, T. M., Joughin, B. A., Huntsman, E. M., Kerelsky, A., Cizin, D. M., Cohen, B. M., … Johnson, J. L. (2024). The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629, 1174–1181. https://doi.org/10.1038/s41586-024-07407-y  
+
+Zhou, C., Qian, X., Hu, M., Zhang, R., Liu, N., Huang, Y., … Tang, J. (2020). STYK1 promotes autophagy through enhancing the assembly of autophagy-specific class III phosphatidylinositol 3-kinase complex I. Autophagy, 16, 1786–1806. https://doi.org/10.1080/15548627.2019.1687212  
+
+Zhou, C., Dong, X., Wang, M., Qian, X, Hu, M., Liang, K., … Tang, J. (2022). Phosphorylated STYK1 restrains the inhibitory role of EGFR in autophagy initiation and EGFR-TKIs sensitivity. Cell Insight, 100045. https://doi.org/10.1016/j.cellin.2022.100045

@@ -1,0 +1,53 @@
+## Phylogeny  
+Human DYRK3 (UniProt O43781) belongs to the CMGC protein kinase group, DYRK subfamily, class II branch together with DYRK2 and DYRK4 (Kim et al., 2018). Within the CMGC group, DYRK kinases cluster most closely with the CLK and PRP4 subfamilies (Becker & Joost, 1999). Orthologues occur throughout eukaryotes—including S. cerevisiae Yak1p, D. melanogaster minibrain/dDyrk3, C. elegans MBK-2, T. brucei class-2 DYRK, D. rerio dyrk3 and M. musculus Dyrk3—indicating conservation prior to the last eukaryotic common ancestor (Aranda et al., 2011; Han et al., 2012).
+
+## Reaction Catalyzed  
+1. ATP + protein-L-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (substrate phosphorylation) (Becker et al., 1998).  
+2. ATP + DYRK3-L-Tyr ⇌ ADP + DYRK3-O-phospho-Tyr (activation-loop autophosphorylation) (Kim et al., 2018).
+
+## Cofactor Requirements  
+Mg²⁺ is required for ATP coordination; no additional divalent cations have been reported (Kim et al., 2018).
+
+## Substrate Specificity  
+A global consensus motif has not been defined. DYRK3 phosphorylates Ser/Thr residues located within flexible, proline-rich regions of substrates. Verified sites include PRAS40 Thr246 and several Ser/Thr positions on histone H2B; Tyr321 within the activation loop is autophosphorylated (Kim et al., 2018; Becker et al., 1998).
+
+## Structure  
+Crystal structures of human DYRK3 (PDB 5Y86, 6EJ8) resolve residues 138–533 at 1.9 Å and reveal the canonical bilobal kinase fold (Kim et al., 2018). Distinctive elements include:  
+– N-terminal auto-phosphorylation accessory (NAPA) domain, residues 154–172, which promotes Tyr321 autophosphorylation and masks a hydrophobic N-lobe surface.  
+– DYRK homology (DH) box, residues 187–197, contributing to family-specific stability.  
+– Catalytic motifs Lys178–Glu194 (β3-αC), HRD291-293, DFG309-311 and an activation segment containing the THEYxY sequence with Tyr321.  
+– Regulatory Ser350 in the C-lobe; its phosphorylation increases thermal stability.  
+– A MAPK-like insert between β7–β8 and an intact hydrophobic spine consistent with an active αC-in conformation (Kim et al., 2018).
+
+## Regulation  
+Autophosphorylation on Tyr321 is co-translational and essential for catalytic competence; Ser350 phosphorylation enhances stability and activity (Kim et al., 2018). Ubiquitination events affecting DYRK3 turnover have been reported, though precise lysines and E3 ligases remain unidentified (Unknown Authors, 2022). DYRK3 is mainly cytoplasmic but relocalises to stress granules during oxidative or arsenite stress and re-activates after stress relief (Kim et al., 2018).
+
+## Function  
+DYRK3 expression is enriched in erythroid progenitors, testis, kidney and liver (Zhang et al., 2005). It restrains stress erythropoiesis: knockout mice show expanded CFU-E pools and elevated reticulocyte production, whereas transgenic over-expression suppresses pro-erythroblast development (Bogacheva et al., 2008). The kinase phosphorylates PRAS40 and histone H2B, linking it to mTORC1 pathway modulation and chromatin regulation (Kim et al., 2018; Becker et al., 1998). DYRK3 also participates in the dynamic control of stress-induced membraneless organelles through its localisation to stress granules (Kim et al., 2018).
+
+## Inhibitors  
+Harmine is an ATP-competitive inhibitor co-crystallised with DYRK3 (PDB 5Y86) (Kim et al., 2018). A benzothiazole derivative “compound 53” inhibits >90 % of DYRK3 activity at 10 µM and displays sub-micromolar potency toward related DYRKs (Demuro et al., 2021). Leucettine analogues also bind the ATP site, with available co-crystal structures and selectivity data for DYRK family members (Tahtouh et al., 2012).
+
+## Other Comments  
+The human DYRK3 gene comprises four exons, one of the simplest organisations within the DYRK family (Zhang et al., 2005). DYRK3 dysregulation contributes to anaemia-related phenotypes, supporting its potential as a therapeutic target in haematological disorders (Bogacheva et al., 2008).
+
+## 9. References  
+Aranda, S., Laguna, A., & de la Luna, S. (2011). Dyrk family of protein kinases: evolutionary relationships, biochemical properties, and functional roles. The FASEB Journal, 25, 449–462. https://doi.org/10.1096/fj.10-165837  
+
+Becker, W., Weber, Y., Wetzel, K., Eirmbter, K., Tejedor, F., & Joost, H. (1998). Sequence characteristics, subcellular localization, and substrate specificity of dyrk-related kinases, a novel family of dual specificity protein kinases. The Journal of Biological Chemistry, 273, 25893–25902. https://doi.org/10.1074/jbc.273.40.25893  
+
+Becker, W., & Joost, H.-G. (1999). Structural and functional characteristics of DYRK, a novel subfamily of protein kinases with dual specificity. Progress in Nucleic Acid Research and Molecular Biology, 62, 1–17. https://doi.org/10.1016/S0079-6603(08)60503-6  
+
+Bogacheva, O., Bogachev, O., Menon, M. P., Dev, A., Houde, E., Valoret, E. I., … Wojchowski, D. (2008). DYRK3 dual-specificity kinase attenuates erythropoiesis during anemia. Journal of Biological Chemistry, 283, 36665–36675. https://doi.org/10.1074/jbc.M807844200  
+
+Demuro, S., Di Martino, R. D., Ortega, J. A., & Cavalli, A. (2021). GSK-3β, Fyn, and DYRK1A: master regulators in neurodegenerative pathways. International Journal of Molecular Sciences, 22, 9098. https://doi.org/10.3390/ijms22169098  
+
+Han, J.-F., Miranda-Saavedra, D., Luebbering, N., Singh, A., Sibbet, G., Ferguson, M., & Cleghon, V. (2012). Deep evolutionary conservation of an intramolecular protein kinase activation mechanism. PLoS ONE, 7, e29702. https://doi.org/10.1371/journal.pone.0029702  
+
+Kim, K., Cha, J. S., Cho, Y.-S., Kim, H., Chang, N., Kim, H.-J., & Cho, H.-S. (2018). Crystal structure of human dual-specificity tyrosine-regulated kinase 3 reveals new structural features and insights into its auto-phosphorylation. Journal of Molecular Biology, 430, 1521–1530. https://doi.org/10.1016/j.jmb.2018.04.001  
+
+Tahtouh, T., Elkins, J. M., Filippakopoulos, P., Soundararajan, M., Burgy, G., Durieu, E., … Meijer, L. (2012). Selectivity, cocrystal structures, and neuroprotective properties of leucettines, a family of protein kinase inhibitors derived from the marine sponge alkaloid leucettamine B. Journal of Medicinal Chemistry, 55, 9312–9330. https://doi.org/10.1021/jm301034u  
+
+Unknown Authors. (2022). Regulation of post-translational modifications with pharmacological intervention: autoimmune diseases and cancer.  
+
+Zhang, D., Li, K., Erickson-Miller, C., Weiss, M., & Wojchowski, D. (2005). DYRK gene structure and erythroid-restricted features of DYRK3 gene expression. Genomics, 85, 117–130. https://doi.org/10.1016/j.ygeno.2004.08.021

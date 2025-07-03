@@ -1,0 +1,62 @@
+## Phylogeny  
+ATR is an atypical serine/threonine protein kinase of the phosphatidylinositol-3-kinase-related kinase (PIKK) family, clustering with ATM, DNA-PKcs, mTOR, SMG-1 and TRRAP through a conserved FAT-kinase-FATC core (Templeton & Moorhead, 2005; Williams et al., 2020). Orthologues are found in most eukaryotes, e.g. S. cerevisiae Mec1, S. pombe Rad3, D. melanogaster Mei-41, C. elegans ATL-1, M. musculus Atr and A. thaliana AtATR, underscoring deep evolutionary conservation (Lempiäinen & Halazonetis, 2009; Templeton & Moorhead, 2005). Cryo-EM shows a conserved dimeric FATKIN architecture between human ATR and yeast Mec1 (Williams et al., 2020).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr ⇌ ADP + [protein]-phospho-Ser/Thr (Kim et al., 1999).  
+
+## Cofactor Requirements  
+Highest activity with Mn²⁺; Mg²⁺ supports lower turnover and is routinely used for structural work (Kim et al., 1999; Baretic et al., 2019).  
+
+## Substrate Specificity  
+Prefers Ser/Thr immediately followed by Gln, defining a minimal [S/T]Q consensus. Hydrophobic or acidic residues at positions −1 to −3 enhance, whereas basic residues inhibit phosphorylation. Large-scale phosphoproteomics confirmed widespread cellular use of the motif after UV damage. Wip1-mediated dephosphorylation is favoured when acidic residues lie N-terminal to p[S/T]Q (Kim et al., 1999; Stokes et al., 2007; Yamaguchi et al., 2007).  
+
+## Structure  
+Human ATR (2 644 aa) contains N-terminal N-HEAT and M-HEAT α-solenoids, a central FAT domain, a bilobed kinase domain, an internal PIKK regulatory domain (PRD) and a C-terminal FATC segment essential for catalysis (Baretic et al., 2019). Cryo-EM structures of the ATR–ATRIP complex (3.9–4.7 Å; PDB 5YZ0, 6NJS) reveal a head-to-head FATKIN dimer with catalytic clefts exposed; ATRIP forms an S-shaped bridge between N-HEAT regions (Rao et al., 2018). The active site carries canonical HRD, DFN (DFG-like) and APE motifs, an intact hydrophobic spine and an unobstructed substrate groove. In the apo state, the PRD rests over this groove and is displaced upon TopBP1 binding, relieving autoinhibition (Rao et al., 2018; Williams et al., 2020). Mutation Ser1333Ala in the N-HEAT solenoid increases basal activity, illustrating long-range conformational control (Luzwick et al., 2014).  
+
+## Regulation  
+• Autophosphorylation on Thr1989 after recruitment to RPA-coated ssDNA creates a high-affinity TopBP1 docking site and boosts activity (Liu et al., 2011).  
+• Phosphorylation of Ser428 enables Pin1 binding and cis/trans isomerisation, tuning mitochondrial versus nuclear functions (Makinwa et al., 2020).  
+• Ubiquitination by E6AP limits protein stability; PP2A reverses key phosphorylation events and modulates responses to small-molecule inhibitors (Wilson et al., 2022).  
+• Full activation requires ATRIP for localisation plus the Rad17-loaded 9-1-1 clamp and TopBP1 for PRD displacement (Mordes & Cortez, 2008; Yazinski & Zou, 2016).  
+
+## Function  
+Ubiquitously expressed with highest activity in proliferative tissues; predominantly nuclear with a regulated cytoplasmic pool that targets mitochondria (Baretic et al., 2019; Makinwa et al., 2020). Upstream signals include RPA-ssDNA, ATRIP, Rad17-9-1-1 and TopBP1 assembled at stalled replication forks or resected DNA lesions (Mordes & Cortez, 2008; Yazinski & Zou, 2016). Major substrates include Chk1 (Ser345), RPA2, MCM2, BRCA1, FANCI, Rad17 and many other S/TQ-containing proteins controlling S-phase checkpoint, replication origin firing, fork stability and homologous recombination (Kim et al., 1999; Rao et al., 2018; Yazinski & Zou, 2016).  
+
+## Inhibitors  
+ATP-competitive inhibitors VE-821 and its clinical analogue VE-822/VX-970 disable ATR-mediated replication-stress responses and sensitise tumour cells to topoisomerase I poisons (Josse et al., 2014). AZD6738 (ceralasertib) shows antitumour activity alone or with chemotherapeutics/PARP inhibitors; PP2A status influences sensitivity (Wilson et al., 2022). Cryo-EM confirms VX-970 occupies the ATP pocket (Rao et al., 2018).  
+
+## Other Comments  
+Complete Atr knockout in mice is embryonic lethal; hypomorphic human mutations cause Seckel syndrome (Yazinski & Zou, 2016). HEAT-repeat variants show opposing effects on activity (Ser1333Ala hyperactive; Ser1333Asp hypo-active) and triple Thr1566/1578/1589Ala separates S-phase and G2 functions (Luzwick et al., 2014; Nam et al., 2011). Tumour cells experiencing oncogene-induced replication stress exhibit heightened dependence on ATR, supporting therapeutic targeting (Yazinski & Zou, 2016).  
+
+## 9. References  
+Baretic, D., de Oliveira, T. M., Niess, M., Wan, P., Pollard, H., Johnson, C. M., … Phillips, C. (2019). Structural insights into the critical DNA damage sensors DNA-PKcs, ATM and ATR. Progress in Biophysics and Molecular Biology, 147, 4–16. https://doi.org/10.1016/j.pbiomolbio.2019.06.003  
+
+Josse, R., Martin, S. E., Guha, R., Ormanoglu, P., Pfister, T. D., Reaper, P. M., … Pommier, Y. (2014). ATR inhibitors VE-821 and VX-970 sensitize cancer cells to topoisomerase I inhibitors by disabling DNA replication initiation and fork elongation responses. Cancer Research, 74(23), 6968–6979. https://doi.org/10.1158/0008-5472.CAN-13-3369  
+
+Kim, S. T., Lim, D., Canman, C., & Kastan, M. (1999). Substrate specificities and identification of putative substrates of ATM kinase family members. Journal of Biological Chemistry, 274(53), 37538–37543. https://doi.org/10.1074/jbc.274.53.37538  
+
+Lempiäinen, H., & Halazonetis, T. D. (2009). Emerging common themes in regulation of PIKKs and PI3Ks. EMBO Journal, 28(20), 3067–3073. https://doi.org/10.1038/emboj.2009.281  
+
+Liu, S., Shiotani, B., Lahiri, M., Maréchal, A., Tse, A., Leung, C. C. Y., … Zou, L. (2011). ATR autophosphorylation as a molecular switch for checkpoint activation. Molecular Cell, 43(2), 192–202. https://doi.org/10.1016/j.molcel.2011.06.019  
+
+Luzwick, J. W., Nam, E., Zhao, R., & Cortez, D. (2014). Mutation of serine 1333 in the ATR HEAT repeats creates a hyperactive kinase. PLoS ONE, 9(6), e99397. https://doi.org/10.1371/journal.pone.0099397  
+
+Makinwa, Y., Musich, P., & Zou, Y. (2020). Phosphorylation-dependent Pin1 isomerization of ATR: its role in regulating ATR’s anti-apoptotic function at mitochondria, and the implications in cancer. Frontiers in Cell and Developmental Biology, 8, 281. https://doi.org/10.3389/fcell.2020.00281  
+
+Mordes, D. A., & Cortez, D. (2008). Activation of ATR and related PIKKs. Cell Cycle, 7(18), 2809–2812. https://doi.org/10.4161/cc.7.18.6689  
+
+Nam, E., Zhao, R., & Cortez, D. (2011). Analysis of mutations that dissociate G2 and essential S-phase functions of human ATR protein kinase. Journal of Biological Chemistry, 286(44), 37320–37327. https://doi.org/10.1074/jbc.M111.276113  
+
+Rao, Q., Liu, M., Tian, Y., Wu, Z., Hao, Y., Song, L., … Xu, Y. (2018). Cryo-EM structure of human ATR–ATRIP complex. Cell Research, 28(2), 143–156. https://doi.org/10.1038/cr.2017.158  
+
+Stokes, M., Rush, J., Macneill, J., Ren, J., Sprott, K., Nardone, J., … Comb, M. (2007). Profiling of UV-induced ATM/ATR signaling pathways. Proceedings of the National Academy of Sciences, 104(50), 19855–19860. https://doi.org/10.1073/pnas.0707579104  
+
+Templeton, G. W., & Moorhead, G. B. G. (2005). The phosphoinositide-3-OH-kinase-related kinases of Arabidopsis thaliana. EMBO Reports, 6(8), 723–728. https://doi.org/10.1038/sj.embor.7400479  
+
+Williams, R. M., Yates, L. A., & Zhang, X. (2020). Structures and regulations of ATM and ATR, master kinases in genome integrity. Current Opinion in Structural Biology, 61, 98–105. https://doi.org/10.1016/j.sbi.2019.12.010  
+
+Wilson, Z., Odedra, R., Wallez, Y., Wijnhoven, P., Hughes, A. M., Gerrard, J., … Lau, A. (2022). ATR inhibitor AZD6738 (ceralasertib) exerts antitumor activity as a monotherapy and in combination with chemotherapy and the PARP inhibitor olaparib. Cancer Research, 82(6), 1140–1152. https://doi.org/10.1158/0008-5472.CAN-21-2997  
+
+Yamaguchi, H., Durell, S., Chatterjee, D. K., Anderson, C., & Appella, E. (2007). The Wip1 phosphatase PPM1D dephosphorylates SQ/TQ motifs in checkpoint substrates phosphorylated by PI3K-like kinases. Biochemistry, 46(44), 12594–12603. https://doi.org/10.1021/bi701096s  
+
+Yazinski, S. A., & Zou, L. (2016). Functions, regulation, and therapeutic implications of the ATR checkpoint pathway. Annual Review of Genetics, 50, 155–173. https://doi.org/10.1146/annurev-genet-121415-121658

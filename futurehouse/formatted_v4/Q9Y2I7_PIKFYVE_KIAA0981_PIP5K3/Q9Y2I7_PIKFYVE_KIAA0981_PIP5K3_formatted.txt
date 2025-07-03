@@ -1,0 +1,48 @@
+## Phylogeny  
+PIKFYVE is an “Atypical” protein kinase of the PIKK family that is conserved throughout the eukaryotic lineage. Orthologues are found in yeast (Fab1p), *Caenorhabditis elegans*, plants, insects, nematodes, zebrafish (Pikfyve) and vertebrates (Manning et al., 2002; Poli et al., 2019; Unknown Authors, 2008; Unknown Authors, 2023). It is further grouped with the type III phosphatidylinositol-3-phosphate 5-kinases (Fab1 kinases).  
+
+## Reaction Catalyzed  
+1. ATP + phosphatidylinositol-3-phosphate (PI3P) → ADP + phosphatidylinositol-3,5-bisphosphate (PI(3,5)P₂)  
+2. ATP + phosphatidylinositol (PI) → ADP + phosphatidylinositol-5-phosphate (PI5P)  
+(Poli et al., 2019; Unknown Authors, 2008; Karabiyik, 2021)  
+
+## Cofactor Requirements  
+Catalysis requires divalent cations, with Mg²⁺ preferred and Mn²⁺ able to substitute. The FYVE domain is a Zn²⁺-binding module for membrane targeting (Poli et al., 2019; Unknown Authors, 2008; Unknown Authors, 2023).  
+
+## Substrate Specificity  
+PIKFYVE phosphorylates phosphoinositide lipids, showing highest preference for PI3P and the ability to use PI. The FYVE domain confers PI3P-specific membrane recruitment. Although the enzyme also displays serine protein-kinase activity, consensus motifs for protein substrates were not detailed (Poli et al., 2019; Unknown Authors, 2008; Unknown Authors, 2023).  
+
+## Structure  
+Human PIKFYVE is a ~230 kDa multidomain protein comprising an N-terminal FYVE domain, PH domain, DEP domain, CCT domain, spectrin repeats, a winged-helix motif and a C-terminal phosphoinositide-kinase catalytic domain. AlphaFold modelling of Q9Y2I7 reveals a canonical bilobal kinase fold with an open activation loop, catalytic loop and correctly positioned C-helix. PIKFYVE forms a heteromeric complex with FIG4 and the pentameric scaffold VAC14 (Manning et al., 2002; Poli et al., 2019; Unknown Authors, 2016; Unknown Authors, 2023).  
+
+## Regulation  
+• Complex formation with FIG4 and VAC14 is essential for activity and for tight control of PI(3,5)P₂ levels. FIG4 both dephosphorylates PI(3,5)P₂ and promotes PIKFYVE activation (Poli et al., 2019; Unknown Authors, 2008; Unknown Authors, 2023).  
+• Autophosphorylation of PIKFYVE inhibits its lipid-kinase function (Poli et al., 2019).  
+• Phosphorylation by upstream kinases modulates activity: Ser318 (site suggested) and Ser1548 (phosphorylated by ULK1, stimulates PI5P synthesis) (Unknown Authors, 2008; Karabiyik, 2021).  
+
+## Function  
+PIKFYVE is ubiquitously expressed, with higher levels in adipose tissue, muscle, ocular tissues and pancreas (Unknown Authors, 2016; Unknown Authors, 2023).  
+Interacting partners: FIG4, VAC14 (core complex), RAB11A, and the Rab9 effector p40 (Poli et al., 2019; Karabiyik, 2021).  
+Cellular roles: regulates endosomal maturation, lysosomal fission/acidification, endosome-to-TGN retrograde transport, phagosome maturation, autophagy, osmotic-stress responses and insulin-stimulated GLUT4 translocation (Poli et al., 2019; Unknown Authors, 2016; Unknown Authors, 2023).  
+
+## Inhibitors  
+YM201636, apilimod and curcumin are small-molecule inhibitors that block PIKFYVE kinase activity; dominant-negative mutants or siRNA give similar phenotypes (Poli et al., 2019; Unknown Authors, 2016; Unknown Authors, 2023).  
+
+## Other Comments  
+Pathogenic variants in PIKFYVE cause François-Neetens corneal fleck dystrophy and some congenital cataracts; haploinsufficiency is supported by zebrafish models. Mutations in FIG4, a complex partner, underlie Charcot-Marie-Tooth disease type 4J. Complete loss of PIKFYVE produces severe developmental defects or embryonic lethality in model organisms (Poli et al., 2019; Unknown Authors, 2008; Unknown Authors, 2023).  
+
+## 9. References  
+
+Karabiyik, C. (2021). A study on non-canonical autophagy signalling. https://doi.org/10.17863/cam.69456  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912-1934. https://doi.org/10.1126/science.1075762  
+
+Poli, A., Zaurito, A. E., Abdul-Hamid, S., Fiume, R., Faenza, I., & Divecha, N. (2019). Phosphatidylinositol 5 phosphate (PI5P): From behind the scenes to the front (nuclear) stage. International Journal of Molecular Sciences, 20, 2080. https://doi.org/10.3390/ijms20092080  
+
+Unknown Authors. (2008). The roles and regulation of phosphatidylinositol 3,5-bisphosphates in mammals.  
+
+Unknown Authors. (2016). Rôle du PtdIns5P et de PIKfyve dans le contrôle de l'intégrité des granules plaquettaires.  
+
+Unknown Authors. (2016). Investigating novel interaction partners of amyloid precursor protein: The mechanistic target of rapamycin and PIKfyve complex.  
+
+Unknown Authors. (2023). Roles of PIKfyve in the retina: A zebrafish study.

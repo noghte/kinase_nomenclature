@@ -1,0 +1,61 @@
+## Phylogeny  
+Tyrosine-protein kinase ZAP-70 is a member of the Syk family within the tyrosine kinase group of the human kinome and is evolutionarily related to Syk, its B-cell homologue (Deindl et al., 2007; Béné, 2006; Chen et al., 2020; Yan et al., 2013). Orthologues are conserved from fish to mammals, including mouse and rat (Shah et al., 2016; Fischer et al., 2010; Fernández-Aguilar et al., 2023).
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + protein-L-tyrosine-phosphate (Huber et al., 2015; Yan et al., 2013).
+
+## Cofactor Requirements  
+Requires divalent cations Mg²⁺ or Mn²⁺ for catalytic activity (Béné, 2006; Chen et al., 2020; Deindl et al., 2007).
+
+## Substrate Specificity  
+The kinase domain recognizes tyrosine sites embedded in sequences of high local negative charge, favouring acidic residues (Asp/Glu) and excluding basic residues (Lys/Arg); this is mediated by a positively charged binding surface on ZAP-70 (Shah et al., 2016). Peptide-array studies report differing consensus motifs:  
+• strong P-1 acidic preference and polar residues at P-3/P-2, with small non-polar residues downstream (Regulation of protein tyrosine kinase ZAP-70 by serine phosphorylation, 2003);  
+• enrichment of acidic residues at P-3/P-2 and Ile/Val at P + 1 (Yaron-Barir et al., 2024);  
+• an alternative view of aliphatic hydrophobic residues at P-1 and P + 3 (Yaron-Barir et al., 2024).  
+
+The SH2 tandem domains recognise doubly phosphorylated ITAMs with the consensus (D/E)xxYxxL(x)₆–₈YxxL (Béné, 2006; Deindl et al., 2007).
+
+## Structure  
+ZAP-70 (~70 kDa) contains two N-terminal SH2 domains and a C-terminal kinase (SH1) domain (Fischer et al., 2010; Béné, 2006). The kinase adopts a bilobal fold: an N-lobe of five β-strands plus the αC helix that anchors ATP, and a C-lobe housing the substrate-binding site (Huber et al., 2015). Key motifs include HRDLAARN and an activation loop between DFG and APE sequences; K369–E386 salt-bridge stabilises the inactive αC helix (Huber et al., 2015). The autoinhibited structure is captured in PDB 2OZO (Deindl et al., 2007).
+
+## Regulation  
+Basally autoinhibited, ZAP-70 is recruited to T-cell receptor ITAMs phosphorylated by Lck; SH2 binding relieves inhibition (Deindl et al., 2007; Chen et al., 2020). Full activation requires Lck-mediated phosphorylation of:  
+• Y492/Y493 in the activation loop (Yan et al., 2013; Fischer et al., 2010);  
+• Y315/Y319 in the SH2-kinase linker (Deindl et al., 2007; Williams et al., 1999);  
+• Y292, generating a c-Cbl docking site for negative regulation (Kong et al., 1996; Targeting ZAP-70 protein kinase in T-cell lymphoproliferative malignancies, 2024).
+
+## Function  
+Highly expressed in thymocytes, peripheral T cells and NK cells, ZAP-70 is essential for adaptive immunity (Fischer et al., 2010; Fernández-Aguilar et al., 2023). Downstream of Lck, it phosphorylates adaptor proteins LAT and LCP2/SLP-76, assembling signaling complexes that drive Ca²⁺ mobilisation, MAPK activation, cytoskeletal reorganisation and IL-2 production, thereby regulating thymocyte development, T-cell motility and activation (Béné, 2006; Deindl et al., 2007; Chen et al., 2020).
+
+## Inhibitors  
+ATP-competitive inhibitors include staurosporine (Huber et al., 2015; Deindl et al., 2007). Additional experimental agents are CPI-818 and cerdulatinib, and fragment screening has revealed an allosteric pocket adjacent to the activation loop (Targeting ZAP-70 protein kinase in T-cell lymphoproliferative malignancies, 2024; Huber et al., 2015).
+
+## Other Comments  
+Loss-of-function mutations in ZAP70 cause autosomal-recessive severe combined immunodeficiency with absent CD8⁺ and dysfunctional CD4⁺ T cells; hypomorphic variants can predispose to autoimmunity (Béné, 2006; Fischer et al., 2010). Aberrant ZAP-70 expression in B-cell chronic lymphocytic leukaemia is a poor-prognostic marker linked to heightened antigen-receptor signalling (Béné, 2006; Targeting ZAP-70 protein kinase in T-cell lymphoproliferative malignancies, 2024).
+
+## 9. References  
+Béné, M. C. (2006). What is ZAP-70? Cytometry Part B: Clinical Cytometry, 70B, 204–208. https://doi.org/10.1002/cyto.b.20124  
+
+Chen, J., Moore, A., & Ringshausen, I. (2020). ZAP-70 shapes the immune microenvironment in B-cell malignancies. Frontiers in Oncology. https://doi.org/10.3389/fonc.2020.595832  
+
+Deindl, S., Kadlecek, T. A., Brdicka, T., Cao, X., Weiss, A., & Kuriyan, J. (2007). Structural basis for the inhibition of tyrosine kinase activity of ZAP-70. Cell, 129, 735–746. https://doi.org/10.1016/j.cell.2007.03.039  
+
+Fernández-Aguilar, L. M., Vico-Barranco, I., Arbulo-Echevarria, M. M., & Aguado, E. (2023). The role of Lck, ZAP-70 and LAT in T-cell development and activation. Biology, 12, 1163. https://doi.org/10.3390/biology12091163  
+
+Fischer, A., Picard, C., Chemin, K., Dogniaux, S., Le Deist, F., & Hivroz, C. (2010). ZAP-70: A master regulator of adaptive immunity. Seminars in Immunopathology, 32, 107–116. https://doi.org/10.1007/s00281-010-0196-x  
+
+Huber, R. G., Fan, H., & Bond, P. J. (2015). The structural basis for activation and inhibition of ZAP-70 kinase domain. PLOS Computational Biology, 11, e1004560. https://doi.org/10.1371/journal.pcbi.1004560  
+
+Kong, G., Dalton, M., Wardenburg, J. B., Straus, D., Kurosaki, T., & Chan, A. C. (1996). Distinct tyrosine phosphorylation sites in ZAP-70 mediate activation and negative regulation of antigen receptor function. Molecular and Cellular Biology, 16, 5026–5035. https://doi.org/10.1128/MCB.16.9.5026  
+
+Regulation of protein tyrosine kinase ZAP-70 by serine phosphorylation. (2003).  
+
+Shah, N. H., Wang, Q., Yan, Q., Karandur, D., Kadlecek, T. A., Fallahee, I. R., … Kuriyan, J. (2016). An electrostatic selection mechanism controls sequential kinase signalling downstream of the T-cell receptor. eLife. https://doi.org/10.7554/eLife.20105  
+
+Targeting ZAP-70 protein kinase in T-cell lymphoproliferative malignancies. (2024).  
+
+Yan, Q., Barros, T., Visperas, P. R., Deindl, S., Kadlecek, T. A., Weiss, A., & Kuriyan, J. (2013). Structural basis for activation of ZAP-70 by phosphorylation of the SH2-kinase linker. Molecular and Cellular Biology, 33, 2188–2201. https://doi.org/10.1128/MCB.01637-12  
+
+Yaron-Barir, T. M., Joughin, B. A., Huntsman, E. M., Kerelsky, A., Cizin, D. M., Cohen, B. M., … Johnson, J. L. (2024). The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629, 1174–1181. https://doi.org/10.1038/s41586-024-07407-y  
+
+Williams, B. L., Irvin, B. J., Sutor, S. L., Chini, C. C., Yacyshyn, E., Bubeck Wardenburg, J., … Abraham, R. T. (1999). Phosphorylation of Tyr319 in ZAP-70 is required for T-cell antigen receptor-dependent PLC-γ1 and Ras activation. EMBO Journal, 18, 1832–1844. https://doi.org/10.1093/emboj/18.7.1832

@@ -1,0 +1,56 @@
+## Phylogeny  
+Member of the protein-tyrosine kinase (TK) group, Janus kinase (JAK) family, clustering with JAK1, JAK2 and JAK3. Orthologs occur in human (TYK2), mouse (Tyk2), chicken (TYK2) and zebrafish (tyk2), showing strong conservation of the four-domain JAK architecture across vertebrates (Borcherding et al., 2021; Wöss et al., 2019).
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + protein-L-tyrosine-O-phosphate (Wöss et al., 2019; Borcherding et al., 2021).
+
+## Cofactor Requirements  
+Requires two Mg²⁺ ions that coordinate ATP in the JH1 active site (Wang et al., 2025).
+
+## Substrate Specificity  
+Cellular targets include STAT1, STAT3, STAT4, STAT5A/B and receptor tyrosines within IFNAR1, IL-12Rβ1, IL-10Rβ and IL-13Rα1. Recognition is driven by SH2-mediated docking to receptor pY-X-X-L/I motifs; no stringent linear consensus has been defined for free peptides (Borcherding et al., 2021; Wang et al., 2025).
+
+## Structure  
+Four-domain organisation: N-terminal FERM (JH7-JH5) binds receptors; SH2-like JH4; JH2 pseudokinase provides autoinhibition/allosteric control; C-terminal JH1 is catalytic (Borcherding et al., 2021; Min et al., 2015).  
+• JH2 crystal structure (PDB 4OLI, 1.9 Å) adopts a closed, active-like fold with a rigid αAL helix replacing the P+1 loop, blocking substrate access and explaining lack of catalysis (Min et al., 2015).  
+• Tandem JH2-JH1 structure reveals extensive N-lobe contacts that lock JH1 in an autoinhibited conformation; interface-disrupting mutations yield constitutive activity (Lupardus et al., 2014).  
+• Catalytic landmarks in JH1: Lys930 (VAVK), Glu927 (αC), Asp1010 (HRD), Asp1028 (DFG), gatekeeper Thr981, activation-loop Tyr1054/Tyr1055; alignment of the hydrophobic spine accompanies activation (Borcherding et al., 2021; Min et al., 2015; Wang et al., 2025).
+
+## Regulation  
+Post-translational modifications  
+– Trans-autophosphorylation of Tyr1054/Tyr1055 is required for full activity.  
+– Phosphorylation at Ser491/Ser499 modulates signalling amplitude.  
+– Dephosphorylation by PTP1B and SHP1 attenuates activity.  
+– SOCS1/3 and the E3 ligase SIAH2 mediate ubiquitin-dependent degradation.  
+– HSP90 chaperoning stabilises TYK2; HSP90 inhibition leads to degradation (Borcherding et al., 2021; Wöss et al., 2019).
+
+Allosteric control  
+– ATP binding to JH2 stabilises the pseudokinase and restricts JH1 flexibility without phosphotransferase activity (Min et al., 2015).  
+– Gain-of-function JH2 mutations V678F, P760L and G761V weaken the JH2-JH1 interface, producing ligand-independent kinase activity (Min et al., 2015; Wöss et al., 2019).
+
+## Function  
+Broadly expressed, highest in haematopoietic and epithelial cells. Associates with IFNAR1, IL-12Rβ1, IL-10Rβ and IL-13Rα1, partnering with JAK1 or JAK2 on complementary receptor chains. Upon cytokine binding, TYK2 phosphorylates receptor tails and STAT1/3/4/6, driving transcriptional programmes that control innate and adaptive immunity, antiviral defence, inflammation, cell survival and differentiation. Kinase-independent scaffolding by TYK2 is necessary for surface expression of IFNAR1 and IL-10R2 (Wöss et al., 2019; Borcherding et al., 2021; Sohn et al., 2013).
+
+## Inhibitors  
+• Deucravacitinib (BMS-986165): high-affinity JH2 allosteric binder that locks TYK2 in the autoinhibited state and suppresses type I IFN and IL-23 signalling (Burke et al., 2019).  
+• BMS-986202 and TAK-279: investigational JH2-selective inhibitors exploiting the same pocket (Wang et al., 2025).  
+• Pyrazine-based ATP-competitive probe for JH2 (K_d ≈ 0.25 µM) enables structural studies (Min et al., 2015).  
+• Pan-JAK active-site inhibitors (tofacitinib, baricitinib, ruxolitinib) inhibit TYK2 but lack selectivity (Sohn et al., 2013; Borcherding et al., 2021).
+
+## Other Comments  
+Loss-of-function variants rs34536443 (P1104A) and E971fsX67 impair STAT activation, causing immunodeficiency but confer protection from several autoimmune diseases. Gain-of-function variants V678F, P760L and G761V relieve autoinhibition and are linked to haematologic malignancies. Oncogenic fusions NPM1–TYK2, NFκB2–TYK2 and MYB–TYK2 create constitutively active kinases driving leukaemias and lymphomas (Borcherding et al., 2021; Wöss et al., 2019).
+
+## References  
+Borcherding, D. C., He, K., Amin, N. V., & Hirbe, A. (2021). Tyk2 in cancer metastases: Genomic and proteomic discovery. Cancers, 13(16), 4171. https://doi.org/10.3390/cancers13164171  
+
+Burke, J. R., Cheng, L., Gillooly, K. M., Strnad, J., Zupa-Fernandez, A., Catlett, I. M., … Salter-Cid, L. M. (2019). Autoimmune pathways in mice and humans are blocked by pharmacological stabilization of the TYK2 pseudokinase domain. Science Translational Medicine, 11(507), eaaw1736. https://doi.org/10.1126/scitranslmed.aaw1736  
+
+Lupardus, P. J., Ultsch, M., Wallweber, H., Kohli, P. B., Johnson, A. R., & Eigenbrot, C. (2014). Structure of the pseudokinase–kinase domains from protein kinase TYK2 reveals a mechanism for Janus kinase autoinhibition. Proceedings of the National Academy of Sciences, 111, 8025–8030. https://doi.org/10.1073/pnas.1401180111  
+
+Min, X., Ungureanu, D., Maxwell, S., Hammarén, H., Thibault, S., Hillert, E.-K., … Wang, Z. (2015). Structural and functional characterization of the JH2 pseudokinase domain of JAK family tyrosine kinase 2 (TYK2). Journal of Biological Chemistry, 290, 27261–27270. https://doi.org/10.1074/jbc.M115.672048  
+
+Sohn, S., Barrett, K., van Abbema, A., Chang, C., Kohli, P. B., Kanda, H., … Wu, L. C. (2013). A restricted role for TYK2 catalytic activity in human cytokine responses revealed by novel TYK2-selective inhibitors. Journal of Immunology, 191, 2205–2216. https://doi.org/10.4049/jimmunol.1202859  
+
+Wang, J., Lomakin, I., Batista, V. S., & Bunick, C. (2025). A triple-action inhibitory mechanism of allosteric TYK2-specific inhibitors. Journal of Investigative Dermatology. https://doi.org/10.1016/j.jid.2025.04.025  
+
+Wöss, K., Simonović, N., Strobl, B., Macho-Maschler, S., & Müller, M. (2019). TYK2: An upstream kinase of STATs in cancer. Cancers, 11(11), 1728. https://doi.org/10.3390/cancers11111728

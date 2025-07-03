@@ -1,0 +1,63 @@
+## Phylogeny  
+Orthologues occur from plants to vertebrates (Arabidopsis Tousled, Drosophila Tlk, C. elegans tlk-1, two T. brucei TLKs, mouse Tlk2 and human TLK2), indicating deep eukaryotic conservation (Segura-Bayona & Stracker, 2019). TLK2 and its paralogue TLK1 share ~94 % sequence identity in the kinase domain and together form the TLK family, a small clade placed in the “Other” branch of the human kinome tree, between the Polo-like and AGC families (Mortuza et al., 2018).
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr ⇌ ADP + [protein]-O-phospho-Ser/Thr (Mortuza et al., 2018).
+
+## Cofactor Requirements  
+Mg²⁺ is obligatory; Mn²⁺ can replace Mg²⁺ with lower efficiency (Mortuza et al., 2018).
+
+## Substrate Specificity  
+• Positional-scanning on ASF1 peptides defined a preference for an acidic residue (Asp/Glu) at –2 relative to the phospho-Ser/Thr and a hydrophobic or amidic residue at +1 (Simon et al., 2022).  
+• The Johnson et al. (2023) kinome atlas has not yet resolved an independent TLK2 consensus beyond the ASF1-derived –2 acidic preference.  
+• Verified cellular substrates include the histone chaperones ASF1A and ASF1B (Segura-Bayona & Stracker, 2019) and Rad9 of the 9-1-1 clamp (De Benedetti, 2012).
+
+## Structure  
+TLK2 comprises (i) an N-terminal intrinsically disordered segment (~aa 1–190) bearing a nuclear-localisation signal and mediating autoinhibition, (ii) three coiled-coil regions (CC1–CC3, ~aa 191–520) that drive dimer/oligomer formation, (iii) a bilobal kinase domain (~aa 550–750) containing canonical VAIK, αC-Glu and HRD motifs with an activation loop (S686–T700), and (iv) a short C-terminal tail (aa 750–772) rich in regulatory phosphosites (Mortuza et al., 2018).  
+A 2.8 Å crystal structure of an N-terminally truncated TLK2 bound to ATPγS captures an active conformation with clustered autophosphorylation sites on the activation loop and C-tail (Mortuza et al., 2018). PDB 7U53 reveals an N-terminal TLK2 helix docking on ASF1A, illustrating ‘client-mimicry’ substrate engagement (Simon et al., 2022).
+
+## Regulation  
+• Activation by cis- and trans-autophosphorylation on S617, S686, T695 and S700 (Mortuza et al., 2018).  
+• Inhibition via phosphorylation of C-tail residue S569 (Mortuza et al., 2018).  
+• The N-terminal segment imposes autoinhibition; its removal markedly increases catalytic activity (Mortuza et al., 2018).  
+• Coiled-coil-mediated dimer/oligomer formation is required for full activation (Asquith et al., 2024).  
+• DNA-damage checkpoints suppress TLK activity through CHK1-dependent phosphorylation (Segura-Bayona & Stracker, 2019).  
+• Protein stability is limited by SCF(FBXL3 + CRY)-dependent ubiquitination (Segura-Bayona & Stracker, 2019).
+
+## Function  
+TLK2 is ubiquitously expressed, localises predominantly in the nucleus and shows peak activity during S phase (Asquith et al., 2024). Key roles include:  
+• Chromatin assembly – phosphorylation of ASF1A/B stabilises these chaperones and promotes H3-H4 hand-off to CAF-1 and HIRA during DNA replication (Segura-Bayona & Stracker, 2019).  
+• DNA replication/repair – maintains fork integrity; depletion causes fork stalling, ssDNA accumulation and p53-mediated G1 arrest (Asquith et al., 2024).  
+• Checkpoint recovery – promotes exit from DNA-damage-induced G2/M arrest in an ASF1A-dependent manner (Asquith et al., 2024).  
+• Epigenome stability – loss of TLK2 derepresses heterochromatic loci and activates the cGAS-STING-TBK1 innate-immunity axis (Asquith et al., 2024).  
+• Metabolic control – interacts with ATF4 to drive asparagine synthetase during amino-acid stress (Asquith et al., 2024).  
+• Interactome – proximity labelling detects TLK1, DYNLL1/2 and multiple chromatin-remodelling and replication-fork factors; kinase-dead mutants lose these interactions (Pavinato et al., 2022).  
+• Synthetic lethality – TLK2 loss or inhibition sensitises cells to ATR/CHK1 and PARP inhibitors (Asquith et al., 2024).
+
+## Inhibitors  
+Oxindole-based ATP-competitive inhibitors with sub-micromolar potency and high kinome selectivity have been developed; they induce replication stress and synergise with PARP inhibition in cancer models (Asquith et al., 2024).
+
+## Other Comments  
+• Oncology – TLK2 is frequently amplified in luminal breast cancer and glioblastoma, driving SRC and mTOR/ASNS signalling and correlating with poor immune responses (Asquith et al., 2024).  
+• Neurodevelopment – de novo or inherited loss-of-function variants cause an intellectual-disability syndrome with behavioural and gastrointestinal features (Reijnders et al., 2018).  
+• Pathogenic missense mutations (e.g., D551G, S617L) abolish catalytic activity, mis-localise the protein and impair chromatin maintenance (Pavinato et al., 2022).  
+• Mouse Tlk2 knockout results in embryonic lethality owing to placental failure and reduced ASF1 phosphorylation, underscoring essential developmental functions (Segura-Bayona et al., 2017).
+
+## References  
+Asquith, C., East, M. P., Laitinen, T., Alamillo-Ferrer, C., Hartikainen, E., Wells, C., Axtman, A. D., Drewry, D., Tizzard, G., Poso, A., Willson, T. M., & Johnson, G. L. (2024). Discovery and optimization of narrow spectrum inhibitors of tousled like kinase 2 (TLK2) using quantitative structure-activity relationships. European Journal of Medicinal Chemistry, 271, 116357. https://doi.org/10.1016/j.ejmech.2024.116357  
+
+De Benedetti, A. (2012). The Tousled-like kinases as guardians of genome integrity. ISRN Molecular Biology, 2012, 627596. https://doi.org/10.5402/2012/627596  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Mortuza, G. B., Hermida, D., Pedersen, A.-K., Segura-Bayona, S., López-Méndez, B., Redondo, P., Rüther, P., Pozdnyakova, I., Garrote, A. M., Muñoz, I. G., Villamor-Payà, M., Jauset, C., Olsen, J. V., Stracker, T. H., & Montoya, G. (2018). Molecular basis of Tousled-like kinase 2 activation. Nature Communications, 9, 5399. https://doi.org/10.1038/s41467-018-04941-y  
+
+Pavinato, L., Villamor-Payà, M., Sanchiz-Calvo, M., Andreoli, C., Gay, M., Vilaseca, M., Arauz-Garofalo, G., Ciolfi, A., Bruselles, A., Pippucci, T., Prota, V., Carli, D., Giorgio, E., Radio, F. C., Antona, V., Giuffré, M., Ranguin, K., Colson, C., De Rubeis, S., … Brusco, A. (2022). Functional analysis of TLK2 variants and their proximal interactomes implicates impaired kinase activity and chromatin maintenance defects in their pathogenesis. Journal of Medical Genetics, 59(2), 170–179. https://doi.org/10.1136/jmedgenet-2020-107281  
+
+Reijnders, M. R. F., Miller, K. A., Alvi, M., Goos, J. A. C., Lees, M. M., de Burca, A., Henderson, A., Kraus, A., Mikat, B., de Vries, B. B. A., … Wilkie, A. O. M. (2018). De novo and inherited loss-of-function variants in TLK2: Clinical and genotype-phenotype evaluation of a distinct neurodevelopmental disorder. American Journal of Human Genetics, 102(6), 1195–1203. https://doi.org/10.1016/j.ajhg.2018.04.014  
+
+Segura-Bayona, S., Knobel, P. A., González-Burón, H., Youssef, S. A., Peña-Blanco, A., Coyaud, É., López-Rovira, T., Rein, K., Palenzuela, L., Colombelli, J., Forrow, S., Raught, B., Groth, A., de Bruin, A., & Stracker, T. H. (2017). Differential requirements for Tousled-like kinases 1 and 2 in mammalian development. Cell Death & Differentiation, 24(11), 1872–1885. https://doi.org/10.1038/cdd.2017.108  
+
+Segura-Bayona, S., & Stracker, T. H. (2019). The Tousled-like kinases regulate genome and epigenome stability: Implications in development and disease. Cellular and Molecular Life Sciences, 76(19), 3827–3841. https://doi.org/10.1007/s00018-019-03208-z  
+
+Simon, B., Lou, H., Huet-Calderwood, C., Shi, G., Boggon, T., Turk, B., & Calderwood, D. A. (2022). Tousled-like kinase 2 targets ASF1 histone chaperones through client mimicry. Nature Communications, 13, 827. https://doi.org/10.1038/s41467-022-28427-0

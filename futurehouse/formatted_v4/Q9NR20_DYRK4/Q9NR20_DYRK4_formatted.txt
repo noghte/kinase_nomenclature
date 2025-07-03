@@ -1,0 +1,55 @@
+## Phylogeny  
+Dual-specificity tyrosine-phosphorylation-regulated kinase 4 (DYRK4) belongs to the CMGC protein-kinase group and is classified as a class II DYRK. Orthologs have been reported in human, mouse, rat, chicken, zebrafish, fruit-fly and yeast (Boni et al., 2020; Lindberg & Meijer, 2021). Within the DYRK lineage, DYRK4 clusters with yeast Yak1p and Drosophila minibrain (Becker et al., 1998).
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr ⇌ ADP + protein-O-phospho-L-Ser/Thr (Becker et al., 1998)  
+ATP + DYRK4 (activation loop) ⇌ ADP + DYRK4-Tyr(P) (autophosphorylation on the YxY motif) (Papadopoulos et al., 2011)
+
+## Cofactor Requirements  
+Catalysis by DYRK-family kinases requires divalent Mg²⁺ or Mn²⁺; DYRK4 itself has not yet been assayed separately (Soundararajan et al., 2013; Lindberg & Meijer, 2021).
+
+## Substrate Specificity  
+• No consensus motif is reported in the 2023 serine/threonine kinase motif atlas (Kokkorakis et al., 2024).  
+• Peptide-array profiling indicates preference for Pro at +1 and tolerance for the absence of Arg at –3/–2; DYRKtide is phosphorylated poorly (Papadopoulos et al., 2011).  
+• The 2024 tyrosine-kinase specificity atlas contains no DYRK4 data (Kokkorakis et al., 2024).
+
+## Structure  
+DYRK4 comprises an N-terminal autophosphorylation accessory (NAPA) domain, a DYRK-homology (DH) box, a bilobal kinase core and a variable C-terminal tail (Lindberg & Meijer, 2021). An AlphaFold model (AF-Q9NR20-F1) predicts a canonical kinase fold with an intact HRD motif, DFG motif, ordered αC-helix and continuous hydrophobic spine (Lindberg & Meijer, 2021). The activation segment harbours the conserved YxY autophosphorylation motif (Papadopoulos et al., 2011). A splice variant lacking the CLV triplet near helix H disrupts the H/F interface and abolishes catalytic activity (Papadopoulos et al., 2011). No experimental crystal or NMR structure is available.
+
+## Regulation  
+• Autophosphorylation of the second Tyr within the YxY motif is essential for full activity (Papadopoulos et al., 2011).  
+• Class II DYRKs, including DYRK4, are hydroxylated on Pro-4 by PHD1 before autophosphorylation (Lindberg & Meijer, 2021).  
+• Alternative promoters and splicing generate isoforms with or without a classical nuclear-localisation signal, defining nuclear versus cytosolic localisation (Papadopoulos et al., 2011; Aranda et al., 2011).  
+• Additional, unidentified Ser/Thr phosphorylations cause electrophoretic mobility shifts (Papadopoulos et al., 2011).
+
+## Function  
+Expression: GTEx and the Human Protein Atlas show low overall expression with enrichment in selected brain regions and reproductive tissues; in rodents, expression peaks in step-8 spermatids (Correa-Sáez et al., 2020; Yoshida & Yoshida, 2023).  
+Phenotype: Dyrk4-null mice are viable and fertile with no detectable spermatogenic defects, indicating DYRK4 is non-essential for male reproduction (Yoshida, 2008).  
+Cellular role: Over-expression in neurons enhances dendritic branching, suggesting a role in cytoskeletal organisation (Lindberg & Meijer, 2021).  
+Substrates/interactors: No validated downstream substrates or stable protein interactors have been reported (Schmitt, 2014).
+
+## Other Comments  
+The DYRK4 gene maps to chromosome 12q14.2. No selective inhibitors, disease-associated mutations or strong disease links have been described (Correa-Sáez et al., 2020; Kokkorakis et al., 2024).
+
+## References  
+Aranda, S., Laguna, A., & de la Luna, S. (2011). DYRK family of protein kinases: evolutionary relationships, biochemical properties, and functional roles. The FASEB Journal, 25, 449–462. https://doi.org/10.1096/fj.10-165837  
+
+Becker, W., Weber, Y., Wetzel, K., Eirmbter, K., Tejedor, F., & Joost, H. (1998). Sequence characteristics, subcellular localization, and substrate specificity of DYRK-related kinases. Journal of Biological Chemistry, 273, 25893–25902. https://doi.org/10.1074/jbc.273.40.25893  
+
+Boni, J., Rubio-Perez, C., López-Bigas, N., Fillat, C., & de la Luna, S. (2020). The DYRK family of kinases in cancer: molecular functions and therapeutic opportunities. Cancers, 12, 2106. https://doi.org/10.3390/cancers12082106  
+
+Correa-Sáez, A., Jiménez-Izquierdo, R., Garrido-Rodríguez, M., Morrugares, R., Muñoz, E., & Calzado, M. A. (2020). Updating dual-specificity tyrosine-phosphorylation-regulated kinase 2 (DYRK2): molecular basis, functions and role in diseases. Cellular and Molecular Life Sciences, 77, 4747–4763. https://doi.org/10.1007/s00018-020-03556-1  
+
+Kokkorakis, N., Zouridakis, M., & Gaitanou, M. (2024). Mirk/DYRK1B kinase inhibitors in targeted cancer therapy. Pharmaceutics, 16, 528. https://doi.org/10.3390/pharmaceutics16040528  
+
+Lindberg, M. F., & Meijer, L. (2021). Dual-specificity, tyrosine phosphorylation-regulated kinases (DYRKs) and CDC2-like kinases (CLKs) in human disease: an overview. International Journal of Molecular Sciences, 22, 6047. https://doi.org/10.3390/ijms22116047  
+
+Papadopoulos, C., Arato, K., Lilienthal, E., Zerweck, J., Schutkowski, M., Chatain, N., Müller-Newen, G., Becker, W., & de la Luna, S. (2011). Splice variants of the dual-specificity tyrosine phosphorylation-regulated kinase 4 (DYRK4) differ in their subcellular localization and catalytic activity. Journal of Biological Chemistry, 286, 5494–5505. https://doi.org/10.1074/jbc.M110.157909  
+
+Schmitt, C. (2014). Development of new lead-like dual inhibitors of CLK1 and DYRK1A/B. [Doctoral dissertation]. https://doi.org/10.22028/D291-22977  
+
+Soundararajan, M., Roos, A. K., Savitsky, P., Filippakopoulos, P., Kettenbach, A. N., Olsen, J. V., Gerber, S. A., Eswaran, J., Knapp, S., & Elkins, J. M. (2013). Structures of Down syndrome kinases, DYRKs, reveal mechanisms of kinase activation and substrate recognition. Structure, 21, 986–996. https://doi.org/10.1016/j.str.2013.03.012  
+
+Yoshida, K. (2008). Role for DYRK family kinases in regulation of apoptosis. Biochemical Pharmacology, 76, 1389–1394. https://doi.org/10.1016/j.bcp.2008.05.021  
+
+Yoshida, S., & Yoshida, K. K. (2023). New insights into the roles for DYRK family in mammalian development and congenital diseases. Genes & Diseases, 10, 758–770. https://doi.org/10.1016/j.gendis.2021.12.004

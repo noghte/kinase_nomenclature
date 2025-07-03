@@ -1,0 +1,61 @@
+## Phylogeny  
+MAP4K3 (also GLK/KHS2) is a member of the STE20 family, GCK-I subfamily. Its closest human paralogues are MAP4K1, MAP4K2, MAP4K4 and MAP4K5 (Silvian, 2017). Orthologues in Mus musculus (Map4k3), Rattus norvegicus (Map4k3), Drosophila melanogaster (happyhour), Caenorhabditis elegans (MIG-15) and Saccharomyces cerevisiae (Ste20p) indicate deep evolutionary conservation (Chuang & Tan, 2019). A longer activation loop than in MAP4K4 confers a distinctive, loose activation-loop-swapped dimer unique to MAP4K3 (Marcotte et al., 2017).
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + protein-Ser/Thr-phosphate (Marcotte et al., 2017).
+
+## Cofactor Requirements  
+Catalysis requires Mg²⁺ (~10 mM MgCl₂). Mn²⁺ is not needed for phosphotransfer and is used only during phosphatase control steps (Marcotte et al., 2017).
+
+## Substrate Specificity  
+Validated substrates include PKCθ Thr538, TFEB Ser3, IQGAP1 Ser480, the activation loops of LATS1/2 and myelin basic protein (Chuang et al., 2016). A kinome-wide survey has not yet defined a consensus phosphorylation motif for MAP4K3 (Han et al., 2024).
+
+## Structure  
+• Domain organisation: N-terminal kinase domain (residues 1–314), central proline-rich/PEST segment, C-terminal citron-homology domain (Thiriet, 2013).  
+• 2.85 Å crystal structure (PDB 5J5T) shows an activation-loop-swapped dimer formed via APE and TYPW motifs (Marcotte et al., 2017).  
+• Key catalytic features: Lys45–Glu61 salt bridge, intact HRD triad, aligned regulatory spine; phospho-Ser170 stabilises the activation loop, and the S170A mutant retains ATP binding but ≤ 3 % activity (Marcotte et al., 2017).  
+• A straight P-loop and αK-helix Asn290 create an inhibitor-binding pocket, and an acidic C-terminal extension docks into a neighbouring basic groove, reminiscent of AGC-kinase PIF binding (Marcotte et al., 2017).
+
+## Regulation  
+• Essential autophosphorylation on Ser170; dephosphorylated and inactivated by PP2A-PR61ε (Chuang et al., 2016; Silvian, 2017).  
+• Growth factors induce phosphorylation at Tyr366, Tyr379, Tyr574 and Tyr735 (Chuang & Tan, 2019).  
+• TRAF2-dependent K63-linked ubiquitination enhances kinase activation and JNK signalling (Chuang et al., 2016).  
+• STRN4-containing STRIPAK complex binds and suppresses MAP4K3, restraining Hippo pathway output (Seo et al., 2020).  
+• The activation-loop-swapped dimer collapses when Ser170 is dephosphorylated (Marcotte et al., 2017).
+
+## Function  
+MAP4K3 is ubiquitously expressed and becomes up-regulated in T and B lymphocytes following TCR, TNF-α or Wnt3a stimulation (Diener et al., 1997).  
+• Immune signalling: GLK binds SLP-76 and phosphorylates PKCθ Thr538, activating IKK/NF-κB and promoting Th1/Th2/Th17 cytokine production (Chuang et al., 2016).  
+• Stress pathways: Over-expression stimulates the MEKK1→MKK4→JNK cascade but not ERK or p38 (Chuang et al., 2016).  
+• Nutrient sensing & autophagy: Ser170 phosphorylation links amino-acid sufficiency to mTORC1 and phosphorylates TFEB Ser3, suppressing autophagy (Chuang & Tan, 2019).  
+• Hippo pathway: MAP4K3 phosphorylates LATS1/2 to activate Hippo signalling, an effect antagonised by STRIPAK (Seo et al., 2020).  
+• Cell migration: Phosphorylation of IQGAP1 Ser480 promotes Cdc42-mediated migration (Chuang & Tan, 2019).  
+• Apoptosis: Via JNK, GLK stabilises BH3-only proteins and phosphorylates BIM, driving apoptosis (Lam et al., 2009).
+
+## Inhibitors  
+• Verteporfin, IC₅₀ ≈ 1.15 nM, reduces IL-17A production (Chuang & Tan, 2019).  
+• Crizotinib analogues inhibit MAP4K3 in vitro but have limited in-vivo exposure (Chuang & Tan, 2019).  
+• Pyrrolo-pyridinylamine “Compound 1”, IC₅₀ ≈ 110 nM, co-crystallised with MAP4K3 and selective within GCK-I kinases (Marcotte et al., 2017).  
+• Astragalus polysaccharide and 10-hydroxycamptothecin also suppress kinase activity and downstream mTORC1 signalling (Chuang & Tan, 2019).
+
+## Other Comments  
+GLK-null mice show defective antibody responses and resistance to experimental autoimmune encephalomyelitis (Chuang et al., 2016). T-cell MAP4K3 levels correlate with disease activity in systemic lupus erythematosus, rheumatoid arthritis and adult-onset Still’s disease (Chuang & Tan, 2019). High MAP4K3–IQGAP1 Ser480 complex abundance predicts metastasis and poor survival in non-small-cell lung carcinoma (Chuang & Tan, 2019). A pancreatic cancer mutant (E351K) increases kinase activity (Chuang & Tan, 2019).
+
+## 9. References  
+Chuang, H.-C., Wang, X., & Tan, T.-H. (2016). MAP4K family kinases in immunity and inflammation. Advances in Immunology, 129, 277–314. https://doi.org/10.1016/bs.ai.2015.09.006  
+
+Chuang, H.-C., & Tan, T.-H. (2019). MAP4K3/GLK in autoimmune disease, cancer and aging. Journal of Biomedical Science. https://doi.org/10.1186/s12929-019-0570-5  
+
+Diener, K., Wang, X., Chen, C., Meyer, C., Keesler, G. A., Zukowski, M., Tan, T., & Yao, Z. (1997). Activation of the c-Jun N-terminal kinase pathway by a novel protein kinase related to human germinal center kinase. Proceedings of the National Academy of Sciences of the United States of America, 94(18), 9687–9692. https://doi.org/10.1073/pnas.94.18.9687  
+
+Han, H., Huang, Z., Xu, C., Seo, G., An, J., Yang, B., Liu, Y., Lan, T., Yan, J., Ren, S., Xu, Y., Xiao, D., Yan, J. K., Ahn, C., Fishman, D. A., Meng, Z., Qi, R., Luo, R., & Wang, W. (2024). Functional annotation of the Hippo pathway somatic mutations in human cancers. Nature Communications. https://doi.org/10.1038/s41467-024-54480-y  
+
+Lam, D., Dickens, D., Reid, E. B., Loh, S. H. Y., Moisoi, N., & Martins, L. M. (2009). MAP4K3 modulates cell death via the post-transcriptional regulation of BH3-only proteins. Proceedings of the National Academy of Sciences, 106, 11978–11983. https://doi.org/10.1073/pnas.0900608106  
+
+Marcotte, D., Rushe, M., Arduini, R. M., Lukacs, C., Atkins, K., Sun, X., Little, K., Cullivan, M., Paramasivam, M., Patterson, T. A., Hesson, T., McKee, T. D., May-Dracka, T. L., Xin, Z., Bertolotti-Ciarlet, A., Bhisetti, G. R., Lyssikatos, J. P., & Silvian, L. F. (2017). Germinal-center kinase-like kinase co-crystal structure reveals a swapped activation loop and C-terminal extension. Protein Science. https://doi.org/10.1002/pro.3062  
+
+Seo, G., Han, H., Vargas, R., Yang, B., Li, X., & Wang, W. (2020). MAP4K interactome reveals STRN4 as a key STRIPAK complex component in Hippo pathway regulation. Cell Reports, 32(1), 107860. https://doi.org/10.1016/j.celrep.2020.107860  
+
+Silvian, L. (2017). How can the structure of germinal-center kinase-like kinase help us in drug discovery? Future Medicinal Chemistry, 9, 1583–1585. https://doi.org/10.4155/fmc-2017-0133  
+
+Thiriet, M. (2013). Cytoplasmic protein serine/threonine kinases. In M. Thiriet (Ed.), Biomathematical and Biomechanical Modeling of the Circulatory and Ventilatory Systems (pp. 175–310). Springer. https://doi.org/10.1007/978-1-4614-4370-4_5

@@ -1,0 +1,62 @@
+## Phylogeny  
+Catalytic α2 subunit of the AMP-activated protein kinase (AMPK) family within the Ca²⁺/calmodulin-dependent protein kinase (CAMK) group. Orthologs are found from yeast (Saccharomyces cerevisiae Snf1) and flies (Drosophila AMPKα) to plants (Arabidopsis SnRK1α) and mammals (Mus musculus Prkaa2), underscoring broad evolutionary conservation (Kurumbail & Calabrese, 2016; Hawley et al., 2023).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr-OH ⇌ ADP + H⁺ + protein-Ser/Thr-O-PO₃²⁻ (Hawley et al., 2023).  
+
+## Cofactor Requirements  
+Requires Mg²⁺ for phosphoryl transfer; Mn²⁺ can substitute in some assays (Willows et al., 2017; Kurumbail & Calabrese, 2016).  
+
+## Substrate Specificity  
+Prefers the AMPK consensus sequence φ-x-β-x-x-S/T-x-x-φ, characterised by a basic residue at −3, a bulky hydrophobic residue at +4, and disfavoured Pro at +1 (Hawley et al., 2023; Arad et al., 2007).  
+
+## Structure  
+• 552-residue polypeptide.  
+• N-terminal kinase domain (1–312) containing catalytic Lys45-Glu64-Asp157 triad and activation-loop Thr172 (Kurumbail & Calabrese, 2016).  
+• Autoinhibitory “α-hook” segment (313–392) contacting the γ-subunit (Bringas et al., 2025).  
+• C-terminal β-interaction domain (393–552) that forms the heterotrimeric core (Kurumbail & Calabrese, 2016).  
+Crystal and cryo-EM structures (PDB 4CFE, 4CFF, 6C9F) reveal an aligned hydrophobic spine and inward αC-helix in the pThr172-activated state, an allosteric drug-and-metabolite (ADaM) pocket at the kinase/β interface, and nucleotide-induced domain rotations (Steinberg & Hardie, 2023).  
+
+## Regulation  
+Post-translational modifications  
+• Activating: Thr172 phosphorylation by LKB1, CaMKK2 and TAK1 (Bringas et al., 2025).  
+• Inhibitory: Ser485 by Akt/PKA; Ser345/347 by PKA (Zhao, 2014).  
+• Autophosphorylation: Ser491 within the ST-loop (Smiles et al., 2025).  
+• Ubiquitination: by E3 ligase MKRN1, promoting proteolysis (Bringas et al., 2025).  
+• Acetylation: by Tip60, modulating stability and activity (Bringas et al., 2025).  
+
+Allosteric control  
+AMP or ADP binding to γ-subunit CBS motifs enhances Thr172 phosphorylation and catalytic activity; ATP binding stabilises the inactive conformation (Rey & Tamargo-Gómez, 2023).  
+
+## Function  
+Highly expressed in heart and skeletal muscle, with appreciable levels in liver and other metabolically active tissues (Arad et al., 2007). Upstream kinases LKB1, CaMKK2 and TAK1 transmit energetic or Ca²⁺ signals (Bringas et al., 2025). Verified substrates include ACACA, ACACB, HMGCR, GYS1, TBC1D1 and ULK1 (Bringas et al., 2025; Hawley et al., 2023). Phosphorylation of these targets suppresses lipid, cholesterol and glycogen synthesis, enhances glucose uptake and triggers autophagy; additional phosphorylation of TSC2/Raptor couples energy status to mTORC1 inhibition (Arad et al., 2007).  
+
+## Inhibitors  
+ATP-competitive: dorsomorphin (Compound C), SBI-0206965, BAY-87-2243 and BAY-3827 (Bringas et al., 2025; Hawley et al., 2023).  
+Allosteric: PF-739 binds the ADaM pocket and, at high concentrations, functionally suppresses AMPK signalling (Bringas et al., 2025).  
+
+## Other Comments  
+Whole-body or tissue-specific Prkaa2 knockout mice exhibit glucose intolerance and reduced cardiac ischaemic tolerance (Arad et al., 2007). Gain-of-function AMPK complexes containing α2 drive PRKAG2 glycogen-storage cardiomyopathy with hypertrophy and conduction defects (Ahmad et al., 2005). Elevated PRKAA2 expression supports CD8⁺ T-cell exhaustion and Treg expansion in hepatocellular carcinoma, although other studies report tumour-suppressive roles, highlighting context-dependent effects (Yan et al., 2024; Bringas et al., 2025).  
+
+## 9. References  
+Ahmad, F., Arad, M., Musi, N., He, H., Wolf, C., Branco, D., … Seidman, J. G. (2005). Increased α2 subunit–associated AMPK activity and PRKAG2 cardiomyopathy. Circulation, 112, 3140–3148. https://doi.org/10.1161/CIRCULATIONAHA.105.550806  
+
+Arad, M., Seidman, C., & Seidman, J. (2007). AMP-activated protein kinase in the heart: role during health and disease. Circulation Research, 100, 474–488. https://doi.org/10.1161/01.RES.0000258446.23525.37  
+
+Bringas, C. F., Ahangar, M. S., Cuenco, J., Liu, H., Addinsall, A. B., Lindahl, M., … Sakamoto, K. (2025). Mechanism and cellular actions of the potent AMPK inhibitor BAY-3827. bioRxiv. https://doi.org/10.1101/2025.02.28.640688  
+
+Hawley, S., Russell, F. M., Ross, F. A., & Hardie, D. G. (2023). BAY-3827 and SBI-0206965: potent AMPK inhibitors that paradoxically increase Thr172 phosphorylation. International Journal of Molecular Sciences, 25, 10453. https://doi.org/10.3390/ijms25010453  
+
+Kurumbail, R., & Calabrese, M. (2016). Structure and regulation of AMPK. Experientia Supplementum, 107, 3–22. https://doi.org/10.1007/978-3-319-43589-3_1  
+
+Rey, V., & Tamargo-Gómez, I. (2023). From kinases to diseases: investigating the role of AMPK in human pathologies. Kinases and Phosphatases, 1, 181–205. https://doi.org/10.3390/kinasesphosphatases1030012  
+
+Smiles, W., Ovens, A. J., Yu, D., Ling, N. X. Y., Poblete Goycoolea, A. C., Morrison, K. R., … Oakhill, J. (2025). AMPK phosphosite profiling by label-free mass spectrometry reveals a multitude of mTORC1-regulated substrates. NPJ Metabolic Health and Disease. https://doi.org/10.1038/s44324-025-00052-7  
+
+Steinberg, G., & Hardie, D. (2023). New insights into activation and function of the AMPK. Nature Reviews Molecular Cell Biology, 24, 255–272. https://doi.org/10.1038/s41580-022-00547-x  
+
+Willows, R. J. W., Sanders, M., Xiao, B., Patel, B. R., Martin, S., Read, J., … Carling, D. (2017). Phosphorylation of AMPK by upstream kinases is required for activity in mammalian cells. Biochemical Journal, 474, 3059–3073. https://doi.org/10.1042/BCJ20170458  
+
+Yan, O., Gu, Y., Zhang, X., Huang, Y., Wei, X., Tang, F., & Zhang, S. (2024). AMPKα2 promotes tumor immune escape by inducing CD8⁺ T-cell exhaustion and CD4⁺ Treg cell formation in liver hepatocellular carcinoma. BMC Cancer. https://doi.org/10.1186/s12885-024-12025-y  
+
+Zhao, J. (2014). Investigating the CaMKKβ signalling pathway and its role in the regulation of blood pressure. [Unpublished doctoral dissertation]. https://doi.org/10.25560/42781

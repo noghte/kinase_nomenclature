@@ -1,0 +1,47 @@
+## Phylogeny  
+MAP3K10 belongs to the mixed-lineage kinase (MLK) sub-family within the STE group of MAP3Ks in the human kinome (Gallo & Johnson, 2002). It clusters with the paralogues MAP3K9/MLK1, MAP3K11/MLK3 and MAP3K21/MLK4; neighbouring branches include MAP3K12/DLK and MAP3K13/LZK (Modi & Dunbrack, 2019). Orthologues are conserved from vertebrates to invertebrates (e.g., Drosophila Slipper, C. elegans MLK), consistent with an evolutionarily preserved JNK-activating module (Gallo & Johnson, 2002).
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + protein-Ser/Thr-P (Hirai et al., 1997).
+
+## Cofactor Requirements  
+No divalent-cation requirement has been demonstrated (Sapkota, 2013).
+
+## Substrate Specificity  
+Peptide-library profiling places MAP3K10 in a MAP3K-specific cluster that disfavors acidic residues at −2/−3, prefers a hydrophobic residue or Gln at +1, and shows a modest bias toward Thr as the phospho-acceptor (Johnson et al., 2023). Verified protein substrates include the MAP2Ks MKK4 (SEK1) and MKK7, which are phosphorylated by MAP3K10 on their activation-loop Thr/Tyr sites (Hirai et al., 1997).
+
+## Structure  
+The protein comprises an N-terminal SH3 domain, the catalytic kinase core, a central leucine-zipper (LZ), and a C-terminal CRIB motif followed by a proline-rich tail (Gallo & Johnson, 2002). Crystal structures of the isolated SH3 domain (PDB: 5K28, 5K26, 6AQB) reveal two distinct peptide-binding pockets (Kokoszka et al., 2018). LZ-mediated homodimerisation brings the activation segments of each protomer into proximity, enabling trans-autophosphorylation (Gallo & Johnson, 2002). No full-length or isolated kinase-domain structure has yet been reported; structural features are inferred from the conserved bilobal kinase fold shared across MLKs (Gallo & Johnson, 2002).
+
+## Regulation  
+•  LZ-driven dimerisation followed by activation-loop autophosphorylation is essential for activity (Gallo & Johnson, 2002).  
+•  HPK1 further phosphorylates the activation loop, increasing catalytic output (Gallo & Johnson, 2002).  
+•  JNK phosphorylates C-terminal Ser/Thr residues, providing negative feedback on activity and stability (Gallo & Johnson, 2002).  
+•  GTP-bound Rac1 or Cdc42 binds the CRIB motif, relieving SH3-mediated autoinhibition and recruiting MAP3K10 to membranes; prenylation facilitates this membrane association (Gallo & Johnson, 2002).  
+•  Wild-type huntingtin sequesters the kinase; release from polyglutamine-expanded huntingtin promotes activation (Gallo & Johnson, 2002).
+
+## Function  
+MAP3K10 is highly expressed in brain, skeletal muscle and testes (Gallo & Johnson, 2002). Upstream regulators include active Rac1/Cdc42, HPK1, huntingtin, the KIF3/KAP3A motor complex and JIP scaffolds (Nagata et al., 1998; Gallo & Johnson, 2002). Downstream signalling proceeds mainly through MKK4/MKK7 → JNK and MKK3/6 → p38; ERK activation is weak and observed primarily upon over-expression (Gallo & Johnson, 2002). Via these pathways the kinase controls stress-induced apoptosis, cytoskeletal organisation, vesicle transport and developmental morphogenesis (Gallo & Johnson, 2002).
+
+## Inhibitors  
+Pan-MLK ATP-competitive inhibitors CEP-1347 and CEP-11004 block MAP3K10 activity and suppress downstream JNK signalling (Rana et al., 2013).
+
+## Other Comments  
+Loss of huntingtin-mediated sequestration in Huntington’s disease unleashes MAP3K10-dependent JNK activation leading to neuronal apoptosis (Gallo & Johnson, 2002). Dysregulated MLK–JNK signalling can enhance tumour cell migration and invasion, making MAP3K10 a prospective therapeutic target in cancer (Rana et al., 2013).
+
+## References  
+Gallo, K. A., & Johnson, G. L. (2002). Mixed-lineage kinase control of JNK and p38 MAPK pathways. Nature Reviews Molecular Cell Biology, 3, 663–672. https://doi.org/10.1038/nrm906  
+
+Hirai, S., Katoh, M., Terada, M., Kyriakis, J., Zon, L., Rana, A., Avruch, J., & Ohno, S. (1997). Mst/Mlk2, a member of the mixed lineage kinase family, directly phosphorylates and activates SEK1. The Journal of Biological Chemistry, 272, 15167–15173. https://doi.org/10.1074/jbc.272.24.15167  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Kokoszka, M. E., Kall, S. L., Khosla, S., McGinnis, J. E., Lavie, A., & Kay, B. K. (2018). Identification of two distinct peptide-binding pockets in the SH3 domain of human mixed-lineage kinase 3. Journal of Biological Chemistry, 293, 13553–13565. https://doi.org/10.1074/jbc.ra117.000262  
+
+Modi, V., & Dunbrack, R. L. (2019). A structurally validated sequence alignment of all 497 typical human protein kinase domains. bioRxiv. https://doi.org/10.1101/776740  
+
+Nagata, K., Puls, A., Futter, C., Aspenström, P., Schaefer, E., Nakata, T., Hirokawa, N., & Hall, A. (1998). The MAP kinase kinase kinase MLK2 co-localizes with activated JNK along microtubules and associates with kinesin superfamily motor KIF3. The EMBO Journal, 17, 149–158. https://doi.org/10.1093/emboj/17.1.149  
+
+Rana, A., Rana, B., Mishra, R., Sondarva, G., Rangasamy, V., Das, S., Viswakarma, N., & Kanthasamy, A. (2013). Mixed lineage kinase-c-Jun N-terminal kinase axis: a potential therapeutic target in cancer. Genes & Cancer, 4, 334–341. https://doi.org/10.1177/1947601913485415  
+
+Sapkota, G. P. (2013). The TGFβ-induced phosphorylation and activation of p38 MAPK is mediated by MAP3K4 and MAP3K10 but not TAK1. Open Biology, 3, 130067. https://doi.org/10.1098/rsob.130067

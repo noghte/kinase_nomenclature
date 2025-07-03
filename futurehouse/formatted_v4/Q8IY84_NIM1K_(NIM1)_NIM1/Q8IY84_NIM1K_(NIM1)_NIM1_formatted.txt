@@ -1,0 +1,40 @@
+## Phylogeny  
+Human NIM1 kinase (NIM1K; serine/threonine kinase) belongs to the human kinome but its placement is inconsistent across classification schemes. Some sources categorise it within the CAMK group and NIM1 family (Ostalé et al., 2021; Johnson et al., 2023), whereas others, following the Manning et al. 2002 framework, assign it to the “Other” kinase group (Moret et al., 2020). The Schizosaccharomyces pombe orthologue is Nim1/Cdr1, a mitotic‐inducing serine/threonine kinase (Wu & Russell, 1997a, 1997b).  
+
+## Reaction Catalyzed  
+ATP + protein ⇌ ADP + phosphoprotein  
+A documented example in S. pombe is: ATP + Wee1 ⇌ ADP + phospho-Wee1 (Wu & Russell, 1997a, 1997b; Moret et al., 2020).  
+
+## Cofactor Requirements  
+Mg²⁺ or Mn²⁺ are required divalent metal cofactors for phosphotransfer (Johnson et al., 2023; Moret et al., 2020).  
+
+## Substrate Specificity  
+A large-scale profiling study included NIM1K (Q8IY84) but did not define a clear consensus phosphorylation motif or residue preferences for this enzyme (Johnson et al., 2023).  
+
+## Structure  
+No 3-D structure or domain organisation is reported for human NIM1K in the cited sources. Protein kinases share a conserved ePK fold comprising two lobes that form the ATP-binding cleft (Moret et al., 2020). For the S. pombe orthologue, residues 291–354 are necessary for catalytic activity and binding to the inhibitor Nif1 (Wu & Russell, 1997a).  
+
+## Regulation  
+• Human NIM1K activity is stimulated by calcium/calmodulin (Ostalé et al., 2021).  
+• In S. pombe, Nim1 is inhibited by Nif1 and, in turn, phosphorylates the Wee1 kinase within its C-terminal catalytic domain, down-regulating Wee1 (Wu & Russell, 1997a, 1997b).  
+
+## Function  
+NIM1K phosphorylates substrate proteins and contributes to cell-cycle control (Ostalé et al., 2021; Johnson et al., 2023). It is classified as an understudied (“dark”) kinase yet is detectably expressed (protein and/or mRNA) in numerous Cancer Cell Line Encyclopedia (CCLE) lines, with several showing RPKM > 1 (Moret et al., 2020).  
+In S. pombe, Nim1 promotes mitotic entry by phosphorylating and inhibiting Wee1; its known partners are its substrate Wee1 and its inhibitor Nif1 (Wu & Russell, 1997a, 1997b).  
+
+## Inhibitors  
+No specific chemical or protein inhibitors are reported for human NIM1K in the provided sources.
+
+## Other Comments  
+NIM1K is regarded as an understudied/dark kinase warranting further investigation; no disease associations are described in the cited material (Moret et al., 2020).  
+
+## References  
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Moret, N., Liu, C., Gyori, B. M., Bachman, J. A., Steppi, A., Hug, C., … Sorger, P. K. (2020). A resource for exploring the understudied human kinome for research and therapeutic opportunities. bioRxiv. https://doi.org/10.1101/2020.04.02.022277  
+
+Ostalé, C. M., Esteban, N., López-Varea, A., & de Celis, J. D. (2021). Functional requirements of protein kinases and phosphatases in the development of the Drosophila melanogaster wing. G3: Genes|Genomes|Genetics. https://doi.org/10.1093/g3journal/jkab348  
+
+Wu, L., & Russell, P. (1997a). Nif1, a novel mitotic inhibitor in Schizosaccharomyces pombe. The EMBO Journal, 16, 1342–1350. https://doi.org/10.1093/emboj/16.6.1342  
+
+Wu, L., & Russell, P. (1997b). Roles of wee1 and nim1 protein kinases in regulating the switch from mitotic division to sexual development in Schizosaccharomyces pombe. Molecular and Cellular Biology, 17, 10–17. https://doi.org/10.1128/MCB.17.1.10

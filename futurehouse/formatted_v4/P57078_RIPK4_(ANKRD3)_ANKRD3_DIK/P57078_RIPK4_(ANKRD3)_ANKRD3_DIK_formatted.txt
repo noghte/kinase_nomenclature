@@ -1,0 +1,77 @@
+## Phylogeny  
+Orthologous RIPK4 proteins are present in human, chimpanzee, rhesus macaque, mouse, cow, chicken, the amphibians Xenopus tropicalis and X. laevis, and zebrafish. The kinase domains of human, mouse and bovine RIPK4 share ~90 % identity, while zebrafish retains ~62 % identity (Huang et al., 2018; Hasnain, 2022; “Exploring the role …”, 2011).  
+Within the human kinome the enzyme belongs to the Tyrosine-Kinase-Like group, receptor-interacting protein kinase family, and is most closely paralogous to RIPK5/ANKK1. It is evolutionarily separated from the RIPK1/2/3/7 sub-branch that contains death- or RHIM-motifs (Fay et al., 2024; “Exploring the role …”, 2011).  
+Comparative analyses of 489 jawed-vertebrate genomes show broad conservation of RIPK4 with little evidence for recurrent positive selection, contrasting the accelerated evolution or lineage-specific loss observed for RIPK1 and RIPK3 (Fay et al., 2024).  
+
+## Reaction Catalyzed  
+ATP + [protein] ⇌ ADP + [protein]-O-phosphate (Huang et al., 2018).  
+
+## Cofactor Requirements  
+Mg²⁺ is required; enzymatic assays used 10 mM MgCl₂. No Mn²⁺ dependence reported (Huang et al., 2018).  
+
+## Substrate Specificity  
+A universal consensus motif has not been defined. Verified substrates and phosphorylation sites include:  
+• IRF6 Ser413 and Ser424 (Huang et al., 2018)  
+• Dishevelled-2 (DVL2) sites within the DEP domain (“Investigating the PKCη-RIPK4 axis …”, n.d.)  
+• IKKα and IKKβ activation-loop residues, enabling IKK complex activation (“Investigating the PKCη-RIPK4 axis …”, n.d.)  
+
+## Structure  
+Domain layout: N-terminal bilobal Ser/Thr kinase domain → disordered linker → eleven C-terminal ankyrin repeats (Huang et al., 2018).  
+Murine kinase-domain crystal structures (e.g., PDB 5WNI–5WNM) show:  
+• Active-state features: Gly-rich loop, Lys51–Glu69 salt bridge, canonical DFG, and HLN catalytic loop (Huang et al., 2018).  
+• Side-to-side BRAF-like homodimerization; interface residues R40, R79 and E284 form a critical hydrogen-bond/salt-bridge network (Huang et al., 2018).  
+• No αJ helix (present in RIPK1-3); ankyrin repeats contact the kinase domain in an autoinhibitory manner (Huang et al., 2018).  
+• The activation loop is pre-ordered and catalytically competent without phosphorylation, consistent with non-RD kinase behaviour (Huang et al., 2018).  
+
+## Regulation  
+Post-translational modifications  
+• Autophosphorylation on Ser173, Ser175 and Ser179 increases activity (“Exploring the role …”, 2011).  
+• PKCη phosphorylates Ser103 and Thr283, priming further autophosphorylation (“Investigating the PKCη-RIPK4 axis …”, n.d.).  
+• Caspase cleavage at Asp340 and Asp378 produces a C-terminal fragment that suppresses NF-κB signalling (“Exploring the role …”, 2011).  
+
+Protein/ubiquitin interactions  
+• TRAF1/2/3/5 binding is required for RIPK4-driven NF-κB activation; dominant-negative TRAF1 or TRAF3 blocks this output (“Exploring the role …”, 2011).  
+
+Conformational control  
+• Homodimerization is essential; mutations E284A or R40A/R79A/R97A disrupt the dimer and abolish catalysis while leaving substrate binding intact (Huang et al., 2018).  
+• The C-terminal ankyrin repeats impose intramolecular autoinhibition of NF-κB signalling (Huang et al., 2018).  
+
+## Function  
+Expression: highly expressed in stratified epithelium and broadly present in non-neural tissues (Huang et al., 2018).  
+
+Upstream regulators: PKCβ1, PKCδ and PKCη interact with the linker region and increase RIPK4 phosphorylation (“Exploring the role …”, 2011; “Investigating the PKCη-RIPK4 axis …”, n.d.).  
+
+Downstream signalling:  
+• Phosphorylation of IRF6 promotes keratinocyte differentiation and epidermal barrier formation (Huang et al., 2018).  
+• Phosphorylation of IKKα/β, together with TRAF-dependent NEMO ubiquitination, activates canonical NF-κB signalling (“Investigating the PKCη-RIPK4 axis …”, n.d.; “XIAP-mediated innate immune signalling …”, 2017).  
+• Phosphorylation of DVL2 stimulates Wnt/β-catenin signalling (“Investigating the PKCη-RIPK4 axis …”, n.d.).  
+• Over-expression activates the JNK–AP-1 pathway in a kinase-dependent manner (“Exploring the role …”, 2011).  
+
+## Inhibitors  
+ATP-competitive compounds staurosporine, lestaurtinib, TG-100-115 and VX-680 co-crystallize in the catalytic cleft (Huang et al., 2018).  
+BRAF inhibitors vemurafenib and dabrafenib reduce cellular RIPK4 protein levels in melanoma models, although direct enzymatic inhibition is unproven (Madej et al., 2023).  
+
+## Other Comments  
+Disease links  
+• Autosomal-recessive Bartsocas-Papas and lethal popliteal pterygium syndromes arise from RIPK4 loss-of-function mutations (e.g., I121N, T184I, E284K) that impair stability or dimerization (Kalay et al., 2012; Huang et al., 2018; Hasnain, 2022).  
+• RIPK4 knock-down increases proliferation and invasiveness of cutaneous squamous cell carcinoma cells (“Investigating the PKCη-RIPK4 axis …”, n.d.).  
+• Over-expression enhances bladder urothelial carcinoma aggressiveness via NF-κB-dependent VEGF-A induction (Liu et al., 2018).  
+
+## References  
+Exploring the role of caspases and RIPK4 during Xenopus development. (2011). [Unpublished manuscript].  
+
+Fay, E. J., Isterabadi, K., Rezanka, C. M., Le, J., & Daugherty, M. D. (2024). Evolutionary and functional analyses reveal a role for the RHIM in tuning RIPK3 activity across vertebrates. bioRxiv. https://doi.org/10.1101/2024.05.09.593370  
+
+Hasnain, M. J. (2022). Insight into RIPK4 mutations I121N and T184I involved in popliteal pterygium syndrome lethal type using computational methods. Pure and Applied Biology. https://doi.org/10.19045/bspab.2022.110068  
+
+Huang, C. S., Oberbeck, N., Hsiao, Y.-C., Liu, P. S., Johnson, A. R., Dixit, V., & Hymowitz, S. (2018). Crystal structure of RIPK4 reveals dimerization-dependent kinase activity. Structure, 26(5), 767–777.e5. https://doi.org/10.1016/j.str.2018.04.002  
+
+Investigating the PKCη-RIPK4 signalling axis in keratinocyte differentiation. (n.d.). [Unpublished manuscript].  
+
+Kalay, E., Sezgin, O., Chellappa, V., Mutlu, M., Morsy, H., Kayserili, H., … Akarsu, N. A. (2012). Mutations in RIPK4 cause the autosomal-recessive form of popliteal pterygium syndrome. American Journal of Human Genetics, 90(1), 76–85. https://doi.org/10.1016/j.ajhg.2011.11.014  
+
+Liu, J.-Y., Zeng, Q.-H., Cao, P.-G., Xie, D., Chen, X., Yang, F., … Cao, K. (2018). RIPK4 promotes bladder urothelial carcinoma cell aggressiveness by upregulating VEGF-A through the NF-κB pathway. British Journal of Cancer, 118, 1617–1627. https://doi.org/10.1038/s41416-018-0116-8  
+
+Madej, E., Brożyna, A. A., Adamczyk, A., Wroński, N., Harazin-Lechowska, A., Muzyk, A., … Wolnicka-Glubisz, A. (2023). Vemurafenib and dabrafenib downregulate RIPK4 level. Cancers, 15, 918. https://doi.org/10.3390/cancers15030918  
+
+XIAP-mediated innate immune signalling in inflammatory bowel disease. (2017). [Unpublished manuscript].

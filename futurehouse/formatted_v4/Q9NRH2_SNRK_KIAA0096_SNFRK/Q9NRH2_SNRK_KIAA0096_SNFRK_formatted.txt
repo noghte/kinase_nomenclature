@@ -1,0 +1,61 @@
+## Phylogeny  
+Sucrose-non-fermenting related kinase (SNRK) is an AMP-activated protein kinase-related kinase (ARK) that sits within the Ca²⁺/calmodulin-dependent protein kinase (CAMK) clade of the human kinome (Jaleel et al., 2005, pp. 1–2; Wang et al., 2018, pp. 22–28). Experimentally confirmed orthologues exist in Homo sapiens (UniProt Q9NRH2), Mus musculus, Rattus norvegicus, Xenopus laevis, Danio rerio, Ceratitis capitata and Schizosaccharomyces pombe, all of which conserve the key kinase-UBA interface residues (Cossette et al., 2014, p. 1; Lefebvre et al., 2001, pp. 4–5; Wang et al., 2018, pp. 22–28).
+
+## Reaction Catalyzed  
+ATP + [protein] ⇌ ADP + [protein]-O-phospho-Ser/Thr (Wang et al., 2018, pp. 7–12).
+
+## Cofactor Requirements  
+Mg²⁺ (added as MgCl₂ in vitro) is essential for catalysis (Wang et al., 2018, pp. 7–12).
+
+## Substrate Specificity  
+No enriched consensus sequence has been defined. SNRK shows very low activity toward canonical AMPK peptides SAMS (HMRSAMSGLHLVKRR) and AMARA (AMARAASAAALARRR), and Johnson-atlas data are not yet available (Wang et al., 2018, pp. 12–16; Jaleel et al., 2005, pp. 4–6).
+
+## Structure  
+– Domain organisation: N-terminal Ser/Thr kinase domain (KD) directly followed by a non-canonical ubiquitin-associated (UBA) domain; the isolated KD is unstable, indicating inter-domain dependence (Wang et al., 2018, pp. 16–22).  
+– 3D structure: Human KD-UBA fragment solved at 2.9 Å (PDB 5YKS) adopts a canonical bilobal KD (intact HRD, DFG, APE motifs) with the αC helix displaced outward (Wang et al., 2018, pp. 7–12).  
+– Autoinhibition: Thr173 in the activation loop is the only validated phospho-activation site. A Tyr322(UBA)–Arg138(HRD) hydrogen bond and Leu331(UBA) insertion into a hydrophobic KD pocket lock the enzyme in an inactive conformation (Wang et al., 2018, pp. 12–16).  
+– Full-length model: AlphaFold AF-Q9NRH2-F1 provides a complete in-silico structure (Jaleel et al., 2005, pp. 6–7).
+
+## Regulation  
+Phosphorylation  
+• Thr173 is phosphorylated by the LKB1-STRAD-MO25 complex; this modification is required for activity (Jaleel et al., 2005, pp. 1–2; Wang et al., 2018, pp. 12–16).  
+
+Allosteric / conformational control  
+• The UBA domain maintains the KD in an autoinhibited state until displaced (Wang et al., 2018, pp. 12–16).  
+• AMP or the AMP analogue AICAR increases SNRK activity in cell extracts (Lefebvre et al., 2001, pp. 5–6).  
+
+Other post-translational modifications  
+• No ubiquitination, sumoylation, or acetylation sites have been reported (Wang et al., 2018, pp. 12–16).
+
+## Function  
+Expression  
+• High protein abundance and kinase activity in testis (Jaleel et al., 2005, pp. 4–6).  
+• mRNA enriched in kidney, heart, skin, spleen, lung, uterus and liver (Lefebvre et al., 2001, pp. 4–5).  
+• Robust expression in heart, brain, endothelial and smooth-muscle cells, and cardiomyocytes (Cossette et al., 2014, p. 1).  
+• Present in adipose tissue; SNRK-GFP localises to lysosomes in 3T3-L1 adipocytes (Li et al., 2013, pp. 3–4).  
+
+Upstream kinase  
+• Liver kinase B1 (LKB1) is the sole experimentally verified activator (Jaleel et al., 2005, pp. 1–2).  
+
+Downstream substrates / interactors  
+• Knock-down in cardiomyocytes decreases phosphorylation of acetyl-CoA carboxylase (ACC) and AMPK, linking SNRK to fatty-acid oxidation control (Cossette et al., 2014, p. 1).  
+
+Physiological roles  
+• Essential for cardiac lipid metabolic homeostasis; whole-body knockout mice develop cardiomegaly and die at birth (Cossette et al., 2014, p. 1).  
+• Suppresses adipocyte inflammation (Li et al., 2013, pp. 3–4).  
+• Contributes to low-potassium-induced neuronal apoptosis (Jaleel et al., 2005, pp. 6–7).  
+• Supports vascular development and mitochondrial efficiency in vertebrate models (Wang et al., 2018, pp. 16–22).
+
+## Other Comments  
+Whole-body loss of SNRK causes lethal neonatal cardiomyopathy in mice, underscoring its non-redundant role in heart metabolism (Cossette et al., 2014, p. 1). No germline or somatic disease-linked SNRK variants have been reported in the cited studies (Jaleel et al., 2005, pp. 6–7).
+
+## References  
+Cossette, S. M., Gastonguay, A. J., Bao, X., Lerch-Gaggl, A., Zhong, L., Harmann, L. M., ... & Ramchandran, R. (2014). Sucrose non-fermenting related kinase enzyme is essential for cardiac metabolism. Biology Open, 4, 48–61. https://doi.org/10.1242/bio.20149811  
+
+Jaleel, M., McBride, A., Lizcano, J., Deák, M., Toth, R., Morrice, N., & Alessi, D. (2005). Identification of the sucrose non-fermenting related kinase SNRK as a novel LKB1 substrate. FEBS Letters. https://doi.org/10.1016/j.febslet.2005.01.042  
+
+Lefebvre, D., Bai, Y., Shahmolky, N., Sharma, M., Poon, R., Drucker, D., & Rosen, C. F. (2001). Identification and characterization of a novel sucrose-non-fermenting protein kinase/AMP-activated protein kinase-related protein kinase, SNARK. Biochemical Journal, 355(2), 297–305. https://doi.org/10.1042/0264-6021:3550297  
+
+Li, Y., Nie, Y., Helou, Y., Ding, G., Feng, B., Xu, G., ... & Xu, H. (2013). Identification of sucrose non-fermenting–related kinase (SNRK) as a suppressor of adipocyte inflammation. Diabetes, 62, 2396–2409. https://doi.org/10.2337/db12-1081  
+
+Wang, Y.-L., Wang, J., Chen, X., Wang, Z.-X., & Wu, J.-W. (2018). Crystal structure of the kinase and UBA domains of SNRK reveals a distinct UBA binding mode in the AMPK family. Biochemical and Biophysical Research Communications, 495, 1–6. https://doi.org/10.1016/j.bbrc.2017.10.105

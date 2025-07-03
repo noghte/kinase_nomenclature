@@ -1,0 +1,54 @@
+Phylogeny  
+Orthologous RNASEL genes are present in human, mouse, rat, bovine, pig, elephant, guinea-pig and chicken, indicating deep conservation across vertebrates (Chakrabarti et al., 2011). The protein’s KEN module (pseudo-kinase plus RNase lobe) is structurally related to Ire1 RNases but lacks catalytic kinase motifs, placing RNase L in a distinct pseudokinase-containing nuclease lineage outside the canonical protein-kinase superfamily. Accordingly, RNase L is not classified within any group of the human kinome (Silverman, 2003).
+
+Reaction Catalyzed  
+2′-5′-oligoadenylate-activated endoribonucleolytic cleavage of single-stranded RNA at UpN sites:  
+ssRNA-UpN + H₂O → 5′-OH RNA fragment + RNA fragment bearing a 2′,3′-cyclic phosphate (Cooper et al., 2014; Silverman, 2003).
+
+Cofactor Requirements  
+• Activation strictly requires 5′-triphosphorylated 2′,5′-linked oligoadenylates (2-5A) of ≥3 AMP units (Bisbal & Silverman, 2007).  
+• Catalysis is metal-ion independent (Cooper et al., 2014).  
+• Two Walker-A P-loops can bind ATP/GTP, but no intrinsic kinase activity has been detected (Madsen et al., 2008).
+
+Substrate Specificity  
+Cleavage occurs preferentially at UU > UA ≫ UG/UC dinucleotides within single-stranded, AU-rich regions; transcriptome-wide mapping confirms a dominant UA/UU consensus independent of extensive secondary structure (Cooper et al., 2014; Silverman, 2003).
+
+Structure  
+RNase L comprises an N-terminal ankyrin repeat domain (aa 1–330), a pseudo-kinase lobe (aa 331–535) and a C-terminal RNase domain (aa 536–741) (Madsen et al., 2008). Nine ankyrin repeats form the high-affinity 2-5A-binding pocket, with repeats 2–4 contributing most contacts (Ezelle et al., 2016). The catalytic triad His672–Tyr727–Lys789 constitutes a metal-independent active centre (Cooper et al., 2014). Binding of 2-5A bridges the ankyrin surfaces of two monomers, driving antiparallel dimerisation that unlocks the RNase domains; the ankyrin–pseudo-kinase scaffold functions solely as an allosteric switch (Silverman, 2003; Silverman, 2007).
+
+Regulation  
+Femto- to picomolar 2-5A enhances dimer affinity by 10⁵–10⁶-fold, converting latent monomers into active nucleases (Silverman, 2003). Endogenous ABCE1/RLI binds the ankyrin domain and blocks 2-5A-induced dimerisation (Ezelle & Hassel, 2012). Cellular 2-5A is rapidly degraded by 2′-phosphodiesterases and phosphatases, terminating signalling (Ezelle et al., 2016). Proteasome-dependent degradation and stress-induced proteolysis generate 83 kDa and 37 kDa fragments that modulate activity and localisation (Bisbal & Silverman, 2007; Liang et al., 2006). Viral antagonists (vaccinia E3L, influenza A NS1, Theiler’s virus L*, murine coronavirus ns2) either prevent activation or destroy 2-5A (Liang et al., 2006).
+
+Function  
+Basal expression is low but is strongly up-regulated by type I and III interferons in many cell types (Ezelle et al., 2016). Upstream, double-stranded RNA activates OAS enzymes to synthesise 2-5A, which binds and activates RNase L (Silverman, 2003). Downstream, cleavage products stimulate RIG-I/MDA5-MAVS and the NLRP3 inflammasome, boosting IFN-β and IL-1β production (Ezelle et al., 2016). Direct effector functions include degradation of viral ssRNA, rRNA-mediated translation arrest and JNK-dependent mitochondrial apoptosis (Silverman, 2007). Additional roles encompass antibacterial cytokine responses (Ezelle & Hassel, 2012), maintenance of epithelial barrier integrity via interactions with Filamin A and E3-ligase LNX (Ezelle et al., 2016), regulation of mitochondrial mRNA turnover through IF2mt binding (Ezelle & Hassel, 2012) and suppression of androgen-receptor transcriptional programmes in prostate cells (Ezelle & Hassel, 2012).
+
+Inhibitors  
+Endogenous ABCE1/RLI competitively blocks 2-5A binding (Ezelle & Hassel, 2012). Viral proteins vaccinia E3L, influenza A NS1, Theiler’s virus L* and coronavirus ns2 antagonise RNase L activation or degrade 2-5A, while host 2′-phosphodiesterases limit pathway output by degrading 2-5A (Ezelle et al., 2016; Liang et al., 2006).
+
+Other Comments  
+RNASEL (chromosome 1q25.3, HPC1) acts as a tumour suppressor; germline variants (e.g., M1I, G59S, I97L, E265X, K392R, R462Q, D541E, 471delAAAG) are linked to hereditary prostate cancer (Carpten et al., 2002; Silverman, 2003). The common R462Q allele lowers catalytic activity ~3-fold and may contribute to up to 13 % of prostate-cancer cases (Casey et al., 2002). Associations have also been reported with pancreatic, head-and-neck, breast and cervical cancers (Gusho et al., 2020; Madsen et al., 2008). Chronic fatigue syndrome features elevated RNase L proteolysis and disease-specific 37 kDa fragments (Bisbal & Silverman, 2007).
+
+9. References  
+Bisbal, C., & Silverman, R. H. (2007). Diverse functions of RNase L and implications in pathology. Biochimie, 89(6–7), 789–798. https://doi.org/10.1016/j.biochi.2007.02.006  
+
+Carpten, J., Nupponen, N., Isaacs, S., Sood, R., Robbins, C., Xu, J., … Trent, J. M. (2002). Germline mutations in the ribonuclease L gene in families showing linkage with HPC1. Nature Genetics, 30(2), 181–184. https://doi.org/10.1038/ng823  
+
+Casey, G., Neville, P. J., Plummer, S., Xiang, Y., Krumroy, L., Klein, E., … Witte, J. S. (2002). RNase L Arg462Gln variant is implicated in up to 13 % of prostate cancer cases. Nature Genetics, 32(4), 581–583. https://doi.org/10.1038/ng1021  
+
+Chakrabarti, A., Jha, B. K., & Silverman, R. H. (2011). New insights into the role of RNase L in innate immunity. Journal of Interferon & Cytokine Research, 31(1), 49–57. https://doi.org/10.1089/jir.2010.0120  
+
+Cooper, D. A., Jha, B. K., Silverman, R. H., Hesselberth, J., & Barton, D. J. (2014). Ribonuclease L and metal-ion-independent endoribonuclease cleavage sites in host and viral RNAs. Nucleic Acids Research, 42(8), 5202–5216. https://doi.org/10.1093/nar/gku118  
+
+Ezelle, H. J., Malathi, K., & Hassel, B. A. (2016). The roles of RNase L in antimicrobial immunity and the cytoskeleton-associated innate response. International Journal of Molecular Sciences, 17(1), 74. https://doi.org/10.3390/ijms17010074  
+
+Ezelle, H. J., & Hassel, B. A. (2012). Pathologic effects of RNase L dysregulation in immunity and proliferative control. Frontiers in Bioscience, 4, 767–786. https://doi.org/10.2741/s298  
+
+Gusho, E., Baskar, D., & Banerjee, S. (2020). New advances in our understanding of the “unique” RNase L in host–pathogen interaction and immune signaling. Cytokine, 133, 153847. https://doi.org/10.1016/j.cyto.2016.08.009  
+
+Liang, S.-L., Quirk, D., & Zhou, A. (2006). RNase L: its biological roles and regulation. IUBMB Life, 58(9), 508–514. https://doi.org/10.1080/15216540600838232  
+
+Madsen, B. E., Ramos, E. M., Boulard, M., Duda, K., Overgaard, J., Nordsmark, M., … Hansen, L. L. (2008). Germline mutation in RNASEL predicts increased risk of head and neck, uterine cervix and breast cancer. PLoS ONE, 3(6), e2492. https://doi.org/10.1371/journal.pone.0002492  
+
+Silverman, R. H. (2003). Implications for RNase L in prostate cancer biology. Biochemistry, 42(7), 1805–1812. https://doi.org/10.1021/bi027147i  
+
+Silverman, R. H. (2007). A scientific journey through the 2-5A/RNase L system. Cytokine & Growth Factor Reviews, 18(5-6), 381–388. https://doi.org/10.1016/j.cytogfr.2007.06.012

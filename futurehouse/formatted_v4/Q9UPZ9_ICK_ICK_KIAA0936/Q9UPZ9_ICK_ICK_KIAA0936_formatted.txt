@@ -1,0 +1,49 @@
+## Phylogeny  
+Intestinal Cell Kinase (ICK, also called Ciliogenesis-associated kinase 1, CILK1) is a serine/threonine protein kinase in the CMGC group of the human kinome and a member of the regulatory ciliary kinase (RCK) family together with its paralogs MAK and MOK (Chowdhury et al., 2023; Wu et al., 2012; Howard et al., 2014). RCK kinases show structural similarity to both MAPKs and CDKs. Orthologs are conserved from green algae and protozoa to nematodes and yeast, e.g., Chlamydomonas LF4, Tetrahymena LF4A, Leishmania mexicana LmxMPK9, Caenorhabditis elegans DYF-5, and a Saccharomyces cerevisiae homolog regulated by the yeast CAK kinase (Chaya et al., 2024; Moon et al., 2014; Sturgill et al., 2010).
+
+## Reaction Catalyzed  
+ATP + protein → ADP + phosphoprotein (Wu et al., 2012; Chaya et al., 2024)
+
+## Cofactor Requirements  
+Requires Mg²⁺ for catalytic activity (Moon et al., 2014; Wang et al., 2022).
+
+## Substrate Specificity  
+ICK preferentially phosphorylates Ser/Thr sites with Arg at –3 and Pro at –2; the general motif is [R-P-X-S/T-P/A/T/S] (Wu et al., 2012; Howard et al., 2014). Mammalian RCK kinases favour Pro at +1 when the acceptor is Thr, whereas Ser acceptors can also accommodate Arg at +1, indicating context-dependent plasticity (Howard et al., 2014).
+
+## Structure  
+The protein contains an N-terminal catalytic kinase domain and a C-terminal regulatory domain (Wu et al., 2012; Moon et al., 2014). The kinase domain harbours a TDY activation motif (Thr157-Asp158-Tyr159) essential for catalysis (Sturgill et al., 2010). No experimental crystal structures are reported, but high-confidence AlphaFold models are available (Moon et al., 2014).
+
+## Regulation  
+Full activation requires dual phosphorylation of the TDY motif: Thr157 is phosphorylated by the upstream kinase CCRK (CDK20) and Tyr159 by ICK autophosphorylation (Wu et al., 2012; Sturgill et al., 2010). PP5 dephosphorylates and inactivates ICK under oxidative stress (Noguchi et al., 2021). FGF receptor signalling negatively regulates ICK; receptor inhibition elevates ICK activity (Chaya et al., 2024). Dynamic TDY phosphorylation–dephosphorylation cycles are necessary for proper intraflagellar transport (Noguchi et al., 2021).
+
+## Function  
+ICK is broadly expressed, with high levels in intestinal crypt epithelium, retinal photoreceptors, bone, cartilage and embryonic myocardium (Sturgill et al., 2010; Moon et al., 2014; Ding et al., 2017). Acting downstream of CCRK, it phosphorylates KIF3A, Raptor (Thr908) and BAT3/Scythe (T1080) and interacts with the IFT-B complex, PP5 and FBX9 (Wu et al., 2012; Sturgill et al., 2010; Chaya et al., 2024). ICK controls primary cilia length by regulating IFT turnaround at the ciliary tip and is essential for Sonic Hedgehog signalling (Moon et al., 2014; Chaya et al., 2024). Through Raptor phosphorylation it stimulates mTORC1, influencing cell growth and proliferation (Wu et al., 2012). The kinase is required for normal chondrocyte development (Ding et al., 2017) and, during protein malnutrition, supports intestinal epithelial proliferation via Wnt/β-catenin signalling and suppression of apoptosis (Bolick et al., 2014).
+
+## Inhibitors  
+The flavonoid ATP-competitive inhibitor alvocidib (flavopiridol) suppresses ICK activity (Wang et al., 2022). ICK can also be modulated indirectly by pharmacological inhibition of FGF receptors (Chaya et al., 2024).
+
+## Other Comments  
+Loss-of-function mutations in ICK cause lethal ciliopathies such as endocrine-cerebro-osteodysplasia syndrome and short-rib polydactyly syndrome; variants are also linked to juvenile myoclonic epilepsy (Chaya et al., 2024; Wang et al., 2022). The recessive R272Q allele underlying ECO syndrome disrupts kinase activation and ciliary localisation, leading to defective ciliogenesis, impaired SHH signalling and severe skeletal abnormalities (Moon et al., 2014; Ding et al., 2017).
+
+## References  
+Bolick, D. T., Chen, T., Alves, L. A. O., Tong, Y., Wu, D., Joyner, L., Oriá, R., Guerrant, R., & Fu, Z. (2014). Intestinal cell kinase is a novel participant in intestinal cell signaling responses to protein malnutrition. PLoS ONE, 9(9), e106902. https://doi.org/10.1371/journal.pone.0106902  
+
+Chaya, T., Maeda, Y., Tsutsumi, R., Ando, M., Ma, Y., Kajimura, N., Tanaka, T., & Furukawa, T. (2024). CCRK-MAK/ICK kinase signaling axis is a ciliary transport regulator essential for retinal photoreceptor maintenance. bioRxiv. https://doi.org/10.1101/2024.05.24.595694  
+
+Chowdhury, I., Dashi, G., & Keskitalo, S. (2023). CMGC kinases in health and cancer. Cancers, 15(15), 3838. https://doi.org/10.3390/cancers15153838  
+
+Ding, M., Jin, L., Xie, L., Park, S. H., Tong, Y., Wu, D., Fu, Z., & Li, X. (2017). Intestinal cell kinase regulates chondrocyte proliferation and maturation during skeletal development. bioRxiv. https://doi.org/10.1101/139089  
+
+Howard, C. J., Hanson-Smith, V., Kennedy, K. J., Miller, C. J., Lou, H. J., Johnson, A. D., Turk, B. E., & Holt, L. J. (2014). Ancestral resurrection reveals evolutionary mechanisms of kinase plasticity. eLife, 3, e04126. https://doi.org/10.7554/eLife.04126  
+
+Moon, H., Song, J., Shin, J.-O., Lee, H., Kim, H.-K., Eggenschwiller, J. T., Bok, J., & Ko, H. W. (2014). Intestinal cell kinase, a protein associated with endocrine-cerebro-osteodysplasia syndrome, is a key regulator of cilia length and hedgehog signaling. Proceedings of the National Academy of Sciences, 111(23), 8541–8546. https://doi.org/10.1073/pnas.1323161111  
+
+Noguchi, T., Nakamura, K., Satoda, Y., Katoh, Y., & Nakayama, K. (2021). CCRK/CDK20 regulates ciliary retrograde protein trafficking via interacting with Bromi/TBC1D32. PLoS ONE, 16(10), e0258497. https://doi.org/10.1371/journal.pone.0258497  
+
+Sturgill, T. W., Stoddard, P. B., Cohn, S. M., & Mayo, M. W. (2010). The promoter for intestinal cell kinase is head-to-head with F-box 9 and contains functional sites for TCF7L2 and FOXA factors. Molecular Cancer, 9, 104. https://doi.org/10.1186/1476-4598-9-104  
+
+Tong, Y., Park, S., Wu, D., Harris, T., Moskaluk, C., Brautigan, D., & Fu, Z. (2018). Modulation of GSK3β autoinhibition by Thr-7 and Thr-8. FEBS Letters, 592(5), 760–769. https://doi.org/10.1002/1873-3468.12990  
+
+Wang, E. X., Turner, J. S., Brautigan, D., & Fu, Z. (2022). Modulation of primary cilia by alvocidib inhibition of CILK1. International Journal of Molecular Sciences, 23(15), 8121. https://doi.org/10.3390/ijms23158121  
+
+Wu, D., Chapman, J. R., Wang, L., Harris, T. E., Shabanowitz, J., Hunt, D. F., & Fu, Z. (2012). Intestinal cell kinase promotes activation of mTOR complex 1 through phosphorylation of Raptor Thr-908. Journal of Biological Chemistry, 287(15), 12510–12519. https://doi.org/10.1074/jbc.M111.302117

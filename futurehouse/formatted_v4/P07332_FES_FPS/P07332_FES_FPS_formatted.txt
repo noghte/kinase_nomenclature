@@ -1,0 +1,54 @@
+## Phylogeny  
+Cytoplasmic protein-tyrosine kinase belonging to group IV of the human kinome (FES/FER family). Humans possess one paralogue, FER, and a testis-restricted FER splice variant, FERT (Craig, 2012). Orthologues are present in Mus musculus, Danio rerio, Gallus gallus (v-Fes), Felis catus (v-Fps) and Drosophila melanogaster, indicating conservation from insects to mammals (Craig, 2012). The tandem SH2-kinase architecture most closely resembles the ABL family but is distinct from the Src/Tec/Csk branches (Filippakopoulos et al., 2008).
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + protein-L-tyrosine-O-phosphate (Filippakopoulos et al., 2008; Hellwig et al., 2012).
+
+## Cofactor Requirements  
+Requires ATP and divalent cations; Mg²⁺ is preferred over Mn²⁺ (Craig, 2012; Filippakopoulos et al., 2008).
+
+## Substrate Specificity  
+Peptide library profiling defines the optimal motif Φ-Y-[D/E/pS/pT]-x-Φ, favouring a bulky aliphatic residue at –1, an acidic or phosphorylated residue at +1 and a hydrophobic residue at +3 (Filippakopoulos et al., 2008). Cellular substrates that match this consensus include cortactin and p120-catenin (Filippakopoulos et al., 2008).
+
+## Structure  
+Domain order: N-terminal F-BAR (FCH + coiled-coil) → FX extension → SH2 → kinase (Craig, 2012).  
+• F-BAR forms crescent-shaped homodimers that bind PI(4,5)P₂; the L145P mutation disrupts dimerisation and elevates kinase activity (Craig, 2012).  
+• Crystal structure of the SH2-kinase fragment (PDB 4E93) shows the SH2 domain packed against the kinase N-lobe, stabilising the αC-helix and an ordered activation loop containing Tyr713 (Filippakopoulos et al., 2008).  
+• Met639 is the gatekeeper residue controlling ATP-binding pocket dimensions and inhibitor selectivity (Hellwig et al., 2012).  
+• NMR structure of the isolated SH2 domain reveals a highly negative surface potential, explaining the lack of Src-like autoinhibition (Scott et al., 2005).
+
+## Regulation  
+Autoinhibition occurs through F-BAR-mediated oligomerisation; binding to phosphoinositide-rich membranes releases this restraint (Craig, 2012). Catalytic activation requires autophosphorylation of Tyr713 (Hellwig et al., 2012), and SH2 engagement with phosphotyrosine ligands further stabilises the active conformation (Filippakopoulos et al., 2008). SHP-1 (PTPN6) and SHP-2 (PTPN11) dephosphorylate and down-regulate the kinase (Craig, 2012). Expression can be silenced by promoter CpG methylation in colorectal carcinoma (Hellwig et al., 2012). The activating L145P F-BAR mutation enhances membrane targeting and oncogenic potential (Craig, 2012).
+
+## Function  
+Highly expressed in haematopoietic progenitors, neutrophils, mast cells and macrophages, and present in endothelial, epithelial and neuronal tissues (Craig, 2012; Hellwig et al., 2012). Activated downstream of FcεRI and KIT in mast cells and transmits oncogenic KIT^D816V and FLT3-ITD signals in acute myeloid leukaemia (Craig, 2012). Confirmed substrates/partners include SYK Y352, HS1 Y397, PLCγ2 (van der Wel et al., 2020), cortactin, tubulin, plectin (Filippakopoulos et al., 2008) and BCR and NSF (Craig, 2012). Reported biological roles:  
+• Actin remodelling and phagosome formation during bacterial uptake (van der Wel et al., 2020).  
+• Mast-cell degranulation downstream of FcεRI/KIT (Craig, 2012).  
+• Promotion of myeloid differentiation (Yates & Gasson, 1996).  
+• Requirement for M-CSF/RANKL-dependent osteoclastogenesis (Hellwig et al., 2012).  
+• Facilitation of endothelial migration and angiogenic tube formation in response to FGF-2, VEGF-A and Ang1/2 (Hellwig et al., 2012).
+
+## Inhibitors  
+Type I inhibitors: TAE684 (IC₅₀ ≈ 0.12 µM) and pyrazolopyrimidines WZ-4-49-1/-8 (IC₅₀ ≈ 0.07 µM).  
+Type II inhibitors: HG-7-27-01 and HG-7-92-01 (sub-µM potency).  
+Covalent probe: WEL028 targets engineered Cys-mutant FES and blocks SYK phosphorylation and phagocytosis (van der Wel et al., 2020).  
+Dual FES/FLT3 inhibition potently suppresses FLT3-ITD⁺ AML cell growth (Weir et al., 2017).  
+Met639 is critical for inhibitor specificity (Hellwig et al., 2012).
+
+## Other Comments  
+The kinase shows context-dependent behaviour: activating mutants can transform fibroblasts, whereas epigenetic silencing accelerates colorectal and breast tumorigenesis (Hellwig et al., 2012). The L145P F-BAR mutation is a key gain-of-function alteration (Craig, 2012).
+
+## References  
+Craig, A. W. B. (2012). Fes/fer kinase signaling in hematopoietic cells and leukemias. Frontiers in Bioscience, 17, 861–885. https://doi.org/10.2741/3961  
+
+Filippakopoulos, P., Kofler, M., Hantschel, O., Gish, G. D., Grebien, F., Salah, E., Neudecker, P., Kay, L. E., Turk, B. E., Superti-Furga, G., Pawson, T., & Knapp, S. (2008). Structural coupling of SH2-kinase domains links Fes and Abl substrate recognition and kinase activation. Cell, 134(5), 793–803. https://doi.org/10.1016/j.cell.2008.07.047  
+
+Hellwig, S., Miduturu, C. V., Kanda, S., Zhang, J., Filippakopoulos, P., Salah, E., Deng, X., Choi, H. G., Zhou, W., Hur, W., Knapp, S., Gray, N. S., & Smithgall, T. E. (2012). Small-molecule inhibitors of the c-Fes protein-tyrosine kinase. Chemistry & Biology, 19(4), 529–540. https://doi.org/10.1016/j.chembiol.2012.01.020  
+
+Scott, A., Pantoja-Uceda, D., Koshiba, S., Inoue, M., Kigawa, T., Terada, T., Shirouzu, M., Tanaka, A., Sugano, S., Yokoyama, S., & Güntert, P. (2005). Solution structure of the Src homology 2 domain from the human feline sarcoma oncogene Fes. Journal of Biomolecular NMR, 31(4), 357–361. https://doi.org/10.1007/s10858-005-0946-6  
+
+van der Wel, T., Hilhorst, R., den Dulk, H., van den Hooven, T., Prins, N. M., Wijnakker, J. A. P. M., Florea, B. I., Lenselink, E. B., van Westen, G. J. P., Ruijtenbeek, R., Overkleeft, H. S., Kaptein, A., Barf, T., & van der Stelt, M. (2020). Chemical genetics strategy to profile kinase target engagement reveals role of Fes in neutrophil phagocytosis. Nature Communications, 11, Article 3235. https://doi.org/10.1038/s41467-020-17027-5  
+
+Yates, K., & Gasson, J. (1996). Role of c-fes in normal and neoplastic hematopoiesis. Stem Cells, 14(1), 7–17. https://doi.org/10.1002/stem.140117  
+
+Weir, M. C., Hellwig, S., Tan, L., Liu, Y., Gray, N. S., & Smithgall, T. E. (2017). Dual inhibition of Fes and Flt3 tyrosine kinases potently inhibits Flt3-ITD⁺ AML cell growth. PLOS ONE, 12(7), e0181178. https://doi.org/10.1371/journal.pone.0181178

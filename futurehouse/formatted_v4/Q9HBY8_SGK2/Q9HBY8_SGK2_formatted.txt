@@ -1,0 +1,73 @@
+## Phylogeny  
+Serine/threonine-protein kinase SGK2 is a member of the AGC kinase group, SGK subfamily, and is paralogous to the AKT/PKB, PKA/PKG/PKC and S6K/RSK branches of the human kinome (Tessier & Woodgett, 2006; Lang et al., 2006). Orthologues are present in mouse (Sgk2α/β), rat, zebrafish and Xenopus; a single homologue (sgk-1) exists in Caenorhabditis elegans, but none is detected in Drosophila melanogaster (Unknown Authors, 2010; Firestone et al., 2003). Mammalian SGKs can rescue the essential Ypk1/Ypk2 function in budding yeast, indicating deep evolutionary conservation (Firestone et al., 2003).
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr ⇌ ADP + protein-L-Ser/Thr-phosphate (Kobayashi et al., 1999).
+
+## Cofactor Requirements  
+Catalytic activity requires Mg²⁺; kinase assays were performed with MgATP, and no Mn²⁺ substitution has been reported (Kobayashi et al., 1999).
+
+## Substrate Specificity  
+SGK2 prefers the consensus sequence R-X-R-X-X-S/T, with an obligatory Arg at –3 and a second basic residue at –5. Threonine is marginally favoured over serine (Kobayashi et al., 1999; Firestone et al., 2003; Tessier & Woodgett, 2006).
+
+## Structure  
+• N-terminal variable segment (~1–80) contains a nuclear-localisation signal (NLS 131–141) but no PH/PX domains (Firestone et al., 2003).  
+• Bilobal catalytic core (83–355) harbours Lys127 (β3), the HRD Asp, the DFG Phe and the activation-loop Thr278 (Firestone et al., 2003; Kobayashi et al., 1999).  
+• C-terminal hydrophobic motif includes Ser356 and a PY motif (295–298) for Nedd4-2 docking (Kobayashi et al., 1999; Firestone et al., 2003).  
+Homology models show the canonical AGC fold; the phosphorylated hydrophobic motif binds a conserved basic pocket that stabilises the C-helix (Firestone et al., 2003; Frödin et al., 2002). SGK2 lacks the classical αC helix and instead contains a short antiparallel β-sheet influencing ATP binding (Maestro et al., 2020).
+
+## Regulation  
+Post-translational control  
+• Ser356 is phosphorylated by mTORC2, priming the kinase for PDK1 binding (Frödin et al., 2002; Di Cristofano, 2017).  
+• PDK1 then phosphorylates Thr278 in the activation loop, completing activation (Kobayashi et al., 1999).  
+• Oxidative stress (H₂O₂) and IGF-1 stimulate phosphorylation through the PI3K pathway (Maestro et al., 2020).  
+• The C-terminal PY motif recruits Nedd4-2, facilitating ubiquitin-dependent regulation (Firestone et al., 2003).
+
+Conformational/localisation control  
+The NLS mediates nuclear-cytoplasmic shuttling; phosphorylation shifts the equilibrium towards the cytoplasm (Firestone et al., 2003). SGK2 transcription is largely constitutive and not serum-inducible, unlike SGK1 (Di Cristofano, 2017).
+
+## Function  
+Expression pattern  
+Highest expression in liver, kidney proximal tubule and pancreas; lower in brain; minimal induction by glucocorticoids or serum (Tessier & Woodgett, 2006; Di Cristofano, 2017).
+
+Signalling context  
+Acts downstream of PI3K–mTORC2–PDK1 signalling in parallel with AKT (Firestone et al., 2003).
+
+Documented substrates/targets  
+Phosphorylates NDRG1 in cells (Najafov et al., 2011). Regulates multiple transporters and ion channels, including ENaC, Kv1.3, KCNE1/KCNQ1, SLC6A19, EAAT4, AMPA/KA receptors, NHE3 and Na⁺/K⁺-ATPase (Lang et al., 2006; Basnet et al., 2018). Catalyses PTOV1 Ser36/Ser53 phosphorylation, promoting 14-3-3 binding (Unknown Authors, 2021).
+
+## Inhibitors  
+• GSK650394: 7-azaindole ATP-competitive inhibitor, IC₅₀ ≈ 103 nM for SGK2, ~30-fold selectivity over most off-targets (Jang et al., 2022).  
+• EMD638683: benzohydrazide scaffold with cross-isoform activity; precise SGK2 potency not reported (Basnet et al., 2018).  
+• Limited isoform selectivity across current chemotypes (Unknown Authors, 2020).  
+• Indirect inhibition: the PDK1 inhibitor GSK2334470 blocks SGK2 Thr278 phosphorylation at ~30 nM (Najafov et al., 2011).
+
+## Other Comments  
+SGK2 participates in PI3K-driven oncogenic programmes, but isoform-specific disease mutations or pathologies remain less documented than for SGK1/3 (Basnet et al., 2018).
+
+## References  
+Basnet, R., Gong, G. Q., Li, C., & Wang, M.-W. (2018). Serum and glucocorticoid inducible protein kinases (SGKs): A potential target for cancer intervention. Acta Pharmaceutica Sinica B, 8, 767–771. https://doi.org/10.1016/j.apsb.2018.07.001  
+
+Di Cristofano, A. (2017). SGK1: The dark side of PI3K signalling. Current Topics in Developmental Biology, 123, 49–71. https://doi.org/10.1016/bs.ctdb.2016.11.006  
+
+Firestone, G., Giampaolo, J. R., & O’Keeffe, B. (2003). Stimulus-dependent regulation of serum and glucocorticoid inducible protein kinase (SGK) transcription, subcellular localization and enzymatic activity. Cellular Physiology and Biochemistry, 13, 1–12. https://doi.org/10.1159/000070244  
+
+Frödin, M., Antal, T. L., Dümler, B., Jensen, C. J., Deák, M., Gammeltoft, S., & Biondi, R. M. (2002). A phosphoserine/threonine-binding pocket in AGC kinases and PDK1 mediates activation by hydrophobic motif phosphorylation. The EMBO Journal, 21, 5396–5407. https://doi.org/10.1093/emboj/cdf551  
+
+Jang, H., Park, Y., & Jang, J. (2022). Serum and glucocorticoid-regulated kinase 1: Structure, biological functions, and its inhibitors. Frontiers in Pharmacology. https://doi.org/10.3389/fphar.2022.1036844  
+
+Kobayashi, T., Deak, M., Morrice, N., & Cohen, P. (1999). Characterization of the structure and regulation of two novel isoforms of serum- and glucocorticoid-induced protein kinase. Biochemical Journal, 344, 189–197. https://doi.org/10.1042/bj3440189  
+
+Lang, F., Böhmer, C., Palmada, M., Seebohm, G., Strutz-Seebohm, N., & Vallon, V. (2006). (Patho)physiological significance of the serum- and glucocorticoid-inducible kinase isoforms. Physiological Reviews, 86, 1151–1178. https://doi.org/10.1152/physrev.00050.2005  
+
+Maestro, I., Boya, P., & Martinez, A. (2020). Serum- and glucocorticoid-induced kinase 1, a new therapeutic target for autophagy modulation in chronic diseases. Expert Opinion on Therapeutic Targets, 24, 231–243. https://doi.org/10.1080/14728222.2020.1730328  
+
+Najafov, A., Sommer, E. M., Axten, J. M., DeYoung, M. P., & Alessi, D. R. (2011). Characterization of GSK2334470, a novel and highly specific inhibitor of PDK1. Biochemical Journal, 433, 357–369. https://doi.org/10.1042/BJ20101732  
+
+Tessier, M., & Woodgett, J. R. (2006). Serum and glucocorticoid-regulated protein kinases: Variations on a theme. Journal of Cellular Biochemistry. https://doi.org/10.1002/jcb.20894  
+
+Unknown Authors. (2010). Functional characterization of the serum- and glucocorticoid-inducible kinase homologue sgk-1 during development in Caenorhabditis elegans.  
+
+Unknown Authors. (2020). Synthesis and biological evaluation of pyrazolo-pyrimidine derivatives active as SGK1, Fyn and Src kinase inhibitors.  
+
+Unknown Authors. (2021). The mechanism of PTOV1 regulation by 14-3-3, HUWE1 and SGK2.

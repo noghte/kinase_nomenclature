@@ -1,0 +1,52 @@
+## Phylogeny  
+Lemur tail kinase 3 (LMTK3) is one of three human Lemur Tail Kinases (LMTK1-3) that together constitute the Lemur TK family within the Tyrosine-Kinase-Like (TKL) branch of the protein-kinase superfamily (Wendler et al., 2021). Orthologues are found in mouse, rat, zebrafish, fruit-fly and nematode, indicating conservation across metazoans (Wendler et al., 2021; Ditsiou et al., 2021). The isolated catalytic domain shares 26–34 % identity (42–49 % similarity) with the kinase cores of EGFR, INSR and JAK1, pointing to evolutionary proximity to receptor tyrosine kinases despite its serine/threonine activity (Ditsiou et al., 2020).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-Ser/Thr-phosphate (Ditsiou et al., 2020).  
+
+## Cofactor Requirements  
+Mg²⁺ is essential for catalysis and is coordinated by Asn300 together with Lys193, Asp295 and Asp313; mutating any of these residues abolishes activity (Ditsiou et al., 2020).  
+
+## Substrate Specificity  
+Positional-scanning peptide libraries and phosphoproteomics define an Arg-directed consensus motif L/K-R-R-X-X-S/T with a mandatory Arg at –3 and/or –2 and disfavoured hydrophobics between –3 and +1 (Ditsiou et al., 2020). Verified cellular substrates include HSP27 (S15, S82), CDC37 (S13 region), BAD (S118), PRKD2 (S197) and Rab-coupling protein (S435) (Ditsiou et al., 2020; Wendler et al., 2021).  
+
+## Structure  
+The protein comprises an N-terminal luminal segment, a single-pass transmembrane helix, a cytoplasmic kinase domain (aa 134–444; PDB 6SEQ) and an extended C-terminal tail containing three PxxP motifs (Wendler et al., 2021; Larose et al., 2024). A 2.1 Å crystal structure captures an autoinhibited “DYG-out” conformation in which Tyr314 intrudes into the adenine pocket and disrupts the regulatory spine (Ditsiou et al., 2020). The catalytic triad is Lys193–Asp295–Asp313, with Asn300 binding Mg²⁺. The activation loop bears autophosphorylation sites Tyr321, Tyr325 and Tyr326 that topologically mirror the insulin-receptor triphosphotyrosine cluster (Ditsiou et al., 2020). The C-tail is predicted intrinsically disordered, favouring SH3-domain interactions (Larose et al., 2024).  
+
+## Regulation  
+• Autophosphorylation on Tyr321/Tyr325/Tyr326 promotes the active state (Ditsiou et al., 2020).  
+• LMTK3 is an HSP90–CDC37 client; chaperone binding stabilises the kinase, whereas the ATP-competitive inhibitor C28 displaces CDC37/HSP90, triggers ubiquitination and drives proteasomal degradation (Ditsiou et al., 2020).  
+• LMTK3 phosphorylates CDC37, providing feedback to the chaperone cycle (Ditsiou et al., 2020).  
+• Nuclear import requires importin-β1 (Wendler et al., 2021).  
+
+## Function  
+LMTK3 is highly expressed in hippocampus, cortex, striatum and cerebellum and is also detected in epithelial and tumour tissues (Ditsiou et al., 2021).  
+• Breast cancer: phosphorylates and stabilises oestrogen receptor-α, protecting it from ubiquitin-mediated degradation (Ditsiou et al., 2020).  
+• Triple-negative breast cancer: up-regulates integrin β1 via the Ras/Cdc42/MAPK pathway, enhancing migration and invasion (Ortiz et al., 2020).  
+• Lung cancer: after HGF stimulation phosphorylates Rab-coupling protein S435, routing EphA2 through Rab14-positive recycling vesicles to promote cell repulsion (Wendler et al., 2021).  
+• Neurons: Lmtk3-null neurons accumulate NMDA receptors in recycling endosomes, consistent with a role in NMDAR trafficking (Wendler et al., 2021).  
+• Additional signalling: phosphorylation of HSP27, BAD and CDC37 links the kinase to stress-response and apoptotic pathways (Ditsiou et al., 2020).  
+
+## Inhibitors  
+• C28 – selective ATP-competitive inhibitor that dislodges the HSP90–CDC37 complex, induces LMTK3 degradation and suppresses tumour growth in xenograft and transgenic breast-cancer models; orally bioavailable (Ditsiou et al., 2020).  
+• C36 – inhibits LMTK3 with IC₅₀ ≈ 100 nM and shows high kinome selectivity (Agnarelli et al., 2023).  
+• Cyclic guanidine-linked sulfonamides with sub-micromolar potency identified by high-throughput screening (Ortiz et al., 2020).  
+• Chemoinformatics and machine-learning studies have proposed additional chemotypes with favourable binding energies (Alrumaihi, 2024).  
+
+## Other Comments  
+High cytoplasmic or nuclear LMTK3 correlates with poor prognosis in breast, gastric, bladder, colorectal, lung and thyroid cancers, whereas tumour-suppressive activity has been suggested in prostate cancer (Ditsiou et al., 2021; Wendler et al., 2021). About half of reported somatic variants are missense; substitution of Lys193, Asp295 or Asp313 abolishes catalytic activity (Ditsiou et al., 2020). Lmtk3-knockout mice are viable but display hyperactivity and altered anxiety-like behaviour, implicating the kinase in dopaminergic circuits (Ditsiou et al., 2021).  
+
+## 9. References  
+Agnarelli, A., Betrán, A. L., Papakyriakou, A., Vella, V., Samuels, M., Papanastasopoulos, P., … Giamas, G. (2023). The inhibitory properties of a novel, selective LMTK3 kinase inhibitor. International Journal of Molecular Sciences, 24, 865. https://doi.org/10.3390/ijms24010865  
+
+Alrumaihi, F. (2024). Chemoinformatics and machine learning techniques to identify novel inhibitors of the lemur tyrosine kinase-3 receptor involved in breast cancer. Frontiers in Molecular Biosciences. https://doi.org/10.3389/fmolb.2024.1366763  
+
+Ditsiou, A., Cilibrasi, C., Simigdala, N., Papakyriakou, A., Milton-Harris, L., Vella, V., … Giamas, G. (2020). The structure–function relationship of oncogenic LMTK3. Science Advances. https://doi.org/10.1126/sciadv.abc3099  
+
+Ditsiou, A., Gagliano, T., Samuels, M., Vella, V., Tolias, C., & Giamas, G. (2021). The multifaceted role of lemur tyrosine kinase 3 in health and disease. Open Biology. https://doi.org/10.1098/rsob.210218  
+
+Larose, A., Miller, C. C. J., & Mórotz, G. M. (2024). The lemur tail kinase family in neuronal function and dysfunction in neurodegenerative diseases. Cellular and Molecular Life Sciences. https://doi.org/10.1007/s00018-024-05480-0  
+
+Ortiz, M. A., Michaels, H., Molina, B., Toenjes, S., Davis, J., Marconi, G. D., … Nefzi, A. (2020). Discovery of cyclic guanidine-linked sulfonamides as inhibitors of LMTK3 kinase. Bioorganic & Medicinal Chemistry Letters, 30, 127108. https://doi.org/10.1016/j.bmcl.2020.127108  
+
+Wendler, F., Purice, T.-M., Simon, T., Stebbing, J., & Giamas, G. (2021). The LMTK family of kinases: emerging important players in cell physiology and pathogenesis. Biochimica et Biophysica Acta – Molecular Basis of Disease, 1867, 165372. https://doi.org/10.1016/j.bbadis.2018.12.023

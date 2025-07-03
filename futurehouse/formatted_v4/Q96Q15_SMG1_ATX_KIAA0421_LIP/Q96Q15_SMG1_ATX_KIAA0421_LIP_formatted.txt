@@ -1,0 +1,57 @@
+## Phylogeny  
+SMG1 is one of the phosphatidylinositol-3-kinase–related kinases (PIKKs) together with ATM, ATR, DNA-PKcs, mTOR and TRRAP (Arias-Palomo et al., 2011). Kinome surveys place SMG1 on the ATM/ATR branch of the human kinome tree (Langer et al., 2021). Verified orthologs occur in Mus musculus, Drosophila melanogaster and Caenorhabditis elegans, whereas no bona-fide ortholog is found in Saccharomyces cerevisiae (Langer et al., 2021).  
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr([S/T]Q) ⇌ ADP + protein-L-phospho-Ser/Thr([pS/pT]Q) (Langer et al., 2020).  
+
+## Cofactor Requirements  
+Requires Mg²⁺ for catalytic activity, as shown by in-vitro kinase assays with MgCl₂ (Langer et al., 2020).  
+
+## Substrate Specificity  
+• High stringency for Ser or Thr followed immediately by Gln, defining a [S/T]Q consensus (Langer et al., 2020).  
+• Peptide-library profiling reveals strong enrichment of a hydrophobic residue—especially Leu—at the −1 position, producing an optimal L-[S/T]Q motif (Langer et al., 2021).  
+• Canonical UPF1 sites Ser1073, Ser1078, Ser1096 and Ser1116 are all embedded in LSQ motifs (Langer et al., 2020).  
+
+## Structure  
+SMG1 consists of N-terminal HEAT repeats (~1 000 aa), FAT domain, PI3K-like kinase domain (~370 aa), FATC tail, and a >1 000 aa C-terminal insertion (C-insertion/PRD) (Deniaud et al., 2015). Cryo-EM at 2.9 Å reveals a flexible HEAT “arch” and a compact head formed by the FAT, kinase and FATC domains (Langer et al., 2020). The catalytic loop and activation segment display the conserved PIKK arrangement and coordinate ATP with two Mg²⁺ ions (Langer et al., 2021). The C-insertion folds back over the substrate path, acting as an intrinsic autoinhibitory element (Arias-Palomo et al., 2011). SMG9 clamps the HEAT arch, whereas the SMG8 C-terminus tethers the C-insertion, together stabilising the inhibited conformation (Langer et al., 2021). Substrate-bound maps position an extended UPF1 peptide across the active-site cleft, the +1 glutamine anchoring the chain for precise phosphotransfer (Langer et al., 2020).  
+
+## Regulation  
+Post-translational control  
+• Autophosphorylation on Ser1096 enhances catalytic activity (Langer et al., 2020).  
+• ATM-dependent phosphorylation links SMG1 to DNA-damage signalling (Langer et al., 2020).  
+
+Protein-protein and allosteric control  
+• Forms the SMG1C complex with SMG8 and SMG9; the SMG8 C-terminus and SMG1 C-insertion cooperate to impose autoinhibition (Zhu et al., 2019; Langer et al., 2021).  
+• Deletion of SMG8 or truncation of the C-insertion yields a hyperactive kinase, indicating negative regulation in trans and in cis (Langer et al., 2021).  
+• SMG9 stabilises SMG8 incorporation and maintains the inhibited state (Zhu et al., 2019).  
+
+## Function  
+Expression  
+Broadly expressed in human tissues with higher levels in neural tissues (Langer et al., 2020).  
+
+Signalling roles  
+• Key kinase in nonsense-mediated mRNA decay (NMD); phosphorylates UPF1 within the SURF complex assembled on stalled ribosomes (Yamashita, 2013).  
+• Phospho-UPF1 recruits SMG5/6/7 and associates with UPF2/UPF3 to initiate degradation of premature-termination-codon transcripts (Deniaud et al., 2015).  
+• Contributes to the genotoxic-stress response by phosphorylating p53 and facilitating optimal p53 activation after DNA damage (Langer et al., 2020).  
+
+Interaction network  
+Confirmed partners include UPF1, UPF2, UPF3, SMG8, SMG9, eRF1 and eRF3 (Arias-Palomo et al., 2011).  
+
+## Inhibitors  
+SMG1i is an ATP-competitive small molecule that binds the active site and stabilises the SMG1–SMG8 autoinhibited conformation, as visualised by cryo-EM (Langer et al., 2021).  
+
+## Other Comments  
+Pathogenic SMG1 variants are linked to microcephaly, leukodystrophy and cellular radiosensitivity. Mutations in SMG8 or SMG9 that disrupt SMG1C assembly cause related congenital anomalies (Langer et al., 2021).  
+
+## 9. References  
+Arias-Palomo, E., Yamashita, A., Fernández, I. S., Núñez-Ramírez, R., Bamba, Y., Izumi, N., Ohno, S., & Llorca, O. (2011). The nonsense-mediated mRNA decay SMG-1 kinase is regulated by large-scale conformational changes controlled by SMG-8. Genes & Development, 25(2), 153–164. https://doi.org/10.1101/gad.606911  
+
+Deniaud, A., Karuppasamy, M., Bock, T., Masiulis, S., Huard, K., Garzoni, F., Kerschgens, K., Hentze, M. W., Kulozik, A. E., Beck, M., Neu-Yilik, G., & Schaffitzel, C. (2015). A network of SMG-8, SMG-9 and SMG-1 C-terminal insertion domain regulates UPF1 substrate recruitment and phosphorylation. Nucleic Acids Research, 43(15), 7600–7611. https://doi.org/10.1093/nar/gkv668  
+
+Langer, L. M., Gat, Y., Bonneau, F., & Conti, E. (2020). Structure of substrate-bound SMG1-8-9 kinase complex reveals molecular basis for phosphorylation specificity. eLife, 9, e57127. https://doi.org/10.7554/eLife.57127  
+
+Langer, L. M., Bonneau, F., Gat, Y., & Conti, E. (2021). Cryo-EM reconstructions of inhibitor-bound SMG1 kinase reveal an autoinhibitory state dependent on SMG8. eLife, 10, e72353. https://doi.org/10.7554/eLife.72353  
+
+Yamashita, A. (2013). Role of SMG-1-mediated UPF1 phosphorylation in mammalian nonsense-mediated mRNA decay. Genes to Cells, 18(2), 161–175. https://doi.org/10.1111/gtc.12033  
+
+Zhu, L., Li, L., Qi, Y, Yu, Z., & Xu, Y. (2019). Cryo-EM structure of SMG1–SMG8–SMG9 complex. Cell Research, 29, 1027–1034. https://doi.org/10.1038/s41422-019-0255-3

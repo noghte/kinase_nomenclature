@@ -1,0 +1,65 @@
+## Phylogeny  
+Member of the eukaryotic CMGC group, CLK/LAMMER subfamily characterized by the invariant EHLAMMERILG sequence (Moyano et al., 2020). Four paralogues exist in humans (CLK1-4); CLK3 originated from duplication of a CLK2-like ancestor in early lobe-finned vertebrates and is therefore vertebrate-restricted (Ogle et al., 2024). Orthologues have been documented in mouse, chicken, Xenopus and zebrafish (Ogle et al., 2024). More distant LAMMER kinases occur across eukaryotes (e.g., Drosophila DOA, yeast KNS1, plant AFC1-3) but none have been detected in prokaryotes (Rabinow, 2018; Ogle et al., 2024).
+
+## Reaction Catalyzed  
+ATP + [protein]-L-Ser/Thr/Tyr → ADP + [protein]-L-Ser/Thr/Tyr-phosphate (Bullock et al., 2009).
+
+## Cofactor Requirements  
+Requires Mg²⁺ for ATP binding and catalysis (Walter et al., 2018; Moyano et al., 2020).
+
+## Substrate Specificity  
+• Strong preference for serine within an R-x-x-S consensus, with an obligatory Arg at the –3 position (Rabinow, 2018).  
+• Efficiently phosphorylates the RS-repeat peptide GRSRSRSRSRSR (Walter et al., 2018).  
+• Helix-αH and β7/β8 hairpin insertions reduce the need for canonical docking interactions, giving broader substrate tolerance than SRPK1 or MAPKs (Bullock et al., 2009).
+
+## Structure  
+• 638-residue protein. Residues ~1-300 form an intrinsically disordered N-terminus containing short SR-like motifs that facilitate substrate engagement (Song et al., 2023).  
+• C-terminal bilobed kinase domain has been solved in multiple crystal structures (e.g., PDB 2EU9, 2EXE, 2WU7, 3RAW) (Lindberg & Meijer, 2021).  
+• N-lobe bears Lys248 at the ATP-site entrance (Moyano et al., 2020).  
+• C-lobe contains a MAPK-like insertion, an extended β-hairpin (residues 440-462) and the catalytic EHLAMMERILG motif (Song et al., 2023).  
+• Ala319 at the DFG-1 position enlarges the ATP pocket and weakens van der Waals contacts with some inhibitors (Kallen et al., 2018; Lee et al., 2019).  
+• Helix-αH and β7/β8 hairpin insertions occlude typical docking grooves (Bullock et al., 2009).
+
+## Regulation  
+• Autophosphorylates on Ser/Thr/Tyr, affecting nuclear localisation and substrate choice (Rabinow, 2018).  
+• Catalytic activity rises at temperatures slightly below normal physiological levels, consistent with a proposed “biological thermometer” role (Ogle et al., 2024).  
+• Translation is suppressed by miR-144 binding to the 3′-UTR (Song et al., 2023).
+
+## Function  
+• Predominantly nuclear but relocalises to cytoplasmic stress granules in testes; highly expressed in mature spermatozoa (Moyano et al., 2020; Bullock et al., 2009).  
+• Essential for vertebrate neural development; knock-down in Xenopus tropicalis produces cranial defects and lethality (Ogle et al., 2024).  
+• Phosphorylates SR splicing factors (e.g., SRSF family), thereby regulating alternative splicing; controls SRSF1-dependent HMGA2 exon skipping (Moyano et al., 2020; Song et al., 2023).  
+• Over-expression activates Wnt3a transcription and Wnt/β-catenin signalling in cholangiocarcinoma and hepatocellular carcinoma, promoting proliferation, migration and invasion (Song et al., 2023).  
+• The recurrent Q607R gain-of-function mutant enhances phosphorylation of USP13 Tyr708, stabilising c-Myc and up-regulating purine biosynthesis (Song et al., 2023).
+
+## Inhibitors  
+• SM08502: pan-CLK inhibitor, Ki ≈ 22 nM; decreases SRSF phosphorylation and Wnt-related gene expression (Song et al., 2023; Moyano et al., 2020).  
+• CX-4945: ATP-competitive, IC₅₀ ≈ 90 nM; affinity limited by Ala319 (Song et al., 2023; Lee et al., 2019).  
+• KH-CB19: IC₅₀ ≈ 488 nM (Song et al., 2023).  
+• Benzobisthiazole scaffold compounds exhibit biochemical selectivity (Prak et al., 2016).  
+• Leucettine L41: weak, IC₅₀ > 10 µM (Song et al., 2023).  
+• MU1210 shows minimal inhibition, illustrating isoform selectivity (Moyano et al., 2020).
+
+## Other Comments  
+High CLK3 expression correlates with advanced stage and poor prognosis in colon adenocarcinoma and other cancers (Song et al., 2023). The vertebrate-wide retention and absence in prokaryotes underline its essential eukaryotic function (Ogle et al., 2024). The Q607R somatic mutation is recurrent in cholangiocarcinoma (Song et al., 2023).
+
+## References  
+Bullock, A. N., Das, S., Debreczeni, J. É., Rellos, P., Fedorov, O., Niesen, F. H., ... & Knapp, S. (2009). Kinase domain insertions define distinct roles of CLK kinases in SR protein phosphorylation. Structure, 17(3), 352–362. https://doi.org/10.1016/j.str.2008.12.023  
+
+Kallen, J., Bergsdorf, C., Arnaud, B., Bernhard, M., Brichet, M., Cobos-Correa, A., ... & Lerchner, A. (2018). X-ray structures and feasibility assessment of CLK2 inhibitors for Phelan–McDermid syndrome. ChemMedChem, 13(19), 1997–2007. https://doi.org/10.1002/cmdc.201800344  
+
+Lee, J. Y., Yun, J.-S., Kim, W.-K., Chun, H.-S., Jin, H., Cho, S., & Chang, J. H. (2019). Structural basis for the selective inhibition of CDC2-like kinases by CX-4945. BioMed Research International, 2019, 6125068. https://doi.org/10.1155/2019/6125068  
+
+Lindberg, M. F., & Meijer, L. (2021). Dual-specificity, tyrosine phosphorylation-regulated kinases (DYRKs) and CDC2-like kinases (CLKs) in human disease: an overview. International Journal of Molecular Sciences, 22(11), 6047. https://doi.org/10.3390/ijms22116047  
+
+Moyano, P. M., Němec, V., & Paruch, K. (2020). CDC-like kinases (CLKs): Biology, chemical probes, and therapeutic potential. International Journal of Molecular Sciences, 21(20), 7549. https://doi.org/10.3390/ijms21207549  
+
+Ogle, R. A., Netherton, J. K., Robinson, B. R., Heyd, F., Zhang, X. D., & Baker, M. A. (2024). Comparison of the CDC2-like kinase family across eukaryotes highlights the functional conservation of these unique biological thermometers. bioRxiv. https://doi.org/10.1101/2024.06.21.599975  
+
+Prak, K., Kriston-Vizi, J., Chan, A. W. E., Luft, C., Costa, J. R., Pengo, N., & Ketteler, R. (2016). Benzobisthiazoles represent a novel scaffold for kinase inhibitors of CLK family members. Biochemistry, 55(4), 608–617. https://doi.org/10.1021/acs.biochem.5b01128  
+
+Rabinow, L. (2018). Clk. In Encyclopedia of Signaling Molecules (pp. 1161–1172). Springer. https://doi.org/10.1007/978-3-319-67199-4_277  
+
+Song, M., Pang, L., Zhang, M., Qu, Y., Laster, K. V., & Dong, Z. (2023). CDC2-like kinases: Structure, biological function and therapeutic targets for diseases. Signal Transduction and Targeted Therapy, 8, Article 101. https://doi.org/10.1038/s41392-023-01409-4  
+
+Walter, A., Chaikuad, A., Helmer, R., Loaëc, N., Preu, L., Ott, I., ... & Kunick, C. (2018). Molecular structures of CDC2-like kinases in complex with a new inhibitor chemotype. PLOS ONE, 13(5), e0196761. https://doi.org/10.1371/journal.pone.0196761

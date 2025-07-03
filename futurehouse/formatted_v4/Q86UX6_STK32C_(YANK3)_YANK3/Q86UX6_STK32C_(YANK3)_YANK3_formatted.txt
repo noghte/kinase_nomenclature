@@ -1,0 +1,31 @@
+## Phylogeny  
+STK32C (YANK3) is one of three paralogous kinases in the STK32 (YANK) sub-family, together with STK32A and STK32B (Sorrell et al., 2020). Orthologues are confined to bony vertebrates, indicating a relatively recent evolutionary origin within vertebrates (Sorrell et al., 2020). The sub-family branches next to Aurora kinases within the AGC group and retains the full C-terminal AGC extension (Sorrell et al., 2020). Kinome-wide substrate-motif clustering places STK32C in an acidophilic cluster of the human Ser/Thr kinome (Johnson et al., 2023).
+
+## Reaction Catalyzed  
+ATP + protein L-serine/L-threonine/L-tyrosine ⇌ ADP + protein O-phospho-L-serine/O-phospho-L-threonine/O-phospho-L-tyrosine (Sorrell et al., 2020).
+
+## Cofactor Requirements  
+Catalytic activity requires divalent cations; Mn²⁺ supports higher activity than Mg²⁺ in vitro (Sorrell et al., 2020).
+
+## Substrate Specificity  
+Peptide-library profiling classifies STK32C as acidophilic, preferring Asp/Glu residues flanking the phosphorylation site and tolerating pre-phosphorylated residues at positions −3 and +2 relative to the acceptor Ser/Thr (Johnson et al., 2023).
+
+## Structure  
+The protein contains a bilobal kinase domain followed by an AGC-type C-terminal tail with a turn motif and an atypical F-X-X-F-N-R hydrophobic motif (Ser/Thr → Asn substitution) (Sorrell et al., 2020). A conserved HF-motif helix bridges the N-lobe and C-tail. Canonical catalytic motifs (VAIK, HRD, APE, and a DFN variant of DFG) are present. A homology model based on PDB 4FR4 reveals a positively charged substrate groove compatible with acidic substrates (Johnson et al., 2023). Several human isoforms lack the glycine-rich loop, potentially restricting ATP binding, and a small Val gatekeeper enlarges the ATP-binding back pocket (Sorrell et al., 2020).
+
+## Regulation  
+No experimentally verified post-translational modifications are reported. Multiple putative phosphorylation sites lie within a Pro/Ala/Arg/Ser-rich N-terminal extension (~67 aa). The canonical AGC hydrophobic-motif phospho-acceptor is absent (Ser/Thr replaced by Asn), so regulation is unlikely to depend on this modification (Sorrell et al., 2020).
+
+## Function  
+STK32C is expressed ubiquitously across surveyed human tissues (Sorrell et al., 2020). Under high ectopic expression, the protein localises predominantly to the cytosol (Sorrell et al., 2020). No confirmed upstream kinases, downstream substrates, or signalling pathways have been reported (Johnson et al., 2023).
+
+## Inhibitors  
+Family-wide binding studies show interaction with Staurosporine, Ceritinib and the analogue-sensitive probe 1NM-PP1 (Sorrell et al., 2020). The enlarged back pocket created by the Val gatekeeper allows binding of inhibitors such as PP-121 (Sorrell et al., 2020).
+
+## Other Comments  
+Differential methylation of the STK32C locus is linked to adolescent depression and to psychiatric disorder risk in Down syndrome. Chemoproteomic screens classify STK32C as a potential anti-target because broad inhibitor engagement correlates with cytotoxicity (Sorrell et al., 2020).
+
+## 9. References  
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Sorrell, F., Miranda, F., Abdul Azeez, K. R., Chaikuad, A., Kettenbach, A., Gerber, S., Knapp, S., Ahmed, A., & Elkins, J. (2020). Stk32a is a dual-specificity AGC kinase with a preference for acidic substrates. bioRxiv. https://doi.org/10.1101/2020.03.04.976555

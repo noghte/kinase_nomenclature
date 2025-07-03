@@ -1,0 +1,59 @@
+## Phylogeny  
+CDC42BPG encodes myotonic-dystrophy-kinase-related, CDC42-binding kinase γ (MRCK γ), a member of the AGC kinase group within the ROCK/DMPK/MRCK branch of Rho-GTPase-regulated kinases (Unbekandt & Olson, 2014).  
+The catalytic domain shares ~44 % identity with MRCK β and ~60 % with dystrophia-myotonica protein kinase (DMPK) (Zhao & Manser, 2015; Unbekandt & Olson, 2014).  
+Verified orthologs exist in mouse (Cdc42bpg), rat (Cdc42bpg), zebrafish (cdc42bpg), Xenopus (cdc42bpg), Drosophila (Genghis-Khan/Gek) and Caenorhabditis elegans MRCK homologs (Unbekandt & Olson, 2014; Zhao & Manser, 2015).
+
+## Reaction Catalyzed  
+Protein-L-Ser/Thr + ATP ⇄ Protein-L-Ser/Thr-phosphate + ADP (Leung et al., 1998).
+
+## Cofactor Requirements  
+Mg²⁺ is required for catalytic turnover (Zhao & Manser, 2015).
+
+## Substrate Specificity  
+• Prefers acidic residues at −3/−2 and a hydrophobic residue at +1 relative to the phosphorylation site (Ruscetta et al., 2023).  
+• Verified phosphosites: MLC2 Ser19 and Thr18; MYPT1 Thr696, Thr853 and Ser472; activation-loop sites of LIMK1/2; moesin/ERM proteins (Unbekandt & Olson, 2014; Zhao & Manser, 2015).
+
+## Structure  
+Linear organisation: N-terminal kinase domain – C1 zinc-finger – PH-like segment – extended coiled-coil/Citron-homology region with an autoinhibitory kinase-inhibitory motif (KIM) – C-terminal CRIB domain that binds CDC42/TC10 (Unbekandt & Olson, 2014; Zhao & Manser, 2015).  
+The crystal structure of MRCK β (PDB 3TKU) reveals an active kinase fold with an ordered activation loop and dimeric interface; this architecture is conserved in MRCK γ (Zhao & Manser, 2015).  
+An AlphaFold model for full-length MRCK γ (AF-Q6DT37-F1) shows canonical HRD and DFG motifs, an intact regulatory αC-helix and a continuous hydrophobic spine (Ruscetta et al., 2023).  
+The catalytic lysine equivalent to Lys105 in MRCK β is essential for ATP binding (Unbekandt et al., 2020).  
+Full-length MRCK assembles mainly as inactive tetramers (~900 kDa) that dissociate upon activation (Zhao & Manser, 2015).
+
+## Regulation  
+• Binding of GTP-loaded CDC42 or TC10 to the CRIB domain relieves KIM-mediated autoinhibition and targets the kinase to cortical actin (Zhao & Manser, 2015).  
+• Diacylglycerol or phorbol esters engage the C1 domain and enhance activity ~3-fold (Zhao & Manser, 2015).  
+• Inter- and intramolecular coiled-coil contacts generate an autoinhibited state; N-terminal dimerisation and trans-autophosphorylation overcome this brake (Tan et al., 2001).  
+• Family autophosphorylation on Thr1108 (validated in MRCK β) serves as an activity biomarker; the homologous MRCK γ site is unverified (Unbekandt et al., 2020).  
+• Phosphorylation-dependent 14-3-3 binding, ubiquitination, and transcriptional control via promoter methylation and Sp1 have been reported (Ruscetta et al., 2023; Zhao & Manser, 2015).
+
+## Function  
+Highest expression in heart, skeletal muscle, blood, larynx and peripheral nervous system; low or absent in roughly one-third of GTEx tissues (Unbekandt & Olson, 2014; Ruscetta et al., 2023).  
+Upstream regulators: CDC42-GTP, TC10-GTP, diacylglycerol/phorbol esters (Zhao & Manser, 2015).  
+Interacting partners: LRAP35a, LRAP25, MYO18A and LIMK1 (Zhao & Manser, 2015; Ruscetta et al., 2023).  
+Downstream events: phosphorylation of MLC2 and inhibitory phosphorylation of MYPT1 increase local actomyosin contractility, while LIMK activation stabilises F-actin, promoting lamellipodial dynamics and invasive migration (Zhao & Manser, 2015; Unbekandt & Olson, 2014).
+
+## Inhibitors  
+• BDP5290 (TCPA-1): ATP-competitive, >50-fold selectivity over ROCK; blocks tumour-cell invasion (Zhao & Manser, 2015; Unbekandt et al., 2014).  
+• BDP9066 and C21: second-generation, high-potency, MRCK-selective inhibitors (Unbekandt & Olson, 2014; Ruscetta et al., 2023).  
+• Chelerythrine, staurosporine, fasudil and Y-27632 inhibit MRCK but lack isoform selectivity (Unbekandt & Olson, 2014).
+
+## Other Comments  
+CDC42BPG amplification or over-expression is reported in ovarian, breast, oral, pancreatic and oesophageal cancers and correlates with aggressive phenotypes (Unbekandt & Olson, 2014; Ruscetta et al., 2023).  
+Selective MRCK inhibition suppresses invasion in RAS-driven squamous-cell carcinoma, breast-cancer and glioma models (Unbekandt et al., 2014; Unbekandt et al., 2020).  
+Gene location: chromosome 11q13.1 (Ruscetta et al., 2023).
+
+## 9. References  
+Leung, T., Chen, X.-Q., Tan, I., Manser, E., & Lim, L. (1998). Myotonic dystrophy kinase-related CDC42-binding kinase acts as a CDC42 effector in promoting cytoskeletal reorganization. Molecular and Cellular Biology, 18, 130–140. https://doi.org/10.1128/MCB.18.1.130  
+
+Ruscetta, V. M., Seaton, T. J., Shakeel, A., Vasconcelos, S. N. S., Viirre, R. D., Adler, M. J., & Olson, M. F. (2023). Opportunities and challenges for the development of MRCK kinase inhibitors as potential cancer chemotherapeutics. Cells, 12, 534. https://doi.org/10.3390/cells12040534  
+
+Tan, I., Seow, K. T., Lim, L., & Leung, T. (2001). Intermolecular and intramolecular interactions regulate catalytic activity of myotonic dystrophy kinase-related CDC42-binding kinase α. Molecular and Cellular Biology, 21, 2767–2778. https://doi.org/10.1128/MCB.21.8.2767-2778.2001  
+
+Unbekandt, M., Croft, D. R., Crighton, D., Mezna, M., McArthur, D., McConnell, P., … Olson, M. F. (2014). A novel small-molecule MRCK inhibitor blocks cancer cell invasion. Cell Communication and Signaling, 12, 54. https://doi.org/10.1186/s12964-014-0054-x  
+
+Unbekandt, M., Lilla, S., Zanivan, S., & Olson, M. F. (2020). The CDC42 effector protein MRCKβ autophosphorylates on threonine 1108. Small GTPases, 11, 451–460. https://doi.org/10.1080/21541248.2018.1564472  
+
+Unbekandt, M., & Olson, M. F. (2014). The actin-myosin regulatory MRCK kinases: regulation, biological functions and associations with human cancer. Journal of Molecular Medicine, 92, 217–225. https://doi.org/10.1007/s00109-014-1133-6  
+
+Zhao, Z.-S., & Manser, E. (2015). Myotonic dystrophy kinase-related CDC42-binding kinases (MRCK), the ROCK-like effectors of CDC42 and RAC1. Small GTPases, 6, 81–88. https://doi.org/10.1080/21541248.2014.1000699

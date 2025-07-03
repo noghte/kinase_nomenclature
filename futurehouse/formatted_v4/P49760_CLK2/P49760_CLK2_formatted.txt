@@ -1,0 +1,56 @@
+Phylogeny  
+CLK2 belongs to the CMGC group, CDC-like kinase (CLK) sub-family of the human kinome (Song et al., 2023).  It shares 67–87 % sequence identity with its human paralogues CLK1, CLK3 and CLK4 (Lindberg & Meijer, 2021).  Canonical orthologues are conserved from mouse (98 % identity in the kinase domain) through vertebrates and invertebrates to plants and yeast (Ogle et al., 2024).  Structure-based trees place CLK2 closest to casein kinase 2, reflecting marked fold similarity despite low sequence identity (Lee et al., 2019).  
+
+Reaction Catalyzed  
+ATP + [protein]-Ser/Thr/Tyr ⇌ ADP + [protein]-O-phospho-Ser/Thr/Tyr (Moyano et al., 2020; Lee et al., 2019).  
+
+Cofactor Requirements  
+Mg²⁺ is required for ATP-dependent catalysis (Song et al., 2023).  
+
+Substrate Specificity  
+• Prefers the linear motif R-x-x-S/T within arginine/serine-rich (RS) regions (Song et al., 2023).  
+• Cellular substrates include SR proteins (SRSF1-12, SRSF3), PTPN1, PPP2R5B, PPARGC1A, PAGE4 and F3 pre-mRNA (Song et al., 2023).  
+• The enzyme autophosphorylates on an activation-loop Tyr, demonstrating intrinsic dual Ser/Thr/Tyr specificity (Lindberg & Meijer, 2021).  
+
+Structure  
+N-terminal disordered RS region (~1–120) followed by a bilobal kinase domain (R130–D496) that contains the hallmark EHLAMMERILG/LAMMER motif (Kallen et al., 2018).  Crystal structures are available for the apo enzyme (PDB 3NR9) and complexes with inhibitors (e.g., 6FYL, 6KHE) at 1.8–2.2 Å resolution (Lindberg & Meijer, 2021).  Key features include a Lys–Glu salt bridge stabilising the N-lobe, an intact hydrophobic spine, a Tyr-containing activation loop, β-hairpin and MAPK-like insertions around the ATP site, and an unusually large hydrophobic pocket in which Val326 is critical for inhibitor binding (Song et al., 2023; Lee et al., 2019).  
+
+Regulation  
+Post-translational  
+– Autophosphorylation of the activation-loop Tyr activates the kinase (Lee et al., 2019).  
+– AKT1 phosphorylates Ser34, Thr127 and Thr344, linking CLK2 to insulin signalling (Prak et al., 2016).  
+– Temperature-dependent rearrangements within the activation segment modulate activity (Lindberg & Meijer, 2021).  
+
+Transcriptional / post-transcriptional  
+– Insulin-pathway effectors and miR-573/miR-144 down-regulate CLK2 expression (Song et al., 2023).  
+– Autoregulatory intron retention, analogous to CLK1, is proposed (Lindberg & Meijer, 2021).  
+
+Function  
+Expression & localisation: Widely expressed, enriched in nervous tissue and colon; predominantly nuclear (Song et al., 2023).  
+Splicing control: Phosphorylates SR proteins, redistributing them from speckles to nucleoplasm and altering splice-site choice (e.g., Tau exon-10) (Lindberg & Meijer, 2021).  
+Metabolism: Phosphorylates PPARGC1A, suppressing hepatic gluconeogenic gene expression (Moyano et al., 2020).  
+Signal transduction: Targets PPP2R5B to promote PP2A–AKT1 complex formation and PAGE4 to dampen JUN activity (Song et al., 2023).  
+Additional roles: Required for HIV-1 gene expression; promotes migration and invasion of several cancer cell types (Lindberg & Meijer, 2021; Song et al., 2023).  
+
+Inhibitors  
+ATP-competitive compounds with low-nanomolar CLK2 potency include CX-4945 (IC₅₀ ≈ 3.8 nM), CC-671 (6 nM), MU1210 (20 nM), SM08502, several indazole derivatives, KuWal151 and benzobisthiazole 3A5; tool compounds TG003, T-025 and DB18 also block SR-protein phosphorylation (Lee et al., 2019; Song et al., 2023; Kallen et al., 2018; Walter et al., 2018; Prak et al., 2016; Moyano et al., 2020).  
+
+Other Comments  
+CLK2 dysregulation is linked to Alzheimer’s disease (Tau mis-splicing), Phelan–McDermid syndrome, neurodevelopmental disorders, metabolic disease, osteoarthritis, several cancers and HIV infection. No recurrent pathogenic point mutations have been reported to date (Lindberg & Meijer, 2021; Kallen et al., 2018; Moyano et al., 2020; Song et al., 2023).  
+
+References  
+Kallen, J., Bergsdorf, C., Arnaud, B., Bernhard, M., Brichet, M., Cobos-Correa, A., … Lerchner, A. (2018). X-ray structures and feasibility assessment of CLK2 inhibitors for Phelan–McDermid syndrome. ChemMedChem, 13, 1997–2007. https://doi.org/10.1002/cmdc.201800344  
+
+Lee, J. Y., Yun, J.-S., Kim, W.-K., Chun, H.-S., Jin, H., Cho, S., & Chang, J. H. (2019). Structural basis for the selective inhibition of CDC2-like kinases by CX-4945. BioMed Research International, 2019, 1–10. https://doi.org/10.1155/2019/6125068  
+
+Lindberg, M. F., & Meijer, L. (2021). Dual-specificity, tyrosine phosphorylation-regulated kinases (DYRKs) and CDC2-like kinases (CLKs) in human disease: An overview. International Journal of Molecular Sciences, 22, 6047. https://doi.org/10.3390/ijms22116047  
+
+Moyano, P. M., Němec, V., & Paruch, K. (2020). CDC-like kinases (CLKs): Biology, chemical probes, and therapeutic potential. International Journal of Molecular Sciences, 21, 7549. https://doi.org/10.3390/ijms21207549  
+
+Ogle, R., Netherton, J., Robinson, B. R., Heyd, F., Zhang, X. D., & Baker, M. A. (2024). Comparison of the CDC2-like kinase family across eukaryotes highlights the functional conservation of these unique biological thermometers. bioRxiv. https://doi.org/10.1101/2024.06.21.599975  
+
+Prak, K., Kriston-Vizi, J., Chan, A. W. E., Luft, C., Costa, J. R., Pengo, N., & Ketteler, R. (2016). Benzobisthiazoles represent a novel scaffold for kinase inhibitors of CLK family members. Biochemistry, 55, 608–617. https://doi.org/10.1021/acs.biochem.5b01128  
+
+Song, M., Pang, L., Zhang, M., Qu, Y., Laster, K. V., & Dong, Z. (2023). CDC2-like kinases: Structure, biological function and therapeutic targets for diseases. Signal Transduction and Targeted Therapy, 8, 126. https://doi.org/10.1038/s41392-023-01409-4  
+
+Walter, A., Chaikuad, A., Helmer, R., Loaëc, N., Preu, L., Ott, I., … Kunick, C. (2018). Molecular structures of CDC2-like kinases in complex with a new inhibitor chemotype. PLoS ONE, 13, e0196761. https://doi.org/10.1371/journal.pone.0196761

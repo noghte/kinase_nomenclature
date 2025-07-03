@@ -1,0 +1,90 @@
+## Proposed EC/sub-subclass  
+Not assigned in the source material.
+
+## Accepted name  
+Microtubule-affinity-regulating kinase 3 (MARK3)
+
+## Synonyms  
+PAR-1b; AMPK/Snf1-related kinase 8; Emk2
+
+## Phylogeny  
+MARK3 belongs to the CaMK group, AMPK/Snf1-related subfamily, MARK/PAR-1 branch of the human kinome. Humans encode four paralogues (MARK1–4); phylogenetic analyses place MARK3 closest to MARK1 (Naz et al., 2013). Highly conserved orthologues include Drosophila Par-1, C. elegans PAR-1 and S. cerevisiae Kin1/Kin2, indicating an ancient cell-polarity module retained from yeast to mammals (Göransson et al., 2006; Timm et al., 2006).
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr → ADP + protein-L-Ser/Thr-P (Marx et al., 2010; Timm et al., 2008).
+
+## Cofactor Requirements  
+Catalytic activity is strictly Mg²⁺-dependent (Sandi et al., 2017).
+
+## Substrate Specificity  
+• High affinity for KXGS motifs within the microtubule-binding repeats of MAPT/tau, MAP2 and MAP4 (Marx et al., 2010).  
+• Efficiently phosphorylates ζXKXGSXXNΨ variants through recognition by the conserved KLDpT activation loop (Sonntag et al., 2019).  
+• Can target the broader AMPK-type consensus LXRXXS/TXXXL, albeit with lower potency than for KXGS sites (Sonntag et al., 2019).
+
+## Structure  
+The protein is modular: an N-terminal header; bilobal kinase domain (≈ res. 65–310); ExxE common-docking linker; three-helix UBA domain (≈ 320–365); an intrinsically disordered spacer with regulatory phosphosites; and a C-terminal KA1 domain that mediates membrane association (Marx et al., 2010; Panneerselvam et al., 2006).  
+A 2.4 Å X-ray structure of a catalytic-UBA fragment (space group C2) reveals two kinase-domain conformers; helix C pivots outward in one, disrupting the Lys85–Glu103 ion pair, while the activation loop (Asp196–Phe199–Thr211) is ordered in both conformers (Unknown authors, 2008). Phosphorylation of Thr211 within the conserved KLDpT motif completes the hydrophobic spine and aligns catalytic residues (Sonntag et al., 2019; Göransson et al., 2006). The UBA packs against the N-lobe and modulates access of upstream kinases, whereas the KA1 domain confers phospholipid-dependent autoinhibition and cortical targeting (Marx et al., 2010).
+
+## Regulation  
+Post-translational modifications  
+• Activation-loop Thr211 is phosphorylated by LKB1–STRAD–MO25 or by TAO1/MARKK, activating the kinase (Göransson et al., 2006; Timm et al., 2006).  
+• Adjacent Ser212 is phosphorylated by GSK3β, locking the activation loop in an inactive state (Timm et al., 2008).  
+• Spacer Thr595 and Ser619 are phosphorylated by atypical PKC, creating 14-3-3 docking motifs that drive cytosolic sequestration (Marx et al., 2010; Göransson et al., 2006).  
+• Multiple helix-C Ser/Thr residues are phosphorylated by Pim-1 and CaMKI, lowering activity (Marx et al., 2010).  
+• Ubiquitylation on Lys29/Lys33 chains is removed by USP9X; UBA mutations or loss of these chains impair LKB1-dependent activation (Al-Hakim et al., 2008).  
+• PAK5 binds the kinase domain and sterically inhibits activity (Timm et al., 2006).
+
+Protein–protein interactions  
+• Phosphorylation-dependent or constitutive binding to 14-3-3 isoforms regulates localisation (Göransson et al., 2006).  
+• Helicobacter pylori CagA associates with MARK3 and suppresses its activity at epithelial junctions (Marx et al., 2010).
+
+## Function  
+Expression  
+Highly expressed in brain neurons and on the surface of differentiated pancreatic epithelial cells but absent from transformed pancreatic lines (Timm et al., 2006; Matenia & Mandelkow, 2009).
+
+Substrates and pathways  
+• MAPT/tau, MAP2, MAP4: phosphorylation at KXGS sites detaches MAPs from microtubules, increasing dynamics (Marx et al., 2010; Timm et al., 2006).  
+• CDC25C Ser216: generates a 14-3-3 binding site to enforce the G2/M checkpoint (Unknown authors, 2008).  
+• Class IIa HDACs (e.g., HDAC7): phosphorylation induces 14-3-3-mediated nuclear export (Matenia & Mandelkow, 2009).  
+• ARHGEF2 Ser151: activates RHOA signalling, promoting stress fibres, focal adhesions and epithelial polarity (Sandi et al., 2017).  
+• KSR1: phosphorylation retains KSR1 in the cytosol, dampening Ras-MAPK signalling (Matenia & Mandelkow, 2009).  
+• PTPH1, plakophilin-2: phosphorylation creates 14-3-3 sites and relocalises these proteins (Matenia & Mandelkow, 2009).
+
+Upstream regulators  
+LKB1 and TAO1/MARKK activate MARK3 via Thr211 phosphorylation; atypical PKC modifies spacer sites to control localisation (Göransson et al., 2006; Timm et al., 2006).
+
+Biological roles  
+MARK3 coordinates neuronal polarity and axonal transport, regulates epithelial lumen formation, links microtubule and actin systems, and modulates Ras-MAPK and cell-cycle checkpoints through substrate sequestration (Marx et al., 2010; Sandi et al., 2017).
+
+## Other Comments  
+• Homozygous p.Arg570Gly mutations in MARK3 cause progressive visual impairment and phthisis bulbi in humans; Drosophila modelling confirms loss-of-function effects on eye development (Ansar et al., 2018).  
+• Elevated MARK activity and tau Ser262 phosphorylation are early events in Alzheimer-type tauopathy (Annadurai et al., 2017; Timm et al., 2006).  
+• Interaction with H. pylori CagA links MARK3 dysregulation to epithelial polarity loss in gastric carcinogenesis (Marx et al., 2010).  
+• Loss of cell-surface MARK3 in transformed pancreatic cells suggests relevance to pancreatic oncogenesis (Matenia & Mandelkow, 2009).
+
+## References  
+Al-Hakim, A. K., Zagorska, A., Chapman, L., Deak, M., Peggie, M., & Alessi, D. R. (2008). Control of AMPK-related kinases by USP9X and atypical Lys29/Lys33-linked polyubiquitin chains. Biochemical Journal, 411, 249–260. https://doi.org/10.1042/BJ20080067  
+
+Annadurai, N., Agrawal, K., Džubák, P., Hajdúch, M., & Das, V. (2017). Microtubule affinity-regulating kinases are potential druggable targets for Alzheimer’s disease. Cellular and Molecular Life Sciences, 74, 4159–4169. https://doi.org/10.1007/s00018-017-2574-1  
+
+Ansar, M., Chung, H., Waryah, Y. M., Makrythanasis, P., Falconnet, E., Rao, A. R., … Antonarakis, S. E. (2018). Visual impairment and progressive phthisis bulbi caused by recessive pathogenic variant in MARK3. Human Molecular Genetics, 27, 2703–2711. https://doi.org/10.1093/hmg/ddy180  
+
+Göransson, O., Deak, M., Wullschleger, S., Morrice, N. A., Prescott, A. R., & Alessi, D. R. (2006). Regulation of the polarity kinases PAR-1/MARK by 14-3-3 interaction and phosphorylation. Journal of Cell Science, 119, 4059–4070. https://doi.org/10.1242/jcs.03097  
+
+Marx, A., Nugoor, C., Panneerselvam, S., & Mandelkow, E. (2010). Structure and function of polarity-inducing kinase family MARK/PAR-1 within the branch of AMPK/Snf1-related kinases. The FASEB Journal, 24, 1637–1648. https://doi.org/10.1096/fj.09-148064  
+
+Matenia, D., & Mandelkow, E.-M. (2009). The tau of MARK: A polarized view of the cytoskeleton. Trends in Biochemical Sciences, 34, 332–342. https://doi.org/10.1016/j.tibs.2009.03.008  
+
+Naz, F., Anjum, F., Islam, A., Ahmad, F., & Hassan, M. I. (2013). Microtubule affinity-regulating kinase 4: Structure, function, and regulation. Cell Biochemistry and Biophysics, 67, 485–499. https://doi.org/10.1007/s12013-013-9550-7  
+
+Panneerselvam, S., Marx, A., Mandelkow, E., & Mandelkow, E. (2006). Structure of the catalytic and ubiquitin-associated domains of the protein kinase MARK/PAR-1. Structure, 14, 173–183. https://doi.org/10.1016/j.str.2005.09.022  
+
+Sandi, M.-J., Marshall, C. B., Balan, M., Coyaud, É., Zhou, M., Monson, D. M., … Rottapel, R. (2017). MARK3-mediated phosphorylation of ARHGEF2 couples microtubules to the actin cytoskeleton to establish cell polarity. Science Signaling. https://doi.org/10.1126/scisignal.aan3286  
+
+Sonntag, T., Moresco, J. J., Yates, J. R., & Montminy, M. (2019). The KLDpT activation loop motif is critical for MARK kinase activity. PLOS ONE, 14, e0225727. https://doi.org/10.1371/journal.pone.0225727  
+
+Timm, T., Matenia, D., Li, X.-Y., Griesshaber, B., & Mandelkow, E.-M. (2006). Signaling from MARK to tau: Regulation, cytoskeletal crosstalk, and pathological phosphorylation. Neurodegenerative Diseases, 3, 207–217. https://doi.org/10.1159/000095258  
+
+Timm, T., Marx, A., Panneerselvam, S., Mandelkow, E., & Mandelkow, E.-M. (2008). Structure and regulation of MARK, a kinase involved in abnormal phosphorylation of tau protein. BMC Neuroscience, 9(Suppl 2), S9. https://doi.org/10.1186/1471-2202-9-S2-S9  
+
+Unknown authors. (2008). Structural variations in catalytic and ubiquitin-associated domains of human protein kinase MARK1 and MARK3. (Pages 50–55). *Details as in source.*

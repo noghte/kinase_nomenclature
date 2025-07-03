@@ -1,0 +1,52 @@
+## Phylogeny  
+TP53RK (also called PRPK) is an evolutionarily conserved atypical protein kinase present in Archaea and Eukarya. It falls within the “Other” clade of eukaryotic protein kinases and belongs to the ancient Bud32/piD261 kinase family (Li et al., 2021; Facchin et al., 2007). Orthologues include yeast Bud32/YGR262c, mouse PRPK, and archaeal Bud32-like enzymes (Abe et al., 2001; Li et al., 2021). Human TP53RK (253 aa) shares ~83 % identity with mouse PRPK (244 aa) and ~32 % identity with yeast Bud32 (Abe et al., 2001).  
+
+## Reaction Catalyzed  
+ATP-dependent phosphotransfer:  
+ATP + protein-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (Abe et al., 2001; Facchin et al., 2007).  
+Within the EKC/KEOPS complex, the addition of OSGEP confers ATPase activity (ATP → ADP + Pi) (Chen et al., 2023; Li et al., 2021).  
+
+## Cofactor Requirements  
+Requires a divalent cation, with Mg²⁺ being specifically essential for human TP53RK activity (Abe et al., 2001; Li et al., 2021).  
+
+## Substrate Specificity  
+A consensus motif was reported (Johnson et al., 2023, cited in Goswami et al., 2019) but exact residues are not given in the present text. Confirmed substrates include p53 (Ser15), CDC7, and MCM2/4 (Abe et al., 2001; Facchin et al., 2007; Unknown Authors, 2021).  
+
+## Structure  
+The 253-residue enzyme contains a canonical bilobal kinase domain (residues 33-253) with an internal bipartite NLS (Chen et al., 2023; Abe et al., 2001). Crystal structures are available for the TP53RK–TPRKB heterodimer (PDB 6WQX) and for TP53RK within the human KEOPS complex (PDB 6GWJ); an AlphaFold model is also deposited (AF-Q96S44-F1) (Chen et al., 2023; Li et al., 2021). TP53RK features an atypical KXGXXA glycine-rich loop, lacks a classical activation segment, yet adopts an active conformation. Key residues include Gly42 (ATP-binding loop), Asp163 (catalytic), and Asp183 of the DFG motif that coordinates Mg²⁺ (Facchin et al., 2007; Li et al., 2021).  
+
+## Regulation  
+• Activation by phosphorylation on Ser250 by Akt/PKB and TOPK/PBK (Facchin et al., 2007; Li et al., 2021).  
+• Assembly with TPRKB enhances kinase activity, while interaction with OSGEP endows ATPase activity; full activity is within the five-subunit EKC/KEOPS complex (Chen et al., 2023).  
+• Autophosphorylation reported (Chen et al., 2023).  
+• A catalytic-site mutant D163A is kinase-dead and acts dominantly negative (Facchin et al., 2007).  
+• PI3K inhibitor LY294002 indirectly suppresses TP53RK by blocking upstream Akt (Facchin et al., 2007).  
+
+## Function  
+Nuclear kinase with dual roles (Abe et al., 2001; Rangwala et al., 2022):  
+1. tRNA biology – Core subunit of EKC/KEOPS required for threonyl-carbamoyl adenosine (t6A) modification, telomere maintenance, and transcriptional regulation (Chen et al., 2023).  
+2. Signal transduction – Phosphorylation of p53 Ser15 enhances p53-mediated cell-cycle arrest and apoptosis (Abe et al., 2001; Facchin et al., 2007). It also modulates DNA replication by phosphorylating CDC7 and MCM proteins (Unknown Authors, 2021).  
+Expression: Highly expressed in IL-2-activated cytotoxic T cells, diverse epithelial tumour cell lines, and testis; low in most other normal tissues (Abe et al., 2001).  
+
+## Inhibitors  
+Direct inhibitors identified by virtual or experimental screening include fusidic acid, rocuronium bromide, betamethasone-17-valerate and methotrexate; all show anti-cancer activity in pre-clinical colon and skin cancer models (Li et al., 2021). LY294002 indirectly inhibits TP53RK activation via Akt blockade (Facchin et al., 2007).  
+
+## Other Comments  
+Biallelic TP53RK mutations cause Galloway–Mowat syndrome (GAMOS) featuring microcephaly and, variably, nephrotic syndrome (Chen et al., 2023; Li et al., 2021). Reported pathogenic variants include G42D, K60Sfs*61, T81R, K238Nfs*2, D163A and a recurrent East-Asian frameshift c.15_16dup (Chen et al., 2023; Li et al., 2021). TP53RK maps to chromosome 20q13.1-q13.2 (Abe et al., 2001). Ser250 phosphorylation promotes colon-cancer metastasis, and TP53RK is over-expressed in several cancers (Li et al., 2021; Unknown Authors, 2021).  
+
+## 9. References  
+Abe, Y., Matsumoto, S., Wei, S., Nezu, K., Miyoshi, A., Kito, K., … Enomoto, Y. (2001). Cloning and characterization of a p53-related protein kinase expressed in interleukin-2-activated cytotoxic T-cells, epithelial tumor cell lines, and the testes. The Journal of Biological Chemistry, 276, 44003–44011. https://doi.org/10.1074/jbc.M105669200  
+
+Chen, J., Ye, G.-B., Huang, J.-R., Peng, M., Gu, W.-Y., Xiong, P., & Zhu, H.-M. (2023). Novel TP53RK variants cause varied clinical features of Galloway–Mowat syndrome without nephrotic syndrome in three unrelated Chinese patients. Frontiers in Molecular Neuroscience. https://doi.org/10.3389/fnmol.2023.1116949  
+
+Facchin, S., Ruzzene, M., Peggion, C., Sartori, G., Carignani, G., Marin, O., … Pinna, L. (2007). Phosphorylation and activation of the atypical kinase p53-related protein kinase (PRPK) by Akt/PKB. Cellular and Molecular Life Sciences, 64, 2680–2689. https://doi.org/10.1007/s00018-007-7179-7  
+
+Goswami, M., Vandenberg, K. R., Han, S., Wang, L., Singh, B., Weiss, T., … Tomlins, S. (2019). Identification of TP53RK-binding protein (TPRKB) dependency in TP53-deficient cancers. Molecular Cancer Research, 17, 1652–1664. https://doi.org/10.1158/1541-7786.MCR-19-0144  
+
+Li, J., Ma, X., Banerjee, S., Chen, H., Ma, W., Bode, A. M., & Dong, Z. (2021). Crystal structure of the human PRPK–TPRKB complex. Communications Biology. https://doi.org/10.1038/s42003-021-01683-4  
+
+Rangwala, A. M., Mingione, V. R., Georghiou, G., & Seeliger, M. (2022). Kinases on double duty: a review of UniProtKB-annotated bifunctionality within the kinome. Biomolecules, 12, 685. https://doi.org/10.3390/biom12050685  
+
+TP53RK regulates DNA replication via DDK dependent pathway in colorectal cancer. (2021). [Pre-publication or technical report].  
+
+Generación de líneas celulares estables knock-out para PRPK mediante CRISPR/Cas9. (2023). [Master’s thesis or technical report].

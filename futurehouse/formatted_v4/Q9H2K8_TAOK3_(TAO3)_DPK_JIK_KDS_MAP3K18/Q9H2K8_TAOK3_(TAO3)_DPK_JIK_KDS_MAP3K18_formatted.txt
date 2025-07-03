@@ -1,0 +1,66 @@
+## Phylogeny  
+Orthologous proteins are found in Homo sapiens (TAOK3), Mus musculus (Taok3), Rattus norvegicus (Taok3), Danio rerio (taok3), Drosophila melanogaster (Tao) and Caenorhabditis elegans (Kin-18) (Yoder et al., 2023). Within the human kinome, TAOK3 is placed in the STE group → STE20 family → TAO subfamily (Manning et al., 2002). The amino-terminal kinase domain shares 82.7–88.6 % identity with the paralogues TAOK1 and TAOK2 (Fang et al., 2020). Sequence similarity also extends to the catalytic cores of Hippo-pathway MST1/2 kinases (Poirier et al., 2024).
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr ⇌ ADP + [protein]-O-phospho-Ser/Thr (Fang et al., 2020)
+
+## Cofactor Requirements  
+Catalytic activity requires Mg²⁺ as the divalent metal cofactor (Yoder et al., 2023).
+
+## Substrate Specificity  
+Global phosphoproteomic profiling assigns TAOK3 to motif class 14 (“TAO family”), revealing a distinct Ser/Thr recognition pattern determined by positional amino-acid preferences; both serine- and threonine-containing sites are phosphorylated (Johnson et al., 2023).
+
+## Structure  
+The protein contains an N-terminal kinase domain (residues 1–319), a serine-rich segment (~350–380) and two to three C-terminal coiled-coil regions; unlike TAOK2, it lacks a leucine-rich repeat (Fang et al., 2020).  
+• Crystal structure PDB 6BDN shows the canonical bilobal fold with conserved VAIK, HRD and DFG motifs, an ordered activation loop, and correctly aligned hydrophobic spine and αC-helix (Fang et al., 2020).  
+• AlphaFold modelling predicts an additional PH-C1 tandem that mediates membrane association (Poirier et al., 2024).  
+• A conserved triple-helical C-terminal coiled-coil may promote oligomerisation (Byeon & Yadav, 2024).
+
+## Regulation  
+• Phosphorylation of Ser324 correlates with activation (Unknown authors, 2021).  
+• ATM-dependent phosphorylation links DNA-damage sensing to downstream p38 activation (Fang et al., 2020).  
+• Autophosphorylation during mitosis supports spindle positioning and cell rounding (Fang et al., 2020).  
+• TAOK3 phosphorylates SHP-1 on Thr394, promoting its ubiquitination and degradation to sustain T-cell-receptor signalling (Poirier et al., 2024).  
+• Membrane localisation via the PH-C1 module provides spatial control of kinase activity (Poirier et al., 2024).
+
+## Function  
+Expression is highest in peripheral blood leukocytes, spleen and thymus, with additional abundance in stomach, kidney and brain; within brain, the kinase is enriched in oligodendrocyte precursor cells (Fang et al., 2020; Byeon & Yadav, 2024).  
+Key signalling roles include:  
+• DNA-damage checkpoint: ATM → TAOK3 → MAP2K3/6 → p38 governs G2/M arrest (Fang et al., 2020).  
+• JNK modulation: suppresses basal MAPK8/JNK activity and dampens EGF-induced JNK signalling (Fang et al., 2020).  
+• Hippo pathway: phosphorylates MST1/2 and LATS1/2 downstream of GPCR inputs (Poirier et al., 2024).  
+• Immune regulation: binds LCK and targets SHP-1 to maintain proximal TCR signalling and IL-2 secretion (Poirier et al., 2024).  
+• B-cell development: controls ADAM10 surface expression to direct marginal-zone B-cell fate (Fang et al., 2020).  
+• Mitosis: interacts with Rnd3 to coordinate cell rounding and spindle orientation (Fang et al., 2020).  
+• Cancer invasion: regulates trafficking of TKS5α-positive endosomes, promoting invadopodia formation and tumour growth (Iizuka et al., 2021).
+
+## Inhibitors  
+• Compound 43: ATP-competitive, IC₅₀ ≈ 15 nM against TAOK2 with low off-target activity; also inhibits TAOK3 (Fang et al., 2020).  
+• Compound 63: TAO-selective, IC₅₀ ≈ 19–39 nM for TAOK1/2; comparable potency for TAOK3 (Fang et al., 2020).  
+• SBI-581: oxindole inhibitor, IC₅₀ = 42 nM for TAOK3, ~5-fold selectivity over MEKK3, orally bioavailable in mice (Iizuka et al., 2021).  
+• NCGC00188382: cellular activity 25–300 nM in pancreatic cancer lines; inhibits TAOK3 along with Aurora-B and CDK7 (Fang et al., 2020).  
+• SW034538 and SW083688: inhibit TAOK2 (IC₅₀ = 300 nM and 1.3 µM) with cross-reactivity to TAOK3 (Fang et al., 2020).  
+• Staurosporine: broad-spectrum kinase inhibitor with measurable TAOK3 activity (Fang et al., 2020).
+
+## Other Comments  
+TAOK3 activity contributes to microtubule-drug resistance in breast cancer via NF-κB (Fang et al., 2020), supports stemness in pancreatic cancer, predicts recurrence in prostate cancer, and drives invadopodia-mediated invasion (Iizuka et al., 2021).  
+Neurologically, TAOK3 phosphorylates tau and is a substrate of LRRK2 in Parkinson’s disease models (Fang et al., 2020), is required for TH2/ILC2-driven asthma (Byeon & Yadav, 2024), correlates with pain-sensitivity SNPs (Fang et al., 2020), and harbours de-novo variants (p.T199A, p.R632W) linked to autism spectrum disorder and schizophrenia (Hu et al., 2021).
+
+## 9. References  
+Byeon, S., & Yadav, S. (2024). Pleiotropic functions of TAO kinases and their dysregulation in neurological disorders. Science Signaling. https://doi.org/10.1126/scisignal.adg0876  
+
+Fang, C.-Y., Lai, T., Hsiao, M., & Chang, Y.-C. (2020). The diverse roles of TAO kinases in health and diseases. International Journal of Molecular Sciences, 21(20), 7463. https://doi.org/10.3390/ijms21207463  
+
+Hu, C., Feng, P., Yang, Q., & Xiao, L. (2021). Clinical and neurobiological aspects of TAO kinase family in neurodevelopmental disorders. Frontiers in Molecular Neuroscience, 14, 655037. https://doi.org/10.3389/fnmol.2021.655037  
+
+Iizuka, S., Quintavalle, M., Navarro, J., Gribbin, K. P., Ardecky, R., Abelman, M., … Courtneidge, S. (2021). Serine/threonine kinase TAO3-mediated trafficking of endosomes containing the invadopodia scaffold TKS5α promotes cancer invasion and tumor growth. Cancer Research, 81(6), 1472–1485. https://doi.org/10.1158/0008-5472.CAN-20-2383  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298(5600), 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Poirier, A., Silva Ormonde, J. V., Aubry, I., Abidin, B. M., Feng, C.-H., Martinez-Cordova, Z., … Tremblay, M. L. (2024). The induction of SHP-1 degradation by TAOK3 ensures the responsiveness of T cells to TCR stimulation. Science Signaling. https://doi.org/10.1126/scisignal.adg4422  
+
+Unknown authors. (2021). Thousand and one amino acid kinase 2 (TAOK2) modulates Hippo pathway activity and impacts on synaptic plasticity.  
+
+Yoder, M. D., Van Osten, S., & Weber, G. F. (2023). Expression analysis of the TAO kinase family of STE20p-like MAP kinase kinase kinases during early embryonic development in Xenopus laevis. Gene Expression Patterns, 119318. https://doi.org/10.2139/ssrn.4334225

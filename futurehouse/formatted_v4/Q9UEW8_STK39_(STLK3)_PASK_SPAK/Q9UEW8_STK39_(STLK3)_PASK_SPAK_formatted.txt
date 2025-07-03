@@ -1,0 +1,43 @@
+## Phylogeny  
+SPAK (STK39) is a serine/threonine protein kinase of the mammalian Ste20-related (STE) family. It belongs to the Germinal Centre Kinase group, GCK-VI subfamily, together with the homologous kinase OSR1 and the pseudokinases STRADα/β (Gagnon & Delpire, 2012, pp. 1–2, 74–76). The subfamily, also termed “Fray,” is evolutionarily conserved from fungi and plants to animals and is phylogenetically related to the WNK kinases (Zhang et al., 2017, pp. 3–4). Phylogenetic analyses indicate that OSR1 is the ancestral gene and that SPAK arose from a vertebrate-specific gene duplication (Unknown Author, 2012, pp. 34–40). SPAK and OSR1 share 65–67 % total sequence identity and 89 % identity within the catalytic domain (Gagnon & Delpire, 2012, pp. 2–4). Based on catalytic-domain comparison, SPAK is closer to yeast SPS1p than to Ste20p and is positioned within the Ste11/Ste20 branch of the yeast kinome (Gagnon & Delpire, 2012, pp. 4–6). In the human kinome classification it is assigned to the STE family (Gagnon & Delpire, 2012, pp. 2–4, 41–42).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Gagnon & Delpire, 2012, pp. 1–2; Johnson et al., 2023, pp. 4–5).
+
+## Cofactor Requirements  
+Catalysis requires ATP and a divalent cation, Mg²⁺ (or Mn²⁺) coordinated by the conserved DFG motif of the kinase domain (Gagnon & Delpire, 2012, pp. 9–10; Unknown Author, 2012, pp. 34–40).
+
+## Substrate Specificity  
+Peptide-library profiling generated position-specific scoring matrices for STK39, but an explicit consensus motif was not provided (Johnson et al., 2023, pp. 9–10).
+
+## Structure  
+SPAK is multi-domain (Unknown Author, 2012, pp. 34–40).  
+• N-terminus: Proline/alanine-rich “PAPA” box implicated in membrane localisation.  
+• Catalytic core (≈ aa 75–349): classical bi-lobed kinase fold; Lys104 in β3 binds ATP, and a DFG motif coordinates Mg²⁺ (Gagnon & Delpire, 2012, pp. 9–10, 60–68).  
+• C-terminus: conserved CCT/PF2 domain that recognises RFxV/I motifs on substrates and WNK kinases, mediating docking (Gagnon & Delpire, 2012, pp. 10–12).  
+Additional sequence elements include a nuclear-localisation signal (RAKKVRR) and a caspase cleavage motif (DEMD) located between the kinase and CCT domains (Gagnon & Delpire, 2012, pp. 2–4). SPAK can form homo- or heterodimers with OSR1, possibly via activation-segment swapping (Zhang et al., 2017, pp. 4–6).
+
+## Regulation  
+Activation is driven by WNK1-4, which phosphorylate Thr233 in the activation loop and Ser373 in the S-motif (Zhang et al., 2017, pp. 4–6; Sohara & Uchida, 2016, pp. 2–3). Phosphorylation of Thr233 is essential for catalytic activity. Binding to the scaffold protein MO25/Cab39 further enhances activity (Zhang et al., 2017, pp. 1–3, 4–6). Dimerisation with OSR1 or self-association may also facilitate activation (Gagnon & Delpire, 2012, pp. 9–10).
+
+## Function  
+SPAK is broadly expressed, with higher levels in neurons and transporting epithelia such as the kidney (Gagnon & Delpire, 2012, pp. 1–2; Unknown Author, 2012, pp. 34–40). Within the WNK-SPAK/OSR1 pathway, SPAK phosphorylates SLC12 family cation-chloride cotransporters. Phosphorylation stimulates Na⁺-driven NKCC1, NKCC2 and NCC, while inhibiting K⁺-driven KCCs, thereby regulating intracellular Cl⁻ concentration, cell volume and systemic blood pressure (Alessi et al., 2014, pp. 1–4; Zhang et al., 2017, pp. 1–3, 4–6). SPAK also interacts with protein phosphatase-1 to modulate NKCC1 dephosphorylation (Gagnon & Delpire, 2012, pp. 12–14).
+
+## Inhibitors  
+No selective SPAK inhibitors are clinically approved; research compounds are under investigation (Gagnon & Delpire, 2012, pp. 1–2; Zhang et al., 2017, pp. 4–6). The pathway is indirectly targeted by thiazide diuretics (e.g., bendroflumethiazide) acting on NCC and loop diuretics (e.g., furosemide) acting on NKCC2 (Zhang et al., 2017, pp. 1–4).
+
+## Other Comments  
+Hyperactivation of the WNK-SPAK pathway (e.g., via WNK mutations) causes Gordon’s syndrome/pseudohypoaldosteronism type II, characterised by hypertension and hyperkalaemia (Gagnon & Delpire, 2012, pp. 1–2; Zhang et al., 2017, pp. 12–14). SPAK-deficient or kinase-dead mice display hypotension and renal salt wasting, resembling Gitelman’s syndrome (Zhang et al., 2017, pp. 4–6). GWAS identified STK39 SNP rs35929607 that elevates SPAK expression and blood pressure (Unknown Author, 2012, pp. 34–40).
+
+## References  
+Alessi, D. R., Zhang, J., Khanna, A., Hochdörfer, T., Shang, Y., & Kahle, K. T. (2014). The WNK-SPAK/OSR1 pathway: master regulator of cation-chloride cotransporters. Science Signaling, 7, re3. https://doi.org/10.1126/scisignal.2005365  
+
+Gagnon, K. B., & Delpire, E. (2012). Molecular physiology of SPAK and OSR1: two Ste20-related protein kinases regulating ion transport. Physiological Reviews, 92, 1577–1617. https://doi.org/10.1152/physrev.00009.2012  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Sohara, E., & Uchida, S. (2016). Kelch-like 3/Cullin 3 ubiquitin ligase complex and WNK signalling in salt-sensitive hypertension and electrolyte disorder. Nephrology, Dialysis, Transplantation, 31(9), 1417–1424. https://doi.org/10.1093/ndt/gfv259  
+
+Unknown Author. (2012). Characterization of variants in the hypertension-associated gene STK39 (pp. 34–40).  
+
+Zhang, J., Karimy, J. K., Delpire, E., & Kahle, K. T. (2017). Pharmacological targeting of SPAK kinase in disorders of impaired epithelial transport. Expert Opinion on Therapeutic Targets, 21, 795–804. https://doi.org/10.1080/14728222.2017.1351949

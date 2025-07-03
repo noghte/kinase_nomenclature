@@ -1,0 +1,54 @@
+## Phylogeny  
+BRSK2 is a serine/threonine protein kinase that belongs to the AMPK-related kinase (ARK) subfamily, also termed the AMPK family (Bendzunas et al., 2025; Guo et al., 2006). The ARK subfamily comprises 14 members (AMPKα1/α2, BRSK1/2, NUAK1/2, SIK1-3, MARK1-4 and MELK) (Bendzunas et al., 2025). In the Manning kinome classification, ARKs, including BRSK2, reside within the Ca²⁺/calmodulin-dependent protein kinase (CAMK) group (Manning et al., 2002; Guo et al., 2006), although other sources place them in the CMGC group (Bendzunas et al., 2025). BRSK2 shares ~95 % identity in the kinase domain with BRSK1 and ~65 % homology with the catalytic subunit AMPKα1 (Bendzunas et al., 2025; Sample et al., 2015). Orthologues include mouse SAD-A and C. elegans SAD-1 (The regulation of tau-dependent neurodegeneration by Brain Selective/SAD kinases, 2011; Guo et al., 2006).
+
+## Reaction Catalyzed  
+ATP + [protein] ⇌ ADP + [phosphoprotein] (Bendzunas et al., 2025; Jaleel et al., 2006).
+
+## Cofactor Requirements  
+Catalysis requires Mg²⁺ and ATP (Guo et al., 2006; Bendzunas et al., 2025). BRSK2 activity is not AMP-responsive and is unaltered by Ca²⁺ ionophore treatment (UnknownAuthors, 2011; Tamir et al., 2020a).
+
+## Substrate Specificity  
+Two partially conflicting sequence motifs have been reported. One study observed a preference for a hydrophobic residue at –5, an acidic residue (E/D) at –3 and an arginine at +4 (Johnson et al., 2023). A second analysis from the same publication suggested arginine at –5 and –3 and a hydrophobic or proline residue at +4 (Johnson et al., 2023). BRSK2 also recognises the AMPK consensus and phosphorylates model peptide substrates AMARA and SAMS in vitro (Sample et al., 2015; Bendzunas et al., 2025; Guo et al., 2006).
+
+## Structure  
+BRSK2 contains an N-terminal kinase catalytic domain, a ubiquitin-associated (UBA) domain, a C-terminal spacer and, in some isoforms, a kinase-associated (KA1) domain (Bendzunas et al., 2025). An AlphaFold model is available (UniProt Q8IWQ3) (Bendzunas et al., 2025). The kinase domain exhibits the canonical bilobal fold with a phosphorylation-dependent activation loop (Thr174), a regulatory C-helix and a hydrophobic spine (Bendzunas et al., 2025; Guo et al., 2006). Unique redox-sensitive cysteines—Cys176 (T-loop + 2) and Cys183 within a CPE (APE) motif—can form reversible intramolecular disulfide bonds (Bendzunas et al., 2025).
+
+## Regulation  
+• Phosphorylation: LKB1 phosphorylates Thr174, increasing activity >50-fold (Guo et al., 2006; UnknownAuthors, 2011). Additional activating phosphorylations have been reported from PKA (Thr260), CAMKII and PAK1 (Guo et al., 2006; Tamir et al., 2020b).  
+• Redox control: Oxidative conditions promote disulfide formation between Cys176 and Cys183, reversibly inhibiting the kinase; reducing agents such as DTT restore activity (Bendzunas et al., 2025).
+
+## Function  
+Expression is highest in brain and pancreas (UnknownAuthors, 2011; Tamir et al., 2020b). BRSK2  
+– Establishes neuronal polarity and axonogenesis by phosphorylating Tau (Ser262) and other neuronal substrates such as RIM1, influencing presynaptic differentiation and neurotransmitter release (Guo et al., 2006; UnknownAuthors, 2011).  
+– Acts as a potential G2/M checkpoint kinase via Cdc25-C phosphorylation (UnknownAuthors, 2011).  
+– Regulates insulin secretion in pancreatic islets (Tamir et al., 2020b).  
+– Promotes autophagy by suppressing mTOR and phosphorylating ULK1 and p62 (Tamir et al., 2020a).  
+– Functions as a negative regulator of the NRF2 transcription factor (Tamir et al., 2020b).
+
+Upstream kinases: LKB1, PKA, CAMKII, PAK1.  
+Key downstream substrates: Tau, RIM1, Cdc25-C, ULK1, p62, NRF2.
+
+## Inhibitors  
+GW296115 is a cell-active ATP-competitive inhibitor with an IC₅₀ ≈ 107 nM in HEK293 cells (Tamir et al., 2020a).
+
+## Other Comments  
+BRSK2 is designated a “dark kinase” by the NIH Illuminating the Druggable Genome initiative (Tamir et al., 2020a). Its role as a Tau kinase links it to tauopathies such as Alzheimer’s disease (UnknownAuthors, 2011). As an NRF2 repressor, altered BRSK2 activity may be relevant to cancer pathways with dysregulated NRF2 signalling (Tamir et al., 2020b).
+
+## 9. References  
+Bendzunas, G. N., Byrne, D. P., Shrestha, S., Daly, L. A., Oswald, S. O., Katiyar, S., … Kannan, N. (2025). Redox regulation and dynamic control of brain-selective kinases BRSK1/2 in the AMPK family through cysteine-based mechanisms. eLife. https://doi.org/10.7554/eLife.92536  
+
+Guo, Z., Tang, W., Yuan, J.-L., Chen, X., Wan, B., Gu, X., … Yu, L. (2006). BRSK2 is activated by cyclic AMP-dependent protein kinase A through phosphorylation at Thr260. Biochemical and Biophysical Research Communications, 347(4), 867–871. https://doi.org/10.1016/j.bbrc.2006.06.178  
+
+Jaleel, M., Villa, F., Deák, M., Toth, R., Prescott, A., van Aalten, D. V., & Alessi, D. (2006). The ubiquitin-associated domain of AMPK-related kinases regulates conformation and LKB1-mediated phosphorylation and activation. Biochemical Journal, 394(3), 545–555. https://doi.org/10.1042/BJ20051844  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298(5600), 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Sample, V., Ramamurthy, S., Gorshkov, K., Ronnett, G. V., & Zhang, J. (2015). Polarized activities of AMPK and BRSK in primary hippocampal neurons. Molecular Biology of the Cell, 26, 1935–1946. https://doi.org/10.1091/mbc.e14-02-0764  
+
+Tamir, T. Y., Drewry, D. H., Wells, C., Major, M. B., & Axtman, A. D. (2020a). PKIS deep dive yields a chemical starting point for dark kinases and a cell-active BRSK2 inhibitor. Scientific Reports. https://doi.org/10.1038/s41598-020-72869-9  
+
+Tamir, T. Y., Bowman, B. M., Agajanian, M., Goldfarb, D., Schrank, T. P., Stohrer, T., … Major, M. B. (2020b). Gain-of-function genetic screen of the kinome reveals BRSK2 as an inhibitor of the NRF2 transcription factor. Journal of Cell Science. https://doi.org/10.1242/jcs.241356  
+
+The regulation of tau-dependent neurodegeneration by Brain Selective/SAD kinases. (2011). [Unpublished manuscript].

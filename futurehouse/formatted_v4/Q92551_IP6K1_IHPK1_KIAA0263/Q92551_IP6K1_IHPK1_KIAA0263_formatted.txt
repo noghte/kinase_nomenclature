@@ -1,0 +1,81 @@
+## Phylogeny  
+Orthologs of inositol hexakisphosphate kinase 1 (IP6K1) occur across vertebrates (Homo sapiens, Mus musculus, Danio rerio, Gallus gallus, Xenopus laevis), invertebrates (Drosophila melanogaster, Caenorhabditis elegans), fungi (Saccharomyces cerevisiae Ipk2/Kcs1) and early-diverging protists (Entamoeba histolytica EhIP6K); they are absent from higher plants (Azevedo et al., 2011; Shears & Wang, 2019). Mammals retain three paralogs—IP6K1, IP6K2 and IP6K3—derived from a single ancestral gene that persists as one copy in lower eukaryotes (Chakkour & Greenberg, 2024). Within the kinome, IP6K1 belongs to the atypical protein-kinase PDKG-InsPK branch of the inositol phosphate kinase superfamily and shares the canonical two-lobe protein-kinase fold (Shears & Wang, 2019).  
+
+## Reaction Catalyzed  
+1. myo-Inositol hexakisphosphate + ATP → 5-diphosphoinositol pentakisphosphate + ADP (Chakkour & Greenberg, 2024)  
+2. 1,3,4,5,6-Inositol pentakisphosphate + ATP → diphosphoinositol tetrakisphosphate + ADP (Padmanabhan et al., 2009)  
+
+## Cofactor Requirements  
+Catalysis is Mg²⁺-dependent (Chakkour & Greenberg, 2024).  
+
+## Substrate Specificity  
+IP6K1 displays highest catalytic efficiency toward InsP₆, with lower yet measurable activity toward selected InsP₅ isomers (Azevedo et al., 2011). A definitive linear consensus motif for protein-serine pyrophosphorylation by its 5-IP₇ product has not been established (Shears & Wang, 2019).  
+
+## Structure  
+Human IP6K1 comprises:  
+• An N-terminal regulatory segment containing a lipase-like GDSDG motif (aa 82–86) and a PKA/PKC phospho-cluster KHSRRS (aa 115–120) (Ghoshal et al., 2016).  
+• A central SSLL motif essential for activity (Functional studies, 2003).  
+• A C-terminal catalytic core bearing the PxxxDxKxG signature that forms the ATP/inositol-phosphate binding site (Shears & Wang, 2019).  
+
+Crystal structures of EhIP6KA/C (PDB 5W2N, 4O4D–F, 6B5U/V) reveal a conserved two-lobe fold with a canonical αC-helix, an unusual two-turn 3₁₀-helix that forms one jaw of an open “clamshell” substrate pocket, and an electropositive inositol-binding cavity (Wang et al., 2014). Catalytic features inferred for IP6K1 include a G-loop engaging ATP β/γ-phosphates, a Lys-Asp catalytic dyad, a gatekeeper residue in the N-lobe, and aligned hydrophobic (C) and regulatory (R) spines stabilising the active state (Shears & Wang, 2019). The AlphaFold model AF-Q92551-F1 reproduces this fold and maps activation-loop and spine residues (Shears & Wang, 2019).  
+
+## Regulation  
+• Phosphorylation: PKA/PKCβ modify S115, S118 and S121 to promote perilipin-1 binding and enhance catecholamine-stimulated lipolysis; CK2 phosphorylates S347, targeting the protein for proteasomal degradation (Chakraborty, 2018; Ghoshal et al., 2016).  
+• Acetylation: K416 and K433 by p300/CBP (Minini et al., 2020).  
+• Ubiquitination: K226 controls turnover; K226A disrupts this regulation (Minini et al., 2020).  
+• Protein interaction: DDB1 binds and inhibits catalytic activity until DNA damage triggers dissociation (Discovery & synthesis, 2019).  
+• Allosteric control: a high K_m for ATP (~1 mM) renders activity sensitive to cellular energy charge (Minini et al., 2020).  
+• Subcellular dynamics: nucleus–cytosol shuttling modulates context-specific functions (Minini et al., 2020).  
+
+## Function  
+IP6K1 is broadly expressed in brain, adipose tissue, skeletal muscle, liver, pancreas, immune cells and testis (Chakkour & Greenberg, 2024). Reported roles include:  
+• Metabolic regulation: its product 5-IP₇ binds the Akt PH-domain (IC₅₀ ≈ 20 nM) to restrain Akt signalling; IP6K1 knockout elevates AMPK activity and improves glucose tolerance (Minini et al., 2020).  
+• Lipolysis: phosphorylated IP6K1 associates with perilipin-1 to potentiate β-adrenergic glycerol release (Ghoshal et al., 2016).  
+• Cytoskeleton & migration: binds α-actinin and promotes FAK pyrophosphorylation; deletion reduces cell migration (Chakkour & Greenberg, 2024; Chakraborty, 2018).  
+• Vesicular trafficking: 5-IP₇ pyrophosphorylates dynein intermediate chain and AP3B1, biasing cargo toward dynein motors (Chakkour & Greenberg, 2024).  
+• Chromatin/epigenetics: nuclear IP6K1 inhibits JMJD2C, elevating H3K9me3 and modulating DNMT-dependent methylation (Chakkour & Greenberg, 2024).  
+• DNA repair: required for efficient homologous recombination (Wormald et al., 2017).  
+• Innate immunity: catalytic activity promotes TBK1–IRF3 phosphorylation and IFN-β transcription (Pulloor et al., 2014).  
+• Nervous system: knockout mice show cortical migration defects, altered social behaviour and impaired sensorimotor gating (Heitmann & Barrow, 2023).  
+
+## Inhibitors  
+ATP-competitive small molecules include:  
+• TNP (IC₅₀ 12–39 µM) (Wormald et al., 2017).  
+• Compound 24 (purine analogue; IC₅₀ 0.75 µM; ~25-fold selectivity over IP6K2) (Wormald et al., 2019).  
+• Myricetin (IC₅₀ 4.96 µM) and 6-hydroxy-DL-dopa (IC₅₀ 1.84 µM) (Wormald et al., 2017).  
+• LI-2242: orally active, improves metabolic parameters in mice (Mukherjee et al., 2023).  
+• Additional pan-IP6K inhibitors SC-233 and BIP-135 (Minini et al., 2020).  
+
+## Other Comments  
+Genetic deletion or pharmacological inhibition of IP6K1 protects against diet-induced obesity, insulin resistance and hepatic steatosis (Mukherjee et al., 2023; Minini et al., 2020). Loss of IP6K1 diminishes tumour growth and cell migration in carcinogen-induced cancer models (Minini et al., 2020). Disease-relevant variants S118A (phosphorylation-defective) and K226A (ubiquitination-defective) have been characterised (Minini et al., 2020). Whole-body knockout mice display enhanced thermogenesis and resistance to weight gain (Chakraborty, 2018).  
+
+## References  
+Azevedo, C., Szijgyarto, Z., & Saiardi, A. (2011). The signaling role of inositol hexakisphosphate kinases (IP6Ks). Advances in Enzyme Regulation, 51(1), 74–82. https://doi.org/10.1016/j.advenzreg.2010.08.003  
+
+Chakkour, M., & Greenberg, M. L. (2024). Insights into the roles of inositol hexakisphosphate kinase 1 (IP6K1) in mammalian cellular processes. The Journal of Biological Chemistry, 299, 107116. https://doi.org/10.1016/j.jbc.2024.107116  
+
+Chakraborty, A. (2018). The inositol pyrophosphate pathway in health and diseases. Biological Reviews, 93(6), 2743–2777. https://doi.org/10.1111/brv.12392  
+
+Functional studies of type I inositol hexakisphosphate kinase and its role in cell signaling. (2003).  
+
+Ghoshal, S., Tyagi, R., Zhu, Q., & Chakraborty, A. (2016). Inositol hexakisphosphate kinase-1 interacts with perilipin-1 to modulate lipolysis. The International Journal of Biochemistry & Cell Biology, 78, 149–155. https://doi.org/10.1016/j.biocel.2016.06.018  
+
+Heitmann, T., & Barrow, J. C. (2023). The role of inositol hexakisphosphate kinase in the central nervous system. Biomolecules, 13(9), 1317. https://doi.org/10.3390/biom13091317  
+
+Minini, M., Senni, A., Unfer, V., & Bizzarri, M. (2020). The key role of IP6K: A novel target for anticancer treatments? Molecules, 25(19), 4401. https://doi.org/10.3390/molecules25194401  
+
+Mukherjee, S., Chakraborty, M., Haubner, J., Ernst, G., DePasquale, M., Carpenter, D., Barrow, J. C., & Chakraborty, A. (2023). The IP6K inhibitor LI-2242 ameliorates diet-induced obesity, hyperglycaemia, and hepatic steatosis in mice by improving cell metabolism and insulin signalling. Biomolecules, 13(5), 868. https://doi.org/10.3390/biom13050868  
+
+Padmanabhan, U., Dollins, D. E., Fridy, P. C., York, J. D., & Downes, C. P. (2009). Characterization of a selective inhibitor of inositol hexakisphosphate kinases. Journal of Biological Chemistry, 284(16), 10571–10582. https://doi.org/10.1074/jbc.M900752200  
+
+Pulloor, N. K., Nair, S., Kostic, A. D., Bist, P., Weaver, J. D., Riley, A. M., … Krishnan, M. N. (2014). Human genome-wide RNAi screen identifies an essential role for inositol pyrophosphates in type I interferon response. PLoS Pathogens, 10(2), e1003981. https://doi.org/10.1371/journal.ppat.1003981  
+
+Shears, S. B., & Wang, H. (2019). Inositol phosphate kinases: Expanding the biological significance of the universal core of the protein kinase fold. Advances in Biological Regulation, 71, 118–127. https://doi.org/10.1016/j.jbior.2018.10.006  
+
+Wang, H., DeRose, E. F., London, R. E., & Shears, S. B. (2014). IP6K structure and the molecular determinants of catalytic specificity in an inositol phosphate kinase family. Nature Communications, 5, 4178. https://doi.org/10.1038/ncomms5178  
+
+Wormald, M. M., Liao, G., Kimos, M., Barrow, J., & Wei, H. (2017). Development of a homogeneous high-throughput assay for inositol hexakisphosphate kinase 1 activity. PLoS ONE, 12(11), e0188852. https://doi.org/10.1371/journal.pone.0188852  
+
+Wormald, M. M., Ernst, G., Wei, H., & Barrow, J. C. (2019). Synthesis and characterization of novel isoform-selective IP6K1 inhibitors. Bioorganic & Medicinal Chemistry Letters, 29(21), 126628. https://doi.org/10.1016/j.bmcl.2019.126628  
+
+Discovery, synthesis, and characterization of purine-based isoform-selective inhibitors of inositol hexakisphosphate kinase 1. (2019).

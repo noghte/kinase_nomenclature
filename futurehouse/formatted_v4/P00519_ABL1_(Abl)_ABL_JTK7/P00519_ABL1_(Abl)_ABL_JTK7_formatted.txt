@@ -1,0 +1,44 @@
+## Phylogeny  
+Human ABL1 is a non-receptor tyrosine kinase of the Abl subfamily, characterised by a conserved SH3–SH2–kinase cassette (Georgoulia et al., 2019). ABL2 (ARG) arose from an ancestral gene-duplication event in vertebrates (Colicelli, 2010). Experimentally validated orthologues occur in mouse, zebrafish, frog, fruit-fly, sea-urchin and the choanoflagellate Monosiga brevicollis, indicating deep conservation across Metazoa and their closest unicellular relatives (Colicelli, 2010).  
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + protein-L-tyrosine-O-phosphate (Georgoulia et al., 2019).  
+
+## Cofactor Requirements  
+Mg²⁺ is required for catalysis; Mn²⁺ can substitute with lower efficiency (Georgoulia et al., 2019).  
+
+## Substrate Specificity  
+ABL1 preferentially phosphorylates the consensus Φ-x-Y-x-x-P, favouring a hydrophobic residue at −1 and Pro at +3 (Yaron-Barir et al., 2024). Acidic residues at positions +1/+2 further enhance catalytic efficiency (Colicelli, 2010).  
+
+## Structure  
+Isoform 1b comprises an N-cap bearing Gly2 myristoylation, SH3 and SH2 domains, the catalytic domain, three nuclear-localisation signals, one nuclear-export signal, a DNA-binding segment, and C-terminal F-actin/microtubule-binding modules (Colicelli, 2010). Autoinhibition is imposed by myristate insertion into a C-lobe pocket together with an SH3–SH2 “clamp” over the kinase N-lobe (Georgoulia et al., 2019). Crystal structures (e.g. PDB 1OPK, 2FO0, 4WA9) define the SH2–kinase interface, activation-loop Tyr412, αC helix and hydrophobic spine that toggle active and inactive states (Tse & Verkhivker, 2015). The myristoyl pocket persists in BCR-ABL1 and is the binding site for the allosteric inhibitor asciminib (Manley et al., 2020).  
+
+## Regulation  
+• Autophosphorylation of Tyr412 (activation loop) and Tyr245 (SH2-kinase linker) stabilises the active conformation (Georgoulia et al., 2019).  
+• Phosphorylation of Tyr89 within the SH3 domain disrupts the SH3-linker interaction, promoting activation (Colicelli, 2010).  
+• Ser569 and Thr735 phosphorylation creates 14-3-3 docking sites that favour cytoplasmic localisation (Colicelli, 2010).  
+• N-terminal myristoylation at Gly2 maintains autoinhibition; its loss or displacement activates the kinase (Colicelli, 2010).  
+• Active ABL1 is polyubiquitinated by CBL, targeting it for degradation (Colicelli, 2010).  
+• SRC-family kinases phosphorylate and activate ABL1, establishing positive feedback in cytoskeletal signalling (Colicelli, 2010).  
+
+## Function  
+GTEx data show ubiquitous expression with highest levels in haematopoietic, neural and testicular tissues (Georgoulia et al., 2019). ABL1 drives cytoskeletal remodelling via phosphorylation of WASF3, ANXA1, DBN1, DBNL, CTTN, RAPH1, ENAH, MAPT and PXN; regulates adhesion and motility through BCAR1, CRK/CRKL, DOK1, EFS and NEDD9; and promotes endocytosis of EGFR, ERBB2 and MET by phosphorylating CAV1, RIN1 and ITSN2 (Colicelli, 2010). Following DNA damage, ABL1 translocates to the nucleus and cooperates with ATM and RAD51 to enforce cell-cycle arrest or apoptosis (Colicelli, 2010). The kinase integrates RAS-MAPK, PI3K-AKT and DNA-damage response pathways (Georgoulia et al., 2019; Greuber et al., 2013).  
+
+## Inhibitors  
+Clinically approved ATP-competitive inhibitors include imatinib, nilotinib, dasatinib, bosutinib and ponatinib (Georgoulia et al., 2019). Asciminib is an allosteric inhibitor that binds the myristoyl pocket and retains activity against the T315I gatekeeper mutation; it can form ternary complexes with ATP-site inhibitors (Manley et al., 2020).  
+
+## Other Comments  
+Oncogenic fusions such as BCR-ABL1 (p210, p190) and NUP214-ABL1 delete the N-cap, abolishing myristoyl-mediated autoinhibition and producing constitutive activity that drives leukaemia (Colicelli, 2010). Resistance hotspots to ATP-site inhibitors include T315I, E255K and Y253H (Georgoulia et al., 2019). Germline variants K290N and Y245C are linked to congenital heart defects and perturb kinase regulation (Georgoulia et al., 2019).  
+
+## 9. References  
+Colicelli, J. (2010). Abl tyrosine kinases: Evolution of function, regulation, and specificity. Science Signaling, 3(re6), re6. https://doi.org/10.1126/scisignal.3139re6  
+
+Georgoulia, P. S., Todde, G., Bjelic, S., & Friedman, R. (2019). The catalytic activity of ABL1 single and compound mutations: Implications for the mechanism of drug resistance mutations in chronic myeloid leukaemia. Biochimica et Biophysica Acta-General Subjects, 1863(4), 732–741. https://doi.org/10.1016/j.bbagen.2019.01.011  
+
+Greuber, E. K., Smith-Pearson, P., Wang, J., & Pendergast, A. M. (2013). Role of ABL family kinases in cancer: From leukaemia to solid tumours. Nature Reviews Cancer, 13, 559–571. https://doi.org/10.1038/nrc3563  
+
+Manley, P., Barys, L., & Cowan-Jacob, S. (2020). The specificity of asciminib, a potential treatment for chronic myeloid leukaemia, as a myristate-pocket binding ABL inhibitor and analysis of its interactions with mutant forms of BCR-ABL1 kinase. Leukemia Research, 98, 106458. https://doi.org/10.1016/j.leukres.2020.106458  
+
+Tse, A., & Verkhivker, G. M. (2015). Molecular determinants underlying binding specificities of the ABL kinase inhibitors: Combining alanine scanning of binding hot spots with network analysis of residue interactions and coevolution. PLOS ONE, 10(6), e0130203. https://doi.org/10.1371/journal.pone.0130203  
+
+Yaron-Barir, T. M., Joughin, B. A., Huntsman, E. M., Kerelsky, A., Cizin, D. M., Cohen, B. M., … Johnson, J. L. (2024). The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629, 1174–1181. https://doi.org/10.1038/s41586-024-07407-y

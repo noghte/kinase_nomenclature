@@ -1,0 +1,73 @@
+## Phylogeny  
+Member of the STE20 serine/threonine kinase superfamily, germinal-center kinase VI (GCK-VI; SPAK/OSR1) subfamily. SPAK (STK39) arose from a vertebrate-specific duplication of an ancestral Osr1 gene (Delpire & Gagnon, 2008). The protein maps to the STE20 branch of the human kinome on the Manning and Plowman trees (Taylor & Cobb, 2022). Invertebrate orthologues include Drosophila melanogaster Fray (74 % identity) and Caenorhabditis elegans GCK-3 (71 %) (Cusick et al., 2006). Plant Ste20-related kinases share 55–58 % catalytic-domain identity, while yeast SPS1 and Kic1 are the closest fungal relatives (Gagnon & Delpire, 2012). Vertebrate counterparts such as Mus musculus Osr1 and Danio rerio osr1 maintain the WNK–SPAK/OSR1 signalling module across phyla (Gagnon & Delpire, 2012).  
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Structural Analysis of SPAK, 2009).  
+
+## Cofactor Requirements  
+Catalysis requires divalent cations; Mn²⁺ supports higher turnover than Mg²⁺ (Gagnon et al., 2006).  
+
+## Substrate Specificity  
+• C-terminal CCT domain docks RFxV/I motifs in WNK kinases and cation-chloride cotransporters (Taylor & Cobb, 2022).  
+• Variant RxFxV/I sequence is recognised in Kir2.1 and Kir2.3 channels (Taylor et al., 2018).  
+• RELT family receptors bind through an RFRV motif and are phosphorylated by OSR1 (Cusick et al., 2006).  
+• Optimal docking motif refined to RxFxV/L with acidic flanking residues enhancing affinity (Taylor et al., 2024).  
+• Kinase-substrate consensus from atlas: basic residues at −3/−2, serine preferred as phospho-acceptor, hydrophobic residue at +1 (Taylor & Cobb, 2022).  
+• Physiological substrates include NKCC1/2, NCC, KCC2/3 and Kir2.x channels (Structural Analysis of SPAK, 2009; Taylor et al., 2018).  
+
+## Structure  
+Modular organisation: N-terminal kinase domain (aa 17–291) → serine-rich PF1 → C-terminal CCT/PF2 domain (Exploring WNK-SPAK/OSR1 interplay, 2019). The isolated kinase domain (PDB 2VWI, 2.15 Å) shows a canonical bilobal fold with catalytic Lys46-Glu63 ion pair, DFG183 motif and regulatory Thr185 in the activation segment (Villa et al., 2008). Crystal structures reveal activation-segment-swapped dimers that position Thr185 for trans-autophosphorylation (Villa et al., 2008; Taylor et al., 2015). The CCT domain forms a four-stranded β-sheet with two α-helices; peptide binding occurs via β-strand addition without major rearrangement (Taylor & Cobb, 2022). SAXS indicates inter-domain flexibility in full-length protein (Villa et al., 2008).  
+
+## Regulation  
+Post-translational modifications  
+– Thr185: phosphorylated by WNK1-4; essential for activation (WNK Family Proteins, 2011).  
+– Thr247: autophosphorylation that increases maximal activity (Structural Analysis of SPAK, 2009).  
+– Ser325 and Ser339 (PF1): WNK-dependent phosphorylation modulates Thr185 phosphorylation efficiency (WNK Family Proteins, 2011).  
+– Minor sites Thr173/Thr178 also reported (Structural Analysis of SPAK, 2009).  
+
+Protein interactions and allosteric control  
+• WNK kinases dock via RFxV motifs to deliver Thr185 phosphorylation (WNK Family Proteins, 2011).  
+• MO25/CAB39 binds the kinase core and stabilises the active conformation (Taylor & Cobb, 2022).  
+• CCT domain mediates autoinhibition; peptide occupancy or domain removal relieves this inhibition (Taylor & Cobb, 2022).  
+• Activation-segment swapping dimerisation adds an additional regulatory layer (Taylor et al., 2015).  
+
+## Function  
+Expression  
+Highly expressed in spleen, heart, liver, lung and intestine; lower in kidney; absent in thymus. Localises to cytoplasm and membranes in renal epithelia (Exploring WNK-SPAK/OSR1 interplay, 2019). Also detected in brain, distal nephron and other ion-transport tissues (Gagnon et al., 2006).  
+
+Biological roles  
+Terminal effector of the WNK–SPAK/OSR1 pathway that phosphorylates NKCC1/2, NCC, KCC2 and KCC3 to regulate cell volume and NaCl transport (Structural Analysis of SPAK, 2009). Mediates regulatory volume increase during hyperosmotic stress downstream of WNK1/3 (Delpire & Gagnon, 2008). Phosphorylates RELT, RELL1 and RELL2, linking to immune signalling (Cusick et al., 2006). Enhances surface stability and conductance of Kir2.1/2.3 channels via RxFxV docking, partially independent of catalytic activity (Taylor et al., 2018).  
+
+Genetic evidence  
+Global Osr1 knockout or kinase-dead T185A knock-in mice are embryonic lethal (E10.5–13.5); kidney-specific deletion is viable for renal studies (Gagnon & Delpire, 2012).  
+
+## Inhibitors  
+Broad-spectrum ATP-competitive inhibitors staurosporine and K252a suppress OSR1 activity in vitro (Gagnon et al., 2006). Small molecules STOCK1S-50699 and ZT-1a target the CCT domain, block RFxV docking and inhibit OSR1/SPAK signalling (Taylor & Cobb, 2022).  
+
+## Other Comments  
+Dysregulation of the WNK–OSR1–NCC axis contributes to pseudohypoaldosteronism II and hypertension (Structural Analysis of SPAK, 2009; Villa et al., 2008).  
+
+## 9. References  
+Cusick, J. K., Xu, L.-G., Bin, L.-H., Han, K., & Shu, H. (2006). Identification of RELT homologues that associate with RELT and are phosphorylated by OSR1. Biochemical and Biophysical Research Communications, 340(2), 535–543. https://doi.org/10.1016/j.bbrc.2005.12.033  
+
+Delpire, E., & Gagnon, K. (2008). SPAK and OSR1: STE20 kinases involved in the regulation of ion homoeostasis and volume control in mammalian cells. Biochemical Journal, 409(2), 321–331. https://doi.org/10.1042/BJ20071324  
+
+Exploring the potential signalling interplay between WNK-SPAK/OSR1 kinases and the β2-adrenergic receptor. (2019).  
+
+Gagnon, K., England, R., & Delpire, E. (2006). Characterization of SPAK and OSR1, regulatory kinases of the Na-K-2Cl cotransporter. Molecular and Cellular Biology, 26(2), 689–698. https://doi.org/10.1128/MCB.26.2.689-698.2006  
+
+Gagnon, K. B., & Delpire, E. (2012). Molecular physiology of SPAK and OSR1: Two STE20-related protein kinases regulating ion transport. Physiological Reviews, 92(4), 1577–1617. https://doi.org/10.1152/physrev.00009.2012  
+
+Structural Analysis of STE20-Related Proline-Alanine-Rich Kinase (SPAK). (2009).  
+
+Taylor, C. A., & Cobb, M. H. (2022). CCT and CCT-like modular protein interaction domains in WNK signaling. Molecular Pharmacology, 101(4), 201–212. https://doi.org/10.1124/molpharm.121.000307  
+
+Taylor, C. A., Jung, J.-U., Gallolu Kankanamalage, S., Li, J., Grzemska, M. G., Jaykumar, A. B., … Cobb, M. H. (2024). Predictive and experimental motif interaction analysis identifies functions of the WNK-OSR1/SPAK pathway. bioRxiv. https://doi.org/10.1101/2024.06.26.600905  
+
+Taylor, C. A., Juang, Y.-C., Earnest, S., Sengupta, S., Goldsmith, E. J., & Cobb, M. H. (2015). Domain-swapping switch point in STE20 protein kinase SPAK. Biochemistry, 54(31), 5063–5071. https://doi.org/10.1021/acs.biochem.5b00593  
+
+Taylor, C. A., An, S.-W., Gallolu Kankanamalage, S., Stippec, S., Earnest, S. A., Trivedi, A. T., … Cobb, M. (2018). OSR1 regulates a subset of inward rectifier potassium channels via a binding motif variant. Proceedings of the National Academy of Sciences, 115(15), 3840–3845. https://doi.org/10.1073/pnas.1802339115  
+
+Villa, F., Deák, M., Alessi, D., & van Aalten, D. V. (2008). Structure of the OSR1 kinase, a hypertension drug target. Proteins: Structure, 73(4), 1089–1095. https://doi.org/10.1002/prot.22238  
+
+WNK Family Proteins and Their Interaction with Downstream Kinases. (2011).

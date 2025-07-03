@@ -1,0 +1,45 @@
+## Phylogeny  
+Glycogen synthase kinase-3 α (GSK3A) is a highly conserved serine/threonine protein kinase, present from the social amoeba Dictyostelium discoideum to mammals (Liu & Klein, 2018). In vertebrates a single ancestral gene duplicated to generate the paralogs GSK3α and GSK3β; the corresponding human genes, GSK3A and GSK3B, map to chromosomes 19 and 3, respectively (Wagner et al., 2018). The two isoforms share 98 % amino-acid identity within their catalytic domains (Liu & Klein, 2018; McCubrey et al., 2014). According to the kinome scheme of Manning et al. (2002), GSK3A is placed in the CMGC group, GSK family (Johnson et al., 2023). Conflicting reports assign it either to the CDK family or to the CaMK group (Wagner et al., 2016; Wagner et al., 2018).
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + phosphoprotein (McCubrey et al., 2014; Wagner et al., 2018).
+
+## Cofactor Requirements  
+Catalysis requires a divalent cation, preferably Mg²⁺ or Mn²⁺; Li⁺ can compete with Mg²⁺ and thereby inhibit activity (Bhattacharjee et al., 2015; Johnson et al., 2023; Wagner et al., 2016).
+
+## Substrate Specificity  
+GSK3A is a pro-directed kinase that efficiently phosphorylates sites preceded by a “priming” phospho-Ser/Thr four residues C-terminal to the target, generating the consensus S/T-X-X-X-pS/pT motif (Liu & Klein, 2018). Peptide-array profiling classifies it as basophilic (Johnson et al., 2023).
+
+## Structure  
+The enzyme adopts the canonical bilobal protein-kinase fold: an N-terminal lobe with a glycine-rich P-loop that orients ATP, and a C-terminal lobe bearing the activation loop (McCubrey et al., 2014; Wagner et al., 2018). Active-state integrity is maintained by the C-helix and a hydrophobic regulatory spine (Wagner et al., 2018). Phosphorylation of Tyr279 within the activation loop stabilises the active conformation. Distinguishing features include an N-terminal glycine-rich extension and a hinge residue Glu196 that differs from Asp133 in GSK3β, a determinant exploited for paralog-selective inhibitor design (Wagner et al., 2018).
+
+## Regulation  
+GSK3A is constitutively active but is inhibited by phosphorylation of Ser21 in its N-terminus by upstream kinases such as AKT, PKA, p90RSK and p70S6K (Liu & Klein, 2018; McCubrey et al., 2014). The phospho-Ser21 segment acts as an intramolecular pseudosubstrate that blocks the active site. Conversely, autophosphorylation or trans-phosphorylation of Tyr279 within the activation loop is required for full catalytic competence; protein phosphatases PP1 and PP2A can reverse the inhibitory Ser21 modification (Unknown Author, 2018; McCubrey et al., 2014).
+
+## Function  
+GSK3A is ubiquitously expressed, with notable levels in neural, hepatic, cardiac and skeletal muscle tissues (McCubrey et al., 2014). It negatively regulates multiple signalling cascades:  
+• Insulin pathway – phosphorylates and inactivates glycogen synthase, limiting glycogen synthesis (McCubrey et al., 2014).  
+• Wnt/β-catenin pathway – phosphorylates β-catenin at Ser33/Ser37/Ser41, marking it for degradation (McCubrey et al., 2014).  
+
+More than 40 substrates have been reported, including transcription factors and signalling regulators such as TSC2 and p70S6K. Upstream kinases that prime its substrates or modulate its activity include CK1, ERK, JNK, p38 MAPKs and AMPK (McCubrey et al., 2014).
+
+## Inhibitors  
+Documented small-molecule inhibitors encompass lithium, Tideglusib, AZD1080, SB216763, SB415286, TWS119, 6-bromoindirubin-3-oxime (BIO), LY2090314 and substrate-competitive 5-imino-1,2,4-thiadiazoles (McCubrey et al., 2014; Wagner et al., 2018).
+
+## Other Comments  
+Dysregulated GSK3A activity is implicated in cancer, neurodegenerative disorders (Alzheimer’s, Parkinson’s disease), bipolar disorder and type 2 diabetes (McCubrey et al., 2014). In oncology it can act as either tumour suppressor or oncogene; mutations in Wnt components, e.g. APC, link it to colorectal cancer, and selective inhibition shows therapeutic promise in acute myeloid leukaemia (Wagner et al., 2018). Mouse genetic studies reveal non-redundant paralog functions: Gsk3a knockout mice are viable, whereas Gsk3b knockout is embryonically lethal (McCubrey et al., 2014).
+
+## 9. References  
+Bhattacharjee, R., Goswami, S., Dudiki, T., Popkie, A., Phiel, C., Kline, D., & Vijayaraghavan, S. (2015). Targeted disruption of glycogen synthase kinase 3α (GSK3A) in mice affects sperm motility resulting in male infertility. Biology of Reproduction. https://doi.org/10.1095/biolreprod.114.124495  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Liu, X., & Klein, P. S. (2018). Glycogen synthase kinase-3 and alternative splicing. WIREs RNA. https://doi.org/10.1002/wrna.1501  
+
+McCubrey, J., Steelman, L. S., Bertrand, F. E., Davis, N. M., Sokolosky, M. L., Abrams, S. L., … Cervello, M. (2014). GSK-3 as potential target for therapeutic intervention in cancer. Oncotarget, 5, 2881–2911. https://doi.org/10.18632/oncotarget.2037  
+
+Unknown Author. (2018). Role of GSK3α in sperm function and male fertility.  
+
+Wagner, F. F., Bishop, J. A., Gale, J. P., Shi, X., Walk, M., Ketterman, J., … Pan, J. Q. (2016). Inhibitors of glycogen synthase kinase 3 with exquisite kinome-wide selectivity and their functional effects. ACS Chemical Biology, 11, 1952–1963. https://doi.org/10.1021/acschembio.6b00306  
+
+Wagner, F., Benajiba, L., Campbell, A. J., Weïwer, M., Sacher, J. R., Gale, J., … Holson, E. (2018). Exploiting an Asp-Glu “switch” in glycogen synthase kinase 3 to design paralog-selective inhibitors for use in acute myeloid leukaemia. Science Translational Medicine. https://doi.org/10.1126/scitranslmed.aam8460

@@ -1,0 +1,71 @@
+Phylogeny  
+• MOS is a germ-cell serine/threonine protein kinase that functions as a MAP kinase kinase kinase (MAPKKK) within the MAPK cascade and is functionally equivalent to Raf-1 (Dupré et al., 2011; Avilov et al., 2023).  
+• Sometimes grouped with the STE family of MAPKKKs or placed in a cluster containing other MAP3Ks and MLKs, although its exact family assignment is debated (Dupré et al., 2011; Johnson et al., 2023; Chen et al., 1997).  
+• Orthologues are conserved in vertebrates (e.g., Xenopus, mouse, starfish) and in some invertebrates, but the gene is absent or non-essential in Drosophila and C. elegans (Avilov et al., 2023; Dupré et al., 2011).
+
+Reaction Catalyzed  
+ATP + [protein] ⇌ ADP + [phospho-protein] (Robertson & Donoghue, 1996; Shibuya & Ruderman, 1993; Singh & Arlinghaus, 1992).
+
+Cofactor Requirements  
+• Requires divalent cations; Mn²⁺ or Mg²⁺ support activity in vitro (Robertson & Donoghue, 1996; Shibuya & Ruderman, 1993).  
+• Reducing agent dithiothreitol is routinely included in assays (Robertson & Donoghue, 1996).
+
+Substrate Specificity  
+• Directly phosphorylates MEK1 on Ser-218 and Ser-222 (Chen & Cooper, 1995; Dupré et al., 2011).  
+• Additional reported substrates include Cyclin B, CPEB, vimentin and tubulin, consistent with roles in translation and spindle organisation (Avilov et al., 2023; Singh & Arlinghaus, 1997).  
+• Phospho-motif profiling is inconsistent: MOS appears in a kinome-wide clustering analysis but no consensus motif or PSSM has been defined (Johnson et al., 2023).
+
+Structure  
+• Catalytic domain resides in the C-terminal half (from ~residue 100) and adopts a canonical bilobal kinase fold (Robertson & Donoghue, 1996; Yue & Ferrell, 2006).  
+• AlphaFold and homology models reveal a conserved C-helix, activation loop and hydrophobic spine (Yue & Ferrell, 2006).  
+• An autoinhibitory segment within the activation loop (between β9 and αF; residues C227/T228 in Xenopus) occludes the active site until displaced (Robertson & Donoghue, 1996).  
+• Positioning of helix C (Ser-105 in Xenopus) is critical for activation (Yue & Ferrell, 2006).
+
+Regulation  
+Phosphorylation  
+– Activating: Ser-3 autophosphorylation; Ser-16 phosphorylation by MPF/MAPK; dephosphorylation at Ser-105 promotes an active conformation (Chen & Cooper, 1995; Pham et al., 1999; Yue & Ferrell, 2006).  
+– Inhibitory: PKA phosphorylates Ser-232 (c-Mos) or Ser-263 (v-Mos); Ser-25 phosphorylation may antagonise Ser-3 activation (Yang et al., 1996; Singh & Arlinghaus, 1997).
+
+Protein interactions & conformational control  
+• Binding of the casein kinase II β-subunit inhibits MOS (Chen et al., 1997).  
+• Autoinhibitory activation loop and helix C repositioning govern catalytic competence (Robertson & Donoghue, 1996; Yue & Ferrell, 2006).  
+• Protein levels rise during oocyte maturation and are eliminated after fertilisation via ubiquitin-mediated degradation (Shibuya & Ruderman, 1993; Singh & Arlinghaus, 1997).
+
+Function  
+• Expression is highly restricted to oocytes and testes (Avilov et al., 2023; Chen & Cooper, 1995).  
+• Serves as the trigger kinase for the oocyte MAPK pathway: MOS → MEK1 → MAPK → p90RSK (Avilov et al., 2023; Dupré et al., 2011).  
+• Controls meiotic processes—germinal vesicle breakdown, spindle assembly and establishment/maintenance of cytostatic factor (CSF) arrest in metaphase II (Avilov et al., 2023; Chen et al., 1997).  
+• Sustains M-phase–promoting factor (Cyclin B–Cdk1) by stimulating Cyclin B translation and inhibiting APC/C via Erp1/Emi2 (Avilov et al., 2023; Dupré et al., 2011).
+
+Inhibitors  
+• U0126 blocks the MOS-MEK-MAPK pathway by inhibiting the downstream kinase MEK1 (Avilov et al., 2023).
+
+Other Comments  
+• Mis-expression in somatic cells is oncogenic; v-Mos was first identified as a retroviral oncogene (Dupré et al., 2011; Shibuya & Ruderman, 1993).  
+• In germ cells MOS acts as a tumour suppressor by preventing parthenogenetic activation; Mos-null mice exhibit meiotic defects and reduced fertility (Singh & Arlinghaus, 1997; Chen et al., 1997).  
+• Kinase-dead mutations abolish all known biological functions (Dupré et al., 2011).
+
+9. References  
+Avilov, I., Horokhovskyi, Y., Cai, M., Orzechowski, A., Welp, L. M., Urlaub, H., Liepe, J., & Lénárt, P. (2023). Phosphoproteomics identifies targets of MOS–MAPK regulating translation and spindle organization in oocyte meiosis. bioRxiv. https://doi.org/10.1101/2023.11.27.568807  
+
+Chen, M., & Cooper, J. A. (1995). Ser-3 is important for regulating Mos interaction with and stimulation of mitogen-activated protein kinase kinase. Molecular and Cellular Biology, 15(9), 4727–4734. https://doi.org/10.1128/mcb.15.9.4727  
+
+Chen, M., Li, D., Krebs, E. G., & Cooper, J. A. (1997). The casein kinase II β subunit binds to Mos and inhibits Mos activity. Molecular and Cellular Biology, 17(4), 1904–1912. https://doi.org/10.1128/mcb.17.4.1904  
+
+Dupré, A., Haccard, O., & Jessus, C. (2011). Mos in the oocyte: how to use MAPK independently of growth factors and transcription to control meiotic divisions. Journal of Signal Transduction, 2011, 350412. https://doi.org/10.1155/2011/350412  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Pham, C., Vuyyuru, V. B., Yang, Y., Bai, W., & Singh, B. (1999). Evidence for an important role of serine 16 and its phosphorylation in the stabilization of c-Mos. Oncogene, 18(22), 4287–4294. https://doi.org/10.1038/sj.onc.1202804  
+
+Robertson, S. C., & Donoghue, D. J. (1996). Identification of an autoinhibitory region in the activation loop of the Mos protein kinase. Molecular and Cellular Biology, 16(7), 3472–3479. https://doi.org/10.1128/mcb.16.7.3472  
+
+Shibuya, E. K., & Ruderman, J. V. (1993). Mos induces the in vitro activation of mitogen-activated protein kinases in lysates of frog oocytes and mammalian somatic cells. Molecular Biology of the Cell, 4(8), 781–790. https://doi.org/10.1091/mbc.4.8.781  
+
+Singh, B., & Arlinghaus, R. B. (1992). The mos proto-oncogene product: its role in oocyte maturation, metaphase arrest, and neoplastic transformation. Molecular Carcinogenesis, 6(3), 182–189. https://doi.org/10.1002/mc.2940060303  
+
+Singh, B., & Arlinghaus, R. B. (1997). Mos and the cell cycle. Progress in Cell Cycle Research, 3, 251–259. https://doi.org/10.1007/978-1-4615-5371-7_20  
+
+Yang, Y., Herrmann, C. H., Arlinghaus, R. B., & Singh, B. (1996). Inhibition of v-Mos kinase activity by protein kinase A. Molecular and Cellular Biology, 16(3), 800–809. https://doi.org/10.1128/mcb.16.3.800  
+
+Yue, J., & Ferrell, J. E. (2006). Mechanistic studies of the mitotic activation of Mos. Molecular and Cellular Biology, 26(14), 5300–5309. https://doi.org/10.1128/mcb.00273-06

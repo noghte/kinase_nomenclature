@@ -1,0 +1,71 @@
+## Phylogeny  
+MAP3K4 (MEKK4) is broadly conserved, with orthologues detected in more than 500 species, including Danio rerio and Macaca mulatta (Huang et al., 2024). The murine MEKK-4β protein shares 91 % overall and 98 % catalytic-domain identity with human MAP3K4 (Chan-Hui & Weaver, 1998). Saccharomyces cerevisiae Ssk2p is a functional fungal homologue (Bettinger & Amberg, 2007). Within the kinome, MAP3K4 belongs to the sterile-like (STE) MAP3K group, MEKK subfamily (Huang E. J. et al., 2024). Its catalytic domain shows 33–42 % identity to paralogues MEKK1, MEKK2 and MEKK3 (Chan-Hui & Weaver, 1998).
+
+## Reaction Catalyzed  
+ATP + MAP2K4/6 → ADP + phospho-MAP2K4/6 (Ser/Thr in the activation loop) (Chan-Hui & Weaver, 1998).
+
+## Cofactor Requirements  
+No specific metal cofactor requirement has been reported in the cited literature.
+
+## Substrate Specificity  
+MAP3K4 directly phosphorylates MAP2Ks MKK3, MKK4, MKK6 and MKK7 on conserved Ser/Thr residues within their activation loops (Chan-Hui & Weaver, 1998; Gerwins et al., 1997; Huang et al., 2024). During JNK signalling, MKK4 preferentially targets Tyr185 of JNK, whereas MKK7 prefers Thr183 (Huang et al., 2024). A concise peptide consensus motif has not been defined.
+
+## Structure  
+Length: 1 608 aa (~181.7 kDa) (Huang et al., 2024).  
+Domain organisation (residue numbers approximate):  
+• N-terminal autoinhibitory region (1–~1300) (Abell et al., 2007)  
+• Pleckstrin-homology-like fold (161–408) (Chan-Hui & Weaver, 1998)  
+• Proline-rich SH3-binding segment (Gerwins et al., 1997)  
+• Partial CRIB motif adjacent to kinase domain for Rac1/Cdc42 binding (Gerwins et al., 1997)  
+• C-terminal Ser/Thr kinase domain (subdomains I–XI) (Chan-Hui & Weaver, 1998)  
+
+Catalytic features: autophosphorylation at Thr1493 is required for activity; a dimerization interface spans the kinase domain and N-terminal elements (Abell et al., 2007; Huang G. et al., 2009).  
+
+Structural information: AlphaFold2 predicts a high-confidence CODI-like conformation, but no experimental crystal structure is yet available (Herrington et al., 2023).
+
+## Regulation  
+• Autoinhibition via N-terminal/kinase-domain interaction (Abell et al., 2007).  
+• Activation mechanisms:  
+  – Autophosphorylation on Thr1493 following dimerization (Huang G. et al., 2009)  
+  – Binding of GADD45α/β/γ (residues 147–250) disrupts autoinhibition and promotes dimerization (Huang G. et al., 2009; Bettinger & Amberg, 2007)  
+  – Rac1/Cdc42 engage the CRIB motif in a GTP-dependent fashion (Gerwins et al., 1997)  
+  – Osmotic, oxidative, UV-C and other stressors (NH₄Cl, Na-arsenite, anisomycin, H₂O₂) enhance activation (Chan-Hui & Weaver, 1998)  
+
+• Inhibitory input: GSK3β binds the kinase domain, phosphorylates N-terminal Ser/Thr residues and blocks dimerization (Abell et al., 2007).  
+
+• Post-translational modifications: polyubiquitination via CIN85, and caspase-3 cleavage generating a 110-kDa fragment (Huang et al., 2024; Chan-Hui & Weaver, 1998).  
+
+• Additional control: RACK1-dependent sequestration of MAP3K4 in stress granules limits activation during stress (Huang et al., 2024).
+
+## Function  
+Expression: broad tissue distribution; highest mRNA in exocrine glands, hematopoietic tissues, heart, skeletal muscle, placenta, neural and reproductive organs; elevated in K562 (CML) and SW480 (colorectal) cell lines (Chan-Hui & Weaver, 1998).  
+
+Subcellular localisation: perinuclear, Golgi-associated vesicles (Gerwins et al., 1997).  
+
+Upstream regulators: Rac1/Cdc42, GADD45 proteins, TRAF4, Axin, TGFβ-induced GADD45β, and negative regulation by GSK3β (Gerwins et al., 1997; Abell et al., 2007; Sapkota, 2013).  
+
+Downstream signalling: phosphorylates MKK3/6 and MKK4/7 to activate p38α and JNK1/2; full-length MAP3K4 shows limited ERK2 activation; downstream MAPKs regulate ATF-2 and c-Jun (Chan-Hui & Weaver, 1998).  
+
+Biological roles: mediates cellular responses to osmotic, oxidative, DNA-damage and UV stress; required for Th1 differentiation and IFN-γ production, neural tube closure and skeletal patterning in mice; responsible for TGFβ-induced p38 activation independently of TAK1 (Chan-Hui & Weaver, 1998; Huang G. et al., 2009; Abell et al., 2007; Sapkota, 2013).
+
+## Other Comments  
+MAP3K4 dysregulation can have oncogenic or tumour-suppressive consequences depending on context (Huang et al., 2024). Stress-granule sequestration of MAP3K4–RACK1 complexes contributes to chemoresistance by limiting apoptosis (Huang et al., 2024). MAP3K4 knockout in mice causes neural tube defects reminiscent of TRAF4 and Dishevelled-2 losses (Abell et al., 2007). High basal expression in certain leukaemia and colorectal carcinoma lines links MAP3K4 to malignant phenotypes (Chan-Hui & Weaver, 1998).
+
+## 9. References  
+Abell, A. N., Granger, D. A., & Johnson, G. L. (2007). MEKK4 stimulation of p38 and JNK activity is negatively regulated by GSK3β. Journal of Biological Chemistry, 282, 30476–30484. https://doi.org/10.1074/jbc.m705783200  
+
+Bettinger, B. T., & Amberg, D. C. (2007). The MEK kinases MEKK4/Ssk2p facilitate complexity in the stress signaling responses of diverse systems. Journal of Cellular Biochemistry. https://doi.org/10.1002/jcb.21289  
+
+Chan-Hui, P.-Y., & Weaver, R. (1998). Human mitogen-activated protein kinase kinase kinase mediates the stress-induced activation of mitogen-activated protein kinase cascades. Biochemical Journal, 336, 599–609. https://doi.org/10.1042/bj3360599  
+
+Gerwins, P., Blank, J. L., & Johnson, G. L. (1997). Cloning of a novel mitogen-activated protein kinase kinase kinase, MEKK4, that selectively regulates the c-Jun amino-terminal kinase pathway. Journal of Biological Chemistry, 272, 8288–8295. https://doi.org/10.1074/jbc.272.13.8288  
+
+Herrington, N. B., Stein, D., Li, Y. C., Pandey, G., & Schlessinger, A. (2023). Exploring the druggable conformational space of protein kinases using AI-generated structures. bioRxiv. https://doi.org/10.1101/2023.08.31.555779  
+
+Huang, E. J., Parksong, J., Peterson, A. F., Torres, F., Regot, S., & Bever, G. S. (2024). Reconstructing the deep phylogeny of the MAPK signaling network: Functional specialization via multi-tier coevolutionary expansion. bioRxiv. https://doi.org/10.1101/2024.10.01.616093  
+
+Huang, G., Shi, L. Z., & Chi, H. (2009). Regulation of JNK and p38 MAPK in the immune system: Signal integration, propagation and termination. Cytokine, 48, 161–169. https://doi.org/10.1016/j.cyto.2009.08.002  
+
+Huang, Y., Wang, G., Zhang, N., & Zeng, X. (2024). MAP3K4 kinase action and dual role in cancer. Discover Oncology. https://doi.org/10.1007/s12672-024-00961-x  
+
+Sapkota, G. P. (2013). The TGFβ-induced phosphorylation and activation of p38 mitogen-activated protein kinase is mediated by MAP3K4 and MAP3K10 but not TAK1. Open Biology, 3, 130067. https://doi.org/10.1098/rsob.130067

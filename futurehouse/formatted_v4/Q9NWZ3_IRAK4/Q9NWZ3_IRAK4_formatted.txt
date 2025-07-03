@@ -1,0 +1,50 @@
+Phylogeny  
+Member of the tyrosine-kinase-like (TKL) group, belonging to the IRAK sub-family. Orthologues are documented in Homo sapiens (IRAK4), Mus musculus (Irak4) and Drosophila melanogaster (Pelle), indicating conservation from insects to mammals. Broad multispecies alignments further confirm strong conservation of the kinase domain across vertebrates (Chaudhary et al., 2015; Wang et al., 2009; Dossang et al., 2016; Wang et al., 2017).
+
+Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Patra & Choi, 2016; Dossang et al., 2016).
+
+Cofactor Requirements  
+Mg²⁺ or Mn²⁺ is required for catalysis (Wang et al., 2019; Dossang et al., 2016).
+
+Substrate Specificity  
+Physiological substrates within the Myddosome are IRAK1, IRAK2 and IRAK-M; a linear consensus phosphorylation motif has not been defined (Chaudhary et al., 2015).
+
+Structure  
+The polypeptide comprises an N-terminal death domain that binds MyD88, a Pro/Ser/Thr-rich linker, and a C-terminal bilobal kinase domain that lacks the TRAF6-binding extension present in other IRAKs (Chaudhary et al., 2015; Patra & Choi, 2016).  
+• Myddosome death-domain stack (PDB 3MOP) shows 6 MyD88 : 4 IRAK4 : 4 IRAK2 stoichiometry (Chaudhary et al., 2015).  
+• Apo and inhibitor-bound kinase structures (e.g. PDB 2NRU, 4U99) reveal a distinctive front pocket and a back pocket gated by Tyr262 (Wang et al., 2009; Wang et al., 2019).  
+• Key active-site residues: Lys213 (catalytic), Met265 (hinge), Tyr262 (gatekeeper). π-Stacking with Tyr262 underlies selectivity versus IRAK1 (Genung & Guckian, 2017).  
+• Activation-loop residues Thr342, Thr345, Ser346 and Thr352 undergo trans-autophosphorylation, stabilising the DFG-in/αC-in active state (Patra & Choi, 2016).  
+• Unphosphorylated kinase samples DFG-out/αC-out conformations that are trapped by type II inhibitors (Wang et al., 2019).  
+• αEF/αG-mediated homodimerisation promotes trans-autophosphorylation; the phosphorylated enzyme subsequently heterodimerises with IRAK1 (Wang et al., 2017).
+
+Regulation  
+Catalytic activation requires autophosphorylation of Thr342, Thr345, Ser346 and Thr352 (Patra & Choi, 2016). These phosphates are coordinated by Arg310, Arg334 and Arg347, mimicking classical tyrosine-kinase contacts (Wang et al., 2009). Ordered assembly into the Myddosome positions IRAK4 for activation; the N-terminal death-domain loop modulates assembly kinetics (Chaudhary et al., 2015; Dossang et al., 2016). Conformational control switches from activating homodimers (unphosphorylated) to signalling heterodimers with IRAK1 (phosphorylated) (Wang et al., 2017).
+
+Function  
+Widely expressed, with highest levels in haematopoietic and immune tissues. Acts as the apical kinase in MyD88-dependent Toll-like receptor and IL-1 receptor signalling. Ligand-bound receptors recruit MyD88, which engages IRAK4 via death-domain interactions (Chaudhary et al., 2015). Activated IRAK4 phosphorylates IRAK1/2, enabling TRAF6 recruitment, TAK1 activation and downstream NF-κB, JNK and p38 MAPK pathways; it is also required for TLR7/9-mediated IRF5/7 activation and type I interferon production (Wang et al., 2009; Chaudhary et al., 2015). IRAK4 activity primes the NLRP3 inflammasome in macrophages (Patra & Choi, 2016).
+
+Inhibitors  
+Natural product probe: staurosporine (type I ATP-competitive).  
+Selective small-molecule inhibitors include PF-06650833; Takeda pyrazolo-diamines (compounds 80/81); 9-cyano-indolo[2,3-c]quinolones (IC₅₀ ≈ 7 nM); type I inhibitors JH-I-25 and JH-I-17; type II inhibitors ponatinib and HG-12-6; ND-2158 and BAY 1830839 (Genung & Guckian, 2017; Patra & Choi, 2016; Wang et al., 2019; Rhyasen & Starczynowski, 2015). Synergy is reported with BTK, SYK and PI3Kδ inhibitors in MYD88-mutant lymphomas (Chaudhary et al., 2015).
+
+Other Comments  
+Autosomal recessive IRAK4 deficiency (OMIM 607676) causes recurrent pyogenic bacterial infections (Wang et al., 2009). Kinase-dead knock-in mice show impaired cytokine production and resistance to septic shock, underscoring the in-vivo requirement for catalytic activity (Chaudhary et al., 2015). MYD88 L265P mutant lymphomas depend on IRAK4; selective inhibition suppresses proliferation and enhances B-cell-receptor pathway therapies (Chaudhary et al., 2015; Rhyasen & Starczynowski, 2015). Dysregulated IRAK4 signalling is implicated in rheumatoid arthritis, systemic lupus erythematosus and psoriasis (Patra & Choi, 2016).
+
+9. References  
+Chaudhary, D., Robinson, S., & Romero, D. L. (2015). Recent advances in the discovery of small molecule inhibitors of interleukin-1 receptor-associated kinase 4 (IRAK4) as a therapeutic target for inflammation and oncology disorders. Journal of Medicinal Chemistry, 58(1), 96–110. https://doi.org/10.1021/jm5016044  
+
+Dossang, A., Motshwene, P. G., Yang, Y., Symmons, M., Bryant, C., Borman, S., George, J., Weber, A., & Gay, N. (2016). The N-terminal loop of IRAK-4 death domain regulates ordered assembly of the Myddosome signalling scaffold. Scientific Reports, 6, 37267. https://doi.org/10.1038/srep37267  
+
+Genung, N., & Guckian, K. (2017). Small molecule inhibition of interleukin-1 receptor-associated kinase 4 (IRAK4). Progress in Medicinal Chemistry, 56, 117–163. https://doi.org/10.1016/bs.pmch.2016.11.004  
+
+Patra, M., & Choi, S. (2016). Recent progress in the molecular recognition and therapeutic importance of interleukin-1 receptor-associated kinase 4. Molecules, 21, 1529. https://doi.org/10.3390/molecules21111529  
+
+Rhyasen, G. W., & Starczynowski, D. (2015). IRAK signalling in cancer. British Journal of Cancer, 112, 232–237. https://doi.org/10.1038/bjc.2014.513  
+
+Wang, L., Ferrao, R., Li, Q., Hatcher, J. M., Choi, H. G., Buhrlage, S. J., Gray, N. S., & Wu, H. (2019). Conformational flexibility and inhibitor binding to unphosphorylated interleukin-1 receptor-associated kinase 4 (IRAK4). Journal of Biological Chemistry, 294, 4511–4519. https://doi.org/10.1074/jbc.ra118.005428  
+
+Wang, L., Qiao, Q., Ferrao, R., Shen, C., Hatcher, J. M., Buhrlage, S. J., Gray, N. S., & Wu, H. (2017). Crystal structure of human IRAK1. Proceedings of the National Academy of Sciences, 114, 13507–13512. https://doi.org/10.1073/pnas.1714386114  
+
+Wang, Z., Wesche, H., Stevens, T., Walker, N., & Yeh, W.-C. (2009). IRAK-4 inhibitors for inflammation. Current Topics in Medicinal Chemistry, 9, 724–737. https://doi.org/10.2174/156802609789044407

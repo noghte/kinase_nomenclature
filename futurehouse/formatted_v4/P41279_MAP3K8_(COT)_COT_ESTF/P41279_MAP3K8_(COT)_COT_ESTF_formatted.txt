@@ -1,0 +1,61 @@
+## Phylogeny  
+MAP3K8 (human) clusters within the STE group, MAP3K family, MAP3K8/Tpl2 sub-family (Manning et al., 2002). Clear one-to-one orthologues exist in mouse (Map3k8), rat (Tpl2) and invertebrate Drosophila (MAP3K “slpr”); zebrafish carries several paralogues (Guan et al., 2023; Manning et al., 2002). A unique evolutionary hallmark is the substitution of Pro145 for the otherwise invariant Gly in the Gly-rich loop—an alteration not seen in any other human kinase (Gantke et al., 2011).
+
+## Reaction Catalyzed  
+ATP + [MAP2K]-Ser/Thr-OH ⇌ ADP + [MAP2K]-Ser/Thr-O-PO₃²⁻ (Gantke et al., 2011).
+
+## Cofactor Requirements  
+Catalysis requires divalent cations. In vitro activity is supported by Mg²⁺ (5–10 mM) and Mn²⁺ (≈2 mM) (Chan & Reed, 2005; Parikh et al., 2009).
+
+## Substrate Specificity  
+Confirmed protein substrates include MEK1/2, MKK4, MEK5 and MKK6, whereas MKK7 is not phosphorylated (Chiu et al., 2024; Gantke et al., 2011). Peptide-array profiling revealed a narrow preference: phenylalanine at positions −3/−2/−1 and +1, and lysine residues flanking the phospho-acceptor site; most peptides remain unmodified (Parikh et al., 2009). A universally accepted linear consensus motif is therefore still undefined (Parikh et al., 2009).
+
+## Structure  
+The protein comprises an N-terminal regulatory segment containing a nuclear-export signal, a central bilobed catalytic domain and a C-terminal inhibitory degron (residues 435–457) (Gantke et al., 2011; Collins et al., 2018). A 2.6 Å crystal structure of the catalytic core (PDB: COT/Tpl2) shows an atypical fold with a flexible P-loop insert (Gutmann et al., 2015). Canonical motifs (Lys-Glu ion pair, HRD catalytic triad, DFG Mg²⁺-binding motif) are present, but the Gly-rich loop uniquely harbours Pro145 (Bayliss et al., 2015; Gantke et al., 2011). Thr290 within the activation segment undergoes autophosphorylation; Ser400 phosphorylation generates a 14-3-3 docking site (Gantke et al., 2011). Hydrophobic regulatory and catalytic spines align in the active state, while the C-terminal tail can fold back to suppress activity until proteolytic removal of the degron (Bayliss et al., 2015). Proper folding in vivo depends on a stoichiometric complex with NF-κB1 p105 and ABIN-2 (Webb et al., 2019).
+
+## Regulation  
+• Basal inhibition: MAP3K8 is sequestered in a p105–ABIN-2 ternary complex (Gantke et al., 2011).  
+• Activation: IKKβ-mediated phosphorylation of p105 triggers its K48-linked ubiquitination and proteasomal degradation, releasing MAP3K8 (Collins et al., 2018).  
+• Autophosphorylation/trans-phosphorylation: Thr290 (auto) and Ser400 (auto or trans) are required for full catalytic output and 14-3-3 binding (Gantke et al., 2011).  
+• Nuclear turnover: Following stimulus-induced nuclear entry, MAP3K8 is poly-ubiquitinated and degraded; BCL-3 accelerates this process (Collins et al., 2018).  
+• Metabolic modulation: Extracellular L-arginine enhances Thr290/Ser400 phosphorylation and signalling amplitude (Gantke et al., 2011).  
+• C-terminal degron: residues 435–457 target the kinase for proteasomal destruction; truncations yield constitutive activity (Gantke et al., 2011).
+
+## Function  
+Expression is high in macrophages and other myeloid cells and can be induced in airway epithelium and adipocytes (Chiu et al., 2024; Gantke et al., 2011). Upstream activators include TLR2/4/9 ligands, IL-1β, TNF, CD40 and TRAF6 via the MyD88–IKK axis (Chiu et al., 2024; Gantke et al., 2011). The dominant downstream pathway is MEK1/2 → ERK1/2, with context-dependent signalling to JNK (via MKK4) and p38 (via MKK3/6) (Chiu et al., 2024; Gantke et al., 2011). MAP3K8 is indispensable for LPS-induced TNF and modulates multiple cytokines/chemokines (IL-1β, IL-6, IL-8, IL-10, IL-12, CCL2, CXCL8) (Gantke et al., 2011; Chiu et al., 2024). Additional roles encompass ERK-dependent lipolysis in adipocytes (Gantke et al., 2011), regulation of macrophage M2 lipid metabolism and restraint of Schistosoma-induced Th2 fibrosis (Kannan et al., 2016), and antiviral defence; Foot-and-mouth disease virus VP1 blocks Thr290 phosphorylation to dampen IFN-β induction (Guan et al., 2023).
+
+## Inhibitors  
+• C34 – ATP-competitive probe that suppresses MAP3K8-dependent cytokine production (Kannan et al., 2016).  
+• Quinoline-3-carbonitrile series; analogue IIIa is a potent biochemical inhibitor (Hu, 2007).  
+• 8-Substituted-4-anilino-6-aminoquinoline-3-carbonitriles show selective Tpl2 inhibition with in-vivo anti-inflammatory efficacy (Combination Therapies Targeting ERK1/2 and HDAC6, 2023).  
+(IC₅₀ values not reported in cited excerpts.)
+
+## Other Comments  
+C-terminal truncations that delete the degron stabilize the protein and confer oncogenic potential in lymphoid models (Gantke et al., 2011). Hyper-active MAP3K8 has been linked to rheumatoid arthritis, Crohn’s disease, colitis-associated cancer, melanoma, breast cancer and other inflammatory bowel diseases (Gantke et al., 2011; Webb et al., 2019).
+
+## References  
+Bayliss, R., Haq, T., & Yeoh, S. (2015). The Ys and wherefores of protein kinase autoinhibition. Biochimica et Biophysica Acta - Proteins and Proteomics, 1854, 1586–1594. https://doi.org/10.1016/j.bbapap.2015.04.025  
+
+Chan, H., & Reed, J. C. (2005). TRAF-dependent association of protein kinase Tpl2/Cot1 (MAP3K8) with CD40. Biochemical and Biophysical Research Communications, 328(1), 198–205. https://doi.org/10.1016/j.bbrc.2004.12.155  
+
+Chiu, C.-Y., Willis-Owen, S., Wong, K. C. C., Farrow, S. N., Cookson, W., Moffatt, M. F., & Zhang, Y. (2024). MAP3K8 is a potential therapeutic target in airway epithelial inflammation. Journal of Inflammation, (online ahead of print). https://doi.org/10.1186/s12950-024-00400-2  
+
+Collins, P. E., Somma, D., Kerrigan, D., Herrington, F. D., Keeshan, K., Nibbs, R., & Carmody, R. (2018). The IκB-protein BCL-3 controls MAPK activity by promoting Tpl-2 degradation in the nucleus. bioRxiv. https://doi.org/10.1101/373209  
+
+Gantke, T., Sriskantharajah, S., & Ley, S. (2011). Regulation and function of Tpl-2, an IκB kinase-regulated MAP kinase kinase kinase. Cell Research, 21, 131–145. https://doi.org/10.1038/cr.2010.173  
+
+Guan, J., Fan, Y.-M., Wang, S., & Zhou, F. (2023). Functions of MAP3Ks in antiviral immunity. Immunologic Research, 71, 814–832. https://doi.org/10.1007/s12026-023-09401-4  
+
+Gutmann, S., Hinniger, A., Fendrich, G., Drückes, P., Antz, S., Mattes, H., … Sparrer, H. (2015). The crystal structure of Cancer Osaka Thyroid kinase reveals an unexpected kinase domain fold. The Journal of Biological Chemistry, 290, 15210–15218. https://doi.org/10.1074/jbc.M115.648097  
+
+Hu, Y. (2007). Inhibition of Tpl2 kinase and TNFα production with quinoline-3-carbonitriles for the treatment of rheumatoid arthritis. ChemInform. https://doi.org/10.1002/chin.200711116  
+
+Kannan, Y., Perez-Lloret, J., Li, Y., Entwistle, L. J., Khoury, H., Papoutsopoulou, S., … Wilson, M. (2016). Tpl-2 regulates macrophage lipid metabolism and M2 differentiation to control Th2-mediated immunopathology. PLoS Pathogens, 12, e1005783. https://doi.org/10.1371/journal.ppat.1005783  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Parikh, K., Diks, S., Tuynman, J., Verhaar, A., Löwenberg, M., Hommes, D., … Peppelenbosch, M. (2009). Comparison of peptide array substrate phosphorylation of c-Raf and mitogen-activated protein kinase kinase kinase 8. PLoS ONE, 4, e6440. https://doi.org/10.1371/journal.pone.0006440  
+
+Webb, L. V., Ventura, S., & Ley, S. (2019). ABIN-2, of the Tpl-2 signalling complex, modulates mammalian inflammation. Trends in Immunology, 40, 597–612. https://doi.org/10.1016/j.it.2019.07.001  
+
+Combination Therapies Targeting Extracellular Signal Regulated Kinases 1/2 and Histone Deacetylase 6 as Potential Therapeutics for B-Cell Lymphoma. (2023). (pp. 199–201). [Details unavailable].

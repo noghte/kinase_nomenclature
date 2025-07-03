@@ -1,0 +1,46 @@
+## Phylogeny  
+LATS2 is a serine/threonine protein kinase of the AGC super-family. Most sources place it in the NDR/Dbf2-related subfamily together with LATS1 and NDR1/2 (Furth & Aylon, 2017; Yu et al., 2015). A minority of classifications assign it to the STE20 group (Johnson et al., 2023). The family is conserved throughout mammals and has the Drosophila orthologue Warts (He et al., 2016).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Furth & Aylon, 2017).
+
+## Cofactor Requirements  
+Mg²⁺ is required for catalytic activity (Furth & Aylon, 2017; Hoa et al., 2016).
+
+## Substrate Specificity  
+LATS2 phosphorylates Ser/Thr residues within the HxRxxS/T consensus, with a hydrophobic residue often found at the +1 position (Furth & Aylon, 2017; Johnson et al., 2023). Recognition of major physiological substrates YAP and TAZ is assisted by binding to their PPxY motifs (Furth & Aylon, 2017; Yu et al., 2015).
+
+## Structure  
+The protein comprises an N-terminal regulatory region and a C-terminal bilobed kinase domain (~aa 705–1010). Regulatory segments include a proline-rich stretch, PAPA repeat, UBA domain, a single PPxY motif, and two LATS-conserved domains (LCD1 containing the conserved N-terminal motif, and LCD2) (Furth & Aylon, 2017; Yu et al., 2015). The kinase core contains canonical motifs (GxGxxGxV loop, DxKxxN, DFG), an activation loop and a hydrophobic motif; an insert between sub-domains VII and VIII may mediate autoinhibition (Yu et al., 2015). AlphaFold modelling (UniProt Q9NRM7) confirms the separated regulatory N-terminus and compact catalytic C-terminus (Furth & Aylon, 2017).
+
+## Regulation  
+• Phosphorylation – Activated mainly by MST1/2 in a MOB1-dependent manner at hydrophobic-motif (T1079/T1041) and activation-loop (S909/S872) sites. Additional activating inputs come from MAP4Ks, PKA, and mitotic kinases Aurora A (S380) and Aurora B/CDC2 (S613). DNA damage triggers CHK1/2-mediated phosphorylation (S408/S446). PP2A can oppose these phosphorylations (Furth & Aylon, 2017; He et al., 2016; Hoa et al., 2016).  
+• Ubiquitination – Itch, WWP1, NEDD4, and SIAH2 promote proteasomal degradation; CRL4-DCAF1 polyubiquitinates and inactivates LATS2 without degrading it. USP9X removes ubiquitin chains and stabilises the kinase (Furth & Aylon, 2017; Toloczko et al., 2017).  
+• Protein interactions – MOB1 binds and promotes activation; HSP90 acts as a chaperone; KIBRA stabilises the kinase (Furth & Aylon, 2017; Huntoon et al., 2010).
+
+## Function  
+Central tumour-suppressive kinase of the Hippo pathway. Activated LATS2 phosphorylates YAP1 and TAZ, leading to their cytoplasmic retention via 14-3-3 binding or proteasomal degradation, thereby limiting pro-oncogenic transcription (Furth & Aylon, 2017; He et al., 2016). Additional roles include:  
+• Cell-cycle control – inhibition of Cyclin E/CDK2 and interaction with CDC25B/CDC26 to restrain G1/S and regulate mitosis (Furth & Aylon, 2017).  
+• Apoptosis – suppression of BCL-xL and BCL2 (Furth & Aylon, 2017).  
+• Nuclear functions – enhancement of p53 activity, repression of β-catenin signalling and steroid hormone receptor activity (Furth & Aylon, 2017).  
+Expression is broad with elevated levels in gastrointestinal tract and brain, and the protein localises to cytoplasm, nucleus, plasma membrane and centrosomes (Furth & Aylon, 2017). Upstream kinases include MST1/2, Aurora A/B, CHK1/2, MAP4Ks and PKA; principal downstream substrates are YAP1 and TAZ (Furth & Aylon, 2017).
+
+## Other Comments  
+LATS2 down-regulation (promoter hypermethylation, miRNA repression) or loss-of-function mutations are frequent in multiple cancers such as breast, lung, liver, pancreas, head-and-neck and malignant pleural mesothelioma (Furth & Aylon, 2017; Tranchant et al., 2017). Somatic mutations cluster in the kinase domain (e.g., p.R958H, G909R, C953*) and diminish tumour-suppressor activity; P72L disrupts interaction with Merlin/NF2 (Yu et al., 2015). Complete Lats2 deletion is embryonically lethal in mice (Furth & Aylon, 2017).
+
+## References  
+Furth, N., & Aylon, Y. (2017). The LATS1 and LATS2 tumor suppressors: Beyond the Hippo pathway. Cell Death & Differentiation, 24, 1488–1501. https://doi.org/10.1038/cdd.2017.99  
+
+He, M., Zhou, Z., Shah, A. A., Hong, Y., Chen, Q., & Wan, Y. (2016). New insights into post-translational modifications of Hippo pathway in carcinogenesis and therapeutics. Cell Division. https://doi.org/10.1186/s13008-016-0013-6  
+
+Hoa, L., Kulaberoglu, Y., Gundogdu, R., Cook, D., Mavis, M., Gómez, M., … Hergovich, A. (2016). The characterisation of LATS2 kinase regulation in Hippo-YAP signalling. Cellular Signalling, 28(5), 488–497. https://doi.org/10.1016/j.cellsig.2016.02.012  
+
+Huntoon, C. J., Nye, M. D., Geng, L., Peterson, K. L., Flatten, K. S., Haluska, P., … Karnitz, L. M. (2010). Heat shock protein 90 inhibition depletes LATS1 and LATS2, two regulators of the mammalian Hippo tumor suppressor pathway. Cancer Research, 70(21), 8642–8650. https://doi.org/10.1158/0008-5472.CAN-10-1345  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Toloczko, A., Guo, F., Yuen, H.-F., Wen, Q., Wood, S. A., Ong, Y. S., … Chan, S. W. (2017). Deubiquitinating enzyme USP9X suppresses tumor growth via LATS kinase and core components of the Hippo pathway. Cancer Research, 77(18), 4921–4933. https://doi.org/10.1158/0008-5472.CAN-16-3413  
+
+Tranchant, R., Quetel, L., Tallet, A., Meiller, C., Renier, A., de Koning, L., … Jean, D. (2017). Co-occurring mutations of tumor suppressor genes, LATS2 and NF2, in malignant pleural mesothelioma. Clinical Cancer Research, 23, 3191–3202. https://doi.org/10.1158/1078-0432.CCR-16-1971  
+
+Yu, T., Bachman, J., & Lai, Z.-C. (2015). Mutation analysis of large tumor suppressor genes LATS1 and LATS2 supports a tumor suppressor role in human cancer. Protein & Cell, 6, 6–11. https://doi.org/10.1007/s13238-014-0122-4

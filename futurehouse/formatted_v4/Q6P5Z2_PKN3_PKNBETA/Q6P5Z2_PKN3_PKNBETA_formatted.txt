@@ -1,0 +1,43 @@
+## Phylogeny  
+Ser/Thr-protein kinase N3 (PKN3) belongs to the AGC kinase group, PKN/PRK subfamily, and is most closely related to conventional and novel protein kinase C isoforms (Collazos et al., 2011). Orthologues are present in Mus musculus, Rattus norvegicus, Danio rerio and Drosophila melanogaster, indicating conservation across vertebrates and invertebrates (Asquith et al., 2022). The catalytic domain is highly similar to PKN1 and PKN2, whereas the N-terminal regulatory regions diverge, supporting isozyme-specific control (Hutchinson et al., 2013).  
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + L-seryl/threonyl-phosphate-[protein] (Collazos et al., 2011).  
+
+## Cofactor Requirements  
+Mg²⁺ is required to coordinate the ATP phosphates during catalysis (Collazos et al., 2011).  
+
+## Substrate Specificity  
+Kinase-substrate atlas profiling defines the consensus R-X-R-X-X-[S/T]-ϕ, with strict arginine at –5 and –3 and a hydrophobic residue at +1 (Sophocleous et al., 2021). Additional studies confirm a preference for basic residues at –2/–3 relative to the phospho-acceptor (Collazos et al., 2011).  
+
+## Structure  
+PKN3 contains an N-terminal C2-like domain, three tandem HR1 repeats that bind Rho GTPases, a central poly-proline segment, and a C-terminal bilobal kinase domain (Hutchinson et al., 2013). The crystal structure of an HR1 repeat with RhoA (PDB 1W4E) reveals the GTPase interaction interface (Collazos et al., 2011). An AlphaFold model (AF-Q6P5Z2-F1) shows the ordered C-helix, hydrophobic spine, HRD catalytic triad and DFG motif typical of active AGC kinases (Asquith et al., 2022). A unique poly-proline motif (P500PPKPPRL) mediates SH3-domain binding to p130Cas (Unknown Authors, n.d.).  
+
+## Regulation  
+Catalytic activation requires phosphorylation of Thr774 in the activation loop by PDK1 (Asquith et al., 2022) followed by turn-motif Thr860 phosphorylation by mTORC2 (Unsal-Kacmaz et al., 2012). HR1-mediated binding of RhoA, RhoB or RhoC further stimulates activity (Hutchinson et al., 2013). Ubiquitination and lipid interactions influence stability and membrane localisation, although the responsible enzymes remain undefined (Asquith et al., 2022). PI3K pathway hyperactivation up-regulates PKN3 transcription in PTEN-deficient settings (Leenders et al., 2004).  
+
+## Function  
+Basal expression is detected in skeletal muscle, heart and liver, with pronounced up-regulation in prostate, pancreatic, breast and T-cell leukaemia cell lines (Asquith et al., 2022). Acting downstream of class I PI3K, largely independent of Akt, PKN3 promotes cytoskeletal reorganisation and invasive migration (Leenders et al., 2004). It interacts with RhoC, phosphorylates the adaptor p130Cas on Ser432 and binds α-actinin, integrating PI3K and Rho signalling to drive motility (Unsal-Kacmaz et al., 2012; Asquith et al., 2022). Pkn3-null mice show impaired fibroblast migration, reduced endothelial sprouting and diminished metastatic colonisation, supporting roles in angiogenesis and tumour dissemination (Mukai et al., 2016).  
+
+## Inhibitors  
+4-Anilinoquin(az)oline derivatives are the first reported small-molecule chemotype with cell-active PKN3 inhibition (Asquith et al., 2022). Atu027, a liposomal siRNA targeting PKN3 mRNA, suppresses tumour growth and metastasis in pre-clinical models (Asquith et al., 2022).  
+
+## Other Comments  
+Elevated PKN3 expression correlates with aggressive disease in prostate, pancreatic and breast cancers (Asquith et al., 2022; Leenders et al., 2004). No recurrent pathogenic coding variants have been reported to date (Asquith et al., 2022).  
+
+## References  
+Asquith, C. R. M., Temme, L., East, M. P., Laitinen, T., Pickett, J., Kwarcinski, F. E., Sinha, P., Wells, C. I., Johnson, G. L., Zutshi, R., & Drewry, D. H. (2022). Identification of 4-anilinoquin(az)oline as a cell-active protein kinase novel 3 (PKN3) inhibitor chemotype. ChemMedChem. https://doi.org/10.1002/cmdc.202200161  
+
+Collazos, A., Michael, N., Whelan, R. D. H., Kelly, G., Mellor, H., Pang, L. C. H., Totty, N., & Parker, P. J. (2011). Site recognition and substrate screens for PKN family proteins. Biochemical Journal, 438(3), 535–543. https://doi.org/10.1042/BJ20110521  
+
+Hutchinson, C. L., Lowe, P. N., McLaughlin, S., Mott, H., & Owen, D. (2013). Differential binding of RhoA, RhoB, and RhoC to protein kinase C-related kinase isoforms PRK1, PRK2, and PRK3: PRKs have the highest affinity for RhoB. Biochemistry, 52(45), 7999–8011. https://doi.org/10.1021/bi401216w  
+
+Leenders, F., Möpert, K., Schmiedeknecht, A., Santel, A., Czauderna, F., Aleku, M., Penschuck, S., Dames, S., Sternberger, M., Röhl, T., Wellmann, A., Arnold, W., Giese, K., Kaufmann, J., & Klippel, A. (2004). PKN3 is required for malignant prostate cell growth downstream of activated PI 3-kinase. The EMBO Journal. https://doi.org/10.1038/sj.emboj.7600345  
+
+Mukai, H., Muramatsu, A., Mashud, R., Kubouchi, K., Tsujimoto, S., Hongu, T., Kanaho, Y., Tsubaki, M., Nishida, S., Shioi, G., Danno, S., Mehruba, M., Satoh, R., & Sugiura, R. (2016). PKN3 is the major regulator of angiogenesis and tumor metastasis in mice. Scientific Reports, 6, 18979. https://doi.org/10.1038/srep18979  
+
+Sophocleous, G., Owen, D., & Mott, H. (2021). The structure and function of protein kinase C-related kinases (PRKs). Biochemical Society Transactions, 49, 217–235. https://doi.org/10.1042/BST20200466  
+
+Unsal-Kacmaz, K., Ragunathan, S., Rosfjord, E., Dann, S., Upeslacis, E., Grillo, M., Hernandez, R., Mack, F., & Klippel, A. (2012). The interaction of PKN3 with RhoC promotes malignant growth. Molecular Oncology. https://doi.org/10.1016/j.molonc.2011.12.001  
+
+Unknown Authors. (n.d.). 5.4. The 4th publication/preprint.

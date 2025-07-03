@@ -1,0 +1,47 @@
+## Phylogeny  
+Mitogen-activated protein kinase kinase kinase 11 (MAP3K11; MLK3) belongs to the mixed-lineage kinase (MLK) subfamily of the MAP3K family and clusters within the tyrosine-kinase-like branch of the human kinome (Rattanasinchai & Gallo, 2016; Kumar et al., 2021). The MLK lineage is split into three subgroups—MLK1-4, DLK/LZK and ZAKα/β—on the basis of domain composition (Rana et al., 2013). Homologous MLKs are present in lower eukaryotes such as Drosophila and Caenorhabditis, underscoring evolutionary conservation of function (Gallo & Johnson, 2002). The catalytic domains of human MLK1-4 share ~75 % identity, and MLK3 exhibits additional similarity to the non-catalytic region of the fungal kinase NIMA (Gallo & Johnson, 2002; Rana et al., 2013).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Kumar et al., 2021; Schroyer et al., 2018).  
+
+## Cofactor Requirements  
+Requires Mg²⁺ and ATP for catalysis (Schroyer et al., 2018; Gallo & Johnson, 2002). Full activation additionally depends on binding of GTP-loaded Cdc42 or Rac1 to the CRIB domain and on the Hsp90/p50 cdc37 chaperone complex (Kumar et al., 2021; Rattanasinchai & Gallo, 2016).
+
+## Substrate Specificity  
+High-throughput peptide profiling identifies MLK3 as a proline-directed serine/threonine kinase with preference for the motif R-x-x-S/T-P: a Pro at +1 and a basic residue (often Arg) at –3 relative to the phospho-acceptor (Johnson et al., 2023).  
+
+## Structure  
+MLK3 is an 847-residue, multi-domain protein comprising an N-terminal SH3 domain, a catalytic kinase core, two leucine-zipper motifs, a CRIB domain and a C-terminal proline-rich segment (Rattanasinchai & Gallo, 2016; Kumar et al., 2021). AlphaFold model AF-Q16584-F1 predicts a canonical active-like kinase fold with an ordered activation loop and intact regulatory spine, while crystal structures of the SH3 domain (PDB 5K28, 5K26, 6AQB) reveal a canonical β-barrel containing an extended n-Src loop that forms a non-canonical peptide-binding pocket (Kokoszka et al., 2018).
+
+## Regulation  
+• Autoinhibition: the SH3 domain binds an internal proline-rich sequence to maintain inactivity (Gallo & Johnson, 2002).  
+• Activation: binding of GTP-Cdc42 or Rac1 to the CRIB domain releases autoinhibition; homodimerization via the leucine zippers enables activation-loop autophosphorylation on Thr277 and Ser281 (Rattanasinchai & Gallo, 2016; Schroyer et al., 2018).  
+• Phosphorylation by other kinases: GSK3β enhances MLK3 activity, whereas ERK1/2 phosphorylates Ser705 and Ser758, modulating scaffolding functions (Kumar et al., 2021; Schroyer et al., 2018).
+
+## Function  
+Widely expressed MAP3K that integrates stimuli such as TNF-α and ceramide (Rana et al., 2013). Activated MLK3 phosphorylates MAP2Ks MKK4/7/3/6, leading chiefly to JNK and p38—and to a lesser extent ERK—activation (Kumar et al., 2021). It also acts as a scaffold with JIP-1/2 for JNK and with Raf-1/B-Raf for ERK signalling (Kumar et al., 2021; Rattanasinchai & Gallo, 2016). Through these pathways MLK3 regulates proliferation, survival, apoptosis, migration, invasion, cytoskeletal dynamics and immune responses (Kumar et al., 2021; Nguyen et al., 2022).
+
+## Inhibitors  
+Pan-MLK inhibitors CEP-1347 and CEP-11004, as well as URMC-099, suppress MLK3 signalling in cellular and pre-clinical models (Rana et al., 2013; Kumar et al., 2021).
+
+## Other Comments  
+Aberrant MLK3 signalling contributes to neurodegenerative diseases (Parkinson’s, Alzheimer’s, HIV-associated neurodegeneration) and to cancers of the breast, ovary, colon, lung and prostate. MAP3K11 mutations occur in microsatellite-unstable gastrointestinal tumours, and altered mRNA expression correlates with patient survival in several cancer types. MicroRNAs such as miR-199-5p and miR-520b modulate MLK3 expression (Kumar et al., 2021; Nguyen et al., 2022).
+
+## 9. References  
+Gallo, K. A., & Johnson, G. L. (2002). Mixed-lineage kinase control of JNK and p38 MAPK pathways. Nature Reviews Molecular Cell Biology, 3, 663–672. https://doi.org/10.1038/nrm906  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., et al. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Kokoszka, M. E., Kall, S. L., Khosla, S., McGinnis, J. E., Lavie, A., & Kay, B. K. (2018). Identification of two distinct peptide-binding pockets in the SH3 domain of human mixed-lineage kinase 3. Journal of Biological Chemistry, 293, 13553–13565. https://doi.org/10.1074/jbc.ra117.000262  
+
+Kumar, S., Singh, S. K., Rana, B., & Rana, A. (2021). The regulatory function of mixed lineage kinase 3 in tumor and host immunity. Pharmacology & Therapeutics, 219, 107704. https://doi.org/10.1016/j.pharmthera.2020.107704  
+
+Nguyen, K., Tran, M. N., Rivera, A., Cheng, T., Windsor, G. O., et al. (2022). MAP3K family review and correlations with patient survival outcomes in various cancer types. Frontiers in Bioscience-Landmark, 27, 167. https://doi.org/10.31083/j.fbl2705167  
+
+Rana, A., Rana, B., Mishra, R., Sondarva, G., Rangasamy, V., et al. (2013). Mixed lineage kinase–c-Jun N-terminal kinase axis: A potential therapeutic target in cancer. Genes & Cancer, 4, 334–341. https://doi.org/10.1177/1947601913485415  
+
+Rattanasinchai, C., & Gallo, K. (2016). MLK3 signaling in cancer invasion. Cancers, 8, 51. https://doi.org/10.3390/cancers8050051  
+
+Schroyer, A. L., Stimes, N. W., Abi Saab, W. A., & Chadee, D. N. (2018). MLK3 phosphorylation by ERK1/2 is required for oxidative stress-induced invasion of colorectal cancer cells. Oncogene, 37, 1031–1040. https://doi.org/10.1038/onc.2017.396  
+
+Vacratsis, P. O., Phinney, B. S., Gage, D. A., & Gallo, K. A. (2002). Identification of in vivo phosphorylation sites of MLK3 by mass spectrometry and phosphopeptide mapping. Biochemistry, 41, 5613–5624. https://doi.org/10.1021/bi016075c

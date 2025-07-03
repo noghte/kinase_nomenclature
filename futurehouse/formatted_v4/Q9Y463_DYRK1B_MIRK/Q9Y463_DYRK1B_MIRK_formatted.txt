@@ -1,0 +1,60 @@
+Phylogeny  
+DYRK1B is a member of the CMGC group of protein kinases and falls within the dual-specificity tyrosine-regulated kinase (DYRK) family (Aranda et al., 2011; Grygier et al., 2025). The DYRK family comprises three subfamilies—DYRKs, HIPKs and PRP4Ks—with DYRK1B placed in the DYRK1 branch of Class I DYRKs. It shares ~85 % sequence identity with its closest paralogue, DYRK1A (Boni et al., 2020; Kokkorakis et al., 2024).
+
+Reaction Catalyzed  
+ATP + [protein]-L-Ser/Thr ⇄ ADP + [protein]-O-phospho-L-Ser/Thr (Grygier et al., 2025; Kokkorakis et al., 2024).
+
+Cofactor Requirements  
+Requires ATP and a divalent metal ion; Mg²⁺ or Mn²⁺ can support catalysis (Grygier et al., 2025; Kokkorakis et al., 2024).
+
+Substrate Specificity  
+Kinase-wide peptide profiling shows a strong preference for Pro at the +1 position and basic residues (Arg/Lys) at –3 relative to the phosphorylated Ser/Thr (Johnson et al., 2023).
+
+Structure  
+The crystal structure of the kinase domain (PDB 8C2Z) reveals the canonical bilobal CMGC fold with the active site in the inter-lobe cleft (Grygier et al., 2025).  
+• N-lobe: β-sheet–rich, contains catalytic Lys140.  
+• C-lobe: predominantly α-helical.  
+• N-terminal DYRK homology (DH) box supports activation-loop autophosphorylation.  
+• Activation segment harbours a Y271-x-Y273 motif; Tyr273 autophosphorylation locks the enzyme in an active DFG-in state.  
+• Gatekeeper Phe190 restricts ATP-site access.  
+• C-terminal PEST region promotes rapid turnover (Grygier et al., 2025; Kokkorakis et al., 2024).
+
+Regulation  
+Activity is set during translation by irreversible autophosphorylation of Tyr273, aided by the DH box (Becker, 2018; Kokkorakis et al., 2024). Additional modulation includes  
+• Positive: Rac1-MKK3 signalling and ERK1/2-mediated Ser421 phosphorylation (Becker, 2018).  
+• Negative: binding of RanBP9 (Becker, 2018).  
+Gene regulation through alternative promoters (pA, pB) and alternative splicing can yield inactive variants lacking kinase elements (Aranda et al., 2011). Nuclear versus cytosolic localisation also influences functional output (Aranda et al., 2011).
+
+Function  
+Ubiquitously expressed, with highest levels in skeletal muscle and testis (Boni et al., 2020; Kokkorakis et al., 2024). Key roles include  
+• Cell-cycle control: phosphorylates cyclin D1 (Thr288) promoting its degradation, and stabilises the CDK inhibitor p27^Kip1 (Becker, 2018; Vorwerk et al., 2024).  
+• Quiescence: activates the DREAM complex via LIN52-Ser28 phosphorylation (Becker, 2018).  
+• Myogenesis: phosphorylates HDAC5/9 to relieve MEF2 repression (Aranda et al., 2011).  
+• Cancer cell survival: up-regulates antioxidant genes (SOD2/3), excludes FOXO factors from the nucleus and targets NKX3.1 for degradation (Becker, 2018).  
+Upstream pathways influencing expression include MEK1 and RhoA signalling (Aranda et al., 2011).
+
+Inhibitors  
+ATP-competitive inhibitors predominate (Aranda et al., 2011).  
+• Harmine—pan-DYRK inhibitor (Becker, 2018).  
+• AZ191—co-crystallised with DYRK1B (PDB 8C2Z) (Kokkorakis et al., 2024).  
+• Diaryl 1H-pyrazolo[3,4-b]pyridine 8h (IC₅₀ = 3 nM) and 2,4-bis-heterocyclic thiophene 48 (IC₅₀ = 70 nM) show potent activity and anticancer effects (Kokkorakis et al., 2024).
+
+Other Comments  
+DYRK1B is frequently over-expressed in pancreatic, ovarian, colorectal, lung, breast and prostate tumours, partly via amplification of chromosome 19q13.2, contributing to tumour growth and chemoresistance (Boni et al., 2020). Loss-of-function mutations cause abdominal obesity metabolic syndrome-3 (Boni et al., 2020).
+
+9. References  
+Aranda, S., Laguna, A., & de la Luna, S. (2011). Dyrk family of protein kinases: evolutionary relationships, biochemical properties, and functional roles. The FASEB Journal, 25, 449–462. https://doi.org/10.1096/fj.10-165837  
+
+Becker, W. (2018). A wake-up call to quiescent cancer cells–potential use of DYRK1B inhibitors in cancer therapy. The FEBS Journal. https://doi.org/10.1111/febs.14347  
+
+Boni, J., Rubio-Perez, C., López-Bigas, N., Fillat, C., & de la Luna, S. (2020). The DYRK family of kinases in cancer: molecular functions and therapeutic opportunities. Cancers, 12, 2106. https://doi.org/10.3390/cancers12082106  
+
+Grygier, P., Pustelny, K., Menezes, F., Jemioła-Rzemińska, M., Suder, P., Dubin, G., & Czarna, A. (2025). Structural perspective on the design of selective DYRK1B inhibitors. bioRxiv. https://doi.org/10.1101/2022.12.23.521429  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Kokkorakis, N., Zouridakis, M., & Gaitanou, M. (2024). Mirk/DYRK1B kinase inhibitors in targeted cancer therapy. Pharmaceutics. https://doi.org/10.3390/pharmaceutics16040528  
+
+Vorwerk, V. A., Wilms, G., Babendreyer, A., & Becker, W. (2024). Differential regulation of expression of the protein kinases DYRK1A and DYRK1B in cancer cells. Scientific Reports. https://doi.org/10.1038/s41598-024-74190-1  
+
+Yoshida, K. (2008). Role for DYRK family kinases on regulation of apoptosis. Biochemical Pharmacology, 76(11), 1389–1394. https://doi.org/10.1016/j.bcp.2008.05.021

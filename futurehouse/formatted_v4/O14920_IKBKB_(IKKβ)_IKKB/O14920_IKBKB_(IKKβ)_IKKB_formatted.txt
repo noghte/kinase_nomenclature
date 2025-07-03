@@ -1,0 +1,68 @@
+## Phylogeny  
+Orthologues of IκB kinase β (IKKβ) are reported in Mus musculus (Ikbkb) and Xenopus laevis (xIKKβ), with strong conservation in the kinase domain (Xu et al., 2011). Together with its paralogue IKKα (≈50 % sequence identity; ≈70 % overall homology), IKKβ defines the catalytic branch of the IKK family (Unknown Authors, 2022). The wider IKK family (IKKα, IKKβ, IKKε, TBK1) forms a distinct serine/threonine kinase clade classified in the “OTHER” group of the human kinome (Hauenstein et al., 2014).  
+
+## Reaction Catalyzed  
+ATP + protein-L-serine ⇌ ADP + protein-O-phospho-L-serine (Hauenstein et al., 2014).  
+
+## Cofactor Requirements  
+Catalytic activity requires divalent Mg²⁺; in vitro assays employed 10 mM MgCl₂ (Xu et al., 2011).  
+
+## Substrate Specificity  
+• Canonical targets: IκBα Ser32/Ser36, IκBβ Ser19/Ser23, p105 Ser927/Ser932, RelA Ser536 (Hauenstein et al., 2014; Unknown Authors, 2022).  
+• High-affinity docking is mediated by substrates carrying a linear YDDFXF/YDDΦxΦ motif (e.g., IκBα 303-314) that binds a basic pocket at the dimer interface (Unknown Authors, 2022; Li et al., 2024).  
+• Additional validated substrates include p53 Ser362/Ser366, TSC1 Ser487/Ser511, AMPK, PFKFB3, FOXO3a, Bad, PUMA, and SNAP-23 Ser95/Ser120 (Antonia et al., 2021; Unknown Authors, 2012).  
+• No universal phosphorylation consensus beyond an S/TP preference in activation-loop substrates has been defined (Xu et al., 2011).  
+
+## Structure  
+IKKβ is tri-modular: kinase domain (residues 16-307), ubiquitin-like domain (310-394), scaffold/dimerization domain (410-666) and a C-terminal NEMO-binding segment (Xu et al., 2011; Hauenstein et al., 2014). Crystal structures (PDB 4KIK, 3QA8/3QAD) reveal an SDD-mediated asymmetric dimer containing one phosphorylated (active) and one unphosphorylated (inactive) protomer, illustrating trans-activation (Liu et al., 2013). Phosphorylation of Ser177/Ser181 in the activation loop realigns the C-helix and completes the hydrophobic spine (Karin, 1999; Xu et al., 2011). A positively charged pocket formed by both SDDs binds the YDDFXF substrate motif (Unknown Authors, 2022).  
+
+## Regulation  
+• Activation-loop phosphorylation at Ser177/Ser181 by TAK1, MEKK3, IRAK1 or by dimer-driven trans-autophosphorylation is essential for activity (Hauenstein et al., 2014).  
+• Autophosphorylation of distal C-terminal serines (e.g., Ser771) provides negative feedback and accelerates inactivation (Karin, 1999).  
+• Dephosphorylation by PP2A and PP6 reverses activation (Hauenstein et al., 2014).  
+• NEMO-dependent clustering and binding to Lys63-linked or unanchored polyubiquitin chains promote oligomerization and activation (Unknown Authors, 2012).  
+• O-GlcNAcylation enhances kinase activity in p53-deficient cells (Unknown Authors, 2012).  
+
+## Function  
+IKKβ is the principal catalytic subunit of the canonical NF-κB pathway, activated by TNF-α, IL-1β, LPS, and genotoxic or metabolic stress (Antonia et al., 2021; Hauenstein et al., 2014). Phosphorylation-induced degradation of IκB proteins releases NF-κB dimers, promoting transcription of genes controlling inflammation, survival and metabolism (Karin, 1999).  
+
+NF-κB-independent functions include:  
+– Phosphorylation of p53, FOXO3a and Bad to trigger β-TrCP-mediated degradation (Antonia et al., 2021).  
+– Phosphorylation of TSC1 to activate mTOR signalling (Unknown Authors, 2012).  
+– Phosphorylation of SNAP-23 to regulate mast-cell exocytosis (Unknown Authors, 2012).  
+
+Upstream activators comprise TAK1, MEKK3, IRAK1, PDK1 and ubiquitin-linked scaffolds (Hauenstein et al., 2014; Unknown Authors, 2012). Gene knockout causes embryonic lethality with massive liver apoptosis and immune defects (Adli et al., 2010; Salzmann et al., 2020). Tissue-specific ablation can improve skeletal-muscle regeneration and mitigate inflammatory skin disease (Salzmann et al., 2020).  
+
+## Inhibitors  
+ATP-competitive: PS-1145, AS602868, TPCA-1, SC-514 (Unknown Authors, 2012; Ivanenkov et al., 2011).  
+Allosteric: BMS-345541 (Paul et al., 2018).  
+Natural products: Honokiol, Wedelolactone, Apigenin, Curcumin, Resveratrol (Paul et al., 2018; Ivanenkov et al., 2011).  
+Structural probe: Staurosporine analogue K252a (co-crystallised in PDB 4KIK) (Liu et al., 2013).  
+
+## Other Comments  
+Constitutive IKKβ activity contributes to oncogenesis by suppressing apoptosis and is implicated in Hodgkin’s lymphoma, solid tumours, rheumatoid arthritis, asthma, colitis, myocardial injury and metabolic disorders (Karin, 1999; Unknown Authors, 2012).  
+
+## References  
+Adli, M., Merkhofer, E., Cogswell, P., & Baldwin, A. S. (2010). IKKα and IKKβ each function to regulate NF-κB activation in the TNF-induced/canonical pathway. PLoS ONE, 5, e9428. https://doi.org/10.1371/journal.pone.0009428  
+
+Antonia, R. J., Hagan, R. S., & Baldwin, A. S. (2021). Expanding the view of IKK: new substrates and new biology. Trends in Cell Biology, 31, 166–178. https://doi.org/10.1016/j.tcb.2020.12.003  
+
+Hauenstein, A. V., Rogers, W. E., Shaul, J. D., Huang, D.-B., Ghosh, G., & Huxford, T. (2014). Probing kinase activation and substrate specificity with an engineered monomeric IKK2. Biochemistry, 53, 2064–2073. https://doi.org/10.1021/bi401551r  
+
+Ivanenkov, Y. A., Balakin, K. V., & Lavrovsky, Y. (2011). Small-molecule inhibitors of NF-κB and JAK/STAT signal transduction pathways as promising anti-inflammatory therapeutics. Mini-Reviews in Medicinal Chemistry, 11, 55–78. https://doi.org/10.2174/138955711793564079  
+
+Karin, M. (1999). The beginning of the end: IκB kinase (IKK) and NF-κB activation. The Journal of Biological Chemistry, 274, 27339–27342. https://doi.org/10.1074/jbc.274.39.27339  
+
+Li, C., Moro, S., Shostak, K., et al. (2024). Molecular mechanism of IKK catalytic dimer docking to NF-κB substrates. Nature Communications. https://doi.org/10.1038/s41467-024-52076-0  
+
+Liu, S., Misquitta, Y., Olland, A., et al. (2013). Crystal structure of a human IκB kinase β asymmetric dimer. The Journal of Biological Chemistry, 288, 22758–22767. https://doi.org/10.1074/jbc.M113.482596  
+
+Paul, A., Edwards, J., Pepper, C., & Mackay, S. (2018). Inhibitory-κB kinase (IKK) α and nuclear factor-κB (NF-κB)-inducing kinase (NIK) as anti-cancer drug targets. Cells, 7, 176. https://doi.org/10.3390/cells7100176  
+
+Salzmann, M., Bleichert, S., Moser, B., et al. (2020). IκB kinase 2 is not essential for platelet activation. Blood Advances, 4, 638–643. https://doi.org/10.1182/bloodadvances.2019001044  
+
+Unknown Authors. (2012). IKK biology.  
+
+Unknown Authors. (2022). Characterization of protein–protein interactions mediated by the IKK complex.  
+
+Xu, G., Lo, Y.-C., Li, Q., et al. (2011). Crystal structure of inhibitor of κB kinase β. Nature, 472, 325–330. https://doi.org/10.1038/nature09853

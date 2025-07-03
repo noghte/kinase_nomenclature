@@ -1,0 +1,38 @@
+Phylogeny  
+Class II phosphatidylinositol 3-kinase γ (PI3K-C2γ) belongs to the PI3/PI4-kinase superfamily and groups with PI3K-C2α and PI3K-C2β as a distinct class II clade, separate from class I p110 isoforms and the class III kinase Vps34 (Brown & Auger, 2011; Bilanges et al., 2019). Orthologs are present in vertebrates (e.g., mouse, rat, zebrafish); in invertebrates only a single class II PI3K (piki-1 in Caenorhabditis elegans, PI3K68D in Drosophila) is detected, and budding yeast lacks class II PI3Ks (Brown &  Auger, 2011; Gulluni et al., 2019). The vertebrate-specific duplication that generated the PIK3C2G paralog enabled tissue-restricted lipid-kinase functions (Gulluni et al., 2019).  
+
+Reaction Catalyzed  
+1. ATP + phosphatidylinositol ⇌ ADP + phosphatidylinositol-3-phosphate [PI(3)P]  
+2. ATP + phosphatidylinositol-4-phosphate ⇌ ADP + phosphatidylinositol-3,4-bisphosphate [PI(3,4)P₂] (Bilanges et al., 2019; Gulluni et al., 2019).  
+
+Cofactor Requirements  
+Catalysis requires ATP; no isoform-specific divalent-cation dependence has been reported (Gulluni et al., 2019).  
+
+Substrate Specificity  
+PI3K-C2γ shows highest activity toward phosphatidylinositol to produce PI(3)P and can also phosphorylate PI(4)P—particularly at Rab5-positive early endosomes—yielding PI(3,4)P₂. Specificity is confined to lipid substrates; no protein/peptide consensus motif is defined (Bilanges et al., 2019; Margaria et al., 2019).  
+
+Structure  
+The polypeptide contains an N-terminal intrinsically disordered region, a central helical plus kinase core that includes a Ras-binding domain, followed by a C-terminal PX domain and an additional C2 domain (Bilanges et al., 2019; Gulluni et al., 2019). PI3K-C2γ functions as a monomer and lacks the p85-type regulatory subunits seen in class I enzymes (Bilanges et al., 2019). No experimental 3-D structure is available; homology with cryo-EM structures of PI3K-C2α suggests an autoinhibitory PX–C2 “clamp” that disengages upon binding to PI(4,5)P₂-rich membranes (Burke et al., 2023). The catalytic core retains the conserved DFG and EKP motifs and canonical C-helix/hydrophobic-spine alignment common to PI3/PI4 kinases (Brown & Auger, 2011). No AlphaFold or PDB entry specific to PI3K-C2γ is currently reported (Gulluni et al., 2019).  
+
+Regulation  
+Activity is spatially restricted by recruitment to Rab5-positive early endosomes, where the enzyme produces localized PI(3,4)P₂ (Margaria et al., 2019). The class II active site confers relative resistance to pan-PI3K inhibitors such as wortmannin (Margaria et al., 2019). Upstream activators and post-translational modifications remain largely uncharacterized (Bilanges et al., 2019; Gulluni et al., 2019).  
+
+Function  
+PI3K-C2γ is predominantly expressed in liver with limited expression elsewhere (Bilanges et al., 2019). Following insulin-receptor internalization, the kinase generates an endosomal PI(3,4)P₂ pool that sustains Akt2 phosphorylation, enhances glycogen-synthase activity and promotes hepatic glycogen storage (Gulluni et al., 2019; Margaria et al., 2019). Through interactions with Rab5 and mTORC1, PI3K-C2γ sits at the intersection of endosomal trafficking and nutrient signalling and contributes to endolysosomal membrane dynamics as well as class II PI3K-dependent chemotactic and trafficking processes (Bilanges et al., 2019; Margaria et al., 2019).  
+
+Inhibitors  
+No selective inhibitor has been described; the enzyme is less sensitive than class I PI3Ks to classical pan-PI3K inhibitors such as wortmannin (Margaria et al., 2019; Gulluni et al., 2019).  
+
+Other Comments  
+The human PIK3C2G gene maps to chromosome 12p12 (Margaria et al., 2019). Genetic variants associate with type 2 diabetes, hyperlipidaemia and myocardial infarction (Gulluni et al., 2019). Reduced PIK3C2G copy number predicts increased recurrence and mortality in stage III colorectal cancer, suggesting a possible tumour-suppressive role (Gulluni et al., 2019).  
+
+References  
+Bilanges, B., Posor, Y., & Vanhaesebroeck, B. (2019). PI3K isoforms in cell signalling and vesicle trafficking. Nature Reviews Molecular Cell Biology, 20, 515–534. https://doi.org/10.1038/s41580-019-0129-z  
+
+Brown, J. R., & Auger, K. R. (2011). Phylogenomics of phosphoinositide lipid kinases: Perspectives on the evolution of second messenger signaling and drug discovery. BMC Evolutionary Biology, 11, 4. https://doi.org/10.1186/1471-2148-11-4  
+
+Burke, J. E., Triscott, J., Emerling, B. M., & Hammond, G. R. V. (2023). Beyond PI3Ks: Targeting phosphoinositide kinases in disease. Nature Reviews Drug Discovery, 22, 357–386. https://doi.org/10.1038/s41573-022-00582-5  
+
+Gulluni, F., De Santis, M. C., Margaria, J. P., Martini, M., & Hirsch, E. (2019). Class II PI3K functions in cell biology and disease. Trends in Cell Biology, 29, 339–359. https://doi.org/10.1016/j.tcb.2019.01.001  
+
+Margaria, J. P., Ratto, E., Gozzelino, L., Li, H., & Hirsch, E. (2019). Class II PI3Ks at the intersection between signal transduction and membrane trafficking. Biomolecules, 9(3), 104. https://doi.org/10.3390/biom9030104

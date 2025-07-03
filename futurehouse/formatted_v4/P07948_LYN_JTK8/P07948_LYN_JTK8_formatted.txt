@@ -1,0 +1,74 @@
+## Phylogeny  
+Human Lyn (UniProt P07948) is a Src-family member within the Tyrosine Kinase (TK) group, Lyn/Hck sub-subfamily (Ingley, 2012). Closely related paralogues are Hck, Lck and Blk, reflecting a recent duplication in vertebrates (Unknown Authors, 2018). Orthologues with high sequence conservation occur in mouse, rat, zebrafish and chicken; Drosophila Src42A is the invertebrate counterpart (Berndt et al., 2019; Ingley, 2012).
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + protein-L-tyrosine-phosphate (Unknown Authors, 2018).
+
+## Cofactor Requirements  
+Catalysis needs a divalent metal ion; either Mg²⁺ or Mn²⁺ can coordinate the ATP phosphates (Berndt et al., 2019; Ingley, 2012).
+
+## Substrate Specificity  
+High-throughput profiling shows preference for acidic or small residues at +1 and hydrophobic residues at +3 relative to the target Tyr (Berndt et al., 2019). In cells, Lyn phosphorylates ITAM (YxxL/Ix₆–₁₂YxxL/I) and ITIM (S/I/V/LxYxxL/V) motifs in immune receptors (Weerawarna & Richardson, 2023).
+
+## Structure  
+SH4 – Unique – SH3 – SH2 – Kinase (SH1) – C-terminal tail (Ingley, 2012).  
+• SH3: five-stranded β-barrel; key residues Tyr74/Trp99/Pro114; 1.3 Å structure PDB 1W1F (Berndt et al., 2019).  
+• SH2: canonical α/β fold; Tyr194 phosphorylation remodels phosphotyrosine pocket; PDB 4TZI (Jin et al., 2015).  
+• Kinase domain: Src-like bilobal fold with Lys275–Glu290 salt bridge, HRD (371-373) and DFG (385-387) motifs; Tyr397 autophosphorylation site; active structures PDB 3ERP, 4RJ3 (Berndt et al., 2019; Weerawarna & Richardson, 2023).  
+• C-terminal tail harbours inhibitory Tyr508 that binds SH2 (Ingley, 2012).  
+No full-length structure is solved; the autoinhibited conformation is inferred from other Src-family kinases (Berndt et al., 2019).
+
+## Regulation  
+Post-translational modifications  
+– Tyr508 phosphorylated by Csk/Chk suppresses activity (Ingley, 2012; Unknown Authors, 2018).  
+– Tyr397 autophosphorylation follows Tyr508 dephosphorylation and is required for full activity (Ingley, 2012; Kinoshita et al., 2008).  
+– Tyr194 (SH2) phosphorylated by EphA4, PDGFR or Syk alters ligand preference (Jin et al., 2015).  
+– Tyr32 (unique domain) phosphorylated downstream of EGFR (Weerawarna & Richardson, 2023).  
+– Ser13 (SH4) phosphorylated by CK1γ at the Golgi decreases membrane association (Kinoshita-Kikuta et al., 2020).  
+
+Dephosphorylation  
+CD45 and SHP-2 remove pTyr508 to activate Lyn; SHP-1/2 dephosphorylate pTyr397 to terminate signalling (Ingley, 2012).  
+
+Ubiquitination  
+c-Cbl binds the SH3 domain and polyubiquitinates active Lyn for proteasomal degradation (Weerawarna & Richardson, 2023; Sun et al., 2021).  
+
+Conformational control  
+SH3-linker and SH2-pTyr508 contacts lock Lyn in an αC-out inactive state; disruption yields constitutive activity (Berndt et al., 2019).
+
+## Function  
+Expression  
+Highly expressed in B cells, mast cells, macrophages, platelets and brain neurons/microglia; absent in resting T cells (Ingley, 2012; Weerawarna & Richardson, 2023).  
+
+Upstream receptors  
+Recruited by B-cell receptor subunits CD79A/B, CD19, CD22; FcεRI, FcγRI/II; TLR2, TLR4; and several growth-factor receptors (Ingley, 2012; Berndt et al., 2019).  
+
+Downstream partners and substrates  
+Targets include SYK, BTK, PLCγ2, PI3K, β-catenin, N-myristoyl-transferase-1, STAT3, Na⁺/K⁺-ATPase α3 and NMDA receptor subunits (Berndt et al., 2019; Weerawarna & Richardson, 2023).  
+
+Pathways  
+Phosphorylates ITAM/ITIM motifs to fine-tune immune signalling, activates PI3K–NF-κB downstream of TLR2, regulates platelet/integrin signalling, and modulates neuronal responses to amyloid-β (Berndt et al., 2019; Weerawarna & Richardson, 2023).
+
+## Inhibitors  
+Multi-kinase drugs with nanomolar Lyn potency: dasatinib, bosutinib, ponatinib, nintedanib, bafetinib, saracatinib. The benzimidazole Lyn-INH-59 offers greater selectivity in vitro (Berndt et al., 2019).
+
+## Other Comments  
+Lyn over-expression or hyperactivation is linked to acute myeloid leukaemia and multiple solid tumours (Berndt et al., 2019). Germline Tyr508 variants (p.Tyr508His/Phe/*) cause early-onset systemic autoinflammatory disease (Unknown Authors, 2022). Cancer-associated SH3 mutations (e.g., D81N, W99L, E98K, V118M) destabilise autoinhibition (Berndt et al., 2019). Lyn-null mice develop lupus-like autoimmunity, highlighting its role in immune tolerance (Berndt et al., 2019).
+
+## 9. References  
+Berndt, S., Gurevich, V., & Iverson, T. M. (2019). Crystal structure of the SH3 domain of human Lyn non-receptor tyrosine kinase. PLoS ONE, 14(4), e0215140. https://doi.org/10.1371/journal.pone.0215140  
+
+Ingley, E. (2012). Functions of the Lyn tyrosine kinase in health and disease. Cell Communication and Signaling, 10, 21. https://doi.org/10.1186/1478-811X-10-21  
+
+Jin, L. L., Wybenga-Groot, L., Tong, J., Taylor, P., Minden, M., Trudel, S., McGlade, C., & Moran, M. (2015). Tyrosine phosphorylation of the Lyn Src homology 2 domain modulates its binding affinity and specificity. Molecular & Cellular Proteomics, 14(3), 695-706. https://doi.org/10.1074/mcp.M114.044404  
+
+Kinoshita, T., Miyano, N., Nakai, R., Yokota, K., Ishiguro, H., & Tada, T. (2008). Protein purification and preliminary crystallographic analysis of human Lyn tyrosine kinase. Protein Expression and Purification, 58(2), 318-324. https://doi.org/10.1016/j.pep.2008.01.007  
+
+Kinoshita-Kikuta, E., Utsumi, T., Miyazaki, A., Tokumoto, C., Doi, K., Harada, H., Kinoshita, E., & Koike, T. (2020). Protein-N-myristoylation-dependent phosphorylation of serine 13 of tyrosine kinase Lyn by casein kinase 1γ at the Golgi during intracellular protein traffic. Scientific Reports, 10, 16405. https://doi.org/10.1038/s41598-020-73248-0  
+
+Sun, Y., Yang, Y., Zhao, Y., Li, X., Zhang, Y., & Liu, Z. (2021). The role of the tyrosine kinase Lyn in allergy and cancer. Molecular Immunology, 133, 6-13. https://doi.org/10.1016/j.molimm.2020.12.028  
+
+Unknown Authors. (2018). Lyn regulates drug resistance mechanisms in chronic myelogenous leukemia (CML). [Unpublished manuscript].  
+
+Unknown Authors. (2022). De novo gain-of-function variations in LYN lead to an early onset systemic autoinflammatory disorder. [Unpublished manuscript].  
+
+Weerawarna, P., & Richardson, T. I. (2023). Lyn kinase structure, regulation, and involvement in neurodegenerative diseases: A mini review. Kinases and Phosphatases, 1(1), Article 4. https://doi.org/10.3390/kinasesphosphatases1010004

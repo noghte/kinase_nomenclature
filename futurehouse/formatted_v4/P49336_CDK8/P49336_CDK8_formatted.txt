@@ -1,0 +1,62 @@
+## Proposed EC/sub-subclass  
+2.7.11.22  
+
+## Accepted name  
+Cyclin-dependent kinase 8  
+
+## Synonyms  
+CDK8; Srb10 (S. cerevisiae orthologue)  
+
+## Phylogeny  
+Member of the eukaryotic protein kinase (ePK) superfamily, CMGC group, and cyclin-dependent kinase (CDK) family (Manning et al., 2002; Malumbres, 2014). Classified as a transcriptional CDK, functionally distinct from cell-cycle CDKs (Malumbres, 2014; Menzl et al., 2019). Orthologues are present in Drosophila, Caenorhabditis, and Saccharomyces (Manning et al., 2002; Malumbres, 2014). Closely related to paralogues CDK19 and CDK11 (Manning et al., 2002; Philip et al., 2018).  
+
+## Reaction catalysed  
+ATP + protein-Ser/Thr → ADP + phospho-protein-Ser/Thr (Philip et al., 2018).  
+
+## Cofactor requirements  
+Mg²⁺ required for ATP coordination (Manning et al., 2002; Malumbres, 2014). Kinase activity strictly depends on binding Cyclin C (Xu & Ji, 2011).  
+
+## Substrate Specificity  
+Proline-directed Ser/Thr kinase preferring a Pro at +1; consensus [S/T]-P (Johnson et al., 2023). Small residues Gly/Ala enriched at positions –3 to –1 (Johnson et al., 2023). Verified substrates include RNA polymerase II CTD (Ser1616, Ser1619) within YSPTSPS repeats (Johnson et al., 2023; Schneider et al., 2011).  
+
+## Structure  
+Bilobal kinase fold: N-lobe (res. 1–96, β-rich) and C-lobe (res. 97–353, α-helical) (Philip et al., 2018; Schneider et al., 2011). Unique features: DMG motif in activation loop replacing canonical DFG; N-terminal αB helix for Cyclin C recognition; nine-residue insertion before αG; extended C-terminus; SMSACRE cyclin-binding motif (Xu & Ji, 2011; Philip et al., 2018; Xi et al., 2019). Key catalytic residues Lys52, Glu66, Asp173 (Philip et al., 2018). ≥25 crystal structures of the CDK8–Cyclin C complex deposited (e.g., PDB 5F9W, 5I2C) (Xi et al., 2019).  
+
+## Regulation  
+Activity is controlled allosterically, not by T-loop phosphorylation (Schneider et al., 2011; Ziada et al., 2024). Binding Cyclin C is essential; induces αC and DMG re-orientation (Philip et al., 2018; Xu & Ji, 2011). Further activation by Mediator subunit MED12 whose “activation helix” remodels the active site (Klatt et al., 2020; Knuesel et al., 2009). CycC Glu99 mimics a phosphoresidue to stabilize the DMG-in conformation (Ziada et al., 2024). A conserved Thr196 is not known to be phosphorylated (Xu & Ji, 2011).  
+
+## Function  
+Catalytic core of the Mediator kinase module (with Cyclin C, MED12, MED13) governing RNA polymerase II transcription initiation and elongation (Dannappel et al., 2019; Philip et al., 2018). Phosphorylates RNA Pol II CTD, Cyclin H, histone H3, and transcription factors STAT1/3/5, p53, E2F1, SMADs, SREBP-1C, NOTCH ICD (Dannappel et al., 2019; Philip et al., 2018; Xi et al., 2019; Yin et al., 2024). Modulates Wnt/β-catenin, TGF-β, NOTCH, NF-κB, interferon, glycolytic and hypoxic gene programs (Dannappel et al., 2019; Philip et al., 2018). Essential for embryonic development but largely dispensable in adult mouse tissues (Philip et al., 2018).  
+
+## Inhibitors  
+Experimental dual CDK8/19 ATP-competitive inhibitors: Senexin-A, Senexin-B, cortistatin A, SEL120-34A (Dannappel et al., 2019; Philip et al., 2018; Xi et al., 2019). Additional tools: 3MB-PP1 (analog-sensitive CDK8) and multi-kinase inhibitor sorafenib (Dannappel et al., 2019; Xi et al., 2019).  
+
+## Other Comments  
+CDK8 dysregulation is linked to colorectal, breast, prostate, gastric, pancreatic cancers, melanoma, and AML; frequent gene amplification in colorectal cancer correlates with poor prognosis (Philip et al., 2018; Xi et al., 2019; Yin et al., 2024). Exhibits context-dependent oncogenic or tumor-suppressive roles (Philip et al., 2018; Yin et al., 2024). Kinase-dead mutation D173A abolishes activity; cancer-associated mutation at Asp189 identified (Xu & Ji, 2011). Alterations influence tumor growth, metabolism, chemoresistance, and inflammation (Dannappel et al., 2019).  
+
+## References  
+Dannappel, M. V., Sooraj, D., Loh, J. J., & Firestein, R. (2019). Molecular and in vivo functions of the CDK8 and CDK19 kinase modules. Frontiers in Cell and Developmental Biology, 6, 171. https://doi.org/10.3389/fcell.2018.00171  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Klatt, F., Leitner, A., Kim, I. V., Ho-Xuan, H., Schneider, E., Langhammer, F., … Kuhn, C.-D. (2020). A precisely positioned MED12 activation helix stimulates CDK8 kinase activity. Proceedings of the National Academy of Sciences, 117, 2894–2905. https://doi.org/10.1073/pnas.1917635117  
+
+Knuesel, M. T., Meyer, K. D., Donner, A. J., Espinosa, J. M., & Taatjes, D. J. (2009). The human CDK8 subcomplex is a histone kinase that requires MED12 for activity and can function independently of Mediator. Molecular and Cellular Biology, 29, 650–661. https://doi.org/10.1128/MCB.00993-08  
+
+Malumbres, M. (2014). Cyclin-dependent kinases. Genome Biology, 15, 122. https://doi.org/10.1186/gb-2014-15-6-122  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Menzl, I., Witalisz-Siepracka, A., & Sexl, V. (2019). CDK8—novel therapeutic opportunities. Pharmaceuticals, 12, 92. https://doi.org/10.3390/ph12020092  
+
+Philip, S., Kumarasiri, M., Teo, T., Yu, M., & Wang, S. (2018). Cyclin-dependent kinase 8: A new hope in targeted cancer therapy? Journal of Medicinal Chemistry, 61, 5073–5092. https://doi.org/10.1021/acs.jmedchem.7b00901  
+
+Schneider, E., Böttcher, J., Blaesse, M., Neumann, L., Huber, R., & Maskos, K. (2011). The structure of CDK8/CycC implicates specificity in the CDK/cyclin family and reveals interaction with a deep pocket binder. Journal of Molecular Biology, 412, 251–266. https://doi.org/10.1016/j.jmb.2011.07.020  
+
+Xi, M.-Y., Chen, T., Wu, C., Gao, X., Wu, Y., Luo, X., … Sun, H. (2019). CDK8 as a therapeutic target for cancers and recent developments in discovery of CDK8 inhibitors. European Journal of Medicinal Chemistry, 164, 77–91. https://doi.org/10.1016/j.ejmech.2018.11.076  
+
+Xu, W., & Ji, J. (2011). Dysregulation of CDK8 and Cyclin C in tumorigenesis. Journal of Genetics and Genomics, 38, 439–452. https://doi.org/10.1016/j.jgg.2011.09.002  
+
+Yin, X., He, Z., Chen, K., Ouyang, K., Yang, C., Li, J., Tang, H., & Cai, M. (2024). Unveiling the impact of CDK8 on tumor progression: Mechanisms and therapeutic strategies. Frontiers in Pharmacology, 15, 1386929. https://doi.org/10.3389/fphar.2024.1386929  
+
+Ziada, S., Diharce, J., Serillon, D., Bonnet, P., & Aci-Sèche, S. (2024). Highlighting the major role of Cyclin C in Cyclin-dependent kinase 8 activity through molecular dynamics simulations. International Journal of Molecular Sciences, 25, 5411. https://doi.org/10.3390/ijms25105411

@@ -1,0 +1,45 @@
+Phylogeny  
+Orthologues are present in Schizosaccharomyces pombe (Prp4p) (Gross et al., 1997), Fusarium graminearum (FgPrp4) (Gao et al., 2016), Drosophila melanogaster and Caenorhabditis elegans (Gao et al., 2013). Human PRPF4B resides in the CMGC kinase group, clustering with the DYRK/CLK branch; its catalytic domain is most similar to CLK2 and DYRK2 (Gao et al., 2013). A conserved 47-residue insertion (925–971) that is absent from other CMGC members defines a distinct PRP4 sub-clade (Gao et al., 2013).  
+
+Reaction Catalyzed  
+ATP + protein L-serine/threonine ⇄ ADP + protein O-phospho-L-serine/threonine (Gao et al., 2013; Gross et al., 1997).  
+
+Cofactor Requirements  
+Mg²⁺ is required for catalytic activity (Gao et al., 2013).  
+
+Substrate Specificity  
+Phosphoproteomic profiling after PRPF4B knock-down revealed over-represented motifs XXS*PXX and XXS*XXE*XX, indicating preference for Ser followed by Pro or acidic residues (Gao et al., 2013). Confirmed substrates include the RS domain of SRSF1/ASF/SF2 (Gross et al., 1997), spliceosomal proteins PRPF6 and PRPF31 (Schneider et al., 2010), Ser104 of PAK4 (Gao et al., 2013), and multiple N-terminal Thr residues in Prp1, the PRPF6 orthologue (Lützelberger et al., 2010).  
+
+Structure  
+Full-length PRPF4B (1–1007 aa) consists of an N-terminal RS-rich segment (~1–300), a Lys-rich linker (~301–649), and a C-terminal bilobal kinase domain (~650–1007) (Gross et al., 1997). Crystal structures of the catalytic domain are available in apo, nucleotide-, and inhibitor-bound forms at 2.00–2.44 Å (PDB 4IAN, 4IFC, 4IIR, 4IJP) (Gao et al., 2013). Catalytic hallmarks include the Lys717–Glu734 ion pair, the Asp832-Phe834 DFG motif, and an activation loop bearing phospho-Tyr849 (Gao et al., 2013). Unique elements—Pro769 in the hinge and Cys833 just N-terminal to the DFG motif—create a hydrophobic pocket not conserved in related kinases (Gao et al., 2013). Residues 925–971 form a PRP4-specific insert that generates an auxiliary surface groove, and the glycine-rich loop surrounding Thr693 adopts ligand-dependent open/closed conformations (Gao et al., 2013). An AlphaFold model (AF-Q13523-F1) recapitulates the bilobal fold and positions the flexible RS domain peripherally (Gao et al., 2013).  
+
+Regulation  
+PRPF4B autophosphorylates (Schneider et al., 2010), and phosphorylation of Ser289 in the N-terminal SR-rich region is essential for activity of the FgPrp4 orthologue (Gao et al., 2016), implying conservation. The activation loop is phosphorylated on Tyr849 in crystal structures, consistent with an active conformation (Gao et al., 2013). Physical interaction with CLK1 suggests potential cross-regulation among spliceosomal kinases (Eckert et al., 2016). HER2 signalling up-regulates PRPF4B transcription and modulates taxane sensitivity (Corkery et al., 2015). The ATP-competitive inhibitor Compound A stabilises the active kinase conformation (Gao et al., 2013).  
+
+Function  
+PRPF4B phosphorylates PRPF6 and PRPF31 during U4/U6-U5 tri-snRNP incorporation, promoting spliceosome B-complex formation (Schneider et al., 2010). Deletion of FgPrp4 reduces splicing efficiency for >60 % of genes and causes severe growth defects in F. graminearum (Gao et al., 2016). Inducible knock-down in PANC-1 cells diminishes phosphorylation of mRNA-processing and spindle-checkpoint proteins, leading to loss of MAD1 at kinetochores and mitotic defects (Gao et al., 2013). Genome-wide RNAi/shRNA screens identify PRPF4B as essential for survival of multiple cancer cell lines (Gao et al., 2013). Over-expression in HCT116 cells inhibits RhoA, dephosphorylates cofilin, reorganises actin stress fibres, and induces epithelial–mesenchymal transition (Islam et al., 2018). PRPF4B is broadly expressed across cancer cell lines and is up-regulated by HER2 signalling (Gao et al., 2013; Corkery et al., 2015).  
+
+Inhibitors  
+Compound A exhibits a biochemical IC₅₀ of 0.016 µM; the 4IJP co-structure shows hydrogen bonds with hinge residues and hydrophobic contacts adjacent to Cys833 (Gao et al., 2013). The proximity of Cys833 to the DFG motif offers an avenue for irreversible covalent inhibitor design (Gao et al., 2013).  
+
+Other Comments  
+shRNA depletion or pharmacological inhibition of PRPF4B re-sensitises chemoresistant ovarian and breast cancer cells to paclitaxel (Gao et al., 2013). In lymphoblasts from retinitis pigmentosa patients, PRPF4 incorporation into tri-snRNPs is reduced, linking spliceosome defects to retinal degeneration (Tanacković et al., 2011).  
+
+References  
+Corkery, D. P., Le Page, C., Meunier, L., Provencher, D., Mes-Masson, A., & Dellaire, G. (2015). Prp4K is a HER2-regulated modifier of taxane sensitivity. Cell Cycle, 14, 1059–1069. https://doi.org/10.1080/15384101.2015.1007775  
+
+Eckert, D., Andrée, N., Razanau, A., Zock-Emmenthal, S., Lützelberger, M., Plath, S., … Käufer, N. F. (2016). Prp4 kinase grants the license to splice: Control of weak splice sites during spliceosome activation. PLOS Genetics, 12, e1005768. https://doi.org/10.1371/journal.pgen.1005768  
+
+Gao, Q., Mechin, I., Kothari, N., Guo, Z., Deng, G., Haas, K., … Huang, S.-M. A. (2013). Evaluation of cancer dependence and druggability of PRP4 kinase using cellular, biochemical, and structural approaches. The Journal of Biological Chemistry, 288, 30125–30138. https://doi.org/10.1074/jbc.m113.473348  
+
+Gao, X., Jin, Q., Jiang, C., Li, Y., Li, C., Liu, H., … Xu, J.-R. (2016). FgPrp4 kinase is important for spliceosome B-complex activation and splicing efficiency in Fusarium graminearum. PLOS Genetics. https://doi.org/10.1371/journal.pgen.1005973  
+
+Gross, T., Lützelberger, M., Wiegmann, H., Klingenhoff, A., Shenoy, S., & Käufer, N. F. (1997). Functional analysis of the fission yeast Prp4 protein kinase involved in pre-mRNA splicing and isolation of a putative mammalian homologue. Nucleic Acids Research, 25, 1028–1035. https://doi.org/10.1093/nar/25.5.1028  
+
+Islam, S. U., Ahmed, M. B., Lee, S. J., Shehzad, A., Sonn, J., Kwon, O., & Lee, Y. S. (2018). Prp4 kinase induces actin rearrangement and epithelial-mesenchymal transition through modulation of the actin-binding protein cofilin. Experimental Cell Research, 369, 158–165. https://doi.org/10.1016/j.yexcr.2018.05.018  
+
+Lützelberger, M., Bottner, C., Schwelnus, W., Zock-Emmenthal, S., Razanau, A., & Käufer, N. (2010). The N-terminus of Prp1 (Prp6/U5-102 K) is essential for spliceosome activation in vivo. Nucleic Acids Research, 38, 1610–1622. https://doi.org/10.1093/nar/gkp1155  
+
+Schneider, M., Hsiao, H.-H., Will, C. L., Giet, R., Urlaub, H., & Lührmann, R. (2010). Human PRP4 kinase is required for stable tri-snRNP association during spliceosomal B complex formation. Nature Structural & Molecular Biology, 17, 216–221. https://doi.org/10.1038/nsmb.1718  
+
+Tanacković, G., Ransijn, A., Thibault, P., Abou Elela, S., Klinck, R., Berson, E., … Rivolta, C. (2011). PRPF mutations are associated with generalized defects in spliceosome formation and pre-mRNA splicing in patients with retinitis pigmentosa. Human Molecular Genetics, 20, 2116–2130. https://doi.org/10.1093/hmg/ddr094

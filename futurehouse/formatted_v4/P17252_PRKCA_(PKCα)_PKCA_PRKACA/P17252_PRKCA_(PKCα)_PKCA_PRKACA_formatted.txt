@@ -1,0 +1,63 @@
+## Phylogeny  
+Protein kinase C alpha (PKCα) is one of the conventional (cPKC) isozymes encoded by the PRKCA gene. The PKC family forms a subgroup within the AGC super-family of Ser/Thr kinases and is evolutionarily related to Akt, p70 S6K and PDK1 (Newton, 2018; Singh et al., 2017). All PKCs trace back to the single yeast kinase Pkc1, and PRKCA orthologues occur throughout metazoans as well as in lower eukaryotes such as Drosophila and Caenorhabditis elegans, indicating strong conservation (Newton, 2003; Unknown authors, 2019).
+
+## Reaction Catalyzed  
+ATP + [protein]-L-Ser/Thr ⇌ ADP + phospho-[protein]-L-Ser/Thr (Singh et al., 2017; Unknown authors, 2019).
+
+## Cofactor Requirements  
+• Ca²⁺, diacylglycerol (DAG) and phosphatidylserine for allosteric activation (Newton, 2010; Silnitsky et al., 2023).  
+• Mg²⁺ for ATP binding and catalysis (Newton, 2018; Singh et al., 2017).
+
+## Substrate Specificity  
+PKCα is a basophilic kinase that prefers basic residues N-terminal to the phospho-site and hydrophobic residues C-terminally. The consensus motif is often written as [R/K]-X-[S/T]-X, with a strong requirement for Lys/Arg at P-3 and a hydrophobic residue at P + 1 (Johnson et al., 2023; Newton, 2018).
+
+## Structure  
+PKCα is composed of an N-terminal regulatory segment (~35 kDa) joined by a flexible V3 hinge to a C-terminal catalytic domain (~45 kDa) (Newton, 2018; Singh et al., 2017).  
+• Regulatory region: autoinhibitory pseudosubstrate, tandem C1A/C1B domains (DAG/phorbol-ester binding) and a Ca²⁺-sensing C2 domain that also contacts anionic phospholipids (Newton, 2010; Ron & Kazanietz, 1999).  
+• Catalytic region: canonical AGC kinase fold containing the ATP-binding (C3) and substrate-binding (C4) lobes, a conserved C-helix, hydrophobic spine and a phosphorylation-dependent activation loop (Altman & Kong, 2016; Newton, 2018).
+
+## Regulation  
+PKCα is kept inactive by its pseudosubstrate occupying the active site. Activation proceeds via:  
+1. Membrane recruitment and pseudosubstrate release upon Ca²⁺ binding to the C2 domain and DAG binding to the C1 domain (Newton, 2010; Igumenova, 2015).  
+2. Ordered phosphorylation cascade assisted by Hsp90/Cdc37 (Newton, 2018; Singh et al., 2017):  
+ • Thr497 in the activation loop by PDK1  
+ • Thr638 in the turn motif by mTORC2  
+ • Ser657 in the hydrophobic motif by autophosphorylation  
+Prolonged activation triggers dephosphorylation by PHLPP phosphatases followed by proteolytic degradation (Unknown authors, 2019).
+
+## Function  
+PKCα transduces signals that regulate proliferation, apoptosis, migration and differentiation (Singh et al., 2017; Unknown authors, 2019).  
+• Expression: widely expressed, with high levels in neurons and glia of the hippocampus and cerebral cortex (Unknown authors, 2019).  
+• Upstream signalling: activated downstream of Gq-coupled receptors via PLC-generated DAG and Ca²⁺ (Newton, 2018).  
+• Downstream targets: RAF1 (activating MAPK/ERK), K-Ras (negative regulation) and MARCKS (controls PIP2 and actin dynamics) (Unknown authors, 2019).  
+• Interacting partners: RACK scaffold proteins, and PDZ-domain proteins such as PICK1 and DLG1 via a C-terminal PDZ ligand (Singh et al., 2017; Unknown authors, 2019).
+
+## Inhibitors  
+• Activators: phorbol esters (PMA, PDBu), DAG analogues (DiC8) and bryostatin-1 (Newton, 2010; Unknown authors, 2018).  
+• Inhibitors: bisindolylmaleimides Gö6976 (cPKC-selective), Gö6983 (broad PKC), Bisindolylmaleimide IV (scaffold-bound PKCα), and ATP-competitive inhibitors midostaurin and riluzole (Newton, 2018; Silnitsky et al., 2023).
+
+## Other Comments  
+PKCα dysregulation is disease-context dependent. Loss-of-function mutations often occur in cancers, supporting a tumour-suppressive role, whereas germline gain-of-function variants (e.g., M489V) enhance activity and are linked to Alzheimer’s disease (Newton, 2018; Unknown authors, 2019). Additional associations include cardiac hypertrophy, diabetic complications and hypertension (Igumenova, 2015; Silnitsky et al., 2023).
+
+## 9. References  
+Altman, A., & Kong, K.-F. (2016). Protein kinase C enzymes in the hematopoietic and immune systems. *Annual Review of Immunology, 34*, 511–538. https://doi.org/10.1146/annurev-immunol-041015-055347  
+
+Igumenova, T. I. (2015). Dynamics and membrane interactions of protein kinase C. *Biochemistry, 54*, 4953–4968. https://doi.org/10.1021/acs.biochem.5b00565  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., et al. (2023). An atlas of substrate specificities for the human serine/threonine kinome. *Nature, 613*, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Newton, A. C. (2003). Regulation of the AGC kinases by phosphorylation: Protein kinase C as a paradigm. *Biochemical Journal, 370*, 361–371. https://doi.org/10.1042/bj20021626  
+
+Newton, A. C. (2010). Protein kinase C: Poised to signal. *American Journal of Physiology-Endocrinology and Metabolism, 298*, E395–E402. https://doi.org/10.1152/ajpendo.00477.2009  
+
+Newton, A. C. (2018). Protein kinase C: Perfectly balanced. *Critical Reviews in Biochemistry and Molecular Biology, 53*, 208–230. https://doi.org/10.1080/10409238.2018.1442408  
+
+Ron, D., & Kazanietz, M. G. (1999). New insights into the regulation of protein kinase C and novel phorbol ester receptors. *FASEB Journal, 13*, 1658–1676. https://doi.org/10.1096/fasebj.13.13.1658  
+
+Silnitsky, S., Rubin, S. J. S., Zerihun, M., & Qvit, N. (2023). An update on protein kinases as therapeutic targets—Part I: Protein kinase C activation and its role in cancer and cardiovascular diseases. *International Journal of Molecular Sciences, 24*, 17600. https://doi.org/10.3390/ijms242417600  
+
+Singh, R., Kumar, S., Gautam, P. K., et al. (2017). Protein kinase C-α and the regulation of diverse cell responses. *Biomolecular Concepts, 8*, 143–153. https://doi.org/10.1515/bmc-2017-0005  
+
+Unknown authors. (2018). *Functional role of protein kinase C alpha in endometrial carcinogenesis* (pp. 20–30).  
+
+Unknown authors. (2019). *Deregulation of protein kinase C alpha signalling in neurodegenerative disease* (pp. 22–35, 144–152).

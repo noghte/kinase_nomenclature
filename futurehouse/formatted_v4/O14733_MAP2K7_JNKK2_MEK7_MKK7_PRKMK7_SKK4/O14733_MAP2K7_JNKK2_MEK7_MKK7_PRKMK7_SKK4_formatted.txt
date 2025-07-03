@@ -1,0 +1,54 @@
+## Phylogeny  
+MAP2K7 belongs to the STE group of the human kinome, clustering within the STE7 family of MAP kinase kinases (Roskoski, 2012; Unknown Authors, 2023; Lacorazza, 2024). It arose through gene-duplication events common to the MAP2K subfamily (Unknown Authors, 2023) and is most closely related to MKK4, sharing ~50–53 % kinase-domain identity, and to the Drosophila ortholog hemipterous (Moriguchi et al., 1997; Katzengruber et al., 2023; Tournier et al., 1997). Orthologs are conserved across vertebrates, including cartilaginous, ray-finned and lobe-finned fish, while the mouse kinase domain shares ~70 % identity with Drosophila hep (Caliz et al., 2022; Wang et al., 2007).
+
+## Reaction Catalyzed  
+ATP + [a JNK protein] ⇄ ADP + [a phospho-JNK protein] (Caliz et al., 2022; Roskoski, 2012).  
+MAP2K7 preferentially phosphorylates the threonine (T183) of the JNK T-P-Y motif, whereas MKK4 favors the tyrosine (Y185) (Katzengruber et al., 2023; Unknown Authors, 2023).
+
+## Cofactor Requirements  
+Mg²⁺ is required for catalysis (Murakawa et al., 2020).
+
+## Substrate Specificity  
+Positional scanning peptide-array analysis defined position-specific amino-acid preferences from –3 to +3 around the target threonine (Roskoski, 2012; Johnson et al., 2023). In vivo, MAP2K7 phosphorylates the threonine within the JNK Thr-Pro-Tyr activation motif (Caliz et al., 2022; Katzengruber et al., 2023). MAPKs are generally proline-directed, recognising a +1 Pro residue (Unknown Authors, 2023).
+
+## Structure  
+Crystal structures (e.g., PDB 6YFZ, 6YG0–6YG7) and AlphaFold models are available (Caliz et al., 2022; Schröder et al., 2020). The protein contains an N-terminal regulatory segment with three D-motifs, a catalytic domain, and a C-terminal DVD domain that binds upstream kinases (Ho et al., 2006; Lacorazza, 2024). The catalytic domain toggles between inactive DFG-out and active DFG-in conformations and displays marked plasticity (Schröder et al., 2020). Activation involves an N-terminal regulatory helix that docks onto the αC helix, stabilising the β3 Lys165–αC Asp182 salt bridge and completing the hydrophobic spine (Schröder et al., 2020; Lacorazza, 2024). A unique Cys218 in the ATP pocket participates in auto-inhibition and can be covalently targeted (Schröder et al., 2020).
+
+## Regulation  
+Full activation requires dual phosphorylation of Ser271 and Thr275 (and additional Ser287, Thr291) within the SXKAT/SKAKT activation loop by MAP3Ks such as ASK1, TAK1, MEKK and MLK family members (Lacorazza, 2024; Schröder et al., 2020; Unknown Authors, 2023). Phosphorylation-mimetic mutants do not achieve maximal activity without engagement of the N-terminal regulatory helix (Schröder et al., 2020). Auto-inhibited conformations occlude the ATP site until these activating events occur (Schröder et al., 2020).
+
+## Function  
+MAP2K7 is broadly expressed and localises to cytoplasm and nucleus (Caliz et al., 2022; Tournier et al., 1997, 1999). Acting within the JNK pathway, it converts diverse stress signals (UV, osmotic shock) and inflammatory cytokines (TNF-α, IL-1) into JNK activation (Moriguchi et al., 1997; Caliz et al., 2022). Upstream MAP3Ks phosphorylate MAP2K7; scaffold proteins JIP1–3 stabilise MAP2K7–JNK complexes (Ho et al., 2006; Lacorazza, 2024). Downstream, JNK1-3 phosphorylate transcription factors such as c-Jun and ATF2, influencing AP-1-dependent gene expression that governs proliferation, differentiation, apoptosis, immune responses and development (Ho et al., 2006; Caliz et al., 2022).
+
+## Inhibitors  
+Peptide inhibitors derived from N-terminal D-sites block JNK binding (Ho et al., 2006). Small-molecule inhibitors include indazole compounds that disrupt the MKK7–TIPRL interaction (Caliz et al., 2022; Schröder et al., 2020), covalent inhibitors targeting Cys218, and the approved drug ibrutinib, which binds an allosteric pocket (Schröder et al., 2020; Murakawa et al., 2020).
+
+## Other Comments  
+Dysregulated MAP2K7 activity is linked to cancer, inflammatory disorders, neurodegeneration and diabetes, functioning as either tumour promoter or suppressor depending on context (Caliz et al., 2022; Ho et al., 2006; Schröder et al., 2020). The human MAP2K7 gene maps to chromosome 19p13.2, contains 12–14 exons and is alternatively spliced into six isoforms (α1/2, β1/2, γ1/2). β and γ isoforms possess an extended N-terminal D-domain that enhances JNK binding and basal activity relative to α variants (Tournier et al., 1999; Wang et al., 2007).
+
+## 9. References  
+Caliz, A. D., Vertii, A., Fisch, V., Yoon, S., Yoo, H.-J., Keaney, J. F., & Kant, S. (2022). Mitogen-activated protein kinase kinase 7 in inflammatory, cancer, and neurological diseases. Frontiers in Cell and Developmental Biology, 10, 979673. https://doi.org/10.3389/fcell.2022.979673  
+
+Ho, D. T., Bardwell, A., Grewal, S., Iverson, C., & Bardwell, L. (2006). Interacting JNK-docking sites in MKK7 promote binding and activation of JNK MAP kinases. Journal of Biological Chemistry, 281, 13169–13179. https://doi.org/10.1074/jbc.M601010200  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Katzengruber, L., Sander, P., & Laufer, S. A. (2023). MKK4 inhibitors—recent development status and therapeutic potential. International Journal of Molecular Sciences, 24, 7495. https://doi.org/10.3390/ijms24087495  
+
+Lacorazza, H. (2024). Pharmacological inhibition of the MAP2K7 kinase in human disease. Frontiers in Oncology. https://doi.org/10.3389/fonc.2024.1486756  
+
+Moriguchi, T., Toyoshima, F., Masuyama, N., Hanafusa, H., Gotoh, Y., & Nishida, E. (1997). A novel SAPK/JNK kinase, MKK7, stimulated by TNF-α and cellular stresses. The EMBO Journal, 16, 7045–7056. https://doi.org/10.1093/emboj/16.23.7045  
+
+Murakawa, Y., Valter, S., Barr, H., London, N., & Kinoshita, T. (2020). Structural basis for producing selective MAP2K7 inhibitors. Bioorganic & Medicinal Chemistry Letters, 30, 127546. https://doi.org/10.1016/j.bmcl.2020.127546  
+
+Roskoski, R. (2012). ERK1/2 MAP kinases: structure, function, and regulation. Pharmacological Research, 66, 105–143. https://doi.org/10.1016/j.phrs.2012.04.005  
+
+Schröder, M., Tan, L., Wang, J., Liang, Y., Gray, N. S., Knapp, S., & Chaikuad, A. (2020). Catalytic domain plasticity of MKK7 reveals structural mechanisms of allosteric activation and new targeting opportunities. bioRxiv. https://doi.org/10.1101/2020.06.11.145995  
+
+Tournier, C., Whitmarsh, A. J., Cavanagh, J., Barrett, T., & Davis, R. J. (1997). Mitogen-activated protein kinase kinase 7 is an activator of the c-Jun NH2-terminal kinase. Proceedings of the National Academy of Sciences, 94, 7337–7342. https://doi.org/10.1073/pnas.94.14.7337  
+
+Tournier, C., Whitmarsh, A. J., Cavanagh, J., Barrett, T., & Davis, R. J. (1999). The mkk7 gene encodes a group of c-Jun NH2-terminal kinase kinases. Molecular and Cellular Biology, 19, 1569–1581. https://doi.org/10.1128/MCB.19.2.1569  
+
+Unknown Authors. (2023). Revealing the mechanism of action of intrinsically disordered proteins in MAPK cell signalling.  
+
+Wang, X., Destrument, A. P. M., & Tournier, C. (2007). Physiological roles of MKK4 and MKK7: Insights from animal models. Biochimica et Biophysica Acta – Molecular Cell Research, 1773, 1349–1357. https://doi.org/10.1016/j.bbamcr.2006.10.016

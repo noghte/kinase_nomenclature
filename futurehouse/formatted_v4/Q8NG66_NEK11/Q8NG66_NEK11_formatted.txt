@@ -1,0 +1,47 @@
+## Phylogeny  
+NEK11 belongs to the NIMA-related kinase (NEK) family, which comprises 11 human serine/threonine kinases (Fry et al., 2012; Moniz et al., 2011). Within the human kinome it is generally placed in the “Other” group, although some reports assign the entire family to the CMGC group (Fry et al., 2012; Oliveira et al., 2020; Pavan et al., 2021; van de Kooij et al., 2019). Orthologues are present in yeast and Aspergillus species but have not been detected in C. elegans or D. melanogaster, suggesting that the NEK11/NEK4 sub-branch arose after separation of the deuterostome lineage (Bachus et al., 2022; “Stop Ne(c)king around”, 2014).  
+
+## Reaction Catalyzed  
+ATP + L-seryl-[protein] ⇄ ADP + O-phospho-L-seryl-[protein] (van de Kooij et al., 2019).  
+
+## Cofactor Requirements  
+Requires a divalent cation, typically Mg²⁺, for catalytic activity (Bachus et al., 2022; Fry et al., 2012).  
+
+## Substrate Specificity  
+Peptide library screens define the preferred consensus as [R/K]XX[S/T], favouring a basic residue at the −3 position relative to the phospho-acceptor site (van de Kooij et al., 2019). Confirmed cellular substrates include CDC25A (Ser82, Ser88 within DSG motifs) (Pavan et al., 2021; “Characterization and Function of the NEK11 Kinase”, 2015).  
+
+## Structure  
+The protein contains an N-terminal catalytic domain and a C-terminal regulatory segment harbouring an autoinhibitory region, coiled-coil elements, and PEST-like sequences that may control proteasomal turnover (Fry et al., 2012; “Cell Cycle Studies…”, 2011). AlphaFold models predict a canonical protein-kinase fold with conserved DFG and activation loop motifs; no experimentally determined high-resolution structure is available (Pavan et al., 2021; Fry et al., 2012). At least four splice isoforms differ in their C-termini, with longer forms mainly cytoplasmic and shorter forms nuclear (Bachus et al., 2022; “Characterization and Function of the NEK11 Kinase”, 2015).  
+
+## Regulation  
+NEK11 is activated in the DNA-damage response by phosphorylation mediated by ATM, ATR, and especially CHK1 (Ser273) (Fry et al., 2012; Pavan et al., 2021). Caffeine, an ATM/ATR inhibitor, reduces its activity (Pavan et al., 2021). Nek2A-dependent phosphorylation of the C-terminus relieves autoinhibition (Bachus et al., 2022; “Cell Cycle Studies…”, 2011). Ubiquitination contributes to protein stability control (Bachus et al., 2022; Fry et al., 2012).  
+
+## Function  
+NEK11 operates downstream of ATM/ATR/CHK1 to enforce the G2/M DNA-damage checkpoint. It phosphorylates CDC25A, triggering SCF-βTrCP-dependent ubiquitination and degradation, thereby preventing premature mitotic entry (Bachus et al., 2022; “Cell Cycle Studies…”, 2011). Additional substrates/partners include BLM helicase (promoting TopBP1 binding), PLK1, Nek2A, and Ku70 (Bachus et al., 2022; Fry et al., 2012). Protein levels rise during S, G2, and M phases and are low in G1 (“Cell Cycle Studies…”, 2011). Loss of NEK11 impairs checkpoint arrest, leading to apoptosis and reduced survival after genotoxic stress (Bachus et al., 2022; Pavan et al., 2021).  
+
+## Inhibitors  
+The approved BRAF inhibitor dabrafenib is reported as an experimental NEK11 inhibitor (Oliveira et al., 2020).  
+
+## Other Comments  
+NEK11 dysregulation or mutation is linked to tumorigenesis; reduced expression is noted in some colorectal cancer cell lines, potentially via CDC25A stabilization (Bachus et al., 2022; van de Kooij et al., 2019). Although cancer-associated mutations have been catalogued, their roles as driver lesions remain unclear (Moniz et al., 2011).  
+
+## 9. References  
+Bachus, S., Graves, D., Fulham, L., Akkerman, N., Stephanson, C., Shieh, J., & Pelka, P. (2022). In mitosis you are not: The NIMA family of kinases in Aspergillus, yeast, and mammals. International Journal of Molecular Sciences, 23, 4041. https://doi.org/10.3390/ijms23074041  
+
+Fry, A. M., O’Regan, L., Sabir, S. R., & Bayliss, R. (2012). Cell cycle regulation by the NEK family of protein kinases. Journal of Cell Science, 125, 4423-4433. https://doi.org/10.1242/jcs.111195  
+
+Moniz, L., Dutt, P., Haider, N., & Stambolic, V. (2011). NEK family of kinases in cell cycle, checkpoint control and cancer. Cell Division, 6, 18. https://doi.org/10.1186/1747-1028-6-18  
+
+Oliveira, A. P. de, Issayama, L. K., Betim Pavan, I. C., Silva, F. R., Melo-Hanchuk, T. D., Simabuco, F. M., & Kobarg, J. (2020). Checking NEKs: Overcoming a bottleneck in human diseases. Molecules, 25, 1778. https://doi.org/10.3390/molecules25081778  
+
+Pavan, I. C. B., de Oliveira, A. P., Dias, P., Basei, F., Issayama, L. K., Ferezin, C., … Kobarg, J. (2021). On broken NE(C)Ks and broken DNA: The role of human NEKs in the DNA damage response. Cells, 10, 507. https://doi.org/10.3390/cells10030507  
+
+van de Kooij, B., Creixell, P., van Vlimmeren, A., Joughin, B. A., Miller, C. J., Haider, N., … Yaffe, M. B. (2019). Comprehensive substrate specificity profiling of the human NEK kinome reveals unexpected signaling outputs. eLife. https://doi.org/10.1101/515221  
+
+“Cell Cycle Studies on the Human Nek3, Nek5 and Nek11 Protein Kinases.” (2011). [Unpublished doctoral thesis].  
+
+“Characterization and Function of the NEK11 Kinase in Cancer Cells.” (2015). [Research article].  
+
+“Stop Ne(c)king around: How interactomics contributes to functionally characterize NEK family kinases.” (2014). [Conference proceedings].  
+
+Nek1-developmental involvement in DNA repair and role as a target in radiotherapy. (n.d.). [Technical report].

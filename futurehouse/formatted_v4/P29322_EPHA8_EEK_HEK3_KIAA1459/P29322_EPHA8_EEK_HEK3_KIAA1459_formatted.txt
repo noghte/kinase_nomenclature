@@ -1,0 +1,52 @@
+## Phylogeny  
+EPHA8 belongs to the Eph receptor tyrosine kinase family—the largest RTK sub-family—and sits in the EphA subgroup that binds GPI-anchored ephrin-A ligands (Choi & Park, 1999; Gaitanos et al., 2015). Hierarchical clustering based on substrate preferences groups it with EPHA1-7 and EPHB1-4 (Yaron-Barir et al., 2024). Clear one-to-one orthologs are reported in mouse, rat, chicken and zebrafish, underscoring conservation across vertebrates (Choi & Park, 1999; Lucero et al., 2020).  
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + protein-L-tyrosine-phosphate (Choi & Park, 1999; Gaitanos et al., 2015; Lucero et al., 2020; Yaron-Barir et al., 2024).  
+
+## Cofactor Requirements  
+Requires Mg²⁺ for catalysis (Gaitanos et al., 2015; Lucero et al., 2020).  
+
+## Substrate Specificity  
+Three independent studies report related but non-identical motif preferences. Collectively, EPHA8 favors:  
+• hydrophobic or positively charged residues at –3  
+• acidic or basic residues at –2 (source-dependent)  
+• small polar residues at –1  
+• bulky hydrophobic or aromatic residues at +1  
+• acidic or positively charged residues at +2  
+• polar or small residues at +3 (Gaitanos et al., 2015; Lucero et al., 2020; Yaron-Barir et al., 2024).  
+
+## Structure  
+Domain architecture: extracellular ligand-binding domain, cysteine-rich segment, two fibronectin type III repeats, a single transmembrane helix, and an intracellular region containing a juxtamembrane segment, kinase domain, SAM domain and PDZ-binding motif (Gaitanos et al., 2015; Lucero et al., 2020). The AlphaFold model (AF-P29322-F1) depicts the typical bilobal kinase fold with conserved C-helix, activation loop and hydrophobic spine stabilising the active conformation (Choi & Park, 1999; Gaitanos et al., 2015; Yaron-Barir et al., 2024).  
+
+## Regulation  
+• Ligand-induced clustering triggers trans-autophosphorylation (Gaitanos et al., 2015; Choi & Park, 1999).  
+• Critical autophosphorylation sites: Tyr-615 (juxtamembrane) and Tyr-838 (activation loop); phosphorylation of Tyr-838 enhances kinase activity and promotes Tyr-615 phosphorylation (Choi & Park, 1999).  
+• Phospho-Tyr-615 recruits the Src-family kinase Fyn via its SH2 domain (Choi & Park, 1999).  
+• Feedback loop: EPHA8 phosphorylates and activates LMW-PTP, which in turn dephosphorylates EPHA8 (Park, 2003).  
+• Kinase-independent signaling modulates integrin activity through p110γ PI3K (Gu & Park, 2001).  
+• Additional post-translational modifications include N-glycosylation and ubiquitination (Gaitanos et al., 2015).  
+
+## Function  
+• Expression: CNS-restricted during embryogenesis (E10.5–E17.5) in tectum midline, hindbrain and dorsal spinal cord; absent postnatally (Gaitanos et al., 2015).  
+• Upstream ligands: ephrin-A2/-A3/-A5 (Gaitanos et al., 2015; Shin et al., 2007).  
+• Downstream partners: Fyn, AIDA-1b, Odin, Rho GTPases (RhoA, Rac1, Cdc42) and MAPK cascade components (Choi & Park, 1999; Shin et al., 2007; Gaitanos et al., 2015).  
+• Biological roles: axon guidance, regulation of cell adhesion and migration, and neurite outgrowth/retraction; also modulates integrin signaling independently of kinase activity (Choi & Park, 1999; Gu & Park, 2001; Gaitanos et al., 2015).  
+
+## Other Comments  
+EPHA8 knockout mice display commissural and axonal path-finding defects (Choi & Park, 1999; Gu & Park, 2001). Dysregulated expression is observed in certain cancers; e.g., detected in stem-like breast carcinoma cells (Lucero et al., 2020).  
+
+## 9. References  
+Choi, S., & Park, S. (1999). Phosphorylation at Tyr-838 in the kinase domain of EPHA8 modulates Fyn binding to the Tyr-615 site by enhancing tyrosine kinase activity. Oncogene, 18, 5413–5422. https://doi.org/10.1038/sj.onc.1202917  
+
+Gaitanos, T., Dudanova, I., Sakkou, M., Klein, R., & Paixão, S. (2015). The Eph receptor family. In R. A. Bradshaw & E. A. Dennis (Eds.), Receptor tyrosine kinases: Family and subfamilies (pp. 165–264). Springer. https://doi.org/10.1007/978-3-319-11888-8_5  
+
+Gu, C., & Park, S. (2001). The EPHA8 receptor regulates integrin activity through p110γ phosphatidylinositol-3 kinase in a tyrosine kinase activity-independent manner. Molecular and Cellular Biology, 21, 4579–4597. https://doi.org/10.1128/MCB.21.14.4579-4597.2001  
+
+Lucero, M., Thind, J., Sandoval, J., Senaati, S., Jimenez, B., & Kandpal, R. (2020). Stem-like cells from invasive breast carcinoma cell line MDA-MB-231 express a distinct set of Eph receptors and ephrin ligands. Cancer Genomics & Proteomics, 17, 729–738. https://doi.org/10.21873/cgp.20227  
+
+Park, S. (2003). The EPHA8 receptor phosphorylates and activates low molecular weight phosphotyrosine protein phosphatase in vitro. Journal of Biochemistry and Molecular Biology, 36(3), 288–293. https://doi.org/10.5483/bmbrep.2003.36.3.288  
+
+Shin, J., Gu, C., Park, E., & Park, S. (2007). Identification of phosphotyrosine binding domain-containing proteins as novel downstream targets of the EPHA8 signaling function. Molecular and Cellular Biology, 27, 8113–8126. https://doi.org/10.1128/MCB.00794-07  
+
+Yaron-Barir, T. M., Joughin, B. A., Huntsman, E. M., Kerelsky, A., Cizin, D. M., Cohen, B. M., … Johnson, J. L. (2024). The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629, 1174–1181. https://doi.org/10.1038/s41586-024-07407-y

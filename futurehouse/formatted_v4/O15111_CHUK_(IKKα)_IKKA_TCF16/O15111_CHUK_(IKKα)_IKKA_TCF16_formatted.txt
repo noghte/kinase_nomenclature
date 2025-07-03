@@ -1,0 +1,57 @@
+## Phylogeny  
+Orthologues are present in Homo sapiens, Mus musculus, Danio rerio, Drosophila melanogaster and Caenorhabditis elegans, indicating deep metazoan conservation of the IKK module (Unknown Authors, 2002; Karin, 1999). Human IKKα belongs to the CAMK-like group, IκB kinase family of the kinome (Unknown Authors, 2002; Unknown Authors, 2012). It shares ~50 % sequence identity and a common KD–ULD–SDD domain layout with IKKβ (Mulero et al., 2019). A basic surface at the kinase/ULD interface, unique to IKKα, mediates selective binding to NIK and p100 (Polley et al., 2016).  
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + L-O-phosphoseryl/threonyl-[protein] (Unknown Authors, 2012; Unknown Authors, 2002).  
+
+## Cofactor Requirements  
+Catalysis requires divalent cations; Mg²⁺ is preferred, Mn²⁺ is tolerated (Unknown Authors, 2002).  
+
+## Substrate Specificity  
+• Prefers substrates bearing acidic residues at −2/−3 relative to the Ser/Thr phospho-acceptor (prototype sequence DSGLDS from IκBα) (Unknown Authors, 2002).  
+• Recognises a YDDFxF docking motif that broadens residue tolerance around the phosphorylation site (Unknown Authors, 2022).  
+• Verified phosphosites include IκBα Ser32/Ser36 and NF-κB2/p100 Ser866/Ser870, with additional sites at Ser99/108/115/123 on p100 (Unknown Authors, 2022).  
+
+## Structure  
+IKKα is modular: (i) an N-terminal kinase domain containing Lys44, Glu63, Asp166 and activation-loop Ser176/Ser180 (Unknown Authors, 2002); (ii) a ubiquitin-like domain (ULD) that packs against the kinase domain and aids oligomerisation (Mulero et al., 2019); (iii) a scaffold/dimerisation domain (SDD) with leucine-zipper and helix-loop-helix motifs driving back-to-back dimers (Mulero et al., 2019); (iv) a C-terminal NEMO-binding segment (Mulero et al., 2019). X-ray and cryo-EM structures (e.g., PDB 5TQW, 5EBZ) reveal a dimer that can hexamerise; a positively charged KD/ULD face forms the NIK interface (Polley et al., 2016). The active conformation contains a conserved hydrophobic spine and ordered C-helix, and asymmetric dimer principles seen for IKKβ apply to IKKα (Liu et al., 2013).  
+
+## Regulation  
+• Activation-loop phosphorylation on Ser176/Ser180 by NIK (non-canonical pathway) or TAK1 (canonical pathway) activates the kinase (Unknown Authors, 2002; Unknown Authors, 2012).  
+• Tyr188 autophosphorylation or Src-mediated phosphorylation further increases activity (Unknown Authors, 2012).  
+• Lys63-linked ubiquitin chains assembled by TRAF6 promote activation; CYLD removes these chains, attenuating signalling (Unknown Authors, 2002; Unknown Authors, 2012).  
+• PP2A dephosphorylates the activation loop, reversing activation (Unknown Authors, 2002).  
+• Higher-order oligomerisation enables trans-autophosphorylation, and NEMO binding links IKKα dimers to receptor-proximal ubiquitin scaffolds (Mulero et al., 2019).  
+
+## Function  
+IKKα is ubiquitously expressed, with high levels in immune cells and epidermis (Unknown Authors, 2002). Canonical stimuli (TNFα, IL-1β, LPS) signal via TAK1, whereas non-canonical stimuli (LTβR, CD40, BAFFR) act through NIK (Unknown Authors, 2002).  
+Principal substrates/partners:  
+– Cytoplasmic IκB proteins (canonical NF-κB pathway) and p100 (non-canonical) (Unknown Authors, 2022).  
+– Nuclear targets such as histone H3, SRC-3, IRF7 and the SMRT corepressor connect IKKα to chromatin remodelling and interferon production (Unknown Authors, 2002; Unknown Authors, 2022).  
+– Forms a heterotrimer with IKKβ and NEMO in canonical signalling; homodimeric IKKα predominates in the non-canonical pathway (Unknown Authors, 2002).  
+Biological roles include:  
+• Phosphorylation-dependent degradation of IκBs, enabling rapid RelA/p50 nuclear translocation (Unknown Authors, 2012).  
+• Generation of RelB/p52 dimers essential for lymphoid organogenesis (Unknown Authors, 2022).  
+• NF-κB-independent control of cell-cycle progression and epidermal differentiation via nuclear substrates (Unknown Authors, 2012).  
+
+## Inhibitors  
+ATP-competitive inhibitors reported to block IKKα activity include BMS-345541, MLN120B, BAY 65-1942 and TPCA-1 (Unknown Authors, 2002; Unknown Authors, 2012).  
+
+## Other Comments  
+Germline loss-of-function mutations in CHUK (IKKα) cause combined immunodeficiency with ectodermal dysplasia due to impaired non-canonical NF-κB activation (Riller et al., 2024; Unknown Authors, 2002). Somatic or regulatory mutations that increase IKKα signalling have been observed in multiple cancers (Unknown Authors, 2002).  
+
+## 9. References  
+Karin, M. (1999). The beginning of the end: IκB kinase (IKK) and NF-κB activation. The Journal of Biological Chemistry, 274, 27339–27342. https://doi.org/10.1074/jbc.274.39.27339  
+
+Liu, S., Misquitta, Y. R., Olland, A., Johnson, M. A., Kelleher, K. S., Kriz, R., Lin, L. L., Stahl, M., & Mosyak, L. (2013). Crystal structure of a human IκB kinase β asymmetric dimer. Journal of Biological Chemistry, 288, 22758–22767. https://doi.org/10.1074/jbc.M113.482596  
+
+Mulero, M. C., Huxford, T., & Ghosh, G. (2019). NF-κB, IκB, and IKK: Integral components of immune system signaling. Advances in Experimental Medicine and Biology, 1172, 207–226. https://doi.org/10.1007/978-981-13-9367-9_10  
+
+Polley, S., Passos, D., Huang, D., Mulero, M. C., Mazumder, A., Biswas, T., Verma, I., Lyumkis, D., & Ghosh, G. (2016). Structural basis for the activation of IKK1/α. Cell Reports, 17, 1907–1914. https://doi.org/10.1016/j.celrep.2016.10.067  
+
+Riller, Q., Sorin, B., Courteille, C., et al. (2024). Compound heterozygous mutations in the kinase domain of IKKα lead to immunodeficiency and immune dysregulation. medRxiv. https://doi.org/10.1101/2024.05.17.24307356  
+
+Unknown Authors. (2002). Role of I κB kinase α and I κB kinase β in the development and function of B and T lymphocytes.  
+
+Unknown Authors. (2012). IKK biology.  
+
+Unknown Authors. (2022). Characterization of protein-protein interactions mediated by the IKK complex.

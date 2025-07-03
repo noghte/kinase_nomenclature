@@ -1,0 +1,63 @@
+## Phylogeny  
+Member of the AMP-activated protein kinase (AMPK)–related subfamily within the Ca²⁺/calmodulin-dependent protein kinase (CAMK) group of the human kinome (Manning et al., 2002). Clusters in a 14-kinase clade with NUAK2, BRSK1/2, SIK1-3, MARK1-4, MELK, QIK and QSK (Minchenko & Minchenko, 2012). The closest paralogue is NUAK2 (58 % overall and 82 % catalytic-domain identity; Faisal et al., 2020). Representative orthologues span vertebrates, insects, nematodes and the distant yeast Snf1 (Minchenko & Minchenko, 2012; Faisal et al., 2020).
+
+## Reaction Catalyzed  
+ATP + [protein] → ADP + [protein]-O-phospho-Ser/Thr (Banerjee et al., 2014a).
+
+## Cofactor Requirements  
+Requires Mg²⁺ for ATP coordination (Banerjee et al., 2014a).
+
+## Substrate Specificity  
+Prefers serine/threonine residues in an RSX-S*/T*-XP consensus that generates a 14-3-3 docking site. Confirmed examples include PPP1R12A/MYPT1 (Ser445, Ser472, Ser910) and LATS1 (Ser464) (Zagórska et al., 2010; Unknown Authors, 2013a; Banerjee et al., 2014b).
+
+## Structure  
+N-terminal bilobal kinase domain (~residues 1–270) contains catalytic Lys84 and activation-loop Thr211 (Molina et al., 2021). Followed by a central linker and a C-terminal regulatory tail (~residues 350–661) harbouring three GILK motifs for PP1β binding and the Akt target site Ser600 (Molina et al., 2021; Banerjee et al., 2014b). Lacks the ubiquitin-associated domain present in several other AMPK-related kinases (Faisal et al., 2020). No experimental structure is available; AlphaFold model AF-O60285-F1 predicts a canonical protein-kinase fold with an ordered C-helix and intact hydrophobic spine (Rooney et al., 2025). Ala195, immediately N-terminal to the DFG motif, lines the ATP pocket; the A195T variant confers resistance to ATP-competitive inhibitors without compromising basal catalysis (Banerjee et al., 2014a).
+
+## Regulation  
+• Activation-loop Thr211 phosphorylated by the LKB1–STRAD–MO25 complex (Minchenko & Minchenko, 2012) and by NDR2 downstream of IGF-1 (Unknown Authors, 2017).  
+• Ser600 phosphorylated by AKT1 during glucose starvation or IGF-1 signalling (Molina et al., 2021; Vis et al., 2021).  
+• PP1β–MYPT1 binding through the three GILK motifs promotes dephosphorylation of Thr211, dampening activity (Banerjee et al., 2014b).  
+• Phosphorylated ESGYYS degron recruits SCF^βTRCP, triggering proteasomal degradation; atypical K29/K33-linked polyubiquitin chains directly inhibit catalytic activity, whereas USP9X removes these chains and stabilises the kinase (Unknown Authors, 2013a; Minchenko & Minchenko, 2012).
+
+## Function  
+Highly expressed in cerebellum, heart and skeletal muscle; localises to the nucleus and cytoskeleton (Molina et al., 2021; Unknown Authors, 2017). Transcriptionally and post-translationally activated by NF-κB, PI3K/AKT and CD95/Fas pathways (Molina et al., 2021). Verified substrates and outcomes:  
+– PPP1R12A/MYPT1 phosphorylation recruits 14-3-3, inhibits myosin phosphatase, elevates MLC2 phosphorylation and reduces focal adhesions, facilitating cell detachment (Zagórska et al., 2010).  
+– LATS1 Ser464 phosphorylation stabilises LATS1, limits polyploidy and promotes senescence (Minchenko & Minchenko, 2012).  
+– p53 Ser15/392 phosphorylation enhances CDKN1A expression and survival under metabolic stress (Vis et al., 2021).  
+– ATM and CASP6 phosphorylation support survival during glucose deprivation and modulate apoptosis (Vis et al., 2021).  
+Pathway integration includes Hippo (via LATS1), actomyosin contractility (via MYPT1/MLC2), mTORC1 (via Raptor) and promotion of MMP-2/-9 secretion linked to tumour invasion (Molina et al., 2021).
+
+## Inhibitors  
+WZ4003 (IC₅₀ = 20 nM for NUAK1, 100 nM for NUAK2) (Banerjee et al., 2014a).  
+HTH-01-015 (IC₅₀ = 100 nM for NUAK1; >100-fold selectivity over NUAK2; A195T confers ~50-fold resistance) (Banerjee et al., 2014a).  
+BX-795 (IC₅₀ ≈ 5 nM, non-selective) (Faisal et al., 2020).  
+XMD-18-42 and XMD-18-83 (nanomolar potency with Aurora kinase off-targets) (Unknown Authors, 2013b).  
+Emerging pyrido[2,3-d]pyrimidin-7(8H)-one series shows enhanced potency and brain penetration (Rooney et al., 2025).
+
+## Other Comments  
+Gene amplification or over-expression is reported in brain, melanoma, breast, ovarian, cervical, prostate, gastric, lung and nasopharyngeal cancers and correlates with poor prognosis (Molina et al., 2021). Functionally important mutations include Lys84Ala (loss of catalysis), Thr211Ala (prevents LKB1 activation), Ser600Ala (blocks AKT1 activation), Ile400Lys/Leu401Lys (disrupt PP1β interaction) and Ala195Thr (confers inhibitor resistance) (Molina et al., 2021; Banerjee et al., 2014a).
+
+## 9. References  
+Banerjee, S., Buhrlage, S. J., Huang, H.-T., Deng, X., Zhou, W., Wang, J., Traynor, R., Prescott, A. R., Alessi, D. R., & Gray, N. S. (2014a). Characterization of WZ4003 and HTH-01-015 as selective inhibitors of the LKB1-tumour-suppressor-activated NUAK kinases. Biochemical Journal, 457, 215-225. https://doi.org/10.1042/BJ20131152  
+
+Banerjee, S., Zagórska, A., Deak, M., Campbell, D. G., Prescott, A. R., & Alessi, D. R. (2014b). Interplay between polo kinase, LKB1-activated NUAK1 kinase, PP1β–MYPT1 phosphatase complex and the SCF^βTRCP E3 ubiquitin ligase. Biochemical Journal, 461, 233-245. https://doi.org/10.1042/BJ20140408  
+
+Faisal, M., Kim, J. H., Yoo, K. H., Roh, E. J., Hong, S. S., & Lee, S. H. (2020). Development and therapeutic potential of NUAKs inhibitors. Journal of Medicinal Chemistry, 64, 2-25. https://doi.org/10.1021/acs.jmedchem.0c00533  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912-1934. https://doi.org/10.1126/science.1075762  
+
+Minchenko, D., & Minchenko, O. (2012). SNF1/AMP-activated protein kinases: genes, expression and biological role. Protein Kinases. https://doi.org/10.5772/37820  
+
+Molina, E., Hong, L. J., & Chefetz, I. (2021). NUAK kinases: brain–ovary axis. Cells, 10, 2760. https://doi.org/10.3390/cells10102760  
+
+Rooney, T. P. C., Aldred, G. G., Winpenny, D., Scott, H., Willems, H. M. G., Voytyuk, I., Clarke, J. H., Boffey, H. K., Andrews, S. P., & Skidmore, J. (2025). Development of the pyrido[2,3-d]pyrimidin-7(8H)-one scaffold toward potent and selective NUAK1 inhibitors. ACS Medicinal Chemistry Letters, 16, 327-335. https://doi.org/10.1021/acsmedchemlett.4c00579  
+
+Unknown Authors. (2013a). Phosphorylation, ubiquitylation and characterisation of specific inhibitors of AMPK-related kinase NUAK1/ARK5 (pp. 35-39).  
+
+Unknown Authors. (2013b). Phosphorylation, ubiquitylation and characterisation of specific inhibitors of AMPK-related kinase NUAK1/ARK5 (pp. 103-113).  
+
+Unknown Authors. (2017). Investigating the function and regulation of NUAK1 and its role in non-small cell lung cancer (pp. 35-43).  
+
+Vis, R. A. J. van de, Moustakas, A., & van der Heide, L. P. (2021). NUAK1 and NUAK2 fine-tune TGF-β signaling. Cancers, 13, 3377. https://doi.org/10.3390/cancers13133377  
+
+Zagórska, A., Deak, M., Campbell, D. G., Banerjee, S., Hirano, M., Aizawa, S., Prescott, A. R., & Alessi, D. R. (2010). New roles for the LKB1-NUAK pathway in controlling myosin phosphatase complexes and cell adhesion. Science Signaling, 3, ra25. https://doi.org/10.1126/scisignal.2000616

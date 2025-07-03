@@ -1,0 +1,57 @@
+## Phylogeny  
+Member of the tyrosine-kinase-like (TKL) branch, TGF-β/BMP type I receptor subgroup. The kinase domain shares 82–85 % identity with ALK1/3/4/5/6/7, consistent with a recent vertebrate duplication (Rooney & Jones, 2021). Canonical orthologs are documented in Homo sapiens, Mus musculus, Gallus gallus, Xenopus laevis and Danio rerio (Katagiri, Tsukamoto, & Kuratani, 2021). A paralogous zebrafish Acvr1l retains BMP-SMAD signalling and is routinely used for functional analyses (Allen et al., 2023).
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr ⇄ ADP + H⁺ + [protein]-O-Ser/Thr (Anwar & Yokota, 2023).
+
+## Cofactor Requirements  
+Activity requires divalent Mg²⁺ or Mn²⁺ ions, as shown in vitro (Investigation of kinase activation in fibrodysplasia ossificans progressiva, 2014).
+
+## Substrate Specificity  
+Selectively phosphorylates the C-terminal Ser-X-Ser motif of receptor-regulated SMAD1, SMAD5 and SMAD8/9; no broader consensus motif has been defined (Anwar & Yokota, 2023; Sánchez-Duffhues et al., 2020).
+
+## Structure  
+Signal peptide (1–20), extracellular ligand-binding region (21–123), single transmembrane helix (124–146), GS regulatory loop (178–207) and bilobal kinase domain (208–502) form the typical architecture (Katagiri et al., 2021).  
+• Autoinhibited FKBP12-bound structure resolved at 2.7 Å (PDB 3H9R); the unphosphorylated GS loop occludes the catalytic cleft and displaces the αC-helix (Valer et al., 2019).  
+• Inhibitor complexes with BLU-782 analogue (PDB 6T8N) and momelotinib (PDB 7NNS) make a hinge H-bond to His286 and preserve a four-water lattice in the ATP pocket (Rooney & Jones, 2021).  
+• Active-state modelling shows alignment of the HRD (His286-Arg287-Asp288) and DFG (Asp354-Phe355-Gly356) motifs and completion of the hydrophobic spine upon GS-loop phosphorylation (Agnew et al., 2021).  
+• Pathogenic variants R206H (GS loop) and G328V/W/E, R258S (kinase core) cluster at the GS–kinase interface or activation segment, weakening autoinhibition (Anwar & Yokota, 2023; Pacifici & Shore, 2016).
+
+## Regulation  
+Type II receptors BMPR2, ACVR2A and ACVR2B phosphorylate GS-loop residues Thr189/Ser190/Ser192/Ser194 to initiate activation (Anwar & Yokota, 2023; Allen et al., 2023). FKBP1A binds the unphosphorylated GS loop to maintain basal inactivity; the R206H mutation disrupts this interaction, enabling ligand-independent signalling (Katagiri et al., 2021). Subsequent autophosphorylation within the activation segment stabilises the active conformation and enhances SMAD binding (Agnew et al., 2021). Inhibitory SMAD6/7 recruit SMURF1/2 E3 ligases for ubiquitin-mediated down-regulation, although specific lysine targets on the receptor remain unmapped (Sánchez-Duffhues et al., 2020).
+
+## Function  
+Widely expressed, with high levels in bone, cartilage, heart, neural and reproductive tissues (Valer et al., 2019). Upstream ligands BMP2, BMP4, BMP7, BMP9 and Activin A bind heterotetrameric complexes with type II receptors to trigger SMAD1/5/8 phosphorylation (Anwar & Yokota, 2023; Valer et al., 2019). The receptor can compete with activin for type II receptors, attenuating TGF-β/activin signals (Rooney & Jones, 2021). It also activates non-canonical p38 MAPK and PI3K/AKT/mTOR pathways, influencing chondrogenesis and osteogenesis (Valer et al., 2019). Complete knockout in mice is embryonic-lethal owing to failed primitive streak formation, highlighting essential developmental roles (Pacifici & Shore, 2016).
+
+## Inhibitors  
+• Dorsomorphin, IC₅₀ ≈ 109 nM (Rooney & Jones, 2021)  
+• LDN-193189, IC₅₀ ≈ 10 nM; suppresses heterotopic ossification in vivo (Katagiri et al., 2021)  
+• LDN-212854, sub-100 nM potency, > 100-fold selectivity over ALK5 (Development of a selective inhibitor of the BMP type I receptor kinases, n.d.)  
+• Saracatinib, IC₅₀ 6 nM; blocks aberrant SMAD1/5 signalling and prevents heterotopic ossification in FOP models (Williams et al., 2021)  
+• Momelotinib, IC₅₀ ≈ 72 nM; CNS-penetrant for DIPG applications (Rooney & Jones, 2021)
+
+## Other Comments  
+The germ-line R206H mutation (> 95 % of cases) confers neofunctional responsiveness to Activin A and causes fibrodysplasia ossificans progressiva (Anwar & Yokota, 2023; Katagiri et al., 2021). Somatic kinase-domain mutations (G328V/W/E, R258S) drive diffuse intrinsic pontine glioma (Rooney & Jones, 2021). K400E is linked to diffuse idiopathic skeletal hyperostosis, whereas H286N and L343P loss-of-function alleles underlie congenital heart defects (Katagiri et al., 2021).
+
+## 9. References  
+Agnew, C., Ayaz, P., Kashima, R., Loving, H. S., Ghatpande, P., Kung, J. E., … Jura, N. (2021). Structural basis for ALK2/BMPR2 receptor complex signaling through kinase domain oligomerization. Nature Communications. https://doi.org/10.1038/s41467-021-25248-5  
+
+Allen, R. S., Jones, W. D., Hale, M., Warder, B. N., Shore, E. M., & Mullins, M. C. (2023). Reduced GS domain serine/threonine requirements of fibrodysplasia ossificans progressiva mutant type I BMP receptor ACVR1 in the zebrafish. bioRxiv. https://doi.org/10.1101/2022.12.01.518722  
+
+Anwar, S., & Yokota, T. (2023). Navigating the complex landscape of fibrodysplasia ossificans progressiva: From current paradigms to therapeutic frontiers. Genes, 14, 2162. https://doi.org/10.3390/genes14122162  
+
+Development of a selective inhibitor of the BMP type I receptor kinases. (n.d.).  
+
+Investigation of kinase activation in fibrodysplasia ossificans progressiva. (2014).  
+
+Katagiri, T., Tsukamoto, S., & Kuratani, M. (2021). Accumulated knowledge of activin receptor-like kinase 2 (ALK2)/activin A receptor, type 1 (ACVR1) as a target for human disorders. Biomedicines, 9, 736. https://doi.org/10.3390/biomedicines9070736  
+
+Pacifici, M., & Shore, E. (2016). Common mutations in ALK2/ACVR1, a multi-faceted receptor, have roles in distinct pediatric musculoskeletal and neural orphan disorders. Cytokine & Growth Factor Reviews, 27, 93–104. https://doi.org/10.1016/j.cytogfr.2015.12.007  
+
+Rooney, L., & Jones, C. (2021). Recent advances in ALK2 inhibitors. ACS Omega, 6, 20729–20734. https://doi.org/10.1021/acsomega.1c02983  
+
+Sánchez-Duffhues, G., Williams, E., Goumans, M.-J., Heldin, C.-H., & ten Dijke, P. (2020). Bone morphogenetic protein receptors: Structure, function and targeting by selective small molecule kinase inhibitors. Bone, 138, 115472. https://doi.org/10.1016/j.bone.2020.115472  
+
+Valer, J. A., Sánchez-de-Diego, C., Pimenta-Lopes, C., Rosa, J. L., & Ventura, F. (2019). ACVR1 function in health and disease. Cells, 8, 1366. https://doi.org/10.3390/cells8111366  
+
+Williams, E., Bagarova, J., Kerr, G., Xia, D., Place, E., Dey, D., … Bullock, A. (2021). Saracatinib is an efficacious clinical candidate for fibrodysplasia ossificans progressiva. JCI Insight. https://doi.org/10.1101/2020.10.29.360370

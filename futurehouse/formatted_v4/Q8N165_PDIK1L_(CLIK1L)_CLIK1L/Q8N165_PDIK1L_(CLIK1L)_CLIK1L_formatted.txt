@@ -1,0 +1,39 @@
+## Phylogeny  
+Classified in the “Other” group of the human kinome (Sekigawa et al., 2010). Forms part of new kinase family 4 (NKF4) together with the paralogue STK35 (Unknown Authors, 2020). A second paralogue, STK35L3, is present in non-placental vertebrates but lost from placental mammals (Goyal et al., 2009). Orthologous genes occur in mouse, rat, zebrafish, frog and chicken, and a putative ancestral gene is present in the sea-squirt Ciona, indicating conservation throughout chordates (Goyal et al., 2009).  
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr ⇌ ADP + phospho-protein-L-Ser/Thr (generic serine/threonine kinase chemistry; direct catalytic activity for PDIK1L has not yet been demonstrated) (Unknown Authors, 2020).  
+
+## Cofactor Requirements  
+Divalent-metal requirement has not been experimentally examined; no data available (Unknown Authors, 2020).  
+
+## Substrate Specificity  
+No peer-reviewed substrate-profiling study is available and a consensus phosphorylation motif remains unknown (Unknown Authors, 2020). A machine-learning prediction has been proposed but is unpublished (Jha et al., 2025).  
+
+## Structure  
+Single 341-aa polypeptide containing an N-terminal low-complexity segment (~1–60) and a canonical bilobal protein-kinase domain (~65–341) (Unknown Authors, 2020). AlphaFold model AF-Q8N165-F1 shows all hallmark catalytic motifs (Gly-rich loop, VAIK lysine, HRD triad, DFG motif) and a conserved hydrophobic regulatory spine (Unknown Authors, 2020). The activation segment spans Ser194–Thr221; Ser194 (DFG + 2) is surface-exposed. The predicted inward orientation of the C-helix completes the Lys-Glu ion pair typical of active kinases. No crystal or cryo-EM structure has been reported.  
+
+## Regulation  
+• Phosphorylation of Ser194 within the activation loop is inhibitory; S194D mutation abolishes pro-proliferative function in AML cells (Unknown Authors, 2020).  
+• Additional activation-loop sites Ser216, Thr217 and Thr221 are phosphorylated in cells; Ser216 and Ser194 are directly dephosphorylated by the nuclear phosphatase SCP4 with k_cat/K_M values of 12.63 and 45.96 mM⁻¹ min⁻¹, respectively (Unknown Authors, 2020).  
+• PDIK1L forms a stable 1:1 nuclear complex with SCP4 via non-catalytic docking surfaces that position the activation loop for dephosphorylation (Unknown Authors, 2020).  
+• Loss of SCP4 decreases PDIK1L protein stability and triggers Hsp70 chaperone recruitment, suggesting quality-control-linked degradation (Unknown Authors, 2020).  
+
+## Function  
+Predominantly nuclear and chromatin-associated in MOLM-13 acute myeloid leukemia (AML) cells (Unknown Authors, 2020). GFP-fusion experiments show nuclear localization in COS-7 cells (Guo et al., 2003). mRNA is detected in liver, kidney, pancreas, spleen, thymus and prostate, with weaker expression in heart and brain (Guo et al., 2003); protein is also expressed in human endothelial, HeLa and HEK-293 cells (Goyal et al., 2009). Core interactors include SCP4, paralogue kinase STK35 (Unknown Authors, 2020) and the cytoskeletal adaptor PDLIM1 inferred through sequence similarity to CLIK1 (Guo et al., 2003). Either PDIK1L or STK35 is sufficient to rescue proliferation following dual knockout, indicating redundant function in AML cells; simultaneous knockout causes G1/G0 arrest and apoptosis (Unknown Authors, 2020).  
+
+## Other Comments  
+The SCP4–PDIK1L phosphatase-kinase complex represents an AML-biased genetic dependency and potential therapeutic target (Polyanskaya et al., 2022). To date, no disease-linked germline or somatic mutations have been reported (Unknown Authors, 2020).  
+
+## References  
+Goyal, P., Behring, A., Kumar, A., & Siess, W. (2009). Identifying and characterizing a novel protein kinase STK35L1 and deciphering its orthologs and close homologs in vertebrates. PLoS ONE, 4, e6981. https://doi.org/10.1371/journal.pone.0006981  
+
+Guo, L., Ji, C., Gu, S., Ying, K., Cheng, H., Ni, X., Liu, J., Xie, Y., & Mao, Y. (2003). Molecular cloning and characterization of a novel human kinase gene, PDIK1L. Journal of Genetics, 82, 27–32. https://doi.org/10.1007/BF02715878  
+
+Jha, K., Shonai, D., Parekh, A., Uezu, A., Fujiyama, T., Yamamoto, H., Parameswaran, P., Yanagisawa, M., Singh, R., & Soderling, S. H. (2025). Deep learning-coupled proximity proteomics to deconvolve kinase signaling in vivo. bioRxiv. https://doi.org/10.1101/2025.04.27.650849  
+
+Polyanskaya, S. A., Moreno, R., Lu, B., Feng, R., Yao, Y., Irani, S., Klingbeil, O., Yang, Z., Wei, Y., Demerdash, O. E., Benjamin, L. A., Weiss, M., Zhang, Y., & Vakoc, C. (2022). SCP4-STK35/PDIK1L complex is a dual phospho-catalytic signaling dependency in acute myeloid leukemia. Cell Reports, 38, 110233. https://doi.org/10.1016/j.celrep.2021.110233  
+
+Sekigawa, M., Kunoh, T., Wada, S.-I., Mukai, Y., Ohshima, K., Ohta, S., Goshima, N., Sasaki, R., & Mizukami, T. (2010). Comprehensive screening of human genes with inhibitory effects on yeast growth and validation of a yeast cell-based system for screening chemicals. SLAS Discovery, 15, 368–378. https://doi.org/10.1177/1087057110363822  
+
+Unknown Authors. (2020). A nuclear phosphatase-kinase signaling complex that supports acute myeloid leukemia. (Referenced pages 108–149).

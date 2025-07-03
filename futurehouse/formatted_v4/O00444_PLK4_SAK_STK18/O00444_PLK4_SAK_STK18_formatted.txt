@@ -1,0 +1,56 @@
+## Phylogeny  
+Polo-like kinase 4 (PLK4) is a member of the Polo-like kinase family within the CMGC kinase group. It is the most structurally and evolutionarily divergent PLK, having arisen through gene duplication and rapid sub-functionalisation (Garvey et al., 2021; Sillibourne & Bornens, 2010). Orthologues are conserved across animals, fungi and ciliates; functional equivalents include ZYG-1 in Caenorhabditis elegans and Sak in Drosophila (Arquint & Nigg, 2016; Maniswami et al., 2018).
+
+## Reaction Catalyzed  
+ATP + [protein]-L-serine/threonine ⇌ ADP + [protein]-O-phospho-L-serine/threonine (Arquint & Nigg, 2016; Zhao & Wang, 2019).
+
+## Cofactor Requirements  
+Catalysis requires a divalent cation; Mg²⁺ (5–10 mM MgCl₂ in vitro) is routinely used (Johnson et al., 2007; Byrne et al., 2020).
+
+## Substrate Specificity  
+• Peptide‐library screening: preference for Arg/Lys at −3 (37 %), Glu/Asp at −2 (50 %), and Tyr or hydrophobic residues at +1 (47 %) and +2 (89 %) (Johnson et al., 2007).  
+• Cell-based phosphoproteomics (centrinone wash-out): ~69 % of PLK4-dependent sites are Pro-directed ([pS/pT]P); Pro enrichment also occurs at +2, −1 or −2 (Byrne et al., 2020).  
+Specificity is context-dependent: the Pro motif is not supported by short synthetic peptides, suggesting long-range substrate contacts. Physiological sites such as HAND1-T107/S109 do not strictly follow either consensus (Byrne et al., 2020).
+
+## Structure  
+PLK4 contains an N-terminal kinase domain, a central region, and C-terminal Polo-box domains. Two tandem Polo boxes (PB1 + PB2) form a cryptic Polo box (CPB) that mediates dimerisation and centriole targeting, while a separate PB3 contributes to localisation and binds STIL (Arquint & Nigg, 2016; Maniswami et al., 2018). Three conserved PEST motifs promote intrinsic instability (Garvey et al., 2021). This domain arrangement is unique within the PLK family (Lowery et al., 2005; Zhao & Wang, 2019).
+
+## Regulation  
+• Trans-autophosphorylation after CPB-mediated dimerisation activates PLK4 (e.g., Thr170) and generates a phosphodegron (Ser293/Thr297 within residues 282–305) (Byrne et al., 2020).  
+• The SCF–Slimb/β-TrCP E3 ligase recognises the phosphodegron, ubiquitinates PLK4 and targets it for proteasomal destruction, limiting centriole duplication to once per cell cycle (Arquint & Nigg, 2016; Garvey et al., 2021).  
+• Transcriptionally, PLK4 mRNA rises in G1, peaks in mitosis and is repressed by p53 (Garvey et al., 2021; Sillibourne & Bornens, 2010).
+
+## Function  
+• Master kinase for centriole biogenesis. CEP152 and CEP192 recruit PLK4 to centrosomes; activated PLK4 partners with STIL and SAS-6 to initiate procentriole assembly. PLK4 phosphorylates STIL (S428) to promote SAS-6 recruitment (Arquint & Nigg, 2016; Byrne et al., 2020).  
+• Additional substrates: CPAP, CEP135 and NMYC (Byrne et al., 2020; Garvey et al., 2021).  
+• Developmental role: phosphorylation of HAND1 at T107/S109 releases HAND1 from nucleolar sequestration, driving trophoblast giant-cell differentiation (Tanenbaum & Medema, 2007; Developmental regulation of Hand1 via nucleolar sequestration, 2008).  
+• Non-canonical function: interaction with the Arp2/3 complex modulates actin cytoskeleton, affecting cancer cell migration and invasion (Byrne et al., 2020).
+
+## Inhibitors  
+• Centrinone and Centrinone-B – highly selective, reversible PLK4 inhibitors that block centriole duplication (>1000-fold selectivity over Aurora kinases) (Byrne et al., 2020; Maniswami et al., 2018).  
+• CFI-400945 – ATP-competitive inhibitor in Phase I oncology trials (Maniswami et al., 2018).  
+• Additional small molecules: YLZ-F5, YLT-11 (Garvey et al., 2021).
+
+## Other Comments  
+PLK4 overexpression drives centrosome amplification, chromosomal instability and poor prognosis in many epithelial cancers (Arquint & Nigg, 2016; Zhao & Wang, 2019; Garvey et al., 2021). Conversely, loss-of-function mutations cause primary microcephaly, growth failure and retinopathy owing to defective centriole duplication (Byrne et al., 2020).
+
+## 9. References  
+Arquint, C., & Nigg, E. A. (2016). The PLK4–STIL–SAS-6 module at the core of centriole duplication. Biochemical Society Transactions, 44, 1253–1263. https://doi.org/10.1042/BST20160116  
+
+Byrne, D., Clarke, C., Brownridge, P. J., Kalyuzhnyy, A., Perkins, S., Campbell, A. E., Mason, D., Jones, A., Eyers, P., & Eyers, C. (2020). Use of the polo-like kinase 4 (PLK4) inhibitor centrinone to investigate intracellular signalling networks using SILAC-based phosphoproteomics. Biochemical Journal, 477, 2451–2475. https://doi.org/10.1042/BCJ20200309  
+
+Garvey, D. R., Chhabra, G., Ndiaye, M. A., & Ahmad, N. (2021). Role of polo-like kinase 4 (PLK4) in epithelial cancers and recent progress in its small molecule targeting for cancer management. Molecular Cancer Therapeutics, 20, 632–640. https://doi.org/10.1158/1535-7163.MCT-20-0741  
+
+Johnson, E. F., Stewart, K. D., Woods, K. W., Giranda, V. L., & Luo, Y. (2007). Pharmacological and functional comparison of the polo-like kinase family: Insight into inhibitor and substrate specificity. Biochemistry, 46, 9551–9563. https://doi.org/10.1021/bi7008745  
+
+Lowery, D. M., Lim, D., & Yaffe, M. B. (2005). Structure and function of polo-like kinases. Oncogene, 24, 248–259. https://doi.org/10.1038/sj.onc.1208280  
+
+Maniswami, R. R., Prashanth, S., Karanth, A. V., Koushik, S., Govindaraj, H., Mullangi, R., Rajagopal, S., & Jegatheesan, S. K. (2018). PLK4: A link between centriole biogenesis and cancer. Expert Opinion on Therapeutic Targets, 22, 59–73. https://doi.org/10.1080/14728222.2018.1410140  
+
+Sillibourne, J., & Bornens, M. (2010). Polo-like kinase 4: The odd one out of the family. Cell Division, 5, 25. https://doi.org/10.1186/1747-1028-5-25  
+
+Tanenbaum, M. E., & Medema, R. H. (2007). Cell fate in the hand of PLK4. Nature Cell Biology, 9, 1127–1129. https://doi.org/10.1038/ncb1007-1127  
+
+Zhao, Y., & Wang, X. (2019). PLK4: A promising target for cancer therapy. Journal of Cancer Research and Clinical Oncology, 145, 2413–2422. https://doi.org/10.1007/s00432-019-02994-0  
+
+Developmental regulation of Hand1 via nucleolar sequestration. (2008). [Details unavailable], 191–208.

@@ -1,0 +1,66 @@
+## Phylogeny  
+Cyclin-dependent kinase 7 (CDK7) belongs to the CMGC group of protein kinases and sits within the CDK family (Manning et al., 2002). Phylogenetic analyses place CDK7—together with CDK8 and CDK9—in a “CTD-clade” that co-evolved with the C-terminal domain of RNA polymerase II (Guo & Stiller, 2004). CDK7 is distinct from the monomeric yeast CAK Cak1 (Liu & Kipreos, 2000). Orthologues are highly conserved across eukaryotes, for example Kin28 (Saccharomyces cerevisiae), DmCdk7 (Drosophila melanogaster), cdk-7 (Caenorhabditis elegans), and several CdkD isoforms in Arabidopsis thaliana (Guo & Stiller, 2004; Inzé, 2007).  
+
+## Reaction Catalyzed  
+ATP + [protein] ⇌ ADP + [phospho-protein] (Galbraith et al., 2019; Lolli et al., 2004).  
+
+## Cofactor Requirements  
+ATP is required as the phosphate donor (Galbraith et al., 2019; Lolli et al., 2004; Sava et al., 2020).  
+
+## Substrate Specificity  
+CDK7 is a proline-directed Ser/Thr kinase. Optimal sites contain a Ser/Thr phospho-acceptor, Pro at +1, and a basic residue (Lys/Arg) at –3 (Johnson et al., 2023). Confirmed protein substrates include:  
+• RNA polymerase II CTD (Ser5/Ser7 of YSPTSPS) (Galbraith et al., 2019; Song et al., 2024).  
+• T-loops of CDK1 (Thr161), CDK2 (Thr160), CDK4, CDK6, and CDK9 (Sava et al., 2020).  
+• Transcription factors p53, estrogen receptor, androgen receptor, and E2F1 (Sava et al., 2020).  
+• SPT5 C-terminal repeat (Düster et al., 2024).  
+
+## Structure  
+Human CDK7 is a 346-residue kinase with the canonical bilobal fold: an N-terminal β-sheet-rich lobe (res. 13–96) and α-helical C-lobe (res. 97–311). The ATP pocket lies between the lobes (Lolli et al., 2004; Song et al., 2024). A 2.15 Å structure of the active CDK7–Cyclin H–MAT1 complex is available (Düster et al., 2024).  
+Key features  
+• Activation (T)-loop, res. 155–182, phosphorylated at Ser164 and Thr170 (Düster et al., 2024).  
+• αC-helix (res. 56–62, NRTALRE motif); Arg61 forms salt bridges with pThr170 and Cyclin H Glu117 (Düster et al., 2024).  
+• Hydrophobic spine stabilises the active conformation (Düster et al., 2024).  
+• ATP site is unusually hydrophobic (e.g., Val100 in place of Lys89 of CDK2), aiding selective inhibitor design (Lolli et al., 2004).  
+• L14 loop limits dephosphorylation by KAP phosphatase (Lolli et al., 2004).  
+
+## Regulation  
+Activity depends on assembly with Cyclin H and MAT1; MAT1 also anchors the complex to TFIIH (Kumar et al., 2021; Song et al., 2024). Dual phosphorylation of Ser164 (priming) and Thr170 (activation) locks the T-loop in an active conformation (Düster et al., 2024). PKCι can phosphorylate Thr170 (Sava et al., 2020). The p53 tumour suppressor binds Cyclin H and inhibits CDK7 activity (Schneider et al., 1998).  
+
+## Function  
+CDK7 is a nuclear CAK that couples cell-cycle control with transcription (Lolli et al., 2004; Song et al., 2024).  
+Cell-cycle role – as the catalytic core of CAK, CDK7 phosphorylates and activates CDK1/2/4/6, driving G1/S and G2/M transitions (Song et al., 2024; Sava et al., 2020).  
+Transcription role – within TFIIH, CDK7 phosphorylates RNAP II CTD (Ser5/Ser7) to promote initiation, promoter clearance, and pausing; it also activates CDK9 to stimulate elongation (Galbraith et al., 2019; Sava et al., 2020).  
+Interacting partners – Cyclin H, MAT1, p53, RNAP II, multiple CDKs, and transcription factors noted above (Kumar et al., 2021; Schneider et al., 1998; Sava et al., 2020).  
+
+## Inhibitors  
+Covalent inhibitors THZ1 and THZ2 target Cys312. Additional selective agents include SY-1365, YKL-1-116, BS-181, ICEC0942, SY-5609, and LY3405105, several of which are in Phase I/II trials (Galbraith et al., 2019; Sava et al., 2020).  
+
+## Other Comments  
+CDK7 is overexpressed in multiple malignancies (e.g., triple-negative breast, small-cell lung, ovarian, gastric, pancreatic cancers) and high levels correlate with poor prognosis, supporting CDK7 as a therapeutic target (Galbraith et al., 2019; Kumar et al., 2021). Although pathogenic CDK7 mutations are rare, defects in TFIIH subunits can impair CDK7-dependent transcription (Galbraith et al., 2019; Sava et al., 2020).  
+
+## 9. References  
+Chiu, H.-C., Huang, W.-R., Liao, T.-L., Chi, P.-I., Nielsen, B., Liu, J.-H., & Liu, H.-J. (2018). Mechanistic insights into avian reovirus p17-modulated suppression of cell-cycle CDK–cyclin complexes and enhancement of p53 and Cyclin H interaction. Journal of Biological Chemistry, 293, 12542–12562. https://doi.org/10.1074/jbc.RA118.002341  
+
+Düster, R., Anand, K., Binder, S. C., Schmitz, M., Gatterdam, K., Fisher, R. P., & Geyer, M. (2024). Structural basis of CDK7 activation by dual T-loop phosphorylation. Nature Communications. https://doi.org/10.1038/s41467-024-50891-z  
+
+Galbraith, M. D., Bender, H., & Espinosa, J. M. (2019). Therapeutic targeting of transcriptional cyclin-dependent kinases. Transcription, 10, 118–136. https://doi.org/10.1080/21541264.2018.1539615  
+
+Guo, Z., & Stiller, J. (2004). Comparative genomics of cyclin-dependent kinases suggest co-evolution of the RNAP II C-terminal domain and CTD-directed CDKs. BMC Genomics, 5, 69. https://doi.org/10.1186/1471-2164-5-69  
+
+Inzé, D. (2007). Cell Cycle Control and Plant Development. Blackwell Publishing. https://doi.org/10.1002/9780470988923  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Kumar, V., Parate, S., Thakur, G., Lee, G., Ro, H., Kim, Y., … Lee, K. W. (2021). Identification of CDK7 inhibitors from natural sources using pharmacoinformatics and molecular dynamics simulations. Biomedicines. https://doi.org/10.3390/biomedicines9091197  
+
+Liu, J., & Kipreos, E. T. (2000). Evolution of cyclin-dependent kinases (CDKs) and CDK-activating kinases (CAKs): Differential conservation of CAKs in yeast and metazoa. Molecular Biology and Evolution, 17, 1061–1074. https://doi.org/10.1093/oxfordjournals.molbev.a026387  
+
+Lolli, G., Lowe, E. D., Brown, N. R., & Johnson, L. N. (2004). The crystal structure of human CDK7 and its protein recognition properties. Structure, 12, 2067–2079. https://doi.org/10.1016/j.str.2004.08.013  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Sava, G. P., Fan, H., Coombes, R. C., Buluwela, L., & Ali, S. (2020). CDK7 inhibitors as anticancer drugs. Cancer and Metastasis Reviews, 39, 805–823. https://doi.org/10.1007/s10555-020-09885-8  
+
+Schneider, E., Montenarh, M., & Wagner, P. (1998). Regulation of CAK kinase activity by p53. Oncogene, 17, 2733–2741. https://doi.org/10.1038/sj.onc.1202504  
+
+Song, X., Fang, C., Dai, Y., Sun, Y., Qiu, C., Lin, X., & Xu, R. (2024). Cyclin-dependent kinase 7 (CDK7) inhibitors as a novel therapeutic strategy for different molecular types of breast cancer. British Journal of Cancer, 130, 1239–1248. https://doi.org/10.1038/s41416-024-02589-8

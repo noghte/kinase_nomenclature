@@ -1,0 +1,55 @@
+## Phylogeny  
+PAK4 belongs to the p21-activated kinase (PAK) family within the Ste20 group of serine/threonine kinases. Sequence and structural analyses place it in Group II together with PAK5 and PAK6 (Arias-Romero & Chernoff, 2008; Ha et al., 2012; Rudolph et al., 2015; Yu et al., 2022). Group II PAKs share ~50 % identity in their kinase domains with Group I PAKs (PAK1-3) (Rudolph et al., 2015). Orthologues of the PAK family are conserved from amoeba and yeast to C. elegans, Xenopus and humans (Arias-Romero & Chernoff, 2008; Kumar et al., 2017). Phylogenetically, PAK4 is most closely related to PAK5 and PAK6 (Jaffer & Chernoff, 2002).
+
+## Reaction Catalyzed  
+ATP + [protein]-L-serine/threonine ⇌ ADP + [protein]-O-phospho-L-serine/threonine (Arias-Romero & Chernoff, 2008; Ha et al., 2012; Kumar et al., 2017; Rudolph et al., 2015).
+
+## Cofactor Requirements  
+Catalysis requires a divalent metal ion, typically Mg²⁺ or Mn²⁺ (Arias-Romero & Chernoff, 2008; Chetty et al., 2020; Kumar et al., 2017; Lu et al., 2025).
+
+## Substrate Specificity  
+PAK4 preferentially phosphorylates serine over threonine residues within a consensus sequence featuring basic residues at −3/−2 and a hydrophobic residue at +1. A strong requirement for Arg at −2 is mediated by an acidic pocket in the kinase domain (Asp444, Glu507, Ser443). Additional basic residues (Arg/Lys) at +2–+4 enhance recognition, with the β3–αC loop contributing to downstream basic residue binding (Miller et al., 2019). The β-catenin site Ser675 (KKRLSVELT) exemplifies this motif (Miller et al., 2019).
+
+## Structure  
+PAK4 is a 591-residue monomer comprising:  
+• N-terminal CRIB (p21-binding) domain, residues 10-35  
+• An overlapping autoinhibitory pseudosubstrate motif  
+• C-terminal catalytic domain, residues 323-574  
+• Integrin-binding domain (residues 505-530), proline-rich segments and a basic lipid-binding cluster (Ha et al., 2012; Yu et al., 2022; Rudolph et al., 2015).  
+
+Crystal structures (e.g., PDB 2CDZ, 2Q0N, 4FIE-J, 6WLX, 6WLY) and an AlphaFold model reveal catalytic-domain plasticity, a DFG-1 Ser (not Thr as in Group I PAKs) and occasional partial unwinding of the αC helix (Chetty et al., 2020; Ha et al., 2012; Staben et al., 2014). The apparent K_m for ATP is ~4 µM (Staben et al., 2014).
+
+## Regulation  
+Autoinhibition is imposed by the N-terminal pseudosubstrate sequence (Ha et al., 2012). Binding of GTP-loaded CDC42 or RAC1 to the CRIB domain relieves this inhibition, accompanied by conformational changes and altered localisation (Arias-Romero & Chernoff, 2008; Li et al., 2022). A two-step model proposes that GTPase binding primarily affects localisation, while full activation may require a second stimulus, e.g., interaction with an SH3-domain protein such as Src (Ha et al., 2012). Autophosphorylation (e.g., Ser474 in the activation loop) further stabilises the active state (Arias-Romero & Chernoff, 2008; Li et al., 2022). Some studies report that CDC42 binding does not enhance catalytic activity (Jaffer & Chernoff, 2002). Expression of PAK4 can be down-regulated by microRNAs miR-199a/b-3p, miR-433 and miR-224 (Kumar et al., 2017).
+
+## Function  
+PAK4 is ubiquitously expressed, with highest levels in prostate, testis and colon (Li et al., 2022; Jaffer & Chernoff, 2002). Acting downstream of CDC42 and RAC1, it coordinates cytoskeletal organisation, adhesion, migration, survival and proliferation (Arias-Romero & Chernoff, 2008; Kumar et al., 2017). Upstream signals include receptor tyrosine kinases (ErbB2/3, Met) and integrins (Ha et al., 2012; Kumar et al., 2017; Yu et al., 2022). Documented substrates encompass LIMK1, cofilin (via SSH1), GEF-H1, β-catenin, p120-catenin, paxillin, N-WASP, integrin β5, BAD and CRAF (Arias-Romero & Chernoff, 2008; Chetty et al., 2020; Ha et al., 2012). PAK4 influences MAPK, cGMP, Wnt/β-catenin and PI3K/Akt signalling pathways (Arias-Romero & Chernoff, 2008; Li et al., 2022).
+
+## Inhibitors  
+Reported ATP-competitive inhibitors include PF-3758309, GNE-2861, LCH-7749944, GL-1196, LC-0882, CZH226 and KPT-9274 (Chetty et al., 2020; Ha et al., 2012; Lu et al., 2025). Additional agents are cell-permeable TAT-PID peptides and selective Group II benzimidazole derivatives (Arias-Romero & Chernoff, 2008; Rudolph et al., 2015).
+
+## Other Comments  
+PAK4 overexpression or dysregulation is linked to pancreatic, breast, ovarian, liver, gastric and oral squamous cancers and correlates with poor prognosis and metastasis. It promotes anchorage-independent growth, invasion and resistance to chemotherapeutics such as doxorubicin, paclitaxel and cisplatin (Arias-Romero & Chernoff, 2008; Chetty et al., 2020; Kumar et al., 2017). PAK4 knockout in mice is embryonically lethal, underscoring roles in development and vascularisation; PAK family mutations are also associated with neuropsychiatric disorders (Arias-Romero & Chernoff, 2008; Kumar et al., 2017; Rudolph et al., 2015).
+
+## References  
+Arias-Romero, L. E., & Chernoff, J. (2008). A tale of two PAKs. Biology of the Cell, 100, 97-108. https://doi.org/10.1042/BC20070109  
+
+Chetty, A. K., Sexton, J. A., Ha, B., Turk, B., & Boggon, T. (2020). Recognition of physiological phosphorylation sites by p21-activated kinase 4. Journal of Structural Biology, 107553. https://doi.org/10.1016/j.jsb.2020.107553  
+
+Ha, B. H., Davis, M. J., Chen, C., Lou, H. J., Gao, J., Zhang, R., … Boggon, T. J. (2012). Type II p21-activated kinases are regulated by an autoinhibitory pseudosubstrate. Proceedings of the National Academy of Sciences, 109, 16107-16112. https://doi.org/10.1073/pnas.1214447109  
+
+Jaffer, Z. M., & Chernoff, J. (2002). p21-Activated kinases: three more join the PAK. The International Journal of Biochemistry & Cell Biology, 34, 713-717. https://doi.org/10.1016/S1357-2725(01)00158-3  
+
+Kumar, R., Sanawar, R., Li, X., & Li, F. (2017). Structure, biochemistry, and biology of PAK kinases. Gene, 605, 20-31. https://doi.org/10.1016/j.gene.2016.12.014  
+
+Li, Y., Lu, Q., Xie, C.-Y., Yu, Y., & Zhang, A. (2022). Recent advances on development of p21-activated kinase 4 inhibitors as anti-tumor agents. Frontiers in Pharmacology. https://doi.org/10.3389/fphar.2022.956220  
+
+Lu, T., Huo, Z., Zhang, Y., & Li, X. (2025). The role of the p21-activated kinase family in tumor immunity. International Journal of Molecular Sciences. https://doi.org/10.3390/ijms26083885  
+
+Miller, C. J., Lou, H. J., Simpson, C., van de Kooij, B., Ha, B. H., Fisher, O. S., … Turk, B. E. (2019). Comprehensive profiling of the Ste20 kinase family defines features essential for selective substrate targeting and signaling output. PLOS Biology, 17, e2006540. https://doi.org/10.1371/journal.pbio.2006540  
+
+Rudolph, J., Crawford, J. J., Hoeflich, K. P., & Wang, W. (2015). Inhibitors of p21-activated kinases (PAKs). Journal of Medicinal Chemistry, 58, 111-129. https://doi.org/10.1021/jm501613q  
+
+Staben, S. T., Feng, J. A., Lyle, K., Belvin, M., Boggs, J., Burch, J. D., … Hoeflich, K. P. (2014). Back pocket flexibility provides group II p21-activated kinase selectivity for type I 1/2 kinase inhibitors. Journal of Medicinal Chemistry, 57, 1033-1045. https://doi.org/10.1021/jm401768t  
+
+Yu, X.-N., Huang, C., Liu, J., Shi, X., & Li, X. (2022). The significance of PAK4 in signaling and clinicopathology: A review. Open Life Sciences, 17, 586-598. https://doi.org/10.1515/biol-2022-0064

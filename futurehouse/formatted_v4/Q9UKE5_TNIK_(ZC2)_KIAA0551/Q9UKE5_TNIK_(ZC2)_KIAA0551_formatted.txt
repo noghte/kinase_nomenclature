@@ -1,0 +1,63 @@
+## Phylogeny  
+TNIK is a serine/threonine protein kinase of the STE group, STE20 family, and germinal center kinase (GCK) sub-family within the Manning et al. (2002) classification (Fu et al., 1999; Kukimoto-Niino et al., 2022; Read et al., 2019; Wang et al., 2016). Orthologues are reported in mouse, rat, zebrafish, Drosophila (Misshapen), C. elegans (MST-1) and Xenopus (Fu et al., 1999; Nip, 2017). Within the human kinome the kinase domain shares ~90 % identity with the paralogues MINK1, MAP4K4 and NIK (Fu et al., 1999; Nip, 2017).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Fu et al., 1999; Kukimoto-Niino et al., 2022; Read et al., 2019; Wang et al., 2016).
+
+## Cofactor Requirements  
+Catalysis requires ATP and divalent metal ions, typically Mg²⁺ (or Mn²⁺) (Fu et al., 1999; Kukimoto-Niino et al., 2022; Wang et al., 2016).
+
+## Substrate Specificity  
+Positional‐scanning peptide arrays and phosphoproteomics identified three related consensus motifs:  
+• pT/S-L/I/V-D/E-x-x-x-K/R  
+• pT/S-L/I/V-x-K/R  
+• pT/S-L-P/Q-L/I-x-x-K/R  
+Efficient phosphorylation depends on a branched-chain hydrophobic residue (L, I or V) at +1 and a basic residue (R/K) at +3 or +6 relative to the phosphorylation site (Wang et al., 2016). The Johnson et al. (2023) kinome atlas profiled TNIK but the full motif was not detailed in the cited excerpts.
+
+## Structure  
+Human TNIK is a 1 360-residue protein comprising:  
+1. N-terminal kinase domain with conserved K54, DFG and APE motifs. X-ray structures reveal active (closed) and inactive (open) conformations; inhibitors can trap either state (Kukimoto-Niino et al., 2022).  
+2. Central “intermediate” domain that binds adaptor proteins TRAF2 and NCK (Fu et al., 1999; Kukimoto-Niino et al., 2022).  
+3. C-terminal CNH/GCKH β-propeller domain that associates with Rap2 and contributes to JNK activation (Fu et al., 1999; Kukimoto-Niino et al., 2022).  
+
+## Regulation  
+Activity is controlled by:  
+• Autophosphorylation and activation-loop phosphorylation at T181 and T187 (Fu et al., 1999; Wang et al., 2016).  
+• Ubiquitination by the E3 ligase NEDD4, influencing stability and signalling output (Fu et al., 1999; Kukimoto-Niino et al., 2022).  
+• Ligand-induced conformational changes within the kinase domain (Kukimoto-Niino et al., 2022).
+
+## Function  
+TNIK is broadly expressed in human heart, brain, skeletal muscle and placenta, with multiple splice isoforms (Fu et al., 1999). It integrates several signalling pathways:  
+• Activates the c-Jun N-terminal kinase (JNK) pathway (Fu et al., 1999).  
+• Essential activator of canonical Wnt/β-catenin signalling through phosphorylation of TCF4 S154 and interaction with β-catenin (Fu et al., 1999; Kukimoto-Niino et al., 2022).  
+• Contributes to Hippo signalling by phosphorylating LATS1/2 and SMAD1 (Jin et al., 2014; Nip, 2017).  
+Additional substrates include c-Jun and Gelsolin; roles include regulation of cytoskeletal organisation, cell spreading and neuronal morphology (Fu et al., 1999; Wang et al., 2016).
+
+## Inhibitors  
+Small-molecule ATP-competitive inhibitors include:  
+• NCB-0846 (quinazoline) – stabilises the inactive conformation and suppresses Wnt signalling (Kukimoto-Niino et al., 2022; Yamada & Masuda, 2017).  
+• Phenylaminopyridine analogues (e.g., compound 9) – favour the active conformation (Kukimoto-Niino et al., 2022).  
+• ON108600 – multi-kinase inhibitor (Kukimoto-Niino et al., 2022).  
+• Additional chemotypes: aminothiazole KY-05009, naphthyridine, benzoxazolone and phenylpyrrolocarbazole PD407824 (Kukimoto-Niino et al., 2022; Ozkan et al., 2022; Read et al., 2019).
+
+## Other Comments  
+TNIK activity drives tumor growth in colorectal, hepatocellular, neuroendocrine prostate, lung and triple-negative breast cancers, promoting Wnt signalling, cancer stemness and EMT; nuclear phospho-TNIK correlates with poor prognosis in hepatocellular carcinoma (Jin et al., 2014; Kukimoto-Niino et al., 2022; Nip, 2017; Ozkan et al., 2022). Mouse knockout models exhibit cognitive deficits, linking TNIK to neurological function (Nip, 2017).
+
+## References  
+Fu, C., Shen, M., Huang, B. C. B., Lasaga, J., Payan, D., & Luo, Y. (1999). Tnik, a novel member of the germinal center kinase family that activates the c-Jun N-terminal kinase pathway and regulates the cytoskeleton. The Journal of Biological Chemistry, 274, 30729–30737. https://doi.org/10.1074/jbc.274.43.30729  
+
+Jin, J., Jung, H. Y., Wang, Y., Xie, J., Yeom, Y. I., Jang, J.-J., & Lee, K. B. (2014). Nuclear expression of phosphorylated TRAF2- and NCK-interacting kinase in hepatocellular carcinoma is associated with poor prognosis. Pathology – Research and Practice, 210, 621–627. https://doi.org/10.1016/j.prp.2013.10.007  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Kukimoto-Niino, M., Shirouzu, M., & Yamada, T. (2022). Structural insight into TNIK inhibition. International Journal of Molecular Sciences, 23, 13010. https://doi.org/10.3390/ijms232113010  
+
+Nip, K. (2017). TNIK, a novel androgen receptor-repressed gene, is a potential biomarker for neuroendocrine prostate cancer (Doctoral dissertation). https://doi.org/10.14288/1.0362390  
+
+Ozkan, A. D., Haciefendi, A., Ozkan, F., Guney Eskiler, G., Kaleli, S., Cakmak, E. A., & Turna, O. (2022). Determination of the apoptotic effect of Raf2 and Nck-interacting protein kinase inhibitor on metastatic canine mammary gland tumor cells. Online Türk Sağlık Bilimleri Dergisi, 7, 117–122. https://doi.org/10.26453/otjhs.1036628  
+
+Read, J., Collie, I., Nguyen-McCarty, M., Lucaj, C., Robinson, J., Conway, L. C., … Bürli, R. (2019). Tool inhibitors and assays to interrogate the biology of the TRAF2 and NCK-interacting kinase. Bioorganic & Medicinal Chemistry Letters, 29, 1962–1967. https://doi.org/10.1016/j.bmcl.2019.05.032  
+
+Wang, Q., Amato, S., Rubitski, D. M., Hayward, M., Kormos, B. L., Verhoest, P., … Ehlers, M. (2016). Identification of phosphorylation consensus sequences and endogenous neuronal substrates of the psychiatric risk kinase TNIK. The Journal of Pharmacology and Experimental Therapeutics, 356, 410–423. https://doi.org/10.1124/jpet.115.229880  
+
+Yamada, T., & Masuda, M. (2017). Emergence of TNIK inhibitors in cancer therapeutics. Cancer Science, 108, 818–823. https://doi.org/10.1111/cas.13203

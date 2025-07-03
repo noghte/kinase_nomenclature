@@ -1,0 +1,64 @@
+Phylogeny  
+The Tousled-like kinase (TLK) family is conserved across multicellular eukaryotes. Orthologues occur in plants and animals, including Arabidopsis thaliana (TSL), Caenorhabditis elegans (TLK-1), Drosophila melanogaster and the protozoan Trypanosoma brucei, but are absent from the budding yeast Saccharomyces cerevisiae (Han et al., 2003; Li et al., 2007; Sillje et al., 1999). Vertebrates contain two closely related paralogues, TLK1 and TLK2, which share ~84 % sequence identity (Segura-Bayona et al., 2017; Sillje et al., 1999; Unknown Authors, 2020). Manning’s kinome classification places TLKs in the “Other” protein-kinase group, situated between the Polo and AGC families because of sequence divergence in the activation loop (Mortuza et al., 2018).  
+
+Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Mortuza et al., 2018; Segura-Bayona & Stracker, 2019; Unknown Authors, 2020).  
+
+Cofactor Requirements  
+Mg²⁺ is required for catalysis and ATP serves as the phosphate donor (Asquith et al., 2024; Mortuza et al., 2018; Sillje et al., 1999).  
+
+Substrate Specificity  
+Kinome-wide peptide profiling defines an optimal TLK1 motif with Asp at –2 and Phe at +1 relative to the phospho-Ser/Thr residue (Mortuza et al., 2018; Simon et al., 2022).  
+
+Structure  
+TLK1 contains an N-terminal regulatory region with a nuclear-localisation signal and coiled-coil motifs, and a highly conserved C-terminal kinase domain (Segura-Bayona & Stracker, 2019). Coiled-coil-mediated homo-/heterodimerisation is essential for activation (Asquith et al., 2024; Mortuza et al., 2018). The isolated TLK2 kinase-domain crystal structure serves as a high-identity (94 %) model for TLK1 (Mortuza et al., 2018). A splice variant, TLK1B, lacks the first 169–238 N-terminal residues yet retains catalytic activity (Singh et al., 2017).  
+
+Regulation  
+Activity peaks during S phase and depends on dimerisation-driven cis- and trans-autophosphorylation (Asquith et al., 2024; Segura-Bayona & Stracker, 2019; Sillje et al., 1999). DNA double-strand breaks trigger rapid, reversible inhibition via ATM–CHK2 and ATR–CHK1 signalling that phosphorylates TLK1 at Ser695 (Ghosh & De Benedetti, 2023; Groth et al., 2003).  
+
+Function  
+Nuclear TLK1 safeguards genome integrity by coordinating chromatin assembly, DNA replication, transcription and repair (De Benedetti, 2012).  
+
+Upstream kinases: ATM, ATR, CHK1 (Ghosh & De Benedetti, 2023).  
+Principal substrates/interactors:  
+• ASF1a/b – phosphorylation enhances H3/H4 chaperone activity (Segura-Bayona & Stracker, 2019).  
+• RAD9 – phosphorylation at Ser328/Thr355 promotes checkpoint exit (De Benedetti, 2012; Segura-Bayona & Stracker, 2019).  
+• NEK1 – phosphorylation at Thr141 stimulates NEK1 kinase activity (Ghosh & De Benedetti, 2023; Singh et al., 2017).  
+• RAD54 – phosphorylated at Thr41/Thr59/Thr700 during homologous-recombination repair (Ghosh & De Benedetti, 2023).  
+• Histone H3 – Ser10 phosphorylation (Segura-Bayona & Stracker, 2019).  
+Additional partners include 14-3-3 proteins and RIF1 (Segura-Bayona & Stracker, 2019). TLK1 is frequently over-expressed or amplified in cholangiocarcinoma, prostate cancer and glioblastoma, correlating with poor prognosis and radio-resistance (Ghosh & De Benedetti, 2023).  
+
+Inhibitors  
+Small-molecule inhibitors include J54 and the phenothiazine antipsychotic thioridazine (Singh et al., 2017; Ghosh & De Benedetti, 2023).  
+
+Other Comments  
+TLK1 inhibition sensitises tumour cells to DNA-damaging agents and shows synthetic lethality with PARP inhibitors (Ghosh & De Benedetti, 2023). TLK1 depletion triggers replication stress, genomic instability and latent-virus reactivation (Segura-Bayona & Stracker, 2019). Although TLK1 mutations are rare in cancer, mutations in TLK2 are linked to neurodevelopmental disorders (Segura-Bayona & Stracker, 2019).  
+
+References  
+Asquith, C., East, M. P., Laitinen, T., Alamillo-Ferrer, C., Hartikainen, E., Wells, C., … Johnson, G. L. (2024). Discovery and optimization of narrow spectrum inhibitors of Tousled like kinase 2 (TLK2) using quantitative structure-activity relationships. European Journal of Medicinal Chemistry, 271, 116357. https://doi.org/10.1016/j.ejmech.2024.116357  
+
+De Benedetti, A. (2012). The Tousled-like kinases as guardians of genome integrity. ISRN Molecular Biology, 2012, 1-9. https://doi.org/10.5402/2012/627596  
+
+Ghosh, I., & De Benedetti, A. (2023). Untousling the role of Tousled-like kinase 1 in DNA damage repair. International Journal of Molecular Sciences, 24, 13369. https://doi.org/10.3390/ijms241713369  
+
+Groth, A., Lukas, J., Nigg, E. A., Sillje, H., Wernstedt, C., Bartek, J., & Hansen, K. (2003). Human Tousled like kinases are targeted by an ATM- and Chk1-dependent DNA damage checkpoint. EMBO Journal, 22, 1676-1687. https://doi.org/10.1093/emboj/cdg151  
+
+Han, Z., Saam, J. R., Adams, H. P., Mango, S. E., & Schumacher, J. M. (2003). The C. elegans Tousled-like kinase (TLK-1) has an essential role in transcription. Current Biology, 13, 1921-1929. https://doi.org/10.1016/j.cub.2003.10.035  
+
+Li, Z., Gourguechon, S., & Wang, C. C. (2007). Tousled-like kinase in a microbial eukaryote regulates spindle assembly and S-phase progression by interacting with Aurora kinase and chromatin assembly factors. Journal of Cell Science, 120, 3883-3894. https://doi.org/10.1242/jcs.007955  
+
+Mortuza, G. B., Hermida, D., Pedersen, A.-K., Segura-Bayona, S., López-Méndez, B., Redondo, P., … Montoya, G. (2018). Molecular basis of Tousled-like kinase 2 activation. Nature Communications, 9, 444. https://doi.org/10.1038/s41467-018-04941-y  
+
+Segura-Bayona, S., Knobel, P. A., González-Burón, H., Youssef, S. A., Peña-Blanco, A., Coyaud, É., … Stracker, T. H. (2017). Differential requirements for Tousled-like kinases 1 and 2 in mammalian development. Cell Death & Differentiation, 24, 1872-1885. https://doi.org/10.1038/cdd.2017.108  
+
+Segura-Bayona, S., & Stracker, T. H. (2019). The Tousled-like kinases regulate genome and epigenome stability: implications in development and disease. Cellular and Molecular Life Sciences, 76, 3827-3841. https://doi.org/10.1007/s00018-019-03208-z  
+
+Sillje, H., Takahashi, K., Tanaka, K., Van Houwe, G., & Nigg, E. A. (1999). Mammalian homologues of the plant Tousled gene code for cell-cycle-regulated kinases with maximal activities linked to ongoing DNA replication. EMBO Journal, 18, 5691-5702. https://doi.org/10.1093/emboj/18.20.5691  
+
+Simon, B., Lou, H., Huet-Calderwood, C., Shi, G., Boggon, T., Turk, B., & Calderwood, D. (2022). Tousled-like kinase 2 targets ASF1 histone chaperones through client mimicry. Nature Communications, 13, 1053. https://doi.org/10.1038/s41467-022-28427-0  
+
+Singh, V., Connelly, Z. M., Shen, X., & De Benedetti, A. (2017). Identification of the proteome complement of human TLK1 reveals it binds and phosphorylates NEK1 regulating its activity. Cell Cycle, 16, 915-926. https://doi.org/10.1080/15384101.2017.1314421  
+
+Unknown Authors. (2014). The interaction between Rad9 and Tousled-like kinase 1 in the cell cycle and the DNA damage response. [Details not provided].  
+
+Unknown Authors. (2020). Molecular basis and functional diversity of TOUSLED kinase. [Details not provided].

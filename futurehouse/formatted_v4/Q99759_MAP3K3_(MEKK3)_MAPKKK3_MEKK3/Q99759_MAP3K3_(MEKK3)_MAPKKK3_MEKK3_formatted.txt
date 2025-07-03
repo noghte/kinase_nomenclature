@@ -1,0 +1,38 @@
+## Phylogeny  
+Located in the MEKK/STE11 subgroup of the MAP3K family within the CMGC branch of the human kinome. The catalytic domain shares ~94 % sequence identity with its paralog MEKK2, implying a recent gene-duplication event in vertebrates. Orthologs are present in Mus musculus (Map3k3); mouse knockout is embryonic-lethal with severe vascular defects, underscoring functional conservation. Evolutionary ancestry traces back to the yeast MAP3K Ste11, indicating conservation of the three-tier MAPK module across eukaryotes (Unknown Authors, 2011, pp. 15–19, 36–40, 167–171).
+
+## Reaction Catalyzed  
+ATP + [MAP2K]-OH ⇌ ADP + [MAP2K]-O-phosphate (Ser/Thr) (Unknown Authors, 2011, pp. 15–19).
+
+## Cofactor Requirements  
+Mg²⁺ is required for activity (Unknown Authors, 2011, pp. 167–171).
+
+## Substrate Specificity  
+Directly phosphorylates MEK5, MKK3/MKK6 and MKK7, placing the kinase upstream of ERK5, p38 and JNK MAPK cascades. Recognises the activation-loop motif Ser-X-X-X-Ser/Thr on MAP2Ks. Phosphoproteomic profiling assigns the enzyme to serine/threonine kinases that prefer AGC-like sequence contexts (Guan et al., 2023; Unknown Authors, 2011, pp. 15–19, 36–40).
+
+## Structure  
+Comprises an N-terminal PB1 domain that mediates dimerisation and MEK5 docking, and a C-terminal ~70 kDa catalytic domain containing the HRD motif. Ser526 in the activation loop undergoes trans-autophosphorylation following kinase-domain dimerisation. Thr294 resides in an exposed loop; its phosphorylation generates a high-affinity 14-3-3 docking site. An AlphaFold model is available, but no crystal structure has yet been reported (Unknown Authors, 2011, pp. 94–99, 112–115, 167–171, 205–207).
+
+## Regulation  
+• Autophosphorylation of Ser526 is obligatory for catalytic competence.  
+• Phosphorylation of Thr294 creates a 14-3-3 binding motif that sequesters the kinase; dephosphorylation upon TNF-α or LPS stimulation releases the enzyme for signalling.  
+• Ser166 and Ser337 are phosphorylated by AGC-family kinases such as SGK.  
+• Lysophosphatidic acid induces phosphorylation at Thr516 and Ser520 to enhance IKKβ/NF-κB activation; PP2A subsequently dephosphorylates these sites.  
+• Ubiquitination by the E3 ligase NEDD4L attenuates inflammatory signalling.  
+• Kinase-domain dimerisation is required for trans-autophosphorylation and full activation (Guan et al., 2023; Unknown Authors, 2011, pp. 40–44, 94–99, 139–144, 179–182, 205–207; Unknown Authors, 2024, pp. 23–28).
+
+## Function  
+Ubiquitously expressed, with higher levels in immune-related tissues. Upstream stimuli include TNF-α, IL-1, LPS, lysophosphatidic acid, cellular stress and small GTPases/MAP4Ks. Adaptor proteins TRAF6, TRAF7 and RIP recruit the kinase to receptor-proximal complexes downstream of Toll-like and TNF receptors. Downstream, it phosphorylates MEK5, MKK7 and MKK3/6 to activate ERK5, JNK and p38 MAPKs, and directly engages the IKK complex to drive NF-κB-dependent transcription (e.g., IL-6). It contributes to antiviral immunity, apoptosis regulation and is essential for embryonic vascular development (Guan et al., 2023; Unknown Authors, 2011, pp. 28–40, 139–144; Unknown Authors, 2024, pp. 23–28).
+
+## Inhibitors  
+Small-molecule scaffolds that occupy the MEKK2/3 ATP-binding pocket have been reported in SMYD3 inhibitor studies, although detailed biochemical parameters were not provided (Unknown Authors, 2024, pp. 106–109).
+
+## Other Comments  
+Overexpression is observed in 30–40 % of breast and ovarian cancers and is also reported in cervical, lung, kidney and esophageal cancers, where elevated levels correlate with enhanced NF-κB activity, survivin and STAT3 expression (Unknown Authors, 2011, pp. 139–144; Unknown Authors, 2024, pp. 23–28).
+
+## 9. References  
+Guan, J., Fan, Y., Wang, S., & Zhou, F. (2023). Functions of MAP3Ks in antiviral immunity. Immunologic Research, 71, 814–832. https://doi.org/10.1007/s12026-023-09401-4  
+
+Unknown Authors. (2011). Phosphorylation of MEKK3 at Threonine 294 and MEKK2 at Threonine 283 Promotes 14-3-3 Association and Mediates Nuclear Factor κB and c-Jun N… (pp. 15–19, 28–44, 94–115, 139–171, 179–207).  
+
+Unknown Authors. (2024). Role of MEKK2 Phosphorylation at Threonine 263 on SMYD3-Mediated Methylation of Lysine 260 (pp. 23–28, 106–109).

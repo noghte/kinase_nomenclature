@@ -1,0 +1,57 @@
+## Phylogeny  
+CDK17 belongs to the CMGC group of protein kinases and, within that group, to the cyclin-dependent kinase (CDK) family.  It is one of three members (CDK16, CDK17, CDK18) of the PCTAIRE subfamily of “atypical” CDKs, a lineage that is distinct from the canonical cell-cycle and transcriptional CDKs (Karimbayli et al., 2024; Mikolcevic et al., 2012).  PCTAIRE kinases share ~58 % sequence identity with CDK5 and 42–46 % with the PFTAIRE kinases CDK14 and CDK15 (Karimbayli et al., 2024).  The subgroup is highly conserved across eumetazoans (Mikolcevic et al., 2012).  
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Unknown Authors, 2021; Amrhein et al., 2022).  
+
+## Cofactor Requirements  
+Catalytic activity requires a divalent cation, most often Mg²⁺ (also active with Mn²⁺) to coordinate ATP (Amrhein et al., 2022; Dixon-Clarke et al., 2017; Karimbayli et al., 2024).  
+
+## Substrate Specificity  
+A consensus phosphorylation motif has not yet been defined; CDK17 was not represented in the kinome-wide peptide-array study of Johnson et al. (2023).  Consequently, its sequence preferences remain uncharacterised (Karimbayli et al., 2024; Mikolcevic et al., 2012; Unknown Authors, 2021).  
+
+## Structure  
+The protein (~500 amino acids) contains the conserved serine/threonine kinase catalytic core flanked by extended N- and C-terminal regions important for regulation (Mikolcevic et al., 2012; Karimbayli et al., 2024).  
+• Catalytic domain: retains the canonical HRD and DFG motifs and features the distinctive PCTAIRE sequence in the cyclin-binding αC–β4 loop (Karimbayli et al., 2024).  
+• N-terminus: houses a conserved PKA recognition motif (R-R-X-S) (Unknown Authors, 2022).  
+• 3-D data: no full-length experimental structure is available; AlphaFold models have been generated (Karimbayli et al., 2024; Unknown Authors, 2021).  The only crystallographic information for the subfamily is a truncated CDK16 structure (PDB 5G6V) lacking the terminal extensions (Unknown Authors, 2022).  
+
+## Regulation  
+Activity is modulated by phosphorylation and association with cyclin partners (Karimbayli et al., 2024).  The activation segment contains a serine (rather than the canonical threonine) at the site equivalent to the CDK T-loop phospho-acceptor (Unknown Authors, 2022), implying a non-canonical control mechanism.  Cyclin Y is a proposed activating partner, suggested by work on Drosophila orthologues and on CDK16 (Unknown Authors, 2021; Karimbayli et al., 2024).  Additional regulatory features include:  
+• Potential PKA phosphorylation at the R-R-X-S motif (Unknown Authors, 2022; Unknown Authors, 2021).  
+• Binding to Cables and 14-3-3 proteins, which may affect enzymatic activity and localisation (Karimbayli et al., 2024; Unknown Authors, 2021).  
+• Kinase activity of brain-derived CDK17 diminishes under high-salt conditions (Karimbayli et al., 2024).  
+
+## Function  
+Expression and localisation: highly enriched in terminally differentiated neurons of the hippocampus and olfactory bulb; predominantly cytoplasmic/membrane-associated, with mitochondrial localisation reported in COS-7 cells (Karimbayli et al., 2024; Unknown Authors, 2021).  
+
+Interacting partners and signalling roles: interacts with Cables, EGFR, the endocytic adaptor EPS15, AP2A2 and AP2B1 (Karimbayli et al., 2024; Unknown Authors, 2022).  Under cisplatin-induced stress in epithelial ovarian cancer cells, CDK17 phosphorylates EGFR, promoting its non-degradative endocytosis and recycling and thereby sustaining EGFR signalling (Unknown Authors, 2022).  
+
+Broader biological roles: associated with neuronal differentiation, induction of epithelial-mesenchymal transition and suppression of the cell-cycle gene programme (Chen et al., 2022; Karimbayli et al., 2024).  Genome-wide studies link CDK17 activity to glycerophospholipid metabolism pathways (Karimbayli et al., 2024).  
+
+## Inhibitors  
+No highly selective tool compound has been established.  3-amino-1H-pyrazole derivatives inhibit members of the PCTAIRE family (Amrhein et al., 2022), and several small molecules in the Pharos database bind CDK17 with K_d ≈ 13 nM (Axtman et al., 2019).  
+
+## Other Comments  
+CDK17 is implicated in neurological disease and cancer.  Its expression is elevated in Alzheimer’s disease models and patient tissue, where it may enhance tau phosphorylation and neurodegeneration (Amrhein et al., 2022; Karimbayli et al., 2024; Unknown Authors, 2021).  It is over-expressed in ~45 % of tumours, most prominently in low-grade glioma; paradoxically, lower CDK17 levels correlate with poorer prognosis in glioma (Karimbayli et al., 2024; Axtman et al., 2019).  Recurrent missense mutations at Arg474 and Arg504 occur, and CDK17 mutations are enriched in uterine endometrial carcinoma (Karimbayli et al., 2024).  
+
+## 9. References  
+Amrhein, J. A., Berger, L. M., Tjaden, A., Krämer, A., Elson, L., Tolvanen, T., … Hanke, T. (2022). Discovery of 3-amino-1H-pyrazole-based kinase inhibitors to illuminate the understudied PCTAIRE family. International Journal of Molecular Sciences, 23, 14834. https://doi.org/10.3390/ijms232314834  
+
+Axtman, A., Drewry, D., & Wells, C. (2019). CDK16: the pick of the understudied PCTAIRE kinases. Nature Reviews Drug Discovery, 18, 489. https://doi.org/10.1038/d41573-019-00076-x  
+
+Chen, E., Bian, S., Ni, W.-K., Wang, P., & Wang, F. (2022). Integrative multi-omics analysis reveals the landscape of cyclin-dependent kinase (CDK) family genes in pan-cancer. Preprint. https://doi.org/10.21203/rs.3.rs-24985/v1  
+
+Dixon-Clarke, S. E., Shehata, S. N., Krojer, T., Sharpe, T. D., von Delft, F., Sakamoto, K., & Bullock, A. N. (2017). Structure and inhibitor specificity of the PCTAIRE-family kinase CDK16. Biochemical Journal, 474, 699–713. https://doi.org/10.1042/BCJ20160941  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Karimbayli, J., Pellarin, I., Belletti, B., & Baldassarre, G. (2024). Insights into the structural and functional activities of forgotten kinases: PCTAIREs CDKs. Molecular Cancer, 23, Article 2043. https://doi.org/10.1186/s12943-024-02043-6  
+
+Malumbres, M., Harlow, E., Hunt, T., Hunter, T., Lahti, J. M., Manning, G., … Wolgemuth, D. J. (2009). Cyclin-dependent kinases: A family portrait. Nature Cell Biology, 11, 1275–1276. https://doi.org/10.1038/ncb1109-1275  
+
+Mikolcevic, P., Rainer, J., & Geley, S. (2012). Orphan kinases turn eccentric. Cell Cycle, 11, 3758–3768. https://doi.org/10.4161/cc.21592  
+
+Unknown Authors. (2021). Caracterización de CDK14-18 como dianas terapéuticas en carcinoma hepatocelular [Doctoral dissertation].  
+
+Unknown Authors. (2022). Dissecting the role of CDK17 in epithelial ovarian cancer [Unpublished manuscript].

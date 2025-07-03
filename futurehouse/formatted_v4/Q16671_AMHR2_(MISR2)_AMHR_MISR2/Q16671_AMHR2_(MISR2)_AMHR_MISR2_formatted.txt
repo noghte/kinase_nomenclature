@@ -1,0 +1,49 @@
+Phylogeny  
+AMHR2 is conserved across vertebrates; orthologues are present in mouse, rat, rabbit, chicken, zebrafish and Xenopus (Josso & di Clemente, 2003; Howard et al., 2022). Within the serine/threonine kinase receptor type-II (STKR-II) family it forms a distinct, low-identity (< 30 %) clade relative to ACVR2A/B, BMPR2 and TGFβR2 (Rak et al., 2019). Sequence identity to its closest paralogues is ~20 %, and AMHR2 is the only dedicated type-II receptor for a single TGF-β ligand (AMH) (Hart et al., 2021; Unknown Authors, 2022, pp. 80-83). Kinome analyses classify it in the STKR-II subgroup of the human kinome (Cate, 2022).
+
+Reaction Catalyzed  
+ATP + [type I receptor]-Ser/Thr ⇌ ADP + [type I receptor]-O-phospho-Ser/Thr (Josso & di Clemente, 2003).
+
+Cofactor Requirements  
+Mg²⁺, coordinated by the canonical HRD and DFG motifs of the kinase domain (Howard et al., 2022; Cate, 2022).
+
+Substrate Specificity  
+Direct substrates are the BMP-type I receptors ALK2/ACVR1, ALK3/BMPR1A and ALK6/BMPR1B; phosphorylation of their GS loops initiates Smad1/5/9 signalling (Unknown Authors, 2022, pp. 43-46; Cate, 2022). No linear consensus phosphorylation motif has yet been defined and the Johnson-2023 kinase atlas contains no entry for AMHR2 (Unknown Authors, 2022, pp. 43-46).
+
+Structure  
+Signal peptide → 127-residue extracellular domain (three-finger toxin fold with five disulfides) → single transmembrane helix → ~403-residue intracellular serine/threonine kinase domain (Rak et al., 2019).  
+Extracellular complex: 2.6 Å crystal structure of AMH-bound AMHR2 ECD (PDB 7L0J/7L0I) shows a 933 Å² interface, a finger-1 loop unique to AMHR2 and a ~7.5 Å receptor shift relative to Activin/BMP complexes (Hart et al., 2021; Unknown Authors, 2022, pp. 73-76, 80-83). Key contacts include Lys534_AMH with Asp81/Glu84_AMHR2 and receptor residues Phe62, Met76, Asp81, Leu106, Thr108; mutations at these sites weaken signalling (Unknown Authors, 2022, pp. 69-73; Hart et al., 2020, pp. 6-7). Disulfide connectivity links the finger-2/3 loop to finger-2, contributing to ligand selectivity (Unknown Authors, 2022, pp. 80-83).  
+Kinase domain: no experimental structure; sequence and AlphaFold models predict the canonical bilobal STKR-II fold with VAIK, HRD, DFG catalytic motifs, C-helix, GS box and activation loop (Cate, 2022; Howard et al., 2022).
+
+Regulation  
+• Two N-glycosylation sites in the ECD support correct folding (Josso & di Clemente, 2003).  
+• Proteolytic removal of most of the ECD yields inactive oligomers retained in the ER (Rak et al., 2019).  
+• Alternative splicing produces at least three C-terminally divergent isoforms (Rak et al., 2019).  
+• Ligand activation requires a heterotetramer with ALK2/3/6; AMHR2 phosphorylates the type I receptor GS loop, which then autophosphorylates and recruits Smad substrates (Cate, 2022).  
+• SMURF E3 ubiquitin ligases ubiquitinate type-II receptors, limiting signal amplitude (Howard et al., 2022).  
+• Inhibitory Smads 6/7 dampen downstream signalling (Josso & di Clemente, 2003).
+
+Function  
+Expression is largely confined to reproductive tissues—fetal Sertoli cells, the mesenchyme surrounding the Müllerian duct, and ovarian granulosa cells (Unknown Authors, 2022, pp. 18-22; Josso & di Clemente, 2003).  
+• Male embryos: mediates AMH-driven Müllerian duct regression (Hart et al., 2021).  
+• Female ovary: restricts primordial follicle recruitment and modulates folliculogenesis (Unknown Authors, 2022, pp. 69-73).  
+• Canonical pathway: AMH → AMHR2 + ALK2/3/6 → Smad1/5/9 phosphorylation → gene transcription (Unknown Authors, 2022, pp. 43-46).  
+• Non-canonical pathway: AMHR2 can activate NF-κB independently of Smads in some contexts (Rak et al., 2019).
+
+Other Comments  
+Biallelic loss-of-function variants cause persistent Müllerian duct syndrome; a recurrent 27-bp exon-10 deletion and missense mutations (e.g., Met76, Asp81) abolish signalling (Rak et al., 2019; Hart et al., 2020, pp. 9-10). Conservative substitutions (M76V, D81E) retain in-vitro activity yet are found in PMDS patients, implying misfolding or trafficking defects (Unknown Authors, 2022, pp. 46-50). Reduced AMHR2 activity has also been linked to polycystic ovary syndrome (Unknown Authors, 2022, pp. 69-73).
+
+9. References  
+Cate, R. L. (2022). Anti-Müllerian hormone signal transduction involved in Müllerian duct regression. Frontiers in Endocrinology. https://doi.org/10.3389/fendo.2022.905324  
+
+Hart, K. N., Stocker, W. A., Nagykery, N. G., Walton, K. L., Harrison, C. A., Donahoe, P. K., Pépin, D., & Thompson, T. B. (2021). Structure of AMH bound to AMHR2 provides insight into a unique signaling pair in the TGF-β family. Proceedings of the National Academy of Sciences. https://doi.org/10.1073/pnas.2104809118  
+
+Hart, K. N., Pépin, D., Czepnik, M., Donahoe, P. K., & Thompson, T. B. (2020). Mutational analysis of the putative anti-Müllerian hormone (AMH) binding interface on its type II receptor, AMHR2. Endocrinology. https://doi.org/10.1210/endocr/bqaa066  
+
+Howard, J. A., Hart, K. N., & Thompson, T. B. (2022). Molecular mechanisms of AMH signaling. Frontiers in Endocrinology. https://doi.org/10.3389/fendo.2022.927824  
+
+Josso, N., & di Clemente, N. (2003). Transduction pathway of anti-Müllerian hormone, a sex-specific member of the TGF-β family. Trends in Endocrinology & Metabolism, 14, 91–97. https://doi.org/10.1016/S1043-2760(03)00005-5  
+
+Rak, A. Y., Trofimov, A. V., & Ischenko, A. M. (2019). Anti-Müllerian hormone receptor type II as a potential target for antineoplastic therapy. Biochemistry (Moscow) Supplement Series B: Biomedical Chemistry, 13, 202–213. https://doi.org/10.1134/S1990750819030053  
+
+Unknown Authors. (2022). Structural and functional studies of anti-Müllerian hormone (AMH) and its receptor. [Multiple page ranges cited: 18-22, 43-46, 46-50, 69-73, 73-76, 80-83].

@@ -1,0 +1,59 @@
+## Phylogeny  
+Receptor-interacting serine/threonine-protein kinase 3 (RIPK3) is one of seven members of the RIP kinase family and belongs to the Tyrosine Kinase-Like (TKL) clade of the human kinome (Martens et al., 2020). Its N-terminal kinase domain shares ~30 % identity (60 % similarity) with RIPK1 and RIPK2 and shows structural relatedness to mixed-lineage kinases and BRAF (Raju et al., 2018; Shlomovitz et al., 2017). Orthologues are conserved in mammals, including human (518 aa) and mouse (486 aa) proteins (Li et al., 2012; Shlomovitz et al., 2017).
+
+## Reaction Catalyzed  
+ATP + [protein]-L-Ser/Thr ⇌ ADP + [protein]-L-Ser/Thr-phosphate (Li et al., 2012).
+
+## Cofactor Requirements  
+Catalysis requires ATP and a divalent cation coordinated by the DFG motif in the activation loop (Raju et al., 2018).
+
+## Substrate Specificity  
+RIPK3 phosphorylates serine or threonine residues within downstream effectors; its consensus motif resembles that recognized by mixed-lineage kinase family members (Li et al., 2012; Raju et al., 2018).
+
+## Structure  
+• Modular organisation: N-terminal kinase domain and C-terminal RIP homotypic interaction motif (RHIM); no death domain or CARD (Shlomovitz et al., 2017).  
+• Key catalytic features: activation loop with DFG motif, hydrophobic C- and R-spines, and an essential Lys50 for ATP binding (Li et al., 2012; Shlomovitz et al., 2017).  
+• Dimerisation: kinase domains form homodimers via the αC-helix/β4-strand interface, reminiscent of RAF kinases (Raju et al., 2018).  
+• Structural models: human RIPK3 modelled on the mouse RIPK3-MLKL complex (PDB 4M69) (Choi et al., 2018).  
+• RHIM facilitates assembly of higher-order amyloid-like “necrosome” complexes (Li et al., 2012).
+
+## Regulation  
+• Activation: kinase-domain dimerisation followed by cis-autophosphorylation; Ser227 (human) is critical (Raju et al., 2018; Shlomovitz et al., 2017).  
+• Additional phosphorylation sites in mouse (Ser199, Ser204, Thr231, Ser232) control MLKL recruitment (Shlomovitz et al., 2017).  
+• Upstream kinases: RIPK1 and, in cardiomyocytes, CaMKII (Shlomovitz et al., 2017).  
+• Ubiquitination: the E3 ligase Peli1 mediates K48-linked ubiquitination and proteasomal degradation of active RIPK3 (Choi et al., 2018).  
+• Proteolysis: the caspase-8–FLIPL complex cleaves and inhibits RIPK3 (Li et al., 2012).  
+• Allosteric control: heterodimerisation with a kinase-inactive mutant can enhance wild-type activity (Raju et al., 2018).
+
+## Function  
+RIPK3 is expressed in immune and epithelial cells and in experimental lines such as myeloid cells, A375 melanoma, HEK293T, HeLa and HT-29 (Geserick et al., 2015; Shlomovitz et al., 2017).  
+• Upstream signals: death receptor TNFR1, TLR3/4, interferon receptors and the sensor DAI/ZBP1 converge on RIPK3, often via RIPK1 or TRIF (Li et al., 2012; Shlomovitz et al., 2017).  
+• Core complex: RHIM-mediated interaction with RIPK1 forms the necrosome that drives necroptosis (Li et al., 2012).  
+• Main substrate: MLKL is phosphorylated on Thr357/Ser358, triggering oligomerisation, membrane translocation and lytic cell death (Shlomovitz et al., 2017).  
+• Additional roles:  
+  – Apoptosis via RIPK1–FADD–caspase-8 complex formation (Shlomovitz et al., 2017).  
+  – Pyroptosis through activation of the NLRP3 inflammasome (Shlomovitz et al., 2017).
+
+## Inhibitors  
+Small-molecule ATP-competitive inhibitors include GSK'872 and dabrafenib; the viral protein vIRA from murine cytomegalovirus also blocks RIPK3-mediated necrosis (Li et al., 2012; Mandal et al., 2014; Raju et al., 2018; Shlomovitz et al., 2017).
+
+## Other Comments  
+Dysregulated RIPK3 activity is linked to inflammatory diseases, viral infection, atherosclerosis, neurodegeneration and tissue injury; elevated serum RIPK3 may serve as a myocardial infarction biomarker (Li et al., 2012; Shlomovitz et al., 2017).  
+Documented loss- or gain-of-function mutants include D161N (kinase-dead, embryonic lethality), K50A/K51A (abolish activity) and interface mutants R69H, H156G/R (impair necroptosis) (Raju et al., 2018; Shlomovitz et al., 2017).
+
+## References  
+Choi, S.-W., Park, H.-H., Kim, S., Chung, J., Noh, H.-J., Kim, S. K., … Kim, Y.-S. (2018). Peli1 selectively targets kinase-active RIP3 for ubiquitylation-dependent proteasomal degradation. Molecular Cell, 70(5), 920–935.e7. https://doi.org/10.1016/j.molcel.2018.05.016  
+
+de Almagro, M., Goncharov, T., Izrael-Tomasevic, A., Duttler, S., Kist, M., Varfolomeev, E., … Vučić, D. (2017). Coordinated ubiquitination and phosphorylation of RIP1 regulates necroptotic cell death. Cell Death & Differentiation, 24, 26–37. https://doi.org/10.1038/cdd.2016.78  
+
+Geserick, P., Wang, J., Schilling, R., Horn, S., Harris, P., Bertin, J., … Leverkus, M. (2015). Absence of RIPK3 predicts necroptosis resistance in malignant melanoma. Cell Death & Disease, 6, e1886. https://doi.org/10.1038/cddis.2015.240  
+
+Li, J., McQuade, T., Siemer, A. B., Napetschnig, J., Moriwaki, K., Hsiao, Y., … Wu, H. (2012). The RIP1/RIP3 necrosome forms a functional amyloid signaling complex required for programmed necrosis. Cell, 150, 339–350. https://doi.org/10.1016/j.cell.2012.06.019  
+
+Mandal, P., Berger, S. B., Pillay, S., Moriwaki, K., Huang, C., Guo, H., … Kaiser, W. J. (2014). RIP3 induces apoptosis independent of pronecrotic kinase activity. Molecular Cell, 56(4), 481–495. https://doi.org/10.1016/j.molcel.2014.10.021  
+
+Martens, S., Hofmans, S., Declercq, W., Augustyns, K., & Vandenabeele, P. (2020). Inhibitors targeting RIPK1/RIPK3: Old and new drugs. Trends in Pharmacological Sciences, 41(3), 209–224. https://doi.org/10.1016/j.tips.2020.01.002  
+
+Raju, S., Whalen, D. M., Mengistu, M., Swanson, C., Quinn, J. G., Taylor, S. S., … Shaw, A. S. (2018). Kinase domain dimerization drives RIPK3-dependent necroptosis. Science Signaling, 11(546), eaar2188. https://doi.org/10.1126/scisignal.aar2188  
+
+Shlomovitz, I., Zargrian, S., & Gerlic, M. (2017). Mechanisms of RIPK3-induced inflammation. Immunology and Cell Biology, 95(3), 248–257. https://doi.org/10.1038/icb.2016.124

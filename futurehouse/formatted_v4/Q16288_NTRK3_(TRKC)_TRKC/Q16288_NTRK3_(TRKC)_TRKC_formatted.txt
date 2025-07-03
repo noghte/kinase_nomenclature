@@ -1,0 +1,58 @@
+## Phylogeny  
+Human NTRK3 (TrkC) belongs to the tyrosine-kinase (TK) group, receptor tyrosine-kinase (RTK) family, NTRK subfamily (Bertrand, 2017). Its kinase domain shares 71.9–78.3 % sequence identity with paralogues TrkA and TrkB, TrkB being the closest homologue (Bertrand, 2017). Trk receptors are more closely related to the insulin-receptor branch than to other RTK clades (Bertrand, 2017). Orthologues are present in mouse, where gene deletion causes proprioceptive and cardiac defects (Barbacid, 1994), and a Trk-like receptor has been identified in the snail Lymnaea stagnalis, indicating conservation from invertebrates to vertebrates (Wiesmann & de Vos, 2001).
+
+## Reaction Catalyzed  
+Protein-L-tyrosine + ATP ⇌ Protein-L-tyrosine-phosphate + ADP (Wai, 1999).
+
+## Cofactor Requirements  
+Catalysis requires ATP and divalent metal ions (Mg²⁺ or Mn²⁺), typical of RTKs (Bertrand, 2017).
+
+## Substrate Specificity  
+No universal consensus motif has been defined; specificity is inferred from autophosphorylation sites (Wai, 1999). Verified autophosphorylation residues are Tyr516 (juxtamembrane), Tyr705/Tyr709/Tyr710 (activation loop) and Tyr820 (C-lobe). Phosphorylation of activation-loop tyrosines is essential for full activity (Cunningham et al., 1997).
+
+## Structure  
+TrkC comprises:  
+• N-terminal extracellular region with a cysteine-rich segment, leucine-rich repeat domain 2, and two Ig-like domains 4 and 5 that bind neurotrophin-3 (Wiesmann & de Vos, 2001).  
+• Single transmembrane helix and a juxtamembrane KFG motif (Barbacid, 1994).  
+• Intracellular kinase domain containing a variable kinase-insert (Bertrand, 2017).
+
+X-ray structures of the kinase domain have been solved with inhibitors (e.g., PDB 3V5Q, 6KZC) in an inactive DFG-out conformation; no apo structure is available (Bertrand et al., 2012; Somwar et al., 2020). The gatekeeper phenylalanine stacks against the DFG Phe, blocking the hydrophobic back pocket (Bertrand et al., 2012). The inactive structures show outward rotation of the αC-helix and disruption of the Lys-Glu salt bridge; the kinase-insert is unresolved and varies among Trk paralogues (Bertrand, 2017).
+
+## Regulation  
+Neurotrophin-3 binding induces receptor homodimerisation and trans-autophosphorylation (Bertrand, 2017; Wai, 1999).  
+• Tyr516 phosphorylation recruits SHC and PI3K-p85; Tyr705/709/710 activate catalysis; Tyr820 recruits PLCγ (Wai, 1999).  
+• Cbl family E3 ubiquitin ligases mediate negative feedback via ubiquitination and lysosomal degradation (Tang et al., 2022).  
+• An alternatively spliced isoform with a 14-residue insert lacks catalytic activity and acts as a dominant-negative regulator (Wai, 1999).  
+• Activity is further modulated by conformational switching between DFG-in (active) and DFG-out (inactive) states, influenced by nucleotide or inhibitor binding (Bertrand, 2017).
+
+## Function  
+TrkC is highly expressed in central and peripheral nervous system tissues and is required for neuronal survival, differentiation and synaptic plasticity (Barbacid, 1994; Bertrand, 2017). It also contributes to cardiac development in mice (Barbacid, 1994). Upon NT-3 engagement, the receptor activates RAS/ERK, PI3K/AKT and PLCγ pathways through adaptor proteins such as SHC, GRB2/SOS, PI3K-p85 and PLCγ (Wai, 1999; Jiang et al., 2021). Phosphoproteomic analyses in neuroblastoma cells confirm robust activation of these cascades after TrkC stimulation (Maher et al., 2024).
+
+## Inhibitors  
+ATP-competitive pan-Trk inhibitors larotrectinib and entrectinib inhibit TrkC with nanomolar potency and are approved for NTRK fusion-positive cancers (Jiang et al., 2021). Additional chemotypes (e.g., EX429, GNF-20) bind either DFG-in or DFG-out conformations but show limited isoform selectivity (Bertrand, 2017). The 6KZC structure has been used to model resistance mutations affecting type I vs. type II inhibitor sensitivity (Somwar et al., 2020). Next-generation inhibitors are being developed to overcome acquired resistance (Jiang et al., 2021).
+
+## Other Comments  
+Oncogenic ETV6-NTRK3 fusions drive secretory breast carcinoma, infantile fibrosarcoma and congenital mesoblastic nephroma (Jiang et al., 2021). Somatic activation-loop mutations have been reported in several solid tumours and may confer ligand-independent signalling (Wood et al., 2006). Co-overexpression of TrkC and NT-3 can transform fibroblasts, underscoring the need for tight regulation (Wai, 1999). Lack of isoform selectivity in current pan-Trk inhibitors raises concerns about central nervous system side effects (Bertrand, 2017).
+
+## References  
+Barbacid, M. (1994). The Trk family of neurotrophin receptors. Journal of Neurobiology, 25, 1386–1403. https://doi.org/10.1002/neu.480251107  
+
+Bertrand, T. (2017). Crystal structures of neurotrophin receptor kinase domains. Vitamins and Hormones, 104, 1–18. https://doi.org/10.1016/bs.vh.2016.10.001  
+
+Bertrand, T., Kothe, M., Liu, J., Dupuy, A., Rak, A., Berne, P., … Mathieu, M. (2012). The crystal structures of TrkA and TrkB suggest key regions for achieving selective inhibition. Journal of Molecular Biology, 423, 439–453. https://doi.org/10.1016/j.jmb.2012.08.002  
+
+Cunningham, M. E., Stephens, R. M., Kaplan, D. R., & Greene, L. A. (1997). Autophosphorylation of activation-loop tyrosines regulates signaling by the Trk nerve growth factor receptor. Journal of Biological Chemistry, 272, 10957–10967. https://doi.org/10.1074/jbc.272.16.10957  
+
+Jiang, T., Wang, G., Liu, Y., Feng, L., Wang, M., Liu, J., Chen, Y., & Liang, O. (2021). Development of small-molecule tropomyosin receptor kinase inhibitors for NTRK fusion cancers. Acta Pharmaceutica Sinica B, 11, 355–372. https://doi.org/10.1016/j.apsb.2020.05.004  
+
+Maher, S., Wynne, K., Zhernovkov, V., & Halasz, M. (2024). A temporal (phospho-)proteomic dataset of neurotrophic receptor tyrosine kinase signalling in neuroblastoma. Scientific Data. https://doi.org/10.1038/s41597-024-03965-y  
+
+Somwar, R., Hofmann, N. E., Smith, B., Odintsov, I., Vojnic, M., Linkov, I., … Davare, M. A. (2020). NTRK kinase-domain mutations in cancer variably impact sensitivity to type I and type II inhibitors. Communications Biology. https://doi.org/10.1038/s42003-020-01508-w  
+
+Tang, R., Langdon, W. Y., & Zhang, J. (2022). Negative regulation of receptor tyrosine kinases by ubiquitination: key roles of the Cbl family of E3 ubiquitin ligases. Frontiers in Endocrinology. https://doi.org/10.3389/fendo.2022.971162  
+
+Wai, D. (1999). Molecular characterization of the ETV6-NTRK3 fusion in congenital fibrosarcoma. [Doctoral dissertation]. https://doi.org/10.14288/1.0089499  
+
+Wiesmann, C., & de Vos, A. M. (2001). Nerve growth factor: structure and function. Cellular and Molecular Life Sciences, 58, 748–759. https://doi.org/10.1007/PL00000898  
+
+Wood, L. D., Calhoun, E. S., Silliman, N., Ptak, J., Szabo, S., Powell, S. M., … Velculescu, V. E. (2006). Somatic mutations of GUCY2F, EPHA3, and NTRK3 in human cancers. Human Mutation. https://doi.org/10.1002/humu.9452

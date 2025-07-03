@@ -1,0 +1,62 @@
+## Phylogeny  
+Member of the lemur tail kinase (LMTK) sub-family together with LMTK1 and LMTK3 (Larose et al., 2024). Experimentally confirmed orthologs occur in Homo sapiens, Mus musculus, Rattus norvegicus and Danio rerio; related kinases are present in Drosophila melanogaster and Caenorhabditis elegans, whereas no ortholog is detected in Saccharomyces cerevisiae (Mórotz et al., 2024). The original human kinome map placed LMTK2 in the Tyrosine-Kinase-Like group (Manning et al., 2002); subsequent comparative analyses reassigned the entire family to the Ca²⁺/calmodulin-dependent kinase (CAMK) group (Larose et al., 2024). The catalytic domain shares ~60 % sequence identity with apoptosis-associated tyrosine kinases (AATYK) while retaining strict Ser/Thr specificity (Cruz et al., 2019).  
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr ⇌ ADP + protein-O-phospho-L-Ser/Thr (Wendler et al., 2021; Regulation of the TGF-β1 signaling…, 2020).  
+
+## Cofactor Requirements  
+Activity requires divalent cations; in vitro assays typically use 10–40 mM Mg²⁺ (Peptide microarray analysis…, 2006).  
+
+## Substrate Specificity  
+Exclusively phosphorylates serine and threonine residues; no tyrosine activity detected (Peptide microarray analysis…, 2006). Peptide-array profiling indicates a relaxed Pro-directed preference (P-S/T or S/T-P) often flanked by basic residues (Peptide microarray analysis…, 2006). A requirement for Arg at –3/–2 has been demonstrated for paralog LMTK3 and is suggested, but unproven, for LMTK2 (Ferrari et al., 2021).  
+
+Validated phospho-sites:  
+– PP1C Thr320 (Wendler et al., 2021)  
+– CFTR Ser737 (Wendler et al., 2021)  
+– Glycogen phosphorylase b Ser15 (Peptide microarray analysis…, 2006)  
+– Multiple serines in myelin basic protein (Cruz et al., 2019)  
+
+## Structure  
+Contains two N-terminal transmembrane helices (residues 11–29 and 46–63) that orient both termini toward the cytoplasm (Cruz et al., 2019). The cytosolic kinase domain (residues 137–407) harbours the canonical VAIK (Lys168), HRD, and DFG motifs as well as a D265LALRN segment; Tyr295 is a putative autophosphorylation site (Cruz et al., 2019; Ferrari et al., 2021). Regulatory Ser1418 lies immediately C-terminal to the kinase domain (Bencze et al., 2018). The long C-terminal tail (≈ 408–1503) contains seven PxxP motifs and a PP1C-binding Val1355-Thr-Phe (VTF) sequence (Bencze et al., 2018). Fluorescence-protease-protection experiments confirm cytoplasmic exposure of both termini (Nixon et al., 2013). An AlphaFold model (AF-Q8IWU2-F1, 2023) depicts the full-length architecture; no experimental crystal or cryo-EM structure is available (Bencze et al., 2018).  
+
+## Regulation  
+Post-translational modifications  
+– Phosphorylation of Ser1418 by the CDK5/p35 complex enhances activity (Bencze et al., 2018; Cruz et al., 2019).  
+– Protein kinase C-dependent phosphorylation in response to nerve-growth-factor or serum decreases activity (Bencze et al., 2018).  
+– Constitutive Ser/Thr autophosphorylation maintains basal activity (Peptide microarray analysis…, 2006).  
+
+Protein–protein interactions  
+– Direct PP1C binding via the VTF motif enables phosphorylation of PP1C Thr320, inhibiting the phosphatase (Wendler et al., 2021).  
+– CDK5 activator p35 and myosin VI compete for overlapping regions within the kinase domain (Bencze et al., 2018).  
+– Inhibitor-2 modulates the LMTK2–PP1C complex (Cruz et al., 2019).  
+
+## Function  
+Expression and localisation  
+mRNA and protein are enriched in brain (hippocampus, cortex) with additional expression in skeletal muscle and prostate epithelium (Bencze et al., 2018; Cruz et al., 2019). The kinase localises to Golgi, early and recycling endosomes, plasma membrane, growth cones and perinuclear regions; ER export depends on a di-acidic motif within the cytosolic domain (Regulation of the TGF-β1 signaling…, 2020; Nixon et al., 2013).  
+
+Signalling roles  
+Upstream activator: CDK5/p35 (Bencze et al., 2018). Direct substrates: PP1C, CFTR, glycogen phosphorylase b and myelin basic protein (Wendler et al., 2021; Peptide microarray analysis…, 2006; Cruz et al., 2019). Inhibiting PP1C elevates GSK3β Ser9 phosphorylation, reduces kinesin-1 light-chain phosphorylation and regulates axonal cargo release such as Smad2 (Wendler et al., 2021). Phosphorylation of CFTR Ser737 accelerates endocytosis and diminishes chloride secretion in airway epithelia (Wendler et al., 2021). LMTK2 modulates TGF-β1 signalling by influencing Smad2 trafficking (Regulation of the TGF-β1 signaling…, 2020) and interacts with the androgen receptor to suppress its transcriptional activity (Ferrari et al., 2021).  
+
+## Other Comments  
+Lmtk2-knockout mice are viable but male sterile owing to azoospermia, indicating an essential role in spermatogenesis (Bencze et al., 2018). Reduced LMTK2 expression is linked to neurodegenerative pathways in Alzheimer’s disease models (Bencze et al., 2018). Down-regulation in prostate cancer correlates with heightened androgen receptor signalling and disease progression (Ferrari et al., 2021). Excessive LMTK2-dependent phosphorylation of CFTR contributes to cystic-fibrosis-related chloride transport defects (Wendler et al., 2021).  
+
+## 9. References  
+Bencze, J., Mórotz, G. M., Seo, W., Bencs, V., Kálmán, J., Miller, C. C. J., & Hortobágyi, T. (2018). Biological function of lemur tyrosine kinase 2 (LMTK2): Implications in neurodegeneration. Molecular Brain, 11, 20. https://doi.org/10.1186/s13041-018-0363-x  
+
+Cruz, D. F., Farinha, C. M., & Swiatecka-Urban, A. (2019). Unravelling the function of lemur tyrosine kinase 2 network. Frontiers in Pharmacology, 10, 24. https://doi.org/10.3389/fphar.2019.00024  
+
+Ferrari, E., Naponelli, V., & Bettuzzi, S. (2021). Lemur tyrosine kinases and prostate cancer: A literature review. International Journal of Molecular Sciences, 22, 5453. https://doi.org/10.3390/ijms22115453  
+
+Larose, A., Miller, C. C. J., & Mórotz, G. M. (2024). The lemur tail kinase family in neuronal function and dysfunction in neurodegenerative diseases. Cellular and Molecular Life Sciences, 81, 96. https://doi.org/10.1007/s00018-024-05480-0  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Mórotz, G. M., Bradbury, N. A., Caluseriu, O., Hisanaga, S., Miller, C. C. J., Swiatecka-Urban, A., Lenz, H., Moss, S. J., & Giamas, G. (2024). A revised nomenclature for the lemur family of protein kinases. Communications Biology, 7, 33. https://doi.org/10.1038/s42003-023-05671-8  
+
+Nixon, A., Jia, Y., White, C., & Bradbury, N. A. (2013). Determination of the membrane topology of lemur tyrosine kinase 2 (LMTK2) by fluorescence protease protection. American Journal of Physiology-Cell Physiology, 304, C164–C169. https://doi.org/10.1152/ajpcell.00288.2012  
+
+Peptide microarray analysis of substrate specificity of the transmembrane protein kinase. (2006). [Anonymous].  
+
+Regulation of the TGF-β1 signaling in cystic fibrosis: The role of LMTK2. (2020). [Anonymous].  
+
+Wendler, F., Purice, T.-M., Simon, T., Stebbing, J., & Giamas, G. (2021). The LMTK family of kinases: Emerging important players in cell physiology and pathogenesis. Biochimica et Biophysica Acta – Molecular Basis of Disease, 1867, 165372. https://doi.org/10.1016/j.bbadis.2018.12.023

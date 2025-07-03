@@ -1,0 +1,55 @@
+## Phylogeny  
+TRIO is an evolutionarily conserved, multidomain signalling protein. Orthologs are found in invertebrates (UNC-73 in Caenorhabditis elegans; D-Trio in Drosophila) and a single vertebrate paralog, Kalirin, is present (Schmidt & Debant, 2014). The N-terminal protein-kinase domain forms a distinct clade that groups with the N-terminal kinase regions of Obscurin/SPEG proteins and shows similarity to the myosin light-chain kinase (MLCK) subgroup (Unknown Authors, 2025, pp. 64–69). Placement of the kinase within the human kinome is debated: it has been assigned to the tyrosine-kinase-like (TKL), atypical, CMGC, or STE groups in different surveys (Debant et al., 1996; Hunter & Manning, 2015). Aside from the kinase, TRIO belongs to the Dbl family of Rho guanine nucleotide-exchange factors (RhoGEFs) (Schmidt & Debant, 2014).  
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr → ADP + protein-O-phospho-L-Ser/Thr (Unknown Authors, 2025, pp. 64–69; Hunter & Manning, 2015).  
+
+## Cofactor Requirements  
+Catalysis requires ATP and divalent cations, typically Mg²⁺ or Mn²⁺ (Debant et al., 1996; Hunter & Manning, 2015; Unknown Authors, 2025, pp. 64–69).  
+
+## Substrate Specificity  
+• GEF activity: the N-terminal GEF (GEFD1/TrioN) activates Rac1 and RhoG, whereas the C-terminal GEF (GEFD2/TrioC) activates RhoA (Schmidt & Debant, 2014; Katrancha et al., 2017).  
+• Kinase activity: TRIO phosphorylates myosin light chain and other cytoskeletal proteins in vitro; preferred sites are reported to contain basic residues flanking the phospho-acceptor (Debant et al., 1996; Unknown Authors, 2025, pp. 44–46). An unbiased consensus was not identified in the Johnson et al. (2023) kinase-substrate atlas.  
+
+## Structure  
+TRIO is a ~324–330 kDa protein composed of an N-terminal Sec14/Cral-Trio lipid-binding module, nine spectrin repeats (S1–S9), two tandem DH-PH GEF modules, a serine/threonine protein-kinase domain and several accessory motifs (two SH3 domains, an Ig-like domain) (Debant et al., 1996; Schmidt & Debant, 2014; Bandekar et al., 2022).  
+• Spectrin repeats provide an elongated scaffold; the central catalytic region is globular (Bandekar et al., 2022).  
+• Crystal structure of the TrioC DH-PH tandem reveals an autoinhibited conformation where the PH domain blocks RhoA access to the DH domain; the αN helix stabilises this interface (Bandekar et al., 2019).  
+• Cryo-EM and AlphaFold models support this configuration and delineate conserved, flexible linker segments that modulate activity (Bandekar et al., 2022; Unknown Authors, 2025, pp. 148–151).  
+
+## Regulation  
+• Post-translational modification: TRIO is phosphorylated only on serine residues; PKC activation enhances phosphorylation (Debant et al., 1996). Tyrosine phosphorylation has not been detected (Schmidt & Debant, 2014).  
+• Autoinhibition: both GEF units adopt intramolecularly inhibited states. TrioC autoinhibition is relieved by activated Gαq/11, while spectrin repeats and disordered linkers suppress TrioN until displaced by partner proteins such as DISC1 (Bandekar et al., 2019; Bandekar et al., 2022; Schmidt & Debant, 2014).  
+
+## Function  
+TRIO acts as a signalling hub linking upstream cues to cytoskeletal reorganisation.  
+• Expression: ubiquitous but highest in neural tissue, skeletal muscle, heart and immune cells; brain-restricted isoforms (e.g., TRIO9, TrioA-E) predominate (Schmidt & Debant, 2014; Katrancha et al., 2017; Unknown Authors, 2025, pp. 44–46).  
+• Upstream regulators: Gαq/11-coupled GPCRs, the LAR receptor phosphatase, and the NOTCH–DAB1–ABL axis (Bandekar et al., 2019; Schmidt & Debant, 2014; Unknown Authors, 2025, pp. 148–151).  
+• Interacting partners: DISC1, Kidins220/ARMS, Piccolo, Bassoon (Schmidt & Debant, 2014; Tao et al., 2020; Unknown Authors, 2025, pp. 148–151).  
+• Downstream effectors: activates Rac1, RhoG and RhoA to control cell motility, adhesion, axon guidance and morphogenesis (Schmidt & Debant, 2014; Katrancha et al., 2017; Tao et al., 2020).  
+
+## Other Comments  
+Germline and somatic TRIO variants are linked to human disease.  
+• Neurodevelopmental disorders: de novo mutations (e.g., K1431M, R1428Q, P1461T, M2145T) alter GEF activity and associate with autism, schizophrenia, intellectual disability and bipolar disorder (Katrancha et al., 2017; Pengelly et al., 2016).  
+• Cancer: elevated TRIO expression and mutations that disrupt TrioC autoinhibition enhance RhoA signalling in uveal melanoma; the truncated oncogenic isoform “Tgat” (RhoA-specific DH only) occurs in adult T-cell leukaemia (Schmidt & Debant, 2014; Bandekar et al., 2019).  
+
+## References  
+Bandekar, S. J., Arang, N., Tully, E. S., Tang, B. A., Barton, B. L., Li, S., Gutkind, J. S., & Tesmer, J. J. G. (2019). Structure of the C-terminal guanine nucleotide exchange factor module of Trio in an autoinhibited conformation reveals its oncogenic potential. Science Signaling, 12(570), eaav2449. https://doi.org/10.1126/scisignal.aav2449  
+
+Bandekar, S. J., Chen, C.-L., Ravala, S. K., Cash, J. N., Avramova, L. V., Zhalnina, M. V., Gutkind, J. S., Li, S., & Tesmer, J. J. G. (2022). Structural/functional studies of Trio provide insights into its configuration and show that conserved linker elements enhance its activity for Rac1. Journal of Biological Chemistry, 298, 102209. https://doi.org/10.1016/j.jbc.2022.102209  
+
+Debant, A., Serra-Pagès, C., Seipel, K., O’Brien, S. J., Tang, M., Park, S., & Streuli, M. (1996). The multidomain protein Trio binds the LAR transmembrane tyrosine phosphatase, contains a protein kinase domain, and has separate Rac-specific and Rho-specific guanine nucleotide exchange factor domains. Proceedings of the National Academy of Sciences of the United States of America, 93(11), 5466–5471. https://doi.org/10.1073/pnas.93.11.5466  
+
+Hunter, T., & Manning, G. (2015). The eukaryotic protein kinase superfamily and the emergence of receptor tyrosine kinases. In Receptor Tyrosine Kinases: Structure, Functions and Role in Human Disease (pp. 1–15). Springer. https://doi.org/10.1007/978-1-4939-2053-2_1  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Katrancha, S. M., Weinberger, R., & de la Torre-Ubieta, L. (2017). Neurodevelopmental disease-associated de novo mutations in Trio impair Rac1 activation. Human Molecular Genetics, 26(3), 712–723.  
+
+Pengelly, R. J., Greville-Heygate, S., Schmidt, S., Seaby, E., Jabalameli, M. R., Mehta, S. G., … Baralle, D. (2016). Mutations specific to the Rac-GEF domain of Trio cause intellectual disability and microcephaly. Journal of Medical Genetics, 53(10), 735–742. https://doi.org/10.1136/jmedgenet-2016-103942  
+
+Schmidt, S., & Debant, A. (2014). Function and regulation of the Rho guanine nucleotide exchange factor Trio. Small GTPases, 5(6), e29769. https://doi.org/10.4161/sgtp.29769  
+
+Tao, T., Sun, J., & Zhu, M.-S. (2020). The triple functional domain protein Trio with multiple functions in the nervous system. Journal of Neuroscience Research, 98(5), 828–840. https://doi.org/10.29245/2572.942X/2019/1.1263  
+
+Unknown Authors. (2025). Variant impact prediction in the obscurin and Trio protein families through evolutionary conservation and structural analysis (pp. 44–69, 148–151).

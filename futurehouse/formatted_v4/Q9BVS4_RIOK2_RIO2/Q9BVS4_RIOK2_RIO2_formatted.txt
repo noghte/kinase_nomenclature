@@ -1,0 +1,57 @@
+## Phylogeny  
+RIOK2 is an atypical protein kinase-like enzyme of the RIO family that branches outside the canonical eukaryotic protein kinase clades (Manning et al., 2002). A single-copy ortholog is conserved from fungi (S. cerevisiae Rio2; S. pombe Rio2) through metazoa (D. melanogaster Rio2, C. elegans RIOK-2, G. gallus Riok2, D. rerio Riok2, M. musculus Riok2, H. sapiens RIOK2) (LaRonde-LeBlanc & Wlodawer, 2005). Homologues are also present in parasitic and free-living nematodes (Breugelmans et al., 2014) and are retained in the minimal kinome of the early-branching eukaryote Giardia lamblia (Manning et al., 2011), underscoring broad evolutionary conservation and essentiality.
+
+## Reaction Catalyzed  
+Protein-Ser/Thr + ATP ⇌ Protein-O-phospho-Ser/Thr + ADP + H⁺ (Asquith et al., 2019).
+
+## Cofactor Requirements  
+Catalytic activity requires divalent cations; Mg²⁺ is preferred and Mn²⁺ can substitute (Cerezo et al., 2021).
+
+## Substrate Specificity  
+High-throughput peptide profiling classifies RIOK2 as having broad or weak sequence selectivity (Johnson et al., 2023). Confirmed substrates include its own autophosphorylation site Ser128 (LaRonde-LeBlanc & Wlodawer, 2005) and the ribosome-biogenesis factor DIM1 in vitro (Cerezo et al., 2021).
+
+## Structure  
+The human protein contains an N-terminal winged-helix domain (residues 10–75), bipartite kinase lobes (76–190, 196–291) linked by a short hinge (191–195), and an extended acidic C-terminal tail (292–552) harboring regulatory Ser483 (Maurice et al., 2019; Cerezo et al., 2021).  
+A 2.35 Å crystal structure of the kinase domain bound to an inhibitor (PDB 6HK6) shows classical N- and C-lobes with the winged-helix packed against the N-lobe (Wang et al., 2019). Key catalytic elements include the Lys123-rich glycine loop, an HGD triad with catalytic Asp228, and Asp246 that coordinates Mg²⁺ (Maurice et al., 2019). The hydrophobic spine and αC helix are conserved. Head-to-head homodimerisation through F- and C-helices locks the ATP pocket in an apo conformation (Maurice et al., 2019). A C-terminal αI helix present in fungal Rio2 is disordered in the human enzyme, and an extended β3-αC loop may contact rRNA (Wang et al., 2019).
+
+## Regulation  
+• Ser483 is phosphorylated by RSK1/RSK2, promoting release from cytoplasmic pre-40S particles, nuclear re-import, 18S-E processing, global translation and cell proliferation (Cerezo et al., 2021).  
+• Ser335 is phosphorylated by PLK1 and is required for timely metaphase-to-anaphase transition (Cerezo et al., 2021; Wang et al., 2019).  
+• Ser128 undergoes intrinsic autophosphorylation (LaRonde-LeBlanc & Wlodawer, 2005).  
+• Homodimerisation occludes the ATP site; dissociation is necessary for catalytic competence, providing an allosteric regulatory layer (Maurice et al., 2019).
+
+## Function  
+RIOK2 is essential for late cytoplasmic maturation of 40S ribosomal subunits, releasing factors NOB1, PNO1, LTV1, ENP1 and DIM2 and enabling conversion of 18S-E pre-rRNA to mature 18S rRNA (Cerezo et al., 2021). Ser483-dependent shuttling allows export of pre-40S particles and nuclear recycling (Cerezo et al., 2021). PLK1-mediated Ser335 phosphorylation couples RIOK2 to metaphase–anaphase progression (Cerezo et al., 2021). Over-expression elevates AKT Ser473 phosphorylation and forms a feed-forward loop with active AKT (Asquith et al., 2019). Expression is ubiquitous but enriched in proliferative tissues and is markedly up-regulated in several cancers, including non-small-cell lung carcinoma and glioblastoma (Cerezo et al., 2021; Liu et al., 2016; Read et al., 2013).
+
+## Inhibitors  
+The 2-aminopyridine amide “compound 9” binds the ATP pocket with Kd ≈ 160 nM, forming hinge hydrogen bonds to Ile191 and hydrophobic contacts with Met188, Ile109 and Ile245 (Wang et al., 2019).
+
+## Other Comments  
+Pan-cancer multi-omics analyses reveal recurrent RIOK2 overexpression, altered phosphorylation and correlations with immune infiltration, highlighting its therapeutic potential (Li et al., 2022). Elevated RIOK2 levels correlate with poor prognosis in non-small-cell lung cancer and other malignancies (Liu et al., 2016).
+
+## 9. References  
+Asquith, C. R. M., East, M. P., & Zuercher, W. J. (2019). RIOK2: straddling the kinase/ATPase line. Nature Reviews Drug Discovery, 18, 574. https://doi.org/10.1038/d41573-019-00107-7  
+
+Breugelmans, B., Jex, A. R., Korhonen, P. K., Mangiola, S., Young, N. D., Sternberg, P. W., Boag, P. R., Hofmann, A., & Gasser, R. B. (2014). Bioinformatic exploration of RIO protein kinases of parasitic and free-living nematodes. International Journal for Parasitology, 44, 827–836. https://doi.org/10.1016/j.ijpara.2014.06.005  
+
+Cerezo, E. L., Houles, T., Lié, O., Sarthou, M.-K., Audoynaud, C., Lavoie, G., Halladjian, M., Cantaloube, S., Froment, C., Burlet-Schiltz, O., Henry, Y., Roux, P. P., Henras, A. K., & Romeo, Y. (2021). RIOK2 phosphorylation by RSK promotes synthesis of the human small ribosomal subunit. bioRxiv. https://doi.org/10.1101/2020.10.07.329334  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+LaRonde-LeBlanc, N., & Wlodawer, A. (2005). The RIO kinases: an atypical protein kinase family required for ribosome biogenesis and cell cycle progression. Biochimica et Biophysica Acta, 1754(1–2), 14–24. https://doi.org/10.1016/j.bbapap.2005.07.037  
+
+Li, K., Zou, J., Yan, H.-Z., Li, Y., Li, M., & Liu, Z.-K. (2022). Pan-cancer analyses reveal multi-omics and clinical characteristics of RIO kinase 2 in cancer. Frontiers in Chemistry. https://doi.org/10.3389/fchem.2022.1024670  
+
+Liu, K., Chen, H.-L., Wang, S., Gu, M., Chen, X.-M., Zhang, S.-L., Yu, K.-J., & You, Q. (2016). High expression of RIOK2 and NOB1 predict human non-small cell lung cancer outcomes. Scientific Reports, 6, 28666. https://doi.org/10.1038/srep28666  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Manning, G., Reiner, D. S., Lauwaet, T., Dacre, M., Smith, A., Zhai, Y., Svard, S., & Gillin, F. D. (2011). The minimal kinome of Giardia lamblia illuminates early kinase evolution and unique parasite biology. Genome Biology, 12, R66. https://doi.org/10.1186/gb-2011-12-7-r66  
+
+Maurice, F., Pérébaskine, N., & Fribourg, S. (2019). Dimerization of human RIO2 kinase/ATPase locks its ATP-binding site in an apo state. bioRxiv. https://doi.org/10.1101/553800  
+
+Maurice, F., Pérébaskine, N., Thore, S., & Fribourg, S. (2019). In vitro dimerization of human RIO2 kinase. RNA Biology, 16, 1633–1642. https://doi.org/10.1080/15476286.2019.1653679  
+
+Read, R. D., Fenton, T. R., Gomez, G. G., Wykosky, J., Vandenberg, S. R., Babic, I., … Thomas, J. B. (2013). A kinome-wide RNAi screen in Drosophila glia reveals that the RIO kinases mediate cell proliferation and survival through TORC2-AKT signaling in glioblastoma. PLoS Genetics, 9, e1003253. https://doi.org/10.1371/journal.pgen.1003253  
+
+Wang, J., Varin, T., Vieth, M., & Elkins, J. M. (2019). Crystal structure of human RIOK2 bound to a specific inhibitor. Open Biology. https://doi.org/10.1098/rsob.190037

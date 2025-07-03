@@ -1,0 +1,65 @@
+## Phylogeny  
+Orthologues of choline/ethanolamine kinase are found in Saccharomyces cerevisiae (Cki1p), Caenorhabditis elegans (CKA-2), Arabidopsis thaliana (CEK1), Mus musculus (Chka) and Rattus norvegicus (Chka). Human CHKA, CHKB and CHKC group together in a distinct “ChoK” clade within the “other protein-kinase-like/atypical kinase” branch of the kinome, separate from classical ePK Ser/Thr and Tyr families (Janardhan et al., 2006; Malito et al., 2006; Lacal et al., 2021; Chang et al., 2016).
+
+## Reaction Catalyzed  
+ATP + choline ⇌ ADP + phosphocholine (major reaction)  
+ATP + ethanolamine ⇌ ADP + phosphoethanolamine (lower efficiency) (Malito et al., 2006; Ramírez et al., 2011).
+
+## Cofactor Requirements  
+Catalysis requires two Mg²⁺ ions that bridge the β- and γ-phosphates of ATP and coordinate the catalytic residues Ser121, Asp306, Asn311 and Asp330 (Malito et al., 2006; Ramírez et al., 2011).
+
+## Substrate Specificity  
+No definitive peptide consensus motif has been established; high-throughput kinase-substrate profiling data are lacking and intrinsic sequence preference remains undetermined (Chang et al., 2016; Gallego-Ortega et al., 2011).
+
+## Structure  
+• Homodimer of 457 residues (Malito et al., 2006).  
+• N-terminal segment (1-79) is proline-rich, intrinsically disordered and contains Src-SH3 interaction motifs (Kall et al., 2019).  
+• Catalytic core (80-457) adopts a bilobal ePK-like fold: N-lobe (1-216) with ATP-binding loop (116-124) and C-lobe (217-457) containing the substrate pocket (Malito et al., 2006).  
+• Key motifs: Brenner HXDG (302-311; Asp306 catalytic base), choline-kinase motif (326-354; Tyr333, Tyr354 line quaternary-amine pocket), Mg²⁺-binding Asp330 (Malito et al., 2006).  
+• Product binding induces ~16° N-lobe rotation and ~10 Å closure of the ATP loop, yielding the closed active conformation (Malito et al., 2006).  
+• Crystal structures: apo (PDB 2CKQ), ADP-bound (2IGG), phosphocholine-bound (2IYE); 2.1–3.1 Å resolution (Rubio-Ruiz et al., 2021).  
+• A surface-proximal allosteric pocket accommodates bis-quinolinium inhibitor TCD-717, distinct from the choline groove (Kall et al., 2018).
+
+## Regulation  
+• Tyrosine phosphorylation by c-Src on Tyr354 and Tyr333 enhances catalytic rate, promotes EGFR complex formation and plasma-membrane translocation (Chang et al., 2016; Miyake & Parsons, 2012).  
+• Ser279 phosphorylation modulates activity (Chang et al., 2016).  
+• PKA- and PKC-dependent phosphorylation increases activity ~1.4-fold (Chang et al., 2016).  
+• Binding of phosphocholine stabilises the closed active conformation (Malito et al., 2006).
+
+## Function  
+• Catalyses the first committed step of the CDP-choline (Kennedy) pathway, supplying phosphatidylcholine and phosphatidylethanolamine for membrane biogenesis (Malito et al., 2006).  
+• Ubiquitously expressed; highest in tissues with rapid membrane turnover and in many tumours (Ramírez et al., 2011).  
+• Over-expression drives oncogenic signalling; depletion or inhibition attenuates PI3K–mTOR–Akt, Ras–Raf–MAPK and EGFR–mTORC2 pathways (Gokhale & Xie, 2021; Lacal et al., 2021).  
+• Interacts directly with EGFR and c-Src; SH3-mediated binding to Src promotes phosphorylation and breast-cancer cell proliferation (Miyake & Parsons, 2012; Kall et al., 2019).  
+• Genetic ablation in mice is embryonic lethal, underscoring its essential role in proliferation (Chang et al., 2016).
+
+## Inhibitors  
+Symmetrical bis-pyridinium and bis-quinolinium compounds—MN58b, RSM932A/TCD-717, EB-3D, EB-3P, CK37 and ICL-CCIC-0019—and the active-site ligand V-11-023907 bind within the choline or allosteric pocket, lower intracellular phosphocholine, trigger apoptosis and curb tumour growth (Gokhale & Xie, 2021; Lacal et al., 2021; Kall et al., 2018; Hudson et al., 2013).
+
+## Other Comments  
+CHKA is frequently amplified or over-expressed in lung, prostate, colorectal, breast, bladder, ovarian and hepatocellular carcinomas, correlating with poor prognosis and therapy resistance (Chang et al., 2016; Lacal et al., 2021). Radiolabelled choline analogues exploit this over-expression for PET/CT imaging of solid and lymphoid malignancies (Gokhale & Xie, 2021).
+
+## 9. References  
+Chang, C. C., Few, L., Konrad, M., & See Too, W. C. (2016). Phosphorylation of human choline kinase beta by protein kinase A: Its impact on activity and inhibition. PLoS ONE, 11(5), e0154702. https://doi.org/10.1371/journal.pone.0154702  
+
+Gallego-Ortega, D., Gómez del Pulgar, T., Valdés-Mora, F., Cebrián, A., & Lacal, J. (2011). Involvement of human choline kinase alpha and beta in carcinogenesis: A different role in lipid metabolism and biological functions. Advances in Enzyme Regulation, 51(1), 183–194. https://doi.org/10.1016/j.advenzreg.2010.09.010  
+
+Gokhale, S., & Xie, P. (2021). Chok-full of potential: Choline kinase in B-cell and T-cell malignancies. Pharmaceutics, 13(6), 911. https://doi.org/10.3390/pharmaceutics13060911  
+
+Hudson, C. S., Knegtel, R. M., Brown, K., Charlton, P. A., & Pollard, J. R. (2013). Kinetic and mechanistic characterisation of choline kinase-α. Biochimica et Biophysica Acta – Proteins and Proteomics, 1834(6), 1107–1116. https://doi.org/10.1016/j.bbapap.2013.02.008  
+
+Janardhan, S., Srivani, P., & Sastry, G. N. (2006). Choline kinase: An important target for cancer. Current Medicinal Chemistry, 13(10), 1169–1186. https://doi.org/10.2174/092986706776360923  
+
+Kall, S. L., Delikatny, E. J., & Lavie, A. (2018). Identification of a unique inhibitor-binding site on choline kinase α. Biochemistry, 57(9), 1316–1325. https://doi.org/10.1021/acs.biochem.7b01257  
+
+Kall, S., Whitlatch, K., Smithgall, T., & Lavie, A. (2019). Molecular basis for the interaction between human choline kinase α and the SH3 domain of the c-Src tyrosine kinase. Scientific Reports, 9, 17131. https://doi.org/10.1038/s41598-019-53447-0  
+
+Lacal, J., Zimmerman, T., & Campos, J. (2021). Choline kinase: An unexpected journey for a precision-medicine strategy in human diseases. Pharmaceutics, 13(6), 788. https://doi.org/10.3390/pharmaceutics13060788  
+
+Malito, E., Sekulić, N., See Too, W. C., Konrad, M., & Lavie, A. (2006). Elucidation of human choline kinase crystal structures in complex with the products ADP or phosphocholine. Journal of Molecular Biology, 364(2), 136–151. https://doi.org/10.1016/j.jmb.2006.08.084  
+
+Miyake, T., & Parsons, S. J. (2012). Functional interactions between choline kinase α, epidermal growth factor receptor, and c-Src in breast-cancer cell proliferation. Oncogene, 31(12), 1431–1441. https://doi.org/10.1038/onc.2011.332  
+
+Ramírez, D. M. A., Álvarez-Miranda, M., & Lacal, J. (2011). CHKA (choline kinase alpha). Atlas of Genetics and Cytogenetics in Oncology and Haematology. https://doi.org/10.4267/2042/44401  
+
+Rubio-Ruiz, B., Serran-Aguilera, L., Hurtado-Guerrero, R., & Conejo-García, A. (2021). Recent advances in the design of choline kinase α inhibitors and the molecular basis of their inhibition. Medicinal Research Reviews, 41(2), 902–927. https://doi.org/10.1002/med.21746

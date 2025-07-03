@@ -1,0 +1,55 @@
+## Phylogeny  
+c-Met is a receptor tyrosine kinase of the Met/Ron subfamily whose catalytic domain is homologous to the insulin-like growth factor-I receptor and the Tyro3/Axl/Mer family (Cecchi et al., 2011). Sequence comparisons place Ron, Mer, Axl, Tyro3 and RYK as its closest paralogs (Underiner et al., 2010). Orthologs are conserved across vertebrates (human, mouse, rat, zebrafish, Xenopus) but are absent from Drosophila and C. elegans, indicating a vertebrate-specific emergence (Schiering et al., 2003). Mouse knock-in lines carrying human MET oncogenic mutations reproduce tumour phenotypes, confirming functional conservation in mammals (Cecchi et al., 2011).
+
+## Reaction Catalyzed  
+ATP + [protein]-L-tyrosine ⇌ ADP + [protein]-L-tyrosine-phosphate (Wang et al., 2006).
+
+## Cofactor Requirements  
+Requires a divalent cation; Mg²⁺ is optimal and Mn²⁺ can substitute (Grädler et al., 2023).
+
+## Substrate Specificity  
+Peptide array screening defined a preferred motif with an acidic residue at −2 and hydrophobic residues at +1 and/or +3 flanking the target Tyr; this motif is enriched among phosphorylated sites in afatinib-treated HER2⁺ lung adenocarcinoma cells, confirming cellular use (Yaron-Barir et al., 2024).
+
+## Structure  
+Domain organisation: extracellular SEMA β-propeller → PSI → four IPT repeats → single transmembrane helix → juxtamembrane (JM) segment → tyrosine kinase (TK) domain → C-terminal docking tail (Cecchi et al., 2011).  
+• Autoinhibited TK (PDB 1R0P, 2.15 Å) shows an activation loop occluding the active site and a unique α-helix absent from FGFR/IRK (Schiering et al., 2003).  
+• Inactive TK bound to K-252a (PDB 1R1W) reveals activation-loop displacement and G-loop rearrangement (Schiering et al., 2003).  
+• Activated, doubly phosphorylated TK (1.6 Å) displays helix-C rotation, ejection of residues 1225–1244 and an open ATP cleft (Rickert et al., 2011).  
+• Complexes with MK-2461 (PDB 3Q6U/3Q6W) stabilise the regulatory spine while partially forming the Lys1110–Glu1127 salt bridge (Rickert et al., 2011).  
+• JM Tyr1003 contacts the kinase lobe; phosphorylation of Tyr1234/Tyr1235 disengages this interface and aligns the DFG motif for catalysis (Wang et al., 2006).
+
+## Regulation  
+Ligand-induced receptor dimerisation triggers trans-autophosphorylation of Tyr1234/Tyr1235, activating the kinase (Rickert et al., 2011). Phosphorylation of C-terminal Tyr1349/Tyr1356 generates SH2 docking sites for Grb2, Gab1, PI3K, PLCγ, Shc, Src, Shp2, Ship1 and STAT3 (Cecchi et al., 2011). Phospho-Tyr1003 recruits c-Cbl, leading to ubiquitination and lysosomal degradation (Cecchi et al., 2011), whereas SHP-2 bound to phosphorylated Gab1 contributes negative feedback dephosphorylation (Baldanzi & Graziani, 2014). Activating TK-domain mutations (e.g., D1246N, M1268T, Y1248C) or JM deletions disrupt autoinhibition or c-Cbl binding, yielding constitutive signalling (Trafficking and signalling of oncogenic Met, 2010). Endocytic trafficking balances receptor recycling and degradation to shape signal duration (Trafficking and signalling of oncogenic Met, 2010).
+
+## Function  
+Upon HGF binding, c-Met drives epithelial proliferation, scattering, morphogenesis and survival (Cecchi et al., 2011). Downstream signalling includes:  
+• Grb2–SOS–RAS–ERK pathway mediating morphogenesis (Baldanzi & Graziani, 2014).  
+• Gab1-PI3K-AKT axis promoting survival (Baldanzi & Graziani, 2014).  
+• PLCγ-dependent Ca²⁺/PKC activation supporting proliferation (Baldanzi & Graziani, 2014).  
+• Src family kinases and FAK phosphorylation reorganising the cytoskeleton for motility (Baldanzi & Graziani, 2014).  
+• STAT3 activation driving transcriptional programmes required for tubulogenesis (Baldanzi & Graziani, 2014).
+
+## Inhibitors  
+Type I ATP-competitive inhibitors with structural data: K-252a (Schiering et al., 2003) and MK-2461 (Rickert et al., 2011). Additional inhibitors include SU-11274, PHA-665752, crizotinib, PF-4217903 (Trafficking and signalling of oncogenic Met, 2010); JNJ-38877605, tivantinib, and multi-target agents cabozantinib and XL880 (Underiner et al., 2010); BMS-777607 and MGCD265 (Cecchi et al., 2011). Activation-loop phosphorylation enhances tepotinib binding (Grädler et al., 2023).
+
+## Other Comments  
+Recurrent activating substitutions (Y1235D, Y1230H/C, D1228N/H, M1250T/I) destabilise autoinhibition, increasing kinase activity (Wang et al., 2006). Exon 14 skipping or Y1003F mutation abolishes c-Cbl recruitment, preventing ubiquitination and prolonging signalling (Cecchi et al., 2011). MET amplification or activating mutations drive papillary renal cell carcinoma, lung and head-and-neck cancers and confer resistance to EGFR-targeted therapies (Cecchi et al., 2011; Underiner et al., 2010).
+
+## 9. References  
+Baldanzi, G., & Graziani, A. (2014). Physiological signaling and structure of the HGF receptor Met. Biomedicines, 3, 1–31. https://doi.org/10.3390/biomedicines3010001  
+
+Cecchi, F., Rabe, D. C., & Bottaro, D. P. (2011). The hepatocyte growth factor receptor: Structure, function and pharmacological targeting in cancer. Current Signal Transduction Therapy, 6(2), 146–151. https://doi.org/10.2174/157436211795659955  
+
+Grädler, U., Schwarz, D., Wegener, A., Eichhorn, T., Bandeiras, T. M., Freitas, M. C., … Bomke, J. (2023). Biophysical and structural characterization of the impacts of Met phosphorylation on tepotinib binding. Journal of Biological Chemistry, 299, 105328. https://doi.org/10.1016/j.jbc.2023.105328  
+
+Rickert, K., Patel, S., Allison, T., Byrne, N., Darke, P., Ford, R. E., … Lumb, K. (2011). Structural basis for selective small molecule kinase inhibition of activated c-Met. Journal of Biological Chemistry, 286, 11218–11225. https://doi.org/10.1074/jbc.M110.204404  
+
+Schiering, N., Knapp, S., Marconi, M., Flocco, M. M., Cui, J., Perego, R., … Cristiani, C. (2003). Crystal structure of the tyrosine kinase domain of the hepatocyte growth factor receptor c-Met and its complex with the microbial alkaloid K-252a. Proceedings of the National Academy of Sciences, 100, 12654–12659. https://doi.org/10.1073/pnas.1734128100  
+
+Trafficking and signalling of oncogenic Met. (2010). Pages 77–82. [Reference details not available].  
+
+Underiner, T. L., Herbertz, T., & Miknyoczki, S. J. (2010). Discovery of small molecule c-Met inhibitors: Evolution and profiles of clinical candidates. Anti-Cancer Agents in Medicinal Chemistry, 10(1), 7–27. https://doi.org/10.2174/1871520611009010007  
+
+Wang, W., Marimuthu, A., Tsai, J., Kumar, A., Krupka, H. I., Zhang, C., … West, B. L. (2006). Structural characterization of autoinhibited c-Met kinase produced by coexpression in bacteria with phosphatase. Proceedings of the National Academy of Sciences of the United States of America, 103(10), 3563–3568. https://doi.org/10.1073/pnas.0600048103  
+
+Yaron-Barir, T. M., Joughin, B. A., Huntsman, E. M., Kerelsky, A., Cizin, D. M., Cohen, B. M., … Johnson, J. L. (2024). The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629, 1174–1181. https://doi.org/10.1038/s41586-024-07407-y

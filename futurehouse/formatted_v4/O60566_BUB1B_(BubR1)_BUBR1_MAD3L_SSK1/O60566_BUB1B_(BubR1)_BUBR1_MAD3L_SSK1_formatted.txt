@@ -1,0 +1,77 @@
+## Phylogeny  
+BUB1B (BubR1) and its paralogue BUB1 arose from an early eukaryotic duplication of an ancestral spindle-checkpoint kinase, generating the Bub1/BubR1 sub-family within the CMGC branch of the protein-kinase-like superfamily (Bolanos-Garcia & Blundell, 2011). Orthologues span fungi (S. cerevisiae Mad3, S. pombe Mad3) to insects (D. melanogaster BubR1) and vertebrates (X. laevis, M. musculus, H. sapiens), underscoring a highly conserved spindle-assembly-checkpoint (SAC) role (Chen, 2002; Elowe, 2011). Although the C-terminal lobe retains a Bub1-like bilobal fold, degeneration of the HRD and DFG motifs renders BubR1 a catalytically inactive pseudokinase (Bolanos-Garcia & Blundell, 2011; Breit et al., 2015).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr ⇌ ADP + [protein]-O-phospho-Ser/Thr (canonical Ser/Thr kinase reaction).  
+Purified BubR1 binds ATP yet shows no measurable phosphoryl-transfer, confirming catalytic silence (Breit et al., 2015).  
+
+## Cofactor Requirements  
+ATP binding is magnesium-independent; no divalent-cation requirement has been demonstrated in vitro (Breit et al., 2015).  
+
+## Substrate Specificity  
+Comprehensive peptide-library screens failed to define a phosphorylation consensus, consistent with pseudokinase status (Breit et al., 2015; Corno et al., 2023).  
+
+## Structure  
+Domain organisation (human residue numbers approximate):  
+• KEN box-1 (7-13) – high-affinity CDC20 binder initiating MCC formation (Krenn, 2014).  
+• Triple TPR stack (40-200) – scaffolds MCC interactions (Krenn, 2014).  
+• KEN box-2 (300-306) – blocks APC/C substrate entry (Krenn, 2014).  
+• GLEBS motif / TPR helix (400-440) – wraps around BUB3 for kinetochore targeting (Bolanos-Garcia & Blundell, 2011).  
+• KARD / LxxIxE motif (665-682) – docks PP2A-B56 (Overlack et al., 2015).  
+• C-terminal pseudokinase domain (720-1050) – bilobal fold with disrupted catalytic and regulatory spines (Breit et al., 2015).  
+
+Three-dimensional data  
+Cryo-EM of the human mitotic-checkpoint complex (PDB 6F0I) positions BubR1 with BUB3, MAD2 and CDC20 at the APC/C interface (Banerjee et al., 2022). The PP2A-B56–BubR1 KARD structure (PDB 4OMA) reveals an LxxIxE docking groove (Overlack et al., 2015). AlphaFold modelling corroborates an inactive kinase conformation lacking an intact R-spine (Banerjee et al., 2022).  
+
+Key inactive features  
+• Truncated / displaced activation segment abolishes the Lys–Glu catalytic salt bridge.  
+• HRD and DFG substitutions break the hydrophobic spine (Bolanos-Garcia & Blundell, 2011; Breit et al., 2015).  
+
+## Regulation  
+Post-translational modifications  
+Acetylation – Lys250 (PCAF) stabilises BubR1 during prometaphase; deacetylated by HDAC2/3 and SIRT2 (Bloom & North, 2021). Lys668 (CBP) promotes APC/C-mediated ubiquitination; reversed by SIRT2 (UnknownAuthors, 2022).  
+SUMOylation – Lys250 conjugation accelerates kinetochore removal, promoting anaphase onset (Yang et al., 2012).  
+Phosphorylation – Thr680 (CDK1) and Ser676 (Plk1) within the KARD enhance PP2A-B56 binding; Thr620 (CDK1) creates a Plk1-docking site; unattached kinetochores trigger BubR1 hyperphosphorylation in a Bub1/Mad1-dependent manner (Bloom & North, 2021; Chen, 2002; Corno et al., 2023).  
+Ubiquitination – APC/C targets BubR1 for proteasomal degradation in late mitosis (Bloom & North, 2021).  
+
+Allosteric interactions  
+BUB3 engagement orders the GLEBS helix and is essential for kinetochore localisation and MCC incorporation (Overlack et al., 2015). PP2A-B56 binding via the KARD counteracts Aurora-B to stabilise bi-oriented attachments and facilitates SAC silencing (Overlack et al., 2015).  
+
+## Function  
+Expression – protein accumulates from late G₂, peaks in mitosis and declines with organismal age (Bloom & North, 2021).  
+
+Mitotic checkpoint – BUB1–BUB3 bound to Mps1-phosphorylated KNL1 MELT motifs recruits BubR1–BUB3, nucleating MCC assembly; the MCC (BubR1, BUB3, MAD2, CDC20) inhibits APC/C until chromosome bi-orientation is achieved (Banerjee et al., 2022; Krenn, 2014; Overlack et al., 2017).  
+
+Kinetochore–microtubule regulation – BubR1 KARD recruits PP2A-B56 to oppose Aurora-B and stabilise attachments; interaction with CENP-E and APC/EB1 further supports chromosome congression (Elowe, 2011; Overlack et al., 2015; Breit et al., 2015).  
+
+Signalling network – Upstream regulators include Bub1, Mps1, CDK1 and Plk1; downstream effect is APC/C inhibition to maintain metaphase arrest (Bloom & North, 2021; Banerjee et al., 2022).  
+
+## Other Comments  
+Disease associations – Biallelic germline BUB1B mutations cause mosaic variegated aneuploidy syndrome with childhood cancer predisposition (Bloom & North, 2021; Bolanos-Garcia & Blundell, 2011). Somatic over-expression or mutation correlates with chromosomal instability in several cancers (Bolanos-Garcia & Blundell, 2011). Age-related BubR1 decline promotes tissue degeneration and tumour susceptibility in mice (Bloom & North, 2021). Missense changes at Lys250 or within the pseudokinase domain disrupt stability or MCC assembly, driving aneuploidy and oncogenesis (Bloom & North, 2021; Bolanos-Garcia & Blundell, 2011).  
+
+## References  
+Banerjee, A., Chen, C., Humphrey, L. J., Tyson, J., & Joglekar, A. P. (2022). BubR1 recruitment to the kinetochore via Bub1 enhances spindle assembly checkpoint signaling. Molecular Biology of the Cell. https://doi.org/10.1091/mbc.E22-03-0085  
+
+Bloom, C. R., & North, B. J. (2021). Physiological relevance of post-translational regulation of the spindle assembly checkpoint protein BubR1. Cell & Bioscience. https://doi.org/10.1186/s13578-021-00589-2  
+
+Bolanos-Garcia, V. M., & Blundell, T. L. (2011). Bub1 and BubR1: multifaceted kinases of the cell cycle. Trends in Biochemical Sciences, 36, 141–150. https://doi.org/10.1016/j.tibs.2010.08.004  
+
+Breit, C., Bange, T., Petrovic, A., Weir, J. R., Müller, F., Vogt, D., & Musacchio, A. (2015). Role of intrinsic and extrinsic factors in the regulation of the mitotic checkpoint kinase Bub1. PLOS ONE, 10, e0144673. https://doi.org/10.1371/journal.pone.0144673  
+
+Chen, R.-H. (2002). BubR1 is essential for kinetochore localization of other spindle checkpoint proteins and its phosphorylation requires Mad1. Journal of Cell Biology, 158, 487–496. https://doi.org/10.1083/jcb.200204048  
+
+Corno, A., Cordeiro, M., Allan, L. A., Lim, Q.-W., Harrington, E., Smith, R. J., & Saurin, A. (2023). A bifunctional kinase–phosphatase module balances mitotic checkpoint strength and kinetochore–microtubule attachment stability. EMBO Journal. https://doi.org/10.15252/embj.2022112630  
+
+Elowe, S. (2011). Bub1 and BubR1: at the interface between chromosome attachment and the spindle checkpoint. Molecular and Cellular Biology, 31, 3085–3093. https://doi.org/10.1128/MCB.05326-11  
+
+Krenn, V. (2014). Insights into the mechanism of recruitment of checkpoint proteins Bub1 and BubR1 to kinetochore sites (Doctoral dissertation). https://doi.org/10.13130/krenn-veronica_phd2014-03-25  
+
+Overlack, K., Primorac, I., Vleugel, M., Krenn, V., Maffini, S., Hoffmann, I., Kops, G. J. P. L., & Musacchio, A. (2015). A molecular basis for the differential roles of Bub1 and BubR1 in the spindle assembly checkpoint. eLife. https://doi.org/10.7554/eLife.05269  
+
+Overlack, K., Bange, T., Weissmann, F., Faesen, A., Maffini, S., Primorac, I., Müller, F., Peters, J.-M., & Musacchio, A. (2017). BubR1 promotes Bub3-dependent APC/C inhibition during spindle assembly checkpoint signaling. Current Biology, 27, 2915–2927.e7. https://doi.org/10.1016/j.cub.2017.08.033  
+
+Yang, F., Huang, Y., & Dai, W. (2012). Sumoylated BubR1 plays an important role in chromosome segregation and mitotic timing. Cell Cycle, 11, 797–806. https://doi.org/10.4161/cc.11.4.19307  
+
+UnknownAuthors. (2014). Evolution and regulation of mitotic checkpoint protein recruitment by the kinetochore scaffold KNL1.  
+
+UnknownAuthors. (2022). Investigating the relationship between calorie restriction and mitotic protein BubR1 in the prevention of CIN-induced tumorigenesis.

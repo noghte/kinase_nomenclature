@@ -1,0 +1,66 @@
+## Phylogeny  
+Myosin-light-chain kinase (MYLK) belongs to the Ca2+/calmodulin-dependent protein kinase (CAMK) group of the human kinome on the basis of sequence homology, catalytic motifs and multi-domain architecture (Manning et al., 2002; Johnson et al., 2023). One report assigns it to the AGC group, indicating borderline features (Fang et al., 2023). MYLK shares significant structural similarity with skeletal muscle MLCK (skMLCK), CaMKII and twitchin kinase, and is part of the broader MLCK family that also includes SPEG and obscurin (Fang et al., 2023). Orthologues are present across metazoan model organisms, underscoring evolutionary conservation (Manning et al., 2002).
+
+## Reaction Catalyzed  
+ATP + myosin regulatory light chain → ADP + phosphorylated myosin regulatory light chain  
+(Smooth/non-muscle MYL2-Ser19 is the prototypical site) (Fang et al., 2023; Hong et al., 2011; Shi et al., 2022).
+
+## Cofactor Requirements  
+Mg2+ is required for ATP binding and transfer; enzymatic activity is allosterically activated by Ca2+-bound calmodulin (Fang et al., 2023; Hong et al., 2011).
+
+## Substrate Specificity  
+• Ser/Thr kinase that selectively phosphorylates Ser19 on the myosin II regulatory light chain in smooth and non-muscle cells (Hong et al., 2011; Shi et al., 2022).  
+• A positional-scanning peptide array defined a preference motif, but the explicit consensus was not reported (Johnson et al., 2023).  
+• An in-vitro assay used the peptide KKLNRTLSFAEPG as substrate (Kumar et al., 2024).  
+• Two glutamate residues within MYLK interact with the regulatory light chain to guide recognition (Fang et al., 2023).  
+• No evidence was found for PTK2B/PYK2 as a MYLK substrate in the cited works.
+
+## Structure  
+MYLK is a large, flexible multi-domain enzyme (Hong et al., 2011).  
+• N-terminus: three actin-binding DFRxxL motifs.  
+• Central region: several immunoglobulin-like domains and one fibronectin type III domain.  
+• Kinase domain: canonical glycine-rich loop, DFG motif (Mg2+ coordination) and an atypical HLD catalytic triad where Asp1585 serves as catalytic base (Fang et al., 2023).  
+• Regulatory segment: autoinhibitory domain (AID) contiguous with a calmodulin-binding region (CaMBR).  
+• C-terminus: IgT domain that binds smooth-muscle myosin; identical sequence expressed separately as telokin (Hong et al., 2011).  
+Conformational switching of the DFG motif (DFG-in/DFG-out) correlates with activity state (Fang et al., 2023).
+
+## Regulation  
+• Basal state: AID blocks the active site, keeping the kinase inactive.  
+• Activation: Ca2+-loaded calmodulin binds the CaMBR, displacing the AID and permitting catalysis (Fang et al., 2023).  
+• Phosphorylation control:  
+  – PKA phosphorylation within the CaM-binding region lowers CaM affinity and represses activity (Hong et al., 2011).  
+  – PKC and ROCK1 phosphorylate distinct sites with inhibitory effects (Hong et al., 2011).  
+  – SIK2 phosphorylation at Ser343 enhances activity (Shi et al., 2022).  
+• Protein inhibitor: telokin competes with MYLK for myosin binding, attenuating phosphorylation (Hong et al., 2011).
+
+## Function  
+Primary role: triggers smooth-muscle contraction by phosphorylating the myosin regulatory light chain, thereby activating myosin ATPase and cross-bridge cycling (Fang et al., 2023; Hong et al., 2011).  
+Additional roles: regulation of cytoskeletal dynamics, cell motility, adhesion, endothelial barrier integrity and filopodia formation (Hong et al., 2011; Kumar et al., 2024).  
+Upstream kinases: PKA, PKC, ROCK1, SIK2 (Hong et al., 2011; Shi et al., 2022).  
+Downstream substrate: myosin II regulatory light chain (MYL2) (Shi et al., 2022).  
+Interacting partners: actin, smooth-muscle myosin, calmodulin, caldesmon, telokin, integrin-linked kinase (Hong et al., 2011).  
+Gene complexity: the human MYLK1 gene generates multiple isoforms via alternative splicing and alternative translation initiation (Hong et al., 2011).
+
+## Inhibitors  
+Small-molecule: ML-7 and the selective MLCK1 probe Myokinasib-II (Kumar et al., 2024).  
+Protein/peptide: telokin (endogenous); various synthetic peptides that block MLCK activity (Hong et al., 2011).
+
+## Other Comments  
+Genetic variants or dysregulated expression of MYLK are linked with asthma, pulmonary arterial hypertension, inflammatory bowel disease, vascular injury, sepsis, atherosclerosis, pancreatitis and colitis (Hong et al., 2011; Fang et al., 2023; Kumar et al., 2024). Over-expression can impair vascular endothelial function and exacerbate lung injury (Hong et al., 2011). Disease-associated calmodulin mutations can perturb MYLK regulation (Fang et al., 2023). MYLK-dependent phosphorylation contributes to metastatic cancer cell invasion (Kumar et al., 2024).
+
+## 9. References  
+Fang, X., Bogdanov, V., Davis, J. P., & Kekenes-Huskey, P. M. (2023). Molecular insights into the MLCK activation by CaM. Journal of Chemical Information and Modeling, 63, 7487-7498. https://doi.org/10.1021/acs.jcim.3c00954  
+
+Hong, F., Haldeman, B. D., Jackson, D., Carter, M., Baker, J. E., & Cremo, C. R. (2011). Biochemistry of smooth muscle myosin light chain kinase. Archives of Biochemistry and Biophysics, 510(2), 135-146. https://doi.org/10.1016/j.abb.2011.04.018  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., et al. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759-766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Kumar, G., Agarwala, P. K., Srivatsav, A. T., et al. (2024). Identification and benchmarking of Myokinasib-II as a selective and potent chemical probe for exploring MLCK1 inhibition. ACS Chemical Biology, 19, 2165-2175. https://doi.org/10.1021/acschembio.4c00336  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912-1934. https://doi.org/10.1126/science.1075762  
+
+Shi, X., Yu, X., Wang, J., et al. (2022). SIK2 promotes ovarian cancer cell motility and metastasis by phosphorylating MYLK. Molecular Oncology, 16, 2558-2574. https://doi.org/10.1002/1878-0261.13208  
+
+Kelley, C. A., Wirshing, A. C. E., Zaidel-Bar, R., & Cram, E. J. (2018). The myosin light-chain kinase MLCK-1 relocalizes during Caenorhabditis elegans ovulation to promote actomyosin bundle assembly and drive contraction. Molecular Biology of the Cell, 29, 1975-1991. https://doi.org/10.1091/mbc.e18-01-0056  
+
+Schwein, P. A., & Woo, C. M. (2020). The O-GlcNAc modification on kinases. ACS Chemical Biology, 15, 602-617. https://doi.org/10.1021/acschembio.9b01015

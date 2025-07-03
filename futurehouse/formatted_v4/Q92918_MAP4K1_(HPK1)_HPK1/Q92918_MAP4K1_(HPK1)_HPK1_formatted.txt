@@ -1,0 +1,47 @@
+## Phylogeny  
+MAP4K1 (also called HPK1) is a serine/threonine kinase of the STE20 family within the STE group of the human kinome; it falls in the MAP4K/GCK-I subfamily (Johnson et al., 2023, pp. 4-5; Manning et al., 2002, pp. 1-2). The STE20 family has expanded to 31 members in humans compared with flies and worms (Manning et al., 2002, pp. 3-4). MAP4K1 shows highest homology to MAP4K3 and is related to MAP4K2, MAP4K4, MAP4K5 and MAP4K6 (Linney & Kaila, 2021, pp. 3-5). Orthologues are present in mouse (Map4k1) and zebrafish (map4k1), indicating evolutionary conservation (Johnson et al., 2023, pp. 12-18; Mowat et al., 2024, pp. 16-17).
+
+## Reaction Catalyzed  
+ATP + protein ⇌ ADP + phosphoprotein (Johnson et al., 2023, pp. 4-5).
+
+## Cofactor Requirements  
+Catalysis requires ATP and divalent cations, primarily Mg²⁺ (Manning et al., 2002, pp. 2-3; Sun et al., 2023, pp. 17-18). Mn²⁺ can also support activity (Johnson et al., 2023, pp. 3-4).
+
+## Substrate Specificity  
+Consensus motifs derived from profiling differ somewhat among reports:  
+• Basic residue (Arg) at −3 and Pro at +1: R-x-x-S/T-P or R-x-S/T-P (Johnson et al., 2023, pp. 12-18).  
+• Hydrophobic Leu at −5/−3 and Pro at +1 (Johnson et al., 2023, p. 4).  
+• Acidic residues preferred at certain N-terminal positions in one dataset (Johnson et al., 2023, pp. 9-10).  
+• Alternative motif “[Y/F/W]x[E/D]” with an aromatic at −1 and an acidic residue at +1 (Mowat et al., 2024, pp. 16-17).  
+Most studies agree that acidic residues are generally under-represented surrounding the phosphorylation site (Johnson et al., 2023, pp. 12-18).
+
+## Structure  
+MAP4K1 contains an N-terminal kinase domain and a C-terminal CNH regulatory domain that mediates autoinhibition and protein interactions (Schlicher et al., 2023, pp. 2-3; Sun et al., 2023, pp. 17-18). At least seven crystal structures of the kinase domain are available (e.g., PDB 2XIV, 3DTC, 4D67) (Linney & Kaila, 2021, pp. 3-5). Structural features include a conserved ATP-binding site, flexible P-loop, hinge residues Cys94/Glu92, canonical DFG motif, catalytic spine, activation loop and C-helix, all of which adopt conformations that govern activity (Linney & Kaila, 2021, pp. 17-18; Schlicher et al., 2023, pp. 2-3). The domain shows marked flexibility and can form domain-swapped dimers, complicating inhibitor design (Linney & Kaila, 2021, pp. 16-17).
+
+## Regulation  
+Activity is modulated by phosphorylation and ubiquitination.  
+• Autophosphorylation on Thr174 (or Thr165 in another report) is required for activation (Schlicher et al., 2023, pp. 3-5; Linney & Kaila, 2021, pp. 1-3).  
+• ZAP-70 phosphorylates Tyr381 after T-cell-receptor stimulation, creating an SLP-76 docking site; PKD1 phosphorylates Ser171, both contributing to full activation (Linney & Kaila, 2021, pp. 18-19).  
+• Protein levels are limited by ubiquitin-mediated proteasomal degradation via the E3 ligases CBL-B and TRAF2 (Schlicher et al., 2023, pp. 3-5; Sun et al., 2023, pp. 17-18).
+
+## Function  
+MAP4K1 is predominantly expressed in hematopoietic cells (T cells, B cells, dendritic cells) and generally acts as a negative regulator of immune signaling (Linney & Kaila, 2021, pp. 3-5; Schlicher et al., 2023, pp. 2-3). Downstream of T-cell-receptor signaling, it phosphorylates SLP-76 (S376), Gads and CARMA1, attenuating JNK, ERK and NF-κB activation (Linney & Kaila, 2021, pp. 1-3, 18-19). It also serves as an upstream kinase in the Hippo pathway, activating LATS1/2 (Schlicher et al., 2023, pp. 3-5). Interacting partners include SLP-76, B-cell linker protein and CLNK (Linney & Kaila, 2021, pp. 18-19).
+
+## Inhibitors  
+Numerous ATP-competitive inhibitors have been reported, including sunitinib, GNE-1858 and Compound K (Linney & Kaila, 2021, pp. 3-5, 15-16). Compounds in preclinical or clinical development for cancer immunotherapy include BAY-405, AZ1, BLU-852, PF-07265028, NDI-101150, CFI-402411 and BGB-15025 (Mowat et al., 2024, pp. 9-10; Schlicher et al., 2023, pp. 3-5). PROTAC strategies targeting MAP4K1 have also been explored (Linney & Kaila, 2021, pp. 17-18).
+
+## Other Comments  
+MAP4K1 inhibition enhances anti-tumor immunity and can synergize with checkpoint blockade, making it an attractive immuno-oncology target (Linney & Kaila, 2021, pp. 16-17). Elevated MAP4K1 activity or expression has been linked to glioblastoma, pancreatic cancer and systemic lupus erythematosus (Sun et al., 2023, pp. 17-18). Specific disease-associated mutations were not detailed in the provided sources.
+
+## 9. References  
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759-766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Linney, I. D., & Kaila, N. (2021). Inhibitors of immuno-oncology target HPK1 – a patent review (2016 to 2020). Expert Opinion on Therapeutic Patents, 31, 893-910. https://doi.org/10.1080/13543776.2021.1924671  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912-1934. https://doi.org/10.1126/science.1075762  
+
+Mowat, J., Carretero, R., Leder, G., Aiguabella Font, N., Neuhaus, R., Berndt, S., … Offringa, R. (2024). Discovery of BAY-405: An azaindole-based MAP4K1 inhibitor for the enhancement of T-cell immunity against cancer. Journal of Medicinal Chemistry, 67, 17429-17453. https://doi.org/10.1021/acs.jmedchem.4c01325  
+
+Schlicher, L., Green, L. G., Romagnani, A., & Renner, F. (2023). Small molecule inhibitors for cancer immunotherapy and associated biomarkers – the current status. Frontiers in Immunology. https://doi.org/10.3389/fimmu.2023.1297175  
+
+Sun, J.-M., Fan, H.-Y., Zhu, Y., Pan, T.-T., Wu, Y.-P., Zhang, D.-Y., & Hou, X.-Y. (2023). Glioblastoma cellular MAP4K1 facilitates tumor growth and disrupts T effector cell infiltration. Life Science Alliance, 6, e202301966. https://doi.org/10.26508/lsa.202301966

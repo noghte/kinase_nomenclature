@@ -1,0 +1,61 @@
+## Phylogeny  
+Tyrosine-protein kinase Lck (p56^lck) belongs to the Src family of non-receptor protein tyrosine kinases within the broader tyrosine kinase group (Rudd, 2021; Broadbridge & Sharma, 2000; Unknown authors, 1997, 2013). Orthologues are present in mouse and other vertebrates, underscoring a conserved role in adaptive immunity (Kästle et al., 2020; Unknown authors, 1997, 2013).
+
+## Reaction Catalyzed  
+ATP + L-tyrosyl-[protein] ⇌ ADP + O-phospho-L-tyrosyl-[protein] (Broadbridge & Sharma, 2000).
+
+## Cofactor Requirements  
+Catalytic activity requires divalent metal ions, preferentially Mg²⁺ or Mn²⁺ (Kästle et al., 2020; Unknown authors, 1997, 2013).
+
+## Substrate Specificity  
+Peptide library profiling places the strongest amino-acid preferences from positions –3 to +3 around the phosphoacceptor tyrosine (Y = 0) (Unknown authors, 1997, 2013).
+
+## Structure  
+A 509-residue, ~56 kDa protein comprising:  
+• N-terminal SH4 domain with myristoylation/palmitoylation motifs  
+• Unique region that associates with CD4/CD8 coreceptors  
+• SH3 domain (proline-rich binding)  
+• SH2 domain (phosphotyrosine binding)  
+• C-terminal kinase (SH1) domain (Broadbridge & Sharma, 2000; Unknown authors, 1997)  
+
+Crystal structures of the kinase domain are available in inactive (PDB 1QPC) and active (PDB 3LCK) conformations (Unknown authors, 2013). Activation involves C-helix rotation (“C-helix-in”) and extension of the activation loop, whereas the inactive state shows a folded loop and “C-helix-out” arrangement (Kästle et al., 2020; Unknown authors, 2013).
+
+## Regulation  
+• Phosphorylation sites  
+  – Tyr505 (C-terminal tail): CSK-dependent phosphorylation promotes intramolecular SH2 docking and an inactive conformation (Kästle et al., 2020; Broadbridge & Sharma, 2000).  
+  – Tyr394 (activation loop): autophosphorylation enhances catalytic activity and opens the kinase (Kästle et al., 2020; Bell et al., 1991).  
+  – Tyr192 (SH2 domain): modulates function independently of CD45 (Kästle et al., 2020).  
+  – Ser59: ERK-1/2 phosphorylation reported to either stabilise the active state or reinforce inhibition, depending on context (Unknown authors, 1997, 2013).  
+
+• Regulatory enzymes  
+  – CD45 tyrosine phosphatase dephosphorylates Tyr505, activating Lck (Kästle et al., 2020; Broadbridge & Sharma, 2000; Bell et al., 1991).  
+  – CSK phosphorylates Tyr505, keeping Lck inactive (Kästle et al., 2020; Broadbridge & Sharma, 2000; Bell et al., 1991).  
+  – SHP-1 phosphatase negatively regulates Lck (Unknown authors, 1997).  
+
+Lck samples at least four conformations: inactive (Tyr505-P), primed, active (Tyr394-P), and doubly phosphorylated (Kästle et al., 2020).
+
+## Function  
+Highly expressed in thymocytes, mature T cells, and natural killer cells (Kästle et al., 2020; Broadbridge & Sharma, 2000). By binding CD4/CD8, Lck initiates T-cell receptor (TCR) signalling:  
+• Phosphorylates ITAM tyrosines in the TCR/CD3 complex, creating docking sites for ZAP70 (Kästle et al., 2020; Unknown authors, 1997).  
+• Activates ZAP70, propagating downstream signals (Kästle et al., 2020; Broadbridge & Sharma, 2000).  
+
+Reported substrates include PLCγ-1, Cbl, Vav, SLP-76, HS1, Raf-1 and SHP-1, and binding partners include CD4, CD8, CD45, ZAP70 and LAT (Unknown authors, 1997; Kästle et al., 2020).
+
+## Inhibitors  
+Small-molecule ATP-competitive inhibitors Dasatinib and Saracatinib inhibit Lck, and SH2-domain-directed inhibitors are under development (Kästle et al., 2020; Unknown authors, 1997; Unknown authors, 2013; Broadbridge & Sharma, 2000).
+
+## Other Comments  
+Loss-of-function or absence of Lck impairs thymic development and TCR signalling, whereas constitutively active variants contribute to thymic tumours and T-cell leukaemias (Kästle et al., 2020; Broadbridge & Sharma, 2000). The Y505F mutation yields an oncogenic, constitutively active kinase, while Y394 mutations diminish T-cell responsiveness (Unknown authors, 1997). Aberrant Lck activity is linked to immunodeficiencies, cancer and autoimmune disease (Broadbridge & Sharma, 2000).
+
+## References  
+Bell, J. C., Sonnenberg, N., Abraham, N., & Veillette, A. (1991). The lymphocyte-specific tyrosine protein kinase p56lck. Seminars in Immunology, 3(3), 143–152. https://doi.org/10.3109/07357909109084644  
+
+Broadbridge, R. J., & Sharma, R. P. (2000). The Src homology-2 domains (SH2 domains) of the protein tyrosine kinase p56 lck: Structure, mechanism and drug design. Current Drug Targets, 1, 365–386. https://doi.org/10.2174/1389450003349074  
+
+Kästle, M., Merten, C., Hartig, R., Kaehne, T., Liaunardy-Jopeace, A., Woessner, N. M., Schamel, W. W., James, J., Minguet, S., Simeoni, L., & Schraven, B. (2020). Tyrosine 192 within the SH2 domain of the Src-protein tyrosine kinase p56lck regulates T-cell activation independently of Lck/CD45 interactions. Cell Communication and Signaling. https://doi.org/10.1186/s12964-020-00673-z  
+
+Rudd, C. E. (2021). How the discovery of the CD4/CD8-p56lck complexes changed immunology and immunotherapy. Frontiers in Cell and Developmental Biology. https://doi.org/10.3389/fcell.2021.626095  
+
+Unknown authors. (1997). Regulation of lymphocyte-specific tyrosine protein kinase p56lck by tyrosine phosphorylation.  
+
+Unknown authors. (2013). Primary T cell immunodeficiencies associated with disturbed proximal T cell receptor signalling caused by human autosomal recessive LCK, ZAP-70 and ITK.

@@ -1,0 +1,51 @@
+## Phylogeny  
+STK26/MST4 belongs to the germinal-center kinase III (GCK-III) subgroup of the STE20 serine/threonine kinase super-family (Miller et al., 2019). It forms a paralogous clade with MST3 (STK24) and STK25/SOK1 (Miller et al., 2019). Orthologues are present in mouse, zebrafish and Drosophila, indicating broad metazoan conservation (Yin et al., 2012). More distant homologues occur in filamentous fungi such as Sordaria macrospora and Neurospora crassa (Frey, 2015), and yeast kinases Orb3/Nak1 and Kic1 occupy the same evolutionary branch that regulates polarized growth and cytokinesis (Thompson & Sahai, 2015).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-phospho-Ser/Thr (Record et al., 2010).  
+
+## Cofactor Requirements  
+Catalytic activity requires divalent cations; Mg²⁺ or Mn²⁺ efficiently support phosphorylation (Yin et al., 2012).  
+
+## Substrate Specificity  
+A consensus phosphorylation motif was mapped for MST4, although the precise sequence was not reported (Yin et al., 2012). Confirmed cellular substrates include ATG4B (Ser383), ERM proteins, GM130 and MOB4 (Unknown Authors, 2023). TRAF6 is phosphorylated on Thr463/468 during innate immune responses (Getu et al., 2023), illustrating tolerance for either serine or threonine in varied sequence contexts.  
+
+## Structure  
+MST4 consists of an N-terminal kinase domain (residues 1–251) containing the ATP-binding Lys53 and the catalytic HRD motif within a canonical bilobal fold (Unknown Authors, 2023). The activation loop harbours the regulatory Thr190 whose phosphorylation is essential for activity (Record et al., 2010). A C-terminal regulatory tail interacts with PDCD10/CCM3 and GM130, promoting dimerisation and subcellular targeting (Unknown Authors, 2023). A crystal structure of the inactive kinase bound to a quinazoline inhibitor (PDB 3GGF) shows an intact hydrophobic spine and an unphosphorylated activation loop (Record et al., 2010). AlphaFold modelling predicts a MO25 interaction surface that shields Thr190 from phosphatases (Unknown Authors, 2023).  
+
+## Regulation  
+• Autophosphorylation on Thr190 activates MST4 (Yin et al., 2012).  
+• PP2A within striatin-based STRIPAK complexes dephosphorylates Thr190 and suppresses activity (Unknown Authors, 2023).  
+• MO25/CAB39 binding stabilises the active conformation by protecting Thr190 from dephosphorylation (Unknown Authors, 2023).  
+• GM130 anchors MST4 at the Golgi to promote autophosphorylation, whereas CCM3 recruits the kinase into STRIPAK assemblies (Frey, 2015).  
+• MST4 is resistant to caspase cleavage, unlike MST1/2 (Wang, 2011).  
+
+## Function  
+Transcriptomic data show ubiquitous expression with highest levels in placenta, thymus and immune tissues (Getu et al., 2023). At the cellular level, GM130 directs Golgi localisation with redistribution during polarised migration (Unknown Authors, 2023). Epidermal growth factor receptor signalling increases MST4 activity in prostate tumour cells (Shi et al., 2016). Together with STK24, MST4 constrains RHO-driven Golgi re-orientation during directed migration (Unknown Authors, 2023). Phosphorylation of ATG4B (Ser383) enhances autophagic flux, while phosphorylation of ERM proteins links MST4 to actin cytoskeleton remodelling (Unknown Authors, 2023). MST4 can phosphorylate AMPKα1 in vitro, connecting it to energy-sensing pathways (Liu et al., 2022). Within STRIPAK, phosphorylation of MOB4 integrates Hippo pathway signalling (Unknown Authors, 2023).  
+
+## Inhibitors  
+A quinazoline scaffold has been co-crystallised in the ATP-binding pocket (Record et al., 2010), but no selective inhibitors have been validated in cells.  
+
+## Other Comments  
+Over-expression of MST4 correlates with hepatocarcinogenesis and other cancers, promoting proliferation, migration and therapy resistance (Getu et al., 2023). Neratinib induces autophagic degradation of MST4 (Getu et al., 2023). Somatic STK26 mutations have been catalogued, though their functional impact is unknown (Miller et al., 2019).  
+
+## 9. References  
+Frey, S. (2015). The STRIPAK complex and its role in fruiting-body development of the filamentous fungus Sordaria macrospora (Doctoral dissertation). University Goettingen Repository. https://doi.org/10.53846/goediss-5284  
+
+Getu, A. A., Zhou, M., Cheng, S.-Y., & Tan, M. (2023). The mammalian sterile 20-like kinase 4 (MST4) signaling in tumor progression: Implications for therapy. Cancer Letters, 563, 216183. https://doi.org/10.1016/j.canlet.2023.216183  
+
+Liu, Y., Wang, T. V., Cui, Y., Gao, S., & Rao, Y. (2022). Biochemical purification uncovers mammalian sterile 3 (MST3) as a new protein kinase for multifunctional protein kinases AMPK and SIK3. Journal of Biological Chemistry, 298, 101929. https://doi.org/10.1016/j.jbc.2022.101929  
+
+Miller, C. J., Lou, H. J., Simpson, C., van de Kooij, B., Ha, B. H., Fisher, O. S., … Turk, B. E. (2019). Comprehensive profiling of the STE20 kinase family defines features essential for selective substrate targeting and signaling output. PLOS Biology, 17, e2006540. https://doi.org/10.1371/journal.pbio.2006540  
+
+Record, C. J., Chaikuad, A., Rellos, P., Das, S., Pike, A. C. W., Fedorov, O., … Lee, W. H. (2010). Structural comparison of human mammalian STE20-like kinases. PLoS ONE, 5, e11905. https://doi.org/10.1371/journal.pone.0011905  
+
+Shi, Z., Jiao, S., & Zhou, Z. (2016). STRIPAK complexes in cell signaling and cancer. Oncogene, 35, 4549–4557. https://doi.org/10.1038/onc.2016.9  
+
+Thompson, B. J., & Sahai, E. (2015). MST kinases in development and disease. Journal of Cell Biology, 210, 871–882. https://doi.org/10.1083/jcb.201507005  
+
+Wang, X. (2011). STK24 promotes myogenic differentiation via multiple mechanisms (Doctoral dissertation). The Hong Kong University of Science and Technology. https://doi.org/10.14711/thesis-b1155425  
+
+Yin, H., Chen, C., Feng, M., Shi, Z., Greene, M. I., & Zhou, Z. (2012). Multiple functions of mammalian germinal center kinases. Current Chemical Biology, 6, 123–133. https://doi.org/10.2174/187231312801254778  
+
+Unknown Authors. (2023). MST3 and MST4: Critical regulators of liver lipid partitioning and hepatocarcinogenesis. (Pages 22–26).

@@ -1,0 +1,43 @@
+## Phylogeny  
+MAP2K2 (MEK2) belongs to the MEK family within the STE group of the human protein kinome (Akinleye et al., 2013; Hanrahan et al., 2020; Ram et al., 2023). It is a close paralogue of MAP2K1 (MEK1), sharing ~80 % overall and ~90 % kinase-domain sequence identity (Hanrahan et al., 2020; Ram et al., 2023). Orthologues are conserved across metazoans, including vertebrates, Drosophila and C. elegans (Peti & Page, 2013).  
+
+## Reaction Catalyzed  
+ATP + [MAP-kinase protein] → ADP + [MAP-kinase phosphoprotein] (Ram et al., 2023; Mukherjee et al., 2024).  
+
+## Cofactor Requirements  
+Requires Mg²⁺ for ATP binding and phosphoryl transfer (Akinleye et al., 2013; Ram et al., 2023).  
+
+## Substrate Specificity  
+MEK2 selectively phosphorylates ERK1 and ERK2 on the Thr and Tyr residues within the TEY activation-loop motif (Akinleye et al., 2013; Hanrahan et al., 2020). Motif profiling ranks MEK2 highest (99.81 percentile) for ERK1 Thr202 and second (98.72 percentile) for ERK2 Thr203 within the sequence HTGFLTEYVA (Johnson et al., 2023). Docking interactions ensure ERKs are almost exclusively regulated by MEK family kinases (Johnson et al., 2023).  
+
+## Structure  
+MEK2 comprises an N-terminal regulatory region, a bi-lobed catalytic kinase domain and a C-terminal segment (Akinleye et al., 2013). The N-lobe contains β-sheets, a P-loop and the αC-helix; the larger C-lobe is α-helical and houses the activation segment (Ram et al., 2023; Peti & Page, 2013). A hydrophobic spine of conserved residues stabilises the fold (Peti & Page, 2013). The activation loop (Ser222/Ser226) can form a short helix that creates an allosteric pocket targeted by type-III inhibitors (Zhao et al., 2017). Homology (PDB 3SLS) and AlphaFold (UniProt P36507) models confirm these features (Hanrahan et al., 2020).  
+
+## Regulation  
+Activation requires RAF-mediated phosphorylation of Ser222 and Ser226 (Akinleye et al., 2013; Ram et al., 2023). Scaffold protein KSR organises RAF–MEK–ERK complexes to enhance signalling fidelity (Hanrahan et al., 2020). Signal duration is limited by downstream phosphatases such as DUSPs and KIM-PTPs that dephosphorylate ERK substrates (Peti & Page, 2013).  
+
+## Function  
+Ubiquitously expressed MEK2 is the essential intermediary in the Ras/RAF/MEK/ERK cascade, acting as the sole activator of ERK1/2 (Peti & Page, 2013; Ram et al., 2023). Activated ERKs phosphorylate transcription factors (e.g., c-MYC, CREB, c-FOS) to control proliferation, differentiation, survival, motility and apoptosis (Akinleye et al., 2013; Mukherjee et al., 2024).  
+
+## Inhibitors  
+Clinically approved allosteric, ATP-non-competitive inhibitors that target MEK2 include trametinib, cobimetinib, selumetinib and binimetinib (Ram et al., 2023). Experimental compounds with MEK2 activity include PD98059, U0126 and PD184352 (Mukherjee et al., 2024). These molecules bind an allosteric pocket adjacent to the ATP site and lock the kinase in an inactive conformation (Akinleye et al., 2013; Zhao et al., 2017).  
+
+## Other Comments  
+Gain-of-function MAP2K2 mutations (e.g., Y134C, S154F, P298L) constitutively activate the MAPK pathway and are associated with Cardio-facio-cutaneous syndrome and cancers such as melanoma and colorectal carcinoma (Hanrahan et al., 2020; Ram et al., 2023). MAP2K2 haploinsufficiency due to gene deletion represents an additional rasopathy mechanism (Nowaczyk et al., 2014).  
+
+## 9. References  
+Akinleye, A., Furqan, M., Mukhi, N., Ravella, P., & Liu, D. (2013). MEK and the inhibitors: From bench to bedside. Journal of Hematology & Oncology, 6, 27. https://doi.org/10.1186/1756-8722-6-27  
+
+Hanrahan, A. J., Sylvester, B. E., Chang, M. T., Elzein, A., Gao, J., Han, W., … Solit, D. B. (2020). Leveraging systematic functional analysis to benchmark an in silico framework distinguishes driver from passenger MEK mutants in cancer. Cancer Research, 80, 4233–4243. https://doi.org/10.1158/0008-5472.CAN-20-0865  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Mukherjee, T., Mohanty, S., Kaur, J., Das, M., Adhikary, K., Chatterjee, P., & Maiti, R. (2024). Exploring small-molecule inhibitors targeting MAPK pathway components: Focus on ERK, MEK1, and MEK2 kinases in cancer treatment. Chemical Biology Letters, 11, 659. https://doi.org/10.62110/sciencein.cbl.2024.v11.659  
+
+Nowaczyk, M. J., Thompson, B. A., Zeesman, S., Moog, U., Sanchez-Lara, P., Magoulas, P., … Rauen, K. (2014). Deletion of MAP2K2/MEK2: A novel mechanism for a rasopathy? Clinical Genetics. https://doi.org/10.1111/cge.12116  
+
+Peti, W., & Page, R. (2013). Molecular basis of MAP kinase regulation. Protein Science. https://doi.org/10.1002/pro.2374  
+
+Ram, T., Singh, A. K., Kumar, A., Singh, H., Pathak, P., Grishina, M., … Kumar, P. (2023). MEK inhibitors in cancer treatment: Structural insights, regulation, recent advances and future perspectives. RSC Medicinal Chemistry, 14(10), 1837–1857. https://doi.org/10.1039/D3MD00145H  
+
+Zhao, Z., Xie, L., & Bourne, P. (2017). Insights into the binding mode of MEK type-III inhibitors: A step towards discovering and designing allosteric kinase inhibitors across the human kinome. PLOS ONE. https://doi.org/10.1101/076711

@@ -1,0 +1,64 @@
+## Phylogeny  
+EPHB4 belongs to the EphB sub-family of Eph receptor tyrosine kinases, which comprises four catalytically active members (EphB1–EphB4) and one catalytically inactive receptor (EphB6) (Overman et al., 2014). The catalytic domain shares ~86 % sequence identity with that of EphB3 (Overman et al., 2014). Within the Manning kinome classification, EPHB4 is placed in the Eph receptor family of the tyrosine kinase (TK) group (Choi et al., 2009; Strozen et al., 2021).
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + protein-L-tyrosine-phosphate (Unknown Authors, 2021; Overman et al., 2013; Unknown Authors, 2012).
+
+## Cofactor Requirements  
+Catalytic activity requires divalent metal ions. Both Mg²⁺ and Mn²⁺ support catalysis; Mg²⁺ (typically 10 mM MgCl₂) is routinely used in kinase assays (Overman et al., 2013; Strozen et al., 2021; Overman et al., 2014).
+
+## Substrate Specificity  
+Positional scanning peptide array analysis defined a consensus surrounding the phospho-acceptor tyrosine, with strong preferences at positions −1 to +3 (Yaron-Barir et al., 2024). Positional scoring matrices derived from these data enable identification of optimal peptide substrates for EPHB4 (Yaron-Barir et al., 2024).
+
+## Structure  
+EPHB4 is a single-pass membrane protein comprising:  
+• Extracellular region – an N-terminal ephrin-binding globular domain (jelly-roll β-sandwich), a cysteine-rich segment and two fibronectin type III repeats (Chrencik et al., 2006).  
+• Transmembrane helix.  
+• Intracellular region – juxtamembrane segment, kinase domain, sterile α motif (SAM) and a C-terminal PDZ-binding motif (Overman et al., 2013).  
+
+Crystal structures are available for the ephrin-binding domain (PDB 2HLE) and for the kinase domain complexed with staurosporine (PDB 2VWU) (Chrencik et al., 2006; Overman et al., 2014). Canonical catalytic motifs (VAIK, αC Glu, DFG, activation loop) are conserved, and the ligand-binding domain contains a unique Pro-Gly-Ala insertion in the J–K loop that contributes to ligand specificity (Chrencik et al., 2006). Flexible D-E and J-K loops remodel upon ligand engagement (Chrencik et al., 2006).
+
+## Regulation  
+Ligand (ephrin-B2) binding promotes autophosphorylation of juxtamembrane Tyr590/Tyr596 and activation-loop Tyr774, relieving JM-mediated autoinhibition (Overman et al., 2013; Rutkowski, 2016). Certain cancer-associated mutants (e.g., A742V) signal with little or no tyrosine phosphorylation, implying regulation by receptor clustering, dimerization, or serine/threonine phosphorylation (Ferguson et al., 2015).  
+
+## Function  
+Expression: low in many tissues, absent from brain; prominent on venous endothelial cells (Rutkowski, 2016; Unknown Authors, 2018).  
+Ligand: ephrin-B2 initiates signalling (Ferguson et al., 2015).  
+Down-stream pathways: Ras/MEK/ERK, PI3K/Akt, PI3K/mTORC1 and JAK/STAT (Piffkó et al., 2022; Zeng et al., 2019).  
+Reported substrates: EPHA2, PDGFRβ, Ret and VEGFR2 (Ferguson et al., 2015).  
+Binding partners: Crk, EphB6, PI3K, PTEN, VEGF, Rac1, MMP2, PECAM1, EpoR, Fer, Lat and STAT5A (Piffkó et al., 2022; Rutkowski, 2016).  
+Physiological roles: regulation of cell adhesion, migration, angiogenesis, lymphangiogenesis and arterial–venous segregation during development (Piffkó et al., 2022).
+
+## Inhibitors  
+Small-molecule: NVP-BHG712 and the broad-spectrum kinase inhibitor staurosporine (Choi et al., 2009; Overman et al., 2014).  
+Biologics: antagonistic antibodies, peptide mimetics of ephrin binding, and soluble EPHB4 (sEPHB4) (Piffkó et al., 2022; Ferguson et al., 2015).
+
+## Other Comments  
+EPHB4 overexpression or mutation is linked to multiple cancers (lung, prostate, ovarian, colorectal, melanoma) and to vascular disorders such as central conducting lymphatic anomaly and capillary malformation–arteriovenous malformation (Piffkó et al., 2022; Zeng et al., 2019). Cancer-associated kinase-domain mutations (e.g., G723S, A742V, P881S) can enhance proliferation, alter phosphorylation status and confer partial resistance to paclitaxel or sEPHB4 (Ferguson et al., 2015).
+
+## References  
+Choi, Y., Syeda, F., Walker, J. R., Finerty, P. J., Cuerrier, D., Wojciechowski, A., … Gray, N. S. (2009). Discovery and structural analysis of Eph receptor tyrosine kinase inhibitors. Bioorganic & Medicinal Chemistry Letters, 19, 4467-4470. https://doi.org/10.1016/j.bmcl.2009.05.029  
+
+Chrencik, J. E., Brooun, A., Recht, M. I., Kraus, M. L., Koolpe, M., Kolatkar, A., … Kuhn, P. (2006). Structure and thermodynamic characterization of the EphB4/ephrin-B2 antagonist peptide complex reveals the determinants for receptor specificity. Structure, 14(2), 321-330. https://doi.org/10.1016/j.str.2005.11.011  
+
+Ferguson, B., Tan, Y.-H. C., Kanteti, R., Liu, R., Gayed, M. J., Vokes, E., … Salgia, R. (2015). Novel EPHB4 receptor tyrosine kinase mutations and kinomic pathway analysis in lung cancer. Scientific Reports, 5, 10641. https://doi.org/10.1038/srep10641  
+
+Overman, R., Green, I., Truman, C., Read, J., Embrey, K., McAlister, M., & Attwood, T. K. (2013). Stability and solubility engineering of the EPHB4 tyrosine kinase catalytic domain using a rationally designed synthetic library. Protein Engineering, Design & Selection, 26(10), 695-704. https://doi.org/10.1093/protein/gzt032  
+
+Overman, R. C., Debreczeni, J. E., Truman, C. M., McAlister, M. S., & Attwood, T. K. (2014). Completing the structural family portrait of the human EphB tyrosine kinase domains. Protein Science, 23(5), 643-655. https://doi.org/10.1002/pro.2445  
+
+Piffkó, A., Uhl, C., Vajkoczy, P., Czabanka, M., & Broggini, T. (2022). Ephrin-B2–EPHB4 signaling in neuro-oncological disease. International Journal of Molecular Sciences, 23(3), 1679. https://doi.org/10.3390/ijms23031679  
+
+Rutkowski, R. (2016). New roles for EPHB4 in prostate cancer (Doctoral dissertation). https://doi.org/10.5204/thesis.eprints.98748  
+
+Strozen, T. G., Sharpe, J. C., Harris, E. D., Uppalapati, M., & Toosi, B. M. (2021). The EPHB6 receptor: kinase-dead but very much alive. International Journal of Molecular Sciences, 22(15), 8211. https://doi.org/10.3390/ijms22158211  
+
+Unknown Authors. (2012). Eph receptor clustering is the central integrator in eliciting graded kinase-dependent signaling responses (pp. 34–36).  
+
+Unknown Authors. (2018). The functional and biological implications of EPHB4 receptor overexpression and knockout in colorectal cancer (pp. 70–75).  
+
+Unknown Authors. (2021). Identification de nouvelles protéines effectrices dans la signalisation des récepteurs Eph (pp. 46–47).  
+
+Yaron-Barir, T. M., Joughin, B. A., Huntsman, E. M., Kerelsky, A., Cizin, D. M., Cohen, B. M., … Johnson, J. L. (2024). The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629, 1174-1181. https://doi.org/10.1038/s41586-024-07407-y  
+
+Zeng, X., Hunt, A., Jin, S., Duran, D., Gaillard, J. R., & Kahle, K. (2019). Ephrin-B2–EPHB4–RASA1 signaling in human cerebrovascular development and disease. Trends in Molecular Medicine, 25(4), 265-286. https://doi.org/10.1016/j.molmed.2019.01.009

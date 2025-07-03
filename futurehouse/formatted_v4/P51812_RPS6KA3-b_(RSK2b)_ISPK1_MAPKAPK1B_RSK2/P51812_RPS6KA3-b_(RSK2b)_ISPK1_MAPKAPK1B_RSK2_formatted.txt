@@ -1,0 +1,64 @@
+## Phylogeny  
+RSK2 belongs to the AGC protein-kinase group and is classified in the p90 ribosomal S6 kinase (RSK) subfamily of MAPK-activated protein kinases, which also includes MSKs, MNKs and MK2/3/5 (Cargnello & Roux, 2011). Within the human RSK clade, RSK2 clusters most closely with RSK4, whereas RSK1 and RSK3 form a parallel branch (Wright & Lannigan, 2023). Deep evolutionary conservation is indicated by orthologues in mouse (Rps6ka3), rat, zebrafish, Xenopus, Drosophila S6KII and C. elegans rsks-1 (Romeo et al., 2012; Lara et al., 2013).  
+
+## Reaction Catalyzed  
+ATP + [protein]-L-Ser/Thr ⇌ ADP + [protein]-O-phospho-L-Ser/Thr (Utepbergenov et al., 2016).  
+
+## Cofactor Requirements  
+Catalysis requires divalent cations; activity is supported by Mg²⁺ or Mn²⁺ (Nishimoto et al., 2014).  
+
+## Substrate Specificity  
+High-throughput and peptide-library screens define a basophilic consensus R/K-X-R/K-X-X-S/T*, with strong enrichment for Arg/Lys at the −3 and −5 positions and a preference for Ser over Thr (Wright & Lannigan, 2023; Cargnello & Roux, 2011; Romeo et al., 2012).  
+
+## Structure  
+Domain organisation:  
+1. C-terminal kinase domain (CTKD, CaMK-like) containing the ERK target Thr577.  
+2. Regulatory linker with Thr359/Ser363 and the autophosphorylated hydrophobic-motif Ser386.  
+3. N-terminal kinase domain (NTKD, AGC-like) activated by PDK1 phosphorylation of Ser221.  
+4. Auxiliary regions carrying the ERK docking (KIM) site, nuclear localisation/export signals (Cargnello & Roux, 2011; Nishimoto et al., 2014).  
+
+3D information: crystal structures of the NTKD (apo, ATP-analogue and inhibitor-bound; PDB 2Z7Q, 3G51, 4NUS) show a canonical bilobal fold in an active DFG-in conformation with the conserved Lys100–Glu119 salt bridge (Malakhova et al., 2009; Utepbergenov & Derewenda, 2013).  
+
+## Regulation  
+Stepwise phosphorylation cascade:  
+1. ERK1/2 docks on the KIM and phosphorylates CTKD Thr577 and linker Thr359/Ser363.  
+2. The activated CTKD autophosphorylates Ser386.  
+3. Phospho-Ser386 recruits PDK1, which phosphorylates NTKD Ser221 to yield full activity (Cargnello & Roux, 2011; Nishimoto et al., 2014).  
+
+Additional inputs: FGFR/Src-driven tyrosine phosphorylation enhances ERK binding; 14-3-3 binding and ubiquitination affect stability and localisation; PP2Cδ dephosphorylation contributes to signal termination (Wright & Lannigan, 2023; Romeo et al., 2012).  
+
+## Function  
+Expression: highest in brain (hippocampal pyramidal neurons, cerebellar Purkinje cells) with notable levels in T-cells, lymph nodes and prostate (Lee et al., 2007; Lara et al., 2013).  
+
+Upstream regulators: RAS–RAF–MEK–ERK cascade, FGFR/Src signalling and PDK1 (Cargnello & Roux, 2011).  
+
+Principal substrates/interactors: CREB1, histone H3, NR4A1, ETV1, CREBBP, RPS6, EIF4B, BAD, DAPK1, ATF4, c-Fos, TSC2, SOS, p27^Kip1, L1-CAM, nNOS, RanBP3 and Gab2 (Romeo et al., 2012; Wright & Lannigan, 2023; Lee et al., 2007).  
+
+Pathway roles: promotes immediate-early gene expression (via CREB1, c-Fos), augments mTORC1 signalling (TSC2), suppresses apoptosis (BAD, DAPK1), provides negative feedback to ERK (SOS) and regulates neuronal development, cytoskeletal dynamics and EMT (Cargnello & Roux, 2011; Romeo et al., 2012).  
+
+## Inhibitors  
+ATP-competitive NTKD inhibitors SL-0101, BI-D1870 and LJH685; irreversible CTKD inhibitor FMK; covalent pan-RSK inhibitor PMD-026 (clinical evaluation); natural products such as kaempferol and CX-F9 also attenuate RSK2 signalling (Lara et al., 2013; Cargnello & Roux, 2011; Wright & Lannigan, 2023).  
+
+## Other Comments  
+Loss-of-function mutations in RPS6KA3 cause X-linked Coffin–Lowry syndrome; most alleles encode truncated or kinase-dead proteins, and Rsk2-null mice recapitulate the neurocognitive and motor deficits (Cargnello & Roux, 2011; Nishimoto et al., 2014). Elevated RSK2 activity or expression is reported in breast, prostate, lung and melanoma, highlighting therapeutic potential (Utepbergenov et al., 2016; Wright & Lannigan, 2023).  
+
+## References  
+Anjum, R., & Blenis, J. (2008). The RSK family of kinases: Emerging roles in cellular signalling. Nature Reviews Molecular Cell Biology, 9, 747–758. https://doi.org/10.1038/nrm2509  
+
+Cargnello, M., & Roux, P. P. (2011). Activation and function of the MAPKs and their substrates, the MAPK-activated protein kinases. Microbiology and Molecular Biology Reviews, 75, 50–83. https://doi.org/10.1128/mmbr.00031-10  
+
+Lara, R., Seckl, M., & Pardo, O. (2013). The p90 RSK family members: Common functions and isoform specificity. Cancer Research, 73(17), 5301–5308. https://doi.org/10.1158/0008-5472.CAN-12-4448  
+
+Lee, K. Y., Bignone, P. A., & Ganesan, T. S. (2007). P90 ribosomal S6 kinases-eclectic members of the human kinome. Signal Transduction, 7, 225–239. https://doi.org/10.1002/sita.200600091  
+
+Malakhova, M., Kurinov, I., Liu, K., Zheng, D., D'Angelo, I., Shim, J.-H., Steinman, V., Bode, A. M., & Dong, Z. (2009). Structural diversity of the active N-terminal kinase domain of p90 ribosomal S6 kinase 2. PLOS ONE, 4, e8044. https://doi.org/10.1371/journal.pone.0008044  
+
+Nishimoto, H. K., Ha, K., Jones, J. R., Dwivedi, A., Cho, H.-M., Layman, L. C., & Kim, H.-G. (2014). The historical Coffin–Lowry syndrome family revisited: Identification of two novel mutations of RPS6KA3 in three male patients. American Journal of Medical Genetics Part A, 164, 2172–2179. https://doi.org/10.1002/ajmg.a.36488  
+
+Romeo, Y., Zhang, X., & Roux, P. P. (2012). Regulation and function of the RSK family of protein kinases. Biochemical Journal, 441(2), 553–569. https://doi.org/10.1042/BJ20110289  
+
+Utepbergenov, D., & Derewenda, Z. (2013). The unusual mechanism of inhibition of the p90 ribosomal S6 kinase (RSK) by flavonol rhamnosides. Biochimica et Biophysica Acta, 1834(7), 1285–1291. https://doi.org/10.1016/j.bbapap.2013.03.018  
+
+Utepbergenov, D., Hennig, P. M., Derewenda, U., Artamonov, M. V., Somlyo, A., & Derewenda, Z. (2016). Bacterial expression, purification and in vitro phosphorylation of full-length ribosomal S6 kinase 2 (RSK2). PLOS ONE. https://doi.org/10.1371/journal.pone.0164343  
+
+Wright, E. B., & Lannigan, D. A. (2023). Therapeutic targeting of p90 ribosomal S6 kinase. Frontiers in Cell and Developmental Biology. https://doi.org/10.3389/fcell.2023.1297292

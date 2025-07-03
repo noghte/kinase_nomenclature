@@ -1,0 +1,63 @@
+## Phylogeny  
+PKMYT1 belongs to the WEE kinase family within the atypical CMGC branch. Its closest human paralogues are WEE1 and WEE2 (Schmidt et al., 2017). Verified metazoan orthologues include Xenopus laevis Myt1, which controls oocyte G2 arrest (Ruiz et al., 2010), and Drosophila melanogaster Myt1, required for spermatocyte progression (Varadarajan et al., 2016). Comparative studies also list Saccharomyces cerevisiae Swe1, Mus musculus Pkmyt1 and Danio rerio pkmyt1, underscoring broad eukaryotic conservation (Schmidt et al., 2017). Functional redundancy with WEE1 has been demonstrated in both human and fly models, indicating a shared evolutionary role in the G2/M checkpoint (Schmidt et al., 2017).
+
+## Reaction Catalyzed  
+ATP + [CDK1]-Thr14 → ADP + [CDK1]-Thr14-P  
+A slower parallel reaction phosphorylates Tyr15 on the same CDK1/cyclin B complex (Schmidt et al., 2017; Platzer et al., 2018).
+
+## Cofactor Requirements  
+Catalysis is ATP-dependent and requires the canonical Mg²⁺ cofactor; no additional divalent metal has been reported (Rohe et al., 2012).
+
+## Substrate Specificity  
+• High selectivity for full-length CDK1/cyclin B; most synthetic peptides are not accepted (Rohe et al., 2012).  
+• A minimal peptide acceptor (EFS²⁴⁷–²⁵⁹) was identified under optimized conditions, indicating limited peptide tolerance (Platzer et al., 2018).  
+• Dual-specificity kinase that targets Thr14 and Tyr15, with kinetic preference for Thr14 (Schmidt et al., 2017).  
+• No linear consensus motif has been defined (Rohe et al., 2012).
+
+## Structure  
+PKMYT1 is a single-pass membrane protein.  
+– N-terminal transmembrane segment anchors the kinase to ER/Golgi membranes (Schmidt et al., 2017).  
+– Central bilobal kinase domain (~residues 75–362) contains the catalytic machinery but is inactive without flanking regions (Rohe et al., 2012).  
+– C-terminal tail mediates high-affinity binding to CDK1 complexes (Schmidt et al., 2017).  
+
+Nine crystal structures of the kinase domain (apo and inhibitor-bound) are available (PDB: 3P1A, 5VCV–5VD3) (Platzer et al., 2018). Key features include a Lys139–Glu157 salt bridge, gatekeeper Thr178 that opens a hydrophobic back pocket, hinge residue Cys190 as the principal ATP/inhibitor anchor, the DFG motif Asp251-Phe252-Gly253, and P-loop Ser120 that accommodates both threonine and tyrosine substrates (Schmidt et al., 2017; Platzer et al., 2018).
+
+## Regulation  
+• Auto-phosphorylation by active CDK1/cyclin B down-regulates PKMYT1 at mitotic entry (Schmidt et al., 2017).  
+• Polo-like kinase 1 phosphorylation accelerates G2 checkpoint recovery (Schmidt et al., 2017).  
+• MEK1-dependent phosphorylation promotes Golgi fragmentation during prophase (Schmidt et al., 2017).  
+• In Xenopus oocytes, sequential phosphorylation by CDK1/XRINGO followed by p90Rsk at five C-terminal sites abolishes CDK1 binding and fully inactivates the kinase (Ruiz et al., 2010).  
+• Substrate binding enhances ATP affinity, suggesting substrate-induced ordering of the active site (Platzer et al., 2018).
+
+## Function  
+PKMYT1 is the principal membrane-bound inhibitor of CDK1/cyclin B, enforcing the G2/M checkpoint (Schmidt et al., 2017). ER/Golgi localisation is essential for coordinating organelle fragmentation and reassembly during mitosis (Schmidt et al., 2017; Zhu et al., 2017). Over-expression is reported in pancreatic ductal adenocarcinoma, gastric, colorectal, hepatocellular and non-small-cell lung cancers, where it promotes proliferation and apoptosis resistance and represents a CRISPR-defined dependency (Huang et al., 2025; Zhang et al., 2020; Schmidt et al., 2017). A synthetic-lethal interaction with WEE1 loss has been observed in glioblastoma stem-like cells (Schmidt et al., 2017). Upstream regulators include Plk1 and MEK1; the primary downstream substrate is CDK1 (Rohe et al., 2012; Schmidt et al., 2017).
+
+## Inhibitors  
+• PD0166285, pyridopyrimidine, IC₅₀ ≈ 7 nM (Schmidt et al., 2017).  
+• Dasatinib (IC₅₀ ≈ 130 nM) and Bosutinib (IC₅₀ ≈ 350 nM); broad-spectrum (Schmidt et al., 2017).  
+• RP-6306, selective oral inhibitor in pre-clinical development (Huang et al., 2025).  
+• CMNPD31124, marine indole alkaloid with nanomolar affinity in PDAC models (Huang et al., 2025).  
+• MK-1775, WEE1-selective compound showing moderate PKMYT1 inhibition (Platzer et al., 2018).  
+• Additional diaminopyrimidine, azastilbene and 4-aminoquinoline scaffolds with sub-micromolar potency have been reported (Platzer et al., 2018; Najjar et al., 2019).
+
+## Other Comments  
+Cancer cells with p53 defects depend on the PKMYT1-mediated G2 checkpoint, providing a therapeutic window in combination with DNA-damaging agents. The kinase shows a low small-molecule hit rate (~4 %), complicating selective inhibitor discovery (Schmidt et al., 2017).
+
+## References  
+Huang, C., Wang, T., Chen, R., & Xu, Y. (2025). Discovery of CMNPD31124 as a novel marine-derived PKMYT1 inhibitor for pancreatic ductal adenocarcinoma therapy: computational and biological insights. Frontiers in Pharmacology. https://doi.org/10.3389/fphar.2025.1569765  
+
+Najjar, A., Platzer, C., Luft, A., Aßmann, C., Elghazawy, N. H., Erdmann, F., Sippl, W., & Schmidt, M. (2019). Computer-aided design, synthesis and biological characterization of novel inhibitors for PKMYT1. European Journal of Medicinal Chemistry, 161, 479–492. https://doi.org/10.1016/j.ejmech.2018.10.050  
+
+Platzer, C., Najjar, A., Rohe, A., Erdmann, F., Sippl, W., & Schmidt, M. (2018). Identification of PKMYT1 inhibitors by screening the GSK published protein kinase inhibitor set I and II. Bioorganic & Medicinal Chemistry, 26, 4014–4024. https://doi.org/10.1016/j.bmc.2018.06.027  
+
+Rohe, A., Erdmann, F., Bäßler, C., Wichapong, K., Sippl, W., & Schmidt, M. (2012). In vitro and in silico studies on substrate recognition and acceptance of human PKMYT1, a CDK1 inhibitory kinase. Bioorganic & Medicinal Chemistry Letters, 22(2), 1219–1223. https://doi.org/10.1016/j.bmcl.2011.11.064  
+
+Ruiz, E. J., Vilar, M., & Nebreda, A. (2010). A two-step inactivation mechanism of Myt1 ensures CDK1/Cyclin B activation and meiosis I entry. Current Biology, 20, 717–723. https://doi.org/10.1016/j.cub.2010.02.050  
+
+Schmidt, M., Rohe, A., Platzer, C., Najjar, A., Erdmann, F., & Sippl, W. (2017). Regulation of G2/M transition by inhibition of WEE1 and PKMYT1 kinases. Molecules, 22, 2045. https://doi.org/10.3390/molecules22122045  
+
+Varadarajan, R., Ayeni, J., Jin, Z., Homola, E., & Campbell, S. D. (2016). Myt1 inhibition of cyclin A/CDK1 is essential for fusome integrity and premeiotic centriole engagement in Drosophila spermatocytes. Molecular Biology of the Cell, 27, 2051–2063. https://doi.org/10.1091/mbc.E16-02-0104  
+
+Zhang, Q.-Y., Chen, X.-Q., Liu, X.-C., & Wu, D.-M. (2020). PKMYT1 promotes gastric cancer cell proliferation and apoptosis resistance. OncoTargets and Therapy, 13, 7747–7757. https://doi.org/10.2147/OTT.S255746  
+
+Zhu, J.-Y., Cuellar, R. A., Berndt, N., Lee, H. E., Olesen, S. H., Martin, M. P., Jensen, J. T., Georg, G. I., & Schönbrunn, E. (2017). Structural basis of WEE kinases functionality and inactivation by diverse small-molecule inhibitors. Journal of Medicinal Chemistry, 60, 7863–7875. https://doi.org/10.1021/acs.jmedchem.7b00996

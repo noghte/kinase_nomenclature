@@ -1,0 +1,48 @@
+## Phylogeny  
+NEK4 is a serine/threonine-protein kinase of the Never in Mitosis A-related kinase (NEK) family, an evolutionarily conserved clade present in fungi (*Aspergillus nidulans*), invertebrates (*Drosophila*, *Caenorhabditis elegans*), and mammals (murine mNek4 and human NEK4) (Fry et al., 2012; Moniz et al., 2011; Oliveira et al., 2020; “Stop Ne(c)king around”, 2014). Placement of the NEK family within the human kinome is debated: several studies group NEKs within the CMGC (CDK/MAPK/GSK3/CLK) superfamily, whereas others assign them to the TKL group or treat them as an independent branch (van de Kooij et al., 2019; Flax et al., 2024; Pavan et al., 2021).
+
+## Reaction Catalyzed  
+Substrate-Ser/Thr-[protein] + ATP ⇌ Phospho-Ser/Thr-[protein] + ADP (van de Kooij et al., 2019; Fry et al., 2012).
+
+## Cofactor Requirements  
+Catalysis requires ATP and a divalent metal ion, typically Mg²⁺ or Mn²⁺ (Moniz et al., 2011; van de Kooij et al., 2019).
+
+## Substrate Specificity  
+• Prefers phosphorylation of threonine residues (van de Kooij et al., 2019).  
+• Family-wide core motif: [L/M/F/W]-X-X-S/T-[no Pro] (van de Kooij et al., 2019).  
+• A conflicting report suggests a favored Pro at +1 (van de Kooij et al., 2019, pp. 47–48).  
+• NEK4 clusters with NEK1/3 in “Specificity Group 1”, consensus: X-W-[L/M/F/W]-X-R-T-Ø-[K/R]-Ø-X, highlighting Arg at P-1, Thr at P0, and Lys/Arg at P+2 (van de Kooij et al., 2019).
+
+## Structure  
+NEK4 contains an N-terminal catalytic kinase domain and a C-terminal regulatory region ( “Stop Ne(c)king around”, 2014; Protein-Protein Interactions in Cell Cycle Proteins, 2024). No experimental 3-D structure is deposited in the Protein Data Bank (Pavan et al., 2021). Reported isoforms range from 752–841 aa (≈84–94 kDa) (Pavan et al., 2021). The C-terminus harbors a putative PEST motif implicated in proteolysis (Moniz et al., 2011); presence of a coiled-coil segment is disputed (Moniz et al., 2011; Chemical and Biological Studies with Nek2 Inhibitors, 2012). Canonical kinase elements—activation loop, catalytic C-helix, regulatory and hydrophobic spines—are predicted (Pavan et al., 2021).
+
+## Regulation  
+Activation generally depends on phosphorylation of a Ser/Thr in the activation loop, achieved by an upstream kinase or by autophosphorylation (Fry et al., 2012). The PEST sequence suggests regulation via ubiquitin-dependent degradation (Moniz et al., 2011). Substrate binding can promote an activating conformational change, a mechanism shared across NEKs (“Stop Ne(c)king around”, 2014).
+
+## Function  
+NEK4 participates in primary cilium formation/stability, microtubule integrity, RNA splicing, and the DNA damage response (DDR) (Oliveira et al., 2020; Pavan et al., 2021).  
+• Localization (isoform-dependent): cilia, basal bodies, centrosome, nucleus, cytoplasm, and mitochondria (Pavan et al., 2021).  
+• Interactors: RPGRIP1/1L (ciliary stability), DNA-PKcs, Ku70, Ku80 (DDR) (Oliveira et al., 2020; “Stop Ne(c)king around”, 2014).  
+• Pathophysiological roles: loss-of-function mutations cause ciliopathy phenotypes; reduced NEK4 sensitizes TRAIL-resistant cancer cells to apoptosis; over-expression promotes epithelial-to-mesenchymal transition and is observed in lung and colon cancers, though inversely correlated with colorectal cancer progression (Oliveira et al., 2020).
+
+## Other Comments  
+The human *NEK4* gene maps to chromosome 3p21.1 (Pavan et al., 2021). Because of its cancer-associated expression and role in apoptosis resistance, NEK4 is under consideration as a therapeutic target (Oliveira et al., 2020; Protein-Protein Interactions in Cell Cycle Proteins, 2024).
+
+## 9. References  
+Chemical and Biological Studies with Nek2 Inhibitors. (2012).  
+
+Flax, R. G., Rosston, P., Rocha, C., Anderson, B., Capener, J. L., Durcan, T. M., Drewry, D. H., Prinos, P., & Axtman, A. D. (2024). Illumination of understudied ciliary kinases. *Frontiers in Molecular Biosciences*. https://doi.org/10.3389/fmolb.2024.1352781  
+
+Fry, A. M., O'Regan, L., Sabir, S. R., & Bayliss, R. (2012). Cell cycle regulation by the Nek family of protein kinases. *Journal of Cell Science, 125*, 4423–4433. https://doi.org/10.1242/jcs.111195  
+
+Moniz, L., Dutt, P., Haider, N., & Stambolic, V. (2011). Nek family of kinases in cell cycle, checkpoint control and cancer. *Cell Division, 6*, 18. https://doi.org/10.1186/1747-1028-6-18  
+
+Oliveira, A. P. de, Issayama, L. K., Pavan, I. C. B., et al. (2020). Checking NEKs: Overcoming a bottleneck in human diseases. *Molecules, 25*, 1778. https://doi.org/10.3390/molecules25081778  
+
+Pavan, I., de Oliveira, A. P., Dias, P., et al. (2021). On broken ne(c)ks and broken DNA: The role of human NEKs in the DNA damage response. *Cells, 10*, 507. https://doi.org/10.3390/cells10030507  
+
+Protein-Protein Interactions in Cell Cycle Proteins: An *in silico* Investigation of Two Important Players. (2024).  
+
+“Stop Ne(c)king around”: How interactomics contributes to functionally characterize Nek family kinases. (2014).  
+
+van de Kooij, B., Creixell, P., van Vlimmeren, A., et al. (2019). Comprehensive substrate specificity profiling of the human NEK kinome reveals unexpected signaling outputs. *eLife*. https://doi.org/10.1101/515221

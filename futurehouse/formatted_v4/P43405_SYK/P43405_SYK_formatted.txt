@@ -1,0 +1,91 @@
+## Phylogeny  
+Spleen tyrosine kinase (SYK) belongs to the Tyrosine Kinase (TK) group, SYK/ZAP-70 family identified by kinome surveys (Patterson et al., 2015). Vertebrates encode a single paralog (ZAP-70) that shares tandem SH2-kinase architecture (Sada et al., 2001). Documented SYK/ZAP-70 orthologs occur in chicken, mouse, rat, frog, zebrafish, the cartilaginous fish Callorhinchus milii, and Drosophila melanogaster SHARK (Patterson et al., 2015). A lamprey sequence (Lj-Syk) containing both SH2 and kinase domains indicates that the family predates the jawed/jawless vertebrate split (Liu et al., 2015).  
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + protein-L-tyrosyl-phosphate (Sada et al., 2001).  
+
+## Cofactor Requirements  
+Catalysis requires Mg²⁺, coordinated by Asp518 of the DFG motif in the active site (Atwell et al., 2004).  
+
+## Substrate Specificity  
+Peptide-array profiling shows a dominant −1 P-Y-x-R/K motif with Pro at −1 and basic residues at +2/+3 (Yaron-Barir et al., 2024). Acidic or bulky hydrophobic residues (Asp/Glu/Leu/Ile) are tolerated at −1; Glu is mildly preferred at +1, Pro at +3, while other positively charged residues are generally disfavoured (Hobbs et al., 2022). Recognition is further enhanced by “phospho-priming” when a phospho-Tyr/Thr is pre-existing at −1 or +2 (Yaron-Barir et al., 2024).  
+
+## Structure  
+The full-length protein is organised N-SH2 (~7-115) – inter-SH2 linker (A) – C-SH2 (~116-269) – interdomain B (~120 aa) – kinase domain (356-635) (Unknown Authors, 2009).  
+• Tandem SH2 crystal structure (PDB 1A81) shows head-to-tail binding to a doubly phosphorylated ITAM peptide (Singh et al., 2012).  
+• Kinase domain structures include apo (1XBA), imatinib-bound (1XBB) and staurosporine-bound (1XBC); despite being unphosphorylated, the kinase adopts an active DFG-in conformation with the activation loop partly disordered (Atwell et al., 2004).  
+• A higher-resolution inhibitor complex (PDB 4PUZ) displays aligned hydrophobic spines and an ordered αC-helix (Singh et al., 2012).  
+• Key catalytic residues: Lys402 (β3), Asp512 (HRD), Asp518 (DFG), and activation-loop Tyr525/Tyr526 (Atwell et al., 2004).  
+• An EM model of the full-length protein reveals a closed “linker-kinase sandwich” that mediates autoinhibition; ITAM engagement or linker tyrosine phosphorylation opens the structure (Singh et al., 2012).  
+• Imatinib binds in a unique cis orientation that exploits a collapsed ATP pocket, unlike its trans binding to ABL (Atwell et al., 2004).  
+
+## Regulation  
+Tyrosine phosphorylation  
+– Src-family kinases (Lyn/Fyn/Src) phosphorylate receptor ITAMs, recruiting and activating SYK (Tohyama & Yamamura, 2009).  
+– Autophosphorylation on Y131 reduces ITAM affinity (Unknown Authors, 2009).  
+– Y317 creates a C-Cbl docking site, leading to ubiquitination (Mócsai et al., 2010; Rao et al., 2001).  
+– Y342/Y346 recruit VAV1 and PI3K-p85 (Mócsai et al., 2010).  
+– Y348/Y352 autophosphorylation stabilises the open state; PKCε limits their phosphorylation in human platelets (Buitrago et al., 2013).  
+– Activation-loop Y525/Y526 autophosphorylation completes catalytic activation; SHP-1 (PTPN6) and TULA-2 remove these marks (Buitrago et al., 2013).  
+– C-terminal Y624/Y625 fine-tune mast-cell signalling (de Castro et al., 2010).  
+
+Serine phosphorylation  
+– PKC phosphorylates S297; PP2A reverses this modification. Sustained S297-P suppresses Y525/Y526 phosphorylation and activity (Makhoul et al., 2020).  
+
+Ubiquitination  
+– Active SYK is poly-ubiquitinated by C-Cbl; specific lysine sites remain undetermined (Paolini et al., 2002; Buitrago et al., 2013).  
+
+Allosteric control  
+– Activity can be triggered either by SH2-ITAM binding or by phosphorylation of linker tyrosines, providing “OR-gate” regulation between receptor engagement and intracellular priming (Mócsai et al., 2010).  
+
+## Function  
+SYK is highly expressed in B cells, early thymocytes, NK cells, mast cells, macrophages, neutrophils, dendritic cells, platelets and osteoclasts, with lower expression in some epithelial and fibroblast tissues (Mócsai et al., 2010; Singh et al., 2012).  
+Upstream kinases: Lyn, Fyn, Src (ITAM phosphorylation); PKC and PP2A modulate serine phosphorylation (Tohyama & Yamamura, 2009; Makhoul et al., 2020).  
+Major substrates/adaptors include BLNK, PLCγ2, LAT, VAV1, PI3K-p85, DEPTOR and LCP2 (Sada et al., 2001; Mócsai et al., 2010).  
+Pathways: central effector in B-cell receptor (BCR), FcεRI/FcγR, platelet GPVI, C-type lectin and integrin outside-in signalling, controlling Ca²⁺ flux, degranulation, phagocytosis, platelet aggregation and cytokine production (Paolini et al., 2002; Tohyama & Yamamura, 2009; Antenucci et al., 2018).  
+
+## Inhibitors  
+– Imatinib: binds the active site in a unique cis orientation (Atwell et al., 2004).  
+– Staurosporine: broad-spectrum ATP-competitive inhibitor (Atwell et al., 2004).  
+– Fostamatinib (R788; active metabolite R406): low-nanomolar ATP-competitive inhibitor with clinical activity in B-cell malignancies (Friedberg et al., 2010).  
+– 7-Azaindole derivatives (compounds 3–7) achieve low-nanomolar potency in co-crystal structures (Singh et al., 2012).  
+
+## Other Comments  
+Oncogenic fusions ITK–SYK (peripheral T-cell lymphoma) and TEL–SYK (myelodysplastic syndrome) drive constitutive signalling (Mócsai et al., 2010). SYK overexpression supports survival of chronic lymphocytic leukaemia and other B-cell cancers (Mócsai et al., 2010). Loss of nuclear SYK correlates with invasive breast cancer and poor prognosis (Mócsai et al., 2010). A gain-of-function variant p.R590Q causes hyper-autophosphorylation, PI3K activation and antibody deficiency with immune dysregulation (Edwards et al., 2025).  
+
+## References  
+Antenucci, L., Hytönen, V., & Ylänne, J. (2018). Phosphorylated immunoreceptor tyrosine-based activation motifs and integrin cytoplasmic domains activate spleen tyrosine kinase via distinct mechanisms. Journal of Biological Chemistry, 293, 4591–4602. https://doi.org/10.1074/jbc.ra117.000660  
+
+Atwell, S., Adams, J. M., Badger, J., Buchanan, M., Feil, I., Froning, K., … Buchanan, S. (2004). A novel mode of Gleevec binding is revealed by the structure of spleen tyrosine kinase. Journal of Biological Chemistry, 279, 55827–55832. https://doi.org/10.1074/jbc.M409792200  
+
+Buitrago, L., Bhavanasi, D., Dangelmaier, C., Manne, B., Badolia, R., Borgognone, A., … Kunapuli, S. (2013). Tyrosine phosphorylation on spleen tyrosine kinase is differentially regulated in human and murine platelets by protein kinase C isoforms. Journal of Biological Chemistry, 288, 29160–29169. https://doi.org/10.1074/jbc.M113.464107  
+
+De Castro, R. O., Zhang, J., Jamur, M., Oliver, C., & Siraganian, R. (2010). Tyrosines in the carboxyl terminus regulate SYK kinase activity and function. Journal of Biological Chemistry, 285, 26674–26684. https://doi.org/10.1074/jbc.M110.134262  
+
+Edwards, E. S. J., Chatelier, J., Snell, G. I., Hun, G., Seo, M., Khang, R., … van Zelm, M. C. (2025). Novel SYK variant causes enhanced SYK autophosphorylation and PI3K activation in an antibody-deficient patient. medRxiv. https://doi.org/10.1101/2025.04.10.25325434  
+
+Friedberg, J., Sharman, J., Sweetenham, J., Johnston, P., Vose, J., LaCasce, A., … Shipp, M. (2010). Inhibition of SYK with fostamatinib disodium has significant clinical activity in non-Hodgkin lymphoma and chronic lymphocytic leukaemia. Blood, 115, 2578–2585. https://doi.org/10.1182/blood-2009-08-236471  
+
+Hobbs, H. T., Shah, N. H., Shoemaker, S. R., Amacher, J. F., Marqusee, S., & Kuriyan, J. (2022). Saturation mutagenesis of a predicted ancestral SYK-family kinase. Protein Science. https://doi.org/10.1002/pro.4411  
+
+Liu, C., Su, P., Li, R., Zhang, Q., Zhu, T., Liu, X., & Li, Q. (2015). Molecular cloning, expression pattern, and molecular evolution of the spleen tyrosine kinase in lamprey, Lampetra japonica. Development Genes and Evolution, 225, 113–120. https://doi.org/10.1007/s00427-015-0492-5  
+
+Makhoul, S., Kumm, E., Zhang, P., Walter, U., & Jurk, K. (2020). The serine/threonine protein phosphatase 2A regulates SYK activity in human platelets. International Journal of Molecular Sciences. https://doi.org/10.3390/ijms21238939  
+
+Mócsai, A., Ruland, J., & Tybulewicz, V. (2010). The SYK tyrosine kinase: a crucial player in diverse biological functions. Nature Reviews Immunology, 10, 387–402. https://doi.org/10.1038/nri2765  
+
+Paolini, R., Molfetta, R., Beitz, L. O., Zhang, J., Scharenberg, A. M., Piccoli, M., … Santoni, A. (2002). Activation of SYK tyrosine kinase is required for C-Cbl-mediated ubiquitination of FcεRI and SYK in RBL cells. Journal of Biological Chemistry, 277, 36940–36947. https://doi.org/10.1074/jbc.M204948200  
+
+Patterson, H. C., Gerbeth, C., Thiru, P., Vögtle, N. F., Knoll, M., Shahsafaei, A., … Lodish, H. F. (2015). A respiratory chain controlled signal transduction cascade in the mitochondrial intermembrane space mediates hydrogen peroxide signaling. Proceedings of the National Academy of Sciences, 112, E5679–E5688. https://doi.org/10.1073/pnas.1517932112  
+
+Rao, N., Ghosh, A., Ota, S., Zhou, P., Reddi, A. L., Hakezi, K., … Band, H. (2001). The non-receptor tyrosine kinase SYK is a target of Cbl-mediated ubiquitylation upon B-cell receptor stimulation. EMBO Journal, 20, 7085–7095. https://doi.org/10.1093/emboj/20.24.7085  
+
+Sada, K., Takano, T., Yanagi, S., & Yamamura, H. (2001). Structure and function of SYK protein-tyrosine kinase. Journal of Biochemistry, 130, 177–186. https://doi.org/10.1093/oxfordjournals.jbchem.a002970  
+
+Singh, R., Masuda, E. S., & Payan, D. G. (2012). Discovery and development of spleen tyrosine kinase inhibitors. Journal of Medicinal Chemistry, 55, 3614–3643. https://doi.org/10.1021/jm201271b  
+
+Tohyama, Y., & Yamamura, H. (2009). Protein tyrosine kinase, SYK: a key player in phagocytic cells. Journal of Biochemistry, 145, 267–273. https://doi.org/10.1093/jb/mvp001  
+
+Unknown Authors. (2009). Autoinhibition and adapter function of SYK. (pages 2–3).  
+
+Yaron-Barir, T. M., Joughin, B. A., Huntsman, E. M., Kerelsky, A., Cizin, D. M., Cohen, B. M., … Johnson, J. L. (2024). The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629, 1174–1181. https://doi.org/10.1038/s41586-024-07407-y

@@ -1,0 +1,62 @@
+## Phylogeny  
+Vaccinia-related kinase 1 (VRK1) is a member of the VRK sub-family within the casein kinase 1 (CK1) group of the human kinome (Manning et al., 2002; Serrano, 2023). The VRK branch (VRK1, VRK2, VRK3) diverged early from canonical CK1 isoforms (Cartwright et al., 2022; Klerkx et al., 2009; Ngow, 2019). VRK1 is homologous to the vaccinia virus B1R kinase and is distantly related to human CK1δ and CK1ε (Lopez-Borges & Lazo, 2000). Some classifications place VRK1 in the CMGC or MAP4K groups (Serrano, 2023; Johnson et al., 2023). Orthologs include Vrk-1 in Caenorhabditis elegans and NHK-1 in Drosophila melanogaster (Valbuena et al., 2011).
+
+## Reaction Catalyzed  
+Protein-OH + ATP ⇌ Protein-O-PO₃²⁻ + ADP (Lazo, 2024; Serrano, 2023; Klerkx et al., 2009).
+
+## Cofactor Requirements  
+Mn²⁺-dependent; ATP serves as the phosphate donor (Cartwright et al., 2022; Ngow, 2019).
+
+## Substrate Specificity  
+VRK1 phosphorylates serine or threonine residues (and, in one report, tyrosine) (Serrano, 2023). A global kinase-substrate atlas includes VRK1 but a precise consensus motif has not been defined (Johnson et al., 2023). Biochemical assays show a preference for basic protein substrates such as myelin basic protein over acidic substrates (Lopez-Borges & Lazo, 2000).  
+
+## Structure  
+The 396-residue VRK1 adopts a bilobed protein-kinase fold comprising eight α-helices and nine β-strands (Ngow, 2019; Serrano, 2023).  
+• N-terminal catalytic domain: P-loop for ATP binding, Lys71–Glu83 salt bridge, HRDLKxxN catalytic loop, and a DYG motif replacing the canonical DFG in the activation segment (Ngow, 2019).  
+• Unique αC4 helix contributes to structural stability (Ngow, 2019).  
+• C-terminal flexible region (residues 285–396) harbours a nuclear-export signal (285–310) and an NLS (KKRKK, 356–360) and modulates stability and activity (Serrano, 2023; Lazo, 2024; Martín-Doncel et al., 2019).  
+
+## Regulation  
+• Strong autophosphorylation on multiple Ser/Thr sites, including Thr355 (Lopez-Borges & Lazo, 2000; Serrano, 2023).  
+• Phosphorylation by Polo-like kinase 3 on Ser342 promotes Golgi fragmentation (Martín-Doncel et al., 2019; Valbuena et al., 2011).  
+• Inhibited by binding to Ran-GDP and by macroH2A1.2 during interphase (Valbuena et al., 2011; Cartwright et al., 2022).  
+• Acetyltransferase p300 enhances protein stability, whereas deacetylase SIRT2 suppresses kinase activity (Cartwright et al., 2022; Lazo, 2024).  
+• Expression induced by mitogens and transcription factors E2F1, Sox2 and Myc; repressed by p53 after DNA damage (Serrano, 2023; Martín-Doncel et al., 2019).  
+
+## Function  
+Predominantly nuclear and enriched in highly proliferative tissues such as testis, thymus and fetal liver (Lazo, 2024; Ngow, 2019). Acts as an early response gene required for the G0/G1 → S transition (Valbuena et al., 2011).  
+
+Key substrates / pathways:  
+• Cell-cycle entry: phosphorylates CREB Ser133 to drive cyclin D1 expression (Serrano, 2023; Cartwright et al., 2022).  
+• Mitosis: phosphorylates histone H3 (Thr3, Ser10), H2A Thr120 and BANF1 (Thr2, Thr3, Ser4) to promote chromatin condensation and nuclear-envelope disassembly (Lazo, 2024; Serrano, 2023; Klerkx et al., 2009).  
+• DNA-damage response: phosphorylates p53 Thr18, H2AX Ser139, NBS1 Ser343 and 53BP1 Ser25 upstream of ATM/Chk2 activation (Serrano, 2023; Lopez-Borges & Lazo, 2000).  
+• Transcriptional regulation: targets c-Jun and ATF2 (Valbuena et al., 2011).  
+• Golgi dynamics: functions downstream of MEK-Plk3 signalling to mediate Golgi fragmentation (Martín-Doncel et al., 2019).  
+
+## Inhibitors  
+• DNA aptamers apVRKF8, apVRKF28 and apVRKF33 inhibit VRK1 and induce cell-cycle arrest (Cartwright et al., 2022; Serrano, 2023).  
+• VRK-IN-1, a pyridine-based ATP-competitive inhibitor, IC₅₀ ≈ 150 nM, locks the ATP-binding site in an inactive conformation (Serrano, 2023).  
+
+## Other Comments  
+Loss-of-function VRK1 mutations cause severe neuromotor and neurodevelopmental disorders, including pontocerebellar hypoplasia, spinal muscular atrophy, microcephaly, ALS and Charcot-Marie-Tooth disease (Cartwright et al., 2022; Lazo, 2024; Martín-Doncel et al., 2019). Pathogenic variants frequently reduce protein stability (e.g., truncation R358X) or disrupt catalytic-domain integrity (e.g., R321C) (Martín-Doncel et al., 2019). VRK1 is over-expressed in many cancers, where high levels correlate with poor prognosis; VRK1 is synthetically lethal in VRK2-deficient glioblastoma (Valbuena et al., 2011; Lazo, 2024).  
+
+## References  
+Cartwright, T., Harris, R. J., Meyer, S. K., Mon, A. M., Watson, N. A., Tan, C., Marcelot, A., Wang, F., Zinn-Justin, S., Traktman, P., & Higgins, J. (2022). Dissecting the roles of haspin and VRK1 in histone H3 phosphorylation during mitosis. Scientific Reports. https://doi.org/10.1038/s41598-022-15339-8  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Klerkx, E. P. F., Lazo, P. A., & Askjaer, P. (2009). Emerging biological functions of the vaccinia-related kinase (VRK) family. Histology and Histopathology, 24(6), 749–759. https://doi.org/10.14670/hh-24.749  
+
+Lazo, P. A. (2024). Nuclear functions regulated by the VRK1 kinase. Nucleus. https://doi.org/10.1080/19491034.2024.2353249  
+
+Lopez-Borges, S., & Lazo, P. A. (2000). The human vaccinia-related kinase 1 (VRK1) phosphorylates threonine-18 within the Mdm-2 binding site of the p53 tumour suppressor protein. Oncogene, 19, 3656–3664. https://doi.org/10.1038/sj.onc.1203709  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Martín-Doncel, E., Rojas, A. M., Cantarero, L., & Lazo, P. A. (2019). VRK1 functional insufficiency due to alterations in protein stability or kinase activity of human VRK1 pathogenic variants implicated in neuromotor syndromes. Scientific Reports. https://doi.org/10.1038/s41598-019-49821-7  
+
+Ngow, Y. S. (2019). Structural characterization of vaccinia-related kinase 1 (VRK1), a histone mitotic kinase (Doctoral dissertation, Nanyang Technological University). https://doi.org/10.32657/10220/47890  
+
+Serrano, E. M. (2023). The role of VRK1 in chromatin remodeling: regulation of histone post-translational modifications and epigenetic enzymes (Doctoral dissertation). https://doi.org/10.14201/gredos.153146  
+
+Valbuena, A., Sanz-García, M., López-Sánchez, I., Vega, F. M., & Lazo, P. A. (2011). Roles of VRK1 as a new player in the control of biological processes required for cell division. Cellular Signalling, 23, 1267–1272. https://doi.org/10.1016/j.cellsig.2011.04.002

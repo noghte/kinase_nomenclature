@@ -1,0 +1,53 @@
+## Phylogeny  
+PRKCI encodes protein kinase C iota (PKCι), an atypical member of the AGC serine/threonine kinase group that evolved separately from conventional and novel PKCs while retaining the canonical bilobal catalytic core (Fields & Murray, 2008; Messerschmidt et al., 2005). PKCι shares 72 % overall and 86 % kinase-domain identity with its paralogue PKCζ, defining the ζ/ι clade of the human kinome (Parker et al., 2014). Orthologues are present throughout vertebrates, including mouse PKCλ/Prkci, rat Prkci and zebrafish prkci (Parker et al., 2014; Shah et al., 2022; Uhalte et al., 2012). Kinome surveys place PRKCI firmly within the PKCι/ζ branch of the AGC group (García-Concejo & Larhammar, 2021).
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr ⇄ ADP + [protein]-O-phospho-Ser/Thr (Messerschmidt et al., 2005).
+
+## Cofactor Requirements  
+Requires Mg²⁺ for catalysis and is independent of Ca²⁺, diacylglycerol and phosphatidylserine (Messerschmidt et al., 2005; Uhalte et al., 2012).
+
+## Substrate Specificity  
+Proteome-scale profiling shows a preference for basic residues (Arg/Lys) at positions −5 to −3 relative to the phospho-acceptor Ser/Thr, often followed by a hydrophobic residue at +1 (García-Concejo & Larhammar, 2021). Structure-guided modelling with the peptide FKRQGSFF confirms optimal contacts with Lys/Arg at −3/−2 and a bulky hydrophobe at +1 (Messerschmidt et al., 2005).
+
+## Structure  
+Domain architecture comprises: PB1 domain (aa 2–108) that mediates front-to-back dimerisation and harbours the reactive Cys69; a single C1 zinc-finger (aa 123–192) that binds phosphatidylserine but not phorbol esters; the kinase domain (aa 254–578) with a typical AGC fold; and a C-terminal AGC extension (aa 523–596) containing the NFD and hydrophobic-motif analogues (Fields & Murray, 2008; Messerschmidt et al., 2005; Shah et al., 2022).  
+Crystal structures reveal: bis-indolyl-maleimide-bound catalytic domain (PDB 1ZRZ, 3.0 Å) with an intermediate-open ATP pocket (Messerschmidt et al., 2005); ATP-bound (PDB 3A8W) and apo (PDB 3A8X) forms that define C-tail residues 533–551 critical for ATP binding (Takimura et al., 2010). Key activating phosphosites include Thr403 (activation loop) and Thr555 (turn motif), while Glu574 mimics the hydrophobic-motif phosphoserine, stabilising the active conformation (Messerschmidt et al., 2005). Selective inhibitor CRT0066854 locks the kinase in an inactive state by displacing Phe543 within the NFD motif (Parker et al., 2014).
+
+## Regulation  
+• Priming phosphorylation of Thr403 by PDK1 (Parker et al., 2014).  
+• Autophosphorylation of Thr555 stabilises the active C-tail (Messerschmidt et al., 2005).  
+• mTORC2 maintains the mature phosphorylated state (Newton, 2018).  
+• Src phosphorylates Tyr256, Tyr271 and Tyr325, promoting nuclear import and survival signalling (Parker et al., 2014).  
+• PB1-mediated complexes with Par6, Par3 and p62 relieve pseudosubstrate inhibition (Parker et al., 2014).  
+• Electrophilic gold(I) compounds covalently modify Cys69 and block Par6 engagement (Fields & Murray, 2008).  
+No experimentally confirmed ubiquitination or SUMOylation events are reported (Messerschmidt et al., 2005).
+
+## Function  
+PKCι is a bona fide oncogene located in the 3q26 amplicon; copy-number gains drive over-expression in lung, ovarian, oesophageal and pancreatic cancers (Fields & Murray, 2008; Parker et al., 2014). The PKCι–Par6–Rac1 axis is essential for Kras-driven transformation, disrupting epithelial polarity and enhancing proliferation and invasion (Fields & Murray, 2008). In Bcr-Abl-positive leukaemia and non-small-cell lung cancer, PKCι partners with p62/IKK to activate NF-κB and confer chemoresistance (Parker et al., 2014). Downstream of PI3K–PDK1, PKCι phosphorylates and inhibits BAD, promoting survival in glioblastoma and leukaemia cells (Parker et al., 2014). A PKCι–Par6A–ECT2 complex drives anchorage-independent growth and invasion in NSCLC by enabling PKCι-dependent phosphorylation of ECT2 (Parker et al., 2014).
+
+## Inhibitors  
+• Gold(I) thiolate drugs aurothiomalate and aurothioglucose form covalent adducts with Cys69, disrupting PKCι–Par6 binding (Fields & Murray, 2008).  
+• Bis-indolyl-maleimide-1 occupies the ATP site (Messerschmidt et al., 2005).  
+• Thieno[2,3-d]pyrimidine CRT0066854 is an ATP-competitive inhibitor that locks the kinase in an inactive conformation (Parker et al., 2014).  
+• Myristoylated pseudosubstrate peptides act as substrate-competitive inhibitors with limited isoform selectivity (Parker et al., 2014).
+
+## Other Comments  
+Elevated PKCι expression correlates with poor prognosis across multiple tumour types (Fields & Murray, 2008; Parker et al., 2014). Mutation of Cys69 to Ser confers resistance to gold-based inhibitors (Fields & Murray, 2008). Tumour-derived kinase-domain substitutions E423D (APE motif) and R471C alter catalytic properties and substrate preference (Newton, 2018).
+
+## References  
+Fields, A. P., & Murray, N. R. (2008). Protein kinase C isozymes as therapeutic targets for treatment of human cancers. Advances in Enzyme Regulation, 48, 166–178. https://doi.org/10.1016/j.advenzreg.2007.11.014  
+
+García-Concejo, A., & Larhammar, D. (2021). Protein kinase C family evolution in jawed vertebrates. Developmental Biology, 479, 77–90. https://doi.org/10.1016/j.ydbio.2021.07.013  
+
+Messerschmidt, A., Macieira, S., Velarde, M., Bädeker, M., Benda, C., Jestel, A., Brandstetter, H., Neuefeind, T., & Blaesse, M. (2005). Crystal structure of the catalytic domain of human atypical protein kinase C-ι reveals interaction mode of phosphorylation site in turn motif. Journal of Molecular Biology, 352(4), 918–931. https://doi.org/10.1016/j.jmb.2005.07.060  
+
+Newton, A. C. (2018). Protein kinase C as a tumor suppressor. Seminars in Cancer Biology, 48, 18–26. https://doi.org/10.1016/j.semcancer.2017.04.017  
+
+Parker, P. J., Justilien, V., Riou, P., Linch, M., & Fields, A. P. (2014). Atypical protein kinase C ι as a human oncogene and therapeutic target. Biochemical Pharmacology, 88, 1–11. https://doi.org/10.1016/j.bcp.2013.10.023  
+
+Shah, H., Khan, K., Khan, N., Badshah, Y., Ashraf, N., & Shabbir, M. (2022). Impact of deleterious missense PRKCI variants on structural and functional dynamics of protein. Scientific Reports, 12, Article 7526. https://doi.org/10.1038/s41598-022-07526-4  
+
+Takimura, T., Kamata, K., Fukasawa, K., Ohsawa, H., Komatani, H., Yoshizumi, T., Takahashi, I., Kotani, H., & Iwasawa, Y. (2010). Structures of the PKC-ι kinase domain in its ATP-bound and apo forms reveal defined structures of residues 533-551 in the C-terminal tail and their roles in ATP binding. Acta Crystallographica Section D: Biological Crystallography, 66(5), 577–583. https://doi.org/10.1107/S0907444910005639  
+
+Uhalte, E. C., Kirchner, M., Hellwig, N., Allen, J. J., Donat, S., Shokat, K. M., Selbach, M., & Abdelilah-Seyfried, S. (2012). In vivo conditions to identify prkci phosphorylation targets using the analog-sensitive kinase method in zebrafish. PLoS ONE, 7(6), e40000. https://doi.org/10.1371/journal.pone.0040000

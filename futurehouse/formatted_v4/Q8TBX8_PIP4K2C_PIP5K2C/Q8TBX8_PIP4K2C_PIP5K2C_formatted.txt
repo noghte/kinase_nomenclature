@@ -1,0 +1,60 @@
+## Phylogeny  
+PI5P4Kγ (gene PIP4K2C) is one of three metazoan-restricted type II phosphatidylinositol-5-phosphate 4-kinase isoforms (α, β, γ); no orthologs are found in unicellular eukaryotes (Raghu, 2021). Conserved orthologs occur in mouse (Pip4k2c) and fruit-fly (dPIP4K), indicating conservation within Bilateria (Raghu, 2021). Within the human kinome the enzyme sits in the lipid-kinase branch, distinct from type I PIP5Ks (Burke et al., 2023; Clarke & Irvine, 2013). Among mammalian PI5P4Ks, catalytic efficiency follows α ≫ β ≫ γ (Unknown Authors, 2020a).  
+
+## Reaction Catalyzed  
+phosphatidyl-1D-myo-inositol-5-phosphate + ATP ⇄ phosphatidyl-1D-myo-inositol-4,5-bisphosphate + ADP (Boffey et al., 2022).  
+
+## Cofactor Requirements  
+Mg²⁺ is required for catalysis (Burke et al., 2023).  
+
+## Substrate Specificity  
+The kinase selectively phosphorylates phosphatidylinositol-5-phosphate, showing negligible activity toward PI3P or PI4P (Unknown Authors, 2021; Raghu, 2021). Specificity is dictated by the C-terminal activation loop; swapping this loop with that of a type I kinase redirects activity toward PI4P (Unknown Authors, 2020a). No peptide consensus motif is applicable because the enzyme acts on lipid substrates.  
+
+## Structure  
+Crystal structure PDB 2GK9 depicts a bilobal protein-kinase core (residues ~1–404) with an N-terminal extended β-sheet that drives homodimerization; two dimers assemble into a tetramer with all catalytic clefts on one surface (Unknown Authors, 2020a). Canonical VAIK, HRD and DFG motifs are retained, but the activation loop is shortened (~25 aa) and forms part of an allosteric pocket exploited by non-ATP-competitive inhibitors (Boffey et al., 2022). An AlphaFold model (AF-Q8TBX8-F1) confirms domain boundaries and reveals a re-configured glycine-rich loop correlated with the enzyme’s low turnover (Boffey et al., 2022). The β-sheet interface generates a flat, positively charged membrane-binding surface characteristic of type II PIP kinases (Unknown Authors, 2020a).  
+
+## Regulation  
+• mTORC1-mediated phosphorylation maintains basal mTORC1 signalling during nutrient starvation (Burke et al., 2023).  
+• Additional activation-loop phosphorylation modulates activity and localisation (Boffey et al., 2022).  
+• GTP can substitute for ATP and enhances activity, giving the enzyme guanine-nucleotide sensor capability (Rooney et al., 2022).  
+• Heterodimerisation with PI5P4Kα/β tunes overall kinase output (Rooney et al., 2022).  
+• Direct binding to type I PIP5Ks suppresses PI(4,5)P₂ synthesis independently of PI5P4Kγ catalysis (Wang et al., 2019).  
+• Non-ATP-competitive allosteric ligands stabilise an inactive activation-loop conformation (Boffey et al., 2022).  
+
+## Function  
+Highest protein expression is observed in kidney nephron epithelial cells; broader expression spans metabolic and immune tissues (Clarke et al., 2015; Burke et al., 2023). By restraining PIP5Ks, PI5P4Kγ limits insulin-stimulated PI(3,4,5)P₃ accumulation and downstream AKT activation, acting as a negative regulator of insulin/PI3K-Akt signalling (Wang et al., 2019). The kinase supports autophagosome biogenesis and sustains basal mTORC1 activity during starvation (Boffey et al., 2022; Burke et al., 2023). Genetic ablation elevates mTOR signalling and provokes systemic inflammation, implicating PI5P4Kγ in immune homeostasis (Unknown Authors, 2020b). Pharmacological or genetic inhibition mitigates mutant huntingtin toxicity and can impair tumour-cell survival, linking the enzyme to neurodegeneration and cancer biology (Boffey et al., 2022).  
+
+## Inhibitors  
+• Non-ATP-competitive allosteric inhibitors with single-digit nM IC₅₀ values (Boffey et al., 2022).  
+• PI5P-site-directed inhibitor serving as an isoform-selective chemical probe (Clarke et al., 2015).  
+• Potent, selective and brain-penetrant tool molecules for in-vivo studies (Rooney et al., 2022).  
+• PROTAC TMX-4153 induces selective degradation of PI5P4Kγ in leukaemia cells (Teng et al., 2023).  
+• Additional high-affinity chemical probe reported (Drewry et al., 2023).  
+
+## Other Comments  
+Copy-number gains and transcriptional up-regulation of PIP4K2C occur in several cancers, including gallbladder carcinoma; genomic variation in PIP4K2C is also associated with oncogenic and autoimmune processes (Drewry et al., 2023; Burke et al., 2023).  
+
+## 9. References  
+Boffey, H. K., Rooney, T. P. C., Willems, H. M. G., Edwards, S., Green, C., Howard, T. D., Ogg, D., Romero, T., Scott, D., Winpenny, D., Duce, J., Skidmore, J., Clarke, J., & Andrews, S. P. (2022). Development of selective phosphatidylinositol 5-phosphate 4-kinase γ inhibitors with a non-ATP-competitive, allosteric binding mode. Journal of Medicinal Chemistry, 65, 3359–3370. https://doi.org/10.1021/acs.jmedchem.1c01819  
+
+Burke, J. E., Triscott, J., Emerling, B. M., & Hammond, G. R. V. (2023). Beyond PI3Ks: Targeting phosphoinositide kinases in disease. Nature Reviews Drug Discovery, 22, 357–386. https://doi.org/10.1038/s41573-022-00582-5  
+
+Clarke, J., Giudici, M., Burke, J. E., Williams, R. L., Maloney, D. J., Marugan, J., & Irvine, R. F. (2015). The function of phosphatidylinositol 5-phosphate 4-kinase γ (PI5P4Kγ) explored using a specific inhibitor that targets the PI5P-binding site. Biochemical Journal, 466, 359–367. https://doi.org/10.1042/bj20141333  
+
+Clarke, J., & Irvine, R. (2013). Evolutionarily conserved structural changes in phosphatidylinositol 5-phosphate 4-kinase (PI5P4K) isoforms are responsible for differences in enzyme activity and localization. Biochemical Journal, 454, 49–57. https://doi.org/10.1042/bj20130488  
+
+Drewry, D., Potjewyd, F., Smith, J. L., Howell, S., & Axtman, A. D. (2023). Identification of a chemical probe for lipid kinase phosphatidylinositol-5-phosphate 4-kinase γ (PI5P4Kγ). bioRxiv. https://doi.org/10.1101/2022.09.08.507203  
+
+Raghu, P. (2021). Emerging cell biological functions of phosphatidylinositol 5 phosphate 4 kinase. Current Opinion in Cell Biology, 71, 15–20. https://doi.org/10.1016/j.ceb.2021.01.012  
+
+Rooney, T. P. C., Aldred, G. G., Boffey, H. K., Willems, H. M. G., Edwards, S., Chawner, S. J., Scott, D. E., Green, C., Winpenny, D., Skidmore, J., Clarke, J. H., & Andrews, S. P. (2022). The identification of potent, selective, and brain penetrant PI5P4Kγ inhibitors as in vivo-ready tool molecules. Journal of Medicinal Chemistry, 66, 804–821. https://doi.org/10.1021/acs.jmedchem.2c01693  
+
+Teng, M., Jiang, J., Wang, E. S., Geng, Q., Toenjes, S. T., Donovan, K. A., Mageed, N., Yue, H., Nowak, R. P., Wang, J., Manz, T. D., Fischer, E. S., Cantley, L. C., & Gray, N. S. (2023). Targeting the dark lipid kinase PIP4K2C with a potent and selective binder and degrader. Angewandte Chemie. https://doi.org/10.1002/ange.202302364  
+
+Wang, D. G., Paddock, M., Lundquist, M., Sun, J. Y., Mashadova, O., Amadiume, S. C., Bumpus, T. W., Hodakoski, C., Hopkins, B., Fine, M., Hill, A., Yang, T., Baskin, J. M., Dow, L., & Cantley, L. (2019). PIP4Ks suppress insulin signaling through a catalytic-independent mechanism. Cell Reports, 27, 1991–2001.e5. https://doi.org/10.1101/370544  
+
+Unknown Authors. (2020a). PIP4K Has A Catalytic-Independent Role In Modulating PIP5K And The PI3K Pathway.  
+
+Unknown Authors. (2020b). PIP4K Has A Catalytic-Independent Role In Modulating PIP5K And The PI3K Pathway.  
+
+Unknown Authors. (2021). Investigating the Role of PIP4K in Immune System Regulation and p53-Inactivated Cancers.

@@ -1,0 +1,45 @@
+## Phylogeny  
+ACVRL1 (ALK1) is a member of the TGF-β type I receptor subfamily within the tyrosine-kinase-like (TKL) group of the human kinome (Townson et al., 2012; Němec et al., 2024). Orthologous genes with conserved vascular phenotypes are documented in mouse (Acvrl1) and zebrafish (acvrl1) knockout models, and additional orthologues are reported in chicken and Xenopus (Roman & Hinck, 2017; Bernabéu et al., 2020). The closest human paralogues are ALK2/ACVR1 and ALK3/BMPR1A, which share the GS regulatory motif and kinase domain architecture characteristic of the activin receptor-like kinase family (Ornati et al., 2014; Němec et al., 2024).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr ⇄ ADP + [protein]-Ser/Thr-P (Roman & Hinck, 2017).  
+
+## Cofactor Requirements  
+Catalysis requires divalent cations: Mg²⁺ is routinely used, while Mn²⁺ can substitute in vitro (Němec et al., 2024; Townson et al., 2012).  
+
+## Substrate Specificity  
+ALK1 phosphorylates the C-terminal SSXS motif of receptor-regulated SMADs (SMAD1, SMAD5, SMAD8). No broader sequence preference beyond this canonical motif has been reported (Roman & Hinck, 2017; Townson et al., 2012; Němec et al., 2024).  
+
+## Structure  
+• 503-residue single-pass transmembrane receptor.  
+• Extracellular domain (1–118): three-finger toxin fold; interface residues Arg67, Glu75, Asn96 (Townson et al., 2012; Ornati et al., 2014).  
+• Transmembrane helix (119–141) (Ornati et al., 2014).  
+• GS regulatory domain (180–210) binds FKBP12; phosphorylation sites Thr204, Ser206 (Townson et al., 2012).  
+• Bilobal kinase domain (211–503) solved at 2.1–2.5 Å (PDB 3MY0, 3HMM) with canonical N-lobe β-sheet, αC-helix, intact regulatory spine and DFG-in activation loop (Němec et al., 2024).  
+• ECD–BMP9–ActRIIB ternary complex (PDB 4FAO) shows a ligand-induced heterotetramer without major receptor rearrangement (Townson et al., 2012).  
+• AlphaFold modelling extends unresolved juxtamembrane regions and indicates a flexible linker between ECD and kinase core (Roman & Hinck, 2017).  
+
+## Regulation  
+Type II receptors ACVR2A, ACVR2B and BMPR2 phosphorylate GS-domain residues Thr204 and Ser206, enabling subsequent ALK1 autophosphorylation and full activation (Townson et al., 2012; Němec et al., 2024). FKBP12 binds the unphosphorylated GS domain and blocks substrate access (Townson et al., 2012). The E3 ligase EDD ubiquitinates cytoplasmic lysines, reducing receptor abundance (Ornati et al., 2014). No receptor-specific phosphatases have been identified (Němec et al., 2024).  
+
+## Function  
+ALK1 is highly enriched in arterial endothelial cells and is also found in lung, placenta and hepatic sinusoidal endothelium (Roman & Hinck, 2017; Ornati et al., 2014). Physiological ligands BMP9/GDF2 and BMP10 bind ALK1 with picomolar affinity, recruiting type II receptors to form a heterotetrameric signalling complex; Endoglin (ENG) acts as an accessory co-receptor (Townson et al., 2012; Roman & Hinck, 2017; Bernabéu et al., 2020). Activated ALK1 phosphorylates SMAD1/5/8, which partner with SMAD4 to control transcriptional programs governing endothelial proliferation, migration and vascular quiescence (Roman & Hinck, 2017). Loss of ALK1 elevates endothelial PI3K signalling and causes arteriovenous malformations in zebrafish and mouse models, highlighting its role in flow-dependent vessel patterning (Roman & Hinck, 2017; Bernabéu et al., 2020). In tumours refractory to VEGF blockade, ALK1 provides an alternative angiogenic pathway (Townson et al., 2012; Roman & Hinck, 2017).  
+
+## Inhibitors  
+Small-molecule ATP-competitive probes M4K2234 (K_d ≈ 11 nM) and MU1700 (K_d ≈ 13 nM) show >100-fold kinome selectivity (Němec et al., 2024). Early tools dorsomorphin and LDN-193189 inhibit ALK1 but lack selectivity, while saracatinib has sub-micromolar potency against ALK1/2 (Němec et al., 2024). Biologic antagonists include the soluble receptor trap dalantercept (ALK1-Fc) and the monoclonal antibody PF-03446962, both designed to sequester BMP9/10 (Ornati et al., 2014; Roman & Hinck, 2017).  
+
+## Other Comments  
+Heterozygous loss-of-function variants in ACVRL1 cause hereditary haemorrhagic telangiectasia type 2 (HHT2) (Roman & Hinck, 2017; Bernabéu et al., 2020). ECD missense mutations (H66P, G79R, H87D) disrupt ligand binding (Townson et al., 2012; Scotti et al., 2011). Kinase-domain variants in the NANDOR box (codons 479–489) associate with pulmonary arterial hypertension in HHT patients (Ornati et al., 2014). The R374Q catalytic-core mutation diminishes SMAD phosphorylation and vascular integrity (Němec et al., 2024). Acvrl1-null mouse embryos die mid-gestation from cardiac failure and vessel dilatation, and somatic “second-hit” mutations are proposed to explain the focal nature of HHT lesions (Bernabéu et al., 2020).  
+
+## References  
+Bernabéu, C., Bayrak-Toydemir, P., McDonald, J., & Letarte, M. (2020). Potential second-hits in hereditary hemorrhagic telangiectasia. Journal of Clinical Medicine, 9(11), 3571. https://doi.org/10.3390/jcm9113571  
+
+Němec, V., Remeš, M., Beňovský, P., Böck, M. C., Šranková, E., Wong, J. F., … Paruch, K. (2024). Discovery of two highly selective structurally orthogonal chemical probes for activin receptor-like kinases 1 and 2. Journal of Medicinal Chemistry, 67, 12632-12659. https://doi.org/10.1021/acs.jmedchem.4c00629  
+
+Ornati, F., Vecchia, L., Scotti, C., Plumitallo, S., & Olivieri, C. (2014). ACVRL1 (activin A receptor type II-like 1). Atlas of Genetics and Cytogenetics in Oncology and Haematology. https://doi.org/10.4267/2042/54160  
+
+Roman, B. L., & Hinck, A. P. (2017). ALK1 signalling in development and disease: New paradigms. Cellular and Molecular Life Sciences, 74, 4539-4560. https://doi.org/10.1007/s00018-017-2636-4  
+
+Scotti, C., Olivieri, C., Boeri, L., Canzonieri, C., Ornati, F., Buscarini, E., Pagella, F., & Danesino, C. (2011). Bioinformatic analysis of pathogenic missense mutations of activin receptor-like kinase 1 ectodomain. PLoS ONE, 6(10), e26431. https://doi.org/10.1371/journal.pone.0026431  
+
+Townson, S. A., Martinez-Hackert, E., Greppi, C., Lowden, P., Sako, D., Liu, J., Ucran, J. A., Liharska, K., Underwood, K. W., Seehra, J., Kumar, R., & Grinberg, A. V. (2012). Specificity and structure of a high-affinity activin receptor-like kinase 1 (ALK1) signalling complex. Journal of Biological Chemistry, 287, 27313-27325. https://doi.org/10.1074/jbc.M112.377960

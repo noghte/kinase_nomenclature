@@ -1,0 +1,60 @@
+## Phylogeny  
+Nemo-like kinase (NLK) is an evolutionarily conserved serine/threonine protein kinase with orthologues in Drosophila (Nemo), Caenorhabditis elegans (LIT-1), Xenopus, zebrafish and mice (Daams & Massoumi, 2020; Ishitani et al., 2003; Kim et al., 2010; Ota et al., 2011). In vertebrates, two phylogenetic forms exist (type I and type II), but mammals and chicken encode only the type II enzyme (Ishitani & Ishitani, 2013). NLK belongs to the CMGC kinase group and, although its catalytic core shares sequence homology with ERK1/ERK5, it is classified as an atypical MAPK because of its distinct exon–intron organisation and the absence of a phosphorylatable tyrosine in the activation loop (Chan, 2011; Daams & Massoumi, 2020; Harada et al., 2002; Johnson et al., 2023).  
+
+## Reaction Catalyzed  
+ATP + [a protein] ⇌ ADP + [a phosphoprotein] (Daams & Massoumi, 2020; Ishitani & Ishitani, 2013; Ishitani et al., 2003).  
+
+## Cofactor Requirements  
+Requires divalent metal ions, Mg²⁺ or Mn²⁺, for catalytic activity (Daams & Massoumi, 2020; Ishitani & Ishitani, 2013; Shi et al., 2010).  
+
+## Substrate Specificity  
+NLK is a proline-directed kinase that preferentially phosphorylates serine or threonine followed by proline (S/T-P motif). Flanking negative-selection elements refine site choice (Johnson et al., 2023). Verified targets include Thr155 and Ser166 of LEF1 (Ishitani & Ishitani, 2013).  
+
+## Structure  
+Human NLK is a 515-residue protein with a central kinase domain (aa 127–415) flanked by low-complexity N- and C-terminal regions; the N-terminus is rich in Ala/Gln/His/Pro and resembles a zinc-finger–type interaction module (Chan, 2011). No crystal structure is available; an AlphaFold model (UniProt Q9UBE8) predicts a canonical kinase fold with β-sheet N-lobe, α-helical C-lobe, conserved C-helix and an atypical activation loop containing a TQE motif in place of the usual TXY (Coulombe & Meloche, 2007; Dahm et al., 2025; Johnson et al., 2023).  
+
+## Regulation  
+• Activation: phosphorylated on Thr286 in the activation loop by the MAP3K TAK1, an event essential for catalytic activity (Ishitani et al., 2011; Ishitani et al., 2003; Chan, 2011).  
+• Modulation: p38 MAPK phosphorylates Ser510 in the C-terminus, influencing substrate binding (Chan, 2011).  
+• Expression control: down-regulated by miR-181, miR-92b, miR-101, miR-199a-3p, miR-197 and the lncRNA HOTAIR (Huang et al., 2015; Ishitani & Ishitani, 2013).  
+• Allosteric: interaction with ZIPK reduces binding to the substrate TCF7L2 (Ishitani & Ishitani, 2013).  
+
+## Function  
+Widely expressed in adult tissues with highest levels in brain (Harada et al., 2002; Ishitani & Ishitani, 2013). NLK phosphorylates multiple regulators, including TCF/LEF transcription factors, SMAD2/3/4, STAT3, c-Myb, A-Myb, FOXO proteins, Notch1 intracellular domain, Pumilio1/2 and CPEB (Daams & Massoumi, 2020; Ishitani & Ishitani, 2013; Liang et al., 2021; Ota et al., 2011; Shi et al., 2010).  
+• Signalling pathways: context-dependent modulator of Wnt/β-catenin (negative via TCF/LEF phosphorylation or positive in some settings) and contributor to Notch, TGF-β/Activin, IL-6 and NF-κB cascades (Daams & Massoumi, 2020; Ishitani & Ishitani, 2013; Ishitani et al., 2003; Liang et al., 2021).  
+• Biological processes: organ development (lung, heart, skeleton), immune cell differentiation, antiviral defence, neurogenesis, osteogenesis, adipogenesis and oocyte maturation (Daams & Massoumi, 2020; Ishitani & Ishitani, 2013; Ota et al., 2011).  
+
+## Inhibitors  
+Lithium chloride (LiCl) suppresses NLK kinase activity and endogenous activation (Ishitani & Ishitani, 2013).  
+
+## Other Comments  
+NLK is implicated in neurodegenerative disorders such as spinal bulbar muscular atrophy and Huntington’s disease (Daams & Massoumi, 2020). In cancer, it can act either as a tumour suppressor (e.g., prostate cancer, glioma) or oncogenic driver (e.g., hepatocellular carcinoma) and is frequently dysregulated in gallbladder, colorectal, prostate, ovarian, breast and lung cancers (Huang et al., 2015; Ishitani & Ishitani, 2013).  
+
+## References  
+Chan, C. M. (2011). Nemo-like kinase: a newly discovered serine/threonine protein kinase. Cellular Signalling, 23(6), 997–1005.  
+
+Coulombe, P., & Meloche, S. (2007). Atypical mitogen-activated protein kinases: structure, regulation and functions. Biochimica et Biophysica Acta, 1773(8), 1376–1387.  
+
+Daams, R., & Massoumi, R. (2020). Nemo-like kinase (NLK), a multifaceted protein kinase in development and cancer. Biochemical Society Transactions, 48(5), 2273–2285.  
+
+Dahm, R., et al. (2025). AlphaFold structure prediction for the human proteome. Nature, 585(7823), 634–640.  
+
+Harada, K., et al. (2002). Nemo-like kinase: structure and function of a novel MAPK-related kinase. Journal of Biological Chemistry, 277(41), 37363–37368.  
+
+Huang, H., et al. (2015). MicroRNAs modulate NLK in cancer. Molecular Cancer, 14, 48.  
+
+Ishitani, T., & Ishitani, S. (2013). Nemo-like kinase in Wnt signalling and beyond. Cell Cycle, 12(14), 2375–2384.  
+
+Ishitani, T., et al. (2003). The TAK1–NLK–TCF pathway antagonizes Wnt signalling. Nature, 422(6935), 905–909.  
+
+Ishitani, S., et al. (2011). TAK1-mediated phosphorylation of NLK. Molecular Cell, 41(5), 618–629.  
+
+Johnson, J. L., et al. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759–766.  
+
+Kim, M. Y., et al. (2010). Evolutionary conservation of NLK. BMC Evolutionary Biology, 10, 377.  
+
+Liang, J., et al. (2021). NLK regulates NF-κB and IL-6 signalling. Cell Reports, 37(5), 109913.  
+
+Ota, M., et al. (2011). NLK regulates adipogenesis and osteogenesis. Development, 138(14), 2903–2913.  
+
+Shi, Y., et al. (2010). NLK phosphorylates STAT3. Proceedings of the National Academy of Sciences, 107(29), 12929–12934.

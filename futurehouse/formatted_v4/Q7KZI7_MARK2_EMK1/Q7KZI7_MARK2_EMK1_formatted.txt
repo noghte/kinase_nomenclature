@@ -1,0 +1,68 @@
+## Phylogeny  
+MARK2 is a member of the calcium-/calmodulin-dependent protein kinase (CAMK) group, within the AMPK/SNF1-related subfamily, MARK branch (Marx et al., 2006). Orthologous proteins are found in fungi (S. cerevisiae KIN1/KIN2; S. pombe kin1), nematodes (C. elegans PAR-1), insects (D. melanogaster PAR-1), amphibians (X. laevis XPAR-1A/B) and vertebrates (R. norvegicus Mark2; M. musculus Mark2; H. sapiens MARK1/3/4) (Unknown Authors, 2007). A phylogenomic survey of 94 eukaryotes places MARK kinases in a conserved last eukaryotic common ancestor (LECA)-derived clade (van Wijk & Snel, 2020). Domain architecture and sequence homology also link MARK2 to other AMPK-family members such as BRSK and SIK (Matenia & Mandelkow, 2009).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr ⇌ ADP + [protein]-O-phospho-Ser/Thr (Panneerselvam et al., 2006).  
+
+## Cofactor Requirements  
+Two Mg²⁺ ions coordinate ATP and the catalytic Asp193 during phosphoryl transfer (Ahrari et al., 2017).  
+
+## Substrate Specificity  
+MARK2 preferentially phosphorylates serine or threonine within a basophilic K-X-G-S*/T* consensus that is present in MAP2, MAP4 and TAU repeats (Panneerselvam et al., 2006). A Met residue at DFG + 1 is associated with lower sequence stringency but retention of serine preference (Sugiyama et al., 2019).  
+
+## Structure  
+The protein comprises an N-terminal leader, a bilobed catalytic domain (core Lys82–Asp199), a ubiquitin-associated (UBA) domain, a proline-rich spacer, and a C-terminal tail ending with a kinase associated-1 (KA1) module (Panneerselvam et al., 2006). Crystal structures are available for the human catalytic–UBA fragment (PDB 1Y8G, 2.6 Å) and additional human or rat MARK2 entries (1ZMU, 1ZMV, 1ZMW, 2WZJ) (Panneerselvam et al., 2006; Jenardhanan et al., 2014).  
+
+Active conformation: phosphorylation of Thr208 orders the activation loop, completes the Lys82–Glu100 salt bridge and aligns the regulatory spine (Ahrari et al., 2017).  
+Inactive conformation: αC is displaced, the catalytic cleft is widened and partly disordered, and the UBA domain clamps the N-lobe, limiting inter-lobe motion (Panneerselvam et al., 2006). UBA autoinhibition diminishes responsiveness to Thr208 phosphorylation (Unknown Authors, 2006). Atypical elements include a β9 Asn198-Glu199 “RD pocket” and an Asp-in DFG motif in both states (Ahrari et al., 2017).  
+
+## Regulation  
+Phosphorylation  
+• Thr208 – activating; added by LKB1 or MARKK/TAO-1 (Panneerselvam et al., 2006).  
+• Ser212 – inhibitory; added by GSK3β (Timm et al., 2008).  
+• Ser400 – inhibitory; added by PKD (Deng et al., 2015).  
+• Ser409 – inhibitory; added by PKA (Deng et al., 2015).  
+• Thr595 – inhibitory; added by aPKC; generates a 14-3-3 docking site (Deng et al., 2015).  
+• Ser92 & Thr294 – modulatory; added by CaMKI (Deng et al., 2015).  
+
+Ubiquitination  
+TRAF2 and Smurf1 promote proteasomal degradation (Deng et al., 2015).  
+
+Protein/domain interactions  
+14-3-3 binds pThr595 or pSer409 and inhibits MARK2 (Deng et al., 2015; Timm et al., 2008). PAK5 associates with the catalytic domain and suppresses activity (Timm et al., 2008).  
+
+## Function  
+MARK2 phosphorylates TAU, MAP2 and MAP4 at KXGS sites, releasing them from microtubules and promoting turnover (Panneerselvam et al., 2006). The kinase regulates neuronal polarity, axon specification and neurite extension (Timm et al., 2008), and controls epithelial polarity via phosphorylation of RAB11FIP2 (Panneerselvam et al., 2006). Upstream activators include the LKB1-STRAD-MO25 complex and MARKK/TAO-1 (Panneerselvam et al., 2006). MARK2 activity modulates WNT/β-catenin signalling; loss-of-function variants attenuate this pathway in neural progenitors (Gong et al., 2024). PKA-mediated Ser409 phosphorylation counteracts MARK2-induced microtubule destabilisation in neurons (Deng et al., 2015).  
+
+## Inhibitors  
+ATP-competitive 9-oxo-9H-acridin-10-yl derivatives (e.g., 30019, 30195, 30197, 30199) target the ATP hinge (Tyr131) with favourable binding energies in MARK2 models (Jenardhanan et al., 2014). Broad-spectrum inhibitors OTSSP167 and AZ13599185 also inhibit MARK family kinases (Annadurai et al., 2017).  
+
+## Other Comments  
+Hyperphosphorylation of TAU by MARK2 contributes to Alzheimer-type neurofibrillary pathology (Panneerselvam et al., 2006; Timm et al., 2008). Missense variants p.A80V, p.G135R, p.F194S, p.R302Q (kinase domain) and p.V752A, p.R764P (KA1) destabilise MARK2 and are associated with autism spectrum disorder, intellectual disability and speech impairment (Gong et al., 2024).  
+
+## 9. References  
+Ahrari, S., Mogharrab, N., & Navapour, L. (2017). Interconversion of inactive to active conformation of MARK2: Insights from molecular modeling and molecular dynamics simulation. Archives of Biochemistry and Biophysics, 630, 66–80. https://doi.org/10.1016/j.abb.2017.07.002  
+
+Annadurai, N., Agrawal, K., Džubák, P., Hajdúch, M., & Das, V. (2017). Microtubule affinity-regulating kinases are potential druggable targets for Alzheimer’s disease. Cellular and Molecular Life Sciences, 74, 4159–4169. https://doi.org/10.1007/s00018-017-2574-1  
+
+Deng, S.-s., Wu, L., Wang, Y.-C., Cao, P., Xu, L., Li, Q.-R., … Li, J. (2015). Protein kinase A rescues microtubule affinity-regulating kinase 2-induced microtubule instability and neurite disruption by phosphorylating serine 409. The Journal of Biological Chemistry, 290, 3149–3160. https://doi.org/10.1074/jbc.M114.629873  
+
+Gong, M., Li, J., Qin, Z., Bressan Wilke, M. V. M., Liu, Y., Li, Q., … Chen, X. (2024). MARK2 variants cause autism spectrum disorder via the downregulation of WNT/β-catenin signaling pathway. American Journal of Human Genetics, 111, 2392–2410. https://doi.org/10.1016/j.ajhg.2024.09.006  
+
+Jenardhanan, P., Mannu, J., & Mathur, P. P. (2014). The structural analysis of MARK4 and the exploration of specific inhibitors for the MARK family: A computational approach to obstruct the role of MARK4 in prostate cancer progression. Molecular BioSystems, 10, 1845–1868. https://doi.org/10.1039/C3MB70591A  
+
+Marx, A., Nugoor, C., Müller, J., Panneerselvam, S., Timm, T., Bilang, M., … Mandelkow, E. (2006). Structural variations in the catalytic and ubiquitin-associated domains of microtubule-associated protein/microtubule affinity-regulating kinase 1 and 2. Journal of Biological Chemistry, 281, 27586–27599. https://doi.org/10.1074/jbc.M604865200  
+
+Matenia, D., & Mandelkow, E.-M. (2009). The tau of MARK: A polarized view of the cytoskeleton. Trends in Biochemical Sciences, 34, 332–342. https://doi.org/10.1016/j.tibs.2009.03.008  
+
+Panneerselvam, S., Marx, A., Mandelkow, E., & Mandelkow, E. (2006). Structure of the catalytic and ubiquitin-associated domains of the protein kinase MARK/PAR-1. Structure, 14, 173–183. https://doi.org/10.1016/j.str.2005.09.022  
+
+Sugiyama, N., Imamura, H., & Ishihama, Y. (2019). Large-scale discovery of substrates of the human kinome. Scientific Reports. https://doi.org/10.1038/s41598-019-46385-4  
+
+Timm, T., Marx, A., Panneerselvam, S., Mandelkow, E., & Mandelkow, E.-M. (2008). Structure and regulation of MARK, a kinase involved in abnormal phosphorylation of tau protein. BMC Neuroscience, 9(Suppl 2), S9. https://doi.org/10.1186/1471-2202-9-S2-S9  
+
+Unknown Authors. (2006). Structural variations in the catalytic and ubiquitin-associated domains of MARK1 and MARK2.  
+
+Unknown Authors. (2007). Regulation of the kinase MARK from Rattus norvegicus by GSK3.  
+
+van Wijk, L. M., & Snel, B. (2020). The first eukaryotic kinome tree illuminates the dynamic history of present-day kinases. bioRxiv. https://doi.org/10.1101/2020.01.27.920793  

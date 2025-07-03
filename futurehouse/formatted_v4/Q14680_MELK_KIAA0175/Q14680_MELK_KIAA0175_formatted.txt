@@ -1,0 +1,58 @@
+## Phylogeny  
+Member of the CAMK group, AMPK-related family, MELK sub-branch. Human closest paralogues are MARK1-4, NUAK1/2, ARK5 and BRSK1/2, all sharing an N-terminal kinase plus UBA domain arrangement (Beullens et al., 2005). Vertebrate orthologs include Mus musculus MPK38, Xenopus laevis xMELK and Danio rerio MELK (Thangaraj et al., 2020; Badouel et al., 2006; Ganguly et al., 2015). An invertebrate ortholog, Caenorhabditis elegans pig-1, links MELK to PAR-4/LKB1 polarity signalling (Ganguly et al., 2015).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Beullens et al., 2005).
+
+## Cofactor Requirements  
+Requires Mg²⁺ for phosphotransfer (Beullens et al., 2005).
+
+## Substrate Specificity  
+Kinome-wide peptide profiling indicates a preference for basic-XX-Ser/Thr motifs (Pitner et al., 2017). Earlier peptide arrays showed broader recognition without a strict consensus (Beullens et al., 2005). Verified cellular substrates include CDC25B, ASK1-Thr838, p53-Ser15, BCL2L14, ZNF622, Smad2/3/4/7, PDK1-Thr354 and SQSTM1/p62 (Thangaraj et al., 2020; Jiang & Zhang, 2013; Janostiak et al., 2017). Common in-vitro substrates are MBP, histone H1, AMARA/SAMS peptides, NIPP1 and SAP155 (Beullens et al., 2005).
+
+## Structure  
+Domain organisation: N-terminal kinase domain (aa 10–259) → UBA (≈260–315) → Thr/Pro-rich segment → C-terminal KA1 autoinhibitory module (≈550–643) (Thangaraj et al., 2020; Beullens et al., 2005). The inhibitor-free kinase–UBA crystal structure (PDB 5K0X) shows a 1 600 Å² interface, an ordered activation segment and an active-like C-helix/hydrophobic spine despite absence of phosphorylation (Cao et al., 2013; McDonald & Graves, 2020). Key catalytic motifs: Lys40–Glu93 salt bridge, HRD (His148-Arg149-Asp150), DFG-Asp150 and hinge Glu87/Cys89 (Canevari et al., 2013). A KA1 module folds back onto the C-lobe to autoinhibit the kinase (Beullens et al., 2005). A Type I, DFG-in complex with dorsomorphin has been solved (PDB entry reported by Rembacz et al., 2019).
+
+## Regulation  
+Autophosphorylation on Thr167 and Ser171 is essential for activity; Tyr163 is also autophosphorylated but dispensable (Beullens et al., 2005). ≥16 additional auto-sites occur throughout the protein (Thangaraj et al., 2020). CDK1/cyclin B and MAPK phosphorylate Thr414, Thr449, Thr451 and Ser498 during oocyte maturation, enhancing activity (Badouel et al., 2006). Activity is limited by a putative Cys154–Cys168 disulfide; reducing agents (e.g., 2 mM DTT) restore catalysis (Unknown Authors, 2020). Free Ca²⁺ (~1 µM) binds the catalytic region and inhibits turnover (Beullens et al., 2005). Protein regulators include thioredoxin (negative feedback loop), ZPR9 (stabilises active kinase) and FBXO15 (ubiquitin-mediated degradation) (Thangaraj et al., 2020; Pitner et al., 2017). Transcriptionally, MELK is induced by E2F1 and FoxM1 at G2/M and degraded post-mitosis by APC/C-Cdh1 (Unknown Authors, 2020).
+
+## Function  
+Highly expressed in oocytes, early embryos, thymus, spleen and neural progenitors, but low in differentiated kidney, liver and muscle (Thangaraj et al., 2020; Beullens et al., 2005).  
+– Cell-cycle control: phosphorylates CDC25B to promote centrosomal localisation and mitotic entry (Beullens et al., 2005).  
+– Stress/apoptosis: activates ASK1-Thr838 and p53-Ser15 to enhance pro-apoptotic signalling (Thangaraj et al., 2020; Jiang & Zhang, 2013).  
+– TGF-β pathway: inhibits PDK1-Thr354 and phosphorylates Smad2/3/4/7 (Thangaraj et al., 2020).  
+– RNA metabolism: ZNF622 phosphorylation blocks spliceosome assembly during mitosis (Janostiak et al., 2017).  
+– NF-κB signalling: phosphorylates SQSTM1/p62 to stimulate transcription and melanoma growth (Janostiak et al., 2017).  
+– DNA replication/checkpoint: interacts with MCM and PCNA; inhibition triggers γ-H2AX and Chk2 activation (Unknown Authors, 2020).  
+– Stem cell maintenance: required for proliferation of embryonic and neural progenitors (Ganguly et al., 2015).
+
+## Inhibitors  
+OTSSP167 (potent but multi-target), NVS-MELK8a (more selective), MELK-T1 series (improved selectivity), HTH-01-091 (weak cellular potency), dorsomorphin (structure solved) and Siomycin A (reduces MELK protein) (Thangaraj et al., 2020; Unknown Authors, 2020; Rembacz et al., 2019; Jiang & Zhang, 2013).
+
+## Other Comments  
+MELK over-expression correlates with poor prognosis in glioblastoma, triple-negative breast, colorectal cancer and melanoma (Unknown Authors, 2020; Janostiak et al., 2017). Genetic dependency appears context-dependent: RNAi knockdown impairs proliferation whereas CRISPR deletion can yield viable cells (Unknown Authors, 2020; McDonald & Graves, 2020).
+
+## References  
+Badouel, C., Körner, R., Frank-Vaillant, M., Couturier, A., Nigg, E. A., & Tassan, J.-P. (2006). M-phase MELK activity is regulated by MPF and MAPK. Cell Cycle, 5, 883-889. https://doi.org/10.4161/cc.5.8.2683  
+
+Beullens, M., Vancauwenbergh, S., Morrice, N., Derua, R., Ceulemans, H., Waelkens, E., & Bollen, M. (2005). Substrate specificity and activity regulation of protein kinase MELK. Journal of Biological Chemistry, 280, 40003-40011. https://doi.org/10.1074/jbc.M507274200  
+
+Canevari, G., Re Depaolini, S., Cucchi, U., Bertrand, J. A., Casale, E., Perrera, C., Forte, B., Carpinelli, P., & Felder, E. R. (2013). Structural insight into maternal embryonic leucine zipper kinase conformation and inhibition toward structure-based drug design. Biochemistry, 52, 6380-6387. https://doi.org/10.1021/bi4005864  
+
+Cao, L.-S., Wang, J., Chen, Y., Deng, H., Wang, Z.-X., & Wu, J.-W. (2013). Structural basis for the regulation of maternal embryonic leucine zipper kinase. PLoS ONE, 8, e70031. https://doi.org/10.1371/journal.pone.0070031  
+
+Ganguly, R., Mohyeldin, A., Thiel, J., Kornblum, H. I., Beullens, M., & Nakano, I. (2015). MELK—a conserved kinase: functions, signaling, cancer, and controversy. Clinical and Translational Medicine, 4, 11. https://doi.org/10.1186/s40169-014-0045-y  
+
+Janostiak, R., Rauniyar, N., Lam, T. T., Ou, J., Zhu, L., Green, M. R., & Wajapeyee, N. (2017). MELK promotes melanoma growth by stimulating the NF-κB pathway. Cell Reports, 21, 2829-2841. https://doi.org/10.1016/j.celrep.2017.11.033  
+
+Jiang, P., & Zhang, D. (2013). Maternal embryonic leucine zipper kinase (MELK): A novel regulator in cell cycle control, embryonic development, and cancer. International Journal of Molecular Sciences, 14, 21551-21560. https://doi.org/10.3390/ijms141121551  
+
+McDonald, I. M., & Graves, L. M. (2020). Enigmatic MELK: The controversy surrounding its complex role in cancer. Journal of Biological Chemistry, 295, 8195-8203. https://doi.org/10.1074/jbc.REV120.013433  
+
+Pitner, M. K., Taliaferro, J. M., Dalby, K. N., & Bartholomeusz, C. (2017). MELK: A potential novel therapeutic target for TNBC and other aggressive malignancies. Expert Opinion on Therapeutic Targets, 21, 849-859. https://doi.org/10.1080/14728222.2017.1363183  
+
+Rembacz, K., Źrubek, K., Golik, P., Michalik, K., Bogusz, J., Władyka, B., Romanowska, M., & Dubin, G. (2019). Crystal structure of maternal embryonic leucine zipper kinase in complex with dorsomorphin (compound C). Archives of Biochemistry and Biophysics, 671, 1-7. https://doi.org/10.1016/j.abb.2019.05.014  
+
+Thangaraj, K., Ponnusamy, L., Natarajan, S., & Manoharan, R. (2020). MELK/MPK38 in cancer: From mechanistic aspects to therapeutic strategies. Drug Discovery Today, 25, 2158-2167. https://doi.org/10.1016/j.drudis.2020.09.029  
+
+Unknown Authors. (2020). Exploring the controversial role of MELK in cancer.

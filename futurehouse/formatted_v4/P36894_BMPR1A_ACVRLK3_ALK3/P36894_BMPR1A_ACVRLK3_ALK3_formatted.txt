@@ -1,0 +1,56 @@
+## Phylogeny  
+Bone morphogenetic protein receptor type-1A (BMPR1A, ALK3) is a serine/threonine kinase receptor of the Tyrosine Kinase-Like group within the transforming growth factor-β receptor (TGFβR) family of the human kinome (Manning et al., 2002; Gipson et al., 2020; Sanchez-Duffhues et al., 2020). As a type I BMP receptor, it forms part of the activin receptor-like kinase (ALK) subfamily together with ALK1, ALK2 and ALK6 (Gomez-Puerto et al., 2019; Lin et al., 2016). Orthologs occur in mouse, fly, worm, chordates and other metazoans, underscoring its conserved developmental role (Manning et al., 2002; Gipson et al., 2020).
+
+## Reaction Catalyzed  
+ATP + [protein]-L-serine ⇌ ADP + [protein]-L-serine-phosphate  
+ATP + [protein]-L-threonine ⇌ ADP + [protein]-L-threonine-phosphate (Gomez-Puerto et al., 2019)
+
+## Cofactor Requirements  
+Mg²⁺ is required for catalytic activity (Gipson et al., 2020; Gomez-Puerto et al., 2019; Sanchez-Duffhues et al., 2020).
+
+## Substrate Specificity  
+High-throughput peptide-array profiling assigns BMPR1A/ALK3 to motif cluster 3 of serine/threonine kinases, characterised by preference for acidic (Asp/Glu) or pre-phosphorylated residues flanking the Ser/Thr phospho-acceptor (Johnson et al., 2023). A precise consensus motif was not explicitly defined (Johnson et al., 2023).
+
+## Structure  
+BMPR1A is a single-pass transmembrane receptor comprising:  
+• N-terminal extracellular cysteine-rich ligand-binding domain  
+• Single transmembrane helix  
+• C-terminal intracellular kinase domain with a canonical bilobal fold (Gipson et al., 2020; Sanchez-Duffhues et al., 2020)  
+
+Key regulatory elements include a ~30-residue juxtamembrane glycine/serine-rich (GS) domain, the L45 loop (SMAD specificity), the αC helix, activation loop and the NANDOR box (Gipson et al., 2020; Sanchez-Duffhues et al., 2020). A crystal structure of the kinase domain is available (PDB 3MDY; Gipson et al., 2020).
+
+## Regulation  
+• Ligand binding (e.g., BMP2, BMP4) promotes assembly of a heterotetrameric complex with a type II receptor whose constitutive activity phosphorylates GS-domain Ser/Thr residues, activating BMPR1A (Ehata & Miyazono, 2022; Sanchez-Duffhues et al., 2020).  
+• In the absence of ligand, FKBP12 binds a Leu-Pro motif in the GS domain, shielding the phosphorylation sites; phosphorylation triggers FKBP12 dissociation (Gomez-Puerto et al., 2019; Gipson et al., 2020).  
+• Negative regulation involves SMURF1/2-mediated ubiquitination and inhibitory SMAD6/7, which recruit SMURFs or block R-SMAD phosphorylation (Ehata & Miyazono, 2022; Lin et al., 2016; Ruan et al., 2023).
+
+## Function  
+Widely expressed, including in articular cartilage and subchondral bone (Ruan et al., 2023). Activated by BMP2/4/6/7/9/10; ligand availability is modulated by extracellular antagonists such as noggin, chordin and gremlin-1 (Ehata & Miyazono, 2022). Activated BMPR1A phosphorylates SMAD1/5/8, which partner with SMAD4 to regulate transcription of targets such as ID1 (Gomez-Puerto et al., 2019; Ehata & Miyazono, 2022). BMPR1A also triggers non-SMAD pathways (p38, JNK MAPKs; Rho and Rac GTPases) (Gomez-Puerto et al., 2019). Signalling controls embryonic development, tissue homeostasis, osteogenesis, chondrogenesis, and impacts cell proliferation, differentiation, motility and angiogenesis (Ehata & Miyazono, 2022; Lin et al., 2016).
+
+## Inhibitors  
+ATP-competitive small-molecule inhibitors include:  
+• Dorsomorphin, IC₅₀ ≈ 222 nM  
+• LDN-193189, IC₅₀ ≈ 14.3 nM  
+• LDN-212854, K02288, Saracatinib  
+• LJ000328 (ALK3-biased), IC₅₀ ≈ 5.1 nM  
+Experimental ALK3-Fc fusion proteins are also used to modulate signalling (Ehata & Miyazono, 2022; Sanchez-Duffhues et al., 2020; Gomez-Puerto et al., 2019).
+
+## Other Comments  
+Loss-of-function germline BMPR1A mutations cause Juvenile Polyposis Syndrome (JPS) (~23 % of patients). Variants include nonsense, point mutations and large deletions; R443C is most frequent. Dominant-negative R443H associates with JPS and atrioventricular septal defects, while mutations such as R478H, D429V, P481S and R406L are linked to atrial septal defects (Gomez-Puerto et al., 2019; Sanchez-Duffhues et al., 2020).
+
+## References  
+Ehata, S., & Miyazono, K. (2022). Bone morphogenetic protein signaling in cancer; some topics in the recent 10 years. Frontiers in Cell and Developmental Biology, 10, 883523. https://doi.org/10.3389/fcell.2022.883523  
+
+Gipson, G. R., Goebel, E. J., Hart, K. N., Kappes, E. C., Kattamuri, C., McCoy, J. C., & Thompson, T. B. (2020). Structural perspective of BMP ligands and signaling. Bone, 140, 115549. https://doi.org/10.1016/j.bone.2020.115549  
+
+Gomez-Puerto, M. C., Iyengar, P. V., García de Vinuesa, A., ten Dijke, P., & Sanchez-Duffhues, G. (2019). Bone morphogenetic protein receptor signal transduction in human disease. The Journal of Pathology, 247(1), 9–20. https://doi.org/10.1002/path.5170  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Lin, S., Svoboda, K., Feng, J. Q., & Jiang, X. (2016). The biological function of type I receptors of bone morphogenetic protein in bone. Bone Research, 4, 16005. https://doi.org/10.1038/boneres.2016.5  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298(5600), 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Ruan, X., Gu, J., Chen, M., Zhao, F., Aili, M., & Zhang, D. (2023). Multiple roles of ALK3 in osteoarthritis. Bone & Joint Research, 12(6), 397–411. https://doi.org/10.1302/2046-3758.127.BJR-2022-0310.R1  
+
+Sanchez-Duffhues, G., Williams, E., Goumans, M.-J., Heldin, C.-H., & ten Dijke, P. (2020). Bone morphogenetic protein receptors: Structure, function and targeting by selective small molecule kinase inhibitors. Bone, 138, 115472. https://doi.org/10.1016/j.bone.2020.115472

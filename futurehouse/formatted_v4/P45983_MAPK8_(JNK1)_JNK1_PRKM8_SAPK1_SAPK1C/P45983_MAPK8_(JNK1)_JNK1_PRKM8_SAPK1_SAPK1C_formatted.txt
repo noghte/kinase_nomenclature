@@ -1,0 +1,65 @@
+## Phylogeny  
+Mitogen-activated protein kinase 8 (MAPK8; JNK1) belongs to the CMGC group of the eukaryotic protein-kinase superfamily and, within this group, to the highly conserved MAP kinase family (Manning et al., 2002a, 2002b). Three paralogous JNK genes (JNK1/2/3) arose after the divergence of vertebrates from invertebrates (Manning et al., 2002b). Orthologues of MAPK family members occur across metazoans, including Drosophila and Caenorhabditis, whereas MAPK8 itself is generally absent from yeast (Manning et al., 2002a).  
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇄ ADP + O-phospho-L-seryl/threonyl-[protein] (Sabapathy, 2012).  
+
+## Cofactor Requirements  
+Requires Mg²⁺ for ATP coordination and catalysis (Cicenas et al., 2017; Sabapathy, 2012; Shaw et al., 2008).  
+
+## Substrate Specificity  
+Positional scanning peptide-array analysis classifies MAPK8 as a proline-directed kinase that prefers Ser/Thr followed immediately (+1) by Pro. Hydrophobic residues N-terminal to the phosphorylation site enhance recognition, whereas charged residues at several positions are disfavoured (Johnson et al., 2023).  
+
+## Structure  
+MAPK8 adopts the canonical bilobal protein-kinase fold with a β-rich N-lobe and predominantly α-helical C-lobe (Unknown Authors, 2023; Sabapathy, 2012). Key elements include:  
+• N-lobe Gly-rich loop (res. 33–40) forming the ATP-binding ceiling (Sabapathy, 2012; Yan et al., 2011).  
+• αC-helix that orients catalytic residues.  
+• Hydrophobic spine spanning both lobes and stabilising the active conformation (Heo et al., 2004; Sabapathy, 2012).  
+• Activation segment (res. 169–195) containing Thr183 and Tyr185, the dual-phosphorylation sites required for activity (Yan et al., 2011; Sabapathy, 2012).  
+• MAP-kinase insert in the C-lobe implicated in regulatory interactions (Shaw et al., 2008).  
+Experimental structures are available in the PDB, and a high-confidence AlphaFold model has been generated (Sabapathy, 2012).  
+
+## Regulation  
+Activation: Dual phosphorylation of Thr183 and Tyr185 within the TPY motif by MAP2K4 (prefers Tyr185) and MAP2K7 (prefers Thr183); the two kinases act synergistically (Cicenas et al., 2017; Unknown Authors, 2023).  
+Inactivation: Dephosphorylation by dual-specificity phosphatases DUSP1/2/3/7/8, MKP5 and MKP7 (Ha et al., 2019; Liu et al., 2016).  
+Scaffolding: JIP1 organises the JNK module, retains JNK1 in the cytoplasm and can allosterically reduce ATP affinity (Heo et al., 2004).  
+
+## Function  
+Ubiquitously expressed in cytoplasm and nucleus, MAPK8 integrates responses to UV irradiation, oxidative stress and inflammatory cues as a core component of the stress-activated protein kinase/JNK pathway (Chen, 2011). Upon activation by MAP2K4/7, it phosphorylates transcription factors c-Jun (Ser63/73), ATF-2, Elk-1 and p53, thereby modulating gene expression that governs proliferation, differentiation, apoptosis and migration (Chen, 2011). JNK1-mediated apoptosis influences both extrinsic (Fas) and intrinsic pathways via phosphorylation of Bcl-2 family proteins and p53 (Chen, 2011). In neurons, JNK1 phosphorylates microtubule-associated proteins and is required for microtubule maintenance (Chang et al., 2003).  
+
+## Inhibitors  
+ATP-competitive inhibitors: SP600125, AS601245, CC-401 (Cicenas et al., 2017).  
+Covalent inhibitors: JNK-IN-8, JNK-IN-12 targeting a conserved cysteine in the ATP pocket (Zhang et al., 2012).  
+Allosteric peptide inhibitors: JIP1-derived peptides such as pepJIP1 (Heo et al., 2004).  
+
+## Other Comments  
+Dysregulated MAPK8 signalling is linked to cancer, inflammatory disorders, obesity, insulin resistance, and neurodegenerative diseases (Chen, 2011; Cicenas et al., 2017). Associations with autoimmune conditions (e.g., rheumatoid arthritis, type 1 diabetes) have also been reported (Shaw et al., 2008). No specific disease-causing MAPK8 mutations are detailed in the current dataset (Chen, 2011).  
+
+## References  
+Chang, L., Jones, Y., Ellisman, M. H., Goldstein, L. S. B., & Karin, M. (2003). JNK1 is required for maintenance of neuronal microtubules and controls phosphorylation of microtubule-associated proteins. Developmental Cell, 4(4), 521–533. https://doi.org/10.1016/S1534-5807(03)00094-7  
+
+Chen, F. (2011). MAPK8 (mitogen-activated protein kinase 8). Atlas of Genetics and Cytogenetics in Oncology and Haematology. https://doi.org/10.4267/2042/37949  
+
+Cicenas, J., Žalytė, E., Rimkus, A., Dapkus, D., Noreika, R., & Urbonavičius, S. (2017). JNK, p38, ERK, and SGK1 inhibitors in cancer. Cancers, 10(1), 1. https://doi.org/10.3390/cancers10010001  
+
+Ha, J., Kang, E., Seo, J., & Cho, S. (2019). Phosphorylation dynamics of JNK signaling: Effects of dual-specificity phosphatases (DUSPs) on the JNK pathway. International Journal of Molecular Sciences, 20(24), 6157. https://doi.org/10.3390/ijms20246157  
+
+Heo, Y.-S., Kim, S.-K., Seo, C. I., et al. (2004). Structural basis for the selective inhibition of JNK1 by the scaffolding protein JIP1 and SP600125. The EMBO Journal, 23(11), 2185–2195. https://doi.org/10.1038/sj.emboj.7600212  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., et al. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Liu, X., Zhang, C.-S., Lu, C., Lin, S.-C., Wu, J.-W., & Wang, Z.-X. (2016). A conserved motif in JNK/p38-specific MAPK phosphatases as a determinant for JNK1 recognition and inactivation. Nature Communications, 7, 10879. https://doi.org/10.1038/ncomms10879  
+
+Manning, G., Plowman, G. D., Hunter, T., & Sudarsanam, S. (2002a). Evolution of protein kinase signaling from yeast to man. Trends in Biochemical Sciences, 27(10), 514–520. https://doi.org/10.1016/S0968-0004(02)02179-5  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002b). The protein kinase complement of the human genome. Science, 298(5600), 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Sabapathy, K. (2012). Role of the JNK pathway in human diseases. Progress in Molecular Biology and Translational Science, 106, 145–169. https://doi.org/10.1016/B978-0-12-396456-4.00013-4  
+
+Shaw, D., Wang, S. M., Villaseñor, A., et al. (2008). The crystal structure of JNK2 reveals conformational flexibility in the MAP kinase insert and indicates its involvement in the regulation of catalytic activity. Journal of Molecular Biology, 383(4), 885–893. https://doi.org/10.1016/j.jmb.2008.08.086  
+
+Unknown Authors. (2023). Revealing the mechanism of action of intrinsically disordered proteins in MAPK cell signalling (pp. 33–38).  
+
+Yan, C., Kaoud, T. S., Lee, S., Dalby, K., & Ren, P. Y. (2011). Understanding the specificity of a docking interaction between JNK1 and the scaffolding protein JIP1. The Journal of Physical Chemistry B, 115(6), 1491–1502. https://doi.org/10.1021/jp1073522  
+
+Zhang, T., Inesta-Vaquera, F., Niepel, M., et al. (2012). Discovery of potent and selective covalent inhibitors of JNK. Chemistry & Biology, 19(1), 140–154. https://doi.org/10.1016/j.chembiol.2011.11.010

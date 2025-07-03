@@ -1,0 +1,79 @@
+## Phylogeny  
+Cyclin-dependent kinase 11B (CDK11B; UniProt P21127) belongs to the CMGC group, CDK family of the human kinome (Manning et al., 2002). A recent segmental duplication on chromosome 1 produced the closely related paralogue CDK11A; the two proteins differ by only 16 amino acids (Malumbres et al., 2009). Sequence-based clustering positions CDK11B closest to CDK11A and, within the CDK subfamily, to CDK8 and CDK9 (Varjosalo et al., 2013). Single-copy orthologues are found in mouse, rat, frog, zebrafish, fly and yeast, highlighting the broad evolutionary conservation of PITSLRE kinases (Malumbres et al., 2009).  
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr ⇌ ADP + protein-L-Ser/Thr-phosphate (Loyer et al., 2005).  
+
+## Cofactor Requirements  
+Catalysis requires a divalent cation, preferentially Mg²⁺, for ATP coordination in the active site (Scheeff & Bourne, 2005).  
+
+## Substrate Specificity  
+In vitro and cellular mapping reveal a preference for Ser/Thr-Pro motifs with a basic residue at +3; consensus sequence: S/T-P-X-K/R (Anonymous, 2020).  
+
+## Structure  
+CDK11B is a 912-residue protein organised into four main regions:  
+• N-terminal regulatory segment (≈ 1–400) containing multiple nuclear-localisation signals and a canonical 14-3-3 docking site (Anonymous, 2006).  
+• Central arginine/glutamic acid-rich (RE) domain (≈ 400–560) that recruits spliceosomal factors (Anonymous, 2006).  
+• Poly-glutamic acid (poly-E) domain (≈ 560–650) harbouring an internal ribosome entry site required for translation of the mitotic p58 isoform (Zhou et al., 2016).  
+• C-terminal kinase domain (≈ 700–912) displaying the canonical bilobal CDK fold, including the PSTAIRE helix, Lys-Glu ion pair, C-helix, DFG motif and activation-loop Thr (Loyer & Trembley, 2020; Scheeff & Bourne, 2005).  
+
+Distinctive features include multiple caspase cleavage sites within the regulatory segment that generate catalytically active p46 and p60 fragments during apoptosis (Anonymous, 2006). No experimentally determined PDB structure is available; an AlphaFold model (AF-P21127-F1) depicts the folded kinase domain (Loyer & Trembley, 2020).  
+
+## Regulation  
+Post-translational modification  
+– CK2 phosphorylates N-terminal Ser residues, enhancing transcription/splicing activity (Anonymous, 2006).  
+– CHK2 phosphorylates CDK11p110, favouring homodimerisation and global splicing (Anonymous, 2020).  
+– Autophosphorylation of the activation-loop Thr is required for full catalytic activity (Loyer & Trembley, 2020).  
+
+Proteolytic control  
+– Caspase-1 and caspase-3 cleave p110 and p58 to yield p46 and p60, redirecting substrate specificity (Anonymous, 2006).  
+
+Translation control  
+– An IRES within the poly-E domain restricts p58 synthesis to G2/M and is modulated by eIF2α phosphorylation and Unr binding (Anonymous, 2006).  
+
+Protein interactions  
+– Kinase activation requires binding to Cyclin L1 or Cyclin L2; the mitotic p58 isoform can also engage Cyclin D3 (Zhou et al., 2016).  
+– 14-3-3γ and the chaperones Hsp70/Hsp90 associate with specific isoforms to regulate localisation and stability (Anonymous, 2006).  
+
+## Function  
+Expression and isoforms  
+– p110 is constitutively nuclear; p58 accumulates only at G2/M; p46 and p60 arise after caspase cleavage during apoptosis (Anonymous, 2006).  
+
+Transcription and splicing  
+– p110 phosphorylates the RNA polymerase II C-terminal domain and SR splicing factors RNPS1 and 9G8, cooperating with ELL2 to couple transcription with 3′-end processing (Anonymous, 2006).  
+
+Mitosis  
+– p58 promotes centrosome maturation, bipolar spindle assembly and sister-chromatid cohesion by recruiting PLK1, PLK4 and Cep192 (Anonymous, 2020).  
+
+Apoptosis and translation control  
+– p46 phosphorylates PAK1, NOT2, RanBPM and eIF3f to inhibit translation and promote anoikis; p60 translocates to mitochondria to trigger cytochrome c release (Anonymous, 2006).  
+
+Cytoskeleton  
+– Interactions with vimentin, α/β-tubulin and lamin A link CDK11B to microtubule dynamics (Anonymous, 2006).  
+
+## Inhibitors  
+OTS964 is a potent, selective small-molecule inhibitor of CDK11 (biochemical IC₅₀ ≈ 10–100 nM) that blocks spliceosome activation; resistance-conferring mutations in CDK11 emerge upon chronic exposure (Hluchý et al., 2022; Loyer & Trembley, 2020). No approved clinical inhibitors are currently available.  
+
+## Other Comments  
+High CDK11B expression is required for the survival of breast cancer, multiple myeloma, osteosarcoma and melanoma cells and correlates with poor prognosis (Loyer & Trembley, 2020). The CDC2L1 gene lies within the 1p36.3 region, a hotspot for chromosomal alterations in cancer (Zhou et al., 2016).  
+
+## References  
+Anonymous. (2006). The regulation and function of cyclin dependent kinase 11 (CDK11): Analysis of the Cdc2L1 promoter and elucidation of CDK11 (p58) function during mitosis [Doctoral dissertation].  
+
+Anonymous. (2020). Investigating the role of CDK11 in animal cytokinesis [Unpublished manuscript].  
+
+Hluchý, M., Gajdušková, P., Ruiz de los Mozos, I., Rájecký, M., Kluge, M., Berger, B., … Blažek, D. (2022). CDK11 regulates pre-mRNA splicing by phosphorylation of SF3B1. Nature, 609, 829–834. https://doi.org/10.1038/s41586-022-05204-z  
+
+Loyer, P., & Trembley, J. H. (2020). Roles of CDK/cyclin complexes in transcription and pre-mRNA splicing: Cyclins L and CDK11 at the crossroads of cell cycle and gene expression. Seminars in Cell & Developmental Biology, 107, 36–45. https://doi.org/10.1016/j.semcdb.2020.04.016  
+
+Loyer, P., Trembley, J., Katona, R., Kidd, V., & Lahti, J. (2005). Role of CDK/cyclin complexes in transcription and RNA splicing. Cellular Signalling, 17, 1033–1051. https://doi.org/10.1016/j.cellsig.2005.02.005  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Malumbres, M., Harlow, E., Hunt, T., Hunter, T., Lahti, J. M., Manning, G., … Wolgemuth, D. J. (2009). Cyclin-dependent kinases: A family portrait. Nature Cell Biology, 11, 1275–1276. https://doi.org/10.1038/ncb1109-1275  
+
+Scheeff, E. D., & Bourne, P. E. (2005). Structural evolution of the protein kinase-like superfamily. PLoS Computational Biology, 1, e49. https://doi.org/10.1371/journal.pcbi.0010049  
+
+Varjosalo, M., Keskitalo, S., Van Drogen, A., Nurkkala, H., Vichalkovski, A., Aebersold, R., & Gstaiger, M. (2013). The protein interaction landscape of the human CMGC kinase group. Cell Reports, 3, 1306–1320. https://doi.org/10.1016/j.celrep.2013.03.027  
+
+Zhou, Y., Shen, J. K., Hornicek, F., Kan, Q., & Duan, Z. (2016). The emerging roles and therapeutic potential of cyclin-dependent kinase 11 (CDK11) in human cancer. Oncotarget, 7, 40846–40859. https://doi.org/10.18632/oncotarget.8519

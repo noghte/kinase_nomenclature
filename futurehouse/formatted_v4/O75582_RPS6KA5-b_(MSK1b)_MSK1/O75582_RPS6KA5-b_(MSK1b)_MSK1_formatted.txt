@@ -1,0 +1,49 @@
+## Phylogeny  
+Mitogen- and stress-activated protein kinase-1 (MSK1, RPS6KA5) is assigned to the AGC kinase group, RSK family, MSK subfamily of the human kinome (Arencibia et al., 2013).  Its N-terminal kinase domain (NTKD) clusters with p70 S6K/p90 RSK isoforms, whereas the C-terminal kinase domain (CTKD) aligns with CaMK/MK2/3, indicating a dual evolutionary origin (Cargnello & Roux, 2011).  MSK1 shares ~75 % sequence identity with the paralogue MSK2 and ~40 % with p90 RSKs (Roux & Blenis, 2004).  Orthologues occur in zebrafish, Xenopus, Drosophila (JIL-1) and C. elegans, with Drosophila JIL-1 displaying 60–63 % identity over both kinase domains, defining a conserved MSK/JIL-1 clade (Chen, 2017).
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr → ADP + protein-O-phospho-L-Ser/Thr (Deák et al., 1998).
+
+## Cofactor Requirements  
+Mg²⁺ is required for catalytic activity (Cargnello & Roux, 2011).
+
+## Substrate Specificity  
+Peptide preference: R/K-X-X-S*/T* with an obligatory basic residue at position −3; kinase-wide profiling confirms enrichment for Arg/Lys at −3 and little constraint at +1 (Roux & Blenis, 2004; Cargnello & Roux, 2011).
+
+## Structure  
+MSK1 is an 802-residue protein comprising an NTKD of the AGC fold, a linker harbouring a hydrophobic-motif Ser360 and MAPK docking site, and a CaMK-like CTKD followed by a bipartite nuclear localisation signal (Roux & Blenis, 2004).  Both kinase domains contain conserved VAIK, HRD and DFG motifs; models and RSK homology reveal intact C-helix and regulatory spine (Arencibia et al., 2013).  The isolated NTKD crystallises in the canonical bilobal fold with a properly assembled regulatory spine (McCoy et al., 2005).  Phosphorylation of Ser212 (NTKD) and Thr581 (CTKD) aligns the spine for catalysis (McCoy et al., 2005).  A full-length structure is unresolved, but modelling suggests an autoinhibitory interface that is relieved by MAPK-dependent phosphorylation (Ikuta et al., 2007).
+
+## Regulation  
+• ERK1/2 or p38 dock to the C-terminus and phosphorylate Ser360 and Thr581, triggering CTKD activation (McCoy et al., 2005).  
+• CTKD then autophosphorylates Ser376, Ser381 and NTKD Ser212 for full activation (McCoy et al., 2005).  
+• Active NTKD phosphorylates Ser750, Ser752, Ser758 and Thr700; phosphorylation of Thr700 protects Thr581 from phosphatases, stabilising activity (McCoy et al., 2007).  
+• 14-3-3 proteins modulate function, although the mechanism is not yet defined (Arencibia et al., 2013).  
+• Specific phosphatases remain unidentified (Cargnello & Roux, 2011).  
+• Upstream MEK inhibitors (PD98059, U0126, PD184352) and the p38 inhibitor SB203580 prevent the priming phosphorylations and block activation (Deák et al., 1998).
+
+## Function  
+MSK1 is ubiquitously expressed, with highest levels in brain, heart, placenta and skeletal muscle; the NLS confers constitutive nuclear localisation (Roux & Blenis, 2004).  Mitogens (e.g., EGF, phorbol esters) and stresses (UV-C, anisomycin, oxidative stress) activate ERK/p38, which converge on MSK1 (Deák et al., 1998).  Nuclear substrates include CREB1 Ser133, ATF1, NF-κB p65 Ser276, STAT3, ETV1, histone H3 Ser10/Ser28 and HMG-14 Ser6, thereby promoting immediate-early gene transcription (Roux & Blenis, 2004).  MSK1 competes with RSKs for ERK binding and influences nuclear localisation of upstream MAPKs (McCoy et al., 2005).  Msk1⁻/⁻ mice show age-related neurodegeneration, while Msk1/2 double knockouts exhibit hyper-inflammation and cognitive deficits, underscoring roles in neuronal integrity and immune regulation (Chen, 2017).
+
+## Inhibitors  
+Direct: SB-747651A, H89, BI-D1870, staurosporine, purvalanol A inhibit MSK1 with varying selectivity (Arencibia et al., 2013; Chen, 2017; Ikuta et al., 2007).  
+Upstream: SB203580 (p38) and MEK inhibitors PD98059, U0126, PD184352 block activating phosphorylations (McCoy et al., 2005; Deák et al., 1998).
+
+## Other Comments  
+MSK1 forms part of a negative-feedback loop that limits pro-inflammatory cytokine production downstream of Toll-like receptor signalling and has been linked to neurodegenerative and inflammatory diseases, highlighting therapeutic potential (Arencibia et al., 2013; Chen, 2017; Cargnello & Roux, 2011).
+
+## 9. References  
+Arencibia, J. M., Pastor-Flores, D., Bauer, A. F., Schulze, J. O., & Biondi, R. M. (2013). AGC protein kinases: From structural mechanism of regulation to allosteric drug development for the treatment of human diseases. Biochimica et Biophysica Acta (BBA) – Proteins and Proteomics, 1834, 1302–1321. https://doi.org/10.1016/j.bbapap.2013.03.010  
+
+Cargnello, M., & Roux, P. P. (2011). Activation and function of the MAPKs and their substrates, the MAPK-activated protein kinases. Microbiology and Molecular Biology Reviews, 75, 50–83. https://doi.org/10.1128/MMBR.00031-10  
+
+Chen, C. (2017). Interphase histone H3 serine 10 phosphorylation in mouse embryonic stem cells. https://doi.org/10.14288/1.0351987  
+
+Deák, M., Clifton, A., Lucocq, J. M., & Alessi, D. (1998). Mitogen- and stress-activated protein kinase-1 (MSK1) is directly activated by MAPK and SAPK2/p38, and may mediate activation of CREB. The EMBO Journal, 17, 4426–4441. https://doi.org/10.1093/emboj/17.15.4426  
+
+Ikuta, M., Kornienko, M., Byrne, N., Reid, J. C., Mizuarai, S., Kotani, H., & Munshi, S. K. (2007). Crystal structures of the N-terminal kinase domain of human RSK1 bound to three different ligands: Implications for the design of RSK1-specific inhibitors. Protein Science, 16, 2626–2635. https://doi.org/10.1110/ps.073123707  
+
+McCoy, C., Campbell, D. G., Deák, M., Bloomberg, G., & Arthur, J. S. C. (2005). MSK1 activity is controlled by multiple phosphorylation sites. Biochemical Journal, 387, 507–517. https://doi.org/10.1042/BJ20041501  
+
+McCoy, C. E., Macdonald, A., Morrice, N. A., Campbell, D. G., Deak, M., Toth, R., McIlrath, J., & Arthur, J. S. C. (2007). Identification of novel phosphorylation sites in MSK1 by precursor ion scanning MS. Biochemical Journal, 402, 491–501. https://doi.org/10.1042/BJ20061183  
+
+Roux, P. P., & Blenis, J. (2004). ERK and p38 MAPK-activated protein kinases: A family of protein kinases with diverse biological functions. Microbiology and Molecular Biology Reviews, 68, 320–344. https://doi.org/10.1128/MMBR.68.2.320-344.2004

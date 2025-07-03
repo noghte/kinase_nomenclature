@@ -1,0 +1,57 @@
+## Phylogeny  
+Serine/threonine kinase belonging to the STE20 group, Germinal-Center-Kinase II subfamily; most similar human paralogue is STK3/MST2 (~75 % identity) (Fitamant et al., 2013). Orthologues occur from yeast (Ste20) to flies (Hippo) and worms (cst-1) to mouse Stk4, highlighting broad conservation (Ling et al., 2008; Avruch et al., 2012).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇄ ADP + protein-O-phospho-Ser/Thr (Record et al., 2010).  
+
+## Cofactor Requirements  
+Requires Mg²⁺; Mn²⁺, Zn²⁺ or Co²⁺ can replace Mg²⁺ in vitro (Delpire, 2009; Record et al., 2010).  
+
+## Substrate Specificity  
+Prefers the consensus Φ-X-T-Φ-K/R-K/R (Φ = hydrophobic/aromatic) with threonine as the phospho-acceptor and basic residues at +2/+3 (Miller et al., 2019). Verified phosphosites include MOB1A/B Thr35 / Thr12, LATS1 Thr1079, LATS2 Thr1041, FOXO3 Ser207, Histone H2B Ser14, and Ezrin Thr567 (Avruch et al., 2012; Galan & Avruch, 2016; Delpire, 2009; Ling et al., 2008; Record et al., 2010).  
+
+## Structure  
+Contains an N-terminal kinase domain (aa 30–281) with Lys59 ATP anchor, HRD catalytic triad and DFG motif; a central autoinhibitory linker with caspase sites Asp326/Asp349; and a C-terminal SARAH coiled-coil (aa 432–480) for dimerisation (Fitamant et al., 2013; Galan & Avruch, 2016). Crystal structure 3COM shows an active conformation with a Lys59-Glu73 salt bridge and diphosphorylated Thr177/Thr183 activation loop; face-to-face dimers exchange activation loops for trans-autophosphorylation (Record et al., 2010). An AlphaFold model (5B7B) confirms the canonical bilobal fold and SARAH placement (Galan & Avruch, 2016).  
+
+## Regulation  
+• Autophosphorylation of Thr183 is activating (Unknown Authors, 2017).  
+• TAO kinases phosphorylate the activation loop to enhance activity (Galan & Avruch, 2016).  
+• PP2A-STRIPAK complex and PTPN14 dephosphorylate/ inhibit the kinase (Galan & Avruch, 2016; Eden et al., 2024).  
+• Oxidative stress-induced SARAH dimerisation boosts activity (Galan & Avruch, 2016).  
+• Akt (Thr120) and JNK (Ser82) phosphorylation reduce activity (Fitamant et al., 2013).  
+• Abl/Src phosphorylation on Tyr433 influences stability and neuronal apoptosis (Galan & Avruch, 2016).  
+• Caspase-3 cleavage at Asp326/Asp349 generates a constitutively active 34 kDa nuclear fragment (Delpire, 2009).  
+• SARAH-mediated binding to SAV1 promotes activation, whereas RASSF isoforms or STRIPAK restrict it (Fitamant et al., 2013; Galan & Avruch, 2016).  
+
+## Function  
+Ubiquitously expressed, highest in lymphoid tissue, heart, kidney and placenta (Avruch et al., 2012; Record et al., 2010). Upstream inputs include Rap1-RAPL, oxidative stress, TAO kinases, Akt and c-Abl/Src (Ling et al., 2008; Galan & Avruch, 2016). The kinase phosphorylates MOB1A/B, thereby activating LATS1/2 and NDR1/2; these downstream kinases phosphorylate YAP/TAZ to curb proliferation and promote apoptosis (Avruch et al., 2012; Hamilton & O’Neill, 2013). Additional substrates—FOXO3, Histone H2B and Ezrin—link the enzyme to nuclear translocation, chromatin condensation and cell polarity (Delpire, 2009; Record et al., 2010). Physiological roles encompass organ-size control, stress-induced apoptosis, maintenance of naïve T-cell homeostasis and suppression of cardiac hypertrophy (Avruch et al., 2012; Ling et al., 2008).  
+
+## Inhibitors  
+• XMU-MP-1: selective inhibitor, IC₅₀ ≈ 71 nM (Galan & Avruch, 2016).  
+• Broad ATP-competitive ligands (e.g., staurosporine, quinazoline derivatives) bind the active site in crystal complexes (Record et al., 2010).  
+
+## Other Comments  
+Biallelic loss-of-function variants cause autosomal-recessive combined immunodeficiency with severe naïve T-cell lymphopenia (Galan & Avruch, 2016; Avruch et al., 2012). Somatic cancer mutations cluster in the kinase domain (K59R, V184M, R181Q) or confer caspase resistance (D326N/D349N) (Unknown Authors, 2014). Reduced expression is linked to prostate and colorectal cancer progression (Record et al., 2010). Cardiac over-expression drives myocyte apoptosis and dilated cardiomyopathy, whereas inhibition is cardioprotective post-infarction (Delpire, 2009).  
+
+## References  
+Avruch, J., Zhou, D., Fitamant, J., Bardeesy, N., Mou, F., & Regué Barrufet, L. (2012). Protein kinases of the Hippo pathway: Regulation and substrates. Seminars in Cell & Developmental Biology, 23, 770–784. https://doi.org/10.1016/j.semcdb.2012.07.002  
+
+Delpire, E. (2009). The mammalian family of sterile 20p-like protein kinases. Pflügers Archiv-European Journal of Physiology, 458, 953–967. https://doi.org/10.1007/s00424-009-0674-y  
+
+Eden, M., Leye, M., Hahn, J., Heilein, E., Luzarowski, M., Völschow, B., … Frey, N. (2024). Mst4, a novel cardiac STRIPAK complex–associated kinase, regulates cardiomyocyte growth and survival and is up-regulated in human cardiomyopathy. The Journal of Biological Chemistry. https://doi.org/10.1016/j.jbc.2024.107255  
+
+Fitamant, J., Zhou, D., Mou, F., Barrufet, L. R., Bardeesy, N., & Avruch, J. (2013). Mst1/2 and other upstream signaling that affect Hippo pathway function. In *Proceedings* (pp. 27–49). https://doi.org/10.1007/978-1-4614-6220-0_3  
+
+Galan, J. A., & Avruch, J. (2016). Mst1/Mst2 protein kinases: Regulation and physiologic roles. Biochemistry, 55, 5507–5519. https://doi.org/10.1021/acs.biochem.6b00763  
+
+Hamilton, G., & O’Neill, E. (2013). Hippo pathway and apoptosis. In *Proceedings* (pp. 117–145). https://doi.org/10.1007/978-1-4614-6220-0_7  
+
+Ling, P., Lu, T.-J., Yuan, C.-J., & Lai, M.-D. (2008). Biosignaling of mammalian Ste20-related kinases. Cellular Signalling, 20, 1237–1247. https://doi.org/10.1016/j.cellsig.2007.12.019  
+
+Miller, C. J., Lou, H. J., Simpson, C., van de Kooij, B., Ha, B. H., Fisher, O. S., … Turk, B. E. (2019). Comprehensive profiling of the Ste20 kinase family defines features essential for selective substrate targeting and signaling output. PLOS Biology, 17, e2006540. https://doi.org/10.1371/journal.pbio.2006540  
+
+Record, C. J., Chaikuad, A., Rellos, P., Das, S., Pike, A. C. W., Fedorov, O., … Lee, W. H. (2010). Structural comparison of human mammalian Ste20-like kinases. PLOS ONE, 5, e11905. https://doi.org/10.1371/journal.pone.0011905  
+
+Unknown Authors. (2014). Integrative analyses of Hippo pathway mutations in human cancer genome (pp. 68–73).  
+
+Unknown Authors. (2017). Regulation of Hippo pathway kinases MST1/2 by DLG5 and other signaling factors (pp. 26–29).

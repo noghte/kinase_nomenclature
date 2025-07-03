@@ -1,0 +1,38 @@
+## Phylogeny  
+Orthologues are found in Mus musculus, Arabidopsis thaliana and several bacterial phyla, indicating that the ACAD10 lineage is conserved across eukaryotes and prokaryotes (Swigoňová et al., 2009; He et al., 2011; Shen et al., 2009). Within eukaryotes, a duplication produced the paralog ACAD11; ACAD10 and ACAD11 share ~46 % amino-acid identity (Swigoňová et al., 2009). The N-terminal region groups with aminoglycoside-phosphotransferase-like protein-kinase folds and aligns with bacterial LvaA/LvaC 4-hydroxy-acid catabolic enzymes (Rashan et al., 2025). ACAD10 is not assigned to any of the canonical eukaryotic kinase families described by Manning and colleagues.
+
+## Reaction Catalyzed  
+4-Hydroxyacyl-CoA + ATP → 4-Phosphoacyl-CoA + ADP (Paquay et al., 2024).
+
+## Cofactor Requirements  
+One tightly bound FAD is essential for the dehydrogenase activity; replacement with 5-deazaFAD abolishes function (Rashan et al., 2025).
+
+## Substrate Specificity  
+• Kinase activity requires CoA-conjugated 4-hydroxy fatty acids, with highest turnover for short- to medium-chain substrates (Paquay et al., 2024).  
+• The ACAD domain oxidises only the corresponding 4-phosphoacyl-CoAs; no activity is detected with standard C6–C22 acyl-CoAs (Rashan et al., 2025).  
+• Minor oxidation of branched R/S-2-methyl-C15-CoA and 2-methyl-C16-CoA is ≤ 1.4 mU mg⁻¹ protein (He et al., 2011).  
+• No linear peptide consensus motif has been identified.
+
+## Structure  
+Domain organisation: N-terminal APH-like kinase (~1–300) → central non-catalytic HAD-like segment (~300–450) → C-terminal FAD-dependent ACAD domain (~450–1059) (Rashan et al., 2025; Paquay et al., 2024; He et al., 2011).  
+3-D information: Homology models predict the canonical ACAD fold with an aspartate-based catalytic base replacing the usual glutamate; Arg512 and His509 create an unusually polar substrate channel (He et al., 2011). Cryo-EM of ACAD11 shows a tetramer composed of back-to-back kinase dimers capped by an ACAD tetramer; sequence conservation suggests that ACAD10 adopts the same quaternary architecture (Rashan et al., 2025). No experimentally determined ACAD10 structure is yet available.
+
+## Regulation  
+Full-length ACAD10 undergoes proteolytic cleavage that separates the kinase/HAD module from the ACAD domain; the liberated HAD fragment allosterically inhibits kinase activity (Paquay et al., 2024). Oxidative N-terminal modification followed by arginylation has been reported and links ACAD10 to pexophagy control pathways (Rashan et al., 2025). No other phosphorylation, ubiquitination or acetylation sites have been characterised.
+
+## Function  
+Transcript abundance peaks in fetal brain, heart and kidney and is lower in adult brain, indicating developmental regulation (He et al., 2011). Subcellular fractionation places ~70 % of the protein in microsomal membranes and ~30 % in mitochondria in mouse tissues (He et al., 2011). The mitochondrial isoform performs the first two committed steps of 4-hydroxy fatty-acid catabolism, permitting entry into β-oxidation (Paquay et al., 2024; Rashan et al., 2025). ACAD10-deficient mice accumulate 4-hydroxy acids and display altered lipid metabolism (Rashan et al., 2025). Upstream regulators and stable protein partners have not yet been identified.
+
+## Other Comments  
+Genome-wide association studies link ACAD10 variants to hypertension, type 2 diabetes, weight gain and glaucoma (Paquay et al., 2024).
+
+## References  
+He, M., Pei, Z., Mohsen, A.-W., Watkins, P., Murdoch, G., Van Veldhoven, P. P., Ensenauer, R., & Vockley, J. (2011). Identification and characterization of new long chain acyl-CoA dehydrogenases. Molecular Genetics and Metabolism, 102, 418–429. https://doi.org/10.1016/j.ymgme.2010.12.005  
+
+Paquay, S., Duraffourd, J., Bury, M., Heremans, I. P., Caligiore, F., Gerin, I., Stroobant, V., Jacobs, J., Pinon, A., Graff, J., Vertommen, D., Van Schaftingen, E., Dewulf, J. P., & Bommer, G. T. (2024). ACAD10 and ACAD11 allow entry of 4-hydroxy fatty acids into β-oxidation. Cellular and Molecular Life Sciences. https://doi.org/10.1007/s00018-024-05397-8  
+
+Rashan, E. H., Bartlett, A. K., Khana, D. B., Zhang, J., Jain, R., Wade, G., Abriata, L. A., Smith, A. J., Baker, Z. N., Cook, T., Caldwell, A., Chevalier, A. R., Forny, P., Pfleger, B. F., Dal Peraro, M., Yuan, P., Amador-Noguez, D., Simcox, J. A., & Pagliarini, D. J. (2025). ACAD10 and ACAD11 enable mammalian 4-hydroxy acid lipid catabolism. Nature Structural & Molecular Biology. https://doi.org/10.1038/s41594-025-01596-4  
+
+Shen, Y.-Q., Lang, B. F., & Burger, G. (2009). Diversity and dispersal of a ubiquitous protein family: acyl-CoA dehydrogenases. Nucleic Acids Research, 37, 5619–5631. https://doi.org/10.1093/nar/gkp566  
+
+Swigoňová, Z., Mohsen, A.-W., & Vockley, J. (2009). Acyl-CoA dehydrogenases: dynamic history of protein family evolution. Journal of Molecular Evolution, 69, 176–193. https://doi.org/10.1007/s00239-009-9263-0

@@ -1,0 +1,52 @@
+Phylogeny  
+Human Lemur Tail Kinase 1 (LMTK1; UniProt Q6ZMQ8) is the founding member of the Lemur Tail Kinase sub-family, which also contains LMTK2 and LMTK3 (Larose et al., 2024). Orthologues are present in mouse (Lmtk1a/Lmtk1b), rat, chicken, zebrafish, Drosophila and C. elegans, indicating conservation from vertebrates to invertebrates (Wei et al., 2020). Within the human kinome, AATK/LMTK1 is placed in the tyrosine-kinase–related branch (“Lemur Tail Kinase family”) (Manning et al., 2002).  
+
+Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Woods et al., 2022).  
+
+Cofactor Requirements  
+Divalent-cation dependence has not yet been experimentally determined; no quantitative data are available (Wei et al., 2020).  
+
+Substrate Specificity  
+No global phosphorylation motif has been defined. iPTMnet lists no annotated substrates, and the Johnson et al. (2023) kinome atlas did not report an LMTK1 consensus motif (Hamoud et al., 2024). The only experimentally validated substrate is TP53, which is phosphorylated on serine/threonine residues after UV stress in multiple cancer cell lines (Woods et al., 2022).  
+
+Structure  
+Isoform LMTK1B: an N-terminal signal peptide followed by two transmembrane helices (~residues 1-60) anchor the kinase to membranes (Larose et al., 2024). The catalytic domain (~60-360) contains the β3-strand Lys (Lys 131-139 region) and an HRD motif with catalytic Asp 263; Asp263→Val abolishes activity (Ferrari et al., 2021; Wei et al., 2020). Canonical DFG and C-helix elements are present (Larose et al., 2024). A proline-rich C-terminal tail (~1000 aa) harbours multiple PxxP sites for SH3-domain docking (Larose et al., 2024). Isoform LMTK1A lacks the transmembrane segment and is targeted to recycling endosomes via palmitoylation of Cys4/6/7 (Wei et al., 2020). No crystal structure is available; an AlphaFold2 model (AF-Q6ZMQ8) predicts an active-state kinase fold with correctly positioned catalytic motifs (Faezov & Dunbrack, 2023).  
+
+Regulation  
+• Phosphorylation: Cdk5/p35 phosphorylates Ser 34, suppressing tyrosine phosphorylation of LMTK1 and modulating growth-cone localisation (Tsutsumi et al., 2010). Cdk5-dependent phosphorylation also controls Rab11-positive endosome trafficking during neuronal morphogenesis (Takahashi et al., 2020).  
+• Autophosphorylation: weak activity detected in vitro (Hisanaga et al., 2020).  
+• Lipidation: palmitoylation of Cys4/6/7 is essential for LMTK1A endosomal targeting (Wei et al., 2020).  
+• Transcriptional/post-transcriptional control: intronic microRNA-338 down-regulates AATK mRNA during neuronal differentiation (Hisanaga et al., 2020).  
+• Epigenetic regulation: promoter hypermethylation silences AATK in several cancers (Woods et al., 2022).  
+
+Function  
+Expression LMTK1 mRNA and protein are highly enriched in brain tissue with broad distribution across brain regions (Hamoud et al., 2024; Larose et al., 2024).  
+Interactors LMTK1 binds Cdk5/p35 (Tsutsumi et al., 2010) and forms complexes with PP1Cα, SPAK, Src and the Rab-GAPs TBC1D9B/TBC1D11 (Larose et al., 2024). The LMTK1–TBC1D9B–Rab11A cascade restricts Rab11-dependent vesicle motility, thereby limiting axon elongation, dendritic branching and spine density (Wei et al., 2020). Phosphorylation of TP53 connects LMTK1 to DNA-damage signalling and cell-cycle regulation (Woods et al., 2022).  
+Physiology Lmtk1-null mice display increased axon outgrowth, elevated spine number and hyperactive/impulsive behaviour, underscoring a role in neural-circuit maturation (Takahashi et al., 2020).  
+
+Other Comments  
+Disease associations Promoter hypermethylation–mediated silencing of AATK correlates with reduced TP53 activation and radio-resistance in lung, melanoma and pancreatic cancers (Woods et al., 2022). Behavioural phenotypes in Lmtk1-null mice resemble attention-deficit/hyperactivity disorder traits (Takahashi et al., 2020).  
+
+References  
+Faezov, B., & Dunbrack, R. L. (2023). AlphaFold2 models of the active form of all 437 catalytically competent human protein kinase domains. bioRxiv. https://doi.org/10.1101/2023.07.21.550125  
+
+Ferrari, E., Naponelli, V., & Bettuzzi, S. (2021). Lemur tyrosine kinases and prostate cancer: A literature review. International Journal of Molecular Sciences, 22, 5453. https://doi.org/10.3390/ijms22115453  
+
+Hamoud, A.-R., Alganem, K., Hanna, S., Morran, M., Henkel, N. D., Imami, A., … McCullumsmith, R. (2024). Illuminating the dark kinome: Utilizing multiplex peptide activity arrays to functionally annotate understudied kinases. Cell Communication and Signaling. https://doi.org/10.1186/s12964-024-01868-4  
+
+Hisanaga, S.-I., Wei, R., Huo, A., & Tomomura, M. (2020). LMTK1, a novel modulator of endosomal trafficking in neurons. Frontiers in Molecular Neuroscience. https://doi.org/10.3389/fnmol.2020.00112  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759-766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Larose, A., Miller, C. C. J., & Mórotz, G. M. (2024). The Lemur Tail Kinase family in neuronal function and dysfunction in neurodegenerative diseases. Cellular and Molecular Life Sciences. https://doi.org/10.1007/s00018-024-05480-0  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912-1934. https://doi.org/10.1126/science.1075762  
+
+Takahashi, M., Sugiyama, A., Wei, R., Kobayashi, S., … Hisanaga, S. (2020). Hyperactive and impulsive behaviors of Lmtk1 knockout mice. Scientific Reports. https://doi.org/10.1038/s41598-020-72304-z  
+
+Tsutsumi, K., Takano, T., Endo, R., Fukuda, M., … Hisanaga, S. (2010). Phosphorylation of AATYK1 by Cdk5 suppresses its tyrosine phosphorylation. PLoS ONE. https://doi.org/10.1371/journal.pone.0010260  
+
+Wei, R., Sugiyama, A., Sato, Y., Nozumi, M., … Hisanaga, S. (2020). Isoform-dependent subcellular localization of LMTK1A and LMTK1B, and their roles in axon outgrowth and spine formation. Journal of Biochemistry. https://doi.org/10.1093/jb/mvaa019  
+
+Woods, M. L., Weiss, A., Sokol, A., Graumann, J., … Dammann, R. (2022). Epigenetically silenced apoptosis-associated tyrosine kinase (AATK) facilitates a decreased expression of cyclin D1 and Wee1, phosphorylates TP53 and reduces cell proliferation in a kinase-dependent manner. Cancer Gene Therapy, 29, 1975-1987. https://doi.org/10.1038/s41417-022-00513-x

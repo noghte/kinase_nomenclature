@@ -1,0 +1,44 @@
+## Phylogeny  
+Orthologues are present in H. sapiens, P. troglodytes, M. musculus, R. norvegicus, C. familiaris, G. gallus, D. rerio and D. melanogaster, indicating broad conservation across vertebrates and selected invertebrates (Salicioni et al., 2020, pp. 10). The TSSK family originated in the amniote ancestor (~380–316 MYA) and expanded in mammals (Salicioni et al., 2020, pp. 10). TSSK3 is classified within the CaMK group, testis-specific serine/threonine kinase (TSSK) sub-family (Salicioni et al., 2020, pp. 30–31). A distinctive DKCEN motif in kinase sub-domain VIB is conserved in all orthologues (Testis specific serine-threonine kinases, 2005, pp. 37–39). The gene is absent from X. tropicalis, reflecting a lineage-specific loss in amphibians (Nayyab et al., 2021, pp. 3–4).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (Salicioni et al., 2020, p. 2).  
+
+## Cofactor Requirements  
+Catalysis is strictly Mn²⁺-dependent; Mg²⁺ supports little or no activity (Salicioni et al., 2020, pp. 15–16).  
+
+## Substrate Specificity  
+• Peptide screens defined the optimal motif RRSSSY/RRSSSVY with phosphorylation on the first Ser (Testis specific serine-threonine kinases, 2005, pp. 37–39).  
+• Does not phosphorylate the canonical TSKS substrate recognised by TSSK1/2 (Salicioni et al., 2020, pp. 14–15).  
+• In Tssk3-null testes, phosphorylation of GAPDHS, ACTL7A, ACTL9 and REEP6 is lost, identifying these as physiological targets (Nozawa et al., 2023, pp. 1–3).  
+• Not examined in the Johnson 2023 substrate atlas (Salicioni et al., 2020, p. 14).  
+
+## Structure  
+The protein contains a single N-terminal kinase domain (~aa 1–270) followed by a short, predicted intrinsically disordered C-terminal tail (Salicioni et al., 2020, pp. 7–8). The AlphaFold model (AF-Q96PN8-F1) adopts a canonical bilobal fold with conserved catalytic motifs VAIK (Lys43), HRD (Asp160) and DFG (Asp184) (Salicioni et al., 2020, pp. 30–31). Thr168 lies in the activation segment and serves as the regulatory phosphosite (Salicioni et al., 2020, p. 14). The family-specific DKCEN insertion is adjacent to the catalytic loop and may influence substrate binding (Testis specific serine-threonine kinases, 2005, pp. 37–39). No experimental crystal or NMR structure is available (Salicioni et al., 2020, pp. 30–31).  
+
+## Regulation  
+Post-translational control  
+– Autophosphorylation of Thr168 is required for activation (Salicioni et al., 2020, p. 14).  
+– PDK1 can phosphorylate Thr168 in vitro, providing an alternative activation route (Testis specific serine-threonine kinases, 2005, pp. 37–39).  
+– No ubiquitination events have been reported (Salicioni et al., 2020, pp. 30–31).  
+
+Chaperone dependence  
+TSSK3 forms complexes with HSP70/HSP90 via the co-chaperone SIP; HSP90 inhibition destabilises the kinase (Salicioni et al., 2020, pp. 16–17).  
+
+Other features  
+Enzymatic activity is sensitive to non-ionic detergents, suggesting reliance on partner proteins for structural stability (Testis specific serine-threonine kinases, 2005, pp. 37–39).  
+
+## Function  
+Highly restricted to the testis, with maximal expression in elongating spermatids and the sperm flagellum; lower levels are detected in adult mouse Leydig cells (Nozawa et al., 2023, pp. 1–3; Salicioni et al., 2020, pp. 29–30). Tssk3-knockout male mice are sterile, exhibiting disrupted seminiferous epithelium, reduced sperm counts, and morphologically abnormal, immotile sperm (Nozawa et al., 2023, pp. 1–3). Loss of TSSK3 diminishes phosphorylation of GAPDHS, ACTL7A, ACTL9 and REEP6, linking the kinase to glycolytic regulation and flagellar assembly (Nozawa et al., 2023, pp. 1–3). Upstream regulator: PDK1 (Testis specific serine-threonine kinases, 2005, pp. 37–39). Interacting partners include HSP70/HSP90 (via SIP) and the sperm fusion protein Izumo (Salicioni et al., 2020, pp. 16–17, 30–31). The enzyme is essential for spermatid cytodifferentiation and overall male fertility (Salicioni et al., 2020, p. 31).  
+
+## Other Comments  
+Because of its strict testis expression and requirement for male fertility, TSSK3 is under investigation as a non-hormonal male contraceptive target. No pathogenic human variants or small-molecule inhibitors have been reported (Salicioni et al., 2020, pp. 14–15, 31).  
+
+## References  
+Nayyab, S., Gervasi, M. G., Tourzani, D. A., Caraballo, D. A., Jha, K. N., Teves, M. E., Cui, W., Georg, G. I., Visconti, P. E., & Salicioni, A. M. (2021). Tssk3, a novel target for male contraception, is required for spermiogenesis. Molecular Reproduction and Development, 88, 718–730. https://doi.org/10.1002/mrd.23539  
+
+Nozawa, K., Garcia, T. X., Kent, K., Leng, M., Jain, A., Malovannaya, A., Yuan, F., Yu, Z., Ikawa, M., & Matzuk, M. M. (2023). Testis‐specific serine kinase 3 is required for sperm morphogenesis and male fertility. Andrology, 11, 826–839. https://doi.org/10.1111/andr.13314  
+
+Salicioni, A. M., Gervasi, M. G., Sosnik, J., Tourzani, D. A., Nayyab, S., Caraballo, D. A., & Visconti, P. E. (2020). Testis‐specific serine kinase protein family in male fertility and as targets for non-hormonal male contraception†. Biology of Reproduction, 103, 264–274. https://doi.org/10.1093/biolre/ioaa064  
+
+Testis specific serine-threonine kinases: regulation and their role in disease. (2005). [Details unavailable; cited pages 37–39].
