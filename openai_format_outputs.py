@@ -164,6 +164,11 @@ def main() -> None:
         safe_gene = sanitize_filename(gene)
         txt_out   = out_dir / f"{safe_gene}_formatted.txt"
 
+        # Skip if already processed
+        if txt_out.exists():
+            print(f"⏭ Skipping {txt_out.relative_to(OUTPUT_ROOT)} (already exists)")
+            continue
+        
         raw = txt_path.read_text(encoding="utf-8").strip()
         if not raw:
             continue
