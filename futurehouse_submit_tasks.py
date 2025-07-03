@@ -69,10 +69,16 @@ else:
 ts = datetime.now().strftime("%Y%m%d_%H%M%S")
 out_path = Path(f"./futurehouse/task_ids_{ts}.csv")
 
-rows_to_submit = [
-    row for row in rows_to_submit
-    if int(row["index"]) not in exclude_indices
-]
+# rows_to_submit = [
+#     row for row in rows_to_submit
+#     if int(row["index"]) not in exclude_indices
+# ]
+
+#temp
+# rows_to_submit = [
+#     row for row in rows_to_submit
+#     if row.get("uniprot") == "O15075"
+#     ]
 
 print(f"Submitting {len(rows_to_submit)} tasks, writing to {out_path.name}")
 confirm = input("Proceed? (y/n): ").strip().lower()
@@ -95,16 +101,22 @@ with open(out_path, "w", encoding="utf-8", newline="") as out:
             protein_alternative_names = row.get("protein_alternative_names", "N/A"),
             function                  = row.get("function", "N/A")[:1000],
         )
+        # write prompt to a text file for debugging
+        prompt_file = Path(f"./futurehouse/prompts/{row['uniprot']}_prompt.txt")
+        prompt_file.parent.mkdir(parents=True, exist_ok=True)
+        with open(prompt_file, "w", encoding="utf-8") as pf:
+            pf.write(prompt)
+            print(f"Prompt written to {prompt_file}")
 
-        task = TaskRequest(
-            name=job_name,
-            query=prompt,
-        )
+        # task = TaskRequest(
+        #     name=job_name,
+        #     query=prompt,
+        # )
 
-        tid = client.create_task(task)
-        writer.writerow([row["protein"], tid])                     
-        print("Submitted", row["protein"], "→", tid)
-        time.sleep(0.1)
+        # tid = client.create_task(task)
+        # writer.writerow([row["protein"], tid])                     
+        # print("Submitted", row["protein"], "→", tid)
+        # time.sleep(0.1)
 
 
   
