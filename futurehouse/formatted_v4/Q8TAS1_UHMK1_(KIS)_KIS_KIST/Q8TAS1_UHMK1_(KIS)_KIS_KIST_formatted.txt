@@ -1,0 +1,54 @@
+## Phylogeny  
+UHMK1 (U2AF-homology-motif kinase 1) is a serine/threonine protein kinase that belongs to the human kinome (Manning et al., 2002). It has been classified as an AGC-family member (Arfelli & Archangelo, 2018) and, based on its proline-directed activity, is also considered part of the CMGC group of cyclin-, MAP- and CDK-like kinases (Arfelli et al., 2023; Manning et al., 2002). The enzyme is highly conserved: > 99 % identity with other primates and mammals, 99.3 % with rodents, 88.2 % with chicken and 73.6 % with zebrafish (Arfelli & Archangelo, 2018). Its C-terminal U2AF homology motif (UHM) derives from RNA-recognition motifs and mediates protein–protein interactions (Arfelli et al., 2023).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Manning et al., 2002; Arfelli et al., 2023)
+
+## Cofactor Requirements  
+Requires Mg²⁺ for catalytic activity (Arfelli & Archangelo, 2018; Arfelli et al., 2023; Francone et al., 2010).
+
+## Substrate Specificity  
+UHMK1 is a proline-directed kinase that preferentially phosphorylates serine followed by Pro at +1 (Arfelli & Archangelo, 2018; Arfelli et al., 2023). pLogo analysis of phosphoproteomics defined a consensus [R]-X₀–₃-S-P-[E/D/Q]:  
+• Pro at +1 present in 41.7 % of sites  
+• Arg enriched at –3; Glu enriched at –4, +2, +3 (Arfelli et al., 2023).  
+UHMK1 was included in a kinome-wide peptide array screen (Johnson et al., 2023), but no additional motif was reported in the present data set.
+
+## Structure  
+The protein comprises an N-terminal kinase domain (~ aa 1–282) and a C-terminal 100-aa UHM protein-interaction module (Arfelli & Archangelo, 2018). Lys54 is essential for catalysis (Arfelli & Archangelo, 2018). No experimental crystal/NMR structures are available; AlphaFold models are referenced (Arfelli et al., 2023; Johnson et al., 2023). Structural elements such as activation loop or C-helix have not been experimentally defined in the cited literature.
+
+## Regulation  
+Transcription: activated by GABP and FOXM1, with WDR5/KMT2A-mediated H3K4me3 at the promoter (Arfelli & Archangelo, 2018).  
+Cell-cycle expression: accumulates in G1 and declines in S phase (Arfelli & Archangelo, 2018).  
+Activation: mitogenic stimulation induces autophosphorylation (Unknown Authors, 2008).  
+Post-translational modification: phosphorylation (Y197, S283, S290) and ubiquitination (K190, K282, K383, K387) reported; functional consequences not yet resolved (Arfelli & Archangelo, 2018).  
+Upstream pathways: Akt, FGF-2, PI3K/Rac1 and ERK1/2 influence UHMK1 functions (Arfelli & Archangelo, 2018).
+
+## Function  
+Localization & expression: nucleus and cytoplasm; ubiquitous with enrichment in nervous tissue (especially hippocampus) and hematopoietic cells (Arfelli & Archangelo, 2018; Francone et al., 2010).  
+Major substrate pathways  
+• RNA processing/splicing – phosphorylates SF1, SF3B1, SUGP1, hnRNP M, PRRC2B; controls > 270 alternative-splicing events (Arfelli & Archangelo, 2018; Arfelli et al., 2023).  
+• Cell-cycle progression – phosphorylates p27^Kip1 (CDKN1B) on Ser10, promoting nuclear export and degradation during G1 (Arfelli & Archangelo, 2018; Barbutti et al., 2018; Arfelli et al., 2023).  
+• Cytoskeletal dynamics – phosphorylates Stathmin on Ser38, leading to its degradation and reduced cell migration (Arfelli & Archangelo, 2018; Arfelli et al., 2023).  
+• Secretory/neuronal roles – phosphorylates PAM on Ser949, modulating secretory-pathway trafficking; associates with KIF3A, NONO and regulates localized mRNA translation (Francone et al., 2010; Arfelli & Archangelo, 2018).  
+Additional interactions: binds PIMREG and MYBL2; phosphorylates PIK3C3, WNK1, NUCKS1, PRPF4B and PPP4R2 (Arfelli & Archangelo, 2018; Arfelli et al., 2023).
+
+## Inhibitors  
+No selective small-molecule inhibitors reported. Expression is down-regulated by the EGFR antibody trastuzumab and by clozapine (but not haloperidol); UHMK1 depletion sensitises EGFR-positive breast-cancer cells to erlotinib (Arfelli & Archangelo, 2018; Unknown Authors, 2008).
+
+## Other Comments  
+Elevated UHMK1 transcripts in neurofibromatosis type 1 tumours and breast cancer; implicated in vascular remodelling and neointima formation (Arfelli & Archangelo, 2018). A GWAS SNP associates the UHMK1 locus with bone-mineral density (Arfelli & Archangelo, 2018). Possible, but controversial, link to schizophrenia (Unknown Authors, 2008). COSMIC lists > 160 somatic mutations across cancers; no recurrent mutations in MDS (Barbutti et al., 2018). Uhmk1-knockout mice show hyperactivity, impaired learning, altered SF1 phosphorylation and splicing defects (Arfelli & Archangelo, 2018).
+
+## 9. References  
+Arfelli, V. C., & Archangelo, L. (2018). Uhmk1 (U2AF homology motif kinase 1). Atlas of Genetics and Cytogenetics in Oncology and Haematology. https://doi.org/10.4267/2042/68931  
+
+Arfelli, V. C., Chang, Y.-C., Bagnoli, J. W., Kerbs, P., Ciamponi, F. E., Paz, L., Pankivskyi, S., de Matha Salone, J., Maucuer, A., Massirer, K., Enard, W., Kuster, B., Greif, P., & Archangelo, L. (2023). UHMK1 is a novel splicing regulatory kinase. The Journal of Biological Chemistry, 298, 103041. https://doi.org/10.1016/j.jbc.2023.103041  
+
+Barbutti, I., Machado-Neto, J., Arfelli, V. C., de Melo Campos, P., Traina, F., Saad, S. T. O., & Archangelo, L. (2018). The U2AF homology motif kinase 1 (UHMK1) is upregulated upon hematopoietic cell differentiation. bioRxiv. https://doi.org/10.1101/187385  
+
+Francone, V., Ifrim, M. F., Rajagopal, C., Leddy, C., Wang, Y., Carson, J., Mains, R., & Eipper, B. E. (2010). Signaling from the secretory granule to the nucleus: UHMK1 and PAM. Molecular Endocrinology, 24(8), 1543–1558. https://doi.org/10.1210/me.2009-0381  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., Lin, T.-Y., Liberatore, K., Cizin, D. M., Cohen, B. M., Vasan, N., Ma, Y., Krismer, K., Robles, J. T., van de Kooij, B., van Vlimmeren, A. E., Andrée-Busch, N., Käufer, N. F., Dorovkov, M. V., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298(5600), 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Unknown Authors. (2008). Molecular genetics of the 1q23.3 schizophrenia susceptibility locus.

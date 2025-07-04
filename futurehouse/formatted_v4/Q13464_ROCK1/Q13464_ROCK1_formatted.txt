@@ -1,0 +1,65 @@
+Phylogeny  
+ROCK1 is a serine/threonine protein kinase of the AGC (PKA/PKG/PKC) family and one of two closely related Rho-associated kinases (ROCK1 and ROCK2). The two isoforms share ~60–65 % overall amino-acid identity and ~92 % identity within the catalytic domain (Feng et al., 2016; Surma et al., 2011; Guan et al., 2013; Liao et al., 2007). Orthologues occur throughout mammalian species, including human and mouse (Zanin-Zhorov et al., 2016; Surma et al., 2011).
+
+Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Feng et al., 2016; Julian & Olson, 2014).
+
+Cofactor Requirements  
+Mg²⁺ is required together with ATP for catalysis (Feng et al., 2016; Julian & Olson, 2014).
+
+Substrate Specificity  
+ROCK1 phosphorylates serine or threonine residues within basic, basophilic motifs. Preferred consensus sequences are R/K-X-S/T or R/K-X-X-S/T, often with arginine at the −3 and −2 positions (Julian & Olson, 2014; Surma et al., 2011; Liao et al., 2007). Kinome-wide peptide library screening confirmed recognition of such basophilic motifs and highlighted strong negative selectivity based on electrostatic filtering (Johnson et al., 2023). Rnd3 is a known ROCK1-selective substrate not phosphorylated by ROCK2 (Hartmann et al., 2015).
+
+Structure  
+Human ROCK1 is a ~160 kDa, 1354-residue protein encoded on chromosome 18q11.1 (Feng et al., 2016; Julian & Olson, 2014). It contains:  
+• N-terminal catalytic kinase domain  
+• Central coiled-coil region harbouring the Rho-binding domain (RBD) and mediating homodimerisation (Julian & Olson, 2014; Shah & Savjani, 2016)  
+• C-terminal split pleckstrin-homology (PH) domain interrupted by a cysteine-rich domain (CRD) that acts as an autoinhibitory segment (Hartmann et al., 2015).  
+Phosphorylation of the activation loop is not essential for activity, distinguishing ROCK1 from many other AGC kinases (Hartmann et al., 2015; Julian & Olson, 2014).
+
+Regulation  
+• Autoinhibition: the C-terminal region folds over the kinase domain to block activity (Hartmann et al., 2015; Liao et al., 2007).  
+• Activation by GTP-bound RhoA/B/C binding to the RBD, which releases autoinhibition (Feng et al., 2016; Hartmann et al., 2015; Zhou et al., 2011).  
+• Proteolytic activation: caspase-3 cleavage at DETD¹¹¹³ ↓ G during apoptosis and granzyme B cleavage remove the inhibitory tail, yielding constitutively active kinase fragments (Hartmann et al., 2015; Julian & Olson, 2014; Zhou et al., 2011).  
+• Autophosphorylation on Ser1333 correlates with activation (Hartmann et al., 2015).  
+• Negative regulators: Rnd3 (RhoE), Gem and Rad1 bind the N-terminus and suppress activity; PDK1 can antagonise the Rnd3 effect (Julian & Olson, 2014; Hartmann et al., 2015; Liao et al., 2007).  
+• Lipid activation: arachidonic acid can stimulate kinase activity (Surma et al., 2011; Zhou et al., 2011).
+
+Function  
+ROCK1 is a central effector of RhoA signalling, orchestrating actin-myosin cytoskeletal dynamics to regulate contraction, adhesion, migration, proliferation and cell shape (Feng et al., 2016; Julian & Olson, 2014).  
+Expression: Ubiquitous, enriched in heart, lung, liver, kidney, pancreas and skeletal muscle; relatively low in brain (Feng et al., 2016; Hartmann et al., 2015).  
+Sub-cellular localisation: cytoplasm, plasma membrane and centrosomes (Hartmann et al., 2015; Julian & Olson, 2014).  
+Major substrates: MYPT1, LIMK1/2, adducin, neurofilament proteins, CRMP2 and ERM family members (Feng et al., 2016). Phosphorylation of MYPT1 inhibits myosin phosphatase, raising myosin light-chain phosphorylation and contractility (Feng et al., 2016; Yu et al., 2020).  
+Signalling pathways: contributes to MRTF/SRF and TGF-β transcriptional programmes, notably in fibrotic responses (Hartmann et al., 2015; Yu et al., 2020).  
+Genetic studies: ROCK1-deficient mice display eyelid and ventral body-wall closure defects, underscoring isoform-specific developmental roles (Feng et al., 2016; Julian & Olson, 2014).
+
+Inhibitors  
+Clinically used ATP-competitive inhibitors include Fasudil (cerebral vasospasm) and Ripasudil (glaucoma). Widely used research probes are Y-27632, H-1152 and Netarsudil/AR-13324 (IC₅₀ ≈ 1 nM for both isoforms). Additional inhibitors: RKI-1447, SR3677, GSK269962A and Belumosudil (Feng et al., 2016; Surma et al., 2011; Guan et al., 2013; Zheng et al., 2025).
+
+Other Comments  
+ROCK1 dysregulation links to cardiovascular disorders (hypertension, atherosclerosis, heart failure, fibrosis), asthma, cancer, erectile dysfunction, glaucoma, insulin resistance and neurodegeneration (Feng et al., 2016; Hartmann et al., 2015; Zhou et al., 2011). Enhanced caspase-3-mediated cleavage in failing hearts contributes to apoptosis-associated membrane blebbing (Hartmann et al., 2015). Tissue-specific manipulation reveals therapeutic potential: ROCK1 haplo-insufficiency reduces cardiac fibrosis, whereas adipose-specific deletion improves metabolic homeostasis (Julian & Olson, 2014).
+
+9. References  
+Feng, Y., LoGrasso, P. V., Defert, O., & Li, R. (2016). Rho kinase (ROCK) inhibitors and their therapeutic potential. Journal of Medicinal Chemistry, 59(6), 2269–2300. https://doi.org/10.1021/acs.jmedchem.5b00683  
+
+Guan, R., Xu, X., Chen, M., Hu, H., Ge, H., Wen, S., Zhou, S., & Pi, R. (2013). Advances in the studies of roles of Rho/Rho-kinase in diseases and the development of its inhibitors. European Journal of Medicinal Chemistry, 70, 613–622. https://doi.org/10.1016/j.ejmech.2013.10.048  
+
+Hartmann, S., Ridley, A. J., & Lutz, S. (2015). The function of Rho-associated kinases ROCK1 and ROCK2 in the pathogenesis of cardiovascular disease. Frontiers in Pharmacology, 6, 276. https://doi.org/10.3389/fphar.2015.00276  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Julian, L., & Olson, M. F. (2014). Rho-associated coiled-coil containing kinases (ROCK). Small GTPases, 5(1), e29846. https://doi.org/10.4161/sgtp.29846  
+
+Liao, J. K., Seto, M., & Noma, K. (2007). Rho kinase (ROCK) inhibitors. Journal of Cardiovascular Pharmacology, 50(1), 17–24. https://doi.org/10.1097/FJC.0b013e318070d1bd  
+
+Shah, S., & Savjani, J. (2016). A review on ROCK-II inhibitors: From molecular modelling to synthesis. Bioorganic & Medicinal Chemistry Letters, 26(10), 2383–2391. https://doi.org/10.1016/j.bmcl.2016.03.113  
+
+Surma, M., Wei, L., & Shi, J. (2011). Rho kinase as a therapeutic target in cardiovascular disease. Future Cardiology, 7(5), 657–671. https://doi.org/10.2217/fca.11.51  
+
+Yu, B., Sladojevic, N., Blair, J. E., & Liao, J. K. (2020). Targeting Rho-associated coiled-coil forming protein kinase (ROCK) in cardiovascular fibrosis and stiffening. Expert Opinion on Therapeutic Targets, 24(1), 47–62. https://doi.org/10.1080/14728222.2020.1712593  
+
+Zanin-Zhorov, A., Flynn, R., Waksal, S. D., & Blazar, B. R. (2016). Isoform-specific targeting of ROCK proteins in immune cells. Small GTPases, 7(3), 173–177. https://doi.org/10.1080/21541248.2016.1181698  
+
+Zheng, C., Xia, W., & Zhang, J.-h. (2025). ROCK inhibitors in Alzheimer’s disease. Frontiers in Aging. https://doi.org/10.3389/fragi.2025.1547883  
+
+Zhou, Q., Gensch, C., & Liao, J. K. (2011). Rho-associated coiled-coil-forming kinases (ROCKs): potential targets for the treatment of atherosclerosis and vascular disease. Trends in Pharmacological Sciences, 32(3), 167–173. https://doi.org/10.1016/j.tips.2010.12.006

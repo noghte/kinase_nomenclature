@@ -1,0 +1,57 @@
+Phylogeny  
+Assigned to the CAMK group, DCLK subfamily (Venkat et al., 2023). Human paralogs DCLK2 and DCLK3 share the tandem DCX segments and a homologous kinase domain (Ramkumar et al., 2018). Orthologs in Mus musculus and Rattus norvegicus are highly conserved (Dijkmans et al., 2010). Danio rerio dclk2 retains ~60 % identity across the PEST region, underscoring vertebrate conservation (Carli et al., 2023). DCX-superfamily phylogeny places DCLK1 within an ancient clade that also includes Xenopus and Drosophila genes (Reiner et al., 2006).
+
+Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-Ser/Thr-phosphate (Dijkmans et al., 2010).
+
+Cofactor Requirements  
+Catalysis requires Mg²⁺ or Mn²⁺; activity is calmodulin-independent despite the CAMK-like fold (Chen et al., 2023; Dijkmans et al., 2010).
+
+Substrate Specificity  
+A basophilic Ser/Thr kinase that favours Arg/Lys at –3/–2 and a hydrophobic residue at +1 (Johnson et al., 2023). Peptide studies defined a Hyd-Arg-X-X-Ser/Thr-Hyd motif, similar to CaMKI (Dijkmans et al., 2010). Verified cellular substrates include MAP7D1-Ser315 (Koizumi et al., 2017), IKKβ-Ser177/181 (Carli et al., 2023) and nuclear proteins TOP2B, CDK11B and MATR3 (Liu et al., 2020).
+
+Structure  
+Domain architecture: DC1 (1–152) – DC2 (180–263) – disordered PEST linker (283–381) – kinase domain (382–648) – autoinhibitory C-tail (649–740) (Carli et al., 2023).  
+• Kinase-domain crystal structure (1.7 Å, PDB 5JZJ) adopts an active DFG-in conformation with conserved VAIK, HRD and DFG motifs (Patel et al., 2016).  
+• A longer construct (PDB 6KYQ) shows R1–R3 helices of the C-tail blocking the ATP pocket via a K692–D533 salt bridge, mediating autoinhibition (Carli et al., 2023).  
+• Thr546 in the activation loop coordinates a sulfate ion, mimicking the phosphorylated state (Patel et al., 2016).  
+• AlphaFold modelling supports extensive disorder in linker regions and preservation of the autoinhibited fold (Agulto et al., 2021).
+
+Regulation  
+Autophosphorylation of Thr546 elevates catalytic activity (Patel et al., 2016). Intramolecular phosphorylation of the DC domains lowers microtubule affinity (Rogers et al., 2020). CDK5 targets Ser297 in the PEST linker (Carli et al., 2023); ERK1 phosphorylates N-terminal Ser22 and Thr44 (Dijkmans et al., 2010); JNK1 modifies Thr321, Thr331 and Ser334 (Carli et al., 2023). Ca²⁺-dependent binding of HPCAL1 to the C-tail releases autoinhibition (Carli et al., 2023). Calpain or caspase cleavage within the PEST region produces constitutively active fragments during apoptosis (Dijkmans et al., 2010).
+
+Function  
+Highly expressed in developing and mature neurons, accumulating in distal dendrites and growth cones (Ramkumar et al., 2018). Phosphorylation of MAP7D1-Ser315 promotes callosal axon elongation (Koizumi et al., 2017). The SP-domain YLPL motif recruits AP-1/AP-2 and dynein for clathrin-mediated vesicle trafficking (Dijkmans et al., 2010). Over-expression in colorectal, pancreatic, gastric and head-and-neck cancers correlates with EMT and cancer stem-cell features (Carli et al., 2023). Kinase activity also modulates RNA-processing factors, linking DCLK1 to nuclear RNA metabolism (Liu et al., 2020).
+
+Inhibitors  
+DCLK1-IN-1 inhibits with IC₅₀ ≈ 17 nM and Kd ≈ 109 nM; resistance arises from gatekeeper mutation G532A (Ferguson et al., 2020; Liu et al., 2020). XMD8-92 is potent but poorly selective (Ferguson et al., 2020). DiFiD has been reported as an inhibitor in cancer studies (Carli et al., 2023).
+
+Other Comments  
+Somatic mutations across DC domains, the PEST linker and C-tail are frequent in gastrointestinal cancers and impair microtubule binding or stability (Carli et al., 2023). Cancer-associated A686T and G681E mutations destabilise the K692–D533 interaction, loosening autoinhibition (Chen et al., 2023). A catalytic-dead D511N variant enhances microtubule polymerisation, illustrating inverse coupling between kinase activity and microtubule binding (Patel et al., 2016).
+
+9. References  
+Agulto, R. L., Rogers, M. M., Tan, T. C., Ramkumar, A., Downing, A. M., Bodin, H., … Ori-McKenney, K. (2021). Autoregulatory control of microtubule binding in doublecortin-like kinase 1. eLife. https://doi.org/10.1016/j.bpj.2020.11.336  
+
+Carli, A., Hardy, J., Hoblos, H., Ernst, M., Lucet, I., & Buchert, M. (2023). Structure-guided prediction of the functional impact of DCLK1 mutations on tumorigenesis. Biomedicines, 11, Article 0990. https://doi.org/10.3390/biomedicines11030990  
+
+Chen, W., Liu, R., Yu, Y., Wei, D., Chen, Q., & Xu, Q. (2023). Molecular mechanism of mutational disruption of DCLK1 autoinhibition provides a rationale for inhibitor screening. International Journal of Molecular Sciences, 24, 14020. https://doi.org/10.3390/ijms241814020  
+
+Dijkmans, T., van Hooijdonk, L. W. A., Fitzsimons, C., & Vreugdenhil, E. (2010). The doublecortin gene family and disorders of neuronal structure. Central Nervous System Agents in Medicinal Chemistry, 10, 32–46. https://doi.org/10.2174/187152410790780118  
+
+Ferguson, F., Nabet, B., Raghavan, S., Liu, Y., Leggett, A. L., Kuljanin, M., … Gray, N. (2020). Discovery of a selective inhibitor of doublecortin-like kinase 1. Nature Chemical Biology, 16, 635–643. https://doi.org/10.1038/s41589-020-0506-0  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Koizumi, H., Fujioka, H., Togashi, K., Thompson, J., Yates, J. R., Gleeson, J. G., & Emoto, K. (2017). DCLK1 phosphorylates the microtubule-associated protein MAP7D1 to promote axon elongation in cortical neurons. Developmental Neurobiology. https://doi.org/10.1002/dneu.22428  
+
+Liu, Y., Ferguson, F., Li, L., Kuljanin, M., Mills, C. E., Subramanian, K., … Westover, K. (2020). Chemical biology toolkit for DCLK1 reveals connection to RNA processing. Cell Chemical Biology. https://doi.org/10.1016/j.chembiol.2020.07.011  
+
+Patel, O., Dai, W., Mentzel, M., Griffin, M., Serindoux, J., Gay, Y., … Lucet, I. (2016). Biochemical and structural insights into doublecortin-like kinase 1. Structure, 24, 1550–1561. https://doi.org/10.1016/j.str.2016.07.008  
+
+Ramkumar, A., Jong, B. Y., & Ori-McKenney, K. M. (2018). Remapping the microtubule landscape: how phosphorylation dictates the activities of microtubule-associated proteins. Developmental Dynamics. https://doi.org/10.1002/dvdy.24599  
+
+Reiner, O., Coquelle, F. M., Peter, B., Levy, T., Kaplan, A., Sapir, T., … Bergmann, S. (2006). The evolving doublecortin (DCX) superfamily. BMC Genomics, 7, 188. https://doi.org/10.1186/1471-2164-7-188  
+
+Rogers, M. M., Ramkumar, A., Downing, A. M., Bodin, H., Castro, J., Nowakowski, D. W., & Ori-McKenney, K. (2020). Autoregulatory control of microtubule binding in the oncogene, doublecortin-like kinase 1. bioRxiv. https://doi.org/10.1101/2020.06.12.149252  
+
+Venkat, A., Watterson, G., Byrne, D., O’Boyle, B., Shrestha, S., Gravel, N., … Kannan, N. (2023). Mechanistic and evolutionary insights into isoform-specific “supercharging” in DCLK family kinases. eLife. https://doi.org/10.7554/eLife.87958

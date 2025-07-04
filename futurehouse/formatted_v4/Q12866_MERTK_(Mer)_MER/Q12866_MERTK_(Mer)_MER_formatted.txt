@@ -1,0 +1,55 @@
+## Phylogeny  
+Tyrosine-protein kinase Mer (MERTK) is one of three members of the TAM (TYRO3-AXL-MERTK) receptor tyrosine kinase sub-family within the receptor tyrosine kinase (RTK) group (Huelse et al., 2020; Keating et al., 2011). All TAM kinases share a distinctive KWIAIES sequence motif in the catalytic domain (Huelse et al., 2020). MERTK is evolutionarily conserved across vertebrates; orthologues include murine Mertk, the Royal College of Surgeons (RCS) rat retinal dystrophy gene, chicken v-eyk and the avian v-ryk/v-eyk retroviral oncogene (Ghosh et al., 2024; Keating et al., 2011). In hominids, additional leucine/isoleucine residues in the transmembrane region create leucine-zipper–like motifs that may enhance receptor clustering (Unknown Authors, 2016).
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + O-phospho-protein-L-tyrosine (Ghosh et al., 2024; Huelse et al., 2020; Nishi et al., 2019).
+
+## Cofactor Requirements  
+Kinase activity requires divalent cations, most commonly Mg²⁺ (Ghosh et al., 2024; Huelse et al., 2020).
+
+## Substrate Specificity  
+MERTK phosphorylates tyrosine residues within a consensus motif that has not yet been fully defined; the intrinsic substrate specificity study by Yaron-Barir et al. (2024) did not report precise positional preferences for this kinase (Tanim et al., 2024; Yaron-Barir et al., 2024; Wu et al., 2024).
+
+## Structure  
+MERTK is a type I single-pass transmembrane RTK.  
+• Extracellular segment: two Ig-C2 domains followed by two fibronectin type III domains that engage ligands (Keating et al., 2011; Huelse et al., 2020).  
+• Transmembrane helix: contains leucine/isoleucine additions in primates (Unknown Authors, 2016).  
+• Intracellular portion: tyrosine kinase domain harbouring the TAM-specific KWIAIES motif, a regulatory C-helix and an activation loop; Lys-614 is critical for ATP binding (Ghosh et al., 2024; Nishi et al., 2019).  
+Three-dimensional models are available in the Protein Data Bank and via AlphaFold (Ghosh et al., 2024; Tanim et al., 2024).
+
+## Regulation  
+Ligand-dependent homodimerisation and autophosphorylation drive activation. GAS6 or Protein S (PROS1) bridge MERTK to phosphatidylserine on apoptotic cell membranes, prompting dimer formation (Huelse et al., 2020; Ghosh et al., 2024). Autophosphorylation occurs on Y749, Y753 and Y754 within the activation loop; Y867 forms a major docking site for signalling molecules, and Y872 recruits GRB2 (Keating et al., 2011; Shelby et al., 2013). Additional control mechanisms include N-glycosylation, ectodomain shedding by metalloproteinases that generates a soluble decoy receptor, and reported nuclear localisation (Keating et al., 2011; Tanim et al., 2024).
+
+## Function  
+Expression: high in retinal pigment epithelium and in hematopoietic cells (macrophages, monocytes, dendritic cells, NK cells, platelets) (Ghosh et al., 2024; Keating et al., 2011; Chen & Liu, 2021).  
+Signalling: phosphorylated Y867/Y872 recruit GRB2, PLCG2, VAV1 and the p85 subunit of PI3K, activating PI3K/AKT, MAPK/ERK and JAK/STAT pathways (Ghosh et al., 2024; Huelse et al., 2020; Tanim et al., 2024).  
+Biological roles: mediates efferocytosis (clearance of apoptotic cells) and phagocytosis of photoreceptor outer segments in the eye, contributes to immune homeostasis, and supports platelet aggregation and thrombogenesis (Ghosh et al., 2024; Huelse et al., 2020; Chen & Liu, 2021).
+
+## Inhibitors  
+Small-molecule inhibitors include UNC2025, MRX-2843, RXDX-106, UNC569 and UNC1062; an antibody–drug conjugate RGX-019-MMAE has also been developed (Huelse et al., 2020; Tanim et al., 2024; Cummings et al., 2013).
+
+## Other Comments  
+Loss-of-function mutations cause retinal dystrophies such as retinitis pigmentosa owing to defective efferocytosis in the retinal pigment epithelium (Ghosh et al., 2024; Keating et al., 2011). Over-expression or ectopic expression of MERTK promotes survival, proliferation and chemoresistance in diverse cancers, including acute leukaemias, glioblastoma, melanoma and carcinomas of the lung, colon and breast (Huelse et al., 2020). Dysregulation is also linked to autoimmune diseases such as systemic lupus erythematosus (Chen & Liu, 2021).
+
+## References  
+Chen, C.-J., & Liu, Y.-P. (2021). MERTK inhibition: potential as a treatment strategy in EGFR tyrosine kinase inhibitor-resistant non-small cell lung cancer. Pharmaceuticals, 14, 130. https://doi.org/10.3390/ph14020130  
+
+Cummings, C. T., DeRyckere, D., Earp, H. S., & Graham, D. K. (2013). Molecular pathways: MERTK signaling in cancer. Clinical Cancer Research, 19, 5275–5280. https://doi.org/10.1158/1078-0432.CCR-12-1451  
+
+Ghosh, S., Finnemann, S. C., Vollrath, D., & Rothlin, C. V. (2024). In the eyes of the beholder—new Mertk knockout mouse and re-evaluation of phagocytosis versus anti-inflammatory functions of Mertk. International Journal of Molecular Sciences, 25, 5299. https://doi.org/10.3390/ijms25105299  
+
+Huelse, J. M., Fridlyand, D. M., Earp, H. S., DeRyckere, D., & Graham, D. K. (2020). MERTK in cancer therapy: targeting the receptor tyrosine kinase in tumor cells and the immune system. Pharmacology & Therapeutics, 107577. https://doi.org/10.1016/j.pharmthera.2020.107577  
+
+Keating, A. K., Linger, R. M. A., & Graham, D. K. (2011). MERTK (c-mer proto-oncogene tyrosine kinase). Atlas of Genetics and Cytogenetics in Oncology and Haematology. https://doi.org/10.4267/2042/44583  
+
+Nishi, C., Yanagihashi, Y., Segawa, K., & Nagata, S. (2019). MERTK tyrosine kinase receptor together with TIM4 phosphatidylserine receptor mediates distinct signal transduction pathways for efferocytosis and cell proliferation. Journal of Biological Chemistry, 294, 7221–7230. https://doi.org/10.1074/jbc.RA118.006628  
+
+Shelby, S. J., Colwill, K., Dhe-Paganon, S., Pawson, T., & Thompson, D. (2013). MERTK interactions with SH2-domain proteins in the retinal pigment epithelium. PLoS ONE, 8, e53964. https://doi.org/10.1371/journal.pone.0053964  
+
+Tanim, K. M., Holtzhausen, A., Thapa, A., Huelse, J. M., Graham, D. K., & Earp, H. S. (2024). MERTK inhibition as a targeted novel cancer therapy. International Journal of Molecular Sciences, 25, 7660. https://doi.org/10.3390/ijms25147660  
+
+Unknown Authors. (2016). Evaluation of MERTK evolution and efferocytosis signalling. [Pages 98–102].  
+
+Wu, J., Liu, S., Banerjee, O., Shi, H., Xue, B., & Ding, Z. (2024). Disturbed flow impairs MERTK-mediated efferocytosis in aortic endothelial cells during atherosclerosis. Theranostics, 14, 2427–2441. https://doi.org/10.7150/thno.93036  
+
+Yaron-Barir, T. M., Joughin, B. A., Huntsman, E. M., Kerelsky, A., Cizin, D. M., Cohen, B. M., … Johnson, J. L. (2024). The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629, 1174–1181. https://doi.org/10.1038/s41586-024-07407-y

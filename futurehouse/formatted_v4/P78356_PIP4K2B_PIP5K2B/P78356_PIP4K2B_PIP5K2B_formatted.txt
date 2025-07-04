@@ -1,0 +1,60 @@
+## Phylogeny  
+Phosphatidylinositol-5-phosphate 4-kinases (PIP4Ks) are metazoan-specific lipid kinases also found in choanoflagellates but absent from unicellular eukaryotes such as S. cerevisiae (Krishnan et al., 2024; Raghu, 2021). Three vertebrate isoforms (PIP4K2A, PIP4K2B, PIP4K2C) are conserved in worms, flies, zebrafish, mice and humans (Kolay et al., 2016; Krishnan et al., 2024). The family belongs to the phosphoinositide kinase (PIK) superfamily yet is distinct from PI3Ks and PI4Ks (Brown & Auger, 2011).
+
+## Reaction Catalyzed  
+Phosphatidylinositol-5-phosphate + ATP ⇌ phosphatidylinositol-4,5-bisphosphate + ADP (Krishnan et al., 2024; Sumita et al., 2016).
+
+## Cofactor Requirements  
+Activity requires a divalent metal ion, typically Mg²⁺ or Mn²⁺, which coordinates the nucleotide triphosphate (Unknown Authors, 2022).
+
+## Substrate Specificity  
+PIP4K2B is a lipid kinase specific for phosphatidylinositol-5-phosphate (PI5P); specificity is governed by structural elements such as the activation loop, which when swapped with that of a PIP5K alters lipid preference (Krishnan et al., 2024; Raghu, 2021; Unknown Authors, 2020).
+
+## Structure  
+The human PIP4K2B crystal structure (PDB 3X01) reveals a homodimer formed via N-terminal β-sheets that create a flat, positively charged membrane-binding surface (Unknown Authors, 2020). Heterodimerization with other PIP4K isoforms is also observed (Clarke & Irvine, 2013; Raghu, 2021). Key features include a PI5P-binding pocket, a nucleotide-binding site, and an activation loop; residues Thr201 and Phe205 shape the guanine-specific pocket underlying GTP preference (Sumita et al., 2016).
+
+## Regulation  
+• Phosphorylation at Ser326 by p38 MAPK diminishes kinase activity (Trempolec et al., 2013).  
+• Acetylation of Lys239 by p300 and de-acetylation by SIRT1 modulate function (Unknown Authors, n.d.).  
+• Acts as an intracellular GTP sensor; activity scales with physiological GTP levels (Sumita et al., 2016).  
+• Catalysis-independent inhibition of PIP5Ks at acidic membranes suppresses PI(4,5)P₂ and downstream PI3K/AKT signalling (Wang et al., 2019; Unknown Authors, 2020).  
+• Nuclear localisation, mediated by an intrinsic NLS, permits regulation in the nucleus, plasma membrane and ER (Raghu, 2021; Unknown Authors, 2020).
+
+## Function  
+Highly expressed in skeletal muscle and present in liver and brain (Unknown Authors, 2020).  
+Catalytic activity is required for autophagosome–lysosome fusion (Raghu, 2021).  
+In nuclei, controls PI5P levels to influence transcription factors such as ING2, TAF3 and UHRF1 during DNA-damage responses (Raghu, 2021).  
+Kinase-independent binding to PIP5Ks attenuates insulin/PI3K/AKT and TORC1 pathways, contributing to metabolic regulation; Pip4k2b-knockout mice display increased insulin sensitivity (Wang et al., 2019; Unknown Authors, 2020).  
+
+## Inhibitors  
+Covalent and non-ATP-competitive allosteric small-molecule inhibitors targeting the PI5P-binding site have been reported, but display micromolar potency and poor isoform selectivity (Jin & Xue, 2023; Unknown Authors, 2020).
+
+## Other Comments  
+Among mammalian isoforms catalytic efficiency ranks PIP4K2A ≫ PIP4K2B ≫ PIP4K2C (Unknown Authors, 2020; Raghu, 2021). PIP4K2B expression is dysregulated in cancer: transcripts increase in some leukaemias; over-expression can restrict glioblastoma growth, whereas low levels in breast tumours correlate with larger size and poorer prognosis (Raghu, 2021; Unknown Authors, 2014). Combined loss of PIP4K2A/2B slows tumour growth in p53-null mice (Raghu, 2021).
+
+## 9. References  
+Brown, J. R., & Auger, K. R. (2011). Phylogenomics of phosphoinositide lipid kinases: perspectives on the evolution of second messenger signaling and drug discovery. BMC Evolutionary Biology, 11, 4. https://doi.org/10.1186/1471-2148-11-4  
+
+Clarke, J. H., & Irvine, R. F. (2013). Evolutionarily conserved structural changes in phosphatidylinositol 5-phosphate 4-kinase isoforms are responsible for differences in enzyme activity and localization. Biochemical Journal, 454, 49–57. https://doi.org/10.1042/BJ20130488  
+
+Jin, Y., & Xue, J. (2023). Lipid kinases PIP5Ks and PIP4Ks: potential drug targets for breast cancer. Frontiers in Oncology. https://doi.org/10.3389/fonc.2023.1323897  
+
+Kolay, S., Basu, U., & Raghu, P. (2016). Control of diverse subcellular processes by a single multi-functional lipid phosphatidylinositol 4,5-bisphosphate [PI(4,5)P₂]. Biochemical Journal, 473, 1681–1692. https://doi.org/10.1042/BCJ20160069  
+
+Krishnan, H., Muzaffar, S., Sharma, S., Ramya, V., Ghosh, A., Sowdhamini, R., & Raghu, P. (2024). The conserved biochemical activity and function of an early metazoan phosphatidylinositol 5-phosphate 4-kinase regulates growth and development. bioRxiv. https://doi.org/10.1101/2024.08.01.606031  
+
+Raghu, P. (2021). Emerging cell biological functions of phosphatidylinositol 5-phosphate 4-kinase. Current Opinion in Cell Biology, 71, 15–20. https://doi.org/10.1016/j.ceb.2021.01.012  
+
+Sumita, K., Lo, Y.-H., Takeuchi, K., Senda, M., Kofuji, S., Ikeda, Y., … Sasaki, A. T. (2016). The lipid kinase PI5P4Kβ is an intracellular GTP sensor for metabolism and tumorigenesis. Molecular Cell, 61, 187–198. https://doi.org/10.1016/j.molcel.2015.12.011  
+
+Trempolec, N., Dave-Coll, N., & Nebreda, A. (2013). Snapshot: p38 MAPK substrates. Cell, 152, 924–924.e1. https://doi.org/10.1016/j.cell.2013.01.047  
+
+Unknown Authors. (2014). Investigating the production and function of oxidative stress-induced PtdIns5P.  
+
+Unknown Authors. (2020). PIP4K has a catalytic-independent role in modulating PIP5K and the PI3K pathway.  
+
+Unknown Authors. (2022). Characterisation of alternative splice variants of PIP5K1A in the human metastatic prostate cancer cell line, LNCaP C4-2.  
+
+Unknown Authors. (n.d.). Phosphatidylinositol-5-phosphate 4-kinase beta (PIP4Kβ) binds to and is de-acetylated by SIRT1.  
+
+Wang, D. G., Paddock, M. N., Lundquist, M. R., Sun, J. Y., Mashadova, O., Amadiume, S., … Cantley, L. C. (2019). PIP4Ks suppress insulin signaling through a catalytic-independent mechanism. Cell Reports, 27, 1991–2001.e5. https://doi.org/10.1101/370544

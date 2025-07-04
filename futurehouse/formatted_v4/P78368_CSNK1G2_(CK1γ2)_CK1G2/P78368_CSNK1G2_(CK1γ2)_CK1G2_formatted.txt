@@ -1,0 +1,53 @@
+## Phylogeny  
+CSNK1G2 is a member of the casein kinase 1 (CK1) family within the CMGC group of protein kinases (Manning et al., 2002; Johnson et al., 2023). The CK1 clade also includes the TTBK and VRK families and is broadly conserved across mammals, yeast and plants (Anti, 2009; Knippschild et al., 2014). Documented orthologs are csnk-1 in Caenorhabditis elegans and cki3 in the fission yeast Schizosaccharomyces pombe (Hu et al., 2023; Hoang et al., 2021).
+
+## Reaction Catalyzed  
+ATP + protein → ADP + phosphoprotein (Agajanian et al., 2022; Johnson et al., 2023; Anti, 2009). The enzyme strongly prefers ATP over GTP as the phosphate donor (Anti, 2009).
+
+## Cofactor Requirements  
+Catalysis is Mg²⁺-dependent; Mn²⁺ can also support activity for enzymes in this EC class (Manning et al., 2002; Johnson et al., 2023; Anti, 2009).
+
+## Substrate Specificity  
+CK1 kinases favour acidic substrates that are frequently pre-phosphorylated. The canonical motif is pSer/Thr-X-X-(X)-Ser/Thr, with additional preference for acidic residues near the target site (Knippschild et al., 2014; Johnson et al., 2023). Non-canonical motifs such as SLS (in β-catenin and NFAT) or Lys/Arg-X-Lys/Arg-X-X-Ser/Thr are also recognised (Knippschild et al., 2014).
+
+## Structure  
+Crystal structures of human CK1γ2 (e.g., PDB 2C47) display the canonical bi-lobed kinase fold: a β-strand-rich N-lobe and an α-helical C-lobe forming the ATP/substrate cleft (Knippschild et al., 2014). Key elements include the C-helix for catalytic alignment, a typically non-phospho-regulated activation loop that contributes to specificity, a glycine-rich P-loop capping the ATP pocket, and a conserved hydrophobic spine stabilising the active conformation (Knippschild et al., 2014). Isoform-specific features such as a kinesin-homology domain and a putative dimerisation domain have been reported (Knippschild et al., 2014).
+
+## Regulation  
+Activity is modulated by post-translational modifications and protein interactions. Autophosphorylation on Ser211/Thr215 enables binding to and inhibition of RIPK3 (Li et al., 2020). Additional C-terminal phosphorylation—by autophosphorylation or other kinases—modulates substrate affinity (Knippschild et al., 2014). A conserved C-terminal palmitoylation site is essential for function in C. elegans (Hu et al., 2023). Dimerisation can repress activity by blocking the ATP site, and interactions with scaffolds such as AKAP450 and the RNA helicase DDX3 influence localisation and signalling (Knippschild et al., 2014).
+
+## Function  
+• Expression: highly expressed in mouse testis (Li et al., 2020).  
+• Cell death: binds and inhibits RIPK3, thereby suppressing necroptosis and delaying testis ageing (Li et al., 2020).  
+• Wnt signalling: primes the LRP6 co-receptor to facilitate subsequent GSK3β phosphorylation (Agajanian et al., 2022).  
+• Circadian clock: phosphorylates PER proteins to promote their proteasomal degradation (Schittek & Sinnberg, 2014).  
+• Cancer signalling: modulates PI3K/AKT/mTOR/S6K and ERK pathways in a manner that depends on oestrogen-receptor status in breast cancer cells (Hoang et al., 2021).  
+• Oxidative stress: directly interacts with DUOX/DUOXA to regulate reactive oxygen species homeostasis (Hu et al., 2023).  
+• Additional partners: β-catenin, planar cell polarity proteins, GLI transcription factors and NFκB subunits (Agajanian et al., 2022; Schittek & Sinnberg, 2014).
+
+## Inhibitors  
+The pan-CK1 inhibitor D4476 suppresses ROS production caused by CSNK1G2 over-expression (Hu et al., 2023). Two moderately selective CK1γ inhibitors block Wnt-dependent phosphorylation and β-catenin stabilisation (Agajanian et al., 2022).
+
+## Other Comments  
+Loss of CSNK1G2 in mice accelerates testis ageing via elevated necroptosis, a phenotype reversed by Ripk3 deletion (Li et al., 2020). CSNK1G2 knock-down heightens tamoxifen toxicity in ER-positive breast cancer cells (Hoang et al., 2021). Dysregulated CK1γ-mediated Wnt signalling links to cancer, neurodegeneration and bone disease (Agajanian et al., 2022). The wider CK1 family is implicated in circadian rhythm disorders (Kusuda et al., 2000). CSNK1G2 is classified as a “dark kinase” by the NIH Illuminating the Druggable Genome programme (Hu et al., 2023).
+
+## 9. References  
+Agajanian, M. J., Potjewyd, F. M., Bowman, B. M., Solomon, S., LaPak, K. M., Bhatt, D. P., … Major, M. B. (2022). Protein proximity networks and functional evaluation of the casein kinase 1 gamma family reveal unique roles for CK1γ3 in Wnt signaling. Journal of Biological Chemistry, 298, 101986. https://doi.org/10.1016/j.jbc.2022.101986  
+
+Anti, Author Unknown. (2009). Non-specific serine/threonine protein kinase. In Class 2 Transferases (pp. 1–123). Springer. https://doi.org/10.1007/978-3-540-85699-3_1  
+
+Hoang, A. T. N., Hoe, K., & Lee, S.-J. (2021). CSNK1G2 differently sensitizes tamoxifen-induced decrease in PI3K/AKT/mTOR/S6K and ERK signaling according to the estrogen receptor existence in breast cancer cells. PLOS ONE, 16, e0246264. https://doi.org/10.1371/journal.pone.0246264  
+
+Hu, Y., Xu, Z., Pan, Q., & Ma, L. (2023). Casein kinase 1 gamma regulates oxidative stress response via interacting with the NADPH dual oxidase complex. PLOS Genetics, 19, e1010740. https://doi.org/10.1371/journal.pgen.1010740  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Knippschild, U., Krüger, M., Richter, J., Xu, P., García-Reyes, B., Peifer, C., … Bischof, J. (2014). The CK1 family: Contribution to cellular stress response and its role in carcinogenesis. Frontiers in Oncology, 4, 96. https://doi.org/10.3389/fonc.2014.00096  
+
+Li, D., Ai, Y., Guo, J., Dong, B., Li, L., Cai, G., … Wang, X. (2020). Casein kinase 1G2 suppresses necroptosis-promoted testis aging by inhibiting receptor-interacting kinase 3. eLife, 9, e61564. https://doi.org/10.7554/eLife.61564  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Kusuda, J., Hirai, M., Tanuma, R., & Hashimoto, K. (2000). Cloning, expression analysis and chromosome mapping of human casein kinase 1 γ1 (CSNK1G1): Identification of two types of cDNA encoding the kinase protein associated with heterologous carboxy-terminal sequences. Cytogenetic and Genome Research, 90, 298–302. https://doi.org/10.1159/000056792  
+
+Schittek, B., & Sinnberg, T. (2014). Biological functions of casein kinase 1 isoforms and putative roles in tumorigenesis. Molecular Cancer, 13, 231. https://doi.org/10.1186/1476-4598-13-231

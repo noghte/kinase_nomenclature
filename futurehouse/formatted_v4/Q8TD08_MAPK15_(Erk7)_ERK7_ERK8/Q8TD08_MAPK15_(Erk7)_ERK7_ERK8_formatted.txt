@@ -1,0 +1,65 @@
+## Phylogeny  
+Member of the CMGC protein-kinase group; clusters with the atypical MAPK branch that is separate from canonical ERK/JNK/p38 lineages (Lau & Xu, 2018). Human MAPK15 (also called ERK8) shares 69 % overall and 82 % kinase-domain identity with rat ERK7; both are classified under the HGNC symbol MAPK15 (Dahm et al., 2024). Orthologues exist in mouse, Xenopus laevis and Caenorhabditis elegans, indicating conservation from nematodes to vertebrates (Dahm et al., 2024; Rossi et al., 2016).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (Abe et al., 2002).  
+
+## Cofactor Requirements  
+Requires Mg²⁺ for catalytic activity (Abe et al., 2002).  
+
+## Substrate Specificity  
+A global consensus motif has not been defined (Abe et al., 2002). Verified substrates include:  
+• c-Jun, Ser63/Ser73 (Dahm et al., 2024)  
+• ULK1, activation-loop Thr residues (Colecchia et al., 2018)  
+• ATG13, Ser318 (Colecchia et al., 2018)  
+• MAP1LC3B, de-phosphorylation to promote lipidation (Colecchia et al., 2012)  
+• IκBα, Ser32/Ser36 (Lau & Xu, 2018)  
+• CapZIP in the Dishevelled pathway (Lau & Xu, 2018)  
+
+## Structure  
+The N-terminal kinase domain (~aa 1–300) contains Lys42 (VAIK motif) and an activating TEY segment (Thr175/Tyr177); mutation of either residue abolishes activity (Dahm et al., 2024). The C-terminal region harbours two SH3-binding PXXXP motifs, a PCNA-interacting PIP box (aa 297–308), an LC3-interacting region (aa 300–373), two LXXLL nuclear-receptor motifs, a nuclear-localisation sequence and a di-RG motif (Abe et al., 2002; Colecchia et al., 2012; Lau & Xu, 2018). No experimental crystal structure is available, although a computational model of the kinase domain has been generated (Lau & Xu, 2018).  
+
+## Regulation  
+• Activation by autophosphorylation of Thr175 and Tyr177 (Dahm et al., 2024).  
+• Additional phosphosites: Ser192, Ser331, Thr352, Ser362, Ser379, Thr381, Ser415 (Lau & Xu, 2018).  
+• Arg449 methylation modulates SH3-mediated interactions (Lau & Xu, 2018).  
+• N-terminal residues 1–20 target the protein for ubiquitin-proteasome turnover (Dahm et al., 2024).  
+• Two C-terminal SH3 motifs recruit c-Src; Src activity augments MAPK15 activation (Abe et al., 2002).  
+• Activity is influenced by serum, endogenous phosphatases, nutrient starvation and oxidative stress (Colecchia et al., 2012).  
+• Oncogenic BCR-ABL1 directly binds and activates MAPK15 (Colecchia et al., 2015).  
+
+## Function  
+Expression is highest in lung, kidney and testis, and is strongly up-regulated in male germ-cell tumours (Abe et al., 2002; Rossi et al., 2016).  
+• Autophagy: binds LC3/GABARAP proteins via its LIR, stimulating basal and starvation-induced autophagosome formation and SQSTM1 degradation (Colecchia et al., 2012).  
+• Early autophagy initiation: integrates into the ULK complex and promotes ULK1 and ATG13 phosphorylation; kinase-dead MAPK15 or ULK1/2 knock-down blocks this step (Colecchia et al., 2018).  
+• Mitophagy: recruits damaged mitochondria to autophagosomes, curbing ROS and oxidative-stress-induced senescence (Franci et al., 2022; MAPK15 induces mitophagy, 2022).  
+• Genome integrity: PCNA binding prevents PCNA degradation and limits DNA damage (Dahm et al., 2024).  
+• Ciliogenesis: phosphorylates CapZIP downstream of Dishevelled to control primary-cilium assembly (Lau & Xu, 2018).  
+• Secretion control: during amino-acid starvation, shifts ULK1 activity toward SEC16A phosphorylation, inhibiting ER-to-Golgi trafficking (Colecchia et al., 2018).  
+• Signal transduction: activates NF-κB via IκBα and enhances tumour cell migration/invasion through c-Jun phosphorylation (Dahm et al., 2024; Lau & Xu, 2018).  
+• Oncogenesis: required for BCR-ABL1-driven autophagy, proliferation and tumour formation; supports growth of colon, gastric and germ-cell tumours (Colecchia et al., 2015; Rossi et al., 2016).  
+
+## Inhibitors  
+Ro-318220 suppresses MAPK15-dependent autophagy (Colecchia et al., 2012; Colecchia et al., 2015). SU6656 diminishes MAPK15-mediated phosphorylation in the ULK1 pathway (Colecchia et al., 2018). Several ATP-competitive CK2 inhibitors show off-target activity toward MAPK15, but no potency values or highly selective inhibitors are reported (Lau & Xu, 2018).  
+
+## Other Comments  
+Copy-number gain and over-expression are reported in gastric, colon and male germ-cell tumours (Rossi et al., 2016; Colecchia et al., 2018). The kinase has been implicated in chronic obstructive pulmonary disease and neuroprotection in Parkinson’s-disease models through regulation of mitophagy (MAPK15 induces mitophagy, 2022). Four non-synonymous human variants—p.A54P, p.T221K, p.P358L and p.S505P—map to conserved regions and may affect function (Lau & Xu, 2018).  
+
+## 9. References  
+Abe, M. K., Saelzler, M. P., Espinosa, R., Kahle, K. T., Hershenson, M. B., Le Beau, M. M., & Rosner, M. R. (2002). Erk8, a new member of the mitogen-activated protein kinase family. Journal of Biological Chemistry, 277(19), 16733–16743. https://doi.org/10.1074/jbc.M112483200  
+
+Colecchia, D., Strambi, A., Sanzone, S., Iavarone, C., Rossi, M., Dall’Armi, C., Piccioni, F., Verrotti di Pianella, A., & Chiariello, M. (2012). MAPK15/ERK8 stimulates autophagy by interacting with LC3 and GABARAP proteins. Autophagy, 8(11), 1724–1740. https://doi.org/10.4161/auto.21857  
+
+Colecchia, D., Rossi, M., Sasdelli, F., Sanzone, S., Strambi, A., & Chiariello, M. (2015). MAPK15 mediates BCR-ABL1-induced autophagy and regulates oncogene-dependent cell proliferation and tumor formation. Autophagy, 11(10), 1790–1802. https://doi.org/10.1080/15548627.2015.1084454  
+
+Colecchia, D., Dapporto, F., Tronnolone, S., Salvini, L., & Chiariello, M. (2018). MAPK15 is part of the ULK complex and controls its activity to regulate early phases of the autophagic process. Journal of Biological Chemistry, 293(41), 15962–15976. https://doi.org/10.1074/jbc.RA118.002527  
+
+Dahm, K., Vijayarangakannan, P., Wollscheid, H.-P., Schild, H., & Rajalingam, K. (2024). Atypical MAPKs in cancer. The FEBS Journal, 292(9), 2173–2188. https://doi.org/10.1111/febs.17283  
+
+Franci, L., Tubita, A., Bertolino, F. M., Palma, A., Cannino, G., Settembre, C., Rasola, A., Rovida, E., & Chiariello, M. (2022). MAPK15 protects from oxidative stress-dependent cellular senescence by inducing the mitophagic process. Aging Cell, 21(6), e13620. https://doi.org/10.1111/acel.13620  
+
+Lau, A. T. Y., & Xu, Y.-M. (2018). Regulation of human mitogen-activated protein kinase 15 (extracellular signal-regulated kinase 7/8) and its functions: A recent update. Journal of Cellular Physiology, 234(1), 75–88. https://doi.org/10.1002/jcp.27053  
+
+MAPK15 induces mitophagy and protects from oxidative stress-dependent cellular senescence. (2022). [Details not provided].  
+
+Rossi, M., Colecchia, D., Ilardi, G., Acunzo, M., Nigita, G., Sasdelli, F., Celetti, A., Strambi, A., Staibano, S., Croce, C. M., & Chiariello, M. (2016). MAPK15 upregulation promotes cell proliferation and prevents DNA damage in male germ cell tumors. Oncotarget, 7(15), 20981–20998. https://doi.org/10.18632/oncotarget.8044

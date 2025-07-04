@@ -1,0 +1,60 @@
+## Phylogeny  
+Ribosomal protein S6 kinase β-1 (RPS6KB1, p70-S6K) belongs to the AGC super-family and is placed in the ribosomal S6 kinase (RSK) sub-family, which is evolutionarily related to PKA, PKG and PKC (Manning et al., 2002). Clear orthologues are present in yeast, nematode and fruit-fly, indicating strong conservation of the pathway across eukaryotes (Manning et al., 2002; Manning, Plowman, Hunter, & Sudarsanam, 2002).
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-Ser/Thr-P (Magnuson, Ekim, & Fingar, 2012; Pende & Treins, 2014; Tchevkina & Komelkov, 2012).
+
+## Cofactor Requirements  
+Mg²⁺ is required to coordinate ATP during catalysis (Magnuson et al., 2012; Sridhar, Komati, & Kumar, 2022).
+
+## Substrate Specificity  
+RPS6KB1 is a basophilic Ser/Thr kinase that prefers arginine or lysine at positions −3 and −5 relative to the phospho-acceptor site, enabling motif-based prediction of its targets (Johnson et al., 2023).
+
+## Structure  
+The crystal structure of the catalytic domain (PDB 3A62) shows a canonical bilobal kinase fold with an N-terminal lobe harbouring the ATP-binding pocket and a C-terminal lobe containing the activation loop and hydrophobic spine (Johnson et al., 2023; Magnuson et al., 2012).  
+Domain organisation:  
+• N-terminal FDIDL TOS motif for RAPTOR binding  
+• Central kinase domain with activation loop residue Thr229  
+• C-terminal hydrophobic motif containing Thr389 and an autoinhibitory pseudosubstrate segment  
+• Alternative start sites generate a nuclear p85-S6K1 isoform and a cytoplasmic p70-S6K1 isoform (Fenton & Gout, 2011; Magnuson et al., 2012).
+
+## Regulation  
+Activation is hierarchical: the TOS motif docks S6K1 to mTORC1, which phosphorylates Thr389; phosphorylated Thr389 then recruits PDK1 to modify Thr229, producing full activity (Magnuson et al., 2012; Tchevkina & Komelkov, 2012). Additional sites (Ser411, Ser418, Thr421, Ser424) are targeted by ERK1/2 or p38-MAPK (Folajimi et al., 2024). Mitogen-dependent phosphorylation relieves C-terminal autoinhibition, while expression is tempered by miR-506-3p and by competing acetylation or ubiquitination events (Folajimi et al., 2024).
+
+## Function  
+As a key effector of mTORC1, RPS6KB1 integrates growth-factor, cytokine and nutrient signals (Fenton & Gout, 2011; Magnuson et al., 2012).  
+Upstream activators: mTORC1 and PDK1; signalling input from PI3K-Akt and small G-proteins (Magnuson et al., 2012).  
+Principal substrates: ribosomal protein S6, eIF4B (Ser422), PDCD4 (Ser67) and eEF2K, promoting translation initiation/elongation, cell growth and proliferation (Fenton & Gout, 2011; Pende & Treins, 2014; Tchevkina & Komelkov, 2012). Additional roles include mRNA processing, glucose homeostasis, cell-cycle progression and feedback inhibition of PI3K signalling (Fenton & Gout, 2011).
+
+## Inhibitors  
+Direct ATP-competitive inhibitors are under development, but pharmacological blockade is routinely achieved with rapamycin or rapalogs that inhibit mTORC1, preventing Thr389 phosphorylation and downstream activation of S6K1 (Magnuson et al., 2012; Roux & Topisirovic, 2018; Xu et al., 2020).
+
+## Other Comments  
+Over-expression or hyperactivation of RPS6KB1 is linked to cancer, obesity, diabetes and ageing. Amplification of chromosome 17q23 (containing RPS6KB1) is frequent in breast cancer, underscoring its therapeutic relevance (Fenton & Gout, 2011; Folajimi et al., 2024).
+
+## References  
+Bahrami-B, F., Ataie-Kachoie, P., Pourgholami, M. H., & Morris, D. L. (2014). P70 ribosomal protein S6 kinase (RPS6KB1): an update. Journal of Clinical Pathology, 67, 1019–1025. https://doi.org/10.1136/jclinpath-2014-202560  
+
+Fenton, T. R., & Gout, I. T. (2011). Functions and regulation of the 70 kDa ribosomal S6 kinases. The International Journal of Biochemistry & Cell Biology, 43, 47–59. https://doi.org/10.1016/j.biocel.2010.09.018  
+
+Folajimi, O. E., Babalola, B. A., Alabi, A., & Akintola, T. F. (2024). The multifaceted role of S6K1 in cellular regulation: structural insights, isoform-specific functions, and therapeutic potential. Preprints. https://doi.org/10.20944/preprints202408.1156.v1  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Magnuson, B., Ekim, B., & Fingar, D. C. (2012). Regulation and function of ribosomal protein S6 kinase (S6K) within mTOR signalling networks. Biochemical Journal, 441, 1–21. https://doi.org/10.1042/BJ20110892  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Manning, G., Plowman, G. D., Hunter, T., & Sudarsanam, S. (2002). Evolution of protein kinase signalling from yeast to man. Trends in Biochemical Sciences, 27, 514–520. https://doi.org/10.1016/S0968-0004(02)02179-5  
+
+Pende, M., & Treins, C. (2014). Ribosomal protein S6 and S6 kinases. In Translation and Its Regulation in Cancer Biology and Medicine (pp. 345–362). https://doi.org/10.1007/978-94-017-9078-9_16  
+
+Roux, P. P., & Topisirovic, I. (2018). Signalling pathways involved in the regulation of mRNA translation. Molecular and Cellular Biology. https://doi.org/10.1128/MCB.00070-18  
+
+Sridhar, J., Komati, R., & Kumar, S. (2022). Targeting RPS6K1 for refractory breast cancer therapy. Breast Cancer, 163–178. https://doi.org/10.36255/exon-publications-breast-cancer-rps6k1  
+
+Tchevkina, E., & Komelkov, A. (2012). Protein phosphorylation as a key mechanism of mTORC1/2 signalling pathways. In Protein Phosphorylation in Human Health. https://doi.org/10.5772/48274  
+
+Unknown authors. (2011). Investigation of the effects of different mTOR inhibitors on protein synthesis.  
+
+Xu, T., Sun, D., Chen, Y., & Liang, O. (2020). Targeting mTOR for fighting diseases: a revisited review of mTOR inhibitors. European Journal of Medicinal Chemistry, 199, 112391. https://doi.org/10.1016/j.ejmech.2020.112391

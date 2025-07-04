@@ -1,0 +1,43 @@
+## Phylogeny  
+RIPK2 belongs to the tyrosine-kinase-like (TKL) group within the receptor-interacting protein kinase (RIPK) family (Heim et al., 2020). Vertebrate orthologues are present in mouse, pig, chicken, frog, zebrafish, black carp and lamprey, each retaining an N-terminal kinase domain and a C-terminal caspase-recruitment domain (CARD) (Lv et al., 2022). Phylogenetic clustering places RIPK2 with RIPK1-5, whereas RIPK6/7 form an older out-group, consistent with a common vertebrate ancestor for RIPK1-5 (Lv et al., 2022). Sequence alignment localises the kinase domain to residues 18–289 and the CARD to 435–526 across orthologues (Lv et al., 2022).  
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr/Tyr → ADP + protein-L-Ser/Thr/Tyr-phosphate (Pellegrini et al., 2017).  
+
+## Cofactor Requirements  
+Mg²⁺ is required for phosphotransfer activity in vitro (Pellegrini et al., 2017).  
+
+## Substrate Specificity  
+Large-scale phosphopeptide profiling has not identified a consensus recognition motif; RIPK2 primarily auto-phosphorylates residues within its activation segment (Unknown authors, 2022). No defined external substrate preference is reported in recent kinase-substrate atlases (Heim et al., 2020).  
+
+## Structure  
+The protein comprises an N-terminal kinase domain (aa 1–310), an intervening linker, and a C-terminal CARD (aa 454–541) (Pham et al., 2023). Crystal structures (PDB 4C8B, 5NG0) capture an active DFG-IN conformation displaying a complete regulatory spine and a Lys47–Glu66 salt bridge; the inactive K47R mutant shows αC-helix rotation and spine disruption (Pellegrini et al., 2017). RIPK2 assembles as side-by-side dimers, and cryo-EM (3.15 Å) reveals the XIAP BIR2 domain bridging the dimer interface (Lethier et al., 2023). A conserved hydrophobic pocket between helices αE and αEF, centred on Lys209 and Ile212, forms part of the XIAP docking site; mutations here disrupt XIAP binding without altering the global fold (Heim et al., 2020). Back-pocket inhibitors such as ponatinib and GSK583 remodel the activation loop and block the XIAP interface (Lethier et al., 2023).  
+
+## Regulation  
+Activation requires autophosphorylation of Ser164, Ser174, Ser176, Ser178 and Ser181 within the activation segment (Pellegrini et al., 2017). Additional phosphorylation occurs at Ser363 and Ser539 after NOD agonist stimulation (Heim et al., 2020). Upon NOD1/2 activation, RIPK2 is poly-ubiquitinated with K63- and M1-linked chains on Lys182, Lys203, Lys326, Lys376, Lys410 and Lys538, mediated principally by XIAP, with cIAP1/2 and LUBAC contributing (Heim et al., 2020; Lethier et al., 2023). Lys209 is essential for XIAP BIR2 binding but is itself not ubiquitinated; K209R or I212 substitutions abrogate ubiquitination and downstream signalling (Heim et al., 2020). Allosteric back-pocket inhibitors prevent XIAP engagement and subsequent ubiquitination (Lethier et al., 2023).  
+
+## Function  
+RIPK2 is broadly expressed in brain, colon, small intestine, lung, skin, liver and spleen, but is undetectable in kidney of FLAG-RIPK2 knock-in mice (Heim et al., 2020). Transcript levels are high in bone marrow-derived immune cells, including B cells, T cells, NK cells, dendritic cells and macrophages (Lv et al., 2022). Oligomerised NOD1/2 receptors recruit RIPK2 via CARD–CARD interaction following detection of bacterial peptidoglycan (He et al., 2017). Poly-ubiquitinated RIPK2 acts as a scaffold for TAK1-TAB and IKK complexes, triggering NF-κB and MAPK pathways and inducing pro-inflammatory cytokines such as TNF-α, IL-6, IL-8 and IL-12/23 (Unknown authors, 2022; Heim et al., 2020).  
+
+## Inhibitors  
+Broad-spectrum ATP-competitive inhibitors with potent RIPK2 activity include ponatinib, gefitinib, sorafenib, regorafenib and SB203580 (He et al., 2017). More selective probes such as GSK583 and WEHI-345 suppress inflammatory responses in intestinal disease models (He et al., 2017). 3,5-diphenyl-2-aminopyridine derivatives exhibit low-nanomolar IC₅₀ values and block NOD2 signalling (Suebsuwong et al., 2020). Allosteric CSLP compounds bind the back pocket and inhibit XIAP docking (Lethier et al., 2023).  
+
+## Other Comments  
+Aberrant RIPK2 signalling is linked to Crohn’s disease, ulcerative colitis, sarcoidosis, Blau syndrome, asthma and multiple sclerosis (He et al., 2017; Pham et al., 2023). A hyper-activating allele is associated with early-onset osteoarthritis (Pham et al., 2023). Pathogenic variants K209R, I212D and P329L impair ubiquitination or signalling (Heim et al., 2020).  
+
+## References  
+Heim, V. J., Dagley, L. F., Stafford, C. A., Hansen, F. M., Clayer, E., Bankovacki, A., Webb, A., Lucet, I., Silke, J., & Nachbur, U. (2020). A regulatory interface on RIPK2 is required for XIAP binding and NOD signalling activity. bioRxiv. https://doi.org/10.1101/2020.03.12.988725  
+
+He, X., Da Ros, S., Nelson, J., Zhu, X., Jiang, T., Okram, B., … Liu, H. (2017). Identification of potent and selective RIPK2 inhibitors for the treatment of inflammatory diseases. ACS Medicinal Chemistry Letters, 8, 1048–1053. https://doi.org/10.1021/acsmedchemlett.7b00258  
+
+Lethier, M., Huard, K., Hons, M., Favier, A., Brutscher, B., Boeri Erba, E., Abbott, D. W., Cusack, S., & Pellegrini, E. (2023). Structure shows that the BIR2 domain of E3 ligase XIAP binds across the RIPK2 kinase dimer interface. Life Science Alliance, 6, e202201784. https://doi.org/10.26508/lsa.202201784  
+
+Lv, S., Jiang, Y., Li, Y., Huang, R.-H., Peng, L., Ma, Z., Lu, N., Lin, X., & Yan, J. (2022). Comparative and evolutionary analysis of RIP kinases in immune responses. Frontiers in Genetics, 13, 796291. https://doi.org/10.3389/fgene.2022.796291  
+
+Pellegrini, E., Signor, L., Singh, S., Boeri Erba, E., & Cusack, S. (2017). Structures of the inactive and active states of RIP2 kinase inform on the mechanism of activation. PLOS ONE, 12, e0177161. https://doi.org/10.1371/journal.pone.0177161  
+
+Pham, A.-T., Ghilardi, A. F., & Sun, L. (2023). Recent advances in the development of RIPK2 modulators for the treatment of inflammatory diseases. Frontiers in Pharmacology, 14, 1127722. https://doi.org/10.3389/fphar.2023.1127722  
+
+Suebsuwong, C., Dai, B., Pinkas, D., Duddupudi, A. L., Li, L., Bufton, J., … Cuny, G. (2020). RIPK2 and NOD signalling inhibitors based on a 3,5-diphenyl-2-aminopyridine scaffold. European Journal of Medicinal Chemistry, 200, 112417. https://doi.org/10.1016/j.ejmech.2020.112417  
+
+Unknown authors. (2022). The role of receptor interacting serine/threonine kinase 2 (RIPK2) in inflammatory breast cancer (IBC).

@@ -1,0 +1,68 @@
+## Phylogeny  
+Cyclin G-associated kinase (GAK) is a serine/threonine protein kinase that belongs to the numb-associated kinase (NAK) family, which also comprises AAK1, STK16/MPSK1, and BIKE (Asquith et al., 2018; Asquith et al., 2019; Kovackova et al., 2015). In kinome maps it is grouped in the NAK subfamily defined by Manning et al. (2002). Sequence similarity additionally links GAK to the Ark family because of homology with actin-regulating kinase ARK-1 (Emsley-Leik, 2009). Its catalytic domain resembles Nek1, CDK2, Plk and Tsk-1, but it lacks the canonical PSTAIR motif of CDKs (Kanaoka et al., 1997). Conserved orthologues include mouse Auxilin-related kinase (Ark), Drosophila Auxilin (dAux) and zebrafish zGAK; mammalian or zebrafish GAK can rescue dAux loss-of-function in flies, underscoring strong evolutionary conservation (Bai et al., 2010; Kanaoka et al., 1997).
+
+## Reaction Catalyzed  
+Protein + ATP ⇌ Phosphoprotein + ADP (Asquith et al., 2018; Chaikuad et al., 2014).
+
+## Cofactor Requirements  
+Mg²⁺ is required for ATP binding and phosphate transfer (Chaikuad et al., 2014).
+
+## Substrate Specificity  
+A consensus phosphorylation motif has not been defined; Johnson et al. (2023) reported that no clear substrate motif could be determined for GAK.
+
+## Structure  
+GAK is a 144–160 kDa multidomain protein (Asquith et al., 2018; Emsley-Leik, 2009).  
+• N-terminal kinase domain: catalyses Ser/Thr phosphorylation (Emsley-Leik, 2009).  
+• Central PTEN-like (tensin/auxilin-like) domain: regulatory, lacks phosphatase activity (Greener et al., 2000; Kanaoka et al., 1997).  
+• C-terminal J-domain: co-chaperone that stimulates Hsc70 ATPase during clathrin uncoating (Asquith et al., 2019; Greener et al., 2000).  
+• Clathrin-binding region within the C-terminus (Emsley-Leik, 2009).  
+
+Distinct structural features include a pre-assembled regulatory (R) spine that renders the kinase domain constitutively active and an extended αF-αG loop that deepens the substrate-binding cleft (Sorrell et al., 2016). Nanobody-stabilised crystal structures reveal multiple conformations and an activation-segment exchange dimer that likely represents an inactive state (Chaikuad et al., 2014).
+
+## Regulation  
+• Allosteric: the J-domain promotes Hsc70 recruitment to clathrin coats, indirectly regulating kinase function (Greener et al., 2000).  
+• Post-translational: autophosphorylation at Ser433 modulates activity; activation-loop phosphorylation is not required (Greener et al., 2000; Sorrell et al., 2016).  
+• Oligomerisation: homodimerisation via activation-segment exchange may suppress activity (Sorrell et al., 2016).  
+• Alternative splicing of exons encoding the clathrin-binding and J-domains may affect function (Dumitriu et al., 2011).
+
+## Function  
+GAK is ubiquitously expressed, with highest levels in testes, and localises to cytoplasm, nucleus, Golgi and perinuclear compartments (Asquith et al., 2019; Emsley-Leik, 2009). It is the non-neuronal functional homolog of auxilin and is essential for clathrin-mediated trafficking in both endocytic and secretory pathways, driving uncoating of clathrin-coated vesicles together with Hsc70 (Greener et al., 2000; Kovackova et al., 2015). Documented substrates include:  
+• μ2 subunit of AP-2, Thr156 – regulates cargo internalisation (Asquith et al., 2018).  
+• B′γ regulatory subunit of PP2A, Thr104 – controls PP2A activity (Naito et al., 2012).  
+
+Reported interactors: cyclin G, CDK5, clathrin, Hsc70 and pre-cathepsin D (Emsley-Leik, 2009; Kanaoka et al., 1997; Dumitriu et al., 2011). GAK influences α-synuclein levels/toxicity (Dumitriu et al., 2011) and participates in cell-cycle progression, mitosis and centrosome maturation (Asquith et al., 2018; Sorrell et al., 2016).
+
+## Inhibitors  
+ATP-competitive inhibitors include 4-anilinoquinolines and the EGFR inhibitor gefitinib (Asquith et al., 2018; Ohbayashi et al., 2018). SGC-GAK-1 is a selective chemical probe for the GAK kinase domain (Asquith et al., 2019).
+
+## Other Comments  
+Genetic and functional data link GAK to Parkinson’s disease, prostate cancer and osteosarcoma (Asquith et al., 2019; Dumitriu et al., 2011). SNP rs1564282 in GAK increases familial Parkinson’s risk and reduces exon 28 expression (Dumitriu et al., 2011). GAK expression correlates with prostate cancer progression (Asquith et al., 2019). Kinase-dead GAK knock-in mice die neonatally from pulmonary dysfunction (Sorrell et al., 2016).
+
+## References  
+Asquith, C. R. M., Laitinen, T., Bennett, J. M., Godoi, P. H., East, M. P., Tizzard, G. J., … Zuercher, W. J. (2018). Identification and optimization of 4-anilinoquinolines as inhibitors of cyclin G-associated kinase. ChemMedChem, 13, 48–66. https://doi.org/10.1002/cmdc.201700663  
+
+Asquith, C. R. M., Berger, B.-T., Wan, J., Bennett, J. M., Capuzzi, S. J., Crona, D. J., … Zuercher, W. J. (2019). SGC-GAK-1: a chemical probe for cyclin G-associated kinase (GAK). Journal of Medicinal Chemistry, 62, 2830–2836. https://doi.org/10.1021/acs.jmedchem.8b01213  
+
+Bai, T., Seebald, J. L., Kim, K.-E., Ding, H.-M., Szeto, D. P., & Chang, H. C. (2010). Disruption of zebrafish cyclin G-associated kinase function impairs expression of Notch-dependent genes during neurogenesis. BMC Developmental Biology, 10, 7. https://doi.org/10.1186/1471-213X-10-7  
+
+Chaikuad, A., Keates, T., Vincke, C., Kaufholz, M., Zenn, M., Zimmermann, B., … Müller, S. (2014). Structure of cyclin G-associated kinase trapped in different conformations using nanobodies. Biochemical Journal, 459, 59–69. https://doi.org/10.1042/BJ20131399  
+
+Dumitriu, A., Pacheco, C. D., Wilk, J., Strathearn, K., Latourelle, J., Goldwurm, S., … Myers, R. (2011). Cyclin-G-associated kinase modifies α-synuclein expression levels and toxicity in Parkinson’s disease. Human Molecular Genetics, 20, 1478–1487. https://doi.org/10.1093/hmg/ddr026  
+
+Emsley-Leik, T. (2009). The effect of cyclin G-associated kinase on androgen receptor function and prostate cancer progression (Doctoral dissertation).  
+
+Greener, T., Zhao, X., Nojima, H., Eisenberg, E., & Greene, L. (2000). Role of cyclin G-associated kinase in uncoating clathrin-coated vesicles from non-neuronal cells. Journal of Biological Chemistry, 275, 1365–1370. https://doi.org/10.1074/jbc.275.2.1365  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Kanaoka, Y., Kimura, S. H., Okazaki, I., Ikeda, M., & Nojima, H. (1997). GAK: a cyclin G-associated kinase contains a tensin/auxilin-like domain. FEBS Letters, 402, 73–80. https://doi.org/10.1016/S0014-5793(96)01484-6  
+
+Kovackova, S., Chang, L., Bekerman, E., Neveu, G., Barouch-Bentov, R., Chaikuad, A., … Herdewijn, P. (2015). Selective inhibitors of cyclin G-associated kinase as anti-hepatitis C agents. Journal of Medicinal Chemistry, 58, 3393–3410. https://doi.org/10.1021/jm501759m  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Naito, Y., Shimizu, H., Kasama, T., Sato, J., Tabara, H., Okamoto, A., … Nojima, H. (2012). Cyclin G-associated kinase regulates protein phosphatase 2A by phosphorylation of its B′γ subunit. Cell Cycle, 11, 604–616. https://doi.org/10.4161/cc.11.3.19114  
+
+Ohbayashi, N., Murayama, K., Kato-Murayama, M., Kukimoto-Niino, M., Uejima, T., Matsuda, T., … Shirouzu, M. (2018). Structural basis for the inhibition of cyclin G-associated kinase by gefitinib. ChemistryOpen, 7, 713–719. https://doi.org/10.1002/open.201800177  
+
+Sorrell, F. J., Szklarz, M., Abdul Azeez, K. R., Elkins, J. M., & Knapp, S. (2016). Family-wide structural analysis of human numb-associated protein kinases. Structure, 24, 401–411. https://doi.org/10.1016/j.str.2015.12.015

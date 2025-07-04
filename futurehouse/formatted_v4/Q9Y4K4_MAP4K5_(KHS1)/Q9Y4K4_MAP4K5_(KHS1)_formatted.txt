@@ -1,0 +1,45 @@
+## Phylogeny  
+MAP4K5 (KHS1) belongs to the STE group, germinal-center kinase subfamily 1 (GCK-I) of the human kinome (Manning et al., 2002). Verified orthologs in Mus musculus, Rattus norvegicus, Drosophila melanogaster (Sps1) and Caenorhabditis elegans (mig-15) illustrate conservation from invertebrates to mammals (Manning et al., 2002). Plant homologues cluster in Clade III, sub-clade IIIC, exemplified by Arabidopsis thaliana AtMAP4K5 (Pan et al., 2021). Within the STE group, MAP4K5 is most closely related to MAP4K1-4 and MAP4K6-7, all sharing an N-terminal kinase domain followed by proline-rich/PEST and CNH regions (Thiriet, 2013; Marcotte et al., 2017).  
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Liu et al., 2022).  
+
+## Cofactor Requirements  
+Requires divalent metal ions; Mg²⁺ or Mn²⁺ support catalysis (Manning et al., 2002; Miller et al., 2019).  
+
+## Substrate Specificity  
+MAP4K5 directly phosphorylates activation-loop threonines of AMPKα1 (T183), SIK1 (T182), SIK2 (T175) and SIK3 (T221); mutation of these residues abolishes modification, indicating a strict preference for a central Thr in an activation-loop context (Liu et al., 2022). A global consensus peptide motif was not detected in STE20 family profiling (Miller et al., 2019).  
+
+## Structure  
+Domain organisation: N-terminal catalytic domain (~aa 1–300), central proline-rich/PEST segment with SH3-binding motifs, and C-terminal CNH/leucine-rich region (Marcotte et al., 2017; Thiriet, 2013).  
+Three-dimensional features: the isolated kinase domain forms an activation-loop-swapped dimer; catalytic Lys45 pairs with Glu61, and the regulatory spine (Met64-His134-Ile137-Phe155) aligns in the active state (Marcotte et al., 2017). Phosphorylated Ser170 enhances substrate binding, while an acidic C-terminal extension docks onto the partner protomer, reminiscent of AGC-kinase PIF-tide engagement (Marcotte et al., 2017).  
+
+## Regulation  
+Phosphorylation of Ser170 is indispensable (< 3 % activity when absent) and Ser174 is likewise required for substrate phosphorylation (Marcotte et al., 2017; Liu et al., 2022). Activation-loop phosphorylation stabilises the swapped dimer and supports catalysis (Marcotte et al., 2017). SARS-CoV-2 3CL pro cleaves MAP4K5, producing fragments with reduced activity (Pablos et al., 2021). Central PEST motifs are proposed degradation signals, although the relevant ubiquitin ligase is unknown (Thiriet, 2013).  
+
+## Function  
+MAP4K5 activates the stress-activated JNK pathway through TRAF2 engagement and CRK/CRKL adaptors, integrating integrin and TNF-α signals (Thiriet, 2013). It serves as an alternative upstream kinase for AMPK, increasing AMPKα T172 phosphorylation in LKB1/CaMKK2-deficient HEK293T cells (Liu et al., 2022), and directly activates SIK1/2/3 via activation-loop phosphorylation (Liu et al., 2022). MAP4K5 forms complexes with CRK, CRKL, NCK, GRB2, Abl kinases and SOS1/2 (Thiriet, 2013). Expression has been demonstrated in HEK293T cells used for biochemical studies (Liu et al., 2022).  
+
+## Inhibitors  
+• Compound 1: ATP-competitive; IC₅₀ ≈ 110 nM, engages the hinge at Asp100 and a pocket adjacent to Lys45 (Marcotte et al., 2017).  
+• Vemurafenib (PLX4032): leaves 48 % residual activity at 100 nM in KINOMEscan profiling (Klovekorn et al., 2021).  
+
+## Other Comments  
+MAP4K5 is cleaved by SARS-CoV-2 3CL pro, linking the kinase to host-pathogen interactions during COVID-19 (Pablos et al., 2021). Structural and functional similarity to other GCK-I kinases implicates MAP4K5 in inflammatory and oncogenic processes (Marcotte et al., 2017).  
+
+## References  
+Klovekorn, P., Pfaffenrot, B., Juchum, M., Selig, R., Albrecht, W., Zender, L., & Laufer, S. (2021). From off- to on-target: new BRAF-inhibitor-template-derived compounds selectively targeting mitogen-activated protein kinase kinase 4 (MKK4). European Journal of Medicinal Chemistry, 226, 112963. https://doi.org/10.1016/j.ejmech.2020.112963  
+
+Liu, Y., Wang, T. V., Cui, Y., Li, C., Jiang, L., & Rao, Y. (2022). Ste20 phosphorylation of AMPK-related kinases revealed by biochemical purifications combined with genetics. Journal of Biological Chemistry, 298, 101928. https://doi.org/10.1016/j.jbc.2022.101928  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298(5600), 1912-1934. https://doi.org/10.1126/science.1075762  
+
+Marcotte, D., Rushe, M., Arduini, R. M., Lukacs, C., Atkins, K., Sun, X., … Silvian, L. F. (2017). Germinal-center kinase-like kinase co-crystal structure reveals a swapped activation loop and C-terminal extension. Protein Science, 26(3), 610-620. https://doi.org/10.1002/pro.3062  
+
+Miller, C. J., Lou, H. J., Simpson, C., van de Kooij, B., Ha, B. H., Fisher, O. S., … Turk, B. E. (2019). Comprehensive profiling of the STE20 kinase family defines features essential for selective substrate targeting and signaling output. PLOS Biology, 17(4), e2006540. https://doi.org/10.1371/journal.pbio.2006540  
+
+Pan, L., de Lima, C. F. F., Vu, L. D., & De Smet, I. (2021). A comprehensive phylogenetic analysis of the MAP4K family in the green lineage. Frontiers in Plant Science, 12, 650171. https://doi.org/10.3389/fpls.2021.650171  
+
+Pablos, I., Machado, Y., Ramos de Jesus, H. C., Mohamud, Y., Kappelhoff, R., Lindskog, C., … Overall, C. M. (2021). Mechanistic insights into COVID-19 by global analysis of the SARS-CoV-2 3CL pro substrate degradome. Cell Reports, 37(3), 109892. https://doi.org/10.1016/j.celrep.2021.109892  
+
+Thiriet, M. (2013). Cytoplasmic protein serine/threonine kinases. In Biomathematical and Biomechanical Modeling of the Circulatory and Ventilatory Systems (pp. 175-310). Springer. https://doi.org/10.1007/978-1-4614-4370-4_5

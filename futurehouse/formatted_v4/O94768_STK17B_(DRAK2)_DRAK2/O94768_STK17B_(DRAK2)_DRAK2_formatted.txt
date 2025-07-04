@@ -1,0 +1,44 @@
+## Phylogeny  
+Serine/threonine-protein kinase 17B (STK17B, also called DRAK2) is a member of the death-associated protein kinase (DAPK) family positioned within the Ca²⁺/calmodulin-dependent protein kinase (CAMK) group of the human kinome (Farag & Roh, 2019; Picado et al., 2020). Its closest human paralogue is STK17A (DRAK1); more distant relatives include DAPK1, DAPK2 and DAPK3, which share the catalytic core but diverge in accessory regions (Farag & Roh, 2019; Picado et al., 2020). Orthologues are conserved across vertebrates (e.g., mouse Stk17b, zebrafish stk17b) and the Drosophila kinase Drak functions as an invertebrate counterpart, highlighting deep evolutionary conservation of this apoptosis-related clade (Chen et al., 2019). Curated kinome resources classify STK17B as an understudied CAMK/DAPK sub-branch enzyme (Moret et al., 2020).  
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Farag & Roh, 2019).  
+
+## Cofactor Requirements  
+Catalytic activity depends on divalent cations, preferentially Mg²⁺ or Mn²⁺ (Scheuplein et al., 2024).  
+
+## Substrate Specificity  
+• Direct substrate: myosin light chain 2 phosphorylated on Ser19 (Scheuplein et al., 2024).  
+• Additional validated substrate: serine/arginine-rich splicing factor 6 (SRSF6) (Scheuplein et al., 2024).  
+• Autophosphorylation occurs on Thr180 within the activation loop (Scheuplein et al., 2024).  
+• A global consensus motif has not yet been defined (Scheuplein et al., 2024).  
+
+## Structure  
+STK17B consists of a single N-terminal catalytic domain (~residues 1-270) followed by a C-terminal tail that harbours two predicted nuclear localisation signals; it lacks a CaM-binding segment (Farag & Roh, 2019). Crystal structures of the apo kinase (PDB 3LM5) and inhibitor complexes (e.g., PDB 6Y6F, 6Y6H) display the canonical bilobal fold and an unusual P-loop that toggles between “open” and “folded” states (Picado et al., 2020; Serafim et al., 2021). Key catalytic features include the Lys62–Glu80 salt bridge, a DFG166-168 motif that coordinates Mg²⁺, hinge residue Ala113, and the regulatory phosphosite Thr180. A family-specific 12-residue basic loop supports dimerisation and promotes autophosphorylation (Farag & Roh, 2019). Inhibitor engagement can induce P-loop folding over the ligand, creating extensive contacts with Arg41 and Lys62 that confer high selectivity over STK17A (Picado et al., 2020).  
+
+## Regulation  
+Activity is stimulated by autophosphorylation on Thr180 (Scheuplein et al., 2024). Protein kinase D phosphorylates Ser351 downstream of Ca²⁺- and reactive oxygen species-dependent signalling, further modulating activity (Scheuplein et al., 2024; Zheng et al., 2022). Ubiquitination influences protein stability, although the responsible E3 ligases remain unidentified (Scheuplein et al., 2024). The proto-oncogene MYB represses STK17B transcription; MYB depletion raises STK17B levels and triggers caspase-9-dependent apoptosis (Zheng et al., 2022). T-cell receptor-induced Ca²⁺ influx generates mitochondrial ROS that activate PKD and consequently STK17B, coupling calcium signals to kinase activation (Zheng et al., 2022). Inhibitor-induced folding of the P-loop allosterically occludes ATP binding and locks the enzyme in an inactive conformation (Picado et al., 2020).  
+
+## Function  
+STK17B is most highly expressed in developing and mature lymphocytes, especially T and B cells (Scheuplein et al., 2024; Zheng et al., 2022). It sets the activation threshold for T-cell receptor signalling; loss of the kinase sensitises T cells to weak stimulation and enhances cytokine release (Scheuplein et al., 2024). STK17B also acts as a positive regulator of apoptosis, partly via phosphorylation of MLC2 (Picado et al., 2020). In hepatocytes, the kinase controls SRSF6 phosphorylation, contributing to non-alcoholic fatty liver disease pathology (Scheuplein et al., 2024). It promotes autophagy-mediated degradation of TRAF6, thereby restraining cervical cancer cell growth and metastasis (Zheng et al., 2022). Upstream regulators include Ca²⁺/PKD signalling and MYB, whereas downstream effectors encompass caspase-9 activation and cytoskeletal contractility via MLC2 (Scheuplein et al., 2024; Zheng et al., 2022).  
+
+## Inhibitors  
+Potent, selective thieno[2,3-d]pyrimidines have been developed: probe 11s (K_d 5.6 nM, enzyme IC₅₀ 34 nM, >100-fold selectivity over STK17A) and precursor 18 (K_d 3.8 nM) (Picado et al., 2020; Serafim et al., 2021). Related negative control compound 19g shows >100-fold weaker binding (Picado et al., 2020). Other chemotypes include 5-arylthieno[2,3-b]pyridines (compound 13, IC₅₀ 0.86 µM; compound 14, IC₅₀ 29 nM), an indirubin-3′-monoxime derivative 15, and the multi-target agent nintedanib (K_d 670 nM) (Farag & Roh, 2019).  
+
+## Other Comments  
+Genetic or expression studies link STK17B to autoimmune disorders, type 1 diabetes, non-alcoholic fatty liver disease, chronic lymphocytic leukaemia, breast cancer and cervical cancer (Zheng et al., 2022; Serafim et al., 2021). Stk17b-deficient mice exhibit enhanced T-cell apoptosis yet are protected from organ-specific autoimmunity, underscoring its immunoregulatory role (Picado et al., 2020). No recurrent cancer-associated point mutations with functional annotation have been described to date (Scheuplein et al., 2024).  
+
+## 9. References  
+Chen, A. S., Wardwell-Ozgo, J., Shah, N. N., Wright, D., Appin, C. L., Vigneswaran, K., … Read, R. D. (2019). Drak/stk17a drives neoplastic glial proliferation through modulation of mrlc signaling. Cancer Research, 79, 1085-1097. https://doi.org/10.1158/0008-5472.CAN-18-0482  
+
+Farag, A. K., & Roh, E. J. (2019). Death-associated protein kinase (dapk) family modulators: Current and future therapeutic outcomes. Medicinal Research Reviews, 39, 349-385. https://doi.org/10.1002/med.21518  
+
+Moret, N., Liu, C., Gyori, B. M., Bachman, J. A., Steppi, A., Hug, C., … Sorger, P. K. (2020). A resource for exploring the understudied human kinome for research and therapeutic opportunities. bioRxiv. https://doi.org/10.1101/2020.04.02.022277  
+
+Picado, A., Chaikuad, A., Wells, C. I., Shrestha, S., Zuercher, W. J., Pickett, J. E., … Willson, T. M. (2020). A chemical probe for dark kinase STK17B derives its potency and high selectivity through a unique P-loop conformation. Journal of Medicinal Chemistry, 63, 14626-14646. https://doi.org/10.1021/acs.jmedchem.0c01174  
+
+Scheuplein, F., Renner, F., Campbell, J. E., Campbell, R., De Savi, C., Eckmann, J., … Bischoff, J. R. (2024). Evaluation of STK17B as a cancer immunotherapy target utilizing highly potent and selective small molecule inhibitors. Frontiers in Immunology. https://doi.org/10.3389/fimmu.2024.1411395  
+
+Serafim, R. A. M., Elkins, J. M., Zuercher, W. J., Laufer, S. A., & Gehringer, M. (2021). Chemical probes for understudied kinases: Challenges and opportunities. Journal of Medicinal Chemistry, 65, 1132-1170. https://doi.org/10.1021/acs.jmedchem.1c00980  
+
+Zheng, Y., Li, X., Kuang, L., & Wang, Y. (2022). New insights into the characteristics of DRAK2 and its role in apoptosis: From molecular mechanisms to clinically applied potential. Frontiers in Pharmacology. https://doi.org/10.3389/fphar.2022.1014508

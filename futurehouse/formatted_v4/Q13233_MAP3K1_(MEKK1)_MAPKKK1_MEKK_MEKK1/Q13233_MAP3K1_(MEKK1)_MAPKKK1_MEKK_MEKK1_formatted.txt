@@ -1,0 +1,55 @@
+## Phylogeny  
+MAP3K1 (MEKK1) is a serine/threonine protein kinase of the MEKK sub-family within the MAP kinase kinase kinase (MAP3K) group of the STE superfamily (Hagemann & Blank, 2001; Pham, Angus, & Johnson, 2013). Kinase-motif trees place MAP3K1 with the MAP3K clade alongside MEKK2 and MEKK3 (Johnson et al., 2023; Craig et al., 2008). Orthologues occur from yeast to mammals; it is homologous to the yeast kinases Ste11p and Byr2p, although MEKK1 cannot rescue Ste11 function in yeast (Hagemann & Blank, 2001; Suddason & Gallagher, 2015; Yan et al., 1994).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Charlaftis et al., 2014; Hagemann & Blank, 2001; Craig et al., 2008).
+
+## Cofactor Requirements  
+Mg²⁺ is required for the ATP-dependent phosphotransfer reaction (Suddason & Gallagher, 2015; Yan et al., 1994).
+
+## Substrate Specificity  
+MEKK1 preferentially phosphorylates Ser/Thr residues followed by Pro (S/T-P motifs). Peptide-array profiling assigns MEKK1 to motif cluster 14, indicating selectivity for residues at positions −3 to +4 around the phospho-site; a DFG + 1 alanine biases toward threonine phosphorylation (Charlaftis et al., 2014; Johnson et al., 2023).
+
+## Structure  
+The ~1500-residue protein comprises (Gehi et al., 2022; Wang et al., 2021):  
+• C-terminal kinase domain with canonical C-helix, hydrophobic spine and phosphorylation-regulated activation loop.  
+• N-terminal regulatory region containing proline-rich sequences, a Ras-binding module, putative PH and GEF domains, and a tubulin-binding TOG segment.  
+• SWIM zinc-binding domain (aa 338–366) that recruits c-Jun.  
+• RING/PHD finger (aa 443–492) conferring E3 ubiquitin ligase activity.  
+AlphaFold modelling shows the kinase domain centrally positioned with flanking flexible regulatory segments.
+
+## Regulation  
+• Phosphorylation: Activation through trans-autophosphorylation (Ser67, Thr1381) or by upstream PKC isoforms and c-Abl (Hagemann & Blank, 2001; Pham et al., 2013; Charlaftis et al., 2014).  
+• Ubiquitination: The PHD/RING catalyses Lys63-linked auto-ubiquitination that modulates ERK1/2 and JNK signalling without degrading the kinase (Pham et al., 2013; Charlaftis et al., 2014).  
+• Proteolytic cleavage: Caspase-3 cuts at a conserved DEVD motif (Asp878), yielding an active C-terminal fragment that promotes apoptosis (Pham et al., 2013; Wang et al., 2021).  
+• Redox control: Glutathionylation at Cys1238 inhibits activity (Wang et al., 2021).  
+• Intramolecular and G-protein interactions: N- and C-terminal domains interact to autoinhibit the kinase; binding of Ras, Rac or Cdc42 and regulatory phosphorylation relieve this inhibition (Hagemann & Blank, 2001; Pham et al., 2013).
+
+## Function  
+MEKK1 acts as a kinase and scaffold integrating stress, cytokine and growth-factor signals to regulate JNK, p38, ERK and NF-κB pathways (Hagemann & Blank, 2001; Suddason & Gallagher, 2015).  
+Expression: High in brain, glands, sensory organs (inner ear), skin; lower in heart, liver, ovary and testis. Present in embryonic stem cells, fibroblasts, keratinocytes, cardiomyocytes and immune B/T cells (Wang et al., 2021; Suddason & Gallagher, 2015).  
+Upstream adaptors: TRAF2, TRAF6, TRADD.  
+Direct substrates: MAP2Ks (MKK4, MKK7, MEK1) and IKKα/β; ubiquitin ligase targets include c-Jun, ERK1/2 and TAB1 (Hagemann & Blank, 2001; Charlaftis et al., 2014).  
+Biological roles: Controls apoptosis, survival, migration, immune-cell development, cardiac protection, testis development and wound healing. Full-length MEKK1 promotes survival/migration, whereas the caspase-generated fragment drives apoptosis (Pham et al., 2013).
+
+## Other Comments  
+MAP3K1 mutations or deletions occur in several cancers. Alterations correlate with better survival in uterine corpus endometrioid carcinoma and are frequent in luminal A breast cancer. Depending on tumor type, MEKK1 can suppress metastasis (ovarian, prostate, gastric) or promote malignancy (melanoma). Redundancy with MEKK2, MEKK3 and NIK lessens its necessity for TNF-α-induced JNK/NF-κB activation. Map3k1-null mice exhibit defective eyelid closure due to impaired epithelial migration (Pham et al., 2013; Hagemann & Blank, 2001).
+
+## 9. References  
+Charlaftis, N., Suddason, T., Wu, X., Anwar, S., Karin, M., & Gallagher, E. (2014). The MEKK1 PHD ubiquitinates TAB1 to activate MAPKs in response to cytokines. The EMBO Journal, 33, 2581–2596. https://doi.org/10.15252/embj.201488351  
+
+Craig, E. A., Stevens, M. V., Vaillancourt, R. R., & Camenisch, T. D. (2008). MAP3Ks as central regulators of cell fate during development. Developmental Dynamics. https://doi.org/10.1002/dvdy.21750  
+
+Gehi, B. R., Gadhave, K., Uversky, V., & Giri, R. (2022). Intrinsic disorder in proteins associated with oxidative stress-induced JNK signaling. Cellular and Molecular Life Sciences. https://doi.org/10.1007/s00018-022-04230-4  
+
+Hagemann, C., & Blank, J. L. (2001). The ups and downs of MEK kinase interactions. Cellular Signalling, 13, 863–875. https://doi.org/10.1016/S0898-6568(01)00220-0  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Pham, T. T., Angus, S. P., & Johnson, G. L. (2013). MAP3K1: Genomic alterations in cancer and function in promoting cell survival or apoptosis. Genes & Cancer, 4, 419–426. https://doi.org/10.1177/1947601913513950  
+
+Suddason, T., & Gallagher, E. (2015). A RING to rule them all? Insights into the MAP3K1 PHD motif provide a new mechanistic understanding into the diverse roles of MAP3K1. Cell Death & Differentiation, 22, 540–548. https://doi.org/10.1038/cdd.2014.239  
+
+Wang, J., Kimura, E., Mongan, M., & Xia, Y. (2021). Genetic control of MAP3K1 in eye development and sex differentiation. Cells. https://doi.org/10.3390/cells11010034  
+
+Yan, M., Dai, T., Deak, J., Kyriakis, J., Zon, L. I., Woodgett, J. R., & Templeton, D. J. (1994). Activation of stress-activated protein kinase by MEKK1 phosphorylation of its activator SEK1. Nature, 372, 798–800. https://doi.org/10.1038/372798a0

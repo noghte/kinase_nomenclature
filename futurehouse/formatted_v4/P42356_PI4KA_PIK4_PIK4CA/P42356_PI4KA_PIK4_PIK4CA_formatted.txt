@@ -1,0 +1,52 @@
+## Phylogeny  
+PI4KA is the α-isoform of the type III phosphatidylinositol 4-kinase (PI4K) sub-family within the phosphoinositide-3-kinase–related kinase (PIKK) branch of the human kinome (Dornan et al., 2016; Burke et al., 2023). Orthologs are conserved from yeast to vertebrates: Stt4 in Saccharomyces cerevisiae, pifk-1 in Caenorhabditis elegans, PI4KIIIα in Drosophila melanogaster and pi4kaa in Danio rerio (Kumar & Kumar, 2024).
+
+## Reaction Catalyzed  
+ATP + phosphatidylinositol ⇌ ADP + phosphatidylinositol-4-phosphate (Boura & Nencka, 2015).
+
+## Cofactor Requirements  
+Catalysis requires Mg²⁺; Mn²⁺ can substitute in vitro (Kumar & Kumar, 2024).
+
+## Substrate Specificity  
+PI4KA selectively phosphorylates membrane-embedded phosphatidylinositol and does not recognise peptide consensus motifs (Tai et al., 2011).
+
+## Structure  
+The 2,102-residue protein contains: an N-terminal proline-rich segment (~1–450), a large α-solenoid/ARM scaffold (~450–1300), a central dimerisation domain (~1300–1500), a helical sub-domain (~1500–1600) and a C-terminal bilobal lipid-kinase domain (~1600–2102) (Burke et al., 2023). Cryo-EM structures of PI4KA with TTC7 and FAM126 (PDB 6BQ0, 6BQ1) show a dimer of heterotrimers in which the α-solenoid cradles both regulators and orients the kinase domains toward the membrane (Burke et al., 2018). The active site features Lys1838 (VAIK motif) and Asp1957 (DRH loop), flanked by Cys1839 and Cys1843 that influence inhibitor binding (Kumar & Kumar, 2024). A vertebrate-specific N-lobe helical extension completes the hydrophobic spine, and the solenoid “horn” (residues 31–59) forms part of a calcineurin docking interface (Burke et al., 2023; Shaw et al., 2024).
+
+## Regulation  
+• Obligatory complex formation with TTC7A/B and FAM126A/B enables activity and plasma-membrane recruitment via TTC7 interaction with palmitoylated EFR3A/B (Burke et al., 2018).  
+• TMEM150A modulates residence time of the PI4KA complex at the membrane (Boura & Nencka, 2015).  
+• Calcineurin binds the solenoid horn and FAM126, suggesting phosphatase-coupled control (Shaw et al., 2024).  
+• Ser1290 phosphorylation by PKC and CK2 decreases catalytic output (Kumar & Kumar, 2024).  
+• Mutation of Lys1838, Asp1899 or Asp1957 abolishes activity (Unknown Authors, 2022).  
+• Oxidation or covalent modification of Cys1839/Cys1843 alters inhibitor sensitivity, indicating redox regulation (Balla et al., 2008).
+
+## Function  
+PI4KA is ubiquitously expressed, with highest levels in brain and gastrointestinal tissues (Burke et al., 2023). It generates the dominant plasma-membrane PI4P pool that is converted to PI(4,5)P₂ and PI(3,4,5)P₃, thereby regulating membrane identity, actin dynamics and vesicular trafficking (Burke et al., 2018). The PI4P gradient also drives inter-organelle transfer of cholesterol and phosphatidylserine (Burke et al., 2018). Positive-strand RNA viruses hijack PI4KA to build PI4P-rich replication organelles (Burke et al., 2023). Genetic or pharmacological inactivation causes embryonic lethality and acute intestinal degeneration in mice (Burke et al., 2018). PI4KA inhibition synergises with KRAS blockade in KRAS-mutant pancreatic cancer cells (Burke et al., 2023).
+
+## Inhibitors  
+• GSK-A1 (quinazoline): IC₅₀ ≈ 0.16 nM; >100-fold selectivity over PI4KB/PI4K2A (Burke et al., 2018).  
+• Additional quinazoline and 2-aminobenzothiazole analogues retain sub-nanomolar potency but cause dose-limiting gastrointestinal toxicity in rodents (Burke et al., 2023).  
+• PIK93 preferentially targets PI4KB but inhibits PI4KA at higher concentrations; wortmannin is a covalent pan-PI3K/PI4K inhibitor (Balla et al., 2008).
+
+## Other Comments  
+Biallelic PI4KA loss-of-function mutations cause severe neurodevelopmental delay, cortical malformations and spastic paraplegia (Burke et al., 2023). TTC7A mutations weaken PI4KA complex formation and lead to combined immunodeficiency (Burke et al., 2018). Early studies placed PI4KA at the endoplasmic reticulum, whereas recent data support primary plasma-membrane localisation via EFR3–TTC7, representing an unresolved localisation discrepancy (Unknown Authors, 2022).
+
+## References  
+Balla, A., Tuymetova, G., Toth, B., Szentpetery, Z., Zhao, X., Knight, Z. A., Shokat, K., Steinbach, P. J., & Balla, T. (2008). Design of drug-resistant alleles of type-III phosphatidylinositol 4-kinases using mutagenesis and molecular modeling. Biochemistry, 47, 1599–1607. https://doi.org/10.1021/bi7017927  
+
+Boura, E., & Nencka, R. (2015). Phosphatidylinositol 4-kinases: function, structure, and inhibition. Experimental Cell Research, 337, 136–145. https://doi.org/10.1016/j.yexcr.2015.03.028  
+
+Burke, J. E., Triscott, J., Emerling, B. M., & Hammond, G. R. V. (2023). Beyond PI3Ks: targeting phosphoinositide kinases in disease. Nature Reviews Drug Discovery, 22, 357–386. https://doi.org/10.1038/s41573-022-00582-5  
+
+Burke, J. E. (2018). Structural basis for regulation of phosphoinositide kinases and their involvement in human disease. Molecular Cell, 71, 653–673. https://doi.org/10.1016/j.molcel.2018.08.005  
+
+Dornan, G. L., McPhail, J. A., & Burke, J. E. (2016). Type III phosphatidylinositol 4-kinases: structure, function, regulation, signalling and involvement in disease. Biochemical Society Transactions, 44, 260–266. https://doi.org/10.1042/BST20150219  
+
+Kumar, R., & Kumar, P. (2024). Phosphatidyl inositol 4-kinases. Encyclopedia, 4, 1062–1072. https://doi.org/10.3390/encyclopedia4030068  
+
+Shaw, A. L., Suresh, S., Parson, M. A. H., Harris, N. J., Jenkins, M. L., Yip, C. K., & Burke, J. E. (2024). Structure of calcineurin bound to PI4KA reveals dual interface in both PI4KA and FAM126A. Structure, 32, 1973–1983.e6. https://doi.org/10.1016/j.str.2024.08.007  
+
+Tai, A. W., Bojjireddy, N., & Balla, T. (2011). A homogeneous and non-isotopic assay for phosphatidylinositol 4-kinases. Analytical Biochemistry, 417, 97–102. https://doi.org/10.1016/j.ab.2011.05.046  
+
+Unknown Authors. (2022). Functional importance of the lipid kinase phosphatidylinositol 4-kinase III alpha on cytoskeletal organization and its impact on hepatitis C virus-induced liver … [Incomplete citation].

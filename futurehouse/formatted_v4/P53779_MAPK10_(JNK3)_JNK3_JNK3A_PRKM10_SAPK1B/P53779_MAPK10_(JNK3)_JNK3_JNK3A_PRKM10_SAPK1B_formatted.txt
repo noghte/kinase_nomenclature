@@ -1,0 +1,53 @@
+## Phylogeny  
+Member of the CMGC group, MAPK family, JNK sub-family. Two closely related human paralogs exist—MAPK8/JNK1 and MAPK9/JNK2—with >90 % identity across the catalytic domain (Scapin et al., 2003). Orthologues are found throughout vertebrates (Mus musculus Mapk10, Rattus norvegicus Mapk10, Gallus gallus MAPK10, Danio rerio mapk10) and in diverse invertebrates and protozoa such as Drosophila basket, Caenorhabditis kgb-1 and Leishmania LmMAPK10 (Horjales et al., 2012; Rehfeldt et al., 2020).
+
+## Reaction Catalyzed  
+ATP + {protein}-Ser/Thr → ADP + {protein}-Ser/Thr(P) (Kyriakis & Avruch, 2012).
+
+## Cofactor Requirements  
+Catalysis requires two Mg²⁺ ions; Mn²⁺ can replace Mg²⁺ in vitro (Shaw et al., 2008; Mishra & Günther, 2018).
+
+## Substrate Specificity  
+Prefers a Ser/Thr followed by Pro (+1) (Wagner & Nebreda, 2009; Kyriakis & Avruch, 2012). High-throughput profiling refined the optimal motif to Φ-P-(S/T)-P-P-Ψ, where Φ is hydrophobic and Ψ is hydrophobic/basic (Mishra & Günther, 2018). Basic groove residues 145–169 together with the acidic ED site 196–204 form the D-recruiting surface that recognises ψ-X-X-φ docking motifs on substrates or scaffolds (Rehfeldt et al., 2020).
+
+## Structure  
+Single bilobal kinase domain (≈ residues 48–397) with the canonical β-sheet N-lobe and α-helical C-lobe (Rehfeldt et al., 2020; Mishra & Günther, 2018). Key catalytic elements include the Lys55–Glu111 salt bridge, HRD (His187-Arg188-Asp189), DFG (Asp207-Phe208-Gly209) and the activation loop Thr221-Pro222-Tyr223 (Kyriakis & Avruch, 2012). A hydrophobic spine centred on the gatekeeper Met146 stabilises the active conformation (Rehfeldt et al., 2020). JNKs contain a unique 12-residue insert (283–328) that remodels the MAPK insert and modulates docking (Rehfeldt et al., 2020). Crystal structures are available for apo/ATP-bound states (PDB 4WHZ) showing hinge-driven cleft closure (Mishra & Günther, 2018) and for inhibitor complexes (e.g., PDB 1PMV) defining five subsites in the ATP pocket (Rehfeldt et al., 2020).
+
+## Regulation  
+• Activation: dual phosphorylation of Thr221 by MKK7 and Tyr223 by MKK4 downstream of MAP3Ks such as ASK1, DLK and MEKKs (Haeusgen et al., 2011; Rehfeldt et al., 2020).  
+• Inactivation: dephosphorylation by DUSP10 (MKP5) and DUSP16 (MKP7) (Rehfeldt et al., 2020).  
+• Additional post-translational modifications: ubiquitination by Itch, SUMOylation on unspecified lysines, Golgi-targeting palmitoylation, and inhibitory S-nitrosylation (Rehfeldt et al., 2020; Sehgal & Ram, 2013; Unknown Authors, 2022).  
+• Scaffold control: JIP1-4 and β-arrestin-2 organise MAP3K–MKK–JNK modules; β-arrestin-2 acts via a “conveyor-belt” mechanism (Unknown Authors, 2022).  
+• Allosteric regulation: ATP binding promotes hinge closure and activation-loop ordering (Mishra & Günther, 2018).
+
+## Function  
+Highly enriched in neurons, with lower expression in heart and testis (Scapin et al., 2003). Phosphorylates transcription factors (c-Jun, JunD, ATF2, Elk1), cytoskeletal regulators (STMN2, SCG10 S62/S73, kinesin-1 S176), APP Thr668 and the CLOCK–BMAL1 complex (Kyriakis & Avruch, 2012; Coffey, 2014; Rehfeldt et al., 2020). Mediates stress-induced AP-1 activation, neuronal apoptosis, cytoskeletal remodelling, axonal transport, APP processing and circadian regulation (Scapin et al., 2003; Coffey, 2014; Rehfeldt et al., 2020). Mapk10 knockout mice show resistance to excitotoxic neuronal death (Scapin et al., 2003).
+
+## Inhibitors  
+Potent ATP-competitive or covalent inhibitors include compound 589 (IC₅₀ = 16 nM), JNK-IN-8 (covalent Cys154 binder, nanomolar), AS601245 (sub-µM, JNK-selective), CC-930 (tanzisertib, clinical-stage) and the broad-spectrum probe SP600125 (Coffey, 2014; Rehfeldt et al., 2020).
+
+## Other Comments  
+Persistent hyper-activation is implicated in Alzheimer’s, Parkinson’s, Huntington’s disease, ALS and cerebral ischemia (Mishra & Günther, 2018; Rehfeldt et al., 2020). A pathogenic p.R230C mutation within the activation segment causes severe neurodevelopmental disorders (Rehfeldt et al., 2020).
+
+## References  
+Coffey, E. T. (2014). Nuclear and cytosolic JNK signalling in neurons. Nature Reviews Neuroscience, 15, 285–299. https://doi.org/10.1038/nrn3729  
+
+Haeusgen, W., Herdegen, T., & Waetzig, V. (2011). The bottleneck of JNK signaling: Molecular and functional characteristics of MKK4 and MKK7. European Journal of Cell Biology, 90(6–7), 536–544. https://doi.org/10.1016/j.ejcb.2010.11.008  
+
+Horjales, S., Schmidt-Arras, D., Rodriguez Limardo, R., Leclercq, O., Obal, G., Prina, E., Turjanski, A. G., Späth, G. F., & Buschiazzo, A. (2012). The crystal structure of the MAP kinase LmMAPK10 from Leishmania major reveals parasite-specific features and regulatory mechanisms. Structure, 20(10), 1649–1660. https://doi.org/10.1016/j.str.2012.07.005  
+
+Kyriakis, J. M., & Avruch, J. (2012). Mammalian MAPK signal transduction pathways activated by stress and inflammation: A 10-year update. Physiological Reviews, 92, 689–737. https://doi.org/10.1152/physrev.00028.2011  
+
+Mishra, P., & Günther, S. (2018). New insights into the structural dynamics of the kinase JNK3. Scientific Reports, 8, 895. https://doi.org/10.1038/s41598-018-27867-3  
+
+Rehfeldt, S. C. H., Majolo, F., Goettert, M. I., & Laufer, S. (2020). C-Jun N-terminal kinase inhibitors as potential leads for new therapeutics for Alzheimer’s disease. International Journal of Molecular Sciences, 21, 9677. https://doi.org/10.3390/ijms21249677  
+
+Scapin, G., Patel, S., Lisnock, J., Becker, J. W., & Lograsso, P. (2003). The structure of JNK3 in complex with small-molecule inhibitors: Structural basis for potency and selectivity. Chemistry & Biology, 10(8), 705–712. https://doi.org/10.1016/S1074-5521(03)00159-5  
+
+Sehgal, V., & Ram, P. T. (2013). Network motifs in JNK signaling. Genes & Cancer, 4, 409–413. https://doi.org/10.1177/1947601913507577  
+
+Shaw, D., Wang, S. M., Villaseñor, A. G., Tsing, S., Walter, D., Browner, M. F., Barnett, J., & Kuglstatter, A. (2008). The crystal structure of JNK2 reveals conformational flexibility in the MAP kinase insert and indicates its involvement in the regulation of catalytic activity. Journal of Molecular Biology, 383(4), 885–893. https://doi.org/10.1016/j.jmb.2008.08.086  
+
+Unknown Authors. (2022). JNKs as therapeutic targets to tackle synaptic dysfunction in neurodevelopmental and neurodegenerative diseases (pp. 33–43).  
+
+Wagner, E., & Nebreda, A. (2009). Signal integration by JNK and p38 MAPK pathways in cancer development. Nature Reviews Cancer, 9, 537–549. https://doi.org/10.1038/nrc2694

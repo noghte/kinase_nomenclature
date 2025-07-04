@@ -1,0 +1,56 @@
+## Phylogeny  
+MAPK-activated protein kinase 5 (MAPKAPK5; also MK5/PRAK) belongs to the MAPKAPK family but forms a solitary subgroup within that family (Moens & Kostenko, 2013; New et al., 1998). Kinome placement is inconsistent, having been assigned to the CAMK, CMGC, STE and AGC groups by different classifiers (Manning et al., 2002; Moens & Kostenko, 2013; Perander et al., 2016; Johnson et al., 2023). The kinase shares only 20–30 % sequence identity with other MAPK-regulated kinases such as RSK1/2/3, MNK1/2 and MAPKAPK2/3, reflecting an early divergence that coincides with its unique C-terminal regulatory domain and its activation by atypical MAPKs (Perander et al., 2016; New et al., 1998). Orthologues are conserved throughout vertebrates (e.g., human, mouse) but appear absent from invertebrates such as Drosophila and C. elegans (Moens & Kostenko, 2013).
+
+## Reaction Catalyzed  
+ATP + protein ⇌ ADP + phosphoprotein (serine/threonine) (New et al., 1998).
+
+## Cofactor Requirements  
+Requires a divalent cation, most commonly Mg²⁺, for ATP binding and phosphoryl-transfer (Moens & Kostenko, 2013).
+
+## Substrate Specificity  
+High-throughput peptide profiling defines the optimal consensus as:  
+P-5 R P-2 H P+1 φ (hydrophobic) relative to the phospho-Ser/Thr (Johnson et al., 2023).  
+
+## Structure  
+AlphaFold models and crystallographic analyses show a canonical bilobal kinase fold (Åberg et al., 2009; Perander et al., 2016).  
+• N-lobe: five-stranded β-sheet plus conserved C-helix (Åberg et al., 2009).  
+• C-lobe: predominantly α-helical; houses the activation loop with the regulatory phosphosite Thr182 (Åberg et al., 2009; New et al., 1998).  
+• C-terminal regulatory domain: an extended helical/loop region absent from other MAPKAPKs; mediates binding to atypical MAPKs ERK3/4 (Åberg et al., 2009; Moens & Kostenko, 2013).  
+• Nuclear localisation and export signals are embedded within the sequence (Moens & Kostenko, 2013).
+
+## Regulation  
+• Phosphorylation: p38α/β phosphorylate Thr182 to activate MAPKAPK5; Thr182Ala prevents activation. Ser212 is phosphorylated but dispensable for activity (New et al., 1998).  
+• Protein–protein interaction: ERK3/4 engage the C-terminal domain after their own PAK-dependent phosphorylation, simultaneously activating MAPKAPK5 and driving its nuclear-to-cytoplasmic relocalisation (Perander et al., 2016).  
+• Transcriptional control: MYC up-regulates MAPKAPK5 transcription, forming a negative feedback loop (Kress et al., 2011; Moens & Kostenko, 2013).
+
+## Function  
+Ubiquitously expressed kinase operating downstream of canonical p38α/β and atypical ERK3/4 pathways (New et al., 1998; Perander et al., 2016).  
+• Upstream activators: p38α, p38β, ERK3, ERK4; PAK family acts indirectly via ERK3/4 (Perander et al., 2016; Seternes et al., 2004).  
+• Interacting partners: ERK3, ERK4, septin 7, FAK, Src (Perander et al., 2016; Unknown Authors, 2014).  
+• Substrates: p53 (Ser37), FOXO3a (Ser215), HSP27, FAK, Src, paxillin, septin 8, Kalirin-7, Rheb; eIF-4E is not a substrate (Kress et al., 2011; Perander et al., 2016; New et al., 1998; Unknown Authors, 2014).  
+Biological roles include tumour suppression via p53 and FOXO3a activation, modulation of cytoskeleton and focal adhesions, regulation of cell motility, neuronal spine formation and inhibition of mTORC1 signalling through Rheb phosphorylation (Moens & Kostenko, 2013; Perander et al., 2016).
+
+## Inhibitors  
+No direct small-molecule inhibitors reported. Activity can be suppressed indirectly by the p38 inhibitor SB203580 (IC₅₀ ≈ 0.5 µM) (New et al., 1998). MAPKAPK5 is not inhibited by PF-573228 (FAK inhibitor) or Dasatinib (Src inhibitor) (Unknown Authors, 2014).
+
+## Other Comments  
+MAPKAPK5 has been linked to inflammatory, immune and cardiovascular disorders, as well as cancer biology where it influences cell migration, tumour angiogenesis and senescence. In colorectal cancer, diminished MAPKAPK5 expression correlates with poor prognosis (Kress et al., 2011; Perander et al., 2016).
+
+## References  
+Åberg, E., Torgersen, K. M., Johansen, B., Keyse, S. M., Perander, M., & Seternes, O.-M. (2009). Docking of PRAK/MK5 to the atypical MAPKs ERK3 and ERK4 defines a novel MAPK interaction motif. Journal of Biological Chemistry, 284, 19392–19401. https://doi.org/10.1074/jbc.M109.023283  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Kress, T. R., Cannell, I., Brenkman, A., Samans, B., Gaestel, M., Roepman, P., … Eilers, M. (2011). The MK5/PRAK kinase and MYC form a negative feedback loop that is disrupted during colorectal tumorigenesis. Molecular Cell, 41, 445–457. https://doi.org/10.1016/j.molcel.2011.01.023  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Moens, U., & Kostenko, S. (2013). Structure and function of MK5/PRAK: the loner among the mitogen-activated protein kinase-activated protein kinases. Biological Chemistry, 394, 1115–1132. https://doi.org/10.1515/hsz-2013-0149  
+
+New, L., Jiang, Y., Zhao, M., Liu, K. Z., Zhu, W., Flood, L. J., … Han, J. (1998). PRAK, a novel protein kinase regulated by the p38 MAP kinase. EMBO Journal, 17, 3372–3384. https://doi.org/10.1093/emboj/17.12.3372  
+
+Perander, M., Keyse, S., & Seternes, O. (2016). New insights into the activation, interaction partners and possible functions of MK5/PRAK. Frontiers in Bioscience, 21, 374–384. https://doi.org/10.2741/4394  
+
+Seternes, O.-M., Mikalsen, T., Johansen, B., Michaelsen, E., Armstrong, C. G., Morrice, N. A., … Keyse, S. M. (2004). Activation of MK5/PRAK by the atypical MAP kinase ERK3 defines a novel signal transduction pathway. EMBO Journal. https://doi.org/10.1038/sj.emboj.7600489  
+
+Unknown Authors. (2014). Cross-phosphorylation and interaction between Src/FAK and MAPKAP5/PRAK in early focal adhesions controls cell motility.

@@ -1,0 +1,55 @@
+## Phylogeny  
+TRPM6 is a member of the melastatin-related (TRPM) subfamily within the transient receptor potential (TRP) ion-channel family (Azim et al., 2019; Chubanov & Gudermann, 2014). Kinome surveys place TRPM6 and its close homolog TRPM7 in the atypical α-kinase group, distinguished by fusion of an ion-channel module to a kinase domain (Chubanov et al., 2004; Schlingmann et al., 2007; Runnels, 2011). Orthologs are present in mouse, rat and zebrafish, indicating evolutionary conservation among vertebrates (Chubanov & Gudermann, 2014; Schmitz et al., 2005). TRPM6 and TRPM7 share ~77 % sequence identity in their kinase domains but are functionally non-redundant paralogs (Chubanov & Gudermann, 2014; Schmitz et al., 2005).
+
+## Reaction Catalyzed  
+ATP + protein ⇌ ADP + phosphoprotein (Runnels, 2011; Schmitz et al., 2005; Schlingmann et al., 2007).  
+The kinase domain uses ATP and does not accept GTP as phosphate donor (Runnels, 2011).
+
+## Cofactor Requirements  
+Catalysis requires divalent cations: Mg²⁺ is essential and Mn²⁺ markedly stimulates activity (Azim et al., 2019; Chubanov & Gudermann, 2014; Chubanov et al., 2004; Runnels, 2011).
+
+## Substrate Specificity  
+A consensus phosphorylation motif has not been defined (Runnels, 2011). TRPM6 phosphorylates serine or threonine residues, typically within α-helical regions (Chubanov & Gudermann, 2014; Runnels, 2011). Documented substrates (shared with TRPM7 in some cases) include myosin II heavy chains (IIA, IIB, IIC), annexin A1 and elongation-factor-2 kinase (Chubanov & Gudermann, 2014; Runnels, 2011).
+
+## Structure  
+TRPM6 is a bifunctional protein comprising:  
+• N-terminal ankyrin-like repeat domain  
+• Six-transmembrane ion-channel core (S1–S6); the S5–S6 loop with a conserved EVY motif forms the pore (Chubanov & Gudermann, 2014)  
+• C-terminal atypical α-kinase domain with distinct N- and C-lobes and a zinc-binding module that stabilises the fold (Chubanov & Gudermann, 2014; Runnels, 2011).  
+
+Structural information derives from homology modelling based on mouse TRPM7 kinase (PDB 1IA9), cryo-EM and AlphaFold models, highlighting key elements such as the activation loop and C-helix (Chubanov & Gudermann, 2014; Runnels, 2011; Schlingmann et al., 2007).
+
+## Regulation  
+• Extensive Ser/Thr autophosphorylation (predominantly phosphoserine) enhances substrate recognition; Thr1851 autophosphorylation links kinase and channel functions (Chubanov & Gudermann, 2014; Runnels, 2011; Schmitz et al., 2005).  
+• Mg-ATP positively modulates channel activity, whereas free intracellular Mg²⁺ is inhibitory (Azim et al., 2019; Chubanov & Gudermann, 2014).  
+• TRPM6 can cross-phosphorylate TRPM7, but the reverse is not observed (Schmitz et al., 2005).  
+• The scaffold protein RACK1 binds residues 1857–1885 and mediates inhibition (Runnels, 2011).  
+• Epidermal growth factor up-regulates TRPM6 expression (Chubanov & Gudermann, 2014).
+
+## Function  
+TRPM6 acts both as a Mg²⁺-permeable ion channel and as a Ser/Thr kinase, and is indispensable for systemic magnesium balance (Azim et al., 2019). It mediates active Mg²⁺ uptake in intestinal epithelium and reabsorption in the kidney distal convoluted tubule; expression is largely confined to these epithelia (Chubanov & Gudermann, 2014; Voets et al., 2004). Functional heterotetramers with ubiquitously expressed TRPM7 are required for proper membrane trafficking and activity (Chubanov et al., 2004; Schmitz et al., 2005). Additional interacting partners include RACK1, REA and MsrB1 (Chubanov & Gudermann, 2014).
+
+## Inhibitors  
+Selective kinase inhibitors remain poorly characterised; few highly selective small molecules have been reported (Azim et al., 2019; Chubanov et al., 2004; Runnels, 2011; Schäffers et al., 2018). Channel conductance is voltage-dependently blocked by ruthenium red and is activated by 2-APB, opposite to the effect on TRPM7 (Schlingmann et al., 2007; Voets et al., 2004).
+
+## Other Comments  
+Loss-of-function mutations in TRPM6 cause autosomal-recessive hypomagnesemia with secondary hypocalcemia, involving impaired intestinal absorption and renal Mg²⁺ wasting (Azim et al., 2019; Chubanov & Gudermann, 2014). Variants include missense (e.g., S141L), nonsense, frameshift and splice-site mutations that disrupt kinase function or TRPM6/TRPM7 complex formation (Azim et al., 2019; Chubanov et al., 2004; Schlingmann et al., 2007). Complete Trpm6 knockout in mice is embryonically lethal and causes neural tube defects, underscoring its developmental importance (Chubanov & Gudermann, 2014; Chubanov et al., 2016).
+
+## References  
+Azim, M. K., Mehnaz, A., Ahmed, J. Z., & Mujtaba, G. (2019). Exome sequencing identifies a novel frameshift variant causing hypomagnesemia with secondary hypocalcemia. CEN Case Reports, 8, 42–47. https://doi.org/10.1007/s13730-018-0362-x  
+
+Chubanov, V., Waldegger, S., Mederos y Schnitzler, M., Vitzthum, H., Sassen, M. C., Seyberth, H. W., Konrad, M., & Gudermann, T. (2004). Disruption of TRPM6/TRPM7 complex formation by a mutation in the TRPM6 gene causes hypomagnesemia with secondary hypocalcemia. Proceedings of the National Academy of Sciences of the United States of America, 101(9), 2894–2899. https://doi.org/10.1073/pnas.0305252101  
+
+Chubanov, V., & Gudermann, T. (2014). TRPM6. In Handbook of Experimental Pharmacology (pp. 503–520). Springer. https://doi.org/10.1007/978-3-642-54215-2_20  
+
+Chubanov, V., Ferioli, S., Wisnowsky, A., Simmons, D. G., Leitzinger, C., Einer, C., … Gudermann, T. (2016). Epithelial magnesium transport by TRPM6 is essential for prenatal development and adult survival. eLife, 5, e20914. https://doi.org/10.7554/eLife.20914  
+
+Runnels, L. W. (2011). TRPM6 and TRPM7: A mul-TRP-plik-cation of channel functions. Current Pharmaceutical Biotechnology, 12(1), 42–53. https://doi.org/10.2174/138920111793937880  
+
+Schäffers, O. J. M., Hoenderop, J. G. J., Bindels, R. J. M., & de Baaij, J. H. F. (2018). The rise and fall of novel renal magnesium transporters. American Journal of Physiology–Renal Physiology, 314, F1027–F1033. https://doi.org/10.1152/ajprenal.00634.2017  
+
+Schlingmann, K. P., Waldegger, S., Konrad, M., Chubanov, V., & Gudermann, T. (2007). TRPM6 and TRPM7—Gatekeepers of human magnesium metabolism. Biochimica et Biophysica Acta (Molecular Basis of Disease), 1772, 813–821. https://doi.org/10.1016/j.bbadis.2007.03.009  
+
+Schmitz, C., Dorovkov, M. V., Zhao, X., Davenport, B. J., Ryazanov, A. G., & Perraud, A.-L. (2005). The channel kinases TRPM6 and TRPM7 are functionally nonredundant. Journal of Biological Chemistry, 280(45), 37763–37771. https://doi.org/10.1074/jbc.M509175200  
+
+Voets, T., Nilius, B., Hoefs, S., van der Kemp, A. W. C. M., Droogmans, G., Bindels, R. J. M., & Hoenderop, J. G. J. (2004). TRPM6 forms the Mg²⁺ influx channel involved in intestinal and renal Mg²⁺ absorption. Journal of Biological Chemistry, 279(1), 19–25. https://doi.org/10.1074/jbc.M311201200

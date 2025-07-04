@@ -1,0 +1,55 @@
+## Phylogeny  
+G-protein-coupled receptor kinase 3 (GRK3; ADRBK2) is a serine/threonine protein kinase belonging to the AGC group and to the GRK family, specifically the GRK2-like (β-ARK) subfamily together with its close paralogue GRK2 (Mushegian et al., 2012; Premont et al., 1995; Evron et al., 2012). Phylogenetic analyses place GRK3 within the GRKb clade, which split from the GRKa clade (GRK1/4/5/6/7) before the emergence of metazoans; GRK2 and GRK3 subsequently arose by gene duplication within GRKb (Mushegian et al., 2012). Orthologs are found throughout metazoans and some unicellular opisthokonts but are absent from plants, fungi and amoebozoa (Mushegian et al., 2012; Manning et al., 2002). The catalytic domain is most closely related to ribosomal protein S6 kinase family members (Mushegian et al., 2012).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[activated GPCR] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[GPCR] (Evron et al., 2012; Ferrero & Koch, 2022; Ribas et al., 2007).
+
+## Cofactor Requirements  
+Mg²⁺ is required to coordinate ATP during catalysis (Singh et al., 2008).  
+
+## Substrate Specificity  
+GRK3 phosphorylates Ser/Thr residues located in the third intracellular loop or C-terminus of agonist-occupied GPCRs (Evron et al., 2012). Kinome-wide peptide profiling indicates a preference for basic residues N-terminal to the phosphorylation site (Johnson et al., 2023). Structural studies of GRKs also suggest recognition of acidic receptor segments enriched in Ser/Thr (Singh et al., 2008).
+
+## Structure  
+The protein comprises an N-terminal RGS-homology domain (~120 aa) implicated in receptor/Gαq recognition, a central AGC-type kinase domain (~270 aa), and a C-terminal pleckstrin-homology (PH) domain unique to GRK2/3 that binds PIP₂ and free Gβγ (Mushegian et al., 2012; Ribas et al., 2007; Guccione et al., 2016). Crystal structures of the homolog GRK2 reveal an inactive “open” and an active “closed” conformation, with movement of the activation loop, αC-helix and hydrophobic spine during activation (Guccione et al., 2016).
+
+## Regulation  
+• Allosterically activated by direct binding of Gβγ subunits to the PH domain, promoting membrane recruitment and relieving autoinhibition (Watari et al., 2014; Penela et al., 2019).  
+• Further modulated by phosphorylation from MAPK, PKA and c-Src, altering activity, stability and interactions (Ribas et al., 2007).  
+• Intramolecular contacts keep the kinase basally inactive until disrupted by Gβγ or receptor binding (Ribas et al., 2007).
+
+## Function  
+GRK3 is ubiquitously expressed in mammalian tissues (Evron et al., 2012; Watari et al., 2014). Its principal role is to desensitize GPCR signalling: phosphorylation of activated receptors promotes β-arrestin binding, terminating G-protein signalling and triggering receptor internalisation, while also initiating β-arrestin-dependent pathways (Watari et al., 2014). Non-receptor substrates such as tubulin can also be phosphorylated (Ribas et al., 2007). Reported interactors include Gαq, Gβγ, PI3K, clathrin, caveolin, AKT, GIT and MEK, positioning GRK3 as a multifunctional signalling hub (Ribas et al., 2007).
+
+## Inhibitors  
+Endogenous modulation occurs via Raf-kinase inhibitor protein (RKIP) (Ribas et al., 2007). Small-molecule ATP-competitive inhibitors characterised for GRK2 and showing cross-reactivity with GRK3 include balanol (PDB 3KRX), CMPD101 (3PVU), paroxetine (3V5W) and GSK180736A (4PNK) (Guccione et al., 2016).
+
+## Other Comments  
+GRK3 dysregulation has been linked to heart failure, asthma and autoimmune disorders, and plays roles in cardiovascular homeostasis such as blood-pressure regulation (Schumacher & Koch, 2017; Watari et al., 2014). No disease-associated coding variants have been reported in the human GRK3 gene (Lymperopoulos & Bathgate, 2012).
+
+## 9. References  
+Evron, T., Daigle, T. L., & Caron, M. G. (2012). GRK2: multiple roles beyond G protein-coupled receptor desensitization. Trends in Pharmacological Sciences, 33, 154-164. https://doi.org/10.1016/j.tips.2011.12.003  
+
+Ferrero, K. M., & Koch, W. J. (2022). GRK2 in cardiovascular disease and its potential as a therapeutic target. Journal of Molecular and Cellular Cardiology, 172, 14-23. https://doi.org/10.1016/j.yjmcc.2022.07.008  
+
+Guccione, M., Ettari, R., Taliani, S., Da Settimo, F., Zappalà, M., & Grasso, S. (2016). G-protein-coupled receptor kinase 2 (GRK2) inhibitors: current trends and future perspectives. Journal of Medicinal Chemistry, 59, 9277-9294. https://doi.org/10.1021/acs.jmedchem.5b01939  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759-766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Lymperopoulos, A., & Bathgate, A. (2012). Pharmacogenomics of the heptahelical receptor regulators G-protein-coupled receptor kinases and arrestins: the known and the unknown. Pharmacogenomics, 13, 323-341. https://doi.org/10.2217/pgs.11.178  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912-1934. https://doi.org/10.1126/science.1075762  
+
+Mushegian, A., Gurevich, V. V., & Gurevich, E. V. (2012). The origin and evolution of G protein-coupled receptor kinases. PLoS ONE, 7, e33806. https://doi.org/10.1371/journal.pone.0033806  
+
+Penela, P., Ribas, C., Sánchez-Madrid, F., & Mayor, F. (2019). G protein-coupled receptor kinase 2 (GRK2) as a multifunctional signalling hub. Cellular and Molecular Life Sciences, 76, 4423-4446. https://doi.org/10.1007/s00018-019-03274-3  
+
+Premont, R. T., Inglese, J., & Lefkowitz, R. J. (1995). Protein kinases that phosphorylate activated G protein-coupled receptors. FASEB Journal, 9, 175-182. https://doi.org/10.1096/fasebj.9.2.7781920  
+
+Ribas, C., Penela, P., Murga, C., Salcedo, A., García-Hoz, C., Jurado-Pueyo, M., Aymerich, I., & Mayor, F. (2007). The G protein-coupled receptor kinase (GRK) interactome: role of GRKs in GPCR regulation and signaling. Biochimica et Biophysica Acta, 1768, 913-922. https://doi.org/10.1016/j.bbamem.2006.09.019  
+
+Schumacher, S. M., & Koch, W. J. (2017). Noncanonical roles of G protein-coupled receptor kinases in cardiovascular signaling. Journal of Cardiovascular Pharmacology. https://doi.org/10.1097/FJC.0000000000000483  
+
+Singh, P., Wang, B., Maeda, T., Palczewski, K., & Tesmer, J. J. G. (2008). Structures of rhodopsin kinase in different ligand states reveal key elements involved in G protein-coupled receptor kinase activation. Journal of Biological Chemistry, 283, 14053-14062. https://doi.org/10.1074/jbc.M708974200  
+
+Watari, K., Nakaya, M., & Kurose, H. (2014). Multiple functions of G protein-coupled receptor kinases. Journal of Molecular Signaling, 9, 1. https://doi.org/10.1186/1750-2187-9-1

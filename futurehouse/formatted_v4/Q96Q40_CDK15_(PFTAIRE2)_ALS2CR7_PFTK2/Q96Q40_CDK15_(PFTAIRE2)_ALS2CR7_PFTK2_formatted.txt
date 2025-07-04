@@ -1,0 +1,39 @@
+## Phylogeny  
+CDK15 belongs to the CMGC superfamily, cyclin-dependent kinase (CDK) group, PFTAIRE (PCTAIRE) subfamily. It forms an evolutionary branch with CDK16-18 that is separate from canonical cell-cycle and transcriptional CDKs and is characterised by replacement of the PSTAIRE helix with a PFTAIRE motif. Orthology is conserved across vertebrates (Chowdhury et al., 2023; Pluta et al., 2024; Pellarin et al., 2025).  
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein]  
+(illustrated by phosphorylation of survivin Thr34) (Park et al., 2014).  
+
+## Cofactor Requirements  
+No metal cofactor requirement has been explicitly reported for CDK15 in the cited literature (Chowdhury et al., 2023).  
+
+## Substrate Specificity  
+Kinome-wide motif analyses place CDK15 among proline-directed Ser/Thr kinases that prefer Pro at the +1 position. Survivin is a verified cellular substrate, phosphorylated at Thr34 (T-P motif) (Chowdhury et al., 2023; Pluta et al., 2024; Park et al., 2014).  
+
+## Structure  
+Predicted to adopt the canonical bilobal protein-kinase fold with conserved VAIK (β3), HRD (catalytic loop) and DFG (activation segment) motifs, and a CMGC-insert in the C-lobe implicated in substrate selection. The αC-helix contains the distinctive PFTAIRE sequence that modulates cyclin binding. AlphaFold modelling shows an intact catalytic and regulatory hydrophobic spine and a flexible activation loop. No experimentally determined crystal or cryo-EM structure has yet been reported (Chowdhury et al., 2023; Pluta et al., 2024).  
+
+## Regulation  
+Activation-loop phosphorylation is described but specific sites and upstream kinases remain unidentified. CDK15 is expected to interact with regulatory cyclin subunits, although the partner(s) have not been defined. It binds mitotic regulators Mad2, Plk1, Aurora B and survivin, linking the kinase to spindle-assembly checkpoint control (Chowdhury et al., 2023; Unknown Authors, 2022).  
+
+## Function  
+Expression is variable, with notable enrichment in brain and muscle, and dysregulation reported in several cancers (Pluta et al., 2024; Chowdhury et al., 2023).  
+• Anti-apoptotic role: phosphorylation of survivin Thr34 stabilises survivin, increases survivin and Bcl-2 levels, and suppresses caspase-3/-8/-9 activation and PARP cleavage, conferring resistance to TRAIL/TNFSF10-induced apoptosis (Park et al., 2014).  
+• Cell-cycle control: knock-down studies implicate CDK15 in maintaining spindle-assembly checkpoint integrity through interactions with SAC components (Unknown Authors, 2022).  
+
+## Other Comments  
+Over-expression correlates with TRAIL resistance and poor prognosis in multiple tumour types (Park et al., 2014; Chowdhury et al., 2023). The gene maps to a chromosomal region linked to amyotrophic lateral sclerosis 2, suggesting neurological relevance, although functional data are limited (Zhou et al., 2016). Disease-associated mutations have been noted but are sparsely characterised (Chowdhury et al., 2023; Pluta et al., 2024).  
+
+## References  
+Chowdhury, I., Dashi, G., & Keskitalo, S. (2023). CMGC kinases in health and cancer. Cancers, 15, 3838. https://doi.org/10.3390/cancers15153838  
+
+Park, M. H., Kim, S. Y., Kim, Y. J., & Chung, Y.-H. (2014). Als2cr7 (CDK15) attenuates TRAIL-induced apoptosis by inducing phosphorylation of survivin Thr34. Biochemical and Biophysical Research Communications, 450(1), 129–134. https://doi.org/10.1016/j.bbrc.2014.05.070  
+
+Pluta, A. J., Studniarek, C., Murphy, S., & Norbury, C. J. (2024). Cyclin-dependent kinases: Masters of the eukaryotic universe. WIREs RNA. https://doi.org/10.1002/wrna.1816  
+
+Pellarin, I., Dall’Acqua, A., Favero, A., Segatto, I., Rossi, V., Crestan, N., Karimbayli, J., Belletti, B., & Baldassarre, G. (2025). Cyclin-dependent protein kinases and cell cycle regulation in biology and disease. Signal Transduction and Targeted Therapy. https://doi.org/10.1038/s41392-024-02080-z  
+
+Unknown Authors. (2022). Ubiquitylation and phosphorylation regulate cell cycle progression (pp. 107–150).  
+
+Zhou, Y.-B., Shen, J. K., Hornicek, F., Kan, Q., & Duan, Z. (2016). The emerging roles and therapeutic potential of cyclin-dependent kinase 11 (CDK11) in human cancer. Oncotarget, 7, 40846–40859. https://doi.org/10.18632/oncotarget.8519

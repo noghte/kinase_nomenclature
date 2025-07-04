@@ -1,0 +1,58 @@
+## Phylogeny  
+WNK4 is one of four vertebrate “With-No-Lysine” serine/threonine kinases (WNK1-4) that form a distinct clade in the STE-like branch of the eukaryotic protein-kinase superfamily. Orthologues occur in mouse, rat, zebrafish (wnk4b), Xenopus and other vertebrates, underscoring strong conservation of the catalytic core (Min et al., 2004; Taylor & Cobb, 2022).  
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Min et al., 2004).  
+
+## Cofactor Requirements  
+Catalytic activity depends on divalent cations, with Mg²⁺ or Mn²⁺ supporting phosphoryl-transfer (Taylor & Cobb, 2022).  
+
+## Substrate Specificity  
+Kinome-wide profiling indicates a preference for basic residues at −3/−2, defining an R-X-X-S/T consensus motif. The C-terminal CCT/CCTL modules recognise the R-F-X-V/I motifs of downstream kinases SPAK and OSR1, facilitating hierarchical signal relay (Taylor & Cobb, 2022).  
+
+## Structure  
+• Modular organisation: N-terminal kinase domain (~aa 1–340); autoinhibitory PF2 region (~aa 490–550); acidic KLHL3-binding motif (aa 557–567); two coiled coils; CCTL1/2 interaction domains rich in PXXP motifs (Taylor & Cobb, 2022; Unknown Author, 2018).  
+• Catalytic fold: six-stranded β-sheet N-lobe with the catalytic lysine relocated to β-strand 2 (Lys233); activation-loop autophosphorylation site Ser335; DLG motif capped 3/10 helix forms a chloride-binding pocket that stabilises the inactive state (Min et al., 2004; Taylor & Cobb, 2022).  
+• Crystal structure of WNK1 (PDB 2VWN) aligns at ~80 % identity with WNK4 and defines the hydrophobic spine and C-helix orientation (Min et al., 2004).  
+
+## Regulation  
+• Autophosphorylation on Ser335 activates the kinase; high intracellular Cl⁻ binds the activation-loop pocket and blocks this event (Taylor & Cobb, 2022; Murthy et al., 2017).  
+• PKC and PKA phosphorylate conserved RRXS sites (e.g., Ser433, Ser1172, Ser1176), augmenting WNK4-mediated SPAK/OSR1 activation (Castañeda-Bueno et al., 2017).  
+• The CUL3–KLHL3 E3 ligase ubiquitinates lysines adjacent to the acidic 557-567 motif; KLHL3-Ser433 phosphorylation or WNK4 variants E559K, D561A or Q565E disrupt binding and stabilise WNK4 (Taylor & Cobb, 2022; Wang & Peng, 2017).  
+• Hyperosmotic stress converts an inactive WNK dimer into an active monomer, linking cell-volume changes to kinase activity (Taylor & Cobb, 2022).  
+
+## Function  
+WNK4 is highly expressed in distal convoluted and connecting tubules of the kidney, with additional enrichment in brain, pancreas, biliary ducts, epididymis and colon (Kahle et al., 2005; Taylor & Cobb, 2022). It phosphorylates and activates SPAK (STK39) and OSR1, which then phosphorylate SLC12A transporters NCC, NKCC1/2 and KCC2, thereby regulating NaCl reabsorption and cell-volume homeostasis (Ahlstrom & Yu, 2009; Richardson & Alessi, 2008). WNK4 also inhibits ROMK, modulates paracellular Cl⁻ permeability via claudins and influences TRPV4 trafficking; functional crosstalk with WNK1 fine-tunes NCC surface levels (Fu et al., 2006; Kahle et al., 2005).  
+
+## Inhibitors  
+WNK463 is a potent pan-WNK ATP-competitive inhibitor (WNK4 IC₅₀ ≈ 9 nM) that diminishes SPAK/OSR1 phosphorylation and lowers blood pressure in vivo. The compound exploits the enlarged ATP-binding cavity created by the relocated catalytic lysine, and structure-guided chemistry is refining isoform selectivity (Yamada et al., 2016; AlAmri et al., 2017; Jonniya & Kar, 2020).  
+
+## Other Comments  
+Missense mutations E559K, D561A and Q565E within the acidic KLHL3-binding motif cause autosomal-dominant pseudohypoaldosteronism type II by impairing WNK4 degradation (Kahle et al., 2005). Phosphorylation of KLHL3-Ser433 has a similar hypertensive outcome (Wang & Peng, 2017). Wnk4-null mice exhibit a Gitelman-like salt-wasting phenotype, confirming its essential role in renal electrolyte balance (Castañeda-Bueno et al., 2017).  
+
+## References  
+Ahlstrom, R., & Yu, A. S. L. (2009). Characterization of the kinase activity of a WNK4 protein complex. American Journal of Physiology-Renal Physiology, 297, F685–F692. https://doi.org/10.1152/ajprenal.00358.2009  
+
+AlAmri, M. A., Kadri, H., Dhiani, B. A., Mahmood, S., Elzwawi, A., & Mehellou, Y. (2017). WNK signalling inhibitors as potential antihypertensive drugs. ChemMedChem, 12, 1677–1686. https://doi.org/10.1002/cmdc.201700425  
+
+Castañeda-Bueno, M., Arroyo, J. P., Zhang, J., Puthumana, J., Yarborough, O., Shibata, S., … Lifton, R. P. (2017). Phosphorylation by PKC and PKA regulate the kinase activity and downstream signalling of WNK4. Proceedings of the National Academy of Sciences, 114, E879–E886. https://doi.org/10.1073/pnas.1620315114  
+
+Fu, Y., Subramanya, A., Rozansky, D., & Cohen, D. M. (2006). WNK kinases influence TRPV4 channel function and localization. American Journal of Physiology-Renal Physiology, 290, F1305–F1314. https://doi.org/10.1152/ajprenal.00391.2005  
+
+Kahle, K., Wilson, F. H., & Lifton, R. (2005). Regulation of diverse ion transport pathways by WNK4 kinase: a novel molecular switch. Trends in Endocrinology & Metabolism, 16, 98–103. https://doi.org/10.1016/j.tem.2005.02.012  
+
+Min, X., Lee, B.-H., Cobb, M. H., & Goldsmith, E. J. (2004). Crystal structure of the kinase domain of WNK1, a kinase that causes a hereditary form of hypertension. Structure, 12, 1303–1311. https://doi.org/10.1016/j.str.2004.04.014  
+
+Murthy, M., Kurz, T., & O’Shaughnessy, K. M. (2017). WNK signalling pathways in blood pressure regulation. Cellular and Molecular Life Sciences, 74, 1261–1280. https://doi.org/10.1007/s00018-016-2402-z  
+
+Richardson, C., & Alessi, D. (2008). The regulation of salt transport and blood pressure by the WNK-SPAK/OSR1 signalling pathway. Journal of Cell Science, 121, 3293–3304. https://doi.org/10.1242/jcs.029223  
+
+Taylor, C. A., & Cobb, M. H. (2022). CCT and CCT-like modular protein interaction domains in WNK signalling. Molecular Pharmacology, 101, 201–212. https://doi.org/10.1124/molpharm.121.000307  
+
+Unknown Author. (2018). Discovery of WNK-SPAK/OSR1 signalling inhibitors as potential therapeutics.  
+
+Wang, L., & Peng, J.-B. (2017). Phosphorylation of KLHL3 at serine 433 impairs its interaction with the acidic motif of WNK4: A molecular dynamics study. Protein Science. https://doi.org/10.1002/pro.3063  
+
+Yamada, K., Park, H.-M., Rigel, D. F., DiPetrillo, K., Whalen, E. J., Anisowicz, A., … Monovich, L. (2016). Small-molecule WNK inhibition regulates cardiovascular and renal function. Nature Chemical Biology, 12, 896–898. https://doi.org/10.1038/nchembio.2168  
+
+Jonniya, N. A., & Kar, P. (2020). Investigating specificity of the anti-hypertensive inhibitor WNK463 against With-No-Lysine kinase family isoforms via multiscale simulations. Journal of Biomolecular Structure and Dynamics, 38, 1306–1321. https://doi.org/10.1080/07391102.2019.1602079

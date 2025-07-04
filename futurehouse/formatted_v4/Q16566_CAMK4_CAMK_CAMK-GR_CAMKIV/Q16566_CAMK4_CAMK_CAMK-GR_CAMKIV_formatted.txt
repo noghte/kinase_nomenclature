@@ -1,0 +1,50 @@
+## Phylogeny  
+CaMKIV clusters within the monomeric CaMKI/IV subgroup of the Ca²⁺/calmodulin-dependent kinase (CaMK) family and is clearly separated from the multimeric CaMKII enzymes (Bayer & Schulman, 2019). Orthologues are reported in at least 69 species spanning animals, fungi and plants, underscoring strong evolutionary conservation (Naz et al., 2016). The human CAMK4 gene resides at chromosome 5q21.3, a locus that is syntenically conserved throughout vertebrates (Naz et al., 2016). In Ca²⁺/CaM signalling cascades, CaMKIV acts downstream of CaMKK1/2 and in parallel with CaMKI isoforms, reflecting their shared ancestry (Beghi et al., 2022).
+
+## Reaction Catalyzed  
+ATP + protein L-serine/threonine ⇌ ADP + protein L-serine/threonine-phosphate (Naz et al., 2016).
+
+## Cofactor Requirements  
+Full activity requires Ca²⁺/calmodulin to relieve autoinhibition and Mg²⁺ for ATP coordination (Beghi et al., 2022; Santiago et al., 2018).
+
+## Substrate Specificity  
+CaMKIV prefers the consensus Hyd-X-Arg-X-X-Ser/Thr, favouring a hydrophobic residue at –3 and Arg at –2 relative to the phosphoacceptor. This motif has been validated with CREB and synapsin peptides (Corcoran & Means, 2001; Naz et al., 2016).
+
+## Structure  
+The 473-residue monomer consists of:  
+(i) catalytic domain (46–300) harbouring Lys75, Asp164 and the 52-LGRGATSIV-60 nucleotide-binding motif;  
+(ii) overlapping autoinhibitory and PP2A-binding segment (305–323);  
+(iii) CaM-binding helix (322–341);  
+(iv) N-terminal Ser12/Ser13 autophosphorylation region;  
+(v) short C-terminal tail (Beg et al., 2019).  
+The crystal structure of the kinase domain (PDB 2W4O) adopts a canonical bilobal fold with 13 α-helices and 8 β-strands; phosphorylation of Thr196 (Thr200 in full-length) aligns the αC-helix and completes the regulatory spine (Naz et al., 2016). In the basal state, the His305–Lys321 helix occludes the active site and is displaced upon Ca²⁺/CaM binding (Naz et al., 2016). A hydrophobic pocket adjacent to the hinge accommodates ATP-competitive inhibitors identified by virtual screening (Beg et al., 2019).
+
+## Regulation  
+• Ca²⁺/CaM binding to residues 322–341 dislodges the autoinhibitory helix and initiates basal activity (Naz et al., 2016).  
+• CaMKK1/2 phosphorylate Thr196/Thr200, increasing catalytic efficiency 10–20-fold (Beghi et al., 2022).  
+• Autophosphorylation at Ser12/Ser13 sustains Ca²⁺-independent activity (Naz et al., 2016).  
+• PP2A docks to residues 306–323, removes the Thr200 phosphate and inactivates the kinase; PP2A binding is mutually exclusive with CaM (Naz et al., 2016).  
+• O-GlcNAcylation at Thr57/Ser58, Ser137, Ser189, Ser344/345 and Ser356 lowers Thr200 phosphorylation and suppresses activity (Naz et al., 2016).  
+• PKA-mediated Ser458 phosphorylation of CaMKK1 limits Thr200 phosphorylation, integrating cAMP and Ca²⁺ signals (Beghi et al., 2022).
+
+## Function  
+Expression is high in hippocampus, cerebellar granule cells, cortex, CD4⁺ T cells, testis and sperm flagella, with lower levels in pancreatic β-cells and dendritic cells (Beg et al., 2019; Naz et al., 2016). Upstream activators are CaMKK1/2, and PP2A provides opposing phosphatase activity (Beghi et al., 2022; Naz et al., 2016). Nuclear CaMKIV phosphorylates CREB1 (Ser133), MEF2D, JUN and RORα, thereby regulating genes involved in cytokine production (IL-2, IFN-γ, IL-4), dendritic-cell survival (BCL2), osteoclast differentiation (NFATc1) and synaptic plasticity (BDNF) (Corcoran & Means, 2001; Naz et al., 2016; Beg et al., 2019). Camk4 deletion elevates blood pressure, enlarges cerebral infarcts and impairs spatial memory, highlighting cardiovascular and neuroprotective roles (Beghi et al., 2022).
+
+## Inhibitors  
+KN-62 (IC₅₀ ≈ 1 µM) and KN-93 (IC₅₀ ≈ 0.4 µM) inhibit CaMKIV but also target CaMKI/II (Naz et al., 2016). Additional low-micromolar ATP-competitive inhibitors include (2S,4S)-α-campholinic acid, 3-{[(3S)-3,4-dihydroxybutyl]oxy}amino-1H,2’H-2,3’-biindol-2’-one, and 5-amino-3-{[4-(aminosulfonyl)phenyl]amino}-N-(2,6-difluorophenyl)-1H-1,2,4-triazole-1-carbothioamide (Naz et al., 2016). Virtual high-throughput screening has also identified natural-product derivatives that stably occupy the ATP pocket (Beg et al., 2019).
+
+## Other Comments  
+CAMK4 over-expression or hyperactivation is reported in small-cell lung, hepatocellular and epithelial ovarian cancers (Beg et al., 2019; Naz et al., 2016). Enhanced CaMKIV signalling in T cells contributes to systemic lupus erythematosus, and pharmacological inhibition mitigates disease in models (Naz et al., 2016). The hypertensive risk allele rs10491334 lowers CAMK4 expression, and Camk4-null mice display sterility and memory deficits, underscoring broad physiological importance (Beghi et al., 2022; Naz et al., 2016).
+
+## 9. References  
+Bayer, K. U., & Schulman, H. (2019). CaM kinase: Still inspiring at 40. Neuron, 103(3), 380–394. https://doi.org/10.1016/j.neuron.2019.05.033  
+
+Beghi, S., Furmanik, M., Jaminon, A., Veltrop, R., Rapp, N., Wichapong, K., Bidar, E., Buschini, A., & Schurgers, L. (2022). Calcium signalling in heart and vessels: Role of calmodulin and downstream calmodulin-dependent protein kinases. International Journal of Molecular Sciences, 23(24), 16139. https://doi.org/10.3390/ijms232416139  
+
+Beg, A., Khan, F. I., Lobb, K. A., Islam, A., Ahmad, F., & Hassan, M. I. (2019). High-throughput screening, docking, and molecular dynamics studies to identify potential inhibitors of human calcium/calmodulin-dependent protein kinase IV. Journal of Biomolecular Structure and Dynamics, 37(8), 2179–2192. https://doi.org/10.1080/07391102.2018.1479310  
+
+Corcoran, E., & Means, A. R. (2001). Defining Ca²⁺/calmodulin-dependent protein kinase cascades in transcriptional regulation. The Journal of Biological Chemistry, 276(4), 2975–2978. https://doi.org/10.1074/jbc.R000027200  
+
+Naz, H., Islam, A., Ahmad, F., & Hassan, M. I. (2016). Calcium/calmodulin-dependent protein kinase IV: A multifunctional enzyme and potential therapeutic target. Progress in Biophysics and Molecular Biology, 121(1), 54–65. https://doi.org/10.1016/j.pbiomolbio.2015.12.016  
+
+Santiago, A. S., Couñago, R., Ramos, P. Z., Godoi, P., Massirer, K., Gileadi, O., & Elkins, J. (2018). Structural analysis of inhibitor binding to CAMKK1 identifies features necessary for design of specific inhibitors. Scientific Reports, 8, 121. https://doi.org/10.1038/s41598-018-33043-4

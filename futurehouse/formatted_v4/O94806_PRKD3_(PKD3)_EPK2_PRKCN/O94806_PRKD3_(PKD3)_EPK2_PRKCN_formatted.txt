@@ -1,0 +1,54 @@
+## Phylogeny  
+PRKD3 is one of three vertebrate Protein Kinase D paralogs. It branches earlier than PKD1 and PKD2, forming a distinct lineage within the family (Reinhardt et al., 2020, pp. 1-3). In the Manning kinome, all PKDs, including PRKD3, are allocated to the CAMK group, PKD subfamily (Reinhardt et al., 2020, pp. 1-3). A large-scale multi-omics study instead assigns PRKD3 to the AGC kinase group, underscoring a classification discrepancy (Unknown Authors, 2021, pp. 19-25). No curated list of non-mammalian orthologs is provided (Reinhardt et al., 2020, pp. 1-3).
+
+## Reaction Catalyzed  
+protein-Ser/Thr + ATP ⇌ protein-Ser/Thr-phosphate + ADP (Unknown Authors, 2021, pp. 19-25).
+
+## Cofactor Requirements  
+Catalytic turnover requires ATP and a divalent metal ion, typically Mg²⁺ (Zhang et al., 2021, pp. 1-2).
+
+## Substrate Specificity  
+PRKD3 preferentially phosphorylates serine/threonine residues located in the consensus sequence LXRXXpS/pT (Unknown Authors, 2024a, pp. 37-41).
+
+## Structure  
+• Modular organization: N-terminal ubiquitin-like dimerization domain (ULD) → tandem C1 domains (C1a, C1b) that bind diacylglycerol (DAG) → pleckstrin-homology (PH) domain → C-terminal bilobal kinase domain (Reinhardt et al., 2020, pp. 3-4).  
+• The ULD mediates homodimerization via a conserved phenylalanine essential for activation-loop trans-autophosphorylation (Reinhardt et al., 2020, pp. 3-4).  
+• C1a supplies high-affinity DAG sensing and membrane recruitment; lipid binding is modulated by surrounding phosphatidylserine (Reinhardt et al., 2020, pp. 8-10).  
+• The PH domain resembles DAPP1/TAPP1 PH domains but binds lipids weakly on its own, suggesting additional partners are required for stable membrane residence (Reinhardt et al., 2020, pp. 3-4).  
+• The kinase domain contains the catalytic Lys, HRD and DFG motifs, a conserved regulatory spine, and a Chk2-like activation loop with Ser731, Ser738 and Ser742 (Unknown Authors, 2024a, pp. 37-41).  
+• PRKD3 lacks the C-terminal PDZ-binding motif found in PKD1/2, indicating divergent scaffold interactions (Reinhardt et al., 2020, pp. 5-7).
+
+## Regulation  
+• Activation-loop phosphorylation on Ser731, Ser738 and Ser742 is introduced by trans-autophosphorylation within the ULD-mediated dimer and/or by upstream PKC isoforms, switching the kinase to an active conformation (Unknown Authors, 2024a, pp. 37-41; Reinhardt et al., 2020, pp. 3-4).  
+• Additional sites include Ser910 (autophosphorylation) and Tyr749; both influence catalytic output, though their full physiological roles remain unresolved (Unknown Authors, 2024c, pp. 37-41).  
+• DAG binding to the C1 domains relieves autoinhibition and promotes membrane localization required for activation-loop phosphorylation (Reinhardt et al., 2020, pp. 1-3).  
+• Certain ATP-competitive inhibitors paradoxically enhance membrane translocation and phosphorylation, illustrating tight allosteric coupling between the active site and regulatory modules (Reinhardt et al., 2020, pp. 5-7).
+
+## Function  
+PRKD3 is broadly expressed but markedly enriched in triple-negative breast cancer (TNBC) cells, where it localizes to endolysosomal compartments (Unknown Authors, 2024a, pp. 37-41). Upstream activation is driven by DAG generated downstream of GPCR- or RTK-stimulated phospholipase C, frequently involving PKC family kinases (Reinhardt et al., 2020, pp. 1-3). Verified substrates include PI4KIIIβ and CERT (lipid transport at the trans-Golgi network), cortactin and SSH1L (actin dynamics), and class II HDACs (gene transcription) (Unknown Authors, 2024b, pp. 37-41). PRKD3 supports NF-κB activation under oxidative stress, regulates vesicle trafficking, cell migration and lysosomal homeostasis, and interacts with Rabaptin-5 to couple activity to endocytic pathways (Unknown Authors, 2024a, pp. 37-41).
+
+## Inhibitors  
+• First-generation ATP-competitive scaffold: bisindolylmaleimide Ro 31-8220 inhibits all PKDs with limited selectivity (Reinhardt et al., 2020, pp. 5-7).  
+• Second-generation compounds CRT0066101, CRT0066051 and pyrazolopyrimidine 3-IN-PP1 show nanomolar IC₅₀ values against PRKD3 but still inhibit other PKD isoforms (Wang & Wipf, 2022, pp. 6-8).  
+• Amidobipyridyl analogues and CID755673 derivatives are under development to improve potency and pharmacokinetics, though comprehensive PRKD3 selectivity data remain scarce (Wang & Wipf, 2022, pp. 14-17).  
+• Phorbol-ester DAG mimetics bind the C1 domains and may acutely activate or induce prolonged desensitization of PRKD3 depending on exposure (Gilles et al., 2021, pp. 1-3).
+
+## Other Comments  
+Over-expression and altered localization of PRKD3 drive TNBC progression by sustaining lysosomal function and invasive migration (Unknown Authors, 2024a, pp. 37-41). Mutation of the conserved ULD phenylalanine disrupts dimerization and abolishes activation, explaining potential loss-of-function variants (Reinhardt et al., 2020, pp. 3-4). Dysregulated PRKD3 activity also contributes to oxidative-stress resistance and broader oncogenic signaling (Zhang et al., 2021, pp. 1-2).
+
+## 9. References  
+Gilles, P., Voets, L., Van Lint, J., & De Borggraeve, W. M. (2021). Developments in the discovery and design of protein kinase D inhibitors. ChemMedChem, 16, 2158–2171. https://doi.org/10.1002/cmdc.202100110  
+
+Reinhardt, R., Truebestein, L., Schmidt, H. A., & Leonard, T. A. (2020). It takes two to tango: activation of protein kinase D by dimerization. BioEssays. https://doi.org/10.1002/bies.201900222  
+
+Unknown Authors. (2021). Integrative analysis of multi-omics kinome data and virtual screening of identified targets with pan-cancer application.  
+
+Unknown Authors. (2024a). PKD3 localizes to the endolysosomal compartment and maintains lysosomal homeostasis in TNBC.  
+
+Unknown Authors. (2024b). PKD3 localizes to the endolysosomal compartment and maintains lysosomal homeostasis in TNBC.  
+
+Unknown Authors. (2024c). PKD3 localizes to the endolysosomal compartment and maintains lysosomal homeostasis in TNBC.  
+
+Wang, Q. J., & Wipf, P. (2022). Small molecule inhibitors of protein kinase D: early development, current approaches, and future directions. Journal of Medicinal Chemistry, 66, 122–139. https://doi.org/10.1021/acs.jmedchem.2c01599  
+
+Zhang, X., Connelly, J., Chao, Y., & Wang, Q. J. (2021). Multifaceted functions of protein kinase D in pathological processes and human diseases. Biomolecules, 11, 483. https://doi.org/10.3390/biom11030483

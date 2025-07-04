@@ -1,0 +1,66 @@
+## Phylogeny  
+STK33 orthologs are found in Homo sapiens (UniProt Q9BYT3) and Mus musculus; deletion in mice causes male infertility (Ku et al., 2024). A more ancient ortholog is present in the sea-anemone genome, indicating that the lineage arose ≥ 700 Myr ago (Goyal et al., 2009). Sequence analyses place the catalytic domain within the Ca²⁺/calmodulin-dependent protein-kinase (CAMK) group, yet the protein lacks the canonical CaM-binding and C-terminal regulatory regions, defining it as an atypical CAMK-group kinase (Mujica et al., 2001). Large-scale kinome surveys corroborate CAMK placement but show that STK33 forms a discrete clade outside established CaMK subfamilies (Bradham et al., 2006). The closest vertebrate paralog, STK35L1, shares ~28 % catalytic-domain identity and arose later in evolution, underscoring early divergence of the STK33 branch (Goyal et al., 2009).  
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr ⇌ ADP + protein-L-O-phospho-Ser/Thr (Babij et al., 2011).  
+
+## Cofactor Requirements  
+Kinase assays employ standard Ser/Thr-kinase buffers with ATP; specific divalent-cation requirements have not been reported (Babij et al., 2011).  
+
+## Substrate Specificity  
+• Phosphorylates sperm fibrous-sheath proteins AKAP3 and AKAP4 during spermatogenesis (Ku et al., 2024).  
+• Targets the N-terminal head domain of vimentin (Chen & Li, 2016).  
+• In vitro, efficiently phosphorylates a p70S6K-derived peptide, whereas histone H3, MBP and PLK-derived peptides are not modified under identical conditions (Babij et al., 2011).  
+A global consensus motif has not been defined and systematic substrate-atlas data are currently unavailable.  
+
+## Structure  
+The protein consists solely of a classical bi-lobed Ser/Thr kinase domain (Ku et al., 2024). A 2.7 Å crystal structure of the human catalytic domain bound to inhibitor CDD-2211 (PDB 8VF6) reveals two monomers per asymmetric unit that form a segment-exchange dimer in which activation-loop residues 273–283 of one protomer dock onto helices αE/αG of the partner (Ku et al., 2024). Canonical catalytic motifs (VAIK Lys145, HRD triad, DFG) are intact (Babij et al., 2011). The activation loop is partly disordered yet participates in dimerization; no CaM-binding helix or C-terminal autoregulatory tail is present, consistent with sequence analysis (Mujica et al., 2001).  
+
+## Regulation  
+• Autophosphorylates on Ser/Thr residues; precise sites remain unmapped (Chen & Li, 2016).  
+• HSP90 chaperoning maintains protein stability under hypoxia, sustaining HIF-1α/VEGF signalling (Liu et al., 2017).  
+• NFYB transcriptionally up-regulates STK33, contributing to chemoresistance in diffuse large B-cell lymphoma (Feng et al., 2021).  
+• One study reports Ca²⁺/calmodulin-dependent activation (Chen & Li, 2016); however, the absence of a CaM-binding sequence challenges this mechanism (Mujica et al., 2001).  
+
+## Function  
+Expression is highest in testis, particularly in spermatogenic epithelium; lower levels occur in lung epithelium, alveolar macrophages, retinal horizontal cells and embryonic neural tissue (Chen & Li, 2016).  
+• Reproduction: essential for spermatid differentiation and flagellar assembly via phosphorylation of AKAP3/AKAP4; knockout males are infertile (Ku et al., 2024).  
+• Cytoskeleton: phosphorylation of vimentin modulates intermediate-filament dynamics (Chen & Li, 2016).  
+• Oncogenic signalling:  
+  – Activates PI3K/AKT/mTOR to promote proliferation and survival in pancreatic neuroendocrine tumours (Zhou et al., 2020).  
+  – Drives EMT, invasion and p38-MAPK activation in large-cell lung cancer (Wang et al., 2015).  
+  – Supports hypoxia-induced HIF-1α/VEGF angiogenic programmes via HSP90 (Liu et al., 2017).  
+  – Enhances RPS6/BAD and ERK pathways, mediating cisplatin resistance (Feng et al., 2021).  
+KRAS-synthetic-lethality screens were not confirmed; STK33 is dispensable for viability of KRAS-mutant cell lines (Babij et al., 2011).  
+
+## Inhibitors  
+• CDD-2211: sub-nanomolar ATP-site inhibitor; co-crystal structure available (Ku et al., 2024).  
+• ML280: IC₅₀ ≈ 0.27 µM with high kinase selectivity (Unknown Authors, 2014).  
+• ML281: IC₅₀ ≈ 0.014 µM, improved potency over ML280 (Unknown Authors, 2014).  
+• Additional HTS compounds with IC₅₀ < 10 nM have been reported (Babij et al., 2011).  
+
+## Other Comments  
+Loss of STK33 causes male infertility in mice (Ku et al., 2024). Elevated expression correlates with advanced stage, tumour size, lymph-node metastasis and reduced disease-free survival in pancreatic neuroendocrine tumours; over-expression also promotes progression of large-cell lung carcinoma and cisplatin resistance in diffuse large B-cell lymphoma (Wang et al., 2015; Zhou et al., 2020; Feng et al., 2021).  
+
+## 9. References  
+Babij, C., Zhang, Y., Kurzeja, R., Mü​nzli, A., Shehabeldin, A., Fernando, M. A., … Dussault, I. (2011). STK33 kinase activity is nonessential in KRAS-dependent cancer cells. Cancer Research, 71(17), 5818–5826. https://doi.org/10.1158/0008-5472.CAN-11-0778  
+
+Bradham, C. A., Foltz, K. R., Beane, W. S., Arnone, M. I., Rizzo, F., Coffman, J. A., … Manning, G. (2006). The sea urchin kinome: a first look. Developmental Biology, 300, 180–193. https://doi.org/10.1016/j.ydbio.2006.08.074  
+
+Chen, C., & Li, J. (2016). Research progress of STK33 in cancer biology. *Journal unknown*. https://doi.org/10.23937/2469-5807/1510028  
+
+Feng, L., Xu, X., & Zhao, K. (2021). NFYB potentiates STK33 activation to promote cisplatin resistance in diffuse large B-cell lymphoma. Leukemia Research, 111, 106708. https://doi.org/10.1016/j.leukres.2021.106708  
+
+Goyal, P., Behring, A., Kumar, A., & Siess, W. (2009). Identifying and characterizing a novel protein kinase STK35L1 and deciphering its orthologs and close homologs in vertebrates. PLoS ONE, 4, e6981. https://doi.org/10.1371/journal.pone.0006981  
+
+Ku, A. F., Sharma, K. L., Ta, H. M., Sutton, C. M., Bohren, K. M., Wang, Y., … Matzuk, M. M. (2024). Reversible male contraception by targeted inhibition of serine/threonine kinase 33. Science, 384, 885–890. https://doi.org/10.1126/science.adl2688  
+
+Liu, Y., Steinestel, K., Rouhi, A., Armacki, M., Diepold, K., Chiosis, G., … Azoitei, N. (2017). STK33 participates in the HSP90-supported angiogenic program in hypoxic tumors by regulating the HIF-1α/VEGF signalling pathway. Oncotarget, 8, 77474–77488. https://doi.org/10.18632/oncotarget.20535  
+
+Mujica, A., Hankeln, T., & Schmidt, E. (2001). A novel serine/threonine kinase gene, STK33, on human chromosome 11p15.3. Gene, 280(1-2), 175–181. https://doi.org/10.1016/S0378-1119(01)00780-6  
+
+Unknown Authors. (2014). Screen for inhibitors of STK33 kinase activity. *Unpublished report*.  
+
+Wang, P., Cheng, H., Wu, J., Yan, A., & Zhang, L. (2015). STK33 plays an important positive role in the development of human large-cell lung cancers with variable metastatic potential. Acta Biochimica et Biophysica Sinica, 47(3), 214–223. https://doi.org/10.1093/abbs/gmu136  
+
+Zhou, B., Xiang, J., Zhan, C., Liu, J., & Yan, S. (2020). STK33 promotes the growth and progression of human pancreatic neuroendocrine tumour via activation of the PI3K/AKT/mTOR pathway. Neuroendocrinology, 110, 307–320. https://doi.org/10.1159/000501829

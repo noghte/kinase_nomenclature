@@ -1,0 +1,42 @@
+Phylogeny  
+Member of the CMGC group (transcriptional CDK subfamily). The activation-loop Thr186 is conserved in Homo sapiens, Mus musculus, Gallus gallus, Xenopus laevis and Caenorhabditis elegans (Baumli et al., 2008). Functional orthologues include Bur1 (Saccharomyces cerevisiae), Cdk9/Pch1 (Schizosaccharomyces pombe), Drosophila Cdk9, Danio rerio cdk9 and Arabidopsis CDKC, all retaining the PITALRE signature (Albert et al., 2014).
+
+Reaction Catalyzed  
+ATP + [protein]-Ser/Thr ⇌ ADP + [protein]-O-phospho-Ser/Thr (Baumli et al., 2008).
+
+Cofactor Requirements  
+Mg²⁺, coordinated by the conserved Asp167 of the DFG motif (Baumli et al., 2008).
+
+Substrate Specificity  
+Recognises Ser/Thr-Pro sites within the Y¹S²P³T⁴S⁵P⁶S⁷ heptad of the RNA-polymerase II CTD and within the SPT5 C-terminal repeats (Baumli et al., 2008). P-TEFb shows highest activity toward CTD Ser5 or Ser2 when the repeat is pre-phosphorylated at Ser7 or contains a Lys7 substitution (Itzen et al., 2014).
+
+Structure  
+Adopts the canonical bilobal kinase fold with a Gly-rich loop and αC helix in the N-lobe, HRD and DFG motifs in the C-lobe, and a 20-residue activation loop centred on Thr186 (Baumli et al., 2008). The active CDK9–Cyclin T1 structure (PDB 3BLQ) reveals an atypical rotation of Cyclin T1 and an additional N-terminal helix (HN) stabilising the interface. The C-terminal tail (residues 330-372) folds over the ATP pocket; Phe336 and Glu337 enforce an ordered mechanism in which ATP binds first and ADP leaves last (Paparidis et al., 2017). Flavopiridol occupies the ATP site and anchors to the hinge region in the inhibitor-bound complex (Baumli et al., 2008).
+
+Regulation  
+• Post-translational modification: Thr186 autophosphorylation is essential for activity; T186A abolishes CTD phosphorylation (Baumli et al., 2008). Ser175 phosphorylation and Lys44 acetylation fine-tune activity, whereas PP1 and PP2A remove the activation-loop phosphate (Albert et al., 2014).  
+• Complex control: ~50 % of cellular CDK9 resides in an inactive 7SK snRNP with HEXIM1. Brd4 PID binds CDK9, displaces HEXIM1 and doubles CTD kinase activity (Itzen et al., 2014). HIV-1 Tat engages Cyclin T1, further stimulating CDK9 toward CTD substrates (Itzen et al., 2014).
+
+Function  
+Forms the core of Positive Transcription Elongation Factor-b (P-TEFb) with Cyclin T1/T2. Phosphorylates POLR2A CTD, DSIF (SPT5) and NELF to release promoter-proximal pausing and promote productive elongation (Albert et al., 2014; Itzen et al., 2014). Two isoforms are generated from alternative promoters: CDK9p42 (nucleoplasmic) and CDK9p55 (nucleolar) (Mandal et al., 2021). The kinase is essential for cell viability; its inhibition preferentially suppresses transcription of short-lived anti-apoptotic mRNAs and triggers tumour-cell apoptosis (Albert et al., 2014).
+
+Inhibitors  
+Flavopiridol (broad-spectrum CDK inhibitor; structure with CDK9/Cyclin T1 at 2.8 Å) (Baumli et al., 2008).  
+LDC000067 (ATP-competitive, >30-fold selectivity for CDK9) (Albert et al., 2014).  
+Zotiraciclib (multi-kinase inhibitor that blocks CDK9-dependent CTD phosphorylation and is cytotoxic in glioblastoma models) (Ranjan et al., 2021).
+
+Other Comments  
+Over-expression or hyper-activation of CDK9 sustains survival of glioblastoma, leukaemia and other solid tumours by maintaining MCL-1 and MYC transcription; pharmacological blockade induces apoptosis and metabolic stress (Ranjan et al., 2021). Conservation of activation-loop Thr186 across metazoans and plants highlights an ancient requirement for this modification in transcriptional CDKs (Baumli et al., 2008).
+
+9. References  
+Albert, T., Rigault, C., Eickhoff, J., Baumgart, K., Antrecht, C., Klebl, B., Mittler, G., & Meisterernst, M. (2014). Characterization of molecular and cellular functions of the cyclin-dependent kinase CDK9 using a novel specific inhibitor. British Journal of Pharmacology. https://doi.org/10.1111/bph.12408  
+
+Baumli, S., Lolli, G., Lowe, E., Troiani, S., Rusconi, L., Bullock, A., Debreczeni, J., Knapp, S., & Johnson, L. (2008). The structure of P-TEFb (CDK9/Cyclin T1), its complex with flavopiridol and regulation by phosphorylation. The EMBO Journal. https://doi.org/10.1038/emboj.2008.121  
+
+Itzen, F., Greifenberg, A. K., Bösken, C. A., & Geyer, M. (2014). Brd4 activates P-TEFb for RNA polymerase II CTD phosphorylation. Nucleic Acids Research, 42, 7577–7590. https://doi.org/10.1093/nar/gku449  
+
+Mandal, R., Becker, S., & Strebhardt, K. (2021). Targeting CDK9 for anti-cancer therapeutics. Cancers, 13, 2181. https://doi.org/10.3390/cancers13092181  
+
+Paparidis, N. F. d. S., Durvale, M. C., & Canduri, F. (2017). The emerging picture of CDK9/P-TEFb: More than 20 years of advances since PITALRE. Molecular BioSystems, 13, 246–276. https://doi.org/10.1039/c6mb00387g  
+
+Ranjan, A., Pang, Y., Butler, M. K., Merchant, M., Kim, O., Yu, G., Su, Y.-T., Gilbert, M., Levens, D., & Wu, J. (2021). Targeting CDK9 for the treatment of glioblastoma. Cancers, 13, 3039. https://doi.org/10.3390/cancers13123039

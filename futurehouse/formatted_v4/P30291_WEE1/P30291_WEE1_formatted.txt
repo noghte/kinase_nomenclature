@@ -1,0 +1,62 @@
+## Phylogeny  
+Human WEE1 belongs to the Wee1 family within the “Other” group of the kinome according to Manning et al. (Fu et al., 2018; Hamer et al., 2011; Esposito et al., 2021). Other reports place it in either the tyrosine-kinase-like (TKL) or CMGC groups (Esposito et al., 2021; Geenen & Schellens, 2017; Moiseeva et al., 2019). Although WEE1 phosphorylates tyrosine, its catalytic domain is serine/threonine-kinase-like, implying evolutionary divergence from that lineage (Esposito et al., 2021; Hamer et al., 2011). Orthologs are conserved across eukaryotes, including *Schizosaccharomyces pombe* (wee1) and *Saccharomyces cerevisiae* (SWE1) (Fu et al., 2018; Hamer et al., 2011). Human paralogs include PKMYT1 and WEE1B; the related kinase MIK1 is found in fission yeast (Fu et al., 2018; Rorà et al., 2020; Esposito et al., 2021).
+
+## Reaction Catalyzed  
+ATP + Cyclin B1–CDK1 → ADP + Cyclin B1–CDK1-[pTyr15] (Esposito et al., 2021; Moiseeva et al., 2019).  
+Overall: ATP-dependent transfer of the γ-phosphate to a substrate tyrosine residue (Esposito et al., 2021; Moiseeva et al., 2019).
+
+## Cofactor Requirements  
+Mg²⁺ is essential for catalysis, coordinating ATP in the active site (Elbæk et al., 2020; Esposito et al., 2021; Moiseeva et al., 2019).
+
+## Substrate Specificity  
+• Principal targets: CDK1 and CDK2 on Tyr15; some evidence for CDK1 Thr14 (Do et al., 2013; Fu et al., 2018).  
+• Additional substrate: histone H2B Tyr37 (Fu et al., 2018; Esposito et al., 2021).  
+• Peptide-array profiling groups WEE1 into a “Non-canonical (WEE)” cluster with atypical sequence preferences; a position-specific scoring matrix spanning −5 to +5 around the phosphotyrosine was reported (Yaron-Barir et al., 2024).
+
+## Structure  
+WEE1 comprises an N-terminal regulatory region (phospho-degrons Ser53, Ser123; nuclear-localization signal; three PEST motifs), a central kinase domain with canonical C-helix and activation loop, and a short C-terminal region containing Ser642 (14-3-3 docking site) (Esposito et al., 2021; Elbæk et al., 2020; Moiseeva et al., 2019). Crystal structures of the kinase domain include PDB IDs 1JXD, 1X8B, 3BI6, 4FX3-5, and 6O6E (Elbæk et al., 2020; Moiseeva et al., 2019; Geenen & Schellens, 2017). High-confidence AlphaFold models supplement experimental data (Elbæk et al., 2020; Esposito et al., 2021).
+
+## Regulation  
+Transcriptional control: repressed by KLF2 and miR-195 (Elbæk et al., 2020).  
+Post-translational modifications  
+• Phosphorylation:  
+ – Ser53/Ser123 by CDK1 and PLK1 triggers degradation (Esposito et al., 2021; Hamer et al., 2011; Rorà et al., 2020).  
+ – DNA-damage-induced CHK1 phosphorylation enhances activity (Fu et al., 2018).  
+ – AKT phosphorylates Ser642, promoting 14-3-3 binding and cytoplasmic sequestration (Fu et al., 2018).  
+• Ubiquitination: SCFβ-TrCP1/2 and SCF-Tome-1 ligases target phosphorylated WEE1 for proteasomal degradation (Elbæk et al., 2020; Rorà et al., 2020; Esposito et al., 2021).  
+Protein interactions: HSP90 and MIG6 stabilize WEE1; 14-3-3 binding to pSer642 increases stability and interphase activity (Elbæk et al., 2020; Esposito et al., 2021; Fu et al., 2018).
+
+## Function  
+Key nuclear kinase that enforces G2/M and S-phase checkpoints (Esposito et al., 2021; Elbæk et al., 2020).  
+Upstream signaling: ATM/ATR activate CHK1, which in turn activates WEE1 (Geenen & Schellens, 2017).  
+Downstream targets: CDK1 and CDK2 are inhibited via Tyr15 phosphorylation; CDC25 phosphatases reverse this inhibition (Do et al., 2013; Rorà et al., 2020; Fu et al., 2018).  
+Pathway roles:  
+• G2 DNA-damage checkpoint—suppresses Cyclin B1–CDK1 to allow repair (Esposito et al., 2021; Hamer et al., 2011).  
+• S-phase—modulates CDK2 to stabilize replication forks (Esposito et al., 2021; Rorà et al., 2020).  
+• Epigenetic—phosphorylation of histone H2B Tyr37 represses histone gene transcription (Fu et al., 2018; Esposito et al., 2021).
+
+## Inhibitors  
+• Adavosertib (AZD1775/MK-1775): potent, selective ATP-competitive inhibitor; abrogates G2 checkpoint and induces mitotic catastrophe, especially in p53-deficient cancers (Geenen & Schellens, 2017; Hamer et al., 2011).  
+• PROTACs: under investigation for targeted WEE1 degradation (Elbæk et al., 2020).
+
+## Other Comments  
+WEE1 dysregulation is frequent in glioblastoma, ovarian, colorectal, and breast cancers and generally associates with poor prognosis; some studies also link down-regulation to adverse outcomes (Fu et al., 2018; Geenen & Schellens, 2017; Esposito et al., 2021). p53-mutant tumors rely heavily on the WEE1-mediated G2 checkpoint, creating a therapeutic vulnerability (Elbæk et al., 2020; Geenen & Schellens, 2017). Mouse WEE1 knockout causes embryonic lethality, underscoring its essential role (Esposito et al., 2021).
+
+## 9. References  
+Do, K., Doroshow, J. H., & Kummar, S. (2013). Wee1 kinase as a target for cancer therapy. Cell Cycle, 12, 3348–3353. https://doi.org/10.4161/cc.26062  
+
+Elbæk, C. R., Petrosius, V., & Sørensen, C. (2020). Wee1 kinase limits CDK activities to safeguard DNA replication and mitotic entry. Mutation Research, 819–820, 111694. https://doi.org/10.1016/j.mrfmmm.2020.111694  
+
+Esposito, F., Giuffrida, R., Raciti, G., Puglisi, C., & Forte, S. (2021). Wee1 kinase: A potential target to overcome tumor resistance to therapy. International Journal of Molecular Sciences, 22, 10689. https://doi.org/10.3390/ijms221910689  
+
+Fu, S., Wang, Y., Keyomarsi, K., & Meric-Bernstam, F. (2018). Strategic development of AZD1775, a Wee1 kinase inhibitor, for cancer therapy. Expert Opinion on Investigational Drugs, 27, 741–751. https://doi.org/10.1080/13543784.2018.1511700  
+
+Geenen, J., & Schellens, J. (2017). Molecular pathways: Targeting the protein kinase Wee1 in cancer. Clinical Cancer Research, 23, 4540–4544. https://doi.org/10.1158/1078-0432.CCR-17-0520  
+
+Hamer, P. C. de W., Mir, S. E., Noske, D., van Noorden, C., & Würdinger, T. (2011). Wee1 kinase targeting combined with DNA-damaging cancer therapy catalyzes mitotic catastrophe. Clinical Cancer Research, 17, 4200–4207. https://doi.org/10.1158/1078-0432.CCR-10-2537  
+
+Moiseeva, T. N., Qian, C., Sugitani, N., Osmanbeyoglu, H. U., & Bakkenist, C. J. (2019). Wee1 kinase inhibitor AZD1775 induces CDK1-kinase-dependent origin firing in unperturbed G1- and S-phase cells. Proceedings of the National Academy of Sciences, 116, 23891–23893. https://doi.org/10.1073/pnas.1915108116  
+
+Rorà, A. G. L. di, Cerchione, C., Martinelli, G., & Simonetti, G. (2020). A Wee1 family business: Regulation of mitosis, cancer progression, and therapeutic target. Journal of Hematology & Oncology. https://doi.org/10.1186/s13045-020-00959-2  
+
+Yaron-Barir, T. M., Joughin, B. A., Huntsman, E. M., Kerelsky, A., Cizin, D. M., Cohen, B. M., … Johnson, J. L. (2024). The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629, 1174–1181. https://doi.org/10.1038/s41586-024-07407-y

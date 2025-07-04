@@ -1,0 +1,51 @@
+Phylogeny  
+The kinase belongs to the AGC group, DMPK/ROCK/MRCK sub-family (Manning et al., 2002). Within the human kinome its closest paralogues are MRCKα (≈ 85 % identity in the catalytic domain) and MRCKγ (≈ 72 %) (Unbekandt & Olson, 2014). Orthologues are present in mouse (Cdc42bpb), zebrafish (cdc42bpb), fruit-fly (Genghis Khan) and C. elegans (MRCK-1) (Unbekandt & Olson, 2014). The kinase shares ~45–50 % catalytic-domain identity with ROCK1/2, reflecting divergence among Rho-GTPase effector kinases (Ruscetta et al., 2023).  
+
+Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (Unbekandt & Olson, 2014).  
+
+Cofactor Requirements  
+Activity requires Mg²⁺; Mn²⁺ can substitute in vitro (Unbekandt et al., 2020).  
+
+Substrate Specificity  
+Peptide studies indicate a preference for basic residues at positions −3/−2 and exclusion of acidic side chains, giving an R/K-x-x-S/T consensus (Johnson et al., 2023).  
+
+Structure  
+The protein is modular: N-terminal capped-helix bundle → kinase domain → coiled-coil/kinase-inhibitory motif (KIM) → C1 → PH → CNH → CRIB (Zhao & Manser, 2015). Crystal structures of the catalytic domain (apo or ADP-bound; PDB 4UAK) show an active conformation that does not require activation-loop phosphorylation (Unbekandt et al., 2020). Complexes with selective inhibitors (BDP5290, BDP9066, BDP8900; PDB 4UAL, 5OTF, 5OTE) reveal hinge contacts to Asp154/Tyr156; the Thr137 gatekeeper and a conserved water complete the catalytic spine (Ruscetta et al., 2023). Lys105 coordinates the ATP β-phosphate, while the ordered activation loop and aligned αC-helix lock the enzyme in a catalytically competent geometry (Unbekandt et al., 2020). N-terminal dimerisation helices form stable dimers and higher-order tetramers in solution (Zhao & Manser, 2015).  
+
+Regulation  
+• Recruitment of the CRIB domain to membrane-bound CDC42-GTP is the principal activator (Leung et al., 1998).  
+• An autoinhibitory KIM within the coiled-coil suppresses catalysis until conformationally released (Zhao & Manser, 2015).  
+• Binding of diacylglycerol or phorbol esters to the C1 domain increases activity ~3-fold (Zhao & Manser, 2015).  
+• Autophosphorylation at Thr1108 occurs in cis and serves as a pharmacodynamic marker without altering turnover (Unbekandt et al., 2020).  
+• Substrate-directed feedback: phosphorylation of MYPT1 Thr697/Thr855 inhibits myosin phosphatase, reinforcing contractility (Zhao & Manser, 2015).  
+
+Function  
+Transcript levels are ubiquitous but highest in brain; overall abundance generally exceeds that of MRCKγ (Unbekandt et al., 2020). Upstream inputs are CDC42-GTP (primary) and Rac1-GTP (secondary) via the CRIB motif (Ruscetta et al., 2023). Verified substrates/partners include:  
+– MYL9/MLC2 Ser19/Thr18 to drive actomyosin contractility (Unbekandt & Olson, 2014).  
+– MYPT1 Thr654/Thr697/Thr855 to inhibit myosin phosphatase (Zhao & Manser, 2015).  
+– PPP1R12C, LIMK1/2 (via FAM89B), and the MYO18A–LURAP1 complex (Ruscetta et al., 2023).  
+Biological roles encompass epithelial polarisation, lamellipodial protrusion, cell migration, phagocytosis and cancer cell invasion (Unbekandt & Olson, 2014).  
+
+Inhibitors  
+Potent ATP-competitive inhibitors include BDP5290 (Ki ≈ 4 nM, > 40-fold selectivity vs. ROCK), BDP8900 and BDP9066 (sub-nanomolar, 5OTF structure) (Ruscetta et al., 2023; Unbekandt et al., 2018). DJ4 is a dual MRCK/ROCK inhibitor (IC₅₀ ≈ 0.1 µM), while chelerythrine acts non-competitively (IC₅₀ ≈ 1.8 µM). ROCK inhibitors fasudil and Y-27632 inhibit MRCKβ with lower potency (Zhao & Manser, 2015).  
+
+Other Comments  
+Gene amplification or over-expression correlates with aggressive ovarian, breast, cutaneous squamous carcinoma and glioma; pharmacological inhibition suppresses invasion and tumour growth in pre-clinical models (Ruscetta et al., 2023; Unbekandt et al., 2018). Autophosphorylation at Thr1108 (MRCKβ) and Ser1003 (MRCKα) serve as biomarkers of inhibitor engagement (Unbekandt et al., 2020).  
+
+References  
+Leung, T., Chen, X.-Q., Tan, I., Manser, E., & Lim, L. (1998). Myotonic dystrophy kinase-related Cdc42-binding kinase acts as a Cdc42 effector in promoting cytoskeletal reorganization. Molecular and Cellular Biology, 18(1), 130–140. https://doi.org/10.1128/MCB.18.1.130  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Ruscetta, V. M., Seaton, T. J., Shakeel, A., Vasconcelos, S. N. S., Viirre, R. D., Adler, M. J., & Olson, M. F. (2023). Opportunities and challenges for the development of MRCK kinase inhibitors as potential cancer chemotherapeutics. Cells, 12, 534. https://doi.org/10.3390/cells12040534  
+
+Unbekandt, M., & Olson, M. F. (2014). The actin-myosin regulatory MRCK kinases: regulation, biological functions and associations with human cancer. Journal of Molecular Medicine, 92, 217–225. https://doi.org/10.1007/s00109-014-1133-6  
+
+Unbekandt, M., Lilla, S., Zanivan, S., & Olson, M. F. (2020). The Cdc42 effector protein MRCKβ autophosphorylates on threonine 1108. Small GTPases, 11, 451–460. https://doi.org/10.1080/21541248.2018.1564472  
+
+Unbekandt, M., Belshaw, S., Bower, J., Clarke, M., Cordes, J., Crighton, D., … Olson, M. F. (2018). Discovery of potent and selective MRCK inhibitors with therapeutic effect on skin cancer. Cancer Research, 78(8), 2096–2114. https://doi.org/10.1158/0008-5472.CAN-17-2870  
+
+Zhao, Z.-S., & Manser, E. (2015). Myotonic dystrophy kinase-related Cdc42-binding kinases (MRCK), the ROCK-like effectors of Cdc42 and Rac1. Small GTPases, 6, 81–88. https://doi.org/10.1080/21541248.2014.1000699

@@ -1,0 +1,63 @@
+## Phylogeny  
+Apoptosis signal-regulating kinase 1 (ASK1; MAP3K5) belongs to the mitogen-activated protein kinase kinase kinase (MAP3K) family and, in kinome analyses, clusters within both the MAP3K and STE groups of the protein-kinase superfamily (Baig et al., 2019; Hayakawa et al., 2012; Honzejkova et al., 2024; Trevelyan et al., 2020). It forms the ASK sub-family together with ASK2 and ASK3 (Unknown Authors, 2024). Orthologues are conserved in mouse, Drosophila and C. elegans (Kawarazaki et al., 2014).  
+
+## Reaction Catalyzed  
+ATP + [MAP2K protein] ⇌ ADP + [MAP2K phosphoprotein]  
+(Obsil, 2017; Ogier et al., 2020; Hayakawa et al., 2012; Kawarazaki et al., 2014)  
+
+## Cofactor Requirements  
+Catalysis requires ATP and a divalent metal ion, usually Mg²⁺ (Mn²⁺ can substitute). Thioredoxin-1 (Trx1) binds as an allosteric regulator but is not a catalytic cofactor (Unknown Authors, 2024; Obsilova et al., 2021; Honzejkova et al., 2024).  
+
+## Substrate Specificity  
+Peptide-library profiling shows a strong preference for Thr over Ser as the phospho-acceptor. Hydrophobic (aromatic or aliphatic) residues are favoured at the +1 position, and additional Thr at −2 or +2 enhances phosphorylation. Secondary preferences include Gln at −2 and Ser/Arg/Tyr at +2. An alternative study describes ASK1 as a proline-directed Ser/Thr kinase (Bunkoczi et al., 2007; Unknown Authors, 2024).  
+
+## Structure  
+ASK1 is a 1,374-residue multidomain protein (Baig et al., 2019; Obsilova et al., 2021):  
+• N-terminal thioredoxin-binding domain (TBD, 46–277) – binds Trx (Kawarazaki et al., 2014).  
+• Central regulatory region with coiled-coils, TRAF-binding sites and PH motifs (Unknown Authors, 2024).  
+• Catalytic kinase domain (671–938) – canonical bilobal fold; activation loop contains the key Thr845 site; the αC-helix and hydrophobic spine govern activity (Kawarazaki et al., 2014; Unknown Authors, 2024).  
+• C-terminal coiled-coil/SAM segment plus a 14-3-3 binding motif (Baig et al., 2019; Obsilova & Obsil, 2020).  
+
+The isolated kinase domain forms a head-to-tail dimer in solution (Bunkoczi et al., 2007). Cryo-EM of full-length ASK1 reveals an asymmetric architecture that is allosterically modulated by Trx1 (Honzejkova et al., 2024).  
+
+## Regulation  
+Post-translational modifications  
+• Activating phosphorylation: Thr845 (primary), autophosphorylation at Thr813 and Thr842 (Baig et al., 2019; Obsilova et al., 2021).  
+• Inhibitory phosphorylation: Ser967 enables 14-3-3 binding; Akt phosphorylates Ser83 (Baig et al., 2019; Kawarazaki et al., 2014).  
+• Ubiquitination: promoted by Roquin-2 and reversed by USP9X (Kawarazaki et al., 2014).  
+• Arg78/Arg80 methylation by PRMT1 stabilises Trx binding (Kawarazaki et al., 2014).  
+
+Regulatory proteins  
+Under non-stress conditions Trx, glutaredoxin, and peroxiredoxin 1 bind the TBD to suppress activity; 14-3-3 binds phosphorylated Ser967 (Ogier et al., 2020; Obsilova et al., 2021; Baig et al., 2019). Stress cues release these inhibitors and recruit TRAF2/6, promoting oligomerisation and activation (Baig et al., 2019; Kawarazaki et al., 2014). PP5 dephosphorylates Thr845, turning off signalling, while Akt supplies inhibitory phosphorylation (Baig et al., 2019; Kawarazaki et al., 2014).  
+
+## Function  
+ASK1 integrates diverse stress signals—including ROS, ER stress, TNF-α, LPS and Ca²⁺ influx—to phosphorylate MAP2K3/6 and MAP2K4/7, thereby activating the p38 and JNK pathways (Baig et al., 2019; Hayakawa et al., 2012). Through these cascades it regulates apoptosis, inflammation, fibrosis, differentiation and cytokine production, and contributes to innate immune responses (Baig et al., 2019; Ogier et al., 2020; Kawarazaki et al., 2014).  
+
+## Inhibitors  
+Small-molecule ATP-competitive inhibitors include K811, MSC2032964A and the clinical candidate Selonsertib; staurosporine also binds the kinase domain (Kawarazaki et al., 2014; Trevelyan et al., 2020; Unknown Authors, 2024).  
+
+## Other Comments  
+Aberrant ASK1 signalling is implicated in cardiovascular disease, neurodegeneration, inflammatory disorders, diabetes, cancer and NASH (Baig et al., 2019; Ogier et al., 2020; Unknown Authors, 2024). Somatic MAP3K5 mutations are frequent in metastatic melanoma; mutation of Cys250 in the TBD weakens Trx binding and alters regulation (Trevelyan et al., 2020; Obsilova et al., 2021).  
+
+## 9. References  
+Baig, M. H., Baker, A., Ashraf, G. M., & Dong, J.-J. (2019). ASK1 and its role in cardiovascular and other disorders: Available treatments and future prospects. Expert Review of Proteomics, 16, 857–870. https://doi.org/10.1080/14789450.2019.1676735  
+
+Bunkoczi, G., Salah, E., Filippakopoulos, P., Fedorov, O., Müller, S., Sobott, F., … Knapp, S. (2007). Structural and functional characterization of the human protein kinase ASK1. Structure, 15, 1215–1226. https://doi.org/10.1016/j.str.2007.08.011  
+
+Hayakawa, R., Hayakawa, T., Takeda, K., & Ichijo, H. (2012). Therapeutic targets in the ASK1-dependent stress signaling pathways. Proceedings of the Japan Academy, Series B, 88, 434–453. https://doi.org/10.2183/pjab.88.434  
+
+Honzejkova, K., Košek, D., Obsilova, V., & Obsil, T. (2024). The cryo-EM structure of ASK1 reveals an asymmetric architecture allosterically modulated by Trx1. eLife. https://doi.org/10.7554/eLife.95199.1  
+
+Kawarazaki, Y., Ichijo, H., & Naguro, I. (2014). Apoptosis signal-regulating kinase-1 as a therapeutic target. Expert Opinion on Therapeutic Targets, 18, 651–664. https://doi.org/10.1517/14728222.2014.896903  
+
+Obsil, T. (2017). Structural aspects of protein kinase ASK1 regulation. Advances in Biological Regulation, 66, 31–36. https://doi.org/10.1016/j.jbior.2017.10.002  
+
+Obsilova, V., & Obsil, T. (2020). The 14-3-3 proteins as important allosteric regulators of protein kinases. International Journal of Molecular Sciences, 21, 8824. https://doi.org/10.3390/ijms21228824  
+
+Obsilova, V., Honzejkova, K., & Obsil, T. (2021). Structural insights support targeting ASK1 kinase for therapeutic interventions. International Journal of Molecular Sciences, 22, 13395. https://doi.org/10.3390/ijms222413395  
+
+Ogier, J. M., Nayagam, B., & Lockhart, P. (2020). ASK1 inhibition: A therapeutic strategy with multi-system benefits. Journal of Molecular Medicine, 98, 335–348. https://doi.org/10.1007/s00109-020-01878-y  
+
+Trevelyan, S. J., Brewster, J. L., Burgess, A. E., Crowther, J. M., Cadell, A. L., Parker, B. L., … Mace, P. D. (2020). Structure-based mechanism of preferential complex formation by apoptosis signal–regulating kinases. Science Signaling. https://doi.org/10.1126/scisignal.aay6318  
+
+Unknown Authors. (2024). Structural studies of selected protein complexes involved in signal transduction. (Pages 20–31, 106–108).

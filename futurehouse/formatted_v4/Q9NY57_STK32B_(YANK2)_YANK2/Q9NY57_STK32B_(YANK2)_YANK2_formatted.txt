@@ -1,0 +1,38 @@
+## Phylogeny  
+STK32B (YANK2) belongs to the AGC protein-kinase group and clusters within the YANK sub-family alongside STK32A (YANK1) and STK32C (YANK3) (Arencibia et al., 2013). Structure-guided hidden-Markov modelling confirms this placement and shows tight clustering with canonical AGC kinases (Modi & Dunbrack, 2019a, 2019b). Within the catalytic domain, STK32B shares 69 % identity with STK32A and 65 % with STK32C (Sorrell et al., 2020). Orthologues are present in Caenorhabditis elegans, Drosophila melanogaster, hagfish and lamprey, indicating emergence in bilaterian animals and absence in fungi (Sorrell et al., 2020).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (Shi et al., 2024).  
+
+## Cofactor Requirements  
+A requirement for divalent cations has not been reported (Sorrell et al., 2020).  
+
+## Substrate Specificity  
+No experimental consensus phosphorylation motif has yet been defined (Sorrell et al., 2020).  
+
+## Structure  
+The protein comprises a bilobal kinase core followed by an AGC-type C-terminal extension that includes a turn motif and a non-canonical hydrophobic motif (F-X-X-F-N-R-E) (Arencibia et al., 2013; Sorrell et al., 2020). Key catalytic elements—β3-strand Lys, HRD triad, DFN (Asn in place of Gly), APE motif and a small Val gatekeeper—are conserved (Sorrell et al., 2020). An extended HF-motif α-helix docks onto the N-lobe and stabilises the active conformation independently of hydrophobic-motif phosphorylation (Sorrell et al., 2020). Structural resources include a high-confidence AlphaFold model (AF-Q9NY57-F1); the closest experimental proxy is the STK32A crystal structure at 2.29 Å (PDB 4FR4), which displays an equivalent fold (Sorrell et al., 2020).  
+
+## Regulation  
+The Src-family kinase Fyn phosphorylates STK32B/YANK2, initiating downstream signalling (Shi et al., 2024). No additional post-translational modifications or regulatory enzymes have been described (Sorrell et al., 2020).  
+
+## Function  
+mRNA is enriched in kidney and lymphoid tissues, and the protein localises mainly to microtubules and cytoplasmic vesicles (Sorrell et al., 2020; Shi et al., 2024). An intronic variant (rs10937625) associates with essential tremor and STK32B is over-expressed in the cerebellar cortex of affected individuals (Müller et al., 2016). Over-expression in cerebellar DAOY cells alters 3,794 genes, enriching axon-guidance, calcium-channel and olfactory-transduction pathways (Liao et al., 2020). Fyn-mediated phosphorylation of YANK2 activates p70S6K through an mTOR-independent route and promotes glioma cell proliferation (Shi et al., 2024).  
+
+## Other Comments  
+Genomic deletions implicate STK32B in Ellis-van-Creveld syndrome, and locus variants associate with orofacial clefts (Sorrell et al., 2020). The protein is up-regulated in aggressive breast cancer, down-regulated in oral squamous-cell carcinoma, and a G35E driver mutation has been reported in melanoma (Sorrell et al., 2020). Transcriptomic data suggest cardiovascular pathway involvement, consistent with β-blocker responsiveness observed in essential tremor patients (Liao et al., 2020).  
+
+## References  
+Arencibia, J. M., Pastor-Flores, D., Bauer, A. F., Schulze, J. O., & Biondi, R. M. (2013). AGC protein kinases: From structural mechanism of regulation to allosteric drug development for the treatment of human diseases. Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics, 1834, 1302-1321. https://doi.org/10.1016/j.bbapap.2013.03.010  
+
+Liao, C., Sarayloo, F., Vuokila, V., Rochefort, D., Akçimen, F., Diamond, S., Houle, G., Laporte, A. D., Spiegelman, D., He, Q., Catoire, H., Dion, P. A., & Rouleau, G. A. (2020). Transcriptomic changes resulting from STK32B overexpression identify pathways potentially relevant to essential tremor. Frontiers in Genetics. https://doi.org/10.3389/fgene.2020.00813  
+
+Modi, V., & Dunbrack, R. L. (2019a). A structurally validated sequence alignment of all 497 typical human protein kinase domains. bioRxiv. https://doi.org/10.1101/776740  
+
+Modi, V., & Dunbrack, R. L. (2019b). A structurally-validated multiple sequence alignment of 497 human protein kinase domains. Scientific Reports, 9, 19790. https://doi.org/10.1038/s41598-019-56499-4  
+
+Müller, S. H., Girard, S., Hopfner, F., Merner, N. D., Bourassa, C. V., Lorenz, D., Clark, L., Tittmann, L., Soto-Ortolaza, A., Klebe, S., Hallett, M., Schneider, S., Hodgkinson, C., Lieb, W., Wszolek, Z., … Rouleau, G. (2016). Genome-wide association study in essential tremor identifies three new loci. Brain, 139, 3163-3169. https://doi.org/10.1093/brain/aww242  
+
+Shi, Y., Cheng, Y., Wang, W., Tang, L., Li, W., Zhang, L., Yuan, Z., Zhu, F., & Duan, Q. (2024). YANK2 activated by Fyn promotes glioma tumorigenesis via the mTOR-independent p70S6K activation pathway. Scientific Reports. https://doi.org/10.1038/s41598-024-61157-5  
+
+Sorrell, F. J., Miranda, F., Abdul Azeez, K. R., Chaikuad, A., Kettenbach, A. N., Gerber, S. A., Knapp, S., Ahmed, A. A., & Elkins, J. M. (2020). STK32A is a dual-specificity AGC kinase with a preference for acidic substrates. bioRxiv. https://doi.org/10.1101/2020.03.04.976555

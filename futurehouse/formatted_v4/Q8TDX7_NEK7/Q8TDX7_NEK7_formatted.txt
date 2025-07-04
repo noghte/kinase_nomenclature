@@ -1,0 +1,75 @@
+## Phylogeny  
+Human NEK7 belongs to the NEK sub-family within the CMGC group of the protein-kinase superfamily (Bachus et al., 2022).  
+Within the NEK clade it is most closely related to NEK6 (~86 % catalytic-domain identity) and is activated by the upstream kinase NEK9 (Liu et al., 2020).  
+Experimentally verified orthologues are found in mouse, rat, zebrafish and Drosophila; the Aspergillus nidulans NIMA kinase represents a conserved fungal counterpart (Bachus et al., 2022; O’Regan et al., 2007).  
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Bachus et al., 2022).  
+
+## Cofactor Requirements  
+A requirement for divalent cations has not been explicitly reported for NEK7 in the cited studies (Bachus et al., 2022).  
+
+## Substrate Specificity  
+Peptide library screening defined a general NEK consensus [L/M/F/W]-X-X-S/T-(no Pro +1); NEK7 adds preferences for an acidic residue at –1, hydrophobic Leu/Phe at +3, phospho-Tyr at –1 and Trp at +4 (van de Kooij et al., 2019).  
+Cellular sites that fit these features include EML4-Ser146, TRF1-Ser114, KIF11/KIF14, Eg5-Ser1033 and RPS6KB1 (Bachus et al., 2022). The Johnson 2023 kinome atlas does not list a NEK7 motif (van de Kooij et al., 2019).  
+
+## Structure  
+NEK7 is a 302-residue monomer comprising a short disordered N-terminus and a canonical bilobal Ser/Thr kinase domain (Liu et al., 2020).  
+Crystal structures (PDB 2WQN, 5SY1) reveal a five-stranded β-sheet N-lobe and an α-helical C-lobe joined by a hinge; Tyr97 projects into the active site to impose autoinhibition (Byrne et al., 2020).  
+Activation requires assembly of the regulatory spine (His159–Leu180–Leu86–Tyr97), aided by Ser195 phosphorylation (Byrne et al., 2020). Key catalytic features include a Lys81–Glu97 salt bridge and an activation loop bearing Thr169 and Ser195.  
+Cryo-EM of the NEK7–NLRP3 complex (PDB 6NPY) shows the C-lobe docking on NLRP3 LRR/NACHT domains while the N-lobe remains flexible, rationalising kinase-activity-independent inflammasome licensing (Sharif et al., 2019; Fu & Wu, 2023).  
+
+## Regulation  
+• Ser195 phosphorylation by NEK9 activates the kinase (Byrne et al., 2020).  
+• Thr169 undergoes autophosphorylation (van de Kooij et al., 2019).  
+• Reactive-oxygen-species-induced phosphorylation increases NLRP3 binding (Shi et al., 2016).  
+• Tyr97 mediates autoinhibition; Y97F relieves this block (Byrne et al., 2020).  
+• NEK9-driven back-to-back dimerisation is incompatible with NLRP3 engagement, providing an allosteric switch between mitosis and inflammasome licensing (Sharif et al., 2019).  
+• Ubiquitination has been suggested, but specific sites are unknown (Byrne et al., 2020).  
+
+## Function  
+NEK7 is expressed in heart, brain, liver, lung and spleen. It localises to centrosomes throughout the cell cycle and moves to the spindle midzone and midbody during late mitosis (Liu et al., 2020; O’Regan et al., 2007).  
+Mitotic functions include pericentriolar material recruitment, centriole duplication, bipolar spindle assembly, chromosome congression and cytokinesis; depletion causes spindle defects, lagging chromosomes and cytokinesis failure (Bachus et al., 2022; Fry et al., 2017).  
+Upstream: CDK1 and PLK1 activate NEK9, which in turn activates NEK7 (Liu et al., 2020).  
+Downstream substrates: EML4-Ser146, KIF11, TRF1-Ser114, RPS6KB1 and others (Bachus et al., 2022).  
+Inflammasome: NEK7 binds NLRP3 LRR/HD2 interfaces, lifts NLRP3 autoinhibition and enables ASC speck formation; kinase activity is dispensable for this scaffolding role (Shi et al., 2016; Sharif et al., 2019).  
+
+## Inhibitors  
+Compound 51 is the first ATP-competitive inhibitor co-crystallised with NEK7 and serves as a structural template (Byrne et al., 2020).  
+JNK-IN-1 inhibits NEK7 by >80 % at 10 µM with limited cross-NEK activity (Wells et al., 2018).  
+GSK-3 Inhibitor XIII reduces activity to ~46 % at 1.25 µM via a substrate-competitive mode (Moraes et al., 2015).  
+Additional low-micromolar hits have been reported but lack potency and selectivity (Unknown Authors, 2021; Byrne et al., 2020).  
+
+## Other Comments  
+Elevated NEK7 expression is linked to retinoblastoma, gallbladder carcinoma, hepatocellular carcinoma and head-and-neck squamous cell carcinoma (Xu et al., 2016).  
+Through control of NLRP3 activation, NEK7 contributes to inflammatory diseases such as gout, atherosclerosis, type 2 diabetes and Alzheimer’s disease (Liu et al., 2020).  
+A disease-associated R121H variant lies in the regulatory region and perturbs kinase control (Bayliss et al., 2015).  
+
+## References  
+Bayliss, R., Haq, T., & Yeoh, S. (2015). The Ys and wherefores of protein kinase autoinhibition. Biochimica et Biophysica Acta – Proteins and Proteomics, 1854, 1586–1594. https://doi.org/10.1016/j.bbapap.2015.04.025  
+
+Bachus, S., Graves, D., Fulham, L., Akkerman, N., Stephanson, C., Shieh, J., & Pelka, P. (2022). In mitosis you are not: the NIMA family of kinases in Aspergillus, yeast, and mammals. International Journal of Molecular Sciences, 23, 4041. https://doi.org/10.3390/ijms23074041  
+
+Byrne, M., Nasir, N., Basmadjian, C., Bhatia, C., Cunnison, R., Carr, K., Mas-Droux, C., Yeoh, S., Cano, C., & Bayliss, R. (2020). NEK7 conformational flexibility and inhibitor binding probed through protein engineering of the R-spine. Biochemical Journal, 477, 1525–1539. https://doi.org/10.1042/BCJ20200128  
+
+Fu, J., & Wu, H. (2023). Structural mechanisms of NLRP3 inflammasome assembly and activation. Annual Review of Immunology, 41, 301–316. https://doi.org/10.1146/annurev-immunol-081022-021207  
+
+Fry, A. M., Bayliss, R., & Roig, J. (2017). Mitotic regulation by NEK kinase networks. Frontiers in Cell and Developmental Biology, 5, 102. https://doi.org/10.3389/fcell.2017.00102  
+
+Liu, G., Chen, X., Wang, Q., & Yuan, L. (2020). NEK7: A potential therapy target for NLRP3-related diseases. BioScience Trends, 14, 74–82. https://doi.org/10.5582/bst.2020.01029  
+
+Moraes, E. C., Meirelles, G., Honorato, R., de Arruda Campos Brasil de Souza, T., de Souza, E. E., Murakami, M., de Oliveira, P. S. L., & Kobarg, J. (2015). Kinase inhibitor profile for human NEK1, NEK6, and NEK7 and analysis of the structural basis for inhibitor specificity. Molecules, 20, 1176–1191. https://doi.org/10.3390/molecules20011176  
+
+O’Regan, L., Blot, J., & Fry, A. M. (2007). Mitotic regulation by NIMA-related kinases. Cell Division, 2, 25. https://doi.org/10.1186/1747-1028-2-25  
+
+Sharif, H., Wang, L., Wang, W. L., Magupalli, V. G., Andreeva, L., Qiao, Q., Hauenstein, A. V., Wu, Z., Núñez, G., Mao, Y., & Wu, H. (2019). Structural mechanism for NEK7-licensed activation of the NLRP3 inflammasome. Nature, 570, 338–343. https://doi.org/10.1038/s41586-019-1295-z  
+
+Shi, H., Wang, Y., Li, X., Zhan, X., Tan, M., Fina, M., Su, L., Pratt, D., Bu, C., Hildebrand, S., Lyon, S., Scott, L., Quan, J., Sun, Q., Russell, J., Arnett, S. M., Jurek, P., Chen, D., Kravchenko, V., … Beutler, B. (2016). NLRP3 activation and mitosis are mutually exclusive events coordinated by NEK7, a new inflammasome component. Nature Immunology, 17, 250–258. https://doi.org/10.1038/ni.3333  
+
+van de Kooij, B., Creixell, P., van Vlimmeren, A. E., Joughin, B. A., Miller, C. J., Haider, N., Linding, R., Stambolic, V., Turk, B., & Yaffe, M. B. (2019). Comprehensive substrate specificity profiling of the human NEK kinome reveals unexpected signaling outputs. eLife, 8, e44635. https://doi.org/10.7554/eLife.44635  
+
+Wells, C. I., Kapadia, N. R., Couñago, R. M., & Drewry, D. H. (2018). In-depth analysis of kinase cross-screening data to identify chemical starting points for inhibition of the NEK family of kinases. MedChemComm, 9, 44–66. https://doi.org/10.1039/C7MD00510E  
+
+Xu, J., Lu, L., & Li, L. (2016). NEK7: A novel promising therapy target for NLRP3-related inflammatory diseases. Acta Biochimica et Biophysica Sinica, 48, 966–968. https://doi.org/10.1093/abbs/gmw080  
+
+Unknown Authors. (2021). Probing the functions of NEK family kinases using chemical inhibition: towards the development of potent and selective inhibitors of NEK7. (pp. 41–45).

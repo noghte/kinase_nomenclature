@@ -1,0 +1,59 @@
+## Phylogeny  
+VRK3 is one of three metazoan Vaccinia-related kinases (VRK1–3) that form a distinct branch within the “Other” group of the human kinome because their catalytic motifs diverge from those of canonical casein-kinase-like enzymes (Scheeff et al., 2009).  The subfamily is distantly related to the pox-viral B1R kinase (Scheeff et al., 2009) and is evolutionarily conserved, with orthologs reported in human, mouse, rat, zebrafish, fruit-fly and nematode genomes (Nichols & Traktman, 2004; Vaccinia-related kinase signaling, 2010).
+
+## Reaction Catalyzed  
+ATP + barrier-to-autointegration factor (Ser4) ⇌ ADP + barrier-to-autointegration factor (Ser4-P) (Park et al., 2015).
+
+## Cofactor Requirements  
+BAF phosphorylation in vitro requires a divalent metal ion; the specific cation was not identified (Park et al., 2015).
+
+## Substrate Specificity  
+Only one high-confidence substrate has been validated: BAF, phosphorylated exclusively on Ser4. Large-scale profiling failed to uncover additional targets, and a consensus recognition motif has not been established (Park et al., 2015; Scheeff et al., 2009).
+
+## Structure  
+• Residues 1–147: intrinsically disordered N-terminus bearing a bipartite nuclear-localisation signal (Moura et al., 2016).  
+• Residues 148–472: kinase-like domain; crystal structures PDB 2V62 and 2JII reveal a canonical bilobal fold locked in a closed conformation by a unique αC4 helix (Scheeff et al., 2009).  
+• Full-length model available from AlphaFold (AF-Q8IV63-F1).  
+
+Key features  
+– Catalytic motifs are degenerated (TRDNQG glycine loop; Lys201→Ser; HRD Asp→Asn306; DFG Asp→Gly326) and ATP binding is sterically blocked by Asp175, Gln177 and Phe313, classifying VRK3 as a pseudokinase (Scheeff et al., 2009).  
+– Despite loss of catalysis, stabilising elements such as the Lys203-Glu214 ion pair and the hydrophobic spine are retained, conferring high thermal stability (Scheeff et al., 2009).  
+– A conserved surface patch on the C-lobe serves as a docking interface for VHR phosphatase and other partners (Scheeff et al., 2009).
+
+## Regulation  
+Post-translational modification  
+• Stress-activated CDK5 phosphorylates VRK3, potentiating activation of the VHR phosphatase (Liu et al., 2019).  
+
+Protein interactions / allostery  
+• Binding of BAF to the disordered N-terminus induces conformational changes that enable Ser4 phosphorylation (Park et al., 2015).  
+• VRK3 forms a scaffold with VHR (DUSP3) and ERK, accelerating VHR-mediated ERK dephosphorylation (Scheeff et al., 2009).  
+• Interacts with GDP-bound Ran GTPase; functional consequences remain unclear (Moura et al., 2016).
+
+Expression and localisation  
+• mRNA is enriched during murine embryonic haematopoiesis and in adult liver, kidney, muscle, thymus and bone marrow; lower in spleen (Moura et al., 2016).  
+• Protein abundance peaks at the G1/S transition, in contrast to mitotic peaking of VRK1 (Park et al., 2015).  
+• The intrinsic NLS targets VRK3 to the nucleoplasm (Moura et al., 2016).
+
+## Function  
+• Nuclear-envelope dynamics: BAF Ser4 phosphorylation by VRK3 supports envelope disassembly/reassembly during interphase (Park et al., 2015).  
+• MAPK signalling: VRK3 activates VHR, leading to dephosphorylation and timely inactivation of nuclear ERK1/2 (Scheeff et al., 2009; Moura et al., 2016).  
+• Stress response: Under glutamate stress, CDK5-modified VRK3 promotes nuclear import of HSP70, reinforcing ERK suppression (Liu et al., 2019).  
+• Cell-cycle control: Over-expression accelerates S-phase entry, whereas knock-down delays proliferation (Park et al., 2015).
+
+## Other Comments  
+The VRK3 gene maps to chromosome 19q13.33, and no germline or somatic disease-linked mutations have been reported (Vázquez-Cedeira et al., 2012; Moura et al., 2016).
+
+## 9. References  
+Liu, P.-F., Du, Y., Meng, L., Li, X., Yang, D., & Liu, Y. (2019). Phosphoproteomic analyses of kidneys of Atlantic salmon infected with Aeromonas salmonicida. Scientific Reports, 9, Article 38890. https://doi.org/10.1038/s41598-019-38890-3  
+
+Moura, D. S., Cantarero, L., Martín-Doncel, E., Campillo-Marcos, I., & Lazo, P. A. (2016). VRK3. In S. Choi (Ed.), Encyclopedia of Signaling Molecules (pp. 1–4). Springer. https://doi.org/10.1007/978-1-4614-6438-9_563-1  
+
+Nichols, R. J., & Traktman, P. (2004). Characterization of three paralogous members of the mammalian vaccinia related kinase family. Journal of Biological Chemistry, 279, 7934–7946. https://doi.org/10.1074/jbc.M310813200  
+
+Park, C.-H., Ryu, H. G., Kim, S.-H., Lee, D., Song, H., & Kim, K.-T. (2015). Presumed pseudokinase VRK3 functions as a BAF kinase. Biochimica et Biophysica Acta – Molecular Cell Research, 1853, 1738–1748. https://doi.org/10.1016/j.bbamcr.2015.04.007  
+
+Scheeff, E. D., Eswaran, J., Bunkóczi, G., Knapp, S., & Manning, G. (2009). Structure of the pseudokinase VRK3 reveals a degraded catalytic site, a highly conserved kinase fold, and a putative regulatory binding site. Structure, 17, 128–138. https://doi.org/10.1016/j.str.2008.10.018  
+
+Vaccinia-related kinase (VRK) signaling. (2010). Unpublished manuscript, pp. 1–4.  
+
+Vázquez-Cedeira, M., Monsalve, D. M., Sanz-García, M., & Lazo, P. A. (2012). Vaccinia-related kinase-3 (VRK3). In S. Choi (Ed.), Encyclopedia of Signaling Molecules (pp. 1955–1957). Springer. https://doi.org/10.1007/978-1-4419-0461-4_563

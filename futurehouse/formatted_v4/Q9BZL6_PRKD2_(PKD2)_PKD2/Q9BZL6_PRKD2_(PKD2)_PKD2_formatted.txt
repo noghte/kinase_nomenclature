@@ -1,0 +1,67 @@
+## Phylogeny  
+PRKD2 orthologs have been experimentally verified in mouse, rat, zebrafish, Drosophila and C. elegans, underscoring broad metazoan conservation (Ellwanger & Hausser, 2013).  Within the human kinome, PRKD2 belongs to the Ca²⁺/calmodulin-dependent protein kinase (CAMK) group, PKD subfamily, together with PRKD1 and PRKD3 (Zhang et al., 2021).  Phylogenetic analyses indicate that PRKD1 and PRKD2 are the closest paralogs; PRKD2 appears to have arisen later in mammalian evolution, whereas a PKD1-like isoform exists in earlier vertebrates (Azoitei et al., 2018).
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (Anti, 2009; Cobbaut et al., 2017).
+
+## Cofactor Requirements  
+Catalytic activity requires divalent Mg²⁺ or Mn²⁺; in vitro assays typically employ ~10 mM MgCl₂ (Cobbaut et al., 2017; Unknown Author(s), 2023).
+
+## Substrate Specificity  
+A quantitative motif analysis defined a preferred consensus (L/I/V)-x-R-x-x-S/T with a hydrophobic residue at ‑5 and an Arg at ‑3 (Unknown Author(s), 2023).  Phosphoproteomics in vasopressin-stimulated collecting-duct cells confirmed enrichment of L-X-R-(R/H)-X-pS/T motifs (Datta et al., 2021).  Peptide-array screens show tolerance for diverse flanking residues but a strict requirement for a central Ser/Thr (Cobbaut et al., 2017).
+
+## Structure  
+Domain organisation: Ubiquitin-like dimerisation domain (ULD) → tandem C1a/C1b domains → PH domain → Ser/Thr kinase domain → C-terminal PDZ-binding tail (Reinhardt et al., 2020; Zhang et al., 2021).  
+3-D information: crystal/NMR structures exist for the C. elegans ULD-C1a cassette (PDB 6RAO) and the human PH domain (PDB 2COA). AlphaFold modelling supports a canonical bilobal kinase fold and a face-to-face homodimer interface (Unknown Author(s), 2023).  
+Key features: the activation loop contains Ser706/Ser710 and a P+1-loop Tyr717 between the conserved DFG and APE motifs; an LNQ sequence C-terminal to APE modulates Abl docking (Cobbaut et al., 2017).  ULD-mediated dimerisation juxtaposes the two activation loops for trans-autophosphorylation; subsequent phosphorylation disrupts the dimer to allow substrate access (Reinhardt et al., 2020).  The αG-helix acidic patch and hydrophobic spine aid dimer stabilisation and inhibitor binding (Unknown Author(s), 2014).
+
+## Regulation  
+• Ser706 (activation loop) is phosphorylated by novel PKC isoforms, relieving PH-domain autoinhibition (Cobbaut et al., 2017).  
+• Ser710 undergoes autophosphorylation and cooperates with Ser706 for full activity (Cobbaut et al., 2017).  
+• Tyr717 is phosphorylated by Abl during oxidative stress, increasing catalytic turnover; this requires prior Ser706/Ser710 phosphorylation (Cobbaut et al., 2017).  
+• Additional sites: Tyr87 (oxidant-induced), Tyr438 (BCR-Abl-dependent), Ser876 (C-terminal autophosphorylation marker) (Bernhart et al., 2014; Cobbaut et al., 2017).  
+• Allosteric controls include DAG binding to C1 domains, ULD-driven dimerisation, and PH-domain autoinhibition (Reinhardt et al., 2020).
+
+## Function  
+Expression: high in lung, brain, kidney, heart, smooth muscle, pancreas and prostate (Zhang et al., 2021).  
+Immune system: abundant in thymocytes and peripheral T cells; required for TCR-driven cytokine production and extensive phospho-signalling networks in cytotoxic T lymphocytes (Ellwanger & Hausser, 2013; Navarro et al., 2014).  
+Upstream activators: DAG-activated PKCδ targets Ser706; oxidative stress activates Abl for Tyr717 phosphorylation (Steinberg, 2012; Cobbaut et al., 2017).  
+Downstream signalling: maintains ERK1/2 activation, phosphorylates PI4KIIIβ and other Golgi substrates to regulate vesicle fission, mediates oxidative-stress-induced NF-κB activation, and enhances MMP-9 secretion to support invasion (Cobbaut et al., 2017; Navarro et al., 2014; Zhang et al., 2021).
+
+## Inhibitors  
+• CRT0066101 – ATP-competitive pan-PKD inhibitor; IC₅₀ ≈ 1 nM (PKD1) / 2.5 nM (PKD2); orally bioavailable and anti-tumour in vivo (Unknown Author(s), 2011).  
+• CID755673 – non-ATP-competitive; biochemical IC₅₀ ≈ 200 nM for all PKD isoforms; limited PKC cross-reactivity (Unknown Author(s), 2011).  
+• kb-NB142-70 – improved CID755673 analog; IC₅₀ ≈ 28 nM for PKD1 with higher potency toward PKD2/3; cellular IC₅₀ ≈ 2 µM (Unknown Author(s), 2011).  
+• Imatinib – indirectly suppresses Tyr717 phosphorylation by inhibiting Abl (Cobbaut et al., 2017).
+
+## Other Comments  
+PRKD2 promotes survival and invasion of prostate-cancer cells and is linked to poor prognosis in several solid tumours (Azoitei et al., 2018; Zhang et al., 2021).  In chronic myeloid leukaemia, BCR-Abl-mediated Tyr438 phosphorylation couples PRKD2 to NF-κB activation (Mihailovic et al., 2004; Cobbaut et al., 2017).  PKD family inhibition mitigates pressure-overload-induced cardiac hypertrophy, although isoform redundancy complicates interpretation (Unknown Author(s), 2014).  Ser876 autophosphorylation influences glioma cell proliferation and senescence (Bernhart et al., 2014).
+
+## References  
+Anti, –. (2009). Non-specific serine/threonine protein kinase. In Class 2 Transferases (pp. 1–123). Springer. https://doi.org/10.1007/978-3-540-85699-3_1  
+
+Azoitei, N., Cobbaut, M., Becher, A., Van Lint, J., & Seufferlein, T. (2018). Protein kinase D2: A versatile player in cancer biology. Oncogene, 37, 1263–1278. https://doi.org/10.1038/s41388-017-0052-8  
+
+Bernhart, E., Damm, S., Heffeter, P., et al. (2014). Silencing of protein kinase D2 induces glioma cell senescence via p53-dependent and ‑independent pathways. Neuro-Oncology, 16, 933–945. https://doi.org/10.1093/neuonc/not303  
+
+Cobbaut, M., Derua, R., Döppler, H., et al. (2017). Differential regulation of PKD isoforms in oxidative stress conditions through phosphorylation of a conserved Tyr in the P+1 loop. Scientific Reports, 7, 800. https://doi.org/10.1038/s41598-017-00800-w  
+
+Datta, A., Yang, C.-R., Salhadar, K., et al. (2021). Phosphoproteomic identification of vasopressin-regulated protein kinases in collecting duct cells. British Journal of Pharmacology, 178, 1426–1444. https://doi.org/10.1111/bph.15352  
+
+Ellwanger, K., & Hausser, A. (2013). Physiological functions of protein kinase D in vivo. IUBMB Life, 65, 98–107. https://doi.org/10.1002/iub.1116  
+
+Mihailovic, T., Marx, M., Auer, A., et al. (2004). Protein kinase D2 mediates activation of NF-κB by BCR-Abl in BCR-Abl⁺ human myeloid leukaemia cells. Cancer Research, 64, 8939–8944. https://doi.org/10.1158/0008-5472.CAN-04-0981  
+
+Navarro, M. N., Goebel, J., Hukelmann, J., & Cantrell, D. (2014). Quantitative phosphoproteomics of cytotoxic T cells reveals protein kinase D2-regulated networks. Molecular & Cellular Proteomics, 13, 3544–3557. https://doi.org/10.1074/mcp.M113.037242  
+
+Reinhardt, R., Truebestein, L., Schmidt, H. A., & Leonard, T. A. (2020). It takes two to tango: Activation of protein kinase D by dimerization. BioEssays, 42, e2000222. https://doi.org/10.1002/bies.201900222  
+
+Steinberg, S. (2012). Regulation of protein kinase D1 activity. Molecular Pharmacology, 81, 284–291. https://doi.org/10.1124/mol.111.075986  
+
+Unknown Author(s). (2011). Targeting protein kinase D by novel small-molecule inhibitors and RNA interference in prostate cancer. [Study report].  
+
+Unknown Author(s). (2014). Structural insight into protein kinase D small-molecule inhibition. [Study report].  
+
+Unknown Author(s). (2023). Protein kinase D autoinhibition in trans regulates activation-loop autophosphorylation in cis. [Preprint].  
+
+Zhang, X., Connelly, J., Chao, Y., & Wang, Q. J. (2021). Multifaceted functions of protein kinase D in pathological processes and human diseases. Biomolecules, 11, 483. https://doi.org/10.3390/biom11030483

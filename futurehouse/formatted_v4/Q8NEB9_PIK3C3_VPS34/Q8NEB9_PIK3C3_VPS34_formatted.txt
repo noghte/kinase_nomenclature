@@ -1,0 +1,65 @@
+## Phylogeny  
+The kinase is the single class III PI3K (PIK3C3/Vps34) and forms the primordial branch of the PI3K/PI4K super-family. Orthologs are conserved across fungi (Saccharomyces cerevisiae Vps34), insects (Drosophila melanogaster Vps34), plants (Arabidopsis thaliana AtVps34) and mammals (Mus musculus Pik3c3), indicating a pan-eukaryotic distribution (Bilanges et al., 2019). Its obligatory regulatory partner, the pseudokinase VPS15, is likewise conserved from yeast to mammals (Backer, 2016). Divergence from class I/II PI3Ks underlies distinct catalytic and regulatory features (Burke et al., 2023).
+
+## Reaction Catalyzed  
+ATP + phosphatidyl-1-D-myo-inositol ⇌ ADP + phosphatidyl-1-D-myo-inositol-3-phosphate (PI(3)P) (Backer, 2016).
+
+## Cofactor Requirements  
+Catalysis requires divalent cations; Mg²⁺ is essential and Mn²⁺ can substitute in vitro (Cook et al., 2025).
+
+## Substrate Specificity  
+The enzyme exclusively phosphorylates phosphatidylinositol to generate PI(3)P. It shows no measurable activity toward PI(4)P or PI(4,5)P₂. Recognition is dictated by the lipid head-group; no peptide consensus motif has been defined (Bilanges et al., 2019; Burke et al., 2023).
+
+## Structure  
+• Domain layout: N-terminal C2 domain (membrane docking), central helical scaffold, C-terminal kinase domain capped by an autoinhibitory α-helix (Bilanges et al., 2019).  
+• Forms V-shaped heterotetramers with VPS15, Beclin-1 and ATG14 (complex I) or UVRAG (complex II) (Backer, 2016).  
+• Key catalytic residues: Lys833 (β3-lysine) and Asp950 (DFG motif) (Cook et al., 2025).  
+• A basic membrane-binding patch (Arg561, Arg566, Lys567, Lys568) plus helix Kα12 insert into bilayers to orient the active site (Cook et al., 2025).  
+• The C-terminal helix blocks the ATP pocket in solution and is displaced upon membrane engagement (Bilanges et al., 2019).  
+• Representative cryo-EM structures: PDB 5DFZ, 6XIO, 6SEE (Li & Chen, 2019).  
+• An adjacent hydrophobic cavity in the ATP pocket confers inhibitor selectivity (Burke et al., 2023).
+
+## Regulation  
+• Phosphorylation events: ULK1 Ser249 (activating); CDK1/5 Thr159 (inhibitory via weakened Beclin-1 binding); PRKD1 Thr677 (activating) (Licheva et al., 2022).  
+• Ubiquitin system: Cul3-KLHL20 mediates Vps34 ubiquitination and degradation during prolonged starvation; USP10/USP13 de-ubiquitinate Beclin-1 to stabilise the complex (Backer, 2016).  
+• Conformational control: VPS15 clamps the activation loop; GTP-loaded RAB1A induces a ~140° rotation of the kinase domain to relieve inhibition (Cook et al., 2025).  
+• Additional modulators: NRBF2 and AMBRA1 activate complex I; Rubicon binds complex II and inhibits activity; the ATG14 BATS domain senses high membrane curvature to boost catalysis (Bilanges et al., 2019).  
+• Nutrient signalling: mTORC1 and AMPK phosphorylate complex components to couple activity with metabolic status (Bilanges et al., 2019).
+
+## Function  
+• Broad expression; complete knockout is embryonic-lethal (E6.5–E8.5) (Bilanges et al., 2019).  
+• Complex I initiates autophagosome biogenesis at the ER via PI(3)P production (Bilanges et al., 2019).  
+• Complex II regulates autophagosome maturation and endosome-lysosome trafficking (Backer, 2016).  
+• PI(3)P recruits FYVE/PX-domain effectors such as DFCP1 and WIPI proteins to coordinate membrane dynamics (Backer, 2016).  
+• Generates midbody PI(3)P for ESCRT-mediated abscission (Backer, 2016).  
+• Lysosomal PI(3)P attracts PLD1, protrudin and FYCO1 to facilitate amino-acid-dependent mTORC1 activation (Bilanges et al., 2019).  
+• Endosomal PI(3)P activates SGK3 and positions PTEN, influencing downstream kinase signalling (Bilanges et al., 2019).  
+• Supports macropinocytosis, phagocytosis and general endosomal sorting (Bilanges et al., 2019).
+
+## Inhibitors  
+• SAR405 – pyrimidinone; K_D ≈ 1.5 nM, cellular IC₅₀ ≈ 27 nM; blocks autophagy and synergises with everolimus (Pasquier, 2016).  
+• VPS34-IN1 – bis-aminopyrimidine; IC₅₀ ≈ 25 nM; highly selective (Pasquier, 2016).  
+• PIK-III – bis-aminopyrimidine; IC₅₀ ≈ 18 nM (Pasquier, 2016).  
+• Compound 31 – orally bioavailable; 50 % target inhibition at 0.37 µM in rodents (Pasquier, 2016).  
+• SB02024 and analogues exploit the hydrophobic cavity adjacent to the P-loop for nanomolar potency (Burke et al., 2023).
+
+## Other Comments  
+• Germline PIK3C3 mutations cause monogenic diseases, underscoring dosage sensitivity (Burke et al., 2023).  
+• Systemic inhibition entails on-target toxicity owing to essential housekeeping roles (Burke et al., 2023).  
+• Heterozygous kinase-dead knock-in mice exhibit improved insulin sensitivity and protection from diet-induced steatosis (Bilanges et al., 2019).  
+• VPS15 mutations that destabilise the complex impair secretion pathways (Backer, 2016).
+
+## 9. References  
+Backer, J. M. (2016). The intricate regulation and complex functions of the class III phosphoinositide 3-kinase Vps34. Biochemical Journal, 473(15), 2251–2271. https://doi.org/10.1042/BCJ20160170  
+
+Bilanges, B., Posor, Y., & Vanhaesebroeck, B. (2019). PI3K isoforms in cell signalling and vesicle trafficking. Nature Reviews Molecular Cell Biology, 20, 515–534. https://doi.org/10.1038/s41580-019-0129-z  
+
+Burke, J. E., Triscott, J., Emerling, B. M., & Hammond, G. R. V. (2023). Beyond PI3Ks: Targeting phosphoinositide kinases in disease. Nature Reviews Drug Discovery, 22, 357–386. https://doi.org/10.1038/s41573-022-00582-5  
+
+Cook, A. S. I., Chen, M., Nguyen, T., Claveras Cabezudo, A., Khuu, G., Rao, S., … Hurley, J. H. (2025). Structural pathway for PI3-kinase regulation by VPS15 in autophagy. Science. https://doi.org/10.1126/science.adl3787  
+
+Li, Y., & Chen, Y. (2019). AMPK and autophagy. Advances in Experimental Medicine and Biology, 1206, 85–108. https://doi.org/10.1007/978-981-15-0602-4_4  
+
+Licheva, M., Raman, B., Kraft, C., & Reggiori, F. (2022). Phosphoregulation of the autophagy machinery by kinases and phosphatases. Autophagy, 18, 104–123. https://doi.org/10.1080/15548627.2021.1909407  
+
+Pasquier, B. (2016). Autophagy inhibitors. Cellular and Molecular Life Sciences, 73, 985–1001. https://doi.org/10.1007/s00018-015-2104-y

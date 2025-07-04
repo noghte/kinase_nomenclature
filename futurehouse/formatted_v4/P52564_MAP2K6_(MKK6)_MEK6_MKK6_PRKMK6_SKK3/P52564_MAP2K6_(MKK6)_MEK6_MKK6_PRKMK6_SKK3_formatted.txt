@@ -1,0 +1,50 @@
+## Phylogeny  
+Member of the STE group, MAP2K (Ste7) family in the human kinome (Manning et al., 2002). The closest human paralogues are MAP2K3 (~80 % identity) and MAP2K4 (~40 % identity) (Han et al., 1996). A murine orthologue, Mkk6c, shares 97.6 % identity with human MAP2K6 (Han et al., 1996). Additional vertebrate orthologues are present in rat, Xenopus and zebrafish (Manning et al., 2002). Invertebrate conservation is illustrated by Drosophila hemipterous, and the yeast MAPKK PBS2p is a distant orthologue in the same evolutionary branch (Han et al., 1996; Manning et al., 2002).
+
+## Reaction Catalyzed  
+ATP + protein-Thr/Tyr-OH ⇌ ADP + protein-Thr/Tyr-O-PO₃²⁻ (Matsumoto et al., 2012).
+
+## Cofactor Requirements  
+Mg²⁺ is required for ATP coordination and catalysis (Matsumoto et al., 2012).
+
+## Substrate Specificity  
+Dual-specificity kinase that phosphorylates the Thr-Gly-Tyr activation-loop motif of p38 MAPKs (MAPK11/12/13/14) with negligible activity toward ERK or JNK isoforms (Han et al., 1996; Juyoux et al., 2023). Specificity is governed by an N-terminal kinase-interaction motif (KIM) that docks onto the p38 common docking site rather than a strict linear consensus sequence (Juyoux et al., 2023). Consistent with this, the serine/threonine kinome atlas does not assign a clear peptide motif to MAP2K6, underscoring docking-based selectivity (Johnson et al., 2023).
+
+## Structure  
+Domain organization: N-terminal KIM/D-domain (~residues 10–30), an intrinsically disordered linker, a bilobal kinase core (residues 44–334) and a C-terminal DVD motif located within the αJ/αK helices for MAP3K docking (Juyoux et al., 2023; Matsumoto et al., 2012).  
+Crystal structures of the non-phosphorylated enzyme reveal an antiparallel autoinhibitory dimer in which the phosphate-binding ribbon of one protomer blocks the ATP site of the other and buries the activation loop (Min et al., 2009). Activation-loop residues 203–216 form three short helices (AH1–AH3) that encase the γ-phosphate of bound ATP, maintaining an inactive conformation; phosphorylation of Ser207 and Thr211 disrupts these helices, repositions the αC-helix and enables catalysis (Matsumoto et al., 2012). A cryo-EM structure of the active MAP2K6–p38α complex shows a face-to-face assembly where the MAP2K6 αG helix engages a hydrophobic pocket on p38α to present its activation loop for dual phosphorylation (Juyoux et al., 2023).
+
+## Regulation  
+Activation requires dual phosphorylation of Ser207 and Thr211 by MAP3K3 (Matsumoto et al., 2012). TLR4 and TNF signalling activate MAP2K6 via MAP3K8/TPL-2 in an IKK-dependent manner (Pattison et al., 2016). Autoinhibitory dimerization masks the ATP site and activation loop; binding of upstream MAP3Ks at the DVD motif or of p38 at the KIM disrupts the dimer, relieving inhibition (Min et al., 2009; Juyoux et al., 2023). Unlike some other MAP2Ks, MAP2K6 is not responsive to Rac1 or Cdc42 GTPases (Han et al., 1996).
+
+## Function  
+Expressed as several splice isoforms (MKK6, MKK6b, murine MKK6c) with tissue-specific patterns (Han et al., 1996). Acts as the predominant activator of p38α in TNF-stimulated fibroblasts (Brancho et al., 2003). Upstream kinases include MAP3K3 and MAP3K8/TPL-2; downstream, activated p38 MAPKs phosphorylate transcription factors such as ATF2, ELK1 and STAT4 (Brancho et al., 2003; Pattison et al., 2016). MAP2K6 participates in cellular responses to pro-inflammatory cytokines, bacterial LPS, UV irradiation, heat shock and osmotic stress, influencing cytokine production, growth arrest and apoptosis (Han et al., 1996).
+
+## Inhibitors  
+A solvent-exposed pocket adjacent to the ATP γ-phosphate in the inactive structure accommodates an ATP-non-competitive inhibitor, highlighting a ligandable allosteric site (Matsumoto et al., 2012).
+
+## Other Comments  
+Hyperactivation of the MAP2K6–p38 pathway is linked to pathological inflammation and ovarian cancer (Matsumoto et al., 2012). MAP2K6 forms complexes with tau and, via p38, drives pathological tau phosphorylation at Ser396 in Alzheimer’s disease (Peel et al., 2007). Down-regulation by miR-625-3p confers oxaliplatin resistance in colorectal adenocarcinoma (Rasmussen et al., 2016). Stabilization by the TRIM9 short isoform enhances p38 signalling and suppresses glioblastoma progression (Liu et al., 2018).
+
+## 9. References  
+Brancho, D., Tanaka, N., Jaeschke, A., Ventura, J. J., Kelkar, N., Tanaka, Y., Kyuuma, M., Takeshita, T., Flavell, R. A., & Davis, R. J. (2003). Mechanism of p38 MAP kinase activation in vivo. Genes & Development, 17(16), 1969–1978. https://doi.org/10.1101/gad.1107303  
+
+Han, J., Lee, J.-D., Jiang, Y., Li, Z., Feng, L., & Ulevitch, R. J. (1996). Characterization of the structure and function of a novel MAP kinase kinase (MKK6). The Journal of Biological Chemistry, 271(6), 2886–2891. https://doi.org/10.1074/jbc.271.6.2886  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Juyoux, P., Galdadas, I., Gobbo, D., von Velsen, J., Pelosse, M., Tully, M., … Bowler, M. W. (2023). Architecture of the MKK6-p38α complex defines the basis of MAPK specificity and activation. Science, 381(6665), 1217–1225. https://doi.org/10.1126/science.add7859  
+
+Liu, K., Zhang, C., Li, B., Xie, W., Zhang, J., Nie, X., … Zhi, F. (2018). Mutual stabilization between TRIM9 short isoform and MKK6 potentiates p38 signalling to synergistically suppress glioblastoma progression. Cell Reports, 23(3), 838–851. https://doi.org/10.1016/j.celrep.2018.03.096  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298(5600), 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Matsumoto, T., Kinoshita, T., Matsuzaka, H., Nakai, R., Kirii, Y., Yokota, K., & Tada, T. (2012). Crystal structure of non-phosphorylated MAP2K6 in a putative autoinhibition state. Journal of Biochemistry, 151(5), 541–549. https://doi.org/10.1093/jb/mvs023  
+
+Min, X., Akella, R., He, H., Humphreys, J. M., Tsutakawa, S. E., Lee, S.-J., … Goldsmith, E. J. (2009). The structure of the MAP2K MEK6 reveals an autoinhibitory dimer. Structure, 17(1), 96–104. https://doi.org/10.1016/j.str.2008.11.007  
+
+Pattison, M. J., Mitchell, O., Flynn, H. R., Chen, C.-S., Yang, H.-T., Ben-Addi, H., … Ley, S. C. (2016). TLR and TNF-R1 activation of the MKK3/MKK6–p38α axis in macrophages is mediated by TPL-2 kinase. Biochemical Journal, 473(18), 2845–2861. https://doi.org/10.1042/BCJ20160502  
+
+Peel, A. L., Sorscher, N., Kim, J. Y., Galvan, V., Chen, S. F., & Bredesen, D. (2007). Tau phosphorylation in Alzheimer’s disease. NeuroMolecular Medicine, 5(3), 205–218. https://doi.org/10.1385/NMM:5:3:205  
+
+Rasmussen, M. H., Lyskjær, I., Jersie-Christensen, R. R., Tarpgaard, L. S., Primdal-Bengtson, B., Nielsen, M. M., … Andersen, C. L. (2016). miR-625-3p regulates oxaliplatin resistance by targeting MAP2K6-p38 signalling in human colorectal adenocarcinoma cells. Nature Communications, 7, 12436. https://doi.org/10.1038/ncomms12436

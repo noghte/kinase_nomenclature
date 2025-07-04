@@ -1,0 +1,56 @@
+## Phylogeny  
+Inositol-1,4,5-trisphosphate 3-kinase A (ITPKA) belongs to the inositol polyphosphate kinase (IPK) family and clusters within the atypical protein kinase (aPK) group of the lipid-kinase-like branch of the group 1 protein kinase superfamily (González et al., 2004; Schell, 2010). IP3Ks arose before the divergence of fungi, plants and animals and are conserved across metazoans, with functional homologues in C. elegans and Drosophila (Schell, 2010; Xiong et al., 2024). Although structurally related to phosphoinositide 3-kinases, ITPKA is functionally distinct because it phosphorylates soluble inositol phosphates rather than membrane phosphoinositides (Schell, 2010; Windhorst et al., 2017).
+
+## Reaction Catalyzed  
+ATP + 1D-myo-inositol 1,4,5-trisphosphate ⇌ ADP + 1D-myo-inositol 1,3,4,5-tetrakisphosphate (Schell, 2010).  
+ITPKA also transfers the γ-phosphate of ATP to Ser29 of the protein substrate PYCR1 (Luo et al., 2024).
+
+## Cofactor Requirements  
+Catalysis requires Mg²⁺ or Mn²⁺ as divalent metal cofactors (Márquez-Moñino et al., 2024; Zhang et al., 2023).
+
+## Substrate Specificity  
+• High specificity for Ins(1,4,5)P₃, phosphorylating the 3-OH exclusively; no activity toward phosphoinositide lipids (Schell, 2010; Márquez-Moñino et al., 2024).  
+• Selectivity is conferred by a four-helix “IP lobe” insertion that forms a positively charged pocket for the inositol phosphate (González et al., 2004; Schell, 2010).  
+• Protein substrate: PYCR1 (Ser29) (Luo et al., 2024).  
+• Consensus peptide-array data are unavailable because ITPKA is not a canonical protein kinase (González et al., 2004; Windhorst et al., 2017; Xiong et al., 2024).
+
+## Structure  
+• 461-residue homodimer (Zhang et al., 2023).  
+• N-terminal actin-binding domain (1–52); 3-D structure unresolved (Schell, 2010; Windhorst et al., 2017).  
+• C-terminal IPK catalytic domain (245–455); crystal structure solved (PDB 1W2F). Key catalytic residue Lys264 (Zhang et al., 2023).  
+• Lacks canonical protein-kinase features (C-helix, hydrophobic spine, DFG catalytic loop) but retains an activation-segment motif (ID416FG) that orients ATP (González et al., 2004).  
+• Unique four-helix insertion in the C-lobe accommodates Ins(1,4,5)P₃ (González et al., 2004).
+
+## Regulation  
+• Phosphorylation: PKA, PKC and Ca²⁺/CaM-dependent protein kinase II (CaMKII) modify ITPKA; CaMKII phosphorylation increases V_max and Ca²⁺/CaM affinity (Schell, 2010; Zhang et al., 2023).  
+• Ca²⁺/Calmodulin: reports are conflicting—some describe direct CaM activation, whereas others state mammalian ITPKA lacks a CaM-binding domain (Schell, 2010; Xiong et al., 2024).  
+• Proteolysis: Ca²⁺-regulated calpains cleave ITPKA, separating targeting and catalytic modules but leaving the catalytic fragment active (Schell, 2010).
+
+## Function  
+Expression: Highly enriched in neurons (forebrain principal neurons, cerebellar Purkinje cells, dendritic spines) and detected in myeloid precursors (Schell, 2010; Unknown Authors, 2010).  
+Interacting partners and upstream regulators: F-actin, calmodulin, PKA, PKC, CaMKII, RASA3, Ras, Rap, Rac and protein substrate PYCR1 (Schell, 2010; Xiong et al., 2024; Luo et al., 2024).  
+Signalling: Terminates Ins(1,4,5)P₃-mediated Ca²⁺ release by generating Ins(1,3,4,5)P₄ and modulates Ras/Rap GTPase pathways (Schell, 2010).  
+Biological roles: Regulates synaptic plasticity, learning/memory and dendritic-spine morphology; bundles F-actin to remodel the cytoskeleton and enhance cell motility; phosphorylation of PYCR1 promotes glioma growth and invasion (Schell, 2010; Zhang et al., 2023; Luo et al., 2024).
+
+## Inhibitors  
+Purine-based inhibitors have been described; the best characterised are BIP-4 (IC₅₀ ≈ 157 nM, competitive) and BAMB-4 (IC₅₀ ≈ 20 µM, mixed) (Márquez-Moñino et al., 2024; Zhang et al., 2023; Unknown Authors, 2010).
+
+## Other Comments  
+ITPKA acts as an oncogene—over-expression drives motility, invasion and metastasis in glioblastoma and lung adenocarcinoma (Márquez-Moñino et al., 2024; Windhorst et al., 2017; Luo et al., 2024). Dysregulation is also linked to Alzheimer’s disease and Kawasaki disease (Schell, 2010; Xiong et al., 2024). Somatic mutation frequency is low (~1.1 %), with missense/truncating variants clustered in the catalytic domain; alterations in CaM- or F-actin-binding sites change activity or localisation (Schell, 2010; Zhang et al., 2023).
+
+## 9. References  
+González, B., Schell, M. J., Letcher, A. J., Veprintsev, D. B., Irvine, R. F., & Williams, R. L. (2004). Structure of a human inositol-1,4,5-trisphosphate 3-kinase: substrate binding reveals why it is not a phosphoinositide 3-kinase. Molecular Cell, 15(5), 689-701. https://doi.org/10.1016/j.molcel.2004.08.004  
+
+Luo, X., Chen, T., Deng, J., Liu, Z., Bi, C.-L., & Lan, S. (2024). ITPKA phosphorylates PYCR1 and promotes the progression of glioma. Heliyon, e35303. https://doi.org/10.1016/j.heliyon.2024.e35303  
+
+Márquez-Moñino, M. A., Ortega-García, R., Whitfield, H., Riley, A. M., Infantes, L., Whitfield, S. G., Shipton, M. L., Brearley, C. A., Potter, B. V. L., & González, B. (2024). Substrate promiscuity of inositol-1,4,5-trisphosphate kinase driven by structurally modified ligands and active-site plasticity. Nature Communications, 15, 45917. https://doi.org/10.1038/s41467-024-45917-5  
+
+Schell, M. (2010). Inositol trisphosphate 3-kinases: focus on immune and neuronal signalling. Cellular and Molecular Life Sciences, 67, 1755-1778. https://doi.org/10.1007/s00018-009-0238-5  
+
+Unknown Authors. (2010). Regulation of immune cell development through soluble inositol-1,3,4,5-tetrakisphosphate.  
+
+Windhorst, S., Song, K., & Gazdar, A. F. (2017). Inositol-1,4,5-trisphosphate 3-kinase-A (ITPKA) is frequently over-expressed and functions as an oncogene in several tumour types. Biochemical Pharmacology, 137, 1-9. https://doi.org/10.1016/j.bcp.2017.03.023  
+
+Xiong, T., Zhang, Z.-B., Fan, T., Ye, F., & Ye, Z. (2024). Origin, evolution and diversification of inositol-1,4,5-trisphosphate 3-kinases in plants and animals. BMC Genomics. https://doi.org/10.1186/s12864-024-10257-7  
+
+Zhang, X., He, J., & Ren, D. (2023). Commentary on: The actin-bundling activity of ITPKA mainly accounts for its migration-promoting effect in lung cancer cells. Bioscience Reports. https://doi.org/10.1042/BSR20230057

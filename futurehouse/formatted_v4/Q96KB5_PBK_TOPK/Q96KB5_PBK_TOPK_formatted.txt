@@ -1,0 +1,62 @@
+## Phylogeny  
+PDZ-binding kinase (PBK/TOPK) is a member of the CMGC group within the MAPKK-like subfamily; phylogenetic analyses position it between MAP2K1 and MAP2K7 in the human kinome (Unknown authors, 2021). Orthologues are present in mouse, rat, chicken, zebrafish and Xenopus, each conserving the cyclin-B/CDK1 phosphorylation site and catalytic core (Dougherty et al., 2005). High sequence homology with classical MEKs further supports its MAPKK-like classification (Kim et al., 2012).  
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Unknown authors, 2012).  
+
+## Cofactor Requirements  
+Requires divalent Mg²⁺ for phosphotransfer activity (Unknown authors, 2012).  
+
+## Substrate Specificity  
+PBK prefers the TGEKP consensus in which Thr(0) is followed by Gly(+1), an acidic residue Glu/Asp(+2) and Lys/Pro(+3); this motif is common in C2H2 zinc-finger linkers (Rizkallah et al., 2015; Unknown authors, 2021). A variant TGADKP motif has been identified on FUBP1 Thr229 (Unknown authors, 2021). Mitotic phosphoproteomics indicates additional enrichment for basophilic RXXpS and hydrophobic pSL/pSV motifs among PBK targets (Unknown authors, 2021).  
+
+## Structure  
+A 2.7 Å crystal structure of the phosphomimetic PBK(T9E,T198E) (PDB 5J0A) reveals a bilobal kinase domain (14 α-helices, 6 β-strands) that forms an inactive homodimer through β2–α2 and α10–α11 interfaces (Dong et al., 2016). The N-lobe contains the P-loop and catalytic Lys, whereas the C-lobe houses the HRD and DFG motifs and an activation loop centred on Thr198 (Unknown authors, 2012). Activation requires inward rotation of the αC-helix to complete the Lys–Glu salt bridge and align the catalytic/regulatory hydrophobic spines; phosphorylation of Thr198 stabilises this active conformation (Unknown authors, 2012). Molecular-dynamics simulations delineate an ATP pocket bordered by Pro95, Gly119 and Val174 (Kirubakaran et al., 2013). A C-terminal T/S-XV PDZ-binding motif (primate-specific) mediates interaction with hDlg (Unknown authors, 2021).  
+
+## Regulation  
+• CDK1–cyclin B1 phosphorylates Thr9, Ser24, Ser32 and Ser59 during prophase–metaphase, activating PBK.  
+• Protein phosphatase 1α removes the Thr9 phosphate at mitotic exit, inactivating the enzyme.  
+• Src phosphorylates Tyr74 and Tyr272, further enhancing activity.  
+• Thr198 is constitutively phosphorylated throughout the cell cycle (kinase unknown).  
+• CHFR ubiquitinates PBK, targeting it for proteasomal degradation.  
+• Alkaline pH favours formation of an inactive dimer; phosphorylation or okadaic-acid treatment shifts the equilibrium towards the active monomer (Dong et al., 2016; Unknown authors, 2021).  
+
+## Function  
+PBK is most abundant in testis and activated lymphoid cells, with additional expression in placenta, heart muscle and pancreas but low levels in differentiated tissues (Nettuwakul et al., 2020). It accumulates during G2/M in neural progenitors and is degraded by telophase (Dougherty et al., 2005). PBK is frequently over-expressed in colorectal, lung, breast, oesophageal and gastric cancers, correlating with aggressive disease and poor prognosis (Mc et al., 2012; Ohashi et al., 2016; Ohashi et al., 2017).  
+
+Upstream regulators include CDK1-cyclin B1, Src and the Hippo–YAP pathway (Dong et al., 2016; Unknown authors, 2021). Confirmed substrates/partners comprise MAPK p38α, PRC1, histone H2AX, C2H2 ZNF linker motifs, DUSP1 (leading to p38 inactivation) and PTEN (Dougherty et al., 2005; Unknown authors, 2012; Rizkallah et al., 2015; Mc et al., 2012; Unknown authors, 2021). PBK binds the TP53 DNA-binding domain, represses p21 transcription and weakens the G2/M checkpoint after DNA damage (Ohashi et al., 2016). It promotes cell migration and chemoresistance through PI3K/PTEN/AKT and ERK/JNK signalling (Mc et al., 2012; Park et al., 2020).  
+
+## Inhibitors  
+• HI-TOPK-032 – selective ATP-competitive inhibitor that suppresses colon-cancer xenografts (Kim et al., 2012).  
+• OTS514 and OTS964 – small molecules with antitumour activity independent of TP53 status (Ohashi et al., 2016).  
+• Broad-spectrum agents K252a and CEP1347 inhibit PBK in vitro (Rizkallah et al., 2015).  
+
+## Other Comments  
+PBK over-expression is an independent adverse prognostic marker in oesophageal squamous-cell carcinoma, gastric carcinoma and stage I lung adenocarcinoma (Ohashi et al., 2016; Ohashi et al., 2017; Lei et al., 2015). A germ-line p.Gly43Arg loss-of-function variant lowers p38 MAPK phosphorylation and is associated with kidney-stone disease (Nettuwakul et al., 2020).  
+
+## References  
+Dong, C., Tang, X., Xie, Y., Zou, Q., Yang, X., & Zhou, H. (2016). The crystal structure of an inactive dimer of PDZ-binding kinase. Biochemical and Biophysical Research Communications, 476(4), 586–593. https://doi.org/10.1016/j.bbrc.2016.05.166  
+
+Dougherty, J., Garcia, A. D., Nakano, I., Livingstone, M., Norris, B., Polakiewicz, R., Wexler, E. M., Sofroniew, M., Kornblum, H., & Geschwind, D. (2005). PBK/TOPK, a proliferating neural progenitor-specific mitogen-activated protein kinase kinase. Journal of Neuroscience, 25, 10773–10785. https://doi.org/10.1523/JNEUROSCI.3207-05.2005  
+
+Kim, D. J., Li, Y., Reddy, K., Lee, M.-H., Kim, M., Cho, Y.-Y., Lee, S.-Y., Kim, J.-E., Bode, A. M., & Dong, Z. (2012). Novel TOPK inhibitor HI-TOPK-032 effectively suppresses colon cancer growth. Cancer Research, 72(12), 3060–3068. https://doi.org/10.1158/0008-5472.CAN-11-3851  
+
+Kirubakaran, P., Karthikeyan, M., Singh, K. D., Nagamani, S., & Premkumar, K. (2013). In silico structural and functional analysis of the human TOPK protein by structure modelling and molecular dynamics studies. Journal of Molecular Modeling, 19, 407–419. https://doi.org/10.1007/s00894-012-1566-1  
+
+Lei, B., Qi, W., Zhao, Y., Li, Y., Liu, S., Xu, X., Zhi, C., Wan, L., & Shen, H. (2015). PBK/TOPK expression correlates with mutant p53 and affects patients’ prognosis and cell proliferation and viability in lung adenocarcinoma. Human Pathology, 46(2), 217–224. https://doi.org/10.1016/j.humpath.2014.07.026  
+
+Mc, S., Chen, J. Y., Wu, Y.-C., Jan, Y., Yang, B.-M., Lu, P., Cheng, H. C., Huang, M.-S., Yang, C.-J., Hsiao, M., & Lai, J.-M. (2012). TOPK/PBK promotes cell migration via modulation of the PI3K/PTEN/AKT pathway and is associated with poor prognosis in lung cancer. Oncogene, 31, 2389–2400. https://doi.org/10.1038/onc.2011.419  
+
+Nettuwakul, C., Sawasdee, N., Praditsap, O., Rungroj, N., Pasena, A., Dechtawewat, T., Deejai, N., Sritippayawan, S., Rojsatapong, S., Chaowagul, W., & Yenchitsomanus, P. (2020). A novel loss-of-function mutation of PBK associated with human kidney stone disease. Scientific Reports. https://doi.org/10.1038/s41598-020-66936-4  
+
+Ohashi, T., Komatsu, S., Ichikawa, D., Miyamae, M., Okajima, W., Imamura, T., Kiuchi, J., Nishibeppu, K., Kosuga, T., Konishi, H., Shiozaki, A., Fujiwara, H., Okamoto, K., Tsuda, H., & Otsuji, E. (2016). Overexpression of PBK/TOPK contributes to tumor development and poor outcome of esophageal squamous cell carcinoma. Anticancer Research, 36(12), 6457–6466. https://doi.org/10.21873/anticanres.11244  
+
+Ohashi, T., Komatsu, S., Ichikawa, D., Miyamae, M., Okajima, W., Imamura, T., Kiuchi, J., Kosuga, T., Konishi, H., Shiozaki, A., Fujiwara, H., Okamoto, K., Tsuda, H., & Otsuji, E. (2017). Overexpression of PBK/TOPK relates to tumour malignant potential and poor outcome of gastric carcinoma. British Journal of Cancer, 116, 218–226. https://doi.org/10.1038/bjc.2016.394  
+
+Park, J.-H., Park, S.-A., Lee, Y.-J., Park, H.-W., & Oh, S.-M. (2020). PBK attenuates paclitaxel-induced autophagic cell death by suppressing p53 in H460 non-small-cell lung cancer cells. FEBS Open Bio, 10, 937–950. https://doi.org/10.1002/2211-5463.12855  
+
+Rizkallah, R., Batsomboon, P., Dudley, G., & Hurt, M. (2015). Identification of the oncogenic kinase TOPK/PBK as a master mitotic regulator of C2H2 zinc finger proteins. Oncotarget, 6, 1446–1461. https://doi.org/10.18632/oncotarget.2735  
+
+Unknown authors. (2012). Evaluation of protein kinases for solution NMR spectroscopy and the structural mechanism of inhibition and activation of an oncogenic calcium calmodulin dependent … [pp. 22–36, 361–364].  
+
+Unknown authors. (2021). Phosphorylation events originating from PDZ-binding kinase/T-LAK cell-originated protein kinase (PBK/TOPK) in the near-haploid HAP1 cell line [pp. 12–15, 81–100].

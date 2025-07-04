@@ -1,0 +1,52 @@
+## Phylogeny  
+B-Raf belongs to the RAF sub-family within the Tyrosine-Kinase-Like (TKL) group of protein kinases (Manning et al., 2002). Some classifications also place it in the CMGC group (Manning et al., 2002). Phylogenetic analyses show that the single Raf homologs of invertebrates such as Caenorhabditis elegans and Drosophila melanogaster are more closely related to human B-Raf than to A-Raf or C-Raf, supporting B-Raf as the archetypal MEK kinase (Rauch et al., 2011).
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (Vilachã et al., 2020; Rauch et al., 2011).
+
+## Cofactor Requirements  
+Requires a divalent cation, typically Mg²⁺, which coordinates ATP during catalysis (Rauch et al., 2011; Vilachã et al., 2020).
+
+## Substrate Specificity  
+A proline-directed Ser/Thr kinase. Consensus motif: Ser/Thr-Pro at positions 0 and +1, with additional preferences at positions –3 to +3 (Johnson et al., 2023).
+
+## Structure  
+• Three conserved regions: CR1 (RAS-binding and cysteine-rich domains; autoinhibitory), CR2 (Ser/Thr-rich hinge; 14-3-3 binding), and CR3 (kinase domain) (Vilachã et al., 2020).  
+• Bilobal kinase fold: five-stranded β-sheet N-lobe and α-helix-rich C-lobe (Vilachã et al., 2020).  
+Key elements  
+– Gly-rich P-loop (G464-G469) positions ATP; hydrogen-bonding with Q530 and C532 plus K483–E501 interactions (Vilachã et al., 2020).  
+– αC-helix (T491-R506) shifts between inactive “out” and active “in” states (Vilachã et al., 2020).  
+– Activation loop extends from DFG (D594-F595-G596) to AxE motif (A621-P622-E623); phosphorylation of T599/S602 and DFG-in conformation are required for activity (Vilachã et al., 2020).
+
+## Regulation  
+• Autoinhibition via CR1–CR3 interactions keeps the kinase inactive (Vilachã et al., 2020).  
+• RAS-GTP induces homo- or heterodimerization (with C-Raf) through αC-helix side-to-side interfaces, activating the kinase (Vilachã et al., 2020; Rauch et al., 2011).  
+• Activation-loop phosphorylation at T599 and S602 is essential (Vilachã et al., 2020).  
+• Conformational switch: αC-helix “in” plus K483–E501 salt bridge and DFG-in orientation enable catalysis (Vilachã et al., 2020).  
+• Unlike A-Raf and C-Raf, B-Raf does not require N-terminal phosphorylation for activation (Vilachã et al., 2020).
+
+## Function  
+Core kinase of the RAS–RAF–MEK–ERK MAPK pathway, transmitting mitogenic signals to regulate cell proliferation, differentiation, survival, and apoptosis (Vilachã et al., 2020; Rauch et al., 2011).  
+Upstream: activated by RAS GTPases.  
+Downstream: phosphorylates MEK1/2, which activate ERK (Rauch et al., 2011).  
+Interactors: forms dimers with C-Raf; binds 14-3-3 and scaffolds such as KSR (Vilachã et al., 2020).
+
+## Inhibitors  
+First-generation: sorafenib stabilizes DFG-out but is non-selective (Vilachã et al., 2020).  
+Second-generation (type I 1/2): vemurafenib, dabrafenib, encorafenib bind αC-out/DFG-in conformation; vemurafenib weakly, dabrafenib strongly, promotes dimerization (Vilachã et al., 2020).  
+Pan-RAF inhibitor: LY3009120 (Vilachã et al., 2020).
+
+## Other Comments  
+BRAF is frequently mutated in cancers (melanoma, NSCLC, hairy-cell leukemia).  
+– V600E (≈92 % of BRAF mutations) mimics phosphorylation, locks the kinase in an active state, increases basal activity ~500-fold, and favors monomeric yet dimer-competent forms (Vilachã et al., 2020).  
+– Mutations are grouped into class 1 (RAS-independent monomers, e.g., V600E), class 2 (RAS-independent dimers), and class 3 (RAS-dependent, kinase-impaired but C-Raf-activating) (Vilachã et al., 2020; Rauch et al., 2011).  
+– Resistance to BRAF inhibitors can arise via NRAS or MEK mutations or gatekeeper T529 substitutions (Vilachã et al., 2020).
+
+## 9. References  
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Rauch, J., Volinsky, N., Romano, D., & Kolch, W. (2011). The secret life of kinases: functions beyond catalysis. Cell Communication and Signaling, 9, 23. https://doi.org/10.1186/1478-811X-9-23  
+
+Vilachã, J. F., Mitchel, S. C., Akele, M. Z., Evans, S., & Groves, M. R. (2020). Making NSCLC crystal clear: how kinase structures revolutionized lung cancer treatment. Crystals, 10, 725. https://doi.org/10.3390/cryst10090725

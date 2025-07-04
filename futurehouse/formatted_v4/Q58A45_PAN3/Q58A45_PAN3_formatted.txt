@@ -1,0 +1,65 @@
+## Phylogeny  
+PAN3 orthologs are found throughout eukaryotes, including humans, mouse, *Drosophila*, *Caenorhabditis elegans*, *Xenopus*, *Neurospora crassa*, *Chaetomium thermophilum*, and the yeasts *Saccharomyces cerevisiae* and *Schizosaccharomyces pombe* (Brown et al., 1996; Verma et al., 2024; Wolf et al., 2014). The protein contains a kinase-like fold but lacks the catalytic residues required for phosphotransfer and is therefore classified as a pseudokinase; accordingly, it is omitted from kinome catalogues (Christie et al., 2013; Verma et al., 2024).  
+
+## Reaction Catalyzed  
+Within the heterotrimeric PAN2-PAN3 complex, PAN2 is the catalytic subunit, and the assembled enzyme removes adenosine residues from the 3′ poly(A) tail of mRNA in a 3′→5′ exonucleolytic reaction:  
+
+poly(A)ₙ + H₂O → poly(A)ₙ₋₁ + AMP (Martin & Coller, 2014; Schäfer et al., 2019).  
+
+## Cofactor Requirements  
+Deadenylation by the PAN2-PAN3 complex requires divalent metal ions, typically Mg²⁺ (Unknown Authors, 2020a). The PAN3 pseudokinase domain binds ATP, although it is catalytically inactive (Wolf et al., 2014; Unknown Authors, 2014).  
+
+## Substrate Specificity  
+The complex selectively targets the 3′ poly(A) tail of mRNAs (Wolf et al., 2014; Unknown Authors, 2020b). PAN3 enhances specificity through:  
+• a PAM2 motif that interacts with poly(A)-binding protein (PABP), tethering the enzyme to polyadenylated transcripts (Mangus et al., 2004; Wolf et al., 2014);  
+• a CCCH-type zinc-finger that contacts poly(A) RNA directly (Verma et al., 2024; Unknown Authors, 2020a).  
+The stacked helical conformation of pure poly(A) is preferred; incorporation of guanosines into the tail strongly inhibits deadenylation (Tang et al., 2019; Unknown Authors, 2020a).  
+
+## Structure  
+PAN3 contains an N-terminal intrinsically disordered region with a CCCH zinc finger and PAM2 motif, a central pseudokinase (PK) domain, an intervening coiled-coil (CC) region, and a C-terminal knob (CK) domain (Wolf et al., 2014; Unknown Authors, 2014). The CC mediates formation of an asymmetric PAN3 homodimer; one such dimer associates with a single PAN2 molecule to form the active heterotrimer (Schäfer, 2014; Zhang et al., 2023). Dimerization also creates a tryptophan-binding pocket for GW182/TNRC6 proteins (Christie et al., 2013). The PK domain adopts the canonical bilobal kinase fold but lacks the catalytic Lys-Asp pair (Christie et al., 2013).  
+
+## Regulation  
+PAN3 is subject to multisite phosphorylation. In yeast, Pho85-Pcl1 phosphorylates T57 and S252 of Pan3p; in mammals, Cdk5 phosphorylates PAN3 (Unknown Authors, 1980; Verma et al., 2024). Phosphorylation modulates PABP binding and subcellular localization: hypophosphorylated variants accumulate in cytoplasmic P-bodies, whereas hyper-phosphorylated mimetics relocalize to the nucleus (Unknown Authors, 1980). ATP binding to the pseudokinase domain further influences complex stability and activity (Schäfer, 2014; Christie et al., 2013).  
+
+## Function  
+PAN3 acts as the regulatory subunit of the cytoplasmic PAN deadenylase, localizing to P-bodies where it:  
+• recruits PAN2 to polyadenylated mRNAs via PAM2–PABP and zinc-finger–RNA contacts (Wolf et al., 2014);  
+• engages GW182/TNRC6 proteins, linking the complex to miRNA-mediated silencing (Christie et al., 2013);  
+• interacts with Dun1 kinase and the RNA-binding protein MEX3 (Wolf et al., 2014; Unknown Authors, 2020c).  
+In *S. cerevisiae*, deletion of PAN3 abolishes PAN activity, lengthens poly(A) tails, and renders cells sensitive to nocodazole (Brown et al., 1996; Verma et al., 2024). In mammalian cells, PAN3 maintains spindle integrity and supports survival under microtubule stress (Verma et al., 2024).  
+
+## Other Comments  
+No disease-linked PAN3 mutations are reported in the cited literature. Mutations in the ATP-binding pocket impair mRNA decay, and mutations that disrupt PAN2 binding abolish deadenylation (Christie et al., 2013).  
+
+## 9. References  
+Brown, C. E., Tarun, S. Z., Boeck, R., & Sachs, A. B. (1996). *PAN3 encodes a subunit of the Pab1p-dependent poly(A) nuclease in* Saccharomyces cerevisiae. *Molecular and Cellular Biology, 16*, 5744–5753. https://doi.org/10.1128/MCB.16.10.5744  
+
+Christie, M., Boland, A., Huntzinger, E., Weichenrieder, O., & Izaurralde, E. (2013). Structure of the PAN3 pseudokinase reveals the basis for interactions with the PAN2 deadenylase and the GW182 proteins. *Molecular Cell, 51*, 360–373. https://doi.org/10.1016/j.molcel.2013.07.011  
+
+Mangus, D. A., Evans, M. C., Agrin, N. S., Smith, M., Gongidi, P., & Jacobson, A. (2004). Positive and negative regulation of poly(A) nuclease. *Molecular and Cellular Biology, 24*, 5521–5533. https://doi.org/10.1128/MCB.24.12.5521-5533.2004  
+
+Martin, S., & Coller, J. (2014). Pan-orama: three convergent views of a eukaryotic deadenylase. *Nature Structural & Molecular Biology, 21*, 577–578. https://doi.org/10.1038/nsmb.2850  
+
+Schäfer, I. B., Rode, M., Bonneau, F., Schüssler, S., & Conti, E. (2014). The structure of the PAN2–PAN3 core complex reveals cross-talk between deadenylase and pseudokinase. *Nature Structural & Molecular Biology, 21*, 591–598. https://doi.org/10.1038/nsmb.2834  
+
+Schäfer, I. B., Yamashita, M., Schuller, J., Schüssler, S., Reichelt, P., Strauss, M., & Conti, E. (2019). Molecular basis for poly(A) RNP architecture and recognition by the PAN2-PAN3 deadenylase. *Cell, 177*, 1619–1631.e21. https://doi.org/10.1016/j.cell.2019.04.013  
+
+Tang, T., Stowell, J., Hill, C., & Passmore, L. A. (2019). The intrinsic structure of poly(A) RNA determines the specificity of PAN2 and CAF1 deadenylases. *Nature Structural & Molecular Biology, 26*, 433–442. https://doi.org/10.1038/s41594-019-0227-9  
+
+Verma, J., He, Z., Brown, J. A. R., Dean, P., Young, B. P., Flibotte, S., Howe, L. J., Maxwell, C. D., Roskelley, C. D., & Loewen, C. J. R. (2024). Pan deadenylase ensures proper mitosis under conditions of microtubule stress by regulating spindle integrity and promoting cell survival. *bioRxiv*. https://doi.org/10.1101/2024.05.01.591760  
+
+Wolf, J., Valkov, E., Allen, M. D., Meineke, B., Gordiyenko, Y., McLaughlin, S. H., Olsen, T. M., Robinson, C. V., Bycroft, M., Stewart, M., & Passmore, L. A. (2014). Structural basis for PAN3 binding to PAN2 and its function in mRNA recruitment and deadenylation. *The EMBO Journal, 33*, 1514–1526. https://doi.org/10.15252/embj.201488373  
+
+Yan, Y.-B. (2014). Deadenylation: enzymes, regulation, and functional implications. *Wiley Interdisciplinary Reviews: RNA*. https://doi.org/10.1002/wrna.1221  
+
+Zhang, G., Luo, H., Li, X., Hu, Z., & Wang, Q. (2023). The dynamic poly(A) tail acts as a signal hub in mRNA metabolism. *Cells, 12*, 40572. https://doi.org/10.3390/cells12040572  
+
+Unknown Authors. (1980). *Functions of deadenylation factors in mRNA decay and mRNA processing body formation* (pp. 50–80).  
+
+Unknown Authors. (2014). *Structural characterization of eukaryotic mRNA decay factors involved in post-transcriptional gene regulation* (pp. 108–111).  
+
+Unknown Authors. (2020a). *Structural and biochemical investigation of the Pan2-Pan3 deadenylase complex* (pp. 30–39).  
+
+Unknown Authors. (2020b). *Structural and biochemical investigation of the Pan2-Pan3 deadenylase complex* (pp. 121–131).  
+
+Unknown Authors. (2020c). *Structural and biochemical investigation of the Pan2-Pan3 deadenylase complex* (pp. 185–193).

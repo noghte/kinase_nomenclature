@@ -1,0 +1,59 @@
+## Phylogeny  
+Haspin orthologs occur across the eukaryotic kingdom, including mammals (Mus musculus Gsg2), birds, amphibians (Xenopus laevis), insects (Drosophila CG8878), nematodes (Caenorhabditis elegans gene expansion), fungi (Saccharomyces cerevisiae Alk1/Alk2) and plants (Arabidopsis thaliana AtHaspin) (Higgins, 2001; Kurihara et al., 2011). Kinome surveys place these enzymes in a stand-alone “Haspin family” within the Other-Protein-Kinase group, distinct from classical eukaryotic protein-kinase subfamilies (Higgins, 2001; Eswaran et al., 2009).
+
+## Reaction Catalyzed  
+ATP + histone H3 (Thr-3) ⇌ ADP + histone H3 (O-phospho-Thr-3) (Eswaran et al., 2009).
+
+## Cofactor Requirements  
+Catalytic turnover requires divalent cations; Mg²⁺ supports maximal activity, whereas Mn²⁺ or Ca²⁺ can substitute in vitro (Eswaran et al., 2009).
+
+## Substrate Specificity  
+The preferred motif is Ala(P-2)-Arg(P-1)-Thr(0)-Lys(P + 1); acidic residues at any position are disfavoured (Maiolica et al., 2014). Phosphorylation efficiency decreases as Lys-4 adjacent to Thr-3 becomes progressively methylated (Eswaran et al., 2009).
+
+## Structure  
+• Residues 1–≈470 form an intrinsically disordered N-terminal segment that contains a basic autoinhibitory element (HBIS) (Amoussou et al., 2018).  
+• Residues ≈471–798 comprise a bilobed catalytic domain (Eswaran et al., 2009).  
+
+Distinctive 3-D features include:  
+– An activation segment remodelled into helix α_AS with a DYT motif replacing the canonical DFG, and a divergent APE tail (Amoussou et al., 2018).  
+– Helix ulH plus β-hairpin and β7–β8 inserts that immobilise helix C and the P-loop, locking the kinase in an active conformation independent of activation-loop phosphorylation (Eswaran et al., 2009; Higgins, 2010).  
+– A metal-binding site at the catalytic-loop/helix F interface that stabilises the hydrophobic spine (Eswaran et al., 2009).  
+
+Representative crystal structures: PDB 2VUW, 3DLZ, 3IQ7, 5V6O (Eswaran et al., 2009; Lavogina et al., 2016).
+
+## Regulation  
+Autoinhibition by the HBIS operates during interphase; CDK1 priming followed by PLK1-mediated multisite phosphorylation of HBIS at G2/M relieves this inhibition (Amoussou et al., 2018). H3-Thr-3 phosphorylation (H3T3ph) recruits Aurora B, which in turn further activates Haspin, establishing positive feedback (Amoussou et al., 2018). Dephosphorylation by the PP1γ–Repo-man complex removes H3T3ph during anaphase (Amoussou et al., 2018). More than 30 mitotic phosphosites accumulate in the disordered N-terminus without altering intrinsic catalytic rate (Higgins, 2010). Lys-4 methylation or acetylation on histone H3 modulates substrate recognition (Maiolica et al., 2014).
+
+## Function  
+Expression/localisation: high expression in haploid germ cells and detectable levels in proliferating somatic tissues (Higgins, 2003; Amoussou et al., 2018). During mitosis the kinase localises to condensed chromosomes (prophase–metaphase), centrosomes post-nuclear-envelope breakdown, spindle microtubules (metaphase) and the midbody (telophase) (Amoussou et al., 2018; Dai & Higgins, 2005).  
+
+Mitotic roles: H3T3ph provides the centromeric docking site for the chromosomal passenger complex (Aurora B, Survivin, INCENP), thereby protecting cohesin, promoting chromosome congression and sustaining spindle-assembly-checkpoint signalling (Higgins, 2010; Dai & Higgins, 2005). Haspin depletion causes prometaphase arrest with cohesion loss, whereas over-expression delays early mitosis (Dai & Higgins, 2005; Higgins, 2010).  
+
+Signalling partners: upstream kinases CDK1 and PLK1 prime/activate Haspin; downstream effectors include Aurora B, Survivin, INCENP, Sgo1 and PP1γ (Amoussou et al., 2018; Higgins, 2010).
+
+## Inhibitors  
+Potent ATP-competitive inhibitors include 5-iodotubercidin (IC₅₀ ≈ 5–9 nM), CHR-6494 (IC₅₀ ≈ 2 nM), ARC-3354 (K_d ≈ 0.42 nM) and LDN-192960 (IC₅₀ ≈ 10 nM). Bisubstrate imidazo[1,2-b]pyridazine complexes have been structurally characterised (Amoussou et al., 2018; Cuny et al., 2012; Lavogina et al., 2016).
+
+## Other Comments  
+The human GSG2 gene maps to chromosome 17p13.2/13.3, a region frequently deleted in tumours (Dai & Higgins, 2005). Pharmacological inhibition of Haspin suppresses tumour-cell proliferation in vitro and in xenograft models (Amoussou et al., 2018). Mutation His651Ala abolishes catalytic activity and is widely used as a kinase-dead control (Eswaran et al., 2009).
+
+## References  
+Amoussou, N. G., Bigot, A., Roussakis, C., & Robert, J.-M. H. (2018). Haspin: a promising target for the design of inhibitors as potent anticancer drugs. Drug Discovery Today, 23, 409–415. https://doi.org/10.1016/j.drudis.2017.10.005  
+
+Cuny, G. D., Ulyanova, N. P., Patnaik, D., Liu, J.-F., Lin, X., Auerbach, K., Ray, S. S., Xian, J., Glicksman, M. A., Stein, R. L., & Higgins, J. M. G. (2012). Structure–activity relationship study of beta-carboline derivatives as haspin kinase inhibitors. Bioorganic & Medicinal Chemistry Letters, 22, 2015–2019. https://doi.org/10.1016/j.bmcl.2012.01.028  
+
+Dai, J., & Higgins, J. (2005). Haspin: a mitotic histone kinase required for metaphase chromosome alignment. Cell Cycle, 4, 665–668. https://doi.org/10.4161/cc.4.5.1683  
+
+Eswaran, J., Patnaik, D., Filippakopoulos, P., Wang, F., Stein, R. L., Murray, J. W., Higgins, J. M. G., & Knapp, S. (2009). Structure and functional characterization of the atypical human kinase haspin. Proceedings of the National Academy of Sciences, 106, 20198–20203. https://doi.org/10.1073/pnas.0901989106  
+
+Higgins, J. M. G. (2001). Haspin-like proteins: a new family of evolutionarily conserved putative eukaryotic protein kinases. Protein Science, 10, 1677–1684. https://doi.org/10.1110/ps.49901  
+
+Higgins, J. M. G. (2003). Structure, function and evolution of haspin and haspin-related proteins, a distinctive group of eukaryotic protein kinases. Cellular and Molecular Life Sciences, 60, 446–462. https://doi.org/10.1007/s000180300038  
+
+Higgins, J. M. G. (2010). Haspin: a newly discovered regulator of mitotic chromosome behavior. Chromosoma, 119, 137–147. https://doi.org/10.1007/s00412-009-0250-4  
+
+Kurihara, D., Matsunaga, S., Omura, T., Higashiyama, T., & Fukui, K. (2011). Identification and characterization of plant haspin kinase as a histone H3 threonine kinase. BMC Plant Biology, 11, 73. https://doi.org/10.1186/1471-2229-11-73  
+
+Lavogina, D., Kestav, K., Chaikuad, A., Heroven, C., Knapp, S., & Uri, A. (2016). Co-crystal structures of the protein kinase haspin with bisubstrate inhibitors. Acta Crystallographica Section F: Structural Biology Communications, 72(5), 339–345. https://doi.org/10.1107/S2053230X16004611  
+
+Maiolica, A., de Medina-Redondo, M., Schoof, E. M., Chaikuad, A., Villa, F., Gatti, M., Jeganathan, S., Lou, H. J., Novy, K., Hauri, S., Toprak, U. H., Herzog, F., Meraldi, P., Penengo, L., Turk, B. E., Knapp, S., Linding, R., & Aebersold, R. (2014). Modulation of the chromatin phosphoproteome by the haspin protein kinase. Molecular & Cellular Proteomics, 13, 1724–1740. https://doi.org/10.1074/mcp.M113.034819

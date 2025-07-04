@@ -1,0 +1,60 @@
+## Phylogeny  
+Class III myosin kinases are conserved from invertebrates to vertebrates. Vertebrate orthologues include human MYO3A, mouse MYO3B and zebrafish class IIIB paralogues that retain tail- and loop-2 phosphorylation sites (Unknown authors, 2011, pp. 10–12). Invertebrate representatives are Limulus polyphemus Myo3 (LpMYO3) and Drosophila melanogaster ninaC, both preserving the N-terminal kinase fused to a myosin motor (Kempler et al., 2007, pp. 1–2; Komaba et al., 2003, p. 1). Sequence comparison places the kinase domain in the STE20/HGK–GCK branch of the PAK superfamily within the STE group (Coluccio, 2008, pp. 297–300; Quintero et al., 2013, pp. 3–4).  
+
+## Reaction Catalyzed  
+ATP + protein L-serine/threonine ⇌ ADP + protein O-phospho-L-serine/threonine (Coluccio, 2008, pp. 297–300).  
+
+## Cofactor Requirements  
+Dependence on Mg²⁺ or Mn²⁺ has not been experimentally demonstrated for the MYO3B kinase domain (Quintero et al., 2013, pp. 10–11).  
+
+## Substrate Specificity  
+• In vitro phosphorylated substrates: myosin regulatory light chain, calponin, actin and myelin basic protein on Ser/Thr residues (Coluccio, 2008, pp. 297–300).  
+• Intramolecular autophosphorylation and heterophosphorylation target basic-rich motifs; preferred consensus shows a basic residue at P-3 (Unknown authors, 2011, pp. 8–10).  
+• MYO3B was absent from the Johnson 2023 human Ser/Thr kinase specificity atlas (Quintero et al., 2013, pp. 10–11).  
+
+## Structure  
+Domain organisation (Komaba et al., 2003, p. 1; Unknown authors, 2018, pp. 37–41; Cirilo et al., 2021, pp. 5–7):  
+– N-terminal Ser/Thr kinase domain with a GxGGxxG P-loop and catalytic Lys 41.  
+– Central myosin motor domain that drives plus-end actin motility (~0.11 µm s⁻¹).  
+– Neck containing two IQ motifs that bind calmodulin.  
+– C-terminal tail homology domain I (THDI) that binds espin-1; tail homology domain II is absent.  
+
+3-D architecture: AlphaFold and homology models predict the kinase fold contiguous with the motor domain; no experimental structure is available (Unknown authors, 2018, pp. 41–42; Komaba et al., 2003, pp. 9–10).  
+
+Catalytic/regulatory residues (Quintero et al., 2013, pp. 3–4; Unknown authors, 2011, pp. 8–12):  
+Thr178 in the activation loop (required for full activity); Ser887 and Thr935 in motor loop 2; tail site Thr1263 within THDI.  
+
+## Regulation  
+• Autophosphorylation at Thr178, Ser887, Thr935, Ser1120 and Thr1263 increases kinase activity ~3.3-fold (Coluccio, 2008, pp. 297–300; Unknown authors, 2011, pp. 8–12).  
+• Activation-loop phosphorylation of Thr178 is obligatory for catalytic competence and correct localisation (Quintero et al., 2013, pp. 10–11).  
+• Ca²⁺-bound calmodulin partially dissociates from the IQ motifs, lowering motor ATPase activity and increasing actin affinity (Unknown authors, 2018, pp. 37–41).  
+• In the Limulus orthologue, loop 2 residues are phosphorylated by PKA, indicating potential cross-talk with cAMP signalling (Kempler et al., 2007, pp. 1–2).  
+
+## Function  
+Expression: Highest in cochlear and vestibular hair cells and photoreceptor calyceal processes, with additional expression in retina, brain, testes and gastrointestinal tract (Unknown authors, 2018, pp. 7–12; Cirilo et al., 2021, pp. 5–7).  
+
+Cellular roles: Acts as a plus-end-directed actin motor that transports espin-1 to stereocilia tips, regulating stereocilia number, length and staircase architecture and limiting ectopic microvilli during early hair-bundle morphogenesis (Unknown authors, 2018, pp. 12–17, 41–42).  
+
+Interacting partners: Espin-1 (THDI), F-actin (motor domain) and calmodulin (IQ motifs); MORN4 interaction is unconfirmed for MYO3B (Unknown authors, 2018, pp. 12–17; Liu et al., 2016, pp. 14–15).  
+
+Signalling context: Functions as a motor-kinase hybrid integrating mechanical movement with local phosphorylation in actin-rich protrusions (Coluccio, 2008, pp. 297–300).  
+
+## Other Comments  
+Loss-of-function mutations in paralogous MYO3A cause DFNB30 hearing loss; MYO3B itself is not yet linked to human disease but maps to a region overlapping Bardet–Biedl syndrome loci. Functional redundancy with MYO3A may mask phenotypes; mouse studies indicate a role in cochlear hair-bundle development (Komaba et al., 2003, pp. 1–2; Unknown authors, 2011, pp. 1–2; Unknown authors, 2018, pp. 41–42).  
+
+## References  
+Calcium regulation of Myosin3B. (2018). [Unpublished manuscript].  
+
+Cirilo, J. A., Gunther, L. K., & Yengo, C. M. (2021). Functional role of class III myosins in hair cells. Frontiers in Cell and Developmental Biology, 9, 643856. https://doi.org/10.3389/fcell.2021.643856  
+
+Coluccio, L. M. (2008). Myosins. Springer. https://doi.org/10.1007/978-1-4020-6519-4  
+
+Kempler, K., Tóth, J., Yamashita, R., Mapel, G., Robinson, K., Cardasis, H., Stevens, S., Sellers, J. R., & Battelle, B.-A. (2007). Loop 2 of Limulus myosin III is phosphorylated by protein kinase A and autophosphorylation. Biochemistry, 46, 4280–4293. https://doi.org/10.1021/bi062112u  
+
+Komaba, S., Inoue, A., Maruta, S., Hosoya, H., & Ikebe, M. (2003). Determination of human myosin III as a motor protein having a protein kinase activity. Journal of Biological Chemistry, 278, 21352–21360. https://doi.org/10.1074/jbc.M300757200  
+
+Liu, H., Li, J., Raval, M. H., Yao, N., Deng, X., Lu, Q., Nie, S., Feng, W., Wan, J., Yengo, C. M., Liu, W., & Zhang, M. (2016). Myosin III-mediated cross-linking and stimulation of actin bundling activity of espin. eLife, 5, e12856. https://doi.org/10.7554/eLife.12856  
+
+Myosin class III in mouse: kinase activity and phosphorylation sites. (2011). [Unpublished manuscript].  
+
+Quintero, O. A., Unrath, W. C., Stevens, S. M., Manor, U., Kachar, B., & Yengo, C. M. (2013). Myosin 3A kinase activity is regulated by phosphorylation of the kinase domain activation loop. Journal of Biological Chemistry, 288, 37126–37137. https://doi.org/10.1074/jbc.M113.511014

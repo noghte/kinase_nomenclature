@@ -1,0 +1,61 @@
+## Phylogeny  
+Highly conserved serine/threonine kinase with clear orthologs in Homo sapiens (MAPKAPK2), Mus musculus (Mapkapk2), Rattus norvegicus, Danio rerio and invertebrates such as Drosophila melanogaster and Caenorhabditis elegans (~60 % identity) (Cargnello & Roux, 2011; Roux & Blenis, 2004). Yeasts encode functional analogues (Rck1/Rck2 in Saccharomyces cerevisiae, Srk1/Mkp2 in Schizosaccharomyces pombe) that act downstream of p38-like modules but are not direct orthologs (Cargnello & Roux, 2011). Within the human kinome, MAPKAPK2 clusters with MAPKAPK3 (75 % identity) inside the MAPK-activated protein-kinase sub-family on the CaMK-like branch (Roux & Blenis, 2004; Cargnello & Roux, 2011).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr → ADP + [protein]-O-phospho-Ser/Thr (Fiore, Forli, & Manetti, 2016).  
+
+## Cofactor Requirements  
+Requires Mg²⁺ (standard assay 25 mM MgCl₂); Mn²⁺ can substitute with retained activity (Powell et al., 2003; Fiore et al., 2016).  
+
+## Substrate Specificity  
+Preferred consensus Φ-X-Arg-X₂-Ser/Thr (Φ = large hydrophobic) (Johnson et al., 2023). Verified cellular substrates include HSP27/HSPB1, TTP/ZFP36, LIMK1, LSP1, CDC25B/C, ALOX5 and ELAVL1 (Schindler, Monahan, & Smith, 2007; Fiore et al., 2016).  
+
+## Structure  
+Isoform 1 (400 aa) contains:  
+• Proline-rich SH3 segment (aa 10–40)  
+• Bilobal kinase core (aa 64–325) with Met138 gatekeeper creating a narrow ATP pocket  
+• Autoinhibitory α-helix (aa 328–364) that occludes the active site  
+• Nuclear export signal (aa 356–365)  
+• High-affinity p38 docking site (aa 366–390) with overlapping bipartite NLS (aa 371–374 & 385–389) (Fiore et al., 2016; Singh, Najmi, & Dastidar, 2017)  
+
+Representative PDB entries: apo 1KWP; ADP/staurosporine-bound 1NY3, 1NXK; phosphomimetic active 3KA0; p38α–MK2 heterodimers 2OZA, 2ONL (Fiore et al., 2016). Activation involves completion of the hydrophobic spine and αC-helix rotation; phosphorylation displaces the autoinhibitory helix, exposing the catalytic cleft and NLS (Fiore et al., 2016).  
+
+## Regulation  
+• Activated by p38α/MAPK14 phosphorylation on Thr222, Ser272 (activation loop) and Thr334 (C-terminus), which also unmasks the NES (Singh et al., 2017; Roux & Blenis, 2004).  
+• Autophosphorylation on Ser9, Thr25 and Ser328 (Fiore et al., 2016).  
+• SUMOylation of Lys353 by PIAS1 suppresses activity; K353R mutation abrogates inhibition (Fiore et al., 2016).  
+• Tight p38 docking via residues 370–400 (K_d ≈ 20 nM) is essential for efficient activation (Fiore et al., 2016).  
+• Catalysis is lost in Lys93→Arg or Asp207→Ala mutants; Thr222E/Thr334E phosphomimetics confer constitutive activity (Fiore et al., 2016).  
+• No ubiquitination reported to date.  
+
+## Function  
+Highly expressed in heart, skeletal muscle and kidney; present in immune and stromal cells (Roux & Blenis, 2004). Activated stress pathway: stress → MKK3/6 → p38α → MK2 (Singh et al., 2017). Principal roles:  
+– Actin cytoskeleton remodelling and cell migration via HSP27 phosphorylation (Schindler et al., 2007).  
+– Post-transcriptional regulation of inflammatory cytokines through phosphorylation of TTP/ZFP36 and ELAVL1 (Soni, Anand, & Padwad, 2019).  
+– Cell-cycle and DNA-damage checkpoints via CDC25B/C and LIMK1 (Fiore et al., 2016).  
+– Identified as a driver kinase in murine colitis models (Strasser et al., 2019).  
+
+## Inhibitors  
+ATP-competitive type I: staurosporine (co-crystal 1NY3); PF-3644022 (IC₅₀ ≈ 5 nM enzymatic, ~150 nM cellular) suppresses TNF-α release in vivo (Fiore et al., 2016). Indirect inhibition: p38α blocker SB203580 prevents MK2 activation (Schindler et al., 2007).  
+
+## Other Comments  
+Mapkapk2-knockout mice exhibit reduced TNF-α/IL-6 production and resistance to endotoxic shock (Schindler et al., 2007). Persistent MK2 activity stabilises oncogenic transcripts and promotes tumour progression (Soni et al., 2019). Hyperactivation of the p38/MK2 axis contributes to inflammatory bowel disease pathology (Strasser et al., 2019).  
+
+## References  
+Cargnello, M., & Roux, P. P. (2011). Activation and function of the MAPKs and their substrates, the MAPK-activated protein kinases. Microbiology and Molecular Biology Reviews, 75, 50–83. https://doi.org/10.1128/MMBR.00031-10  
+
+Fiore, M., Forli, S., & Manetti, F. (2016). Targeting mitogen-activated protein kinase-activated protein kinase 2 (MAPKAPK2, MK2): Medicinal chemistry efforts to lead small-molecule inhibitors to clinical trials. Journal of Medicinal Chemistry, 59(8), 3609–3634. https://doi.org/10.1021/acs.jmedchem.5b01457  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., et al. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Powell, D. W., Rane, M. J., Joughin, B. A., et al. (2003). Proteomic identification of 14-3-3ζ as a mitogen-activated protein kinase-activated protein kinase 2 substrate: Role in dimer formation and ligand binding. Molecular and Cellular Biology, 23, 5376–5387. https://doi.org/10.1128/MCB.23.15.5376-5387.2003  
+
+Roux, P. P., & Blenis, J. (2004). ERK and p38 MAPK-activated protein kinases: A family of protein kinases with diverse biological functions. Microbiology and Molecular Biology Reviews, 68, 320–344. https://doi.org/10.1128/MMBR.68.2.320-344.2004  
+
+Schindler, J. F., Monahan, J. B., & Smith, W. G. (2007). p38 pathway kinases as anti-inflammatory drug targets. Journal of Dental Research, 86, 800–811. https://doi.org/10.1177/154405910708600902  
+
+Singh, R., Najmi, A., & Dastidar, S. (2017). Biological functions and role of mitogen-activated protein kinase activated protein kinase 2 (MK2) in inflammatory diseases. Pharmacological Reports, 69, 746–756. https://doi.org/10.1016/j.pharep.2017.03.023  
+
+Soni, S., Anand, P., & Padwad, Y. S. (2019). MAPKAPK2: The master regulator of RNA-binding proteins modulates transcript stability and tumour progression. Journal of Experimental & Clinical Cancer Research. https://doi.org/10.1186/s13046-019-1115-1  
+
+Strasser, S. D., Ghazi, P. C., Starchenko, A., et al. (2019). Substrate-based kinase activity inference identifies MK2 as driver of colitis. Integrative Biology. https://doi.org/10.1093/intbio/zyz025

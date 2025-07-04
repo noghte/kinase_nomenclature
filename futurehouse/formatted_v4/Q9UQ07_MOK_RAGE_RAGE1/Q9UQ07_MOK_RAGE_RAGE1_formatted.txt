@@ -1,0 +1,48 @@
+## Phylogeny  
+MOK is a member of the CMGC protein-kinase group and belongs to the RCK (ros-cross-hybridizing kinase) subfamily together with MAK and ICK/MRK (Chowdhury et al., 2023). Within this clade it shows 42.6 % sequence identity to ICK/MRK and 40.5 % to MAK (Miyata et al., 1999). Divergence in the activation segment (TEY in MOK versus TDY in MAK/ICK) defines a distinct RCK branch (Miyata et al., 1999). Orthologues such as DYF-5 (Caenorhabditis elegans), LF4 (Chlamydomonas reinhardtii), LF4A (Tetrahymena thermophila) and LmxMPK9 (Leishmania mexicana) are conserved negative regulators of axonemal length (Fu et al., 2019).
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr → ADP + [protein]-Ser/Thr-P  
+(The kinase also undergoes intrinsic autophosphorylation within its TEY activation loop) (Miyata et al., 1999).
+
+## Cofactor Requirements  
+Divalent-metal dependence has not yet been experimentally defined; no cofactor requirement is reported (Chowdhury et al., 2023).
+
+## Substrate Specificity  
+• Preferred motif R-P-X-S/T-P, identified by positional-scanning peptide arrays and enriched among MOK interactors (Ciliary length control, 2012).  
+• Verified cellular substrates: Brd4-Ser492, modulating microglial inflammatory/type-I IFN genes (Pérez-Cabello et al., 2023); and Raptor, linking MOK to mTORC1 signalling (Ciliary length control, 2012).  
+• Efficiently phosphorylates generic MAPK reporter peptides and displays strong autophosphorylation when the TEY motif is intact (Miyata et al., 1999).
+
+## Structure  
+The human enzyme is a 419–420-residue protein containing a single catalytic domain. It possesses a non-canonical glycine-rich loop (GXGXXS) in place of the customary GXGXXG (Miyata et al., 1999). An AlphaFold model (AF-Q9UQ07-F1) predicts a canonical bilobal MAPK fold featuring the Lys41–Glu59 salt bridge, HRD catalytic triad (His153-Arg154-Asp155), DFG175-177 motif, a correctly aligned hydrophobic spine and an outward-rotated C-helix consistent with an inactive state (Pérez-Cabello et al., 2023). The activation segment contains the TEY183-185 motif whose dual phosphorylation is obligatory for activity (Miyata et al., 1999). No experimental PDB structure is currently available (Chowdhury et al., 2023).
+
+## Regulation  
+Post-translational control: activity requires dual phosphorylation of Thr183 and Tyr185; mutation of TEY to AEA abolishes activity (Miyata et al., 1999). MOK is capable of autophosphorylating Tyr185 in vitro, but its upstream activating kinase has not been identified (Chowdhury et al., 2023).  
+Signal-dependent regulation: the kinase is rapidly activated by phorbol ester (TPA) but is unresponsive to serum, anisomycin or hyperosmotic stress; okadaic acid markedly enhances activity, implicating serine/threonine phosphatases as negative regulators (Miyata et al., 1999).  
+Protein interactions: association with HSP90 and the co-chaperone Cdc37 suggests chaperone-assisted maturation/stability (Ciliary length control, 2012).
+
+## Function  
+Expression: MOK mRNA is broadly expressed in human heart, brain, lung, kidney and pancreas, with highest levels in mouse testis (Miyata et al., 1999). It is present throughout the small intestine but low in the colon epithelium (The long and the short of it, 2018) and is detectable in renal epithelial IMCD-3 cells (Ciliary length control, 2012). Up-regulation is observed in spinal-cord microglia from ALS patients and SOD1^G93A mice (Pérez-Cabello et al., 2023).  
+Subcellular localisation and roles: the kinase localises along the axoneme and at the basal body of primary cilia; shRNA-mediated knock-down elongates cilia by ~40 %, identifying MOK as a negative regulator of cilium length. It also modulates intraflagellar transport frequency without altering motor velocity (Ciliary length control, 2012; Jansen & Broekhuis, 2012).  
+Signalling interactions: phosphorylation of Raptor attenuates mTORC1 activity, and rapamycin blocks the ciliary-elongation phenotype caused by MOK loss (Ciliary length control, 2012). Phosphorylation of Brd4 enhances chromatin binding at cytokine promoters, driving TNF-α, IL-6 and IL-1β induction in LPS-stimulated microglia (Pérez-Cabello et al., 2023). Proteomic studies identified centrosomal/ciliary partners such as centriolin, CEP350 and rootletin (Ciliary length control, 2012). Co-localisation with cytoplasmic TDP-43 inclusions has been reported in ALS models (Pérez-Cabello et al., 2023).
+
+## Inhibitors  
+C13 is a research-grade small molecule that blocks MOK-dependent Brd4-Ser492 phosphorylation and suppresses pro-inflammatory cytokine secretion in microglia (Pérez-Cabello et al., 2023).
+
+## Other Comments  
+MOK protein is markedly down-regulated in mouse intestinal adenomas, suggesting loss may accompany intestinal tumorigenesis (Chowdhury et al., 2023; The long and the short of it, 2018). Elevated expression in ALS microglia and pharmacological mitigation by C13 nominate MOK as a potential neuroinflammatory target (Pérez-Cabello et al., 2023).
+
+## 9. References  
+Chowdhury, I., Dashi, G., & Keskitalo, S. (2023). CMGC kinases in health and cancer. Cancers, 15, 3838. https://doi.org/10.3390/cancers15153838  
+
+Ciliary length control. (2012).  
+
+Fu, Z., Gailey, C. D., Wang, E. J., & Brautigan, D. L. (2019). Ciliogenesis associated kinase 1: targets and functions in various organ systems. FEBS Letters. https://doi.org/10.1002/1873-3468.13600  
+
+Jansen, G., & Broekhuis, J. (2012). Regulation of cilium length and intraflagellar transport by the MAP kinases MAK, MRK, and MOK. Cilia, 1, O12–O12. https://doi.org/10.1186/2046-2530-1-S1-O12  
+
+Miyata, Y., Akashi, M., & Nishida, E. (1999). Molecular cloning and characterization of a novel member of the MAP kinase superfamily. Genes to Cells, 4, 299–309. https://doi.org/10.1046/j.1365-2443.1999.00261.x  
+
+Pérez-Cabello, J. A., Silvera-Carrasco, L., Franco, J. M., Capilla-González, V., Armaos, A., Gómez-Lima, M., … Roodveldt, C. (2023). MAPK/MAK/MRK overlapping kinase (MOK) controls microglial inflammatory/type-I IFN responses via BRD4 and is involved in ALS. Proceedings of the National Academy of Sciences. https://doi.org/10.1073/pnas.2302143120  
+
+The long and the short of it: The role of cell cycle-related kinase (CCRK) and intestinal cell kinase (ICK) in ciliogenesis and hedgehog signaling. (2018).

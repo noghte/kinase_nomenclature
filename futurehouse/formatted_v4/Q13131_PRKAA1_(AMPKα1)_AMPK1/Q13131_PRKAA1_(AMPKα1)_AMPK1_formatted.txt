@@ -1,0 +1,61 @@
+## Phylogeny  
+PRKAA1, the catalytic α1 subunit of AMP-activated protein kinase (AMPK), is widely conserved throughout eukaryotes with the yeast SNF1 kinase representing the ancestral ortholog (Steinberg & Hardie, 2023; Carling et al., 2012; Witczak et al., 2008). Mammalian α1 and α2 isoforms share ~90 % sequence identity across the kinase domain (Kurumbail & Calabrese, 2016). Within the protein kinase super-family, PRKAA1 is classified in the Ca2+/calmodulin-dependent protein kinase (CAMK)-like group and further assigned to the RD (Arg-Asp) sub-family (Steinberg & Hardie, 2023; Yan et al., 2018).  
+
+## Reaction Catalyzed  
+ATP + protein ⇌ ADP + phosphoprotein (Yan et al., 2018; Gu et al., 2017).
+
+## Cofactor Requirements  
+Catalysis requires a divalent metal ion, most commonly Mg2+ (also Mn2+), which coordinates ATP in the active site (Steinberg & Hardie, 2023; Yan et al., 2018; Woods et al., 2003).
+
+## Substrate Specificity  
+PRKAA1 phosphorylates Ser/Thr residues located within basic, hydrophobic motifs. Optimal peptide features include a hydrophobic residue at –5 (Met preferred), Arg/Lys at –3, and a hydrophobic residue at +4, yielding the consensus ϕ-X-Arg/Lys-X-X-Ser/Thr-X-ϕ (Johnson et al., 2023; Dale et al., 1995; Steinberg & Hardie, 2023). Large-scale profiling confirms a general preference for basic residues N-terminal to the phospho-acceptor (Johnson et al., 2023). An illustrative minimal motif is L-X-R-X-X-S/T (Ducommun et al., 2015).
+
+## Structure  
+The AMPK holo-enzyme is a heterotrimer comprising the catalytic α (PRKAA1), scaffolding β and regulatory γ subunits (Steinberg & Hardie, 2023; Carling et al., 2012).  
+• α1 architecture: N-terminal kinase domain (KD), autoinhibitory domain (AID), and C-terminal region that contacts β/γ (Kurumbail & Calabrese, 2016; Russell & Hardie, 2020).  
+• Key KD elements: ATP-binding cleft, activation loop (Thr172), and a mobile αC helix that shifts from an autoinhibitory to an active position during activation (Yan et al., 2018; Xiao et al., 2013).  
+• β subunit: contains a carbohydrate-binding module (CBM) that docks onto the KD N-lobe (Kurumbail & Calabrese, 2016).  
+• γ subunit: houses four cystathionine-β-synthase (CBS) motifs forming adenine nucleotide–binding sites that sense cellular energy status (Carling et al., 2012).
+
+## Regulation  
+Allosteric and covalent mechanisms cooperate to modulate PRKAA1 activity (Steinberg & Hardie, 2023).  
+• Allosteric control: AMP binding to the γ subunit promotes an active conformation, enhances Thr172 phosphorylation and protects this site from phosphatases; ADP affords partial protection, whereas ATP antagonizes activation. The α-subunit AID suppresses basal activity (Kurumbail & Calabrese, 2016; Carling et al., 2012).  
+• Phosphorylation: Full activation requires Thr172 phosphorylation by upstream kinases LKB1 and CAMKK2 (Steinberg & Hardie, 2023; Russell & Hardie, 2020). Inhibitory Ser487 phosphorylation by AKT and others reduces Thr172 phosphorylation (Russell & Hardie, 2020).  
+• Dephosphorylation: PP2C family enzymes, PP1 and PP2A remove the Thr172 phosphate (Carling et al., 2012; Gu et al., 2017).  
+• Ubiquitination: E3 ligase WWP1 can target AMPK for proteasomal degradation (Yan et al., 2018).
+
+## Function  
+AMPK incorporating PRKAA1 is a master sensor of cellular energy, highly expressed in skeletal muscle, liver and heart (Steinberg & Hardie, 2023; Witczak et al., 2008).  
+• Upstream/Downstream signaling: Activated by LKB1 and CAMKK2, PRKAA1 phosphorylates metabolic enzymes (acetyl-CoA carboxylase, HMG-CoA reductase, hormone-sensitive lipase) and regulators of autophagy and transcription (ULK1, TFEB, FOXO3) to restore ATP balance (Steinberg & Hardie, 2023).  
+• Cellular roles: Inhibits anabolic pathways (lipid and carbohydrate synthesis) while stimulating catabolic processes (fatty-acid oxidation, glucose uptake). Also governs cell proliferation, autophagy, mitochondrial homeostasis and lysosomal biogenesis (Steinberg & Hardie, 2023; Kurumbail & Calabrese, 2016).
+
+## Inhibitors  
+Compound C is a widely used experimental ATP-competitive inhibitor of AMPK activity (Steinberg & Hardie, 2023; Witczak et al., 2008).
+
+## Other Comments  
+Genetic or functional disruption of AMPK subunits contributes to metabolic disorders, cancer and cardiovascular disease (Steinberg & Hardie, 2023; Kurumbail & Calabrese, 2016). Mutations in PRKAG2 (γ2) cause glycogen-storage cardiomyopathies (Gu et al., 2017). Loss-of-function mutations in the tumor-suppressor kinase LKB1 impair AMPK activation in many cancers (Russell & Hardie, 2020).
+
+## 9. References  
+Carling, D., Thornton, C., Woods, A., & Sanders, M. (2012). AMP-activated protein kinase: New regulation, new roles? Biochemical Journal, 445(1), 11–27. https://doi.org/10.1042/BJ20120546  
+
+Dale, S., Wilson, W. A., Edelman, A. M., & Hardie, D. G. (1995). Similar substrate recognition motifs for mammalian AMP-activated protein kinase, higher plant HMG-CoA reductase kinase-A, yeast SNF1, and mammalian calmodulin-dependent protein kinase I. FEBS Letters, 361(2–3), 191–195. https://doi.org/10.1016/0014-5793(95)00172-6  
+
+Ducommun, S., Deák, M., Sumpton, D., Ford, R., Núñez Galindo, A., Kussmann, M., Viollet, B., Steinberg, G., Foretz, M., Dayon, L., Morrice, N., & Sakamoto, K. (2015). Motif affinity and mass spectrometry proteomic approach for the discovery of cellular AMPK targets: Identification of mitochondrial fission factor as a new AMPK substrate. Cellular Signalling, 27(5), 978–988. https://doi.org/10.1016/j.cellsig.2015.02.008  
+
+Gu, X., Yan, Y., Novick, S., Kovach, A., Goswami, D., Ke, J., Tan, M., Wang, L., Li, X., de Waal, P. W., Webb, M., Griffin, P., Xu, H., & Melcher, K. (2017). Deconvoluting AMP-activated protein kinase (AMPK) adenine nucleotide binding and sensing. Journal of Biological Chemistry, 292(30), 12653–12666. https://doi.org/10.1074/jbc.M117.793018  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Kurumbail, R., & Calabrese, M. (2016). Structure and regulation of AMPK. Experientia Supplementum, 107, 3–22. https://doi.org/10.1007/978-3-319-43589-3_1  
+
+Russell, F. M., & Hardie, D. G. (2020). AMP-activated protein kinase: Do we need activators or inhibitors to treat or prevent cancer? International Journal of Molecular Sciences, 22(1), 186. https://doi.org/10.3390/ijms22010186  
+
+Steinberg, G., & Hardie, D. G. (2023). New insights into activation and function of the AMPK. Nature Reviews Molecular Cell Biology, 24, 255–272. https://doi.org/10.1038/s41580-022-00547-x  
+
+Witczak, C. A., Sharoff, C. G., & Goodyear, L. J. (2008). AMP-activated protein kinase in skeletal muscle: From structure and localization to its role as a master regulator of cellular metabolism. Cellular and Molecular Life Sciences, 65(23), 3737–3755. https://doi.org/10.1007/s00018-008-8244-6  
+
+Woods, A., Vertommen, D., Neumann, D., Türk, R., Bayliss, J., Schlattner, U., Wallimann, T., Carling, D., & Rider, M. H. (2003). Identification of phosphorylation sites in AMP-activated protein kinase (AMPK) for upstream AMPK kinases and study of their roles by site-directed mutagenesis. Journal of Biological Chemistry, 278(32), 28434–28442. https://doi.org/10.1074/jbc.M303946200  
+
+Xiao, B., Sanders, M. J., Carmena, D., Bright, N. J., Haire, L. F., Underwood, E., Patel, B. R., Heath, R. B., Walker, P. A., Hallen, S., Giordanetto, F., Martin, S. R., Carling, D., & Gamblin, S. J. (2013). Structural basis of AMPK regulation by small-molecule activators. Nature Communications, 4, 3017. https://doi.org/10.1038/ncomms4017  
+
+Yan, Y., Zhou, X. E., Xu, H., & Melcher, K. (2018). Structure and physiological regulation of AMPK. International Journal of Molecular Sciences, 19(11), 3534. https://doi.org/10.3390/ijms19113534

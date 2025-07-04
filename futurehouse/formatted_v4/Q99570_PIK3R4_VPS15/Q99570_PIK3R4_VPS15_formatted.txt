@@ -1,0 +1,52 @@
+## Phylogeny  
+PIK3R4/Vps15 is evolutionarily conserved from yeast to mammals and sits within the protein-kinase superfamily as a lipid-kinase–related pseudokinase in the eukaryotic protein kinase branch (Backer, 2008; Ohashi, 2021; Unknown Authors, 2020; Cook et al., 2025).
+
+## Reaction Catalyzed  
+Phosphatidylinositol (PtdIns) + ATP ⇌ Phosphatidylinositol-3-phosphate (PtdIns3P) + ADP  
+(This reaction is executed by the catalytic VPS34 subunit of the PI3KC3 complex that is regulated by PIK3R4/Vps15) (Backer, 2008; Cook et al., 2025).
+
+## Cofactor Requirements  
+Mg²⁺ (or other divalent cations) and ATP are required for PI3KC3 catalysis (Backer, 2008; Cook et al., 2025).  
+The VPS15 pseudokinase domain uniquely binds GTP, which is essential for complex activity (Cook et al., 2025).
+
+## Substrate Specificity  
+PIK3R4/Vps15 itself is catalytically impaired; therefore, no protein substrate motif has been identified. The PI3KC3 complex that it regulates is specific for membrane-embedded phosphatidylinositol lipids (Backer, 2008; Bilanges et al., 2019).
+
+## Structure  
+PIK3R4/Vps15 comprises an N-terminal pseudokinase domain (VPS15PKD), a central HEAT-repeat scaffold, and a C-terminal WD40 propeller linked by a flexible connector (Cook et al., 2025; Baskaran et al., 2014; Unknown Authors, 2020). Cryo-EM structures (~2.3 Å in regions) show the HEAT repeats form an arch, contributing to the V-shaped architecture of the PI3KC3 complex (Cook et al., 2025; Baskaran et al., 2014; Unknown Authors, 2020). Arg103 occupies the gatekeeper site in VPS15PKD, enabling GTP binding and positioning the domain to sequester the VPS34 activation loop (Cook et al., 2025).
+
+## Regulation  
+• N-terminal Gly2 is N-myristoylated; the myristate inserts into a VPS15PKD pocket, anchoring the complex to membranes and stabilizing the inactive VPS34 conformation (Cook et al., 2025; Bilanges et al., 2019).  
+• GTP binding to VPS15PKD is a key allosteric switch (Cook et al., 2025).  
+• Conformational transitions are modulated by binding partners such as Rab5A and RAB1A, which interact with the WD40 domain to promote activation (Cook et al., 2025; Unknown Authors, 2020).
+
+## Function  
+PIK3R4/Vps15 acts as a scaffold and regulatory subunit that stabilizes VPS34/PIK3C3 and targets the PI3KC3 complexes to membranes (Backer, 2008; Reidick et al., 2014).  
+• Complex I (PI3KC3-C1: VPS34-PIK3R4-BECN1-ATG14) initiates autophagy (Backer, 2008; Chu et al., 2021). Regulators include NRBF2 and AMBRA1 (Chu et al., 2021).  
+• Complex II (PI3KC3-C2: VPS34-PIK3R4-BECN1-UVRAG) controls endocytic trafficking and autophagosome–lysosome fusion; Rubicon is a negative regulator (Backer, 2008; Reidick et al., 2014; Chu et al., 2021).  
+Upstream recruitment is mediated by Rab5A binding to the WD40 domain, and a VPS34-independent VPS15–GM130 complex operates at the Golgi (Unknown Authors, 2020).
+
+## Inhibitors  
+• Bcl-2 binds Beclin-1 within the complex, suppressing activity and autophagy (Backer, 2008).  
+• Small-molecule inhibitors of VPS34 include 3-methyladenine and wortmannin, which are non-selective PI3K inhibitors (Bilanges et al., 2019; Backer, 2008).  
+• Rubicon protein inhibits PI3KC3-C2 by binding UVRAG (Reidick et al., 2014).
+
+## Other Comments  
+Mis-regulation of PI3KC3 complexes is linked to cancer progression, chemoresistance, ciliopathy, renal insufficiency, Fanconi-like syndrome, and X-linked centronuclear myopathy (Backer, 2008; Chu et al., 2021; Unknown Authors, 2020; Bilanges et al., 2019). Mutations are more frequently reported in partner proteins (BECN1, UVRAG) than in PIK3R4 itself, although disease-associated VPS15 variants have been described (Chu et al., 2021).
+
+## References  
+Backer, J. (2008). The regulation and function of class III PI3Ks: novel roles for VPS34. The Biochemical Journal, 410(1), 1–17. https://doi.org/10.1042/BJ20071427  
+
+Baskaran, S., Carlson, L., Stjepanovic, G., Young, L. N., Kim, D. J., Grob, P., Stanley, R., Nogales, E., & Hurley, J. (2014). Architecture and dynamics of the autophagic phosphatidylinositol 3-kinase complex. eLife. https://doi.org/10.7554/eLife.05115  
+
+Bilanges, B., Posor, Y., & Vanhaesebroeck, B. (2019). PI3K isoforms in cell signalling and vesicle trafficking. Nature Reviews Molecular Cell Biology, 20, 515–534. https://doi.org/10.1038/s41580-019-0129-z  
+
+Chu, C.-A., Wang, Y.-W., Chen, Y.-L., Chen, H.-W., Chuang, J.-J., Chang, H.-Y., Ho, C.-L., Chang, C., Chow, N.-H., & Lee, C.-T. (2021). The role of phosphatidylinositol 3-kinase catalytic subunit type 3 in the pathogenesis of human cancer. International Journal of Molecular Sciences, 22, 10964. https://doi.org/10.3390/ijms222010964  
+
+Cook, A. S. I., Chen, M., Nguyen, T., Claveras Cabezudo, A., Khuu, G., Rao, S., Garcia, S. N., Yang, M., Iavarone, A., Ren, X., Lazarou, M., Hummer, G., & Hurley, J. H. (2025). Structural pathway for PI3-kinase regulation by VPS15 in autophagy. Science. https://doi.org/10.1126/science.adl3787  
+
+Ohashi, Y. (2021). Activation mechanisms of the VPS34 complexes. Cells, 10, 13124. https://doi.org/10.3390/cells10113124  
+
+Reidick, C., El Magraoui, F., Meyer, H., Stenmark, H., & Platta, H. (2014). Regulation of the tumor-suppressor function of the class III phosphatidylinositol 3-kinase complex by ubiquitin and SUMO. Cancers, 7, 1–29. https://doi.org/10.3390/cancers7010001  
+
+Unknown Authors. (2020). New approaches to modulate VPS34 PI 3-kinase activity.

@@ -1,0 +1,57 @@
+## Phylogeny  
+NEK9 belongs to the CMGC protein‐kinase group, NEK sub-family. Full-length phylogenetic trees place it in clade 1 together with NEK4/6/7/8/10, whereas kinase-domain trees cluster it most closely with NEK8, defining a NEK8/9 subgroup (Bachus et al., 2022). Functional orthologues are reported in Aspergillus nidulans (NIMA), Xenopus laevis, Mus musculus and other vertebrates, supporting strong evolutionary conservation of its mitotic role (Fry et al., 2012; Bachus et al., 2022).
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (Unknown Authors, 2021).
+
+## Cofactor Requirements  
+Catalytic activity requires a divalent cation; both Mg²⁺ and Mn²⁺ support phosphoryl transfer (Nguyen et al., 2023; Oliveira et al., 2020).
+
+## Substrate Specificity  
+A strict consensus motif has not been defined. NEK9 phosphorylates Ser/Thr residues in histone H3, β-casein and BICD2, indicating broad serine/threonine selectivity without an obvious sequence preference (Bachus et al., 2022; Fry et al., 2017).
+
+## Structure  
+• Domain organisation: N-terminal kinase domain (residues 53–308); central RCC1-like seven-bladed β-propeller (347–726) that mediates autoinhibition and Ran binding; C-terminal coiled-coil harbouring LC8, NEK6 and NEK7 interaction motifs (891–940) (Unknown Authors, 2015; Fry et al., 2017).  
+• Nuclear-localisation sequences lie between the kinase and RCC1 domains; phosphorylation of Thr333 modulates nucleo-cytoplasmic shuttling (Unknown Authors, 2015).  
+• No experimental crystal structure is available; an AlphaFold model predicts a canonical bilobal kinase fold with conserved VAIK, HRD and DFG motifs and an intact regulatory spine (Bachus et al., 2022).  
+• Activation entails relief of RCC1-mediated autoinhibition and coiled-coil-driven oligomerisation that enables trans-autophosphorylation (Fry et al., 2017).
+
+## Regulation  
+• CDK1 phosphorylates the C-terminal tail in late G₂, creating a Polo-box docking site (Fry et al., 2017).  
+• PLK1 then phosphorylates Thr210 in the activation loop, switching NEK9 to an active state (Unknown Authors, 2023).  
+• Autophosphorylation at Ser944 disrupts dynein light-chain LC8 binding, permitting interaction with NEK6/NEK7 (Unknown Authors, 2016).  
+• LC8 maintains NEK9 inactive until CDK1/PLK1-dependent phosphorylation triggers its release (Bachus et al., 2022).  
+• Phosphorylation of Thr333 masks the NLS and controls nuclear export (Unknown Authors, 2015).
+
+## Function  
+• Ubiquitously expressed, with highest levels in heart, liver, kidney, skeletal muscle, brain and testis (Unknown Authors, 2015).  
+• Acts upstream of NEK6 (Ser206) and NEK7 (Ser195) to form a mitotic kinase cascade that targets Eg5/KIF11, NEDD1, KIF20A, KIF14 and other spindle regulators, ensuring centrosome separation, spindle assembly and cytokinesis (Bachus et al., 2022; Fry et al., 2017; Unknown Authors, 2023).  
+• Additional substrates include KIF23, Citron kinase, TPX2, EMAP-like 4 and BICD2, coordinating chromosome congression and central spindle organisation (Bachus et al., 2022).  
+• Associates with the FACT chromatin-remodelling complex and represses a subset of p53 target genes, influencing p21-mediated senescence (Bachus et al., 2022).  
+• Facilitates CHK1 activation under replication stress, supporting cancer-cell survival (Bachus et al., 2022).  
+• Regulates ciliogenesis by controlling polycystin-1/2 localisation; loss reduces cilia number and length (Moniz et al., 2011).  
+• Phosphorylates ARHGEF2 downstream of IL-6/STAT3 signalling, driving gastric-cancer metastasis (Nguyen et al., 2023).
+
+## Other Comments  
+Over-expression induces aneuploidy and is linked to aggressive phenotypes in glioblastoma, renal, pancreatic and breast cancers, whereas low expression correlates with poorer outcomes in bladder and stomach carcinomas (Bachus et al., 2022; Nguyen et al., 2023). Reported tumour-derived mutations include V319*, V631I, R786Q and P870S; a truncating germline allele lacking regulatory domains causes proliferative defects and increased fetal loss (Moniz et al., 2011; Fry et al., 2017). Germline loss-of-function variants also underlie lethal skeletal dysplasia and nevus comedonicus (Nguyen et al., 2023). NEK9 was designated an NIH “under-studied kinase” in 2021, highlighting the need for specific inhibitor development (Nguyen et al., 2023).
+
+## 9. References  
+Bachus, S., Graves, D., Fulham, L., Akkerman, N., Stephanson, C., Shieh, J., & Pelka, P. (2022). In mitosis you are not: the NIMA family of kinases in Aspergillus, yeast, and mammals. International Journal of Molecular Sciences, 23(7), 4041. https://doi.org/10.3390/ijms23074041  
+
+Fry, A., O’Regan, L., Sabir, S. R., & Bayliss, R. (2012). Cell cycle regulation by the NEK family of protein kinases. Journal of Cell Science, 125, 4423–4433. https://doi.org/10.1242/jcs.111195  
+
+Fry, A. M., Bayliss, R., & Roig, J. (2017). Mitotic regulation by NEK kinase networks. Frontiers in Cell and Developmental Biology, 5, 102. https://doi.org/10.3389/fcell.2017.00102  
+
+Moniz, L., Dutt, P., Haider, N., & Stambolic, V. (2011). NEK family of kinases in cell cycle, checkpoint control and cancer. Cell Division, 6, 18. https://doi.org/10.1186/1747-1028-6-18  
+
+Nguyen, K., Tran, M. N., Rivera, A., Cheng, T., Windsor, G., Chabot, A. B., … Burow, M. (2023). NEK family review and correlations with patient survival outcomes in various cancer types. Cancers, 15(7), 2067. https://doi.org/10.3390/cancers15072067  
+
+Oliveira, A. P. de, Issayama, L. K., Pavan, I. C. B., Silva, F. R., Melo-Hanchuk, T. D., Simabuco, F. M., & Kobarg, J. (2020). Checking NEKs: overcoming a bottleneck in human diseases. Molecules, 25(8), 1778. https://doi.org/10.3390/molecules25081778  
+
+Unknown Authors. (2015). Structural studies on protein–protein interactions: Analysis of the regulation of the DYNLL/LC8 binding to Nek9 and characterisation of the enzymes composing the … [Pages 41–46].  
+
+Unknown Authors. (2016). Nek6 controls mitotic progression through regulating EML3 localisation to spindle microtubules [Pages 68–71].  
+
+Unknown Authors. (2021). Probing the functions of Nek family kinases using chemical inhibition: towards the development of potent and selective inhibitors of Nek7 [Pages 20–25].  
+
+Unknown Authors. (2023). The role of Eg5 in EML4-ALK driven lung cancer [Pages 43–47].

@@ -1,0 +1,45 @@
+## Phylogeny  
+Salt-inducible kinase 2 (SIK2; UniProt Q9H0K1) is one of three vertebrate SIK isoforms and belongs to the AMPK-related kinase family within the CAMK group of the eukaryotic protein kinase superfamily (Manning et al., 2002; Darling & Cohen, 2021). The SIK2 and SIK3 genes emerged in invertebrates; most vertebrates possess tightly linked SIK2 and SIK3 loci (e.g., chromosome 11 in humans, chromosome 9 in mice) (Darling & Cohen, 2021). Orthologues include KIN-29 in Caenorhabditis elegans and both SIK2 and SIK3 in Drosophila melanogaster (Darling & Cohen, 2021).
+
+## Reaction Catalyzed  
+ATP + protein ⇌ ADP + phospho-protein (Darling & Cohen, 2021; Öster et al., 2024).
+
+## Cofactor Requirements  
+Mg²⁺ is required to coordinate ATP and support catalysis (Darling & Cohen, 2021; Öster et al., 2024).
+
+## Substrate Specificity  
+High-throughput peptide arrays profiling 303 human Ser/Thr kinases defined a unique sequence preference for SIK2, although the exact consensus motif was not detailed in the provided text (Johnson et al., 2023). The study confirms that SIK2 phosphorylates Ser/Thr residues within context-specific motifs (Johnson et al., 2023).
+
+## Structure  
+No experimental structure is available for SIK2 (Darling & Cohen, 2021; Öster et al., 2024). Predicted domain organisation comprises an N-terminal segment, a catalytic kinase domain, a linker, a ubiquitin-associated (UBA) domain, and an extended C-terminal tail. The UBA domain—unique to SIK family kinases—does not bind ubiquitin but promotes LKB1-mediated activation-loop phosphorylation and stabilises the active conformation, as shown for SIK3 (Darling & Cohen, 2021; Öster et al., 2024). Key catalytic features inferred from SIK3 structures include the αC helix, regulatory hydrophobic spine and activation loop (Öster et al., 2024).
+
+## Regulation  
+• Activation: Phosphorylation of Thr175 in the activation loop by the constitutively active LKB1–STRAD–MO25 complex (Darling & Cohen, 2021; Öster et al., 2024).  
+• Inhibition: PKA phosphorylates multiple C-terminal sites (Ser343, Ser358, Thr484, Ser587 in mouse SIK2), promoting 14-3-3 binding, cytoplasmic retention and reduced activity (Darling & Cohen, 2021; Öster et al., 2024). CaMK1/4 also target Thr484, yielding partial inactivation via 14-3-3 binding (Darling & Cohen, 2021).  
+• Additional sites: Ser179 near the activation loop is phosphorylated; whether by autophosphorylation or another kinase (e.g., GSK3) remains uncertain (Darling & Cohen, 2021).  
+• Unlike AMPK, SIK2 is not activated by CaMKK (Darling & Cohen, 2021).
+
+## Function  
+SIK2 is constitutively expressed in adipocytes, neurons, melanocytes, hepatocytes and macrophages, with reduced levels in insulin-resistant or obese adipose tissue (Darling & Cohen, 2021). Downstream substrates include:  
+• CREB-regulated transcriptional coactivators CRTC1-3 – phosphorylation promotes 14-3-3 binding and blocks CREB activation.  
+• Class IIa histone deacetylases (HDAC4/5/7/9) – phosphorylation prevents nuclear entry, relieving repression of MEF2 (Darling & Cohen, 2021; Öster et al., 2024).  
+Through these targets, SIK2 influences metabolism, melanogenesis, innate immunity, bone formation, neuronal survival and circadian rhythms (Darling & Cohen, 2021). Upstream: LKB1 (activating). Downstream: 14-3-3 proteins (binding partners upon substrate phosphorylation).
+
+## Inhibitors  
+Pan-SIK small-molecule inhibitors include HG-9-91-01 and analogues YKL-05-099, YKL-06-061 and YKL-06-062, as well as MRT199665 and MRT67307 (Darling & Cohen, 2021; Öster et al., 2024). The tyrosine kinase inhibitors dasatinib and bosutinib also inhibit SIKs, contributing to anti-inflammatory actions (Darling & Cohen, 2021; Öster et al., 2024).
+
+## Other Comments  
+SIK2 dysregulation is implicated in metabolic and inflammatory disorders; broader SIK family alterations relate to cancer and neurological functions (Darling & Cohen, 2021; Öster et al., 2024). Pharmacological SIK2 inhibition shows promise in ovarian cancer and enhances melanogenesis, potentially benefiting skin-cancer prevention strategies. No disease-linked SIK2 mutations are reported, though MC1R variants modulate the same pathway (Darling & Cohen, 2021).
+
+## References  
+Darling, N. J., & Cohen, P. (2021). Nuts and bolts of the salt-inducible kinases (SIKs). Biochemical Journal, 478(6), 1377–1397. https://doi.org/10.1042/BCJ20200502  
+
+Jin, H. Y., Tudor, Y., Choi, K., Shao, Z., Sparling, B. A., McGivern, J. G., & Symons, A. (2020). High-throughput implementation of the NanoBRET target engagement intracellular kinase assay to reveal differential compound engagement by SIK2/3 isoforms. SLAS Discovery, 25(2), 215–222. https://doi.org/10.1177/2472555219893277  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298(5600), 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Öster, L., Castaldo, M., de Vries, E., Edfeldt, F., Pemberton, N., Gordon, E., … Käck, H. (2024). The structures of salt-inducible kinase 3 in complex with inhibitors reveal determinants for binding and selectivity. The Journal of Biological Chemistry, 299, 107201. https://doi.org/10.1016/j.jbc.2024.107201  
+
+Thiriet, M. (2013). Preamble to cytoplasmic protein kinases. In Biomathematical and Biomechanical Modeling of the Circulatory and Ventilatory Systems (pp. 109–135). Springer. https://doi.org/10.1007/978-1-4614-4370-4_3

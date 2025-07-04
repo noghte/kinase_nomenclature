@@ -1,0 +1,51 @@
+## Phylogeny  
+BMPR1B (also called ALK6) belongs to the Tyrosine-Kinase-Like group, TGF-β receptor family, BMP type I sub-branch (Gómez-Puerto et al., 2019; Mohedas et al., 2013). Orthologues are present in vertebrates including mouse, rat, zebrafish, frog and chicken, indicating strong conservation. Within the BMP receptor clade, BMPR1B is most closely related to BMPR1A/ALK3 and ACVR1/ALK2 and is distinct from the ALK1 branch (Gipson et al., 2020).  
+
+## Reaction Catalyzed  
+ATP + [R-SMAD] ⇌ ADP + [R-SMAD]-O-phosphoserine/threonine (Sanchez-Duffhues et al., 2020).  
+
+## Cofactor Requirements  
+Catalysis requires a divalent metal ion, predominantly Mg²⁺, in the ATP-binding site (Gipson et al., 2020).  
+
+## Substrate Specificity  
+The kinase preferentially phosphorylates the C-terminal Ser-Ser-X-Ser (SSXS) motif of receptor-regulated SMADs (SMAD1, 5, 8). Kinome-wide peptide profiling confirmed the SSXS consensus and showed a preference for a hydrophobic residue at the −2 position relative to the acceptor serine (Gipson et al., 2020; Johnson et al., 2023).  
+
+## Structure  
+Domain organisation: extracellular cysteine-rich ligand-binding domain, single transmembrane helix, juxtamembrane GS regulatory segment, and a C-terminal bilobal Ser/Thr kinase domain containing the conserved Lys-Glu ion pair, HRD catalytic triad and DFG motif (Gómez-Puerto et al., 2019).  
+3D data: the isolated kinase domain structure (PDB 3MDY, 2.7 Å) adopts an active conformation with an aligned αC-helix, ordered activation loop and intact hydrophobic spine (Gipson et al., 2020).  
+Regulatory elements include GS-loop serines (Ser463, Ser467) adjacent to the FKBP12 pocket and an L45 loop surface that binds SMADs. AlphaFold modelling connects ectodomain, transmembrane segment and kinase domain into a continuous full-length model (Gipson et al., 2020).  
+
+## Regulation  
+• Activation by type II receptors (BMPRII or ACTRIIA/B) that phosphorylate GS-loop Ser463/Ser467 (Gómez-Puerto et al., 2019; Sanchez-Duffhues et al., 2020).  
+• FKBP12 binds the unphosphorylated GS loop to suppress basal activity (Gómez-Puerto et al., 2019).  
+• Ubiquitination by SMURF1/2 targets the receptor for degradation; SUMOylation of intracellular lysines also modulates stability (Gipson et al., 2020).  
+• Feedback inhibition through BMP-inducible SMAD6/7, which recruit SMURF E3 ligases (Sanchez-Duffhues et al., 2020).  
+
+## Function  
+Highly expressed in cartilage and developing skeletal elements where it promotes chondrocyte differentiation, notably through high-affinity binding to GDF5 (Sanchez-Duffhues et al., 2020).  
+Ligand spectrum includes BMP2, BMP4, BMP6, BMP7/OP-1, BMP9/10 and GDF5, forming heterotetrameric complexes with two type I (BMPR1B) and two type II receptors (Sanchez-Duffhues et al., 2020; Di Ke & ten Dijke, 2020).  
+Downstream signalling: phosphorylated BMPR1B activates SMAD1/5/8, which complex with SMAD4 to regulate transcription; non-SMAD branches activate ERK, p38, JNK and Rho GTPases (Sanchez-Duffhues et al., 2020).  
+Key interactors: FKBP12 (negative regulator), SMAD6/7 (feedback inhibitors) and SMURF1/2 (E3 ligases) (Gómez-Puerto et al., 2019; Sanchez-Duffhues et al., 2020).  
+
+## Inhibitors  
+LDN-193189 (low-nanomolar ATP-competitive inhibitor) (Gómez-Puerto et al., 2019).  
+K02288 (pyrazolo[1,5-a]pyrimidine, IC₅₀ ≈ 1–10 nM) (Gipson et al., 2020).  
+VU5350 (quinazolinone, Ki = 895 nM) (Sanchez-Duffhues et al., 2020).  
+
+## Other Comments  
+Pathogenic loss-of-function variants (e.g., 8 bp deletion; M397R; K325N; I200K; R486W/Q) cause acromesomelic dysplasia and brachydactyly subtypes, whereas gain-of-function mutations (S106N, F392L) are linked to pulmonary arterial hypertension (Sanchez-Duffhues et al., 2020). Dysregulated BMPR1B expression or mutation is associated with breast and colorectal cancers (Alsamarah et al., 2015).  
+
+## References  
+Alsamarah, A., LaCuran, A. E., Oelschlaeger, P., Hao, J., & Luo, Y. (2015). Uncovering molecular bases underlying bone morphogenetic protein receptor inhibitor selectivity. PLOS ONE, 10, e0132221. https://doi.org/10.1371/journal.pone.0132221  
+
+Gipson, G. R., Goebel, E. J., Hart, K. N., Kappes, E. C., Kattamuri, C., McCoy, J. C., & Thompson, T. B. (2020). Structural perspective of BMP ligands and signaling. Bone, 140, 115549. https://doi.org/10.1016/j.bone.2020.115549  
+
+Gómez-Puerto, M. C., Iyengar, P. V., García de Vinuesa, A., ten Dijke, P., & Sanchez-Duffhues, G. (2019). Bone morphogenetic protein receptor signal transduction in human disease. The Journal of Pathology, 247, 9–20. https://doi.org/10.1002/path.5170  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Mohedas, A. H., Xing, X., Armstrong, K. A., Bullock, A. N., Cuny, G. D., & Yu, P. B. (2013). Development of an ALK2-biased BMP type I receptor kinase inhibitor. ACS Chemical Biology, 8, 1291–1302. https://doi.org/10.1021/cb300655w  
+
+Sanchez-Duffhues, G., Williams, E., Goumans, M.-J., Heldin, C.-H., & ten Dijke, P. (2020). Bone morphogenetic protein receptors: Structure, function and targeting by selective small-molecule kinase inhibitors. Bone, 138, 115472. https://doi.org/10.1016/j.bone.2020.115472  
+
+Di Ke, P., & ten Dijke, P. (2020). [Details not provided in source].

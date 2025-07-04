@@ -1,0 +1,61 @@
+Phylogeny  
+ULK1 belongs to the CaMK‐group, ULK sub-family of protein kinases (Khamrui et al., 2019; Kumar & Papaleo, 2020).  It is the mammalian orthologue of the Atg1/UNC-51 lineage that spans budding yeast (Atg1), nematode (UNC-51), fly (Atg1), plant (Atg1), mouse (Ulk1/Ulk2) and human (ULK2/ULK3/ULK4/STK36) (Zachari & Ganley, 2017; Alers et al., 2011).  ULK1 and ULK2 share ~78 % identity across the kinase domain, accounting for their partial functional redundancy (Zachari & Ganley, 2017).
+
+Reaction Catalyzed  
+ATP + [protein]-Ser/Thr ⇌ ADP + [protein]-O-phospho-Ser/Thr (Lin & Hurley, 2016; Chen et al., 2014).
+
+Cofactor Requirements  
+Catalytic activity is Mg²⁺-dependent; in vitro assays typically contain 20 mM MgCl₂ (Ouyang et al., 2018).
+
+Substrate Specificity  
+Prefers a hydrophobic-X-Ser(Thr)-hydrophobic motif, a pattern found in autophagy factors (Lin & Hurley, 2016; Zachari & Ganley, 2017).  Confirmed cellular substrates that match this motif include ATG13, FIP200, ATG101, BECN1 and ATG9 (Unknown Author, 2019; Xiang et al., 2020).
+
+Structure  
+Domain organisation: N-terminal kinase domain (residues 8–280), an extended Pro/Ser-rich intrinsically disordered region (279–828) and a C-terminal tandem MIT/EAT domain (828–1050) that binds ATG13 and FIP200 (Kumar & Papaleo, 2020; Lin & Hurley, 2016; Hama et al., 2025).  
+Catalytic motifs: HRD¹³⁶-¹³⁸, DFG¹⁶⁵-¹⁶⁷, APE¹⁸⁹-¹⁹¹; Lys⁴⁶–Glu⁶³ salt bridge; gatekeeper Met⁹².  The activation loop (163–200) contains Thr¹⁸⁰, the autophosphorylation site essential for activity (Lin & Hurley, 2016).  The regulatory spine is formed by Leu⁶⁷-His¹³⁶-Phe¹⁶⁶-Asp²⁰³ (Kumar & Papaleo, 2020).  
+Structural data: crystal structures of the isolated kinase domain in complex with inhibitors are available (PDB 4WNO, 4WNP, 5CI6, 5CI7) (Lin & Hurley, 2016; Kumar & Papaleo, 2020).
+
+Regulation  
+Phosphorylation  
+• AMPK activates ULK1 by phosphorylating Ser³¹⁷, Ser⁵⁵⁵ and Ser⁷⁷⁷ (Chen et al., 2014; Zachari & Ganley, 2017).  
+• mTORC1 inhibits ULK1 via Ser⁷⁵⁷ (Chen et al., 2014; Zachari & Ganley, 2017).  
+• Autophosphorylation on Thr¹⁸⁰ optimises catalytic competence (Lin & Hurley, 2016).  
+• PP2A-B55α and PPM1D dephosphorylate Ser⁶³⁷ (Zachari & Ganley, 2017).  
+
+Other post-translational modifications  
+Acetylation of Lys¹⁶² by TIP60 (Chen et al., 2014); ubiquitination by TRAF6 (activating) and by Cul3-KLHL20 or NEDD4L (degrading) (Chen et al., 2014; Zachari & Ganley, 2017).  
+
+Protein interactions  
+The ATG13-FIP200 scaffold promotes ULK1 trans-autophosphorylation (Unknown Author, 2019).  Association with RPTOR couples nutrient status to mTORC1-mediated inhibition (Chen et al., 2014).
+
+Function  
+Broadly expressed, with highest levels in tissues demanding robust autophagy; ULK2 can compensate in certain cancers (Kumar & Papaleo, 2020).  ULK1 forms the core initiation complex ULK1–ATG13–FIP200–ATG101 that localises to the phagophore and triggers autophagosome biogenesis (Zachari & Ganley, 2017).  
+Upstream regulators: AMPK, mTORC1, PKCα and p38 MAPK (Xiang et al., 2020; Chen et al., 2014).  
+Downstream substrates: ATG13, FIP200, ATG101, BECN1 (Ser14), VPS34, ATG14L, ATG9 (Ser14), ATG4B (Ser316) and the mitophagy receptor FUNDC1 (Ser17) (Zachari & Ganley, 2017; Xiang et al., 2020).  Through these targets ULK1 integrates nutrient and energy cues upstream of the PIK3C3/VPS34 complex to coordinate bulk and selective autophagy (Zachari & Ganley, 2017; Chen et al., 2014).
+
+Inhibitors  
+ATP-competitive inhibitors include MRT68921 and the selective ULK1/2 inhibitor SBI-0206965 (Chen et al., 2014; Zachari & Ganley, 2017; Xiang et al., 2020).  Additional co-crystal ligands have been captured in PDB entries 4WNO, 4WNP, 6QAS and 6MNH (Kumar & Papaleo, 2020).
+
+Other Comments  
+High ULK1 expression correlates with poor prognosis in renal and nasopharyngeal carcinoma, and pharmacological inhibition sensitises acute myeloid leukaemia cells to therapy (Chen et al., 2014; Kumar & Papaleo, 2020).  In neurodegeneration, C9orf72 mutations impede ULK1 recruitment in amyotrophic lateral sclerosis, whereas Huntingtin serves as a scaffold for selective autophagy (Zachari & Ganley, 2017).  Cancer-associated mutations cluster at the gatekeeper Met⁹² and activation-loop residues, altering inhibitor sensitivity (Kumar & Papaleo, 2020).
+
+9. References  
+Alers, S., Löffler, A. S., Paasch, F., Dieterle, A. M., Keppeler, H., Lauber, K., … Stork, B. (2011). Atg13 and FIP200 act independently of ULK1 and ULK2 in autophagy induction. Autophagy, 7(12), 1424–1433. https://doi.org/10.4161/auto.7.12.18027  
+
+Chen, Y., He, J., Tian, M., Zhang, S., Guo, M.-R., Kasimu, R., … Liang, O. (2014). Unc51-like kinase 1, autophagic regulator and cancer therapeutic target. Cell Proliferation, 47(6), 498–510. https://doi.org/10.1111/cpr.12145  
+
+Hama, Y., Fujioka, Y., Yamamoto, H., Mizushima, N., & Noda, N. (2025). The triad interaction of ULK1, ATG13, and FIP200 is required for ULK complex formation and autophagy. eLife. https://doi.org/10.1101/2024.08.02.606296  
+
+Khamrui, S., Ung, P. M. U., Secor, C., Schlessinger, A., & Lazarus, M. B. (2019). High-resolution structure and inhibition of the schizophrenia-linked pseudokinase ULK4. Journal of the American Chemical Society, 142(1), 33–37. https://doi.org/10.1021/jacs.9b10458  
+
+Kumar, M., & Papaleo, E. (2020). A pan-cancer assessment of alterations of the kinase domain of ULK1, an upstream regulator of autophagy. Scientific Reports, 10, 14198. https://doi.org/10.1038/s41598-020-71527-4  
+
+Lin, M. G., & Hurley, J. H. (2016). Structure and function of the ULK1 complex in autophagy. Current Opinion in Cell Biology, 39, 61–68. https://doi.org/10.1016/j.ceb.2016.02.010  
+
+Ouyang, L., Zhang, L., Zhang, S., Yao, D., Zhao, Y., Wang, G., … Liu, B. (2018). Small-molecule activator of UNC-51-like kinase 1 that induces cytoprotective autophagy for Parkinson’s disease treatment. Journal of Medicinal Chemistry, 61(7), 2776–2792. https://doi.org/10.1021/acs.jmedchem.7b01575  
+
+Unknown Author. (2019). Turning Autophagy On and Off through the Class III PI-3 Kinase (pp. 15–18).  
+
+Xiang, H., Zhang, J., Lin, C., Zhang, L., Liu, B., & Liang, O. (2020). Targeting autophagy-related protein kinases for potential therapeutic purpose. Acta Pharmaceutica Sinica B, 10(4), 569–581. https://doi.org/10.1016/j.apsb.2019.10.003  
+
+Zachari, M., & Ganley, I. G. (2017). The mammalian ULK1 complex and autophagy initiation. Essays in Biochemistry, 61(6), 585–596. https://doi.org/10.1042/EBC20170021

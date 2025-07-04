@@ -1,0 +1,66 @@
+## Proposed EC/sub-subclass  
+Not specified in the cited sources.
+
+## Accepted name  
+Microtubule-associated serine/threonine kinase-like (MASTL; human Greatwall kinase)
+
+## Synonyms  
+Greatwall kinase (Gwl); Greatwall (Drosophila, Xenopus); functional ortholog Rim15p (yeast)
+
+## Phylogeny  
+MASTL is an atypical member of the AGC family of serine/threonine protein kinases (Ammarah et al., 2018; Lorca & Castro, 2013; Manning et al., 2002). Orthologues are conserved from yeast (Rim15p) through invertebrates (Greatwall in Drosophila) to vertebrates (Greatwall in Xenopus and MASTL in mammals), underscoring an evolutionarily conserved cell-cycle role (Fatima et al., 2020; Marzec & Burgess, 2018; Nagel et al., 2015; Voets & Wolthuis, 2010).
+
+## Reaction Catalyzed  
+ATP + protein ⇌ ADP + phosphoprotein (Johnson et al., 2023; Marzec & Burgess, 2018; Voets & Wolthuis, 2010)
+
+## Cofactor Requirements  
+Catalysis requires Mg²⁺ and ATP (Johnson et al., 2023; Voets & Wolthuis, 2010).
+
+## Substrate Specificity  
+Positional scanning peptide arrays define a preference for Ser/Thr phosphorylation with position-specific sequence biases recorded in the Johnson et al. (2023) kinome atlas; the detailed matrix is contained in that study’s supplementary tables. Confirmed physiological substrates are ARPP19 (Ser62) and ENSA (Ser67) (Fatima et al., 2020).
+
+## Structure  
+MASTL is a bifurcated AGC kinase composed of N- and C-terminal domains flanking a central catalytic core that contains a ~500-residue non-conserved insertion within the activation segment between the DFG and APE motifs (Ammarah et al., 2018; Lorca & Castro, 2013; Ocasio et al., 2016). The crystal structure of the minimal kinase domain (PDB 5LOH) exhibits the canonical bilobal kinase fold; the C-helix and activation loop are disordered, indicating an inactive conformation (Ocasio et al., 2016). Conserved AGC regulatory elements—hydrophobic spines, hydrophobic-motif binding pocket, and C-terminal CLA/CLT/AST segments—are present (Lorca & Castro, 2013; Ocasio et al., 2016).
+
+## Regulation  
+Activity peaks in mitosis and is stimulated by Cyclin B–CDK1–mediated phosphorylation, notably at Thr194 within the activation loop (Diril et al., 2016; Fatima et al., 2020; Voets & Wolthuis, 2010). Mitotic exit requires stepwise dephosphorylation by PP1 and subsequently PP2A-B55, forming a feedback loop (Marzec & Burgess, 2018). Binding of hydrophobic motifs from other AGC kinases (e.g., RSK2) can further activate MASTL (Ammarah et al., 2018).
+
+## Function  
+Expression and localisation: MASTL is predominantly nuclear in interphase and partially associates with centrosomes during mitosis; expression remains constant through G₂/M (Alvarez-Fernández et al., 2017; Voets & Wolthuis, 2010; Wong et al., 2016).  
+Downstream pathway: By phosphorylating ARPP19 and ENSA, MASTL inhibits PP2A-B55, thereby sustaining Cyclin B1-CDK1 activity and ensuring proper mitotic entry, progression, anaphase, cytokinesis and chromosome condensation—the MASTL-ENSA-PP2A (MEP) axis (Fatima et al., 2020; Marzec & Burgess, 2018; Voets & Wolthuis, 2010).  
+Additional roles: Contributes to AKT/mTOR and Wnt/β-catenin signalling and regulates recovery from DNA-damage checkpoints (Fatima et al., 2020; Wong et al., 2016).
+
+## Inhibitors  
+The first-generation small-molecule inhibitor GKI-1 suppresses pancreatic tumour cell viability and growth in vivo (Ammarah et al., 2018; Fatima et al., 2021). In-silico screening has also identified additional natural and synthetic compounds with predicted high affinity for the active site (Ammarah et al., 2018).
+
+## Other Comments  
+MASTL is frequently over-expressed in diverse cancers (breast, pancreatic, prostate, oral, gastric, colon, head and neck, thyroid, liver). High levels correlate with poor prognosis, higher grade and therapy resistance (Alvarez-Fernández et al., 2017; Ammarah et al., 2018; Fatima et al., 2020). A hyperactive K72M mutant accelerates mitotic entry after DNA damage (Wong et al., 2016).
+
+## References  
+Alvarez-Fernández, M., Sanz-Flores, M., Sanz-Castillo, B., Salazar-Roa, M., Partida, D., Zapatero-Solana, E., … Malumbres, M. (2017). Therapeutic relevance of the PP2A-B55 inhibitory kinase MASTL/Greatwall in breast cancer. Cell Death & Differentiation, 25, 828–840. https://doi.org/10.1038/s41418-017-0024-0  
+
+Ammarah, U., Kumar, A., Pal, R., Bal, N., & Misra, G. (2018). Identification of new inhibitors against human Greatwall kinase using in silico approaches. Scientific Reports. https://doi.org/10.1038/s41598-018-23246-0  
+
+Bisteau, X., Lee, J., Srinivas, V., Niska-Blakie, J., Tan, G., Hom, K. W., … Kaldis, P. (2020). The Greatwall kinase safeguards genome integrity by affecting the kinome activity in mitosis. Oncogene, 39, 6816–6840. https://doi.org/10.1038/s41388-020-01470-1  
+
+Diril, M. K., Bisteau, X., Kitagawa, M., Caldez, M. J., Wee, S., Gunaratne, J., … Kaldis, P. (2016). Loss of the Greatwall kinase weakens the spindle assembly checkpoint. PLoS Genetics. https://doi.org/10.1371/journal.pgen.1006310  
+
+Fatima, I., Singh, A., & Dhawan, P. (2020). MASTL: A novel therapeutic target for cancer malignancy. Cancer Medicine, 9, 6322–6329. https://doi.org/10.1002/cam4.3141  
+
+Fatima, I., Barman, S., Uppada, J., Chauhan, S., Rauth, S., Rachagani, S., … Dhawan, P. (2021). MASTL regulates EGFR signalling to impact pancreatic cancer progression. Oncogene, 40, 5691–5704. https://doi.org/10.1038/s41388-021-01951-x  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Lorca, T., & Castro, A. (2013). The Greatwall kinase: A new pathway in the control of the cell cycle. Oncogene, 32, 537–543. https://doi.org/10.1038/onc.2012.79  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Marzec, K., & Burgess, A. (2018). The oncogenic functions of MASTL kinase. Frontiers in Cell and Developmental Biology. https://doi.org/10.3389/fcell.2018.00162  
+
+Nagel, R., Stigter-van Walsum, M., Buijze, M., van den Berg, J., van der Meulen, I. H., Hodzic, J., … Brakenhoff, R. H. (2015). Genome-wide siRNA screen identifies the radiosensitising effect of down-regulation of MASTL and FOXM1 in NSCLC. Molecular Cancer Therapeutics, 14, 1434–1444. https://doi.org/10.1158/1535-7163.MCT-14-0846  
+
+Ocasio, C. A., Rajasekaran, M. B., Walker, S., Le Grand, D., Spencer, J., Pearl, F. M. G., … Oliver, A. W. (2016). A first-generation inhibitor of human Greatwall kinase, enabled by structural and functional characterisation of a minimal kinase domain construct. Oncotarget, 7, 71182–71197. https://doi.org/10.18632/oncotarget.11511  
+
+Voets, E., & Wolthuis, R. M. F. (2010). MASTL is the human ortholog of Greatwall kinase that facilitates mitotic entry, anaphase and cytokinesis. Cell Cycle, 9, 3591–3601. https://doi.org/10.4161/cc.9.17.12832  
+
+Wong, P. Y., Ma, H. T., Lee, H.-J., & Poon, R. Y. C. (2016). MASTL (Greatwall) regulates DNA damage responses by coordinating mitotic entry after checkpoint recovery and APC/C activation. Scientific Reports. https://doi.org/10.1038/srep22230

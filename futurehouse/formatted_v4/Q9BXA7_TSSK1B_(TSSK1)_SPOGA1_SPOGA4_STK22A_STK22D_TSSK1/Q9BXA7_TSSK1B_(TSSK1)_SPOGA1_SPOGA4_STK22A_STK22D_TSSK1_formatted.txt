@@ -1,0 +1,43 @@
+## Phylogeny  
+TSSK1B (UniProt Q9BXA7; also termed STK22A) is a member of the Ca²⁺/calmodulin-regulated protein kinase (CAMK) group within the testis-specific serine/threonine kinase (TSSK) family and has also been placed in the broader AMPK superfamily (Manning et al., 2002; Salicioni et al., 2020).  The TSSK family is evolutionarily conserved and required for male reproduction (Nayyab et al., 2025).  TSSK1B is a primate-specific paralogue that likely arose by retrotransposition and resides on human chromosome 5, whereas human TSSK2 maps to 22q11 (Nayyab et al., 2025; Salicioni et al., 2020).  In mice, the orthologous Tssk1 and Tssk2 genes are adjacent on chromosome 16 (Xu et al., 2008).
+
+## Reaction Catalyzed  
+ATP + [target protein] ⇌ ADP + phospho-[protein] (Salicioni et al., 2020).
+
+## Cofactor Requirements  
+Catalytic activity requires a divalent cation.  Mg²⁺ is preferred, whereas Mn²⁺ supports little or no activity (Salicioni et al., 2020; UnknownAuthors, 2011).
+
+## Substrate Specificity  
+Kinase-substrate profiling indicates a preference for basic residues at the −3 and −2 positions relative to the Ser/Thr phosphorylation site (Johnson et al., 2023; Salicioni et al., 2020).  TSSK1B phosphorylates the AMARA peptide (AMARAASAAALARRR) and the testis-specific protein TSKS; candidate phospho-sites on TSKS include Ser-281, Ser-285 (in vivo target of TSSK2), and Ser-288 (Basu, 2009; UnknownAuthors, 2014; Xu et al., 2008).
+
+## Structure  
+The protein contains a canonical bilobal kinase fold with an N-terminal lobe bearing the αC-helix and a C-terminal lobe that houses the activation segment; AlphaFold modelling supports a flexible activation loop (Salicioni et al., 2020; UnknownAuthors, 2011).
+
+## Regulation  
+Activity is modulated by post-translational phosphorylation.  Autophosphorylation of Thr172 within the activation (T)-loop is essential for full activity (Basu, 2009; Salicioni et al., 2020).  Interaction with PPP1CC2 (via the scaffold TSKS) and with HSP70/HSP90 cochaperones further influences stability and activity (Salicioni et al., 2020; UnknownAuthors, 2014).
+
+## Function  
+Expression is restricted to testis, with localisation in post-meiotic spermatids and mature sperm (Salicioni et al., 2020; Nayyab et al., 2025).  TSSK1B supports spermatogenesis, influencing sperm morphology, motility, flagellogenesis, mitochondrial sheath formation, and chromatoid-body remodelling (Salicioni et al., 2020).  It phosphorylates TSKS and indirectly associates with PPP1CC2 (Salicioni et al., 2020).  Although overlapping with TSSK2, the two kinases are not fully redundant; human TSSK1B partially rescues germ-cell defects in a Drosophila model where TSSK2 does not (Nayyab et al., 2025).
+
+## Inhibitors  
+Low-nanomolar ATP-competitive inhibitors with pyrrolopyrimidine or pyrimidine scaffolds have been reported, including the pyrimidine compound TAE684 and related analogues (Salicioni et al., 2020; Nayyab et al., 2025).  Current compounds lack adequate kinase selectivity.
+
+## Other Comments  
+Deletion of the 5q22.2–q23.1 region containing TSSK1B is linked to asthenoteratozoospermia, and missense variants occur in ~10 % of screened infertile men (Nayyab et al., 2025).  Combined deletion of Tssk1 and Tssk2 in mice causes male infertility (Xu et al., 2008).  Because of its testis-restricted expression and essential role in fertility, TSSK1B is under investigation as a non-hormonal male contraceptive target (Salicioni et al., 2020).
+
+## 9. References  
+Basu, S. (2009). Synthetic lethal screening in Drosophila melanogaster reveals novel kinases that can suppress PTEN loss-of-function in vivo (Doctoral dissertation). https://doi.org/10.3929/ethz-a-005941222  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., et al. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Nayyab, S., Gervasi, M. G., Tourzani, D. A., et al. (2025). Identification of TSSK1 and TSSK2 as novel targets for male contraception. Biomolecules, 15, 601. https://doi.org/10.3390/biom15040601  
+
+Salicioni, A. M., Gervasi, M. G., Sosnik, J., et al. (2020). Testis-specific serine kinase protein family in male fertility and as targets for non-hormonal male contraception. Biology of Reproduction, 103, 264–274. https://doi.org/10.1093/biolre/ioaa064  
+
+UnknownAuthors. (2011). Phylogenetic, epigenetic, and biochemical analysis of testis-specific serine kinases.  
+
+UnknownAuthors. (2014). Identification of PPP1CC2 interacting proteins in the mouse testis.  
+
+Xu, B., Hao, Z., Jha, K., et al. (2008). Targeted deletion of Tssk1 and 2 causes male infertility due to haploinsufficiency. Developmental Biology, 319(2), 211–222. https://doi.org/10.1016/j.ydbio.2008.03.047

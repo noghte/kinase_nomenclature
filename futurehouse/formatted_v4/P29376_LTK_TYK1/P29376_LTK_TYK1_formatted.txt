@@ -1,0 +1,75 @@
+## Proposed EC/sub-subclass:  
+Not yet assigned  
+
+## Accepted name:  
+Leukocyte tyrosine kinase  
+
+## Synonyms:  
+LTK; leukocyte tyrosine kinase receptor  
+
+## Phylogeny  
+• Receptor tyrosine kinase (RTK) of the insulin-receptor family, ALK/LTK sub-family (unknownauthors2015diversityofreceptor, pp. 51-56).  
+• Cytoplasmic kinase domain shares ≈ 79 % amino-acid identity with anaplastic lymphoma kinase (ALK), consistent with a recent gene-duplication event (Centonze et al., 2019, pp. 15-18).  
+• Mammalian orthologues have lost the N-terminal MAM and LDLa modules retained in non-mammalian species; TNF-like (TG) and EGF-like segments remain conserved (Katic & Priscan, 2023, pp. 1-2).  
+• Verified orthologues: Homo sapiens, Mus musculus, Danio rerio, Xenopus tropicalis, Gallus gallus (Centonze et al., 2019, pp. 15-18).  
+
+## Reaction catalysed  
+protein-L-tyrosine + ATP ⇄ protein-L-tyrosine-phosphate + ADP + H⁺ (Roll & Reuther, 2012, pp. 1-2).  
+
+## Cofactor requirements  
+Activity is presumed, in line with other RTKs, to require Mg²⁺ or Mn²⁺; no dedicated biochemical study is available (Nadendla et al., 2025, pp. 18-19; Farhan, 2020, pp. 4-6).  
+
+## Substrate Specificity  
+• Position-scanning peptide libraries place LTK among tyrosine kinases that prefer acidic residues at −3/−1 and a hydrophobic residue at +1 relative to the target Tyr (Nadendla et al., 2025, pp. 18-19).  
+• Strong bias toward the first Tyr in Y-x-x-x-Y-Y motifs, matching cellular data (Roll & Reuther, 2012, pp. 12-13).  
+• Confirmed cellular substrate: Sec12 phosphorylated at Y10 and Y177, regulating COPII vesicle formation (Centonze et al., 2019, pp. 18-20).  
+
+## Structure  
+• Domain architecture: signal peptide 1-16 – extracellular TG supradomain 17-424 – single transmembrane helix 425-449 – cytoplasmic kinase domain 450-864 (unknownauthors2023subcellularlocalizationand, pp. 12-15).  
+• Ectodomain crystal structure (PDB 7NX1) shows a composite TG fold with pGII helices forming the ligand-binding surface (De Munck et al., 2021, pp. 13-17).  
+• Catalytic core contains conserved VAIK (K567), HRD (H648-R650-D651) and DFG (D666-F667-G668) motifs; autophosphorylation occurs at Y672 within the activation loop (unknownauthors2023subcellularlocalizationand, pp. 39-44).  
+• Activating mutations F568L (αC helix) and R669Q (DFG+1) lie adjacent to regulatory motifs (Roll & Reuther, 2012, pp. 12-13).  
+• AlphaFold model AF-P29376 confirms intact regulatory and catalytic spines typical of active RTKs (unknownauthors2023subcellularlocalizationand, pp. 12-15).  
+
+## Regulation  
+• Autophosphorylation on Y672 is required for full activity and is detected mainly at the Golgi (unknownauthors2023subcellularlocalizationand, pp. 39-44).  
+• N-glycosylation at N257, N380 and N412 influences receptor maturation, Golgi localisation and ligand responsiveness; the N257Q/N380Q/N412Q mutant abolishes FAM150A-induced activation (unknownauthors2023subcellularlocalizationand, pp. 39-44).  
+• Extracellular ligands FAM150A (Augmentor-β) and FAM150B (Augmentor-α) trigger receptor dimerisation and kinase activation (Zhang et al., 2014, pp. 1-2; unknownauthors2023subcellularlocalizationand, pp. 12-15).  
+• Ubiquitination by the E3 ligase CBL regulates receptor turnover (Nadendla et al., 2025, pp. 18-19).  
+• Spatial control: activation requires an intact Golgi; Brefeldin A or FLI-06 block activation by disrupting Golgi integrity or ER export (unknownauthors2023subcellularlocalizationand, pp. 50-54).  
+
+## Function  
+• Expression: highly expressed in pre-B/B lymphocytes, brain, placenta and plasmacytoid dendritic cells (Roll & Reuther, 2012, pp. 1-2; Zhang et al., 2014, pp. 3-4).  
+• Substrates / partners: Sec12 (direct substrate) (Centonze et al., 2019, pp. 18-20); ERGIC-53 (stable complex) (unknownauthors2023subcellularlocalizationand, pp. 24-30); adaptor proteins IRS-1, Shc and PI3K bind NPXY motifs Y485/Y862 and Y753 (unknownauthors2023subcellularlocalizationand, pp. 12-15).  
+• Downstream signalling: activates MAPK, PI3K/AKT and JAK/STAT cascades upon ligand binding or activating mutations (Roll & Reuther, 2012, pp. 13-14; unknownauthors2023subcellularlocalizationand, pp. 15-20).  
+• Cellular role: phosphorylation of Sec12 boosts COPII budding, expands ER exit-site number and accelerates ER-to-Golgi transport (Centonze et al., 2019, pp. 1-4).  
+
+## Inhibitors  
+• Crizotinib inhibits wild-type and F568L-mutant LTK, suppressing STAT5, AKT and ERK signalling and blocking soft-agar colony growth (Roll & Reuther, 2012, pp. 13-14).  
+• Ceritinib and Alectinib block autophosphorylation and impair secretory-pathway functions at ~1 µM in cells (Centonze et al., 2019, pp. 15-18; unknownauthors2023subcellularlocalizationand, pp. 15-20).  
+
+## Other Comments  
+• Disease links: over-expression or activating mutations associated with acute myeloid leukaemia and increased metastatic risk in non-small-cell lung cancer (Nadendla et al., 2025, pp. 18-19).  
+• Gain-of-function polymorphism near the PI3K-binding site enhances B-cell activation and predisposes to systemic lupus erythematosus (unknownauthors2023subcellularlocalizationand, pp. 15-20).  
+• Catalogue of oncogenic mutations includes F568L, R669Q, P116S, G310E, A432T, V480I, R608*, Y616*, Q717K, many of which cluster near catalytic motifs and increase kinase activity (Roll & Reuther, 2012, pp. 12-13; Palmer & Hallberg, 2015, pp. 15-18).  
+
+## References  
+Centonze, F. G., Reiterer, V., Nalbach, K., Saito, K., Pawlowski, K., Behrends, C., & Farhan, H. (2019). LTK is an ER-resident receptor tyrosine kinase that regulates secretion. The Journal of Cell Biology, 218, 2470-2480. https://doi.org/10.1101/575365  
+
+De Munck, S., Provost, M., Kurikawa, M., Omori, I., Mukohyama, J., Felix, J., … Savvides, S. N. (2021). Structural basis of cytokine-mediated activation of ALK family receptors. Nature, 600, 143-147. https://doi.org/10.1038/s41586-021-03959-5  
+
+Farhan, H. (2020). Tyrosine kinase signaling in and on the endoplasmic reticulum. Biochemical Society Transactions. https://doi.org/10.1042/bst20190543  
+
+Katic, L., & Priscan, A. (2023). Multifaceted roles of ALK family receptors and Augmentor ligands in health and disease: A comprehensive review. Biomolecules, 13, 1490. https://doi.org/10.3390/biom13101490  
+
+Nadendla, E. K., Vadla, G. P., Radhakrishnan, M., & Nagampalli, R. S. K. (2025). Tyrosine kinases: structural insights and mechanistic roles in cancer progression and therapeutics. [Journal unknown]. https://doi.org/10.20944/preprints202505.0180.v1  
+
+Palmer, R. H., & Hallberg, B. (2015). The ALK receptor family. In Receptor Tyrosine Kinases: Family and Subfamilies (pp. 1-51). https://doi.org/10.1007/978-3-319-11888-8_1  
+
+Roll, J. D., & Reuther, G. W. (2012). Alk-activating homologous mutations in LTK induce cellular transformation. PLoS ONE, 7, e31733. https://doi.org/10.1371/journal.pone.0031733  
+
+Subcellular localization and activation patterns of the leukocyte tyrosine kinase receptor (LTK) in the early secretory pathway. (2023). [Details not specified].  
+
+Zhang, H., Pao, L. I., Zhou, A., Brace, A. D., Halenbeck, R., Hsu, A. W., … Williams, L. T. (2014). Deorphanization of the human leukocyte tyrosine kinase (LTK) receptor by a signaling screen of the extracellular proteome. Proceedings of the National Academy of Sciences, 111, 15741-15745. https://doi.org/10.1073/pnas.1412009111  
+
+Diversity of receptor tyrosine kinase signaling mechanisms. (2015). [Details not specified].

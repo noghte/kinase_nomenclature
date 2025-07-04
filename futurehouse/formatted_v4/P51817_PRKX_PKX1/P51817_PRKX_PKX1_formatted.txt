@@ -1,0 +1,56 @@
+## Phylogeny  
+PRKX is an AGC family serine/threonine kinase that clusters within the cAMP-dependent protein kinase (PKA) catalytic subfamily, but forms a branch separate from the canonical Cα/β/γ isoforms (Huang et al., 2016; Pearce et al., 2010). Kinome-wide surveys consistently place PRKX in the PKA family on human and multi-species kinome maps derived from the Manning 2002 framework (Martin et al., 2009; Li et al., 2005). Verified vertebrate orthologs include Homo sapiens PRKX, Mus musculus Pkare (≈86 % identity), Rattus norvegicus Prkx, Danio rerio prkx-like and Xenopus laevis prkx-like (Li et al., 2002; Huang et al., 2016). Invertebrate counterparts encompass Drosophila melanogaster DC2 kinase and Dictyostelium discoideum KAPC (Li et al., 2002). The human Y-chromosome paralogue PRKY shares ~94 % sequence similarity but is truncated (Huang et al., 2016; Pearce et al., 2010).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr ⇌ ADP + [protein]-O-phospho-Ser/Thr (Glesne & Huberman, 2006).
+
+## Cofactor Requirements  
+Catalytic activity is strictly divalent-cation dependent; Mg²⁺ or Mn²⁺ support phosphorylation, whereas chelation abolishes activity (Zimmermann et al., 1999; Glesne & Huberman, 2006).
+
+## Substrate Specificity  
+Kinome-scale peptide profiling reveals a preference for basic residues at positions –3/–2 and a hydrophobic residue at +1, yielding the consensus R-R/K-X-S/T-Φ (Johnson et al., 2023). Biochemical assays confirm optimal phosphorylation of Arg-Arg/Lys-X-Ser/Thr motifs (Huang et al., 2016). Validated cellular sites include Smad6 Ser435, tau Ser214 and basic-consensus serines in the polycystin-1 cytoplasmic tail (Glesne & Huberman, 2006; Huang et al., 2016).
+
+## Structure  
+The 358-aa polypeptide encodes a single catalytic subunit that adopts the canonical bilobal kinase fold: Lys72 (β3) anchors ATP, Glu91 (αC) forms the Lys-Glu ion pair, Asp166 and Asp184 constitute the catalytic dyad, and Thr197 within the activation segment serves as the autophosphorylation site (Zimmermann et al., 1999). The αC helix orientation and hydrophobic regulatory spine match other AGC kinases, supporting cAMP-dependent allostery (Huang et al., 2016). An N-terminal extension contains two WW-domain binding motifs (pSP/TP and PPxY) that interact with Pin-1, Bag-3 and Magi-1 (Huang et al., 2016). The regulatory interface uniquely accommodates the PKA RIα subunit, enabling selective holoenzyme formation (Huang et al., 2016). No crystal structure is available; AlphaFold model AF-P51817 provides a high-confidence full-length prediction (Huang et al., 2016).
+
+## Regulation  
+Post-translational modification: autophosphorylation of Thr197 is obligatory for activity, with additional sites detected in vitro (Zimmermann et al., 1999; Glesne & Huberman, 2006).  
+Allosteric control: the inactive RIα–PRKX holoenzyme dissociates upon cAMP binding, releasing active PRKX (Huang et al., 2016). The heat-stable PKI peptide competitively inhibits the catalytic cleft (Zimmermann et al., 1999). Adeno-associated virus 2 Rep78 binds PRKX and suppresses CRE-dependent transcription (Huang et al., 2016).  
+Transcriptional regulation: PKCβ activity up-regulates PRKX expression during haematopoietic maturation (Thiriet, 2013).
+
+## Function  
+Expression patterns: High mRNA/protein levels in human fetal kidney, brain, lung and heart; markedly lower in adult tissues. Detected in developing mouse neurons and vascular endothelial cells with both cytoplasmic and nuclear localisation (Huang et al., 2016).  
+
+Biological roles:  
+– Nephrogenesis: promotes ureteric-bud branching, epithelial migration and tubulogenesis (Li et al., 2002).  
+– Myeloid differentiation: phosphorylation of Smad6 Ser435 drives macrophage lineage commitment (Glesne & Huberman, 2006).  
+– Angiogenesis: required for endothelial proliferation, migration and vascular-like network formation (Li et al., 2011).  
+– Polycystic kidney disease: interacts with polycystin-1 and rescues PKD1 deficiency–associated defects (Huang et al., 2016).  
+– Transcriptional control: enhances CREB-dependent transcription and regulates Pin-1, Bag-3 and Magi-1 via its WW-binding motifs (Huang et al., 2016).
+
+## Inhibitors  
+Heat-stable PKI peptide inhibits PRKX with KD ≈ 15 nM (Zimmermann et al., 1999). The broad-spectrum ATP-site inhibitor H89 reduces PRKX activity in cells, but no PRKX-selective small-molecule inhibitors are reported (Li et al., 2002; Thiriet, 2013).
+
+## Other Comments  
+PRKX is up-regulated in autosomal dominant polycystic kidney disease epithelium (Li et al., 2002). Xp;Yp translocations involving PRKX/PRKY cause disorders of sex development (Huang et al., 2016). Over-expression promotes renal carcinoma resistance to sunitinib via CREB-MITF signalling (Huang et al., 2016). The gene maps to Xp22.3, a region linked to chondrodysplasia punctata (Huang et al., 2016).
+
+## References  
+Glesne, D., & Huberman, E. (2006). Smad6 is a Protein Kinase X phosphorylation substrate and is required for HL-60 cell differentiation. Oncogene, 25, 4086–4098. https://doi.org/10.1038/sj.onc.1209436  
+
+Huang, S., Li, Q., Alberts, I., & Li, X. (2016). PRKX, a novel cAMP-dependent protein kinase member, plays an important role in development. Journal of Cellular Biochemistry. https://doi.org/10.1002/jcb.25304  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Li, W., Yu, Z.-X., & Kotin, R. (2005). Profiles of PRKX expression in developmental mouse embryo and human tissues. Journal of Histochemistry & Cytochemistry, 53, 1003–1009. https://doi.org/10.1369/jhc.4a6568.2005  
+
+Li, X., Li, H.-P., Amsler, K., Hyink, D., Wilson, P. D., & Burrow, C. R. (2002). PRKX, a phylogenetically and functionally distinct cAMP-dependent protein kinase, activates renal epithelial cell migration and morphogenesis. Proceedings of the National Academy of Sciences, 99, 9260–9265. https://doi.org/10.1073/pnas.132051799  
+
+Li, X., Iomini, C., Hyink, D., & Wilson, P. D. (2011). PRKX critically regulates endothelial cell proliferation, migration, and vascular-like structure formation. Developmental Biology, 356, 475–485. https://doi.org/10.1016/j.ydbio.2011.05.673  
+
+Martin, D. M. A., Miranda-Saavedra, D., & Barton, G. (2009). Kinomer v. 1.0: A database of systematically classified eukaryotic protein kinases. Nucleic Acids Research, 37, D244–D250. https://doi.org/10.1093/nar/gkn834  
+
+Pearce, L. R., Komander, D., & Alessi, D. R. (2010). The nuts and bolts of AGC protein kinases. Nature Reviews Molecular Cell Biology, 11, 9–22. https://doi.org/10.1038/nrm2822  
+
+Thiriet, M. (2013). Cytoplasmic protein serine/threonine kinases. In Biomathematical and Biomechanical Modeling of the Circulatory and Ventilatory Systems (pp. 175–310). Springer. https://doi.org/10.1007/978-1-4614-4370-4_5  
+
+Zimmermann, B., Chiorini, J. A., Ma, Y., Kotin, R. M., & Herberg, F. W. (1999). PRKX is a novel catalytic subunit of the cAMP-dependent protein kinase regulated by the regulatory subunit type I*. Journal of Biological Chemistry, 274, 5370–5378. https://doi.org/10.1074/jbc.274.9.5370

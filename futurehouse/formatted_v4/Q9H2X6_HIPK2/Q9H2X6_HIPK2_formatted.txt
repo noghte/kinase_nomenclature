@@ -1,0 +1,60 @@
+## Phylogeny  
+HIPK2 belongs to the CMGC protein-kinase group, within the DYRK-related clade and the HIPK sub-branch (Agnew et al., 2019). Vertebrates encode four paralogues (HIPK1–4); the kinase-domain sequence identity between HIPK1 and HIPK2 is ~93 % (Kaltheuner et al., 2021). Representative orthologues span animals and fungi, including Mus musculus Hipk2, Danio rerio hipk2, Xenopus laevis hipk2, Drosophila melanogaster minibrain (Mnb) and Saccharomyces cerevisiae Yak1 (Hofmann et al., 2000). Bayesian analysis of 1,498 HIPK sequences versus 14,296 CMGC kinases pinpoints HIPK-specific residues in the αC-β4 loop and CMGC-insert that distinguish HIPKs from DYRKs and CLKs (Agnew et al., 2019).  
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr ⇌ ADP + protein-L-Ser/Thr-phosphate (Agnew et al., 2019).  
+
+## Cofactor Requirements  
+Catalysis is Mg²⁺ dependent, consistent with CMGC kinase chemistry (Kaltheuner et al., 2021).  
+
+## Substrate Specificity  
+Biochemical mapping shows a strong preference for S/T-P and S/T-P-X-P motifs, favouring Pro at +1 and optionally at +3 (Saul et al., 2013). Autophosphorylation targets Tyr354 (human Tyr361) within an S-x-Y motif characteristic of DYRK/HIPK family members (Agnew et al., 2019).  
+
+## Structure  
+Domain organisation: residues 1–≈330, N-terminal kinase domain; 331–≈480, homeoprotein-interacting domain (HID); ≈481–≈740, PEST/speckle-retention sequence (SRS) containing a SUMO-binding motif; ≈741–≈915, autoinhibitory domain (AID); ≈916-C-terminus, SQA-rich tail (Kaltheuner et al., 2021; Agnew et al., 2019).  
+3D architecture: the 2.2 Å crystal structure (kinase domain bound to CX-4945) adopts an active helix-C-in/DFG-in conformation with a complete regulatory spine (Agnew et al., 2019). pTyr361 hydrogen-bonds to the CMGC Arg368 and Gln363, stabilising the activation loop. The CMGC-insert forms an extended helix H, short helix M and β-hairpin harbouring auto-pSer441, which interacts with Arg437 to stabilise the insert. A HIPK-specific extended αC-β4 loop enlarges the N-lobe surface and contacts the CMGC-insert; this feature is absent from DYRK1A/2 (Agnew et al., 2019). Key catalytic residues are Lys228 (β3), Glu243 (helix C), Asp346-Phe347-Gly348 (DFG) and His365-Arg368 (HRD motif equivalent).  
+
+## Regulation  
+Post-translational modifications  
+• Cis-autophosphorylation on Tyr354/Tyr361 and Ser357 within the activation loop is essential for activity (Saul et al., 2013).  
+• Additional autophosphorylation at Ser441 in the CMGC-insert modulates the monomer–dimer equilibrium (Agnew et al., 2019).  
+• SUMOylation on Lys25 by PIAS1 promotes speckle retention and transcriptional repression; acetylation of Lys10 and other lysines by CBP/p300 enhances oxidative-stress signalling (Agnew et al., 2019).  
+• Ubiquitination by Siah-1 and WSB-1 drives proteasomal degradation under basal conditions (Agnew et al., 2019; Kuwano et al., 2016).  
+• Caspase-6 cleavage at Asp916 and Asp977 removes the AID, increasing activity during genotoxic stress (Kuwano et al., 2016).  
+
+Upstream regulation  
+• ATM and ATR phosphorylate and stabilise HIPK2 in response to DNA damage (Kuwano et al., 2016).  
+
+## Function  
+Expression and localisation: HIPK2 is predominantly nuclear and accumulates in sub-nuclear speckles via the SRS; it is broadly expressed, with notable levels in cardiomyocytes where it supports basal ERK signalling (Guo et al., 2019; Kuwano et al., 2016).  
+
+Signalling roles:  
+• DNA damage/apoptosis – phosphorylates p53 Ser46 to promote pro-apoptotic transcription.  
+• Wnt/β-catenin – phosphorylates β-catenin, triggering β-TrCP-mediated degradation.  
+• TGF-β/JNK – cooperates with DAXX to activate JNK after TGF-β stimulation.  
+• Hypoxia – functions as a co-repressor of HIF-1α.  
+Principal substrates/interactors include PML, EP300, CTBP1, SMAD1, POU4F1/Brn3a, CREB1, CBX4, RUNX1, HMGA1, ZBTB4, DAZAP2 and Pin1 (Agnew et al., 2019; Saul et al., 2013).  
+
+## Inhibitors  
+• CX-4945 (ATP-competitive; co-crystallised) (Agnew et al., 2019).  
+• Abemaciclib – nanomolar inhibitor of HIPK2/3 and DYRK1A (Kaltheuner et al., 2021).  
+• TBID – selective inhibitor, IC₅₀ = 0.33 µM (Cozza et al., 2014).  
+• D-115893 – cellular inhibitor identified by activity screening (Saul et al., 2013).  
+
+## Other Comments  
+HIPK2 is frequently amplified or overexpressed in cervical cancer, tonsillar squamous cell carcinoma and pilocytic astrocytoma; conversely, loss of HIPK2 enhances tumorigenesis (Agnew et al., 2019). It drives TGF-β/Smad3-dependent renal and pulmonary fibrosis and keloid formation, and promotes ER-stress-mediated neuronal death in Alzheimer’s disease and ALS models (Agnew et al., 2019). Haploinsufficiency or missense mutation (R868W) in myelodysplastic syndrome reduces HIPK2 dosage (Agnew et al., 2019; Hofmann et al., 2000).  
+
+## 9. References  
+Agnew, C., Liu, L., Liu, S., Xu, W., You, L., Yeung, W., Kannan, N., Jablons, D., & Jura, N. (2019). The crystal structure of the protein kinase HIPK2 reveals a unique architecture of its CMGC-insert region. Journal of Biological Chemistry, 294, 13545–13559. https://doi.org/10.1074/jbc.ra119.009725  
+
+Cozza, G., Zanin, S., Determann, R., Ruzzene, M., Kunick, C., & Pinna, L. A. (2014). Synthesis and properties of a selective inhibitor of homeodomain-interacting protein kinase 2 (HIPK2). PLoS ONE, 9, e89176. https://doi.org/10.1371/journal.pone.0089176  
+
+Guo, Y., Sui, J. Y., Kim, K., Zhang, Z., Qu, X. A., Nam, Y. J., Willette, R. N., Barnett, J. V., Knollmann, B. C., Force, T., & Lal, H. (2019). Cardiomyocyte homeodomain-interacting protein kinase 2 maintains basal cardiac function via extracellular signal-regulated kinase signaling. Circulation, 140, 1820–1833. https://doi.org/10.1161/CIRCULATIONAHA.119.040740  
+
+Hofmann, T. G., Mincheva, A., Lichter, P., Dröge, W., & Schmitz, M. L. (2000). Human homeodomain-interacting protein kinase-2 (HIPK2) is a member of the DYRK family of protein kinases and maps to chromosome 7q32-q34. Biochimie, 82, 1123–1127. https://doi.org/10.1016/S0300-9084(00)01196-2  
+
+Kaltheuner, I. H., Anand, K., Moecking, J., Düster, R., Wang, J., Gray, N. S., & Geyer, M. (2021). Abemaciclib is a potent inhibitor of DYRK1A and HIP kinases involved in transcriptional regulation. Nature Communications. https://doi.org/10.1038/s41467-021-26935-z  
+
+Kuwano, Y., Nishida, K., Akaike, Y., Kurokawa, K., Nishikawa, T., Masuda, K., & Rokutan, K. (2016). Homeodomain-interacting protein kinase-2: A critical regulator of the DNA damage response and the epigenome. International Journal of Molecular Sciences, 17, 1638. https://doi.org/10.3390/ijms17101638  
+
+Saul, V. V., de la Vega, L., Milanovic, M., Krüger, M., Braun, T., Fritz-Wolf, K., Becker, K., & Schmitz, M. L. (2013). HIPK2 kinase activity depends on cis-autophosphorylation of its activation loop. Journal of Molecular Cell Biology, 5, 27–38. https://doi.org/10.1093/jmcb/mjs053

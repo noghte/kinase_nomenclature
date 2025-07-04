@@ -1,0 +1,52 @@
+## Phylogeny  
+Member of the CMGC protein-kinase group, NEK sub-family. The catalytic domain shares ≈54 % sequence identity with the closest human paralogues NEK6 and NEK7 (Bachus et al., 2022; “Characterization of NimA-related kinase 10,” 2010). Orthologues are documented in Mus musculus (conditional Nek10 knock-out strains) and Caenorhabditis elegans (nekl-4, required for UV resistance and ciliary localisation) (“Characterization of NimA-related kinase 10,” 2010; “Protein-Protein Interactions in Cell Cycle Proteins,” 2024). Key activation-loop residues T657, I693, S696 and C697 are conserved from nematodes to humans (Eichner et al., 2024).
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr/Tyr ⇌ ADP + protein-L-Ser/Thr/Tyr-phosphate (“Characterization of NimA-related kinase 10,” 2010).
+
+## Cofactor Requirements  
+No specific metal-ion dependence has been reported; kinase assays were carried out in standard Mg²⁺-containing buffers (Oliveira et al., 2020; van de Kooij et al., 2019).
+
+## Substrate Specificity  
+• Tyrosine sites: positional-scanning peptide libraries define a pY-Φ consensus, where Φ = F/H/L at the +1 position (“Characterization of NEK10 Tyrosine Kinase Activity,” 2018; van de Kooij et al., 2019).  
+• Ser/Thr sites: no consensus motif has been determined; NEK10 is listed as “not determined” for Ser/Thr specificity (Bachus et al., 2022).
+
+## Structure  
+Single-chain protein of ~1,125 aa.  
+– N-terminus (~aa 1 – 300): four armadillo repeats (Bachus et al., 2022).  
+– Central kinase domain (~aa 500 – 750) bounded by coiled-coil elements (Bachus et al., 2022).  
+– C-terminus contains a predicted PEST region (Bachus et al., 2022).  
+Catalytic determinants: Lys548 (β3), HRD motif with Thr657 at HRD+2, classical DFG motif, and Ile693 in the P+1 loop (“Characterization of NimA-related kinase 10,” 2010; “Characterization of NEK10 Tyrosine Kinase Activity,” 2018). Autophosphorylation of Ser684 and Ser688 within the activation loop is required for full activity (“Characterization of NimA-related kinase 10,” 2010). A full-length AlphaFold model is available; no experimental structure has been solved (Bachus et al., 2022).
+
+## Regulation  
+• Autophosphorylation on Ser684/Ser688 activates the enzyme (“Characterization of NimA-related kinase 10,” 2010).  
+• Subsequent tyrosine autophosphorylation increases catalytic activity ≈5-fold (“Characterization of NEK10 Tyrosine Kinase Activity,” 2018).  
+• Phosphorylation of Ser933 generates a 14-3-3 docking site that retains the protein in the cytoplasm; UV exposure induces nuclear translocation without altering catalytic competence (“Characterization of NimA-related kinase 10,” 2010).  
+• Cell detachment from the extracellular matrix decreases NEK10 phosphorylation and activity, which are restored upon re-adhesion (“Characterization of NimA-related kinase 10,” 2010).  
+• Genotoxic agents such as cisplatin down-regulate NEK10 expression and reduce p21 levels (Bachus et al., 2022).
+
+## Function  
+Expressed in airway epithelial ciliated cells and required for mucociliary clearance (Oliveira et al., 2020). After UV irradiation, NEK10 forms a ternary complex with RAF-1 and MEK1, driving MEK1 auto-activation and ERK1/2 hyper-activation necessary for the G2/M DNA-damage checkpoint (“Characterization of NimA-related kinase 10,” 2010; Bachus et al., 2022). It phosphorylates p53 on tyrosine residues, enhancing transcription of p21 and other p53 targets (Bachus et al., 2022), and interacts with DNA-damage response proteins SMC3, ATRX, DNA-PKcs and SUMO1 (Bachus et al., 2022). NEK10 depletion accelerates cell proliferation and DNA replication—opposite to the phenotype observed upon NEK6/7 loss (Bachus et al., 2022). The kinase also binds tubulin (“Characterization of NimA-related kinase 10,” 2010) and co-localises with mitochondrial glutamate dehydrogenase 1; loss of NEK10 causes mitochondrial fragmentation (Bachus et al., 2022).
+
+## Inhibitors  
+GeGe3, a pyrazole derivative, was identified in kinase-screening panels as a direct NEK10 inhibitor, although quantitative potency values were not reported (Oliveira et al., 2020).
+
+## Other Comments  
+Somatic NEK10 alterations occur in ≥2.6 % of cancers, with a 13 % hemizygous deletion rate in renal clear cell carcinoma (Bachus et al., 2022). Over 240 coding mutations have been catalogued; recurrent variants include P611L (kinase domain) and E882K (C-terminal) (“Characterization of NEK10 Tyrosine Kinase Activity,” 2018). Chromosome 3p24, containing NEK10, is a breast-cancer susceptibility locus in BRCA2 carriers (Moniz et al., 2011). Variant E379K has been reported in melanoma (Oliveira et al., 2020). Low NEK10 expression correlates with poor prognosis in breast, lung, ovarian and gastric tumours (“Characterization of NEK10 Tyrosine Kinase Activity,” 2018). Mutations affecting ciliary functions link NEK10 to bronchiectasis syndrome (“Protein-Protein Interactions in Cell Cycle Proteins,” 2024).
+
+## 9. References  
+Bachus, S., Graves, D., Fulham, L., Akkerman, N., Stephanson, C., Shieh, J., & Pelka, P. (2022). In mitosis you are not: The NIMA family of kinases in Aspergillus, yeast, and mammals. International Journal of Molecular Sciences, 23(7), 7041. https://doi.org/10.3390/ijms23074041  
+
+Eichner, A. S., Zimmerman, N., & Singh, S. M. (2024). An in silico investigation of human NEK10 reveals novel domain architecture and protein–protein interactions. https://doi.org/10.20944/preprints202411.1394.v1  
+
+Moniz, L., Dutt, P., Haider, N., & Stambolic, V. (2011). NEK family of kinases in cell cycle, checkpoint control and cancer. Cell Division, 6, 18. https://doi.org/10.1186/1747-1028-6-18  
+
+Oliveira, A. P. de, Issayama, L. K., Pavan, I. C. B., Silva, F. R., Melo-Hanchuk, T. D., Simabuco, F. M., & Kobarg, J. (2020). Checking NEKs: Overcoming a bottleneck in human diseases. Molecules, 25(8), 1778. https://doi.org/10.3390/molecules25081778  
+
+van de Kooij, B., Creixell, P., van Vlimmeren, A., Joughin, B. A., Miller, C. J., Haider, N., Linding, R., Stambolic, V., Turk, B. E., & Yaffe, M. B. (2019). Comprehensive substrate specificity profiling of the human NEK kinome reveals unexpected signaling outputs. eLife. https://doi.org/10.1101/515221  
+
+Characterization of NimA-related kinase 10 (NEK10): A role in checkpoint control. (2010). [Unpublished manuscript; pages as cited].  
+
+Characterization of NEK10 Tyrosine Kinase Activity in the Cellular Response to DNA Damage. (2018). [Unpublished manuscript; pages as cited].  
+
+Protein-Protein Interactions in Cell Cycle Proteins: An in silico investigation of two important players. (2024). [Unpublished manuscript; pages as cited].

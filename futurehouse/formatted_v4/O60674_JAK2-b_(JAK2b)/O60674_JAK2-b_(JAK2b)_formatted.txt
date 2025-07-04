@@ -1,0 +1,73 @@
+## Phylogeny  
+JAK2 is one of four members of the Janus kinase (JAK) subfamily of non-receptor protein tyrosine kinases, together with JAK1, JAK3 and TYK2 (Hubbard, 2018; LaFave & Levine, 2012). Orthologs are conserved across common model organisms, including mouse, rat, chicken, zebrafish and the Drosophila Hop kinase (Sandberg et al., 2007; Lindauer et al., 2001).
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + phospho-protein-L-tyrosine (Lindauer et al., 2001; Sandberg et al., 2007; Sanz et al., 2011).
+
+## Cofactor Requirements  
+Catalytic activity requires divalent cations. JAK2 can use Mg²⁺ or Mn²⁺, with several studies noting a preference for Mn²⁺. The JH2 pseudokinase domain coordinates a single Mg²⁺ via Asn678 and Asp699 (Gabler et al., 2013; Gnanasambandan & Sayeski, 2011; Silvennoinen et al., 2013).
+
+## Substrate Specificity  
+Peptide profiling shows selectivity at residues –1 to +3 around the phospho-acceptor tyrosine, favouring aliphatic hydrophobic residues at –1 and +3 (Yaron-Barir et al., 2024). JAK2 preferentially phosphorylates motifs containing acidic residues (Asp/Glu) at +1 and +3, a pattern present in STAT proteins and many cytokine-receptor tails (Sanz et al., 2011). Kinase-wide clustering places JAK2 in a distinct JAK family group (Yaron-Barir et al., 2024).
+
+## Structure  
+The protein contains seven Janus homology (JH) regions (JH7–JH1):
+
+• FERM domain (JH7-JH5) – cytokine-receptor binding  
+• SH2-like domain (JH4-JH3) – structural support for receptor interaction  
+• Pseudokinase domain (JH2) – autoinhibitory regulator; HRD → HGN variation in catalytic loop  
+• Kinase domain (JH1) – catalytic core (Dusa et al., 2010; Hubbard, 2018; Silvennoinen et al., 2013)
+
+Homology modelling against insulin receptor and FGFR kinases indicates a canonical bilobal tyrosine-kinase fold with an activation loop, catalytic loop, nucleotide-binding loop and αC-helix (Lindauer et al., 2001). The pathogenic V617F mutation in JH2 rigidifies the αC-helix through π-stacking with Phe594/Phe595, promoting constitutive activation (Silvennoinen et al., 2013).
+
+## Regulation  
+• Autoinhibition: JH2 suppresses JH1 in the basal state (Dusa et al., 2010; Hubbard, 2018).  
+• Activation: Ligand-induced receptor dimerisation triggers trans-phosphorylation of Y1007/Y1008 in the JH1 activation loop (Dusa et al., 2010; Gabler et al., 2013).  
+• Intramolecular phosphorylation: JH2 autophosphorylation at Ser523 and Tyr570 modulates activity; Ser523 is inhibitory (Silvennoinen et al., 2013; Sanz et al., 2011).  
+• Deactivation: SHP1, CD45 and SOCS proteins de-phosphorylate or target JAK2 for degradation (Gnanasambandan & Sayeski, 2011; Santos & Verstovsek, 2011).
+
+## Function  
+Ubiquitously expressed, JAK2 couples cytokine receptors lacking intrinsic kinase activity to intracellular signalling (Sandberg et al., 2007; Santos & Verstovsek, 2011).  
+
+Upstream: associates with receptors such as EPOR, TPOR and interferon receptors (Dusa et al., 2010; Hubbard, 2018).  
+
+Downstream: phosphorylates STAT3 and STAT5, which dimerise and translocate to the nucleus; JAK2 also interfaces with MAPK and PI3K pathways (Santos & Verstovsek, 2011).  
+
+Biological roles: indispensable for definitive erythropoiesis, myeloid and megakaryocytic development (Santos & Verstovsek, 2011). Nuclear JAK2 can phosphorylate histone H3 at Tyr41, influencing chromatin state (LaFave & Levine, 2012).
+
+## Inhibitors  
+Clinically approved ATP-competitive inhibitors include ruxolitinib, fedratinib and pacritinib (Nair et al., 2023; Vainchenker et al., 2018). Experimental inhibitors such as TG101348 and Z3 have been characterised (Dusa et al., 2010; Sayyah & Sayeski, 2009). Allosteric strategies targeting the kinase–pseudokinase interface are under exploration (Gnanasambandan & Sayeski, 2011).
+
+## Other Comments  
+Gain-of-function mutations drive myeloproliferative neoplasms, most notably V617F in >95 % of polycythaemia vera and ~50 % of essential thrombocythaemia and primary myelofibrosis cases (Silvennoinen et al., 2013). Additional activating mutations occur in the SH2-JH2 linker, and translocations such as TEL-JAK2 generate constitutively active fusion kinases (Gnanasambandan & Sayeski, 2011; Janus kinases in immune cell signaling, 2009).
+
+## References  
+Dusa, A., Mouton, C., Pecquet, C., Herman, M., & Constantinescu, S. (2010). JAK2 V617F constitutive activation requires JH2 residue F595: A pseudokinase domain target for specific inhibitors. *PLoS ONE, 5*(6), e11157. https://doi.org/10.1371/journal.pone.0011157  
+
+Gabler, K., Behrmann, I., & Haan, C. (2013). JAK2 mutants (e.g., JAK2V617F) and their importance as drug targets in myeloproliferative neoplasms. *JAK-STAT, 2*(3), e25025. https://doi.org/10.4161/jkst.25025  
+
+Gnanasambandan, K., & Sayeski, P. P. (2011). A structure-function perspective of JAK2 mutations and implications for alternate drug design strategies: The road not taken. *Current Medicinal Chemistry, 18*(30), 4659–4673. https://doi.org/10.2174/092986711797379267  
+
+Hubbard, S. R. (2018). Mechanistic insights into regulation of JAK2 tyrosine kinase. *Frontiers in Endocrinology, 8*, 361. https://doi.org/10.3389/fendo.2017.00361  
+
+Janus kinases in immune cell signaling. (2009). *[Dataset/Report]*.  
+
+LaFave, L. M., & Levine, R. L. (2012). JAK2 the future: Therapeutic strategies for JAK-dependent malignancies. *Trends in Pharmacological Sciences, 33*(11), 574–582. https://doi.org/10.1016/j.tips.2012.08.005  
+
+Lindauer, K., Loerting, T., Liedl, K. R., & Kroemer, R. T. (2001). Prediction of the structure of human Janus kinase 2 (JAK2) comprising the two carboxy-terminal domains reveals a mechanism for autoregulation. *Protein Engineering, Design and Selection, 14*(1), 27–37. https://doi.org/10.1093/protein/14.1.27  
+
+Nair, P. C., Piehler, J., Tvorogov, D., Ross, D., Lopez, A. F., Gotlib, J., & Thomas, D. (2023). Next-generation JAK2 inhibitors for the treatment of myeloproliferative neoplasms: Lessons from structure-based drug discovery approaches. *Blood Cancer Discovery, 4*(3), OF1–OF13. https://doi.org/10.1158/2643-3230.BCD-22-0189  
+
+Sandberg, E. M., Wallace, T. A., Godeny, M. D., VonDer Linden, D., & Sayeski, P. P. (2007). JAK2 tyrosine kinase: A true JAK of all trades? *Cell Biochemistry and Biophysics, 41*(2), 207–232. https://doi.org/10.1385/CBB:41:2:207  
+
+Santos, F. P., & Verstovsek, S. (2011). JAK2 inhibitors: What's the true therapeutic potential? *Blood Reviews, 25*(2), 53–63. https://doi.org/10.1016/j.blre.2010.10.004  
+
+Sanz, A., Ungureanu, D., Pekkala, T., Ruijtenbeek, R., Touw, I. P., Hilhorst, R., & Silvennoinen, O. (2011). Analysis of JAK2 catalytic function by peptide microarrays: The role of the JH2 domain and V617F mutation. *PLoS ONE, 6*(4), e18522. https://doi.org/10.1371/journal.pone.0018522  
+
+Sayyah, J., & Sayeski, P. P. (2009). JAK2 inhibitors: Rationale and role as therapeutic agents in haematologic malignancies. *Current Oncology Reports, 11*(2), 117–124. https://doi.org/10.1007/s11912-009-0018-2  
+
+Silvennoinen, O., Ungureanu, D., Niranjan, Y., Hammaren, H., Bandaranayake, R., & Hubbard, S. R. (2013). New insights into the structure and function of the pseudokinase domain in JAK2. *Biochemical Society Transactions, 41*(4), 1002–1007. https://doi.org/10.1042/BST20130005  
+
+Vainchenker, W., Leroy, E., Gilles, L., Marty, C., Plo, I., & Constantinescu, S. N. (2018). JAK inhibitors for the treatment of myeloproliferative neoplasms and other disorders. *F1000Research, 7*, 82. https://doi.org/10.12688/f1000research.13167.1  
+
+Yaron-Barir, T. M., Joughin, B. A., Huntsman, E. M., Kerelsky, A., Cizin, D. M., Cohen, B. M., … Johnson, J. L. (2024). The intrinsic substrate specificity of the human tyrosine kinome. *Nature, 629*(8004), 1174–1181. https://doi.org/10.1038/s41586-024-07407-y

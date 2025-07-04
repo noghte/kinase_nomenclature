@@ -1,0 +1,55 @@
+## Phylogeny  
+Verified orthologs include Homo sapiens DCLK2 (Q8N568) and Danio rerio dclk2, the latter sharing ~60 % sequence identity within the PEST domain (Carli et al., 2023). Within the human kinome, DCLK2 clusters with DCLK1 and DCLK3 in the doublecortin-like kinase sub-family of the Ca2+/calmodulin-dependent protein kinase (CaMK) group; its catalytic domain is most similar to CaMK1/4 and CaMK2 (Dijkmans et al., 2010).
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr ⇌ ADP + [protein]-O-phospho-Ser/Thr (Dijkmans et al., 2010).
+
+## Cofactor Requirements  
+Requires Mg2+ or Mn2+; shows markedly reduced Ca2+/calmodulin dependence compared with canonical CaMKs (Dijkmans et al., 2010, 2010 pp. 11–12).
+
+## Substrate Specificity  
+• Efficiently phosphorylates myelin basic protein, autocamtide-2 and syntide (Dijkmans et al., 2010).  
+• Recognises the synapsin I-derived motif Hyd-Arg-X-X-Ser/Thr-Hyd, targeting the Ser/Thr residue (Dijkmans et al., 2010).  
+• Physiological substrate reported: the CREB co-activator CRTC2/TORC2 (Dijkmans et al., 2010).
+
+## Structure  
+Domain organisation: two N-terminal doublecortin (DC) domains (microtubule binding), a central Ser/Pro-rich PEST segment, and a C-terminal bilobal kinase domain containing an activation-loop Thr equivalent to DCLK1 T239 (Shin et al., 2013; Dijkmans et al., 2010).  
+3-D information: no experimental structure; AlphaFold model AF-Q8N568-F1 predicts a canonical active-like DFG-in fold with an autoinhibitory C-terminal tail that occludes the ATP pocket, mirroring DCLK1 crystal structures (Carli et al., 2023).  
+Key elements: conserved HRD and DFG motifs form the catalytic core; phosphorylation of the activation-loop Thr activates the kinase, whereas the C-terminal tail autoinhibits until displaced by phosphorylation (Dijkmans et al., 2010; Carli et al., 2023).
+
+## Regulation  
+Post-translational modifications  
+– Robust autophosphorylation lowers microtubule affinity (Dijkmans et al., 2010).  
+– Activation-loop phosphorylation increases catalytic activity (Dijkmans et al., 2010).  
+– JNK1/2 phosphorylate DC-domain sites, influencing neurite outgrowth (Dijkmans et al., 2010 pp. 7–8).  
+– Multiple Ser/Pro-rich domain sites are predicted targets of CDK5, GSK3, PKC, CDC2/CDK1 and ERK (Dijkmans et al., 2010; Carli et al., 2023).  
+
+Allosteric/ conformational control  
+Autoinhibitory C-terminal tail restrains activity; truncation of the equivalent region in DCLK1 enhances activity six-fold, a mechanism inferred for DCLK2 (Dijkmans et al., 2010 pp. 11–12). DCLK2 exhibits minimal responsiveness to Ca2+/calmodulin compared with classical CaMKs (Dijkmans et al., 2010 pp. 11–12).
+
+## Function  
+Expression patterns: persistently expressed in post-mitotic neurons, enriched in distal dendrites, with peak levels during early postnatal brain development (Shin et al., 2013).  
+
+Cellular roles  
+• Promotes dendritic elongation via DC-domain-mediated microtubule bundling (Shin et al., 2013).  
+• Suppresses synapse maturation by lowering PSD-95 levels (kinase-dependent) and restricting spine enlargement (DC-dependent) (Shin et al., 2013).  
+• Required for growth-cone reformation and axon regeneration; DCLK1/2 deletion compromises peripheral and central nervous system axon regrowth (Nawabi et al., 2015).  
+• Phosphorylates CRTC2/TORC2, thereby attenuating CREB-dependent transcription (Dijkmans et al., 2010).  
+
+Interaction network  
+Associates with the postsynaptic scaffold spinophilin and is enriched in postsynaptic density fractions (Shin et al., 2013). Interacts with JNK1/2 signalling complexes (Dijkmans et al., 2010 pp. 7–8).
+
+## Inhibitors  
+No peer-reviewed small-molecule inhibitors specific to DCLK2 have been reported (Dijkmans et al., 2010; Shin et al., 2013).
+
+## Other Comments  
+Combined loss of doublecortin and DCLK genes disrupts neuronal maturation and leads to seizures, implicating DCLK2 in cortical wiring disorders (Carli et al., 2023). No pathogenic point mutations unique to DCLK2 have been described in the cited literature (Dijkmans et al., 2010; Shin et al., 2013).
+
+## References  
+Carli, A., Hardy, J., Hoblos, H., Ernst, M., Lucet, I., & Buchert, M. (2023). Structure-guided prediction of the functional impact of DCLK1 mutations on tumorigenesis. Biomedicines. https://doi.org/10.3390/biomedicines11030990  
+
+Dijkmans, T., van Hooijdonk, L. W. A., Fitzsimons, C., & Vreugdenhil, E. (2010). The doublecortin gene family and disorders of neuronal structure. Central Nervous System Agents in Medicinal Chemistry, 10, 32–46. https://doi.org/10.2174/187152410790780118  
+
+Nawabi, H., Belin, S., Cartoni, R., Williams, P. R., Wang, C., Latremoliere, A., … He, Z. (2015). Doublecortin-like kinases promote neuronal survival and induce growth cone reformation via distinct mechanisms. Neuron, 88, 704–719. https://doi.org/10.1016/j.neuron.2015.10.005  
+
+Shin, E., Kashiwagi, Y., Kuriu, T., Iwasaki, H., Tanaka, T., Koizumi, H., Gleeson, J. G., & Okabe, S. (2013). Doublecortin-like kinase enhances dendritic remodelling and negatively regulates synapse maturation. Nature Communications, 4, 1440. https://doi.org/10.1038/ncomms2443

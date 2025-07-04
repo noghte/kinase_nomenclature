@@ -1,0 +1,50 @@
+## Phylogeny  
+MAP4K2 (also called Germinal Center Kinase, GCK) is a serine/threonine protein kinase that belongs to the evolutionarily conserved Ste20 group. It falls within the GCK family—one of the two main Ste20 divisions (the other being the PAK family)—and is further classified in the GCK-I subfamily, sometimes referred to as Ste20 Group III (Dan et al., 2001; Yin et al., 2012). Orthologs are found from yeast to mammals: Ste20p in Saccharomyces cerevisiae, Misshapen (msn) and Hippo in Drosophila, counterparts in Caenorhabditis elegans, and the mammalian paralogs GCKR, GLK, HPK1, and NIK (Chadee et al., 2002; Chuang et al., 2016; Kyriakis & Avruch, 2001).
+
+## Reaction Catalyzed  
+ATP + protein → ADP + O-phospho-Ser/Thr-protein (Chuang et al., 2016; Dan et al., 2001; Kyriakis & Avruch, 2001).
+
+## Cofactor Requirements  
+Enzymatic activity requires ATP and a divalent metal ion cofactor, either Mg²⁺ or Mn²⁺ (Chadee et al., 2002; Chuang et al., 2016; Kyriakis & Avruch, 2001).
+
+## Substrate Specificity  
+Combinatorial peptide-library screening revealed position-specific preferences around the phospho-Ser/Thr residue, but an explicit consensus motif was not provided (Johnson et al., 2023).
+
+## Structure  
+MAP4K2 contains an N-terminal kinase domain, a central proline-rich/PEST segment, and a C-terminal citron-homology domain (Chuang et al., 2016; Marcotte et al., 2017). Key kinase-domain features include:  
+• Activation loop bearing the autophosphorylation site Thr174; activation loop-swapped dimers facilitate this modification (Marcotte et al., 2017).  
+• Conserved Glu in the C-helix that forms a catalytic salt bridge with the Lys in the β3 strand (Marcotte et al., 2017).  
+• An assembled hydrophobic (regulatory) spine characteristic of the active state (Marcotte et al., 2017).  
+Predicted AlphaFold models reproduce these elements (Marcotte et al., 2017).
+
+## Regulation  
+• Autophosphorylation of Thr174 is essential for full catalytic activity (Marcotte et al., 2017).  
+• Activation-loop swapped dimerization supports this autophosphorylation mechanism (Marcotte et al., 2017).  
+• K48-linked ubiquitination targets the protein for proteasomal degradation, whereas binding by the E3 ligase TRAF6 stabilizes MAP4K2 independently of ligase activity (Chuang et al., 2016).  
+• The C-terminal region can oligomerize and activate MEKK1 independently of MAP4K2’s own kinase activity (Chadee et al., 2002; Chuang et al., 2016).
+
+## Function  
+MAP4K2 acts upstream in MAPK cascades, preferentially activating the JNK pathway and not the p38, ERK, or NF-κB pathways (Chuang et al., 2016; Kyriakis & Avruch, 2001). It is highly expressed in B-cell germinal centers and macrophages and is up-regulated by LPS (Chuang et al., 2016). Pro-inflammatory stimuli such as TNF-α, IL-1, CD40 ligand, and TLR2/3/4 ligands trigger its activity (Chuang et al., 2016). Downstream, MAP4K2:  
+• Promotes MEKK1 oligomerization/activation (Chadee et al., 2002).  
+• Phosphorylates and activates MLK3 (Chuang et al., 2016).  
+• Interacts with TRAF2, potentially phosphorylating it to enhance its E3 ligase function (Chadee et al., 2002; Chuang et al., 2016).
+
+## Other Comments  
+No disease-associated MAP4K2 mutations were reported. Some knockout-mouse studies have been retracted, leaving in-vivo immune functions unresolved (Chuang et al., 2016).
+
+## 9. References  
+Chadee, D. N., Yuasa, T., & Kyriakis, J. M. (2002). Direct activation of mitogen-activated protein kinase kinase kinase MEKK1 by the Ste20p homologue GCK and the adapter protein TRAF2. Molecular and Cellular Biology, 22, 737–749. https://doi.org/10.1128/MCB.22.3.737-749.2002  
+
+Chuang, H.-C., Wang, X., & Tan, T.-H. (2016). MAP4K family kinases in immunity and inflammation. Advances in Immunology, 129, 277–314. https://doi.org/10.1016/bs.ai.2015.09.006  
+
+Dan, I., Watanabe, N. M., & Kusumi, A. (2001). The Ste20 group kinases as regulators of MAP kinase cascades. Trends in Cell Biology, 11, 220–230. https://doi.org/10.1016/S0962-8924(01)01980-8  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Kyriakis, J. M., & Avruch, J. (2001). Mammalian mitogen-activated protein kinase signal transduction pathways activated by stress and inflammation. Physiological Reviews, 81, 807–869. https://doi.org/10.1152/physrev.2001.81.2.807  
+
+Machida, N., Umikawa, M., Takei, K., Sakima, N., Myagmar, B., Taira, K., … Kariya, K. (2004). Mitogen-activated protein kinase kinase kinase kinase 4 as a putative effector of Rap2 to activate the c-Jun N-terminal kinase. Journal of Biological Chemistry, 279, 15711–15714. https://doi.org/10.1074/jbc.C300542200  
+
+Marcotte, D., Rushe, M., Arduini, R. M., Lukacs, C., Atkins, K., Sun, X., … Silvian, L. F. (2017). Germinal-center kinase-like kinase co-crystal structure reveals a swapped activation loop and C-terminal extension. Protein Science, 26, 118–125. https://doi.org/10.1002/pro.3062  
+
+Yin, H., Chen, C., Feng, M., Shi, Z., Greene, M. I., & Zhou, Z. (2012). Multiple functions of mammalian germinal center kinases. Current Chemical Biology, 6, 123–133. https://doi.org/10.2174/187231312801254778

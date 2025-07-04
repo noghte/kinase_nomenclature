@@ -1,0 +1,50 @@
+Phylogeny  
+STK35 is a serine/threonine kinase assigned to the newly defined kinase family 4 (NKF4) and placed in the “Other” group of the human kinome (Goyal et al., 2009; Unknown authors, 2020). Some authors further classify it within the DAP subfamily (Capra et al., 2006). Its catalytic domain shows sequence similarity to Tyrosine-Kinase-Like (TKL) enzymes and clusters phylogenetically with CaM-kinase-related kinases, select CDKs and PAK kinases; limited homology to yeast CDK-activating kinases is observed (Goyal et al., 2009; Unknown authors, 2004). Pairwise alignment highlights similarity with JAK2, ABL1, CDK6, FLT3, KIT and PRKACA (Unknown authors, 2020).  
+The gene is conserved throughout vertebrates and an ancestral paralogue is present in the sea squirt Ciona (Goyal et al., 2009). Orthologues exist in mammals, fish and amphibians but are absent from Drosophila, Caenorhabditis elegans and yeast (Unknown authors, 2004). Human STK35 shares 69 % identity with its paralogue PDIK1L and 45.2 % identity with its Ciona homologue (Goyal et al., 2009). Vertebrate family members comprise STK35L1, STK35L2 and STK35L3, with STK35L3 lost from placental mammals (Goyal et al., 2009).
+
+Reaction Catalyzed  
+ATP + [protein]-L-serine → ADP + [protein]-O-phospho-L-serine  
+ATP + [protein]-L-threonine → ADP + [protein]-O-phospho-L-threonine (Wu et al., 2018; Capra et al., 2006)
+
+Cofactor Requirements  
+Consistent with most protein kinases, catalysis is expected to require a divalent metal ion, most commonly Mg²⁺ (or Mn²⁺) that coordinates ATP at two metal-binding sites; no STK35-specific measurements are yet reported (Knape & Herberg, 2017; Knape et al., 2017).
+
+Substrate Specificity  
+A large-scale peptide array study included STK35, but the precise consensus motif was not disclosed in the excerpt (Johnson et al., 2023). Cellular studies indicate preference for proteins involved in cell-cycle and apoptotic pathways (Wu et al., 2018). In vitro, STK35 autophosphorylates yet failed to phosphorylate CDK2, Histone H1, CTD, myelin basic protein, actin, α-actinin or CLP-36 (Unknown authors, 2004).
+
+Structure  
+No experimental structure is available. The AlphaFold model (Q8TDR2) predicts a canonical bilobal kinase fold (Knape & Herberg, 2017). STK35 is a 401-residue, ~44.6 kDa protein; the catalytic domain spans residues 69–390 (Unknown authors, 2004). An isoform, STK35L1, possesses an N-terminal extension of 133 aa (Goyal et al., 2009). Conserved features include a glycine-rich loop, an ATP-binding lysine, a catalytic HRD motif (residues 223–235), an activation loop, and four putative nuclear-localisation signals (Unknown authors, 2004; Unknown authors, 2020). Proper assembly of the hydrophobic spine and the orientation of helix C are predicted to govern the active state (Anti, 2009; Knape & Herberg, 2017).
+
+Regulation  
+Transcription: STAT3 binds the promoter (–230/–132) and activates STK35 expression; Importin-α2 can also promote transcription (Wu et al., 2018).  
+Protein stability: the nuclear phosphatase SCP4 preserves STK35 protein levels; SCP4 knockout reduces STK35 protein without affecting mRNA (Polyanskaya et al., 2022).  
+Post-translational control: STK35 autophosphorylates and contains candidate regulatory sites—Ser79 and Tyr80 (inhibitory), Ser14 (CDK1/Cyclin B consensus) and putative T-loop sites Ser280/Ser281 (Unknown authors, 2004). The conserved ATP-binding lysine is essential for its pro-proliferative activity (Polyanskaya et al., 2022; Unknown authors, 2020).
+
+Function  
+Expression: Detected in diverse human tissues, notably testis, ovary, skin, brain, heart, liver and eye, and in cultured endothelial cells, HeLa, HEK and macrophages; localisation is predominantly nuclear/nucleolar (Goyal et al., 2009).  
+Interactions and pathways: Acts downstream of STAT3 within the JAK/STAT cascade (Wu et al., 2018). Forms a stable nuclear complex with PDIK1L and SCP4 (Unknown authors, 2020). An association with the actin-binding protein CLP36 has been described (Goyal et al., 2009).  
+Biological roles: Regulates actin dynamics, cytoskeletal organisation, cell proliferation and apoptosis (Capra et al., 2006; Wu et al., 2018). In acute myeloid leukaemia (AML) cells, STK35 and PDIK1L act redundantly with SCP4 to sustain cell-cycle progression (Polyanskaya et al., 2022; Unknown authors, 2020).
+
+Other Comments  
+STK35 is up-regulated in colorectal carcinoma and osteosarcoma, where it promotes proliferation and suppresses apoptosis (Capra et al., 2006; Wu et al., 2018). Its kinase activity is required for AML cell growth and correlates with FAB-M1/M4 subtypes (Polyanskaya et al., 2022; Unknown authors, 2020). Conversely, one study reported pro-apoptotic activity suggestive of a tumour-suppressor role (Capra et al., 2006). Altered expression has also been noted in experimental models of Parkinson’s disease and malaria infection (Goyal et al., 2009).
+
+9. References  
+Anti, (2009). Non-specific serine/threonine protein kinase. In Class 2 Transferases (pp. 1-123). https://doi.org/10.1007/978-3-540-85699-3_1  
+
+Capra, M., Nuciforo, P., Confalonieri, S., Quarto, M., Bianchi, M., Nebuloni, M., … Di Fiore, P. P. (2006). Frequent alterations in the expression of serine/threonine kinases in human cancers. Cancer Research, 66(16), 8147–8154. https://doi.org/10.1158/0008-5472.CAN-05-3489  
+
+Goyal, P., Behring, A., Kumar, A., & Siess, W. (2009). Identifying and characterising a novel protein kinase STK35L1 and deciphering its orthologs and close homologs in vertebrates. PLoS ONE, 4, e6981. https://doi.org/10.1371/journal.pone.0006981  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Knape, M. J., & Herberg, F. W. (2017). Metal coordination in kinases and pseudokinases. Biochemical Society Transactions, 45(3), 653–663. https://doi.org/10.1042/BST20160327  
+
+Knape, M. J., Ballez, M., Burghardt, N., Zimmermann, B., Bertinetti, D., Kornev, A., & Herberg, F. (2017). Divalent metal ions control activity and inhibition of protein kinases. Metallomics, 9(11), 1576–1584. https://doi.org/10.1039/C7MT00204A  
+
+Polyanskaya, S. A., Moreno, R., Lu, B., Feng, R., Yao, Y., Irani, S., … Vakoc, C. (2022). SCP4-STK35/PDIK1L complex is a dual phospho-catalytic signalling dependency in acute myeloid leukaemia. Cell Reports, 38, 110233. https://doi.org/10.1016/j.celrep.2021.110233  
+
+Unknown authors. (2004). Characterisation of actin stress fibres: involvement of PDZ-LIM adapter proteins and the novel Clik1 kinase. [Details unavailable].  
+
+Unknown authors. (2020). A nuclear phosphatase-kinase signalling complex that supports acute myeloid leukaemia. [Details unavailable].  
+
+Wu, Z., Liu, J., Hu, S., Zhu, Y., & Li, S. (2018). Serine/threonine kinase 35, a target gene of STAT3, regulates the proliferation and apoptosis of osteosarcoma cells. Cellular Physiology and Biochemistry, 45, 808–818. https://doi.org/10.1159/000487172

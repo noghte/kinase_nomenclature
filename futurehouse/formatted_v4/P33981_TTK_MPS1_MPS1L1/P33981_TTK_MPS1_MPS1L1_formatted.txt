@@ -1,0 +1,53 @@
+## Phylogeny  
+Orthologues of Mps1/TTK are found throughout eukaryotes, including the budding-yeast Mps1 (Saccharomyces cerevisiae), fission-yeast Mps1 (Schizosaccharomyces pombe), insects (Drosophila melanogaster), nematodes (Caenorhabditis elegans), land plants, and all examined vertebrates (e.g. mouse Ttk), indicating deep evolutionary conservation (Liu & Winey, 2012, pp. 2–3). In the human kinome, TTK is the single representative of the Mps1 family, assigned to the “Other” kinase group and displaying dual-specificity activity (Liu & Winey, 2012, pp. 1–2). Canonical catalytic motifs (HRD, DFG) are retained, while a unique hinge residue (Cys604) distinguishes TTK from most kinases and underpins selective inhibitor design (Riggs et al., 2019, pp. 9–10).
+
+## Reaction Catalyzed  
+ATP + L-Ser/Thr/Tyr-[protein] ⇌ ADP + O-phospho-L-Ser/Thr/Tyr-[protein] (Liu & Winey, 2012, pp. 1–2; Kwiatkowski et al., 2010, pp. 11–14).
+
+## Cofactor Requirements  
+Requires Mg²⁺ for catalysis; Mn²⁺ can substitute in vitro (Uitdehaag et al., 2017, pp. 1–2).
+
+## Substrate Specificity  
+Highest activity toward threonine or serine within MELT-like motifs, exemplified by the repeated KNL1 sites at kinetochores (Unknown authors, 2022, pp. 24–27; Wang et al., 2019, pp. 1–2). Confirmed cellular substrates include KNL1, KNTC1, MAD1L1, BubR1, CDCA8/Borealin, SKA3 Ser34 and CHK2 (Ashraf et al., 2022, pp. 1–2; Wang et al., 2019, pp. 19–20; Unknown authors, 2011, pp. 36–40). The kinase also autophosphorylates extensively, notably at Thr676 within its activation segment (Unknown authors, 2009, pp. 49–52).
+
+## Structure  
+The protein comprises an N-terminal kinetochore-targeting region (residues 1–≈301), a bilobal kinase domain (≈516–794) and a short C-terminal tail (795–857) (Unknown authors, 2009, pp. 49–52; Ashraf et al., 2022, pp. 1–2). Crystal structures (e.g. PDB 3CEK, 3GFW, 3H9F, 6B4W) show an ordered activation loop whose Thr676 autophosphorylation locks the active conformation (Kwiatkowski et al., 2010, pp. 11–14; Riggs et al., 2019, pp. 9–10). A Lys553–Glu571 salt bridge links the β3 strand to the αC-helix; compounds that disrupt this contact shift the glycine-rich loop and inactivate TTK (Uitdehaag et al., 2017, pp. 1–2). The presence of Cys604 enlarges the hinge pocket and is exploited by selective chemotypes (Riggs et al., 2019, pp. 9–10).
+
+## Regulation  
+Intermolecular autophosphorylation at Thr676 is essential for full activity (Unknown authors, 2009, pp. 49–52). Additional autophosphorylation sites span the kinase domain (Kwiatkowski et al., 2010, pp. 11–14). High local concentration at unattached kinetochores promotes activation, whereas ATP-competitive inhibitors that disturb the Lys553 alignment provide an allosteric shut-off mechanism (Uitdehaag et al., 2017, pp. 1–2).
+
+## Function  
+TTK expression peaks during mitosis and is low in quiescent cells (Liu & Winey, 2012, pp. 2–3). At unattached kinetochores it phosphorylates KNL1 MELT repeats, triggering spindle-assembly-checkpoint (SAC) signalling and recruitment of Bub1, BubR1, Mad1 and Mad2 (Wang et al., 2019, pp. 1–2; Pachis & Kops, 2018, pp. 1–2). Phosphorylation of MAD1L1 supports mitotic-checkpoint-complex formation; CDCA8/Borealin phosphorylation enhances Aurora-B activity; SKA3 Ser34 phosphorylation destabilises incorrect microtubule attachments (Ashraf et al., 2022, pp. 1–2). TTK also links the SAC to DNA-damage responses via CHK2 phosphorylation and interacts with Cyclin B1, Aurora kinases and APC/C components (Kwiatkowski et al., 2010, pp. 11–14; Uitdehaag et al., 2017, pp. 19–20).
+
+## Inhibitors  
+Early ATP-competitive probes include Reversine, NMS-P715, Mps1-IN-1 and Mps1-IN-2 (IC₅₀ low-nM) (Kwiatkowski et al., 2010, pp. 51–57; Langdon et al., 2013, p. 12). CFI-402257 (Kᵢ ≈ 0.09 nM) is orally bioavailable and abrogates SAC signalling (Mason et al., 2017, p. 1). BAY 1161909, BAY 1217389 and BOS172722 display long target-residence times and high cellular potency (Uitdehaag et al., 2017, pp. 1–2; Lee et al., 2021, p. 11). Covalent and reversible chemotypes exploiting Cys604 include indazole, 1H-pyrrolo[3,2-c]pyridine and 7H-pyrrolo[2,3-d]pyrimidine scaffolds (Riggs et al., 2019, pp. 9–10; Lee et al., 2021, p. 9; Ashraf et al., 2022, pp. 1–2).
+
+## Other Comments  
+TTK over-expression correlates with aggressive phenotypes in breast, colorectal, thyroid and hepatocellular cancers, notably triple-negative breast cancer, highlighting an oncogenic vulnerability (Ashraf et al., 2022, pp. 1–2; Uitdehaag et al., 2017, pp. 19–20). Pharmacological inhibition synergises with anti-PD-1 immunotherapy in mouse tumour models (Mason et al., 2017, p. 1). Analogue-sensitive (M602A) and kinase-dead (D664A) mutants facilitate mechanistic studies (Unknown authors, 2011, pp. 36–40).
+
+## 9. References  
+Ashraf, N., Asari, A., Yousaf, N., Ahmad, M., Ahmed, M., Faisal, A., Saleem, M., & Muddassar, M. (2022). Combined 3D-QSAR, molecular docking and dynamics simulations studies to model and design TTK inhibitors. Frontiers in Chemistry. https://doi.org/10.3389/fchem.2022.1003816  
+
+Kwiatkowski, N., Jelluma, N., Filippakopoulos, P., Soundararajan, M., Manak, M. S., Kwon, M., … Gray, N. (2010). Small-molecule kinase inhibitors provide insight into Mps1 cell-cycle function. Nature Chemical Biology, 6, 359–368. https://doi.org/10.1038/nchembio.345  
+
+Langdon, S. R., Westwood, I., Montfort, R. V., Brown, N., & Blagg, J. (2013). Scaffold-focused virtual screening: prospective application to the discovery of TTK inhibitors. Journal of Chemical Information and Modeling, 53, 1100–1112. https://doi.org/10.1021/ci400100c  
+
+Lee, Y., Kim, H., Kim, H., Cho, H., Jee, J., Seo, K.-a., … Kim, I. (2021). X-ray crystal structure-guided design and optimization of 7H-pyrrolo[2,3-d]pyrimidine-5-carbonitrile scaffold as a potent and orally active monopolar spindle 1 inhibitor. Journal of Medicinal Chemistry. https://doi.org/10.1021/acs.jmedchem.1c00542  
+
+Liu, X., & Winey, M. (2012). The Mps1 family of protein kinases. Annual Review of Biochemistry, 81, 561–585. https://doi.org/10.1146/annurev-biochem-061611-090435  
+
+Mason, J. M., Wei, X., Fletcher, G. C., Kiarash, R., Brokx, R., Hodgson, R., … Mak, T. W. (2017). Functional characterization of CFI-402257, a potent and selective Mps1/TTK kinase inhibitor, for the treatment of cancer. Proceedings of the National Academy of Sciences, 114, 3127–3132. https://doi.org/10.1073/pnas.1700234114  
+
+Pachis, S. T., & Kops, G. J. P. L. (2018). Leader of the SAC: molecular mechanisms of Mps1/TTK regulation in mitosis. Open Biology. https://doi.org/10.1098/rsob.180109  
+
+Riggs, J. R., Elsner, J., Cashion, D., Robinson, D., Tehrani, L., Nagy, M., … Boylan, J. F. (2019). Design and optimization leading to an orally active TTK protein kinase inhibitor with robust single-agent efficacy. Journal of Medicinal Chemistry, 62, 4401–4410. https://doi.org/10.1021/acs.jmedchem.8b01869  
+
+Uitdehaag, J., de Man, J., Willemsen-Seegers, N., Prinsen, M. B. W., Libouban, M., Sterrenburg, J. G., … Zaman, G. (2017). Target residence time-guided optimization on TTK kinase results in inhibitors with potent anti-proliferative activity. Journal of Molecular Biology, 429, 2211–2230. https://doi.org/10.1016/j.jmb.2017.05.014  
+
+Unknown authors. (2009). Refolding of protein kinases. [Technical report].  
+
+Unknown authors. (2011). Using a novel small-molecule inhibitor to investigate the role of Mps1 kinase activity. [Technical report].  
+
+Unknown authors. (2022). Development of the first covalent monopolar spindle kinase 1 (Mps1/TTK) inhibitor. [Technical report].  
+
+Wang, S., Zhang, M.-x., Liang, D., Sun, W., Zhang, C., Jiang, M.-N., … Zhou, X. (2019). Molecular design and anticancer activities of small-molecule monopolar spindle 1 inhibitors: a medicinal-chemistry perspective. European Journal of Medicinal Chemistry, 175, 247–268. https://doi.org/10.1016/j.ejmech.2019.04.047

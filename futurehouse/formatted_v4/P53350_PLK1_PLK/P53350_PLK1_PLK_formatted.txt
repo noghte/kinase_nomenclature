@@ -1,0 +1,74 @@
+## Phylogeny  
+Polo-like kinase 1 (PLK1) is the founding and best-characterised member of the eukaryotic Polo-like kinase family of serine/threonine protein kinases. Orthologues are found from yeast (*CDC5/PLO1*) to flies (*polo*) and vertebrates, underscoring deep evolutionary conservation (Kothe et al., 2007; Strebhardt & Ullrich, 2006). Mammals encode five paralogues (PLK1-5), with PLK1 representing the archetype of the PLK branch in the human kinome (Chiappa et al., 2022; Lee et al., 2015).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Weiss & Efferth, 2012; Lee et al., 2015).
+
+## Cofactor Requirements  
+Catalysis requires a divalent metal ion, typically Mg²⁺ (or Mn²⁺), together with ATP (Cholewa et al., 2013; Schmucker & Sumara, 2014; Park et al., 2017).
+
+## Substrate Specificity  
+Substrate engagement involves two coordinated determinants:  
+•  C-terminal Polo-box domain (PBD) docks onto primed phosphopeptides bearing the consensus S-pS/pT-P/X; an optimised sequence is MAGPMQ-S-pT-P-LNGAKK (Elia et al., 2003; Weiss & Efferth, 2012; Chapagai et al., 2025).  
+•  N-terminal kinase domain phosphorylates sites that typically contain an acidic residue at −2 and Lys/Arg at +3. Alternative motifs such as [E/D]X[S/T][I/L/V/M]X[E] have also been reported (Kothe et al., 2007; Bibi et al., 2013).  
+
+## Structure  
+PLK1 comprises an N-terminal catalytic kinase domain (KD) linked to a C-terminal PBD (Strebhardt & Ullrich, 2006; Chapagai et al., 2025).  
+•  KD: classical bilobal kinase fold; catalytic Lys82 and activation T-loop containing regulatory Thr210 (Kothe et al., 2007; Lee et al., 2015). Crystal structures include PDB 2OU7, 2OWB and 3FC2.  
+•  PBD: two polo-box motifs that mediate phosphopeptide binding, autoinhibition and localisation; key residues His538 and Lys540 (Strebhardt & Ullrich, 2006; Chapagai et al., 2025). PBD structure: PDB 3RQ7.  
+The two domains are connected by a flexible linker that enables intramolecular autoinhibitory contacts.
+
+## Regulation  
+Activity is controlled multilayeredly:  
+•  Activation-loop phosphorylation of Thr210 by Aurora A in complex with Bora at the G2/M transition (Chiappa et al., 2022; Helmke et al., 2016).  
+•  Autoinhibition: intramolecular KD–PBD interaction suppresses catalysis; binding of the PBD to a phosphorylated docking site relieves this brake (Chiappa et al., 2022; Elia et al., 2003).  
+•  Transcriptional up-regulation peaks in G2/M and is driven by factors such as p53, pRb, Akt and Myc (Cholewa et al., 2013; Colicino & Hehnly, 2018).
+
+## Function  
+PLK1 is a master mitotic regulator required from G2 entry through cytokinesis. Key roles include:  
+–  Phosphorylation of Cdc25C, WEE1 and MYT1 to trigger mitotic entry.  
+–  Control of centrosome maturation, bipolar spindle assembly, chromosome segregation and cytokinesis (Chiappa et al., 2022).  
+–  Spatial targeting to centrosomes, kinetochores and the midbody via PBD interaction with proteins such as Bora, Gravin, BubR1 and PRC1 (Colicino & Hehnly, 2018).  
+–  Participation in DNA-damage responses and negative regulation of p53 (Chiappa et al., 2022; Strebhardt & Ullrich, 2006).
+
+## Inhibitors  
+Two principal classes have been developed for anticancer therapy:  
+•  ATP-competitive KD inhibitors – e.g., Volasertib (BI 6727), BI 2536, TAK-960 (Liu et al., 2017; Weiss & Efferth, 2012).  
+•  PBD-directed inhibitors – e.g., Poloxin; the non-ATP-competitive agent Rigosertib also disrupts PLK1 signalling (McInnes & Wyatt, 2011; Liu et al., 2017).
+
+## Other Comments  
+PLK1 is frequently overexpressed in diverse tumours and high expression correlates with poor prognosis (Cholewa et al., 2013; Strebhardt & Ullrich, 2006).  
+Disease-linked mutations include loss-of-function Lys82Met, constitutively active Thr210Asp and PBD-defective Trp414Phe, which respectively cause mitotic failure, checkpoint override and mis-localisation (Strebhardt & Ullrich, 2006; Chapagai et al., 2025). Dysregulated PLK1 promotes genomic instability and oncogenesis (Cunningham et al., 2020).
+
+## References  
+Bibi, N., Parveen, Z., & Rashid, S. (2013). Identification of potential PLK1 targets in a cell-cycle specific proteome through structural dynamics of kinase and polo box-mediated interactions. *PLoS ONE, 8*, e70843. https://doi.org/10.1371/journal.pone.0070843  
+
+Chapagai, D., Strebhardt, K., Wyatt, M. D., & McInnes, C. (2025). Structural regulation of PLK1 activity: implications for cell cycle function and drug discovery. *Cancer Gene Therapy, 32*, 608–621. https://doi.org/10.1038/s41417-025-00907-7  
+
+Chiappa, M., Petrella, S., Damia, G., Broggini, M., Guffanti, F., & Ricci, F. (2022). Present and future perspective on PLK1 inhibition in cancer treatment. *Frontiers in Oncology*. https://doi.org/10.3389/fonc.2022.903016  
+
+Cholewa, B. D., Liu, X., & Ahmad, N. (2013). The role of polo-like kinase 1 in carcinogenesis: cause or consequence? *Cancer Research, 73*, 6848–6855. https://doi.org/10.1158/0008-5472.CAN-13-2197  
+
+Colicino, E. G., & Hehnly, H. (2018). Regulating a key mitotic regulator, polo-like kinase 1 (PLK1). *Cytoskeleton, 75*, 481–494. https://doi.org/10.1002/cm.21504  
+
+Cunningham, C. E., MacAuley, M. J., Vizeacoumar, F. S., et al. (2020). The CINs of polo-like kinase 1 in cancer. *Cancers, 12*, 2953. https://doi.org/10.3390/cancers12102953  
+
+Elia, A. E. H., Rellos, P., Haire, L. F., et al. (2003). The molecular basis for phosphodependent substrate targeting and regulation of PLKs by the polo-box domain. *Cell, 115*, 83–95. https://doi.org/10.1016/S0092-8674(03)00725-6  
+
+Helmke, C., Becker, S., & Strebhardt, K. (2016). The role of PLK3 in oncogenesis. *Oncogene, 35*, 135–147. https://doi.org/10.1038/onc.2015.105  
+
+Kothe, M., Kohls, D., Low, S., et al. (2007). Structure of the catalytic domain of human polo-like kinase 1. *Biochemistry, 46*, 5960–5971. https://doi.org/10.1021/bi602474j  
+
+Lee, K. S., Burke, T. R., Park, J.-E., Bang, J. K., & Lee, E. (2015). Recent advances and new strategies in targeting PLK1 for anticancer therapy. *Trends in Pharmacological Sciences, 36*, 858–877. https://doi.org/10.1016/j.tips.2015.08.013  
+
+Liu, Z., Sun, Q., & Wang, X. (2017). PLK1, a potential target for cancer therapy. *Translational Oncology, 10*, 22–32. https://doi.org/10.1016/j.tranon.2016.10.003  
+
+McInnes, C., & Wyatt, M. D. (2011). PLK1 as an oncology target: current status and future potential. *Drug Discovery Today, 16*, 619–625. https://doi.org/10.1016/j.drudis.2011.05.002  
+
+Park, J.-E., Hymel, D., Burke, T., & Lee, K. S. (2017). Current progress and future perspectives in the development of anti-polo-like kinase 1 therapeutic agents. *F1000Research*. https://doi.org/10.12688/f1000research.11398.1  
+
+Schmucker, S., & Sumara, I. (2014). Molecular dynamics of PLK1 during mitosis. *Molecular & Cellular Oncology, 1*, e954507. https://doi.org/10.1080/23723548.2014.954507  
+
+Strebhardt, K., & Ullrich, A. (2006). Targeting polo-like kinase 1 for cancer therapy. *Nature Reviews Cancer, 6*, 321–330. https://doi.org/10.1038/nrc1841  
+
+Weiss, L., & Efferth, T. (2012). Polo-like kinase 1 as target for cancer therapy. *Experimental Hematology & Oncology, 1*, 38. https://doi.org/10.1186/2162-3619-1-38

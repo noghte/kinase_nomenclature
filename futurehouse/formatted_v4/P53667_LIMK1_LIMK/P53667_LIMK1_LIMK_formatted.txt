@@ -1,0 +1,63 @@
+## Phylogeny  
+LIMK1 is restricted to metazoans: orthologues are present in mouse, rat, zebrafish, frog and fruit-fly, but absent from Caenorhabditis elegans and Saccharomyces cerevisiae, implying acquisition after these lineages diverged (Scott & Olson, 2007; Shah & Cook, 2023). Within the human kinome, LIMK1 and LIMK2 constitute the LIMK subfamily inside the LISK family of the TKL group; the closest paralogues are TESK1 and TESK2 (Scott & Olson, 2007; Shah & Cook, 2023).
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Tyr ⇌ ADP + protein-L-Ser/Tyr-phosphate (Salah et al., 2019).
+
+## Cofactor Requirements  
+Catalytic activity requires divalent cations; all assays and crystal structures used 2–2.5 mM MgCl₂ (Salah et al., 2019).
+
+## Substrate Specificity  
+• Physiological targets: cofilin-1 (CFL1), cofilin-2 (CFL2) and destrin (DSTN), each phosphorylated on Ser3 (Salah et al., 2019; Scott & Olson, 2007).  
+• Dual Ser/Tyr activity: a CFL1 Ser3→Tyr mutant is phosphorylated, whereas a Ser3→Thr variant is not; threonine exclusion is attributed to steric shielding by activation-loop Leu481 (Salah et al., 2019).  
+• Recognition mode: substrates dock through a distal anchor-helix that fits a pocket formed by the enlarged αF–αG loop and the activation segment; no linear consensus sequence has been defined (Chatterjee et al., 2022).
+
+## Structure  
+Full-length LIMK1 comprises two N-terminal LIM zinc fingers, a PDZ domain, a proline/serine-rich linker and a C-terminal kinase domain (residues 329–638) (Manetti, 2012). Nine X-ray structures of the isolated kinase domain are available, including substrate complexes (PDB 5L6W, 5HVK) and inhibitor complexes (PDB 3S95, 5NXC) (Chatterjee et al., 2022; Unknown authors, 2018).  
+Key features:  
+• Canonical bilobal fold with GKGCFG P-loop, VAIK Lys368, HRDLNSHN catalytic motif and DFG motif (Chatterjee et al., 2022).  
+• A 13-residue C-terminal shift of helix αG and an expanded αF–αG loop create a unique substrate-docking cradle essential for the “rock-and-poke” mechanism (Chatterjee et al., 2022).  
+• Thr508 phosphorylation stabilises the active DFG-in state via a Thr508–Arg483 salt bridge (Chatterjee et al., 2022).  
+• PF-477736 enforces an inactive αC-out conformation (PDB 5NXC), whereas staurosporine captures an active αC-in state (PDB 3S95), illustrating substantial P-loop and αC mobility (Salah et al., 2019).  
+• Cys349 in the P-loop is unique to LIMK1 and serves as a covalent anchor for isoform-selective inhibitors (Mandel et al., 2025).
+
+## Regulation  
+• Phosphorylation  
+  – Thr508: activated by PAK1, PAK4 and ROCK1, increasing catalytic efficiency (Salah et al., 2019; Manetti, 2012).  
+  – Ser323: MK2-mediated phosphorylation relieves N-terminal autoinhibition (Manetti, 2012).  
+  – Autophosphorylation occurs on Ser and Tyr but not Thr508 (Scott & Olson, 2007).  
+  – SSH1 phosphatase removes the Thr508 phosphate (Scott & Olson, 2007).  
+• Protein interactions: Hsp90 binds residues 387–402, stabilising the kinase and promoting dimer-mediated trans-autophosphorylation (Scott & Olson, 2007).  
+• Ubiquitin/Proteolysis: RNF6 and parkin ubiquitinate LIMK1 for proteasomal degradation; caspase-3 cleavage at Asp240 removes the inhibitory N-terminus, generating a constitutively active fragment (Manetti, 2012; Scott & Olson, 2007).  
+• miRNA: miR-134 represses translation (Manetti, 2012).  
+• Conformational control: type-II and type-III inhibitors preferentially bind the non-phosphorylated DFG-out state; Thr508 phosphorylation reduces their affinity (Chatterjee et al., 2022).
+
+## Function  
+LIMK1 is highly expressed in brain and skeletal muscle, whereas LIMK2 is more ubiquitous (Chatterjee et al., 2022). In adult mouse hippocampus, LIMK1 accounts for ~70 % of phosphorylated cofilin (Salah et al., 2019). Upstream signals from RhoA, Rac1 and Cdc42 activate PAK1/4, ROCK1/2 and BMPR2, which in turn phosphorylate LIMK1 (Salah et al., 2019; Manetti, 2012). Downstream phosphorylation of CFL1/2 and DSTN at Ser3 inhibits their actin-severing activity, stabilising F-actin and regulating cell migration, neurite extension, cytokinesis and differentiation (Salah et al., 2019; Scott & Olson, 2007). Direct binding to the BMPR2 C-terminal tail links BMP receptor signalling to actin remodelling (Unknown authors, 2018).
+
+## Inhibitors  
+• Staurosporine (type I, active DFG-in, PDB 3S95) (Unknown authors, 2018).  
+• PF-477736 (type I, induces αC-out, PDB 5NXC) (Salah et al., 2019).  
+• LIMKi3 (nanomolar type I; limited by tubulin off-target activity) (Salah et al., 2019).  
+• LX-7101 (dual LIMK/ROCK inhibitor; phase I for glaucoma) (Salah et al., 2019).  
+• Type-III allosteric ligands exemplified by “Ligand 22” (DFG-out pocket, high selectivity) (Chatterjee et al., 2022).  
+• Dabrafenib identified as a LIMK1 binder in kinome profiling (Salah et al., 2019).  
+• Covalent inhibitors targeting Cys349 achieve LIMK1 isoform selectivity (Mandel et al., 2025).
+
+## Other Comments  
+Haploinsufficiency of LIMK1 within the 7q11.23 microdeletion contributes to the cognitive phenotype of Williams–Beuren syndrome (Scott & Olson, 2007). Hyperactive signalling is implicated in Fragile X syndrome and C9ORF72-linked ALS (Salah et al., 2019). Altered LIMK1 activity is also associated with Alzheimer’s disease, Parkinson’s disease and invasive behaviour in breast and colon cancers (Mandel et al., 2025). Systemic LIMK inhibition disrupts platelet activation and reduces osteoblast numbers, highlighting the need for isoform-specific targeting (Chatterjee et al., 2022).
+
+## 9. References  
+Chatterjee, D., Preuss, F., Dederer, V., Knapp, S., & Mathea, S. (2022). Structural aspects of LIMK regulation and pharmacology. Cells, 11, 142. https://doi.org/10.3390/cells11010142  
+
+Manetti, F. (2012). LIM kinases are attractive targets with many macromolecular partners and only a few small molecule regulators. Medicinal Research Reviews. https://doi.org/10.1002/med.20230  
+
+Mandel, S., Hanke, T., Prendiville, N., Baena-Nuevo, M., Berger, L., Farges, F., … Knapp, S. (2025). Covalent targeting leads to the development of LIMK1 isoform-selective inhibitors. bioRxiv. https://doi.org/10.1101/2025.04.17.649341  
+
+Salah, E., Chatterjee, D., Beltrami, A., Tumber, A., Preuss, F., Canning, P., … Mathea, S. (2019). Lessons from LIMK1 enzymology and their impact on inhibitor design. Biochemical Journal, 476, 3197–3209. https://doi.org/10.1042/BCJ20190517  
+
+Scott, R. W., & Olson, M. F. (2007). LIM kinases: function, regulation and association with human disease. Journal of Molecular Medicine, 85, 555–568. https://doi.org/10.1007/s00109-007-0165-6  
+
+Shah, K., & Cook, M. (2023). LIMK2: A multifaceted kinase with pleiotropic roles in human physiology and pathologies. Cancer Letters, 565, 216207. https://doi.org/10.1016/j.canlet.2023.216207  
+
+Unknown authors. (2018). Human LIM Domain Kinase 1 (LIMK1) kinase domain [PDB entries 3S95, 5L6W, 5HVK, 5NXC]. Protein Data Bank.

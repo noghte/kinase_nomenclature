@@ -1,0 +1,49 @@
+## Phylogeny  
+Human platelet-derived growth factor receptor α (PDGFRA) belongs to the tyrosine kinase (TK) group, class III receptor tyrosine-kinase family that also includes KIT, FLT3 and CSF1R (Ip et al., 2018; Liang et al., 2016). Orthologous receptors are described in Mus musculus (Guérit et al., 2021), Danio rerio and Xenopus laevis (Unknown Authors, 2018).
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + phospho-protein-L-tyrosine (Guérit et al., 2021).
+
+## Cofactor Requirements  
+Catalytic activity requires a divalent cation; Mg²⁺ is used in in-vitro kinase assays (Guérit et al., 2021; Liang et al., 2016).
+
+## Substrate Specificity  
+Intrinsic autophosphorylation occurs on Tyr572/Tyr574 (SRC recruitment), Tyr720, Tyr742, Tyr754, and C-terminal Tyr762, Tyr1009 and Tyr1021 (Guérit et al., 2021; Paugh et al., 2013). No global linear consensus motif has been reported in available specificity atlases.
+
+## Structure  
+Signal peptide → five Ig-like extracellular domains (D1–D5) → single transmembrane helix → juxtamembrane (JM) regulatory segment → bilobal kinase domain → C-terminal tail (Guérit et al., 2021).  
+Crystal structure 5K5X (2.17 Å) captures an auto-inhibited kinase in which Val561 in the JM hydrophobic pocket and a Lys627–Glu644 salt bridge stabilize the inactive conformation; the activation loop contains the DFG motif (Asp842) and a unique αJ helix in the C-lobe (Liang et al., 2016). Cryo-EM reveals an asymmetric active dimer where activation-loop phosphorylation releases JM autoinhibition (Guérit et al., 2021).
+
+## Regulation  
+• Autophosphorylation of JM Tyr572/Tyr574 relieves autoinhibition, and phosphorylation of activation-loop Tyr849/Tyr857 locks the active state (Guérit et al., 2021).  
+• Additional phosphorylations (Tyr762, Tyr1009, Tyr1021) create PLCγ docking sites (Guérit et al., 2021).  
+• CBL family E3 ligases bind phospho-receptor to promote ubiquitin-dependent internalisation and degradation (Ip et al., 2018).  
+• Ligand-induced dimerisation triggers trans-phosphorylation; JM (e.g., V561D) or activation-loop (e.g., D842V) mutations bypass this control (Liang et al., 2016).
+
+## Function  
+PDGFRA is predominantly expressed in mesenchymal progenitors, neural-crest derivatives, intestinal mesenchyme and the oligodendrocyte lineage; knockout mice exhibit craniofacial, skeletal and gastrointestinal defects and die embryonically (Guérit et al., 2021). Ligands PDGF-AA, ‑AB, ‑BB and ‑CC induce receptor dimerisation (Guérit et al., 2021). Phospho-Tyr572/574 recruits SRC family kinases; phospho-Tyr742 binds PI3K-p85; phospho-Tyr720/Tyr754 engage SHP2 and GRB2; C-terminal sites dock PLCγ, collectively activating PI3K-AKT, RAS-MAPK, SRC-RAC and STAT pathways to control proliferation, migration, extracellular-matrix synthesis and platelet activation (Guérit et al., 2021; Paugh et al., 2013; Ozawa et al., 2010).
+
+## Inhibitors  
+• Type II (DFG-out) inhibitors: imatinib and sunitinib block wild-type and JM mutant receptors but not D842V (Liang et al., 2016; Guérit et al., 2021).  
+• Type I (DFG-in) inhibitors: crenolanib and avapritinib inhibit activation-loop mutants, including D842V; avapritinib occupies a Gα sub-pocket revealed by co-crystal structures (Liang et al., 2016; Teuber et al., 2024).  
+• Broad-spectrum TKIs dasatinib and PTK787 reduce signalling from extracellular mutants and fusion oncogenes (Ip et al., 2018; Ozawa et al., 2010).
+
+## Other Comments  
+Oncogenic gain-of-function mutations cluster in the JM (V561D), N-lobe (N659K) and activation loop (D842V and exon 18 insertions), driving gastrointestinal stromal tumours and inflammatory fibroid polyps (Guérit et al., 2021). Diverse extracellular, transmembrane and kinase-domain mutations cause ligand-independent signalling in paediatric high-grade gliomas (Paugh et al., 2013). Neomorphic extracellular Y288C and myxoid glioneuronal tumour-specific K385I/L mutations promote constitutive dimerisation with altered subcellular localisation and differential TKI sensitivity (Ip et al., 2018; Villenfagne et al., 2024). Activation-loop D842V markedly increases ATP affinity (Km ≈ 5 µM), explaining resistance to type II inhibitors (Liang et al., 2016).
+
+## References  
+Guérit, E., Arts, F., Dachy, G., Boulouadnine, B., & Demoulin, J.-B. (2021). PDGF receptor mutations in human diseases. Cellular and Molecular Life Sciences, 78, 3867–3881. https://doi.org/10.1007/s00018-020-03753-y  
+
+Ip, C. K. M., Ng, P. K. S., Jeong, K. J., Shao, S. H., Ju, Z., Leonard, P. G., … Mills, G. B. (2018). Neomorphic PDGFRA extracellular domain driver mutations are resistant to PDGFRA-targeted therapies. Nature Communications, 9, 4516. https://doi.org/10.1038/s41467-018-06949-w  
+
+Liang, L., Yan, X.-E., Yin, Y., & Yun, C.-H. (2016). Structural and biochemical studies of the PDGFRA kinase domain. Biochemical and Biophysical Research Communications, 477(4), 667–672. https://doi.org/10.1016/j.bbrc.2016.06.117  
+
+Ozawa, T., Brennan, C., Wang, L., Squatrito, M., Sasayama, T., Nakada, M., … Holland, E. (2010). PDGFRA gene rearrangements are frequent genetic events in PDGFRA-amplified glioblastomas. Genes & Development, 24(19), 2205–2218. https://doi.org/10.1101/gad.1972310  
+
+Paugh, B. S., Zhu, X., Qu, C., Endersby, R., Diaz, A. K., Zhang, J., … Baker, S. J. (2013). Novel oncogenic PDGFRA mutations in pediatric high-grade gliomas. Cancer Research, 73(20), 6219–6229. https://doi.org/10.1158/0008-5472.CAN-13-1491  
+
+Teuber, A., Schulz, T., Fletcher, B. S., Gontla, R., Mühlenberg, T., Zischinsky, M.-L., … Rauh, D. (2024). Avapritinib-based SAR studies unveil a binding pocket in KIT and PDGFRA. Nature Communications, 15, 188. https://doi.org/10.1038/s41467-023-44376-8  
+
+Unknown Authors. (2018). Danio rerio and Xenopus laevis embryos: alternative and valuable models to unveil new molecular mechanisms involved in glioma progression. [Conference paper/abstract].  
+
+Villenfagne, L. de, Sablon, A., & Demoulin, J.-B. (2024). PDGFRA K385 mutants in myxoid glioneuronal tumors promote receptor dimerization and oncogenic signaling. Scientific Reports, 14, 5730. https://doi.org/10.1038/s41598-024-57859-5

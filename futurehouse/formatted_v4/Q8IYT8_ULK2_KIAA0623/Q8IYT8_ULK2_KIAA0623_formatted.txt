@@ -1,0 +1,56 @@
+## Proposed EC/sub-subclass:  
+2.7.11.– (protein-serine/threonine kinase)
+
+## Accepted name:  
+Unc-51-like autophagy-activating kinase 2 (ULK2)
+
+## Synonyms:  
+Unc-51-like kinase 2; unc-51 like autophagy activating kinase 2  
+
+## Phylogeny  
+Member of the unc-51-like kinase (ULK) family within the CAMK group of the human kinome (Chaikuad et al., 2019; Kumar & Papaleo, 2020). ULK2 is the human paralogue of ULK1 and the orthologue of yeast Atg1 and C. elegans UNC-51 (Demeter et al., 2020; Yan et al., 1999). ULK1 and ULK2 arose from a single Atg1-like gene duplication at the base of the chordates ~500 million years ago (Demeter et al., 2020). ULK2 orthologues are conserved across metazoans involved in autophagy regulation (Chaikuad et al., 2019).
+
+## Reaction catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Chaikuad et al., 2019; Karmacharya & Jung, 2023).
+
+## Cofactor requirements  
+Requires Mg²⁺ for ATP binding and catalysis (Chaikuad et al., 2019; Demeter et al., 2020).
+
+## Substrate Specificity  
+Basophilic kinase placed in Cluster 1 by positional scanning peptide library profiling; prefers Arg/Lys at −3/−2 upstream of the Ser/Thr phospho-acceptor (motif R-x-x-S/T) and disfavors certain residues that promote kinase insulation (Johnson et al., 2023). Shows a bias toward phosphorylating serine when a large hydrophobic residue occupies the DFG+1 position (Kumar & Papaleo, 2020).
+
+## Structure  
+Human ULK2 is a 1,033-residue protein comprising an N-terminal kinase domain (KD), central Pro/Ser-rich (PS) region, and C-terminal domain (CTD) for complex assembly (Chaikuad et al., 2019; Yan et al., 1999). The KD shares 78.7 % sequence identity with ULK1 (Demeter et al., 2020) and forms dimers via activation-segment exchange (PDB: 6QAS, 6QAT), enabling trans-autophosphorylation (Chaikuad et al., 2019). Conserved catalytic elements include the DFG and APE motifs and a K46–E63 salt bridge; a flexible Met gatekeeper and outward-facing P-loop Phe enlarge the inhibitor pocket (Chaikuad et al., 2019).
+
+## Regulation  
+• Autophosphorylation: trans-autophosphorylation on T173 in the activation loop and additional sites in the PS region (Chaikuad et al., 2019; Yan et al., 1999).  
+• Nutrient signalling: mTORC1 phosphorylates and inhibits ULK2 under nutrient-rich conditions; dissociation of mTORC1 under starvation allows AMPK-mediated activating phosphorylation (Demeter et al., 2020; Karmacharya & Jung, 2023).  
+• Additional motifs unique to ULK2 (TRAF6, MAPK docking, Ca²⁺-dependent sites) suggest further regulation by cytokine, MAPK and Ca²⁺ pathways (Demeter et al., 2020).
+
+## Function  
+Broad mRNA expression in adult mouse tissues with enrichment in spinal cord, corpus callosum and testis; elevated during nervous system development (Yan et al., 1999; Demeter et al., 2020).  
+• Core autophagy initiator: forms the ULK2–ATG13–RB1CC1/FIP200–ATG101 complex that triggers autophagophore formation upstream of PI3KC3 (Chaikuad et al., 2019; Sidat et al., 2022).  
+• Phosphorylates Beclin-1, VPS34 and other downstream autophagy factors (Karmacharya & Jung, 2023; Sidat et al., 2022).  
+• Distinct roles from ULK1: interacts uniquely with WIPI2 in xenophagy and with proteins enriched in nitrogen-compound metabolism (Demeter et al., 2020).  
+• Additional roles in axon formation and lipid metabolism (Chaikuad et al., 2019; Demeter et al., 2020).
+
+## Inhibitors  
+ATP-competitive inhibitors that target both ULK1 and ULK2 include MRT68921 (IC₅₀ ≈ 1.1 nM), MRT67307, SBI-0206965, ULK-101, PF-03814735 and the clinical candidate DCC-3116; many show cross-reactivity with Aurora A kinase (Chaikuad et al., 2019; Karmacharya & Jung, 2023; Sidat et al., 2022).
+
+## Other Comments  
+Dysregulation is associated with cancers (lung, neuroblastoma, leukemia), Crohn’s disease, neurodegeneration and autoimmune disorders. ULK2 expression is reduced in inactive ulcerative colitis biopsies. Combined loss of ULK1 and ULK2 in mice causes neonatal lethality, underscoring their essential, partly non-redundant functions (Chaikuad et al., 2019; Demeter et al., 2020).
+
+## References  
+Chaikuad, A., Koschade, S. E., Stolz, A., Živković, K., Pohl, C., Shaid, S., Ren, H., Lambert, L. J., Cosford, N., Brandts, C., & Knapp, S. (2019). Conservation of structure, function and inhibitor binding in unc-51-like kinase 1 and 2 (ULK1/2). bioRxiv. https://doi.org/10.1101/550111  
+
+Demeter, A., Romero-Mulero, M. C., Csabai, L., Ölbei, M., Sudhakar, P., Haerty, W., & Korcsmáros, T. (2020). ULK1 and ULK2 are less redundant than previously thought: Computational analysis uncovers distinct regulation and functions of these autophagy induction proteins. Scientific Reports. https://doi.org/10.1038/s41598-020-67780-2  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … & Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Karmacharya, U., & Jung, J. (2023). Small molecule inhibitors for unc-51-like autophagy-activating kinase targeting autophagy in cancer. International Journal of Molecular Sciences, 24, 953. https://doi.org/10.3390/ijms24020953  
+
+Kumar, M., & Papaleo, E. (2020). A pan-cancer assessment of alterations of the kinase domain of ULK1, an upstream regulator of autophagy. Scientific Reports. https://doi.org/10.1038/s41598-020-71527-4  
+
+Sidat, P., Noolvi, M., Patil, R., & Rathod, S. (2022). ULK1/2 inhibitor: Essential component of autophagic cell death machinery. Journal of Pharmaceutical Research, 21, 55–69. https://doi.org/10.18579/jopcr/v21i3.4  
+
+Yan, J., Kuroyanagi, H., Tomemori, T., Okazaki, N., Asato, K., Matsuda, Y., … Muramatsu, M. (1999). Mouse ULK2, a novel member of the unc-51-like protein kinases: Unique features of functional domains. Oncogene, 18, 5850–5859. https://doi.org/10.1038/sj.onc.1202988

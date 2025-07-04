@@ -1,0 +1,71 @@
+## Phylogeny  
+Human AXL is classified within the tyrosine kinase (TK) group, receptor tyrosine kinase (RTK) class, TAM sub-family, where it clusters with TYRO3 and MERTK (Feneyrolles et al., 2014; Gajiwala et al., 2017). Orthologues are reported in Mus musculus, Rattus norvegicus and Danio rerio, indicating broad vertebrate conservation (Paccez et al., 2014; Zhu et al., 2019). Structural superposition of AXL and MERTK kinase domains yields an RMSD of ~0.8–0.9 Å, underscoring strong evolutionary conservation inside the TAM branch (Gajiwala et al., 2017).  
+
+## Reaction Catalyzed  
+ATP + [protein]-L-tyrosine ⇌ ADP + [protein]-O-phospho-L-tyrosine (Feneyrolles et al., 2014; Gajiwala et al., 2017).  
+
+## Cofactor Requirements  
+Catalytic activity requires divalent cations; purified kinase is active with Mg²⁺ or Mn²⁺ (Myers et al., 2016).  
+
+## Substrate Specificity  
+High-throughput bacterial display defined a consensus NxxI/L-Y-ΦΦΦ (Φ = hydrophobic) motif. Preferred features include Leu/Ile at –1, hydrophobic residues at +1 to +5, and Asn at –5 to –3, whereas Lys/Arg are disfavoured. Experimentally validated substrates comprise FAK1 Y861, ACK1, SHP-2, CTNND1, TJP2, BCAR1, CBLB and CBLC. Autophosphorylation at Y779 generates a PI3K docking site (Creixell et al., 2023; Gajiwala et al., 2017).  
+
+## Structure  
+The ectodomain contains two Ig-like and two fibronectin type III modules, followed by a single-pass transmembrane helix, a juxtamembrane segment and a C-terminal kinase domain that harbours the TAM-signature KWIAIES sequence (Feneyrolles et al., 2014). The first crystal structure captured both inactive and active kinase conformers within one asymmetric unit; they differ in C-helix orientation and juxtamembrane packing (Gajiwala et al., 2017). Key catalytic elements include gatekeeper Thr683, canonical HRD and DFG motifs, a complete hydrophobic spine and an activation loop bearing Y779, Y821 and Y866. Juxtamembrane Leu526 stabilises the active state; L526A reduces catalytic turnover by ~50 % (Gajiwala et al., 2017). Hydrogen-deuterium exchange indicates higher intrinsic dynamics for AXL relative to MERTK, offering selectivity determinants for drug design (Gajiwala et al., 2017).  
+
+## Regulation  
+Post-translational modifications  
+• Autophosphorylation on Y698, Y702, Y703, Y779, Y821 and Y866 (Feneyrolles et al., 2014).  
+• Ubiquitination drives endocytosis and down-regulation (Zhu et al., 2019).  
+• Ectodomain shedding by ADAM10/17 restricts surface levels (Myers et al., 2016).  
+• HSP90 chaperoning stabilises the receptor (Levin et al., 2016).  
+
+Activation mechanisms  
+• Ligand-dependent homodimerisation upon GAS6 binding in the presence of phosphatidylserine (Levin et al., 2016; Dagamajalu et al., 2021).  
+• Ligand-independent activation via receptor overexpression, oxidative stress, or heterodimerisation with TYRO3, EGFR or MET (Myers et al., 2016; Levin et al., 2016).  
+
+Transcriptional/epigenetic control  
+• Positive: SP1/3, mutant p53, YAP1, HIF-1 (Levin et al., 2016; Bhalla & Gerber, 2023).  
+• Negative: promoter CpG methylation; miR-34a and miR-199a/b (Myers et al., 2016).  
+
+## Function  
+Expression is documented in endothelial and vascular smooth-muscle cells, Schwann cells, neurons, monocytes, platelets and many adult organs; overexpression is frequent in lung, breast, glioblastoma, melanoma and pancreatic cancers (Feneyrolles et al., 2014; Dagamajalu et al., 2021; Myers et al., 2016).  
+
+Upstream inputs  
+Primary ligand GAS6, with additional specificity for TULP-1 and galectin-3. Crosstalk with EGFR, MET and TYRO3 supports bypass signalling (Myers et al., 2016; Levin et al., 2016).  
+
+Interactors and substrates  
+SH2/SH3 adaptors (PIK3R1/2/3, GRB2, PLCG1, NCK2), phosphatase PTPN11, kinases SRC family, LCK, FAK1, ACK1, and E3 ligases CBLB/CBLC (Creixell et al., 2023; Dagamajalu et al., 2021).  
+
+Downstream pathways  
+Activation of PI3K-AKT-mTOR, RAS-RAF-MEK-ERK, SRC/FAK, JAK/STAT and NF-κB cascades drives survival, proliferation, migration, EMT, angiogenesis, immune modulation and efferocytosis (Feneyrolles et al., 2014; Paccez et al., 2014; Levin et al., 2016).  
+
+## Inhibitors  
+• R428/BGB324 (bemcentinib) – selective nanomolar ATP-competitive inhibitor that blocks signalling and enhances chemosensitivity in vivo (Paccez et al., 2014; Danielli et al., 2024).  
+• Macrocyclic inhibitor co-crystallised with AXL (Gajiwala et al., 2017).  
+• S49076, 2-D08, UNC2025, SGI-7079 and UNC569 – sub-micromolar potency (Zhu et al., 2019).  
+• Dasatinib suppresses SRC-dependent AXL phosphorylation clusters (Creixell et al., 2023).  
+
+## Other Comments  
+AXL overexpression, amplification or activating fusions correlate with metastasis, poor prognosis and resistance to EGFR inhibitors, chemotherapy and immune checkpoint blockade (Myers et al., 2016; Levin et al., 2016; Zhu et al., 2019). Dysregulated GAS6-AXL signalling is additionally implicated in fibrosis, chronic immune disorders and vascular pathologies (Dagamajalu et al., 2021).  
+
+## 9. References  
+Bhalla, S., & Gerber, D. E. (2023). AXL inhibitors: status of clinical development. Current Oncology Reports, 25, 521–529. https://doi.org/10.1007/s11912-023-01392-7  
+
+Dagamajalu, S., Rex, D. A. B., Palollathil, A., Shetty, R., Bhat, G., Cheung, L. W. T., & Prasad, T. S. K. (2021). A pathway map of AXL receptor-mediated signaling network. Journal of Cell Communication and Signaling, 15, 143–148. https://doi.org/10.1007/s12079-020-00580-5  
+
+Danielli, S. G., Wurth, J., Morice, S., Kisele, S., Surdez, D., Delattre, O., Bode, P., Wachtel, M., & Schafer, B. W. (2024). Evaluation of the role of AXL in fusion-positive paediatric rhabdomyosarcoma identifies the small-molecule inhibitor bemcentinib (BGB324) as potent chemosensitiser. Molecular Cancer Therapeutics, 23, 864–876. https://doi.org/10.1158/1535-7163.MCT-23-0285  
+
+Feneyrolles, C., Spenlinhauer, A., Guiet, L., Fauvel, B., Daydé-Cazals, B., Warnault, P., Chevé, G., & Yasri, A. (2014). AXL kinase as a key target for oncology: focus on small molecule inhibitors. Molecular Cancer Therapeutics, 13, 2141–2148. https://doi.org/10.1158/1535-7163.MCT-13-1083  
+
+Gajiwala, K., Grodsky, N., Bolanos, B., Feng, J., Ferre, R., Timofeevski, S. L., Xu, M., Murray, B., Johnson, T., & Stewart, A. (2017). The AXL kinase domain in complex with a macrocyclic inhibitor offers first structural insights into an active TAM receptor kinase. The Journal of Biological Chemistry, 292, 15705–15716. https://doi.org/10.1074/jbc.M116.771485  
+
+Levin, P. A., Brekken, R., Byers, L., Heymach, J., & Gerber, D. (2016). AXL receptor axis: a new therapeutic target in lung cancer. Journal of Thoracic Oncology, 11, 1357–1362. https://doi.org/10.1016/j.jtho.2016.04.015  
+
+Myers, S. H., Brunton, V. G., & Unciti-Broceta, A. (2016). AXL inhibitors in cancer: a medicinal chemistry perspective. Journal of Medicinal Chemistry, 59, 3593–3608. https://doi.org/10.1021/acs.jmedchem.5b01273  
+
+Paccez, J. D., Vogelsang, M., Parker, M. I., & Zerbini, L. F. (2014). The receptor tyrosine kinase AXL in cancer: biological functions and therapeutic implications. International Journal of Cancer. https://doi.org/10.1002/ijc.28246  
+
+Creixell, M., Taylor, S. D., Gerritsen, J. S., Bae, S. Y., Jiang, M., Augustin, T., Loui, M., Boixo, C., Creixell, P., White, F. M., & Meyer, A. S. (2023). Dissecting signaling regulators driving AXL-mediated bypass resistance and associated phenotypes by phosphosite perturbations. bioRxiv. https://doi.org/10.1101/2023.10.20.563266  
+
+Zhu, C., Wei, Y.-Q., & Wei, X. (2019). AXL receptor tyrosine kinase as a promising anti-cancer approach: functions, molecular mechanisms and clinical applications. Molecular Cancer. https://doi.org/10.1186/s12943-019-1090-3

@@ -1,0 +1,60 @@
+## Phylogeny  
+DSTYK is a single-copy kinase conserved in vertebrates (Homo sapiens, Mus musculus, Rattus norvegicus, Gallus gallus, Danio rerio) (Peng et al., 2006; Unknown Authors, 2014; Sun et al., 2020). Sequence homology places it in the receptor-interacting protein kinase (RIPK) family within the tyrosine-kinase-like (TKL) branch of the human kinome (Dong et al., 2025).
+
+## Reaction Catalyzed  
+ATP + L-Ser/Thr/Tyr-[protein] ⇌ ADP + H⁺ + O-phospho-L-Ser/Thr/Tyr-[protein] (Peng et al., 2006).
+
+## Cofactor Requirements  
+No divalent metal ion requirement has been reported (Dong et al., 2025).
+
+## Substrate Specificity  
+• Site-specific phosphorylation of STING at Ser366 (Dong et al., 2025).  
+• Phosphorylation of β-catenin at unidentified residues in vitro (Zhong et al., 2021).  
+A global consensus motif has not been defined.
+
+## Structure  
+The protein contains two cysteine-rich N-terminal non-catalytic regions (NCR1, NCR2) followed by a divergent eukaryotic protein kinase domain spanning residues 652–906 (Peng et al., 2006; Sun et al., 2020). No experimental or predicted 3-D structures are currently available (Dong et al., 2025). Canonical VAIK, HRD and DFG motifs are inferred by homology. Kinase-dead mutants K681A and D777A retain STING binding and endosomal localisation but lack catalytic activity (Dong et al., 2025).
+
+## Regulation  
+• Phosphorylation of DSTYK by TBK1 enhances its ability to phosphorylate STING at late endosomes (Dong et al., 2025).  
+• Electrophoretic mobility shifts indicate additional, unmapped post-translational modifications (Unknown Authors, 2014).  
+• Constitutively localises to Rab7/LAMP1-positive late endosomes; this localisation is independent of catalytic activity (Dong et al., 2025).  
+• Binding to STING is maintained in kinase-inactive mutants, separating docking from catalysis (Dong et al., 2025).
+
+## Function  
+Expression: Highly expressed in innate immune cells (NK cells, dendritic cells, macrophages, neutrophils) and in several human cell lines including HEK293, HeLa, THP-1, A549, HT1080 and Hep-G2 (Dong et al., 2025).  
+
+Innate immunity: At late endosomes DSTYK phosphorylates STING-Ser366, promoting downstream activation of TBK1, IRF3 and NF-κB, thereby driving IFNB, ISG and pro-inflammatory cytokine expression during DNA-virus infection (Dong et al., 2025).  
+
+Cell death: Over-expression triggers both caspase-dependent and caspase-independent death pathways (Dong et al., 2025).  
+
+Wnt signalling / metabolism: Phosphorylates β-catenin, reduces its accumulation and represses Axin2, c-Myc, cyclin D1 and LDHA, limiting lung adenocarcinoma growth and stemness (Zhong et al., 2021).  
+
+ERK pathway: Somatic Met296Ile mutation increases ERK1/2 activity and tumour invasiveness in solitary fibrous tumour/hemangiopericytoma (Tang et al., 2019).
+
+## Other Comments  
+Disease associations:  
+• Heterozygous splice-site or missense variants cause autosomal dominant congenital anomalies of the kidney and urinary tract (Sanna-Cherchi et al., 2013).  
+• Missense variant Leu91Met linked to hereditary spastic paraparesis with lower urinary-tract dysfunction (Vidic et al., 2021).  
+• Loss-of-function alleles in zebrafish produce scoliosis-like vertebral malformations via mTORC1/TFEB dysregulation (Sun et al., 2020).  
+• Kinase-domain ablation in mice impairs spatial learning and memory without major neurodevelopmental defects (Unknown Authors, 2014).  
+• Cancer relevance: Met296Ile drives intraspinal dissemination of solitary fibrous tumour/hemangiopericytoma (Tang et al., 2019); reduced DSTYK expression suppresses lung adenocarcinoma via β-catenin regulation (Zhong et al., 2021).  
+
+No specific small-molecule or biologic inhibitors have been reported (Dong et al., 2025).
+
+## References  
+Dong, H., Zhang, H., Song, P., Hu, Y., & Chen, D. (2025). Dstyk phosphorylates STING at late endosomes to promote STING signaling. EMBO Reports, 26, 1620–1646. https://doi.org/10.1038/s44319-025-00394-9  
+
+Peng, J., Dong, W., Chen, Y., Mo, R., Cheng, J.-F., Hui, C., Mohandas, N., & Huang, C.-H. (2006). Dusty protein kinases: primary structure, gene evolution, tissue specific expression and unique features of the catalytic domain. Biochimica et Biophysica Acta, 1759(11-12), 562–572. https://doi.org/10.1016/j.bbaexp.2006.10.004  
+
+Sanna-Cherchi, S., Sampogna, R., Papeta, N., Burgess, K. E., Nees, S., Perry, B. J., … Gharavi, A. (2013). Mutations in DSTYK and dominant urinary tract malformations. New England Journal of Medicine, 369, 621–629. https://doi.org/10.1056/NEJMoa1214479  
+
+Sun, X., Zhou, Y., Zhang, R., Wang, Z., Xu, M., Zhang, D., … Chen, L. (2020). Dstyk mutation leads to congenital scoliosis-like vertebral malformations in zebrafish via dysregulated mTORC1/TFEB pathway. Nature Communications. https://doi.org/10.1038/s41467-019-14169-z  
+
+Tang, G., Yang, Y., Shang, L., Jun, F., & Liu, Q. (2019). A DSTYK mutation activates ERK1/2 signaling to promote intraspinal dissemination in a case of solitary fibrous tumor/hemangiopericytoma. Laboratory Investigation, 1–14. https://doi.org/10.1038/s41374-019-0274-1  
+
+Vidic, C., Zaniew, M., Jurga, S., Thiele, H., Reutter, H., & Hilger, A. C. (2021). Exome sequencing implicates a novel heterozygous missense variant in DSTYK in autosomal dominant lower urinary tract dysfunction and mild hereditary spastic paraparesis. Molecular and Cellular Pediatrics. https://doi.org/10.1186/s40348-021-00122-y  
+
+Zhong, C., Chen, M., Chen, Y., Yao, F., & Fang, W. (2021). Loss of DSTYK activates Wnt/β-catenin signaling and glycolysis in lung adenocarcinoma. Cell Death & Disease. https://doi.org/10.1038/s41419-021-04385-1  
+
+Unknown Authors. (2014). DSTYK kinase domain ablation impaired the mice capabilities of learning and memory in water maze test. [Study].

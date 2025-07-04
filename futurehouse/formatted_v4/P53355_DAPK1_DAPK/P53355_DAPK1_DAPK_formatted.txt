@@ -1,0 +1,62 @@
+## Phylogeny  
+Death-associated protein kinase 1 (DAPK1) belongs to a five-member human DAPK family (DAPK1-3, DRAK1-2). Its catalytic domain shares ~80–83 % identity with DAPK2 and DAPK3 and ~50 % with DRAK1/2 (Farag & Roh, 2019). Phylogenetic analysis places DAPK1 in the Ca2+/calmodulin-dependent protein kinase (CAMK) group, specifically on the DMT kinase branch together with myosin light-chain-related and TRIO kinases (Temmerman et al., 2013). Orthologs occur from Caenorhabditis elegans to humans, indicating strong evolutionary conservation (Singh et al., 2016).
+
+## Reaction Catalyzed  
+ATP + [protein]-L-serine/threonine ⇌ ADP + [protein]-O-phospho-L-serine/threonine (Elbadawy et al., 2018).
+
+## Cofactor Requirements  
+Mg2+ is essential for catalysis, and Ca2+/calmodulin binding is required for full activation (Farag & Roh, 2019).
+
+## Substrate Specificity  
+Peptide profiling shows a preference for a basic residue at position –3 relative to the phosphorylation site (Lys or Arg). Met at –2 and Ser at +1 have also been reported (Johnson et al., 2023; Farag & Roh, 2019).
+
+## Structure  
+DAPK1 is a 1,430–1,431-residue (~160 kDa) multidomain protein. It contains an N-terminal kinase domain (residues 13–267), a Ca2+/CaM autoregulatory segment, 8–10 ankyrin repeats, a cytoskeleton-binding region, two P-loops, ROC-COR GTPase modules, and a C-terminal death domain (Elbadawy et al., 2018; Nair et al., 2013). The kinase domain carries the essential Lys42 in the ATP-binding pocket, adopts a constitutively closed (DFG-in) conformation, and features an HF/LD motif that obviates activation-segment phosphorylation (Temmerman et al., 2013; Singh et al., 2016). Crystal structures of the isolated domain and its CaM complex are available (e.g., PDB 2X0G) (Farag & Roh, 2019).
+
+## Regulation  
+• Autoinhibition: The Ca2+/CaM autoregulatory domain blocks substrate access; Ca2+/calmodulin binding relieves this inhibition (Singh et al., 2016).  
+• Autophosphorylation: Ser308 phosphorylation stabilizes the inhibited state; PP2A-mediated dephosphorylation precedes activation (Farag & Roh, 2019).  
+• Additional phosphorylation: ERK-driven Ser735 phosphorylation enhances activity, whereas RSK1/2-directed Ser289 phosphorylation suppresses apoptotic signalling (Farag & Roh, 2019).  
+• Nucleotide binding: GTP binding to the ROC domain inhibits kinase activity (Chen et al., 2019).  
+• Protein stability: Hsp90 maintains DAPK1 stability; E3 ubiquitin ligases target the ankyrin repeats for proteasomal degradation (Nair et al., 2013).
+
+## Function  
+DAPK1 is abundantly expressed in brain and lung and acts as a stress-responsive regulator of apoptosis and autophagy (Singh et al., 2016). Upstream activators include IFN-γ, Fas, TNF-α and ER stress (Elbadawy et al., 2018). Reported substrates/interactors include:  
+• NR2B (Ser1303) in excitotoxic neuronal injury  
+• NDRG2 and tau in neurodegeneration  
+• Myosin light chain in cytoskeletal regulation  
+• Beclin-1 in autophagy induction  
+• Tuberin (TSC2) in mTORC1 signalling  
+• MAP1B, ERK, and DAPK3 for apoptotic amplification  
+(Elbadawy et al., 2018; Farag & Roh, 2019).
+
+## Inhibitors  
+Experimental ATP-competitive purine analogues target the kinase domain (Elbadawy et al., 2018). Hsp90 inhibitors tanespimycin and geldanamycin indirectly down-regulate DAPK1 by triggering its proteasomal degradation (Farag & Roh, 2019).
+
+## Other Comments  
+DAPK1 functions as a tumour suppressor and is frequently silenced through promoter hypermethylation in many cancers; demethylating agents can restore its expression (Farag & Roh, 2019). Dysregulation is implicated in Alzheimer’s disease and post-stroke neuronal damage (Singh et al., 2016). Mutation of Lys42 abolishes catalytic activity (Farag & Roh, 2019).
+
+## References  
+Chen, D., Zhou, X., & Lee, T. (2019). Death-associated protein kinase 1 as a promising drug target in cancer and Alzheimer’s disease. Recent Patents on Anti-Cancer Drug Discovery, 14(2), 144–157. https://doi.org/10.2174/1574892814666181218170257  
+
+Control of DAPK-1 degradation. (2009). [Details unavailable].  
+
+Defining the proximal interactome of death-associated protein kinase 1. (2020). [Details unavailable].  
+
+Elbadawy, M., Usui, T., Yamawaki, H., & Sasaki, K. (2018). Novel functions of death-associated protein kinases through mitogen-activated protein kinase-related signals. International Journal of Molecular Sciences, 19(10), 3031. https://doi.org/10.3390/ijms19103031  
+
+Farag, A. K., & Roh, E. J. (2019). Death-associated protein kinase (DAPK) family modulators: Current and future therapeutic outcomes. Medicinal Research Reviews, 39(1), 349–385. https://doi.org/10.1002/med.21518  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Kim, N., Chen, D., Zhou, X., & Lee, T. (2019). Death-associated protein kinase 1 phosphorylation in neuronal cell death and neurodegenerative disease. International Journal of Molecular Sciences, 20(13), 3131. https://doi.org/10.3390/ijms20133131  
+
+Makgoo, L., Mosebi, S., & Mbita, Z. (2023). The role of death-associated protein kinase-1 in cell homeostasis-related processes. Genes, 14(6), 1274. https://doi.org/10.3390/genes14061274  
+
+Nair, S., Hagberg, H., Krishnamurthy, R., Thornton, C., & Mallard, C. (2013). Death associated protein kinases: Molecular structure and brain injury. International Journal of Molecular Sciences, 14(7), 13858–13872. https://doi.org/10.3390/ijms140713858  
+
+Singh, P., Ravanan, P., & Talwar, P. (2016). Death associated protein kinase 1 (DAPK1): A regulator of apoptosis and autophagy. Frontiers in Molecular Neuroscience, 9, 46. https://doi.org/10.3389/fnmol.2016.00046  
+
+Temmerman, K., Simon, B., & Wilmanns, M. (2013). Structural and functional diversity in the activity and regulation of DAPK-related protein kinases. The FEBS Journal, 280(18), 4138–4152. https://doi.org/10.1111/febs.12384  
+
+You, M.-H. (2024). Mechanism of DAPK1 for regulating cancer stem cells in thyroid cancer. Current Issues in Molecular Biology, 46(7), 7086–7096. https://doi.org/10.3390/cimb46070422

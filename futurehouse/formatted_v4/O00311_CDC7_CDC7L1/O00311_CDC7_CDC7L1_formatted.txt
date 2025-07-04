@@ -1,0 +1,53 @@
+## Phylogeny  
+CDC7 is an evolutionarily conserved serine/threonine kinase. Sequence‐based analyses place it either as an “atypical” kinase outside the canonical AGC, CAMK, CK1 and CMGC groups or, in some studies, within the CMGC family (Johnson et al., 2023; Sawa & Masai, 2009). Substrate-motif clustering groups CDC7 with MOS and KHS1/2 (Johnson et al., 2023). Orthologues exist from yeast to human (e.g., Hsk1 in Schizosaccharomyces pombe), and its regulatory partner DBF4 likewise shows conserved paralogues such as ASK (human) and Dfp1 (yeast) (Matsumoto & Masai, 2013; Gillespie & Blow, 2022; Masai & Arai, 2000).  
+
+## Reaction Catalyzed  
+ATP + protein ⇌ ADP + phosphoprotein (Dick et al., 2020). CDC7 transfers the γ-phosphate of ATP to Ser/Thr residues on substrates.  
+
+## Cofactor Requirements  
+Mg²⁺ is required for nucleotide binding and catalysis (Dick et al., 2020).  
+
+## Substrate Specificity  
+High-density peptide arrays revealed a detailed consensus for CDC7, with a pronounced requirement for an acidic or pre-phosphorylated residue at the +1 position relative to the target Ser/Thr (Johnson et al., 2023). Crystal structures show that Arg373 and Arg380 engage this +1 acidic/phospho group, dictating specificity (Dick et al., 2020).  
+
+## Structure  
+Human CDC7 (574 aa) adopts the canonical bilobal kinase fold but contains three kinase-insert (KI-1, KI-2, KI-3) segments (Sawa & Masai, 2009). KI-2 houses a zinc-finger that tethers the activation loop to the C-lobe and DBF4, thereby opening the active site (Dick et al., 2020). Met134 acts as the gatekeeper residue. The catalytic subunit is inactive alone; heterodimerization with DBF4 or its paralogue DRF1 induces an active conformation. DBF4’s conserved M and C motifs bind the CDC7 C- and N-lobes, respectively, to stabilize the active state (Dick et al., 2020; Unknown authors, 2014).  
+
+## Regulation  
+• Activation requires binding to DBF4 (ASK) or DRF1 (Dick et al., 2020; Gillespie & Blow, 2022).  
+• CDC7 and DBF4 transcription rise at the G1/S transition under E2F control (Gillespie & Blow, 2022).  
+• DBF4 is degraded by APC/C during anaphase and mid-G1 and by SCF^βTRCP (Gillespie & Blow, 2022).  
+• Replication stress: Rad53 phosphorylation of the CDC7-DBF4 complex (DDK) detaches it from chromatin, inhibiting origin firing (Larasati & Duncker, 2016).  
+• Rif1-recruited PP1/Glc7 counteracts DDK phosphorylation events (Gillespie & Blow, 2022).  
+
+## Function  
+The CDC7-DBF4 kinase (DDK) is essential for initiation of eukaryotic DNA replication. It phosphorylates MCM2, MCM4 and MCM6 N-termini, relieving autoinhibition of the MCM helicase and promoting CMG assembly with Cdc45 and GINS (Gillespie & Blow, 2022; Sawa & Masai, 2009). Additional targets include Claspin, Treslin and RecQ4, linking replication initiation with S-phase checkpoint pathways (Montagnoli et al., 2010).  
+
+## Inhibitors  
+Potent ATP-competitive inhibitors include XL413 (BMS-863233), TAK-931, PHA-767491, NMS-354, tricyclic pyridothienopyrimidines, thienopyrazoles, imidazolones and 4-(1H-indazol-5-yl)-6-phenylpyrimid-2(1H)-ones (Sawa & Masai, 2009; Montagnoli et al., 2010; Zhao et al., 2009; Dick et al., 2020). Drug-repositioning screens identified Dequalinium chloride and Clofoctol, which disrupt the CDC7–DBF4 interface (Cheng et al., 2018).  
+
+## Other Comments  
+CDC7 is frequently over-expressed in diverse tumours (ovarian, breast, oral squamous cell, diffuse large B-cell lymphoma), correlating with advanced stage, poor prognosis and resistance to DNA-damaging therapy (Cheng et al., 2018; Montagnoli et al., 2010). Over-expression often accompanies p53 inactivation; gain-of-function p53 mutants further enhance CDC7-dependent replication. Somatic CDC7 mutations are rare. Pharmacological inhibition induces p53-independent apoptosis in cancer cells but only reversible G1/S arrest in normal cells, indicating a potential therapeutic window (Montagnoli et al., 2010).  
+
+## References  
+Cheng, A., Lo, Y.-K., Lin, Y.-S., Tang, T., Hsu, C.-H., Hsu, J., & Lee, A. (2018). Identification of novel CDC7 kinase inhibitors as anti-cancer agents that target the interaction with DBF4 by the fragment complementation and drug repositioning approach. EBioMedicine, 36, 241–251. https://doi.org/10.1016/j.ebiom.2018.09.030  
+
+Dick, S. D., Federico, S., Hughes, S., Pye, V. E., O’Reilly, N., & Cherepanov, P. (2020). Structural basis for the activation and target site specificity of CDC7 kinase. Structure, 28, 954–962.e4. https://doi.org/10.1016/j.str.2020.05.010  
+
+Gillespie, P., & Blow, J. (2022). DDK: The outsourced kinase of chromosome maintenance. Biology, 11(6), 877. https://doi.org/10.3390/biology11060877  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Larasati, Y. A., & Duncker, B. P. (2016). Mechanisms governing DDK regulation of the initiation of DNA replication. Genes, 8(1), 3. https://doi.org/10.3390/genes8010003  
+
+Masai, H., & Arai, K. (2000). Regulation of DNA replication during the cell cycle: Roles of CDC7 kinase and coupling of replication, recombination, and repair in response to replication fork arrest. IUBMB Life, 49(5), 353–364. https://doi.org/10.1080/152165400410191  
+
+Matsumoto, S., & Masai, H. (2013). Regulation of chromosome dynamics by Hsk1/CDC7 kinase. Biochemical Society Transactions, 41(6), 1712–1719. https://doi.org/10.1042/BST20130217  
+
+Montagnoli, A., Moll, J., & Colotta, F. (2010). Targeting cell division cycle 7 kinase: A new approach for cancer therapy. Clinical Cancer Research, 16(17), 4503–4508. https://doi.org/10.1158/1078-0432.CCR-10-0185  
+
+Sawa, M., & Masai, H. (2009). Drug design with CDC7 kinase: A potential novel cancer therapy target. Drug Design, Development and Therapy, 2, 255–264. https://doi.org/10.2147/DDDT.S4303  
+
+Unknown authors. (2014). Characterizing the associations and roles of DDK and Mcm2-7 DNA replication proteins in Saccharomyces cerevisiae [Unpublished manuscript].  
+
+Zhao, C., Tovar, C., Yin, X., Xu, Q., Todorov, I., Vassilev, L., & Chen, L. (2009). Synthesis and evaluation of pyrido-thieno-pyrimidines as potent and selective CDC7 kinase inhibitors. Bioorganic & Medicinal Chemistry Letters, 19(2), 319–323. https://doi.org/10.1016/j.bmcl.2008.11.093

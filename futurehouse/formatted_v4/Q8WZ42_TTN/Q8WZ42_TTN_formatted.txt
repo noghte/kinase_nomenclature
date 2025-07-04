@@ -1,0 +1,51 @@
+## Phylogeny  
+Orthologous titin-like kinase (TK) domains occur in vertebrate titin, invertebrate twitchin (Caenorhabditis elegans), projectin (Drosophila melanogaster) and UNC-89, forming a metazoan-wide titin-like kinase clade (Bogomolovas et al., 2014; Gautel, 2011). Within the protein-kinase superfamily, TK clusters in the CAMK group, MLCK-like family, next to death-associated protein kinases (Bogomolovas et al., 2014; Gautel, 2011). Vertebrate TKs are catalytically impaired pseudokinases, whereas invertebrate orthologues retain canonical catalytic motifs (Bogomolovas et al., 2014).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + protein-Ser/Thr-P (Mayans et al., 1998; Gautel, 2011).  
+
+## Cofactor Requirements  
+Requires Mg²⁺; Mn²⁺ can substitute (Bogomolovas et al., 2014; von Castelmur et al., 2012).  
+
+## Substrate Specificity  
+A global consensus motif has not been assigned (Johnson et al., 2023). The only verified substrate is telethonin/Tcap during early myofibrillogenesis (Mayans et al., 1998).  
+
+## Structure  
+The TK region is embedded in a multidomain cassette: IgA168–IgA169–FnIII A170–linker–TK catalytic core–C-terminal regulatory domain (CRD)–IgM1 (Bogomolovas et al., 2021). Crystal structures (PDB 1TKI, 2.0 Å) display a conventional bilobal kinase fold with a ~60-residue CRD tail. Helix αR2 of the CRD wedges into the active-site cleft and βR1 extends the β-sheet, jointly blocking ATP binding (Mayans et al., 1998; Bogomolovas et al., 2014). The activation loop is non-RD; Tyr170 in the P+1 loop hydrogen-bonds to catalytic Asp127, further occluding catalysis (Gautel, 2011). Hydrophobic spine residues are conserved but misaligned in the autoinhibited state and realign under mechanical unfolding (Puchner et al., 2008). Two molecules in the asymmetric unit superimpose with RMSD 0.14 Å, indicating structural rigidity (Bogomolovas et al., 2014).  
+
+## Regulation  
+Post-translational modifications  
+• Phosphorylation of Tyr170 disrupts the Tyr170–Asp127 clamp, relieving autoinhibition (Mayans et al., 1998).  
+• Autophosphorylation of regulatory tails in twitchin/TK homologues reinforces inhibition after force release (Williams et al., 2018).  
+• CRD ubiquitination recruits autophagy receptors Nbr1/p62 during stretch (Bogomolovas et al., 2021).  
+
+Allosteric/conformational control  
+• Dual autoinhibition by the CRD and Tyr170; ~30 pN forces unfold the CRD and open the active site (Puchner et al., 2008; Gautel, 2011).  
+• Ca²⁺/calmodulin can bind N-terminal helix αR1 and promote tail disengagement in vitro (Mayans et al., 1998).  
+
+## Function  
+Localises to the M-band of striated-muscle titin and scaffolds mechanosensory complexes (Bogomolovas et al., 2014). Interacts with MuRF1/MuRF2 E3 ligases, Nbr1, p62 and telethonin (Bogomolovas et al., 2021; Bogomolovas et al., 2014). Strain-dependent MuRF recruitment links sarcomeric tension to protein turnover and gene-expression programmes (Puchner et al., 2008). Expression is highly enriched in cardiac and skeletal muscle, with lower levels in dividing non-muscle cells (Gautel, 2011).  
+
+## Other Comments  
+Early studies reported low Ser/Thr activity, but subsequent work with high-purity preparations classifies vertebrate TK as an inactive pseudokinase scaffold (Bogomolovas et al., 2014; Mayans et al., 1998). TTN truncating variants near the kinase region are major contributors to dilated cardiomyopathy and alter phosphorylation signalling (Tabish et al., 2017; Vikhorev et al., 2022).  
+
+## References  
+Bogomolovas, J., Gasch, A., Simkovic, F., Rigden, D. J., Labeit, S., & Mayans, O. (2014). Titin kinase is an inactive pseudokinase scaffold that supports MURF1 recruitment to the sarcomeric M-line. Open Biology, 4, 140041. https://doi.org/10.1098/rsob.140041  
+
+Bogomolovas, J., Fleming, J. R., Franke, B., Manso, B., Simon, B., Gasch, A., Markovic, M., Brunner, T., Knöll, R., Chen, J., Labeit, S., Scheffner, M., Peter, C., & Mayans, O. (2021). Titin kinase ubiquitination aligns autophagy receptors with mechanical signals in the sarcomere. EMBO Reports, 22, e48018. https://doi.org/10.15252/embr.201948018  
+
+Gautel, M. (2011). Cytoskeletal protein kinases: Titin and its relations in mechanosensing. Pflügers Archiv–European Journal of Physiology, 462, 119-134. https://doi.org/10.1007/s00424-011-0946-1  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759-766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Mayans, O., van der Ven, P. F., Wilm, M., Mues, A., Young, P., Fürst, D., Wilmanns, M., & Gautel, M. (1998). Structural basis for activation of the titin kinase domain during myofibrillogenesis. Nature, 395, 863-869. https://doi.org/10.1038/27603  
+
+Puchner, E. M., Alexandrovich, A., Kho, A. Y., Hensen, U., Schäfer, L. V., Brandmeier, B., Gräter, F., Grubmüller, H., Gaub, H. E., & Gautel, M. (2008). Mechanoenzymatics of titin kinase. Proceedings of the National Academy of Sciences, 105, 13385-13390. https://doi.org/10.1073/pnas.0805034105  
+
+Tabish, A. M., Azzimato, V., Alexiadis, A., Buyandelger, B., & Knöll, R. (2017). Genetic epidemiology of titin-truncating variants in the etiology of dilated cardiomyopathy. Biophysical Reviews, 9, 207-223. https://doi.org/10.1007/s12551-017-0265-7  
+
+Vikhorev, P., Vikhoreva, N., Yeung, W., Li, A., Lal, S., dos Remedios, C. D., Blair, C. A., Guglin, M., Campbell, K., Yacoub, M., de Tombe, P. D., & Marston, S. B. (2022). Titin-truncating mutations associated with dilated cardiomyopathy alter length-dependent activation and its modulation via phosphorylation. Cardiovascular Research, 118, 241-253. https://doi.org/10.1093/cvr/cvaa316  
+
+von Castelmur, E., Strümpfer, J., Franke, B., Bogomolovas, J., Barbieri, S., Qadota, H., Konarev, P. V., Svergun, D. I., Labeit, S., Benian, G. M., Schulten, K., & Mayans, O. (2012). Identification of an N-terminal inhibitory extension as the primary mechanosensory regulator of twitchin kinase. Proceedings of the National Academy of Sciences, 109, 13608-13613. https://doi.org/10.1073/pnas.1200697109  
+
+Williams, R. M., Franke, B., Wilkinson, M., Fleming, J. R., Rigden, D. J., Benian, G. M., Eyers, P. A., & Mayans, O. (2018). Autophosphorylation is a mechanism of inhibition in twitchin kinase. Journal of Molecular Biology, 430, 793-805. https://doi.org/10.1016/j.jmb.2018.01.020

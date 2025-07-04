@@ -1,0 +1,59 @@
+## Phylogeny  
+Human PIK3C2B encodes phosphatidylinositol-4-phosphate 3-kinase C2-β (PI3K-C2β), one of the three vertebrate class II PI3K catalytic isoforms together with PI3K-C2α and PI3K-C2γ (Koch et al., 2021).  Class II PI3Ks form a lipid-kinase clade that is separate from class I and class III enzymes within the PI3K kinome (Brown & Auger, 2011).  Orthologues are present in mouse (Pik3c2b) and as a single class II enzyme in Drosophila melanogaster (Pi3K68D) and Caenorhabditis elegans (piki-1); budding yeast lacks class II PI3Ks, suggesting that the sub-family arose with multicellularity (Gulluni et al., 2019; Margaria et al., 2019).
+
+## Reaction Catalyzed  
+1. ATP + 1-phosphatidyl-1D-myo-inositol → ADP + 1-phosphatidyl-1D-myo-inositol 3-phosphate (PI(3)P) (Margaria et al., 2019).  
+2. ATP + 1-phosphatidyl-1D-myo-inositol 4-phosphate → ADP + 1-phosphatidyl-1D-myo-inositol 3,4-bisphosphate (PI(3,4)P₂) (Gulluni et al., 2019).  
+No detectable activity toward phosphatidylinositol-4,5-bisphosphate (PI(4,5)P₂) (Margaria et al., 2019).
+
+## Cofactor Requirements  
+Catalysis requires divalent cations; Mg²⁺ is preferred, although Mn²⁺ can support activity in vitro (Gulluni et al., 2019).
+
+## Substrate Specificity  
+The enzyme selectively phosphorylates membrane phosphoinositides and shows higher activity toward phosphatidylinositol than PI(4)P.  It does not recognise peptide motifs because catalysis is directed exclusively toward lipid substrates (Gulluni et al., 2019; Margaria et al., 2019).
+
+## Structure  
+PI3K-C2β comprises an N-terminal proline-rich region containing clathrin- and putative Ras-binding sites, followed by a C2 domain, a helical region, the bilobed catalytic core, and a C-terminal PX domain capped by a second C2 domain (Gulluni et al., 2019; Margaria et al., 2019).  The PX–C2 tandem folds back onto the kinase core, forming an autoinhibitory “clamp” that is released upon binding to PI(4,5)P₂-rich membranes or lysophosphatidic acid (Gulluni et al., 2019; Unknown Author, 2023).  AlphaFold predicts a canonical PI3K catalytic architecture containing the conserved DFG motif, C-helix and regulatory spine, but no high-resolution crystal structure is yet available (Koch et al., 2021; Unknown Author, 2022).  Basic residues in the activation loop create a C-terminal “basic box” required for PI(3,4)P₂ production (Unknown Author, 2023).
+
+## Regulation  
+•  N-terminal autoinhibition is relieved by EGFR–Grb2 binding after EGF stimulation (Gulluni et al., 2019).  
+•  The PX–C2 “clamp” restricts basal activity; engagement of PI(4,5)P₂ or lysophosphatidic acid unlocks the kinase core (Gulluni et al., 2019).  
+•  Phosphorylation of Thr279 by the mTORC2-dependent kinase PKN2 generates a 14-3-3 docking site that sequesters PI3K-C2β in the cytosol under nutrient-rich conditions; dephosphorylation permits Rab7-mediated targeting to late endosomes/lysosomes during starvation (Koch et al., 2021).  
+•  TRIM27-dependent polyubiquitination reduces enzyme stability in CD4⁺ T cells (Gulluni et al., 2019).  
+•  Direct binding to clathrin promotes localisation to clathrin–actin structures and enhances catalytic output (Wallroth, 2019).  
+•  Interaction with lysosomal Raptor positions the kinase for PI(3,4)P₂ synthesis and local inhibition of mTORC1 (Margaria et al., 2019).
+
+## Function  
+PI3K-C2β is broadly expressed, with highest transcript levels in muscle and immune tissues (Margaria et al., 2019).  It localises to the plasma membrane, APPL1⁺ early endosomes, and late endosomes/lysosomes (Koch et al., 2021; Margaria et al., 2019).  
+–  Generates PI(3)P on APPL1⁺ endosomes, driving maturation to EEA1⁺ compartments and regulating insulin-receptor trafficking and AKT signalling (Margaria et al., 2019).  
+–  Produces PI(3,4)P₂ on late endosomes/lysosomes during nutrient deprivation, recruiting 14-3-3 to Raptor and suppressing mTORC1 (Koch et al., 2021).  
+–  Supports clathrin-dependent pinocytosis through its clathrin-binding domain (Margaria et al., 2019).  
+–  Promotes lamellipodia/filopodia formation via PI(3)P-dependent activation of CDC42 and RAC, enhancing cell migration (Margaria et al., 2019).  
+–  Activates NDPK-B and KCa3.1 channels in T cells and mast cells, facilitating Ca²⁺ influx, cytokine production and degranulation (Unknown Author, 2023).  
+–  Loss-of-function enhances systemic insulin sensitivity and glucose tolerance, counteracting PI3K-C2α in insulin signalling (Gulluni et al., 2019; Unknown Author, 2023).
+
+## Inhibitors  
+PI3K-C2β is covalently inhibited by wortmannin, albeit with lower sensitivity than class I PI3Ks; selective class II inhibitors remain scarce and of low potency (Falasca et al., 2017; Koch et al., 2021).
+
+## Other Comments  
+Elevated PIK3C2B expression correlates with increased invasiveness in prostate, breast and ovarian cancers, and its depletion reduces metastatic traits (Margaria et al., 2019).  Muscle-specific Pik3c2b deletion ameliorates X-linked centronuclear myopathy by limiting pathological PI(3)P accumulation (Gulluni et al., 2019; Unknown Author, 2023).  Copy-number variations in PIK3C2B associate with type 2 diabetes and colorectal cancer outcomes (Gulluni et al., 2019).  Global Pik3c2b knockout mice are viable and fertile without overt developmental defects, suggesting functional redundancy with other PI3Ks (Vanhaesebroeck et al., 2010).
+
+## 9. References  
+
+Brown, J. R., & Auger, K. R. (2011). Phylogenomics of phosphoinositide lipid kinases: perspectives on the evolution of second messenger signaling and drug discovery. BMC Evolutionary Biology, 11, 4. https://doi.org/10.1186/1471-2148-11-4  
+
+Falasca, M., Hamilton, J. R., Selvadurai, M., Sundaram, K., Adamska, A., & Thompson, P. E. (2017). Class II phosphoinositide 3-kinases as novel drug targets. Journal of Medicinal Chemistry, 60(1), 47–65. https://doi.org/10.1021/acs.jmedchem.6b00963  
+
+Gulluni, F., De Santis, M. C., Margaria, J. P., Martini, M., & Hirsch, E. (2019). Class II PI3K functions in cell biology and disease. Trends in Cell Biology, 29, 339-359. https://doi.org/10.1016/j.tcb.2019.01.001  
+
+Koch, P. A., Dornan, G. L., Hessenberger, M., & Haucke, V. (2021). The molecular mechanisms mediating class II PI 3-kinase function in cell physiology. The FEBS Journal, 288, 7025-7042. https://doi.org/10.1111/febs.15692  
+
+Margaria, J. P., Ratto, E., Gozzelino, L., Li, H., & Hirsch, E. (2019). Class II PI3Ks at the intersection between signal transduction and membrane trafficking. Biomolecules, 9, 104. https://doi.org/10.3390/biom9030104  
+
+Unknown Author. (2023). Control of integrin adhesions by myotubularin and phosphatidylinositol 3-kinase C2β in a myotubular myopathy model.  
+
+Unknown Author. (2022). Class II phosphatidylinositol 3-kinase β in nutrient signaling, endocytosis and centronuclear myopathy.  
+
+Vanhaesebroeck, B., Guillermet-Guibert, J., Graupera, M., & Bilanges, B. (2010). The emerging mechanisms of isoform-specific PI3K signalling. Nature Reviews Molecular Cell Biology, 11, 329-341. https://doi.org/10.1038/nrm2882  
+
+Wallroth, A. (2019). Phosphoinositide regulation of endolysosomal membrane dynamics and nutrient signaling (Doctoral dissertation). https://doi.org/10.17169/refubium-25844

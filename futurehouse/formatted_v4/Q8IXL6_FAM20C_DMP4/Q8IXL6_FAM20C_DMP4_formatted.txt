@@ -1,0 +1,45 @@
+## Phylogeny  
+Member of the atypical FAM20 family within the secretory-pathway kinome (Tagliabracci et al., 2013). A paralogous expansion of an ancestral metazoan gene yielded the catalytic kinase FAM20C, the pseudokinase FAM20A, and the glycan kinase FAM20B (Tagliabracci et al., 2013). Vertebrate orthologues include Danio rerio drFam20C, Mus musculus Fam20c and Homo sapiens FAM20C (Zhang et al., 2018). Invertebrate counterparts are Caenorhabditis elegans ceFam20 and Drosophila CG31145/Fam20C-like (Ishikawa et al., 2012). Drosophila Four-jointed and Hydra hmFam20 represent more distant secretory-kinase relatives (Ishikawa et al., 2012).  
+
+## Reaction Catalyzed  
+ATP + [secreted-protein]-Ser/Thr ⇌ ADP + [secreted-protein]-O-phospho-Ser/Thr (Ishikawa et al., 2012).  
+
+## Cofactor Requirements  
+Activity depends on divalent cations with the preference Mn²⁺ > Co²⁺ > Mg²⁺ (Tagliabracci et al., 2013).  
+
+## Substrate Specificity  
+Recognises an acidophilic consensus of Ser-x-Glu or phospho-Ser (S-x-E/pS) (Tagliabracci et al., 2013). Extended acidic motifs such as S-x-Q-x-x-D-E-E are tolerated (Xu et al., 2021). Additional downstream Asp/Glu residues enhance recognition, whereas CK1/CK2 consensus peptides are poor substrates (Cozza et al., 2015; Ishikawa et al., 2012).  
+
+## Structure  
+Secretory signal peptide precedes a shell-like kinase fold built from an N-terminal segment and insertion domain (Xu et al., 2021). Key features include a reduced Gly-loop with Thr268, a Lys285–Glu311 ion pair for ATP positioning, a variant DNH/AG metal-binding motif and a DRHHYE catalytic loop containing the general base Asp478 (Tagliabracci et al., 2013). The activation loop is pre-ordered and the C-helix locks the enzyme in an active conformation without phosphorylation (Xu et al., 2021; Tagliabracci et al., 2013). A rearranged hydrophobic regulatory spine is missing the canonical phenylalanine (Tagliabracci et al., 2013). Catalysis requires homodimerisation through an interface involving Phe299, Phe300, Phe354 and Pro357; dimer-disruptive mutations lower activity (Zhang et al., 2018). A face-to-face heterodimer (~1000 Å²) with the pseudokinase FAM20A allosterically activates FAM20C (Zhang et al., 2018). Crystal structures are available for zebrafish Fam20C homodimer and the ceFam20 template (PDB 4KQA) as well as the human Fam20A–Fam20C complex (PDB 5WRR) (Zhang et al., 2018).  
+
+## Regulation  
+Intermolecular autophosphorylation elevates activity (Ishikawa et al., 2012). Eight conserved cysteines form disulfides and multiple N-linked glycans stabilise the secreted fold (Filatova, 2015). Basal activity depends on homodimerisation, while heterodimerisation with FAM20A markedly increases k_cat and can rescue some hypomorphic FAM20C mutants (Cui et al., 2015; Zhang et al., 2018). ATP binding to FAM20A further stabilises the active heterodimer (Cui et al., 2017). Sphingosine and sphingosine-1-phosphate enhance activity under Mg²⁺ conditions by lowering K_m^ATP and raising V_max (Cozza et al., 2015). Active-site alterations confer resistance to the broad-spectrum inhibitor staurosporine (Tagliabracci et al., 2013).  
+
+## Function  
+Highly expressed in osteoblasts, odontoblasts, ameloblasts, lactating mammary gland, kidney and parathyroid (Cui et al., 2015). Generates the extracellular phosphoproteome by phosphorylating casein and SIBLING proteins at S-x-E/pS motifs, thereby supporting bone and dentin mineralisation (Ishikawa et al., 2012). Phosphorylates enamel matrix proteins ENAM, AMBN, AMTN and AMELX, essential for enamel formation (Cui et al., 2015). Modifies FGF23 to limit its bioactivity and maintain systemic phosphate levels (Cozza et al., 2015). During ER stress, phosphorylates ERO1A and P4HB to enhance proteostasis (Xu et al., 2021). Over-expression correlates with tumour progression via extracellular matrix and EMT modulation (Wu et al., 2021).  
+
+## Inhibitors  
+Canonical ATP-competitive inhibitors such as staurosporine and flavonoids show negligible potency owing to the altered ATP-binding pocket (Cozza et al., 2015).  
+
+## Other Comments  
+Loss-of-function mutations cause lethal and non-lethal Raine syndrome with osteosclerosis and craniofacial defects (Ishikawa et al., 2012). Hypomorphic variants Thr268Met and Pro328Ser lead to isolated dental abnormalities but can be partially rescued by FAM20A (Cui et al., 2015). Catalytic-site mutations E306Q and D478A abolish activity and result in FGF23-mediated hypophosphataemic rickets (Cozza et al., 2015). Elevated FAM20C expression is linked to poor prognosis in several cancers (Wu et al., 2021).  
+
+## 9. References  
+Cozza, G., Tagliabracci, V. S., Dixon, J. E., & Pinna, L. A. (2015). “Genuine” casein kinase (FAM20C): The mother of the phosphosecretome. In Kinomics (pp. 47–62). https://doi.org/10.1002/9783527683031.ch2  
+
+Cui, J., Xiao, J., Tagliabracci, V. S., Wen, J., Rahdar, M., & Dixon, J. E. (2015). A secretory kinase complex regulates extracellular protein phosphorylation. eLife. https://doi.org/10.7554/eLife.06120  
+
+Cui, J., Zhu, Q., Zhang, H., Cianfrocco, M. A., Leschziner, A. E., Dixon, J. E., & Xiao, J. (2017). Structure of FAM20A reveals a pseudokinase featuring a unique disulfide pattern and inverted ATP binding. eLife. https://doi.org/10.7554/eLife.23990  
+
+Filatova, A. (2015). The role of FAM20A in the generation of amelogenesis imperfecta. https://doi.org/10.5167/uzh-121801  
+
+Ishikawa, H. O., Xu, A., Ogura, E., Manning, G., & Irvine, K. D. (2012). The Raine syndrome protein FAM20C is a Golgi kinase that phosphorylates biomineralization proteins. PLoS ONE, 7, e42988. https://doi.org/10.1371/journal.pone.0042988  
+
+Tagliabracci, V. S., Xiao, J., & Dixon, J. E. (2013). Phosphorylation of substrates destined for secretion by the FAM20 kinases. Biochemical Society Transactions, 41(4), 1061–1065. https://doi.org/10.1042/BST20130059  
+
+Wu, Y., Wang, H., & Liu, C. (2021). From biomineralization to tumorogenesis—The expanding insight of the physiological and pathological roles of FAM20C. Bioscience Reports. https://doi.org/10.1042/BSR20210040  
+
+Xu, R., Tan, H., Zhang, J., Yuan, Z., Xie, Q., & Zhang, L. (2021). FAM20C in human diseases: Emerging biological functions and therapeutic implications. Frontiers in Molecular Biosciences. https://doi.org/10.3389/fmolb.2021.790172  
+
+Zhang, H., Zhu, Q., Cui, J., Wang, Y., Chen, M. J., Guo, X., Tagliabracci, V. S., Dixon, J. E., & Xiao, J. (2018). Structure and evolution of the FAM20 kinases. Nature Communications. https://doi.org/10.1038/s41467-018-03615-z

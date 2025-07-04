@@ -1,0 +1,82 @@
+## Proposed EC/sub-subclass  
+Not specified in the cited sources.  
+
+## Accepted name  
+Mitogen- and stress-activated protein kinase-2  
+
+## Synonyms  
+MSK2; RPS6KA4 (vertebrates); JIL-1 (Drosophila); C54G4 (C. elegans)  
+
+## Phylogeny  
+Member of the AGC kinase group, RSK/MSK sub-family on the human kinome dendrogram (Johnson et al., 2023, p. 4). Very closely related to MSK1 (~ 75 % identity) and more distantly to RSK1/MAPKAP-K1 (~ 40 % identity) (Deák et al., 1998, pp. 2–3). Vertebrate orthologues include mouse Rps6ka4, which retains activity in Msk1/2 double-knockout fibroblasts (Wiggin et al., 2002, pp. 1–2). Invertebrate orthologues occur in Drosophila and C. elegans; MSK genes are absent from fungi and plants (Identification and Characterization, 2011, pp. 33–36).  
+
+## Reaction catalysed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (Identification and Characterization, 2011, pp. 36–40).  
+
+## Cofactor requirements  
+No divalent metal requirement reported for MSK2 (RSK4 Targeting, 2020, pp. 54–58).  
+
+## Specificity  
+Prefers the basophilic motif Arg-Arg-X-Ser/Thr (R-R-X-S/T) (Identification and Characterization, 2011, pp. 36–40). High-throughput phosphoproteomics places MSK2 among basophilic/proline-directed Ser/Thr kinases and refines residue preferences surrounding the phosphosite (Johnson et al., 2023, pp. 12–18).  
+
+## Structure  
+Single 802-residue polypeptide containing two kinase domains.  
+• N-terminal AGC-type domain (NTKD) performs substrate phosphorylation.  
+• C-terminal CaMK-like domain (CTKD) is activated by ERK1/2 or p38 MAPK (Identification and Characterization, 2011, pp. 33–36; Deák et al., 1998, pp. 2–3).  
+• Linker harbours turn-motif Ser347 and a hydrophobic-motif residue equivalent to MSK1 Thr700, both required for maximal activity (Identification and Characterization, 2011, pp. 36–40).  
+• CTKD tail contains a MAPK docking D-domain and a bipartite nuclear-localisation signal (Identification and Characterization, 2011, pp. 33–36).  
+• AlphaFold models and related RSK crystal structures reveal canonical bilobed folds with conserved HRD/DFG motifs, C-helix position and hydrophobic spine (Johnson et al., 2023, p. 4; RSK4 Targeting, 2020, pp. 54–58).  
+
+## Regulation  
+Post-translational phosphorylation  
+• ERK1/2 or p38 phosphorylate the CTKD activation loop and linker turn motif to initiate activation (Deák et al., 1998, pp. 2–3; Identification and Characterization, 2011, pp. 33–36).  
+• CTKD autophosphorylates the NTKD activation loop and Ser347 (Identification and Characterization, 2011, pp. 36–40).  
+• CK2 phosphorylation on Ser324 enhances UV-induced activation (Identification and Characterization, 2011, pp. 109–114).  
+• Hydrophobic-motif phosphorylation (Thr700 equivalent) stabilises the active conformation (Identification and Characterization, 2011, pp. 36–40).  
+
+Allosteric and localisation control  
+• Activated ERK/p38 remain docked via the D-domain, supporting an active MSK2 conformation (Identification and Characterization, 2011, pp. 36–40).  
+• Glucocorticoids promote CRM1-dependent nuclear export of MSK isoforms, reducing inflammatory gene transcription (Vermeulen et al., 2009, pp. 1–2).  
+
+Chemical blockade of upstream pathways  
+• MEK inhibitor PD98059 or p38 inhibitor SB203580 each reduce, and together abolish, cellular MSK-dependent CREB phosphorylation (Deák et al., 1998, pp. 10–12).  
+
+## Function  
+Expression & localisation  
+Detected as a ~ 3 kb transcript in many human tissues; protein localises predominantly to the nucleus (Deák et al., 1998, pp. 2–3).  
+
+Upstream stimuli  
+Activated by growth factors (EGF), cytokines (TNF-α), Toll-like receptor ligands, UV-C and anisomycin via converging ERK1/2 and p38 cascades (Vermeulen et al., 2009, pp. 2–3; Wiggin et al., 2002, pp. 1–2).  
+
+Validated substrates  
+• Transcription factors: CREB1 Ser133, ATF1, NF-κB p65 Ser276, STAT3 Ser727 (Wiggin et al., 2002, pp. 1–2; Identification and Characterization, 2011, pp. 40–44; Vermeulen et al., 2009, pp. 4–6).  
+• Chromatin components: histone H3 Ser10/Ser28, HMGN1 Ser6 (Identification and Characterization, 2011, pp. 40–44; Vermeulen et al., 2009, pp. 4–6).  
+• Other targets: BAD Ser112 and 4E-BP1 sites after UV-B exposure (Vermeulen et al., 2009, pp. 4–6).  
+
+Biological roles  
+• Drives immediate-early gene expression (c-fos, junB) following mitogen or stress signals (Wiggin et al., 2002, pp. 1–2).  
+• Regulates inflammatory gene programmes (IL-6, IL-8, IL-10, DUSP-1) in LPS-stimulated macrophages (Identification and Characterization, 2011, pp. 40–44).  
+• Couples ERK/p38 signalling to chromatin modification and transcriptional activation (Vermeulen et al., 2009, pp. 2–3).  
+
+## Inhibitors  
+• SB-747651A: ATP-competitive, IC₅₀ ≈ 50 nM against MSK1/2; blocks cellular CREB phosphorylation without affecting upstream MAPKs (Naqvi et al., 2012, pp. 1–2, 4–5).  
+• Broad AGC inhibitors H89 and Ro-31-8220 inhibit MSK catalytic activity but are non-specific (Vermeulen et al., 2009, pp. 4–6; Wiggin et al., 2002, pp. 1–2).  
+• Upstream blockade: MEK inhibitor PD98059 and p38 inhibitor SB203580 indirectly suppress MSK activity (Deák et al., 1998, pp. 10–12).  
+
+## Other comments  
+Msk1/2 double-knockout mice show exaggerated inflammatory responses and heightened LPS sensitivity (Identification and Characterization, 2011, pp. 40–44). Elevated MSK activity has been reported in psoriatic lesions (Vermeulen et al., 2009, p. 8).  
+
+## References  
+Deák, M., Clifton, A. D., Lucocq, J. M., & Alessi, D. R. (1998). Mitogen- and stress-activated protein kinase-1 (MSK1) is directly activated by MAPK and SAPK2/p38 and may mediate activation of CREB. The EMBO Journal, 17, 4426–4441. https://doi.org/10.1093/emboj/17.15.4426  
+
+Identification and Characterization of a Novel CK2-MSK2 Interaction in the UV Response. (2011). (pp. 33–44, 109–114).  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Naqvi, S., Macdonald, A., McCoy, C., Darragh, J., Reith, A., & Arthur, J. S. C. (2012). Characterization of the cellular action of the MSK inhibitor SB-747651A. Biochemical Journal, 441, 347–357. https://doi.org/10.1042/BJ20110970  
+
+RSK4 Targeting: A New Therapeutic Strategy Against Drug Resistance and Metastasis in Non-small Cell Lung Cancer. (2020). (pp. 54–58).  
+
+Vermeulen, L., Vanden Berghe, W., Beck, I. M., De Bosscher, K., & Haegeman, G. (2009). The versatile role of MSKs in transcriptional regulation. Trends in Biochemical Sciences, 34, 311–318. https://doi.org/10.1016/j.tibs.2009.02.007  
+
+Wiggin, G. R., Soloaga, A., Foster, J. M., Murray-Tait, V., Cohen, P., & Arthur, J. S. C. (2002). MSK1 and MSK2 are required for the mitogen- and stress-induced phosphorylation of CREB and ATF1 in fibroblasts. Molecular and Cellular Biology, 22, 2871–2881. https://doi.org/10.1128/MCB.22.8.2871-2881.2002

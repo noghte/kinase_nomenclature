@@ -1,0 +1,66 @@
+Phylogeny  
+DDR1 is a tyrosine-protein kinase belonging to the Discoidin Domain Receptor (DDR) family within the TK group of the human kinome (Kothiwale et al., 2015). The catalytic domain shares 68 % sequence identity with DDR2 and superposes on ABL1 with a 3.6 Å Cα RMSD, illustrating conservation of the bilobal kinase fold (Canning et al., 2014). Orthologues are found throughout vertebrates; mouse Ddr1 is experimentally characterised and additional DDR1 genes are reported in other vertebrate lineages (Mariadoss & Wang, 2023).  
+
+Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + protein-L-tyrosine-phosphate (Kothiwale et al., 2015).  
+
+Cofactor Requirements  
+Catalytic activity requires a divalent cation; Mg²⁺ is routinely used in vitro (Hanson et al., 2019).  
+
+Substrate Specificity  
+• Autophosphorylates Tyr513 in the juxtamembrane region and a YxYxY motif (Tyr792, Tyr796, Tyr797) within the activation loop (Kothiwale et al., 2015; Juskaite et al., 2017).  
+• Peptide-docking studies identified Axltide (KKSRGDYMTMQIG) as an efficient substrate, revealing preference for basic residues at positions −3/−2 relative to the target Tyr and a Met at +2 (Hanson et al., 2019).  
+• Phosphotyrosine proteomics shows multiple intracellular pTyr sites that recruit SH2/PTB adaptors such as SHC1, NCK2, RasGAP, SHIP1/2 and the PI3K p85 subunit (Lemeer et al., 2012).  
+
+Structure  
+Domain layout: N-terminal Discoidin (DS) domain – DS-like domain – single-pass transmembrane helix – long cytoplasmic juxtamembrane segment – kinase domain (Carafoli & Hohenester, 2013; Juskaite et al., 2017).  
+Extracellular region  
+• DS domain: eight-stranded β-barrel that recognises the GVMGFO motif in triple-helical collagen (Carafoli & Hohenester, 2013).  
+• DS-like domain: jelly-roll fold bearing two N-glycans and a Ca²⁺ site, contributing to ectodomain rigidity (Carafoli et al., 2012).  
+Kinase domain (e.g., PDB 3ZOS, 4BKJ)  
+• Canonical bilobal fold with intact αC helix (Glu672), HRD motif (His764–Arg765–Asp766) and a β-hairpin P-loop (Canning et al., 2014; Kothiwale et al., 2015).  
+• DFG motif adopts an inactive Asp-out conformation stabilised by an Asp671–Arg752 ion pair that also creates an allosteric pocket (Hanson et al., 2019).  
+• Lys655–Glu672 salt bridge anchors ATP; hydrophobic spine residues (Met676, Leu687, His764, Phe785) align on activation (Kothiwale et al., 2015).  
+• The P-loop β-hairpin (residues 618–624) differs from the cage-like loop of ABL1 and influences inhibitor binding (Canning et al., 2014).  
+
+Regulation  
+Post-translational control  
+• Collagen engagement triggers autophosphorylation at Tyr513 and Tyr792/796/797, creating docking sites for SH2/PTB adaptors and fully activating the kinase (Juskaite et al., 2017; Lemeer et al., 2012).  
+Conformational/allosteric control  
+• DDR1 exists as a constitutive dimer; ligand binding induces higher-order clustering that enables trans-phosphorylation between neighbouring dimers (Juskaite et al., 2017).  
+• Disrupting the Asp671–Arg752 clasp shifts the kinase to the DFG-in state, increasing catalytic turnover about ten-fold (Hanson et al., 2019).  
+
+Function  
+Expression – Highly expressed in epithelial tissues including lung, brain, kidney, spleen and placenta (Mariadoss & Wang, 2023).  
+Ligand binding – Activated by triple-helical collagens I-III, V and IV, displaying slow but sustained signalling kinetics (Carafoli & Hohenester, 2013; Juskaite et al., 2017).  
+Downstream signalling – Active DDR1 recruits SRC family kinases and propagates ERK/MAPK, PI3K, JAK/STAT, RAP1 and Notch pathways, up-regulating MMP2, MMP7 and MMP9 to remodel extracellular matrix and promote cell migration (Gadiya & Chakraborty, 2018; Kothiwale et al., 2015).  
+Mechanical coupling – Phosphorylated Tyr792 associates with non-muscle myosin IIA, enhancing force transmission at collagen contacts (Coelho & McCulloch, 2018).  
+
+Inhibitors  
+Type II (bind DFG-out/allosteric pocket): imatinib, nilotinib, ponatinib; co-crystal structures 4BKJ (imatinib) and 3ZOS (ponatinib) (Canning et al., 2014).  
+Type I (bind ATP site with kinase DFG-out): dasatinib, VX-680; structural data PDB 6BSD (dasatinib) and 6BRJ (VX-680) (Hanson et al., 2019).  
+Selective chemical probe: DDR1-IN-1 exploits Thr701 gatekeeper and the hydrophobic allosteric pocket (Kothiwale et al., 2015).  
+
+Other Comments  
+DDR1 over-expression or hyperactivation is linked to breast and lung carcinomas, tissue fibrosis, atherosclerosis and osteoarthritis; genetic or pharmacological inhibition ameliorates disease phenotypes in pre-clinical models (Mariadoss & Wang, 2023; Gadiya & Chakraborty, 2018). Missense mutations within the kinase core impair catalytic activity and receptor trafficking (Carafoli & Hohenester, 2013).  
+
+References  
+Canning, P., Tan, L., Chu, K., Lee, S. W., Gray, N. S., & Bullock, A. N. (2014). Structural mechanisms determining inhibition of the collagen receptor DDR1 by selective and multi-targeted type II kinase inhibitors. Journal of Molecular Biology, 426, 2457–2470. https://doi.org/10.1016/j.jmb.2014.04.014  
+
+Carafoli, F., & Hohenester, E. (2013). Collagen recognition and transmembrane signalling by discoidin domain receptors. Biochimica et Biophysica Acta – Proteins and Proteomics, 1834, 2187–2194. https://doi.org/10.1016/j.bbapap.2012.10.014  
+
+Carafoli, F., Mayer, M. C., Shiraishi, K., Pecheva, M., Chan, L., Nan, R., Leitinger, B., & Hohenester, E. (2012). Structure of the discoidin domain receptor 1 extracellular region bound to an inhibitory Fab fragment reveals features important for signaling. Structure, 20, 688–697. https://doi.org/10.1016/j.str.2012.02.011  
+
+Coelho, N. M., & McCulloch, C. A. (2018). Mechanical signaling through the discoidin domain receptor 1 plays a central role in tissue fibrosis. Cell Adhesion & Migration, 12, 1–15. https://doi.org/10.1080/19336918.2018.1448353  
+
+Gadiya, M., & Chakraborty, G. (2018). Signaling by discoidin domain receptor 1 in cancer metastasis. Cell Adhesion & Migration, 12, 1–9. https://doi.org/10.1080/19336918.2018.1520556  
+
+Hanson, S. M., Georghiou, G., Thakur, M., Miller, W., Rest, J., Chodera, J., & Seeliger, M. (2019). What makes a kinase promiscuous for inhibitors? Cell Chemical Biology, 26, 390–399.e5. https://doi.org/10.1016/j.chembiol.2018.11.005  
+
+Juskaite, V., Corcoran, D. S., & Leitinger, B. (2017). Collagen induces activation of DDR1 through lateral dimer association and phosphorylation between dimers. eLife, 6, e25716. https://doi.org/10.7554/eLife.25716  
+
+Kothiwale, S., Borza, C. M., Lowe, E. W., Pozzi, A., & Meiler, J. (2015). Discoidin domain receptor 1 (DDR1) kinase as target for structure-based drug discovery. Drug Discovery Today, 20, 255–261. https://doi.org/10.1016/j.drudis.2014.09.025  
+
+Lemeer, S., Bluwstein, A., Wu, Z., Leberfinger, J., Müller, K., Kramer, K., & Kuster, B. (2012). Phosphotyrosine mediated protein interactions of the discoidin domain receptor 1. Journal of Proteomics, 75, 3465–3477. https://doi.org/10.1016/j.jprot.2011.10.007  
+
+Mariadoss, A. V. A., & Wang, C.-Z. (2023). Exploring the cellular and molecular mechanism of discoidin domain receptors (DDR1 and DDR2) in bone formation, regeneration, and its associated disease conditions. International Journal of Molecular Sciences, 24, 14895. https://doi.org/10.3390/ijms241914895

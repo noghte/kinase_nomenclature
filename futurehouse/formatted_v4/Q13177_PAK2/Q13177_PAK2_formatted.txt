@@ -1,0 +1,47 @@
+## Phylogeny  
+PAK2 is a Group I p21-activated kinase within the STE20 branch of the human kinome (Chetty et al., 2022). Orthologs are found in Mus musculus (Pak2), Danio rerio (pak2), Drosophila melanogaster (Pak), Caenorhabditis elegans (pak-1) and Saccharomyces cerevisiae (Ste20) (Kumar et al., 2017). Mammalian PAK2 can functionally replace yeast Ste20, underscoring deep evolutionary conservation (Arias-Romero & Chernoff, 2008). Sequence identity with human PAK1/PAK3 exceeds 88 % in the CRIB domain and 93 % in the catalytic domain (Arias-Romero & Chernoff, 2008).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (Zhao & Manser, 2012).  
+
+## Cofactor Requirements  
+Catalytic activity requires divalent metal ions; Mg²⁺ or Mn²⁺ support activity in vitro (Huang et al., 2020).  
+
+## Substrate Specificity  
+Type I PAKs, including PAK2, prefer serine residues with Arg at −2, another basic residue at −3, a hydrophobic residue at +1, and larger hydrophobes at +2/+3. This selectivity is dictated by electrostatic pairing between substrate arginines and an acidic pocket next to the catalytic cleft (Chetty et al., 2022).  
+
+## Structure  
+PAK2 consists of an N-terminal basic segment (1–69), a CDC42/RAC1-interactive binding (CRIB) domain (70–113) that overlaps an autoinhibitory domain (AID, 83–149), followed by proline-rich SH3-binding motifs (~150–250) and a C-terminal kinase domain (282–524) (Arias-Romero & Chernoff, 2008). The kinase domain crystal structure (PDB 6C5R) and AlphaFold model (AF-Q13177-F1) display a canonical bilobal fold with a Lys-Glu ion pair, correctly positioned αC-helix, DFG-in activation loop and intact hydrophobic spine (Huang et al., 2020). Inactive PAK2 forms a trans-autoinhibited dimer where the AID of one protomer blocks the catalytic cleft of its partner; autophosphorylation at Ser141 releases this inhibition (Grebeňová et al., 2019). Thr402 within the activation loop is a secondary autophosphorylation site that maximizes catalytic efficiency (Kumar et al., 2017). A flexible inter-domain linker enables the large conformational changes required for dimer dissociation upon activation (Chetty et al., 2022).  
+
+## Regulation  
+• GTP-loaded CDC42 or RAC1 binding to the CRIB domain disrupts the autoinhibited dimer and triggers activation-loop autophosphorylation (Chetty et al., 2022).  
+• Ser141 autophosphorylation is the principal on-switch; Thr402 autophosphorylation further enhances activity (Grebeňová et al., 2019; Kumar et al., 2017).  
+• Additional phosphosites (Ser20, Ser197) are targeted by PDK1 and AKT and dephosphorylated by PP2A (Huang et al., 2020).  
+• Caspase-3 cleavage at Asp212 during apoptosis yields a constitutively active 34 kDa fragment (Grebeňová et al., 2019).  
+• microRNAs miR-23b and miR-137 repress PAK2 translation (Kumar et al., 2017).  
+
+## Function  
+PAK2 is ubiquitously expressed, with highest levels in spleen, thymus and fetal brain (Huang et al., 2020). Pak2 knockout in mice is embryonic lethal (Kumar et al., 2017). Full-length PAK2 promotes cell survival and motility by phosphorylating MAPK4/6, which activate MAPKAPK5 to drive F-actin assembly (Huang et al., 2020). It phosphorylates JUN to support EGF-stimulated proliferation (Huang et al., 2020) and modulates the cytoskeleton via substrates such as LIMK1, histone H4, merlin and paxillin (Grebeňová et al., 2019). PAK2 directly phosphorylates caspase-7, attenuating chemotherapy-induced apoptosis (Grebeňová et al., 2019). Activation can be induced by TGF-β, hyperosmotic shock, UV light and ionising radiation through GTPase-dependent or caspase-dependent routes (Grebeňová et al., 2019). Insulin signalling inhibits PAK2, facilitating neuronal GLUT4 translocation (Kumar et al., 2017). Proline-rich motifs recruit PIX adaptors to assemble RAC1 activation complexes, conferring spatial specificity (Dobrigna et al., 2023).  
+
+## Inhibitors  
+IPA-3 is a covalent allosteric inhibitor with sub-micromolar potency toward PAK2 (Grebeňová et al., 2019). FRAX597 is an ATP-competitive inhibitor that efficiently suppresses PAK2 activity (Grebeňová et al., 2019). Additional small-molecule inhibitors with nanomolar activity include PF-3758309, G-5555 and KPT-9274 (Chetty et al., 2022). A PAK1-selective degrader shows limited cross-degradation of PAK2, illustrating paths toward isoform selectivity (Chow et al., 2022).  
+
+## Other Comments  
+Monoallelic loss-of-function variants such as p.Glu435Lys cause Knobloch syndrome-2 and related neurodevelopmental disorders by haploinsufficiency (Dobrigna et al., 2023). The same mutation appears in cancers and perturbs kinase activity and protein interactions (Grebeňová et al., 2019). Overexpression or hyperactivation of PAK2 drives motility, invasion and chemoresistance in multiple tumour types (Kumar et al., 2017).  
+
+## 9. References  
+Arias-Romero, L. E., & Chernoff, J. (2008). A tale of two PAKs. Biology of the Cell, 100, 97–108. https://doi.org/10.1042/BC20070109  
+
+Chetty, A. K., Ha, B. H., & Boggon, T. J. (2022). Rho family GTPase signaling through type II p21-activated kinases. Cellular and Molecular Life Sciences. https://doi.org/10.1007/s00018-022-04618-2  
+
+Chow, H.-Y., Karchugina, S., Groendyke, B. J., Toenjes, S., Hatcher, J., Donovan, K. A., … Chernoff, J. (2022). Development and utility of a PAK1-selective degrader. Journal of Medicinal Chemistry, 65, 15627–15641. https://doi.org/10.1021/acs.jmedchem.2c00756  
+
+Dobrigna, M., Poëa-Guyon, S., Rousseau, V., Vincent, A., Toutain, A., & Barnier, J.-V. (2023). The molecular basis of p21-activated kinase-associated neurodevelopmental disorders: From genotype to phenotype. Frontiers in Neuroscience. https://doi.org/10.3389/fnins.2023.1123784  
+
+Grebeňová, D., Holoubek, A., Röselová, P., Obr, A., Brodská, B., & Kuželová, K. (2019). Pak1, Pak1δ15, and Pak2: Similarities, differences and mutual interactions. Scientific Reports, 9, 53665. https://doi.org/10.1038/s41598-019-53665-6  
+
+Huang, J., Huang, A., Poplawski, A., DiPino, F., Traugh, J., & Ling, J. (2020). Pak2 activated by Cdc42 and caspase 3 mediates different cellular responses to oxidative stress-induced apoptosis. Biochimica et Biophysica Acta (Molecular Cell Research), 1867, 118645. https://doi.org/10.1016/j.bbamcr.2020.118645  
+
+Kumar, R., Sanawar, R., Li, X., & Li, F. (2017). Structure, biochemistry and biology of PAK kinases. Gene, 605, 20–31. https://doi.org/10.1016/j.gene.2016.12.014  
+
+Zhao, Z.-S., & Manser, E. (2012). Pak family kinases. Cellular Logistics, 2, 59–68. https://doi.org/10.4161/cl.21912

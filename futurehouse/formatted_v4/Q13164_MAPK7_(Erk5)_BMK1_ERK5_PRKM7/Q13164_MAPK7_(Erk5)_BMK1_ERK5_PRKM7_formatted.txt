@@ -1,0 +1,75 @@
+## Proposed EC/sub-subclass:
+Not specified in the source material.
+
+## Accepted name:
+Mitogen-activated protein kinase 7
+
+## Synonyms:
+Extracellular signal-regulated kinase 5 (ERK5); MAPK7
+
+## Phylogeny  
+Member of the mitogen-activated protein kinase (MAPK) family within the CMGC group of protein kinases, which also contains CDKs, GSKs and CLKs (Manning et al., 2002; Lau & Xu, 2019).  ERK5 belongs to the MAPK-ERK sub-group together with MAPK1/3/4/6/15 (Lau & Xu, 2019).  Although a close paralogue of ERK1/2, ERK5 forms a non-classical signalling cascade with distinct functions (Glatz et al., 2013; “The discovery of…”, 2014).  The ERK5 module is evolutionarily conserved in deuterostomes but absent from protostomes (Glatz et al., 2013).  Human and mouse orthologues share 91 % protein-sequence identity (Monti et al., 2022).
+
+## Reaction catalysed
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Wang & Tournier, 2006; Lin et al., 2016; Tubita et al., 2020).
+
+## Cofactor requirements  
+Requires a divalent cation.  Mg²⁺ is preferred; Mn²⁺ can substitute (Glatz et al., 2013; Manning et al., 2002; Pearson et al., 2001).
+
+## Specificity  
+Positional scanning peptide-array analysis defined an optimal motif with a strong preference for Pro at the +1 position relative to the phospho-Ser/Thr (Johnson et al., 2023).  Substrate selection also depends on docking interactions between the ERK5 common docking (CD) domain (residues 350–358) and D-domain–containing substrates (Johnson et al., 2023; Tubita et al., 2020; Glatz et al., 2013).
+
+## Structure  
+Full-length ERK5 is a 816-residue (~110 kDa) protein (Monti et al., 2022; Nithianandarajah-Jones et al., 2014).  It comprises:  
+• N-terminal kinase domain (aa 78–406) that shares 50–66 % identity with ERK2 and contains a MEK5-binding interface and an oligomerisation region (Elkins et al., 2013; Tubita et al., 2020).  
+• Unique C-terminal tail (~400 aa) harbouring an NLS, NES, two Pro-rich motifs, a MEF2-interaction site and a transcriptional activation domain (Roberts et al., 2009; Tubita et al., 2020).  
+The C-tail autoinhibits the kinase domain, keeping the protein in a closed cytoplasmic state (Le, 2023; Roberts et al., 2009).  X-ray structures of the human kinase domain with inhibitors reveal distinctive residues (e.g., Gly199, Leu189) near the ATP pocket that underpin inhibitor selectivity (Elkins et al., 2013; “The discovery of…”, 2014).
+
+## Regulation  
+Activated by the dual-specificity kinase MEK5, which phosphorylates the TEY motif in the activation loop (Thr218/Tyr220 or Thr219/Tyr221) (Paudel et al., 2021; Roberts et al., 2009; Elkins et al., 2013).  This phosphorylation releases ERK5 from HSP90/CDC37, exposes the NLS and drives nuclear import (Paudel et al., 2021; Le, 2023).  Subsequent autophosphorylation within the C-terminal tail (e.g., Thr28, Ser421, Ser433, Ser496, Ser731, Thr733) boosts transcriptional activity (Le, 2023; Monti et al., 2022; Pearson et al., 2001).  Alternative splicing generates kinase-dead, dominantly negative nuclear isoforms (Monti et al., 2022).
+
+## Function  
+Ubiquitously expressed, with highest levels in heart, brain, lung, skeletal muscle, placenta and kidney (Roberts et al., 2009).  Operates in a MAP3K → MEK5 → ERK5 cascade activated by growth factors (EGF, VEGF, FGF-2) and stresses (oxidative, shear) (Monti et al., 2022; Paudel et al., 2021).  Once nuclear, ERK5 acts both as a protein kinase and as a transcriptional co-activator (Cook et al., 2020).  Reported substrates include MEF2A/C/D, c-Myc, c-Fos, SAP1, Fra-1, SGK and RSK2 (Elkins et al., 2013; Monti et al., 2022; Le, 2023).  The pathway regulates proliferation, survival, differentiation, migration and angiogenesis and is essential for cardiovascular development and vascular integrity (Paudel et al., 2021; Tubita et al., 2020; Roberts et al., 2009).  Kinase-independent functions also contribute to these roles (Le, 2023; Paudel et al., 2021).
+
+## Inhibitors  
+Direct, ATP-competitive ERK5 inhibitors include XMD8-92 (IC₅₀ ≈ 300 nM), BAY-885 and various pyrimido-benzodiazepinones (Cook et al., 2020; Stecca & Rovida, 2019; “The discovery of…”, 2014).  Upstream MEK5 can be blocked by BIX02188/89 (Cook et al., 2020; Stecca & Rovida, 2019).  Some highly selective ERK5 kinase inhibitors paradoxically enhance ERK5 transcriptional output (Cook et al., 2020; Paudel et al., 2021).  Early agents such as AX15839 display off-target bromodomain activity (Lin et al., 2016).
+
+## Other comments  
+ERK5 over-expression or dysregulation is linked to multiple cancers (e.g., hepatocellular, breast, myeloma, squamous cell lung and oesophageal carcinoma) and often correlates with advanced stage, metastasis and poor prognosis (Gavine et al., 2015; Monti et al., 2022).  MAPK7 gene amplification can drive tumour growth (Cook et al., 2020).  ERK5 signalling also contributes to cardiovascular diseases, including atherosclerosis and cardiac hypertrophy (Paudel et al., 2021; Wang & Tournier, 2006).  Knock-out of Erk5 or Mek5 in mice causes embryonic lethality owing to severe cardiovascular defects (Roberts et al., 2009; Gavine et al., 2015).
+
+## References  
+Cook, S. J., Tucker, J. A., & Lochhead, P. A. (2020). Small-molecule ERK5 kinase inhibitors paradoxically activate ERK5 signalling: Be careful what you wish for… Biochemical Society Transactions, 48, 1859–1875. https://doi.org/10.1042/BST20190338  
+
+Elkins, J. M., Wang, J., Deng, X., Pattison, M. J., Arthur, J. S. C., Erazo, T., Gómez, N., Lizcano, J. M., Gray, N. S., & Knapp, S. (2013). X-ray crystal structure of ERK5 (MAPK7) in complex with a specific inhibitor. Journal of Medicinal Chemistry, 56, 4413–4421. https://doi.org/10.1021/jm4000837  
+
+Gavine, P. R., Wang, M., Yu, D., Hu, E., Huang, C., Xia, J., Su, X., Fan, J., Zhang, T., Ye, Q., Zheng, L., Zhu, G., Qian, Z., Luo, Q., & Ji, Q. (2015). Identification and validation of dysregulated MAPK7 (ERK5) as a novel oncogenic target in squamous cell lung and esophageal carcinoma. BMC Cancer, 15, Article e1455. https://doi.org/10.1186/s12885-015-1455-y  
+
+Glatz, G., Gógl, G., Alexa, A., & Reményi, A. (2013). Structural mechanism for the specific assembly and activation of the extracellular signal-regulated kinase 5 (ERK5) module. Journal of Biological Chemistry, 288, 8596–8609. https://doi.org/10.1074/jbc.M113.452235  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Lau, A. T. Y., & Xu, Y.-M. (2019). Regulation of human mitogen-activated protein kinase 15 (extracellular signal-regulated kinase 7/8) and its functions: A recent update. Journal of Cellular Physiology, 234, 75–88. https://doi.org/10.1002/jcp.27053  
+
+Le, N.-T. (2023). The significance of ERK5 catalytic-independent functions in disease pathways. Frontiers in Cell and Developmental Biology, Article 1235217. https://doi.org/10.3389/fcell.2023.1235217  
+
+Lin, E. C. K., Amantea, C. M., Nomanbhoy, T. K., Weissig, H., Ishiyama, J., Hu, Y., Sidique, S., Li, B., Kozarich, J. W., & Rosenblum, J. S. (2016). ERK5 kinase activity is dispensable for cellular immune response and proliferation. Proceedings of the National Academy of Sciences, 113, 11865–11870. https://doi.org/10.1073/pnas.1609019113  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Monti, M., Celli, J., Missale, F., Cersosimo, F., Russo, M., Belloni, E., Di Matteo, A., Lonardi, S., Vermi, W., Ghigna, C., & Giurisato, E. (2022). Clinical significance and regulation of ERK5 expression and function in cancer. Cancers, 14, Article 348. https://doi.org/10.3390/cancers14020348  
+
+Nithianandarajah-Jones, G. N., Wilm, B., Goldring, C., Müller, J., & Cross, M. (2014). The role of ERK5 in endothelial cell function. Biochemical Society Transactions, 42, 1584–1589. https://doi.org/10.1042/BST20140276  
+
+Paudel, R., Fusi, L., & Schmidt, M. (2021). The MEK5/ERK5 pathway in health and disease. International Journal of Molecular Sciences, 22, 7594. https://doi.org/10.3390/ijms22147594  
+
+Pearson, G., Robinson, F., Beers Gibson, T., Xu, B., Karandikar, M., Berman, K., & Cobb, M. H. (2001). Mitogen-activated protein (MAP) kinase pathways: Regulation and physiological functions. Endocrine Reviews, 22, 153–183. https://doi.org/10.1210/edrv.22.2.0428  
+
+Roberts, O., Holmes, K., Müller, J., Cross, D., & Cross, M. (2009). ERK5 and the regulation of endothelial cell function. Biochemical Society Transactions, 37, 1254–1259. https://doi.org/10.1042/BST0371254  
+
+Stecca, B., & Rovida, E. (2019). Impact of ERK5 on the hallmarks of cancer. International Journal of Molecular Sciences, 20, 1426. https://doi.org/10.3390/ijms20061426  
+
+Tubita, A., Lombardi, Z., Tusa, I., Dello Sbarba, P., & Rovida, E. (2020). Beyond kinase activity: ERK5 nucleo-cytoplasmic shuttling as a novel target for anticancer therapy. International Journal of Molecular Sciences, 21, 938. https://doi.org/10.3390/ijms21030938  
+
+Wang, X., & Tournier, C. (2006). Regulation of cellular functions by the ERK5 signalling pathway. Cellular Signalling, 18, 753–760. https://doi.org/10.1016/j.cellsig.2005.11.003  
+
+“The discovery of small-molecule inhibitors of ERK5 for the treatment of cancer.” (2014). In Proceedings of the XXth International Conference (pp. 37–65). [Detailed bibliographic information not provided].

@@ -1,0 +1,69 @@
+## Phylogeny  
+Tyrosine-protein kinase ITK is a member of the tyrosine kinase (TK) group, Tec family, and clusters with BTK, TEC, BMX and RLK/TXK in kinome phylogenies derived from the Manning data set (unknownauthors2013studiesonitksyk, 2013). Vertebrate orthologues are documented in mouse and rat, with functional conservation demonstrated by Itk-/- murine models (Zhong et al., 2014).
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇄ ADP + protein-L-tyrosine-phosphate (Burch et al., 2014).
+
+## Cofactor Requirements  
+Catalysis is strictly ATP-dependent and requires divalent cations; Mg²⁺ is obligatory and Mn²⁺ can substitute in vitro (unknownauthors2013studiesonitksyk, 2013; unknownauthors2023gapjunctionalintercellular, 2023).
+
+## Substrate Specificity  
+Validated cellular substrates include PLCγ1 (Tyr775/Tyr783), LAT, LCP2/SLP-76 and VAV1 (Zhong et al., 2014; Ghosh et al., 2018). An intrinsic phospho-motif preference has not yet been experimentally defined in the cited excerpts (unknownauthors2023gapjunctionalintercellular, 2023).
+
+## Structure  
+Domain organisation: PH (≈1–100) → Tec-homology with proline-rich region → SH3 → SH2 → kinase (SH1) (Ghosh et al., 2018; Zhong et al., 2014).  
+3-D features:  
+• Isolated kinase-domain crystal structures display the canonical bilobal fold; Phe435 acts as the gatekeeper and Ser442 participates in hinge binding that underlies inhibitor selectivity (MacKinnon et al., 2013).  
+• Allosteric inhibitor complexes capture an αC-out inactive conformation that exposes a non-ATP regulatory pocket (Han et al., 2014).  
+• The PH domain adopts a β-sandwich lipid-binding fold; stabilising mutations were mapped by NMR (Boyken et al., 2012).  
+Key residues: Lys391 (β3), Glu436/Met438 (hinge), Tyr511 (activation loop), Tyr180 (SH3 autophosphorylation site) (Han et al., 2014; MacKinnon et al., 2013).
+
+## Regulation  
+Post-translational modification  
+• Tyr511: trans-phosphorylation by LCK; essential for activation (Zhong et al., 2014; Ghosh et al., 2018).  
+• Tyr180: cis-autophosphorylation; enhances kinase activity (Han et al., 2014).  
+
+Lipid/adaptor control  
+• PH-domain binding to PI3K-derived PIP₃ or soluble IP₄ recruits ITK to the plasma membrane (Zhong et al., 2014).  
+• Intramolecular SH3–PRR interaction enforces autoinhibition; release occurs upon assembly into the LAT–SLP-76 signalosome (unknownauthors2013studiesonitksyk, 2013; unknownauthors2023gapjunctionalintercellular, 2023).  
+
+Allosteric regulation  
+• Small-molecule ligands stabilising the inactive αC-out state provide non-competitive inhibition (Han et al., 2014).
+
+## Function  
+Expression  
+Highly expressed in thymocytes, naïve CD4⁺/CD8⁺ T cells, Th2 cells, NK, NKT and mast cells (Han et al., 2014).
+
+Signalling pathway  
+Upstream inputs: PI3K-generated PIP₃, ZAP70-mediated LAT phosphorylation and LCK-dependent Tyr511 phosphorylation converge to activate ITK (Zhong et al., 2014).  
+Downstream outputs: ITK phosphorylates PLCγ1, LAT and LCP2, leading to Ca²⁺ flux, NFAT nuclear import, and activation of PKCθ, MAPK/ERK and VAV1 complexes (Zhong et al., 2014).  
+Cellular roles: Regulates Th2 cytokine production, influences Th17/Treg balance, and modulates cytolytic granule release in CD8⁺ T cells and innate lymphoid subsets (Eken et al., 2019; Zhong et al., 2014).
+
+## Inhibitors  
+• Ibrutinib – irreversible covalent binder of Cys442; skews T-cell responses toward Th1 (Zhong et al., 2014).  
+• CTA056 – exhibits selective cytotoxicity toward ITK-high malignant T cells and suppresses xenograft growth (Zhong et al., 2014).  
+• Tetrahydroindazole series – ATP-competitive, low-nanomolar Kᵢ (Burch et al., 2014).  
+• Benzothiazole series – sub-nanomolar potency exploiting Ser442 hinge contact (MacKinnon et al., 2013).  
+• Allosteric compound 9 – non-competitive; Kᵢ = 0.236 µM, Kᵢ,autoact = 0.026 µM (Han et al., 2014).
+
+## Other Comments  
+Loss-of-function mutations (e.g., R335W, c.1573G>A) cause combined immunodeficiency with EBV-driven lymphoproliferation and hemophagocytic lymphohistiocytosis (Ghosh et al., 2018). The t(5;9)(q33;q22) chromosomal translocation yields the constitutively active ITK–SYK fusion kinase that drives peripheral T-cell lymphoma (unknownauthors2013studiesonitksyk, 2013; Zhong et al., 2014). ITK dysregulation is implicated in allergic asthma, atopic dermatitis and other inflammatory diseases (unknownauthors2023gapjunctionalintercellular, 2023).
+
+## 9. References  
+Boyken, S., Fulton, D., & Andreotti, A. (2012). Rescue of the aggregation prone ITK pleckstrin homology domain by two mutations derived from the related kinases, BTK and Tec. Protein Science. https://doi.org/10.1002/pro.2114  
+
+Burch, J. D., Lau, K., Barker, J. J., Brookfield, F., Chen, Y., Chen, Y., … Pei, Z. (2014). Property- and structure-guided discovery of a tetrahydroindazole series of interleukin-2 inducible T-cell kinase inhibitors. Journal of Medicinal Chemistry, 57, 5714-5727. https://doi.org/10.1021/jm500550e  
+
+Eken, A., Cansever, M., Somekh, I., Mizoguchi, Y., Zietara, N., Okus, F. Z., … Patiroglu, T. (2019). Genetic deficiency and biochemical inhibition of ITK affect human Th17, Treg, and innate lymphoid cells. Journal of Clinical Immunology, 39, 391-400. https://doi.org/10.1007/s10875-019-00632-5  
+
+Ghosh, S., Drexler, I., Bhatia, S., Adler, H., Gennery, A. R., & Borkhardt, A. (2018). Interleukin-2-inducible T-cell kinase deficiency—new patients, new insight? Frontiers in Immunology. https://doi.org/10.3389/fimmu.2018.00979  
+
+Han, S., Czerwinski, R., Caspers, N., Limburg, D. C., Ding, W., Wang, H., … Aulabaugh, A. (2014). Selectively targeting an inactive conformation of interleukin-2-inducible T-cell kinase by allosteric inhibitors. Biochemical Journal, 460, 211-222. https://doi.org/10.1042/BJ20131139  
+
+MacKinnon, C. H., Lau, K., Burch, J. D., Chen, Y., Dines, J., Ding, X., … Pei, Z. (2013). Structure-based design and synthesis of potent benzothiazole inhibitors of interleukin-2 inducible T-cell kinase (ITK). Bioorganic & Medicinal Chemistry Letters, 23, 6331-6335. https://doi.org/10.1016/j.bmcl.2013.09.069  
+
+unknownauthors2013studiesonitksyk. (2013). Studies on ITK-SYK signalling pathways (pp. 12-15; 26-29).  
+
+unknownauthors2023gapjunctionalintercellular. (2023). Gap junctional intercellular communication: Role of Cx43 phosphorylation by tyrosine kinases (pp. 66-71; 165-167).  
+
+Zhong, Y., Johnson, A., Byrd, J., & Dubovsky, J. (2014). Targeting interleukin-2-inducible T-cell kinase (ITK) in T-cell-related diseases. Postdoc Journal, 2(6), 1-13. https://doi.org/10.14304/surya.jpr.v2n6.1

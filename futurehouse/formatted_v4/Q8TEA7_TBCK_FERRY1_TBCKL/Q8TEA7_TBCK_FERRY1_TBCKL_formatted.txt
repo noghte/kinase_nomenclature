@@ -1,0 +1,53 @@
+## Phylogeny  
+TBCK orthologues are present across vertebrates (e.g., Homo sapiens, Mus musculus, Danio rerio) and invertebrates (Drosophila melanogaster, Caenorhabditis elegans). Several non-mammalian homologues have lost either the TBC or rhodanese domain, suggesting lineage-specific truncations (Cagwin et al., 2025). Amino-acid identity among mammalian sequences exceeds 90 %, indicating strong evolutionary constraint (Wu & Lu, 2021). The conserved TBC domain groups TBCK with the TBC1 domain-containing kinase family in the “Other” branch of the human kinome (Cagwin et al., 2025).
+
+## Reaction Catalyzed  
+No ATP-dependent phosphorylation reaction has been demonstrated. The N-terminal pseudokinase domain lacks the canonical G-loop, VAIK, HRD and DFG motifs required for catalysis, supporting classification as a pseudokinase (Cagwin et al., 2025; Liu et al., 2013).
+
+## Cofactor Requirements  
+No divalent metal ions or other cofactors are known; biochemical nucleotide-binding data are lacking (Cagwin et al., 2025).
+
+## Substrate Specificity  
+TBCK is absent from the human serine/threonine kinase substrate atlas, and no consensus phosphorylation motif or physiological substrates have been identified (Cagwin et al., 2025).
+
+## Structure  
+Domain organisation: pseudokinase (1–273) → low-complexity linker-1 (274–425) → TBC Rab-GAP (426–710) → low-complexity linker-2 (711–790) → rhodanese-like (791–891) (Cagwin et al., 2025).  
+AlphaFold model AF-Q8TEA7-F1 predicts well-folded individual domains joined by flexible linkers, producing an elongated architecture (Cagwin et al., 2025).  
+• Pseudokinase domain: retains the bilobal kinase fold but key catalytic residues are replaced, creating a shallow pocket incompatible with ATP binding (Cagwin et al., 2025).  
+• TBC domain: contains canonical IX₂DX₂R “R-finger” (Arg511) and YXQ “Q-finger”; mutation p.Arg511His abolishes Rab-GAP activity in patient cells (Chong et al., 2016).  
+• Rhodanese-like domain: preserves the DXR scaffold but lacks the catalytic cysteine, implying a scaffolding role (Cagwin et al., 2025).  
+Cryo-EM of the FERRY complex positions TBCK peripherally, but the protein remains unresolved at high resolution (Cagwin et al., 2025). TBCK is the sole human TBC protein fused to a pseudokinase domain.
+
+## Regulation  
+High-throughput proteomics report multiple post-translational modifications (PTMs):  
+– Phosphorylation: Ser118, Tyr153, Thr169, Tyr732, Thr775, Thr782, Ser784  
+– Ubiquitination: Lys271, Lys285, Lys343, Lys349, Lys450, Lys456, Lys461, Lys495, Lys706, Lys881  
+– Acetylation: Lys450, Lys456, Lys461, Lys495, Lys706  
+– Arginine monomethylation: Arg503  
+Enzymes responsible for these PTMs and their functional consequences are unknown (Cagwin et al., 2025).
+
+## Function  
+Expression/localisation: cytosolic with enrichment around the nucleus, centrosomes and mitotic spindle in HEK293 and HeLa cells (Cagwin et al., 2025; Wu & Lu, 2021).  
+Complex assembly: one of five subunits of the FERRY complex (with PPP1R21, CRYZL1, C12ORF4, GATD1); the complex binds RAB5A-GTP, mRNAs and ribosomes to mediate early-endosomal mRNA transport (Cagwin et al., 2025).  
+Signalling: TBCK knock-down decreases transcription and protein levels of mTOR, Raptor, Rictor and mLST8, reducing phosphorylation of 4E-BP1, p70 S6K and Akt-Ser473 (Liu et al., 2013; Cagwin et al., 2025).  
+Cytoskeleton: depletion disrupts stress fibres and lowers F-actin intensity without affecting microtubules (Liu et al., 2013).  
+Autophagy–lysosome–mitochondria axis: loss of TBCK causes autophagosome accumulation, lysosomal dysfunction, elevated ROS and impaired oxidative phosphorylation in neuronal models (Angireddy et al., 2024).  
+Interactome studies reveal associations with centrosomal proteins, TRIM27, JIP4 and mitochondrial quality-control factors, suggesting additional roles in vesicle trafficking and mitophagy (Flores-Mendez et al., 2025).
+
+## Other Comments  
+Biallelic loss-of-function variants cause TBCK syndrome (infantile hypotonia with psychomotor retardation type 3) featuring developmental delay, brain atrophy, seizures and multi-organ involvement (Durham et al., 2023). Pathogenic alleles include splice variant c.1708+1G>A and missense p.Arg511His, both markedly reducing protein levels (Cagwin et al., 2025; Chong et al., 2016). Somatic frameshift and missense mutations are reported in colorectal adenocarcinoma and head-and-neck squamous carcinoma, implicating TBCK in tumorigenesis (Liu et al., 2013; Wu & Lu, 2021).
+
+## References  
+Angireddy, R., Karisetty, B. C., Katsura, K. A., Díaz, A., Murali, S., Ohl, L., … Bhoj, E. J. K. (2024). A novel human TBCK neuronal cell model results in severe neurodegeneration and partial rescue with mitochondrial fission inhibition. bioRxiv. https://doi.org/10.1101/2024.10.30.621078  
+
+Cagwin, E. M., Padgett, C. M., Lin, Y., & Zhu, W. (2025). Decoding TBCK: From bioinformatic insights of domain architecture to disease implications. Frontiers in Biophysics. https://doi.org/10.3389/frbis.2025.1560824  
+
+Chong, J. X., Caputo, V., Phelps, I. G., Stella, L., Worgan, L., Dempsey, J. C., … Doherty, D. (2016). Recessive inactivating mutations in TBCK, encoding a Rab GTPase-activating protein that modulates mTOR signaling, cause severe infantile syndromic encephalopathy. bioRxiv. https://doi.org/10.1101/036111  
+
+Durham, E., Angireddy, R., Black, A., Melendez-Perez, A. J., Smith, S., Gonzalez, E. M., … Katsura, K. (2023). TBCK syndrome: A rare multi-organ neurodegenerative disease. Trends in Molecular Medicine. https://doi.org/10.1016/j.molmed.2023.06.009  
+
+Flores-Mendez, M., Tintos-Hernández, J. A., Ramos-Rodriguez, L., Miles, L., Lo, T. Y., Song, Y., & Ortiz-González, X. (2025). TBCK-deficiency leads to compartment-specific mRNA and lysosomal trafficking defects in patient-derived neurons. bioRxiv. https://doi.org/10.1101/2025.03.02.641041  
+
+Liu, Y., Yan, X., & Zhou, T. (2013). TBCK influences cell proliferation, cell size and mTOR signaling pathway. PLoS ONE, 8, e71349. https://doi.org/10.1371/journal.pone.0071349  
+
+Wu, J., & Lu, G. (2021). Multiple functions of TBCK protein in neurodevelopment disorders and tumors (Review). Oncology Letters, 21, 1. https://doi.org/10.3892/ol.2020.12278

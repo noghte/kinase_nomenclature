@@ -1,0 +1,68 @@
+## Phylogeny  
+Kalirin belongs to the Dbl family of Rho guanine-nucleotide exchange factors and clusters within the Trio subfamily (Johnson et al., 2000; Ma et al., 2001). It shares ~60 % sequence identity with Trio; both vertebrate genes arose from a single ancestral invertebrate gene that is represented by dTrio in Drosophila melanogaster and Unc-73 in Caenorhabditis elegans (Parnell et al., 2021; Rabiner et al., 2005). Invertebrate orthologues lack the C-terminal protein-kinase domain that is present in vertebrate Kalirin and Trio (Rabiner et al., 2005).  
+Classification of the Kalirin kinase domain is inconsistent in the literature: it has been placed in the Ca2+/calmodulin-dependent kinase (CAMK) group (Johnson et al., 2000), in the tyrosine-kinase-like/mixed-lineage kinase (TKL/MLK) family (Parnell et al., 2021), and in the CMGC group within the DYRK family (Manning et al., 2002).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[Kalirin] ⇌ ADP + O-phospho-L-seryl/threonyl-[Kalirin]  
+(Parnell et al., 2021; Xin et al., 2008)
+
+## Cofactor Requirements  
+Mg²⁺ is required for kinase activity; the domain contains a distinctive Mg²⁺-binding loop (DLE in place of the canonical DFG) (Anonymous, 2015; Johnson et al., 2000; Parnell et al., 2021).
+
+## Substrate Specificity  
+No substrate-specificity data are provided in the supplied nomenclature.
+
+## Structure  
+Kalirin is a large multidomain protein produced as several isoforms (Kalirin-7, ‑9, ‑12) through alternative promoters and splicing (Parnell et al., 2021; Rabiner et al., 2005).  
+Key structural modules include:  
+• N-terminal SEC14P lipid-binding domain (Parnell et al., 2021)  
+• Multiple spectrin-like repeats that scaffold partner binding (Parnell et al., 2021)  
+• Rac-GEF (DH-PH) cassette; PH domain binds GluN2B and TRKA (Parnell et al., 2021)  
+• RhoA-GEF (second DH-PH) present in Kalirin-9/-12 (Parnell et al., 2021)  
+• Two SH3 domains mediating autoinhibition (Parnell et al., 2021)  
+• C-terminal PDZ-binding motif in Kalirin-7 (Parnell et al., 2021)  
+• Ig and FN3 domains in Kalirin-12 (Parnell et al., 2021)  
+• Ser/Thr kinase domain unique to Kalirin-12; AlphaFold predicts a canonical bilobal fold with an “in” C-helix and an extended activation loop characteristic of an active conformation (Xin et al., 2008; Li et al., 2023; Anonymous, 2015).
+
+## Regulation  
+Activity is controlled by alternative splicing, numerous phosphorylation events and intramolecular or allosteric interactions (Parnell et al., 2021; Anonymous, 2015).  
+Phosphorylation sites/regulators:  
+– CaMKII on T95 within SEC14P → ↑Rac-GEF activity (Parnell et al., 2021)  
+– Cdk5/p25 on T1590 (Xin et al., 2008)  
+– NRG1-ErbB4-Fyn pathway on the PDZ-binding motif (Parnell et al., 2021)  
+– Abl1 on spectrin repeats 4-6, promoting calpain cleavage (Anonymous, 2015)  
+– Autophosphorylation by its own kinase domain in Kalirin-12 (Parnell et al., 2021)  
+Allosteric control: SH3–PXXP contacts dampen GEF activity, and Gαq binding to the PH domain modulates the RhoA-GEF module (Parnell et al., 2021).
+
+## Function  
+Highly expressed in the nervous system and, to a lesser extent, in smooth-muscle tissue (Parnell et al., 2021). Embryonic neurons predominantly express Kalirin-9/-12, whereas adult cortex and hippocampus mainly express Kalirin-7 (Parnell et al., 2021; Unknown Author, 2012).  
+As a dual Rho-GEF, Kalirin activates Rac1 and RhoA to organise the actin cytoskeleton, driving dendritic-spine morphogenesis, axon extension and synaptic plasticity; Rac1–PAK signalling promotes spine enlargement, whereas RhoA performs opposing functions (Parnell et al., 2021). Kalirin also regulates NMDA and AMPA receptor trafficking and is required for NMDAR-dependent LTP and LTD (Parnell et al., 2021).  
+Upstream kinases: CaMKII, Cdk5, Fyn and Abl1 (Parnell et al., 2021; Xin et al., 2008; Anonymous, 2015).  
+Interacting partners include PSD95, DISC1, GluN2B, neuroligin-1, HAP1, TRKA and Supervillin (Parnell et al., 2021; Remmers et al., 2014).
+
+## Inhibitors  
+Small molecules targeting its GEF domains have been reported: ITX3 (Rac-GEF inhibitor) and NPPD (RhoA-GEF inhibitor) reduce Rac-dependent neurite outgrowth and limit smooth-muscle cell migration (Parnell et al., 2021). Pharmacological inhibition of Abl1 can indirectly modulate Kalirin function (Anonymous, 2015).
+
+## Other Comments  
+Kalirin dysregulation is linked to schizophrenia, autism spectrum disorder, Alzheimer’s disease, addiction, intellectual disability, developmental delay, stroke, coronary heart disease, Parkinson’s disease and Huntington’s disease (Parnell et al., 2021; Remmers et al., 2014). Both loss- and gain-of-function mutations have been identified; variants within the RhoA-GEF domain are associated with schizophrenia (Parnell et al., 2021).
+
+## 9. References  
+Anonymous. (2015). Function and regulation of the postsynaptic exchange factor, Kalirin-7.  
+
+Johnson, R. C., Penzes, P., Eipper, B. A., & Mains, R. E. (2000). Isoforms of Kalirin, a neuronal Dbl family member, generated through use of different 5′- and 3′-ends along with an internal translational initiation site. The Journal of Biological Chemistry, 275, 19324–19333. https://doi.org/10.1074/jbc.M000676200  
+
+Li, Y., Pustovalova, Y., Doukov, T. I., Hoch, J. C., Mains, R. E., Eipper, B. A., & Hao, B. (2023). Structure of the SEC14 domain of Kalirin reveals a distinct class of lipid-binding module in RhoGEFs. Nature Communications. https://doi.org/10.1038/s41467-022-35678-4  
+
+Ma, X.-M., Johnson, R. C., Mains, R. E., & Eipper, B. A. (2001). Expression of Kalirin, a neuronal GDP/GTP exchange factor of the Trio family, in the central nervous system of the adult rat. Journal of Comparative Neurology. https://doi.org/10.1002/1096-9861(20010115)429:3<388::AID-CNE3>3.0.CO;2-I  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Parnell, E., Shapiro, L. P., Voorn, R. A., Forrest, M., Jalloul, H. A., Loizzo, D. D., & Penzes, P. (2021). Kalrn: A central regulator of synaptic function and synaptopathies. Gene, 145306. https://doi.org/10.1016/j.gene.2020.145306  
+
+Rabiner, C. A., Mains, R. E., & Eipper, B. A. (2005). Kalirin: A dual Rho guanine nucleotide exchange factor that is so much more than the sum of its many parts. The Neuroscientist, 11, 148–160. https://doi.org/10.1177/1073858404271250  
+
+Remmers, C., Sweet, R., & Penzes, P. (2014). Abnormal Kalirin signalling in neuropsychiatric disorders. Brain Research Bulletin, 103, 29–38. https://doi.org/10.1016/j.brainresbull.2013.12.006  
+
+Unknown Author. (2012). The role of Kalirin-7 in the pathogenesis of Parkinson Disease and Huntington Disease.  
+
+Xin, X., Wang, Y., Ma, X.-M., Rompolas, P., Keutmann, H. T., Mains, R. E., & Eipper, B. A. (2008). Regulation of Kalirin by Cdk5. Journal of Cell Science, 121, 2601–2611. https://doi.org/10.1242/jcs.016089

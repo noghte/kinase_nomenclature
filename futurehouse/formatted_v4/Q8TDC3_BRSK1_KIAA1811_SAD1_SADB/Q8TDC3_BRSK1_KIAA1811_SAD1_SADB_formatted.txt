@@ -1,0 +1,43 @@
+## Phylogeny  
+Member of the AMP-activated protein kinase–related kinase (ARK) subfamily within the CaMK group (Bendzunas et al., 2024).  The closest human paralogue is BRSK2; sister clades include NUAK1/2, SIK1-3, MARK1-4 and MELK (Bendzunas et al., 2024).  Vertebrate orthologues comprise mouse SAD-B, rat Brsk1 and zebrafish brsk1 (Bright et al., 2008).  Invertebrate counterparts include C. elegans SAD-1, Drosophila SAD and ascidian HrPOPK-1 (Unknown Authors, 2011).  A redox-regulatory cysteine constellation is conserved across metazoan BRSKs (Bendzunas et al., 2025).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (Bendzunas et al., 2024).  
+
+## Cofactor Requirements  
+Catalytic activity requires divalent Mg²⁺ or Mn²⁺ ions (Unknown Authors, 2011).  
+
+## Substrate Specificity  
+Motif profiling classifies BRSK1 as a basophilic kinase that prefers basic residues at positions −3/−4 relative to the phospho-acceptor site (Johnson et al., 2023).  Verified cellular substrates include Tau (Thr529, Ser579 and Ser262), WEE1 Ser642, γ-tubulin Ser131, RIM1 Ser413 and CDC25B/C (Unknown Authors, 2014; Bendzunas et al., 2024).  
+
+## Structure  
+Domain organisation: N-terminal kinase domain, UBA domain, proline-rich spacer, KA1 domain and C-terminal AIS (Bendzunas et al., 2024).  Catalytic motifs: Lys40 (VAIK), Glu59 (αC), HRD166-168, DFG182-184; activation-segment residue Thr189 (Bright et al., 2008).  The canonical APE motif is replaced by a redox-sensitive Cys198, generating a unique CPE sequence (Bendzunas et al., 2024).  Intramolecular disulfides C147-C153 and C191-C198, as well as a T-loop +2 cysteine that promotes reversible dimerisation, have been detected by LC-MS/MS (Bendzunas et al., 2024; Bendzunas et al., 2025).  An AlphaFold model (AF-Q8TDC3-F1) corroborates the overall fold and cysteine positioning (Bendzunas et al., 2024).  
+
+## Regulation  
+Activation by LKB1-mediated phosphorylation of Thr189 (Bright et al., 2008).  Ser447/Ser469 phosphorylation creates 14-3-3 binding sites influencing localisation (Bendzunas et al., 2025).  PP2C reverses activation-loop phosphorylation (Bright et al., 2008), whereas TRIM32-dependent ubiquitination targets the kinase for degradation (Unknown Authors, 2014).  Oxidation of HRD-proximal and activation-segment cysteines yields reversible intramolecular disulfides that suppress activity; reducing agents such as DTT restore function (Bendzunas et al., 2024).  Limited intermolecular disulfide-linked dimers provide an additional redox switch (Bendzunas et al., 2025).  Palmitoylation directs BRSK1 to lipid rafts and enhances Thr189 phosphorylation (Unknown Authors, 2014).  
+
+## Function  
+Highly expressed in forebrain, hippocampus and cerebellum, with lower levels in pancreas and testis (Bright et al., 2008).  Activated by the LKB1–STRAD–MO25 complex (Unknown Authors, 2014).  Governs neuronal polarity via phosphorylation of Tau and WEE1 and promotes centrosome duplication through γ-tubulin Ser131 (Unknown Authors, 2014).  Localises to synaptic vesicles where RIM1 Ser413 phosphorylation facilitates neurotransmitter release (Unknown Authors, 2011).  Contributes to the UV-induced DNA-damage checkpoint through CDC25C phosphorylation (Unknown Authors, 2011).  Cysteine-based redox switches couple BRSK1 to NRF2-linked oxidative-stress pathways (Bendzunas et al., 2025).  
+
+## Inhibitors  
+GW296115, a bis-indolocarbazole, inhibits BRSK1/2 with a cellular NanoBRET IC₅₀ of ~107 nM and displays low toxicity (Tamir et al., 2020).  
+
+## Other Comments  
+Genome-wide association studies associate BRSK1 variants with premature ovarian insufficiency and age-at-menopause phenotypes (Bendzunas et al., 2024).  
+
+## References  
+Bendzunas, G. N., Byrne, D., Shrestha, S., Daly, L. A., Oswald, S. O., Katiyar, S., … Kannan, N. (2024). Redox regulation of brain selective kinases BRSK1/2: Implications for dynamic control of the eukaryotic AMPK family through Cys-based mechanisms. bioRxiv. https://doi.org/10.1101/2023.10.05.561145  
+
+Bendzunas, G. N., Byrne, D. P., Shrestha, S., Daly, L. A., Oswald, S. O., Katiyar, S., … Kannan, N. (2025). Redox regulation and dynamic control of brain-selective kinases BRSK1/2 in the AMPK family through cysteine-based mechanisms. eLife. https://doi.org/10.7554/eLife.92536  
+
+Bright, N. J., Carling, D., & Thornton, C. (2008). Investigating the regulation of brain-specific kinases 1 and 2 by phosphorylation. Journal of Biological Chemistry, 283, 14946–14954. https://doi.org/10.1074/jbc.M710381200  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Unknown Authors. (2011). The regulation of tau-dependent neurodegeneration by Brain Selective/SAD kinases. [Details unavailable].  
+
+Unknown Authors. (2014). LKB1/AMPK/TSC2 signaling pathway alterations in non-small-cell-lung-carcinoma. [Details unavailable].  
+
+Unknown Authors. (2014). Regulació de la Brain-specific Kinase 1 (BRSK1) neuronal per sulfàtid i modificacions post-traduccionals. [Details unavailable].  
+
+Tamir, T. Y., Drewry, D. H., Wells, C., Major, C. B., & Axtman, A. D. (2020). PKIS deep dive yields a chemical starting point for dark kinases and a cell-active BRSK2 inhibitor. Scientific Reports. https://doi.org/10.1038/s41598-020-72869-9

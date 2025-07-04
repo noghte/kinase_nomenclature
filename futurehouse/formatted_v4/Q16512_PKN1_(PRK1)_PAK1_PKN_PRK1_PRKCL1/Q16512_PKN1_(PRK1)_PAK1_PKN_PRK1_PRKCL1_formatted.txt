@@ -1,0 +1,66 @@
+## Phylogeny  
+Member of the AGC serine/threonine kinase superfamily and clustered within the PKN/PRK branch of the kinome (Manning scheme) (Hutchinson et al., 2013). The catalytic domain shares > 80 % identity with paralogs PKN2 and PKN3 and ~ 34 % identity with ROCK1/2, highlighting proximity to PKC-related clades (Unknown Authors, 2020). Orthologs are present across all vertebrate classes and in Drosophila, consistent with a conserved Rho-effector role throughout metazoan evolution (Arencibia et al., 2013).
+
+## Reaction Catalyzed  
+ATP + [protein] Ser/Thr ⇌ ADP + [protein]-phospho-Ser/Thr (Arencibia et al., 2013).
+
+## Cofactor Requirements  
+Mg²⁺ is required for phosphoryl-transfer activity, as for other AGC kinases (Sophocleous et al., 2021).
+
+## Substrate Specificity  
+Phospho-proteomics defined a preference for basic residues (Arg/Lys) at –3/–2 and a hydrophobic residue at +1 relative to the target Ser/Thr (Sophocleous et al., 2021; Johnson et al., 2023, cited therein). Confirmed cellular substrates include vimentin, neurofilament heavy/medium/light chains, MAPT/Tau (Ser575/637/669) and histone H3 (Thr11) (Arencibia et al., 2013; Ostrovskyi et al., 2016).
+
+## Structure  
+Domain organisation comprises:  
+• N-terminal HR1a-c antiparallel coiled-coil repeats that bind Rho-family GTPases.  
+• A C2-like lipid-regulated autoinhibitory segment.  
+• A C-terminal serine/threonine kinase domain (Mukai, 2003).  
+
+Crystal structures:  
+– Isolated kinase domain adopts the canonical AGC fold with an ordered activation segment (PDB 4CRS) (Arencibia et al., 2013).  
+– HR1a in complex with RhoA illustrates the effector interface (PDB 4OTC) (Hutchinson et al., 2013).  
+
+Catalytic landmarks: Lys644-Glu663 salt bridge, DFG Asp711 coordinating Mg²⁺–ATP, activation-loop Thr774, and a hydrophobic-motif Ser916 that docks to the N-lobe hydrophobic groove to align the regulatory spine (Sophocleous et al., 2021). Upstream of HR1, a leucine-zipper-like ACC segment promotes oligomerisation and partner binding (Mukai, 2003).
+
+## Regulation  
+• Phosphorylation: Thr774 is activated by PDK1; Ser916 and Ser533/537/562 are phosphorylated by CDK1 during mitosis to boost activity independently of Thr774 (Hutchinson et al., 2013; Unknown Authors, 2022).  
+• Lipid binding: PI(4,5)P₂, PI(3,4,5)P₃, cardiolipin and unsaturated fatty acids relieve C2-domain autoinhibition (Lin & Yuan, 2024).  
+• Small-GTPase interaction: RhoA, RhoB and Rac1 bind HR1 domains, triggering conformational activation and membrane recruitment (Hutchinson et al., 2013).  
+• Proteolysis: Limited proteolysis or caspase-3 cleavage produces constitutively active fragments under stress (Sophocleous et al., 2021).
+
+## Function  
+Expression is ubiquitous, with high levels in spleen, thymus, testes and neurons; over-expressed in prostate and ovarian carcinomas (Mukai, 2003; Unknown Authors, 2022).  
+Key roles include:  
+– Cytoskeletal regulation via phosphorylation of vimentin and neurofilaments, affecting filament assembly and cell migration (Arencibia et al., 2013).  
+– Control of microtubule dynamics through Tau phosphorylation, reducing microtubule binding (Arencibia et al., 2013).  
+– Transcriptional co-activation: histone H3 Thr11 phosphorylation promotes androgen-receptor-dependent gene expression (Ostrovskyi et al., 2016).  
+– Signal transduction downstream of ADRA1B to activate MAPK14/p38 (Arencibia et al., 2013).  
+– Neuronal survival under hypoxic stress by enhancing neurite stability and anti-apoptotic signalling (Thauerer et al., 2014).
+
+## Inhibitors  
+Lestaurtinib (low-µM IC₅₀), Ro318220 (nanomolar), Tofacitinib (Kd ≈ 96 nM; EC₅₀ ≈ 122 nM) and derivative compound 25 (three-fold selectivity improvement) inhibit the kinase domain (Arencibia et al., 2013; Ostrovskyi et al., 2016).
+
+## Other Comments  
+Enhanced activity drives prostate cancer migration/metastasis and contributes to ovarian cancer aggressiveness (Sophocleous et al., 2021; Unknown Authors, 2022). Dysregulated phosphorylation of neurofilaments and Tau links the kinase to ALS and Alzheimer’s disease pathways (Thauerer et al., 2014). Clinical interest in the PKN axis is illustrated by the siRNA nanotherapeutic Atu027 targeting PKN3; similar strategies are being explored for this paralog (Asquith et al., 2022).
+
+## 9. References  
+
+Arencibia, J. M., Pastor-Flores, D., Bauer, A. F., Schulze, J. O., & Biondi, R. M. (2013). AGC protein kinases: From structural mechanism of regulation to allosteric drug development for the treatment of human diseases. Biochimica et Biophysica Acta (BBA) ‑ Proteins and Proteomics, 1834, 1302-1321. https://doi.org/10.1016/j.bbapap.2013.03.010  
+
+Asquith, C. R. M., Temme, L., East, M. P., Laitinen, T., Pickett, J., Kwarcinski, F. E., … Drewry, D. H. (2022). Identification of 4-anilinoquin(az)oline as a cell-active protein kinase novel 3 (PKN3) inhibitor chemotype. ChemMedChem. https://doi.org/10.1002/cmdc.202200161  
+
+Hutchinson, C. L., Lowe, P. N., McLaughlin, S., Mott, H., & Owen, D. (2013). Differential binding of RhoA, RhoB, and RhoC to protein kinase C-related kinase isoforms PKN1, PKN2, and PKN3: PRKs have the highest affinity for RhoB. Biochemistry, 52(45), 7999-8011. https://doi.org/10.1021/bi401216w  
+
+Lin, J. L. J., & Yuan, H. S. (2024). Lipid-binding regions within PKC-related serine/threonine protein kinase N1 (PKN1) required for its regulation. Biochemistry, 63, 743-753. https://doi.org/10.1021/acs.biochem.4c00009  
+
+Mukai, H. (2003). The structure and function of PKN, a protein kinase having a catalytic domain homologous to that of PKC. Journal of Biochemistry, 133(1), 17-27. https://doi.org/10.1093/jb/mvg019  
+
+Ostrovskyi, D., Rumpf, T., Eib, J., Lumbroso, A., Slynko, I., Klaeger, S., … Jung, M. (2016). Tofacitinib and analogs as inhibitors of the histone kinase PRK1 (PKN1). Future Medicinal Chemistry, 8(13), 1537-1551. https://doi.org/10.4155/fmc-2016-0132  
+
+Sophocleous, G., Owen, D., & Mott, H. (2021). The structure and function of protein kinase C-related kinases (PRKs). Biochemical Society Transactions, 49, 217-235. https://doi.org/10.1042/BST20200466  
+
+Thauerer, B., zur Nedden, S., & Baier-Bitterlich, G. (2014). Protein kinase C-related kinase (PKN/PRK): Potential key-role for PKN1 in protection of hypoxic neurons. Current Neuropharmacology, 12, 213-218. https://doi.org/10.2174/1570159x11666131225000518  
+
+Unknown Authors. (2020). Development of PKN2 chemical probes to enable drug discovery. Unpublished manuscript.  
+
+Unknown Authors. (2022). Phos-Tag-based screens identify novel therapeutic targets in ovarian cancer and pancreatic cancer. Unpublished manuscript.

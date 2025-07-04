@@ -1,0 +1,52 @@
+## Phylogeny  
+Member of the AGC kinase group, NDR/LATS sub-family; the catalytic domain shares ~85 % identity with LATS2 (Furth & Aylon, 2017). Orthologues span metazoans and fungi, including Mus musculus Lats1, Drosophila melanogaster Warts and Saccharomyces cerevisiae Dbf2/Dbf20 (Furth & Aylon, 2017; Visser & Yang, 2010). Human LATS1 functionally rescues Drosophila Warts loss, underscoring deep evolutionary conservation (Hergovich, 2013).
+
+## Reaction Catalyzed  
+ATP + [protein] ⇌ ADP + [protein]-O-phospho-Ser/Thr (Hao et al., 2008).
+
+## Cofactor Requirements  
+No divalent-cation requirement has been reported (Furth & Aylon, 2017).
+
+## Substrate Specificity  
+Prefers an H-X-(R/H/K)-X-X-S/T consensus; the His at −5 is critical for efficient YAP/TAZ phosphorylation. Also accepts basic R/K-X-X-S/T motifs and displays an overall serine bias at the phospho-acceptor position (Hao et al., 2008; Hergovich, 2013).
+
+## Structure  
+N-terminal UBA domain, proline-rich P-stretch, dual PPxY motifs, MOB-binding NTR (residues 621–703), kinase domain (705–1010) with a VII–VIII insert, and C-terminal hydrophobic motifs (845-857, 905-915) plus an NFD segment containing Thr1079 (Furth & Aylon, 2017; Visser & Yang, 2010). Crystal structures of MOB1-bound NTR (PDB 5BRK, 5BKK) reveal a bi-helical interface (Kim et al., 2016). An AlphaFold model depicts the full AGC fold; a long activation segment resembles the auto-inhibited NDR1 conformation (Xiong et al., 2018). The regulatory spine aligns Ser909 (activation loop) with Thr1079 (hydrophobic motif) (Chan et al., 2005).
+
+## Regulation  
+Phosphorylation: MST1/2 prime Ser909 and Thr1079; MAP4Ks, PKA, CHK1/2 and ATR provide additional inputs (Furth & Aylon, 2017; Hergovich, 2013). MOB1 binding promotes auto-phosphorylation at Ser674 and Ser1049 (Furth & Aylon, 2017). CDK1 phosphorylates Thr490 and Ser613 in mitosis; NUAK1 phosphorylates Ser464, lowering stability (Furth & Aylon, 2017). PP2A de-phosphorylates Ser909/Thr1079 (Furth & Aylon, 2017).  
+Ubiquitination: NEDD4, ITCH and WWP1 poly-ubiquitinate Lys383, Lys527, Lys633 and Lys968 (Furth & Aylon, 2017).  
+Protein interactions: Phospho-MOB1 binding to the NTR is indispensable for activation; KIBRA and DCAF1 further modulate activity and turnover (Hergovich & Hemmings, 2009; Furth & Aylon, 2017).
+
+## Function  
+Expression/localisation: Highest expression in ovary; broadly distributed in ectoderm-derived tissues (Visser & Yang, 2010). Localises to centrosomes during interphase, spindle microtubules in mitosis, and exists in both cytoplasmic and nuclear pools (Furth & Aylon, 2017).  
+Upstream regulators: MST1/2-SAV1 complexes, MOB1A/B, MAP4Ks, PKA, CHK1/2, ATR and Merlin/NF2 (Chan et al., 2005; Meng et al., 2015; Hergovich, 2013).  
+Downstream substrates: YAP1, WWTR1/TAZ, Aurora B, MYPT1 Ser445, RAF1 Ser259 and regulators of the Cyclin E/CDK2 tetraploidy checkpoint (Hao et al., 2008; Furth & Aylon, 2017; Hergovich, 2013).  
+Pathway: Core effector kinase of the Hippo cascade controlling organ size, apoptosis and contact inhibition (Furth & Aylon, 2017; Hergovich, 2013).
+
+## Inhibitors  
+TRULI is reported as an ATP-competitive inhibitor of LATS kinases in cell-based studies (Furth & Aylon, 2017).
+
+## Other Comments  
+Loss of heterozygosity at 6q24-q25 is frequent in breast, liver and lung cancers (Visser & Yang, 2010). Somatic mutation rate is ~1.1 %, with recurrent functional mutations (I81M, R82Q, T255N, S336G, R744Q, N1038H) clustering in key domains (Yu et al., 2015). Promoter hypermethylation and enhanced ubiquitin-mediated degradation also dampen LATS1 levels in tumours (Furth & Aylon, 2017).
+
+## References  
+Chan, E. H. Y., Nousiainen, M., Chalamalasetty, R. B., Schäfer, A., Nigg, E. A., & Silljé, H. H. W. (2005). The Ste20-like kinase MST2 activates the human large tumor suppressor kinase LATS1. Oncogene, 24, 2076–2086. https://doi.org/10.1038/sj.onc.1208445  
+
+Furth, N., & Aylon, Y. (2017). The LATS1 and LATS2 tumor suppressors: beyond the Hippo pathway. Cell Death & Differentiation, 24, 1488–1501. https://doi.org/10.1038/cdd.2017.99  
+
+Hao, Y., Chun, A., Cheung, K. J., Rashidi, B., & Yang, X. (2008). Tumor suppressor LATS1 is a negative regulator of oncogene YAP. Journal of Biological Chemistry, 283, 5496–5509. https://doi.org/10.1074/jbc.M709037200  
+
+Hergovich, A. (2013). Regulation and functions of mammalian LATS/NDR kinases: looking beyond canonical Hippo signalling. Cell & Bioscience, 3, 32. https://doi.org/10.1186/2045-3701-3-32  
+
+Hergovich, A., & Hemmings, B. A. (2009). Mammalian NDR/LATS protein kinases in Hippo tumor suppressor signaling. BioFactors, 35, 338–345. https://doi.org/10.1002/biof.47  
+
+Kim, S.-Y., Tachioka, Y., Mori, T., & Hakoshima, T. (2016). Structural basis for autoinhibition and its relief of MOB1 in the Hippo pathway. Scientific Reports, 6, 28488. https://doi.org/10.1038/srep28488  
+
+Meng, Z., Moroishi, T., Mottier-Pavie, V., Plouffe, S. W., Hansen, C. G., Hong, A. W., … Guan, K.-L. (2015). MAP4K family kinases act in parallel to MST1/2 to activate LATS1/2 in the Hippo pathway. Nature Communications, 6, 8357. https://doi.org/10.1038/ncomms9357  
+
+Visser, S., & Yang, X. (2010). LATS tumor suppressor: a new governor of cellular homeostasis. Cell Cycle, 9, 3892–3903. https://doi.org/10.4161/cc.9.19.13386  
+
+Xiong, S., Lorenzen, K., Couzens, A. L., Templeton, C. M., Rajendran, D., Mao, D. Y. L., … Sicheri, F. (2018). Structural basis for auto-inhibition of the NDR1 kinase domain by an atypically long activation segment. Structure, 26, 1101–1115.e6. https://doi.org/10.1016/j.str.2018.05.014  
+
+Yu, T., Bachman, J., & Lai, Z.-C. (2015). Mutation analysis of large tumor suppressor genes LATS1 and LATS2 supports a tumor suppressor role in human cancer. Protein & Cell, 6, 6–11. https://doi.org/10.1007/s13238-014-0122-4

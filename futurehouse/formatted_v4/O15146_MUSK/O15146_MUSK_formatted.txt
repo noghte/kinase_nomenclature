@@ -1,0 +1,80 @@
+## Phylogeny  
+MuSK belongs to the receptor tyrosine kinase (RTK) group of the human kinome and forms a muscle-restricted branch that is most closely related to the ROR subfamily (Manning et al., 2002; Valenzuela et al., 1995). Primary-sequence conservation is high across vertebrates (e.g., 94 % identity with rat MuSK; 97 % within the kinase domain) and extends to Torpedo californica electric-organ RTK, underscoring strong evolutionary conservation (Valenzuela et al., 1995).  
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + protein-L-tyrosine-phosphate (Duong-Ly & Peterson, 2013).  
+
+## Cofactor Requirements  
+Catalysis requires a divalent metal ion; Mg²⁺ (and, interchangeably, Mn²⁺) coordinates the ATP γ-phosphate in the active site (Duong-Ly & Peterson, 2013).  
+
+## Substrate Specificity  
+Peptide-array profiling places MuSK in an RTK cluster that favours hydrophobic residues (Ile/Leu) at positions −1 and +3 relative to the target tyrosine while disfavoring acidic residues at +3 (Yaron-Barir et al., 2024).  
+
+## Structure  
+• Ectodomain: four Ig-like domains followed by a Frizzled-type cysteine-rich domain; Ig1–Ig2 crystal structure resolved at 2.2 Å (PDB 2IEP) (Stiegler et al., 2006).  
+• Single-pass transmembrane helix (Valenzuela et al., 1995).  
+• Cytoplasmic region: juxtamembrane segment containing Tyr553 (NPXY) and a catalytic domain with activation-loop Tyr750/Tyr754/Tyr755 (Hubbard & Gnanasambandan, 2013).  
+
+Key 3-D features  
+– Ig1 dimerisation interface (Met48, Leu83, Ile96); mutations block agrin-dependent activation (Stiegler et al., 2006).  
+– Surface disulfide Cys98–Cys112 stabilises Ig1 folding (Stiegler et al., 2006).  
+– Unphosphorylated kinase domain adopts an autoinhibited conformation; phosphorylation of Tyr750/754/755 converts it to the active state (Hubbard & Gnanasambandan, 2013).  
+– Phospho-Tyr553 recruits the PTB adaptor Dok7 to juxtapose two kinase domains and promote activation-loop phosphorylation (Hubbard & Gnanasambandan, 2013).  
+
+## Regulation  
+Post-translational modifications  
+• Autophosphorylation at Tyr553 enables Dok7 binding and downstream signalling (Herbst & Burden, 2000).  
+• Activation-loop phosphorylation of Tyr750, Tyr754 and Tyr755 is required for full catalytic activity (Hubbard & Gnanasambandan, 2013).  
+• Additional regulated sites include Tyr576, Tyr599, Ser678, Ser751 and Tyr755 (Budayeva et al., 2022; Prömer et al., 2025).  
+• Ser751 is a CaMK2β target in vitro, but this modification is dispensable for MuSK activation in vivo (Prömer et al., 2025).  
+• N-linked glycosylation of extracellular domains modulates agrin responsiveness; deglycosylation abolishes signalling (Glass et al., 1996).  
+
+Allosteric/ligand control  
+• Neural agrin binds LRP4, forming a complex that clusters MuSK and triggers basal autophosphorylation (Hubbard & Gnanasambandan, 2013).  
+• Dok7 interaction with pTyr553 stabilises MuSK dimers and drives activation-loop phosphorylation (Hubbard & Gnanasambandan, 2013).  
+
+## Function  
+Expression  
+MuSK is selectively expressed in skeletal muscle, up-regulated during myoblast-to-myotube differentiation, and concentrated at the postsynaptic membrane of the neuromuscular junction (DeChiara et al., 1996; Valenzuela et al., 1995).  
+
+Upstream inputs  
+– Neural agrin via LRP4 (DeChiara et al., 1996).  
+– Basal Wnt binding to the cysteine-rich domain (Hubbard & Gnanasambandan, 2013).  
+
+Downstream partners and pathways  
+– PTB adaptor Dok7 (Hubbard & Gnanasambandan, 2013).  
+– Crk/Crk-L, Abl1 and Src kinases, Rapsyn, Dishevelled-1, PAK1, Rac1 and Cdc42 mediate acetylcholine-receptor (AChR) clustering and cytoskeletal remodelling (Fish & Fallon, 2020; Wang et al., 2007).  
+– Phosphorylation of Rab10, Rab35 and related Rab GTPases links MuSK to vesicular trafficking (Budayeva et al., 2022).  
+
+Physiological roles  
+MuSK initiates and maintains AChR clustering, postsynaptic gene expression and cytoskeletal organisation essential for neuromuscular transmission; genetic ablation prevents embryonic neuromuscular junction (NMJ) formation and signalling deficits cause progressive synaptic fragmentation and muscle weakness (DeChiara et al., 1996; Fish & Fallon, 2020).  
+
+## Other Comments  
+IgG4 autoantibodies against MuSK produce a subset of myasthenia gravis by interfering with agrin/LRP4-dependent activation, and inherited loss-of-function mutations in MU​SK or DOK7 cause congenital myasthenic syndromes (Hubbard & Gnanasambandan, 2013).  
+
+## References  
+Budayeva, H. G., Sengupta-Ghosh, A., Phu, L., Moffat, J. G., Ayalon, G., & Kirkpatrick, D. (2022). Phosphoproteome profiling of the receptor tyrosine kinase MuSK identifies tyrosine phosphorylation of Rab GTPases. Molecular & Cellular Proteomics, 21, 100221. https://doi.org/10.1016/j.mcpro.2022.100221  
+
+DeChiara, T. M., Bowen, D. C., Valenzuela, D. M., Simmons, M. V., Poueymirou, W. T., Thomas, S., … Yancopoulos, G. D. (1996). The receptor tyrosine kinase MuSK is required for neuromuscular junction formation in vivo. Cell, 85(4), 501–512. https://doi.org/10.1016/S0092-8674(00)81251-9  
+
+Duong-Ly, K. C., & Peterson, J. R. (2013). The human kinome and kinase inhibition. Current Protocols in Pharmacology, 60, 2.9.1–2.9.14. https://doi.org/10.1002/0471141755.ph0209s60  
+
+Fish, L. A., & Fallon, J. R. (2020). Multiple MuSK signaling pathways and the aging neuromuscular junction. Neuroscience Letters, 733, 135014. https://doi.org/10.1016/j.neulet.2020.135014  
+
+Glass, D. J., DeChiara, T. M., Stitt, T. N., DiStefano, P. S., Valenzuela, D. M., & Yancopoulos, G. D. (1996). The receptor tyrosine kinase MuSK is required for neuromuscular junction formation and is a functional receptor for agrin. Cold Spring Harbor Symposia on Quantitative Biology, 61, 435–444. https://doi.org/10.1101/sqb.1996.061.01.046  
+
+Herbst, R., & Burden, S. J. (2000). The juxtamembrane region of MuSK has a critical role in agrin-mediated signaling. The EMBO Journal, 19(1), 67–77. https://doi.org/10.1093/emboj/19.1.67  
+
+Hubbard, S. R., & Gnanasambandan, K. (2013). Structure and activation of MuSK, a receptor tyrosine kinase central to neuromuscular junction formation. Biochimica et Biophysica Acta, 1834(10), 2166–2179. https://doi.org/10.1016/j.bbapap.2013.02.034  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298(5600), 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Prömer, J. J., Wolske, S., Castets, P., van Woerden, G. M., Barresi, C., O’Connor, K. C., & Herbst, R. (2025). MuSK is a substrate for CaMK2β but this interaction is dispensable for MuSK activation in vivo. Scientific Reports, 15, 95053. https://doi.org/10.1038/s41598-025-95053-3  
+
+Stiegler, A. L., Burden, S. J., & Hubbard, S. R. (2006). Crystal structure of the agrin-responsive immunoglobulin-like domains 1 and 2 of the receptor tyrosine kinase MuSK. Journal of Molecular Biology, 364(3), 424–433. https://doi.org/10.1016/j.jmb.2006.09.019  
+
+Valenzuela, D. M., Stitt, T. N., DiStefano, P. S., Rojas, E., Compton, D. L., Nuñez, L., … Yancopoulos, G. D. (1995). Receptor tyrosine kinase specific for the skeletal muscle lineage: Expression in embryonic muscle, at the neuromuscular junction, and after injury. Neuron, 15(3), 573–584. https://doi.org/10.1016/0896-6273(95)90146-9  
+
+Wang, Q., Zhang, B., Xiong, W. C., & Mei, L. (2007). MuSK signaling at the neuromuscular junction. Journal of Molecular Neuroscience, 30(2), 223–226. https://doi.org/10.1385/JMN:30:2:223  
+
+Yaron-Barir, T. M., Joughin, B. A., Huntsman, E. M., Kerelsky, A., Cizin, D. M., Cohen, B. M., … Johnson, J. L. (2024). The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629(8014), 1174–1181. https://doi.org/10.1038/s41586-024-07407-y

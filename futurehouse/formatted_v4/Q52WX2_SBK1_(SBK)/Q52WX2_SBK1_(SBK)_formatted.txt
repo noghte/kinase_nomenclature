@@ -1,0 +1,36 @@
+## Phylogeny  
+SBK1 belongs to the CaMK group, SBK-related CAMK family, SBK1 sub-family (Johnson et al., 2023, pp. 9–10; Brenes & Lamond, 2019, pp. 2–3). Curated orthologues are present in human, mouse, rat, zebrafish, Drosophila and C. elegans, indicating broad metazoan conservation (Brenes & Lamond, 2019, pp. 2–3). Within the human kinome its closest paralogues are CAMK1G and CAMK2G (Johnson et al., 2023, pp. 9–10).  
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Reveguk & Simonson, 2024, pp. 1–2).  
+
+## Cofactor Requirements  
+Requires Mg²⁺, coordinated by the Asp of the DFG motif (Reveguk & Simonson, 2024, pp. 1–2).  
+
+## Substrate Specificity  
+No consensus phosphorylation motif has yet been assigned; substrate specificity remains uncharacterised (Johnson et al., 2023, pp. 4–5).  
+
+## Structure  
+The protein encodes a single ~250-aa protein-kinase catalytic domain with no auxiliary domains (Reveguk & Simonson, 2024, pp. 2–4). No experimental structure is available; a high-confidence AlphaFold2 model (AF-Q52WX2-F1) is included in recent structural surveys (Reveguk & Simonson, 2024, pp. 1–2, 10–12). Canonical catalytic motifs are conserved: VAIK Lys (β3) for ATP anchoring, HRD Asp (catalytic loop) and the DFG Asp-Phe-Gly that marks the activation loop; both DFG-in and DFG-out conformations have been observed in computational clustering (Reveguk & Simonson, 2024, pp. 4–5). The active architecture features the αC-Glu/Lys salt bridge and correctly packed hydrophobic spine residues at positions 120 and 142 (Reveguk & Simonson, 2024, pp. 10–12). No unique insertions, ligand-bound complexes or PDB entries are reported.  
+
+## Regulation  
+• Post-transcriptional: lncRNA DRAIC acts as a competing endogenous RNA, sequestering miR-92a-1-5p and thereby relieving miRNA-mediated repression of SBK1 (Alhammad et al., 2024, pp. 7–10).  
+• Post-translational: no mapped phosphorylation, ubiquitination or other modifications have been reported (Reveguk & Simonson, 2024, pp. 1–2).  
+• Allosteric or conformational controls specific to SBK1 have not been described (Johnson et al., 2023, pp. 4–5).  
+
+## Function  
+SBK1 localises predominantly to the cytoplasm (Alhammad et al., 2024, pp. 7–10). Cancer-related expression patterns include: up-regulation in ovarian cancer where it supports cell survival; down-regulation in lung and oesophageal cancers, with low levels correlating with poor overall survival in LUAD/LUSC (Alhammad et al., 2024, pp. 7–10). Pan-cancer analyses classify SBK1 as a “dark” kinase, showing gene dependency in 56/990 cancer cell lines and over-expression in KIRC, LGG, LIHC and THYM (Unknown Authors, 2021, pp. 97–102). No experimentally validated upstream regulators, interacting partners or downstream substrates are currently documented (Johnson et al., 2023, pp. 4–5).  
+
+## Other Comments  
+Combined low DRAIC/SBK1 expression predicts poor prognosis in non-small-cell lung cancer, and SBK1 amplification or over-expression occurs across multiple tumour types (Alhammad et al., 2024, pp. 7–10; Unknown Authors, 2021, pp. 97–102). No germline or somatic mutations, selective inhibitors, or PDB structures have been reported (Unknown Authors, 2021, pp. 97–102).  
+
+## 9. References  
+Alhammad, R., Allison, M., Alhammad, F., & Anene, C. (2024). Dysregulation of the DRAIC/SBK1 axis promotes lung cancer progression. Diagnostics, 14, 192227. https://doi.org/10.3390/diagnostics14192227  
+
+Brenes, A., & Lamond, A. (2019). The encyclopedia of proteome dynamics: the KinoViewer. Bioinformatics, 35, 1441–1442. https://doi.org/10.1093/bioinformatics/bty823  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Reveguk, I., & Simonson, T. (2024). Classifying protein kinase conformations with machine learning. Protein Science. https://doi.org/10.1002/pro.4918  
+
+Unknown Authors. (2021). Integrative analysis of multi-omics kinome data and virtual screening of identified targets with pan-cancer application (pp. 97–102).

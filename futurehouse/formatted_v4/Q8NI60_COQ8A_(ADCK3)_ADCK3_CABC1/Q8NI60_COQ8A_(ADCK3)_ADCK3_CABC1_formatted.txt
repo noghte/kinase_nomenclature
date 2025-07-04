@@ -1,0 +1,68 @@
+## Phylogeny  
+COQ8A (also called ADCK3) is the human orthologue of yeast Coq8p and bacterial UbiB, illustrating an evolutionary continuum from prokaryotes to mammals (Stefely et al., 2015; Murray et al., 2022). It belongs to the UbiB/ABC1 sub-family within the atypical protein-kinase-like (PKL) superfamily of the human kinome (Stefely et al., 2015; Murray et al., 2022). Five human paralogues exist (ADCK1-5); COQ8A shares ~50–61 % sequence identity with its closest paralogue, COQ8B/ADCK4 (Unknown Authors, 2017; Jacquet & Zhao, 2025).  
+
+## Reaction Catalyzed  
+1. ATP + [protein]-Ser/Thr → ADP + [protein]-Ser/Thr-P  
+2. ATP + H₂O → ADP + Pi  
+Protein phosphotransfer and ATP-hydrolysis activities are both reported, and their relative prominence remains debated (Xie et al., 2011; Reidenbach et al., 2017).  
+
+## Cofactor Requirements  
+Catalysis requires divalent cations; either Mg²⁺ or Mn²⁺ supports nucleotide binding and turnover (Stefely et al., 2015).  
+
+## Substrate Specificity  
+Peptide-library profiling revealed a preference for Lys at –3 and His at +2 relative to the phospho-acceptor Ser/Thr, a motif present in ATP-synthase F₀ subunit 8 (Unknown Authors, 2015). In cellular and yeast complementation assays, COQ8A is responsible for phosphorylation of COQ3, COQ5 and COQ7 within the coenzyme Q (CoQ) biosynthetic complex (Xie et al., 2011; Acosta et al., 2016).  
+
+## Structure  
+• N-terminal mitochondrial targeting sequence followed by a single-pass transmembrane helix (Jacquet & Zhao, 2025).  
+• KxGQ-containing extension that folds across the catalytic cleft, forming an autoinhibitory K276–E405 salt bridge (Unknown Authors, 2018).  
+• Atypical PKL catalytic core (residues ~258–644; PDB 4PED) in which an alanine-rich loop replaces the canonical glycine-rich loop, contributing to ADP selectivity (Unknown Authors, 2015).  
+• Vertebrate-specific C-terminal insert distal to the active site (Unknown Authors, 2017).  
+Crystal structures show the canonical Lys-Glu ion pair (K358–E411), intact catalytic and regulatory spines, and a QKE triad that stabilises a closed, autoinhibited conformation (Stefely et al., 2015).  
+
+## Regulation  
+• Autoinhibition – removal or mutation of the KxGQ extension markedly increases autophosphorylation (Unknown Authors, 2018).  
+• Lipid activation – cardiolipin-rich membranes and CoQ intermediates stimulate ATPase activity (Reidenbach et al., 2018).  
+• Transcriptional control – p53 up-regulates COQ8A expression in endometrial carcinoma cells (Jacquet & Zhao, 2025).  
+• Kinase–phosphatase pair – COQ8A-dependent phosphorylation of COQ7 (S20, S28, T32) is countered by the mitochondrial phosphatase Ptc7 (Unknown Authors, 2018; Vázquez-Fonseca et al., 2020).  
+
+## Function  
+COQ8A localises to the matrix face of the inner mitochondrial membrane and is enriched in mitochondria-rich tissues (Jacquet & Zhao, 2025; Cullen et al., 2016). It stabilises the multimeric CoQ biosynthetic complex through interactions with COQ3, COQ5, COQ7 and COQ9, thereby supporting CoQ₁₀ production essential for oxidative phosphorylation (Stefely et al., 2016; Reidenbach et al., 2018). Loss of COQ8A lowers CoQ levels, elevates reactive oxygen species and triggers compensatory glycolysis (Jacquet & Zhao, 2025). In cancer models, COQ8A influences PI3K/Akt signalling and ferroptosis (Jacquet & Zhao, 2025).  
+
+## Inhibitors  
+Structure-guided screening has yielded small-molecule ATP-competitive probes that modulate COQ8A ATPase activity (Murray et al., 2022).  
+
+## Other Comments  
+Biallelic pathogenic variants in COQ8A cause autosomal recessive cerebellar ataxia-2 and primary CoQ₁₀ deficiency (Laredj et al., 2014; Stefely et al., 2016). Missense mutations clustering near the active site (e.g., R271C, A338T, T487R, E551K) destabilise the protein and reduce activity, whereas truncating alleles (p.Gln167Leufs*36, p.Arg348*) confer loss-of-function (Traschütz et al., 2020; Alcázar-Fabra et al., 2018). Clinically, patients exhibit progressive cerebellar ataxia and myoclonus with variable response to oral CoQ₁₀ supplementation (Stefely et al., 2016).  
+
+## 9. References  
+Acosta, M. J., Vazquez Fonseca, L., Desbats, M. A., Cerqua, C., Zordan, R., Trevisson, E., & Salviati, L. (2016). Coenzyme Q biosynthesis in health and disease. Biochimica et Biophysica Acta (BBA) - Bioenergetics, 1857, 1079–1085. https://doi.org/10.1016/j.bbabio.2016.03.036  
+
+Alcázar-Fabra, M., Trevisson, E., & Brea-Calvo, G. (2018). Clinical syndromes associated with coenzyme Q10 deficiency. Essays in Biochemistry, 62, 377–398. https://doi.org/10.1042/EBC20170107  
+
+Cullen, J. K., Abdul Murad, N., Yeo, A., McKenzie, M., Ward, M., Chong, K. L., … Lavin, M. F. (2016). AARF domain containing kinase 3 (ADCK3) mutant cells display signs of oxidative stress, defects in mitochondrial homeostasis and lysosomal accumulation. PLOS ONE, 11, e0148213. https://doi.org/10.1371/journal.pone.0148213  
+
+Jacquet, N., & Zhao, Y. (2025). The ADCK kinase family: Key regulators of bioenergetics and mitochondrial function and their implications in human cancers. International Journal of Molecular Sciences, 26, 5783. https://doi.org/10.3390/ijms26125783  
+
+Laredj, L. N., Licitra, F., & Puccio, H. M. (2014). The molecular genetics of coenzyme Q biosynthesis in health and disease. Biochimie, 100, 78–87. https://doi.org/10.1016/j.biochi.2013.12.006  
+
+Murray, N. H., Lewis, A., Asquith, C. R. M., Rincon Pabon, J. P., Fang, Z., Ptak, N., … Pagliarini, D. J. (2022). Small molecule modulation of the archetypal UbiB protein COQ8. bioRxiv. https://doi.org/10.1101/2022.03.22.485346  
+
+Reidenbach, A. G., Kemmerer, Z. A., Aydin, D., Jochem, A., McDevitt, M. T., Hutchins, P. D., … Pagliarini, D. J. (2018). Conserved lipid and small-molecule modulation of COQ8 reveals regulation of the ancient kinase-like UbiB family. Cell Chemical Biology, 25, 154–165.e11. https://doi.org/10.1016/j.chembiol.2017.11.001  
+
+Reidenbach, A. G., Kemmerer, Z. A., Aydin, D., Jochem, A., McDevitt, M. T., Hutchins, P. D., … Pagliarini, D. J. (2017). Conserved lipid and small molecule modulation of COQ8 reveals regulation of the ancient UbiB family. bioRxiv. https://doi.org/10.1101/149823  
+
+Stefely, J. A., Reidenbach, A. G., Ulbrich, A., Oruganty, K., Floyd, B. J., Jochem, A., … Pagliarini, D. J. (2015). Mitochondrial ADCK3 employs an atypical protein kinase-like fold to enable coenzyme Q biosynthesis. Molecular Cell, 57, 83–94. https://doi.org/10.1016/j.molcel.2014.11.002  
+
+Stefely, J. A., Licitra, F., Laredj, L., Reidenbach, A. G., Kemmerer, Z. A., Grangeray, A., … Pagliarini, D. J. (2016). Cerebellar ataxia and coenzyme Q deficiency through loss of unorthodox kinase activity. Molecular Cell, 63, 608–620. https://doi.org/10.1016/j.molcel.2016.06.030  
+
+Traschütz, A., Schirinzi, T., Laugwitz, L., Murray, N. H., Bingman, C., Reich, S., … Synofzik, M. (2020). Clinico-genetic, imaging and molecular delineation of COQ8A-ataxia: A multicenter study of 59 patients. Annals of Neurology, 88, 251–263. https://doi.org/10.1002/ana.25751  
+
+Unknown Authors. (2015). Functional characterization of human ADCK3 and ADCK4, mitochondrial atypical kinases (pp. 20–26, 70–75, 80–84).  
+
+Unknown Authors. (2017). Exploring the mitochondrial function in muscle and molecular dysregulation in cerebellum in a mouse model for ARCA2, a recessive ataxia with coenzyme Q10 … (pp. 49–51).  
+
+Unknown Authors. (2018). Characterization of the human atypical kinase, Aarf domain-containing kinase 3, and its substrates required for coenzyme Q biosynthesis (pp. 16–23, 27–30).  
+
+Vázquez-Fonseca, L., González-Mariscal, I., & Santos-Ocaña, C. (2020). Molecular structure, biosynthesis, and distribution of coenzyme Q. In Coenzyme Q in Aging (pp. 11–49). Springer. https://doi.org/10.1007/978-3-030-45642-9_2  
+
+Xie, L. X., Hsieh, E. J., Watanabe, S., Allan, C. M., Chen, J. Y., Tran, U. P. C., & Clarke, C. F. (2011). Expression of the human atypical kinase ADCK3 rescues coenzyme Q biosynthesis and phosphorylation of COQ polypeptides in yeast coq8 mutants. Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids, 1811, 348–360. https://doi.org/10.1016/j.bbalip.2011.01.009  

@@ -1,0 +1,80 @@
+## Phylogeny  
+Member of the AGC kinase group, PKA family, and considered the archetypal catalytic subunit (Taylor et al., 2013). A vertebrate-specific duplication generated the closely related paralogue PRKACB (~93 % identity) (Welsh et al., 2023). Orthologues are present from yeast and plants to mammals—>90 species—underscoring deep evolutionary conservation of catalytic architecture (Turnham & Scott, 2016; Søberg & Skålhegg, 2018). Placement within the AGC clade is consistent with kinome-wide surveys (Welsh et al., 2023).
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + protein-O-phospho-Ser/Thr (Welsh et al., 2023).
+
+## Cofactor Requirements  
+Catalysis requires two Mg²⁺ ions that coordinate ATP and govern Mg²⁺-ADP release (Søberg & Skålhegg, 2018; Bastidas et al., 2015).
+
+## Substrate Specificity  
+• Canonical consensus: Arg-Arg/Lys-X-Ser/Thr* (RR/K-X-S*/T*) (Bathon et al., 2019; Turnham & Scott, 2016).  
+• Extended motif: Arg-X-X-Arg-X-X-Ser/Thr-hydrophobic; substrate Arg residues interact with Glu127, Glu170 and Glu230 in the active site (Welsh et al., 2023).  
+• +1 position favours small hydrophobics (Gly, Ala, Val, Met); the oncogenic L206R variant accentuates this bias (Bathon et al., 2019).  
+• Large-scale motif profiling corroborates these preferences across the serine/threonine kinome (Welsh et al., 2023).
+
+## Structure  
+Full-length 351-aa protein comprises an N-terminal tail (1–39), bilobal kinase core (40–300) and C-terminal tail (301–351) (Welsh et al., 2023).  
+– N-tail: Asn2 myristoylation within αA helix; docks on the core and modulates membrane association (Turnham & Scott, 2016; Welsh et al., 2023).  
+– N-lobe: five-stranded β-sheet, αC helix; Lys72-Glu91 salt bridge aligns ATP (Welsh et al., 2023).  
+– C-lobe: helical, with catalytic Asp166 (HRD) and DFG Asp184 binding Mg²⁺ ions (Welsh et al., 2023).  
+– Activation loop (184–208) carries Thr197; phosphorylation locks the regulatory spine (Welsh et al., 2023).  
+– Dual hydrophobic spines define the active fold (Taylor et al., 2013).  
+– C-tail harbours FDDY motif and autophosphorylation site Ser338 (Taylor et al., 2012).  
+– Myristoyl pocket adjacent to the N-tail influences holoenzyme regulation (Bathon et al., 2019).  
+– αC-β4 loop dynamics couple inter-lobe motions to nucleotide positioning (Wu et al., 2023).  
+Representative crystal structures of RIα₂C₂ holoenzyme (PDB 3TNP/3TNQ) show ordered activation segment and regulatory interfaces (Bathon et al., 2019).
+
+## Regulation  
+Post-translational modifications  
+– Thr197: auto- or PDK1-mediated phosphorylation, essential for activity (Welsh et al., 2023).  
+– Ser338: cis-autophosphorylation stabilises the active conformation (Taylor et al., 2012).  
+– Ser139: additional regulatory phosphorylation (Turnham & Scott, 2016).  
+– N-terminal myristoylation (Asn2/Lys7) controls membrane affinity and holoenzyme stability (Turnham & Scott, 2016).  
+– PRKACA phosphorylation of E3 ligase PJA2 triggers ubiquitination of regulatory subunits (Turnham & Scott, 2016).
+
+Allosteric/conformational control  
+– Inactive R₂C₂ holoenzyme; binding of four cAMP molecules to RI or RII releases active C-subunits (Taylor et al., 2013).  
+– AKAPs anchor holoenzymes to specific compartments (Taylor et al., 2012).  
+– Distinct quaternary assemblies: elongated RIα₂C₂ (ATP sensor) vs. compact RIIβ₂C₂ (membrane-localised) (Welsh et al., 2023).  
+– Intracellular Mg²⁺ levels tune nucleotide binding/ADP release (Søberg & Skålhegg, 2018).  
+– High-affinity inhibitor peptide PKI occludes the catalytic cleft and mediates nuclear export (Welsh et al., 2023).
+
+## Function  
+Expression  
+– Cα1 isoform: ubiquitous, highest in adrenal zona glomerulosa (Weigand et al., 2017).  
+– Cα2 isoform: sperm-specific, required for motility and fertilisation (Welsh et al., 2023).
+
+Signalling context and substrates  
+– Principal effector of GPCR → adenylyl cyclase → cAMP signalling (Welsh et al., 2023).  
+– Upstream activation loop phosphorylation can be supplied by PDK1 (Welsh et al., 2023).  
+– Nuclear substrates: CREB Ser133 (Goh et al., 2014); histone H1.4 Ser36 (Bathon et al., 2019).  
+– Cytoplasmic targets include VASP, integrins and myosin light chain, impacting cytoskeletal dynamics (Welsh et al., 2023).  
+– Activity influences metabolism, apoptosis and ion-channel regulation via a broad substrate spectrum (Welsh et al., 2023).
+
+## Inhibitors  
+H-89 and KT-5720 are widely used ATP-competitive inhibitors of catalytic activity (Bathon et al., 2019; Turnham & Scott, 2016).
+
+## Other Comments  
+Somatic Leu206Arg disrupts PRKAR1A binding, yielding constitutive activity in ~65 % of cortisol-producing adrenal adenomas (Goh et al., 2014; Bathon et al., 2019). Additional activating indels/substitutions near the autoinhibitory interface contribute to Cushing syndrome (Bathon et al., 2019). The DNAJB1–PRKACA fusion drives fibrolamellar hepatocellular carcinoma (Welsh et al., 2023; Turnham & Scott, 2016). Loss-of-function PRKAR1A mutations cause Carney complex through unrestrained catalytic activity (Turnham & Scott, 2016).
+
+## 9. References  
+Baston, K., Weigand, I., Vanselow, J. T., Ronchi, C. L., Sbiera, S., Schlosser, A., Fassnacht, M., & Calebiro, D. (2019). Alterations in protein kinase A substrate specificity as a potential cause of Cushing syndrome. Endocrinology, 160, 447–459. https://doi.org/10.1210/en.2018-00775  
+
+Bastidas, A. C., Wu, J., & Taylor, S. S. (2015). Molecular features of product release for the PKA catalytic cycle. Biochemistry, 54, 2–10. https://doi.org/10.1021/bi500684c  
+
+Goh, G., Scholl, U. I., Healy, J. M., Choi, M., Prasad, M. L., Nelson-Williams, C., … Lifton, R. P. (2014). Recurrent activating mutation in PRKACA in cortisol-producing adrenal tumors. Nature Genetics, 46, 613–617. https://doi.org/10.1038/ng.2956  
+
+Søberg, K., & Skålhegg, B. S. (2018). The molecular basis for specificity at the level of the protein kinase A catalytic subunit. Frontiers in Endocrinology. https://doi.org/10.3389/fendo.2018.00538  
+
+Taylor, S. S., Zhang, P., Steichen, J. M., Keshwani, M. M., & Kornev, A. P. (2013). PKA: Lessons learned after twenty years. Biochimica et Biophysica Acta (BBA) – Proteins and Proteomics, 1834, 1271–1278. https://doi.org/10.1016/j.bbapap.2013.03.007  
+
+Taylor, S. S., Ilouz, R., Zhang, P., & Kornev, A. P. (2012). Assembly of allosteric macromolecular switches: Lessons from PKA. Nature Reviews Molecular Cell Biology, 13, 646–658. https://doi.org/10.1038/nrm3432  
+
+Turnham, R. E., & Scott, J. D. (2016). Protein kinase A catalytic subunit isoform PRKACA; history, function and physiology. Gene, 577(2), 101–108. https://doi.org/10.1016/j.gene.2015.11.052  
+
+Welsh, C. L., Conklin, A. E., & Madan, L. K. (2023). Interaction networks explain holoenzyme allostery in protein kinase A. Kinases and Phosphatases, 1, 265–287. https://doi.org/10.3390/kinasesphosphatases1040016  
+
+Wu, J., Jonniya, N. A., Hirakis, S. P., Olivieri, C., Veglia, G., Kornev, A. P., & Taylor, S. S. (2023). Protein kinase structure and dynamics: Role of the αC-β4 loop. bioRxiv. https://doi.org/10.1101/2023.08.31.555822  
+
+Weigand, I., Ronchi, C. L., Rizk-Rabin, M., Di Dalmazi, G., Wild, V., Bathon, K., … Sbiera, S. (2017). Differential expression of the protein kinase A subunits in normal adrenal glands and adrenocortical adenomas. Scientific Reports. https://doi.org/10.1038/s41598-017-00125-8

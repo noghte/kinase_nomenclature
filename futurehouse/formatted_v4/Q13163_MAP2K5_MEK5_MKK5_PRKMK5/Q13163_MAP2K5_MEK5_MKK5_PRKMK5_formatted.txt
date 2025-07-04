@@ -1,0 +1,57 @@
+## Phylogeny  
+MAP2K5 (MEK5) is a dual-specificity MAP kinase kinase conserved across eukaryotes (Avruch, 2007; Andrianova et al., 2023). Although universally placed in the MAP2K family, higher-level classification is disputed: some authors assign MEK5 to the STE (Sterile) kinase group (Andrianova et al., 2023; Nakamura & Johnson, 2003), whereas others place it in the CMGC group (Drew et al., 2012; Avruch, 2007). It is most closely related to MEK1/2, yet functionally distinct because it selectively activates ERK5 (Drew et al., 2012; Hoang et al., 2017). Sequence identity of 30–40 % with yeast Ste7 underscores deep evolutionary conservation (Avruch, 2007).
+
+## Reaction Catalyzed  
+ATP + [ERK5 protein] ⇌ ADP + [phospho-ERK5 protein]  
+MEK5 phosphorylates ERK5 at Thr219 and Tyr221 within the TEY motif of the activation loop (Chen et al., 2001; Paudel et al., 2021; Wang & Tournier, 2006).
+
+## Cofactor Requirements  
+ATP is the phosphate donor; Mg²⁺ or Mn²⁺ ions are required for catalysis (Drew et al., 2012; Avruch, 2007).
+
+## Substrate Specificity  
+MEK5 preferentially phosphorylates Ser/Thr residues followed by Pro (+1 position) (Drew et al., 2012). It also performs non-Pro-directed phosphorylation events unique among MAPKs (Unknown authors, 2017). In peptide assays, the enzyme shows high activity toward the ERK5 site HTGFLTEYVA, targeting the threonine residue (Johnson et al., 2023).
+
+## Structure  
+AlphaFold modelling predicts the canonical bilobal protein-kinase fold: a β-sheet-rich N-lobe containing the regulatory αC-helix and an α-helical C-lobe; the active site lies in the inter-lobe cleft (Cargnello & Roux, 2011; Avruch, 2007). The N-terminus of the MEK5α isoform harbours a PB1 domain that mediates binding to upstream kinases; this domain is absent in MEK5β (Hoang et al., 2017; Drew et al., 2012). Regulatory elements include the activation loop (A-loop) and a hydrophobic spine that becomes aligned upon activation (Cargnello & Roux, 2011).
+
+## Regulation  
+Activation occurs via phosphorylation of Ser311 and Thr315 by MEKK2 and MEKK3, an interaction that requires the PB1 domain of MEK5 (Hoang et al., 2017; Nakamura & Johnson, 2003). Other reported upstream activators include Tpl2/Cot-1 and STAT-3 (Chen et al., 2001; Drew et al., 2012). Phosphorylation of the A-loop drives inward movement of the αC-helix and alignment of the hydrophobic spine, stabilising the active conformation (Cargnello & Roux, 2011).
+
+## Function  
+MEK5 is the sole direct activator of ERK5 (Hoang et al., 2017). The MEK5/ERK5 pathway responds to growth factors (EGF, FGF), cytokines (LIF, IL-6) and stressors such as oxidative or shear stress (Drew et al., 2012; Paudel et al., 2021). Downstream signalling regulates cell proliferation, differentiation, survival, anti-apoptotic responses, angiogenesis and motility (Drew et al., 2012; Simoes et al., 2016). High MEK5/ERK5 expression is noted in heart, brain, lung, skeletal muscle, placenta and kidney (Simoes et al., 2016).
+
+## Inhibitors  
+• BIX02188 (IC₅₀ ≈ 4.3 nM) and BIX02189 (IC₅₀ ≈ 1.5 nM) are ATP-competitive type I inhibitors; BIX02188 shows off-target effects on Src, CSF1R, KIT and LCK, whereas BIX02189 also inhibits FGFR1 and RSK2/4 (Cook et al., 2020; Drew et al., 2012).  
+• SC-1-181 is a type III allosteric inhibitor (IC₅₀ ≈ 10 µM) (Cook et al., 2020).  
+• PD98059 and U0126 possess weaker, non-selective activity against MEK5 (Drew et al., 2012).  
+• Ponatinib indirectly suppresses MEK5 signalling by targeting MEKK2 (Hoang et al., 2017).
+
+## Other Comments  
+Constitutive activation of the MEK5/ERK5 axis occurs in 20–50 % of prostate and breast cancers and is linked to aggressive growth, chemoresistance and metastasis (Drew et al., 2012). The pathway also contributes to cardiovascular disorders such as atherosclerosis (Paudel et al., 2021). Knockout of MEK5 or ERK5 in mice is embryonically lethal due to cardiac and angiogenic defects (Simoes et al., 2016). Disease-associated MEK5 mutations have not been clearly defined (Drew et al., 2012).
+
+## 9. References  
+Andrianova, E. P., Marmion, R. A., Shvartsman, S. Y., & Zhulin, I. B. (2023). Evolutionary history of MEK1 illuminates the nature of cancer and Rasopathy mutations. bioRxiv. https://doi.org/10.1101/2023.03.09.531944  
+
+Avruch, J. (2007). MAP kinase pathways: the first twenty years. Biochimica et Biophysica Acta – Molecular Cell Research, 1773, 1150-1160. https://doi.org/10.1016/j.bbamcr.2006.11.006  
+
+Cargnello, M., & Roux, P. P. (2011). Activation and function of the MAPKs and their substrates, the MAPK-activated protein kinases. Microbiology and Molecular Biology Reviews, 75, 50-83. https://doi.org/10.1128/MMBR.00031-10  
+
+Chen, Z., Gibson, T. B., Robinson, F., Silvestro, L., Pearson, G., Xu, B.-e., … Cobb, M. H. (2001). MAP kinases. Chemical Reviews, 101, 2449-2476. https://doi.org/10.1021/cr000241p  
+
+Cook, S. J., Tucker, J. A., & Lochhead, P. A. (2020). Small-molecule ERK5 kinase inhibitors paradoxically activate ERK5 signalling: be careful what you wish for…. Biochemical Society Transactions, 48, 1859-1875. https://doi.org/10.1042/BST20190338  
+
+Drew, B. A., Burow, M. E., & Beckman, B. S. (2012). MEK5/ERK5 pathway: the first fifteen years. Biochimica et Biophysica Acta – Reviews on Cancer, 1825, 37-48. https://doi.org/10.1016/j.bbcan.2011.10.002  
+
+Hoang, V. T., Yan, T. J., Cavanaugh, J. E., Flaherty, P. T., Beckman, B. S., & Burow, M. E. (2017). Oncogenic signalling of MEK5-ERK5. Cancer Letters, 392, 51-59. https://doi.org/10.1016/j.canlet.2017.01.034  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759-766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Nakamura, K., & Johnson, G. L. (2003). PB1 domains of MEKK2 and MEKK3 interact with the MEK5 PB1 domain for activation of the ERK5 pathway. Journal of Biological Chemistry, 278, 36989-36992. https://doi.org/10.1074/jbc.C300313200  
+
+Paudel, R., Fusi, L., & Schmidt, M. (2021). The MEK5/ERK5 pathway in health and disease. International Journal of Molecular Sciences, 22, 7594. https://doi.org/10.3390/ijms22147594  
+
+Simoes, A. E. S., Rodrigues, C. M. P., & Borralho, P. M. (2016). The MEK5/ERK5 signalling pathway in cancer: A promising novel therapeutic target. Drug Discovery Today, 21, 1654-1663. https://doi.org/10.1016/j.drudis.2016.06.010  
+
+Unknown authors. (2017). MEK5-ERK5 signaling in cancer: Implications for targeted therapy.  
+
+Wang, X., & Tournier, C. (2006). Regulation of cellular functions by the ERK5 signalling pathway. Cellular Signalling, 18, 753-760. https://doi.org/10.1016/j.cellsig.2005.11.003

@@ -1,0 +1,62 @@
+## Phylogeny  
+VEGFR1/FLT1 is a member of the tyrosine kinase (TK) group, receptor tyrosine kinase (RTK) class, belonging to the PDGFR/VEGFR family that is highly conserved across vertebrates (Manning et al., 2002). Orthologues include mouse Flt1, rat Flt1/Vegfr1 and the C. elegans kinase VER-3 (Yaron-Barir et al., 2024). Mapping of VEGFR genes to paralogous HOX clusters points to origin by ancient genome and local duplications (Manning et al., 2002).
+
+## Reaction Catalyzed  
+ATP + [protein]-L-tyrosine ⇌ ADP + [protein]-L-tyrosine-phosphate (Yaron-Barir et al., 2024; Koizumi et al., 2022).
+
+## Cofactor Requirements  
+ATP is the phosphate donor; catalysis requires divalent Mg²⁺ or Mn²⁺ ions (Yaron-Barir et al., 2024).
+
+## Substrate Specificity  
+Intrinsic specificity is dictated by residues flanking the target Tyr (0). One motif shows preference for Pro at –2 and +3, Ala at –3, and hydrophobic residues (Leu at +1/+2, Phe at +1) (Yaron-Barir et al., 2024). An alternative description notes acidic residues (Glu/Asp) at –5 to –1 and hydrophobic residues (Phe/Leu/Val) at +1 to +4 (Yaron-Barir et al., 2024).
+
+## Structure  
+Single-pass transmembrane receptor comprising (i) an extracellular region with seven Ig-like domains that bind VEGF-A, VEGF-B and PGF, chiefly via domains 2–3 (Wang et al., 2011); (ii) a single α-helical transmembrane segment; and (iii) an intracellular tyrosine kinase domain interrupted by a kinase-insert sequence (Cai et al., 2011). Crystal structures of the human kinase domain (PDB 3HNG, 4D2N) reveal a canonical bilobal fold, with an N-lobe β-sheet, C-helix, catalytic loop and phosphorylation-regulated activation loop in the C-lobe (Asthana, 2019).
+
+## Regulation  
+• Ligand binding promotes dimerisation and trans-autophosphorylation on Tyr-1169, Tyr-1213, Tyr-1242 and Tyr-1333, activating the kinase (Wang et al., 2011; Yaron-Barir et al., 2024).  
+• VE-PTP, recruited by presenilin-1, dephosphorylates VEGFR1; PEDF also suppresses phosphorylation (Cai et al., 2011).  
+• γ-Secretase cleaves the receptor within the transmembrane segment (Val767), releasing an intracellular fragment (Cai et al., 2011).  
+• Membrane FLT1 is ubiquitinated and degraded via the proteasome; TNFSF15 promotes this process by inhibiting Akt (Qi et al., 2013).  
+• TNFSF15 shifts splicing towards the soluble sFlt1 isoform through PKC, Src and Erk1/2 activation and Jmjd6 down-regulation (Qi et al., 2013).  
+• In colorectal cancer cells, intracrine signalling renders VEGFR1 function independent of kinase activity (Unknown authors, 2016).
+
+## Function  
+Expressed in endothelial cells, endothelial progenitor cells, macrophages and trophoblasts (Wang et al., 2011; Qi et al., 2013; Wu et al., 2017).  
+• Signalling: principally drives cell migration via PI3K/Akt and Rac1; can also activate PLCγ-MAPK, p38 MAPK and modulate nitric-oxide production (Wang et al., 2011; Blanot et al., 2024).  
+• Interactors: RACK1 scaffolds PI3K/Akt activation; pTyr-1169 recruits PLCγ; SHC1 and GRB2 participate downstream (Wang et al., 2011; Qi et al., 2013).  
+• Angiogenesis: high-affinity but low-activity receptor acts as a VEGF-A “decoy,” restraining embryonic angiogenesis via sFlt1, yet can promote endothelial proliferation, survival and migration in adult tissues (Cai et al., 2011; Qi et al., 2013; Blanot et al., 2024).
+
+## Inhibitors  
+• Direct kinase: ZM-306416 blocks PGF/FLT1 signalling (Wu et al., 2017).  
+• Pathway: PI3K inhibitors (wortmannin, LY294002), Src inhibitor (PP2) and Erk1/2 inhibitors attenuate downstream signalling (Wang et al., 2011; Qi et al., 2013).  
+• Process: γ-secretase inhibitor DAPT prevents intramembrane cleavage; MG132 (proteasome) and PYR-41 (ubiquitin-activating enzyme) block mFlt1 degradation (Cai et al., 2011; Qi et al., 2013).  
+• Neutralising antibodies against FLT1 inhibit ligand binding (Wang et al., 2011).
+
+## Other Comments  
+Elevated sFlt1 contributes to pre-eclampsia (Blanot et al., 2024; Qi et al., 2013). VEGFR1 supports tumour angiogenesis, invasion and metastasis in several cancers (Koizumi et al., 2022; Unknown authors, 2017). It is implicated in pathological ocular angiogenesis, fetal growth restriction, and Alzheimer’s disease-associated vascular pathology (Blanot et al., 2024; Wu et al., 2017; Wu et al., 2025). Mutation V767A abolishes γ-secretase cleavage of the receptor (Cai et al., 2011).
+
+## 9. References  
+Asthana, M. (2019). Structural and functional characterization of extracellular domains of vascular endothelial growth factor receptor 1 and 2. https://doi.org/10.5451/unibas-007168930  
+
+Blanot, M., Casaroli-Marano, R. P., Mondéjar-Medrano, J., Sallén, T., Ramírez, E., Segú-Vergés, C., & Artigas, L. (2024). Aflibercept off-target effects in diabetic macular edema: an in silico modelling approach. International Journal of Molecular Sciences, 25, 3621. https://doi.org/10.3390/ijms25073621  
+
+Cai, J., Chen, Z., Ruan, Q., Han, S., Liu, L., Qi, X., … Boulton, M. E. (2011). γ-Secretase and presenilin mediate cleavage and phosphorylation of vascular endothelial growth factor receptor-1. Journal of Biological Chemistry, 286, 42514–42523. https://doi.org/10.1074/jbc.M111.296590  
+
+Koizumi, K., Shintani, T., Hayashido, Y., Hamada, A., Higaki, M., Yoshioka, Y., … Okamoto, T. (2022). VEGF-A promotes the motility of human melanoma cells through the VEGFR1–PI3K/Akt signalling pathway. In Vitro Cellular & Developmental Biology – Animal, 58, 758–770. https://doi.org/10.1007/s11626-022-00717-3  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Qi, J.-W., Qin, T.-T., Xu, L.-X., Zhang, K., Yang, G.-L., Li, J., … Li, L.-Y. (2013). TNFSF15 inhibits vasculogenesis by regulating relative levels of membrane-bound and soluble isoforms of VEGF receptor 1. Proceedings of the National Academy of Sciences, 110, 13863–13868. https://doi.org/10.1073/pnas.1304529110  
+
+Wang, F., Yamauchi, M., Muramatsu, M., Osawa, T., Tsuchida, R., & Shibuya, M. (2011). RACK1 regulates VEGF/FLT1-mediated cell migration via activation of a PI3K/Akt pathway. Journal of Biological Chemistry, 286, 9097–9106. https://doi.org/10.1074/jbc.M110.165605  
+
+Wu, W.-B., Xu, Y.-Y., Cheng, W.-W., Yuan, B., Zhao, J.-R., Wang, Y.-L., & Zhang, H.-J. (2017). Decreased PGF may contribute to trophoblast dysfunction in fetal growth restriction. Reproduction, 154, 319–329. https://doi.org/10.1530/REP-17-0253  
+
+Wu, Y., Libby, J. B., Dumitrescu, L., De Jager, P. L., Menon, V., Schneider, J. A., … Hohman, T. J. (2025). Association of ten VEGF family genes with Alzheimer’s disease endophenotypes at single cell resolution. Alzheimer’s & Dementia. https://doi.org/10.1002/alz.14419  
+
+Yaron-Barir, T. M., Joughin, B. A., Huntsman, E. M., Kerelsky, A., Cizin, D. M., Cohen, B. M., … Johnson, J. L. (2024). The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629, 1174–1181. https://doi.org/10.1038/s41586-024-07407-y  
+
+Unknown authors. (2016). Intracrine VEGF signalling mediates the activity of prosurvival pathways in human colorectal cancer cells.  
+
+Unknown authors. (2017). Fms-related tyrosine kinase 1 (FLT1) functions as an oncogene and regulates glioblastoma cell metastasis by regulating sonic hedgehog signalling.

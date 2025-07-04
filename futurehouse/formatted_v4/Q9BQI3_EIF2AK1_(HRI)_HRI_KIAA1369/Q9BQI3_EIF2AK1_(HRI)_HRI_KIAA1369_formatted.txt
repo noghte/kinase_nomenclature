@@ -1,0 +1,51 @@
+## Phylogeny  
+Orthologous EIF2AK1/HRI proteins are present in mammals (Homo sapiens, Mus musculus, Rattus norvegicus, Oryctolagus cuniculus, Macaca mulatta) and the teleost Danio rerio (Taniuchi et al., 2016; Kanta et al., 2024). Two paralogues (SpHRI1p/SpHRI2p) exist in Schizosaccharomyces pombe, whereas homologues are absent from Drosophila melanogaster and Caenorhabditis elegans, suggesting lineage-specific loss (Rothenburg et al., 2016). The kinase belongs to the CMGC group, EIF2AK subfamily, clustering with PERK/EIF2AK3, PKR/EIF2AK2 and GCN2/EIF2AK4 and is thought to have diverged from an ancestral GCN2 branch (Rothenburg et al., 2016).
+
+## Reaction Catalyzed  
+ATP + eIF2α-Ser51 ⇌ ADP + eIF2α-Ser51-P (Pavitt, 2018).
+
+## Cofactor Requirements  
+Two regulatory ferric heme (hemin) molecules bind: a high-affinity N-terminal His119/His120 site and a reversible site within the kinase-insert; heme binding inhibits autophosphorylation (IC₅₀ ≈ 2.9 µM) (Kanta et al., 2024; Unknown Authors, 2015).
+
+## Substrate Specificity  
+Primary cellular substrate is eIF2α Ser51, displaying strict selectivity with no broader consensus motif detected (Kanta et al., 2024). The enzyme undergoes extensive auto-phosphorylation on ≥ 41 Ser/Thr/Tyr residues—most prominently the T486/T488/S489 cluster—revealing dual Ser/Thr and Tyr specificity (Kanta et al., 2024).
+
+## Structure  
+Domain architecture: N-terminal heme-binding region (~aa 100-130), disordered kinase-insert (aa 241-370), bilobal kinase domain with an extended activation loop (aa 464-488), and C-terminal coiled-coil dimerization region (Kanta et al., 2024). EIF2AK1 forms a constitutive back-to-back homodimer (~150 kDa) as shown by mass photometry and AlphaFold3 modelling (Kanta et al., 2024). Canonical catalytic motifs (Gly-rich loop, VAIK Lys, HRD, DFG, ordered αC-helix) and an intact hydrophobic spine are present (Kanta et al., 2024). Full-length AlphaFold3 dimers and a kinase-domain model based on PDB 5CSW are available. Heme binding triggers EX1-type folding transitions that shield the activation loop and N-lobe, suppressing autophosphorylation (Kanta et al., 2024).
+
+## Regulation  
+• Activating autophosphorylation at S6, S41, T97, S276, T486, T488, S489, Y496 and additional sites (Kanta et al., 2024).  
+• Heme binding inhibits autophosphorylation while permitting residual eIF2α phosphorylation (Kanta et al., 2024).  
+• Hsp90/Hsc70 chaperones promote activation when heme is limited (Burwick & Aktas, 2017).  
+• Stress stimuli: heme deficiency, arsenite, H₂O₂, hyper-osmotic NaCl, proteasome inhibition, heat shock and mitochondrial stress relayed by DELE1 (Taniuchi et al., 2016; Bond et al., 2020).  
+• λ-Phosphatase reverses autophosphorylation in vitro (Kanta et al., 2024).
+
+## Function  
+EIF2AK1 is most abundant in erythroid precursors and is also expressed in liver, spleen, kidney, brain, lung, macrophages and neurons (Burwick & Aktas, 2017; Bond et al., 2020). It senses heme availability and diverse oxidative, osmotic, mitochondrial and proteotoxic stresses (Kanta et al., 2024; Taniuchi et al., 2016). Phosphorylation of eIF2α Ser51 inhibits eIF2B, globally repressing cap-dependent translation while selectively promoting ATF4/CHOP expression as part of the integrated stress response (Burwick & Aktas, 2017; Wek et al., 2023). Reported interactors include the eIF2 trimer (substrate), DELE1 and the Hsp90/Hsc70 chaperone pair (Kanta et al., 2024; Burwick & Aktas, 2017).
+
+## Inhibitors  
+Physiological inhibitor: hemin (IC₅₀ ≈ 2.9 µM) (Kanta et al., 2024).  
+ATP-competitive inhibitors: Dabrafenib and Encorafenib (sub-µM), GCN2iB (sub-nM) (Kanta et al., 2024).  
+Activators: N,N′-diarylurea cyclohexyl analogues (cHAUs) directly enhance activity; BTdCPU activates indirectly via mitochondrial stress (Zhang et al., 2020; Kanta et al., 2024).
+
+## Other Comments  
+Loss of EIF2AK1 aggravates β-thalassemia, hemochromatosis, fatty liver disease and glucose intolerance (Burwick & Aktas, 2017). Dysregulated HRI-mediated ISR contributes to neurodegeneration through altered iron handling in macrophages and Schwann cells (Bond et al., 2020). No recurrent pathogenic EIF2AK1 mutations have been documented (Kanta et al., 2024).
+
+## References  
+Bond, S., López-Lloreda, C., Gannon, P., Akay-Espinoza, C., & Jordan-Sciutto, K. (2020). The integrated stress response and phosphorylated eukaryotic initiation factor 2α in neurodegeneration. Journal of Neuropathology and Experimental Neurology. https://doi.org/10.1093/jnen/nlz129  
+
+Burwick, N., & Aktas, B. (2017). The eIF2-alpha kinase HRI: a potential target beyond the red blood cell. Expert Opinion on Therapeutic Targets, 21, 1171-1177. https://doi.org/10.1080/14728222.2017.1397133  
+
+Kanta, S., Vinciauskaite, V., Neill, G., Muqit, M. M. K., & Masson, G. R. (2024). Hemin binding causes structural rearrangements in HRI to inhibit activation via autophosphorylation. bioRxiv. https://doi.org/10.1101/2024.08.14.607626  
+
+Pavitt, G. D. (2018). Regulation of translation initiation factor eIF2B at the hub of the integrated stress response. WIREs RNA. https://doi.org/10.1002/wrna.1491  
+
+Rothenburg, S., Georgiadis, M. M., & Wek, R. C. (2016). Evolution of eIF2α kinases: adapting translational control to diverse stresses. In Evolution of the Protein Synthesis Machinery and Its Regulation (pp. 235-260). https://doi.org/10.1007/978-3-319-39468-8_11  
+
+Taniuchi, S., Miyake, M., Tsugawa, K., Oyadomari, M., & Oyadomari, S. (2016). Integrated stress response of vertebrates is regulated by four eIF2α kinases. Scientific Reports. https://doi.org/10.1038/srep32886  
+
+Unknown Authors. (2015). The functional interplay between eIF2α phosphorylation and mTOR signaling pathways: Implications in Tuberous Sclerosis Complex disorder.  
+
+Wek, R. C., Anthony, T. G., & Staschke, K. A. (2023). Surviving and adapting to stress: translational control and the integrated stress response. Antioxidants & Redox Signaling, 39, 351-373. https://doi.org/10.1089/ars.2022.0123  
+
+Zhang, Q., Du, R., Monteiro Dos Santos, G. R., Yefidoff-Freedman, R., Böhm, A., Halperin, J., Chorev, M., & Aktas, B. (2020). New activators of eIF2α kinase heme-regulated inhibitor (HRI) with improved biophysical properties. European Journal of Medicinal Chemistry, 187, 111973. https://doi.org/10.1016/j.ejmech.2019.111973

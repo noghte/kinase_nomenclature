@@ -1,0 +1,66 @@
+## Phylogeny  
+MRCKα (gene CDC42BPA) is classified within the AGC protein‐kinase group, DMPK family, MRCK sub-branch. It shares 85 % sequence identity with MRCKβ, 44 % with MRCKγ, and shows closer similarity to ROCK1/2 and DMPK than to other AGC kinases (Heikkila et al., 2011; Unbekandt & Olson, 2014). Orthologues occur in mouse, rat, dog, chicken, frog, zebrafish, fruit-fly and nematode, reflecting broad metazoan conservation (Unbekandt & Olson, 2014).
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr ⇌ ADP + [protein]-O-phospho-Ser/Thr (Heikkila et al., 2011).
+
+## Cofactor Requirements  
+Mg²⁺ is required, coordinating the ATP phosphates (Heikkila et al., 2011).
+
+## Substrate Specificity  
+Verified direct phosphorylation sites include  
+• MYL9/MLC2 Ser19 (> Thr18)  
+• PPP1R12A/MYPT1 Ser472, Thr696, Thr855  
+• PPP1R12C (site not specified)  
+• LIMK1 and LIMK2 activation-loop residues  
+• Moesin Thr558  
+(Zhao & Manser, 2015; Unbekandt & Olson, 2014).  
+A global consensus motif has not been defined, and large-scale substrate-atlas data are not yet available for this kinase.
+
+## Structure  
+Domain organisation: N-terminal kinase domain (aa 1–≈330) → long coiled-coil segment containing an internal kinase-inhibitory motif (KIM) → C1 zinc-finger (diacylglycerol binding) → PH-like domain → Citron-homology domain → C-terminal CRIB domain that binds CDC42-GTP (Zhao & Manser, 2015; Unbekandt & Olson, 2014).  
+Crystal structures of the closely related MRCKβ kinase domain (PDB 4UAK, 4UAL; 1.68–2.00 Å) reveal a canonical bilobal AGC fold with a Lys105–Glu124 αC salt bridge, intact HRD and DFG motifs, and an ordered activation loop that is pre-aligned for catalysis without prior phosphorylation (Heikkila et al., 2011; Unbekandt et al., 2018). The C-terminal hydrophobic motif packs against the N-lobe and mediates dimerisation; full-length MRCKα forms inactive tetramers that dissociate into active dimers (Zhao & Manser, 2015).
+
+## Regulation  
+Post-translational modifications  
+• Autophosphorylation at Ser234, Thr240 and Thr403 within the activation segment—these events are dispensable for catalytic activity (Heikkila et al., 2011).  
+• Autophosphorylation at Ser1003 and Ser1629; Ser1003 serves as a quantitative biomarker and is absent in the kinase-dead K106M mutant (Unbekandt et al., 2018).  
+
+Allosteric and conformational controls  
+• CDC42-GTP binding to the CRIB domain enhances Ser1003 autophosphorylation and recruits the kinase to the plasma membrane (Unbekandt et al., 2018; Unbekandt & Olson, 2014).  
+• Diacylglycerol binding to the C1 domain increases activity ~3-fold (Zhao & Manser, 2015).  
+• The internal KIM imposes autoinhibition; its deletion yields constitutive activity (Zhao & Manser, 2015).  
+• Tetramer-to-dimer conversion correlates with activation (Zhao & Manser, 2015).
+
+## Function  
+Expression is ubiquitous with highest mRNA levels in brain; stability is influenced by a 3′-UTR iron-responsive element (Unbekandt & Olson, 2014).  
+Upstream regulators include CDC42-GTP, receptor-tyrosine-kinase-driven GEFs, extracellular mechanical cues and diacylglycerol (Unbekandt et al., 2018; Zhao & Manser, 2015).  
+Key interactors: LRAP35a links MRCKα to MYO18A; LRAP25 connects LIMK1 to lamellipodia (Zhao & Manser, 2015).  
+Downstream events: phosphorylation of MLC2, MYPT1 and LIMK1/2 drives lamellar actomyosin flow, cofilin inactivation and F-actin stabilisation, supporting cell protrusion, polarity, epithelial extrusion and three-dimensional matrix invasion (Unbekandt & Olson, 2014; Heikkila et al., 2011).  
+Phenotypic evidence: combined MRCK and ROCK inhibition markedly suppresses breast-cancer cell invasion, and kinome-wide dependency profiling identifies MRCKα as a vulnerability in high-grade serous ovarian carcinoma (Heikkila et al., 2011; Kurimchak et al., 2020).
+
+## Inhibitors  
+ATP-competitive  
+• Fasudil, Y-27632, TPCA-1: low-µM IC₅₀ values against MRCKα/β (Heikkila et al., 2011).  
+• Staurosporine and alsterpaullone analogues: >80 % inhibition at screening concentrations (Heikkila et al., 2011).  
+
+Non-competitive  
+• Chelerythrine: IC₅₀ ≈ 1.8 µM in vitro; cellular activity ≈ 5 µM (Zhao & Manser, 2015).  
+
+Selective MRCK chemotypes  
+• BDP5290: >50-fold selectivity over ROCK (Zhao & Manser, 2015).  
+• BDP8900 and BDP9066: potent, highly selective; block Ser1003 autophosphorylation, inhibit MLC2 phosphorylation and reduce papilloma volume in mouse skin carcinogenesis models (Unbekandt et al., 2018).
+
+## Other Comments  
+The CDC42BPA locus is amplified in about 24 % of breast cancers; elevated MRCK activity correlates with poor prognosis in several tumour types, and over-expression is reported in lymphoma, lung, myeloid leukaemia, head-and-neck, oral, oesophageal and pancreatic cancers (Unbekandt et al., 2018; Unbekandt & Olson, 2014).
+
+## References  
+Heikkila, T., Wheatley, E., Crighton, D., Schroder, E., Boakes, A., Kaye, S. J., … Olson, M. (2011). Co-crystal structures of inhibitors with MRCKβ, a key regulator of tumor cell invasion. PLoS ONE, 6(9), e24825. https://doi.org/10.1371/journal.pone.0024825  
+
+Kurimchak, A. M., Herrera-Montávez, C., Brown, J., Johnson, K. J., Sodi, V., Srivastava, N., … Duncan, J. S. (2020). Functional proteomics interrogation of the kinome identifies MRCKα as a therapeutic target in high-grade serous ovarian carcinoma. Science Signaling, 13(669), eaax8238. https://doi.org/10.1126/scisignal.aax8238  
+
+Unbekandt, M., Belshaw, S., Bower, J., Clarke, M., Cordes, J., Crighton, D., … Olson, M. (2018). Discovery of potent and selective MRCK inhibitors with therapeutic effect on skin cancer. Cancer Research, 78(8), 2096–2114. https://doi.org/10.1158/0008-5472.CAN-17-2870  
+
+Unbekandt, M., & Olson, M. F. (2014). The actin-myosin regulatory MRCK kinases: regulation, biological functions and associations with human cancer. Journal of Molecular Medicine, 92, 217–225. https://doi.org/10.1007/s00109-014-1133-6  
+
+Zhao, Z.-S., & Manser, E. (2015). Myotonic dystrophy kinase-related Cdc42-binding kinases (MRCK), the ROCK-like effectors of Cdc42 and Rac1. Small GTPases, 6, 81–88. https://doi.org/10.1080/21541248.2014.1000699

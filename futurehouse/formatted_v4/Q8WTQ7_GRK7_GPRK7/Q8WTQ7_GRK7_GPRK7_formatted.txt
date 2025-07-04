@@ -1,0 +1,46 @@
+## Phylogeny  
+Member of the GRK1 subfamily within the AGC kinase group (Kang et al., 2020). GRK7 and GRK1 constitute the “visual” GRK branch, distinct from the GRK2/3 and GRK4/5/6 lineages (Sato et al., 2015). Orthologs are present in human, macaque, pig, dog, carp, zebrafish and Xenopus, whereas mouse and rat lack GRK7 (Hsu & Chen, 2016; Weiss et al., 2001). GRK7 shares ~85 % sequence identity with GRK1 and ~59 % with fish visual GRKs (Hsu & Chen, 2016). The closest paralog is rhodopsin kinase GRK1 (Gurevich et al., 2012; Hsu & Chen, 2016).
+
+## Reaction Catalyzed  
+ATP + [photo-activated cone opsin]-Ser/Thr → ADP + [cone opsin]-O-phospho-Ser/Thr (Hsu & Chen, 2016).
+
+## Cofactor Requirements  
+Requires divalent Mg²⁺ or Mn²⁺ ions (Hsu & Chen, 2016; Sato et al., 2015).
+
+## Substrate Specificity  
+Efficiently phosphorylates light-activated L, M and S cone opsins as well as rhodopsin cytoplasmic tails (Hsu & Chen, 2016; Gurevich et al., 2012). Shows ~10-fold higher specific activity toward cone opsins than GRK1 (Gurevich et al., 2012). A definitive peptide consensus motif has not yet been reported (Hsu & Chen, 2016). Receptor recognition involves docking of the kinase N-terminal helix onto a hydrophobic patch on transmembrane helix 5 of the opsin (Brunette et al., 2016).
+
+## Structure  
+Domain architecture: N-terminal α-helix → regulator of G-protein signaling homology (RH) domain → bilobed protein-kinase core → C-terminal regulatory tail ending in a CaaX geranylgeranylation motif (Hsu & Chen, 2016; Weiss et al., 2001). AlphaFold model AF-Q8WTQ7-F1 and comparison with the GRK1 crystal structure (PDB 4PNI) reveal a canonical AGC fold with conserved C-helix, activation segment, and catalytic HRD/DFG motifs (Hsu & Chen, 2016; Gurevich et al., 2012). The C-terminal extension serves as an autoinhibitory latch and membrane anchor for the prenylated cysteine (Hsu & Chen, 2016).
+
+## Regulation  
+• C-terminal cysteine is geranylgeranylated, promoting membrane association (Weiss et al., 2001).  
+• Protein kinase A phosphorylates Ser36 in darkness, reducing activity; phosphorylation declines in light (Unknown authors, 2008; Chrispell et al., 2022). Elevation of cAMP enhances this modification, which is reversed by phosphatases (Chrispell et al., 2022).  
+• Ca²⁺-bound visinin binds and inhibits GRK7 (Hsu & Chen, 2016).  
+• The kinase autophosphorylates C-terminal serines (Hsu & Chen, 2016).  
+• Prenyl-binding protein PrBP/δ transports the lipidated enzyme to cone outer segments (Hsu & Chen, 2016).
+
+## Function  
+Expressed specifically in cone photoreceptor inner and outer segments of humans, primates, pigs, dogs and fish; absent from rodent cones (Weiss et al., 2001; Hsu & Chen, 2016). Rapid phosphorylation of light-activated cone opsins enables arrestin binding and transducin shut-down, ensuring fast recovery of the photopic response (Hsu & Chen, 2016; Sato et al., 2015). GRK7 can sustain daylight vision in patients lacking cone GRK1 activity (Unknown authors, 2001). Interacts with cone arrestin, opsins, PrBP/δ, visinin and PKA (Hsu & Chen, 2016; Chrispell et al., 2022).
+
+## Other Comments  
+No pathogenic human GRK7 variants have been reported, whereas GRK1 mutations cause Oguchi disease, underscoring the importance of visual GRKs (Hsu & Chen, 2016; Sato et al., 2015). The superior catalytic efficiency of GRK7 highlights its critical role in bright-light cone adaptation (Gurevich et al., 2012).
+
+## References  
+Brunette, A. M. J., Sinha, A., L. David, & Farrens, D. (2016). Evidence that the rhodopsin kinase (GRK1) N-terminus and the transducin Gα C-terminus interact with the same “hydrophobic patch” on rhodopsin TM5. Biochemistry, 55(22), 3123–3135. https://doi.org/10.1021/acs.biochem.6b00328  
+
+Chrispell, J. D., Xiong, Y., & Weiss, E. R. (2022). GRK7 but not GRK1 undergoes cAMP-dependent phosphorylation in zebrafish cone photoreceptors and mediates cone photoresponse recovery to elevated cAMP. Journal of Biological Chemistry, 298, 102636. https://doi.org/10.1016/j.jbc.2022.102636  
+
+Gurevich, E. V., Tesmer, J. J. G., Mushegian, A., & Gurevich, V. V. (2012). G protein-coupled receptor kinases: more than just kinases and not only for GPCRs. Pharmacology & Therapeutics, 133, 40–69. https://doi.org/10.1016/j.pharmthera.2011.08.001  
+
+Hsu, C.-C., & Chen, C.-K. J. (2016). Visual G protein-coupled receptor kinases. In Methods in Pharmacology and Toxicology (pp. 45–57). https://doi.org/10.1007/978-1-4939-3798-1_3  
+
+Kang, J.-H., Toita, R., Kawano, T., Murata, M., & Asai, D. (2020). Design of substrates and inhibitors of G protein-coupled receptor kinase 2 (GRK2) based on its phosphorylation reaction. Amino Acids, 52, 863–870. https://doi.org/10.1007/s00726-020-02864-x  
+
+Sato, P. Y., Chuprun, J. K., Schwartz, M., & Koch, W. J. (2015). The evolving impact of G protein-coupled receptor kinases in cardiac health and disease. Physiological Reviews, 95, 377–404. https://doi.org/10.1152/physrev.00015.2014  
+
+Unknown authors. (2001). Characterization of human GRK7 as a potential cone opsin kinase.  
+
+Unknown authors. (2008). Phosphorylation of GRK7 by PKA in cone photoreceptor cells is regulated by light.  
+
+Weiss, E., Ducceschi, M., Horner, T. J., Li, A., Craft, C., & Osawa, S. (2001). Species-specific differences in expression of G-protein-coupled receptor kinase 7 and GRK1 in mammalian cone photoreceptor cells: implications for cone cell phototransduction. Journal of Neuroscience, 21, 9175–9184. https://doi.org/10.1523/JNEUROSCI.21-23-09175.2001

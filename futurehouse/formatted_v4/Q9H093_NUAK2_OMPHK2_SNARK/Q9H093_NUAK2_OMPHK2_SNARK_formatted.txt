@@ -1,0 +1,56 @@
+## Phylogeny  
+NUAK2 (also called SNARK or Omphalocele kinase 2) is a member of the NUAK sub-family of AMP-activated protein-kinase-related kinases (ARKs) within the Ca²⁺/calmodulin-regulated (CAMK) branch of the human kinome and is most closely related to NUAK1 (Banerjee et al., 2014; van de Vis et al., 2021). Orthologues are reported in Mus musculus, Rattus norvegicus, Danio rerio, Drosophila melanogaster and Caenorhabditis elegans (unc-82); yeast SNF1 serves as an out-group for the ARK lineage (Minchenko & Minchenko, 2012; van de Vis et al., 2021; Rooney et al., 2025; Namiki et al., 2011). Phylogenetic analyses place NUAK2 on an early branch of the SNF1/AMPK superfamily that diverged before the yeast–metazoan split, approximately equidistant from mammalian AMPKα isoforms and yeast SNF1 (Minchenko & Minchenko, 2012).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + protein-O-phospho-Ser/Thr (Banerjee et al., 2014).  
+
+## Cofactor Requirements  
+Catalytic activity requires divalent metal ions; Mg²⁺ or Mn²⁺ can support phosphotransfer (Palma et al., 2023).  
+
+## Substrate Specificity  
+Documented physiological substrates include MYPT1 (Ser445, Ser472, Ser910), LATS1, LATS2, MRIP, AS160, TBC1D1 and the synthetic SAMS peptide (Banerjee et al., 2014; van de Vis et al., 2021). No consensus phosphorylation motif has been defined in systematic surveys (Rooney et al., 2025).  
+
+## Structure  
+Residues 55–306 form the canonical bilobed serine/threonine kinase domain; the C-terminal extension lacks recognizable folded domains (Banerjee et al., 2014). Key motifs include the Gly-rich loop (63–89), the catalytic HRD motif (175–187), and the activation loop containing Thr208, the obligatory LKB1 phosphorylation site (Banerjee et al., 2014; Minchenko & Minchenko, 2012). A bipartite nuclear-localisation signal (68KKAR71) is present (Minchenko & Minchenko, 2012). AlphaFold model AF-Q9H093-F1 predicts an intact regulatory spine, an ordered activation segment and a correctly docked αC-helix typical of active ARK kinases; no experimental crystal structure is available (Rooney et al., 2025; van de Vis et al., 2021).  
+
+## Regulation  
+• Activation-loop phosphorylation: Thr208 is phosphorylated by the LKB1–STRAD–MO25 complex and is essential for activity (Banerjee et al., 2014).  
+• Autophosphorylation enhances in-vitro activity (Minchenko & Minchenko, 2012).  
+• Protein turnover: SCF-βTRCP-dependent poly-ubiquitylation following phospho-degron formation promotes degradation (Unknown authors, 2013).  
+• Upstream stimuli: cellular energy stress, nutrient deprivation, ER/oxidative stress, UV irradiation and hyperosmotic shock activate NUAK2 (Minchenko & Minchenko, 2012).  
+• Alternative upstream kinases: CaMKK and TAK1 can phosphorylate/activate NUAK2 in specific contexts (Minchenko & Minchenko, 2012; Rooney et al., 2025).  
+• Transcriptional control: TGF-β (via an intronic SMAD2/3 enhancer), NF-κB downstream of CD95/TNF-α, and a YAP/TAZ-dependent positive feedback loop up-regulate NUAK2 expression (Kolliopoulos et al., 2019; Minchenko & Minchenko, 2012; van de Vis et al., 2021).  
+
+## Function  
+Expression is highest in gastrointestinal mucosa, kidney, spleen, blood and cerebellum, and is inducible in skeletal muscle during metabolic stress (van de Vis et al., 2021; Minchenko & Minchenko, 2012). Reported cellular roles include:  
+• Metabolic stress tolerance and survival during glucose starvation (Minchenko & Minchenko, 2012).  
+• Cytoskeletal regulation: phosphorylation of MYPT1 and association with MRIP increase myosin light-chain phosphorylation, destabilise F-actin and enhance cell motility (Banerjee et al., 2014; Namiki et al., 2011).  
+• Hippo pathway modulation: phosphorylation of LATS1/2 promotes YAP nuclear localisation and is required for neural tube closure (van de Vis et al., 2021).  
+• TGF-β signalling: binding to SMAD3 and TβRI stabilises SMAD3 and amplifies extracellular-matrix gene expression (Kolliopoulos et al., 2019).  
+• NF-κB-mediated anti-apoptotic signalling downstream of CD95/TNF-α (Minchenko & Minchenko, 2012).  
+• Skeletal muscle: mediates contraction-stimulated glucose transport and protects myocytes from apoptosis (Minchenko & Minchenko, 2012).  
+
+## Inhibitors  
+• WZ4003: ATP-competitive inhibitor, IC₅₀ ≈ 100 nM for NUAK2 with high kinome selectivity (Banerjee et al., 2014).  
+• HTH-01-015: NUAK1-selective, negligible activity on NUAK2, useful for isoform discrimination (Banerjee et al., 2014).  
+• Additional pyrido-pyrimidin-7-one derivatives (e.g., XMD-18-42) inhibit NUAK family kinases with variable selectivity (Unknown authors, 2013).  
+
+## Other Comments  
+Disease links include gene amplification at 1q32 in acral melanoma, association with poor prognosis in gliomas, YAP-dependent hepatocellular and cutaneous tumour growth, a recessive kinase-dead mutation causing human anencephaly, and roles in breast-cancer invasiveness and hepatic fibrosis via TGF-β pathway amplification (Namiki et al., 2011; Banerjee et al., 2014; van de Vis et al., 2021; Kolliopoulos et al., 2019).  
+
+## References  
+Banerjee, S., Buhrlage, S. J., Huang, H.-T., Deng, X., Zhou, W., Wang, J., Traynor, R., Prescott, A. R., Alessi, D. R., & Gray, N. S. (2014). Characterization of WZ4003 and HTH-01-015 as selective inhibitors of the LKB1-tumour-suppressor-activated NUAK kinases. Biochemical Journal, 457, 215–225. https://doi.org/10.1042/BJ20131152  
+
+Kolliopoulos, C., Raja, E., Razmara, M., Heldin, P., Heldin, C., Moustakas, A., & van der Heide, L. P. (2019). Transforming growth factor β induces NUAK kinase expression to fine-tune its signaling output. Journal of Biological Chemistry, 294, 4119–4136. https://doi.org/10.1074/jbc.RA118.004984  
+
+Minchenko, D., & Minchenko, O. (2012). SNF1/AMP-activated protein kinases: genes, expression and biological role. Protein Kinases. https://doi.org/10.5772/37820  
+
+Namiki, T., Coelho, S. G., & Hearing, V. (2011). NUAK2: An emerging acral melanoma oncogene. Oncotarget, 2, 695–704. https://doi.org/10.18632/oncotarget.325  
+
+Palma, M., Riffo, E., Farias, A., Coliboro-Dannich, V., Espinoza-Francine, L., Escalona, E., Amigo, R., Gutiérrez, J. L., Pincheira, R., & Castro, A. F. (2023). NUAK1 coordinates growth factor-dependent activation of mTORC2 and Akt signaling. Cell & Bioscience. https://doi.org/10.1186/s13578-023-01185-2  
+
+Rooney, T. P. C., Aldred, G. G., Winpenny, D., Scott, H., Willems, H. M. G., Voytyuk, I., Clarke, J. H., Boffey, H. K., Andrews, S. P., & Skidmore, J. (2025). Development of the pyrido[2,3-d]pyrimidin-7(8H)-one scaffold toward potent and selective NUAK1 inhibitors. ACS Medicinal Chemistry Letters, 16, 327–335. https://doi.org/10.1021/acsmedchemlett.4c00579  
+
+Unknown authors. (2013). Phosphorylation, ubiquitylation and characterisation of specific inhibitors of AMPK-related kinase NUAK1/ARK5.  
+
+van de Vis, R. A. J., Moustakas, A., & van der Heide, L. P. (2021). NUAK1 and NUAK2 fine-tune TGF-β signaling. Cancers, 13, 3377. https://doi.org/10.3390/cancers13133377

@@ -1,0 +1,54 @@
+Phylogeny  
+Fibroblast growth factor receptor 2 (FGFR2) belongs to a four-member FGFR subfamily (FGFR1–FGFR4) that shares 56 – 71 % overall sequence identity; the kinase domains of FGFR1 and FGFR2 are ~90 % identical (Dai et al., 2019; Lew et al., 2007). All FGFRs are classified within the receptor tyrosine kinase (RTK) superfamily, which comprises >50 human kinases distributed among 20 subfamilies (Lian et al., 2024).
+
+Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + protein-L-tyrosine phosphate (Dai et al., 2019).
+
+Cofactor Requirements  
+Mg²⁺ is essential; it is coordinated by the conserved DFG-motif aspartate and properly orients ATP for phosphoryl transfer (Dai et al., 2019; Lew et al., 2007).
+
+Substrate Specificity  
+Peptide-array profiling shows that FGFR2 prefers defined residues at positions −1 to +3 relative to the target Tyr, favouring hydrophobic or charged amino acids (Yaron-Barir et al., 2024). Basic residues within the catalytic domain help recognise acidic or phosphorylated substrate residues. Motif-based clustering groups all FGFR isoforms together and distinguishes them from other RTK families (Yaron-Barir et al., 2024).
+
+Structure  
+FGFR2 is a single-pass transmembrane protein containing three extracellular Ig-like domains (D1–D3), a transmembrane helix and a cytoplasmic bilobed tyrosine-kinase domain (TKD) (Lian et al., 2024; Dai et al., 2019).  
+Key TKD features include:  
+• Activation loop (res. 643–649/651–664) with a DFG motif that toggles between inactive “DFG-out” and active “DFG-in” states.  
+• Catalytic loop (res. 620–630) harbouring the HRD motif; Asp626 acts as catalytic base.  
+• Glycine-rich P-loop (res. 480–490) that cradles ATP.  
+• αC-helix (res. 525–539) whose inward rotation is required for activity.  
+• Hinge/molecular brake (res. 566–571) that contributes to autoinhibition.  
+Representative PDB entries include inactive (1GJO, 2PSQ), active (2PVF) and disease-associated mutant structures (2PVY, 2PWL, 3B2T, 5UGX) (Lian et al., 2024; Lew et al., 2007).
+
+Regulation  
+Ligand binding induces receptor dimerisation and sequential trans-autophosphorylation of Tyr653 followed by Tyr654, producing stepwise 50–100-fold and 500–1000-fold activity increases, respectively (Furdui et al., 2006; Unknown Authors, 2021). Autoinhibition is mediated by a molecular brake in the hinge; FGFR2 is less stringently inhibited and autophosphorylates faster than FGFR1 (Lew et al., 2007; Lian et al., 2024). Allosteric communication between the αC-helix and hinge can be modulated by peptide mimetics (Lian et al., 2024). Signal attenuation occurs via CBL-mediated ubiquitination that targets the receptor for lysosomal degradation or recycling (Unknown Authors, 2021; 2013).
+
+Function  
+FGFR2 controls cell proliferation, differentiation, migration and survival (Lian et al., 2024; Dai et al., 2019). Alternative splicing yields an epithelial IIIb and a mesenchymal IIIc isoform (Lew et al., 2007). Upon activation (e.g., by FGF10), FGFR2 phosphorylates FRS2 and PLCG1, initiating MAPK and PLCγ cascades. Phospho-FRS2 recruits GRB2, GAB1, PIK3R1 and SOS1 (Katoh & Katoh, 2009). FGFR2 is indispensable for limb outgrowth, lung branching and osteogenesis; it regulates osteoblast/chondrocyte proliferation and a nuclear receptor form influences limb patterning (Xie et al., 2020).
+
+Inhibitors  
+ATP-competitive small molecules bound to the TKD are described (e.g., PDB 4V05, 5JKG) (Dai et al., 2019). RNA-based therapeutics such as siRNA, synthetic miRNA and aptamers are emerging FGFR2 inhibitors (Katoh & Katoh, 2009).
+
+Other Comments  
+FGFR2 dysregulation underlies developmental syndromes and diverse cancers. Gain-of-function mutations (e.g., S252W, P253R, K659N) cause Apert, Crouzon or Pfeiffer craniosynostosis; A628T/A648T produce loss-of-function LADD syndrome; somatic variants (e.g., N549H) occur in endometrial, gastric, colorectal, breast and lung tumours (Katoh & Katoh, 2009; Lian et al., 2024; Xie et al., 2020). Depending on context, FGFR2 can act as an oncogene or tumour suppressor (Katoh & Katoh, 2009).
+
+9. References  
+Analysis of FGF receptor signalling and trafficking by live-cell imaging. (2013). [Unpublished manuscript].  
+
+Characterisation of the interaction between FGFR2/EGL-15 and CRKL/CED-2. (2021). [Unpublished manuscript].  
+
+Dai, S., Zhou, Z., Chen, Z., Xu, G., & Chen, Y. (2019). Fibroblast growth factor receptors (FGFRs): Structures and small molecule inhibitors. Cells, 8(6), 614. https://doi.org/10.3390/cells8060614  
+
+Furdui, C., Lew, E., Schlessinger, J., & Anderson, K. (2006). Autophosphorylation of FGFR1 kinase is mediated by a sequential and precisely ordered reaction. Molecular Cell, 21(5), 711–717. https://doi.org/10.1016/j.molcel.2006.01.022  
+
+Katoh, Y., & Katoh, M. (2009). FGFR2-related pathogenesis and FGFR2-targeted therapeutics (Review). International Journal of Molecular Medicine, 23(3), 307–311. https://doi.org/10.3892/ijmm_00000132  
+
+Lew, E., Bae, J., Rohmann, E., Wollnik, B., & Schlessinger, J. (2007). Structural basis for reduced FGFR2 activity in LADD syndrome: Implications for FGFR autoinhibition and activation. Proceedings of the National Academy of Sciences, 104(51), 19802–19807. https://doi.org/10.1073/pnas.0709905104  
+
+Lian, Y., Bodian, D., & Shehu, A. (2024). Elucidating the role of wildtype and variant FGFR2 structural dynamics in (dys)function and disorder. International Journal of Molecular Sciences, 25(8), 4523. https://doi.org/10.3390/ijms25084523  
+
+The role of Grb2 in FGFR2IIIc-mediated early signalling complexes. (2011). [Unpublished manuscript].  
+
+Xie, Y., Su, N., Yang, J., Tan, Q., Huang, S., Jin, M., … Chen, L. (2020). FGF/FGFR signalling in health and disease. Signal Transduction and Targeted Therapy, 5, 101. https://doi.org/10.1038/s41392-020-00222-7  
+
+Yaron-Barir, T. M., Joughin, B. A., Huntsman, E. M., Kerelsky, A., Cizin, D. M., Cohen, B. M., … Johnson, J. L. (2024). The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629, 1174–1181. https://doi.org/10.1038/s41586-024-07407-y

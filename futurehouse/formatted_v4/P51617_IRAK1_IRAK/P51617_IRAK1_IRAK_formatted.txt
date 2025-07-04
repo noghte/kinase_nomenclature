@@ -1,0 +1,61 @@
+## Phylogeny  
+IRAK1 is a serine/threonine protein kinase of the IRAK family. According to the kinome classification of Manning et al. (2002), it belongs to the Tyrosine-Kinase-Like (TKL) group, IRAK sub-group (Patra & Choi, 2016; Singer et al., 2018; Wang et al., 2017). One report instead places the IRAK family within the CAMK group (Liu et al., 2025). Functional similarity to the Drosophila kinase Pelle indicates conservation of innate-immune signalling from invertebrates to vertebrates (Suzuki et al., 2005). The gene shows a highly conserved exon/intron organisation across species (Martin & Kollewe, 2001).  
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Liu et al., 2025; Mahmoud et al., 2023; Wang et al., 2017).  
+
+## Cofactor Requirements  
+Mg²⁺ is required for catalytic activity (Mahmoud et al., 2023).  
+
+## Substrate Specificity  
+Substrate motifs have been mapped but the precise amino-acid consensus was not detailed in the material provided (Gottipati et al., 2008; Kollewe et al., 2004; Singer et al., 2018).  
+
+## Structure  
+IRAK1 is a multidomain protein comprising:  
+• N-terminal death domain (res. 1-103) for MYD88 binding  
+• Pro/Ser/Thr-rich segment  
+• Kinase domain (res. 199-522) – crystal structure solved (PDB 5UFX) in an active conformation with an assembled regulatory spine and a K239–E259 salt bridge (Wang et al., 2017)  
+• C-terminal TRAF6-binding region (Gottipati et al., 2008; Rhyasen & Starczynowski, 2015)  
+
+Catalytic residues: Lys239 (ATP binding) and Asp340 (catalysis) (Gottipati et al., 2008; Martin & Kollewe, 2001). A distinctive gatekeeper Tyr288 controls access to a back pocket (Wang et al., 2017). Unlike IRAK4, the kinase domain is constitutively monomeric (Wang et al., 2017). No full-length structure has yet been reported.  
+
+## Regulation  
+• Activation: phosphorylation by IRAK4 on Thr209 and Thr387 within the activation loop, followed by IRAK1 auto-hyperphosphorylation (Gottipati et al., 2008; Kollewe et al., 2004).  
+• Alternative view: activation is driven by allosteric changes upon IRAK4 binding rather than phosphorylation per se (Vollmer et al., 2017). The kinase domain can display activity without phosphorylation, with phosphorylation serving mainly to relieve N-terminal autoinhibition (Wang et al., 2017).  
+• Ubiquitination: Pellino1/2 mediate K48-linked chains (proteasomal degradation) and K63-linked chains (NF-κB signalling) (Rhyasen & Starczynowski, 2015).  
+
+## Function  
+Ubiquitously expressed; localises to cytoplasm and nucleus (Rhyasen & Starczynowski, 2015; Suzuki et al., 2005). Downstream of Toll-like receptors and the IL-1 receptor, IRAK1 is recruited by MYD88, activated by IRAK4, then disengages to interact with TRAF6, triggering NF-κB and MAPK pathways and induction of pro-inflammatory genes (Gottipati et al., 2008; Singer et al., 2018). Reported substrates include Pellino1, IRF7 and STAT3 (Ser727) (Vollmer et al., 2017; Singer et al., 2018; Unknown Authors, 2005). IRAK1 fulfils both catalytic and scaffold roles (Rhyasen & Starczynowski, 2015).  
+
+## Inhibitors  
+Experimental inhibitors include pacritinib, Dual IRAK1/4 Inhibitor I, and the covalent inhibitor Jh-X-119-01 (targets Cys302). Additional chemical series encompass amides, bi-aryl and quinazoline scaffolds (Singer et al., 2018; Wang et al., 2017). Earlier reviews noted the absence of selective IRAK1 inhibitors, highlighting the recent emergence of selective agents (Genung & Guckian, 2017).  
+
+## Other Comments  
+IRAK1 dysregulation is linked to autoimmune diseases (systemic lupus erythematosus, rheumatoid arthritis) and inflammatory disorders (Gottipati et al., 2008; Genung & Guckian, 2017). Over-expression/hyperphosphorylation occur in cancers such as MDS, AML and triple-negative breast cancer (Wang et al., 2017). Functional mutations include T209A (inactive) and D340A (catalytically dead); splice variant IRAK1b lacks 30 C-terminal residues, altering activity (Kollewe et al., 2004; Martin & Kollewe, 2001).  
+
+## 9. References  
+Genung, N., & Guckian, K. (2017). Small molecule inhibition of interleukin-1 receptor-associated kinase 4 (IRAK4). Progress in Medicinal Chemistry, 56, 117-163. https://doi.org/10.1016/bs.pmch.2016.11.004  
+
+Gottipati, S., Rao, N. L., & Fung-Leung, W. (2008). IRAK1: A critical signaling mediator of innate immunity. Cellular Signalling, 20(2), 269-276. https://doi.org/10.1016/j.cellsig.2007.08.009  
+
+Kollewe, C., Mackensen, A.-C., Neumann, D., Knop, J., Cao, P., Li, S., Wesche, H., & Martin, M. U. (2004). Sequential autophosphorylation steps in the interleukin-1 receptor-associated kinase-1 regulate its availability as an adapter in interleukin-1 signaling. Journal of Biological Chemistry, 279, 5227-5236. https://doi.org/10.1074/jbc.M309251200  
+
+Liu, X., Wang, Y., Jin, X., & Lu, N. (2025). Advances in the investigation of the oncological functions and its target therapy of interleukin-1 receptor-associated kinase 1 (IRAK1). Advances in Precision Medicine, 10, 34-40. https://doi.org/10.18063/apm.v10i1.700  
+
+Mahmoud, I., Jarrar, Y., & Febrimarsa. (2023). Modulation of IRAK enzymes as a therapeutic strategy against SARS-CoV-2-induced cytokine storm. Clinical and Experimental Medicine, 23, 2909-2923. https://doi.org/10.1007/s10238-023-01064-7  
+
+Martin, M. U., & Kollewe, C. (2001). Interleukin-1 receptor-associated kinase-1 (IRAK-1): A self-regulatory adapter molecule in the signaling cascade of the Toll/IL-1 receptor family. Signal Transduction, 1, 37-50. https://doi.org/10.1002/1615-4061(200111)1:1/2<37::AID-SITA37>3.0.CO;2-K  
+
+Patra, M., & Choi, S. (2016). Recent progress in the molecular recognition and therapeutic importance of interleukin-1 receptor-associated kinase 4. Molecules, 21, 1529. https://doi.org/10.3390/molecules21111529  
+
+Rhyasen, G. W., & Starczynowski, D. (2015). IRAK signalling in cancer. British Journal of Cancer, 112, 232-237. https://doi.org/10.1038/bjc.2014.513  
+
+Singer, J., Fleischman, A. G., Al-Fayoumi, S. I., Mascarenhas, J., Yu, Q., & Agarwal, A. (2018). Inhibition of interleukin-1 receptor-associated kinase 1 (IRAK1) as a therapeutic strategy. Oncotarget, 9, 33416-33439. https://doi.org/10.18632/oncotarget.26058  
+
+Suzuki, N., Suzuki, S., & Saito, T. (2005). IRAKs: Key regulatory kinases of innate immunity. Current Medicinal Chemistry – Anti-Inflammatory & Anti-Allergy Agents, 4, 13-20. https://doi.org/10.2174/1568014053005345  
+
+Vollmer, S., Strickson, S., Zhang, T., Gray, N., Lee, K. L., Rao, V., & Cohen, P. (2017). The mechanism of activation of IRAK1 and IRAK4 by interleukin-1 and Toll-like receptor agonists. Biochemical Journal, 474, 2027-2038. https://doi.org/10.1042/BCJ20170097  
+
+Wang, L., Qiao, Q., Ferrao, R., Shen, C., Hatcher, J. M., Buhrlage, S. J., Gray, N. S., & Wu, H. (2017). Crystal structure of human IRAK1. Proceedings of the National Academy of Sciences, 114, 13507-13512. https://doi.org/10.1073/pnas.1714386114  
+
+Unknown Authors. (2005). Novel role and regulation of the interleukin-1 receptor-associated kinase (IRAK) family proteins.

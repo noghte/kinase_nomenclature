@@ -1,0 +1,64 @@
+## Phylogeny  
+Receptor tyrosine kinase-like orphan receptor 1 (ROR1) belongs to the receptor tyrosine kinase (RTK) group, ROR subfamily, within the kinome classification of Manning et al. (Unknown Authors, 2021). Human ROR1 shares ~50 % overall sequence identity with human ROR2 and ~99 % identity within the kringle domain with its Mus musculus orthologue; additional orthologues occur in Rattus norvegicus, Danio rerio, Drosophila melanogaster and Caenorhabditis elegans, the latter encoding the catalytically active CAM-1 kinase (Bainbridge et al., 2014; Qi et al., 2018; Guarino et al., 2022). Comparative biochemical work shows that, unlike CAM-1, human ROR1 and ROR2 have lost robust phosphotransfer activity and function as pseudokinases (Bainbridge et al., 2014).  
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + protein-L-tyrosine O-phosphate; catalytic efficiencies of the isolated ROR1 kinase domain are 100- to 1000-fold lower than canonical RTKs (Bainbridge et al., 2014).  
+
+## Cofactor Requirements  
+Divalent Mg²⁺ or Mn²⁺ ions are required for any detectable in-vitro phosphorylation (Bainbridge et al., 2014).  
+
+## Substrate Specificity  
+No consensus phospho-acceptor motif has been defined. Purified ROR1 neither autophosphorylates its activation-loop tyrosines nor phosphorylates generic tyrosine-containing peptides under standard assay conditions (Bainbridge et al., 2014; Unknown Authors, 2021).  
+
+## Structure  
+Domain organisation: Ig-like domain – Frizzled-like cysteine-rich domain (CRD) – kringle domain – single transmembrane helix – intracellular pseudokinase domain – serine/threonine-rich region – proline-rich region – second serine/threonine-rich region (Bainbridge et al., 2014; Guarino et al., 2022).  
+Ectodomain: the human kringle domain adopts the canonical triple-loop kringle fold at 1.4 Å resolution and presents a basic protein-interaction surface (Guarino et al., 2022).  
+Pseudokinase domain: crystallography and HDX-MS reveal an inactive conformation with an occluded ATP pocket, displaced αC-helix and autoinhibitory positioning of Tyr554 within a YxxxYY motif; Met527 serves as the gatekeeper residue (Sheetz et al., 2020).  
+Type-II inhibitors (ponatinib, GZD824) induce ~20° N-lobe rotation, stabilising a DFG-out-like state and exposing latent druggable conformations (Sheetz et al., 2020).  
+
+## Regulation  
+• Lyn kinase phosphorylates intracytoplasmic residues, recruiting c-CBL and regulating receptor surface dynamics during chemotaxis of chronic lymphocytic leukaemia (CLL) cells (Dave et al., 2022).  
+• Constitutive tyrosine phosphorylation is detected in CLL, indicating trans-phosphorylation in vivo (Wei et al., 2024).  
+• WNT5A stimulation yields <1 % activation-loop phosphorylation, underscoring minimal intrinsic autophosphorylation (Bainbridge et al., 2014).  
+• Binding of ponatinib or GZD824 allosterically locks the pseudokinase in an inactive conformation (Sheetz et al., 2020).  
+
+## Function  
+Expression: high during embryogenesis and in immature B-cell precursors; low in most adult tissues but markedly up-regulated in CLL, mantle-cell lymphoma, acute lymphoblastic leukaemia, triple-negative breast cancer, lung adenocarcinoma, and multiple solid tumours (Guarino et al., 2022; Gupta et al., 2023; Wei et al., 2024).  
+
+Ligand-mediated signalling and interacting partners:  
+– CRD binds WNT5A, suppressing WNT3A/β-catenin and activating non-canonical NF-κB pathways (Bainbridge et al., 2014).  
+– ROR1 forms complexes with EGFR/ERBB3 to sustain PI3K-AKT-mTOR signalling in lung adenocarcinoma (Liu et al., 2015).  
+– IGFBP5 engagement promotes a ROR1–ERBB2 complex that enhances CREB signalling in glioblastoma (Wei et al., 2024).  
+– A ROR1–HER3–lncRNA axis modulates Hippo-YAP signalling in bone-metastasis models (Gupta et al., 2023).  
+– ROR1 stabilises GRB2, driving ERK/c-Fos activation and glioma stem-cell maintenance (Zhu et al., 2025).  
+
+Loss-of-function: RNAi or pharmacological down-regulation decreases PI3K/AKT/mTOR activity, arrests proliferation and induces apoptosis in lung and breast cancer models (Liu et al., 2015; Gupta et al., 2023).  
+
+## Inhibitors  
+Ponatinib and GZD824 (type-II ATP-competitive binders), KAN0441571C, CID1261330, ARI-1 and the natural product strictinin all exhibit cytotoxic activity toward ROR1-positive cancer cells (Sheetz et al., 2020; Gupta et al., 2023; Wei et al., 2024; Fultang et al., 2019).  
+
+## Other Comments  
+High tumoural ROR1 expression correlates with larger tumour size, advanced stage and poor prognosis in breast cancer, lung adenocarcinoma and glioblastoma (Gupta et al., 2023; Liu et al., 2015; Zhu et al., 2025). Restoration of canonical catalytic motifs fails to rescue kinase activity, confirming pseudokinase status (Bainbridge et al., 2014). Antibody-based therapeutics, bispecific T-cell engagers and switchable CAR-T cells targeting ROR1 ectodomain epitopes are under active development (Sheetz et al., 2020; Qi et al., 2018).  
+
+## 9. References  
+Bainbridge, T. W., Dealmeida, V., Izrael-Tomasevic, A., Chalouni, C., Pan, B., Goldsmith, J., … Ernst, J. (2014). Evolutionary divergence in the catalytic activity of the CAM-1, ROR1 and ROR2 kinase domains. PLoS ONE, 9, e102695. https://doi.org/10.1371/journal.pone.0102695  
+
+Dave, Z., Vondálová Blanářová, O., Čada, Š., Janovská, P., Zezula, N., Běhal, M., … Bryja, V. (2022). Lyn phosphorylates and controls ROR1 surface dynamics during chemotaxis of CLL cells. Frontiers in Cell and Developmental Biology, 10, 838871. https://doi.org/10.3389/fcell.2022.838871  
+
+Fultang, N., Illendula, A., Chen, B., Wu, C.-H., Jonnalagadda, S. C., Baird, N., … Peethambaran, B. (2019). Strictinin, a novel ROR1 inhibitor, represses triple-negative breast cancer survival and migration via modulation of PI3K/AKT/GSK3β activity. PLoS ONE, 14, e0217789. https://doi.org/10.1371/journal.pone.0217789  
+
+Guarino, S. R., Di Bello, A., Palamini, M., Capillo, M. C., & Forneris, F. (2022). Crystal structure of the kringle domain of human receptor tyrosine kinase-like orphan receptor 1. Acta Crystallographica Section F, 78, 185-192. https://doi.org/10.1107/S2053230X22003855  
+
+Gupta, S. R. R., Ta, T. M., Khan, M., Singh, A. K., Singh, I., & Peethambaran, B. (2023). Identification and validation of a small molecule targeting ROR1 for the treatment of triple-negative breast cancer. Frontiers in Cell and Developmental Biology, 11, 1243763. https://doi.org/10.3389/fcell.2023.1243763  
+
+Liu, Y., Yang, H., Chen, T., Luo, Y., Xu, Z., Li, Y., & Yang, J.-H. (2015). Silencing of receptor tyrosine kinase ROR1 inhibits tumour-cell proliferation via the PI3K/AKT/mTOR signalling pathway in lung adenocarcinoma. PLoS ONE, 10, e0127092. https://doi.org/10.1371/journal.pone.0127092  
+
+Qi, J., Li, X., Peng, H., Cook, E. M., Dadashian, E. L., Wiestner, A., … Rader, C. (2018). Potent and selective antitumour activity of a T-cell-engaging bispecific antibody targeting a membrane-proximal epitope of ROR1. Proceedings of the National Academy of Sciences USA, 115, E5467-E5476. https://doi.org/10.1073/pnas.1719905115  
+
+Sheetz, J. B., Mathea, S., Karvonen, H., Malhotra, K., Chatterjee, D., Niininen, W., … Lemmon, M. A. (2020). Structural insights into pseudokinase domains of receptor tyrosine kinases. Molecular Cell, 79, 390-405.e7. https://doi.org/10.1016/j.molcel.2020.06.018  
+
+Wei, R., Liao, X., Li, J., Mu, X., Ming, Y., & Peng, Y. (2024). Novel humanized monoclonal antibodies against ROR1 for cancer therapy. Molecular Cancer, 23, 75. https://doi.org/10.1186/s12943-024-02075-y  
+
+Zhu, H., Cheng, L., Liu, D., Ma, X., Chen, Z., Fan, H., … Shu, K. (2025). ROR1 facilitates glioblastoma growth via stabilizing GRB2 to promote c-Fos expression in glioma stem cells. Neuro-Oncology, 27, 695-710. https://doi.org/10.1093/neuonc/noae224  
+
+Unknown Authors. (2021). The role of ROR1 pseudokinase signaling in cancer (pp. 29-32).

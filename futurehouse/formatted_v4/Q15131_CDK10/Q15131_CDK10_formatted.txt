@@ -1,0 +1,68 @@
+## Proposed EC/sub-subclass:
+Not specified in the provided material.
+
+## Accepted name:
+Cyclin-dependent kinase 10
+
+## Synonyms:
+CDK10; cdc2-related kinase (cdc2rk in Drosophila); CDK10/Cyclin M complex.
+
+## Phylogeny  
+Member of the CMGC group of serine/threonine kinases and, within it, of the transcriptional CDK subfamily alongside CDK7, 8, 9, 11, 12 and 13 (Malumbres, 2014; Pellarin et al., 2025). CDK10 forms a distinct subfamily with its closest paralogue CDK11, sharing 53 % sequence identity and 82 % similarity (Düster et al., 2022). Orthologues are present in Drosophila but absent from yeast and C. elegans (Guen et al., 2017; Düster et al., 2022).
+
+## Reaction Catalyzed  
+ATP + [a protein] ⇌ ADP + [a phosphoprotein] (Malumbres, 2014).
+
+## Cofactor Requirements  
+Mg²⁺ is required for ATP coordination (Guen et al., 2017).
+
+## Substrate Specificity  
+Generally classed as a Pro-directed kinase that favours Ser/Thr followed by Pro (S/T-P) (Johnson et al., 2023), although one study reports the motif is not strictly Pro-directed (Düster et al., 2022). Verified substrates include:  
+• RNA polymerase II CTD (Ser2, Ser5, Ser7; activity enhanced when Ser7→Lys) (Unknown Authors, 2021; Düster et al., 2022).  
+• c-Myc at multiple (S/T)-P sites (Unknown Authors, 2021).  
+• ETS2, PKN2 (Thr121/Thr124), RB1, HDGF and ARGLU1 (Bazzi & Tai, 2021; Düster et al., 2022).  
+
+## Structure  
+Full-length human CDK10 is a 360-residue protein with the canonical bilobal CDK fold; a shorter splice isoform lacks the ATP-binding lobe and is catalytically inactive (Bazzi & Tai, 2021; Düster et al., 2022). Key elements include the variant αC-helix PISSLRE motif, gatekeeper Met117, catalytic Asp163 and regulatory Thr133/Thr196 (Düster et al., 2022). A bipartite C-terminal nuclear-localisation signal is present (Guen et al., 2017). No experimental structure of the CDK10/Cyclin M complex is available; AlphaFold modelling supports the typical CDK architecture (Düster et al., 2022; Unknown Authors, 2021).
+
+## Regulation  
+• Cyclin binding – Kinase activity requires stoichiometric complex formation with Cyclin M; binding also protects CDK10 from proteasomal degradation (Düster et al., 2022; Guen et al., 2013).  
+• Activating phosphorylation – Thr196 in the activation loop is essential for full activity (Düster et al., 2022; Guen et al., 2017).  
+• Degradation signal – Thr133 phosphorylation promotes Pin1-mediated ubiquitin-proteasome degradation (Düster et al., 2022; Pellarin et al., 2025).  
+• Additional modifications – Tyr50 and Tyr54 are phosphorylated; CDK1/Cyclin B1 and CDK5/p35 can modify sites other than Thr196 (Guen et al., 2017; Düster et al., 2022).  
+• Protein partners – Interacts with HSP90 and Pin1, influencing stability and activity (Bazzi & Tai, 2021; Unknown Authors, 2021).
+
+## Function  
+Kinase activity peaks in G2/M (Guen et al., 2017). Documented roles include:  
+• Transcription and co-transcriptional splicing via phosphorylation of RNA Pol II CTD; present in spliceosomal C complexes (Guen et al., 2017; Pellarin et al., 2025).  
+• Negative regulation of ciliogenesis and control of actin cytoskeleton through phosphorylation of PKN2 in a RhoA-dependent pathway; the CDK10/Cyclin M complex localises to basal bodies (Bazzi & Tai, 2021; Guen et al., 2017).  
+• Suppression of MAPK signalling by phosphorylating ETS2, promoting its COP1/DET1-mediated degradation and reducing c-RAF expression (Guen et al., 2013; Düster et al., 2022).  
+• Additional substrates (RB1, c-Myc, HDGF, ARGLU1) link CDK10 to cell-cycle progression and transcriptional regulation (Düster et al., 2022).  
+Cyclin M lacks an NLS and relies on CDK10’s C-terminal NLS for nuclear import (Düster et al., 2022; Guen et al., 2017).
+
+## Inhibitors  
+ATP-competitive but non-selective inhibitors include flavopiridol (IC50 ≈ 298 nM), dinaciclib, SNS-032, NVP-2 and the CDK11 inhibitor OTS964 (IC50 ≈ 1.5 µM). No CDK10-selective small molecules are available (Düster et al., 2022).
+
+## Other Comments  
+Loss-of-function mutations in FAM58A (Cyclin M) cause STAR syndrome, attributed to impaired CDK10/Cyclin M activity and defective ciliogenesis (Guen et al., 2013; Guen et al., 2017). Pathogenic splice-site mutations in CDK10 lead to developmental abnormalities; complete knockout is embryonic lethal in mice (Düster et al., 2022; Unknown Authors, 2021). CDK10 shows context-dependent roles in cancer, acting as a tumour suppressor in breast, gastric, liver cancers and glioma but displaying oncogenic behaviour in colorectal cancer; low CDK10 correlates with tamoxifen resistance in ER-positive breast cancer (Düster et al., 2022; Guen et al., 2013).
+
+## References  
+Bazzi, Z. A., & Tai, I. T. (2021). Cdk10 in gastrointestinal cancers: Dual roles as a tumor suppressor and oncogene. Frontiers in Oncology, 11, 655479. https://doi.org/10.3389/fonc.2021.655479  
+
+Düster, R., Ji, Y., Pan, K.-T., Urlaub, H., & Geyer, M. (2022). Functional characterization of the human CDK10/Cyclin Q complex. Open Biology, 12, 210381. https://doi.org/10.1098/rsob.210381  
+
+Guen, V. J., Gamble, C., Flajolet, M., Unger, S., Thollet, A., Ferandin, Y., Superti-Furga, A., Cohen, P., Meijer, L., & Colas, P. (2013). CDK10/Cyclin M is a protein kinase that controls ETS2 degradation and is deficient in STAR syndrome. Proceedings of the National Academy of Sciences, 110, 19525–19530. https://doi.org/10.1073/pnas.1306814110  
+
+Guen, V. J., Gamble, C., Lees, J., & Colas, P. (2017). The awakening of the CDK10/Cyclin M protein kinase. Oncotarget, 8, 50174–50186. https://doi.org/10.18632/oncotarget.15024  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Malumbres, M. (2014). Cyclin-dependent kinases. Genome Biology, 15, 122. https://doi.org/10.1186/gb-2014-15-6-122  
+
+Pellarin, I., Dall'Acqua, A., Favero, A., Segatto, I., Rossi, V., Crestan, N., … Baldassarre, G. (2025). Cyclin-dependent protein kinases and cell cycle regulation in biology and disease. Signal Transduction and Targeted Therapy. https://doi.org/10.1038/s41392-024-02080-z  
+
+Peyressatre, M., Prével, C., Pellerano, M., & Morris, M. (2015). Targeting cyclin-dependent kinases in human cancers: From small molecules to peptide inhibitors. Cancers, 7, 179–237. https://doi.org/10.3390/cancers7010179  
+
+Unknown Authors. (2021). Biochemical characterization of the human Cyclin-dependent kinases CDK7 and CDK10.  
+
+Wood, D. J., & Endicott, J. A. (2018). Structural insights into the functional diversity of the CDK–cyclin family. Open Biology, 8, 180112. https://doi.org/10.1098/rsob.180112

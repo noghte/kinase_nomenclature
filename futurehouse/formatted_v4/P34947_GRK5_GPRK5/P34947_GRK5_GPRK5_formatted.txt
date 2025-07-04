@@ -1,0 +1,68 @@
+## Phylogeny  
+G-protein-coupled receptor kinase 5 (GRK5) is a eukaryotic Ser/Thr protein kinase that sits within the AGC kinase group (Manning et al., 2002) and forms part of the dedicated GRK family that phosphorylates activated GPCRs (Gurevich et al., 2012). GRKs segregate into three subfamilies; GRK5 belongs to the GRK4/5/6 branch, sharing ~80 % sequence similarity with GRK4 (Premont et al., 1994). The Drosophila kinase GPRK2 clusters as an orthologue within this subfamily (Premont et al., 1994).
+
+## Reaction Catalyzed  
+ATP + protein ⇌ ADP + phosphoprotein (Ser/Thr) (Komolov et al., 2015).  
+Reported kinetic parameters: Km ≈ 49 µM, Vmax ≈ 971 nmol Pi min⁻¹ mg⁻¹, kcat ≈ 1.10 s⁻¹ (Komolov et al., 2015).
+
+## Cofactor Requirements  
+Requires Mg²⁺ for catalysis (Komolov et al., 2015).
+
+## Substrate Specificity  
+Kinase‐wide peptide profiling shows GRK family members, including GRK5, favour substrates that have been “phospho-primed” by a preceding phosphorylation event and that contain basic residues flanking the acceptor Ser/Thr (Johnson et al., 2023). A precise consensus sequence for GRK5 has not been defined (Johnson et al., 2023).
+
+## Structure  
+GRK5 is a multi-domain monomeric kinase comprising an N-terminal segment, an inserted bilobal catalytic domain within an RGS-homology (RH) domain, and a flexible C-tail (Homan et al., 2015; Komolov et al., 2015). Crystal structures are available (e.g., PDB 4WNK, 4TND, 4TNB, 8UAP, 8UAQ) (Homan et al., 2015; Chen et al., 2024). Key features include:  
+• Activation loop and overall kinase core captured in a partially closed, catalytically competent conformation (Komolov et al., 2015).  
+• A hydrophobic spine linking RH and kinase lobes (Met165, Phe166, Arg169, and Phe527) that stabilises the active state (Komolov et al., 2015).  
+• αC helix Glu234 forms the canonical salt bridge with Lys215 required for ATP binding (Komolov et al., 2015).  
+• A highly mobile C-tail (23–26 Å displacement) and a Pro529-induced kink preclude dimerisation observed in some other GRKs (Komolov et al., 2015).
+
+## Regulation  
+• Autophosphorylation at Ser484/Thr485 at the membrane interface dampens activity (Komolov et al., 2015; Marzano et al., 2021).  
+• PKC phosphorylates and inhibits GRK5 within residues 565–572 (Marzano et al., 2021).  
+• Ca²⁺/calmodulin binds to N-terminal (20–39) and C-terminal (540–578) sites to modulate catalytic output, membrane affinity and nuclear import (Chen et al., 2024; Marzano et al., 2021).  
+• Electrostatic and amphipathic interactions with PIP2 drive membrane localisation (Marzano et al., 2021; Komolov et al., 2015).  
+• ATP/ADP binding provides additional allosteric stabilisation (Komolov et al., 2015).
+
+## Function  
+Widely expressed, with high levels in heart, prostate and neural tissues; localises to plasma membrane, cytoplasm and nucleus (Komolov et al., 2015; Chen et al., 2024).  
+Canonical role: phosphorylation of agonist-bound GPCRs (e.g., adrenergic, muscarinic, dopamine, opioid receptors) leading to arrestin recruitment and receptor desensitisation (Chen et al., 2024; Homan et al., 2015).  
+Non-GPCR substrates:  
+• p53 (Thr55) – promotes MDM2-mediated degradation, inhibiting DNA-damage-induced apoptosis (Chen et al., 2010).  
+• β-Arrestin-1 – limits 5-HT4-dependent Src activation (Gurevich et al., 2012).  
+• HDAC5 – drives nuclear export, influencing gene programmes linked to cardiac hypertrophy (Chen et al., 2024).  
+• Na⁺/H⁺ exchanger regulatory factor (Chen et al., 2010).
+
+## Inhibitors  
+• CCG215022 – nanomolar inhibitor of GRK5/GRK2 (Homan et al., 2015).  
+• Sangivamycin – nucleoside ATP analogue (Komolov et al., 2015).  
+• Highly selective non-covalent series (IC50 ≈ 10 nM, >10⁵-fold selectivity over GRK2); crystal complexes PDB 8UAP, 8UAQ (Chen et al., 2024).
+
+## Other Comments  
+GRK5 is implicated in heart failure, cardiac hypertrophy, dilated cardiomyopathy, several cancers, neurodegeneration and type 2 diabetes risk (Chen et al., 2024; Marzano et al., 2021; de Lucia et al., 2022). A common SNP (Q41L) in the RH domain enhances β2-adrenergic receptor desensitisation and confers protection against congestive heart failure (Komolov et al., 2015; Dorn, 2009).
+
+## References  
+Chen, X., Zhu, H., Yuan, M., Fu, J., Zhou, Y., & Ma, L. (2010). G-protein-coupled receptor kinase 5 phosphorylates p53 and inhibits DNA damage-induced apoptosis. The Journal of Biological Chemistry, 285, 12823–12830. https://doi.org/10.1074/jbc.M109.094243  
+
+Chen, Y., Sonawane, A., Manda, R., Gadi, R. K., Tesmer, J. J. G., & Ghosh, A. K. (2024). Development of a new class of potent and highly selective G-protein-coupled receptor kinase 5 inhibitors and structural insight from crystal structures of inhibitor complexes. European Journal of Medicinal Chemistry, 264, 115931. https://doi.org/10.1016/j.ejmech.2023.115931  
+
+de Lucia, C., Grisanti, L. A., Borghetti, G., Piedepalumbo, M., Ibetti, J., Lucchese, A. M., … Koch, W. J. (2022). G-protein-coupled receptor kinase 5 contributes to impaired cardiac function and immune cell recruitment in post-ischemic heart failure. Cardiovascular Research, 118, 169–183. https://doi.org/10.1093/cvr/cvab044  
+
+Dorn, G. W. (2009). GRK mythology: G-protein receptor kinases in cardiovascular disease. Journal of Molecular Medicine, 87, 455–463. https://doi.org/10.1007/s00109-009-0450-7  
+
+Gurevich, E. V., Tesmer, J. J. G., Mushegian, A., & Gurevich, V. V. (2012). G-protein-coupled receptor kinases: more than just kinases and not only for GPCRs. Pharmacology & Therapeutics, 133, 40–69. https://doi.org/10.1016/j.pharmthera.2011.08.001  
+
+Homan, K. T., Waldschmidt, H. V., Glukhova, A., Cannavo, A., Song, J., Cheung, J. Y., … Tesmer, J. J. G. (2015). Crystal structure of G-protein-coupled receptor kinase 5 in complex with a rationally designed inhibitor. Journal of Biological Chemistry, 290, 20649–20659. https://doi.org/10.1074/jbc.M115.647370  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Komolov, K., Bhardwaj, A., & Benovic, J. (2015). Atomic structure of GRK5 reveals distinct structural features novel for G-protein-coupled receptor kinases. The Journal of Biological Chemistry, 290, 20629–20647. https://doi.org/10.1074/jbc.M115.647297  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Marzano, F., Rapacciuolo, A., Ferrara, N., Rengo, G., Koch, W., & Cannavo, A. (2021). Targeting GRK5 for treating chronic degenerative diseases. International Journal of Molecular Sciences, 22, 1920. https://doi.org/10.3390/ijms22041920  
+
+Premont, R. T., Koch, W. J., Inglese, J., & Lefkowitz, R. J. (1994). Identification, purification, and characterization of GRK5, a member of the family of G-protein-coupled receptor kinases. The Journal of Biological Chemistry, 269, 6832–6841. https://doi.org/10.1016/S0021-9258(17)37451-3  
+
+Sato, P. Y., Chuprun, J. K., Schwartz, M., & Koch, W. J. (2015). The evolving impact of G-protein-coupled receptor kinases in cardiac health and disease. Physiological Reviews, 95, 377–404. https://doi.org/10.1152/physrev.00015.2014

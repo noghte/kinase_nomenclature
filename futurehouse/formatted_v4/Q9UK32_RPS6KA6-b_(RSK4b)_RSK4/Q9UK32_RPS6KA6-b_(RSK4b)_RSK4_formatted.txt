@@ -1,0 +1,57 @@
+Phylogeny  
+Ribosomal protein S6 kinase alpha-6 (RSK4) is a serine/threonine kinase of the RSK sub-family within the AGC group of the eukaryotic kinome (Manning et al., 2002; Anjum & Blenis, 2008). The four mammalian RSK isoforms arose from an ancestral gene-fusion event that placed an N-terminal AGC-type kinase domain (NTKD) and a C-terminal CAMK-type kinase domain (CTKD) on the same polypeptide (Cronin et al., 2021). Within the family, RSK4 is most closely related to RSK2, less so to RSK3, and most distant from RSK1 (Wright & Lannigan, 2023). A mouse orthologue with conserved features has been described (Myers et al., 2004).
+
+Reaction Catalyzed  
+ATP + [L-Ser/Thr]-protein ⇌ ADP + [L-pSer/pThr]-protein (Lee et al., 2007; Anjum & Blenis, 2008). The transfer of the γ-phosphate proceeds by a dissociative mechanism (A mechanistic approach…, 2023).
+
+Cofactor Requirements  
+Catalysis requires a divalent cation, typically Mg²⁺, coordinated by the conserved DFG aspartate to neutralise ATP phosphates (Cronin et al., 2021; Xu et al., 2021).
+
+Substrate Specificity  
+RSK4 phosphorylates Ser/Thr residues embedded in basic consensus motifs such as Arg-X-Arg-X-X-Ser/Thr or (Arg/Lys)-(Arg/Lys)-X-Ser/Thr, with critical Arg residues at the −5 and −3 positions (Lee et al., 2007; Anjum & Blenis, 2008; Xu et al., 2021). Docking interactions outside the active site further enhance substrate recognition (Cronin et al., 2021).
+
+Structure  
+RSK4 contains two bilobed kinase domains (NTKD – AGC; CTKD – CAMKII) separated by a regulatory linker that harbours a Turn Motif and Hydrophobic Motif. The extreme C-terminus bears an ERK docking (D-) domain (Cronin et al., 2021; The role of RSKs in steroid signalling, 2019). Both domains display the canonical catalytic and regulatory spines seen in protein kinases. Full-length crystal structures are unavailable, but AlphaFold modelling predicts the expected kinase fold for the NTKD (A mechanistic approach…, 2023).
+
+Regulation  
+Unlike other RSKs, RSK4 shows high basal activity that is largely independent of PDK1 and growth-factor stimulation (Wright & Lannigan, 2023; Xu et al., 2021). Activation proceeds as follows:  
+1. ERK1/2 binds the C-terminal D-domain and phosphorylates Thr581 in the CTKD activation loop.  
+2. Activated CTKD autophosphorylates Ser389 in the Hydrophobic Motif, while ERK phosphorylates Ser372 in the linker.  
+3. NTKD autophosphorylates Ser232, enabling substrate phosphorylation.  
+4. Autophosphorylation of Ser742 in the linker diminishes ERK affinity, completing a negative-feedback loop (The role of RSKs in steroid signalling, 2019; A mechanistic approach…, 2023).
+
+Function  
+RSK4 is expressed in brain, heart, kidney, skeletal muscle, retina and during embryogenesis, localising mainly to the cytoplasm (Poomakkoth et al., 2016; Myers et al., 2004; Xu et al., 2021). Acting downstream of, and at times antagonistic to, MAPK/ERK signalling, it also participates in the p53 pathway to modulate cell-cycle arrest, apoptosis and survival (Lee et al., 2007; Anjum & Blenis, 2008). Documented substrates/interactors include ERK, p53, DAP kinase, the transcription factor Xbra and the androgen receptor (Lee et al., 2007; A mechanistic approach…, 2023). In cancer, RSK4 functions as an oncogene in prostate and lung tumours but as a tumour suppressor in breast cancer (Xu et al., 2021; A mechanistic approach…, 2023).
+
+Inhibitors  
+No RSK4-selective inhibitors are known (Xu et al., 2021). Common pan-RSK tools include NTKD inhibitors BI-D1870, SL0101, LJH685 and LJI308, and the irreversible CTKD inhibitor FMK; the clinical candidate PMD-026 targets all RSK isoforms (Aronchik et al., 2014; Wright & Lannigan, 2023). BI-D1870 shows off-target activity against PLK1, whereas SL0101 suffers from poor stability (Xu et al., 2021).
+
+Other Comments  
+RSK4 has been proposed as a candidate gene for X-linked intellectual disability, but large patient screens found no causative mutations (Lee et al., 2007; Cronin et al., 2021). Aberrant expression—often due to promoter methylation—is linked to cancer progression, therapy resistance and radioresistance (Xu et al., 2021; The role of RSKs in steroid signalling, 2019).
+
+9. References  
+Anjum, R., & Blenis, J. (2008). The RSK family of kinases: Emerging roles in cellular signalling. Nature Reviews Molecular Cell Biology, 9, 747–758. https://doi.org/10.1038/nrm2509  
+
+Aronchik, I., Appleton, B., Basham, S., Crawford, K., Del Rosario, M., Doyle, L., … Jefferson, A. B. (2014). Novel potent and selective inhibitors of p90 ribosomal S6 kinase reveal the heterogeneity of RSK function in MAPK-driven cancers. Molecular Cancer Research, 12, 803–812. https://doi.org/10.1158/1541-7786.MCR-13-0595  
+
+Brown, N. R., Korolchuk, S., Martin, M. P., Stanley, W. A., Moukhametzianov, R., Noble, M. E. M., & Endicott, J. A. (2015). CDK1 structures reveal conserved and unique features of the essential cell cycle CDK. Nature Communications, 6, 6769. https://doi.org/10.1038/ncomms7769  
+
+Cronin, R., Brooke, G., & Prischi, F. (2021). The role of the p90 ribosomal S6 kinase family in prostate cancer progression and therapy resistance. Oncogene, 40, 3775–3785. https://doi.org/10.1038/s41388-021-01810-9  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Lee, K. Y., Bignone, P. A., & Ganesan, T. S. (2007). P90 ribosomal S6 kinases: Eclectic members of the human kinome. Signal Transduction, 7, 225–239. https://doi.org/10.1002/sita.200600091  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Myers, A. P., Corson, L. B., Rossant, J., & Baker, J. C. (2004). Characterization of mouse rsk4 as an inhibitor of fibroblast growth factor-Ras-extracellular signal-regulated kinase signaling. Molecular and Cellular Biology, 24, 4255–4266. https://doi.org/10.1128/MCB.24.10.4255-4266.2004  
+
+Poomakkoth, N., Issa, A., Abdulrahman, N., Abdelaziz, S. G., & Mraiche, F. (2016). P90 ribosomal S6 kinase: A potential therapeutic target in lung cancer. Journal of Translational Medicine. https://doi.org/10.1186/s12967-016-0768-1  
+
+The role of p90 ribosomal S6 kinases (RSKs) in steroid signalling. (2019). [Report].  
+
+A mechanistic approach to understand the role of p90 ribosomal S6 kinases in prostate cancer. (2023). [Report].  
+
+Wright, E. B., & Lannigan, D. A. (2023). Therapeutic targeting of p90 ribosomal S6 kinase. Frontiers in Cell and Developmental Biology. https://doi.org/10.3389/fcell.2023.1297292  
+
+Xu, J., Jia, Q., Zhang, Y., Yuan, Y., Xu, T., Yu, K., … Li, M. (2021). Prominent roles of ribosomal S6 kinase 4 (RSK4) in cancer. Pathology – Research and Practice, 219, 153374. https://doi.org/10.1016/j.prp.2021.153374

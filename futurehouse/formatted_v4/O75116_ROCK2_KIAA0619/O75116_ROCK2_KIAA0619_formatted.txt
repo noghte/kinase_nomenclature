@@ -1,0 +1,72 @@
+Phylogeny  
+ROCK2 belongs to the AGC kinase group, Rho-associated kinase (ROK) family, ROCK sub-family. It is most closely paralogous to ROCK1 and is related within the AGC group to MRCK, DMPK and citron kinase (Guan et al., 2013). Orthologs are conserved in metazoans, e.g. Mus musculus Rock2, Danio rerio rock2a, Drosophila rok and Caenorhabditis elegans LET-502 (Feng et al., 2016).
+
+Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (Kang et al., 2011).
+
+Cofactor Requirements  
+Catalysis requires Mg²⁺ for ATP coordination (Kang et al., 2011).
+
+Substrate Specificity  
+High-throughput motif profiling shows a preference for basic residues at –3/–2 with an optimal consensus R/K-R/K-X-S/T (Johnson et al., 2023). Classical biochemical studies support broader motifs R/K-X-S/T or R/K-X-X-S/T present in canonical substrates such as MYPT1, MLC and ERM proteins (Liao et al., 2007; Hartmann et al., 2015).
+
+Structure  
+The N-terminal bilobed kinase domain (~residues 92–354) adopts an active conformation without activation-loop phosphorylation (Unknown Authors, 2023). A central ~600-aa coiled-coil segment mediates dimerisation and contains the Rho-binding domain (Julian & Olson, 2014). The C-terminus forms a split PH domain interrupted by a cysteine-rich C1 domain; the PH-C1 tandem both autoinhibits the kinase and binds PIP2/PIP3 (Hartmann et al., 2015). Crystal structures of the kinase domain (PDB 2ETR, 6ED6) reveal an ordered αC-helix, an intact hydrophobic spine and a Met172 gatekeeper. The inhibitor Y-27632 occupies the ATP pocket via canonical hinge hydrogen bonds (Johnson et al., 2023; Guan et al., 2013).
+
+Regulation  
+Autoinhibition is imposed by PH-C1 engagement of the kinase domain and is relieved when GTP-loaded RhoA/B/C binds the RBD (Sawada & Liao, 2014). Activity is further modulated by:  
+• PLK1 multisite phosphorylation (Hartmann et al., 2015)  
+• PKA phosphorylation at Ser1131 (Feng et al., 2016)  
+• Autophosphorylation at Ser1366 (Hartmann et al., 2015)  
+• Tyr722 phosphorylation lowering RhoA affinity (Hartmann et al., 2015)  
+• SMURF1-mediated ubiquitination leading to proteasomal degradation (Feng et al., 2016)  
+• Proteolytic removal of the C-terminus by caspase-2/-3 or granzyme B, generating constitutively active fragments (Feng et al., 2016; Hartmann et al., 2015)  
+Additional regulators include Gem and Rad, which bind near the RBD and inhibit output (Julian & Olson, 2014), and circadian BMAL1-dependent transcription that drives daily vascular ROCK2 oscillation (Hartmann et al., 2015).
+
+Function  
+Expression: High mRNA/protein levels in brain, heart, skeletal and smooth muscle, lung and placenta; a skeletal-muscle splice variant ROCK2m contains an extra 57 aa (Hartmann et al., 2015).  
+Upstream signals: Activated by Rho GTPases downstream of GPCR, RTK, cytokine and integrin pathways (Narumiya & Thumkeo, 2018; Sawada & Liao, 2014).  
+Key substrates and effects:  
+– MYL9 (MLC) Ser19 → Ca²⁺-sensitised smooth-muscle contraction (Liao et al., 2007).  
+– MYPT1 Thr696/Thr853 → inhibition of myosin phosphatase (Shah & Savjani, 2016).  
+– LIM kinases, ERM proteins, adducin, BRCA2, IRF4, vimentin and others → stress-fibre assembly, focal-adhesion maturation, Th17 cytokine production, centrosome duplication (Narumiya & Thumkeo, 2018; Hartmann et al., 2015).  
+Physiological roles include control of vascular tone, cardiac hypertrophy/fibrosis, cytokinesis, keratinocyte differentiation, hippocampal spine morphology and circadian aortic contractility (Hartmann et al., 2015; Julian & Olson, 2014; Narumiya & Thumkeo, 2018).
+
+Inhibitors  
+ATP-competitive compounds with reported potencies:  
+– Y-27632, IC₅₀ ≈ 0.14 µM (Narumiya & Thumkeo, 2018)  
+– Fasudil, IC₅₀ ≈ 0.3 µM (Feng et al., 2016)  
+– Ripasudil, nanomolar potency; approved for glaucoma (Unknown Authors, 2023)  
+– RKI-1447, sub-100 nM dual ROCK1/2 inhibitor (Hobson et al., 2018)  
+– KD025 (belumosudil), ROCK2-selective, cellular IC₅₀ ≈ 0.058 µM (Narumiya & Thumkeo, 2018)  
+– SLx-2119, enzymatic IC₅₀ = 51 nM with high kinome selectivity (Shah & Savjani, 2016)
+
+Other Comments  
+ROCK2 hyper-activation or over-expression is linked to systemic and pulmonary hypertension, heart failure, psoriasis, rheumatoid arthritis, graft-versus-host disease, inflammatory bowel disease, glaucoma and metastatic cancer (Hartmann et al., 2015; Narumiya & Thumkeo, 2018; Watanabe et al., 2024).
+
+9. References  
+Feng, Y., LoGrasso, P. V., Defert, O., & Li, R. (2016). Rho kinase (ROCK) inhibitors and their therapeutic potential. Journal of Medicinal Chemistry, 59(6), 2269–2300. https://doi.org/10.1021/acs.jmedchem.5b00683  
+
+Guan, R., Xu, X., Chen, M., Hu, H., Ge, H., Wen, S., Zhou, S., & Pi, R. (2013). Advances in the studies of roles of Rho/Rho-kinase in diseases and the development of its inhibitors. European Journal of Medicinal Chemistry, 70, 613–622. https://doi.org/10.1016/j.ejmech.2013.10.048  
+
+Hartmann, S., Ridley, A. J., & Lutz, S. (2015). The function of Rho-associated kinases ROCK1 and ROCK2 in the pathogenesis of cardiovascular disease. Frontiers in Pharmacology. https://doi.org/10.3389/fphar.2015.00276  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., et al. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Julian, L., & Olson, M. F. (2014). Rho-associated coiled-coil containing kinases (ROCK). Small GTPases, 5, e29846. https://doi.org/10.4161/sgtp.29846  
+
+Kang, J.-H., Asai, D., Tsuchiya, A., Mori, T., Niidome, T., & Katayama, Y. (2011). Peptide substrates for Rho-associated kinase 2. PLoS ONE. https://doi.org/10.1371/journal.pone.0022699  
+
+Liao, J. K., Seto, M., & Noma, K. (2007). Rho kinase (ROCK) inhibitors. Journal of Cardiovascular Pharmacology, 50, 17–24. https://doi.org/10.1097/FJC.0b013e318070d1bd  
+
+Narumiya, S., & Thumkeo, D. (2018). Rho signalling research: history, current status and future directions. FEBS Letters, 592, 1763–1776. https://doi.org/10.1002/1873-3468.13087  
+
+Sawada, N., & Liao, J. K. (2014). Rho/Rho-associated coiled-coil forming kinase pathway as therapeutic targets for statins in atherosclerosis. Antioxidants & Redox Signaling, 20, 1251–1267. https://doi.org/10.1089/ars.2013.5524  
+
+Shah, S., & Savjani, J. (2016). A review on ROCK-II inhibitors: from molecular modelling to synthesis. Bioorganic & Medicinal Chemistry Letters, 26(10), 2383–2391. https://doi.org/10.1016/j.bmcl.2016.03.113  
+
+Hobson, A. D., Judge, R. A., Aguirre, A. L., et al. (2018). Identification of selective dual ROCK1 and ROCK2 inhibitors using structure-based drug design. Journal of Medicinal Chemistry, 61, 11074–11100. https://doi.org/10.1021/acs.jmedchem.8b01098  
+
+Unknown Authors. (2023). Computational exploration of novel ROCK2 inhibitors for cardiovascular disease management. [Details as cited in original source].  
+
+Watanabe, M., Sato, T., Umetsu, A., et al. (2024). The specific ROCK2 inhibitor KD025 alleviates glycolysis through modulating STAT3-, CSTA- and S1PR3-linked signaling in human trabecular meshwork cells. Biomedicines. https://doi.org/10.3390/biomedicines12061165

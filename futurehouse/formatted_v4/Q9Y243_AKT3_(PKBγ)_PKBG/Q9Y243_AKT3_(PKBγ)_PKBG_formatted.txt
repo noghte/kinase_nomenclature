@@ -1,0 +1,70 @@
+## Proposed EC/sub-subclass:
+Not specified in the provided material  
+
+## Accepted name:
+AKT3 (Protein Kinase B γ)
+
+## Synonyms:
+Protein kinase B gamma; PKB-γ; RAC-protein kinase B gamma  
+
+## Phylogeny:  
+Member of the AGC kinase group, protein kinase B subfamily, in the human kinome catalogue (Degan & Gelman, 2021). Human paralogues AKT1 and AKT2 share > 80 % amino-acid identity with AKT3 (Kumar & Madison, 2005). Orthologues are present in mouse, rat, zebrafish, Drosophila melanogaster and Caenorhabditis elegans, indicating broad metazoan conservation (Non-Canonical PI3'Kinase Signalling, 2018).
+
+## Reaction catalyzed:
+ATP + protein L-serine/threonine ⇌ ADP + protein O-phospho-L-serine/threonine (Physiological Regulation of Akt, 2010; Kumar et al., 2025).  
+
+## Cofactor requirements:
+Requires divalent cations; Mg²⁺ is essential and Mn²⁺ can substitute in vitro (Degan & Gelman, 2021; Mundi et al., 2016).  
+
+## Substrate Specificity:
+Recognises the consensus sequence RXRXXS/TΦ, favouring arginine at –5 and –3, a bulky hydrophobic residue at +1 (Φ) and, when present, proline at +2 which promotes 14-3-3 binding (Toker & Marmiroli, 2014; Degan & Gelman, 2021).  
+
+## Structure:
+Domain organisation comprises an N-terminal pleckstrin homology (PH) domain (~ residues 5–108) that binds PtdIns(3,4,5)P₃/PtdIns(3,4)P₂ via Lys14, Arg23 and Arg86; a PH-kinase linker (~ 108–148); a bilobal kinase domain (~ 149–405) containing the Gly-rich loop (GKGTFG), gatekeeper Met227, catalytic loop YRDLKLEN, and the DFG motif Asp292-Phe293-Gly294; and a C-terminal extension (~ 409–480) with the FPQFSY motif harbouring Ser472 (Kumar et al., 2025; Studies on Cell Growth Promoting AKT, 2016).  
+Three-dimensional studies reveal an autoinhibited “PH-in” conformation; lipid binding drives a “PH-out” rotation that exposes Thr305 for phosphorylation (Calleja et al., 2009; Kumar et al., 2025). Activation shifts the αC-helix inward, locks the DFG motif “in” and assembles the regulatory spine. A unique Val228 in the Gly-rich loop may influence nucleotide or inhibitor binding (Kumar et al., 2025).  
+
+## Regulation:
+• Phosphorylation – PDK1 targets Thr305; mTORC2 phosphorylates Ser472 for maximal activity and co-translationally modifies Thr450 for stability; stimulus-dependent Ser477/Thr479 phosphorylation provides an additional activation layer (Kumar et al., 2025; Toker & Marmiroli, 2014; Hassan et al., 2024).  
+• Ubiquitination – TRAF6 attaches Lys63-linked chains to Lys8 and Lys14 within the PH domain, enhancing membrane recruitment (Hassan et al., 2024; Non-Canonical PI3'Kinase Signalling, 2018).  
+• Dephosphorylation – PP2A removes pThr305, whereas PHLPP1 selectively dephosphorylates pSer472 (Toker & Marmiroli, 2014; Degan & Gelman, 2021).  
+• Allosteric control – Binding of PtdIns(3,4,5)P₃ to the PH domain relieves autoinhibition; the oncogenic E17K mutation increases lipid affinity and drives constitutive activation (Yu et al., 2015; Toker & Marmiroli, 2014).  
+
+## Function:
+Expression is highest in brain and testes, with lower levels in lung and mammary tissue (Kumar et al., 2025; Hassan et al., 2024).  
+Upstream: Class I PI3-kinase generates PtdIns(3,4,5)P₃; PTEN opposes this signal; PDK1 and mTORC2 provide activating phosphorylations (Toker & Marmiroli, 2014; Physiological Regulation of Akt, 2010).  
+Downstream: AKT3 phosphorylates BAD, procaspase-9, FOXO factors, GSK3 and TSC2, promoting cell survival, metabolism and proliferation (Mundi et al., 2016).  
+Physiological/pathological roles: Supports post-natal brain growth, coordinates mitochondrial biogenesis, sustains glioma cell viability and modulates IL-13-induced MMP13 expression (Degan & Gelman, 2021).  
+
+## Inhibitors:
+Allosteric pan-AKT inhibitor MK-2206 suppresses AKT3; ATP-competitive inhibitors Capivasertib (AZD5363) and GSK690693 show documented potency (Kumar & Madison, 2005; Mundi et al., 2016).  
+
+## Other comments:
+Akt3-null mice exhibit ~ 25 % reduced brain mass (Mundi et al., 2016). Hyperactivation resulting from PTEN loss or PI3K-pathway mutations contributes to oncogenesis and therapy resistance, notably in glioblastoma (Romano, 2013; Kumar & Madison, 2005). The E17K PH-domain mutation confers resistance to some allosteric inhibitors (Yu et al., 2015; Degan & Gelman, 2021). Copy-number gains or activating mutations of AKT3 are reported in sporadic tumours and overgrowth syndromes (Menges et al., 2024).  
+
+## 9. References  
+
+Calleja, V., Laguerre, M., & Larijani, B. (2009). 3-D structure and dynamics of protein kinase B—new mechanism for the allosteric regulation of an AGC kinase. Journal of Chemical Biology, 2, 11–25. https://doi.org/10.1007/s12154-009-0016-8  
+
+Degan, S., & Gelman, I. (2021). Emerging roles for AKT isoform preference in cancer progression pathways. Molecular Cancer Research, 19, 1251–1257. https://doi.org/10.1158/1541-7786.MCR-20-1066  
+
+Hassan, D., Menges, C. W., Testa, J. R., & Bellacosa, A. (2024). Akt kinases as therapeutic targets. Journal of Experimental & Clinical Cancer Research. https://doi.org/10.1186/s13046-024-03207-4  
+
+Kumar, C. C., & Madison, V. (2005). Akt crystal structure and Akt-specific inhibitors. Oncogene, 24, 7493–7501. https://doi.org/10.1038/sj.onc.1209087  
+
+Kumar, B. H., Kabekkodu, S. P., & Pai, K. S. R. (2025). Structural insights of Akt and its activation mechanism for drug development. Molecular Diversity. https://doi.org/10.1007/s11030-025-11132-7  
+
+Menges, C. W., Hassan, D., Cheung, M., Bellacosa, A., & Testa, J. R. (2024). Alterations of the AKT pathway in sporadic human tumors, inherited susceptibility to cancer, and overgrowth syndromes. Current Topics in Microbiology and Immunology. https://doi.org/10.1007/82_2024_278  
+
+Mundi, P. S., Sachdev, J., McCourt, C., & Kalinsky, K. (2016). Akt in cancer: New molecular insights and advances in drug development. British Journal of Clinical Pharmacology, 82, 943–956. https://doi.org/10.1111/bcp.13021  
+
+Non-Canonical PI3'Kinase Signalling Regulates AKT3 Activity in PTEN-null Basal Breast Cancer Cell Lines. (2018).  
+
+Physiological Regulation of Akt Activity and Stability. (2010).  
+
+Romano, G. (2013). The role of the dysfunctional AKT-related pathway in cancer: Establishment and maintenance of a malignant cell phenotype, resistance to therapy, and future strategies for drug development. Scientifica. https://doi.org/10.1155/2013/317186  
+
+Studies on Cell Growth Promoting AKT Signalling Pathway – a Promising Anti-cancer Drug Target. (2016).  
+
+Toker, A., & Marmiroli, S. (2014). Signalling specificity in the AKT pathway in biology and disease. Advances in Biological Regulation, 55, 28–38. https://doi.org/10.1016/j.jbior.2014.04.001  
+
+Yu, Y., Savage, R. E., Eathiraj, S., Meade, J., Wick, M. J., Hall, T., Abbadessa, G., & Schwartz, B. (2015). Targeting AKT1-E17K and the PI3K/AKT pathway with an allosteric AKT inhibitor, ARQ 092. PLOS ONE, 10, e0140479. https://doi.org/10.1371/journal.pone.0140479

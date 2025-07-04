@@ -1,0 +1,81 @@
+## Phylogeny  
+Receptor-interacting protein kinase 1 (RIPK1) is one of five human RIPK family members and resides in the Tyrosine Kinase-Like (TKL) group of the human kinome (Manning et al., 2002; Martens et al., 2020; Wegner et al., 2017). The family shows a human-specific expansion that is absent from Drosophila and C. elegans kinomes (Manning et al., 2002). Murine Ripk1 is the direct orthologue of human RIPK1 (Degterev et al., 2019).
+
+## Reaction Catalyzed  
+ATP + protein substrate ⇌ ADP + phosphoprotein substrate (Chen et al., 2022).
+
+## Cofactor Requirements  
+Catalysis requires a divalent cation, specifically Mg²⁺, which supports ATP binding and phosphoryl transfer (Mifflin et al., 2020; Martens et al., 2020).
+
+## Substrate Specificity  
+RIPK1 phosphorylates Ser or Thr residues. The preferred motif contains basic residues flanking the phospho-acceptor site on both N- and C-terminal sides, with a strong bias for an aromatic residue at the +3 position (Johnson et al., 2023).
+
+## Structure  
+RIPK1 is a multidomain protein comprising an N-terminal kinase domain (aa 1–312), an intermediate domain (aa 313–531) bearing a RIP homotypic interaction motif (RHIM), and a C-terminal death domain (aa 582–671) (Degterev et al., 2019; Du & Wang, 2024; Yuan et al., 2019).  
+
+• Kinase domain: contains the activation loop beginning with the conserved DFG motif and a catalytic triad Lys45-Glu63-Asp156; toggles between DFG-in (active) and DFG-out (inactive) conformations and harbours a unique hydrophobic allosteric pocket targeted by selective inhibitors (Martens et al., 2020; Chen et al., 2022).  
+• Intermediate domain: RHIM enables homo- or hetero-oligomerisation with RHIM-containing proteins such as RIPK3, TRIF and ZBP1 (Degterev et al., 2019; Du & Wang, 2024).  
+• Death domain: mediates interactions with other DD-containing proteins, e.g., TNFR1, FADD and TRADD (Degterev et al., 2019).
+
+## Regulation  
+Activity is controlled by extensive post-translational modification (PTM) (Degterev et al., 2019; Mifflin et al., 2020; Shan et al., 2018).
+
+Phosphorylation  
+• Activating autophosphorylation: Ser14/15, Ser20, Ser161/166; p-Ser166 is a biomarker of activation (Degterev et al., 2019; Du & Wang, 2024; Martens et al., 2020).  
+• Inhibitory phosphorylation: TAK1, IKKα/β, MK2, TBK1, AMPK, JAK1 and Src phosphorylate sites including S25, T189, S320/S335 (human), S416 and Y384 (Martens et al., 2020; Yuan et al., 2019; Du & Wang, 2024). PP1γ removes inhibitory phosphates (Du & Wang, 2024).
+
+Ubiquitination  
+In TNF-α Complex I, cIAP1/2 add K63-linked chains (e.g., Lys377) and PELI1 modifies Lys115; LUBAC attaches M1-linked chains that recruit IKK to activate NF-κB. Other linkages (K11, K48) occur. CYLD and A20 act as deubiquitinases that remove chains and facilitate transition to death complexes (Degterev et al., 2019; Shan et al., 2018; Liu & Chan, 2021; Chen et al., 2022).
+
+Proteolytic cleavage  
+Caspase-8 cleaves RIPK1 at Asp324, separating the kinase and death domains and dampening apoptosis and necroptosis signalling (Yuan et al., 2019; Martens et al., 2020).
+
+## Function  
+RIPK1 serves dual, context-dependent roles (Martens et al., 2020; Mifflin et al., 2020).  
+
+• Scaffold (kinase-independent): In TNF-α-induced Complex I (with TRADD, TRAF2, cIAP1/2, LUBAC), ubiquitinated RIPK1 recruits TAK1 and IKK complexes, triggering NF-κB and MAPK activation and promoting cell survival and inflammation (Degterev et al., 2019; Du & Wang, 2024).  
+
+• Cell-death effector (kinase-dependent):  
+ – Apoptosis: formation of Complex IIa (RIPK1-FADD-caspase-8) leads to RIPK1-dependent apoptosis (Shan et al., 2018).  
+ – Necroptosis: when caspase-8 is inactive, RIPK1 interacts with RIPK3 via RHIM domains to form the necrosome (Complex IIb); RIPK3 then phosphorylates MLKL, inducing membrane rupture (Degterev et al., 2019; Du & Wang, 2024).
+
+Upstream inputs: death receptors (TNFR1, Fas) and pattern-recognition receptors (TLR3/4, RIG-I/MDA-5) (Du & Wang, 2024; Udawatte & Rothman, 2021).  
+Key partners: TNFR1, TRADD, FADD, caspase-8, RIPK3, MLKL, TRIF, ZBP1, TRAF2/5, cIAP1/2, LUBAC, TAK1, IKK complex, NEMO, CYLD, A20 (Wegner et al., 2017; Du & Wang, 2024).
+
+## Inhibitors  
+Multiple chemical classes inhibit the RIPK1 kinase domain (Shan et al., 2018; Martens et al., 2020; Mifflin et al., 2020; Chen et al., 2022).  
+• Type II/III allosteric: Necrostatin-1 (Nec-1), Nec-1s, GSK’772, GSK’547, GNE684.  
+• CNS-penetrant: DNL747, DNL788.  
+• Multi-kinase drugs with off-target RIPK1 activity: sorafenib, ponatinib, pazopanib, dabrafenib.  
+• Type I ATP-competitive inhibitors have also been reported.
+
+## Other Comments  
+RIPK1 dysregulation is linked to inflammatory, autoimmune, neurodegenerative and ischemic diseases, as well as sepsis (Mifflin et al., 2020; Martens et al., 2020).  
+• Loss-of-function mutations cause immunodeficiency, gut inflammation and polyarthritis (Martens et al., 2020).  
+• Cleavage-resistant D324Y/H mutations produce CRIA syndrome, characterised by autoinflammation (Liu & Chan, 2021; Martens et al., 2020).  
+• Kinase-dead alleles (e.g., D138N, K45A) protect against inflammation in mouse models (Mifflin et al., 2020; Wegner et al., 2017).
+
+## 9. References  
+Chen, L., Zhang, X., Ou, Y., Liu, M., Yu, D., Song, Z., Niu, L., Zhang, L., & Shi, J. (2022). Advances in RIPK1 kinase inhibitors. Frontiers in Pharmacology. https://doi.org/10.3389/fphar.2022.976435  
+
+Degterev, A., Ofengeim, D., & Yuan, J. (2019). Targeting RIPK1 for the treatment of human diseases. Proceedings of the National Academy of Sciences, 116, 9714–9722. https://doi.org/10.1073/pnas.1901179116  
+
+Du, J., & Wang, Z. (2024). Regulation of RIPK1 phosphorylation: implications for inflammation, cell death, and therapeutic interventions. Biomedicines. https://doi.org/10.3390/biomedicines12071525  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Liu, Z., & Chan, F. (2021). Regulatory mechanisms of RIPK1 in cell death and inflammation. Seminars in Cell & Developmental Biology. https://doi.org/10.1016/j.semcdb.2020.06.013  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Martens, S., Hofmans, S., Declercq, W., Augustyns, K., & Vandenabeele, P. (2020). Inhibitors targeting RIPK1/RIPK3: old and new drugs. Trends in Pharmacological Sciences. https://doi.org/10.1016/j.tips.2020.01.002  
+
+Mifflin, L., Ofengeim, D., & Yuan, J. (2020). Receptor-interacting protein kinase 1 (RIPK1) as a therapeutic target. Nature Reviews Drug Discovery, 19, 553–571. https://doi.org/10.1038/s41573-020-0071-y  
+
+Shan, B., Pan, H., Najafov, A., & Yuan, J. (2018). Necroptosis in development and diseases. Genes & Development, 32, 327–340. https://doi.org/10.1101/gad.312561.118  
+
+Udawatte, D. J., & Rothman, A. L. (2021). Viral suppression of RIPK1-mediated signaling. mBio. https://doi.org/10.1128/mBio.01723-21  
+
+Wegner, K. W., Saleh, D., & Degterev, A. (2017). Complex pathologic roles of RIPK1 and RIPK3: Moving beyond necroptosis. Trends in Pharmacological Sciences, 38, 202–225. https://doi.org/10.1016/j.tips.2016.12.005  
+
+Yuan, J., Amin, P., & Ofengeim, D. (2019). Necroptosis and RIPK1-mediated neuroinflammation in CNS diseases. Nature Reviews Neuroscience, 20, 19–33. https://doi.org/10.1038/s41583-018-0093-1

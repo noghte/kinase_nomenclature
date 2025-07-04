@@ -1,0 +1,47 @@
+## Phylogeny  
+MAST2 is a member of the AGC protein kinase superfamily and forms a distinct MAST kinase family within this group (Lemke et al., 2025; Manning et al., 2002, cited in Lemke et al., 2025; Rumpf et al., 2023). Sequence identity between MAST catalytic domains and other AGC kinases (PKA/PKG/PKC) is ~34–36 % (Rumpf et al., 2023). Phylogenetic studies place the MAST lineage among the earliest­-diverging AGC branches (Lemke et al., 2025).  
+Domain evolution: the DUF1908 domain arose before the split of MAST and MAST-like (MASTL) kinases, whereas the PDZ domain appeared later on the animal lineage (Lemke et al., 2025). Orthologs occur throughout metazoans (vertebrates, insects, nematodes and simpler animals) with strong conservation of amino-acid sequence and modular organisation (Rumpf et al., 2023). Gene duplication produced four paralogues (MAST1-4) in humans and mice, whereas many invertebrates retain a single mast gene (Rumpf et al., 2023).
+
+## Reaction Catalyzed  
+ATP + [a protein]-L-serine → ADP + [a protein]-L-serine-phosphate  
+ATP + [a protein]-L-threonine → ADP + [a protein]-L-threonine-phosphate (Rumpf et al., 2023; Johnson et al., 2023)
+
+## Cofactor Requirements  
+Mg²⁺ is essential for catalysis; conserved kinase-domain motifs coordinate Mg²⁺ together with ATP (Rumpf et al., 2023; Johnson et al., 2023).
+
+## Substrate Specificity  
+MAST2 phosphorylates serine or threonine residues within motifs enriched for hydrophobic amino acids surrounding the target site (Johnson et al., 2023). Positive selection for hydrophobics and negative selection against charged residues shape recognition; phospho-priming (requirement for a pre-existing phosphorylated residue nearby) may further influence targeting. A precise consensus sequence has not yet been defined (Johnson et al., 2023; Lemke et al., 2025).
+
+## Structure  
+The protein has a conserved tri-domain architecture (Lemke et al., 2025; Rumpf et al., 2023):  
+• N-terminal DUF1908 (~275 aa) with an unstructured serine/threonine/tyrosine-rich half followed by a structured half comprising eight α-helices.  
+• Central serine/threonine kinase domain adopting the canonical bi-lobed AGC fold. Conserved motifs include HRD, DFG, APE and an activation (T-) loop; uniquely, the first glycine of the GXGXXG glycine-rich loop is replaced by serine (Rumpf et al., 2023).  
+• C-terminal Class-1 PDZ domain that binds C-terminal peptide motifs in partner proteins such as PTEN (Rumpf et al., 2023).  
+AlphaFold models across species confirm conservation of secondary-structure elements (Rumpf et al., 2023).
+
+## Regulation  
+Activity is modulated by post-translational modifications and protein–protein interactions (Lemke et al., 2025; Rumpf et al., 2023).  
+• 14-3-3 binding depends on MAST2 phosphorylation, although exact phospho-sites remain unverified (Lemke et al., 2025; Rumpf et al., 2023).  
+• The serine substitution in the glycine-rich loop is a proposed regulatory phospho-site (Rumpf et al., 2023).  
+• Heat-shock protein interactions and ubiquitination, described for MAST1, are suggested to apply to MAST2 (Rumpf et al., 2023).  
+Disease-linked mutations frequently map to PTM-containing regions rather than destabilising the fold (Lemke et al., 2025).
+
+## Function  
+Expression: broad in human tissues, highest in gonads and skeletal muscle; predominantly cytoplasmic (Lemke et al., 2025).  
+Interacting partners/substrates:  
+• PDZ-mediated binding to PTEN; MAST2 phosphorylates and stabilises PTEN, reducing its phosphatase activity (Lemke et al., 2025; Rumpf et al., 2023).  
+• Associations with 14-3-3 proteins, Na⁺/H⁺ exchanger 3 (NHE3), CFTR, TRAF6 and β2-syntrophin (Lemke et al., 2025; Rumpf et al., 2023).  
+• Microtubule association—originally isolated from spermatid manchette fractions—may occur indirectly via microtubule-associated proteins (Rumpf et al., 2023).  
+Signalling roles: participates in PI3K and mTOR pathways; forms inhibitory complexes with TRAF6 to dampen NF-κB-dependent cytokine production; in neurons, restricts neurite outgrowth and promotes growth-cone collapse via PTEN localisation control (Rumpf et al., 2023).
+
+## Other Comments  
+Genetic alterations (over-expression, translocations or fusions) link MAST2 to diverse cancers including melanoma, oesophageal, pancreatic, hepatic and breast tumours, and to chronic myeloid leukaemia via BCR-ABL1 fusions (Rumpf et al., 2023). Non-oncogenic associations include venous thrombosis, type 2 diabetes mellitus (e.g., A1463T variant), inflammatory bowel disease, cystic fibrosis, cardiovascular and neuronal disorders (Rumpf et al., 2023; Lemke et al., 2025). Gene duplications correlate with idiopathic non-obstructive azoospermia (Lemke et al., 2025). During rabies infection, the viral glycoprotein disrupts the MAST2–PTEN complex to enhance neuronal survival (Rumpf et al., 2023). Most pathogenic variants cluster within the DUF1908 and catalytic domains; R89Q and A1463T reside in predicted intrinsically disordered regions and may have neutral or stabilising effects (Lemke et al., 2025).
+
+## References  
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Karpov, P., Nadezhdina, E., Yemets, A., & Blume, Y. (2010). Results of the clusterization of human microtubule and cell-cycle related serine/threonine protein kinases and their plant homologues. Moscow University Biological Sciences Bulletin, 65, 213–216. https://doi.org/10.3103/S0096392510040267  
+
+Lemke, M. C., Avala, N. R., Rader, M. T., Hargett, S. R., Lank, D. S., Seltzer, B. D., & Harris, T. E. (2025). Mast kinases’ function and regulation: insights from structural modeling and disease mutations. Biomedicines, 13, 925. https://doi.org/10.3390/biomedicines13040925  
+
+Rumpf, M., Pautz, S., Drebes, B., Herberg, F. W., & Müller, H.-A. J. (2023). Microtubule-associated serine/threonine (MAST) kinases in development and disease. International Journal of Molecular Sciences, 24, 11913. https://doi.org/10.3390/ijms241511913

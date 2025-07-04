@@ -1,0 +1,54 @@
+Phylogeny  
+CaMK1D belongs to the CaMK1 sub-family of multifunctional CaM kinases and clusters with CaMK1A, PNCK/CaMK1B and CaMK1G, but not with CaMKII or CaMKIV (Ohmae et al., 2006). Clear vertebrate orthologues are present in mouse (Camk1d splice variants a–d), rat and zebrafish; a conserved invertebrate homologue exists in Drosophila, whereas no yeast counterpart has been detected (Akizuki et al., 2021; Ohmae et al., 2006; “Evaluation…”, 2012).
+
+Reaction Catalyzed  
+ATP + [protein]-Ser/Thr → ADP + [protein]-Ser/Thr-PO₃²⁻ (“Structural & kinetic studies…”, 2018).
+
+Cofactor Requirements  
+Mg²⁺ for ATP coordination and Ca²⁺-bound calmodulin (Ca²⁺/CaM) for activation (“Structural & kinetic studies…”, 2018).
+
+Substrate Specificity  
+The kinase recognises the CaMK1 consensus ϕ-X-Arg-X-X-Ser/Thr-X-X-X-ϕ motif with a basic residue at ‑3 and a hydrophobic residue at ‑5 relative to the phospho-acceptor. Confirmed cellular substrates include CREB Ser133, CREMβ, eIF4GII and eIF5A (“Evaluation…”, 2012; “Structural & kinetic studies…”, 2018).
+
+Structure  
+Residues 1–303 form an N-terminal bilobal kinase domain followed by a helix-loop-helix autoinhibitory domain that overlaps a calmodulin-binding segment (~303–320) (“Evaluation…”, 2012).  
+A 2.3 Å crystal structure with the ATP-competitive inhibitor GSK-3 XIII (PDB 2JC6) displays a canonical fold with a Gly-rich loop, catalytic Lys52, HRD motif and DFG-in activation segment; the activation loop (164–185, Thr180) is flexible and unresolved (“Evaluation…”, 2012).  
+Solution NMR/SAXS show a monomeric protein that, on Ca²⁺/CaM binding, forms an elongated tri-lobed complex with CaM docked against the C-lobe (“Structural & kinetic studies…”, 2018).  
+Regulatory elements include αR1 blocking the substrate pocket, αR2 contacting the N-lobe, and a buried Trp306 essential for high-affinity CaM binding; the inhibitor-bound structure retains an intact hydrophobic spine and aligned αC helix (“Evaluation…”, 2012).
+
+Regulation  
+• Full activation requires Thr180 phosphorylation by upstream CaMKK1/2 (“Evaluation…”, 2012).  
+• Thr313 phosphorylation within the calmodulin-binding domain lowers CaM affinity and down-regulates activity (“Structural & kinetic studies…”, 2018).  
+• Mouse splice variants b and c are additionally phosphorylated by PKA at RRXS motifs, and variant c undergoes autophosphorylation on Ser349 (Akizuki et al., 2021).  
+• The autoinhibitory domain maintains inactivity; Ca²⁺/CaM binding displaces this domain in a multi-step process, and a secondary CaM site on the C-lobe yields biphasic, nanomolar-affinity binding that stabilises the active state (“Evaluation…”, 2012; “Structural & kinetic studies…”, 2018).
+
+Function  
+CAMK1D mRNA/protein is abundant in brain, liver, pancreas, spleen, thymus, prostate, testis, ovary and colon (“Evaluation…”, 2012).  
+• Neurons: depolarisation prompts nuclear translocation and CREB phosphorylation, promoting dendritic growth (Unknown Authors, 2022).  
+• Neutrophils: required for cytokine-driven proliferation and NADPH-oxidase respiratory burst (“Structural & kinetic studies…”, 2018).  
+Upstream kinase: CaMKK1/2; downstream effectors: CREB, CREMβ, eIF4GII, eIF5A (“Evaluation…”, 2012; “Structural & kinetic studies…”, 2018).
+
+Inhibitors  
+GSK-3 XIII binds the hinge region (H-bonds to Val101, water-mediated contacts to Leu29) as confirmed by crystallography and thermal-shift assays (“Evaluation…”, 2012). Additional selective CaM-kinase chemotypes that improve insulin sensitivity in vivo have been reported (Fromont et al., 2020).
+
+Other Comments  
+CAMK1D is recurrently amplified and over-expressed in basal-like/triple-negative breast cancer, driving proliferation, EMT, migration and invasion (Bergamaschi et al., 2008). GWAS identify regulatory variants at CDC123/CAMK1D associated with type 2 diabetes (Fogarty et al., 2014). Altered hydroxymethylation and SNP associations are observed in late-onset Alzheimer’s disease brain tissue (Unknown Authors, 2022). High-throughput RNAi screens highlight CAMK1D as a kinase conferring immune resistance in multiple myeloma (Unknown Authors, 2023).
+
+9. References  
+Akizuki, K., Ono, A., Xue, H., Kameshita, I., Ishida, A., & Sueyoshi, N. (2021). Biochemical characterization of four splice variants of mouse Ca²⁺/calmodulin-dependent protein kinase Iδ. Journal of Biochemistry. https://doi.org/10.1093/jb/mvaa117  
+
+Bergamaschi, A., Kim, Y. H., Kwei, K., Choi, Y. L., Bocanegra, M., Langerød, A., … Pollack, J. R. (2008). Camk1d amplification implicated in epithelial–mesenchymal transition in basal-like breast cancer. Molecular Oncology. https://doi.org/10.1016/j.molonc.2008.09.004  
+
+Fogarty, M. P., Cannon, M. E., Vadlamudi, S., Gaulton, K. J., & Mohlke, K. L. (2014). Identification of a regulatory variant that binds FOXA1 and FOXA2 at the CDC123/CAMK1D type 2 diabetes GWAS locus. PLoS Genetics, 10(9), e1004633. https://doi.org/10.1371/journal.pgen.1004633  
+
+Fromont, C., Atzori, A., Kaur, D., Hashmi, L., Greco, G., Cabanillas, A., … Butterworth, S. (2020). Discovery of highly selective inhibitors of calmodulin-dependent kinases that restore insulin sensitivity in a diet-induced obesity mouse model. Journal of Medicinal Chemistry, 63, 6784–6801. https://doi.org/10.1021/acs.jmedchem.9b01803  
+
+Ohmae, S., Takemoto-Kimura, S., Okamura, M., Adachi-Morishima, A., Nonaka, M., Fuse, T., … Bito, H. (2006). Molecular identification and characterization of a family of kinases with homology to Ca²⁺/calmodulin-dependent protein kinases I/IV. Journal of Biological Chemistry, 281, 20427–20439. https://doi.org/10.1074/jbc.M513212200  
+
+Evaluation of protein kinases for solution NMR spectroscopy and the structural mechanism of inhibition and activation of an oncogenic calcium calmodulin-dependent protein kinase Iδ. (2012). [Pages 36–333].  
+
+Structural & kinetic studies of CaMK1D interactions. (2018). [Pages 7–82].  
+
+The role of CaMK1D in Alzheimer’s disease. (2022). [Pages 28–33].  
+
+A screening for novel immune-checkpoints identifies CAMK1D as a kinase responsible for immune resistance in multiple myeloma. (2023). [Pages 133–137].

@@ -1,0 +1,53 @@
+## Phylogeny  
+ATM belongs to the phosphatidylinositol-3-kinase-related kinase (PIKK/PI3KK) family, which also comprises ATR, DNA-PKcs and mTOR (Choy & Watters, 2018; Shiloh & Ziv, 2013).  All PIKKs share a conserved domain layout—N-terminal HEAT repeats followed by FAT, kinase and FATC domains—forming a distinct clade within the protein-kinase superfamily (Paull, 2015).  Orthologues are present throughout eukaryotes, e.g., Tel1p in Saccharomyces cerevisiae, Rad3 in Schizosaccharomyces pombe, mei-41 in Drosophila melanogaster and Atm in mouse, underscoring a conserved role in DNA-damage signalling (Choy & Watters, 2018; Hoekstra, 1997; Lee & Paull, 2021).
+
+## Reaction Catalyzed  
+ATP + protein → ADP + phosphoprotein (Choy & Watters, 2018; Paull, 2015).
+
+## Cofactor Requirements  
+Requires divalent metal ions; Mn²⁺ supports optimal activity, while Mg²⁺ can substitute in some assays (Kim et al., 1999; Putti et al., 2021).
+
+## Substrate Specificity  
+ATM is a Ser/Thr kinase that preferentially phosphorylates [S/T]-Q motifs, with hydrophobic residues immediately N-terminal to the SQ/TQ enhancing recognition and basic residues disfavoured (Johnson et al., 2023; Kim et al., 1999; Shiloh & Ziv, 2013).  Motif analyses cluster ATM with other +1 Gln-selecting kinases, and the enzyme targets classic substrates such as p53 Ser15 (Johnson et al., 2023).
+
+## Structure  
+The ~350–370 kDa polypeptide forms an inactive, non-covalent homodimer.  Each protomer contains extensive N-terminal HEAT repeats, a central FAT domain, a bi-lobed C-terminal kinase domain and a terminal FATC segment (Paull, 2015; Ueno et al., 2022).  In the dimer, the catalytic cleft is autoinhibited by the FAT domain; cryo-EM has revealed “closed” inactive and “open” partially active conformers (Lee & Paull, 2021; Ueno et al., 2022).  The kinase fold resembles class I PI3-kinases and retains the conserved catalytic and activation loops required for ATP binding and phosphotransfer (Paull, 2015).
+
+## Regulation  
+DNA double-strand breaks activate ATM through recruitment by the MRN complex (Mre11-Rad50-NBS1), promoting dimer dissociation into active monomers (Choy & Watters, 2018; Paull, 2015).  Activation involves autophosphorylation on Ser1981, with additional sites Ser367 and Ser1893, and is further stimulated by acetylation of Lys3016 (Guleria & Chandna, 2016; Lee & Paull, 2021).  An MRN-independent pathway activates ATM on oxidative stress via cysteine oxidation (Lee & Paull, 2021; Paull, 2015).
+
+## Function  
+ATM is an apical kinase in the DNA-damage response, coordinating cell-cycle checkpoints, DNA repair and apoptosis (Shiloh & Ziv, 2013; Jin & Oh, 2019).  Although predominantly nuclear, ATM also functions in cytoplasm, mitochondria and peroxisomes (Choy & Watters, 2018).  Downstream substrates include p53, CHK2 and histone H2AX (Ser139) (Lee & Paull, 2021; McKinnon, 2004).  Through these targets ATM regulates genomic stability, oxidative-stress responses and mitochondrial homeostasis (Guleria & Chandna, 2016).
+
+## Inhibitors  
+Experimental inhibitors: KU-55933, KU-60019, KU-59403 and CP-466722.  
+Clinical candidates: AZD0156 and the blood–brain-barrier-permeable AZD1390.  
+Additional inhibitor: wortmannin (Jin & Oh, 2019; Hoekstra, 1997).
+
+## Other Comments  
+Loss-of-function mutations in ATM cause the autosomal-recessive disorder ataxia-telangiectasia, characterised by neurodegeneration, immunodeficiency, radiosensitivity and cancer predisposition.  Approximately 70 % of pathogenic variants create protein truncations; kinase-dead missense alleles also confer genomic instability and malignancy risk (Guleria & Chandna, 2016; Putti et al., 2021).
+
+## 9. References  
+Choy, K. R., & Watters, D. J. (2018). Neurodegeneration in ataxia-telangiectasia: Multiple roles of ATM kinase in cellular homeostasis. Developmental Dynamics, 247(1), 33-46. https://doi.org/10.1002/dvdy.24522  
+
+Guleria, A., & Chandna, S. (2016). ATM kinase: Much more than a DNA damage responsive protein. DNA Repair, 39, 1-20. https://doi.org/10.1016/j.dnarep.2015.12.009  
+
+Hoekstra, M. (1997). Responses to DNA damage and regulation of cell cycle checkpoints by the ATM protein kinase family. Current Opinion in Genetics & Development, 7(2), 170-175. https://doi.org/10.1016/S0959-437X(97)80125-6  
+
+Jin, M. H., & Oh, D.-Y. (2019). ATM in DNA repair in cancer. Pharmacology & Therapeutics, 203, 107391. https://doi.org/10.1016/j.pharmthera.2019.07.002  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., et al. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759-766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Kim, S. T., Lim, D. S., Canman, C. E., & Kastan, M. B. (1999). Substrate specificities and identification of putative substrates of ATM kinase family members. Journal of Biological Chemistry, 274(53), 37538-37543. https://doi.org/10.1074/jbc.274.53.37538  
+
+Lee, J.-H., & Paull, T. T. (2021). Cellular functions of the protein kinase ATM and their relevance to human disease. Nature Reviews Molecular Cell Biology, 22(12), 796-814. https://doi.org/10.1038/s41580-021-00394-2  
+
+McKinnon, P. J. (2004). ATM and ataxia-telangiectasia. EMBO Reports, 5(8), 772-776. https://doi.org/10.1038/sj.embor.7400210  
+
+Paull, T. T. (2015). Mechanisms of ATM activation. Annual Review of Biochemistry, 84, 711-738. https://doi.org/10.1146/annurev-biochem-060614-034335  
+
+Putti, S., Giovinazzo, A., Merolle, M., Falchetti, M., & Pellegrini, M. (2021). ATM kinase dead: From ataxia-telangiectasia syndrome to cancer. Cancers, 13(21), 5498. https://doi.org/10.3390/cancers13215498  
+
+Shiloh, Y., & Ziv, Y. (2013). The ATM protein kinase: Regulating the cellular response to genotoxic stress, and more. Nature Reviews Molecular Cell Biology, 14(4), 197-210. https://doi.org/10.1038/nrm3546  
+
+Ueno, S., Sudo, T., & Hirasawa, A. (2022). ATM: Functions of ATM kinase and its relevance to hereditary tumors. International Journal of Molecular Sciences, 23(1), 523. https://doi.org/10.3390/ijms23010523

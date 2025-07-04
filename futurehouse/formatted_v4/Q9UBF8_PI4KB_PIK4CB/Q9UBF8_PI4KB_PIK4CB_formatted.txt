@@ -1,0 +1,75 @@
+## Phylogeny  
+PI4KB belongs to the phosphatidylinositol-3/4-kinase family within the lipid-kinase branch of the human kinome (Manning et al., 2002). Phylogenetic analyses define PI3/4-kinases as an ancient protein-kinase-like clade that retains the canonical catalytic core but is distinct from classical protein kinases (Scheeff & Bourne, 2005). Verified orthologues span fungi (yeast Pik1), insects (Drosophila CG5005/four-wheel-drive), nematodes (C. elegans PI4K), and plants (PI4Kβ1/β2 and PI4Kγ3), illustrating conservation across eukaryotes (Waugh, 2019; Kumar & Kumar, 2024). More divergent homologues are present in Giardia lamblia and Plasmodium falciparum, indicating an early eukaryotic origin (Manning et al., 2011; McPhail & Burke, 2020). Human paralogues include PI4KA (type IIIα) and the type II isoforms PI4K2A and PI4K2B (Burke, 2018).
+
+## Reaction Catalyzed  
+ATP + 1-phosphatidyl-1D-myo-inositol ⇌ ADP + 1-phosphatidyl-1D-myo-inositol 4-phosphate (Dornan et al., 2016).
+
+## Cofactor Requirements  
+Catalysis requires Mg²⁺ or Mn²⁺; Ca²⁺ is inhibitory (Kumar & Kumar, 2024).
+
+## Substrate Specificity  
+PI4KB phosphorylates phosphatidylinositol resident in unsaturated Golgi membranes. No protein phosphorylation consensus has been defined, and PI4KB was not included in the Johnson 2023 serine/threonine kinase atlas (Burke, 2018; Kumar & Kumar, 2024).
+
+## Structure  
+• N-terminal disordered segment (res 1–≈83) folds upon ACBD3 binding (Burke, 2018).  
+• Helical/armadillo domain (≈84–350) contacts Rab11 and 14-3-3 proteins (Dornan et al., 2016).  
+• Bilobal kinase domain (≈351–801) contains a type III-specific N-lobe insertion; key active-site residues include Lys549 and hinge Val598/Ala601 (McPhail & Burke, 2020).  
+• C-terminal disordered tail (≈770–801) harbours an ALPS motif for membrane-curvature sensing (Burke, 2018).  
+
+Crystal structures (PDB 5FBL, 5FBQ, 5FBR, 5FBV, 5FBW) reveal a deep ATP-binding canyon where inhibitors form dual hinge hydrogen bonds to Val598/Ala601 and interact with Gly675/Asn676 (Mejdrová et al., 2017). The activation-loop/N-lobe linker (res 486–498) is disordered in apo enzyme but becomes ordered upon c10orf76 binding, correlating with inhibition (McPhail et al., 2020). Key catalytic/regulatory elements include the activation loop (486–498), the catalytic spine Lys549–Val598/Ala601–Asp665, and an allosteric interface between the C-helix and helical domain for Rab11 binding (Dornan et al., 2016).
+
+## Regulation  
+Post-translational modifications  
+• Ser294 phosphorylation by protein kinase D generates a high-affinity 14-3-3 docking site, stabilising PI4KB (Burke, 2018; Wortzel et al., 2015).  
+• Ser496 is phosphorylated by PKA, decreasing affinity for the inhibitory protein c10orf76; Ser413 is an additional in-vivo site (McPhail et al., 2020).  
+
+Protein interactions  
+• 14-3-3 dimers bind phospho-Ser294, protect the site from dephosphorylation and regulate nucleocytoplasmic shuttling (Kumar & Kumar, 2024).  
+• ACBD3 recruits PI4KB to Golgi membranes via the N-terminus (Burke, 2018).  
+• Rab11 associates with the helical domain, enabling kinase-independent scaffolding (Burke, 2018).  
+• c10orf76 binds the N-lobe linker, ordering the activation loop and potently inhibiting catalysis (McPhail et al., 2020).  
+No ubiquitination or proteolytic regulation has been reported (Dornan et al., 2016).
+
+## Function  
+Expression and localisation  
+Predominantly localises to Golgi and trans-Golgi network with a regulated nuclear pool controlled by 14-3-3 binding (Kumar & Kumar, 2024).  
+
+Cellular roles  
+• Generates the main Golgi PI4P pool that recruits OSBP, CERT, FAPPs and GOLPH3, driving lipid exchange and vesicle biogenesis (McPhail & Burke, 2020).  
+• Supports Golgi-to-plasma-membrane trafficking and cytokinesis; Rab11 binding provides kinase-independent scaffolding (Dornan et al., 2016).  
+• Ser294 phosphorylation couples PKD signalling to Golgi lipid metabolism (Burke, 2018).  
+• Essential host factor for positive-strand RNA viruses and for Plasmodium and Cryptosporidium development by enabling PI4P-rich replication organelles (Dornan et al., 2016).
+
+## Inhibitors  
+• BQR695: ATP-competitive; forms dual hinge hydrogen bonds to Val598/Ala601 and water-mediated contact to Ser618; selective for PI4KB over PI4KA and PI3Ks (McPhail & Burke, 2020).  
+• Sulfonamide Series B (e.g., compounds 23, 24, 25, 33, 35) exploit the Gly675/Asn676 pocket; high potency confirmed crystallographically (Mejdrová et al., 2017).  
+• Enviroxime analogues inhibit viral replication by targeting PI4KB (Kumar & Kumar, 2024).  
+• Additional ATP-competitive chemotypes have been structurally characterised (Mejdrová et al., 2015).
+
+## Other Comments  
+Selective PI4KB inhibition shows antimalarial and anticryptosporidial efficacy with acceptable rodent toxicity, unlike systemic PI4KA blockade (Burke, 2018). Resistance to PI4KB-targeted antivirals can arise via viral 3A protein mutations (Burke, 2018).
+
+## 9. References  
+Burke, J. E. (2018). Structural basis for regulation of phosphoinositide kinases and their involvement in human disease. Molecular Cell, 71, 653–673. https://doi.org/10.1016/j.molcel.2018.08.005  
+
+Dornan, G. L., McPhail, J. A., & Burke, J. E. (2016). Type III phosphatidylinositol 4 kinases: Structure, function, regulation, signalling and involvement in disease. Biochemical Society Transactions, 44(1), 260–266. https://doi.org/10.1042/BST20150219  
+
+Kumar, R., & Kumar, P. (2024). Phosphatidyl inositol 4-kinases. Encyclopedia, 4, 1062–1072. https://doi.org/10.3390/encyclopedia4030068  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298(5600), 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Manning, G., Reiner, D. S., Lauwaet, T., Dacre, M., Smith, A., Zhai, Y., … Gillin, F. D. (2011). The minimal kinome of Giardia lamblia illuminates early kinase evolution and unique parasite biology. Genome Biology, 12, R66. https://doi.org/10.1186/gb-2011-12-7-r66  
+
+McPhail, J. A., Lyoo, H., Pemberton, J. G., Hoffmann, R. M., van Elst, W., Strating, J. R. P. M., … Burke, J. E. (2020). Characterization of the C10orf76-PI4KB complex and its necessity for Golgi PI4P levels and enterovirus replication. EMBO Reports, 21(12), e48441. https://doi.org/10.15252/embr.201948441  
+
+McPhail, J. A., & Burke, J. E. (2020). Drugging the phosphoinositide 3-kinase (PI3K) and phosphatidylinositol 4-kinase (PI4K) family of enzymes for treatment of cancer, immune disorders, and viral/parasitic infections. Advances in Experimental Medicine and Biology, 1274, 203–222. https://doi.org/10.1007/978-3-030-50621-6_9  
+
+Mejdrová, I., Chalupská, D., Plačková, P., Müller, C., Šála, M., Klíma, M., … Nencka, R. (2017). Rational design of novel highly potent and selective phosphatidylinositol 4-kinase IIIβ (PI4KB) inhibitors as broad-spectrum antiviral agents and tools for chemical biology. Journal of Medicinal Chemistry, 60(1), 100–118. https://doi.org/10.1021/acs.jmedchem.6b01465  
+
+Mejdrová, I., Chalupská, D., Kögler, M., Šála, M., Plačková, P., Baumlová, A., … Nencka, R. (2015). Highly selective phosphatidylinositol 4-kinase IIIβ inhibitors and structural insight into their mode of action. Journal of Medicinal Chemistry, 58(9), 3767–3793. https://doi.org/10.1021/acs.jmedchem.5b00499  
+
+Scheeff, E. D., & Bourne, P. (2005). Structural evolution of the protein kinase–like superfamily. PLoS Computational Biology, 1(5), e49. https://doi.org/10.1371/journal.pcbi.0010049  
+
+Waugh, M. (2019). The great escape: How phosphatidylinositol 4-kinases and PI4P promote vesicle exit from the Golgi (and drive cancer). Biochemical Journal, 476(16), 2321–2346. https://doi.org/10.1042/BCJ20180622  
+
+Wortzel, I., Hanoch, T., Porat, Z., Hausser, A., & Seger, R. (2015). Mitotic Golgi translocation of ERK1c is mediated by a PI4KIIIβ–14-3-3γ shuttling complex. Journal of Cell Science, 128(22), 4083–4095. https://doi.org/10.1242/jcs.170910

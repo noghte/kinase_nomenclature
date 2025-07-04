@@ -1,0 +1,57 @@
+## Phylogeny  
+Protein kinase C delta (PKCδ) is an AGC-group serine/threonine kinase belonging to the PKC family, novel PKC (nPKC) sub-family (Reyland, 2009; Benes et al., 2005). Its C2 domain shares ~70 % sequence identity with PKCθ but only ~45 % with other nPKCs, underscoring a particularly close paralogous relationship between PKCδ and PKCθ (Benes et al., 2005). Experimentally confirmed orthologs are reported in Homo sapiens, Mus musculus, Rattus norvegicus, Danio rerio, Drosophila melanogaster, Caenorhabditis elegans and, as a distant AGC homologue, Saccharomyces cerevisiae Pkc1 (Kikkawa et al., 2002; Reyland, 2009; Harper & Poole, 2010).
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-Ser/Thr-phosphate (Kikkawa et al., 2002).
+
+## Cofactor Requirements  
+Catalysis strictly requires Mg²⁺; Mn²⁺ can substitute with lower efficiency (Unknown Authors, 2025).
+
+## Substrate Specificity  
+• Catalytic activity: prefers basic PKC consensus motifs R/K-X-X-S*/T* or R/K-X-S*/T* (Kikkawa et al., 2002; Steinberg, 2004).  
+• C2-domain recognition: binds Φ/YXXpYΦ sequences enriched in hydrophobic or aromatic residues flanking phosphotyrosine (Benes et al., 2005).
+
+## Structure  
+PKCδ contains an N-terminal pseudosubstrate, tandem C1A/C1B Zn-finger (DAG/phorbol) modules, a non-Ca²⁺-binding C2-like domain, a V3 hinge, and a C-terminal catalytic C3/C4 core followed by a V5 tail (Kikkawa et al., 2002; Harper & Poole, 2010).  
+• Kinase-domain crystal structure (PDB 3A8W) defines active site, C-helix and activation loop (Harper & Poole, 2010).  
+• C2 domain bound to a phosphotyrosine peptide (PDB 1YRK) reveals a dedicated pY-binding pocket (Benes et al., 2005).  
+• AlphaFold modelling provides a full-length architecture including the flexible hinge (Yang et al., 2019).  
+Key regulatory residues: Thr505 (activation loop), Ser643 (turn motif) and Ser662 (hydrophobic motif); Glu500 structurally mimics phospho-Thr505, explaining partial independence from activation-loop phosphorylation (Yang et al., 2019; Steinberg, 2004).
+
+## Regulation  
+Canonical activation is triggered by diacylglycerol/phosphatidylserine binding to C1B, releasing the pseudosubstrate and promoting membrane translocation (Kikkawa et al., 2002). Maturation phosphorylations at Thr505, Ser643 and Ser662 are installed by PDK1 or by autophosphorylation (Yang et al., 2019). A tyrosine-phosphorylation cascade involves Abl-mediated Y155 priming for subsequent Src phosphorylation at Y64; additional sites (Y52, Y187, Y311, Y332, Y512) modulate localisation and substrate access (Yang et al., 2019; Reyland & Jones, 2016). Caspase-3 cleavage within the V3 hinge yields a constitutively active nuclear fragment (Reyland & Jones, 2016). Scaffold proteins (RACKs, AKAPs, C-KIPs, p23/Tmp21, Annexin V) direct sub-cellular targeting (Reyland & Jones, 2016).
+
+## Function  
+PKCδ is widely expressed, with particularly high levels in immune cells and platelets (Kikkawa et al., 2002; Harper & Poole, 2010).  
+• DNA-damage response: nuclear PKCδ promotes BCLAF1-mediated p53 transcription and apoptosis (Reyland & Jones, 2016).  
+• Immune tolerance: restrains B-cell proliferation; loss leads to lupus-like autoimmunity (Reyland & Jones, 2016).  
+• Inflammation and sepsis: modulates NF-κB signalling, neutrophil–endothelial adhesion and vascular permeability (Yang et al., 2019).  
+• Mitochondrial dynamics/ROS: phosphorylates Drp1 and regulates NADPH oxidase (Yang et al., 2019).  
+• Platelet biology: influences granule secretion and cytoskeletal rearrangement (Harper & Poole, 2010).  
+Documented substrates include caspase-3, p52Shc/p66Shc, PMCA, HSP25, BAD and Drp1; upstream regulators include DAG/PS, PDK1, and Abl/Src family kinases (Reyland, 2009; Yang et al., 2019).
+
+## Inhibitors  
+• δV1-1 peptide (SFNSYELGSL-TAT) blocks RACK docking (Yang et al., 2019).  
+• ψδ-RACK peptide disrupts autoinhibitory contacts, thereby activating PKCδ (Reyland & Jones, 2016).  
+• Rottlerin acts as a non-specific mitochondrial uncoupler that indirectly suppresses PKCδ (Steinberg, 2004).  
+• CGP53353 is a competitive ATP-site inhibitor reported to prefer PKCδ (Steinberg, 2004).
+
+## Other Comments  
+PKCδ exhibits context-dependent roles: it is pro-apoptotic after genotoxic stress yet can promote tumour growth in HER2⁺ breast and lung cancers. Over-activation contributes to organ injury in sepsis and ischaemia-reperfusion models (Reyland & Jones, 2016; Yang et al., 2019).
+
+## 9. References  
+Benes, C. H., Wu, N., Elia, A. E. H., Dharia, T., Cantley, L. C., & Soltoff, S. P. (2005). The C2 domain of PKCδ is a phosphotyrosine binding domain. Cell, 121, 271–280. https://doi.org/10.1016/j.cell.2005.02.019  
+
+Harper, M. T., & Poole, A. W. (2010). Diverse functions of protein kinase C isoforms in platelet activation and thrombus formation. Journal of Thrombosis and Haemostasis, 8, 454–462. https://doi.org/10.1111/j.1538-7836.2009.03722.x  
+
+Kikkawa, U., Matsuzaki, H., & Yamamoto, T. (2002). Protein kinase Cδ (PKCδ): Activation mechanisms and functions. Journal of Biochemistry, 132, 831–839. https://doi.org/10.1093/oxfordjournals.jbchem.a003294  
+
+Reyland, M. E. (2009). Protein kinase C isoforms: Multi-functional regulators of cell life and death. Frontiers in Bioscience, 2386. https://doi.org/10.2741/3385  
+
+Reyland, M. E., & Jones, D. N. M. (2016). Multifunctional roles of PKCδ: Opportunities for targeted therapy in human disease. Pharmacology & Therapeutics, 165, 1–13. https://doi.org/10.1016/j.pharmthera.2016.05.001  
+
+Steinberg, S. F. (2004). Distinctive activation mechanisms and functions for protein kinase Cδ. Biochemical Journal, 384, 449–459. https://doi.org/10.1042/BJ20040704  
+
+Yang, Q., Langston, J. C., Tang, Y., Kiani, M. F., & Kilpatrick, L. E. (2019). The role of tyrosine phosphorylation of protein kinase C delta in infection and inflammation. International Journal of Molecular Sciences, 20, 1498. https://doi.org/10.3390/ijms20061498  
+
+Unknown Authors. (2025). Six-membered nitrogen-containing heterocycles as protein kinase C allosteric modulators (pp. 76–78).

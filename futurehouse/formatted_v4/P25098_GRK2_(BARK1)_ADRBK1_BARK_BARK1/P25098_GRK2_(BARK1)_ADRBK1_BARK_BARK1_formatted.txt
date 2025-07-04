@@ -1,0 +1,76 @@
+## Proposed EC/sub-subclass:  
+2.7.11.– (protein-serine/threonine kinase; specific EC number not given in the cited sources)
+
+## Accepted name:  
+G-protein-coupled receptor kinase 2
+
+## Synonyms:  
+ADRBK1; β-adrenergic-receptor kinase 1 (βARK1); GRK2
+
+## Phylogeny  
+GRK2 belongs to the AGC group of protein kinases and, within it, to the G-protein-coupled receptor kinase (GRK) family. The family is divided into three subfamilies: visual GRKs (GRK1, GRK7), β-adrenergic-receptor kinases (βARK; GRK2, GRK3), and GRK4-like kinases (GRK4, GRK5, GRK6) (Ribas et al., 2007; Sato et al., 2015). Orthologs are conserved across metazoans, with homologues reported in Drosophila and C. elegans (Cannavo et al., 2018; Ferrero & Koch, 2022).
+
+## Reaction catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Chaudhary & Kim, 2021; Evron et al., 2012; Rengo et al., 2011).
+
+## Cofactor requirements  
+Requires Mg²⁺ for catalytic activity (Cannavo et al., 2018; Chaudhary & Kim, 2021; Evron et al., 2012; Ribas et al., 2007).
+
+## Substrate Specificity  
+A positional preference spanning P-5 to P+4 surrounds the phosphorylated Ser/Thr (P0): hydrophobic residues at P-5; Arg/Lys at P-3 and strongly at P-1; small residues at P-2 and P+1; weak polar/small preferences at P+2–P+4 (Ferrero & Koch, 2022). Pre-existing phospho-Thr/Tyr in the motif can act as priming sites (Johnson et al., 2023).
+
+## Structure  
+Crystal structures of human GRK2 are available (e.g., PDB 3C4W, 3NYN, 3RK3, 2BCJ) (Cannavo et al., 2018; Ferrero & Koch, 2022; Murga et al., 2019). The protein adopts a triangular arrangement of three domains with the N-terminus contacting the others:  
+• RH (Regulator of G-protein Signalling homology) domain – binds Gα subunits and scaffolds the kinase domain (Penela et al., 2019; Evron et al., 2012).  
+• Kinase domain – canonical bilobal AGC fold containing the ATP pocket and hydrophobic spine; activation loop phosphorylation is not required for activity (Evron et al., 2012; Penela et al., 2019; Cannavo et al., 2018).  
+• PH (Pleckstrin-homology) domain – interacts with membrane phospholipids and Gβγ, directing membrane localization (Cannavo et al., 2018; Murga et al., 2019).
+
+## Regulation  
+• Allosteric: Gβγ binding to the PH domain recruits GRK2 to the plasma membrane and stimulates activity (Cannavo et al., 2018; Ferrero & Koch, 2022).  
+• Post-translational modifications:  
+ – ERK phosphorylation at Ser670 favours Hsp90 binding and mitochondrial targeting while reducing membrane association (Ferrero & Koch, 2022; Ribas et al., 2007).  
+ – PKA/PKC phosphorylation at Ser685 augments catalytic activity and receptor interaction (Ferrero & Koch, 2022; Ribas et al., 2007).  
+ – Additional phosphorylation by c-Src and CDK2, plus S-nitrosylation at Cys340, modulate function (Kang et al., 2020).  
+• Subcellular localization changes accompany these modifications and binding events (Cannavo et al., 2018; Penela et al., 2019).
+
+## Function  
+GRK2 is ubiquitously expressed, with particularly high levels in heart muscle, vascular and endothelial cells, immune cells and brain (Cannavo et al., 2018; Chaudhary & Kim, 2021; Evron et al., 2012).  
+• Canonical role: phosphorylates agonist-occupied GPCRs (e.g., β-adrenergic receptors, LPAR1, S1PR1), initiating β-arrestin recruitment, receptor desensitization and internalization (Penela et al., 2019; Rengo et al., 2011; Cannavo et al., 2018).  
+• Non-GPCR substrates: cytoskeletal proteins (tubulin, ezrin, radixin), transcription factors (Smad2/3) and signalling adaptors (IRS1) (Evron et al., 2012).  
+• Interactors: scaffolds GIT1/2, kinases PI3K and Akt, among others (Evron et al., 2012; Ferrero & Koch, 2022).  
+Through these activities GRK2 influences cardiac contractility, endothelial NO production, cell migration, cytoskeletal dynamics and metabolic control (Evron et al., 2012; Ferrero & Koch, 2022).
+
+## Inhibitors  
+• Small molecules: paroxetine and derivatives (selective), gallein and M119 (disrupt Gβγ interaction) (Cannavo et al., 2018; Ferrero & Koch, 2022; Han et al., 2018).  
+• Peptide: βARKct, a C-terminal GRK2 fragment that sequesters Gβγ (Rengo et al., 2011; Han et al., 2018).  
+• RNA aptamer: C13 stabilizes an inactive conformation (Han et al., 2018).
+
+## Other Comments  
+Elevated GRK2 levels and activity contribute to heart failure, hypertension, cardiac hypertrophy, obesity and inflammatory diseases (Cannavo et al., 2018; Murga et al., 2019). Myocardial or lymphocyte GRK2 levels correlate with heart-failure severity and mortality (Cannavo et al., 2018). Global knockout in mice is embryonic-lethal owing to cardiac malformations, whereas experimental inhibition or partial deletion mitigates pathological cardiac remodeling (Cannavo et al., 2018; Guccione et al., 2016).
+
+## References  
+Cannavo, A., Komici, K., Bencivenga, L., D’amico, M. L., Gambino, G., Liccardo, D., Ferrara, N., & Rengo, G. (2018). GRK2 as a therapeutic target for heart failure. Expert Opinion on Therapeutic Targets, 22, 75–83. https://doi.org/10.1080/14728222.2018.1406925  
+
+Chaudhary, P., & Kim, S. (2021). The GRKs reactome: Role in cell biology and pathology. International Journal of Molecular Sciences. https://doi.org/10.3390/ijms22073375  
+
+Evron, T., Daigle, T., & Caron, M. (2012). GRK2: Multiple roles beyond G protein-coupled receptor desensitization. Trends in Pharmacological Sciences, 33(3), 154–164. https://doi.org/10.1016/j.tips.2011.12.003  
+
+Ferrero, K. M., & Koch, W. J. (2022). GRK2 in cardiovascular disease and its potential as a therapeutic target. Journal of Molecular and Cellular Cardiology, 172, 14–23. https://doi.org/10.1016/j.yjmcc.2022.07.008  
+
+Guccione, M., Ettari, R., Taliani, S., Da Settimo, F., Zappalà, M., & Grasso, S. (2016). G-protein-coupled receptor kinase 2 (GRK2) inhibitors: Current trends and future perspectives. Journal of Medicinal Chemistry, 59(20), 9277–9294. https://doi.org/10.1021/acs.jmedchem.5b01939  
+
+Han, C.-c., Li, Y., Wang, Y., Cui, D., Luo, T., Zhang, Y., Ma, Y., & Wei, W. (2018). Development of inflammatory immune response-related drugs based on G protein-coupled receptor kinase 2. Cellular Physiology and Biochemistry, 51, 729–745. https://doi.org/10.1159/000495329  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Kang, J.-H., Toita, R., Kawano, T., Murata, M., & Asai, D. (2020). Design of substrates and inhibitors of G-protein-coupled receptor kinase 2 (GRK2) based on its phosphorylation reaction. Amino Acids, 52, 863–870. https://doi.org/10.1007/s00726-020-02864-x  
+
+Murga, C., Arcones, A. C., Cruces-Sande, M., Briones, A. M., Salaices, M., & Mayor, F. Jr. (2019). G protein-coupled receptor kinase 2 (GRK2) as a potential therapeutic target in cardiovascular and metabolic diseases. Frontiers in Pharmacology. https://doi.org/10.3389/fphar.2019.00112  
+
+Penela, P., Ribas, C., Sánchez-Madrid, F., & Mayor, F. (2019). G protein-coupled receptor kinase 2 (GRK2) as a multifunctional signaling hub. Cellular and Molecular Life Sciences, 76, 4423–4446. https://doi.org/10.1007/s00018-019-03274-3  
+
+Rengo, G., Lymperopoulos, A., Leosco, D., & Koch, W. (2011). GRK2 as a novel gene-therapy target in heart failure. Journal of Molecular and Cellular Cardiology, 50(5), 785–792. https://doi.org/10.1016/j.yjmcc.2010.08.014  
+
+Ribas, C., Penela, P., Murga, C., Salcedo, A., García-Hoz, C., Jurado-Pueyo, M., Aymerich, I., & Mayor, F. (2007). The G protein-coupled receptor kinase (GRK) interactome: Role of GRKs in GPCR regulation and signaling. Biochimica et Biophysica Acta, 1768(4), 913–922. https://doi.org/10.1016/j.bbamem.2006.09.019  
+
+Sato, P. Y., Chuprun, J. K., Schwartz, M., & Koch, W. J. (2015). The evolving impact of G protein-coupled receptor kinases in cardiac health and disease. Physiological Reviews, 95, 377–404. https://doi.org/10.1152/physrev.00015.2014

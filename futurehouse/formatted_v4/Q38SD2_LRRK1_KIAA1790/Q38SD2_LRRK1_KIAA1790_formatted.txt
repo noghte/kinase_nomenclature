@@ -1,0 +1,67 @@
+## Phylogeny  
+Leucine-rich repeat kinase 1 (LRRK1) belongs to the ROCO family within the Tyrosine-Kinase-Like (TKL) branch of the human kinome (Gilsbach & Kortholt, 2014). Vertebrate LRRK1 and LRRK2 arose from a duplication of a single ancestral gene, whereas invertebrates such as Caenorhabditis elegans (LRK-1) and Drosophila melanogaster (dLRRK) retain only one orthologue (Mata et al., 2006). Additional homologues are present in Dictyostelium discoideum (Roco4) and Chlorobium tepidum, highlighting conservation of the ROC–COR–kinase cassette (Gilsbach & Kortholt, 2014). Human LRRK1 shares ~70 % sequence identity with LRRK2 across the ROC, COR and kinase domains (Mata et al., 2006).
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr ⇄ ADP + [protein]-O-phospho-Ser/Thr (Malik et al., 2021).
+
+## Cofactor Requirements  
+Mg²⁺ is essential; activity is assayed with MgATP. Mn²⁺ dependence has not been reported (Malik et al., 2021).
+
+## Substrate Specificity  
+• High-affinity substrate Rab7A, phosphorylated at Ser72 within the switch-II motif (Malik et al., 2021).  
+• Rab8A and Rab10 are not substrates, indicating narrow Rab selectivity (Malik et al., 2021).  
+• OSTM1 is phosphorylated at Thr328/Ser329 in osteoclasts, stabilising the protein (Shen et al., 2023).  
+• CLIP-170 is phosphorylated in HEK293 cells; site not mapped (Xing et al., 2017).  
+• A global consensus motif beyond the Rab switch-II context has not been defined (Malik et al., 2021).
+
+## Structure  
+Full-length human LRRK1 (2 015 aa) forms an antiparallel homodimer featuring an N-terminal ANK repeat region, an LRR domain, a ROC GTPase (G1–G5 motifs), CORA and CORB subdomains, a serine/threonine kinase domain (VAIK, HRD, DFG motifs) and a C-terminal WD40 β-propeller (Gilsbach & Kortholt, 2014; Sejwal et al., 2017; Xing et al., 2017). Cryo-EM (25 Å) visualises the dimeric ROC-COR-kinase core but could not resolve the WD40 domain (Sejwal et al., 2017). Within CORB, Ser1064, Ser1074 and Thr1075 constitute a phosphorylation-controlled allosteric loop adjacent to the kinase αC-helix (Malik et al., 2022). ROC Lys651 is essential for GTP binding; K651A abolishes nucleotide binding and kinase activity (Xing et al., 2017). No high-resolution crystal structure is available, but AlphaFold predicts a canonical bilobal kinase fold consistent with experimental data (Gilsbach & Kortholt, 2014).
+
+## Regulation  
+Post-translational modifications  
+– PKCα, PKCβ and PKCθ phosphorylate Ser1064, Ser1074 and Thr1075; Thr1075 is critical for activation, and a triple phosphomimetic boosts basal activity ~3-fold (Malik et al., 2022).  
+– Phorbol ester or EGF stimulation enhances Rab7A Ser72 phosphorylation via PKC-dependent activation of LRRK1 (Malik et al., 2021).  
+– LRRK1 autophosphorylates in vitro; phosphorylation is absent in the kinase-dead D1409A variant (Malik et al., 2021).  
+– PPM1H selectively dephosphorylates Rab7A Ser72 (Malik et al., 2021).  
+
+Conformational/allosteric control  
+– Homodimerisation through the ROC-COR scaffold is required for full activity (Sejwal et al., 2017).  
+– WD40 truncation disrupts dimerisation and abolishes kinase function (Xing et al., 2017).
+
+## Function  
+Expression  
+Detected in bone, liver, lung and brain, with marked up-regulation during late osteoclast differentiation (Xing et al., 2017).
+
+Physiological roles  
+– Negative regulator of bone mass; Lrrk1-null mice exhibit severe metaphyseal osteopetrosis (Shen et al., 2023).  
+– Phosphorylates/stabilises OSTM1, promoting lysosomal trafficking required for bone resorption (Shen et al., 2023).  
+– Rab7A Ser72 phosphorylation enhances Rab7A–RILP binding and centripetal trafficking of EGF-containing endosomes (Xu et al., 2021).
+
+Interactors and pathways  
+Confirmed interactors: Rab7A, APPL1, Hsc70 (Xing et al., 2017).  
+Upstream activators: PKC isoforms (Malik et al., 2022).
+
+## Inhibitors  
+The multi-target kinase inhibitor GZD-824 blocks both LRRK1 and LRRK2, whereas LRRK2-selective compounds do not inhibit LRRK1 (Malik et al., 2021).
+
+## Other Comments  
+Homozygous loss-of-function mutations in LRRK1 cause autosomal-recessive osteosclerotic metaphyseal dysplasia, paralleling the Lrrk1-null mouse phenotype (Xing et al., 2017). LRRK1 is not implicated in Parkinson’s disease, underscoring functional divergence from LRRK2 (Xing et al., 2017). The existence of a WD40 domain is supported by sequence analysis but remains unresolved structurally (Sejwal et al., 2017; Zhang & Kortholt, 2023).
+
+## References  
+Gilsbach, B. K., & Kortholt, A. (2014). Structural biology of the LRRK2 GTPase and kinase domains: implications for regulation. Frontiers in Molecular Neuroscience, 7, 32. https://doi.org/10.3389/fnmol.2014.00032  
+
+Malik, A. U., Karapetsas, A., Nirujogi, R. S., Mathea, S., Pal, P., Lis, P., Taylor, M., Purlyte, E., Gourlay, R., Dorward, M., Weidlich, S., Toth, R., Polinski, N., Knapp, S., Tonelli, F., & Alessi, D. (2021). Deciphering the LRRK code: LRRK1 and LRRK2 phosphorylate distinct Rab proteins and are regulated by diverse mechanisms. Biochemical Journal, 478, 553–578. https://doi.org/10.1042/BCJ20200937  
+
+Malik, A. U., Karapetsas, A., Nirujogi, R. S., Chatterjee, D., Phung, T. K., Wightman, M., Gourlay, R., Morrice, N., Mathea, S., Knapp, S., & Alessi, D. R. (2022). PKC isoforms activate LRRK1 kinase by phosphorylating conserved residues (Ser1064, Ser1074 and Thr1075) within the CORB GTPase domain. Biochemical Journal, 479, 1941–1965. https://doi.org/10.1042/BCJ20220308  
+
+Mata, I. F., Wedemeyer, W. J., Farrer, M. J., Taylor, J. P., & Gallo, K. A. (2006). LRRK2 in Parkinson's disease: protein domains and functional insights. Trends in Neurosciences, 29, 286–293. https://doi.org/10.1016/j.tins.2006.03.006  
+
+Sejwal, K., Chami, M., Rémigy, H., Vancraenenbroeck, R., Sibran, W., Sütterlin, R., Baumgartner, P., McLeod, R., Chartier-Harlin, M.-C., Baekelandt, V., Stahlberg, H., & Taymans, J.-M. (2017). Cryo-EM analysis of homodimeric full-length LRRK2 and LRRK1 protein complexes. Scientific Reports, 7, 8667. https://doi.org/10.1038/s41598-017-09126-z  
+
+Shen, S., Si, M., Zeng, C., Liu, E. K., Chen, Y., Vacher, J., Zhao, H., Mohan, S., & Xing, W. (2023). Leucine repeat rich kinase 1 controls osteoclast activity by managing lysosomal trafficking and secretion. Biology, 12, 511. https://doi.org/10.3390/biology12040511  
+
+Xing, W. R., Goodluck, H., Zeng, C., & Mohan, S. (2017). Role and mechanism of action of leucine-rich repeat kinase 1 in bone. Bone Research, 5, 17003. https://doi.org/10.1038/boneres.2017.3  
+
+Xu, L., Nagai, Y., Kajihara, Y., Ito, G., & Tomita, T. (2021). The regulation of Rab GTPases by phosphorylation. Biomolecules, 11, 1340. https://doi.org/10.3390/biom11091340  
+
+Zhang, X., & Kortholt, A. (2023). LRRK2 structure-based activation mechanism and pathogenesis. Biomolecules, 13, 612. https://doi.org/10.3390/biom13040612

@@ -1,0 +1,73 @@
+## Phylogeny  
+Orthologues of the Tribbles pseudokinase TRIB3 are present in vertebrates (Homo sapiens, Mus musculus, Bos taurus, Loxodonta africana, Alligator mississippiensis, Xenopus tropicalis) but absent from fungi, plants and choanoflagellates (Eyers et al., 2017, pp. 4–6). Drosophila melanogaster encodes a single Tribbles protein (Trbl) that is the invertebrate counterpart and shares the adaptor-type architecture with TRIB3 (Dobens et al., 2021, pp. 2–4). In vertebrates, TRIB3 is one of three paralogues; TRIB1 and TRIB3 duplicated from the ancestral TRIB2 lineage (Eyers et al., 2017, pp. 2–4). Within the human kinome it clusters in the CAMK-like, Tribbles pseudokinase sub-branch, retaining a bilobal kinase fold but lacking catalytic motifs (Eyers et al., 2017, pp. 1–2).
+
+## Reaction Catalyzed  
+ATP + TRIB3 ⇄ ADP + TRIB3-O-P (very weak, intramolecular autophosphorylation; no activity toward exogenous substrates) (UnknownAuthors, 2014, pp. 168–171).
+
+## Cofactor Requirements  
+Autophosphorylation proceeds without divalent cations; physiological Mg²⁺ concentrations inhibit the reaction (UnknownAuthors, 2014, pp. 168–171). Loss of the canonical DFG motif abolishes a Mg²⁺-binding site (Singh et al., 2024, pp. 2–4).
+
+## Substrate Specificity  
+No consensus phosphorylation motif or bona fide protein substrate has been identified; large-scale kinase panels show no detectable activity (UnknownAuthors, 2023c, pp. 95–96; Eyers & Murphy, 2016, p. 6).
+
+## Structure  
+• Modular organisation:  
+ – N-terminal PEST/nuclear-localisation segment (aa 1–≈80) regulating stability and import (Singh et al., 2024, pp. 2–4).  
+ – Central bilobal pseudokinase domain (aa ≈81–330) retains the VAIK lysine but contains an SLE (DFG→SLE) motif, a shortened glycine-rich loop and a bent αC helix that collapses the ATP pocket (Murphy et al., 2015, pp. 3–4; UnknownAuthors, 2023c, pp. 95–96).  
+ – C-terminal tail (aa ≈331–358) bearing HPWF (MEK1 binding) and DQXVP[E] (COP1 binding) motifs (Singh et al., 2024, pp. 2–4).  
+• TRIB1 crystal structure (PDB 5CEM) shows an auto-inhibited fold in which the tail occludes the active site; AlphaFold predicts the same arrangement for TRIB3 (Murphy et al., 2015, pp. 3–4).  
+• The activation loop is shortened and the hydrophobic spine disrupted, explaining catalytic incompetence (Murphy et al., 2015, pp. 3–4).  
+• Substrate engagement is proposed to displace the C-tail and trigger an SLE “out → in” switch that licences adaptor function (Dobens et al., 2021, pp. 2–4).
+
+## Regulation  
+• Phosphorylation of Ser80/Ser83 by unidentified proline-directed kinases influences stability and localisation (Mondal et al., 2016, pp. 57–68).  
+• Weak, Mg²⁺-independent autophosphorylation on undefined sites within the pseudokinase domain (UnknownAuthors, 2016a, pp. 14–17).  
+• Ubiquitination: the DQXVP[E] cassette recruits COP1 and SIAH1, promoting proteasomal degradation; UBR2 and the deubiquitinase USP16 also interact with this region (Mondal et al., 2016, pp. 57–68; UnknownAuthors, 2023a, pp. 38–39).  
+• Transcriptional induction by ER-stress (PERK–eIF2α–ATF4–CHOP), hypoxia (HIF-1α) and cytokines (TNFα, IL-3) markedly elevates TRIB3 mRNA (Mondal et al., 2016, pp. 10–13).  
+• Negative feedback: accumulated TRIB3 binds ATF4 to dampen further ATF4-driven transcription (Mondal et al., 2016, pp. 10–13).  
+• Conformational autoinhibition is maintained by C-tail docking; binding of partners such as MEK1 or AKT displaces the tail and remodels the SLE motif (Dobens et al., 2021, pp. 2–4).
+
+## Function  
+• Localises to both nucleus and cytoplasm; distribution shifts with nutrient status and stress (Mondal et al., 2016, pp. 10–13).  
+• Directly binds AKT1/2, shielding Thr308 and Ser473, thereby suppressing PI3K–AKT–mTOR signalling, contributing to fasting-induced gluconeogenesis and insulin resistance (Du & Tsichlis, 2005, pp. 4–5).  
+• Via COP1 recruitment, targets acetyl-CoA carboxylase, C/EBPβ and PPARγ for ubiquitination, repressing adipocyte differentiation and enhancing fatty-acid oxidation (Qi et al., 2006, pp. 1–2; Bezy et al., 2007, pp. 10–12).  
+• Interacts with ATF4, CHOP and RELA/p65 to modulate the integrated stress response and NF-κB pathways, acting as a transcriptional brake (UnknownAuthors, 2023b, pp. 41–42; Mondal et al., 2016, pp. 57–68).  
+• Proteomics identifies additional partners (ZBTB1, SPEN, WRAD complex, PRKD1, MKNK1/2) linking TRIB3 to chromatin repression and MAPK signalling (UnknownAuthors, 2023a, pp. 38–39).  
+• Reported roles include regulation of glucose/lipid homeostasis, erythroid progenitor survival and stress-induced apoptosis (UnknownAuthors, 2016b, pp. 42–44; Mondal et al., 2016, pp. 57–68).  
+• In cancer, elevated TRIB3 can sustain tumour growth and metastasis via MAPK, Notch and autophagy pathways, although its AKT inhibition may exert tumour-suppressive effects, giving context-dependent outcomes (UnknownAuthors, 2016c, pp. 44–47).
+
+## Other Comments  
+The human TRIB3 gene (chromosome 20p13-p12.2) comprises six exons and encodes a 358-aa (~65 kDa) protein (Mondal et al., 2016, pp. 10–13). SNP rs2295490 (Q84R) associates with insulin resistance and cardiovascular risk (Mondal et al., 2016, pp. 10–13). Hepatic over-expression causes hyperglycaemia and systemic insulin resistance, whereas knock-down restores insulin sensitivity in diabetic mice (Du & Tsichlis, 2005, pp. 4–5). Amplification or over-expression is reported in multiple cancers and correlates with poor prognosis (UnknownAuthors, 2016c, pp. 44–47).
+
+## 9. References  
+Bezy, O., Vernochet, C., Gesta, S., Farmer, S., & Kahn, C. R. (2007). Trb3 blocks adipocyte differentiation through the inhibition of C/EBPβ transcriptional activity. Molecular and Cellular Biology, 27, 6818–6831. https://doi.org/10.1128/MCB.00375-07  
+
+Dobens, L., Nauman, C., Fischer, Z., & Yao, X. (2021). Control of cell growth and proliferation by the tribbles pseudokinase: Lessons from Drosophila. Cancers, 13, 883. https://doi.org/10.3390/cancers13040883  
+
+Du, K., & Tsichlis, P. (2005). Regulation of the AKT kinase by interacting proteins. Oncogene, 24, 7401–7409. https://doi.org/10.1038/sj.onc.1209099  
+
+Eyers, P. A., Keeshan, K., & Kannan, N. (2017). Tribbles in the 21st century: The evolving roles of tribbles pseudokinases in biology and disease. Trends in Cell Biology, 27, 284–298. https://doi.org/10.1016/j.tcb.2016.11.002  
+
+Eyers, P. A., & Murphy, J. M. (2016). The evolving world of pseudoenzymes: Proteins, prejudice and zombies. BMC Biology, 14, 98. https://doi.org/10.1186/s12915-016-0322-x  
+
+Mondal, D., Mathur, A., & Chandra, P. K. (2016). Tripping on TRIB3 at the junction of health, metabolic dysfunction and cancer. Biochimie, 124, 34–52. https://doi.org/10.1016/j.biochi.2016.02.005  
+
+Murphy, J. M., Nakatani, Y., Jamieson, S. A., Dai, W., Lucet, I. S., & Mace, P. D. (2015). Molecular mechanism of CCAAT-enhancer binding protein recruitment by the TRIB1 pseudokinase. Structure, 23(11), 2111–2121. https://doi.org/10.1016/j.str.2015.08.017  
+
+Qi, L., Heredia, J. E., Altarejos, J. Y., Screaton, R., Goebel, N., Niessen, S., … Montminy, M. (2006). TRB3 links the E3 ubiquitin ligase COP1 to lipid metabolism. Science, 312, 1763–1766. https://doi.org/10.1126/science.1123374  
+
+Singh, K., Showalter, C. A., Manring, H. R., Haque, S. J., & Chakravarti, A. (2024). “Oh, dear we are in tribble”: An overview of the oncogenic functions of tribbles 1. Cancers, 16, 1889. https://doi.org/10.3390/cancers16101889  
+
+UnknownAuthors. (2014). Biochemical analysis of human cancer-associated pseudokinases (pp. 168–171).  
+
+UnknownAuthors. (2016a). Functions and regulation of the mammalian pseudokinase TRIB3 (pp. 14–17).  
+
+UnknownAuthors. (2016b). Functions and regulation of the mammalian pseudokinase TRIB3 (pp. 42–44).  
+
+UnknownAuthors. (2016c). Functions and regulation of the mammalian pseudokinase TRIB3 (pp. 44–47).  
+
+UnknownAuthors. (2023a). Proteomics approaches for the study of adipose tissue biology: TRIB3 and beyond (pp. 38–39).  
+
+UnknownAuthors. (2023b). Proteomics approaches for the study of adipose tissue biology: TRIB3 and beyond (pp. 41–42).  
+
+UnknownAuthors. (2023c). Proteomics approaches for the study of adipose tissue biology: TRIB3 and beyond (pp. 95–96).

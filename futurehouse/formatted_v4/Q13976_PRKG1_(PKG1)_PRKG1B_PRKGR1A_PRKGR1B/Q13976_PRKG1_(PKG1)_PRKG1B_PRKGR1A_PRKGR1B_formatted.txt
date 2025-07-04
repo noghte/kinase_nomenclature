@@ -1,0 +1,71 @@
+## Phylogeny  
+PRKG1 belongs to the AGC protein-kinase group, PKG family, within the canonical human kinome (Arencibia et al., 2013; Manning et al., 2002). Orthologs with experimental or bioinformatic support occur in vertebrates (Homo sapiens PRKG1, Mus musculus Prkg1, Rattus norvegicus Prkg1), insects (Drosophila melanogaster DG1/PKG-like), nematodes (Caenorhabditis elegans egl-4) and apicomplexan parasites (Plasmodium falciparum / P. vivax PKG) (Arencibia et al., 2013; Bakkouri et al., 2019). Saccharomyces cerevisiae lacks a direct PKG but retains other AGC kinases (Arencibia et al., 2013). Phylogenetically PRKG1 clusters most closely with PRKG2 and shares the PIF-pocket sub-family feature with PKA and PKC isoforms (Arencibia et al., 2013).
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr ⇌ ADP + protein-L-Ser/Thr-phosphate (Arencibia et al., 2013).
+
+## Cofactor Requirements  
+Catalytic turnover requires divalent Mg²⁺ ions; MgCl₂ is routinely included in assays and Mg²⁺ is coordinated in nucleotide-bound crystal structures (Guo et al., 2013; Chan et al., 2020; Bakkouri et al., 2019).
+
+## Substrate Specificity  
+PRKG1 prefers basic residues at −3/−2 and a hydrophobic residue at +1 relative to the phosphoacceptor, giving a consensus R/K-R/K-X-X-S/T-Φ motif (Thomas et al., 1990; Arencibia et al., 2013). Verified cellular targets that match this pattern include VASP Ser239, MYPT1 Ser695/Thr696 and sites in the cGMP-binding phosphodiesterase (Hofmann et al., 2006; Thomas et al., 1990; Vaandrager & de Jonge, 1996).
+
+## Structure  
+Domain organisation  
+• N-terminal leucine-zipper dimerisation/targeting region containing an autoinhibitory segment (Hofmann, 2005).  
+• Tandem cyclic-nucleotide-binding domains: high-affinity CNB-A and lower-affinity CNB-B (Campbell et al., 2016).  
+• C-terminal Ser/Thr kinase domain with a canonical AGC fold and PIF-pocket (Arencibia et al., 2013).
+
+3D information  
+Human fragments have been solved: CNB-B (PDB 4KU8), CNB-A (5C53) and the isolated kinase domain (4O4X), revealing nucleotide-recognition and catalytic motifs (Chan et al., 2020). Full-length Plasmodium PKG structures show a pentagonal assembly in which the autoinhibitory segment blocks the substrate groove; sequential cGMP binding releases this segment—a mechanism conserved in PRKG1 (Bakkouri et al., 2019). The catalytic core displays an ordered activation loop and intact hydrophobic C- and R-spines typical of active AGC kinases (Bakkouri et al., 2019). Arg177 in CNB-A anchors cGMP; the pathogenic Arg177Gln substitution disrupts this contact and favours an active conformation (Guo et al., 2013).
+
+## Regulation  
+• Allosteric activation: sub-micromolar cGMP binding to CNB-A/B displaces the autoinhibitory segment (Hofmann, 2005).  
+• Autophosphorylation: Ser65 (PKG1α) and Ser80 (PKG1β) enhance and stabilise activity; additional N-terminal phosphorylation events tune substrate selectivity (Chan et al., 2020; Hofmann, 2005).  
+• The PIF-pocket forms an auxiliary allosteric site that can be targeted by small molecules (Arencibia et al., 2013).
+
+## Function  
+Expression: highly abundant in vascular and visceral smooth muscle, platelets, cerebellum, hippocampus and dorsal root ganglia; present at lower levels in cardiac muscle and other neurons (Hofmann et al., 2006).
+
+Upstream signalling: nitric-oxide-stimulated soluble guanylate cyclase and natriuretic-peptide receptor guanylate cyclases raise cGMP, thereby engaging PRKG1 (Hofmann, 2005).
+
+Downstream actions  
+• Smooth-muscle relaxation via MYPT1 phosphorylation leading to myosin light-chain dephosphorylation (Hofmann et al., 2006).  
+• Platelet inhibition through VASP phosphorylation and cytoskeletal remodelling (Arencibia et al., 2013).  
+• Reduction of cardiac L-type Ca²⁺ current by stimulation of phosphodiesterase II (Vaandrager & de Jonge, 1996).  
+• Neuronal roles in axon guidance, synaptic plasticity and nociception (Hofmann et al., 2006).
+
+## Inhibitors  
+• Rp-8-pCPT-cGMPS and Rp-8-pCPT-PET-cGMPS competitively block cyclic-nucleotide binding and partially inhibit both wild-type and R177Q PRKG1 (Chan et al., 2020).  
+• DT-2 peptide potently inhibits mutant and wild-type kinase activity (Chan et al., 2020).  
+• H-8, a pan-AGC small molecule, attenuates PRKG1 signalling in cells (Jafari et al., 2015).
+
+## Other Comments  
+A recurrent gain-of-function variant, p.Arg177Gln, causes autosomal-dominant thoracic aortic aneurysm and dissection by rendering the kinase constitutively active, independent of cGMP (Guo et al., 2013). A de novo p.Gly370Ser substitution in the glycine-rich loop is also associated with aortic disease (Zhang et al., 2018). PRKG1 is listed as a category A hereditary TAAD gene in clinical guidelines (Takeda & Komuro, 2019).
+
+## References  
+Arencibia, J. M., Pastor-Flores, D., Bauer, A. F., Schulze, J. O., & Biondi, R. M. (2013). AGC protein kinases: From structural mechanism of regulation to allosteric drug development for the treatment of human diseases. Biochimica et Biophysica Acta – Proteins and Proteomics, 1834, 1302–1321. https://doi.org/10.1016/j.bbapap.2013.03.010  
+
+Bakkouri, M. E., Kouidmi, I., Wernimont, A. K., Amani, M., Hutchinson, A., Loppnau, P., … Hui, R. (2019). Structures of the cGMP-dependent protein kinase in malaria parasites reveal a unique structural relay mechanism for activation. Proceedings of the National Academy of Sciences, 116, 14164–14173. https://doi.org/10.1073/pnas.1905558116  
+
+Campbell, J. C., Li, K., Kim, J. J., Huang, G., Reger, A., Matsuda, S., … Kim, C. (2016). Structural basis of cyclic nucleotide selectivity in cGMP-dependent protein kinase II. BMC Pharmacology & Toxicology, 16(Suppl 1), A15. https://doi.org/10.1186/2050-6511-16-S1-A15  
+
+Chan, M. H., Aminzai, S., Hu, T., Taran, A., Li, S., Kim, C., … Casteel, D. E. (2020). A substitution in cGMP-dependent protein kinase 1 associated with aortic disease induces an active conformation in the absence of cGMP. Journal of Biological Chemistry, 295, 10394–10405. https://doi.org/10.1074/jbc.RA119.010984  
+
+Guo, D.-C., Regalado, E., Casteel, D. E., Santos-Cortez, R. L., Gong, L., Kim, J. J., … Milewicz, D. M. (2013). Recurrent gain-of-function mutation in PRKG1 causes thoracic aortic aneurysms and acute aortic dissections. American Journal of Human Genetics, 93(2), 398–404. https://doi.org/10.1016/j.ajhg.2013.06.019  
+
+Hofmann, F. (2005). The biology of cyclic GMP-dependent protein kinases. Journal of Biological Chemistry, 280, 1–4. https://doi.org/10.1074/jbc.R400035200  
+
+Hofmann, F., Feil, R., Kleppisch, T., & Schlossmann, J. (2006). Function of cGMP-dependent protein kinases as revealed by gene deletion. Physiological Reviews, 86, 1–23. https://doi.org/10.1152/physrev.00015.2005  
+
+Jafari, A., Siersbaek, M. S., Chen, L., Qanie, D., Zaher, W., Abdallah, B. M., & Kassem, M. (2015). Pharmacological inhibition of protein kinase G1 enhances bone formation by human skeletal stem cells through activation of RhoA-Akt signaling. Stem Cells. https://doi.org/10.1002/stem.2013  
+
+Manning, G., Plowman, G. D., Hunter, T., & Sudarsanam, S. (2002). Evolution of protein kinase signaling from yeast to man. Trends in Biochemical Sciences, 27, 514–520. https://doi.org/10.1016/S0968-0004(02)02179-5  
+
+Thomas, M. K., Francis, S., & Corbin, J. (1990). Substrate- and kinase-directed regulation of phosphorylation of a cGMP-binding phosphodiesterase by cGMP. Journal of Biological Chemistry, 265(25), 14971–14978. https://doi.org/10.1016/S0021-9258(18)77211-6  
+
+Vaandrager, A. B., & de Jonge, H. R. (1996). Signalling by cGMP-dependent protein kinases. Molecular and Cellular Biochemistry, 157, 23–30. https://doi.org/10.1007/BF00227877  
+
+Zhang, W., Han, Q., Liu, Z., Zhou, W., Cao, Q., & Zhou, W. (2018). Exome sequencing reveals a de novo PRKG1 mutation in a sporadic patient with aortic dissection. BMC Medical Genetics, 19, Article 173. https://doi.org/10.1186/s12881-018-0735-1  
+
+Takeda, N., & Komuro, I. (2019). Genetic basis of hereditary thoracic aortic aneurysms and dissections. Journal of Cardiology, 74, 136–143. https://doi.org/10.1016/j.jjcc.2019.03.014

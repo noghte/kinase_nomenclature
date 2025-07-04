@@ -1,0 +1,43 @@
+## Phylogeny  
+Orthologs exist in Mus musculus and Bos taurus, and a single homolog is present in Drosophila melanogaster whose deletion causes male sterility that can be partly rescued with human TSSKs (Nayyab et al., 2025). Bayesian analyses place TSSK6 in the testis-specific serine/threonine kinase (TSSK) clade, which branches from the AMPK-related subgroup of the CAMK group within the Manning kinome (Salicioni et al., 2020).
+
+## Reaction Catalyzed  
+ATP + [protein] ⇄ ADP + [protein]-O-phospho-L-serine/threonine (Salicioni et al., 2020).
+
+## Cofactor Requirements  
+Catalytic activity is Mn²⁺-dependent; unlike TSSK1/2, TSSK6 prefers Mn²⁺ rather than Mg²⁺ (Salicioni et al., 2020).
+
+## Substrate Specificity  
+In vitro the kinase phosphorylates the myelin basic protein–derived peptide GKGRGLSLARFAKK. Its emerging consensus motif is enriched in basic residues, resembling AMPK-related kinase preferences, although a dedicated Johnson-style consensus for TSSK6 is not yet available (Salicioni et al., 2020).
+
+## Structure  
+The protein consists of a small N-terminal Ser/Thr kinase domain followed by a short C-terminal tail (Salicioni et al., 2020). Conserved catalytic motifs (VAIK lysine, HRD triad, DFG loop) and an autophosphorylated threonine in the activation loop are present. The AlphaFold model AF-Q9BXA6-F1 predicts a canonical bilobed fold with an exposed cysteine adjacent to the ATP pocket, offering a handle for covalent inhibitors (Salicioni et al., 2020). A surface patch on the C-terminal lobe engages HSP90/HSP70 and the co-chaperone SIP, stabilising the active conformation (Salicioni et al., 2020).
+
+## Regulation  
+• Autophosphorylation of the T-loop threonine activates the kinase (Salicioni et al., 2020).  
+• HSP90 binding, assisted by HSP70 and SIP, prevents ubiquitination and proteasomal degradation; HSP90 inhibitors block catalytic activation (Jha et al., 2013; Salicioni et al., 2020).  
+• Chaperone-mediated positioning of the phosphorylated T-loop is essential; no upstream activating kinase has been identified (Salicioni et al., 2020).
+
+## Function  
+Expression – Strictly testis-specific, peaking in elongating and elongated spermatids and virtually absent from mature sperm (Salicioni et al., 2020).  
+
+Biological roles –  
+• Localises to sperm flagellar doublet microtubules and contributes to motility regulation (Salicioni et al., 2020).  
+• Controls DNA condensation during histone-to-protamine exchange, partly via γH2AX formation (Salicioni et al., 2020).  
+• Required for Izumo1 relocalisation during the acrosome reaction; knockout sperm cannot fuse with oocytes, though they activate oocytes after ICSI (Salicioni et al., 2020).  
+• Tssk6-null male mice display low sperm counts, head and flagellar defects, impaired motility and complete infertility (Salicioni et al., 2020).  
+
+Interaction partners – Direct associations with HSP90, HSP70 and SIP for maturation; functional interplay with Izumo1; additional microtubule substrates are inferred from flagellar localisation (Salicioni et al., 2020).
+
+## Inhibitors  
+Family-wide screens have identified covalent and non-covalent scaffolds that target the conserved cysteine near the ATP pocket, but no TSSK6-selective chemical probe has yet been disclosed (Salicioni et al., 2020).
+
+## Other Comments  
+Deletion of TSSK6 causes male infertility in mice, demonstrating haploinsufficiency; no functionally characterised human infertility-linked point mutations are currently reported (Salicioni et al., 2020).
+
+## 9. References  
+Jha, K., Coleman, A. R., Wong, L., Salicioni, A., Howcroft, E., & Johnson, G. (2013). Heat shock protein 90 functions to stabilize and activate the testis-specific serine/threonine kinases, a family of kinases essential for male fertility. The Journal of Biological Chemistry, 288, 16308–16320. https://doi.org/10.1074/jbc.M112.400978  
+
+Nayyab, S., Gervasi, M. G., Tourzani, D. A., Shamailova, Y., Akizawa, H., Taghavi, M., … Visconti, P. E. (2025). Identification of TSSK1 and TSSK2 as novel targets for male contraception. Biomolecules, 15, 601. https://doi.org/10.3390/biom15040601  
+
+Salicioni, A. M., Gervasi, M. G., Sosnik, J., Tourzani, D. A., Nayyab, S., Caraballo, D. A., & Visconti, P. E. (2020). Testis-specific serine kinase protein family in male fertility and as targets for non-hormonal male contraception. Biology of Reproduction, 103, 264–274. https://doi.org/10.1093/biolre/ioaa064

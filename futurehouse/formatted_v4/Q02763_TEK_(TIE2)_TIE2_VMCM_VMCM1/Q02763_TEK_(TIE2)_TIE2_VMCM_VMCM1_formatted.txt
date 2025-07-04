@@ -1,0 +1,68 @@
+## Phylogeny  
+The receptor tyrosine kinase TEK/TIE2 is highly conserved across vertebrates, with orthologs reported in mouse, rat, zebrafish and chicken, highlighting an essential vascular role (Duran et al., 2021; Sato et al., 1998). Within the human kinome it resides in the RTK group, Tie sub-family (Tie1, Tie2) and is most closely related to fibroblast growth factor receptors based on sequence/structural homology (Barton et al., 2014; Shewchuk et al., 2000).  
+
+## Reaction Catalyzed  
+ATP + [protein]-L-tyrosine ⇌ ADP + [protein]-O-phospho-L-tyrosine (Shewchuk et al., 2000).  
+
+## Cofactor Requirements  
+Catalysis requires a divalent metal ion; crystal structures show Mg²⁺ coordinated between ATP phosphates and the activation-loop Asp (Shewchuk et al., 2000).  
+
+## Substrate Specificity  
+The 2024 human tyrosine-kinome atlas clusters TEK/TIE2 and reports that an intrinsic positional weight matrix has been defined, although the precise consensus sequence was not detailed in the excerpt (Yaron-Barir et al., 2024).  
+
+## Structure  
+Domain organisation: Ig1–Ig3, EGF1–EGF3 and FNIII1–FNIII3 ectodomain → single-pass transmembrane helix → cytoplasmic split kinase domain (residues 808-1124) followed by a C-terminal tail containing three regulatory tyrosines (Barton et al., 2014).  
+Key 3-D features:  
+• Arrow-head ectodomain; Ig2 mediates ligand binding with minimal induced fit (Barton et al., 2014).  
+• FNIII3 drives constitutive homodimerisation; agonistic antibody hTAAB further stabilises this interface (Leppänen et al., 2017; Jo et al., 2021).  
+• Kinase domain (PDB 1FVR) adopts a bilobal RTK fold with three autoinhibitory elements: folded Gly-rich loop (832-836), displaced αC helix disrupting Lys855-Glu872 salt bridge, and C-terminal tail that inserts as a substrate mimic; the activation loop (982-1008, Tyr992) is “active-like” yet unphosphorylated (Shewchuk et al., 2000; Barton et al., 2014).  
+• Hydrophobic regulatory spine present but mis-aligned in the inhibited state (Shewchuk et al., 2000).  
+
+## Regulation  
+Post-translational control: autophosphorylation on Tyr1101, Tyr1107, Tyr1112 and Tyr992; VE-PTP dephosphorylates TEK, whereas PI3K/Akt-driven ADAM protease activity sheds the ectodomain, generating soluble TIE2 (Barton et al., 2014; Fonódi et al., 2024; Findley et al., 2007). Shear stress increases phosphorylation (Du et al., 2017).  
+Conformational/allosteric control: the Gly-rich loop, activation loop and C-tail impose autoinhibition; C-tail deletion or disease-linked mutations (e.g., R849W, Y897S) elevate basal activity (Barton et al., 2014; Shewchuk et al., 2000). Receptor clustering via FNIII3 or multimeric agonists overrides inhibition, whereas Tie1 heterodimers dampen signalling in the absence of agonist (Barton et al., 2014; Leppänen et al., 2017; Jo et al., 2021).  
+
+## Function  
+Expression pattern: abundant in vascular and lymphatic endothelial cells, endothelial progenitors, ~20 % of CD19⁺ B cells and subsets of CD34⁺ hematopoietic stem cells; up-regulated in tumour vasculature (Duran et al., 2021; Sato et al., 1998).  
+Upstream ligands: Angiopoietin-1 (agonist), Angiopoietin-2 (context-dependent partial agonist/antagonist), Angiopoietin-4 (agonist) bind the Ig2 domain (Thurston, 2003; Sato et al., 1998).  
+Downstream signalling: phospho-Tyr1101 recruits p85-PI3K/Grb2 (Akt, MAPK activation); phospho-Tyr1107 binds Dok-R (cell motility); phospho-Tyr1112 engages SH-PTP2 for negative feedback (Barton et al., 2014; Natynki et al., 2015).  
+Physiological roles: governs vascular sprouting, maturation, barrier integrity, anti-inflammatory quiescence, and adhesion/quiescence of hematopoietic stem cells (Duran et al., 2021; Sato et al., 1998).  
+
+## Inhibitors  
+• Rebastinib – high-affinity multi-kinase inhibitor that suppresses tumour growth/metastasis in breast-cancer models (Unknown authors, 2020).  
+• Regorafenib – approved multi-kinase inhibitor that targets TEK among others (Khan et al., 2021).  
+• AKB-9778 – selective VE-PTP inhibitor that indirectly elevates TEK phosphorylation and stabilises vasculature (Khan et al., 2021; Saharinen et al., 2017).  
+
+## Other Comments  
+Heterozygous activating TEK mutations (e.g., R849W, Y897S, Y897F-R915L) cause autosomal-dominant venous malformations characterised by ectatic, pericyte-poor vessels (Thurston, 2003; Natynki et al., 2015). Tek-null mice die at embryonic day 10.5 from failed vascular remodelling and haematopoiesis, underscoring its non-redundant developmental role (Thurston, 2003).  
+
+## 9. References  
+Barton, W. A., Dalton, A. C., Seegar, T. C. M., Himanen, J. P., & Nikolov, D. B. (2014). Tie2 and Eph receptor tyrosine kinase activation and signaling. Cold Spring Harbor Perspectives in Biology. https://doi.org/10.1101/cshperspect.a009142  
+
+Du, Z., Zheng, J., Zhang, Z., & Wang, Y. (2017). Review of the endothelial pathogenic mechanism of Tie2-related venous malformation. Journal of Vascular Surgery: Venous and Lymphatic Disorders, 5, 740–748. https://doi.org/10.1016/j.jvsv.2017.05.001  
+
+Duran, C. L., Borriello, L., Karagiannis, G., Entenberg, D., Oktay, M., & Condeelis, J. (2021). Targeting Tie2 in the tumor microenvironment: From angiogenesis to dissemination. Cancers, 13, 5730. https://doi.org/10.3390/cancers13225730  
+
+Findley, C. M., Cudmore, M. J., Ahmed, A., & Kontos, C. D. (2007). VEGF induces Tie2 shedding via a phosphoinositide 3-kinase/Akt–dependent pathway to modulate Tie2 signaling. Arteriosclerosis, Thrombosis, and Vascular Biology, 27, 2619–2626. https://doi.org/10.1161/ATVBAHA.107.150482  
+
+Fonódi, M., Nagy, L., & Boratkó, A. (2024). Role of protein phosphatases in tumor angiogenesis: Assessing PP1, PP2A, PP2B and PTPs activity. International Journal of Molecular Sciences, 25, 6868. https://doi.org/10.3390/ijms25136868  
+
+Jo, G., Bae, J., Hong, H. J., Han, A., Kim, D.-K., Hong, S. P., Kim, J. A., Lee, S., Koh, G. Y., & Kim, H. M. (2021). Structural insights into the clustering and activation of Tie2 receptor mediated by a Tie2 agonistic antibody. Nature Communications, 12, 6449. https://doi.org/10.1038/s41467-021-26620-1  
+
+Khan, K. A., Wu, F. T. H., Cruz-Muñoz, W., & Kerbel, R. S. (2021). Ang2 inhibitors and Tie2 activators: Potential therapeutics in perioperative treatment of early-stage cancer. EMBO Molecular Medicine, 13, e8253. https://doi.org/10.15252/emmm.201708253  
+
+Leppänen, V.-M., Saharinen, P., & Alitalo, K. (2017). Structural basis of Tie2 activation and Tie2/Tie1 heterodimerization. Proceedings of the National Academy of Sciences, 114, 4376–4381. https://doi.org/10.1073/pnas.1616166114  
+
+Natynki, M., Kangas, J., Miinalainen, I., Sormunen, R., Pietilä, R., Soblet, J., Boon, L. M., Vikkula, M., Limaye, N., & Eklund, L. (2015). Common and specific effects of Tie2 mutations causing venous malformations. Human Molecular Genetics, 24, 6374–6389. https://doi.org/10.1093/hmg/ddv349  
+
+Saharinen, P., Eklund, L., & Alitalo, K. (2017). Therapeutic targeting of the angiopoietin–Tie pathway. Nature Reviews Drug Discovery, 16, 635–661. https://doi.org/10.1038/nrd.2016.278  
+
+Sato, A., Iwama, A., Takakura, N., Nishio, H., Yancopoulos, G., & Suda, T. (1998). Characterization of Tek receptor tyrosine kinase and its ligands, angiopoietins, in human hematopoietic progenitor cells. International Immunology, 10, 1217–1227. https://doi.org/10.1093/intimm/10.8.1217  
+
+Shewchuk, L., Hassell, A., Ellis, B., Holmes, W., Davis, R. G., Horne, E., Kadwell, S., McKee, D. D., & Moore, J. T. (2000). Structure of the Tie2 RTK domain: Self-inhibition by the nucleotide-binding loop, activation loop, and C-terminal tail. Structure, 8, 1105–1113. https://doi.org/10.1016/S0969-2126(00)00516-5  
+
+Thurston, G. (2003). Role of angiopoietins and Tie receptor tyrosine kinases in angiogenesis and lymphangiogenesis. Cell and Tissue Research, 314, 61–68. https://doi.org/10.1007/s00441-003-0749-6  
+
+Unknown authors. (2020). Characterization of the ANGPT1/TIE2 axis in cancer cell dormancy. [Conference paper/Report].  
+
+Yaron-Barir, T. M., Joughin, B. A., Huntsman, E. M., Kerelsky, A., Cizin, D. M., Cohen, B. M., … Johnson, J. L. (2024). The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629, 1174–1181. https://doi.org/10.1038/s41586-024-07407-y

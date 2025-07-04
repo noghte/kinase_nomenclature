@@ -1,0 +1,75 @@
+## Phylogeny  
+CaMKI α belongs to the CaMKI sub-family within the Ca²⁺/calmodulin-regulated (CAMK) group of the human kinome (Simon et al., 2015). Orthologues are present in Homo sapiens, Mus musculus, Rattus norvegicus, Danio rerio, Drosophila melanogaster and Caenorhabditis elegans, whereas Saccharomyces cerevisiae lacks a direct counterpart (Simon et al., 2015). The kinase shares an evolutionary relationship and conserved catalytic/regulatory architecture with CaMKII, CaMKIV and DAPK1, other members of the broader CAMK branch (Soderling & Stull, 2001).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + L-O-phospho-seryl/threonyl-[protein] (Simon et al., 2015).
+
+## Cofactor Requirements  
+Mg²⁺ is required for ATP coordination, and Ca²⁺-saturated calmodulin serves as an obligatory allosteric activator (Bhattacharyya et al., 2020; Simon et al., 2015).
+
+## Substrate Specificity  
+Biochemical and structural studies define a preferred motif Hyd-X-Arg-X₂-Ser/Thr-X₃-Hyd, favouring hydrophobic residues (Met/Leu/Val/Ile/Phe) at −5 and +4 and an invariant Arg at −3 (Clapperton et al., 2002). Proteome-scale profiling corroborates enrichment of non-polar residues at −5, basic residues at −3/−2 and acidic residues immediately downstream (+1 to +3) of the phosphoacceptor (Jha et al., 2025).
+
+## Structure  
+The ~42 kDa polypeptide comprises (Bhattacharyya et al., 2020; Simon et al., 2015; Clapperton et al., 2002):  
+• N-terminal bilobal catalytic domain containing essential residues Lys49, Asp146, Asp162 and Thr177.  
+• Autoinhibitory domain (αR1/αR2 helices) that occludes the substrate cleft in the basal state.  
+• Calmodulin-binding domain (overlapping the autoinhibitory segment) that forms an extended αR3 helix upon Ca²⁺/CaM binding.
+
+Representative crystal structures:  
+– Autoinhibited kinase domain (PDB 1A06) shows αR1/αR2 inserted into the active site.  
+– CaM-bound peptide complex (PDB 1MXE) reveals picomolar-affinity wrapping of CaM around residues 294–318.  
+– Active conformations (PDB 4FG9, 4FGB) display a continuous hydrophobic spine and properly aligned C-helix (Stratton et al., 2013; Rellos et al., 2010).
+
+## Regulation  
+Post-translational modifications  
+• Thr177 in the activation loop is phosphorylated by CaMKK1/2, markedly enhancing turnover and reducing Ca²⁺ dependence (Racioppi & Means, 2012).  
+• Ser52 is phosphorylated by PKA (Tokumitsu & Sakagami, 2022).  
+• PKA also targets CaMKK at Thr108, indirectly limiting Thr177 phosphorylation (Matsushita & Nairn, 1999).
+
+Allosteric control  
+Binding of Ca²⁺/CaM to the calmodulin-binding domain displaces the autoinhibitory helices, exposing ATP and substrate sites and elevating activity by >100-fold (Soderling & Stull, 2001). Hydrophobic residues Ile286, Val290, Ile294 and Phe298 act as an intramolecular clamp that stabilises autoinhibition and is released upon CaM engagement (Clapperton et al., 2002).
+
+## Function  
+Expression is broad but highest in brain regions such as hippocampal and cerebellar neurons; the kinase is also present in peripheral and endocrine tissues (Role of Ca2+/Calmodulin dependent protein kinase IV on REST activity, 2019). Reported roles include (Clapperton et al., 2002; Soderling & Stull, 2001; Role of Ca2+/Calmodulin dependent protein kinase IV on REST activity, 2019):  
+• Regulation of axonal extension and growth-cone motility during neuronal development.  
+• Promotion of dendritic growth and spine formation following NMDA receptor-mediated Ca²⁺ influx.  
+• Phosphorylation of transcription factors such as CREB, coupling Ca²⁺ signals to gene expression.  
+• Participation in the CaMKK → CaMK1 → CaMKIV cascade that controls cell-cycle progression and differentiation.
+
+## Inhibitors  
+• CaMKIp peptide (residues 294–318) acts as a high-affinity competitive inhibitor (Clapperton et al., 2002).  
+• KN-62 and KN-93 are Ca²⁺/CaM-competitive small molecules with low-µM potency (Pellicena & Schulman, 2014).  
+• STO-609 inhibits CaMKKs upstream, thereby indirectly preventing Thr177 phosphorylation and activation of CaMKI α (Brown & Bayer, 2024).
+
+## Other Comments  
+No recurrent disease-linked missense variants have been reported in CAMK1 α, but genetic variation in upstream CaMKK components is associated with cardiovascular and neuropsychiatric phenotypes (Varianti genetiche nel pathway della calcio calmodulina, 2022).
+
+## 9. References  
+Bhattacharyya, M., Karandur, D., & Kuriyan, J. (2020). Structural insights into the regulation of Ca2+/calmodulin-dependent protein kinase II (CaMKII). Cold Spring Harbor Perspectives in Biology. https://doi.org/10.1101/cshperspect.a035147  
+
+Brown, C. N., & Bayer, K. U. (2024). Studying CaMKII: Tools and standards. Cell Reports, 43, 113982. https://doi.org/10.1016/j.celrep.2024.113982  
+
+Clapperton, J. A., Martin, S. R., Smerdon, S. J., Gamblin, S. J., & Bayley, P. M. (2002). Structure of the complex of calmodulin with the target sequence of calmodulin-dependent protein kinase I: Studies of the kinase activation mechanism. Biochemistry, 41, 14669–14679. https://doi.org/10.1021/bi026660t  
+
+Jha, K., Shonai, D., Parekh, A., Uezu, A., Fujiyama, T., Yamamoto, H., … Soderling, S. H. (2025). Deep learning-coupled proximity proteomics to deconvolve kinase signalling in vivo. bioRxiv. https://doi.org/10.1101/2025.04.27.650849  
+
+Matsushita, M., & Nairn, A. C. (1999). Inhibition of the Ca2+/calmodulin-dependent protein kinase I cascade by cAMP-dependent protein kinase. Journal of Biological Chemistry, 274, 10086–10093. https://doi.org/10.1074/jbc.274.15.10086  
+
+Pellicena, P., & Schulman, H. (2014). CaMKII inhibitors: From research tools to therapeutic agents. Frontiers in Pharmacology. https://doi.org/10.3389/fphar.2014.00021  
+
+Racioppi, L., & Means, A. R. (2012). Calcium/calmodulin-dependent protein kinase kinase 2: Roles in signalling and pathophysiology. Journal of Biological Chemistry, 287, 31658–31665. https://doi.org/10.1074/jbc.R112.356485  
+
+Rellos, P., Pike, A., Niesen, F., Salah, E., Lee, W. H., von Delft, F., & Knapp, S. (2010). Structure of the CaMKIIδ/calmodulin complex reveals the molecular mechanism of CaMKII kinase activation. PLoS Biology. https://doi.org/10.1371/journal.pbio.1000426  
+
+Role of Ca2+/Calmodulin dependent protein kinase IV on REST activity. (2019).  
+
+Simon, B., Huart, A.-S., & Wilmanns, M. (2015). Molecular mechanisms of protein kinase regulation by calcium/calmodulin. Bioorganic & Medicinal Chemistry, 23(12), 2749–2760. https://doi.org/10.1016/j.bmc.2015.04.051  
+
+Soderling, T. R., & Stull, J. T. (2001). Structure and regulation of calcium/calmodulin-dependent protein kinases. Chemical Reviews, 101, 2341–2352. https://doi.org/10.1021/cr0002386  
+
+Stratton, M. M., Chao, L. H., Schulman, H., & Kuriyan, J. (2013). Structural studies on the regulation of Ca2+/calmodulin dependent protein kinase II. Current Opinion in Structural Biology, 23, 292–301. https://doi.org/10.1016/j.sbi.2013.04.002  
+
+Tokumitsu, H., & Sakagami, H. (2022). Molecular mechanisms underlying Ca2+/calmodulin-dependent protein kinase kinase signal transduction. International Journal of Molecular Sciences, 23, 11025. https://doi.org/10.3390/ijms231911025  
+
+Varianti genetiche nel pathway della calcio calmodulina in associazione con malattie cardiovascolari: Focus sul potenziale ruolo di CaMKK1 nel cuore e nei vasi. (2022).

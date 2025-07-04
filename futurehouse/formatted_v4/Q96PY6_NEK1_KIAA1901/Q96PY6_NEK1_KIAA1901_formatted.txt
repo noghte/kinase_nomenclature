@@ -1,0 +1,47 @@
+Phylogeny  
+NEK1 belongs to the NIMA-related (NEK) subfamily of serine/threonine protein kinases identified in the human kinome survey (Oliveira et al., 2020). Kinase-domain trees place it nearest to NEK3 and NEK5 (Melo-Hanchuk et al., 2017). Orthologues are present in Danio rerio, Xenopus laevis, Drosophila melanogaster, Caenorhabditis elegans and Mus musculus (Zelina et al., 2024; Unknown Authors, 2024). Conservation across ciliated eukaryotes suggests early diversification of this lineage (Melo-Hanchuk et al., 2017).  
+
+Reaction Catalyzed  
+ATP + protein-Ser/Thr/Tyr ⇌ ADP + protein-Ser/Thr/Tyr-phosphate (Melo-Hanchuk et al., 2017; Unknown Authors, 2024).  
+
+Cofactor Requirements  
+Catalysis requires Mg²⁺; Mn²⁺ can substitute in vitro (Zelina et al., 2024).  
+
+Substrate Specificity  
+Peptide-library profiling groups NEK1 with NEK1/3/4/5/8 and defines a consensus [L/M/F/W]-X-X-S/T-[¬P]; i.e. a hydrophobic residue at −3, any residue at −2/−1, Ser/Thr as the phospho-acceptor, and exclusion of Pro at +1 (van de Kooij et al., 2019). No motif was reported in the Johnson 2023 serine/threonine kinome atlas (Melo-Hanchuk et al., 2017).  
+
+Structure  
+• Modular organisation: N-terminal kinase domain (residues 1–284) followed by a long C-terminal segment with six predicted coiled-coil motifs that mediate dimerisation and partner docking (Melo-Hanchuk et al., 2017).  
+• Crystal structures: apo kinase domain (PDB 4APC, 2.1 Å) and inhibitor-bound T162A mutant (PDB 4B9D, 1.9 Å) capture a DFG-out/αC-out inactive conformation (Melo-Hanchuk et al., 2017).  
+• Catalytic motifs: VAIK Lys33, HRD Asp163 and DFG Asp177-Phe178-Gly179; the Lys33–Glu51 salt bridge is broken in the structures.  
+• Activation loop (146–173) forms a three-turn helix that buries Thr162, preventing autophosphorylation.  
+• Additional regulatory features include gatekeeper Met80, small Ala56 that enlarges the back pocket, an “up” Tyr66 creating an auxiliary cavity, and hydrophobic-spine mis-alignment that enforces autoinhibition (Melo-Hanchuk et al., 2017).  
+
+Regulation  
+• Autophosphorylation on Thr162 is required for activation (Melo-Hanchuk et al., 2017).  
+• Upstream kinase Tousled-like kinase-1 (TLK1) phosphorylates Thr141 and Tyr315, initiating a TLK1 → NEK1 → ATR → CHK1 DNA-damage response cascade (Melo-Hanchuk et al., 2017).  
+• DNA-damage-induced site: Ser666 becomes phosphorylated after cisplatin exposure (Melo-Hanchuk et al., 2017).  
+• Constitutive sites Ser649, Ser664 and Ser683 lie within coiled-coil regions involved in partner docking (Melo-Hanchuk et al., 2017).  
+• Conformational control is achieved through the inactive DFG-out/αC-out state; activation-loop phosphorylation realigns catalytic elements (Melo-Hanchuk et al., 2017).  
+
+Function  
+Expression/localisation: Highly expressed in meiotic germ cells and localises to centrosomes and primary cilia; levels are elevated in renal cell carcinoma (Melo-Hanchuk et al., 2017).  
+Upstream regulator: TLK1 (Melo-Hanchuk et al., 2017).  
+Downstream substrates/interactors: ATR, ATRIP, Rad54, VDAC1, Mre11, MSH6, FANCA and FANCD2; interaction networks expand after cisplatin treatment (Melo-Hanchuk et al., 2017; Unknown Authors, 2024).  
+Pathways: Homologous recombination repair, Fanconi anaemia inter-strand cross-link repair, base-excision, nucleotide-excision and mismatch repair, G2/M DNA-damage checkpoint, and primary-cilium assembly (Melo-Hanchuk et al., 2017).  
+
+Other Comments  
+Disease-associated variants include kinase-domain mutations G145R (kinase-dead) and L253S (scaffolding defect) causing autosomal-recessive short-rib thoracic dysplasia; a splice-altering C-terminal variant causing Mohr syndrome; and multiple loss-of-function alleles predisposing to amyotrophic lateral sclerosis, where mutant NEK1 aggregation accelerates pathology (Georgiadou et al., 2024; Melo-Hanchuk et al., 2017; Oliveira et al., 2020).  Nek1-null mice develop polycystic kidney disease, facial dysmorphism, dwarfism, male sterility and anaemia (Unknown Authors, 2024).  
+
+9. References  
+Georgiadou, P., Erkaya, B., Kawakita, M., Sahin, E., Öztürk, H., Tiryaki, F., … Sahin, U. (2024). ALS driven by mutant NEK1 aggregation is accelerated by PML loss, but clinically reversed through pharmacologic induction of PML-mediated degradation. bioRxiv. https://doi.org/10.1101/2024.11.23.622051  
+
+Melo-Hanchuk, T. D., Slepicka, P. F., Meirelles, G. V., Basei, F. L., Lovato, D. V., Granato, D. C., … Kobarg, J. (2017). Nek1 kinase domain structure and its dynamic protein interactome after exposure to cisplatin. Scientific Reports, 7, 5325. https://doi.org/10.1038/s41598-017-05325-w  
+
+Oliveira, A. P. de, Issayama, L. K., Pavan, I. C. B., Silva, F. R., Melo-Hanchuk, T. D., Simabuco, F. M., & Kobarg, J. (2020). Checking NEKs: overcoming a bottleneck in human diseases. Molecules, 25(8), 1778. https://doi.org/10.3390/molecules25081778  
+
+Unknown Authors. (2024). Protein-protein interactions in cell cycle proteins: An in silico investigation of two important players (pp. 87–92).  
+
+van de Kooij, B., Creixell, P., van Vlimmeren, A., Joughin, B. A., Miller, C. J., Haider, N., … Yaffe, M. B. (2019). Comprehensive substrate specificity profiling of the human NEK kinome reveals unexpected signaling outputs. eLife, 8, e515221. https://doi.org/10.1101/515221  
+
+Zelina, P., de Ruiter, A. A., Kolsteeg, C., van Ginneken, I., Vos, H. R., Supiot, L. F., … Pasterkamp, R. J. (2024). ALS-associated C21orf2 variant disrupts DNA damage repair, mitochondrial metabolism, neuronal excitability and NEK1 levels in human motor neurons. Acta Neuropathologica Communications, 12, Article 63. https://doi.org/10.1186/s40478-024-01852-6

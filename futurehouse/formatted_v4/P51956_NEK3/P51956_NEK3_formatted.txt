@@ -1,0 +1,60 @@
+## Phylogeny  
+Member of the NIMA-related kinase (NEK) family (NEK1–NEK11) that originated from the Aspergillus nidulans NimA kinase (Bachus et al., 2022; “Stop Ne(c)king around”, 2014).  
+Full-length sequence analysis groups NEK3 with NEK1, NEK2 and NEK5, whereas kinase-domain trees place it with NEK1, NEK2, NEK4, NEK5 and NEK11 (Bachus et al., 2022).  
+NEK3, NEK5 and NEK11 constitute a sub-clade that lacks the canonical autoinhibitory tyrosine present in most other NEKs (Bachus et al., 2022).  
+Orthology is well conserved: human NEK3 shares 56 % amino-acid identity with mouse Nek3, and rodent as well as wider vertebrate orthologues are documented (Harrington & Clevenger, 2016; “Stop Ne(c)king around”, 2014).  
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + L-O-phosphoseryl/threonyl-[protein] (Bachus et al., 2022)
+
+## Cofactor Requirements  
+Catalytic activity requires divalent cations; both Mg²⁺ and Mn²⁺ support phosphorylation in vitro (“Cell Cycle Studies…”, 2011).
+
+## Substrate Specificity  
+Validated cellular substrates are paxillin (PXN) and VAV2 during prolactin signalling (Bachus et al., 2022).  
+NEK3 autophosphorylates and phosphorylates β-casein in vitro (“Cell Cycle Studies…”, 2011).  
+Phosphoproteomic / Scansite analyses suggest a preferred motif that was further refined by Johnson (2023); a definitive consensus sequence is still unresolved (Harrington & Clevenger, 2016).
+
+## Structure  
+Single-polypeptide, 506-residue protein comprising an N-terminal kinase domain and a C-terminal regulatory tail that lacks coiled-coil motifs (“Stop Ne(c)king around”, 2014).  
+AlphaFold modelling predicts the canonical bilobal kinase fold with a distinct regulatory tail (Bachus et al., 2022).  
+Conserved catalytic motifs: VAIK (Lys33), HRD (Asp127) and DFG; mutation of Lys33 or Asp127 abolishes activity (“Cell Cycle Studies…”, 2011).  
+Activation loop contains regulatory Thr165 (Harrington & Clevenger, 2016).  
+Regulatory tail harbours a PEST motif with phospho-Thr475 (“Stop Ne(c)king around”, 2014).  
+Lacks the “tyrosine-down” autoinhibitory motif characteristic of several other NEKs (Bachus et al., 2022).  
+No experimental crystal structure is currently available (Bachus et al., 2022).
+
+## Regulation  
+• Autophosphorylation enhances catalytic output (“Cell Cycle Studies…”, 2011).  
+• JAK2 phosphorylates Thr165 within the prolactin receptor (PRLR) complex, promoting focal-adhesion remodelling and cell migration (Harrington & Clevenger, 2016).  
+• Phosphorylation of Thr475 in the PEST motif influences cell morphology and polarity (“Stop Ne(c)king around”, 2014).  
+• Kinase activity decreases as NaCl concentration rises, indicating ionic-strength sensitivity (“Cell Cycle Studies…”, 2011).  
+• Hormone-induced association with PRLR and VAV2 positions NEK3 for substrate engagement (Bachus et al., 2022).
+
+## Function  
+Expression: high in testis, prostate, ovary and brain; moderate-to-low in lung and liver (“Stop Ne(c)king around”, 2014).  
+Localization: cytoplasmic during interphase and associated with spindle-like structures in mitosis (“Cell Cycle Studies…”, 2011).  
+Neuronal roles include regulation of microtubule acetylation, neurite morphogenesis and polarity (Moniz et al., 2011).  
+In prolactin signalling, PRLR/JAK2 activation enables NEK3 to phosphorylate VAV2 and PXN, activating RAC1/RhoA, driving actin remodelling and increasing motility in breast-cancer cells (Bachus et al., 2022).  
+Knock-down results in spindle defects, implicating NEK3 in mitotic spindle organisation (“Cell Cycle Studies…”, 2011).  
+Reported to participate in DNA-damage repair pathways (Nguyen et al., 2023).
+
+## Other Comments  
+Aberrant NEK3 activity promotes breast-cancer cell migration and invasion (Bachus et al., 2022).  
+Cancer-associated mutations include D413Y in ovarian tumours and Y398* truncation in stomach cancer cell lines (Moniz et al., 2011).  
+A truncating polymorphism at chromosome 13q14 lies within a recognised cancer hotspot (“Stop Ne(c)king around”, 2014).  
+COSMIC records the highest NEK3 mutation frequency in pancreatic tissue (3.23 %) (Nguyen et al., 2023).  
+Prognostic impact is tumour-type dependent; elevated NEK3 expression correlates with either favourable or unfavourable survival depending on the cancer (Nguyen et al., 2023).
+
+## References  
+Bachus, S., Graves, D., Fulham, L., Akkerman, N., Stephanson, C., Shieh, J., & Pelka, P. (2022). In mitosis you are not: The NIMA family of kinases in Aspergillus, yeast, and mammals. International Journal of Molecular Sciences, 23, 7041. https://doi.org/10.3390/ijms23074041  
+
+Harrington, K., & Clevenger, C. (2016). Identification of Nek3 kinase threonine 165 as a novel regulatory phosphorylation site that modulates focal adhesion remodeling necessary for breast cancer cell migration. The Journal of Biological Chemistry, 291, 21388–21406. https://doi.org/10.1074/jbc.M116.726190  
+
+Moniz, L., Dutt, P., Haider, N., & Stambolic, V. (2011). Nek family of kinases in cell cycle, checkpoint control and cancer. Cell Division, 6, 18. https://doi.org/10.1186/1747-1028-6-18  
+
+Nguyen, K., Tran, M. N., Rivera, A., Cheng, T., Windsor, G., Chabot, A. B., … Burow, M. (2023). Nek family review and correlations with patient survival outcomes in various cancer types. Cancers, 15(7), 2067. https://doi.org/10.3390/cancers15072067  
+
+“Cell Cycle Studies on the Human Nek3, Nek5 and Nek11 Protein Kinases.” (2011). [Technical report].  
+
+“Stop Ne(c)king around”: How interactomics contributes to functionally characterize Nek family kinases. (2014). [Conference proceedings].

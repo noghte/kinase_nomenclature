@@ -1,0 +1,76 @@
+Phylogeny  
+Member of the STE20 serine/threonine kinase family and one of the three Group II p21-activated kinases (PAK4, PAK5, PAK6). The lineage traces back to the yeast Ste20 branch, indicating deep evolutionary conservation, yet Group II PAKs are restricted to metazoa and possess regulatory features that distinguish them from Group I members (Molli et al., 2009; Rudolph et al., 2015; Zhao & Manser, 2012). Verified orthologues in Mus musculus, Xenopus laevis and Drosophila confirm preservation from invertebrates to vertebrates (Molli et al., 2009; Rudolph et al., 2015).  
+
+Reaction Catalyzed  
+ATP + [protein]-Ser/Thr ⇌ ADP + [protein]-Ser/Thr-phosphate (Molli et al., 2009).  
+
+Cofactor Requirements  
+Divalent cations are essential; Mg²⁺ is preferred, Mn²⁺ can substitute in vitro (Ching et al., 2003; Tabanifar et al., 2016; Gao et al., 2013).  
+
+Substrate Specificity  
+Group II PAK consensus: Arg at P-2 (dominant), optional Arg/Lys at P-4, Ser/Thr as the phospho-acceptor (P0) and a hydrophobic residue (Val/Leu/Ile) at P + 1/ + 2. The P-2 Arg forms a salt bridge with an acidic pocket in the active site (Chetty et al., 2022; Gao et al., 2013).  
+
+Structure  
+The protein contains:  
+• N-terminal basic region with a CRIB (Cdc42/Rac-interactive) motif and nuclear-localisation signal;  
+• A pseudosubstrate/autoinhibitory segment unique among Group II PAKs;  
+• C-terminal kinase domain (~residues 409–681) (Bautista et al., 2020; Somanath et al., 2023; Molli et al., 2009).  
+Crystal structures of the close homologues PAK4 (PDB 2BVA, 2J0I) and PAK6 (PDB 2C30) reveal the canonical bilobal serine/threonine kinase fold with catalytic Lys, HRD and DFG motifs; the AlphaFold model (AF-Q9P286-F1) conforms to this architecture (Jha & Strauss, 2012). Autophosphorylation sites Thr538, Ser602 and Ser778 stabilise the active conformation (Tabanifar et al., 2016). Cancer-linked mutations cluster in the activation loop (e.g., S602, P607) (Soleymani et al., 2023). A central oligomerisation domain promotes dimer-dependent auto-activation (Tabanifar et al., 2016).  
+
+Regulation  
+• Autophosphorylation on Thr538, Ser602 and Ser778 activates the kinase (Tabanifar et al., 2016).  
+• GTP-bound CDC42 engages the CRIB motif (His19/His22 critical) and accelerates autophosphorylation (Ching et al., 2003).  
+• An intramolecular pseudosubstrate maintains basal autoinhibition; GTPase binding only partially relieves this block, implying additional cofactors are needed (Chetty et al., 2022).  
+• Transcriptionally up-regulated by Aurora-A kinase and down-regulated by miR-129 or miR-186 in cancer cells (Kumar et al., 2017).  
+• Localises to mitochondria independently of kinase activity or CDC42 binding (Molli et al., 2009).  
+• Catalysis is strictly Mg²⁺/Mn²⁺-dependent (Ching et al., 2003).  
+
+Function  
+Highly expressed in brain and eye; low in most peripheral tissues (Bautista et al., 2020). Upstream activators include CDC42 and RAC1, whereas the kinase antagonises RhoA signalling, driving filopodia formation and neurite outgrowth (Molli et al., 2009). Documented substrates and outcomes:  
+• MARK2 Ser212 – microtubule stabilisation (Molli et al., 2009)  
+• BAD Ser112 – inhibition of apoptosis (Molli et al., 2009; Chetty et al., 2022)  
+• RAF1 Ser338 – RAF1 activation and mitochondrial targeting (Chetty et al., 2022)  
+• PACSIN1 – regulation of synaptic vesicle trafficking (Gao et al., 2013)  
+• CTNND1/p120-catenin Ser288 – cytoskeletal remodelling (Kumar et al., 2017)  
+The kinase also stimulates cytosolic JNK signalling and pro-survival pathways at mitochondria (Molli et al., 2009).  
+
+Inhibitors  
+• PF-3758309: ATP-competitive pan-PAK inhibitor, Kd 14–18 nM, but limited selectivity and clinical toxicity (Huynh & He, 2015; Lu et al., 2025; Zhao & Manser, 2010).  
+• KPT-9274: orally active dual PAK4/PAK5–Nampt inhibitor, sub-100 nM potency, induces G1 arrest (Lu et al., 2025).  
+• Sunitinib: binds the Group II PAK active site in structural assays, confirming cross-reactivity (Gao et al., 2013).  
+
+Other Comments  
+PAK5 exhibits the highest mutational density among “dark” kinases; recurrent oncogenic mutations include L573F and E600K (Soleymani et al., 2023). It is over-expressed in hepatocellular carcinoma, adenocarcinoma and acute myeloid leukaemia, and somatic mutations drive signalling in lung, breast and gastric cancers (Lu et al., 2025; Molli et al., 2009). Pak5-null mice are viable, whereas Pak4 deletion is embryonic-lethal, indicating functional redundancy within Group II PAKs (Rudolph et al., 2015).  
+
+References  
+Bautista, L., Knippler, C. M., & Ringel, M. D. (2020). P21-activated kinases in thyroid cancer. Endocrinology. https://doi.org/10.1210/endocr/bqaa105  
+
+Chetty, A. K., Ha, B. H., & Boggon, T. J. (2022). Rho family GTPase signaling through type II p21-activated kinases. Cellular and Molecular Life Sciences. https://doi.org/10.1007/s00018-022-04618-2  
+
+Ching, Y., Leong, V. Y. L., Wong, C., & Kung, H. (2003). Identification of an autoinhibitory domain of p21-activated protein kinase 5. Journal of Biological Chemistry, 278, 33621–33624. https://doi.org/10.1074/jbc.C300234200  
+
+Gao, J., Ha, B. H., Lou, H. J., Morse, E. M., Zhang, R., Calderwood, D. A., Turk, B. E., & Boggon, T. J. (2013). Substrate and inhibitor specificity of the type II p21-activated kinase, PAK6. PLOS ONE, 8, e77818. https://doi.org/10.1371/journal.pone.0077818  
+
+Huynh, N., & He, H. (2015). P21-activated kinase family: Promising new drug targets. [Journal name], 5, 119–128. https://doi.org/10.2147/rrbc.s57278  
+
+Jha, R. K., & Strauss, C. E. M. (2012). 3D structure analysis of PAKs. Cellular Logistics, 2, 69–77. https://doi.org/10.4161/cl.21883  
+
+Kumar, R., Sanawar, R., Li, X., & Li, F. (2017). Structure, biochemistry, and biology of PAK kinases. Gene, 605, 20–31. https://doi.org/10.1016/j.gene.2016.12.014  
+
+Lu, T., Huo, Z., Zhang, Y., & Li, X. (2025). The role of the p21-activated kinase family in tumor immunity. International Journal of Molecular Sciences. https://doi.org/10.3390/ijms26083885  
+
+Molli, P. R., Li, D.-Q., Brion, M., Rayala, S., & Kumar, R. (2009). Pak signaling in oncogenesis. Oncogene, 28, 2545–2555. https://doi.org/10.1038/onc.2009.119  
+
+Rudolph, J., Crawford, J. J., Hoeflich, K. P., & Wang, W. (2015). Inhibitors of p21-activated kinases (PAKs). Journal of Medicinal Chemistry, 58(1), 111–129. https://doi.org/10.1021/jm501613q  
+
+Soleymani, S., Gravel, N., Huang, L.-C., Yeung, W., Bozorgi, E., Bendzunas, N. G., Kochut, K. J., & Kannan, N. (2023). Dark kinase annotation, mining, and visualization using the protein kinase ontology. PeerJ, 11, e16087. https://doi.org/10.7717/peerj.16087  
+
+Somanath, P. R., Chernoff, J., Cummings, B., Prasad, S. M., & Homan, H. D. (2023). Targeting p21-activated kinase-1 for metastatic prostate cancer. Cancers. https://doi.org/10.3390/cancers15082236  
+
+Tabanifar, B., Zhao, Z.-S., & Manser, E. (2016). Pak5 is auto-activated by a central domain that promotes kinase oligomerization. Biochemical Journal, 473(12), 1777–1789. https://doi.org/10.1042/BCJ20160132  
+
+Zhao, Z.-S., & Manser, E. (2010). Do PAKs make good drug targets? F1000 Biology Reports, 2, 70. https://doi.org/10.3410/b2-70  
+
+Zhao, Z.-S., & Manser, E. (2012). PAK family kinases. Cellular Logistics, 2, 59–68. https://doi.org/10.4161/cl.21912  
+
+Unknown Authors. (2010). HIV-1 Nef protein and the Nef-associating kinase PAK2 in cell signaling.

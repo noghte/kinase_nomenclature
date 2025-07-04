@@ -1,0 +1,55 @@
+## Phylogeny  
+Cyclin-dependent kinase 2 (CDK2) belongs to the CMGC group, CDK family of the eukaryotic kinome (Volkart et al., 2019). Orthologues are recorded in mouse, rat, zebrafish, fruit-fly, nematode, yeast and Arabidopsis (Malumbres, 2014; Talapati et al., 2021; Cao et al., 2014). Phylogenetic trees cluster CDK2 with CDK1 and CDK3, whereas CDK4/6 form a separate branch that lacks several CDC25A-contact residues conserved in CDK2 (Rowland et al., 2024; Zhang et al., 2024).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr ⇄ ADP + [protein]-Ser/Thr-P (Schulze-Gahmen et al., 1996).  
+
+## Cofactor Requirements  
+Requires a divalent metal ion; Mg²⁺ is preferred and Mn²⁺ can substitute in vitro (Schulze-Gahmen et al., 1996; Cheng et al., 2006).  
+
+## Substrate Specificity  
+CDK2 favours the consensus (S/T)P X (K/R) motif, with an obligatory Pro at +1 and a basic residue at +3 that enhances catalysis (Cheng et al., 2006). High-throughput profiling confirms enrichment of Lys/Arg at +3 among CDK substrates (Örd et al., 2024). Numerous physiological targets contain an N-terminal RXL docking motif engaging the cyclin A hydrophobic patch, thereby increasing local substrate concentration and processivity (Hope et al., 2024; Cheng et al., 2006).  
+
+## Structure  
+CDK2 consists of an N-terminal β-sheet with the PSTAIRE αC-helix and a C-terminal α-helical lobe that houses the HRD and DFG catalytic motifs (Hardcastle et al., 2002). Crystal structures (1.8–1.9 Å) identify hinge residues Leu83 and Asp86 that anchor adenine and most ATP-competitive inhibitors (Schulze-Gahmen et al., 1996; Volkart et al., 2019). Phosphorylation of Thr160 stabilises the activation loop through an Arg50-Arg126-Arg150 network, completes the hydrophobic spine and locks the Lys33–Glu51 catalytic salt bridge (De Vivo et al., 2006). A 2.91 Å cryo-EM model of the CDK2–cyclin A–CDC25A complex delineates the GDSEID surface that accommodates CDC25A, KAP and CKS1 (Rowland et al., 2024). Fragment screening exposes a flexible “Palm” pocket that opens on cyclin binding (Hope et al., 2024). Cyclin E/A binding re-orients the PSTAIRE helix without large-scale domain movements, unlike CDK4 (Zhang et al., 2024).  
+
+## Regulation  
+Full activation requires Thr160 phosphorylation by CDK7–cyclin H (CAK) or by CDK2 trans-autophosphorylation (Hardcastle et al., 2002; Abbas et al., 2007). Inhibitory Thr14 and Tyr15 phosphorylations are added by WEE1/MYT1 and removed by CDC25A (Hardcastle et al., 2002; Rowland et al., 2024). KAP docks on the GDSEID platform to dephosphorylate pThr160 (Rowland et al., 2024). CKIs p21^Cip1 and p27^Kip1 block the active site and prevent CAK access (Hardcastle et al., 2002; Hope et al., 2024). Ubiquitin-mediated turnover of cyclins and regulators through SCF^Skp2 and APC/C pathways further modulates signalling (Örd et al., 2024; Volkart et al., 2019). CKS1 binding promotes processive multi-site phosphorylation of substrates (Rowland et al., 2024).  
+
+## Function  
+CDK2 is expressed in virtually all proliferating tissues, peaks in late G1 and S phase, is indispensable for meiosis yet dispensable for somatic mitosis in mice (Malumbres, 2014). Cyclin E/CDK2 phosphorylates RB1 to release E2F transcription factors, while cyclin A/CDK2 targets CDC6 and p107 to initiate DNA replication (Zhang et al., 2024; Cheng et al., 2006). The kinase also coordinates centrosome duplication and DNA-damage responses via p53/p21 pathways and can enforce permanent senescence when persistently inhibited (Volkart et al., 2019). Key partners include cyclins E/A (activators), CDK7–cyclin H (activating kinase), WEE1/MYT1 (inhibitory kinases), CDC25A and KAP (phosphatases), CKS1 (processivity factor) and CKIs p21/p27 (inhibitors) (Hardcastle et al., 2002; Rowland et al., 2024).  
+
+## Inhibitors  
+Roscovitine anchors at Leu83/Asp86 with higher affinity for the cyclin-bound enzyme than for monomeric CDK2 (Zhang et al., 2024; Abbas et al., 2007). Dinaciclib is a nanomolar dual CDK1/2 inhibitor undergoing advanced clinical evaluation (Volkart et al., 2019). Early scaffolds such as flavonoids and butyrolactone I provided initial templates (Schulze-Gahmen et al., 1996). Structure-guided optimisation of purine, imidazole and pyrazolo-pyrimidine series exploits interactions with Leu83, Lys33 and structured water molecules to enhance potency and selectivity (Hardcastle et al., 2002; Ikuta et al., 2001; Volkart et al., 2019).  
+
+## Other Comments  
+CDK2 hyperactivation via cyclin E/A amplification or disruption of the p16^INK4a–CDK4/6–Rb axis is frequent in breast, colorectal and lung cancers (Volkart et al., 2019; Hardcastle et al., 2002). Combined CDK1/2 inhibition yields durable senescence in Myc-amplified tumours (Volkart et al., 2019). Oncogenic phenotypes typically arise from altered expression of cyclin partners or upstream regulators; pathogenic coding mutations in CDK2 are rare (Volkart et al., 2019).  
+
+## References  
+Abbas, T., Jha, S., Sherman, N. E., & Dutta, A. (2007). Autocatalytic phosphorylation of CDK2 at the activating Thr160. Cell Cycle, 6, 843–852. https://doi.org/10.4161/cc.6.7.4000  
+
+Cao, L., Chen, F., Yang, X.-M., Xu, W., Xie, J., & Yu, L. (2014). Phylogenetic analysis of CDK and cyclin proteins in pre-metazoan lineages. BMC Evolutionary Biology, 14, 10. https://doi.org/10.1186/1471-2148-14-10  
+
+Cheng, K.-Y., Noble, M. E. M., Skamnaki, V., Brown, N. R., Lowe, E. D., Kontogiannis, L., … Johnson, L. N. (2006). The role of the phospho-CDK2/cyclin A recruitment site in substrate recognition. Journal of Biological Chemistry, 281, 23167–23179. https://doi.org/10.1074/jbc.M600480200  
+
+De Vivo, M., Cavalli, A., Bottegoni, G., Carloni, P., & Recanatini, M. (2006). Role of phosphorylated Thr160 for the activation of the CDK2/cyclin A complex. Proteins, 62, 89–98. https://doi.org/10.1002/prot.20697  
+
+Hardcastle, I. R., Golding, B. T., & Griffin, R. J. (2002). Designing inhibitors of cyclin-dependent kinases. Annual Review of Pharmacology and Toxicology, 42, 325–348. https://doi.org/10.1146/annurev.pharmtox.42.090601.125940  
+
+Hope, I., Noble, M. E. M., Waring, M. J., Endicott, J. A., & Tatum, N. J. (2024). Crystallographic fragment screening of CDK2-cyclin A: fraglites map sites of protein-protein interaction. bioRxiv. https://doi.org/10.1101/2024.06.03.596235  
+
+Ikuta, M., Kamata, K., Fukasawa, K., Honma, T., Machida, T., Hirai, H., … Nishimura, S. (2001). Crystallographic approach to identification of CDK4-specific inhibitors by using a CDK4 mimic CDK2 protein. Journal of Biological Chemistry, 276, 27548–27554. https://doi.org/10.1074/jbc.M102060200  
+
+Malumbres, M. (2014). Cyclin-dependent kinases. Genome Biology, 15, 122. https://doi.org/10.1186/gb4184  
+
+Örd, M., Winters, M. J., Subbanna, M. S., de Martin Garrido, N., Cushing, V. I., Kliche, J., … Davey, N. E. (2024). High-throughput discovery and deep characterization of cyclin-CDK docking motifs. bioRxiv. https://doi.org/10.1101/2024.12.03.625240  
+
+Rowland, R. J., Korolchuk, S., Salamina, M., Ault, J. R., Hart, S., Turkenburg, J. P., … Endicott, J. A. (2024). Cryo-EM structure of the CDK2-cyclin A-CDC25A complex. bioRxiv. https://doi.org/10.1101/2023.10.17.562665  
+
+Schulze-Gahmen, U., De Bondt, H. L., & Kim, S.-H. (1996). High-resolution crystal structures of human CDK2 with and without ATP. Journal of Medicinal Chemistry, 39, 4540–4546. https://doi.org/10.1021/jm960402a  
+
+Talapati, S. R., Goyal, M., Nataraj, V., Pothuganti, M., Sreevidya, M. R., Gore, S., … Rao, N. K. (2021). Structural and binding studies of CDK2 with NU6140 inhibitor. Chemical Biology & Drug Design, 98, 857–868. https://doi.org/10.1111/cbdd.13941  
+
+Volkart, P. A., Bitencourt-Ferreira, G., Souto, A. A., & de Azevedo, W. F. (2019). Cyclin-dependent kinase 2 in cellular senescence and cancer: a structural and functional review. Current Drug Targets, 20, 716–726. https://doi.org/10.2174/1389450120666181204165344  
+
+Zhang, W., Liu, Y., Jang, H., & Nussinov, R. (2024). CDK2 and CDK4: cell cycle functions evolve distinct, catalysis-competent conformations, offering drug targets. JACS Au, 4, 1911–1927. https://doi.org/10.1021/jacsau.4c00138

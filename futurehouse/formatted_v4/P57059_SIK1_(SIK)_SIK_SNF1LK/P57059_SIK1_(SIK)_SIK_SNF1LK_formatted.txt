@@ -1,0 +1,74 @@
+## Proposed EC/sub-subclass  
+2.7.11.– (serine/threonine protein kinase)  
+
+## Accepted name  
+Salt-inducible kinase 1  
+
+## Synonyms  
+SIK1  
+
+## Phylogeny  
+Member of the salt-inducible kinase (SIK) family (SIK1, SIK2, SIK3), a branch of the AMP-activated protein kinase-related kinases (AMPK-RKs). According to the Manning kinome, SIKs fall within the Ca2+/calmodulin-dependent protein kinase (CAMK) group; one report places SIK1 in the SNF1/AMPK group (Du et al., 2016; Darling & Cohen, 2021; Sonntag et al., 2018). The human SIK1 gene maps to chromosome 21 (Du et al., 2016; Darling & Cohen, 2021).  
+
+## Reaction Catalyzed  
+Protein-L-Ser/Thr + ATP ⇌ Protein-L-phospho-Ser/Thr + ADP (Berdeaux, 2011; Darling & Cohen, 2021).  
+
+## Cofactor Requirements  
+Activity requires divalent cations, typically Mg2+ or Mn2+ (Berdeaux, 2011; Du et al., 2016; Darling & Cohen, 2021).  
+
+## Substrate Specificity  
+Prefers Ser/Thr residues located within basic motifs, e.g. L-x-[H/K/R]-[S/T]-x-S-X3-L or LxB(S/T)xS*xxxL (B = basic, S* = phospho-acceptor) and shows a preference for Arg at −3/−4 (Unknown authors, 2017; Chen et al., 2019; Darling & Cohen, 2021). Can also phosphorylate variant sites lacking N-terminal basic residues such as SLPDL (Unknown authors, 2017).  
+
+## Structure  
+776-aa protein comprising:  
+• N-terminal kinase domain (aa 27–278) with catalytic Lys56, αC-Glu74, gatekeeper Thr103, hinge residues Glu104/Phe105/Ala106, DFG Asp167, and activation-loop phosphosite Thr182.  
+• Central UBA domain that promotes LKB1-mediated activation but does not bind ubiquitin.  
+• C-terminal domain harbouring multiple regulatory phosphosites, nuclear localisation signals and an Arg/Lys-rich import sequence (Du et al., 2016; Darling & Cohen, 2021; Shi, 2024).  
+Partial PDB models and AlphaFold predictions are available (Sato et al., 2022; Darling & Cohen, 2021).  
+
+## Regulation  
+Activated by LKB1-dependent phosphorylation of Thr182; sustained by autophosphorylation at Ser186 (Darling & Cohen, 2021; Du et al., 2016; Unknown authors, 2017).  
+Inhibited by PKA phosphorylation on several C-terminal sites (e.g. Thr473, Ser575), creating 14-3-3 docking motifs that sequester SIK1 in the cytoplasm (Berdeaux, 2011; Darling & Cohen, 2021; Sonntag et al., 2018). Additional modulation by CaMK1 (Thr322), PKC, and tyrosine kinases affects stability or activity (Du et al., 2016; Unknown authors, 2017).  
+
+## Function  
+Widely expressed; enriched in adrenal gland, liver, skin, adipose tissue and muscle. Expression is inducible by high-salt diet, ACTH and cAMP (Berdeaux, 2011; Sun et al., 2020; Unknown authors, 2017; Hu et al., 2015).  
+Downstream substrates include CRTC family co-activators (e.g., CRTC2) and class IIa HDACs (HDAC4/5); their phosphorylation drives 14-3-3-mediated cytoplasmic retention, thereby repressing CREB- and MEF2-dependent transcription (Berdeaux, 2011; Darling & Cohen, 2021).  
+Physiological roles:  
+• Limits hepatic gluconeogenic gene expression and regulates lipogenesis (Berdeaux, 2011; Unknown authors, 2017).  
+• Acts as a tumour suppressor, mediating p53-dependent anoikis and suppressing metastasis in breast cancer and NSCLC via the LKB1–SIK1 axis (Du et al., 2016; Hollstein et al., 2019).  
+• Promotes skeletal myocyte survival and influences adrenal steroidogenesis and sodium transport (Darling & Cohen, 2021; Hu et al., 2015).  
+
+## Inhibitors  
+Pan-SIK small-molecule inhibitors include HG-9-91-01, YKL-05-099, MRT67307, MRT199665 and ARN-3236; dual use of MRT199665 + HG-9-91-01 improves selectivity. Dasatinib and bosutinib inhibit SIKs off-target. Isoform-selective compounds remain elusive (Darling & Cohen, 2021; Öster et al., 2024; Tesch et al., 2021).  
+
+## Other Comments  
+Dysregulation contributes to metabolic disorders (e.g., diabetes) via effects on gluconeogenesis and lipogenesis. Loss of SIK1 expression is linked to tumour progression in NSCLC and metastatic breast cancer. It also participates in cardiovascular processes such as vascular calcification and pathological cardiac remodelling. No specific disease-causing germline mutations have been reported (Berdeaux, 2011; Darling & Cohen, 2021; Sun et al., 2020; Shi, 2024).  
+
+## References  
+Berdeaux, R. (2011). Metabolic regulation by salt-inducible kinases. Frontiers in Biology, 6, 231–241. https://doi.org/10.1007/s11515-011-1148-0  
+
+Chen, F., Chen, L., Qin, Q., & Sun, X. (2019). Salt-inducible kinase 2: An oncogenic signal transmitter and potential target for cancer therapy. Frontiers in Oncology. https://doi.org/10.3389/fonc.2019.00018  
+
+Darling, N. J., & Cohen, P. (2021). Nuts and bolts of the salt-inducible kinases (SIKs). Biochemical Journal, 478, 1377–1397. https://doi.org/10.1042/BCJ20200502  
+
+Du, W.-Q., Zheng, J.-N., & Pei, D.-S. (2016). The diverse oncogenic and tumor-suppressor roles of salt-inducible kinase (SIK) in cancer. Expert Opinion on Therapeutic Targets, 20, 477–485. https://doi.org/10.1517/14728222.2016.1101452  
+
+Hollstein, P. E., et al. (2019). The AMPK-related kinases SIK1 and SIK3 mediate key tumor-suppressive effects of LKB1 in NSCLC. Cancer Discovery, 9, 1606–1627. https://doi.org/10.1158/2159-8290.CD-18-1261  
+
+Hu, Z., Hu, J., Shen, W.-J., Kraemer, F. B., & Azhar, S. (2015). A novel role of salt-inducible kinase 1 in the post-translational regulation of scavenger receptor class B type 1 activity. Biochemistry, 54, 6917–6930. https://doi.org/10.1021/acs.biochem.5b00147  
+
+Öster, L., et al. (2024). Structures of salt-inducible kinase 3 in complex with inhibitors reveal determinants for binding and selectivity. Journal of Biological Chemistry. https://doi.org/10.1016/j.jbc.2024.107201  
+
+Sato, T., et al. (2022). Structure-based design of selective, orally available salt-inducible kinase inhibitors that stimulate bone formation in mice. Proceedings of the National Academy of Sciences. https://doi.org/10.1073/pnas.2214396119  
+
+Shi, F. (2024). Understanding the roles of salt-inducible kinases in cardiometabolic disease. Frontiers in Physiology. https://doi.org/10.3389/fphys.2024.1426244  
+
+Sonntag, T., Vaughan, J. M., & Montminy, M. (2018). 14-3-3 proteins mediate inhibitory effects of cAMP on salt-inducible kinases (SIKs). The FEBS Journal. https://doi.org/10.1111/febs.14351  
+
+Sun, Z., Jiang, Q., Li, J., & Guo, J.-P. (2020). The potent roles of salt-inducible kinases in metabolic homeostasis and tumorigenesis. Signal Transduction and Targeted Therapy. https://doi.org/10.1038/s41392-020-00265-w  
+
+Tesch, R., et al. (2021). Structure-based design of selective salt-inducible kinase inhibitors. Journal of Medicinal Chemistry, 64, 8142–8160. https://doi.org/10.1021/acs.jmedchem.0c02144  
+
+Unknown authors. (2017). Salt-inducible kinases in adipose tissue.  
+
+Valdés-Albuernes, J. L., Díaz-Pico, E., Alfaro, S., & Caballero, J. (2025). Advanced modeling of salt-inducible kinase inhibitors incorporating protein flexibility through molecular dynamics and cross-docking. Scientific Reports. https://doi.org/10.1038/s41598-025-03699-w

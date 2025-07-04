@@ -1,0 +1,71 @@
+Phylogeny  
+MAPK4 (ERK4) is an atypical MAP kinase belonging to the CMGC group, ERK3/ERK4 sub-family. Clear orthologues exist in vertebrates (Homo sapiens, Mus musculus, Rattus norvegicus, Gallus gallus, Xenopus laevis, Danio rerio), whereas invertebrate and plant genomes lack bona-fide ERK4, indicating a vertebrate-specific duplication that generated ERK3 and ERK4 (Coulombe & Meloche, 2007; Åberg et al., 2006). ERK4 shares 73 % identity within the kinase domain with ERK3 but only ~45 % with classical ERK1/2, underscoring its divergent evolution (Coulombe & Meloche, 2007).  
+
+Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (Kant et al., 2006).  
+
+Cofactor Requirements  
+Mg²⁺ is required for activity; no alternative divalent cations have been reported (Boudghene-Stambouli et al., 2022).  
+
+Substrate Specificity  
+Validated substrates are MAPK-activated protein kinase-5 (MK5; Thr182) and microtubule-associated protein-2 (MAP2). Large-scale analysis has not revealed a dedicated ERK4 consensus motif (Åberg et al., 2009; Kant et al., 2006; Coulombe & Meloche, 2007).  
+
+Structure  
+• N-terminal bilobal kinase domain (residues 1–320).  
+• C-terminal extension containing the classical docking (CD) site and FRIEDE motif for MK5 interaction (Åberg et al., 2009).  
+• Activation loop carries an atypical S-E-G motif; Ser186 is the sole phospho-acceptor (Perander et al., 2008).  
+• Subdomain VIII shows an S-P-R triad replacing the canonical A-P-E, introducing a unique Arg that alters C-lobe electrostatics (Coulombe & Meloche, 2007).  
+• Homology models built on ERK3 (PDB 2I6L) retain the VAIK, HRD and DFG catalytic motifs, a correct C-helix, and an intact hydrophobic spine; Ser186 phosphorylation is predicted to stabilise the active conformation (Déléris et al., 2008; Boudghene-Stambouli et al., 2022).  
+No experimental ERK4 crystal structure is yet available (Coulombe & Meloche, 2007).  
+
+Regulation  
+Phosphorylation  
+– Group I PAK1-3 kinases phosphorylate Ser186, a prerequisite for catalytic activity and high-affinity MK5 binding (Déléris et al., 2011).  
+– MK5 can in turn phosphorylate ERK4, generating a mobility-shifted form; sites are unidentified (Kant et al., 2006).  
+– Ser386 is phosphorylated in cells, but its role is unknown (Déléris et al., 2008).  
+
+Dephosphorylation  
+DUSP2 binds the ERK4 CD/KIM motif and removes the Ser186 phosphate, dampening downstream MK5 activation (Perander et al., 2017).  
+
+Protein stability & chaperoning  
+ERK4 is an Hsp90 client; Hsp90 inhibition destabilises ERK4 and reduces MK5 phosphorylation (Identification of novel roles…, 2015). Unlike ERK3, ERK4 is intrinsically stable and is not rapidly degraded by the proteasome under basal conditions (Åberg et al., 2006).  
+
+Subcellular localisation  
+Predominantly cytoplasmic; CRM1-dependent export limits nuclear ERK4, and leptomycin B induces nuclear accumulation (Åberg et al., 2006).  
+
+Function  
+Expression  
+Highest mRNA levels are detected in brain, with substantial expression in colon, eye, heart, kidney, lung, ovary, pancreas, placenta, prostate and skin (Coulombe & Meloche, 2007).  
+
+Signalling context  
+Upstream: Rac1/Cdc42-activated PAK1-3 phosphorylate and activate ERK4 (Déléris et al., 2011).  
+Downstream: Activated ERK4 phosphorylates MK5, enforcing MK5 cytoplasmic localisation and stimulating its activity toward cytoskeletal targets (Åberg et al., 2006). ERK4 also enhances PDK1-AKT/mTOR signalling, promoting oncogenic growth programmes (Boudghene-Stambouli et al., 2022; Han et al., 2023). Cellular roles include promotion of cell-cycle entry and proliferation (Kant et al., 2006).  
+
+Inhibitors  
+No selective small-molecule or biological inhibitors of ERK4 have been reported (Boudghene-Stambouli et al., 2022).  
+
+Other Comments  
+Elevated MAPK4 expression sustains androgen-receptor-dependent AKT activation in prostate cancer and confers resistance to PI3K pathway inhibition (Boudghene-Stambouli et al., 2022). MAPK4 knock-down synergises with PARP1 inhibition in triple-negative breast cancer, and cooperative activation of PDK1-AKT by MAPK4 promotes tumour growth and therapy resistance (Boudghene-Stambouli et al., 2022; Han et al., 2023).  
+
+9. References  
+Åberg, E., Perander, M., Johansen, B., Julien, C., Meloche, S., Keyse, S. M., & Seternes, O.-M. (2006). Regulation of MAPK-activated protein kinase 5 activity and subcellular localization by the atypical MAPK ERK4/MAPK4. Journal of Biological Chemistry, 281, 35499–35510. https://doi.org/10.1074/jbc.M606225200  
+
+Åberg, E., Torgersen, K., Johansen, B., Keyse, S., Perander, M., & Seternes, O. (2009). Docking of PRAK/MK5 to the atypical MAPKs ERK3 and ERK4 defines a novel MAPK interaction motif. Journal of Biological Chemistry, 284, 19392–19401. https://doi.org/10.1074/jbc.M109.023283  
+
+Boudghene-Stambouli, F., Soulez, M., Ronkina, N., Dörrie, A., Kotlyarov, A., Seternes, O.-M., Gaestel, M., & Meloche, S. (2022). On the therapeutic potential of ERK4 in triple-negative breast cancer. Cancers, 15, 25. https://doi.org/10.3390/cancers15010025  
+
+Coulombe, P., & Meloche, S. (2007). Atypical mitogen-activated protein kinases: Structure, regulation and functions. Biochimica et Biophysica Acta – Molecular Cell Research, 1773, 1376–1387. https://doi.org/10.1016/j.bbamcr.2006.11.001  
+
+Déléris, P., Rousseau, J., Coulombe, P., Rodier, G., Tanguay, P.-L., & Meloche, S. (2008). Activation loop phosphorylation of the atypical MAP kinases ERK3 and ERK4 is required for binding, activation and cytoplasmic relocalization of MK5. Journal of Cellular Physiology, 217, 778–788. https://doi.org/10.1002/jcp.21560  
+
+Déléris, P., Trost, M., Topisirovic, I., Tanguay, P.-L., Borden, K. L. B., Thibault, P., & Meloche, S. (2011). Activation loop phosphorylation of ERK3/ERK4 by group I p21-activated kinases defines a novel PAK–ERK3/4–MK5 signalling pathway. Journal of Biological Chemistry, 286, 6470–6478. https://doi.org/10.1074/jbc.M110.181529  
+
+Han, D., Wang, W., Jeon, J. H., Shen, T., Huang, X., Yi, P., Dong, B., & Yang, F. (2023). Cooperative activation of PDK1 and AKT by MAPK4 enhances cancer growth and resistance to therapy. PLOS Biology, 21, e3002227. https://doi.org/10.1371/journal.pbio.3002227  
+
+Identification of novel roles and new modes of regulation for the atypical MAP kinases ERK3 and ERK4. (2015). [Unpublished manuscript pages 43–46].  
+
+Kant, S., Schumacher, S., Singh, M. K., Kispert, A., Kotlyarov, A., & Gaestel, M. (2006). Characterization of the atypical MAPK ERK4 and its activation of the MAPK-activated protein kinase MK5. Journal of Biological Chemistry, 281, 35511–35519. https://doi.org/10.1074/jbc.M606693200  
+
+Perander, M., Åberg, E., Johansen, B., Dreyer, B., Guldvik, I. J., Outzen, H., Keyse, S. M., & Seternes, O.-M. (2008). The Ser186 phospho-acceptor site within ERK4 is essential for its ability to interact with and activate PRAK/MK5. Biochemical Journal, 411, 613–622. https://doi.org/10.1042/BJ20071369  
+
+Perander, M., Al-Mahdi, R., Jensen, T. C., Nunn, J. A. L., Kildalsen, H., Johansen, B., Gabrielsen, M., Keyse, S. M., & Seternes, O.-M. (2017). Regulation of atypical MAP kinases ERK3 and ERK4 by the phosphatase DUSP2. Scientific Reports, 7, 43471. https://doi.org/10.1038/srep43471

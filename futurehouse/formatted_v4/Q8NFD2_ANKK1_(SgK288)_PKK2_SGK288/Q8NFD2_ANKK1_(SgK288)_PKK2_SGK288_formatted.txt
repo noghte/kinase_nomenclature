@@ -1,0 +1,67 @@
+Phylogeny  
+Orthologues have been reported in Mus musculus, Rattus norvegicus and Danio rerio, indicating conservation across vertebrates (Leggieri et al., 2022; Hoenicka et al., 2010). Within the human kinome ANKK1 clusters with the receptor-interacting protein kinase sub-family (RIPK5) of the Tyrosine-Kinase-Like branch; its catalytic domain shares ≈35 % identity with RIPK4, the closest paralogue (Domínguez-Berzosa et al., 2024; Ponce et al., 2009). Early analyses grouped ANKK1 with ANKRD3 on the basis of a common ankyrin-repeat architecture (Neville et al., 2004).  
+
+Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Neville et al., 2004; Ponce et al., 2009).  
+
+Cofactor Requirements  
+A divalent Mg²⁺ ion is proposed to be required, in line with other RIPK family kinases; direct enzymatic confirmation for ANKK1 is not yet available (Domínguez-Berzosa et al., 2024).  
+
+Substrate Specificity  
+No consensus phosphorylation motif or physiological substrate has been defined to date (Neville et al., 2004; Ponce et al., 2009).  
+
+Structure  
+• 765-residue protein with an N-terminal Ser/Thr kinase domain (residues 22–289) and 11 C-terminal ankyrin repeats (361–753) (Domínguez-Berzosa et al., 2024; Neville et al., 2004).  
+• Conserved catalytic motifs VAIK (Lys147), HRD and DFG confirm an active eukaryotic protein kinase fold (Domínguez-Berzosa et al., 2024).  
+• AlphaFold model AF-Q8NFD2-F1 predicts high flexibility outside the two main domains (Domínguez-Berzosa et al., 2024).  
+• Comparative modelling of haplotypes H1, H2 and H2B shows surface-charge differences at residues 239, 318, 442, 490 and 713 without altering the global fold (Domínguez-Berzosa et al., 2024).  
+• No X-ray or cryo-EM structure is available.  
+• Endogenous isoforms: full-length cytoplasmic (~82 kDa), nuclear kinase-only (~56 kDa) and glycosylated cytoplasmic (~115 kDa) forms (Rubio-Solsona et al., 2018).  
+• CRM1-dependent nuclear-export signals mediate nucleo-cytoplasmic shuttling, as shown by leptomycin B sensitivity (Rubio-Solsona et al., 2018).  
+
+Regulation  
+• Ubiquitination on conserved lysines suggests proteostatic control, though individual sites remain unmapped (Hoenicka et al., 2010).  
+• A glycosylated full-length isoform accumulates during myogenic differentiation (Rubio-Solsona et al., 2018).  
+• Missense variant Ala239Thr introduces an additional phosphorylation site and alters electrophoretic mobility (Hoenicka et al., 2010).  
+• ANKK1 mRNA is up-regulated in astrocytes after dopamine D₂ agonist (apomorphine) exposure (Hoenicka et al., 2010).  
+• During neuronal differentiation, binding to WGEF (RhoA-GEF) decreases while interaction with FARP1 (RAC1-GEF) increases, coordinating RhoA/RAC1 activation (Domínguez-Berzosa et al., 2024).  
+
+Function  
+• Highly expressed in astrocytes and radial glial cells during embryonic and post-natal brain development (Hoenicka et al., 2010).  
+• Transcript levels oscillate with the cell cycle in neural precursors, peaking in mitosis (España-Serrano et al., 2017).  
+• Enriched in striatal dopamine D₂-expressing neurons that regulate reward and metabolism; brain-biased expression confirmed by GTEx and Allen Brain Atlas datasets (Montalban et al., 2022; Domínguez-Berzosa et al., 2024).  
+• In skeletal muscle, localises to migrating myotubes and shifts from nucleus to cytoplasm during differentiation (Rubio-Solsona et al., 2018).  
+• Acts as a scaffold in the Wnt/Planar Cell Polarity pathway, recruiting FARP1 and WGEF to coordinate RAC1 and RhoA activation, promoting F-actin assembly, neuritogenesis and neuronal migration (Domínguez-Berzosa et al., 2024).  
+• Knock-down reduces RAC1/RhoA expression and blocks neurite outgrowth in neuroblastoma cells (Domínguez-Berzosa et al., 2024).  
+• Loss-of-function in zebrafish decreases drd2 expression and disrupts dopamine-dependent behaviours (Leggieri et al., 2022).  
+• Variant rs2734849 (Arg→His) in the ankyrin region alters NF-κB-regulated gene expression (Ma et al., 2015).  
+
+Inhibitors  
+Not reported in the material provided.  
+
+Other Comments  
+• rs1800497 (Taq1A, p.Glu713Lys) in ankyrin repeat 11 is linked to a 30–40 % reduction in striatal DRD2 density and increased risk for addictions, obesity, ADHD and schizophrenia (Neville et al., 2004; Montalban et al., 2022).  
+• Five polymorphic residues (239, 318, 442, 490, 713) define haplotypes H1, H2 and H2B with distinct surface-charge patterns (Domínguez-Berzosa et al., 2024).  
+• Rare promoter and intron 1 variants that disrupt MZF-1 or RELA binding are enriched in Parkinson’s disease cohorts and modulate transcription in reporter assays (Pérez-Santamarina et al., 2021).  
+• ANKK1 lies adjacent to DRD2 within the NTAD cluster, creating extensive linkage disequilibrium that historically complicated genetic attribution of Taq1A (Domínguez-Berzosa et al., 2024; Neville et al., 2004).  
+
+References  
+Domínguez-Berzosa, L., Cantarero, L., Rodríguez-Sanz, M., Tort, G., Garrido, E., Troya-Balseca, J., … Hoenicka, J. (2024). Ankk1 is a Wnt/PCP scaffold protein for neural F-actin assembly. International Journal of Molecular Sciences, 25, 10705. https://doi.org/10.3390/ijms251910705  
+
+España-Serrano, L., Guerra Martín-Palanco, N., Montero-Pedrazuela, A., Pérez-Santamarina, E., Vidal, R., García-Consuegra, I., … Hoenicka, J. (2017). The addiction-related protein ANKK1 is differentially expressed during the cell cycle in neural precursors. Cerebral Cortex, 27, 2809–2819. https://doi.org/10.1093/cercor/bhw129  
+
+Hoenicka, J., Quiñones-Lombraña, A., España-Serrano, L., Alvira-Botero, X., Kremer, L., Pérez-González, R., … Palomo, T. (2010). The ANKK1 gene associated with addictions is expressed in astroglial cells and up-regulated by apomorphine. Biological Psychiatry, 67, 3–11. https://doi.org/10.1016/j.biopsych.2009.08.012  
+
+Leggieri, A., García-González, J., Torres-Perez, J. V., Havelange, W., Hosseinian, S., Mech, A. M., … Brennan, C. H. (2022). Ankk1 loss of function disrupts dopaminergic pathways in zebrafish. Frontiers in Neuroscience, 16, 794653. https://doi.org/10.3389/fnins.2022.794653  
+
+Ma, Y., Yuan, W., Jiang, X., Cui, W.-Y., & Li, M. D. (2015). Updated findings of the association and functional studies of DRD2/ANKK1 variants with addictions. Molecular Neurobiology, 51, 281–299. https://doi.org/10.1007/s12035-014-8826-2  
+
+Montalban, E., Walle, R., Castel, J., Ansoult, A., Hassouna, R., Foppen, E., … Luquet, S. (2022). The addiction-susceptibility Taq1A/ANKK1 controls reward and metabolism through dopamine receptor type 2-expressing neurons. bioRxiv. https://doi.org/10.1101/2022.08.12.503577  
+
+Neville, M. J., Johnstone, E. C., & Walton, R. T. (2004). Identification and characterization of ANKK1: A novel kinase gene closely linked to DRD2 on chromosome 11q23.1. Human Mutation, 23, 540–545. https://doi.org/10.1002/humu.20039  
+
+Pérez-Santamarina, E., Garcia-Ruiz, P., Martínez-Rubio, D., Ezquerra, M., Pla-Navarro, I., Puente, J., … Hoenicka, J. (2021). Regulatory rare variants of the dopaminergic gene ANKK1 as potential risk factors for Parkinson’s disease. Scientific Reports, 11, 89300. https://doi.org/10.1038/s41598-021-89300-6  
+
+Ponce, G., Pérez-González, R., Aragüés, M., Palomo, T., Rodríguez-Jiménez, R., Jiménez-Arriero, M. A., & Hoenicka, J. (2009). The ANKK1 kinase gene and psychiatric disorders. Neurotoxicity Research, 16, 50–59. https://doi.org/10.1007/s12640-009-9046-9  
+
+Rubio-Solsona, E., Martí, S., Vílchez, J., Palau, F., & Hoenicka, J. (2018). ANKK1 is found in myogenic precursors and muscle fibre sub-types with glycolytic metabolism. PLOS ONE, 13, e0197254. https://doi.org/10.1371/journal.pone.0197254

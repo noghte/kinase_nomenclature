@@ -1,0 +1,48 @@
+## Phylogeny  
+STK32A (also called YANK1) is placed in the AGC group of protein kinases and constitutes the STK32 family, which maps next to the Aurora kinases on kinome trees (Sorrell et al., 2020, pp. 1-7). A conflicting scheme assigns the YANK family to the “Miscellaneous” group (Thiriet, 2013, pp. 1-4). STK32A shares ~36 % sequence identity with the closest non-family kinases (e.g., PRKACG, RSK2) and 69 %/65 % with its paralogs STK32B/C (Sorrell et al., 2020, pp. 1-7). Orthologs are conserved throughout opisthonts and are present in fungi, insects, sea anemone and vertebrates (Sorrell et al., 2020, pp. 1-29). The priority kinome survey (Manning et al., 2002) did not explicitly list STK32A.
+
+## Reaction Catalyzed  
+1. STK32A + ATP ⇌ Phospho-STK32A + ADP (autophosphorylation)  
+2. Protein-Ser/Thr/Tyr + ATP ⇌ Protein-P + ADP (substrate phosphorylation)  
+(Sorrell et al., 2020, pp. 1-10)
+
+## Cofactor Requirements  
+Activity requires divalent cations; both Mg²⁺ and Mn²⁺ support catalysis, with higher activity in Mn²⁺ (Sorrell et al., 2020, pp. 5-18, 24-29).
+
+## Substrate Specificity  
+STK32A is a dual-specificity kinase that prefers acidic substrates. Mass-spectrometry profiling defined an optimal motif containing Asp/Glu at positions P-4, P+1, P+2 and P+3 relative to the phosphorylated Ser/Thr (Sorrell et al., 2020, pp. 5-10). Arg109, Arg221 and Arg304 line the substrate-binding groove and likely mediate recognition of acidic peptides. The kinase can also phosphorylate “primed” substrates bearing nearby phospho-residues (Sorrell et al., 2020, pp. 10-15).
+
+## Structure  
+The crystal structure (PDB 4FR4) shows the canonical AGC N- and C-lobe fold with the ATP site in between (Sorrell et al., 2020, pp. 1-10, 24-29). Conserved AGC motifs (G-loop, HRD, APE) are present. Unique features include:  
+• a novel α-helix (“HF motif helix”) between turn and hydrophobic motifs;  
+• an atypical hydrophobic motif (F-X-X-F-N-R) lacking a phosphorylatable residue;  
+• a small gatekeeper Val100 that enlarges the ATP pocket;  
+• monomeric state in solution by SAXS (Sorrell et al., 2020, pp. 10-15).  
+
+## Regulation  
+STK32A undergoes extensive autophosphorylation: S227, T229, S230, S231 (αF-αG loop), S320 (turn motif) and S354 (near HF motif) (Sorrell et al., 2020, pp. 5-7). Binding of the C-terminal HF motif to the N-lobe stabilises the active αC-helix without requiring C-tail phosphorylation (Sorrell et al., 2020, pp. 7-10). HPLC-SAXS reveals conformational shifts between unphosphorylated and phosphorylated states (Sorrell et al., 2020, pp. 29-47). Whether PDK1 contributes to activation is unknown (Sorrell et al., 2020, pp. 7-10). In the paralog YANK2, Fyn phosphorylates Y110 to enhance stability and activity (Shi et al., 2024, pp. 5-13).
+
+## Function  
+Expression: high RNA levels in brain and endocrine tissues (Sorrell et al., 2020, pp. 1-5).  
+Localization: endogenous protein at centrosomes; over-expressed protein largely cytosolic (Sorrell et al., 2020, pp. 1-18).  
+Development: in the mouse inner ear, STK32A is restricted to EMX2-negative vestibular hair cells where it orients stereociliary bundle polarity and influences GPR156 localisation (Jia et al., 2023, pp. 2-3).  
+Biochemistry: phosphorylates β-casein and peptides from the p38α MAPK activation loop in vitro (Sorrell et al., 2020, pp. 7-18). No direct binding partners have been reported (Sorrell et al., 2020, pp. 1-5).
+
+## Inhibitors  
+STK32A binds several clinically used type I inhibitors: Ceritinib (ALK), Dabrafenib (BRAF), PF-03758309 (PAK4), PRT062607 (SYK), Danusertib (Aurora) and the broad-spectrum staurosporine (Sorrell et al., 2020, pp. 12-15). Owing to its small gatekeeper (Val100) it also associates with bulky analog-sensitive probes 1NM-PP1 and PP-121 (Sorrell et al., 2020, pp. 12-15, 29-39).
+
+## Other Comments  
+Genetic links connect STK32A (5q31–q33) variants to coeliac disease, lung-cancer susceptibility and smoking-related methylation changes; a melanoma S89F mutation has been described (Sorrell et al., 2020; Arencibia et al., 2013). The broader YANK family is implicated in neurological disease, and YANK2 promotes glioma via mTOR-independent p70S6K activation (Shi et al., 2024).
+
+## 9. References  
+Arencibia, J. M., Pastor-Flores, D., Bauer, A. F., Schulze, J. O., & Biondi, R. M. (2013). AGC protein kinases: From structural mechanism of regulation to allosteric drug development for the treatment of human diseases. Biochimica et Biophysica Acta (BBA) – Proteins and Proteomics, 1834, 1302-1321. https://doi.org/10.1016/j.bbapap.2013.03.010  
+
+Jia, S., Ratzan, E. M., Goodrich, E. J., Abrar, R., Heiland, L., Tarchini, B., & Deans, M. R. (2023). The dark kinase STK32A regulates hair cell planar polarity opposite of EMX2 in the developing mouse inner ear. bioRxiv. https://doi.org/10.1101/2022.11.02.514904  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912-1934. https://doi.org/10.1126/science.1075762  
+
+Shi, Y., Cheng, Y., Wang, W., Tang, L., Li, W., Zhang, L., … Duan, Q. (2024). YANK2 activated by Fyn promotes glioma tumorigenesis via the mTOR-independent p70S6K activation pathway. Scientific Reports. https://doi.org/10.1038/s41598-024-61157-5  
+
+Sorrell, F., Miranda, F., Abdul Azeez, K. R., Chaikuad, A., Kettenbach, A., Gerber, S., Knapp, S., Ahmed, A., & Elkins, J. (2020). STK32A is a dual-specificity AGC kinase with a preference for acidic substrates. bioRxiv. https://doi.org/10.1101/2020.03.04.976555  
+
+Thiriet, M. (2013). Preamble to cytoplasmic protein kinases. In Biomathematical and Biomechanical Modeling of the Circulatory and Ventilatory Systems (pp. 109-135). Springer. https://doi.org/10.1007/978-1-4614-4370-4_3

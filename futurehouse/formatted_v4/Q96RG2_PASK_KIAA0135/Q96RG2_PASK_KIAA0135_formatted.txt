@@ -1,0 +1,69 @@
+## Proposed EC/sub-subclass:
+Not yet assigned (information not provided in the cited literature).  
+
+## Accepted name:
+PAS domain-containing serine/threonine-protein kinase (PASK)  
+
+## Synonyms:
+PAS kinase; PAS domain kinase; Psk1 (S. cerevisiae); Psk2 (S. cerevisiae)  
+
+## Phylogeny  
+Orthologues occur in Saccharomyces cerevisiae (Psk1, Psk2), Drosophila melanogaster, Danio rerio, Xenopus laevis, Gallus gallus, Mus musculus and Homo sapiens, but are absent from Arabidopsis thaliana and Caenorhabditis elegans (DeMille et al., 2015).  
+The catalytic domain belongs to the Ca²⁺/calmodulin-dependent kinase (CAMK) group, AMPK-related branch (Grose & Rutter, 2010).  
+PASK is the only known mammalian kinase that combines a sensory PAS module with a Ser/Thr catalytic domain; its PAS regions resemble the bacterial oxygen sensor FixL (Schläfli et al., 2009; DeMille & Grose, 2013).  
+
+## Reaction catalysed  
+ATP + protein-L-Ser/Thr ⇌ ADP + protein-L-Ser/Thr-phosphate (Rutter et al., 2001).  
+
+## Cofactor requirements  
+Mg²⁺ is obligatory; Mn²⁺ can substitute in vitro (Kikani et al., 2010; Rutter et al., 2001).  
+
+## Substrate Specificity  
+Optimal consensus: R-X-A/x-S/T* with an invariant Arg at −3; additional preference for basic residues at −5 (Kikani et al., 2010; Identification of Substrates…, 2005).  
+
+## Structure  
+Domain layout: two N-terminal PAS domains, ~400-residue linker, C-terminal kinase domain (Grose & Rutter, 2010).  
+PAS-A adopts a canonical PAS α/β fold that directly inhibits the kinase (Rutter et al., 2001).  
+Kinase domain crystal structure (2.3 Å) is active despite lacking activation-loop phosphorylation (Kikani et al., 2010).  
+Activation loop contains Thr1161/Thr1165 (autophosphorylated yet not essential for basal activity); Ser1149 has minor impact (Rutter et al., 2001).  
+An alanine at DFG+3 permits RD-pocket formation without phosphorylation, and a distinctive β-hairpin replaces part of helix αC (Kikani et al., 2010; DeMille & Grose, 2013).  
+Dynamics of the PAS FG-loop transmit ligand-induced signals to the kinase core (Grose & Rutter, 2010).  
+
+## Regulation  
+Intramolecular binding of PAS-A suppresses turnover; isolated PAS-A inhibits with IC₅₀ ≈ 100 µM (Rutter et al., 2001).  
+Unknown ligand binding to PAS domains relieves inhibition; mono-phosphorylated phosphatidylinositols activate whereas di/tri-phosphorylated species inhibit (DeMille & Grose, 2013).  
+Autophosphorylation of Thr1161/Thr1165 enhances activity (Rutter et al., 2001).  
+Upstream signals include Snf1/AMPK in yeast during non-fermentable carbon growth and cell-integrity stress, and elevated glucose or GLP-1 in mammalian β-cells (Hao & Rutter, 2008; DeMille & Grose, 2013).  
+
+## Function  
+Highest mRNA/protein levels in testis; lower but widespread expression with enrichment in brain, liver and prostate (Grose & Rutter, 2010; Zhang et al., 2015).  
+Direct substrates: glycogen synthase (Ser640) regulating glycogen storage; PDX1 (Thr152) promoting insulin gene transcription; Ugp1 (Ser11) diverting UDP-glucose to cell-wall glucan in yeast; eEF1A1 and ribosomal protein S6 linking to translational control (Grose & Rutter, 2010; Hao & Rutter, 2008; Identification of Substrates…, 2005).  
+PASK suppresses glucagon secretion from pancreatic α-cells under high glucose and integrates into Snf1/AMPK-dependent energy-sensing networks (Zhang et al., 2015; DeMille & Grose, 2013).  
+
+## Inhibitors  
+A selective ATP-competitive inhibitor blocks human PASK with IC₅₀ ≈ 200 nM and shows minimal activity toward PKA, CKIε and CaMKII (Identification of Substrates…, 2005).  
+
+## Other Comments  
+Pask-knockout mice resist diet-induced obesity, hepatic triglyceride accumulation and insulin resistance (Grose & Rutter, 2010).  
+A MODY-associated mutation (p.G1117E) elevates autophosphorylation and causes basal insulin hypersecretion (Semplici et al., 2011).  
+
+## References  
+DeMille, D., Badal, B. D., Evans, J. B., Mathis, A. D., Anderson, J. F., & Grose, J. H. (2015). *[Title not provided]*.  
+
+DeMille, D., & Grose, J. H. (2013). Pas kinase: A nutrient sensing regulator of glucose homeostasis. *IUBMB Life, 65*, 921-929. https://doi.org/10.1002/iub.1219  
+
+Grose, J., & Rutter, J. (2010). The role of PAS kinase in passing the glucose signal. *Sensors, 10*, 5668-5682. https://doi.org/10.3390/s100605668  
+
+Hao, H.-X., & Rutter, J. (2008). The role of PAS kinase in regulating energy metabolism. *IUBMB Life*. https://doi.org/10.1002/iub.32  
+
+Identification of Substrates and Pathways Regulated by PAS Kinase. (2005). *[Report]*.  
+
+Kikani, C. K., Antonysamy, S., Bonanno, J., Romero, R., Zhang, F., Russell, M., … Rutter, J. (2010). Structural bases of PAS domain-regulated kinase (PASK) activation in the absence of activation loop phosphorylation. *Journal of Biological Chemistry, 285*, 41034-41043. https://doi.org/10.1074/jbc.M110.157594  
+
+Rutter, J., Michnoff, C. H., Harper, S. M., Gardner, K. H., & McKnight, S. L. (2001). PAS kinase: An evolutionarily conserved PAS domain-regulated serine/threonine kinase. *Proceedings of the National Academy of Sciences, 98*, 8991-8996. https://doi.org/10.1073/pnas.161284798  
+
+Schläfli, P., Borter, E., Spielmann, P., & Wenger, R. (2009). The PAS-domain kinase PASKIN: A new sensor in energy homeostasis. *Cellular and Molecular Life Sciences, 66*, 876-883. https://doi.org/10.1007/s00018-009-8699-0  
+
+Semplici, F., Vaxillaire, M., Fogarty, S., Semache, M., Bonnefond, A., Fontés, G., … Rutter, G. A. (2011). Human mutation within PER-ARNT-SIM (PAS) domain-containing protein kinase (PASK) causes basal insulin hypersecretion. *Journal of Biological Chemistry, 286*, 44005-44014. https://doi.org/10.1074/jbc.M111.254995  
+
+Zhang, D.-D., Zhang, J.-G., Wang, Y.-Z., Liu, Y., Liu, G.-L., & Li, X.-Y. (2015). Per-arnt-sim kinase (PASK): An emerging regulator of mammalian glucose and lipid metabolism. *Nutrients, 7*, 7437-7450. https://doi.org/10.3390/nu7095347

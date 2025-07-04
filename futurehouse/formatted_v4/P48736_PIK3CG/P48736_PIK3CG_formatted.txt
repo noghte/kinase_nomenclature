@@ -1,0 +1,87 @@
+## Phylogeny  
+PIK3CG encodes p110γ, the single catalytic subunit of class IB phosphoinositide-3-kinases within the PI3K branch of the human kinome (Wymann et al., 2003). The p110γ kinase domain shares ~35 % sequence identity with the class IA isoform p110β, underscoring close evolutionary relatedness across class I PI3Ks (Nürnberg & Beer-Hammer, 2019). Orthologues are present in Mus musculus, Rattus norvegicus, Danio rerio, Drosophila melanogaster and Caenorhabditis elegans, reflecting conservation from vertebrates to invertebrates (Lanahan et al., 2022; Wymann et al., 2003).
+
+## Reaction Catalyzed  
+ATP + PI(4,5)P₂ ⇌ ADP + PI(3,4,5)P₃ + H⁺ (Nürnberg & Beer-Hammer, 2019; Lanahan et al., 2022).
+
+## Cofactor Requirements  
+Mg²⁺ is required for catalysis (Nürnberg & Beer-Hammer, 2019).
+
+## Substrate Specificity  
+• Primary substrate: phosphatidylinositol-4,5-bisphosphate in the inner leaflet of the plasma membrane (Nürnberg & Beer-Hammer, 2019).  
+• Intrinsic protein-kinase activity is weak; no reproducible sequence motif has been identified for protein substrates (Nürnberg & Beer-Hammer, 2019).
+
+## Structure  
+Full-length p110γ (1–1102 aa) comprises five ordered modules (Nürnberg & Beer-Hammer, 2019; Gu et al., 2024):  
+1. ABD-like region (1–108) – lacks p85 binding.  
+2. Ras-binding domain (220–311) – interacts with Ras-GTP (Gu et al., 2024).  
+3. C2 domain (312–480) – contributes to membrane association.  
+4. Helical domain (481–685) – platform for adaptor and Gβγ contacts; contains regulatory Ser502/Ser582 (Nürnberg & Beer-Hammer, 2019).  
+5. Bilobal kinase domain (686–1102) – houses ATP pocket, αC helix and activation loop (Qiu et al., 2019).
+
+Catalytic pocket residues Lys833, Tyr867 and Val882 line the adenine site, while Glu814, Gly829 and Ala885 create an isoform-specific semi-hydrophobic cleft exploited by selective inhibitors (Qiu et al., 2019). Active-state crystal structures of human p110γ–p101 complexes (PDB 6AUD, 6XRM) show outward rotation of helix kα12 that generates a membrane-interactive surface (Gu et al., 2024; Gangadhara et al., 2019). Adaptor interfaces: p101/p84 bind the RBD–C2 linker and helical domain; a basic 552-RK motif in the C2–helical linker contacts Gβγ (Vadas et al., 2013). Ras-GTP bridges the RBD and kinase C-lobe via eleven RBD residues (Unknown Authors, 2022).
+
+## Regulation  
+Post-translational modifications  
+• Ser502 and Ser582 (helical domain) are phosphorylated by PKCβ; Ser582 phosphorylation doubles lipid-kinase activity and releases p84, whereas Ser502 phosphorylation weakens p87 binding (Nürnberg & Beer-Hammer, 2019; Walser et al., 2013).  
+• Thr1024 is phosphorylated by PKA, providing negative feedback in β-adrenergic signalling (Walser et al., 2013).  
+• Ser1101 undergoes autophosphorylation with minimal catalytic effect (Nürnberg & Beer-Hammer, 2019).
+
+Allosteric control  
+• Gβγ dimers engage the helical domain and regulatory subunits; p101 confers high-affinity, p87 weaker stimulation (Nürnberg & Beer-Hammer, 2019).  
+• Ras-GTP binding to the RBD synergises with Gβγ to enhance membrane recruitment and turnover (Unknown Authors, 2022).
+
+## Function  
+Expression  
+Highly expressed in leukocytes (neutrophils, macrophages, dendritic cells, mast cells, T and B lymphocytes) and present in cardiomyocytes, endothelial cells, CNS, kidney, pancreas and prostate (Lanahan et al., 2022; Nürnberg & Beer-Hammer, 2019).
+
+Upstream regulators  
+GPCR agonists via Gβγ, small GTPases Ras and Rab8a, and TLR/cytokine receptors through p101 (Lanahan et al., 2022; Nürnberg & Beer-Hammer, 2019).
+
+Downstream effectors  
+PIP₃ produced by p110γ recruits AKT, PDPK1 and mTOR components; the kinase also forms complexes with PDE3B/PDE4B, PKA regulatory subunits, GRK2 and β-arrestins (Nürnberg & Beer-Hammer, 2019).
+
+Physiological roles  
+• Directs chemotaxis of neutrophils, dendritic cells, NK cells and T-lymphocytes.  
+• Controls ROS production in neutrophils and mast-cell degranulation.  
+• Reprogrammes tumour-associated macrophages to enhance immunotherapy.  
+• Modulates cardiac β-adrenergic signalling and vascular tone.  
+• Regulates nociception and synaptic plasticity via cAMP compartmentalisation (Lanahan et al., 2022; Gu et al., 2024; Nürnberg & Beer-Hammer, 2019).
+
+## Inhibitors  
+Pan-PI3K inhibitors: wortmannin, LY294002 (Nürnberg & Beer-Hammer, 2019).  
+PI3Kγ-selective: AS-605240 (IC₅₀ 8 nM), CZC24832 (K_d 19 nM) (Qiu et al., 2019; Bergamini et al., 2012).  
+Clinical-stage: IPI-549 (Eganelisib; IC₅₀ 16 nM, >200-fold selectivity) (Evans et al., 2016).  
+Dual PI3Kδ/γ: TG100-115 (Unknown Authors, 2011).  
+Active-state binders targeting kα12 displacement: AZ2, AZ3 (Gangadhara et al., 2019).  
+Additional isoform-selective series include N-alkyl isoindolinones, thiazolopiperidines and 7-azaindoles (Gu et al., 2024).
+
+## Other Comments  
+Bi-allelic loss-of-function mutations cause inactivated PI3K-γ syndrome with antibody deficiency, cytopenias, pneumonitis and colitis (Takeda et al., 2019). Over-expression of p101 is oncogenic, whereas phosphorylated p87 may act as a tumour suppressor (Nürnberg & Beer-Hammer, 2019). RBD mutation Val282Ala disrupts Ras binding and is linked to chronic infection phenotypes (Nürnberg & Beer-Hammer, 2019). Aberrant PI3Kγ signalling contributes to hypertension, atherosclerosis, pancreatic and prostate cancers, and heart-failure pathology (Lanahan et al., 2022; Nürnberg & Beer-Hammer, 2019).
+
+## 9. References  
+Bergamini, G., Bell, K., Shimamura, S., Werner, T., Cansfield, A., Müller, K., … Neubauer, G. (2012). A selective inhibitor reveals PI3Kγ dependence of TH17 cell differentiation. Nature Chemical Biology, 8(6), 576-582. https://doi.org/10.1038/nchembio.957  
+
+Evans, C. A., Liu, T., Lescarbeau, A., Nair, S. J., Grenier, L., Pradeilles, J. A., … Castro, A. C. (2016). Discovery of a selective phosphoinositide-3-kinase-γ inhibitor (IPI-549) as an immuno-oncology clinical candidate. ACS Medicinal Chemistry Letters, 7(9), 862-867. https://doi.org/10.1021/acsmedchemlett.6b00238  
+
+Gangadhara, G., Dahl, G., Bohnacker, T., Rae, R., Gunnarsson, J., Blaho, S., … Petersen, J. (2019). A class of highly selective inhibitors bind to an active state of PI3Kγ. Nature Chemical Biology, 15(4), 348-357. https://doi.org/10.1038/s41589-018-0215-0  
+
+Gu, D.-y., Zhang, M.-m., Li, J., Zhou, Y.-b., & Sheng, R. (2024). Development of PI3Kγ selective inhibitors: The strategies and application. Acta Pharmacologica Sinica, 45, 238-247. https://doi.org/10.1038/s41401-023-01166-8  
+
+Lanahan, S. M., Wymann, M. P., & Lucas, C. L. (2022). The role of PI3Kγ in the immune system: New insights and translational implications. Nature Reviews Immunology, 22, 687-700. https://doi.org/10.1038/s41577-022-00701-8  
+
+Nürnberg, B., & Beer-Hammer, S. (2019). Function, regulation and biological roles of PI3Kγ variants. Biomolecules, 9(9), 427. https://doi.org/10.3390/biom9090427  
+
+Qiu, X., Tian, Y., Liang, Z., Sun, Y., Li, Z., & Bian, J. (2019). Recent discovery of phosphoinositide 3-kinase γ inhibitors for the treatment of immune diseases and cancers. Future Medicinal Chemistry, 11(16), 2151-2169. https://doi.org/10.4155/fmc-2019-0010  
+
+Takeda, A. J., Maher, T. J., Zhang, Y., Lanahan, S. M., Bucklin, M. L., Compton, S. R., … Lucas, C. L. (2019). Human PI3Kγ deficiency and its microbiota-dependent mouse model reveal immunodeficiency and tissue immunopathology. Nature Communications, 10, 4364. https://doi.org/10.1038/s41467-019-12311-5  
+
+Unknown Authors. (2011). Discovery and development of dual PI3Kδ/γ inhibitors for use as novel anti-inflammatory agents.  
+
+Unknown Authors. (2022). Characterization of RAS interactions with PI3K.  
+
+Vadas, O., Dbouk, H. A., Shymanets, A., Perisic, O., Burke, J. E., Abi Saab, W. F., … Williams, R. L. (2013). Molecular determinants of PI3Kγ-mediated activation downstream of G-protein–coupled receptors. Proceedings of the National Academy of Sciences, 110(47), 18862-18867. https://doi.org/10.1073/pnas.1304801110  
+
+Walser, R., Burke, J. E., Gogvadze, E., Bohnacker, T., Zhang, X., Hess, D., … Wymann, M. P. (2013). PKCβ phosphorylates PI3Kγ to activate it and release it from GPCR control. PLoS Biology, 11(6), e1001587. https://doi.org/10.1371/journal.pbio.1001587  
+
+Wymann, M. P., Zvelebil, M., & Laffargue, M. (2003). Phosphoinositide 3-kinase signalling – which way to target? Trends in Pharmacological Sciences, 24(7), 366-376. https://doi.org/10.1016/S0165-6147(03)00163-9

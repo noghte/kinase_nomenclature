@@ -1,0 +1,42 @@
+## Phylogeny  
+TAOK1 is an evolutionarily conserved serine/threonine kinase present in invertebrates (e.g., Drosophila dTao, C. elegans kin-18) and vertebrates, including fish, rodents, and humans (Beeman et al., 2023, pp. 3–4, 6–7, 15–20). Within the human kinome it belongs to the STE kinase group, STE20 family, MAP4K subfamily (Chao et al., 2021, pp. 1–3, 5–7; Beeman et al., 2023, pp. 1–3, 20–25).  
+
+## Reaction Catalyzed  
+ATP + [a protein] ⇌ ADP + [a phosphoprotein] (Johnson et al., 2023, pp. 12–18; Beeman et al., 2023, pp. 1–3).  
+
+## Cofactor Requirements  
+Mg²⁺ is required for catalytic activity (Beeman et al., 2023, pp. 1–3; Chao et al., 2021, pp. 1–3).  
+
+## Substrate Specificity  
+In peptide arrays TAOK1 prefers basophilic motifs with Arg near the phosphorylation site, typified by R-x-x-S/T or R-x-S/T, consistent with other STE20 kinases (Johnson et al., 2023, pp. 4–5, 12–18).  
+
+## Structure  
+• Length: 1,001 aa.  
+• N-terminal kinase domain (aa 1–320) adopts a canonical bilobal fold; conserved hinge residues E79 and C81 line the ATP pocket; intact hydrophobic spine and activation loop (Chao et al., 2021, pp. 5–7; Johnson et al., 2023, pp. 4–5).  
+• C-terminal region (aa 321–901) forms a triple-helix coiled-coil that binds phosphoinositides such as PI(4,5)P₂ via a basic convex surface (Beeman et al., 2023, pp. 1–3, 4–6, 20–25).  
+• No crystal structure is available; a homology model was generated using TAOK2 (PDB 2GCD) and the full-length protein is predicted by AlphaFold 2.0 (Chao et al., 2021, pp. 4–5; Beeman et al., 2023, pp. 11–12).  
+
+## Regulation  
+• Autophosphorylation at Ser181 in the catalytic loop marks the active state (Beeman et al., 2023, pp. 3–4, 15–20).  
+• Autophosphorylation at Thr440/Thr443 within the triple helix blocks membrane binding, shifting the kinase to an active cytosolic form; dephosphorylation allows membrane attachment and inactivation (Beeman et al., 2023, pp. 1–3, 6–7, 25–26).  
+
+## Function  
+Highly expressed in neurons of the neocortex, hippocampus, and cerebellum, where it localises to plasma membranes and dendritic spines (Beeman et al., 2023, pp. 3–4, 15–20). TAOK1 remodels the plasma membrane to generate protrusions, thereby regulating neuronal morphogenesis and dendritic arborisation (Beeman et al., 2023, pp. 1–3).  
+Signalling context:  
+• Upstream kinase: MST3 phosphorylates TAOK1 (Beeman et al., 2023, pp. 1–3).  
+• Downstream targets: activates p38 MAPK cascade via MAP2K3 and MAP2K6; phosphorylates MARK2 to influence cytoskeletal stability (Chao et al., 2021, pp. 1–3, 5–7).  
+• Additional roles: G2/M DNA-damage checkpoint, apoptosis, and negative regulation of IL-17 signalling (Chao et al., 2021, pp. 1–3, 11–12).  
+
+## Inhibitors  
+• Compound 43—phenocopies kinase-dead mutants, driving plasma-membrane localisation (Beeman et al., 2023, pp. 3–4).  
+• Virtual-screen hits 1, 2, 3 act as competitive dual inhibitors of TAOK1/MAP4K5; compound 2 inhibits TAOK1 with IC₅₀ ≈ 1.83 µM (Chao et al., 2021, pp. 4–7).  
+
+## Other Comments  
+TAOK1 is mutation-intolerant (pLI = 0.998). De novo loss-of-function variants (e.g., S111F, L167R, A219V, R269Q) in the kinase domain abolish activity, trap the protein at the plasma membrane, and are linked to neurodevelopmental disorders such as autism spectrum disorder, intellectual disability, and developmental delay (Beeman et al., 2023, pp. 1–3, 3–4, 25–26; Chao et al., 2021, pp. 11–12). Dysregulation is also associated with cancer progression and tau-related neurodegeneration (Chao et al., 2021, pp. 1–3, 11–12).  
+
+## 9. References  
+Beeman, N., Sapre, T. R., Ong, S.-E., & Yadav, S. (2023). Neurodevelopmental disorder–associated mutations in TAOK1 reveal its function as a plasma membrane remodeling kinase. Science Signaling, 16(770). https://doi.org/10.1126/scisignal.add3269  
+
+Chao, M.-W., Lin, T. E., HuangFu, W.-C., Chang, C.-D., Tu, H.-J., Chen, L.-C., Yen, S.-C., Sung, T.-Y., Huang, W.-J., Yang, C.-R., Pan, S.-L., & Hsu, K.-C. (2021). Identification of a dual TAOK1 and MAP4K5 inhibitor using a structure-based virtual screening approach. Journal of Enzyme Inhibition and Medicinal Chemistry, 36(1), 98–108. https://doi.org/10.1080/14756366.2020.1843452  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759–766. https://doi.org/10.1038/s41586-022-05575-3

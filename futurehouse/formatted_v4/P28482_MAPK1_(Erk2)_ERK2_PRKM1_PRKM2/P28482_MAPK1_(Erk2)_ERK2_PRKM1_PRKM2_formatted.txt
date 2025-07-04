@@ -1,0 +1,75 @@
+## Phylogeny  
+Orthologous kinases are present from yeast to mammals, e.g. S. cerevisiae Fus3 and Slt2/Mpk1, D. melanogaster rolled, C. elegans mpk-1, X. laevis Erk2 and M. musculus Mapk1, indicating deep evolutionary conservation of the ERK branch (Goshen-Lago et al., 2016; Kushnir et al., 2020; Yashar et al., 1993). Within the kinome, ERK2 belongs to the CMGC group → MAP kinase family → ERK sub-family (Roskoski, 2012; Coulombe & Meloche, 2007). ERK2 shares ~84 % sequence identity with its paralogue ERK1, and the two form a clade distinct from p38, JNK and ERK5 families (Roskoski, 2012).
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-Ser/Thr-phosphate (Roskoski, 2012).
+
+## Cofactor Requirements  
+Catalysis requires divalent cations, preferably Mg²⁺; Mn²⁺ can substitute (Roskoski, 2012).
+
+## Substrate Specificity  
+• Minimal consensus: Pro-X-Ser/Thr-Pro with an obligatory +1 Pro; Pro at –2 and Lys/Arg at –3 enhance efficiency (Roskoski, 2012).  
+• Kinome-wide peptide profiling confirms enrichment for +1 Pro and –3 Lys/Arg in ERK2 substrates (Johnson et al., 2023).  
+• High-affinity recognition is strengthened by substrate D-sites ((R/K)₂₋₃-X₂₋₆-Φ-X-Φ) and F-sites (Φ-X-Φ-P) that dock to ERK2 D- and F-recruitment surfaces (Roskoski, 2012).  
+• Proximity-induced catalysis via distal docking domains has been demonstrated with ETS-family substrates (Rainey et al., 2005).
+
+## Structure  
+ERK2 displays the canonical bilobal protein-kinase fold: a five-stranded β-sheet and αC-helix form the N-lobe, while an α-helical C-lobe houses the activation segment and substrate interface (Roskoski, 2012). Key motifs include VAIK (Lys54–Glu71 ion pair), HRD, and DFG, the latter coordinating Mg²⁺/ATP (Roskoski, 2012). Dual phosphorylation of Thr183 and Tyr185 in the activation loop aligns the hydrophobic spine and closes the catalytic cleft (Roskoski, 2012).  
+
+Additional features:  
+• Common docking (CD) domain centred on Asp318/Asp321 for partner binding; charge-reversal mutations impair stability and catalysis (Novak et al., 2023).  
+• 31-residue C-terminal extension (helices 1L14/2L14) modulates conformational transitions (Roskoski, 2012).  
+• Hinge-region dynamics underpin allostery; mutations here alter global motions (Taylor et al., 2019).  
+• Representative coordinates: inactive 2OJG, active 2ERK, MEK-bound 6OPL, and AlphaFold AF-P28482-F1 (Goshen-Lago et al., 2016; Impact of ERK2 missense variants, 2021).  
+• Compared with p38 MAPK, ERK2 exhibits a wider inter-lobe angle and distinct activation-loop topology (Wang et al., 1997).
+
+## Regulation  
+• Activation by MEK1/2-mediated dual phosphorylation of the TEY motif increases catalytic efficiency ~5 × 10⁴-fold (Roskoski, 2012; Novak et al., 2023).  
+• Termination by dual-specificity phosphatases (DUSPs) (Roskoski, 2012).  
+• Acetylation of Lys72 (and Lys48, Lys203, Lys344) by CBP/p300 reduces activity; HDAC6-mediated deacetylation restores it (Regulation of ERK by HDAC6, 2017; Wu et al., 2018).  
+• Ubiquitination has been reported but sites and E3 ligases are unassigned (Regulation of ERK by HDAC6, 2017).  
+• Allosteric modulation: CD-site (e.g., D321N, E322K) or hinge mutations perturb inter-lobe coupling and substrate turnover (Novak et al., 2023; Taylor et al., 2019).
+
+## Function  
+ERK2 is ubiquitously expressed, with highest levels in placenta, heart and brain (Aouadi et al., 2006; Muslin, 2008). Genetic ablation in mice causes embryonic lethality due to placental and mesodermal defects (Aouadi et al., 2006).  
+
+Signalling context: Ras-GTP → RAF → MEK1/2 → ERK2, assembled by scaffolds KSR1/2 and MP1 (Coulombe & Meloche, 2007; Roskoski, 2012). Phosphorylated ERK2 targets nuclear factors (e.g., c-Fos, Elk-1) and cytoplasmic effectors (RSK1/2, cytoskeletal regulators) to control proliferation, differentiation, adhesion and survival (Roskoski, 2012; Impact of ERK2 missense variants, 2021). ERK2 also participates in KIT/KITLG and other RTK pathways (Roskoski, 2012).
+
+## Inhibitors  
+Ulixertinib (BVD-523) is a reversible ATP-competitive inhibitor (K_i ≈ 0.04 nM) effective in BRAF- or MEK-inhibitor-resistant cancer models (Germann et al., 2017). SCH772984 is a mixed type I/II inhibitor that occupies the ATP site and an adjacent allosteric pocket (Germann et al., 2017). Additional ATP-competitive compounds include FR180204, AZD0364 and KO-947 (Roskoski, 2012; Germann et al., 2017).
+
+## Other Comments  
+Persistent ERK activation driven by oncogenic RAS or BRAF occurs in ~30 % of human cancers, making ERK2 a validated drug target (Germann et al., 2017; Roskoski, 2012). Gain-of-function ERK2 mutations in the CD domain or hinge region enhance signalling and can confer drug resistance (Novak et al., 2023; Taylor et al., 2019). Hyperactivation of the pathway also underlies developmental disorders collectively termed RASopathies (Roskoski, 2012).
+
+## 9. References  
+Aouadi, M., Binetruy, B., Caron, L., Le Marchand-Brustel, Y., & Bost, F. (2006). Role of MAPKs in development and differentiation: lessons from knockout mice. Biochimie, 88, 1091–1098. https://doi.org/10.1016/j.biochi.2006.06.003  
+
+Coulombe, P., & Meloche, S. (2007). Atypical mitogen-activated protein kinases: structure, regulation and functions. Biochimica et Biophysica Acta, 1773(8), 1376–1387. https://doi.org/10.1016/j.bbamcr.2006.11.001  
+
+Germann, U., Furey, B. F., Markland, W., Hoover, R., Aronov, A., Roix, J., … Welsch, D. (2017). Targeting the MAPK signalling pathway in cancer: promising preclinical activity with the novel selective ERK1/2 inhibitor BVD-523 (Ulixertinib). Molecular Cancer Therapeutics, 16, 2351–2363. https://doi.org/10.1158/1535-7163.MCT-17-0456  
+
+Goshen-Lago, T., Goldberg-Carp, A., Melamed, D., Darlyuk-Saadon, I., Bai, C., Ahn, N., … Engelberg, D. (2016). Variants of the yeast MAPK Mpk1 are fully functional independently of activation loop phosphorylation. Molecular Biology of the Cell, 27, 2771–2783. https://doi.org/10.1091/mbc.e16-03-0167  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Kushnir, T., Bar-Cohen, S., Mooshayef, N., Lange, R., Bar-Sinai, A., Rozen, H., … Paroush, Z. (2020). An activating mutation in ERK causes hyperplastic tumours in a scribble mutant tissue in Drosophila. Genetics, 214, 109–120. https://doi.org/10.1534/genetics.119.302794  
+
+Muslin, A. J. (2008). MAPK signalling in cardiovascular health and disease: molecular mechanisms and therapeutic targets. Clinical Science, 115(7), 203–218. https://doi.org/10.1042/CS20070430  
+
+Novak, L., Petrosino, M., Pasquo, A., Chaikuad, A., Chiaraluce, R., Knapp, S., & Consalvi, V. (2023). Mutation in the common docking domain affects MAP kinase ERK2 catalysis and stability. Cancers, 15(11), 2938. https://doi.org/10.3390/cancers15112938  
+
+Rainey, M. A., Callaway, K., Barnes, R., Wilson, B., & Dalby, K. N. (2005). Proximity-induced catalysis by the protein kinase ERK2. Journal of the American Chemical Society, 127(30), 10494–10495. https://doi.org/10.1021/ja052915p  
+
+Roskoski, R. (2012). ERK1/2 MAP kinases: structure, function, and regulation. Pharmacological Research, 66(2), 105–143. https://doi.org/10.1016/j.phrs.2012.04.005  
+
+Taylor, C. A., Cormier, K. W., Keenan, S. E., Earnest, S., Stippec, S., Wichaidit, C., … Cobb, M. H. (2019). Functional divergence caused by mutations in an energetic hotspot in ERK2. Proceedings of the National Academy of Sciences, 116, 15514–15523. https://doi.org/10.1073/pnas.1905015116  
+
+Wang, Z., Harkins, P. C., Ulevitch, R. J., Han, J., Cobb, M. H., & Goldsmith, E. J. (1997). The structure of mitogen-activated protein kinase p38 at 2.1 Å resolution. Proceedings of the National Academy of Sciences, 94, 2327–2332. https://doi.org/10.1073/pnas.94.6.2327  
+
+Wu, J. Y., Xiang, S., Zhang, M., Fang, B., Huang, H., Kwon, O. K., … Zhang, X. (2018). Histone deacetylase 6 (HDAC6) deacetylates extracellular signal-regulated kinase 1 (ERK1) and thereby stimulates ERK1 activity. The Journal of Biological Chemistry, 293, 1976–1993. https://doi.org/10.1074/jbc.M117.795955  
+
+Yashar, B. M., Kelley, C., Yee, K., Errede, B., & Zon, L. (1993). Novel members of the mitogen-activated protein kinase activator family in Xenopus laevis. Molecular and Cellular Biology, 13, 5738–5748. https://doi.org/10.1128/MCB.13.9.5738-5748.1993  
+
+Impact of ERK2 missense variants found in cancer: structural, function and stability experimental analysis. (2021). [Article/Preprint].  
+
+Regulation of extracellular signal-regulated kinase by histone deacetylase 6. (2017). [Article/Preprint].

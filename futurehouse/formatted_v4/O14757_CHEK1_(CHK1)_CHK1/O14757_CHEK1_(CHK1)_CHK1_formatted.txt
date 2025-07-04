@@ -1,0 +1,46 @@
+## Phylogeny  
+CHK1 orthologs have been identified from the fission yeast Schizosaccharomyces pombe through Caenorhabditis elegans, Xenopus laevis and Drosophila melanogaster, indicating deep evolutionary conservation of this Ser/Thr checkpoint kinase (Gatei et al., 2003). Manning’s kinome places CHK1 in the CMGC group, whereas an alternative analysis assigns it to CAMK, illustrating a classification discrepancy (Matthews et al., 2013; Górecki et al., 2021). Together with the ATM-responsive kinase CHK2, it forms a distinct checkpoint-kinase lineage that retains the canonical catalytic core but differs in upstream activation mechanisms (Dent, 2019; Matthews et al., 2013).
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr ⇌ ADP + [protein]-O-phospho-Ser/Thr (Chen et al., 2000; Matthews et al., 2013).
+
+## Cofactor Requirements  
+Mg²⁺ is required to coordinate ATP within the active site (Górecki et al., 2021; Matthews et al., 2013).
+
+## Substrate Specificity  
+CHK1 preferentially phosphorylates the motif R-X-X-S/T, favouring a basic or hydrophobic residue immediately N-terminal to the phospho-acceptor and showing selectivity for serine over threonine, with additional sequence bias at the +1 and +3 positions (Chen et al., 2000; Górecki et al., 2021; Matthews et al., 2013).
+
+## Structure  
+The kinase comprises an N-terminal bilobal catalytic domain (~residues 1–289) followed by a C-terminal KA1 regulatory domain (Matthews et al., 2013; Górecki et al., 2021). A 1.7 Å crystal structure captures the kinase domain in an open lobe conformation with an ordered, unphosphorylated activation loop (Chen et al., 2000). Conserved DFG (start of activation segment) and HRD (catalytic loop) motifs position the catalytic aspartate for phosphotransfer (Górecki et al., 2021; Matthews et al., 2013). Hinge residues Glu85 and Cys87 form key hydrogen bonds with ATP and most inhibitors, while Asn59 and Leu84 create a buried pocket important for selectivity (Chen et al., 2000; Matthews et al., 2013). Removing the C-terminal segment increases catalytic activity ~20-fold, demonstrating autoinhibition (Chen et al., 2000).
+
+## Regulation  
+• ATR phosphorylates Ser317 and Ser345 to generate full activation during replication stress (Górecki et al., 2021; Goto et al., 2015).  
+• CHK1 autophosphorylates Ser296, enhancing activity (Górecki et al., 2021; Matthews et al., 2013).  
+• AKT phosphorylates Ser280, influencing localisation (Górecki et al., 2021).  
+• ATM together with NBS1 also targets Ser317 after ionising radiation (Gatei et al., 2003).  
+• Activated CHK1 is ubiquitinated by SCF^β-TrCP for proteasomal degradation, whereas PP2A removes activating phosphates (Górecki et al., 2021; Dent, 2019).  
+• Phosphorylation-induced conformational changes and kinase–KA1 domain contacts mediate allosteric control (Matthews et al., 2013; Chen et al., 2000).
+
+## Function  
+CHK1 is ubiquitously expressed, with highest levels in proliferative tissues and cell-cycle-dependent abundance (Górecki et al., 2021). During replication stress, ATR recruits CHK1 to RPA-coated single-stranded DNA via CLASPIN (Górecki et al., 2021). Key substrates include CDC25A/B/C, WEE1, MYT1, treslin, DBF4, MCM components, FANCD2 and Aurora B (Dent, 2019; Górecki et al., 2021; Matthews et al., 2013). Phosphorylation of these targets blocks CDK–cyclin activity, regulates origin firing and fork stability, promotes homologous recombination repair and coordinates chromatin assembly and spindle function, thereby preserving genome integrity under both stressed and basal conditions (Dent, 2019).
+
+## Inhibitors  
+Low-nanomolar, ATP-competitive inhibitors include Prexasertib, Rabusertib, AZD7762, SRA737, UCN-01 and CCT241533 (Górecki et al., 2021; Matthews et al., 2013). These compounds bind Glu85/Cys87 in the hinge, extend into the ribose pocket and exploit an Asn59-centred water network for selectivity (Matthews et al., 2013). First-generation UCN-01 showed poor pharmacokinetics; later imidazo[1,2-a]pyrazine and thioquinazolinone series improved selectivity and oral bioavailability (Dent, 2019; Matthews et al., 2013). No CHK1 inhibitor has yet gained regulatory approval (Dent, 2019).
+
+## Other Comments  
+CHK1 is frequently over-expressed in tumours and is essential for survival of cancers with high replication stress or TP53 loss, supporting synthetic-lethality strategies (Matthews et al., 2013; Górecki et al., 2021). Germline CHEK1 variants (e.g., E85K, C87R) are linked to developmental disorders such as microcephaly (Górecki et al., 2021; Zhang, 2019). CHEK1 amplification or over-expression can drive chemoresistance (Dent, 2019).
+
+## 9. References  
+Chen, P.-Y., Luo, C., Deng, Y., Ryan, K., Register, J., Margosiak, S., … O'Connor, P. (2000). Implications for CHK1 regulation: the 1.7 Å crystal structure of human cell cycle checkpoint kinase CHK1. Cell, 100, 681–692. https://doi.org/10.1016/S0092-8674(00)80704-7  
+
+Dent, P. (2019). Investigational CHK1 inhibitors in early phase clinical trials for the treatment of cancer. Expert Opinion on Investigational Drugs, 28, 1095–1100. https://doi.org/10.1080/13543784.2019.1694661  
+
+Gatei, M., Sloper, K., Sørensen, C., Syljuåsen, R., Falck, J., Hobson, K., … Khanna, K. (2003). Ataxia-telangiectasia-mutated (ATM) and NBS1-dependent phosphorylation of CHK1 on Ser-317 in response to ionizing radiation. The Journal of Biological Chemistry, 278, 14806–14811. https://doi.org/10.1074/jbc.M210862200  
+
+Górecki, L., Andrs, M., & Korábečný, J. (2021). Clinical candidates targeting the ATR–CHK1–WEE1 axis in cancer. Cancers, 13, 795. https://doi.org/10.3390/cancers13040795  
+
+Goto, H., Kasahara, K., & Inagaki, M. (2015). Novel insights into CHK1 regulation by phosphorylation. Cell Structure and Function, 40, 43–50. https://doi.org/10.1247/csf.14017  
+
+Matthews, T. P., Jones, A. M., & Collins, I. (2013). Structure-based design, discovery and development of checkpoint kinase inhibitors as potential anticancer therapies. Expert Opinion on Drug Discovery, 8, 621–640. https://doi.org/10.1517/17460441.2013.788496  
+
+Zhang, Y. (2019). Understanding the activation mechanism of the CHK1 kinase (Doctoral dissertation). https://doi.org/10.17863/cam.40444

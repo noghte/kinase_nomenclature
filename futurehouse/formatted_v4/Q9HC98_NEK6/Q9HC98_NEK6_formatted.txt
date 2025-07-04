@@ -1,0 +1,45 @@
+## Phylogeny  
+NEK6 is a member of the NIMA-related kinase (Nek) family (11 human paralogues). Within the Manning kinome it belongs to the CMGC group. Full-length sequence trees cluster NEK6 with Nek4/7/8/9/10, whereas kinase-domain analysis places it with Nek7 and Nek10. NEK6 and its closest paralogue NEK7 share > 85 % identity in their kinase domains. Orthologues are present throughout eukaryotes, including fungi, yeast and metazoans (Bachus et al., 2022; Fry et al., 2012; Li et al., 2025; Moniz et al., 2011; Yin et al., 2003).
+
+## Reaction Catalyzed  
+Protein-Ser/Thr + ATP ⇌ phospho-protein-Ser/Thr + ADP (Bachus et al., 2022; Moniz et al., 2011; Yin et al., 2003).
+
+## Cofactor Requirements  
+Requires divalent Mg²⁺ or Mn²⁺ ions for activity (Bachus et al., 2022; Moniz et al., 2011; Yin et al., 2003).
+
+## Substrate Specificity  
+A kinome-wide peptide screen defined a consensus motif spanning positions –5 to +4, with preference for hydrophobic residues flanking the target Ser/Thr (Johnson et al., 2023; Moniz et al., 2011). Reports of p70 S6K phosphorylation at Thr412 are conflicting—initially positive (Belham et al., 2001) but not confirmed by later studies (Yin et al., 2003; Fry et al., 2012).
+
+## Structure  
+A compact 302–313-residue protein composed mainly of an N-terminal catalytic kinase domain plus a short disordered N-terminal tail; it lacks the extended C-terminal/coiled-coil regions common to several Nek kinases (Bachus et al., 2022; Moniz et al., 2011; Li et al., 2025). Conserved elements include the C-helix, HRD catalytic motif and an activation loop bearing Ser206. A tyrosine-down sequence in the N-lobe provides autoinhibition. Mutating Lys74 (K74M) in the ATP pocket abolishes activity (Fry et al., 2012; Belham et al., 2001).
+
+## Regulation  
+Activity peaks in mitosis and depends on phosphorylation of Ser206 by the upstream kinase NEK9; NEK9 itself is activated by CDK1 and Plk1. Thr201/202 within the activation loop can also be phosphorylated. The NEK9–NEK6 interaction is attenuated by dynein light-chain LC8-type 1. DNA-damage kinases Chk1/Chk2 suppress NEK6, and the S206A mutant is catalytically compromised. Owing to the absence of a coiled-coil, NEK6 relies on NEK9 rather than trans-autophosphorylation for activation (Bachus et al., 2022; Yin et al., 2003; Moniz et al., 2011; Meirelles et al., 2010).
+
+## Function  
+Highest mRNA levels occur in liver, with notable expression in brain and kidney (Belham et al., 2001). NEK6 functions as a hub kinase (≈ 91 partners) essential for spindle assembly, centrosome separation, chromosome segregation and cytokinesis; depletion causes G2/M arrest and apoptosis (Moniz et al., 2011; Yin et al., 2003; Fry et al., 2012). Upstream activators: CDK1 → Plk1 → NEK9. Reported substrates: Kif11 (Ser1033), Eg5, Hsp72 (Thr66), TPP1, Oct1, CIR, PTN, RAD26L, RBBP6 and TRIP4. Interactors include Kif11, Kif20A, Hsp72, Pin1 and UNC-45 (Bachus et al., 2022; Meirelles et al., 2010). Additional roles: telomere length control, recovery from DNA-damage checkpoints, suppression of p53-induced senescence and modulation of NF-κB signalling (Bachus et al., 2022).
+
+## Inhibitors  
+Isogranulatimide binds the ATP site and inhibits NEK6, showing greater potency toward the unphosphorylated S206A variant (Moraes et al., 2015).
+
+## Other Comments  
+NEK6 is frequently over-expressed in tumours; high levels correlate with poor prognosis, metastasis and drug resistance. Oncogenic mutations (e.g., Y295C, Y291*) and aneuploidy induction have been reported. A cancer-specific circRNA (circNek6) influences Wnt signalling, and miR-141-3p targets NEK6 mRNA (Moniz et al., 2011; Bachus et al., 2022; Li et al., 2025).
+
+## 9. References  
+Bachus, S., Graves, D., Fulham, L., Akkerman, N., Stephanson, C., Shieh, J., & Pelka, P. (2022). In mitosis you are not: The NIMA family of kinases in Aspergillus, yeast, and mammals. International Journal of Molecular Sciences, 23, 7041. https://doi.org/10.3390/ijms23074041  
+
+Belham, C., Comb, M., & Avruch, J. (2001). Identification of the NIMA family kinases Nek6/7 as regulators of the p70 ribosomal S6 kinase. Current Biology, 11, 1155–1167. https://doi.org/10.1016/S0960-9822(01)00369-4  
+
+Fry, A., O’Regan, L., Sabir, S. R., & Bayliss, R. (2012). Cell cycle regulation by the Nek family of protein kinases. Journal of Cell Science, 125, 4423–4433. https://doi.org/10.1242/jcs.111195  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Li, H., Li, J., Zhang, Y., Cao, R., Guo, C., & Jiao, M. (2025). The NIMA-related kinase family and cancer. Frontiers in Oncology. https://doi.org/10.3389/fonc.2025.1556917  
+
+Meirelles, G. V., Lanza, D. C. F., da Silva, J. C., Bernachi, J. S., Paes Leme, A. F., & Kobarg, J. (2010). Characterization of hNek6 interactome reveals an important role for its short N-terminal domain and colocalization with proteins at the centrosome. Journal of Proteome Research, 9, 6298–6316. https://doi.org/10.1021/pr100562w  
+
+Moniz, L., Dutt, P., Haider, N., & Stambolic, V. (2011). Nek family of kinases in cell cycle, checkpoint control and cancer. Cell Division, 6, 18. https://doi.org/10.1186/1747-1028-6-18  
+
+Moraes, E. C., Meirelles, G., Honorato, R., de Souza, T. A. C. B., de Souza, E. E., Murakami, M., … Kobarg, J. (2015). Kinase inhibitor profile for human Nek1, Nek6, and Nek7 and analysis of the structural basis for inhibitor specificity. Molecules, 20, 1176–1191. https://doi.org/10.3390/molecules20011176  
+
+Yin, M., Shao, L., Voehringer, D., Smeal, T., & Jallal, B. (2003). The serine/threonine kinase Nek6 is required for cell cycle progression through mitosis. Journal of Biological Chemistry, 278, 52454–52460. https://doi.org/10.1074/jbc.M308080200

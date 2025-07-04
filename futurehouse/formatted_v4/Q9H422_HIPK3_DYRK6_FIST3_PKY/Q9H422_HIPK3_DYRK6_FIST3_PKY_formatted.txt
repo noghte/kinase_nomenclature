@@ -1,0 +1,44 @@
+## Phylogeny  
+Homeodomain-interacting protein kinase 3 (HIPK3; also called DYRK6) belongs to the HIPK subfamily (HIPK1-4) of the CMGC group of Ser/Thr protein kinases and clusters phylogenetically with DYRK family members, particularly DYRK1A (Kaltheuner et al., 2021; Agnew et al., 2019). Orthologues are conserved from Drosophila to vertebrates (Kaltheuner et al., 2021; Laden et al., 2015).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl/tyrosyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl/tyrosyl-[protein] (Kaltheuner et al., 2021; Agnew et al., 2019).
+
+## Cofactor Requirements  
+Mg²⁺ is required for catalysis (Kaltheuner et al., 2021; Agnew et al., 2019).
+
+## Substrate Specificity  
+No explicit consensus motif is reported. Consistent with the CMGC group, HIPK3 generally prefers SP/TP contexts (Agnew et al., 2019) and efficiently phosphorylates Ser2 and Ser5 within the heptad repeats of the RNA polymerase II CTD, but not Tyr1 or Thr4 (Kaltheuner et al., 2021).
+
+## Structure  
+• Crystal structure of the human kinase domain (residues 184–550) resolved at 2.5 Å (PDB 7O7I) shows a classical bilobal fold with an “in” αC-helix and a DFG motif (Kaltheuner et al., 2021).  
+• A large CMGC-specific insert (≈ residues 416–493) forms several helices and loops (Kaltheuner et al., 2021; Agnew et al., 2019).  
+• The activation loop contains autophosphorylated Tyr359; an R(F/Y)YR motif and salt-bridge network lock the loop in an active conformation even in the apo state (Kaltheuner et al., 2021).  
+• Overall domain architecture: N-terminal kinase domain, homeoprotein-interaction domain (HID), PEST/SRS region, autoinhibitory domain (AID), and a C-terminal Ser/Gln/Ala-rich tail (Kaltheuner et al., 2021; Schmitz et al., 2014).  
+• Inhibitor-bound structure with abemaciclib is available (PDB 7O7J) (Kaltheuner et al., 2021).
+
+## Regulation  
+• Intramolecular autophosphorylation on Tyr359 is essential for full activity and yields a constitutively active kinase fold; additional Tyr sites outside the activation loop can also be autophosphorylated (Laden et al., 2015; Kaltheuner et al., 2021).  
+• Post-translational modifications—acetylation, ubiquitination, SUMOylation, and caspase cleavage—modulate activity, stability, and localisation (Kaltheuner et al., 2021; Schmitz et al., 2014).  
+• SUMO attachment sites and alternative splicing influence interaction with the ubiquitin ligase SIAH1 (Schmitz et al., 2014).  
+• Subcellular localisation is variably reported as mainly nuclear or predominantly cytoplasmic; mutation of Tyr359 does not markedly shift localisation (Kaltheuner et al., 2021; Laden et al., 2015).
+
+## Function  
+HIPK3 acts chiefly in transcriptional regulation within the nucleus. Reported substrates or partners include c-Myc, SPT5, RNA polymerase II (Ser2/Ser5), androgen receptor, and RUNX2 (Kaltheuner et al., 2021; Laden et al., 2015). The kinase participates in stress responses, differentiation, proliferation, and apoptosis, forms nuclear speckles with DCAF7, and may engage in liquid–liquid phase separation (Kaltheuner et al., 2021; Liu et al., 2018).
+
+## Inhibitors  
+Abemaciclib and the ATP-competitive compound CX-4945 inhibit HIPK3 in vitro; abemaciclib binds the hinge region of the kinase (Kaltheuner et al., 2021; Agnew et al., 2019).
+
+## Other Comments  
+HIPK3 dysregulation is linked to cancer, chronic fibrosis, type 2 diabetes, and neurodegenerative disorders such as Alzheimer’s and Huntington’s disease. HIPK3-null mice show impaired glucose-stimulated insulin secretion (Agnew et al., 2019; Kaltheuner et al., 2021). In oncology, HIPK3 exhibits both tumour-suppressive and oncogenic properties and serves as a prognostic marker in non-small-cell lung and prostate cancers (Kaltheuner et al., 2021; Liu et al., 2018).
+
+## 9. References  
+Agnew, C., Liu, L., Liu, S., Xu, W., You, L., Yeung, W., Kannan, N., Jablons, D., & Jura, N. (2019). The crystal structure of the protein kinase HIPK2 reveals a unique architecture of its CMGC-insert region. Journal of Biological Chemistry, 294, 13545–13559. https://doi.org/10.1074/jbc.ra119.009725  
+
+Kaltheuner, I. H., Anand, K., Moecking, J., Düster, R., Wang, J., Gray, N. S., & Geyer, M. (2021). Abemaciclib is a potent inhibitor of DYRK1A and HIP kinases involved in transcriptional regulation. Nature Communications, 12, 6608. https://doi.org/10.1038/s41467-021-26935-z  
+
+Laden, J. v. d., Soppa, U., & Becker, W. (2015). Effect of tyrosine autophosphorylation on catalytic activity and subcellular localisation of homeodomain-interacting protein kinases (HIPK). Cell Communication and Signaling, 13, 65. https://doi.org/10.1186/s12964-014-0082-6  
+
+Liu, Y., Qian, L., Yang, J., Huang, H., Feng, J., Li, X., Bian, T., Ke, H., Liu, J., & Zhang, J. (2018). The expression level and prognostic value of HIPK3 among non-small-cell lung cancer patients in China. OncoTargets and Therapy, 11, 7459–7469. https://doi.org/10.2147/OTT.S166878  
+
+Schmitz, M. L., Rodriguez-Gil, A., & Hornung, J. (2014). Integration of stress signals by homeodomain interacting protein kinases. Biological Chemistry, 395(4), 375–386. https://doi.org/10.1515/hsz-2013-0264

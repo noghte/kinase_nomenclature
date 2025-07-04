@@ -1,0 +1,57 @@
+## Phylogeny  
+Protein kinase D1 (PRKD1) was first described as an atypical member of the protein kinase C family (PKC µ) but, on the basis of sequence and domain organisation, is now placed in the separate PKD family (Sundram et al., 2011; Rykx et al., 2003). Disagreement remains over its higher-order kinome classification: several studies group PKD with Ca²⁺/calmodulin-dependent protein kinases (CAMK) (Johnson et al., 2023; Gilles et al., 2021; Rykx et al., 2003; Sundram et al., 2011), whereas the seminal kinome survey by Manning et al. (2002) and related work place it in the AGC kinase group (Manning et al., 2002; Van Lint et al., 2002). Humans encode three PKD isoforms (PKD1–3) (Gilles et al., 2021; Rykx et al., 2003). Orthologues of PRKD1 occur in mouse, rat, Drosophila, Caenorhabditis elegans and Saccharomyces cerevisiae, underscoring broad evolutionary conservation (Sundram et al., 2011).  
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Sundram et al., 2011).  
+
+## Cofactor Requirements  
+Mg²⁺ is required for catalytic activity (Sundram et al., 2011).  
+
+## Substrate Specificity  
+Kinome-wide profiling classifies PRKD1 as a basophilic kinase. Preferred motifs contain a basic residue, typically arginine, at the –3 or –2 position relative to the target Ser/Thr (Johnson et al., 2023).  
+
+## Structure  
+PRKD1 is a ~912-residue, multi-domain enzyme with an N-terminal regulatory region (ubiquitin-like domain, tandem C1a/C1b diacylglycerol-binding domains and an autoinhibitory pleckstrin-homology domain) followed by a C-terminal kinase domain and PDZ-binding motif (Zhang et al., 2021; Steinberg, 2012; Sundram et al., 2011). No experimental crystal structure is available; homology modelling and AlphaFold predict the canonical bi-lobed kinase fold with an ATP-binding cleft, correctly positioned C-helix and a hydrophobic spine stabilising the active state (Unknown Authors, 2013; Steinberg, 2012; Zhang et al., 2021).  
+
+## Regulation  
+• Allosteric activation: diacylglycerol binding to C1a/C1b recruits PRKD1 to membranes and relieves autoinhibition by the PH domain (Cobbaut & Van Lint, 2018; Fu & Rubin, 2011).  
+• Activation-loop phosphorylation: membrane-associated novel PKC isoforms phosphorylate Ser738 and subsequently Ser742, culminating in full activation; PRKD1 then autophosphorylates Ser910 (Gilles et al., 2021; Fu & Rubin, 2011; Steinberg, 2012; Zhang et al., 2021).  
+• Alternative inputs: oxidative stress activates PRKD1 via Abl/Src-mediated tyrosine phosphorylation; CK1 phosphorylation of Ser244 modulates nuclear–cytoplasmic shuttling (Gilles et al., 2021; Zhang et al., 2021).  
+
+## Function  
+PRKD1 is ubiquitously expressed, with highest levels in prostate and testis germ cells (Sundram et al., 2011). It localises to cytoplasm, plasma membrane, Golgi, mitochondria and nucleus (Gilles et al., 2021; Zhang et al., 2021). Activation commonly follows GPCR or receptor tyrosine kinase signalling that generates diacylglycerol and activates PKC (Rozengurt, 2011). Documented substrates include class IIa histone deacetylases (e.g., HDAC5), cardiac troponin I, myosin-binding protein C, CREB, PI4KIIIβ, and actin regulators SSH1L and EVL-1 (Rozengurt, 2011; Zhang et al., 2021; LaValle et al., 2010). Interacting partners comprise AKAP-Lbc, paxillin and cortactin (Rozengurt, 2011; LaValle et al., 2010). Through these targets PRKD1 controls cell proliferation, survival/apoptosis, motility, vesicle trafficking, angiogenesis, cardiac hypertrophy and oxidative-stress-induced NF-κB activation (Rozengurt, 2011; Zhang et al., 2021).  
+
+## Inhibitors  
+Selective small-molecule inhibitors have been developed, notably benzothienothiazepinone derivatives (Gilles et al., 2021; Bravo-Altamirano et al., 2011). Indirect inhibition arises from PKC inhibitors that prevent the activating phosphorylation of PRKD1 (Rozengurt, 2011).  
+
+## Other Comments  
+Aberrant PRKD1 signalling is linked to pancreatic, breast and skin cancers, cardiac hypertrophy and other cardiovascular disorders (Gilles et al., 2021; Zhang et al., 2021). In breast cancer PRKD1 is often epigenetically silenced, whereas it is overexpressed in pancreatic cancer (LaValle et al., 2010). Recurrent oncogenic PRKD1 mutations occur in breast and colon tumours (Rozengurt, 2011). Global Prkd1 knockout in mice is embryonically lethal, indicating essential developmental functions (Rozengurt, 2011).  
+
+## 9. References  
+Bravo-Altamirano, K., George, K. M., Frantz, M.-C., LaValle, C. R., Tandon, M., Leimgruber, S., Sharlow, E. R., Lazo, J. S., Wang, Q. J., & Wipf, P. (2011). Synthesis and structure–activity relationships of benzothienothiazepinone inhibitors of protein kinase D. ACS Medicinal Chemistry Letters, 2(2), 154–159. https://doi.org/10.1021/ml100230n  
+
+Cobbaut, M., & Van Lint, J. (2018). Function and regulation of protein kinase D in oxidative stress: A tale of isoforms. Oxidative Medicine and Cellular Longevity, 2018, 2138502. https://doi.org/10.1155/2018/2138502  
+
+Fu, Y., & Rubin, C. S. (2011). Protein kinase D: Coupling extracellular stimuli to the regulation of cell physiology. EMBO Reports, 12(9), 785–796. https://doi.org/10.1038/embor.2011.139  
+
+Gilles, P., Voets, L., Van Lint, J., & De Borggraeve, W. M. (2021). Developments in the discovery and design of protein kinase D inhibitors. ChemMedChem, 16(15), 2158–2171. https://doi.org/10.1002/cmdc.202100110  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+LaValle, C. R., George, K. M., Sharlow, E. R., Lazo, J. S., Wipf, P., & Wang, Q. J. (2010). Protein kinase D as a potential new target for cancer therapy. Biochimica et Biophysica Acta, 1806(2), 183–192. https://doi.org/10.1016/j.bbcan.2010.05.003  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298(5600), 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Rozengurt, E. (2011). Protein kinase D signalling: Multiple biological functions in health and disease. Physiology, 26(1), 23–33. https://doi.org/10.1152/physiol.00037.2010  
+
+Rykx, A., De Kimpe, L., Mikhalap, S., Vantus, T., Seufferlein, T., Vandenheede, J. R., & Van Lint, J. (2003). Protein kinase D: A family affair. FEBS Letters, 546(1), 7–17. https://doi.org/10.1016/S0014-5793(03)00487-3  
+
+Steinberg, S. F. (2012). Regulation of protein kinase D1 activity. Molecular Pharmacology, 81(3), 284–291. https://doi.org/10.1124/mol.111.075986  
+
+Sundram, V., Chauhan, S. C., & Jaggi, M. (2011). Emerging roles of protein kinase D1 in cancer. Molecular Cancer Research, 9(8), 985–996. https://doi.org/10.1158/1541-7786.MCR-10-0365  
+
+Unknown Authors. (2013). PKD1 3D structure model and docking studies for new PKD inhibitors. [Unpublished data].  
+
+Van Lint, J., Rykx, A., Maeda, Y., Vantus, T., Sturany, S., Malhotra, V., Vandenheede, J. R., & Seufferlein, T. (2002). Protein kinase D: An intracellular traffic regulator on the move. Trends in Cell Biology, 12(4), 193–200. https://doi.org/10.1016/S0962-8924(02)02262-6  
+
+Zhang, X., Connelly, J., Chao, Y., & Wang, Q. J. (2021). Multifaceted functions of protein kinase D in pathological processes and human diseases. Biomolecules, 11(3), 483. https://doi.org/10.3390/biom11030483

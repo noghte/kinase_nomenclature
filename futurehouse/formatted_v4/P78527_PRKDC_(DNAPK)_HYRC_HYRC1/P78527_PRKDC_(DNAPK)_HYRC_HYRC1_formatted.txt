@@ -1,0 +1,75 @@
+## Phylogeny  
+PRKDC (DNA-PKcs) belongs to the phosphatidylinositol-3-kinase-related kinase (PIKK) family of atypical serine/threonine protein kinases, which also comprises ATM, ATR and mTOR (Bartlett & Lees-Miller, 2018; Chen et al., 2021; Smith & Jackson, 1999). It is the largest PIKK member (Camfield et al., 2024). Orthologues are conserved throughout vertebrates (human, mouse, chicken, dog, horse, amphibian) and a putative homologue exists in the slime mould Dictyostelium discoideum, whereas clear orthologues are absent from Caenorhabditis elegans, Arabidopsis thaliana, Drosophila melanogaster and yeasts (Bartlett & Lees-Miller, 2018).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Puustinen et al., 2020).
+
+## Cofactor Requirements  
+• Double-stranded DNA ends are required for activation (Bartlett & Lees-Miller, 2018; Puustinen et al., 2020).  
+• Mg²⁺ is essential for catalysis (Chen et al., 2021; Smith & Jackson, 1999).  
+DNA with single-stranded overhangs stimulates activity more strongly than blunt ends (Bartlett & Lees-Miller, 2018).
+
+## Substrate Specificity  
+PRKDC preferentially phosphorylates serine or threonine followed by glutamine (consensus [S/T]Q) (Johnson et al., 2023; Yue et al., 2020). While this SQ/TQ preference is shared with ATM and ATR, DNA-PKcs can also modify non-SQ/TQ motifs (e.g., S/T-L or S/T-Y) and substrates lacking obvious consensus sites, such as the C-terminal domain of RNA polymerase II (Dylgjeri & Knudsen, 2022).
+
+## Structure  
+A >4000-residue protein organised into three regions (Baretić et al., 2019; Sibanda et al., 2017):  
+1. N-terminal solenoid (res. 1–2801) built from HEAT/armadillo repeats that form a cradle encircling a central DNA-binding channel and engaging the Ku70/80 heterodimer.  
+2. Central “Circular Cradle” (within N-terminal region) continuing the solenoid architecture.  
+3. C-terminal head (res. 2802–4128) containing FAT, bilobal kinase domain, FRB-like insertion, LBE, PRD and FATC domains. FAT/FATC clamp the kinase domain, restricting access to its active site; the FRB-like insert acts as a gatekeeper (Baretić et al., 2019; Camfield et al., 2024).  
+High-resolution cryo-EM and X-ray structures reveal allostery between the solenoid body and the catalytic head (Sibanda et al., 2017; Williams et al., 2008).
+
+## Regulation  
+• Allosteric activation upon Ku70/80 binding to DNA ends; Ku80’s C-terminal tail induces conformational changes that open the catalytic cleft (Bartlett & Lees-Miller, 2018; Jette & Lees-Miller, 2015).  
+• Extensive autophosphorylation on PQR (e.g., S2056) and ABCDE (e.g., T2609) clusters further modulates activity and promotes dissociation from DNA (Bartlett & Lees-Miller, 2018; Sibanda et al., 2017).  
+• Phosphorylation by ATM, ATR and AKT adds additional regulatory layers (Dylgjeri & Knudsen, 2022; Yue et al., 2020).  
+• Additional PTMs include PARylation, acetylation, ubiquitination, neddylation, nitrosylation and glycosylation (Dylgjeri & Knudsen, 2022).
+
+## Function  
+Highly expressed in human cells, PRKDC safeguards genome stability (Yue et al., 2020).  
+• DNA repair: core component of the non-homologous end joining (NHEJ) pathway, forming the DNA-PK holoenzyme with Ku70/80 (Wu et al., 2024).  
+• V(D)J recombination: activates the nuclease Artemis to process DNA hairpins (Bartlett & Lees-Miller, 2018).  
+• Additional roles: regulation of transcription, mitosis, cell migration and autophagy (Puustinen et al., 2020; Yang et al., 2020).  
+
+Key substrates/interactors include Ku70/80, Artemis, XRCC4, histone H2AX, XLF, p53, Hsp90 and RNA polymerase II (Bartlett & Lees-Miller, 2018; Chen et al., 2021).
+
+## Inhibitors  
+Broad-spectrum PI3K/PIKK inhibitors wortmannin and LY294002; more selective compounds NU-7441, VX-984, AZD7648, and M3814; dual DNA-PKcs/mTOR inhibitor CC-115 (Wu et al., 2024; Bartlett & Lees-Miller, 2018; Unknown Authors, 1999).
+
+## Other Comments  
+Loss-of-function PRKDC mutations cause severe combined immunodeficiency with radiosensitivity and neurological defects (Woodbine et al., 2013). Dysregulation contributes to tumorigenesis, and DNA-PKcs inhibitors are under evaluation to sensitise cancers to DNA-damaging therapies (Chen et al., 2021).
+
+## References  
+Baretić, D., de Oliveira, T. M., Niess, M., Wan, P., Pollard, H. K., Johnson, C. M., … Phillips, C. (2019). Structural insights into the critical DNA damage sensors DNA-PKcs, ATM and ATR. _Progress in Biophysics and Molecular Biology_. https://doi.org/10.1016/j.pbiomolbio.2019.06.003  
+
+Bartlett, E. J., & Lees-Miller, S. P. (2018). Established and emerging roles of the DNA-dependent protein kinase catalytic subunit (DNA-PKcs). In _Cancer Drug Discovery and Development_ (pp. 315–338). https://doi.org/10.1007/978-3-319-75836-7_12  
+
+Camfield, S., Chakraborty, S., Dwivedi, S., Pramanik, P. K., Mukherjee, P., & Bhattacharya, R. (2024). Secrets of DNA-PKcs beyond DNA repair. _NPJ Precision Oncology_. https://doi.org/10.1038/s41698-024-00655-1  
+
+Chen, Y., Li, Y., Xiong, J., Lan, B., Wang, X., Liu, J., … Chen, C. (2021). Role of PRKDC in cancer initiation, progression, and treatment. _Cancer Cell International_. https://doi.org/10.1186/s12935-021-02229-8  
+
+Dylgjeri, E., & Knudsen, K. E. (2022). DNA-PKcs: a targetable proto-tumorigenic protein kinase. _Cancer Research_, 82, 523–533. https://doi.org/10.1158/0008-5472.CAN-21-1756  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. _Nature_, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Jette, N., & Lees-Miller, S. P. (2015). The DNA-dependent protein kinase: a multifunctional protein kinase with roles in DNA double-strand break repair and mitosis. _Progress in Biophysics and Molecular Biology_, 117, 194–205. https://doi.org/10.1016/j.pbiomolbio.2014.12.003  
+
+Matsumoto, Y. (2022). Development and evolution of DNA-dependent protein kinase inhibitors toward cancer therapy. _International Journal of Molecular Sciences_. https://doi.org/10.3390/ijms23084264  
+
+Puustinen, P., Keldsbo, A., Corcelle-Termeau, E., Ngoei, K., Sønder, S. L., Farkas, T., … Jäättelä, M. (2020). DNA-dependent protein kinase regulates lysosomal AMPK activation and autophagy. _Autophagy_, 16, 1871–1888. https://doi.org/10.1080/15548627.2019.1710430  
+
+Sibanda, B. L., Chirgadze, D. Y., Ascher, D. B., & Blundell, T. L. (2017). DNA-PKcs structure suggests an allosteric mechanism modulating DNA double-strand break repair. _Science_, 355, 520–524. https://doi.org/10.1126/science.aak9654  
+
+Smith, G. C. M., & Jackson, S. P. (1999). The DNA-dependent protein kinase. _Genes & Development_, 13, 916–934. https://doi.org/10.1101/gad.13.8.916  
+
+Williams, D. R., Lee, K.-J., Shi, J., Chen, D. J., & Stewart, P. L. (2008). Cryo-EM structure of the DNA-dependent protein kinase catalytic subunit at sub-nanometer resolution reveals α helices and insight into DNA binding. _Structure_, 16, 468–477. https://doi.org/10.1016/j.str.2007.12.014  
+
+Woodbine, L., Neal, J. A., Sasi, N., Shimada, M., Deem, K., Coleman, H., … Jeggo, P. A. (2013). PRKDC mutations in a SCID patient with profound neurological abnormalities. _The Journal of Clinical Investigation_, 123, 2969–2980. https://doi.org/10.1172/JCI67349  
+
+Wu, J., Song, L., Lu, M., Gao, Q., Xu, S., Zhou, P.-K., & Ma, T. (2024). The multifaceted functions of DNA-PKcs: implications for the therapy of human diseases. _MedComm_. https://doi.org/10.1002/mco2.613  
+
+Yang, H.-X., Yao, F., Marti, T. M., Schmid, R., & Peng, R. (2020). Beyond DNA repair: DNA-PKcs in tumour metastasis, metabolism and immunity. _Cancers_, 12, 3389. https://doi.org/10.3390/cancers12113389  
+
+Yue, X., Bai, C., Xie, D., Ma, T., & Zhou, P.-K. (2020). DNA-PKcs: a multi-faceted player in DNA damage response. _Frontiers in Genetics_, 11, 607428. https://doi.org/10.3389/fgene.2020.607428  
+
+Unknown Authors. (1999). DNA-dependent protein kinase and related proteins.

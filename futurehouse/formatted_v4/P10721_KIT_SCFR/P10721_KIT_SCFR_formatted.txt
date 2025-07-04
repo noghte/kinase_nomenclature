@@ -1,0 +1,53 @@
+## Phylogeny  
+Human KIT has a strict one-to-one orthologue in mouse (W-locus), exemplifying the strong conservation of this type III receptor tyrosine kinase (Caenepeel et al., 2004). Comparative kinome analyses show KIT/PDGFR-family members throughout vertebrates (rat, chicken, zebrafish, Xenopus) but not in most invertebrates, indicating a vertebrate-restricted lineage (Goldberg et al., 2006; Manning et al., 2011). KIT belongs to the tyrosine-kinase (TK) group, type III RTK/PDGFR sub-family together with PDGFRA, PDGFRB, FLT3 and CSF1R (Mol et al., 2004). A YxxM PI3K-binding motif in the kinase insert is conserved across this clade (Lev et al., 1992). In mouse, Kit is essential for melanoblast, erythroblast and germ-cell development, underscoring functional conservation across mammals (Piao et al., 1996).
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇄ ADP + protein-L-tyrosine-phosphate (Mol et al., 2004).
+
+## Cofactor Requirements  
+Requires Mg²⁺, coordinated by Asp810 of the DFG motif to position ATP for phosphoryl transfer (Mol et al., 2004).
+
+## Substrate Specificity  
+Peptide-array profiling groups KIT with RTKs that favor aliphatic hydrophobic residues at –1 and +3 and disfavor Ser –1 and Glu +3, giving the consensus Φ-x-pY-x-Φ (Yaron-Barir et al., 2024). Major autophosphorylation sites are Tyr568, Tyr570 (juxtamembrane); Tyr703, Tyr721, Tyr730, Tyr747 (kinase insert); Tyr823 (activation loop); Tyr900 and Tyr936 (C-terminal tail) (Lennartsson & Rönnstrand, 2012). Tyr721 within pTyr-XXM recruits the PI3K p85 subunit (Lev et al., 1992). Activating D814Y/D816V mutations broaden specificity toward Src/Abl-type motifs (Piao et al., 1996; Lennartsson & Rönnstrand, 2012).
+
+## Structure  
+KIT comprises five Ig-like extracellular domains (D1–D5), a single transmembrane helix, an autoinhibitory juxtamembrane segment (Thr544–Trp580), a split kinase domain interrupted by a 68-aa kinase insert (residues 694–753) and a C-terminal tail (Yuzawa et al., 2007; Mol et al., 2004). Key catalytic motifs are VAIK (Lys818), HRD (Asp792) and DFG (Asp810-Phe811-Gly812); correct C-helix and spine alignment defines the active state (Mol et al., 2004). Trp557 wedges into the active-site cleft and Tyr823 acts as a pseudosubstrate in the inactive conformation (Mol et al., 2004). Representative structures: active kinase (PDB 1PKG), autoinhibited kinase (PDB 1T45), imatinib-bound inactive kinase (PDB 1T46) (Mol et al., 2004); SCF-induced ectodomain dimer (PDB 2E9W) (Yuzawa et al., 2007).
+
+## Regulation  
+Stem cell factor (SCF)-induced dimerization aligns the transmembrane helices, allowing trans-autophosphorylation. Phosphorylation of Tyr568/Tyr570 relieves juxtamembrane inhibition and triggers sequential phosphorylation of Tyr703, Tyr721, Tyr730, Tyr747, Tyr823, Tyr900 and Tyr936 to create docking sites for signaling proteins (Lennartsson & Rönnstrand, 2012). Subsequent Ser/Thr phosphorylation dampens activity, whereas c-Cbl-mediated ubiquitination targets active KIT for endocytosis and lysosomal degradation (Lennartsson & Rönnstrand, 2012). SHP-1 phosphatase binds pTyr568/570 to dephosphorylate KIT; oncogenic D814Y/D816V mutations promote SHP-1 degradation, sustaining signaling (Piao et al., 1996). Imatinib stabilizes the autoinhibited DFG-out state (Mol et al., 2004).
+
+## Function  
+Expression is prominent in hematopoietic progenitors, mast cells, melanocytes, endothelial progenitors, gastrointestinal stromal tumors (GIST) and acute myeloid leukemia cells (Lennartsson & Rönnstrand, 2012). Key signaling routes include PI3K–AKT via Tyr721-p85 binding (Lev et al., 1992; Lennartsson & Rönnstrand, 2012), RAS–RAF–MEK–ERK (Src-dependent in wild-type, Src-independent in D816V), STAT1/3/5 activation, and PLCγ1-mediated DAG/IP₃ generation (Lennartsson & Rönnstrand, 2012). Biological outcomes encompass survival, proliferation, migration, hematopoiesis, stem-cell maintenance, gametogenesis, mast-cell maturation, melanogenesis and, in dendritic cells, IL-6-driven TH2/TH17 responses (Lennartsson & Rönnstrand, 2012).
+
+## Inhibitors  
+Type II inhibitors imatinib (IC₅₀ ≈ 124 nM) and sunitinib (IC₅₀ ≈ 42 nM) potently block unactivated KIT but imatinib is ineffective against D816V (Gajiwala et al., 2009; Lennartsson & Rönnstrand, 2012). Dasatinib and nilotinib inhibit many exon 17 mutants (Lennartsson & Rönnstrand, 2012). Sorafenib, regorafenib, cabozantinib and ponatinib maintain affinity for V654A or T670I variants (Martorana & Lauria, 2020). The type I inhibitor avapritinib shows sub-nanomolar potency against D816H and engages an auxiliary Gα pocket (Teuber et al., 2024). Docking studies identify SML0140 as a lead compound effective against V654A/T670I/D816H (Martorana & Lauria, 2020).
+
+## Other Comments  
+Gain-of-function KIT mutations drive GIST, systemic mastocytosis and subsets of AML, whereas loss-of-function alleles cause piebaldism (Lennartsson & Rönnstrand, 2012). Variant drug sensitivities include V560G (imatinib-sensitive), D816V (imatinib-resistant with altered specificity) and V654A/T670I (impaired imatinib binding but responsive to later-generation TKIs) (Lennartsson & Rönnstrand, 2012; Martorana & Lauria, 2020). The V560D mutant depends on PI3K activity even when KIT catalytic activity is inhibited (Lindblad et al., 2015).
+
+## 9. References  
+Caenepeel, S., Charydczak, G., Sudarsanam, S., Hunter, T., & Manning, G. (2004). The mouse kinome: discovery and comparative genomics of all mouse protein kinases. Proceedings of the National Academy of Sciences of the United States of America, 101(32), 11707-11712. https://doi.org/10.1073/pnas.0306880101  
+
+Gajiwala, K., Wu, J. C., Christensen, J., Deshmukh, G., Diehl, W., DiNitto, J. P., … Demetri, G. (2009). KIT kinase mutants show unique mechanisms of drug resistance to imatinib and sunitinib in gastrointestinal stromal tumor patients. Proceedings of the National Academy of Sciences, 106(5), 1542-1547. https://doi.org/10.1073/pnas.0812413106  
+
+Goldberg, J. M., Manning, G., Liu, A., Fey, P., Pilcher, K. E., Xu, Y., & Smith, J. L. (2006). The Dictyostelium kinome—analysis of the protein kinases from a simple model organism. PLoS Genetics, 2(3), e38. https://doi.org/10.1371/journal.pgen.0020038  
+
+Lev, S., Givol, D., & Yarden, Y. (1992). Interkinase domain of KIT contains the binding site for phosphatidylinositol 3′-kinase. Proceedings of the National Academy of Sciences of the United States of America, 89(2), 678-682. https://doi.org/10.1073/pnas.89.2.678  
+
+Lennartsson, J., & Rönnstrand, L. (2012). Stem cell factor receptor/c-KIT: from basic science to clinical implications. Physiological Reviews, 92(4), 1619-1649. https://doi.org/10.1152/physrev.00046.2011  
+
+Lindblad, O., Kazi, J. U., Rönnstrand, L., & Sun, J. (2015). PI3 kinase is indispensable for oncogenic transformation by the V560D mutant of c-KIT in a kinase-independent manner. Cellular and Molecular Life Sciences, 72(23), 4399-4407. https://doi.org/10.1007/s00018-015-1944-9  
+
+Manning, G., Reiner, D. S., Lauwaet, T., Dacre, M., Smith, A., Zhai, Y., … Gillin, F. D. (2011). The minimal kinome of Giardia lamblia illuminates early kinase evolution and unique parasite biology. Genome Biology, 12(7), R66. https://doi.org/10.1186/gb-2011-12-7-r66  
+
+Martorana, A., & Lauria, A. (2020). Design of antitumor drugs targeting c-KIT receptor by a new mixed ligand-structure based method. Journal of Molecular Graphics & Modelling, 100, 107666. https://doi.org/10.1016/j.jmgm.2020.107666  
+
+Mol, C., Dougan, D., Schneider, T., Skene, R., Kraus, M., Scheibe, D., … Wilson, K. (2004). Structural basis for the autoinhibition and STI-571 inhibition of c-KIT tyrosine kinase. Journal of Biological Chemistry, 279(34), 31655-31663. https://doi.org/10.1074/jbc.M403319200  
+
+Piao, X., Paulson, R., Geer, P., Pawson, T., & Bernstein, A. (1996). Oncogenic mutation in the KIT receptor tyrosine kinase alters substrate specificity and induces degradation of the protein tyrosine phosphatase SHP-1. Proceedings of the National Academy of Sciences of the United States of America, 93(25), 14665-14669. https://doi.org/10.1073/pnas.93.25.14665  
+
+Teuber, A., Schulz, T., Fletcher, B. S., Gontla, R., Mühlenberg, T., Zischinsky, M.-L., … Rauh, D. (2024). Avapritinib-based SAR studies unveil a binding pocket in KIT and PDGFRA. Nature Communications, 15, 44376. https://doi.org/10.1038/s41467-023-44376-8  
+
+Yaron-Barir, T. M., Joughin, B. A., Huntsman, E. M., Kerelsky, A., Cizin, D. M., Cohen, B. M., … Johnson, J. L. (2024). The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629(8007), 1174-1181. https://doi.org/10.1038/s41586-024-07407-y  
+
+Yuzawa, S., Opatowsky, Y., Zhang, Z., Mandiyan, V., Lax, I., & Schlessinger, J. (2007). Structural basis for activation of the receptor tyrosine kinase KIT by stem cell factor. Cell, 130(2), 323-334. https://doi.org/10.1016/j.cell.2007.05.055

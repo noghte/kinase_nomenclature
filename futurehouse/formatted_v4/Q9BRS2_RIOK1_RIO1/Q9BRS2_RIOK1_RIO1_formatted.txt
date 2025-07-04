@@ -1,0 +1,54 @@
+## Phylogeny  
+RIOK1 belongs to the RIO sub-family of atypical protein kinases/ATPases (RIOK1, RIOK2, RIOK3). The family is evolutionarily conserved from archaea to eukaryotes and is distinct from conventional eukaryotic protein kinase (ePK) groups (Berto et al., 2019; Iacovella et al., 2018; Weinberg et al., 2017). The name derives from the yeast orthologs Rio1p and Rio2p (Read et al., 2013). Orthologs are present in organisms such as Saccharomyces cerevisiae, Caenorhabditis elegans and Drosophila (Read et al., 2013; Weinberg et al., 2017).  
+
+## Reaction Catalyzed  
+1. ATP + H₂O → ADP + Pi (ATPase activity via an ADP::phospho-aspartate intermediate)  
+2. ATP + [protein] → ADP + phospho-[protein] (weak in vitro kinase and auto-phosphorylation activities)  
+(Berto et al., 2019; Damizia et al., 2023)  
+
+## Cofactor Requirements  
+Mg²⁺ is required for catalytic activity (Berto et al., 2019).  
+
+## Substrate Specificity  
+A consensus phosphorylation motif has not been defined; RIOK1 was not profiled in the kinome-wide substrate atlas (Johnson et al., 2023). Documented substrates are the RNA polymerase I subunit Rpa43 and mTOR (activating mTORC2); the protein also auto-phosphorylates (Berto et al., 2019; Damizia et al., 2023).  
+
+## Structure  
+Human RIOK1 contains an N-terminal winged-helix (WH) domain and a C-terminal atypical kinase domain (Berto et al., 2019; Iacovella et al., 2018). The crystal structure (PDB 4OTP) shows canonical catalytic elements—the P-loop, catalytic Asp, C-helix and hydrophobic spine—plus a flexible F-loop implicated in substrate recognition (Berto et al., 2019). The WH domain mediates nucleic-acid binding and regulation, whereas the kinase domain provides catalytic activity.  
+
+## Regulation  
+Protein stability is controlled by a phosphorylation-methylation switch:  
+• SETD7-mediated K411 methylation promotes binding to the E3 ligase FBXO6 and proteasomal degradation.  
+• CK2 phosphorylation at adjacent T410 antagonizes K411 methylation.  
+• LSD1 can demethylate RIOK1 (Damizia et al., 2023; Berto et al., 2019).  
+Transcriptionally, c-Myc, NF-κB and FOXM1 bind the RIOK1 promoter to up-regulate expression (Damizia et al., 2023).  
+
+## Function  
+• Ribosome biogenesis: essential for pre-40S subunit maturation and release of NOB1 and PNO1 (Berto et al., 2019; Iacovella et al., 2018).  
+• rDNA transcription: as part of the PRMT5 methylosome, promotes nucleolin di-methylation and pre-rRNA processing (Damizia et al., 2023).  
+• Signalling: phosphorylates mTOR to activate mTORC2 → Akt activation → MDM2-mediated p53 degradation; also augments Ras/PI3K/Akt signalling (Damizia et al., 2023).  
+• Interactors include PRMT5, mTORC2, Ras GTPases, G3BP2, NOB1 and PNO1 (Damizia et al., 2023; Berto et al., 2019).  
+
+Expression patterns  
+Up-regulated in gastric, cecal and colorectal adenocarcinomas and in colon, breast and non-small-cell lung cancer cell lines (Weinberg et al., 2017; Hong et al., 2018). In prostate tissue, single-cell RNA-seq studies report either stromal-dominant or epithelial-dominant expression; overall up-regulation is driven by the c-Myc/E2F axis in prostate cancer (Handle et al., 2023).  
+
+## Other Comments  
+RIOK1 overexpression acts as an oncogenic driver, promoting tumour growth, invasion, metastasis and therapy resistance (Damizia et al., 2023; Weinberg et al., 2017). High RIOK1 levels correlate with advanced stage and poor survival in colorectal cancer (Hong et al., 2018). COSMIC lists missense and nonsense mutations—some predicted pathogenic—clustered in functional regions such as the flexible loop (Berto et al., 2019).  
+
+## References  
+Asquith, C. R. M., East, M. P., & Zuercher, W. J. (2019). RIOK2: straddling the kinase/ATPase line. Nature Reviews Drug Discovery, 18, 574. https://doi.org/10.1038/d41573-019-00107-7  
+
+Berto, G., Ferreira-Cerca, S., & De Wulf, P. (2019). The RIO1 protein kinases/ATPases: conserved regulators of growth, division, and genomic stability. Current Genetics, 65, 457–466. https://doi.org/10.1007/s00294-018-0912-y  
+
+Damizia, M., Moretta, G. M., & De Wulf, P. (2023). The RIOK1 network determines p53 activity at multiple levels. Cell Death Discovery. https://doi.org/10.1038/s41420-023-01704-7  
+
+Handle, F., Puhr, M., Gruber, M., et al. (2023). The oncogenic protein kinase/ATPase RIOK1 is up-regulated via the c-Myc/E2F transcription factor axis in prostate cancer. The American Journal of Pathology, 193, 1284–1297. https://doi.org/10.1016/j.ajpath.2023.05.013  
+
+Hong, X., Huang, H., Qiu, X., et al. (2018). Retracted: Targeting post-translational modifications of RIOK1 inhibits the progression of colorectal and gastric cancers. eLife. https://doi.org/10.7554/eLife.29511  
+
+Iacovella, M. G., Bremang, M., Basha, O., et al. (2018). Integrating RIO1 activities discloses its nutrient-activated network in Saccharomyces cerevisiae. Nucleic Acids Research, 46, 7586–7611. https://doi.org/10.1093/nar/gky618  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., et al. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Read, R. D., Fenton, T. R., Gomez, G. G., et al. (2013). A kinome-wide RNAi screen in Drosophila glia reveals that the RIO kinases mediate cell proliferation and survival through TORC2-Akt signaling in glioblastoma. PLoS Genetics, 9, e1003253. https://doi.org/10.1371/journal.pgen.1003253  
+
+Weinberg, F., Reischmann, N., Fauth, L., et al. (2017). The atypical kinase RIOK1 promotes tumor growth and invasive behavior. EBioMedicine, 20, 79–97. https://doi.org/10.1016/j.ebiom.2017.04.015

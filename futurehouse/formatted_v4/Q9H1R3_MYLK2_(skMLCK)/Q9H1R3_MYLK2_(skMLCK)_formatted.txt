@@ -1,0 +1,77 @@
+## Phylogeny  
+MYLK2 (skeletal muscle myosin light-chain kinase; skMLCK) belongs to the myosin light-chain kinase (MLCK) family, a distinct subgroup of the Ca²⁺/calmodulin-dependent protein kinase (CaMK) group within the eukaryotic protein-kinase superfamily (Manning classification) (Chang et al., 2016; Herring et al., 2000; Josephson et al., 2011). The MLCK family comprises four paralogous genes: MLCK1 (smooth-muscle), MLCK2 (skeletal-muscle), MLCK3 (cardiac), and MLCK4 (ubiquitously expressed) (Chang et al., 2016). Orthologues have been documented across mammalian species in mouse, rat, guinea-pig and others (Wang et al., 2010; Yu et al., 2016).  
+
+## Reaction Catalyzed  
+ATP + L-seryl-[myosin regulatory light chain] ⇌ ADP + H⁺ + O-phospho-L-seryl-[myosin regulatory light chain] (principal phosphorylation site in skeletal muscle: Ser15) (Stull et al., 2011; Tsukamoto & Kitakaze, 2013).  
+
+## Cofactor Requirements  
+• Ca²⁺ and calmodulin: activation requires binding of (Ca²⁺)₄-calmodulin to the C-terminal regulatory segment (Josephson et al., 2011; Stull et al., 2011).  
+• Mg²⁺: coordinates ATP and is essential for phosphotransfer (Stull et al., 2011; Temmerman et al., 2013).  
+
+## Substrate Specificity  
+Positional-scanning peptide arrays revealed a detailed P-5 to P+5 preference set and a position-specific scoring matrix for MYLK2 (Johnson et al., 2023). The explicit motif is reported in Supplementary Table 3 of that study.  
+
+## Structure  
+MYLK2 is a monomeric kinase comprising:  
+1. N-terminal segment of unknown function;  
+2. Conserved bi-lobed catalytic core adopting the canonical kinase fold;  
+3. C-terminal regulatory region containing overlapping autoinhibitory and calmodulin-binding sequences (Stull et al., 2011).  
+
+AlphaFold model AF-Q9H1R3-F1 shows an intact activation loop, C-helix, and hydrophobic regulatory spine characteristic of an active kinase (Fang et al., 2023; Temmerman et al., 2013). Within the activation segment, MYLK2 (a DAPK/MAP4K-related kinase) carries an HF/LD motif cluster rather than the canonical HRD, and the DFG-Phe adopts an “in” conformation. In the predicted apo state, the autoinhibitory helix occludes the active site (Fang et al., 2023).  
+
+## Regulation  
+• Autoinhibition: the C-terminal regulatory segment blocks the catalytic cleft in the absence of Ca²⁺/calmodulin (Stull et al., 2011).  
+• Activation: binding of (Ca²⁺)₄-calmodulin to the regulatory segment displaces the autoinhibitory sequence and unmasks the active site (Chang et al., 2016; Stull et al., 2011).  
+• Inactivation: Ca²⁺ removal leads to slow dissociation of calmodulin and restoration of autoinhibition (Stull et al., 2011).  
+• Net RLC phosphorylation is determined by the balance between MYLK2 and myosin light-chain phosphatase (MLCP) activities (Stull et al., 2011; Thiriet, 2013).  
+
+## Function  
+MYLK2 is a Ca²⁺/calmodulin-dependent Ser/Thr kinase that is highly enriched in skeletal muscle, especially fast-twitch fibres (Stull et al., 2011; Kamm & Stull, 2011). By phosphorylating the myosin regulatory light chain, MYLK2:  
+• Modulates cross-bridge kinetics and increases Ca²⁺ sensitivity of contraction (Stull et al., 2011).  
+• Contributes to sarcomere assembly and organization (Seguchi et al., 2007).  
+
+## Inhibitors  
+Experimental ATP-competitive MLCK inhibitors show variable potency toward MYLK2:  
+• ML-7 and ML-9 inhibit human MYLK2 by 7 % and 17 %, respectively, in kinase panels (Kumar et al., 2024; Xiong et al., 2017).  
+• KT5926 (Ki ≈ 18 nM) is potent but not commercially available (Kumar et al., 2024).  
+• A nonapeptide inhibitor (rkkykyrrk-NH₂, D-PIK) reduces RLC phosphorylation in cells (Yu et al., 2016).  
+
+## Other Comments  
+Loss-of-function or missense variants in MYLK2 have been linked to hypertrophic and dilated cardiomyopathy, although LVNC association is weak (Li et al., 2019; Qin et al., 2021). The nonsense variant p.E380X is predicted to trigger nonsense-mediated decay and has been observed in familial DCM (Qin et al., 2021).  
+
+## 9. References  
+Chang, A. N., Mahajan, P., Knapp, S., Barton, H., Sweeney, H. L., Kamm, K. E., & Stull, J. T. (2016). Cardiac myosin light chain is phosphorylated by Ca²⁺/calmodulin-dependent and ‑independent kinase activities. Proceedings of the National Academy of Sciences, 113, E3824–E3833. https://doi.org/10.1073/pnas.1600633113  
+
+Fang, X., Bogdanov, V., Davis, J. P., & Kekenes-Huskey, P. M. (2023). Molecular insights into the MLCK activation by CaM. Journal of Chemical Information and Modeling, 63, 7487–7498. https://doi.org/10.1021/acs.jcim.3c00954  
+
+Herring, B. P., Dixon, S., & Gallagher, P. J. (2000). Smooth muscle myosin light chain kinase expression in cardiac and skeletal muscle. American Journal of Physiology-Cell Physiology, 279, C1656–C1664. https://doi.org/10.1152/ajpcell.2000.279.5.C1656  
+
+Hong, F., Haldeman, B. D., Jackson, D., Carter, M., Baker, J. E., & Cremo, C. R. (2011). Biochemistry of smooth muscle myosin light chain kinase. Archives of Biochemistry and Biophysics, 510(2), 135–146. https://doi.org/10.1016/j.abb.2011.04.018  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Josephson, M. P., Sikkink, L. A., Penheiter, A., Burghardt, T., & Ajtai, K. (2011). Smooth muscle myosin light chain kinase efficiently phosphorylates Serine 15 of cardiac myosin regulatory light chain. Biochemical and Biophysical Research Communications, 416, 367–371. https://doi.org/10.1016/j.bbrc.2011.11.044  
+
+Kamm, K. E., & Stull, J. T. (2011). Signaling to myosin regulatory light chain in sarcomeres. The Journal of Biological Chemistry, 286, 9941–9947. https://doi.org/10.1074/jbc.R110.198697  
+
+Kumar, G., Agarwala, P. K., Srivatsav, A. T., Ravula, A., Ashmitha, G., Balakrishnan, S., … Narayan, R. (2024). Identification and benchmarking of Myokinasib-II as a selective and potent chemical probe for exploring MLCK1 inhibition. ACS Chemical Biology, 19, 2165–2175. https://doi.org/10.1021/acschembio.4c00336  
+
+Li, C.-J., Chen, C.-S., Yiang, G.-T., Tsai, A., Liao, W.-T., & Wu, M.-Y. (2019). Advanced evolution of pathogenesis concepts in cardiomyopathies. Journal of Clinical Medicine, 8(4), 520. https://doi.org/10.3390/jcm8040520  
+
+Qin, X., Li, P., Qu, H., Liu, Y., Xia, Y., Chen, S., … Jian, Z. (2021). FLNC and MYLK2 gene mutations in a Chinese family with different phenotypes of cardiomyopathy. International Heart Journal. https://doi.org/10.1101/2020.05.10.20097519  
+
+Seguchi, O., Takashima, S., Yamazaki, S., Asakura, M., Asano, Y., Shintani, Y., … Kitakaze, M. (2007). A cardiac myosin light chain kinase regulates sarcomere assembly in the vertebrate heart. Journal of Clinical Investigation, 117, 2812–2824. https://doi.org/10.1172/JCI30804  
+
+Stull, J. T., Kamm, K. E., & Vandenboom, R. (2011). Myosin light chain kinase and the role of myosin light chain phosphorylation in skeletal muscle. Archives of Biochemistry and Biophysics, 510(2), 120–128. https://doi.org/10.1016/j.abb.2011.01.017  
+
+Temmerman, K., Simon, B., & Wilmanns, M. (2013). Structural and functional diversity in the activity and regulation of DAPK-related protein kinases. The FEBS Journal. https://doi.org/10.1111/febs.12384  
+
+Thiriet, M. (2013). Cytoplasmic protein serine/threonine kinases. In Biomathematical and biomechanical modeling of the circulatory and ventilatory systems (pp. 175–310). Springer. https://doi.org/10.1007/978-1-4614-4370-4_5  
+
+Tsukamoto, O., & Kitakaze, M. (2013). Biochemical and physiological regulation of cardiac myocyte contraction by cardiac-specific myosin light chain kinase. Circulation Journal, 77, 2218–2225. https://doi.org/10.1253/circj.CJ-13-0627  
+
+Wang, L., Guo, D.-C., Cao, J., Gong, L., Kamm, K. E., Regalado, E., … Milewicz, D. M. (2010). Mutations in myosin light chain kinase cause familial aortic dissections. American Journal of Human Genetics, 87(5), 701–707. https://doi.org/10.1016/j.ajhg.2010.10.006  
+
+Xiong, Y., Wang, C., Shi, L., Wang, L., Zhou, Z., Chen, D., … Guo, H.-S. (2017). Myosin light chain kinase: a potential target for treatment of inflammatory diseases. Frontiers in Pharmacology, 8, 292. https://doi.org/10.3389/fphar.2017.00292  
+
+Yu, H., Chakravorty, S., Song, W., & Ferenczi, M. A. (2016). Phosphorylation of the regulatory light chain of myosin in striated muscle: methodological perspectives. European Biophysics Journal, 45, 779–805. https://doi.org/10.1007/s00249-016-1128-z

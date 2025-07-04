@@ -1,0 +1,44 @@
+## Phylogeny  
+Member of the GRK4 subfamily (GRK4, GRK5, GRK6) of the AGC Ser/Thr kinase superfamily. Orthologs are documented in human, mouse and rat—species commonly used in comparative GRK studies (Gurevich et al., 2012; Komolov & Benovic, 2018). GRK6 diverges from the GRK2/3 branch by lacking a pleckstrin-homology domain and by being insensitive to Gβγ subunits (Gurevich et al., 2012).
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr → ADP + protein-L-Ser/Thr-phosphate (Cato et al., 2021).
+
+## Cofactor Requirements  
+No divalent-cation requirement has been explicitly reported (Gurevich et al., 2012).
+
+## Substrate Specificity  
+Efficiently phosphorylates Ser/Thr residues within the third intracellular loop or C-terminal tail of agonist-occupied GPCRs (Chaudhary et al., 2020; Pitcher et al., 1998). Peptide library screening shows a preference for basic residues immediately N-terminal to the phosphorylation site (Komolov & Benovic, 2018). Catalytic efficiency is markedly higher for full-length activated receptors than for isolated peptides, indicating receptor-driven allosteric activation (Komolov & Benovic, 2018). Documented physiological substrates include D₂-like dopamine receptors, CXCR4, P2Y1, P2Y12, PAR4 and BLT1 (Gurevich et al., 2012; Chaudhary et al., 2020).
+
+## Structure  
+Domain organisation: N-terminal basic amphipathic helix (~20 aa) for receptor/phospholipid engagement; RH (regulator of G-protein signalling homology) domain (~140 aa) that scaffolds the kinase core; bilobal kinase domain (~270 aa) related to PKA yet active without activation-loop phosphorylation; C-terminal amphipathic helix containing palmitoylation sites for membrane anchoring (Homan & Tesmer, 2014; Cato et al., 2021).  
+Crystal structures reveal two states: an open, inactive apo dimer and a closed, active-like form bound to the adenosine analogue sangivamycin, which orders the N-terminal helix and AST loop (Komolov & Benovic, 2018; Cato et al., 2021). A sulfate ion in the catalytic cleft marks a basic pocket proposed to cooperate with PIP₂ during membrane docking (Homan & Tesmer, 2014). The activation loop is pre-aligned for catalysis without phosphorylation, and the C-terminal helix toggles between membrane insertion and packing against the small lobe to stabilise the active conformation (Homan & Tesmer, 2014).
+
+## Regulation  
+Membrane association relies on electrostatic contacts of the N-terminal helix with anionic phospholipids (PIP₂, phosphatidylserine) and on palmitoylation of the C-terminal helix (Cato et al., 2021; Homan & Tesmer, 2014). Agonist-bound GPCRs act as allosteric activators, promoting kinase-domain closure even before substrate phosphorylation (Cato et al., 2021). GRK6 is not activated by Gβγ subunits, in contrast to GRK2/3 (Gurevich et al., 2012). Ca²⁺-calmodulin modulates activity, although the mechanism is unresolved (Cato et al., 2021).
+
+## Function  
+Expression is ubiquitous; GRK6 is the predominant GRK isoform in adult rat brain and is abundant in platelets and other hematopoietic cells (Gurevich et al., 2012; Chaudhary et al., 2020).  
+• Platelet signalling: limits Gq- and Gi-mediated aggregation; Grk6⁻/⁻ mice show enhanced Akt, ERK and PKCδ phosphorylation, increased aggregation and shortened bleeding time (Chaudhary et al., 2020).  
+• Immune regulation: restrains CXCR4-dependent neutrophil retention and suppresses chemokine-driven acute inflammation; knockout exacerbates experimental colitis (Gurevich et al., 2012).  
+• Neuromodulation: contributes to desensitisation of D₂-like dopamine receptors in the striatum (Gurevich et al., 2012).  
+Mechanistically, receptor phosphorylation by GRK6 promotes β-arrestin recruitment, terminating G-protein signalling and initiating receptor internalisation (Chaudhary et al., 2020; Cato et al., 2021).
+
+## Inhibitors  
+Sangivamycin and related adenosine analogues bind the ATP pocket and stabilise the closed conformation in crystal structures; biochemical potency against GRK6 was not quantified (Cato et al., 2021). No selective, cell-permeable GRK6 inhibitors have been reported (Komolov & Benovic, 2018).
+
+## Other Comments  
+Grk6⁻/⁻ mice exhibit heightened thrombus formation, supporting an antithrombotic role for the kinase (Chaudhary et al., 2020). Dysregulated GRK6 expression has been linked to heart failure, depression and Parkinson’s disease in broader GRK surveys (Gurevich et al., 2012).
+
+## 9. References  
+Cato, M. C., Yen, Y.-C., Francis, C. J., Elkins, K. E., Shareef, A., Sterne-Marr, R., & Tesmer, J. J. G. (2021). The open question of how GPCRs interact with GPCR kinases (GRKs). Biomolecules, 11, 447. https://doi.org/10.3390/biom11030447  
+
+Chaudhary, P. K., Kim, S., Jee, Y., Lee, S.-H., Park, K.-M., & Kim, S. (2020). Role of GRK6 in the regulation of platelet activation through selective G protein-coupled receptor (GPCR) desensitization. International Journal of Molecular Sciences, 21, 3932. https://doi.org/10.3390/ijms21113932  
+
+Gurevich, E. V., Tesmer, J. J. G., Mushegian, A., & Gurevich, V. V. (2012). G protein-coupled receptor kinases: More than just kinases and not only for GPCRs. Pharmacology & Therapeutics, 133, 40–69. https://doi.org/10.1016/j.pharmthera.2011.08.001  
+
+Homan, K. T., & Tesmer, J. J. G. (2014). Structural insights into G protein-coupled receptor kinase function. Current Opinion in Cell Biology, 27, 25–31. https://doi.org/10.1016/j.ceb.2013.10.009  
+
+Komolov, K. E., & Benovic, J. L. (2018). G protein-coupled receptor kinases: Past, present and future. Cellular Signalling, 41, 17–24. https://doi.org/10.1016/j.cellsig.2017.07.004  
+
+Pitcher, J. A., Freedman, N. J., & Lefkowitz, R. J. (1998). G protein–coupled receptor kinases. Annual Review of Biochemistry, 67, 653–692. https://doi.org/10.1146/annurev.biochem.67.1.653

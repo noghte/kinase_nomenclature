@@ -1,0 +1,45 @@
+Phylogeny  
+Adaptor-associated kinase 1 (AAK1) is a serine/threonine member of the numb-associated kinase (NAK) family in the human kinome (Wells et al., 2019). It shares ~50 % overall and 74 % kinase-domain identity with its closest human paralogue BMP2K/BIKE (Wells et al., 2019). Orthologues are found in mouse, rat and zebrafish, while invertebrate counterparts include Drosophila NAK and Caenorhabditis elegans SEL-5; the fungal kinases Ark1/Prk1 (~38 % identity) represent a related lineage (Huang et al., 2023). AAK1 was first isolated as an Ark-related kinase that binds the α-adaptin ear domain (Conner & Schmid, 2002).
+
+Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Conner & Schmid, 2002).
+
+Cofactor Requirements  
+Mg²⁺ is required for catalytic activity (Agajanian et al., 2019).
+
+Substrate Specificity  
+Phosphoproteomic profiling shows a preference for threonine within motifs that contain a hydrophobic residue at −3 and a small residue at +1 (Johnson et al., 2023). A canonical I/L-X-X-Q-X-T-G sequence was defined from the AP2M1 Thr156 site (Conner & Schmid, 2002). Validated cellular targets include AP2M1 Thr156, AP1M1 Thr154 and NUMB Thr102 (Huang et al., 2023).
+
+Structure  
+The protein comprises an N-terminal bilobal kinase domain (~residues 25–396), a glutamine/proline/alanine-rich central segment, and a C-terminal region bearing DPF, NPF and DLL motifs that interact with adaptor proteins and clathrin (Conner & Schmid, 2002). Crystal structures of the kinase domain (e.g., PDB 4WSQ) reveal a canonical Lys49–Glu65 salt bridge, an ordered activation loop and an intact regulatory spine (Yoshida et al., 2024). Co-crystal complexes with 3-acylaminoindazole probes show an active C-helix and classical hinge contacts (Wells et al., 2019). Docking of the inhibitor TIM-098a predicts hydrogen bonds to Cys129 and Gln133 and hydrophobic contact with Leu52 within the ATP pocket (Yoshida et al., 2024).
+
+Regulation  
+AAK1 autophosphorylates and cycles reversibly in nerve terminals (Conner & Schmid, 2002). Binding to assembled clathrin allosterically activates the kinase, enhancing AP2M1 phosphorylation (Abdel-Magid, 2017). WNT stimulation of LRP6 activates AAK1, creating a negative feedback loop on β-catenin signalling (Agajanian et al., 2019). C-terminal DPF/NPF motifs recruit AAK1 to nascent clathrin-coated pits via the α-adaptin ear domain (Conner & Schmid, 2002).
+
+Function  
+AAK1 is broadly expressed, with enrichment at presynaptic terminals and the leading edge of migrating HeLa cells (Conner & Schmid, 2002). Phosphorylation of AP2M1 Thr156 stabilises the open + conformation of AP-2, increases affinity for YxxΦ sorting motifs and accelerates clathrin-mediated endocytosis (Siao et al., 2023). Phosphorylation of NUMB Thr102 redirects NUMB to endosomes, modulating Notch signalling (Huang et al., 2023). Interaction with LRP6 promotes its internalisation and dampens canonical WNT/β-catenin signalling (Agajanian et al., 2018). AAK1 also acts as a host factor for hepatitis C, dengue, Ebola and SARS-CoV-2 by facilitating adaptor-dependent viral entry (Huang et al., 2023).
+
+Inhibitors  
+SGC-AAK1-1 inhibits AAK1 with an IC₅₀ of 31 nM and shows narrow kinome selectivity (Wells et al., 2019). TIM-098a exhibits an in-vitro IC₅₀ of 0.24 µM and blocks cellular AP2M1 phosphorylation with an IC₅₀ of 0.87 µM (Yoshida et al., 2024). Broad-spectrum kinase inhibitors such as sunitinib and baricitinib also target AAK1 and display antiviral activity against SARS-CoV-2 (Huang et al., 2023).
+
+Other Comments  
+AAK1 knockout mice are resistant to neuropathic pain, highlighting analgesic potential for AAK1 inhibition (Abdel-Magid, 2017). Genetic variants are linked to earlier Parkinson’s disease onset (Abdel-Magid, 2017). Dysregulation has been implicated in amyotrophic lateral sclerosis, bipolar disorder (Wells et al., 2019) and amyloid-β-induced axonal degeneration in Alzheimer’s disease models (Abdel-Magid, 2017).
+
+9. References  
+Abdel-Magid, A. (2017). Inhibitors of adaptor-associated kinase 1 (AAK1) may treat neuropathic pain, schizophrenia, Parkinson’s disease, and other disorders. ACS Medicinal Chemistry Letters, 8(6), 595-597. https://doi.org/10.1021/acsmedchemlett.7b00208  
+
+Agajanian, M. J., Walker, M. P., Axtman, A. D., Ruela-de-Sousa, R. R., Rabinowitz, A. D., Graham, D. M., … Major, M. B. (2018). AAK1 inhibits WNT signaling by promoting clathrin-mediated endocytosis of LRP6. bioRxiv. https://doi.org/10.1101/258632  
+
+Agajanian, M. J., Walker, M. P., Axtman, A. D., Ruela-de-Sousa, R. R., Serafin, D. S., Rabinowitz, A. D., … Major, M. B. (2019). WNT activates the AAK1 kinase to promote clathrin-mediated endocytosis of LRP6 and establish a negative feedback loop. Cell Reports, 26(1), 79-93.e8. https://doi.org/10.1016/j.celrep.2018.12.023  
+
+Conner, S. D., & Schmid, S. L. (2002). Identification of an adaptor-associated kinase, AAK1, as a regulator of clathrin-mediated endocytosis. Journal of Cell Biology, 156(5), 921-929. https://doi.org/10.1083/jcb.200108123  
+
+Huang, C., Ji, C., & Wang, J. (2023). Current thoughts on cellular functions of numb-associated kinases. Molecular Biology Reports, 50, 4645-4652. https://doi.org/10.1007/s11033-023-08372-x  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759-766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Siao, W., Wang, P., Zhao, X., Vu, L. D., De Smet, I., & Russinova, E. (2023). Phosphorylation of adaptor protein-2 μ-adaptin by adaptor-associated kinase 1 regulates the tropic growth of Arabidopsis roots. The Plant Cell. https://doi.org/10.1093/plcell/koad141  
+
+Wells, C., Counago, R., Limas, J. C., Almeida, T. L., Cook, J. G., Drewry, D., … Axtman, A. D. (2019). A chemical probe targeting AAK1 and BMP2K. ChemRxiv. https://doi.org/10.26434/chemrxiv.9756785.v1  
+
+Yoshida, A., Ohtsuka, S., Matsumoto, F., Miyagawa, T., Okino, R., Ikeda, Y., … Tokumitsu, H. (2024). Development of a novel AAK1 inhibitor via kinobeads-based screening. Scientific Reports. https://doi.org/10.1038/s41598-024-57051-9

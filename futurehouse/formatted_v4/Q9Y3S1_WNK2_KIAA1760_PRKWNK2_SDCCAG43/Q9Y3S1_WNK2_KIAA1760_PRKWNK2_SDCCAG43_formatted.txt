@@ -1,0 +1,50 @@
+## Phylogeny  
+WNK2 is one of four human WNK paralogues that constitute the “Other-group” protein kinase subfamily in which the catalytic lysine is repositioned from β-strand 3 to β-strand 2 (Min et al., 2004; With No Lysine (WNK) Family, 2011). Orthologues are present throughout vertebrates (mouse, rat and zebrafish wnk2a/wnk2b), and within the WNK branch WNK2 clusters more closely with WNK1 and WNK3 than with WNK4 (McCormick & Ellison, 2011; With No Lysine (WNK) Family, 2011).
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr → ADP + [protein]-Ser/Thr-P (With No Lysine (WNK) Family, 2011).
+
+## Cofactor Requirements  
+Catalytic activity is Mg²⁺-dependent (Min et al., 2004).
+
+## Substrate Specificity  
+Large-scale phosphoproteomics revealed a limited substrate spectrum without a clear sequence consensus (Johnson et al., 2023). Biochemical data demonstrate direct phosphorylation of OSR1 and SPAK via RFXV-dependent docking, with a low catalytic turnover (k_cat ≈ 0.05 min⁻¹) compared with WNK1/3 (With No Lysine (WNK) Family, 2011).
+
+## Structure  
+The 2 180-residue protein comprises an N-terminal kinase domain (~1–365), an autoinhibitory segment (675–743), several coiled-coil and PxxP motifs, and a C-terminal membrane-targeting region (1922–2156) (McCormick & Ellison, 2011; With No Lysine (WNK) Family, 2011). No experimental WNK2 structure is available; homology models and AlphaFold (AF-Q9Y3S1-F1) show the typical bilobal fold, β2-lysine, displaced C-helix, expanded ATP pocket and conserved chloride-binding cavity described for WNK1 (Min et al., 2004; With No Lysine (WNK) Family, 2011). The activation loop contains Ser356, required for activity, and adopts an active-like DFG conformation (WNK kinase signalling in cancer biology, 2010; With No Lysine (WNK) Family, 2011).
+
+## Regulation  
+• Autophosphorylation on Ser338 and Ser356 is necessary for full activity (With No Lysine (WNK) Family, 2011; Identifying Novel Functions of the WNK Pathway, 2017).  
+• KLHL3–CUL3-mediated poly-ubiquitination targets WNK2 for proteasomal degradation (With No Lysine (WNK) Family, 2011; Identifying Novel Functions of the WNK Pathway, 2017).  
+• An internal autoinhibitory domain suppresses kinase output and can inhibit other WNK isoforms (With No Lysine (WNK) Family, 2011).  
+• Binding of intracellular Cl⁻ to the conserved cavity favours an inactive state, coupling activity to ionic strength (With No Lysine (WNK) Family, 2011).  
+• Promoter CpG hypermethylation down-regulates WNK2 expression in several cancers (McCormick & Ellison, 2011; With No Lysine (WNK) Family, 2011; Identifying Novel Functions of the WNK Pathway, 2017).  
+• Phosphorylation by Akt1/SGK1 further modulates activity (Identifying Novel Functions of the WNK Pathway, 2017).
+
+## Function  
+WNK2 is abundantly expressed in brain, heart and colonic epithelium but low in kidney-derived cell lines (McCormick & Ellison, 2011; With No Lysine (WNK) Family, 2011). Acting upstream of OSR1 and SPAK, it controls SLC12A family cotransporters: activation of NKCCs and inhibition of KCCs regulates electrolyte balance and cell volume (Richardson & Alessi, 2008; With No Lysine (WNK) Family, 2011). WNK2 also stimulates the MEKK2/3→ERK5 MAPK pathway and suppresses EGF-induced ERK1/2 signalling, thereby restraining G1/S progression (With No Lysine (WNK) Family, 2011). Autophosphorylation is triggered by osmotic or chloride stress (Identifying Novel Functions of the WNK Pathway, 2017).
+
+## Inhibitors  
+WNK463 is a pan-WNK ATP-competitive inhibitor with an IC₅₀ of ~1 nM against WNK2 and negligible off-target activity across 443 kinases at 10 µM (Yamada et al., 2016).
+
+## Other Comments  
+Promoter hypermethylation or chromosomal loss identifies WNK2 as a tumour-suppressor gene in glioma and meningioma; re-expression curbs colony formation and Rac1-dependent invasion independently of kinase activity (McCormick & Ellison, 2011; With No Lysine (WNK) Family, 2011; Identifying Novel Functions of the WNK Pathway, 2017). No Mendelian disease-causing variants have been reported, and WNK2 is not mutated in pseudohypoaldosteronism type II (Zhang et al., 2016).
+
+## References  
+Identifying Novel Functions of the WNK Pathway. (2017).  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+McCormick, J. A., & Ellison, D. H. (2011). The WNKs: atypical protein kinases with pleiotropic actions. Physiological Reviews, 91, 177–219. https://doi.org/10.1152/physrev.00017.2010  
+
+Min, X., Lee, B.-H., Cobb, M. H., & Goldsmith, E. J. (2004). Crystal structure of the kinase domain of WNK1, a kinase that causes a hereditary form of hypertension. Structure, 12, 1303–1311. https://doi.org/10.1016/j.str.2004.04.014  
+
+Richardson, C., & Alessi, D. (2008). The regulation of salt transport and blood pressure by the WNK-SPAK/OSR1 signalling pathway. Journal of Cell Science, 121, 3293–3304. https://doi.org/10.1242/jcs.029223  
+
+WNK kinase signalling in cancer biology. (2010).  
+
+With No Lysine (WNK) Family Proteins and Their Interaction with Downstream Kinases. (2011).  
+
+Yamada, K., Park, H.-M., Rigel, D. F., DiPetrillo, K., Whalen, E. J., Anisowicz, A., … Monovich, L. (2016). Small-molecule WNK inhibition regulates cardiovascular and renal function. Nature Chemical Biology, 12(11), 896–898. https://doi.org/10.1038/nchembio.2168  
+
+Zhang, J., Deng, X., & Kahle, K. T. (2016). Leveraging unique structural characteristics of WNK kinases to achieve therapeutic inhibition. Science Signaling, 9(452), pe3. https://doi.org/10.1126/scisignal.aaj2227

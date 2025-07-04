@@ -1,0 +1,52 @@
+## Phylogeny  
+Member of the STE-group, mixed-lineage kinase (MLK) subfamily; shares ≈ 40 % sequence identity with MLK1 and DLK and clusters on the STE11 branch of the human kinome (Mathea et al., 2016). Vertebrate orthologues are present in Mus musculus, Rattus norvegicus, Gallus gallus, Xenopus laevis and Danio rerio, the latter encoding separate α- and β-isoform genes (Mathea et al., 2016; Nordgaard et al., 2022). A single nematode homologue, zak-1, acts upstream of the p38 orthologue pmk-1 in Caenorhabditis elegans (Vind et al., 2020a). No clear counterpart exists in Saccharomyces cerevisiae or Drosophila melanogaster, indicating lineage-restricted expansion (Vind et al., 2020b).  
+
+## Reaction Catalyzed  
+Protein-Ser/Thr + ATP ⇄ Protein-Ser/Thr-P + ADP (Mathea et al., 2016).  
+
+## Cofactor Requirements  
+Catalysis is ATP-dependent; the cited studies do not specify a required divalent metal ion (Mathea et al., 2016).  
+
+## Substrate Specificity  
+• Positional-scanning peptide libraries defined a W-H-T-ϕ-H-ϕ consensus (ϕ = A, V, I, F, Y, W, Q) centred on a threonine phospho-acceptor; histidine is preferred at –1 and +2 (Mathea et al., 2016).  
+• “ZAKtide” (ANHWHTVHLRA) is an optimised reporter substrate; K_M,ATP ≈ 140 µM (Mathea et al., 2016).  
+• Activation-segment peptides from MAP2K4 and MAP2K7 are poor substrates in vitro, implying that additional docking elements are needed in full-length targets (Mathea et al., 2016).  
+• Phosphoproteomics of skeletal-muscle lysate detected 48 direct substrates and ~1 200 putative targets enriched at the Z-disc and focal adhesions, including FLNC, SYNPO2 and BAG3 (Stonadge et al., 2023).  
+
+## Structure  
+• Domain organisation – ZAKα: N-terminal kinase domain (residues 5–309) followed by a leucine-zipper (LZ), a sterile-α motif (SAM) and a C-terminal ribosome-binding S + CTD cassette. ZAKβ: identical kinase/LZ regions but a unique stress-fibre-binding domain replaces SAM/CTD (Vind et al., 2020a; Nordgaard et al., 2022).  
+• Crystal structure of KD-LZ bound to vemurafenib (PDB 5HES) shows a bilobed fold with αC displaced, disrupting the Lys45–Glu53 ion pair and locking the kinase in an inactive DFG-in state (Mathea et al., 2016).  
+• The P-loop is kinked: Phe27 π-stacks with the inhibitor, while Cys24 lies next to the chlorophenyl group, suggesting a potential covalent anchor site (Mathea et al., 2016).  
+• Activation loop: Thr161 is phosphorylated in the crystal; Ser165 remains disordered, consistent with the requirement for dual phosphorylation for full activity (Mathea et al., 2016).  
+• The LZ packs against helix αG forming a hydrophobic patch yet does not mediate dimerisation in the crystal (Mathea et al., 2016).  
+• The SAM domain acts as an autoinhibitory module that limits ribosome engagement until relieved by phosphorylation (Vind et al., 2020a).  
+
+## Regulation  
+• Autophosphorylation of Thr161 and Ser165 is required for maximal activity; protein kinase N1 promotes trans-autophosphorylation under osmotic stress (Mathea et al., 2016).  
+• Additional autophosphorylations flanking the ribosome-binding region tune ZAKα sensor engagement (Vind et al., 2020a).  
+• ZAKβ is phosphorylated at Ser335 and Ser339 during cellular compression or muscle contraction (Nordgaard et al., 2022).  
+• Isoform-specific stimuli: stalled/damaged ribosomes activate ZAKα, whereas stress-fibre perturbation and mechanical compression activate ZAKβ (Vind et al., 2020a; Nordgaard et al., 2022).  
+
+## Function  
+• Functions upstream of MAP2K7/MAP2K4 → JNK and MAP2K3/MAP2K6 → p38 in stress-activated cascades (Mathea et al., 2016).  
+• ZAKα binds 18S rRNA helix 14 and triggers the ribotoxic-stress response leading to p38/JNK activation (Vind et al., 2020a).  
+• ZAKβ localises to Z-discs and stress fibres, senses cellular compression and is indispensable for contraction-induced p38/JNK activation in skeletal muscle (Nordgaard et al., 2022).  
+• Highly expressed in adult human cardiomyocytes, where it modulates hypertrophic and doxorubicin-induced stress signalling (Mathea et al., 2016).  
+• Directly phosphorylates Z-disc proteins FLNC, SYNPO2, BAG3 and others, linking kinase activity to myofibrillar integrity (Stonadge et al., 2023).  
+
+## Inhibitors  
+Vemurafenib (K_D ≈ 29 nM; IC_50 ≈ 23 nM) (Mathea et al., 2016). Ponatinib, nilotinib, sorafenib, dabrafenib and rebastinib raise differential scanning fluorimetry ΔT_m values by ≤ 15 °C and inhibit with low-nanomolar potency (Mathea et al., 2016). PLX4720 blocks ZAKβ in cell-based assays (Stonadge et al., 2023). DHP-2 is an experimental inhibitor of ribotoxic signalling (Vind et al., 2020b).  
+
+## Other Comments  
+Off-target inhibition of ZAK by RAF inhibitors (vemurafenib, dabrafenib, sorafenib) reduces UV-induced apoptosis and contributes to cutaneous squamous-cell carcinoma in mouse models (Mathea et al., 2016). Germline SAM-domain mutation F368C causes congenital split-hand/foot malformation via constitutive pathway activation and reduced protein stability (Vind et al., 2020a). Homozygous MAP3K20 loss leads to myofibrillar myopathy with FLNC and BAG3 accumulation in patients and Zak-deficient mice; knockout mice also display atrophy of slow-twitch fibres and impaired contraction-induced p38/JNK activation (Stonadge et al., 2023; Nordgaard et al., 2022).  
+
+## 9. References  
+Mathea, S., Abdul Azeez, K. R., Salah, E., Tallant, C., Wolfreys, F., Konietzny, R., … Knapp, S. (2016). Structure of the human protein kinase ZAK in complex with vemurafenib. ACS Chemical Biology, 11, 1595–1602. https://doi.org/10.1021/acschembio.6b00043  
+
+Nordgaard, C., Vind, A. C., Stonadge, A., Kjøbsted, R., Snieckute, G., Antas, P., … Bekker-Jensen, S. (2022). ZAKβ is activated by cellular compression and mediates contraction-induced MAP kinase signaling in skeletal muscle. The EMBO Journal. https://doi.org/10.15252/embj.2022111650  
+
+Stonadge, A., Genzor, A. V., Russell, A., Hamed, M. F., Romero, N., Evans, G., … Blanco, G. (2023). Myofibrillar myopathy hallmarks associated with ZAK deficiency. Human Molecular Genetics, 32, 2751–2770. https://doi.org/10.1093/hmg/ddad113  
+
+Vind, A., Genzor, A. V., & Bekker-Jensen, S. (2020). Ribosomal stress-surveillance: three pathways is a magic number. Nucleic Acids Research, 48, 10648–10661. https://doi.org/10.1093/nar/gkaa757  
+
+Vind, A., Snieckute, G., Blasius, M., Tiedje, C., Krogh, N., Bekker-Jensen, D. B., … Bekker-Jensen, S. (2020). ZAKα recognizes stalled ribosomes through partially redundant sensor domains. Molecular Cell. https://doi.org/10.1016/j.molcel.2020.03.021

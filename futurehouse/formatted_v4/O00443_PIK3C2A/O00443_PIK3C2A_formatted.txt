@@ -1,0 +1,57 @@
+## Phylogeny  
+PIK3C2A belongs to the Class II phosphoinositide 3-kinase (PI3K) subgroup, which also comprises PIK3C2B and PIK3C2G (Foster et al., 2003; Brown & Auger, 2011; Margaria et al., 2019). Class II PI3Ks are metazoan-specific and originated early during multicellular evolution; the three mammalian isoforms form a vertebrate-specific clade that arose by gene duplication of an ancestral PI3K2 gene (Brown & Auger, 2011). Orthologues of PIK3C2A are present in diverse invertebrates, including Caenorhabditis elegans (piki-1) and Drosophila melanogaster (Pi3K68D) (Foster et al., 2003; Margaria et al., 2019).
+
+## Reaction Catalyzed  
+• PtdIns + ATP ⇄ PtdIns(3)P + ADP  
+• PtdIns(4)P + ATP ⇄ PtdIns(3,4)P₂ + ADP  
+(Foster et al., 2003; Lo et al., 2022)
+
+## Cofactor Requirements  
+Mg²⁺ is required for ATP binding and catalysis; a second Mg²⁺ ion has been suggested to modulate activity (Foster et al., 2003; Lo et al., 2022; Margaria et al., 2019).
+
+## Substrate Specificity  
+The enzyme preferentially phosphorylates phosphatidylinositol (PtdIns) and phosphatidylinositol 4-phosphate (PtdIns(4)P). It is inefficient toward phosphatidylinositol 4,5-bisphosphate (PtdIns(4,5)P₂), although limited activity can be observed in vitro in the presence of phosphatidylserine or clathrin (Foster et al., 2003; Margaria et al., 2019; Lo et al., 2022).
+
+## Structure  
+PIK3C2A displays a multi-domain architecture: N-terminal clathrin-binding domain (CBD), Ras-binding domain (RBD), TACC3-binding domain, N-terminal C2 domain, helical bundle domain (HBD), catalytic kinase domain (KD), distal Phox homology (PX) domain, and C-terminal C2 domain (Margaria et al., 2019; Lo et al., 2022).  
+• Cryo-EM structure of full-length human PI3KC2α resolved at 4.4 Å (Lo et al., 2022).  
+• Crystal structures of isolated PX and C2 domains are available (PDB 6BUB, 6BTY, 6BTZ, 6BU0) (Chen et al., 2018; Lo et al., 2022).  
+• The distal PX-C2 pair folds back onto the KD and RBD, mediating autoinhibition (Lo et al., 2022; Burke, 2018).  
+• The HBD forms a stalk connecting RBD and N-C2 and serves as a scaffold for protein interactions (Lo et al., 2022).
+
+## Regulation  
+Autoinhibition is imposed by intramolecular interaction of the distal PX-C2 tandem with the kinase core; this is relieved upon membrane recruitment to PI(4,5)P₂-rich sites and by clathrin binding (Burke, 2018; Margaria et al., 2019). Additional modulation occurs through:  
+• Binding of a second Mg²⁺ ion that triggers conformational change (Lo et al., 2022).  
+• Elevated Ca²⁺ levels that disrupt PX-C2 membrane association (Chen et al., 2018).  
+Upstream stimulation by growth factors (insulin, EGF, TGF-β, VEGF) and GPCR agonists can activate the enzyme, potentially via tyrosine phosphorylation or adaptor recruitment (Foster et al., 2003; Margaria et al., 2019).
+
+## Function  
+PIK3C2A is ubiquitously expressed and is the best-characterized Class II PI3K isoform (Margaria et al., 2019). It is activated downstream of insulin receptor, EGFR, TGFBR1, VEGFR and several GPCRs (Margaria et al., 2019). Reported cellular roles include:  
+• Clathrin-mediated endocytosis and trafficking (Lo et al., 2022).  
+• Insulin signalling—required for Akt1 activation and GLUT4 translocation (Margaria et al., 2019).  
+• Primary cilium signalling, angiogenesis, platelet formation, mitosis and viral replication (Lo et al., 2022; Burke, 2018).  
+• Generation of PI(3)P and PI(3,4)P₂ that recruit effectors such as Rab11a, RhoA, Rac1 and Rap1 to regulate endosomal dynamics (Margaria et al., 2019).  
+• Non-catalytic scaffolding in mitotic spindle assembly via interactions with clathrin and TACC3 (Burke, 2018).
+
+## Inhibitors  
+PIK3C2A is resistant to LY294002 and shows conflicting reports for wortmannin sensitivity (Foster et al., 2003; Margaria et al., 2019; Falasca et al., 2017). ATP-competitive inhibitors with documented binding include Torin-2 and PIK-90 (Lo et al., 2022). Additional low-affinity or partially selective inhibitors: PI701 and Compound 26 (Burke, 2018).
+
+## Other Comments  
+Loss-of-function mutations in PIK3C2A cause a human syndrome featuring short stature, skeletal defects, cataracts, renal cysts and neurodevelopmental issues linked to ciliary dysfunction (Lo et al., 2022; Tiosano et al., 2019). Complete knockout in mice is embryonic-lethal due to vasculogenesis defects, whereas hypomorphic alleles produce growth retardation and kidney failure (Falasca et al., 2017). Elevated PIK3C2A expression has been associated with colorectal cancer progression (Falasca et al., 2017).
+
+## 9. References  
+Brown, J. R., & Auger, K. R. (2011). Phylogenomics of phosphoinositide lipid kinases: perspectives on the evolution of second messenger signaling and drug discovery. BMC Evolutionary Biology, 11, 4. https://doi.org/10.1186/1471-2148-11-4  
+
+Burke, J. E. (2018). Structural basis for regulation of phosphoinositide kinases and their involvement in human disease. Molecular Cell, 71(5), 653–673. https://doi.org/10.1016/j.molcel.2018.08.005  
+
+Chen, K.-E., Tillu, V. A., Chandra, M., & Collins, B. M. (2018). Molecular basis for membrane recruitment by the PX and C2 domains of class II phosphoinositide 3-kinase-C2α. Structure, 26(12), 1612–1625.e4. https://doi.org/10.1016/j.str.2018.08.010  
+
+Falasca, M., Hamilton, J. R., Selvadurai, M., Sundaram, K., Adamska, A., & Thompson, P. E. (2017). Class II phosphoinositide 3-kinases as novel drug targets. Journal of Medicinal Chemistry, 60(1), 47–65. https://doi.org/10.1021/acs.jmedchem.6b00963  
+
+Foster, F. M., Traer, C. J., Abraham, S. M., & Fry, M. J. (2003). The phosphoinositide (PI) 3-kinase family. Journal of Cell Science, 116(15), 3037–3040. https://doi.org/10.1242/jcs.00609  
+
+Lo, W.-T., Zhang, Y., Vadas, O., Roske, Y., Gulluni, F., De Santis, M. C., … Haucke, V. (2022). Structural basis of phosphatidylinositol 3-kinase C2α function. Nature Structural & Molecular Biology, 29(3), 218–228. https://doi.org/10.1038/s41594-022-00730-w  
+
+Margaria, J. P., Ratto, E., Gozzelino, L., Li, H., & Hirsch, E. (2019). Class II PI3Ks at the intersection between signal transduction and membrane trafficking. Biomolecules, 9(3), 104. https://doi.org/10.3390/biom9030104  
+
+Tiosano, D., Feldman, H., Chen, A., Hitzert, M., Schueler, M., Gulluni, F., … Buchner, D. A. (2019). Mutations in PIK3C2A cause syndromic short stature, skeletal abnormalities, and cataracts associated with ciliary dysfunction. PLoS Genetics, 15(12), e1008088. https://doi.org/10.1371/journal.pgen.1008088

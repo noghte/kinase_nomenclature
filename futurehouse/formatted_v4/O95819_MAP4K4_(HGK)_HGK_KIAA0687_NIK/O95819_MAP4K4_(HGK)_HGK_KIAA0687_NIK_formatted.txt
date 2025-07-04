@@ -1,0 +1,63 @@
+## Phylogeny  
+MAP4K4 (also called HGK) belongs to the STE group of the protein-kinase superfamily, within the Ste20/MAP4K family. It is further classified in the germinal-centre kinase (GCK) family and placed in the GCK-IV subfamily together with TNIK and MINK (Dan et al., 2001; Manning et al., 2002; Chuang et al., 2016; Gao et al., 2016; Fuller et al., 2021). Orthologues are found in yeast and mouse, where the kinase is known as NIK (Gao et al., 2016; Singh et al., 2023).
+
+## Reaction Catalyzed  
+ATP + protein-threonine ⇌ ADP + protein-phosphothreonine (Schwaid et al., 2015).
+
+## Cofactor Requirements  
+Catalysis requires ATP together with a divalent metal ion, typically Mg²⁺ (preferred) or Mn²⁺ (Ammirati et al., 2015; Chuang et al., 2016; Ndubaku et al., 2015).
+
+## Substrate Specificity  
+MAP4K4 is an almost exclusive threonine kinase. In peptide arrays it shows a preference for a phospho-Thr followed by a bulky aliphatic residue, especially leucine, generating a pTL consensus motif. Cellular phosphoproteomics after MAP4K4 inhibition revealed decreased phosphorylation of pSP and pTP motifs (Schwaid et al., 2015).
+
+## Structure  
+The human protein comprises an N-terminal kinase domain (aa 26–290), an extended unstructured linker, a predicted coiled-coil segment (aa 351–495) and a C-terminal citron-homology (CNH) domain (Fuller et al., 2021; Singh et al., 2023). A crystal structure of the isolated kinase domain is available (PDB 4ZK5), and full-length models have been generated with AlphaFold (Fuller et al., 2021). Catalytic activity depends on the C-helix, activation loop and hydrophobic spine; phosphorylation of Thr187 within the activation loop is essential for activation (Ammirati et al., 2015; Fuller et al., 2021). A short α-helix immediately C-terminal to the kinase domain (Δ23 region) is also required for full activity (Fuller et al., 2021).
+
+## Regulation  
+• Dephosphorylation by PP2A within the STRIPAK complex keeps MAP4K4 inactive; inhibition or depletion of STRIPAK components (e.g., STRIP1) triggers autophosphorylation and activation (Fuller et al., 2021; Jovanovic et al., 2022).  
+• Key regulatory phosphosites: Thr187 (activation loop), Thr181, Thr191, Ser648 and Ser708 (Ammirati et al., 2015; Gao et al., 2016; Fuller et al., 2021). Ser648/Ser708 are modulated by EGFR signalling (Gao et al., 2016).  
+• Allosteric activation occurs via binding of GTP-loaded Rap2 to the CNH domain (Fuller et al., 2021; Jovanovic et al., 2022).  
+• Transcription is up-regulated by TNF-α and p53 (Gao et al., 2016).
+
+## Function  
+MAP4K4 is ubiquitously expressed, with highest levels in brain, testis and heart (Gao et al., 2016; Fuller et al., 2021; Singh et al., 2023).  
+Signalling roles:  
+– Acts upstream of JNK, Hippo, NF-κB, Notch and JAK-STAT pathways (Yao et al., 1999; Gao et al., 2016; Jovanovic et al., 2022).  
+– Directly phosphorylates LATS1/2 in the Hippo pathway (Jovanovic et al., 2022).  
+Known substrates: ARP2 (Thr237/238), FARP1, ERM proteins (ezrin, moesin, radixin), MLK3 and TRAF2 (Chuang et al., 2016; Jovanovic et al., 2022).  
+Interacting partners: STRIPAK components STRN3/STRN4, Rap2 and myosin heavy chains (Fuller et al., 2021; Jovanovic et al., 2022).  
+Physiological processes: embryonic development, cell migration, cytoskeletal organisation, apoptosis, insulin signalling, and inflammatory/immune responses (Gao et al., 2016; Virbasius & Czech, 2016).
+
+## Inhibitors  
+Several experimental ATP-competitive inhibitors have been reported, including GNE-495, GNE-220, PF-06260933, Compound 29, a 4-hydroxy-2-pyridone series, kenpaullone, Prostetin/12K, and the approved kinase inhibitor bosutinib (Ndubaku et al., 2015; Gao et al., 2016; Jovanovic et al., 2022).
+
+## Other Comments  
+MAP4K4 dysregulation is linked to cancers (e.g., glioblastoma, hepatocellular carcinoma), metabolic disorders (type 2 diabetes, atherosclerosis) and neurodegeneration (Gao et al., 2016; Virbasius & Czech, 2016; Jovanovic et al., 2022).  
+Heterozygous MAP4K4 variants cause congenital anomalies such as developmental delay and brain MRI abnormalities. Missense mutations within the kinase domain (e.g., Val39Gly, Arg152Trp, Gly173Asp, Asp153Asn) act dominantly by disrupting kinase activity, whereas loss-of-function truncating variants produce milder phenotypes (Patterson et al., 2023).
+
+## References  
+Ammirati, M., Bagley, S. W., Bhattacharya, S. K., Buckbinder, L., Carlo, A. A., Conrad, R., … Wang, J. (2015). Discovery of an in vivo tool to establish proof-of-concept for MAP4K4-based antidiabetic treatment. ACS Medicinal Chemistry Letters, 6, 1128-1133. https://doi.org/10.1021/acsmedchemlett.5b00215  
+
+Chuang, H., Wang, X., & Tan, T. (2016). MAP4K family kinases in immunity and inflammation. Advances in Immunology, 129, 277-314. https://doi.org/10.1016/bs.ai.2015.09.006  
+
+Dan, I., Watanabe, N. M., & Kusumi, A. (2001). The Ste20 group kinases as regulators of MAP kinase cascades. Trends in Cell Biology, 11, 220-230. https://doi.org/10.1016/S0962-8924(01)01980-8  
+
+Fuller, S. J., Edmunds, N. S., McGuffin, L. J., Hardyman, M. A., Cull, J. J., Alharbi, H. O., … Clerk, A. (2021). MAP4K4 expression in cardiomyocytes: multiple isoforms, multiple phosphorylations and interactions with striatins. Biochemical Journal, 478, 2121-2143. https://doi.org/10.1042/BCJ20210003  
+
+Gao, X., Gao, C., Liu, G., & Hu, J. (2016). MAP4K4: an emerging therapeutic target in cancer. Cell & Bioscience. https://doi.org/10.1186/s13578-016-0121-7  
+
+Jovanovic, D., Yan, S., & Baumgartner, M. (2022). The molecular basis of the dichotomous functionality of MAP4K4 in proliferation and cell motility control in cancer. Frontiers in Oncology. https://doi.org/10.3389/fonc.2022.1059513  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912-1934. https://doi.org/10.1126/science.1075762  
+
+Ndubaku, C. O., Crawford, T. D., Chen, H., Boggs, J. W., Drobnick, J., Harris, S. F., … Ye, W. (2015). Structure-based design of GNE-495, a potent and selective MAP4K4 inhibitor with efficacy in retinal angiogenesis. ACS Medicinal Chemistry Letters, 6, 913-918. https://doi.org/10.1021/acsmedchemlett.5b00174  
+
+Patterson, V., Ullah, F., Bryant, L., Li, D., Griffin, J. N., Sidhu, A., … Bhoj, E. (2023). Abrogation of MAP4K4 protein function causes congenital anomalies in humans and zebrafish. Science Advances. https://doi.org/10.1126/sciadv.ade0631  
+
+Schwaid, A. G., Su, C., Loos, P., Wu, J., Nguyen, C., Stone, K., … Carpino, P. (2015). MAP4K4 is a threonine kinase that phosphorylates FARP1. ACS Chemical Biology, 10, 2667-2671. https://doi.org/10.1021/acschembio.5b00679  
+
+Singh, S. K., Roy, R., Kumar, S., Srivastava, P., Jha, S., Rana, B., & Rana, A. (2023). Molecular insights of MAP4K4 signaling in inflammatory and malignant diseases. Cancers, 15, 2272. https://doi.org/10.3390/cancers15082272  
+
+Virbasius, J., & Czech, M. (2016). MAP4K4 signaling nodes in metabolic and cardiovascular diseases. Trends in Endocrinology & Metabolism, 27, 484-492. https://doi.org/10.1016/j.tem.2016.04.006  
+
+Yao, Z., Zhou, G., Wang, X. S., Brown, A., Diener, K., Gan, H., & Tan, T.-H. (1999). A novel human Ste20-related protein kinase, HGK, that specifically activates the c-Jun N-terminal kinase signaling pathway. Journal of Biological Chemistry, 274, 2118-2125. https://doi.org/10.1074/jbc.274.4.2118

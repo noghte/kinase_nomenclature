@@ -1,0 +1,56 @@
+## Phylogeny  
+Orthologous RET sequences occur in every vertebrate class and in the cephalochordate Amphioxus; an enzymatically active orthologue is also present in Drosophila despite the absence of GDNF ligands (Ibáñez, 2013). The cytoplasmic kinase domain is ~90 % identical among vertebrates, indicating strong evolutionary constraint (Knowles et al., 2006). Within the human kinome, RET belongs to the Tyrosine Kinase group, receptor tyrosine kinase family, and clusters with the FGFR/VEGFR sub-families (Roskoski & Sadeghi-Nejad, 2018).
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + protein-L-tyrosine-phosphate (Knowles et al., 2006; Roskoski & Sadeghi-Nejad, 2018).
+
+## Cofactor Requirements  
+Catalytic turnover is strictly Mg²⁺-dependent (Knowles et al., 2006; Roskoski & Sadeghi-Nejad, 2018).
+
+## Substrate Specificity  
+• Prefers acidic substrates such as poly(E₄Y), favouring acidic residues N-terminal to the acceptor Tyr (Knowles et al., 2006).  
+• Autophosphorylation sites include Y687/Y697 (juxtamembrane), Y900/Y905 (activation loop) and Y1062 (C-terminal tail) (Roskoski & Sadeghi-Nejad, 2018).  
+• The MEN2B mutation M918T alters specificity, enhancing phosphorylation of STAT3 over canonical targets (Knowles et al., 2006).
+
+## Structure  
+RET comprises four cadherin-like domains, a cysteine-rich region, a single transmembrane helix, a juxtamembrane segment and a split tyrosine kinase domain containing a 15-residue insert (Ibáñez, 2013; Roskoski & Sadeghi-Nejad, 2018). Crystal structures of the kinase domain (e.g. PDB 2IVT, 6Q2H, 7CRH) reveal an active conformation regardless of phosphorylation status (Salvatore et al., 2021). Key catalytic features include a Gly-rich loop (GxGxFG), the Lys758–Glu775 salt bridge that keeps αC-helix “in”, an HRDLAARN catalytic loop with Asp874 as the general base, a DFG-in motif and gatekeeper Val804 (Knowles et al., 2006). An N-terminal helix (residues 705–711) tethers αC, and both regulatory and catalytic spines are pre-aligned, so activation loop phosphorylation induces only modest structural change (Knowles et al., 2006). Co-crystal structures with PP1, ZD6474, nintedanib and others show binding in the ATP pocket; solvent-front residue G810 and Leu730 modulate inhibitor affinity and resistance (Knowles et al., 2006; Terzyan et al., 2019).
+
+## Regulation  
+Post-translational control  
+• Autophosphorylation of Y900/Y905 raises k_cat ~4-fold; Y905 is stabilised by Arg770, Arg897 and Lys907 (Knowles et al., 2006).  
+• Additional regulatory phosphosites: Y687, Y697, S909 and Y1062 (Roskoski & Sadeghi-Nejad, 2018).  
+• N-linked glycosylation in the extracellular domain governs folding and cell-surface delivery (Fancelli et al., 2021).  
+• Activated RET is poly-ubiquitinated by CBL, promoting endocytosis and degradation (Salvatore et al., 2021).
+
+Allosteric / conformational control  
+Ligand-induced dimerisation via a GFRα co-receptor is required for normal activation. Disease-associated C634R drives ligand-independent disulfide-linked dimers, while M918T yields monomeric activation independent of Y905 phosphorylation (Knowles et al., 2006; Roskoski & Sadeghi-Nejad, 2018).
+
+## Function  
+During embryogenesis RET is highly expressed in neural-crest derivatives, kidney and haematopoietic progenitors; adult expression is largely confined to thyroid C-cells and select neurons (Fancelli et al., 2021; Roskoski & Sadeghi-Nejad, 2018). Upstream ligands—GDNF, NRTN, ARTN, PSPN and GDF15—bind GFRα1-4 or GFRAL co-receptors and assemble hexameric complexes that dimerise RET (Roskoski & Sadeghi-Nejad, 2018). Phosphorylated RET recruits SHC/GRB2 (RAS-MAPK), PI3K (AKT), PLCγ (PKC) and SRC/JAK-STAT modules to control proliferation, survival, migration and differentiation (Desilets et al., 2023; Fancelli et al., 2021).
+
+## Inhibitors  
+Clinically used multikinase inhibitors with RET activity include vandetanib, cabozantinib, sorafenib, lenvatinib, sunitinib and ponatinib (Roskoski & Sadeghi-Nejad, 2018). The first-generation selective RET inhibitors selpercatinib and pralsetinib are FDA-approved for RET-altered thyroid and lung cancers (Fancelli et al., 2021; Vodopivec & Hu, 2022). Resistance mutations cluster at gatekeeper Val804 (V804L/M), solvent-front G810 (G810A/S) and hydrophobic core residues L730 and L881, differentially affecting inhibitor sensitivity (Knowles et al., 2006; Terzyan et al., 2019).
+
+## Other Comments  
+Gain-of-function mutations cause Multiple Endocrine Neoplasia types 2A (extracellular cysteine substitutions, e.g., C634R) and 2B (M918T); loss-of-function alleles lead to Hirschsprung disease (Arighi et al., 2005). Oncogenic fusions such as KIF5B-RET, CCDC6-RET and NCOA4-RET constitutively activate the kinase in papillary thyroid carcinoma and non-small-cell lung cancer (Roskoski & Sadeghi-Nejad, 2018; Santoro et al., 2020). Therapy-induced resistance frequently involves V804, G810, L730 and L881 (Knowles et al., 2006; Terzyan et al., 2019).
+
+## References  
+Arighi, E., Borrello, M. G., & Sariola, H. (2005). RET tyrosine kinase signaling in development and cancer. Cytokine & Growth Factor Reviews, 16(4–5), 441–467. https://doi.org/10.1016/j.cytogfr.2005.05.010  
+
+Desilets, A., Repetto, M., Yang, S.-R., Sherman, E., & Drilon, A. (2023). RET-altered cancers—A tumor-agnostic review of biology, diagnosis and targeted therapy activity. Cancers, 15(16), 4146. https://doi.org/10.3390/cancers15164146  
+
+Fancelli, S., Caliman, E., Mazzoni, F., Brugia, M., Castiglione, F., Voltolini, L., Pillozzi, S., & Antonuzzo, L. (2021). Chasing the target: New phenomena of resistance to novel selective RET inhibitors in lung cancer—Updated evidence and future perspectives. Cancers, 13(5), 1091. https://doi.org/10.3390/cancers13051091  
+
+Ibáñez, C. F. (2013). Structure and physiology of the RET receptor tyrosine kinase. Cold Spring Harbor Perspectives in Biology, 5(2), a009134. https://doi.org/10.1101/cshperspect.a009134  
+
+Knowles, P. P., Murray-Rust, J., Kjær, S., Scott, R. P., Hanrahan, S., Santoro, M., Ibáñez, C. F., & McDonald, N. Q. (2006). Structure and chemical inhibition of the RET tyrosine kinase domain. Journal of Biological Chemistry, 281(44), 33577–33587. https://doi.org/10.1074/jbc.M605604200  
+
+Roskoski, R., & Sadeghi-Nejad, A. (2018). Role of RET protein-tyrosine kinase inhibitors in the treatment of RET-driven thyroid and lung cancers. Pharmacological Research, 128, 1–17. https://doi.org/10.1016/j.phrs.2017.12.021  
+
+Salvatore, D., Santoro, M., & Schlumberger, M. (2021). The importance of the RET gene in thyroid cancer and therapeutic implications. Nature Reviews Endocrinology, 17(5), 296–306. https://doi.org/10.1038/s41574-021-00470-9  
+
+Santoro, M., Moccia, M., Federico, G., & Carlomagno, F. (2020). RET gene fusions in malignancies of the thyroid and other tissues. Genes, 11(4), 424. https://doi.org/10.3390/genes11040424  
+
+Terzyan, S. S., Shen, T., Liu, X., Huang, Q., Teng, P., Zhou, M., Hilberg, F., Cai, J., Mooers, B. H. M., & Wu, J. (2019). Structural basis of resistance of mutant RET protein-tyrosine kinase to its inhibitors nintedanib and vandetanib. Journal of Biological Chemistry, 294(28), 10428–10437. https://doi.org/10.1074/jbc.RA119.007682  
+
+Vodopivec, D. M., & Hu, M. I. (2022). RET kinase inhibitors for RET-altered thyroid cancers. Therapeutic Advances in Medical Oncology, 14, 17588359221101691. https://doi.org/10.1177/17588359221101691

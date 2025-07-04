@@ -1,0 +1,74 @@
+## Phylogeny  
+CSNK1A1L is a member of the Casein Kinase 1 (CK1) group within the CMGC kinase superfamily (Manning et al., 2002). The CK1 branch clusters most closely with the TTBK and VRK families (Cheong & Virshup, 2011) and possesses experimentally validated orthologs in mouse (Csnk1a1), zebrafish (csnk1a1a), fruit-fly (dco) and nematode (kin-3) (Venerando et al., 2014).
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (Cullati et al., 2024).
+
+## Cofactor Requirements  
+Catalysis requires Mg²⁺; in-vitro assays are performed with 10 mM MgCl₂ (Cullati et al., 2024).
+
+## Substrate Specificity  
+• Highest efficiency on “primed” motifs pS/pT-X-X-S/T where a phospho-Ser/Thr at –3 docks into a basic pocket (Cheong & Virshup, 2011).  
+• An acidic cluster (Asp/Glu, positions –3 to –1) can substitute for the priming phosphate (Cheong & Virshup, 2011).  
+• Large-scale motif profiling of yeast CK1 orthologs shows preference for acidic residues from –5 to –3 and little constraint at +1, confirming an acidophilic signature (Mok et al., 2010).  
+• Basic residues Lys229–Lys232 in the catalytic cleft contact the upstream acidic/phospho group and are essential for high-affinity binding (Jiang et al., 2018).
+
+## Structure  
+Domain organisation  
+– N-terminal kinase domain (Ile12–Ala282) mediates catalysis (Jiang et al., 2018).  
+– C-terminal tail (~120 aa) contains multiple autophosphorylation sites that modulate activity (Cheong & Virshup, 2011).
+
+Three-dimensional architecture  
+– Canonical bilobal fold with CK1-specific S-I-N triad in sub-domain VIII (Venerando et al., 2014).  
+– Crystal structures of family members (e.g., PDB 1CSN, 1CKJ) highlight Lys41 (VAIK), Asp131 (HRD) and Ser22 (glycine-rich loop) as key catalytic residues (Mashhoon et al., 2000).  
+– Activation segment is constitutively in an active conformation; no activation-loop phosphorylation required (Cheong & Virshup, 2011).  
+– Two activation-loop states (“loop up/down”) remodel a +1 hydrophobic pocket formed by Tyr225 and Leu173, tuning substrate choice (Ricci et al., 2025).  
+– AlphaFold model (AF-Q8N752-F1) predicts a flexible C-tail tethered to the rigid core, supporting an autoinhibitory role (Venerando et al., 2014).
+
+## Regulation  
+• Multisite autophosphorylation within the C-tail suppresses activity; okadaic-acid-sensitive phosphatases restore it (Cheong & Virshup, 2011).  
+• cis-Autophosphorylation of Thr220 modifies substrate preference (Cullati et al., 2024).  
+• Substrate binding displaces the phosphorylated tail, re-activating the kinase (Cullati et al., 2024).  
+• Oxidative stress triggers tail dephosphorylation of the long splice variant, enhancing hnRNP-C binding in nuclear speckles (Bedri et al., 2007).  
+• CRL4ᶜʳᵇⁿ E3 ligase targets residues 35–41, enabling lenalidomide-dependent ubiquitination and degradation (Jiang et al., 2018).  
+• Lys49 acetylation antagonises Ser45 phosphorylation, linking HDAC6 to kinase output (Jiang et al., 2018).
+
+## Function  
+Expression & localisation  
+Ubiquitously expressed; the long splice variant contains an NLS and accumulates in nuclear speckles (Bedri et al., 2007).
+
+Signalling roles  
+– WNT/β-catenin pathway: phosphorylates β-catenin at Ser45 within the destruction complex, priming GSK3β-mediated degradation; also associates with LRP6 signalosomes (Agajanian et al., 2022; Cheong & Virshup, 2011).  
+– Circadian clock: CK1 family phosphorylation of PER proteins influences period length; CK1α activity contributes (Cheong & Virshup, 2011).  
+– Genome maintenance: mutation of catalytic-loop Thr220 in yeast orthologs causes replication-stress hypersensitivity (Cullati et al., 2024).  
+– Stem-cell and WNT modulation: interacts with PRMT1 (pluripotency) and RNA helicase DDX3 (WNT amplification) (Jiang et al., 2018).
+
+## Inhibitors  
+ATP-competitive inhibitors: IC261, D4476, CKI-7, TG003, longdaysin (Jiang et al., 2018; Mashhoon et al., 2000).  
+Allosteric activators: pyrvinium pamoate and analogues SSTC-104/SSTC-3 enhance activity in the β-catenin destruction complex (Cheong & Virshup, 2011).
+
+## Other Comments  
+Loss of CK1α activity stabilises β-catenin and is linked to colorectal cancer, ABC-DLBCL and del(5q) myelodysplastic syndrome (Jiang et al., 2018). Hyperactive CK1 isoforms contribute to tau hyperphosphorylation in neurodegenerative disorders (Schittek & Sinnberg, 2014). A vertebrate-specific 28-aa “L-insert” in the long splice variant mediates oxidative-stress-responsive nuclear localisation (Bedri et al., 2007).
+
+## References  
+Agajanian, M. J., Potjewyd, F. M., Bowman, B. M., Solomon, S., LaPak, K. M., Bhatt, D. P., … Major, M. B. (2022). Protein proximity networks and functional evaluation of the casein kinase 1 gamma family reveal unique roles for CK1γ3 in WNT signaling. Journal of Biological Chemistry, 298, 101986. https://doi.org/10.1016/j.jbc.2022.101986  
+
+Bedri, S., Cizek, S. M., Rastarhuyeva, I., & Stone, J. R. (2007). Regulation of protein kinase CK1αLS by dephosphorylation in response to hydrogen peroxide. Archives of Biochemistry and Biophysics, 466, 242–249. https://doi.org/10.1016/j.abb.2007.06.010  
+
+Cheong, J. K., & Virshup, D. M. (2011). Casein kinase 1: complexity in the family. The International Journal of Biochemistry & Cell Biology, 43, 465–469. https://doi.org/10.1016/j.biocel.2010.12.004  
+
+Cullati, S. N., Akizuki, K., Chen, J.-S., Johnson, J. L., Yaron-Barir, T. M., Cantley, L. C., & Gould, K. L. (2024). Substrate displacement of CK1 C-termini regulates kinase specificity. Science Advances. https://doi.org/10.1126/sciadv.adj5185  
+
+Jiang, S., Zhang, M., Sun, J., & Yang, X. (2018). Casein kinase 1α: biological mechanisms and theranostic potential. Cell Communication and Signaling, 16, 23. https://doi.org/10.1186/s12964-018-0236-z  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Mashhoon, N., DeMaggio, A. J., Tereshko, V., Bergmeier, S. C., Egli, M., Hoekstra, M. F., & Kuret, J. (2000). Crystal structure of a conformation-selective casein kinase-1 inhibitor. Journal of Biological Chemistry, 275, 20052–20060. https://doi.org/10.1074/jbc.M001713200  
+
+Mok, J., Kim, P. M., Lam, H. Y. K., Piccirillo, S., Zhou, X., Jeschke, G. R., … Turk, B. E. (2010). Deciphering protein kinase specificity through large-scale analysis of yeast phosphorylation site motifs. Science Signaling, 3, ra12. https://doi.org/10.1126/scisignal.2000482  
+
+Ricci, C. G., Philpott, J. M., Torgrimson, M. R., Freeberg, A. M., Narasimamurthy, R., de Barros, E. P., … Partch, C. L. (2025). Markovian state models uncover casein kinase 1 dynamics that govern circadian period. bioRxiv. https://doi.org/10.1101/2025.01.17.633651  
+
+Schittek, B., & Sinnberg, T. (2014). Biological functions of casein kinase 1 isoforms and putative roles in tumorigenesis. Molecular Cancer, 13, 231. https://doi.org/10.1186/1476-4598-13-231  
+
+Venerando, A., Ruzzene, M., & Pinna, L. A. (2014). Casein kinase: the triple meaning of a misnomer. Biochemical Journal, 460, 141–156. https://doi.org/10.1042/BJ20140178

@@ -1,0 +1,66 @@
+## Phylogeny  
+Serine/threonine-protein kinase PLK3 is one of five mammalian Polo-like kinases (PLK1-PLK5) within the CMGC kinase group (Helmke et al., 2016; Lowery et al., 2005; Xu et al., 2012). It shares ≈50 % overall sequence similarity with PLK1 and ~33–36 % identity with other family members, reflecting divergence from a single ancestral PLK gene (Salvi et al., 2012; Lowery et al., 2005).  
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Helmke et al., 2016; Salvi et al., 2012).  
+
+## Cofactor Requirements  
+Activity requires a divalent metal ion, typically Mg²⁺ or Mn²⁺ (Helmke et al., 2016; Salvi et al., 2012).  
+
+## Substrate Specificity  
+• Peptide library profiling identified a proline-directed motif with an obligatory Pro at +1 and a preference for small residues upstream (Johnson et al., 2023).  
+• Independent work defined PLK3 as acidophilic, favouring E(D/E)xS/Tx(D/E) with acidic residues at −3 and +2, and showing no negative selection against +1 Pro (Salvi et al., 2012).  
+• Substrate engagement is further directed by the C-terminal Polo-box domain (PBD), which binds pre-phosphorylated Ser/Thr motifs (Helmke et al., 2016).  
+
+## Structure  
+PLK3 comprises an N-terminal kinase domain (KD) and a C-terminal PBD formed by two polo-boxes (PB1/PB2) linked by a flexible spacer (Helmke et al., 2016; Wyatt & McInnes, 2024).  
+• Catalytic KD: conserved Lys91 in the ATP pocket, ordered C-helix and hydrophobic spine (Perez et al., 2020; Wyatt & McInnes, 2024).  
+• Regulatory activation loop contains Thr270 (alternatively reported as Thr219) (Helmke et al., 2016; Perez et al., 2020).  
+• Substrate-binding cleft is positively charged (His149, Lys145, Lys152) to complement acidic motifs (Salvi et al., 2012).  
+• Crystal structure of residues 52–332 bound to a small-molecule inhibitor has been solved (Wyatt & McInnes, 2024).  
+• PBD mediates substrate docking, subcellular targeting and autoinhibition of the KD (Helmke et al., 2016).  
+
+## Regulation  
+• Transcriptional induction by the tumour-suppressor p53 after ionising radiation (Helmke et al., 2016).  
+• mRNA stability controlled by tristetraprolin (TTP) (Helmke et al., 2016).  
+• Activation-loop phosphorylation on Thr270/Thr219; dephosphorylated by protein phosphatase 6 (PP6) (Helmke et al., 2016; Perez et al., 2020).  
+• DNA damage-dependent activation requires ATM and can involve CHEK2 (Helmke et al., 2016; van de Weerdt & Medema, 2006).  
+• Autoinhibition relieved when the PBD binds a phospho-substrate (Helmke et al., 2016).  
+• Predicted PEST motifs may target PLK3 for SCF-mediated proteolysis (Helmke et al., 2016).  
+
+## Function  
+Stress-responsive kinase implicated in cell-cycle control (especially G1/S), DNA damage response, apoptosis and Golgi fragmentation (Helmke et al., 2016; Wyatt & McInnes, 2024).  
+• Expression peaks in late S/G2, though protein levels remain comparatively stable (Helmke et al., 2016; van de Weerdt & Medema, 2006).  
+• Localises to cytoplasm, nucleus, centrosomes, spindle poles, membranes and Golgi (Helmke et al., 2016; Strebhardt, 2010).  
+• Reported substrates: p53 Ser20, CHEK2 Ser73, CDC25A Thr80/Ser513/Ser519, CDC25C Ser191/Ser198/Ser216, HIF-1α, PTEN, VRK1 (Helmke et al., 2016; Xu et al., 2012; Wyatt & McInnes, 2024).  
+• Positive feedback with p53 helps drive G1/S progression (Helmke et al., 2016).  
+• Mouse knockout studies suggest PLK3 is dispensable for several stress responses (Perez et al., 2020).  
+
+## Inhibitors  
+• ATP-competitive PLK1 inhibitors such as volasertib cross-react with PLK3 due to KD conservation (Helmke et al., 2016).  
+• PBD-directed inhibitor poloxin (thymoquinone derivative) inhibits PLK3 (IC₅₀ ≈ 53.9 µM); purpurogallin is inactive (Liu, 2015).  
+• Highly selective PLK3 inhibitors remain undeveloped (Helmke et al., 2016).  
+
+## Other Comments  
+PLK3 is generally viewed as a tumour suppressor, contrasting with oncogenic PLK1 (Helmke et al., 2016; Strebhardt, 2010). Loss of expression via promoter hypermethylation or allelic loss (chromosome 1p34-36) occurs in hepatocellular, lung, head-and-neck and neuroblastoma tumours and associates with poor prognosis; Plk3-deficient mice develop spontaneous cancers, though clinical data are variable (Helmke et al., 2016; Strebhardt, 2010).  
+
+## References  
+Helmke, C., Becker, S., & Strebhardt, K. (2016). The role of PLK3 in oncogenesis. Oncogene, 35, 135–147. https://doi.org/10.1038/onc.2015.105  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Lowery, D. M., Lim, D., & Yaffe, M. B. (2005). Structure and function of polo-like kinases. Oncogene, 24, 248–259. https://doi.org/10.1038/sj.onc.1208280  
+
+Liu, X. (2015). Targeting polo-like kinases: a promising therapeutic approach for cancer treatment. Translational Oncology, 8, 185–195. https://doi.org/10.1016/j.tranon.2015.03.010  
+
+Perez, C. A., Palek, M., Stolarova, L., von Morgen, P., & Macurek, L. (2020). Phosphorylation of PLK3 is controlled by protein phosphatase 6. Cells, 9, 1506. https://doi.org/10.3390/cells9061506  
+
+Salvi, M., Trashi, E., Cozza, G., Franchin, C., Arrigoni, G., & Pinna, L. A. (2012). Investigation on PLK2 and PLK3 substrate recognition. Biochimica et Biophysica Acta-Proteins and Proteomics, 1824, 1366–1373. https://doi.org/10.1016/j.bbapap.2012.07.003  
+
+Strebhardt, K. (2010). Multifaceted polo-like kinases: drug targets and antitargets for cancer therapy. Nature Reviews Drug Discovery, 9, 643–660. https://doi.org/10.1038/nrd3184  
+
+van de Weerdt, B. C. M., & Medema, R. H. (2006). Polo-like kinases: a team in control of the division. Cell Cycle, 5, 853–864. https://doi.org/10.4161/cc.5.8.2692  
+
+Wyatt, M. D., & McInnes, C. (2024). Insights into the structural regulation of polo-like kinase activity using AlphaFold. bioRxiv. https://doi.org/10.1101/2024.10.21.618045  
+
+Xu, D., Wang, Q., Jiang, Y., Zhang, Y., Vega-Saenz de Miera, E., Osman, I., & Dai, W. (2012). Roles of polo-like kinase 3 in suppressing tumor angiogenesis. Experimental Hematology & Oncology, 1, 5. https://doi.org/10.1186/2162-3619-1-5

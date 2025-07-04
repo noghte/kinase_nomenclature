@@ -1,0 +1,59 @@
+## Phylogeny  
+Orthologues of SelO are widely distributed, being detected in bacteria (e.g., Pseudomonas syringae), fungi (Saccharomyces cerevisiae), green algae, plants, and most vertebrates, but they appear to be lost from nematodes and many insects (Dudkiewicz et al., 2012). Mammalian members conserve a C-x-x-U motif, whereas bacterial, fungal, and plant homologues typically carry C-x-x-C at the equivalent position (Tsuji et al., 2021). Crystal-structure-based phylogeny places SelO within the protein-kinase-like (PKL) superfamily, forming an atypical pseudokinase branch that nevertheless clusters with canonical bilobal kinases such as Csk1 and IRAK-4 (Tomchick et al., 2019).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr/Tyr → protein-Ser/Thr/Tyr-AMP + PPi (Tsuji et al., 2021).  
+
+## Cofactor Requirements  
+Catalysis requires divalent metal ions; Mg²⁺ and Ca²⁺ are coordinated in the active site of the 6EAC structure (Tomchick et al., 2019).  
+
+## Substrate Specificity  
+SelO AMPylates the hydroxyl groups of serine, threonine, and tyrosine residues. A clear linear consensus motif has not yet been defined, and large-scale kinase substrate atlases have not reported SelO preferences (Mukherjee & Sreelatha, 2022; Tsuji et al., 2021).  
+
+## Structure  
+• Modular organisation: N-terminal mitochondrial targeting sequence; central PKL domain (~residues 120–470); C-terminal extension housing the redox-active C-x-x-U/C motif (Dudkiewicz et al., 2012; Han et al., 2014).  
+• P. syringae SelO (2.27 Å, PDB 6EAC) displays the canonical N-lobe β-sheet and αC helix juxtaposed to an α-helical C-lobe (Tomchick et al., 2019).  
+• ATP binds in a flipped orientation, stabilised by an extended glycine-rich loop and a unique β8–αC insertion (Tomchick et al., 2019).  
+• Catalytic Asp262 coordinates metals; the classical HRD catalytic base is missing, consistent with pseudokinase chemistry (Tomchick et al., 2019).  
+• Homology models of human SelO retain the activation loop, αC helix, and hydrophobic “spines” characteristic of PKL enzymes (Dudkiewicz et al., 2012).  
+
+## Regulation  
+• Oxidative stress (H₂O₂) triggers a reversible 88 kDa mixed disulfide/selenylsulfide species via the C-x-x-U motif (Han et al., 2014).  
+• Substitution of the motif cysteine with serine abolishes this redox switch (Dogaru et al., 2023).  
+• An intramolecular disulfide between Cys272 and Cys476 (E. coli numbering) dampens activity and is reduced by DTT (Tomchick et al., 2019).  
+• No phosphorylation or ubiquitination events have been reported (Tomchick et al., 2019).  
+• Selenocysteine incorporation is guided by a type 2 SECIS element; protein levels remain stable during dietary selenium deficiency (Han et al., 2014).  
+
+## Function  
+• Localises to mitochondria in yeast and mammalian cells (Han et al., 2014).  
+• Contributes to mitochondrial redox homeostasis; knockout elevates GSH/GSSG and NADPH ratios (Melo et al., 2025).  
+• Regulates complex II activity and overall oxygen consumption through interactions with SdhA, Mdh2, and Idh2 (Melo et al., 2025).  
+• AMPylates glutaredoxin family proteins, modulating cellular S-glutathionylation during oxidative stress (Tomchick et al., 2019).  
+• Exhibits broad tissue expression in mouse and is prioritised under selenium limitation (Han et al., 2014).  
+
+## Other Comments  
+• Up-regulation of SELENOO enhances melanoma metastasis by altering mitochondrial metabolism (Melo et al., 2025).  
+• Variant rs5771225 (p.Val3Ala) associates with late-onset Alzheimer’s disease (Santesmasses & Gladyshev, 2021).  
+• Missense mutations A263S and S262S have been reported in lung adenocarcinoma and squamous carcinoma (Tian et al., 2023).  
+• Differential mRNA expression correlates with prognosis across several cancers, with notably poor outcomes in adrenocortical carcinoma and uveal melanoma (Li & Zhang, 2023).  
+
+## 9. References  
+Dogaru, C. B., Muscurel, C., Duță, C., & Stoian, I. (2023). “Alphabet” selenoproteins: Their characteristics and physiological roles. International Journal of Molecular Sciences, 24, 15992. https://doi.org/10.3390/ijms242115992  
+
+Dudkiewicz, M., Szczepińska, T., Grynberg, M., & Pawłowski, K. (2012). A novel protein kinase-like domain in a selenoprotein, widespread in the tree of life. PLoS ONE, 7, e32138. https://doi.org/10.1371/journal.pone.0032138  
+
+Han, S.-J., Lee, B. C., Yim, S. H., Gladyshev, V. N., & Lee, S.-R. (2014). Characterization of mammalian selenoprotein O: A redox-active mitochondrial protein. PLoS ONE, 9, e95518. https://doi.org/10.1371/journal.pone.0095518  
+
+Li, L., & Zhang, R. (2023). A pan-cancer study of the expression level of selenoprotein SELENOO in human malignancies and its impact on their survival prognosis. International Journal of Clinical and Experimental Medicine Research, 7, 188–192. https://doi.org/10.26855/ijcemr.2023.04.017  
+
+Melo, L. M. N., Sabatier, M., Ramesh, V., Szylo, K. J., Fraser, C. S., Pon, A., … Tasdogan, A. (2025). Selenoprotein O promotes melanoma metastasis and regulates mitochondrial complex II activity. Cancer Research, 85, 942–955. https://doi.org/10.1158/0008-5472.CAN-23-2194  
+
+Mukherjee, M., & Sreelatha, A. (2022). Identification of selenoprotein O substrates using a biotinylated ATP analog. Methods in Enzymology, 662, 275–296. https://doi.org/10.1016/bs.mie.2021.10.001  
+
+Santesmasses, D., & Gladyshev, V. N. (2021). Pathogenic variants in selenoproteins and selenocysteine biosynthesis machinery. International Journal of Molecular Sciences, 22, 11593. https://doi.org/10.3390/ijms222111593  
+
+Tian, T., Qi, C., Luo, X., Tu, Q., Tong, G., & Zhang, Z. (2023). Molecular mechanisms and prognostic value of the selenoprotein gene family in lung adenocarcinoma and lung squamous cell carcinoma. Preprint. https://doi.org/10.21203/rs.3.rs-2901655/v1  
+
+Tomchick, D. R., Sreelatha, A., Yee, S. S., Lopez, V. A., Park, B. C., Kinch, L. N., … Tagliabracci, V. S. (2019). Protein AMPylation by an evolutionarily conserved pseudokinase. Acta Crystallographica Section A: Foundations and Advances, 75, A314–A314. https://doi.org/10.1107/S0108767319096922  
+
+Tsuji, P. A., Santesmasses, D., Lee, B. J., Gladyshev, V. N., & Hatfield, D. L. (2021). Historical roles of selenium and selenoproteins in health and development: The good, the bad and the ugly. International Journal of Molecular Sciences, 23, 5. https://doi.org/10.3390/ijms23010005

@@ -1,0 +1,58 @@
+## Phylogeny  
+Orthologues are experimentally verified in mouse, rat, zebrafish, chicken and Xenopus, demonstrating conservation across vertebrates (Sato et al., 2015).  The closest characterised invertebrate homolog is Drosophila Gprk2, which clusters with the vertebrate GRK4/5/6 branch (Benovic, 2021).  Within the human kinome, GRK4, GRK5 and GRK6 form the GRK4 sub-family of the AGC Ser/Thr kinase group, distinct from the GRK1/7 and GRK2/3 branches (Gurevich et al., 2012).  Pair-wise sequence identities are ~81 % with GRK5, ~79 % with GRK6 and ~36 % with GRK2/3, underscoring sub-family coherence (Benovic, 2021).
+
+## Reaction Catalyzed  
+ATP + [GPCR Ser/Thr] → ADP + [GPCR O-phospho-Ser/Thr] (Allen et al., 2015).
+
+## Cofactor Requirements  
+Catalytic activity is Mg²⁺-dependent; in vitro assays typically use 10 mM MgCl₂ (Allen et al., 2015).
+
+## Substrate Specificity  
+No strict consensus motif has been defined.  Structural data reveal a neutral-to-basic substrate channel that accommodates acidic residues C-terminal to the phospho-acceptor (Allen et al., 2015).  Positional-scanning arrays on the close homologue GRK5 show preference for acidic residues at +1/+3 and an aromatic residue at –2, suggesting a sub-family trend (Komolov et al., 2021).  
+
+Validated protein substrates  
+– Rhodopsin (α-isoform only) (Unknown authors, 2009)  
+– Dopamine receptor D3 (α and γ isoforms) (Unknown authors, 2009)  
+– β₂-Adrenergic receptor (all isoforms) (Unknown authors, 2009)  
+– Dopamine receptor D1, angiotensin II receptors AT1R/AT2R, endothelin-B receptor, thromboxane receptor, adiponectin receptor 1 (Yang et al., 2022)
+
+## Structure  
+Domain organisation: N-terminal amphipathic αN helix with basic segment (residues 20-39) that binds calmodulin and anionic lipids; contiguous RH domain; inserted bilobal AGC kinase domain; C-terminal extension with palmitoylation sites Cys563/Cys578 and splice-variant inserts (Allen et al., 2015).  
+
+3-D information: Crystal structures of wild-type GRK4 (PDB 4YFK, 2.6 Å) and hypertension variant A486V (PDB 4YHJ, 2.6 Å) resolve residues 25-525 (Allen et al., 2015).  AlphaFold model AF-Q9NQT5-F1 completes missing termini.  
+
+Catalytic/regulatory features: canonical VAIK Lys216, HRD Asp331, DLG Asp456 in active DFG-in state; activation loop 351-366 (crystal) or 325-343 (biochemical) (Allen et al., 2015).  Kinase captured in semi-open conformation (~12° additional closure required).  An AST-loop H-bond (Asp469–Tyr474) secures the C-tail, distinguishing GRK4 from GRK6 (Allen et al., 2015).  Crystallographic dimer interface buries 4 945 Å², but analytical ultracentrifugation indicates a monomeric enzyme (Allen et al., 2015).
+
+## Regulation  
+Post-translational modifications: autophosphorylation at Ser139, Ser244, Ser249, Thr256, Ser485 (Ser485 markedly enhanced in A486V); palmitoylation at Cys563/Cys578; heterologous phosphorylation by PKC-ε increases activity; ubiquitination reported but sites undefined (Allen et al., 2015; Yang et al., 2022).  
+
+Allosteric control: Ca²⁺/calmodulin binds residues 20-39 of α-isoform and inhibits rhodopsin phosphorylation; other isoforms bind weakly (Allen et al., 2015).  Autophosphorylation eliminates initial kinetic lag, whereas A486V is constitutively rapid (Allen et al., 2015).  
+
+Transcriptional/trafficking regulation: expression up-regulated by c-Myc and C/EBP, down-regulated by miR-430a and miR-218a; reactive oxygen species elevate levels; antioxidants reduce them; sorting nexin-5 controls intracellular trafficking (Yang et al., 2022).
+
+## Function  
+Expression pattern: highest in testis, renal proximal tubule and cerebellum, with additional expression in brain and uterine myometrium (Gurevich et al., 2012; Allen et al., 2015).  
+
+Biological roles: phosphorylates activated GPCRs to promote β-arrestin-mediated desensitisation (Pitcher et al., 1998).  In renal proximal tubule cells, hyper-phosphorylation of D1R, AT1R and AdipoR1 disrupts natriuretic signalling and enhances sodium reabsorption, influencing blood pressure (Yang et al., 2022).  Upstream modulators include PKC-ε, Ca²⁺/calmodulin (isoform-specific) and PIP₂ binding via the basic N-terminal segment (Yang et al., 2022; Allen et al., 2015).  Over-expression induces cellular senescence, linking GRK4 activity to age-related hypertension (Yang et al., 2022).
+
+## Other Comments  
+Gain-of-function variants A142V and A486V accelerate autophosphorylation and kinase activity; A142V elevates blood pressure on normal-salt diet, A486V on high-salt diet (Yang et al., 2022).  The A486V structure (PDB 4YHJ) shows partial active-site closure and enhanced Ser485 phosphorylation, explaining hyperactivity (Allen et al., 2015).  Polymorphism R65L maps to the RH domain four-helix bundle implicated in Gαq binding (Allen et al., 2015).  Four splice isoforms (α, β, γ, δ) differ in RH and C-terminal regions; only α retains high-affinity calmodulin binding (Unknown authors, 2007).
+
+## References  
+Allen, S., Parthasarathy, G., Darke, P., Diehl, R., Ford, R. E., Hall, D., Johnson, S. A., Reid, J., Rickert, K., Shipman, J., Soisson, S., Zuck, P., Munshi, S., & Lumb, K. (2015). Structure and function of the hypertension variant A486V of G protein-coupled receptor kinase 4. The Journal of Biological Chemistry, 290, 20360–20373. https://doi.org/10.1074/jbc.M115.648907  
+
+Benovic, J. L. (2021). Historical perspective of the G protein-coupled receptor kinase family. Cells, 10(3), 555. https://doi.org/10.3390/cells10030555  
+
+Gurevich, E. V., Tesmer, J. J. G., Mushegian, A., & Gurevich, V. V. (2012). G protein-coupled receptor kinases: more than just kinases and not only for GPCRs. Pharmacology & Therapeutics, 133, 40–69. https://doi.org/10.1016/j.pharmthera.2011.08.001  
+
+Komolov, K. E., Sulon, S. M., Bhardwaj, A., van Keulen, S. C., Duc, N. M., Laurinavichyute, D., Lou, H., Turk, B. E., Chung, K. Y., Dror, R. O., & Benovic, J. L. (2021). Structure of a GRK5–calmodulin complex reveals molecular mechanism of GRK activation and substrate targeting. Molecular Cell, 81, 1617–1634. https://doi.org/10.1016/j.molcel.2020.11.026  
+
+Pitcher, J. A., Freedman, N. J., & Lefkowitz, R. J. (1998). G protein–coupled receptor kinases. Annual Review of Biochemistry, 67, 653–692. https://doi.org/10.1146/annurev.biochem.67.1.653  
+
+Sato, P. Y., Chuprun, J. K., Schwartz, M., & Koch, W. J. (2015). The evolving impact of G protein-coupled receptor kinases in cardiac health and disease. Physiological Reviews, 95, 377–404. https://doi.org/10.1152/physrev.00015.2014  
+
+Yang, J., Hall, J. E., Jose, P. A., Chen, K., & Zeng, C. (2022). Comprehensive insights in GRK4 and hypertension: From mechanisms to potential therapeutics. Pharmacology & Therapeutics, 108194. https://doi.org/10.1016/j.pharmthera.2022.108194  
+
+Unknown authors. (2007). Nuclear localisation and function of the G protein-coupled receptor kinase 4 subfamily.  
+
+Unknown authors. (2009). Identification of a conserved cluster in the RH domain of GRK critical for activation by GPCRs.

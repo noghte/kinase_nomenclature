@@ -1,0 +1,55 @@
+## Phylogeny  
+Human TBK1 is 99 % identical to mouse TBK1, underscoring strong conservation across mammals (Revach et al., 2020, pp. 1–3). It belongs to the non-canonical IκB-kinase (IKK-related) subfamily within the CAMK-like group and clusters most closely with IKKε (49 % identity in the kinase domain; Xiang et al., 2021, pp. 1–2). Sequence identity with canonical IKKα/IKKβ is only ~28–35 %, consistent with early divergence inside the broader IKK clade (Tu et al., 2013, pp. 2–4; Larabi et al., 2013, pp. 1–2). Orthologues occur throughout vertebrates, and residues that mediate dimerisation or carry regulatory lysines are conserved from fish to mammals (Tu et al., 2013, pp. 4–5).
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr ⇌ ADP + phosphoprotein-L-Ser/Thr (Ma et al., 2012, p. 1).
+
+## Cofactor Requirements  
+Catalytic turnover requires ATP binding and a divalent metal ion; activity is Mg²⁺/Mn²⁺-dependent (metal not explicitly specified) (Revach et al., 2020, pp. 14–15).
+
+## Substrate Specificity  
+Peptide profiling reveals preference for a bulky hydrophobic residue (Leu/Ile) immediately C-terminal to the phospho-acceptor, generating a φ-X-S/T-φ consensus (Helgason et al., 2013, pp. 3–5). Structural work supports broad tolerance at other positions while retaining the +1 hydrophobic requirement (Ma et al., 2012, pp. 5–6).
+
+## Structure  
+TBK1 comprises a kinase domain (1–307), ubiquitin-like domain (ULD, 310–385), scaffold/dimerisation domain (SDD, 407–657) and a C-terminal adaptor-binding tail (657–729) (Revach et al., 2020, pp. 1–3). Full-length crystal structures show a back-to-back homodimer where each KD-ULD-SDD module forms an elongated subunit; the interface does not occlude active sites (Tu et al., 2013, pp. 2–4). The activation loop (Leu164–Gly199) is disordered in the apo state; trans-autophosphorylation of Ser172 orders the loop and locks the C-helix via Glu55–Lys38 and multiple Arg contacts (Xiang et al., 2021, pp. 1–2). An activation-loop-swapped dimer captured in PDB 4EUT/4EUU illustrates this mechanism (Ma et al., 2012, p. 1). Inhibitor complexes (e.g., BX795, amlexanox) form a conserved hinge H-bond with Cys89 and highlight pocket plasticity (Xiang et al., 2021, pp. 9–10). The ULD “EGR” motif (E355/R357) engages SDD residue R547; mutations disrupt dimer stability and abolish activation (Tu et al., 2013, pp. 4–5).
+
+## Regulation  
+Phosphorylation: Ser172 autophosphorylation is essential (Larabi et al., 2013, pp. 1–2); Tyr179 phosphorylation by Src augments activity (Zhao & Zhao, 2019, pp. 7–10); Ser716 by PKCθ modulates signal amplitude (Revach et al., 2020, pp. 3–4); Ser527 by DYRK2 directs proteasomal turnover (Zhao & Zhao, 2019, pp. 7–10).  
+Dephosphorylation: PPM1B, PP4, Cdc25A and PPM1A remove pSer172 (Revach et al., 2020, pp. 14–15).  
+Ubiquitination: K63-linked chains on Lys30/Lys401 installed by TRAF-family E3s (MIB1/2, RNF128, RNF144B, RNF41) are required for activation; CYLD and USP2b reverse this, while K48-linked chains promote degradation (Revach et al., 2020, pp. 3–4).  
+SUMOylation: Lys694 modification enhances antiviral signalling (Revach et al., 2020, pp. 3–4).  
+Higher-order assembly: K63-Ub chains together with adaptors TANK, NAP1 and SINTBAD cluster TBK1 molecules for trans-autophosphorylation (Tu et al., 2013, pp. 8–9).
+
+## Function  
+TBK1 is constitutively expressed in most tissues and is enriched in immune cells, hepatocytes and many tumours (Hui et al., 2025, pp. 1–2). Upstream activators include TLR3/4-TRIF, RIG-I/MAVS and cGAS-STING pathways (Revach et al., 2020, pp. 3–4). Core adaptors/interactors—TANK, NAP1, SINTBAD, TRAF3, TRAF2, STING, OPTN and NDP52—govern localisation and signalling output (Helgason et al., 2013, pp. 1–2). Substrates encompass IRF3, IRF7, STING Ser366, RIPK1, Rab7, PLK1, CEP170, NUMA and AKT (Revach et al., 2020, pp. 6–7, 27–29; Unknown Authors, 2020, pp. 66–69). Outputs include type I interferon induction, NF-κB activation, selective autophagy/mitophagy, regulation of apoptosis-necroptosis decisions and support of KRAS-driven oncogenic survival via the RalB–Sec5 axis (Tu et al., 2013, pp. 2–4).
+
+## Inhibitors  
+BX795 (IC₅₀ ≈ 1 nM; PDB 4IW0), MRT67307 (19 nM), GSK8612 (highly selective), Amlexanox (0.85 µM; PDB 5W5V), CYT387/Momelotinib (58 nM), Cmpd1 (1 nM), BAY-985 (2 nM) and the pre-clinical agents Compound II and DMXD-011 demonstrate potent TBK1 inhibition (Revach et al., 2020, pp. 23–29; Xiang et al., 2021, pp. 9–10; Hui et al., 2025, pp. 12–14; Tu et al., 2013, pp. 4–5).
+
+## Other Comments  
+Germline deletion of Tbk1 in mice causes embryonic lethality due to hepatocyte apoptosis (Revach et al., 2020, pp. 6–7). ALS/FTD-linked variants (e.g., K38D, S172A, G175S, CCD2 deletions) impair dimerisation, autophosphorylation or adaptor binding, leading to defective autophagy and neuro-inflammation (Umair et al., 2021, pp. 1–2; Foster et al., 2020, pp. 1–2; Oakes et al., 2017, pp. 1–2). Hyper-activated TBK1 supports survival of KRAS-mutant lung and pancreatic cancers, offering a synthetic-lethal vulnerability (Tu et al., 2013, pp. 2–4).
+
+## References  
+Foster, A., Downing, P., Figredo, E., Polain, N., Stott, A., Layfield, R., & Rea, S. (2020). ALS-associated TBK1 variant p.G175S is defective in phosphorylation of p62 and impacts TBK1-mediated signalling and TDP-43 autophagic degradation. Molecular and Cellular Neuroscience, 103539. https://doi.org/10.1016/j.mcn.2020.103539  
+
+Helgason, E., Phung, Q. T., & Dueber, E. C. (2013). Recent insights into the complexity of tank-binding kinase 1 signalling networks: the emerging role of cellular localisation in the activation and substrate specificity of TBK1. FEBS Letters. https://doi.org/10.1016/j.febslet.2013.01.059  
+
+Hui, L., Chen, X., Huang, M.-k., Jiang, Y.-M., & Liu, T. (2025). Tank-binding kinase 1 in the pathogenesis and treatment of inflammation-related diseases. International Journal of Molecular Sciences, 26, 1941. https://doi.org/10.3390/ijms26051941  
+
+Larabi, A., Devos, J., Ng, S.-L., Nanao, M., Round, A., Maniatis, T., & Panne, D. (2013). Crystal structure and mechanism of activation of tank-binding kinase 1. Cell Reports, 3(3), 734–746. https://doi.org/10.1016/j.celrep.2013.01.034  
+
+Ma, X., Helgason, E., Phung, Q. T., Quan, C. L., Iyer, R. S., Lee, M. W., Bowman, K. K., Starovasnik, M. A., & Dueber, E. C. (2012). Molecular basis of tank-binding kinase 1 activation by trans-autophosphorylation. Proceedings of the National Academy of Sciences, 109, 9378–9383. https://doi.org/10.1073/pnas.1121552109  
+
+Oakes, J. A., Davies, M. C., & Collins, M. O. (2017). TBK1: a new player in ALS linking autophagy and neuro-inflammation. Molecular Brain. https://doi.org/10.1186/s13041-017-0287-x  
+
+Revach, O.-Y., Liu, S., & Jenkins, R. (2020). Targeting tank-binding kinase 1 (TBK1) in cancer. Expert Opinion on Therapeutic Targets, 24, 1065–1078. https://doi.org/10.1080/14728222.2020.1826929  
+
+Tu, D., Zhu, Z., Zhou, A., Yun, C., Lee, K.-E., Toms, A., Li, Y., Dunn, G., Chan, E. M., Thai, T. C., Yang, S., Ficarro, S., Marto, J., Jeon, H., Hahn, W., Barbie, D., & Eck, M. (2013). Structure and ubiquitination-dependent activation of tank-binding kinase 1. Cell Reports, 3(3), 747–758. https://doi.org/10.1016/j.celrep.2013.01.033  
+
+Umair, M., Khan, S., Mohammad, T., Shafie, A., Anjum, F., Islam, A., & Hassan, M. I. (2021). Impact of single amino acid substitution on the structure and function of tank-binding kinase-1. Journal of Cellular Biochemistry, 122, 1475–1490. https://doi.org/10.1002/jcb.30070  
+
+Unknown Authors. (2020). Regulation of intracellular traffic by TBK1 and its relevance to ALS (pp. 66–69).  
+
+Xiang, S., Song, S., Tang, H., Smaill, J. B., Wang, A., Xie, H., & Lu, X. (2021). Tank-binding kinase 1 (TBK1): an emerging therapeutic target for drug discovery. Drug Discovery Today, 26, 2445–2455. https://doi.org/10.1016/j.drudis.2021.05.016  
+
+Zhao, C., & Zhao, W. (2019). Tank-binding kinase 1 as a novel therapeutic target for viral diseases. Expert Opinion on Therapeutic Targets, 23, 437–446. https://doi.org/10.1080/14728222.2019.1601702

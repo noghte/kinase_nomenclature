@@ -1,0 +1,83 @@
+## Phylogeny  
+Orthologues of KSR1/KSR2 are present from nematodes to vertebrates (Caenorhabditis elegans ksr-1/ksr-2, Drosophila D-ksr, Xenopus Ksr, Danio ksr1, Rattus Ksr1, Mus Ksr1, Homo KSR1/KSR2) (Kornfeld et al., 1995; Zhang, 2014).  
+Within the human kinome the protein groups with Tyrosine-Kinase-Like (TKL) members and clusters with RAF-related pseudokinases sharing the conserved CA1–CA5 regions (Clapé-ron & Therrien, 2007; Martín-Vega & Cobb, 2023). KSR proteins are evolutionarily related to RAF MAP3Ks but have lost the canonical Ras-binding domain and catalytic β3-lysine, consistent with specialization for scaffolding and allosteric regulation (Clapé-ron & Therrien, 2007).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + L-seryl/threonyl-P-[protein] (demonstrated in vitro) (Goettel et al., 2011).
+
+## Cofactor Requirements  
+ATP binding is essential for structural integrity; the requirement for a divalent metal ion (e.g., Mg²⁺) remains unresolved (Goettel et al., 2011; Roskoski, 2012).
+
+## Substrate Specificity  
+The only validated substrate is MAP2K1/MEK1, which is phosphorylated on non-activation-segment serines in vitro (Goettel et al., 2011; Roskoski, 2012). No consensus phosphorylation motif has been defined (Neilsen et al., 2017).
+
+## Structure  
+Domain layout:  
+• CA1 – CC-SAM that binds the BRAF-specific BRS motif and aids membrane recruitment (Lavoie et al., 2018).  
+• CA2 – proline-rich segment (Frodyma et al., 2017).  
+• CA3 – atypical C1/CRD conferring lipid-dependent plasma-membrane localisation (Clapé-ron & Therrien, 2007).  
+• CA4 – Ser/Thr-rich region containing an FXFP ERK-docking site (Frodyma et al., 2017).  
+• CA5 – C-terminal pseudokinase domain where Arg637 replaces the catalytic Lys; HRD and DFG motifs are retained (Martín-Vega & Cobb, 2023).
+
+Crystal structures of MEK-bound KSR1/2 kinase domains (PDB 5UHV, 6B8C) reveal an αC-OUT inactive conformation with an incomplete hydrophobic spine and an unphosphorylated activation loop. Helix αG contacts MEK, while the N-lobe mediates side-to-side heterodimerisation with BRAF (Chow et al., 2022; Khan et al., 2020; Maloney et al., 2022). MEK binding stabilises the KSR C-lobe and promotes BRAF–KSR heterodimer formation (Lavoie et al., 2018).
+
+## Regulation  
+Phosphorylation  
+• Ser297, Ser392: constitutive C-TAK1 sites that generate 14-3-3 docking motifs, retaining KSR1 in the cytosol (Cacace et al., 1999; Müller et al., 2001).  
+• Thr260, Thr274, Ser443: Ras-inducible ERK sites mediating feedback (Cacace et al., 1999).  
+• Ser392 is dephosphorylated by PP2A after growth-factor stimulation, enabling membrane translocation (Clapé-ron & Therrien, 2007).
+
+Ubiquitination  
+Praja2 poly-ubiquitinates KSR1, directing proteasomal degradation (Goettel et al., 2011).
+
+Conformational/allosteric control  
+MEK occupancy drives BRAF–KSR heterodimerisation and BRAF activation; the ATP-site ligand APS-2-79 locks the αC-OUT state and blocks RAF interaction (Frodyma et al., 2017; Lavoie et al., 2018).
+
+Chaperones  
+HSP90, HSP70, HSP68 and p50 CDC37 associate with the kinase domain and stabilise the protein (Stewart et al., 1999).
+
+## Function  
+KSR1 is highly expressed in brain and is detectable in T cells and colonic epithelium (Frodyma et al., 2017; Goettel et al., 2011). It constitutively binds MEK1/2 and forms stimulus-induced heterodimers with BRAF and RAF1; additional partners include ERK1/2, 14-3-3, PP2A, inosine-monophosphate dehydrogenase (IMP), and HSP90 complexes (McKay et al., 2009; Stewart et al., 1999). Acting as a scaffold and MEK-dependent allosteric regulator, KSR1 modulates amplitude and duration of signals transmitted through the RAS–RAF–MEK–ERK cascade downstream of receptor tyrosine-kinase or cAMP inputs (Neilsen et al., 2017).
+
+## Inhibitors  
+APS-2-79 binds the nucleotide pocket, prevents KSR1–BRAF heterodimerisation and dampens Ras-dependent ERK signalling (Neilsen et al., 2017; Chow et al., 2022).
+
+## Other Comments  
+Ksr1-null mice are viable but display resistance to Ras-driven tumourigenesis (Neilsen et al., 2017). Reported oncogenic mutations include C809Y (disrupts MEK binding yet enhances ERK activation) and P505A (alters kinase-domain integrity) (Frodyma et al., 2017; Unknown Authors, 2010).
+
+## References  
+Brennan, D. F., Dar, A. C., Hertz, N. T., Chao, W. C., Burlingame, A. L., Shokat, K. M., & Barford, D. (2011). A RAF-induced allosteric transition of KSR stimulates phosphorylation of MEK. Nature, 472, 366–369. https://doi.org/10.1038/nature09860  
+
+Cacace, A. M., Michaud, N. R., Therrien, M., Mathes, K., Copeland, T., Rubin, G. M., & Morrison, D. K. (1999). Identification of constitutive and Ras-inducible phosphorylation sites of KSR. Molecular and Cellular Biology, 19, 229–240. https://doi.org/10.1128/MCB.19.1.229  
+
+Chow, A., Khan, Z. M., Marsiglia, W., & Dar, A. C. (2022). Conformational control and regulation of the pseudokinase KSR via small-molecule binding interactions. Methods in Enzymology, 667, 365–402. https://doi.org/10.1016/bs.mie.2022.03.039  
+
+Clapé-ron, A., & Therrien, M. (2007). KSR and CNK: two scaffolds regulating Ras-mediated RAF activation. Oncogene, 26, 3143–3158. https://doi.org/10.1038/sj.onc.1210408  
+
+Frodyma, D. E., Neilsen, B. K., Costanzo-Garvey, D., Fisher, K. W., & Lewis, R. E. (2017). Coordinating ERK signalling via the molecular scaffold kinase suppressor of Ras. F1000Research. https://doi.org/10.12688/f1000research.11895.1  
+
+Goettel, J., Liang, D.-C., Hilliard, V. C., Edelblum, K. L., Broadus, M. R., Gould, K. L., Hanks, S. K., & Polk, D. B. (2011). KSR1 is a functional protein kinase capable of serine autophosphorylation and direct phosphorylation of MEK1. Experimental Cell Research, 317, 452–463. https://doi.org/10.1016/j.yexcr.2010.11.018  
+
+Khan, Z. M., Real, A. M., Marsiglia, W. M., Chow, A., Duffy, M. E., Yerabolu, J. R., Scopton, A. P., & Dar, A. C. (2020). Structural basis for the action of the drug trametinib at KSR-bound MEK. Nature, 588, 509–514. https://doi.org/10.1038/s41586-020-2760-4  
+
+Kornfeld, K., Hom, D. B., & Horvitz, H. R. (1995). The ksr-1 gene encodes a novel protein kinase involved in Ras-mediated signalling in C. elegans. Cell, 83, 903–913. https://doi.org/10.1016/0092-8674(95)90206-6  
+
+Lavoie, H., Sahmi, M., Maisonneuve, P., Marullo, S., Thevakumaran, N., Jin, T., Kurinov, I., Sicheri, F., & Therrien, M. (2018). MEK drives BRAF activation through allosteric control of KSR proteins. Nature, 554, 549–553. https://doi.org/10.1038/nature25478  
+
+Maloney, R. C., Zhang, M., Liu, Y., Jang, H., & Nussinov, R. (2022). The mechanism of activation of MEK1 by B-RAF and KSR1. Cellular and Molecular Life Sciences. https://doi.org/10.1007/s00018-022-04296-0  
+
+Martín-Vega, A., & Cobb, M. H. (2023). Navigating the ERK1/2 MAPK cascade. Biomolecules, 13, 1555. https://doi.org/10.3390/biom13101555  
+
+McKay, M. M., Ritt, D. A., & Morrison, D. K. (2009). Signalling dynamics of the KSR1 scaffold complex. Proceedings of the National Academy of Sciences, 106, 11022–11027. https://doi.org/10.1073/pnas.0901590106  
+
+Müller, J., Ory, S., Copeland, T., Piwnica-Worms, H., & Morrison, D. K. (2001). C-TAK1 regulates Ras signalling by phosphorylating the MAPK scaffold, KSR1. Molecular Cell, 8, 983–993. https://doi.org/10.1016/S1097-2765(01)00383-5  
+
+Neilsen, B. K., Frodyma, D. E., Lewis, R. E., & Fisher, K. W. (2017). KSR as a therapeutic target for Ras-dependent cancers. Expert Opinion on Therapeutic Targets, 21, 499–509. https://doi.org/10.1080/14728222.2017.1311325  
+
+Roskoski, R. (2012). MEK1/2 dual-specificity protein kinases: structure and regulation. Biochemical and Biophysical Research Communications, 417, 5–10. https://doi.org/10.1016/j.bbrc.2011.11.145  
+
+Stewart, S., Sundaram, M., Zhang, Y., Lee, J., Han, M., & Guan, K.-L. (1999). Kinase suppressor of Ras forms a multiprotein signalling complex and modulates MEK localization. Molecular and Cellular Biology, 19, 5523–5534. https://doi.org/10.1128/MCB.19.8.5523  
+
+Unknown Authors. (2010). Kinase suppressor of Ras 1 is a functional protein kinase and protects from experimental colitis in mice by regulating T lymphocyte IFN-γ production (pp. 19–23).
+
+Zhang, H.-Y. (2014). Identification of KSR1 as a novel target and decoding tyrosine kinase proteome in breast cancer (pp. 42–46). https://doi.org/10.25560/34315

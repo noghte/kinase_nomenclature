@@ -1,0 +1,35 @@
+## Phylogeny  
+MAP3K19 (also called YSK4) belongs to the STE20/SPS1-related branch of the MAP3K tier within the human Ser/Thr kinome (Johnson et al., 2023; Osada et al., 1997). The YSK sub-family comprises four human paralogues (YSK1–4) that form a clade distinct from the RAF, MLK and TAK MAP3K groups (Osada et al., 1997). The MAP3K19 kinase domain shares ~60 % sequence similarity with the yeast MAPKKKs Ste11, Byr2 and Bck1, underscoring evolutionary conservation, although orthologues outside mammals have not been reported (Osada et al., 1997).
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + protein-Ser/Thr-phosphate (Hoang et al., 2020).
+
+## Cofactor Requirements  
+No divalent-metal or other cofactor dependence has been reported in the available biochemical studies (Hoang et al., 2020).
+
+## Substrate Specificity  
+Confirmed cellular substrates are MEK1/2 (MAP2K1/2) and MKK7 (MAP2K7) (Hoang et al., 2020). MAP3K19 appears in a kinome-wide substrate-specificity atlas, but no consensus phosphorylation motif was provided (Johnson et al., 2023).
+
+## Structure  
+The protein contains an N-terminal regulatory segment of undefined architecture followed by a C-terminal Ser/Thr kinase domain harbouring the hallmark VAIK, HRD and DFG motifs typical of MAP3Ks (Osada et al., 1997). An acidic residue–rich stretch immediately precedes the PSTAIR sequence, a feature noted for YSK family members (Osada et al., 1997). No crystallographic or cryo-EM structure is available; an AlphaFold model predicts the canonical bilobal kinase fold (Johnson et al., 2023).
+
+## Regulation  
+Mutation of the conserved active-site lysine abolishes catalytic activity, preventing phosphorylation of MEK, ERK and JNK in cells (Hoang et al., 2020). Downstream MAPK phosphorylation is reversed by λ-protein phosphatase, indicating phosphorylation-dependent signalling (Hoang et al., 2020). Autophosphorylation has been observed for the paralogous kinase YSK1, suggesting a potential self-activation mechanism within the family (Osada et al., 1997). No additional post-translational modifications, allosteric regulators or scaffold interactions have been reported.
+
+## Function  
+MAP3K19 directly phosphorylates MEK1/2 and MKK7, thereby activating ERK1/2 and JNK pathways independently of RAF activity (Hoang et al., 2020). The kinase is essential for survival and proliferation of KRAS-mutant lung cancer cells; shRNA knock-down or pharmacological inhibition diminishes ERK/JNK phosphorylation and reduces cell viability (Hoang et al., 2020). Upstream stimuli include cigarette-smoke exposure, and the kinase is implicated in TGF-β-mediated pulmonary fibrosis (Nguyen et al., 2022). MAP3K19 is over-expressed in lungs from chronic obstructive pulmonary disease (COPD) patients (Hoang et al., 2020). High MAP3K19 mRNA correlates with improved survival in bladder, breast, liver and several other carcinomas, but with poorer survival in kidney renal clear cell, kidney renal papillary and lung squamous carcinomas (Nguyen et al., 2022).
+
+## Inhibitors  
+Broad-spectrum kinase inhibitors—including AT-9283, an NVP compound and several GSK series molecules—suppress MAP3K19-dependent phosphorylation of MEK/ERK/JNK and reduce viability of KRAS-mutant lung adenocarcinoma cells, although direct biochemical potency against purified MAP3K19 has not been reported. No selective inhibitor has yet been described (Hoang et al., 2020).
+
+## Other Comments  
+Disease associations encompass COPD, cigarette smoke–induced lung inflammation, idiopathic pulmonary fibrosis and oncogenic signalling in KRAS-mutant lung cancer. No disease-linked missense mutations or germline variants were reported in the cited studies (Hoang et al., 2020; Nguyen et al., 2022).
+
+## References  
+Hoang, V. T., Nyswaner, K., Torres-Ayuso, P., & Brognard, J. (2020). The protein kinase MAP3K19 phosphorylates MAP2Ks and thereby activates ERK and JNK kinases and increases viability of KRAS-mutant lung cancer cells. Journal of Biological Chemistry, 295, 8470–8479. https://doi.org/10.1074/jbc.RA119.012365  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Nguyen, K., Tran, M. N., Rivera, A., Cheng, T., Windsor, G. O., Chabot, A. B., … Burow, M. E. (2022). MAP3K family review and correlations with patient survival outcomes in various cancer types. Frontiers in Bioscience-Landmark, 27, 167. https://doi.org/10.31083/j.fbl2705167  
+
+Osada, S., Izawa, M., Saito, R., Mizuno, K., Suzuki, A., Hirai, S., & Ohno, S. (1997). YSK1, a novel mammalian protein kinase structurally related to Ste20 and SPS1, but not involved in the known MAPK pathways. Oncogene, 14, 2047–2057. https://doi.org/10.1038/sj.onc.1201043

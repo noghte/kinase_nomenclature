@@ -1,0 +1,57 @@
+## Phylogeny  
+PRKG2 encodes the type II cGMP-dependent protein kinase (cGK II), one of only two such kinases in mammals; the other gene, PRKG1, encodes cGK I. cGK II belongs to the AGC / cyclic-nucleotide-dependent branch of the kinome and is most closely related to cGK I, with greater evolutionary distance from the Drosophila DG1/DG2 kinases (Vaandrager et al., 2005; Bijvelds et al., 2018). Orthologues with intact catalytic domains are conserved in mouse, rat, cattle, dog and human, and loss-of-function alleles in each species cause proportionate dwarfism, highlighting strong functional conservation (Koltes et al., 2009; Bijvelds et al., 2018; Garcés et al., 2021).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (Vaandrager et al., 2005).  
+
+## Cofactor Requirements  
+Requires Mg²⁺ for efficient ATP binding and phosphotransfer (Bijvelds et al., 2018).  
+
+## Substrate Specificity  
+• Preferred consensus motif: RRXS/T with two basic residues N-terminal to the phospho-acceptor (Vaandrager et al., 2005).  
+• Validated substrates:  
+  – CFTR regulatory domain; phosphorylation at Ser700 and additional sites activates chloride conductance (Vaandrager et al., 2005).  
+  – Raf-1; phosphorylation at Ser43 suppresses FGF-induced ERK1/2 signalling in chondrocytes (Díaz-González et al., 2022).  
+
+## Structure  
+cGK II forms a parallel homodimer of 762-aa subunits. Dimerisation is mediated by an N-terminal leucine-zipper that is myristoylated for membrane anchoring (Vaandrager et al., 2005; Bijvelds et al., 2018). Domain layout: N-terminal myristoylation signal + leucine-zipper, autoinhibitory pseudosubstrate, two cyclic-nucleotide-binding domains (CNB-A low-affinity, CNB-B high-affinity; order reversed relative to cGK I), and a C-terminal Ser/Thr kinase domain containing canonical HRD and DFG motifs (Bijvelds et al., 2018; Kim et al., 2011). Crystal and modelling studies show that cGMP binding induces conformational changes that displace the pseudosubstrate and align catalytic elements for activity (Kim et al., 2011).  
+
+## Regulation  
+• Allosterically activated by cGMP binding to CNB-A and CNB-B (Akgun-Dogan et al., 2024; Kim et al., 2011).  
+• Autophosphorylation at Ser110, Ser114, Ser126 and Ser445 modulates activation kinetics and can confer partial cGMP independence (Vaandrager et al., 2005).  
+• N-terminal myristoylation is essential for membrane association and efficient phosphorylation of membrane substrates such as CFTR (Vaandrager et al., 2005).  
+• Association with PDZ-domain scaffolds NHERF2/E3KARP positions the kinase at the apical membrane near CFTR and NHE3 (Vaandrager et al., 2005).  
+• High intracellular ATP concentrations elevate the cGMP EC₅₀ and alter autophosphorylation patterns, indicating competition between ATP and cGMP at catalytic and regulatory sites (Vaandrager et al., 2005).  
+
+## Function  
+Expression is high in intestinal epithelium, growth-plate cartilage, brain, kidney, lung and pancreas (Koltes et al., 2009; Vaandrager et al., 2005).  
+• Intestinal secretion: phosphorylates CFTR and inhibits NHE3 downstream of guanylin/uroguanylin–GC-C signalling; Prkg2-null mice show impaired jejunal chloride and water secretion (Vaandrager et al., 2005; Bijvelds et al., 2018).  
+• Skeletal development: acts downstream of CNP/NPR-B; Raf-1 Ser43 phosphorylation dampens FGF2-ERK1/2 signalling, enabling chondrocyte hypertrophy; PRKG2 loss causes dwarfism in several species (Díaz-González et al., 2022; Koltes et al., 2009).  
+• Transcriptional control: phosphorylates SOX9, limiting its nuclear entry and modulating COL2A1/COL10A1 expression during endochondral ossification (Garcés et al., 2021).  
+• Neuronal signalling: regulates synaptic plasticity via phosphorylation-dependent trafficking of the AMPA-receptor subunit GRIA1 (Bonnet et al., 2010).  
+• Renal and adrenal epithelia: phosphorylates TRPV5 and StAR, contributing to calcium reabsorption and aldosterone synthesis (Vaandrager et al., 2005).  
+
+## Inhibitors  
+Imidazole-aminopyrimidines AP-C5 and AP-C6 are ATP-competitive inhibitors that selectively block cGK II over cGK I and PKA in cells (Bijvelds et al., 2018). KT5823 and the peptide DT-2 inhibit PKG activity in vitro but show limited potency or isoform selectivity in intact cells (Bijvelds et al., 2018).  
+
+## Other Comments  
+Pathogenic PRKG2 variants—p.Asn164Lysfs*2, p.Arg569*, p.Asp761Glufs*34, p.Val470Gly in humans; p.Arg678* in cattle; splice-site c.1634+1G>T in Dogo Argentino dogs—abolish kinase activity and cause autosomal-recessive acromesomelic dysplasia or disproportionate dwarfism (Díaz-González et al., 2022; Akgun-Dogan et al., 2024; Pagnamenta et al., 2022; Koltes et al., 2009; Garcés et al., 2021). Loss-of-function prevents Raf-1 Ser43 phosphorylation leading to unchecked ERK1/2 activity in growth-plate cartilage (Díaz-González et al., 2022; Akgun-Dogan et al., 2024).  
+
+## 9. References  
+Akgun-Dogan, O., Díaz-González, F., de Lima Jorge, A. A., Onenli-Mungan, N., Liberatoscioli Menezes Andrade, N., de Polli Cellin, L., … Heath, K. (2024). Two new patients with acromesomelic dysplasia, PRKG2 type—identification and characterization of the first missense variant. European Journal of Human Genetics. https://doi.org/10.1038/s41431-023-01472-z  
+
+Bijvelds, M., Tresadern, G., Hellemans, A., Smans, K., Nieuwenhuijze, N. D. A., Meijsen, K. F., … De Maeyer, J. H. (2018). Selective inhibition of intestinal guanosine 3′,5′-cyclic monophosphate signaling by small-molecule protein kinase inhibitors. Journal of Biological Chemistry, 293, 8173–8181. https://doi.org/10.1074/jbc.ra118.002835  
+
+Bonnet, C., Andrieux, J., Beri-Dexheimer, M., Leheup, B., Boute, O., Manouvrier, S., … Sanlaville, D. (2010). Microdeletion at chromosome 4q21 defines a new emerging syndrome with marked growth restriction, mental retardation and absent or severely delayed speech. Journal of Medical Genetics, 47, 377–384. https://doi.org/10.1136/jmg.2009.071902  
+
+Díaz-González, F., Wadhwa, S., Rodriguez-Zabala, M., Kumar, S., Aza-Carmona, M., Sentchordi-Montané, L., … Heath, K. (2022). Biallelic cGMP-dependent type II protein kinase gene (PRKG2) variants cause a novel acromesomelic dysplasia. Journal of Medical Genetics, 59, 28–38. https://doi.org/10.1136/jmedgenet-2020-107177  
+
+Garcés, G. R., Turba, M., Muracchini, M., Diana, A., Jagannathan, V., Gentilini, F., & Leeb, T. (2021). PRKG2 splice-site variant in Dogo Argentino dogs with disproportionate dwarfism. Genes, 12, 1489. https://doi.org/10.3390/genes12101489  
+
+Kim, J. J., Casteel, D. E., Huang, G., Kwon, T. H., Ren, R. K., Zwart, P., … Kim, C. (2011). Co-crystal structures of PKG Iβ (92–227) with cGMP and cAMP reveal the molecular details of cyclic-nucleotide binding. PLoS ONE, 6, e18413. https://doi.org/10.1371/journal.pone.0018413  
+
+Koltes, J. E., Mishra, B. P., Kumar, D., Kataria, R. S., Totir, L. R., Fernando, R. L., … Reecy, J. M. (2009). A nonsense mutation in cGMP-dependent type II protein kinase (PRKG2) causes dwarfism in American Angus cattle. Proceedings of the National Academy of Sciences, 106, 19250–19255. https://doi.org/10.1073/pnas.0904513106  
+
+Pagnamenta, A. T., Díaz-González, F., Banos-Pinero, B., Ferla, M. P., Toosi, M. B., Calder, A. D., … Taylor, J. C. (2022). Variable skeletal phenotypes associated with biallelic variants in PRKG2. Journal of Medical Genetics, 59, 947–950. https://doi.org/10.1136/jmedgenet-2021-108027  
+
+Vaandrager, A., Hogema, B., & de Jonge, H. D. (2005). Molecular properties and biological functions of cGMP-dependent protein kinase II. Frontiers in Bioscience, 10, 2150–2164. https://doi.org/10.2741/1687

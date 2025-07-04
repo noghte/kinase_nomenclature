@@ -1,0 +1,40 @@
+## Phylogeny  
+Male germ cell-associated kinase (MAK) belongs to the CMGC group, Ime2/MAK/ICK subfamily, and its catalytic core is most closely related to CDK2 and ERK2 (Fu et al., 2006; Hanks, 2003).  Two human paralogues exist—intestinal cell kinase (ICK/MRK, > 90 % identity within the kinase domain) and CDKL5—and MAK and ICK show overlapping roles in ciliary regulation (Fu et al., 2006; Chaya et al., 2024).  Documented orthologues include S. cerevisiae Ime2p, S. pombe Mde3/Pit1, C. elegans DYF-5, C. reinhardtii and L. mexicana MAK homologues, and mouse Mak (Fu et al., 2006; Özgül et al., 2011).
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-Ser/Thr-phosphate (Fu et al., 2006).
+
+## Cofactor Requirements  
+Mg²⁺ is required for phosphotransfer activity; in-vitro assays were performed in Mg²⁺-containing buffers (Fu et al., 2006).
+
+## Substrate Specificity  
+MAK prefers the consensus sequence R-P-X-S/T-P, demanding an Arg at –3 and generally a Pro at –2/–1; a Pro at +2 is tolerated (Fu et al., 2006).  Verified cellular substrates include the APC/C activator CDH1/FZR1 (multiple RPX-S/T sites) and Scythe/BAT3 at Thr1080 (Fu et al., 2006; Wang & Kung, 2012).
+
+## Structure  
+The protein comprises an N-terminal kinase domain (~ residues 1–300) bearing the TDY activation motif and a Pro/Gln-rich C-terminal tail (~ 301–622) (Matsushime et al., 1990; Wang & Kung, 2012).  Conserved catalytic elements include the VAIK Lys, HRD triad and activation-loop Thr157-Asp158-Tyr159 (Wang & Kung, 2012).  An AlphaFold model (AF-P20794-F1) predicts a canonical bilobed CMGC fold with an ordered activation segment; no experimental structure is yet available (Chaya et al., 2024).
+
+## Regulation  
+Activity requires dual activation-loop phosphorylation: Thr157 is added by CCRK, whereas Tyr159 is autophosphorylated by MAK (Fu et al., 2006).  PP5 removes the Thr157 phosphate, counteracting CCRK-mediated activation (Fu et al., 2006).  TDY phosphorylation peaks in G2/early M phase and wanes at mitotic exit; the kinase is nuclear during interphase, relocates to spindle poles, centrosomes and the midbody during mitosis, and accumulates at ciliary tips in photoreceptors (Wang & Kung, 2012; Chaya et al., 2024).
+
+## Function  
+Expression is high in pachytene and later testicular germ cells, retinal photoreceptors (long isoform containing exon 13) and is up-regulated in prostate cancer cells (Matsushime et al., 1990; Özgül et al., 2011; Wang & Kung, 2012).  
+• Ciliogenesis: MAK localises to ciliary tips, restricts axonemal length, governs IFT turnaround downstream of CCRK and is essential for long-term photoreceptor survival (Chaya et al., 2024).  
+• Cell-cycle control: Phosphorylation of CDH1/FZR1 suppresses APC/C^CDH1, stabilising Aurora A and PLK1 and promoting centrosome amplification and chromosome lagging (Wang & Kung, 2012).  
+• Transcriptional signalling: Acts as an androgen-receptor co-activator, enhancing androgen-dependent proliferation (Wang & Kung, 2012).  
+• Germ-cell survival: Phosphorylates Scythe/BAT3 Thr1080, contributing to anti-apoptotic signalling (Fu et al., 2006).
+
+## Other Comments  
+Loss-of-function mutations within the kinase domain (e.g., Gly52, Asn171) abolish activity and cause autosomal-recessive retinitis pigmentosa (Özgül et al., 2011).  Over-expression is common in primary and castration-resistant prostate cancer and drives chromosomal instability via APC/C^CDH1 inhibition (Wang & Kung, 2012).
+
+## References  
+Chaya, T., Maeda, Y., Tsutsumi, R., Ando, M., Ma, Y., Kajimura, N., Tanaka, T., & Furukawa, T. (2024, May). Ccrk-mak/ick kinase signaling axis is a ciliary transport regulator essential for retinal photoreceptor maintenance. bioRxiv. https://doi.org/10.1101/2024.05.24.595694  
+
+Fu, Z., Larson, K. A., Chitta, R. K., Parker, S. A., Turk, B. E., Lawrence, M. W., Kaldis, P., Galaktionov, K., Cohn, S. M., Shabanowitz, J., Hunt, D. F., & Sturgill, T. W. (2006). Identification of yin-yang regulators and a phosphorylation consensus for male germ cell-associated kinase (mak)-related kinase. Molecular and Cellular Biology, 26, 8639–8654. https://doi.org/10.1128/MCB.00816-06  
+
+Hanks, S. K. (2003). Genomic analysis of the eukaryotic protein kinase superfamily: A perspective. Genome Biology, 4, 111. https://doi.org/10.1186/gb-2003-4-5-111  
+
+Matsushime, H., Jinno, A., Takagi, N., & Shibuya, M. (1990). A novel mammalian protein kinase gene (mak) is highly expressed in testicular germ cells at and after meiosis. Molecular and Cellular Biology, 10, 2261–2268. https://doi.org/10.1128/MCB.10.5.2261-2268.1990  
+
+Özgül, R. K., Siemiątkowska, A. M., Yücel, D., Myers, C. A., Collin, R. W. J., Zonneveld, M. N., Beryozkin, A., Banin, E., Hoyng, C. B., van den Born, L. I., Bose, R., Shen, W., Sharon, D., Cremers, F. P. M., Klevering, B. J., den Hollander, A. I., & Corbo, J. C. (2011). Exome sequencing and cis-regulatory mapping identify mutations in mak, a gene encoding a regulator of ciliary length, as a cause of retinitis pigmentosa. American Journal of Human Genetics, 89, 253–264. https://doi.org/10.1016/j.ajhg.2011.07.005  
+
+Wang, L.-Y., & Kung, H.-J. (2012). Male germ cell-associated kinase is overexpressed in prostate cancer cells and causes mitotic defects via deregulation of APC/C^Cdh1. Oncogene, 31, 2907–2918. https://doi.org/10.1038/onc.2011.464

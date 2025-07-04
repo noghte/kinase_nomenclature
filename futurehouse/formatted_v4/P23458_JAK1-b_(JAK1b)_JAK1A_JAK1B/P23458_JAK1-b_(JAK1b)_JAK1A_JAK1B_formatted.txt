@@ -1,0 +1,49 @@
+## Phylogeny  
+Tyrosine-protein kinase JAK1 belongs to the Tyrosine Kinase group, Janus kinase (JAK) family, which also includes JAK2, JAK3 and TYK2 (Alicea-Velázquez & Boggon, 2011; Glassman et al., 2022). JAK1 shares ≈23 % sequence identity and 48 % similarity with the other JAK paralogues (Liau et al., 2019). Orthologues are highly conserved in vertebrates; human JAK1 shows >90 % sequence identity with mouse and rat proteins (Knoops et al., 2011; Liau et al., 2019).
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + protein-L-tyrosine phosphate (Liau et al., 2019; Liu et al., 2009).
+
+## Cofactor Requirements  
+Catalysis requires divalent metal ions, with Mg²⁺ (preferred) or Mn²⁺ supporting activity; chelation of Mg²⁺ blocks ATP binding (Knoops et al., 2011; Liau et al., 2019).
+
+## Substrate Specificity  
+JAK1 preferentially phosphorylates tyrosines preceded (–1) by acidic residues and followed (+1) by Pro or aromatic residues (Yaron-Barir et al., 2024; Glassman et al., 2022). Consensus motifs are generally acidic (Liu et al., 2009). Documented cellular substrates include STAT1, STAT3, STAT5a and STAT5b (Knoops et al., 2011).
+
+## Structure  
+The 1 154-residue (~133 kDa) protein comprises an N-terminal FERM domain, an SH2 domain, a central pseudokinase (JH2) domain and a C-terminal catalytic kinase (JH1) domain (Knoops et al., 2011; Babon et al., 2014). Crystal structures of the isolated kinase domain (PDB 3EYG, 3EYH) show the canonical bilobal fold in a DFG-out conformation with a phosphorylated activation loop (Alicea-Velázquez & Boggon, 2011). Key ATP-site residues include Leu881, Val889, Leu959, Phe958, Leu1010 and Arg1007 (Sk et al., 2022). Structures for the FERM-SH2 and JH2-JH1 tandems are available, but a full-length structure has not yet been reported (Glassman et al., 2022; Liau et al., 2019).
+
+## Regulation  
+Activity is increased by trans-autophosphorylation of Y1034/Y1035 within the activation loop (Knoops et al., 2011; Wang et al., 2003). The pseudokinase (JH2) domain autoinhibits catalysis, lowering k_cat ~30-fold and increasing ATP affinity (Liau et al., 2019). Dephosphorylation by PTP1B reverses activation (Liau et al., 2019). Negative regulation is also mediated by SOCS1 and SOCS3, which bind JAK1 or associated receptors and act as pseudosubstrates or E3 adaptors (Alicea-Velázquez & Boggon, 2011; Babon et al., 2014).
+
+## Function  
+JAK1 is a ubiquitously expressed, non-receptor tyrosine kinase that associates constitutively with the box1/box2 regions of many cytokine receptors, including type I/II interferon, γ_c-family (IL-2, IL-4) and gp130-family (IL-6, oncostatin M) receptors (Radtke et al., 2002; Knoops et al., 2011). Cytokine binding triggers JAK1 activation, phosphorylation of receptor cytoplasmic tyrosines, recruitment and phosphorylation of STAT1/3/5, and subsequent transcriptional responses (Liau et al., 2019; Liu et al., 2009). JAK1 kinase activity also promotes maturation and surface delivery of the oncostatin M receptor (Radtke et al., 2002).
+
+## Inhibitors  
+Clinically used ATP-competitive inhibitors include the pan-JAK agents tofacitinib and ruxolitinib (Alicea-Velázquez & Boggon, 2011; Glassman et al., 2022). Ruxolitinib shows preference for JAK1/2, whereas tofacitinib favors JAK1/3 (Babon et al., 2014; Liu et al., 2009). Selective JAK1 inhibitors comprise upadacitinib, filgotinib, itacitinib (K_i ≈ 0.5–2 nM), abrocitinib and baricitinib (Liau et al., 2019; Wang et al., 2023; Sk et al., 2022).
+
+## Other Comments  
+Somatic gain-of-function mutations (e.g., V658F, A634D, R724H) in the JH2 domain drive constitutive JAK-STAT signaling in T-cell ALL, AML and some solid tumours (Knoops et al., 2011; Babon et al., 2014). The V658F variant does not change intrinsic catalytic parameters, thermal stability or inhibitor sensitivity in vitro, indicating oncogenicity arises from disrupted autoinhibition in the cellular context (Liau et al., 2019).
+
+## References  
+Alicea-Velázquez, N., & Boggon, T. (2011). The use of structural biology in Janus kinase targeted drug discovery. Current Drug Targets, 12(4), 546–555. https://doi.org/10.2174/138945011794751528  
+
+Babon, J. J., Lucet, I. S., Murphy, J. M., Nicola, N. A., & Varghese, L. N. (2014). The molecular regulation of Janus kinase (JAK) activation. Biochemical Journal, 462(1), 1–13. https://doi.org/10.1042/BJ20140712  
+
+Glassman, C. R., Tsutsumi, N., Saxton, R. A., Lupardus, P. J., Jude, K. M., & Garcia, K. C. (2022). Structure of a Janus kinase cytokine receptor complex reveals the basis for dimeric activation. Science, 376, 163–169. https://doi.org/10.1126/science.abn8933  
+
+Knoops, L., Horňáková, T., & Renauld, J. (2011). JAK1 (Janus kinase 1). Atlas of Genetics and Cytogenetics in Oncology and Haematology. https://doi.org/10.4267/2042/44815  
+
+Liau, N. P. D., Laktyushin, A., Morris, R., Sandow, J. J., Nicola, N. A., Kershaw, N. J., & Babon, J. J. (2019). Enzymatic characterization of wild-type and mutant Janus kinase 1. Cancers, 11(1701). https://doi.org/10.3390/cancers11111701  
+
+Liu, P. C. C., Caulder, E., Li, J., Waeltz, P., Margulis, A., Wynn, R., … Fridman, J. S. (2009). Combined inhibition of Janus kinase 1/2 for the treatment of JAK2 V617F-driven neoplasms. Clinical Cancer Research, 15, 6891–6900. https://doi.org/10.1158/1078-0432.CCR-09-1298  
+
+Radtke, S., Hermanns, H. M., Haan, C., Schmitz-Van de Leur, H., Gascan, H., Heinrich, P. C., & Behrmann, I. (2002). Novel role of Janus kinase 1 in the regulation of oncostatin M receptor surface expression. Journal of Biological Chemistry, 277, 11297–11305. https://doi.org/10.1074/jbc.M100822200  
+
+Sk, M. F., Jonniya, N. A., Roy, R., & Kar, P. (2022). Unravelling the molecular mechanism of recognition of selected next-generation antirheumatoid arthritis inhibitors by Janus kinase 1. ACS Omega, 7, 6195–6209. https://doi.org/10.1021/acsomega.1c06715  
+
+Wang, R., Griffin, P., Small, E. C., & Thompson, J. E. (2003). Mechanism of Janus kinase 3-catalyzed phosphorylation of a Janus kinase 1 activation loop peptide. Archives of Biochemistry and Biophysics, 410(1), 7–15. https://doi.org/10.1016/S0003-9861(02)00637-9  
+
+Wang, Z., Sun, L., Xu, Y., Liang, P., Xu, K.-W., & Huang, J. (2023). Discovery of novel JAK1 inhibitors through combining machine learning, structure-based pharmacophore modelling and bio-evaluation. Journal of Translational Medicine, 21, 363. https://doi.org/10.1186/s12967-023-04443-6  
+
+Yaron-Barir, T. M., Joughin, B. A., Huntsman, E. M., Kerelsky, A., Cizin, D. M., Cohen, B. M., … Johnson, J. L. (2024). The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629, 1174–1181. https://doi.org/10.1038/s41586-024-07407-y

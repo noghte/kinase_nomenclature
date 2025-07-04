@@ -1,0 +1,62 @@
+## Phylogeny  
+CLK1 is a member of the CMGC protein-kinase group, specifically the CDC-like kinase (CLK)/LAMMER subfamily defined by the invariant EHLAMMERILG motif (Bullock et al., 2009). Human paralogues (CLK2-4) share 67–93 % identity within the catalytic domain (Lindberg & Meijer, 2021). Verified orthologues occur in Saccharomyces cerevisiae (Clk1), Schizosaccharomyces pombe LAMMER kinase, Drosophila DOA, diverse plants (Arabidopsis AFC1-3, Nicotiana PK12) and vertebrates (mouse and rat Clk1), indicating broad eukaryotic conservation (Rabinow, 2018).
+
+## Reaction Catalyzed  
+ATP + [protein] ⇌ ADP + [protein]-P (Lindberg & Meijer, 2021).
+
+## Cofactor Requirements  
+Catalysis requires divalent Mg²⁺; Mn²⁺ can replace Mg²⁺ with comparable efficiency (Melcher & Thorner, 1996; Walter et al., 2018).
+
+## Substrate Specificity  
+• Favours Ser over Thr (~2-fold) and prefers an R-x-x-S/T consensus with Arg at the –3 position (Bullock et al., 2009).  
+• Efficiently phosphorylates repetitive RS dipeptides of SR splicing factors (Aubol et al., 2014).  
+• Uniquely accepts Ser-Pro motifs in addition to Arg-Ser sites, broadening its substrate range beyond typical SRPK targets (Aubol et al., 2014).  
+• Kinome-wide profiling confirms dominant recognition of Arg-Ser and Ser-Pro contexts within RS domains (Song et al., 2023).
+
+## Structure  
+An intrinsically disordered N-terminal RS-rich segment (~aa 1–140) mediates substrate docking, followed by a bilobal kinase domain (~aa 141–484) (Aubol et al., 2014). The catalytic core contains a β-hairpin insertion, a MAPK-like insertion and the buried LAMMER sequence that stabilises the activation segment (Song et al., 2023). Conserved motifs include the Lys72/Glu91 catalytic ion pair, the HRD loop (His319-Arg320-Asp321) and the DFG motif (Asp354-Phe355-Gly356) (Moyano et al., 2020). Crystal structures (e.g., PDB 6I5H) reveal a narrow, negatively charged ATP pocket (Lee et al., 2019); additional structures (PDB 6FT8) show intact regulatory and catalytic spines and inhibitor binding modes (Walter et al., 2018). Autophosphorylation within the activation loop completes the hydrophobic spine and aligns the αC-helix for full activity (Lindberg & Meijer, 2021).
+
+## Regulation  
+• Autophosphorylation on Ser, Thr and Tyr residues within the activation segment activates the kinase (Rabinow, 2018).  
+• Phosphorylation of Ser341 and Thr342 further modulates activity and substrate recognition (Unknown Authors, 2024).  
+• AKT phosphorylates the N-terminal SR region at Ser36, Thr122 and Ser139, altering substrate engagement (Song et al., 2023).  
+• Enzymatic activity is temperature-sensitive, decreasing at febrile temperatures and recovering at 35 °C (Song et al., 2023).  
+• The CLK1 gene autoregulates its own mRNA via exon skipping and intron retention (Lindberg & Meijer, 2021).
+
+## Function  
+Predominantly nuclear, CLK1 expression peaks at the G2/M phase (Song et al., 2023). It hyperphosphorylates SR proteins (SRSF1–12), promotes spliceosome assembly and modulates alternative splicing of hundreds of transcripts (Song et al., 2023). Direct substrates include SRSF10 (Ser129/131/133), SPF45, U1-70K (Ser226) and the tyrosine phosphatase PTPN1 (Ser50) (Moeslein et al., 1999; Song et al., 2023). CLK1 also cooperates with hnRNP A1 to fine-tune exon recognition (Song et al., 2023) and functions as a host factor for influenza A virus by regulating viral RNA splicing through SRSF3 phosphorylation; inhibition reduces viral replication (Song et al., 2023).
+
+## Inhibitors  
+• TG003 – prototype ATP-competitive CLK1/4 inhibitor (Song et al., 2023).  
+• TG693 – metabolically stable analogue with similar selectivity (Song et al., 2023).  
+• CX-4945 (Silmitasertib) – IC₅₀ ≈ 82 nM for CLK1 (Lee et al., 2019).  
+• KH-CB19 – low-nanomolar biochemical potency (Song et al., 2023).  
+• SGC-CLK-1 – selective chemical probe, cellular IC₅₀ ≈ 165 nM with high kinome selectivity (Moyano et al., 2020).  
+• Pyrido[3,4-g]quinazoline 9m – IC₅₀ = 18 nM (Moyano et al., 2020).  
+• MU1210 – IC₅₀ = 8 nM, highly selective (Moyano et al., 2020).
+
+## Other Comments  
+Dysregulated CLK1-dependent splicing contributes to tumorigenesis in pancreatic, gastric, colorectal, ovarian and breast cancers (Song et al., 2023). Pharmacological inhibition of CLK1 promotes exon 31 skipping in the dystrophin gene, a potential therapeutic approach for Duchenne muscular dystrophy (Lindberg & Meijer, 2021).
+
+## 9. References  
+Aubol, B. E., Plocinik, R. M., Keshwani, M. M., McGlone, M., Hagopian, J., Ghosh, G., Fu, X.-D., & Adams, J. A. (2014). N-terminus of the protein kinase CLK1 induces SR protein hyperphosphorylation. Biochemical Journal, 462(1), 143–152. https://doi.org/10.1042/BJ20140494  
+
+Bullock, A. N., Das, S., Debreczeni, J. É., Rellos, P., Fedorov, O., Niesen, F. H., Guo, K., Papagrigoriou, E., Amos, A. L., Cho, S., Turk, B. E., Ghosh, G., & Knapp, S. (2009). Kinase domain insertions define distinct roles of CLK kinases in SR protein phosphorylation. Structure, 17(3), 352–362. https://doi.org/10.1016/j.str.2008.12.023  
+
+Lee, J. Y., Yun, J.-S., Kim, W.-K., Chun, H.-S., Jin, H., Cho, S., & Chang, J. H. (2019). Structural basis for the selective inhibition of CDC2-like kinases by CX-4945. BioMed Research International, 2019, 6125068. https://doi.org/10.1155/2019/6125068  
+
+Lindberg, M. F., & Meijer, L. (2021). Dual-specificity, tyrosine phosphorylation-regulated kinases (DYRKs) and CDC2-like kinases (CLKs) in human disease: An overview. International Journal of Molecular Sciences, 22(11), 6047. https://doi.org/10.3390/ijms22116047  
+
+Melcher, M., & Thorner, J. (1996). Identification and characterization of the CLK1 gene product, a novel CaM kinase-like protein kinase from Saccharomyces cerevisiae. Journal of Biological Chemistry, 271(47), 29958–29968. https://doi.org/10.1074/jbc.271.47.29958  
+
+Moeslein, F., Myers, M. P., & Landreth, G. E. (1999). The CLK family kinases, CLK1 and CLK2, phosphorylate and activate the tyrosine phosphatase PTP-1B. Journal of Biological Chemistry, 274(38), 26697–26704. https://doi.org/10.1074/jbc.274.38.26697  
+
+Moyano, P. M., Němec, V., & Paruch, K. (2020). CDC-like kinases (CLKs): Biology, chemical probes, and therapeutic potential. International Journal of Molecular Sciences, 21(20), 7549. https://doi.org/10.3390/ijms21207549  
+
+Rabinow, L. (2018). CLK. In J. L. Choi (Ed.), Encyclopedia of Signaling Molecules (pp. 1161–1172). Springer. https://doi.org/10.1007/978-3-319-67199-4_277  
+
+Song, M., Pang, L., Zhang, M., Qu, Y., Laster, K. V., & Dong, Z. (2023). CDC2-like kinases: Structure, biological function and therapeutic targets for diseases. Signal Transduction and Targeted Therapy, 8, 144. https://doi.org/10.1038/s41392-023-01409-4  
+
+Unknown Authors. (2024). Characterization of thermoregulatory mechanisms in kinases involved in splicing control. *Unpublished manuscript*.  
+
+Walter, A., Chaikuad, A., Helmer, R., Loaëc, N., Preu, L., Ott, I., Knapp, S., Meijer, L., & Kunick, C. (2018). Molecular structures of CDC2-like kinases in complex with a new inhibitor chemotype. PLoS ONE, 13(5), e0196761. https://doi.org/10.1371/journal.pone.0196761

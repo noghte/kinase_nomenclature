@@ -1,0 +1,30 @@
+## Phylogeny  
+Member of the testis-specific serine/threonine kinase (TSSK) subfamily that branches from the AMPK-related clade of the eukaryotic protein kinase superfamily. Orthologous genes are annotated in vertebrates (e.g., Mus musculus, Bos taurus, Sus scrofa) and selected invertebrates, including several marine mollusks and Caenorhabditis elegans, indicating broad evolutionary conservation. All TSSK paralogs share stringent, stage-specific, testis-restricted expression, underscoring a conserved role in male gamete differentiation (Salicioni et al., 2020).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Salicioni et al., 2020).
+
+## Cofactor Requirements  
+Catalysis is strictly Mn²⁺-dependent; Mg²⁺ does not support activity (Salicioni et al., 2020; Shetty et al., 2016).
+
+## Substrate Specificity  
+Validated in-vitro or in-vivo phosphorylation sites include CREB1 Ser133, CREM Ser116, and ODF2 Ser95/Ser76. A TSSK4-specific consensus motif has been proposed, consistent with selective substrate recognition (Salicioni et al., 2020).
+
+## Structure  
+Composed of an N-terminal catalytic domain followed by a divergent C-terminal tail; multiple mouse isoforms display highly variable C-terminal regions. An AlphaFold model (AF-Q6SA08-F1) confirms a canonical bilobal kinase fold with conserved VAIK, HRD, and DFG motifs. The activation loop contains Thr197, whose autophosphorylation is essential for activity. Hydrophobic spine and αC-helix positioning mirror other AMPK-related kinases. No experimental crystal structure is yet available (Salicioni et al., 2020).
+
+## Regulation  
+Activity is generated and maintained through autophosphorylation on Thr197. Folding and activation require the HSP90 chaperone complex and its co-chaperone SIP; HSP90 inhibitors block activation. Ubiquitination pathways contribute to protein turnover. No dedicated upstream activating kinase has been identified (Salicioni et al., 2020; Wang et al., 2015).
+
+## Function  
+Expression is confined to the testis, emerging in post-meiotic spermatids and persisting in mature sperm. The kinase localizes predominantly to the sperm flagellum, enriched at the annulus (midpiece–principal piece junction). Tssk4-null male mice exhibit annulus defects, markedly reduced sperm motility, and subfertility. Overexpression of catalytically active TSSK4 induces apoptosis in HeLa cells, whereas a kinase-dead mutant does not. Gene deletion results in enlarged testes and reduced germ-cell apoptosis, implicating TSSK4 in spermatogenic homeostasis. Phosphorylation of CREB1 Ser133 links the kinase to CRE/CREB signalling. TSSK4 co-localizes and interacts with ODF2 in the flagellum and forms part of an HSP90/SIP-regulated complex (Salicioni et al., 2020; Wang et al., 2015).
+
+## Other Comments  
+Multiple missense variants in human TSSK4 are associated with defective spermatogenesis and male infertility. The clinical relevance of TSSK variants across the family highlights TSSK4 as a prospective non-hormonal contraceptive target (Salicioni et al., 2020).
+
+## 9. References  
+Salicioni, A. M., Gervasi, M. G., Sosnik, J., Tourzani, D. A., Nayyab, S., Caraballo, D. A., & Visconti, P. E. (2020). Testis-specific serine kinase protein family in male fertility and as targets for non-hormonal male contraception†. Biology of Reproduction, 103, 264–274. https://doi.org/10.1093/biolre/ioaa064  
+
+Shetty, J., Sinville, R., Shumilin, I. A., Minor, W., Zhang, J., Hawkinson, J. E., Georg, G. I., Flickinger, C. J., & Herr, J. C. (2016). Recombinant production of enzymatically active male contraceptive drug target hTSSK2—localization of the TSKS domain phosphorylated by TSSK2. Protein Expression and Purification, 121, 88–96. https://doi.org/10.1016/j.pep.2016.01.009  
+
+Wang, X.-L., Wei, Y.-H., Fu, G.-L., & Yu, L. (2015). Testis-specific serine/threonine protein kinase 4 (TSSK4) leads to cell apoptosis relying on its kinase activity. Journal of Huazhong University of Science and Technology [Medical Sciences], 35, 235–240. https://doi.org/10.1007/s11596-015-1417-2

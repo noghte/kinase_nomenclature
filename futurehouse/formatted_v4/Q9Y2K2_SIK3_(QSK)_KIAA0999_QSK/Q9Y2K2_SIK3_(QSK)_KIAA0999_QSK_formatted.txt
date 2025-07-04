@@ -1,0 +1,57 @@
+## Phylogeny  
+Salt-inducible kinase 3 (SIK3) is a member of the Ca²⁺/calmodulin-dependent kinase (CAMK) group and sits within the AMPK-related, salt-inducible kinase clade together with SIK1 and SIK2 (Darling & Cohen, 2021). Large-scale kinome surveys corroborate this placement (Henriksson et al., 2012). Orthologues are present in mouse, rat, zebrafish, Drosophila (Sik3 and Sik2), Caenorhabditis elegans (KIN-29) and yeast AMPK-family kinases, indicating deep evolutionary conservation (Şahin et al., 2020). In vertebrates, Sik2 and Sik3 genes occur in synteny on the same chromosome whereas Sik1 is separate, consistent with a segmental duplication event (Bicanovsky et al., 2025).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr → ADP + [protein]-Ser/Thr-P (Darling & Cohen, 2021).  
+
+## Cofactor Requirements  
+Activity requires a divalent metal ion; Mg²⁺ is preferred and Mn²⁺ can substitute in vitro (Darling & Cohen, 2021).  
+
+## Substrate Specificity  
+SIK3 favours a basophilic consensus sequence LxB(S/T)xSxxxL (B = Lys/Arg), generating 14-3-3 docking sites after phosphorylation (Darling & Cohen, 2021). Confirmed physiological substrates include CRTC2 Ser171, CRTC3 Ser273 and HDAC4 Ser246/Ser467 (Sonntag et al., 2018).  
+
+## Structure  
+The protein contains an N-terminal bilobed kinase domain, a three-helix ubiquitin-associated (UBA) domain and an extended regulatory C-terminal tail (Öster et al., 2024). Crystal structures of residues Met59–Arg385 (PDB 8R4V, 8R4O, 8R4Q, 8R4U) show an active DFG-in/αC-in conformation stabilised by phospho-Thr221 (Öster et al., 2024). Canonical catalytic motifs (VAIK, HRD, DFG) and a threonine gatekeeper (Thr142) create an enlarged back pocket exploited by selective inhibitors (Öster et al., 2024). The UBA domain packs against the N-lobe, locking αC in place similarly to MARK/MELK kinases (Öster et al., 2024). An AlphaFold model (AF-Q9Y2K2-F1) matches the crystal core and predicts a largely disordered C-tail bearing multiple regulatory phosphosites (Öster et al., 2024).  
+
+## Regulation  
+• Activation: LKB1 phosphorylates Thr221 within the activation loop (Darling & Cohen, 2021). The UBA domain is required for efficient activation by stabilising the αC-in conformation (Öster et al., 2024).  
+• Inhibition: PKA phosphorylates Thr411, Ser493, Ser551 and Ser616 in the C-tail, recruiting 14-3-3 proteins and suppressing kinase activity (Darling & Cohen, 2021; Sonntag et al., 2018).  
+• Hormonal control: PTH1R signalling inhibits SIK3 via PKA in growth-plate chondrocytes (Nishimori et al., 2019).  
+• Downstream effects: Loss or inhibition of SIK3 causes DEPTOR accumulation with reduced mTORC1/2 signalling (Csukasi et al., 2018).  
+
+## Function  
+SIK3 mRNA is abundant in brain, liver, cartilage and immune cells (Unknown authors, 2017).  
+• Skeletogenesis: In growth-plate chondrocytes, SIK3 phosphorylates DEPTOR to enhance mTORC1/2 activity, promoting hypertrophic differentiation and ossification; it acts downstream of PTH1R (Csukasi et al., 2018).  
+• Metabolic regulation: In liver and other metabolic tissues, active SIK3 phosphorylates CRTC2/3 and class IIa HDACs, retaining them in the cytoplasm and limiting CREB- and MEF2-dependent transcription (Sonntag et al., 2018).  
+• Immune modulation: Pharmacological or genetic inhibition of SIK3 during macrophage differentiation biases cells toward an anti-inflammatory, IL-10-high phenotype (Darling et al., 2017).  
+
+## Inhibitors  
+HG-9-91-01 (IC₅₀ ≈ 430 nM), YKL-05-099 (≈ 30 nM), ARN-3236 (≈ 6.6 nM), MRIA9 (≈ 22 nM) and GLPG3312/GLPG3970 derivatives are reported ATP-competitive SIK3 inhibitors; several co-crystal structures define binding determinants (Peixoto et al., 2024; Öster et al., 2024; Temal-Laib et al., 2023).  
+
+## Other Comments  
+A homozygous p.R129C mutation abolishes catalytic activity, causes DEPTOR accumulation and results in recessive metaphyseal skeletal dysplasia with immune deficiency; Sik3-null mice recapitulate the skeletal phenotype (Csukasi et al., 2018).  
+
+## References  
+Bicanovsky, G. N., Senkow, K. J., McColl, C. J., Mierisch, J., Agrimson, K. S., Long, L. J., … Reed, L. K. (2025). Gene model for the ortholog of sik3 in Drosophila mojavensis. microPublication Biology. https://doi.org/10.17912/micropub.biology.001032  
+
+Csukasi, F., Duran, I., Barad, M., Barta, T., Gudernova, I., Trantirek, L., … Krakow, D. (2018). The PTH/PTHrP-SIK3 pathway affects skeletogenesis through altered mTOR signalling. Science Translational Medicine. https://doi.org/10.1126/scitranslmed.aat9356  
+
+Darling, N. J., Toth, R., Arthur, J., & Clark, K. (2017). Inhibition of SIK2 and SIK3 during differentiation enhances the anti-inflammatory phenotype of macrophages. Biochemical Journal, 474, 521–537. https://doi.org/10.1042/BCJ20160646  
+
+Darling, N. J., & Cohen, P. (2021). Nuts and bolts of the salt-inducible kinases (SIKs). Biochemical Journal, 478, 1377–1397. https://doi.org/10.1042/BCJ20200502  
+
+Henriksson, E., Jones, H. A., Patel, K., Peggie, M., Morrice, N., Sakamoto, K., & Göransson, O. (2012). The AMPK-related kinase SIK2 is regulated by cAMP via phosphorylation at Ser358 in adipocytes. Biochemical Journal, 444, 503–514. https://doi.org/10.1042/BJ20111932  
+
+Nishimori, S., O’Meara, M. J., Castro, C. D., Noda, H., Cetinbas, M., Martins, J. da S., … Wein, M. N. (2019). Salt-inducible kinases dictate parathyroid hormone-1 receptor action in bone development and remodelling. Journal of Clinical Investigation, 129, 5187–5203. https://doi.org/10.1172/JCI130126  
+
+Öster, L., Castaldo, M., de Vries, E., Edfeldt, F., Pemberton, N., Gordon, E., … Käck, H. (2024). The structures of salt-inducible kinase 3 in complex with inhibitors reveal determinants for binding and selectivity. Journal of Biological Chemistry, 300, 107201. https://doi.org/10.1016/j.jbc.2024.107201  
+
+Peixoto, C., Joncour, A., Temal-Laib, T., Tirera, A., Dos Santos, A., Jary, H., … Desroy, N. (2024). Discovery of clinical candidate GLPG3970: a potent and selective dual SIK2/SIK3 inhibitor for the treatment of autoimmune and inflammatory diseases. Journal of Medicinal Chemistry, 67, 5233–5258. https://doi.org/10.1021/acs.jmedchem.3c02246  
+
+Şahin, H. B., Sayin, S., Holder, M., Buğra, K., & Çelik, A. (2020). Salt-inducible kinases as novel Notch interactors in the developing Drosophila retina. PLoS ONE. https://doi.org/10.1371/journal.pone.0234744  
+
+Sonntag, T., Vaughan, J. M., & Montminy, M. (2018). 14-3-3 proteins mediate inhibitory effects of cAMP on salt-inducible kinases (SIKs). The FEBS Journal. https://doi.org/10.1111/febs.14351  
+
+Temal-Laib, T., Peixoto, C., Desroy, N., De Lemos, E., Bonnaterre, F., Bienvenu, N., … Andrews, M. (2023). Optimization of selectivity and pharmacokinetic properties of salt-inducible kinase inhibitors that led to the discovery of pan-SIK inhibitor GLPG3312. Journal of Medicinal Chemistry, 67, 380–401. https://doi.org/10.1021/acs.jmedchem.3c01428  
+
+Unknown authors. (2017). Salt-inducible kinases in adipose tissue.

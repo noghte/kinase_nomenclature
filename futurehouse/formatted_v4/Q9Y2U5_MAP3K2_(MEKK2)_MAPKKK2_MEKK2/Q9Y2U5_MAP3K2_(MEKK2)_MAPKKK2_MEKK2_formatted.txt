@@ -1,0 +1,52 @@
+## Phylogeny  
+MAP3K2 (MEKK2) is a member of the mitogen-activated protein kinase kinase kinase family, specifically the MEKK/STE11 subfamily (Zhang et al., 2006). Orthology with Mus musculus Map3k2 has been confirmed; knockout mice are viable and retain conserved catalytic function (Ahmad et al., 2018). The closest paralogue is MAP3K3 (MEKK3), with high catalytic-domain identity and overlapping inhibitor sensitivity (Ahmad et al., 2018).
+
+## Reaction Catalyzed  
+ATP + MAP2K5/7 (unphosphorylated) ⇌ ADP + MAP2K5/7-P (phosphorylated on Ser/Thr within the activation loop) (Ahmad et al., 2018).
+
+## Cofactor Requirements  
+No specific divalent-cation requirement was detected in the reported biochemical assays (Ahmad et al., 2018; Zhang et al., 2006).
+
+## Substrate Specificity  
+Confirmed direct substrates include MAP2K5 (MEK5), MAP2K7 (MEK7), MAP2K4 (MKK4) and c-Jun (Cargnello & Roux, 2011; Hammaker et al., 2004). A consensus sequence has not been defined; specificity appears to rely on docking interactions typical of MAP3Ks (Cargnello & Roux, 2011).
+
+## Structure  
+The protein comprises an N-terminal regulatory segment followed by a C-terminal Ser/Thr kinase domain (Zhang et al., 2006). Ser519 in the activation loop is the principal regulatory phosphosite required for activity (Zhang et al., 2006). Catalytic-domain homodimerisation is necessary for full activation (Zhang et al., 2006). No crystallographic structures have been reported; structural insights derive from recombinant catalytic-domain studies used for inhibitor profiling (Ahmad et al., 2018).
+
+## Regulation  
+• Autophosphorylation on Ser519 is essential for activation (Zhang et al., 2006).  
+• IL-1 stimulation enhances activity towards MKK4/MKK7 in fibroblast-like synoviocytes (Hammaker et al., 2004).  
+• Toll-like receptor engagement triggers TRAF6-dependent Ser519 phosphorylation (Zhang et al., 2006).  
+• XIAP and cIAP1 ubiquitinate MEKK2, modulating the MEKK2/3-MEK5-ERK5 module (Takeda et al., 2014).  
+• SMYD3-mediated lysine methylation augments kinase activity in Ras-driven carcinoma models (Nguyen et al., 2022).  
+• Catalytic-domain dimerisation provides an additional allosteric activation layer (Zhang et al., 2006).
+
+## Function  
+Expression: MAP3K2 is elevated in prostate, breast, colorectal, gastric, lung and hepatocellular carcinomas, as well as in triple-negative breast cancer and rheumatoid-arthritis synovial tissue (Ahmad et al., 2018; Hammaker et al., 2004; Nguyen et al., 2022).  
+Upstream regulators: WNK1, IL-1 receptor signalling, TRAF6-coupled Toll-like receptors and Rac1/2 GTPases (Cargnello & Roux, 2011; Hammaker et al., 2004; Takeda et al., 2014; Zhang et al., 2006).  
+Downstream pathways:  
+– MEK5 → ERK5 promotes proliferation, survival and migration (Ahmad et al., 2018; Cargnello & Roux, 2011).  
+– MEK7/MKK4 → JNK → c-Jun drives AP-1-dependent gene expression (Hammaker et al., 2004).  
+– Contributes to IKK–NF-κB activation (Zhang et al., 2006).  
+Cellular/physiological roles: Regulates focal-adhesion turnover and cell migration; knock-down stabilises adhesions (Ahmad et al., 2018). Supports IL-2 production in T cells (Zhang et al., 2006) and induces matrix-degrading enzymes in rheumatoid-arthritis synoviocytes (Hammaker et al., 2004). Mekk2-null mice are viable, indicating non-essentiality for embryogenesis (Ahmad et al., 2018).
+
+## Inhibitors  
+• Iminocoumarin scaffold: biochemical IC₅₀ ≈ 8 nM; CF₃ substitution confers selectivity (Ahmad et al., 2018).  
+• Compound 1s: cellular IC₅₀ ≈ 60 nM for blocking MEKK2-dependent ERK5 phosphorylation; cross-reactive with MEKK3 (Ahmad et al., 2018).  
+• Ponatinib: multi-kinase inhibitor with limited MEKK2 selectivity (Ahmad et al., 2018).
+
+## Other Comments  
+MEKK2 knock-down or pharmacological inhibition reduces tumour growth and metastasis in vivo (Ahmad et al., 2018). Elevated MAP3K2 mRNA correlates with poor survival across multiple cancers and promotes epithelial-mesenchymal transition and invasion (Nguyen et al., 2022). MEKK2 is a key inflammatory mediator in rheumatoid arthritis, highlighting its therapeutic potential for joint preservation (Hammaker et al., 2004).
+
+## 9. References  
+Ahmad, S., St. Hilaire, V. R., Dandepally, S. R., Johnson, G. L., Williams, A. L., & Scott, J. E. (2018). Discovery and characterization of an iminocoumarin scaffold as an inhibitor of MEKK2 (MAP3K2). Biochemical and Biophysical Research Communications, 496(1), 205–211. https://doi.org/10.1016/j.bbrc.2018.01.027  
+
+Cargnello, M., & Roux, P. P. (2011). Activation and function of the MAPKs and their substrates, the MAPK-activated protein kinases. Microbiology and Molecular Biology Reviews, 75(1), 50–83. https://doi.org/10.1128/MMBR.00031-10  
+
+Hammaker, D., Boyle, D., Chabaud-Riou, M., & Firestein, G. (2004). Regulation of c-Jun N-terminal kinase by MEKK-2 and mitogen-activated protein kinase kinase kinases in rheumatoid arthritis. Journal of Immunology, 172(3), 1612–1618. https://doi.org/10.4049/jimmunol.172.3.1612  
+
+Nguyen, K., Tran, M. N., Rivera, A., Cheng, T., Windsor, G. O., Chabot, A. B., … Burow, M. E. (2022). MAP3K family review and correlations with patient survival outcomes in various cancer types. Frontiers in Bioscience-Landmark, 27, 167. https://doi.org/10.31083/j.fbl2705167  
+
+Takeda, A.-N., Oberoi-Khanuja, T. K., Glatz, G., Schulenburg, K., Scholz, R.-P., Carpy, A., … Rajalingam, K. (2014). Ubiquitin-dependent regulation of MEKK2/3-MEK5-ERK5 signaling module by XIAP and cIAP1. The EMBO Journal, 33(16), 1784–1801. https://doi.org/10.15252/embj.201487808  
+
+Zhang, D., Facchinetti, V., Wang, X., Huang, Q., Qin, J., & Su, B. (2006). Identification of MEKK2/3 serine phosphorylation site targeted by the Toll-like receptor and stress pathways. The EMBO Journal, 25, 97–107. https://doi.org/10.1038/sj.emboj.7600913

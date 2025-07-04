@@ -1,0 +1,59 @@
+## Phylogeny  
+TAOK2 is one of three vertebrate paralogs (TAOK1, TAOK2, TAOK3) within the evolutionarily conserved thousand-and-one amino acid kinase (TAOK) family; invertebrates possess a single ortholog (Byeon & Yadav, 2024; Fang et al., 2020). Kinome analyses place the family in the germinal-center kinase (GCK) subgroup of the Ste20-like protein kinases and designate TAOK2 as MAP3K17 (Byeon & Yadav, 2024; Fang et al., 2020). One study classifies TAOKs instead as MAP4Ks (Yoder et al., 2023). The N-terminal kinase domain shares high amino-acid identity with TAOK1 (~90 %) and TAOK3 (~83 %) (Fang et al., 2020).
+
+## Reaction Catalyzed  
+ATP + protein → ADP + phosphoprotein (Byeon & Yadav, 2024; Fang et al., 2020).
+
+## Cofactor Requirements  
+ATP and Mg²⁺ are required for catalytic activity (Byeon & Yadav, 2024; Yoder et al., 2023).
+
+## Substrate Specificity  
+Kinome-wide positional scanning peptide arrays classified TAOK2 as a basophilic serine/threonine kinase (Cluster 1) that favors basic residues (Arg/Lys) N-terminal to the phospho-acceptor, consistent with R-x-x-S/T or R-x-S/T motifs (Johnson et al., 2023). Detailed PSSM data were reported but not reproduced here.
+
+## Structure  
+TAOK2 contains an N-terminal catalytic domain (residues 1–320) with the conserved lysine and DFG motif, followed by a large C-terminal regulatory region harboring a serine-rich stretch, 2–3 coiled-coil segments and a leucine-rich repeat (Byeon & Yadav, 2024; Fang et al., 2020). Crystal structures of the kinase domain are available (rat: PDB 1U5Q, 1U5R; human: PDB 6BDN) (Fang et al., 2020). The TAOK2α isoform possesses a hydrophobic segment predicted to form six transmembrane helices plus an amphipathic helix that anchors the protein to the endoplasmic reticulum (Byeon & Yadav, 2024). AlphaFold2 models of full-length TAOK2α/β have been generated (Byeon & Yadav, 2024).
+
+## Regulation  
+• Autophosphorylation initiates kinase activity (Byeon & Yadav, 2024).  
+• MST3 phosphorylates Thr468, promoting dendritic spine and synapse formation (Byeon & Yadav, 2024).  
+• Ser181 is phosphorylated during mitosis (Byeon & Yadav, 2024).  
+• Activity is induced by osmotic stress (sorbitol, NaCl), taxol, and genotoxic radiation (Byeon & Yadav, 2024).  
+• Catalytic activity reduces direct microtubule binding; TAOK2α is cleaved by caspases during apoptosis (Byeon & Yadav, 2024).  
+• Regulation by dimerization has not been described (Byeon & Yadav, 2024).
+
+## Function  
+Expression: Ubiquitous, enriched in brain and testis (Byeon & Yadav, 2024; Fang et al., 2020).  
+
+Signaling pathways & substrates  
+• Functions as a MAP3K upstream of p38 (via MAP2K3/6) and JNK (via MEK4) (Byeon & Yadav, 2024; Fang et al., 2020).  
+• Phosphorylates LATS1/2, thereby influencing Hippo signaling and YAP/TAZ activity (Byeon & Yadav, 2024).  
+• Additional substrates: Septin7 Thr426, tau, and tubulin (Byeon & Yadav, 2024; Fang et al., 2020).  
+
+Interacting partners  
+RhoA (TAOK2β), EB1, and myosin Va bind the kinase (Byeon & Yadav, 2024).  
+
+Physiological roles  
+• Regulates cell proliferation, cytoskeletal dynamics, mitosis, apoptosis, and immune responses (Byeon & Yadav, 2024).  
+• Critical in neurodevelopment: dendritic spine maturation, PSD95 stability, neuronal migration, and ER–microtubule tethering (Byeon & Yadav, 2024).  
+• Binds viral dsRNA to limit replication of several viruses (Byeon & Yadav, 2024).
+
+## Inhibitors  
+ATP-competitive inhibitors 43 and 63 inhibit TAOK1/2/3 with nanomolar IC₅₀ values; compound 43 lowers tau phosphorylation in neural models (Fang et al., 2020). NCGC00188382 shows cellular activity against TAOK3 (Fang et al., 2020). Broad-spectrum inhibitors staurosporine and MST1 inhibitor 9E1 also target TAOK kinases but lack specificity (Fang et al., 2020).
+
+## Other Comments  
+The TAOK2 gene (16p11.2) is frequently altered in neurodevelopmental disorders, notably autism spectrum disorder and intellectual disability; an ASD-linked A135P kinase-dead variant fails to rescue dendritic arborization defects (Byeon & Yadav, 2024). TAOK2 phosphorylates tau (implicating it in Alzheimer’s disease) and participates in cascades downstream of the Parkinson-related kinase LRRK2 (Fang et al., 2020). Context-dependent tumor-suppressive or pro-resistance roles have been reported in cancer (Fang et al., 2020). Two main splice isoforms exist: TAOK2α (1235 aa; JNK-dependent apoptosis, ER-microtubule tethering) and TAOK2β (1049 aa; RhoA-mediated actin regulation) (Byeon & Yadav, 2024).
+
+## References  
+Byeon, S., & Yadav, S. (2024). Pleiotropic functions of TAO kinases and their dysregulation in neurological disorders. Science Signaling. https://doi.org/10.1126/scisignal.adg0876  
+
+Fang, C.-Y., Lai, T.-C., Hsiao, M., & Chang, Y.-C. (2020). The diverse roles of TAO kinases in health and diseases. International Journal of Molecular Sciences, 21, 7463. https://doi.org/10.3390/ijms21207463  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Yoder, M. D., Van Osten, S., & Weber, G. F. (2023). Gene expression analysis of the TAO kinase family of Ste20-like MAP kinase kinase kinases during early embryonic development in Xenopus laevis. Gene Expression Patterns, 48, 119318. https://doi.org/10.1016/j.gep.2023.119318  
+
+Unknown Authors. (2021). Uncovering the role of protein kinase TAOK2 as an endoplasmic reticulum-microtubule tether.  
+
+Unknown Authors. (2021). Thousand and one amino acid kinase 2 (TAOK2) is a repressor of translation and ameliorates exaggerated protein synthesis in 16p11.2 microdeletion.  
+
+Unknown Authors. (2021). Thousand and one amino acid kinase 2 (TAOK2) modulates Hippo pathway activity and impacts on synaptic plasticity.

@@ -1,0 +1,51 @@
+## Phylogeny  
+Experimentally verified orthologs occur in human, mouse, rat, horse, chicken and zebrafish, and all retain the distinctive GFE motif that substitutes for the canonical DFG sequence of active kinases (Murphy et al., 2013; Goldberg & Sreelatha, 2023; “Small Molecule Conjugation…”, 2018). Kinome-wide analyses assign MLKL to the pseudokinase subset of the “Other” group and cluster it nearest IRAK-like kinases while clearly separating it from the RIPK1-5 family (Byrne et al., 2017; “Biochemical and Structural Characterization…”, 2022). Overall, MLKL represents a vertebrate-specific, catalytically inert branch of the eukaryotic kinome (Goldberg & Sreelatha, 2023).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr/Tyr → ADP + protein-Ser/Thr/Tyr-P (no detectable phosphoryl-transfer; MLKL is a pseudokinase) (Murphy et al., 2013).  
+
+## Cofactor Requirements  
+Binds ATP without a requirement for Mg²⁺ or Mn²⁺ (Byrne et al., 2017).  
+
+## Substrate Specificity  
+No enzymatic substrates identified; catalytic activity is undetectable (Murphy et al., 2013).  
+
+## Structure  
+• Modular organisation: N-terminal four-helix bundle (residues 1–≈125) mediating membrane disruption; two “brace” helices (≈126–180) that relay conformational signals; C-terminal pseudokinase domain (≈181–464) acting as a regulatory switch (“Small Molecule Conjugation…”, 2018; Murphy et al., 2013).  
+• 3-D data: crystal structures are available for full-length mouse MLKL (PDB 4BTF), the isolated human pseudokinase domain (PDB 4MWI) and a ligand-bound human construct (PDB 6O5Z) (Murphy et al., 2013; Lucet & Murphy, 2017; Pierotti et al., 2020).  
+• Catalytic features: the VAIK lysine (K219) contacts Q343 on an activation-loop helix occupying the αC position; the HRD motif is missing and the DFG sequence is replaced by GFE, eliminating Mg²⁺ coordination (Murphy et al., 2013).  
+• Unique elements: brace helices restrain the four-helix bundle until phosphorylation triggers release, and the activation-loop helix locks the pseudo-active site in an autoinhibited conformation (“Small Molecule Conjugation…”, 2018; Najafov et al., 2019).  
+
+## Regulation  
+• Phosphorylation – activating: RIPK3 phosphorylates Thr357/Ser358 (human) or Ser345 (mouse), promoting oligomerisation and membrane trafficking (“Small Molecule Conjugation…”, 2018; Najafov et al., 2019).  
+• Phosphorylation – inhibitory: Ser158 and Ser248 phosphorylation dampens necroptosis (“Small Molecule Conjugation…”, 2018).  
+• Genetic activation: point mutants K219M, Q343A or phosphomimetic S345D confer RIPK3-independent activity (Murphy et al., 2013).  
+• Protein cofactors: TAM kinases facilitate oligomer formation (Najafov et al., 2019); HSP90–CDC37 chaperoning stabilises oligomers and promotes membrane localisation (Pierotti et al., 2020).  
+
+## Function  
+Expression is high in bone marrow, brain, heart, kidney, liver and lung (Murphy et al., 2013). Upstream signals from TNFR1 (via RIPK1/RIPK3), TLR3/4-TRIF and ZBP1 converge on RIPK3, which phosphorylates MLKL (Murphy et al., 2013; “Small Molecule Conjugation…”, 2018). Phosphorylation triggers MLKL tetramerisation, translocation to the inner plasma-membrane leaflet, membrane disruption and Ca²⁺ influx; ESCRT-III machinery can repair the resulting lesions (“Small Molecule Conjugation…”, 2018; Pierotti et al., 2020). Key interactors include RIPK1 (scaffold), RIPK3 (activating kinase), HSP90 (chaperone) and ESCRT-III components (Pierotti et al., 2020).  
+
+## Inhibitors  
+Necrosulfonamide (covalently binds Cys86), GW806742X (non-covalent), Compound 2 (nanomolar, multi-target) and Analogue 68 (high-potency Cys86 binder) block MLKL function to varying extents (Zhuang & Chen, 2020; Pierotti et al., 2020).  
+
+## Other Comments  
+Necroptosis involving MLKL is implicated in TNF-mediated systemic inflammatory response syndrome, ischaemia–reperfusion injury, neurodegeneration and ALS (Pierotti et al., 2020; “Small Molecule Conjugation…”, 2018; Najafov et al., 2019). Pathogenic mutations (T357I, S358F, F385I, L280P) enhance or dysregulate MLKL activation (Murphy et al., 2013; Goldberg & Sreelatha, 2023).  
+
+## References  
+Byrne, D. P., Foulkes, D. M., & Eyers, P. A. (2017). Pseudokinases: Update on their functions and evaluation as new drug targets. Future Medicinal Chemistry, 9, 245–265. https://doi.org/10.4155/fmc-2016-0207  
+
+Goldberg, T., & Sreelatha, A. (2023). Emerging functions of pseudoenzymes. Biochemical Journal, 480, 715–728. https://doi.org/10.1042/bcj20220373  
+
+Lucet, I., & Murphy, J. M. (2017). Characterization of ligand binding to pseudokinases using a thermal shift assay. Methods in Molecular Biology, 1636, 91–104. https://doi.org/10.1007/978-1-4939-7154-1_7  
+
+Murphy, J. M., Czabotar, P., Hildebrand, J. M., Lucet, I., Zhang, J.-G., Álvarez-Díaz, S., … Alexander, W. (2013). The pseudokinase MLKL mediates necroptosis via a molecular switch mechanism. Immunity, 39(3), 443–453. https://doi.org/10.1016/j.immuni.2013.06.018  
+
+Najafov, A., Mookhtiar, A. K., Luu, H. S., Ordureau, A., Pan, H., Amin, P. P., … Yuan, J. (2019). TAM kinases promote necroptosis by regulating oligomerization of MLKL. Molecular Cell. https://doi.org/10.1016/j.molcel.2019.05.022  
+
+Pierotti, C. L., Tanzer, M. C., Jacobsen, A. V., Hildebrand, J. M., Garnier, J. M., Sharma, P., … Lessene, G. (2020). Potent inhibition of necroptosis by simultaneously targeting multiple effectors of the pathway. ACS Chemical Biology, 15, 2702–2713. https://doi.org/10.1021/acschembio.0c00482  
+
+Zhuang, C., & Chen, F.-E. (2020). Small-molecule inhibitors of necroptosis: Current status and perspectives. Journal of Medicinal Chemistry. https://doi.org/10.1021/acs.jmedchem.9b01317  
+
+Biochemical and Structural Characterization of Divergent Members of the Protein Kinase Family. (2022).  
+
+Small Molecule Conjugation of Hsp70 Inhibits Necroptosis. (2018).

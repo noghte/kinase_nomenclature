@@ -1,0 +1,70 @@
+## Phylogeny  
+BTK is one of five mammalian Tec-family kinases (BTK, BMX, ITK, TEC, TXK) that descend from an ancestral Tec gene predating metazoans (Ortutay et al., 2008). Orthologues occur from unicellular choanoflagellates through sponges, insects, jawless fish, teleosts, amphibians, birds and all major mammalian lineages (Ortutay et al., 2008; Perina et al., 2012). A vertebrate-specific insertion within the PH domain (residues 79–99) that forms the Saraste dimer interface is conserved from cartilaginous fish onwards (Eisen et al., 2025). Within the human kinome BTK clusters with BMX and ITK inside the Tyrosine Kinase group and is clearly separated from Src-, Abl- and Csk-family kinases (Manning et al., 2002; Ortutay et al., 2008).
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + protein-O-phospho-L-tyrosine (Mao et al., 2001; Xing & Huang, 2014).
+
+## Cofactor Requirements  
+Catalysis requires Mg²⁺ for ATP coordination; Mn²⁺ can substitute in vitro (UnknownAuthors, 2019; Kueffer et al., 2023).
+
+## Substrate Specificity  
+• Preferred peptide motif: E/D-E/D-Y-X-Φ (Φ = hydrophobic) (UnknownAuthors, 2019).  
+• Favourable positions: acidic residues at −3/−2, Tyr at 0, hydrophobic at +1; small or polar residues tolerated at +2/+3 (Kueffer et al., 2023).
+
+## Structure  
+BTK comprises an N-terminal PH domain with a Zn²⁺-binding Btk motif, a Tec Homology segment, SH3, SH2 and a C-terminal kinase (SH1) domain (Xing & Huang, 2014; Ortutay et al., 2008).  
+The isolated kinase domain crystallises in an active-like conformation even when Y551 is unphosphorylated; the activation loop does not block the catalytic cleft (Mao et al., 2001). Phosphorylation of Y551 induces helix-C rotation and formation of the Lys430–Glu445 salt bridge that completes activation (Mao et al., 2001). Key regulatory elements include the glycine-rich loop, activation loop Y551, autophosphorylation site Y223, a hydrophobic spine and catalytic Lys430/Glu445 (Mao et al., 2001). The PH-TH module contains an extended S2 loop (Ile92–Ile95) that mediates Saraste dimerization required for efficient membrane activation (Eisen et al., 2025).
+
+## Regulation  
+• Phosphorylation  
+  – Y551 by Src-family kinases LYN and SYK activates BTK (Velasquez et al., 2024; Mao et al., 2001).  
+  – Y223 autophosphorylation reports catalytic activity but is dispensable for biological function (Velasquez et al., 2024; UnknownAuthors, 2024).  
+  – S180 (AKT) and T316 (PLK1) fine-tune signalling outputs (Velasquez et al., 2024).  
+• Ubiquitination at K430 and K595 modulates protein stability (UnknownAuthors, 2024).  
+• Allosteric control: PIP₃ binding to the PH domain and PH-TH dimerization enhance membrane recruitment and activity (Eisen et al., 2025).
+
+## Function  
+Expression is highest in B lymphocytes and is also detected in macrophages, dendritic cells and subsets of T cells (UnknownAuthors, 2025). Upstream activators include LYN, SYK and PKCβ (Velasquez et al., 2024). BTK phosphorylates PLCG2 in cooperation with the adaptor BLNK, initiating Ca²⁺ mobilization, PKC activation and NF-κB signalling (Xing & Huang, 2014). It further supports AKT and ERK pathways in lymphoma cells (Hu et al., 2021) and contributes to Toll-like receptor signalling in innate immune cells (Ortutay et al., 2008).
+
+## Inhibitors  
+• Ibrutinib – covalent, C481-targeted, IC₅₀ ≈ 78 nM (Ahn & Brown, 2021).  
+• Acalabrutinib – covalent, C481-directed, IC₅₀ ≈ 9.2 nM (Ahn & Brown, 2021).  
+• Zanubrutinib – second-generation covalent C481 inhibitor with improved selectivity (Patel et al., 2017).  
+• Fenebrutinib – non-covalent, engages K430/M477/D539, active against C481 mutants (Gu et al., 2021).  
+Resistance mutations: C481S abrogates covalent binding; T474I and L528W reduce sensitivity to several agents (Gu et al., 2021; Joseph et al., 2024).
+
+## Other Comments  
+Germline missense variants such as K430E/R, R544K/G and Y551F impair catalysis and cause X-linked agammaglobulinemia (Mao et al., 2001). Kinase-dead mutations found in follicular lymphoma diminish Y223 autophosphorylation yet enhance AKT signalling (Hu et al., 2021). Somatic resistance mutations in treated malignancies frequently arise at C481 (C481S/F/Y/R/G/T), T474 or L528 (UnknownAuthors, 2024).
+
+## 9. References  
+Ahn, I. E., & Brown, J. R. (2021). Targeting Bruton’s tyrosine kinase in CLL. Frontiers in Immunology, 12, 687458. https://doi.org/10.3389/fimmu.2021.687458  
+
+Eisen, T. J., Ghaffari-Kashani, S., Hung, C.-L., Groves, J. T., Weiss, A., & Kuriyan, J. (2025). Conditional requirement for dimerization of the membrane-binding module for BTK signaling in lymphocyte cell lines. Science Signaling, 18(869), eado1252. https://doi.org/10.1126/scisignal.ado1252  
+
+Gu, D., Tang, H., Wu, J., Li, J., & Miao, Y. (2021). Targeting Bruton tyrosine kinase using non-covalent inhibitors in B cell malignancies. Journal of Hematology & Oncology. https://doi.org/10.1186/s13045-021-01049-7  
+
+Hu, N., Wang, F., Sun, T., Xu, Z., Zhang, J., Bernard, D., … Malek, S. (2021). Follicular lymphoma–associated BTK mutations are inactivating resulting in augmented AKT activation. Clinical Cancer Research, 27, 2301–2313. https://doi.org/10.1158/1078-0432.CCR-20-3741  
+
+Joseph, R., Wales, T., Jayne, S., Britton, R. G., Fulton, D., Engen, J., … Andreotti, A. (2024). Impact of the clinically approved BTK inhibitors on the conformation of full-length BTK and analysis of the development of BTK resistance mutations in chronic lymphocytic leukaemia. bioRxiv. https://doi.org/10.1101/2023.12.18.572223  
+
+Kueffer, L. E., Lin, D. Y.-W., Amatya, N., Serrenho, J., Joseph, R., Courtney, A. H., & Andreotti, A. H. (2023). Screening and characterization of allosteric small molecules targeting Bruton’s tyrosine kinase. Biochemistry, 63, 94–106. https://doi.org/10.1021/acs.biochem.3c00362  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Mao, C., Zhou, M., & Uckun, F. (2001). Crystal structure of Bruton’s tyrosine kinase domain suggests a novel pathway for activation and provides insights into the molecular basis of X-linked agammaglobulinemia. Journal of Biological Chemistry, 276, 41435–41443. https://doi.org/10.1074/jbc.M104828200  
+
+Ortutay, C., Nore, B. F., Vihinen, M., & Smith, C. I. E. (2008). Phylogeny of Tec family kinases: Identification of a pre-metazoan origin of BTK, BMX, ITK, TEC, TXK, and the BTK regulator SH3BP5. Advances in Genetics, 64, 51–80. https://doi.org/10.1016/S0065-2660(08)00803-1  
+
+Patel, V., Balakrishnan, K., Bibikova, E., Ayres, M., Keating, M., Wierda, W., & Gandhi, V. (2017). Comparison of acalabrutinib, a selective Bruton tyrosine kinase inhibitor, with ibrutinib in chronic lymphocytic leukaemia cells. Clinical Cancer Research, 23, 3734–3743. https://doi.org/10.1158/1078-0432.CCR-16-1446  
+
+Perina, D., Mikoč, A., Harcet, M., Imešek, M., Sladojević, D., Brcko, A., & Ćetković, H. (2012). Characterization of Bruton’s tyrosine kinase gene and protein from marine sponge Suberites domuncula. Croatica Chemica Acta, 85, 223–229. https://doi.org/10.5562/cca1862  
+
+UnknownAuthors. (2019). Structural mechanism for Bruton’s tyrosine kinase activation at the cell membrane.  
+
+UnknownAuthors. (2024). Investigating resistance mechanisms to non-covalent Bruton’s tyrosine kinase inhibitors and using degraders to overcome resistance for patients with B…  
+
+UnknownAuthors. (2025). Dimerization of the membrane-binding module differentially affects the kinase activity of BTK in a cell-type specific manner.  
+
+Velasquez, H. Y. E., Bouderlique, T., He, C., Berglöf, A., Cappelleri, A., Frengen, N., … Smith, C. I. E. (2024). In BTK, phosphorylated Y223 in the SH3 domain mirrors catalytic activity, but does not influence biological function. Blood Advances, 8, 1981–1990. https://doi.org/10.1182/bloodadvances.2024012706  
+
+Xing, L., & Huang, A. (2014). Bruton’s TK inhibitors: Structural insights and evolution of clinical candidates. Future Medicinal Chemistry, 6(6), 675–695. https://doi.org/10.4155/fmc.14.24

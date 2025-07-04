@@ -1,0 +1,76 @@
+## Phylogeny  
+STK3/MST2 is a member of the STE20 protein‐kinase group, GCK-II subfamily, and shares ~75 % overall sequence identity ( > 95 % within the catalytic domain) with its paralogue MST1 (Galan & Avruch, 2016). Orthologues are found in Drosophila (Hippo), Saccharomyces cerevisiae (Cdc15) and Schizosaccharomyces pombe (Sid1), illustrating conservation of the Hippo/MEN–SIN signalling axis from fungi to mammals (Thompson & Sahai, 2015). Within the human kinome, MST2 clusters with MST1 and is distinct from the related GCK-III kinases MST3/4/YSK1 (Record et al., 2010).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + protein-O-phospho-Ser/Thr (Pombo et al., 2019).  
+
+## Cofactor Requirements  
+Catalytic activity requires a divalent cation; Mg²⁺ is preferred in all tested reactions (Record et al., 2010).  
+
+## Substrate Specificity  
+MST2 phosphorylates threonine (and serine) residues located within hydrophobic motifs that typically contain a basic residue at positions −3 to −5 and a hydrophobic residue at +1 relative to the phosphoacceptor. Validated targets include MOB1A/B (Thr35/Thr12) and the hydrophobic-motif threonines of LATS1/2 (Galan & Avruch, 2016; Avruch et al., 2012). Additional confirmed substrates are Histone H2B Ser14 and FOXO1/3A serines found within PXRX(S/T) motifs (Galan & Avruch, 2016).  
+
+## Structure  
+• N-terminal kinase domain (aa 1–300) containing the catalytic Lys59 (VAIK) and the HRD motif (His169-Arg170-Asp171) (Record et al., 2010).  
+• Unstructured linker harbouring the caspase-3 cleavage site DELD322 that produces an active 36 kDa fragment (Fallahi et al., 2016).  
+• C-terminal SARAH coiled-coil (~50 aa) that mediates homo- and heterodimerisation with SAV1 or RASSF proteins (Galan & Avruch, 2016).  
+
+Crystal structures (e.g., PDB 4LGF, 4LGG, 3OM8, 4MB3) reveal the canonical bilobed kinase fold, an ordered activation loop when Thr180 is phosphorylated, a complete regulatory spine, and an activation-loop-swapped dimer that supports trans-autophosphorylation (Galan & Avruch, 2016; Record et al., 2010). An AlphaFold model corroborates the SARAH-mediated antiparallel dimer arrangement (Galan & Avruch, 2016). Key regulatory elements include Thr180 autophosphorylation, the Glu/Asp57–Lys59 ion pair, and SARAH-domain-driven dimerisation.  
+
+## Regulation  
+Post-translational modifications  
+• Autophosphorylation on Thr180 activates the kinase (Galan & Avruch, 2016).  
+• Caspase-3 cleavage at DELD322 generates a constitutively active nuclear fragment (Fallahi et al., 2016).  
+• AKT phosphorylates Thr117 and Thr384, promoting RAF1 binding and inhibition (Fallahi et al., 2016).  
+• ABL phosphorylates Tyr81, counteracting RAF1-mediated inhibition (Galan & Avruch, 2016).  
+• Aurora B phosphorylation reduces activity during mitosis (Galan & Avruch, 2016).  
+• Phosphorylation near Ser444 enhances activity (Karchugina et al., 2021).  
+• PP2A–STRIPAK dephosphorylates the activation loop, reversing activation (Thompson & Sahai, 2015).  
+• Ubiquitination by CHIP/STUB1 has been shown for MST1 and is predicted for MST2 on homologous lysines (Galan & Avruch, 2016).  
+
+Allosteric / conformational regulation  
+Homodimerisation via the SARAH domain enables trans-autophosphorylation; heterodimerisation with RAF1 or RASSF5B competes with this process and suppresses activity (Fallahi et al., 2016; Galan & Avruch, 2016). mTORC2 signalling further inhibits MST2 in cardiomyocytes (Rawat et al., 2016).  
+
+## Function  
+Expression  
+MST2 is broadly expressed, with higher levels in proliferative tissues such as liver and intestine (Galan & Avruch, 2016).  
+
+Upstream regulators  
+TAO1 directly phosphorylates and activates MST2 (Galan & Avruch, 2016); MAP4K family members provide parallel inputs to LATS activation (Rawat et al., 2016). DNA-damage-induced ATM/ATR signalling activates MST2 through RASSF1A (Fallahi et al., 2016).  
+
+Downstream substrates / interactors  
+Confirmed substrates include LATS1/2, MOB1A/B, NDR1/2, FOXO1/3A, Histone H2B, Aurora A/B, PKCα, Nek2A and VASP (Galan & Avruch, 2016). Interaction partners encompass SAV1, RASSF1-6, RAF1, STRIPAK components and, indirectly, YAP/TAZ via the LATS module (Galan & Avruch, 2016; Fallahi et al., 2016).  
+
+Signalling roles  
+• Core kinase of the Hippo pathway: MST2–SAV1 activates LATS1/2–MOB1, leading to YAP/TAZ inhibition and control of cell proliferation and apoptosis (Bata et al., 2021; Avruch et al., 2012).  
+• Pro-apoptotic effector: the caspase-cleaved fragment phosphorylates Histone H2B, promoting chromatin condensation and DNA fragmentation (Delpire, 2009).  
+• Regulates cytoskeletal dynamics and migration through phosphorylation of DENND1C and VASP (Galan & Avruch, 2016).  
+• Facilitates T-cell adhesion/migration downstream of Rap1 via RASSF5B/RAPL (Galan & Avruch, 2016).  
+
+## Inhibitors  
+• PF-06447475 – ATP-competitive inhibitor active against MST1/2 in cells (Bata et al., 2021).  
+• XMU-MP-1 – pan-MST1/2 inhibitor widely used to modulate Hippo signalling (Bata et al., 2021).  
+
+## Other Comments  
+Reduced MST2-Hippo signalling is associated with hepatocellular carcinoma, glioblastoma and colorectal cancer (Bata et al., 2021; Record et al., 2010). Oncogenic BRAF^V600E blocks MST2 in thyroid carcinoma, while KRAS promotes inhibitory RAF1–MST2 complexes (Fallahi et al., 2016; Rawat et al., 2016). MST2 suppression can enhance adipogenic differentiation and contribute to arrhythmogenic cardiomyopathy (Pombo et al., 2019).  
+
+## References  
+Avruch, J., Zhou, D., Fitamant, J., Bardeesy, N., Mou, F., & Regué Barrufet, L. (2012). Protein kinases of the Hippo pathway: regulation and substrates. Seminars in Cell & Developmental Biology, 23, 770–784. https://doi.org/10.1016/j.semcdb.2012.07.002  
+
+Bata, N., Chaikuad, A., Bakas, N. A., Limpert, A. S., Lambert, L. J., Sheffler, D. J., … Cosford, N. D. P. (2021). Inhibitors of the Hippo pathway kinases STK3/MST2 and STK4/MST1 have utility for the treatment of acute myeloid leukemia. Journal of Medicinal Chemistry, 65, 1352–1369. https://doi.org/10.1021/acs.jmedchem.1c00804  
+
+Delpire, E. (2009). The mammalian family of sterile 20p-like protein kinases. Pflügers Archiv – European Journal of Physiology, 458, 953–967. https://doi.org/10.1007/s00424-009-0674-y  
+
+Fallahi, E., O’Driscoll, N. A., & Matallanas, D. (2016). The MST/Hippo pathway and cell death: a non-canonical affair. Genes, 7, 28. https://doi.org/10.3390/genes7060028  
+
+Galan, J. A., & Avruch, J. (2016). MST1/MST2 protein kinases: regulation and physiologic roles. Biochemistry, 55, 5507–5519. https://doi.org/10.1021/acs.biochem.6b00763  
+
+Karchugina, S., Benton, D., & Chernoff, J. (2021). Regulation of MST complexes and activity via SARAH domain modifications. Biochemical Society Transactions, 49, 1813–1824. https://doi.org/10.1042/BST20200559  
+
+Pombo, C. M., Iglesias, C., Sartages, M., & Zalvide, J. B. (2019). MST kinases and metabolism. Endocrinology, 160, 1111–1118. https://doi.org/10.1210/en.2018-00898  
+
+Rawat, S., Araiza-Olivera, D., Arias-Romero, L. E., Villamar-Cruz, O., Prudnikova, T., Roder, H., & Chernoff, J. (2016). H-Ras inhibits the Hippo pathway by promoting MST1/MST2 heterodimerization. Current Biology, 26, 1556–1563. https://doi.org/10.1016/j.cub.2016.04.027  
+
+Record, C. J., Chaikuad, A., Rellos, P., Das, S. K., Pike, A., Fedorov, O., … Lee, W. H. (2010). Structural comparison of human mammalian Ste20-like kinases. PLoS ONE, 5, e11905. https://doi.org/10.1371/journal.pone.0011905  
+
+Thompson, B., & Sahai, E. (2015). MST kinases in development and disease. The Journal of Cell Biology, 210, 871–882. https://doi.org/10.1083/jcb.201507005  

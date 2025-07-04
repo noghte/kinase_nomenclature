@@ -1,0 +1,73 @@
+## Proposed EC/sub-subclass  
+Not assigned – TRIB1 is a catalytically inactive pseudokinase.
+
+## Accepted name  
+Tribbles homolog 1 (TRIB1)
+
+## Synonyms  
+TRIB1; Trbl (D. melanogaster ortholog)
+
+## Phylogeny  
+TRIB1 is one of three metazoan Tribbles (TRIB1–3) pseudokinases within the Ca²⁺/calmodulin-activated protein kinase (CAMK) kinome group (Danger et al., 2022; Eyers et al., 2017; Richmond & Keeshan, 2020; Singh et al., 2024). Phylogenetic data indicate that TRIB1 arose after TRIB2 via gene duplication of a common TRIB2 ancestor (Eyers et al., 2017). Tribbles proteins are almost exclusive to animals and are absent from fungi, plants, and choanoflagellates (Eyers et al., 2017). TRIB1 orthologs are documented in vertebrates (e.g., mouse, chicken, frog, zebrafish) and invertebrates such as Drosophila (Danger et al., 2022; Eyers et al., 2017; Hegedus et al., 2007). Conflicting reports place TRIB1 either largely in vertebrates or broadly across major metazoan phyla (Eyers et al., 2017; Singh et al., 2024).
+
+## Reaction catalysed  
+None. TRIB1 lacks phosphotransferase activity and does not catalyse ATP-dependent phosphorylation (Danger et al., 2022; McMillan et al., 2021).
+
+## Cofactor requirements  
+None. Absence of the canonical DFG motif precludes Mg²⁺-ATP binding (Danger et al., 2022; Unknown authors, 2016).
+
+## Substrate specificity  
+Because TRIB1 is catalytically inactive, it has no phosphorylation consensus motif. Instead, it functions as a scaffold that recruits substrates (e.g., C/EBPα) for COP1-mediated ubiquitination (Danger et al., 2022).
+
+## Structure  
+TRIB1 comprises (i) an N-terminal PEST-rich region containing a nuclear localisation signal (aa 1–90), (ii) a central pseudokinase domain (aa 91–330) displaying a bilobal kinase-like fold, and (iii) a charged C-terminal tail (aa 331–373) bearing MEK1- and COP1-binding motifs (Danger et al., 2022; Singh et al., 2024; Unknown authors, 2021).  
+Key inactivating features include:  
+• Activation loop SLE motif replacing the catalytic DFG, toggling between “SLE-out” and “SLE-in” states that occlude the ATP pocket (Jamieson et al., 2018; McMillan et al., 2021).  
+• Bent, truncated αC-helix and a retracted glycine-rich loop (Danger et al., 2022; Unknown authors, 2016).  
+The C-terminal COP1 motif can dock intramolecularly onto a regulatory groove on the pseudokinase domain, creating an autoinhibited conformation (Jamieson et al., 2018).
+
+## Regulation  
+Conformational allostery dominates TRIB1 control. In the resting “SLE-out” state, the C-terminal COP1 motif is sequestered intramolecularly. Binding of substrate degrons (e.g., C/EBPα) induces an “SLE-in” shift, releases the C-terminal tail, and exposes the COP1 site for E3-ligase recruitment (Jamieson et al., 2018; McMillan et al., 2021). Protein stability is further limited by N-terminal PEST sequences that drive proteasome-dependent degradation; TRIB1 mRNA half-life is <1 h and protein half-life ~90 min (Danger et al., 2022). No direct activating phosphorylation of TRIB1 has been reported.
+
+## Function  
+Non-catalytic adaptor that coordinates transcription, signalling, and proteostasis (Danger et al., 2022; McMillan et al., 2021).  
+Expression / localisation: High in bone marrow, liver, adipose tissue, thyroid, and immune cells; distributed in nucleus and cytoplasm (Danger et al., 2022; Singh et al., 2024).  
+Interactors / substrates: COP1 E3 ligase; transcription factors C/EBPα, C/EBPβ, FOXP3; signalling partners MEK1, MALT1, Akt, JAK1 (Danger et al., 2022; McMillan et al., 2021).  
+Pathways:  
+• Ubiquitination – substrate receptor for COP1 controlling myeloid differentiation via C/EBPα degradation.  
+• MAPK – MEK1 binding enhances ERK activation.  
+• PI3K/Akt – augments AKT1 phosphorylation, stimulating NF-κB.  
+• JAK/STAT – modulates STAT1/3/6 phosphorylation, influencing macrophage polarisation.  
+• NF-κB and transcriptional programmes – interacts with cytokine promoters, RARα, and HDAC1 (Danger et al., 2022; McMillan et al., 2021; Singh et al., 2024).
+
+## Inhibitors  
+Although enzymatically inert, TRIB1 binds certain ATP-competitive kinase inhibitors that stabilise the protein, indicating potential druggable pockets (Jamieson et al., 2018).
+
+## Other comments  
+TRIB1 dysregulation is linked to:  
+• Cancer – especially acute myeloid leukaemia; located at chromosome 8q24.13 near MYC and frequently co-amplified; over-expressed in pancreatic and colorectal tumours (Danger et al., 2022; Eyers et al., 2017; McMillan et al., 2021).  
+• Cardiovascular / metabolic disorders – influences macrophage lipid handling and plasma lipid levels, implicating TRIB1 in atherogenesis and coronary artery disease (Danger et al., 2022; Singh et al., 2024).  
+• Immune diseases – associations with chronic antibody-mediated rejection, SLE, inflammatory bowel disease, and eczema (Danger et al., 2022).
+
+## References  
+Danger, R., Feseha, Y., & Brouard, S. (2022). The pseudokinase TRIB1 in immune cells and associated disorders. *Cancers*, *14*(4), Article 1011. https://doi.org/10.3390/cancers14041011  
+
+Dobens, L., Nauman, C., Fischer, Z., & Yao, X. (2021). Control of cell growth and proliferation by the Tribbles pseudokinase: lessons from Drosophila. *Cancers*, *13*(4), Article 883. https://doi.org/10.3390/cancers13040883  
+
+Eyers, P. A., Keeshan, K., & Kannan, N. (2017). Tribbles in the 21st century: the evolving roles of Tribbles pseudokinases in biology and disease. *Trends in Cell Biology*, *27*(4), 284–298. https://doi.org/10.1016/j.tcb.2016.11.002  
+
+Hegedus, Z., Czibula, Á., & Kiss-Tóth, E. (2007). Tribbles: a family of kinase-like proteins with potent signalling regulatory function. *Cellular Signalling*, *19*(2), 238–250. https://doi.org/10.1016/j.cellsig.2006.06.010  
+
+Jamieson, S. A., Ruan, Z., Burgess, A. E., Curry, J. R., McMillan, H. D., Brewster, J. L., … Mace, P. D. (2018). Substrate binding allosterically relieves autoinhibition of the TRIB1 pseudokinase. *bioRxiv*. https://doi.org/10.1101/313767  
+
+McMillan, H. D., Keeshan, K., Dunbier, A., & Mace, P. (2021). Structure vs. function of TRIB1—myeloid neoplasms and beyond. *Cancers*, *13*(12), Article 3060. https://doi.org/10.3390/cancers13123060  
+
+Richmond, L., & Keeshan, K. (2020). Pseudokinases: a Tribble-edged sword. *The FEBS Journal*, *287*(20), 4170–4182. https://doi.org/10.1111/febs.15096  
+
+Singh, K., Showalter, C. A., Manring, H. R., Haque, S. J., & Chakravarti, A. (2024). “Oh, dear we are in Tribble”: an overview of the oncogenic functions of Tribbles 1. *Cancers*, *16*(18), 1889. https://doi.org/10.3390/cancers16101889  
+
+Unknown authors. (2016). Structural and functional characterization of the human Tribbles Homologue 2 pseudokinase.  
+
+Unknown authors. (2020). Characterising TRIB1 nanobodies using a yeast surface display platform with flow cytometry.  
+
+Unknown authors. (2021). Functional characterization of TRIB1, a gene associated with multiple cardiometabolic traits.

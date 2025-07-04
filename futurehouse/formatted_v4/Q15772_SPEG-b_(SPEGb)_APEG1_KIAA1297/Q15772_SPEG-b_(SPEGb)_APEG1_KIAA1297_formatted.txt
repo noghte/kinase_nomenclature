@@ -1,0 +1,55 @@
+## Phylogeny  
+Striated‐preferentially expressed protein kinase (SPEG) belongs to the Ca²⁺/calmodulin-regulated protein kinase (CaMK) group, myosin light-chain kinase (MLCK) family, Unc-89/obscurin-related dual-kinase subfamily (Fleming et al., 2021; Luo et al., 2021). It arose from a vertebrate-specific duplication of OBSCN; its second kinase domain (SK2) has diverged markedly in the ATP-binding region (Grogan et al., 2020). Confirmed vertebrate orthologues include Homo sapiens SPEG, Mus musculus Speg, Rattus norvegicus Speg, Gallus gallus Speg, Xenopus laevis Speg, and Danio rerio paralogues spega and spegb (Unknown authors, 2020). No direct invertebrate orthologue exists; Caenorhabditis elegans UNC-89/twitchin provides an analogous architecture (Luo et al., 2021).  
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Fleming et al., 2021).  
+
+## Cofactor Requirements  
+Mg²⁺ presumed, as for other MLCK-family enzymes; not yet experimentally confirmed (Li et al., 2023).  
+
+## Substrate Specificity  
+A global consensus motif has not been defined and SPEG is absent from the Johnson 2023 kinase atlas (Fleming et al., 2021). Experimentally validated phosphorylation events include: Junctophilin-2 (sites unmapped) (Grogan et al., 2020); SERCA2a Thr484 (Luo et al., 2021); RyR2 Ser2367 (Lee et al., 2023); RyR1 Ser2902 (Li et al., 2023); and cis-autophosphorylation within kinase-1 (Grogan et al., 2020).  
+
+## Structure  
+Domain order (N→C): truncated Ig-like array → multiple fibronectin type-III repeats → kinase-1 (SK1) → low-complexity inter-kinase linker → kinase-2 (SK2) → short C-terminal tail (Grogan et al., 2020; Lee et al., 2023). Both kinases retain canonical VAIK, HRD and DFG catalytic triads (Fleming et al., 2021). No crystallographic data are available; homology and AlphaFold models predict standard bilobed folds with intact catalytic and regulatory spines (Fleming et al., 2021). The inter-kinase linker lacks the autophosphorylation seen in obscurin, suggesting divergent regulation (Fleming et al., 2021).  
+
+## Regulation  
+• Cis autophosphorylation: robust in SK1, minimal in SK2 (Grogan et al., 2020).  
+• Upstream kinases: Akt/PKB phosphorylates Ser2461–Ser2462–Thr2463, enhancing activity (Fleming et al., 2021); CaMKII targets Ser2130 (human numbering) (Fleming et al., 2021).  
+• Calmodulin: a C-terminal CaM-binding segment is present; SK1 activity is partly CaM-independent (Grogan et al., 2020).  
+• No reports of ubiquitination, sumoylation or acetylation (Fleming et al., 2021).  
+
+## Function  
+Expression: SPEGβ (~355 kDa) and SPEGα (~250 kDa) dominate in cardiac and skeletal muscle; APEG-1 is arterial-smooth-muscle specific; BPEG is brain-enriched (Luo et al., 2021).  
+Localisation: Z-disks and sarcoplasmic-reticulum triad/dyad regions (Grogan et al., 2020; Lee et al., 2023).  
+Interacting partners: RyR2, RyR1 (Grogan et al., 2020; Li et al., 2023); Junctophilin-2 (Quick et al., 2017); SERCA2a (Luo et al., 2021); MTM1 (Li et al., 2023); Desmin (Luo et al., 2020); CMYA5, FSD2, Esterase-D (Lee et al., 2023); Dynamin-2 (Luo et al., 2021).  
+Biological roles:  
+– Maintains triad and T-tubule architecture via Junctophilin-2 phosphorylation and desmin interaction (Quick et al., 2017; Luo et al., 2020).  
+– Regulates excitation–contraction coupling through inhibitory phosphorylation of RyR2 Ser2367 and stimulatory phosphorylation of SERCA2a Thr484 (Lee et al., 2023; Luo et al., 2021).  
+– Modulates skeletal-muscle RyR1 via Ser2902 (Li et al., 2023).  
+– APEG-1 promotes arterial smooth-muscle growth and differentiation (Luo et al., 2021).  
+
+## Inhibitors  
+No specific inhibitors reported to date (Fleming et al., 2021; Grogan et al., 2020).  
+
+## Other Comments  
+Autosomal-recessive loss-of-function variants in SPEG cause centronuclear myopathy with or without dilated or left-ventricular non-compaction cardiomyopathy; truncations disrupting the MTM1-interaction region correlate with severe cardiac presentations (Luo et al., 2021; Wang et al., 2017). SPEG mRNA levels are reduced (~83 %) in failing human hearts (Quick et al., 2017).  
+
+## 9. References  
+Fleming, J., Rani, A., Kraft, J. D., Zenker, S., Börgeson, E., & Lange, S. (2021). Exploring obscurin and SPEG kinase biology. Journal of Clinical Medicine, 10(5), 984. https://doi.org/10.3390/jcm10050984  
+
+Grogan, A., Tsakiroglou, P., & Kontrogianni-Konstantopoulos, A. (2020). Double the trouble: Giant proteins with dual kinase activity in the heart. Biophysical Reviews, 12, 1019-1029. https://doi.org/10.1007/s12551-020-00715-3  
+
+Lee, C. S., Jung, S. Y., Zhen Yee, R. S., Agha, N. H., Hong, J., Chang, T., … Hamilton, S. L. (2023). SPEG interactions that regulate the stability of excitation-contraction coupling protein complexes in triads and dyads. Communications Biology. https://doi.org/10.1038/s42003-023-05330-y  
+
+Li, Q., Lin, J., Luo, S., Schmitz-Abe, K., Agrawal, R., Meng, M., … Agrawal, P. (2023). Integrated multi-omics approach reveals the role of SPEG in skeletal muscle biology including its relationship with myospryn complex. bioRxiv. https://doi.org/10.1101/2023.04.24.538136  
+
+Luo, S., Rosen, S. M., Li, Q., & Agrawal, P. (2021). Striated preferentially expressed protein kinase (SPEG) in muscle development, function, and disease. International Journal of Molecular Sciences, 22(11), 5732. https://doi.org/10.3390/ijms22115732  
+
+Luo, S., Li, Q., Lin, J., Murphy, Q., Marty, I., Zhang, Y., Kazerounian, S., & Agrawal, P. (2020). SPEG binds with desmin and its deficiency causes defects in triad and focal adhesion proteins. Human Molecular Genetics, 29(24), 4097-4111. https://doi.org/10.1093/hmg/ddaa276  
+
+Quick, A. P., Wang, Q., Philippen, L. E., Barreto-Torres, G., Chiang, D. Y., Beavers, D., … Wehrens, X. H. T. (2017). SPEG (striated muscle preferentially expressed protein kinase) is essential for cardiac function by regulating junctional membrane complex activity. Circulation Research, 120(1), 110-119. https://doi.org/10.1161/CIRCRESAHA.116.309977  
+
+Unknown authors. (2020). Elucidating the role of SPEG in muscle development and function.  
+
+Wang, H., Castiglioni, C., Bayram, A., Fattori, F., Pekuz, S., Araneda, D., … Çırak, S. (2017). Insights from genotype–phenotype correlations by novel SPEG mutations causing centronuclear myopathy. Neuromuscular Disorders, 27(9), 836-842. https://doi.org/10.1016/j.nmd.2017.05.014

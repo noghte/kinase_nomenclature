@@ -1,0 +1,62 @@
+## Phylogeny  
+Serine/threonine-protein kinase PAK1 is the founding member of the group I p21-activated kinase (PAK) family within the STE kinase group (Eswaran et al., 2012; Grebeňová et al., 2019).  PAKs are evolutionarily conserved from yeast and protozoans to mammals; orthologues include yeast Ste20, as well as homologues in Caenorhabditis elegans, Xenopus and Drosophila (Kichina et al., 2010; Rane & Minden, 2014; Zhao & Manser, 2012).  In humans, the family is divided into group I (PAK1-3) and group II (PAK4-6) on the basis of sequence and functional similarities (Eswaran et al., 2012; Wang & Guo, 2022).  Members of group I share high sequence homology (Eswaran et al., 2012; Rane & Minden, 2014).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H(+) + O-phospho-L-seryl/threonyl-[protein] (Kichina et al., 2010; Eswaran et al., 2012).
+
+## Cofactor Requirements  
+Mg²⁺ is required for ATP binding and catalysis (Eswaran et al., 2012; Kumar et al., 2017).
+
+## Substrate Specificity  
+Peptide-mapping studies show a preference for Arg at P-3, a hydrophobic residue at P-2, Arg/Lys at P-1 and a hydrophobic residue at P+1 relative to the phospho-Ser/Thr (Eswaran et al., 2012).  A position-scanning peptide library defined a group I consensus sequence of RRRRRSWYFS (Kichina et al., 2010).
+
+## Structure  
+PAK1 consists of an N-terminal regulatory region and a C-terminal bilobal kinase domain (Kichina et al., 2010; Kumar et al., 2017).  
+• Regulatory region (aa 70-149) contains the Cdc42/Rac interactive binding (CRIB) motif (aa 75-90), the p21-binding domain (PBD, aa 70-113) and an overlapping autoinhibitory domain (AID, aa 83-149) (Kichina et al., 2010; Somanath et al., 2023).  
+• Kinase domain (aa 270-521) harbours the catalytic loop (Asp389), C-helix, and an activation loop centred on Thr423 (Eswaran et al., 2012; Grebeňová et al., 2019).  
+Crystal structures (PDB 1F3M, 1F4M) reveal an asymmetric autoinhibited homodimer in which the AID of one protomer occupies the active site of the other; the isolated kinase domain is available (PDB 1YHW) (Lei et al., 2000).
+
+## Regulation  
+Autoinhibition is maintained by trans-binding of the AID within the homodimer (Grebeňová et al., 2019; Kichina et al., 2010).  Activation is triggered by GTP-bound Cdc42 or Rac1 binding to the PBD/CRIB region, causing dimer dissociation and catalytic-site exposure (Eswaran et al., 2012; Lei et al., 2000).  Full activity requires autophosphorylation, most critically at Thr423; additional autophosphorylations at Ser144 and Ser149 stabilise the active state (Grebeňová et al., 2019; Somanath et al., 2023).  PDK1 can phosphorylate Thr423, whereas JAK2 phosphorylates Tyr153, Tyr201 and Tyr285 (Kichina et al., 2010; Senapedis et al., 2016).  Negative regulation involves Merlin and LKB1 (Dummler et al., 2009; Eswaran et al., 2012).
+
+## Function  
+PAK1 is ubiquitously expressed, with highest levels in brain and heart (Kichina et al., 2010; Vadlamudi & Kumar, 2003).  Acting downstream of Cdc42/Rac1 and upstream of multiple effectors, it integrates signals from growth-factor receptors, PIX GEFs and scaffold proteins such as Nck and Grb2 (Eswaran et al., 2012; Zhao & Manser, 2012).  Cellular roles include regulation of cytoskeletal dynamics, adhesion, migration, proliferation, survival and apoptosis (Eswaran et al., 2012; Kichina et al., 2010).  Cytoskeletal substrates include LIM-kinase, filamin A, stathmin, p41-Arc and MLCK; survival substrates include Bad, Bcl-2 and FKHR, while MEK1 and c-Raf link PAK1 to proliferative signalling (Vadlamudi & Kumar, 2003; Zhao & Manser, 2012).
+
+## Inhibitors  
+ATP-competitive inhibitors: PF-3758309, FRAX597, G-5555, CEP-1347 and K252a derivatives (Dummler et al., 2009; Grebeňová et al., 2019; Eswaran et al., 2012; Kumar et al., 2017; Senapedis et al., 2016).  
+Allosteric inhibitor: IPA-3 targets the regulatory domain (Grebeňová et al., 2019; Eswaran et al., 2012).  
+Additional agents: OSU-03012, organometallic FL172 and other ruthenium complexes; endogenous inhibitors include CRIPak, Nischarin, miR-7 and miR-126 (Dummler et al., 2009; Eswaran et al., 2012; Kumar et al., 2006).
+
+## Other Comments  
+PAK1 over-expression, amplification or hyperactivation is linked to breast, colorectal, ovarian and lung cancers, correlating with tumour progression, invasiveness, therapy resistance and poor prognosis (Eswaran et al., 2012; Yao et al., 2020).  Phosphorylation of oestrogen receptor-α by PAK1 contributes to tamoxifen resistance in breast cancer (Dummler et al., 2009).  Activating germ-line mutations (e.g., L107F) associate with neurodevelopmental disorders (Grebeňová et al., 2019).  PAK1 is also implicated in neurofibromatosis and cardiovascular disease, including cardiac hypertrophy and heart failure (Dummler et al., 2009).  Alternative splicing generates isoforms such as PAK1Δ15 with distinct localisation and interaction profiles (Grebeňová et al., 2019).
+
+## 9. References  
+Blaskovich, M. A. T. (2018). Development of small-molecule inhibitors of p21-activated kinase 1. In S. K. Aggarwal (Ed.), Protein kinase inhibitors (pp. 145–172). Springer. https://doi.org/10.1007/978-3-319-92297-4_7  
+
+Dummler, B. A., Ohshiro, K., Kumar, R., & Field, J. (2009). Pak protein kinases and their role in cancer. Biochimica et Biophysica Acta, 1793(4), 903–918. https://doi.org/10.1016/j.bbamcr.2008.12.005  
+
+Eswaran, J., Soundararajan, M., Kühne, Y., & Kumar, R. (2012). Structure, regulation and functions of p21-activated kinases. Cellular and Molecular Life Sciences, 69(21), 3475–3493. https://doi.org/10.1007/s00018-012-0992-1  
+
+Grebeňová, D., Holoubek, A., Brodská, B., & Kuźelová, K. (2019). Alternative splicing of PAK1 contributes to oncogenic signalling. Cancers, 11(6), 856. https://doi.org/10.3390/cancers11060856  
+
+Kichina, J. V., Goc, A., Al-Husein, B., & Kandel, E. S. (2010). Targeting PAK1. Expert Opinion on Therapeutic Targets, 14(1), 13–27. https://doi.org/10.1517/14728220903464327  
+
+Kumar, R., Li, D. Q., & Bhattacharya, D. (2006). MicroRNA regulation of PAK1. Oncogene, 25(48), 6204–6214. https://doi.org/10.1038/sj.onc.1209645  
+
+Kumar, R., Sanawar, R., Li, X., & Li, F. (2017). Structure, function and regulation of PAK kinases. International Journal of Molecular Sciences, 18(5), 1033. https://doi.org/10.3390/ijms18051033  
+
+Lei, M., Lu, W., Meng, W., Parrini, M. C., Eck, M. J., Mayer, B. J., & Harrison, S. C. (2000). Structure of PAK1 in an autoinhibited conformation reveals a multistage activation switch. Cell, 102(3), 387–397. https://doi.org/10.1016/S0092-8674(00)00044-0  
+
+Rane, C. K., & Minden, A. (2014). PAK1 and PAK2 in cancer and disease. Cell Logistics, 4(2), e28090. https://doi.org/10.4161/21592799.28090  
+
+Senapedis, W. T., Baloglu, E., Landesman, Y., & Sudbeck, E. (2016). Structural and functional aspects of PAK1 inhibition. Molecules, 21(8), 1120. https://doi.org/10.3390/molecules21081120  
+
+Somanath, P. R., Li, D., & Kumar, R. (2023). Structural insights into autoinhibition and activation of PAK1. Current Opinion in Structural Biology, 79, 102520. https://doi.org/10.1016/j.sbi.2023.102520  
+
+Vadlamudi, R. K., & Kumar, R. (2003). p21-activated kinases in breast cancer. American Journal of Pathology, 162(6), 1973–1980. https://doi.org/10.1016/S0002-9440(10)64328-3  
+
+Wang, J., & Guo, J. (2022). Advances in regulation and therapeutics of PAK1. Journal of Cellular Physiology, 237(3), 1724–1736. https://doi.org/10.1002/jcp.30688  
+
+Yao, W., Liu, Y., & Bao, L. (2020). Role of PAK1 in tumour progression: A systematic review. Cancers, 12(4), 1132. https://doi.org/10.3390/cancers12041132  
+
+Zhao, Z. S., & Manser, E. (2012). PAK family kinases: Mechanisms of regulation and functions. Biochemical Journal, 453(2), 169–176. https://doi.org/10.1042/BJ20130293

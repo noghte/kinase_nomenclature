@@ -1,0 +1,56 @@
+## Proposed EC/sub-subclass
+2.7.11.– (serine/threonine-protein kinase; precise sub-subclass not yet assigned)
+
+## Accepted name
+Mixed-lineage kinase 4 (MLK4)
+
+## Synonyms
+MLK4β; mixed-lineage kinase 4 beta isoform
+
+## Phylogeny
+Member of the mixed-lineage kinase (MLK) subfamily within the MAP3K tier of the human kinome. MLK4 clusters with MLK1–3 and is most closely related to the DLK and ZAK subfamilies on the basis of kinase-domain homology (Unknown Authors, 2013, pp. 34–39). The leucine-zipper of MLK4β shares 66 % identity with that of MLK3, supporting heterodimerisation within the subfamily (Unknown Authors, 2013, pp. 103–107). Vertebrate and invertebrate orthologues have not been detailed in the available literature.
+
+## Reaction Catalyzed
+ATP + [protein]-Ser/Thr ⇌ ADP + [protein]-Ser/Thr-P (Unknown Authors, 2013, pp. 44–50).
+
+## Cofactor Requirements
+No experimental data are available on divalent metal ion dependence for MLK4 activity (Unknown Authors, 2013, pp. 44–50).
+
+## Substrate Specificity
+A consensus phosphorylation motif has not been defined. Only the intrinsic TTXXS activation-loop motif required for MLK family autophosphorylation is reported (Unknown Authors, 2013, pp. 44–50).
+
+## Structure
+• Domain organisation: N-terminal SH3 (autoinhibitory), catalytic kinase domain (aa 63–343), tandem leucine-zipper/basic region (dimerisation), CRIB motif (Cdc42/Rac binding) and proline-rich C-terminus (Unknown Authors, 2013, pp. 44–50).  
+• Crystal structure: isolated kinase domain solved at 2.29 Å (PDB 4UYA) shows a canonical bilobal fold with intact HRD, DFG and GxGxxG motifs; tumour-derived mutations E314K and Y330H perturb the DFG motif and catalytic spine (Marusiak et al., 2016, pp. 21–25).  
+• Regulatory elements: KAAR ATP-binding sequence, TTXXS activation loop and hydrophobic spine are conserved; the leucine-zipper mediates head-to-head dimerisation needed for trans-autophosphorylation (Unknown Authors, 2013, pp. 44–50).  
+• No full-length experimental structure is available; the proline-rich tail remains uncharacterised (Marusiak et al., 2016, pp. 21–25).
+
+## Regulation
+• Autophosphorylation of the TTXXS activation motif is essential for activity (Unknown Authors, 2013, pp. 44–50).  
+• CHIP E3 ubiquitin ligase ubiquitylates MLK4β, triggering proteasomal degradation during osmotic or heat stress (Unknown Authors, 2015, pp. 27–33).  
+• Heterodimerisation with MLK3 via the leucine-zipper blocks Cdc42 access to the MLK3 CRIB domain, suppressing MLK3 activation (Unknown Authors, 2013, pp. 103–107).  
+• Cancer-associated mutations modulate activity: H261Y, G291E, R470C and R555* increase activity, whereas E314K and Y330H abolish it by destabilising catalytic motifs (Unknown Authors, 2013, pp. 103–107; Marusiak et al., 2016, pp. 21–25).
+
+## Function
+Expression: high basal expression in HCT116 colorectal carcinoma cells and in ovarian cancer lines SKOV3 and HEY1B (Unknown Authors, 2013, pp. 98–103, 103–107).  
+Upstream regulators: small GTPase Cdc42 (binding impeded in MLK4β–MLK3 heterodimers) and CHIP-mediated ubiquitylation (Unknown Authors, 2013, pp. 103–107; Unknown Authors, 2015, pp. 27–33).  
+Downstream signalling: MLK4β inhibits MLK3, leading to reduced ERK, JNK and p38 activation; elevates basal IκBα and suppresses NF-κB transcription in HEK293 cells (Unknown Authors, 2013, pp. 103–107).  
+Pathway context: acts as a negative regulator of Toll-like receptor-4 signalling at basal state but does not block TNFα- or LPS-induced NF-κB activation (Unknown Authors, 2013, pp. 103–107).  
+Cellular processes: in ovarian cancer cells, MLK4β lowers MMP-2 and MMP-9 activities, limiting extracellular-matrix degradation and invasion (Unknown Authors, 2013, pp. 98–103).
+
+## Inhibitors
+Not reported in the available literature.
+
+## Other Comments
+• Somatic mutations: activating (H261Y, G291E, R470C, R555*) and loss-of-function (E314K, Y330H, D348A) variants have been identified in colorectal cancer (Unknown Authors, 2013, pp. 103–107; Marusiak et al., 2016, pp. 5–9, 21–25).  
+• Re-expression of wild-type MLK4 in MLK4-mutant colorectal cancer cells restores JNK signalling, up-regulates p21/p15 and suppresses tumour growth in vitro and in vivo (Marusiak et al., 2016, pp. 21–25).  
+• Elevated MLK4 correlates with enhanced migration and invasiveness in breast cancer; interactions with oncogenic RAS and microsatellite instability influence colorectal cancer prognosis (Nguyen et al., 2022, p. 18).
+
+## References
+Marusiak, A. A., Stephenson, N. L., Baik, H., Trotter, E. W., Li, Y., Blyth, K., … Brognard, J. (2016). Recurrent MLK4 loss-of-function mutations suppress JNK signalling to promote colon tumorigenesis. Cancer Research, 76(3), 724–735. https://doi.org/10.1158/0008-5472.CAN-15-0701-T  
+
+Nguyen, K., Tran, M. N., Rivera, A., Cheng, T., Windsor, G. O., Chabot, A. B., … Burow, M. E. (2022). MAP3K family review and correlations with patient survival outcomes in various cancer types. Frontiers in Bioscience-Landmark, 27, 167. https://doi.org/10.31083/j.fbl2705167  
+
+Unknown Authors. (2013). The regulatory role of mixed-lineage kinase 4 beta in MAPK signalling and ovarian cancer cell invasion (pp. 34–39; 44–50; 98–103; 103–107).  
+
+Unknown Authors. (2015). The E3 ligase CHIP mediates ubiquitination and degradation of mixed-lineage kinase 3 and mixed-lineage kinase 4 beta (pp. 27–33).

@@ -1,0 +1,62 @@
+## Phylogeny  
+CLK4 is one of four vertebrate CDC-like kinase paralogues (CLK1–4) that form a distinct branch of the CMGC protein-kinase group (Walter et al., 2018). It arose from an early vertebrate duplication of an ancestral CLK2 gene (Ogle et al., 2024). Orthologues are preserved across metazoans, plants and fungi (e.g., Mus musculus Clk4, Xenopus tropicalis Clk4, Danio rerio Clk4, Caenorhabditis elegans MADD-3, Drosophila melanogaster DOA, Arabidopsis thaliana AFC2, Schizosaccharomyces pombe Lkh1), underscoring deep evolutionary conservation (Haltenhof, 2020; Ogle et al., 2024; Rabinow, 2018). CLK kinases share ~55 % sequence identity with DYRK kinases and cluster next to DYRK2 within the CMGC clade (Walter et al., 2018). Lineage-specific loss of CLK4 in Neobatrachia amphibians shows the protein is dispensable in some vertebrate groups (Ogle et al., 2024).
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr/Tyr ⇌ ADP + [protein]-O-phospho-Ser/Thr/Tyr (Song et al., 2023).
+
+## Cofactor Requirements  
+Catalysis requires divalent cations; in vitro assays typically use 10 mM Mg²⁺ (Walter et al., 2018).
+
+## Substrate Specificity  
+CLK4 preferentially phosphorylates Arg-X-X-Ser/Thr motifs, displaying highest activity toward Ser-Arg dipeptides within RS domains of spliceosomal SR proteins (Song et al., 2023). It also accepts Ser-Lys and Ser-Pro contexts, giving broader specificity than SRPK family members (Haltenhof, 2020). Confirmed cellular substrates include SRSF1 and SRSF3 (Fedorov et al., 2011).
+
+## Structure  
+The protein contains an intrinsically disordered N-terminal RS domain that mediates substrate docking and nuclear-speckle localisation, followed by a C-terminal bilobal kinase domain (Song et al., 2023). Conserved catalytic motifs include VAIK (Lys191), HRD, DFG and the CLK-signature “EHLAMMERILG” sequence within the activation segment (Haltenhof, 2020; Kallen et al., 2018).  
+Crystal structure PDB 7O4P shows CLK4 bound to CX-4945; Lys191 anchors the inhibitor and gatekeeper Phe243 forms π-stacking in a closed αC-helix conformation (Kallen et al., 2018). A MAPK-like insertion plus an extended β-hairpin generate a shallow groove that accommodates RS repeats (Haltenhof, 2020). Structures of CLK1/3 with KH-CB19 reveal glycine-rich-loop and αC-helix displacement, indicating active-site plasticity conserved in CLK4 (Fedorov et al., 2011). AlphaFold models confirm a highly conserved fold across human CLK1–4 (Ogle et al., 2024).
+
+## Regulation  
+CLK4 is extensively auto-phosphorylated on Ser/Thr/Tyr residues, a prerequisite for full activity (Prak et al., 2016). AKT kinases phosphorylate conserved sites (Ser34, Thr127, Thr344 equivalents) (Prak et al., 2016). Oxidation of Met307 diminishes activity and stability in oesophageal squamous-cell carcinoma (Song et al., 2023). Enzyme activity is temperature-sensitive, decreasing at 38 °C and recovering at 35 °C, thereby modulating heat-responsive splicing (Song et al., 2023). Distinct auto-phosphorylation patterns further bias substrate choice toward SRSF1 or SRSF2 (Characterization of thermoregulatory mechanisms…, 2024).
+
+## Function  
+CLK4 localises mainly to nuclear speckles through interactions with SR proteins (An inhibitor of the Cdc2-like kinase 4, 2011). Protein expression is widespread in mammalian tissues; nuclear and occasional cytoplasmic staining is seen in HeLa cells (Rabinow, 2018).  
+Key roles include:  
+• Phosphorylation of SRSF1/SRSF3 to regulate alternative splicing of MAPT/Tau pre-mRNA (Fedorov et al., 2011).  
+• Control of tissue-factor (F3) pre-mRNA splicing in endothelial cells (An inhibitor of the Cdc2-like kinase 4, 2011).  
+• Phosphorylation of the SR-like protein CLASP, influencing exon 4 exclusion in CLK1 transcripts (Rabinow, 2018).  
+• In cardiomyocytes, phosphorylation of Nexilin-Ser437 attenuates pathological hypertrophy (Song et al., 2023).  
+• Phosphorylation of MITF-Tyr360 promotes its autophagic degradation (Song et al., 2023).  
+• Elevated CLK4 supports epithelial–mesenchymal transition in triple-negative breast-cancer cells (Song et al., 2023).  
+• Reduced CLK4 levels—via promoter methylation or Met307 oxidation—facilitate tumorigenesis in oesophageal squamous-cell carcinoma (Song et al., 2023).  
+• Global CLK inhibition lowers HIV-1 Gag expression, indicating a proviral function (Song et al., 2023).
+
+## Inhibitors  
+• TG003: low-nanomolar ATP-competitive inhibitor, kinase-promiscuous (An inhibitor of the Cdc2-like kinase 4, 2011).  
+• KH-CB19: ATP-non-mimetic, selective for CLK1/4, IC₅₀ ≈ 20 nM (Fedorov et al., 2011).  
+• ML167: IC₅₀ ≈ 136 nM with >10-fold kinome selectivity (An inhibitor of the Cdc2-like kinase 4, 2011).  
+• CX-4945: sub-micromolar potency; crystal structure with CLK4 available (Kallen et al., 2018).  
+• Indol-8-one KuWal151, CLK1-IN-1 (IC₅₀ 8 nM), KUWal151 (IC₅₀ 28 nM) (Song et al., 2023; Walter et al., 2018).  
+• Leucettine L41 and the multikinase agent CC-671 also inhibit CLK4 (Song et al., 2023).
+
+## Other Comments  
+High CLK4 expression correlates with poor prognosis in triple-negative breast cancer, whereas Clk4 deficiency accelerates cardiac-hypertrophy-driven heart failure (Song et al., 2023). Met307 represents a redox-sensitive hotspot whose oxidation impairs function in oesophageal cancer (Song et al., 2023).
+
+## References  
+An inhibitor of the Cdc2-like kinase 4 (Clk4). (2011). [Details unavailable].  
+
+Characterization of thermoregulatory mechanisms in kinases involved in splicing control. (2024). [Details unavailable].  
+
+Fedorov, O., Huber, K., Eisenreich, A., Filippakopoulos, P., King, O., Bullock, A. N., … Knapp, S. (2011). Specific CLK inhibitors from a novel chemotype for regulation of alternative splicing. Chemistry & Biology, 18, 67–76. https://doi.org/10.1016/j.chembiol.2010.11.009  
+
+Haltenhof, T. (2020). Cdc2-like kinases represent evolutionarily adapted temperature-sensors, which globally control alternative splicing and gene expression. https://doi.org/10.17169/refubium-26535  
+
+Kallen, J., Bergsdorf, C., Arnaud, B., Bernhard, M., Brichet, M., Cobos-Correa, A., … Lerchner, A. (2018). X-ray structures and feasibility assessment of CLK2 inhibitors for Phelan–McDermid syndrome. ChemMedChem, 13, 1997–2007. https://doi.org/10.1002/cmdc.201800344  
+
+Ogle, R. A., Netherton, J. K., Robinson, B. R., Heyd, F., Zhang, X. D., & Baker, M. A. (2024). Comparison of the CDC-like kinase family across eukaryotes highlights the functional conservation of these unique biological thermometers. bioRxiv. https://doi.org/10.1101/2024.06.21.599975  
+
+Prak, K., Kriston-Vizi, J., Chan, A. W. E., Luft, C., Costa, J. R., Pengo, N., & Ketteler, R. (2016). Benzobisthiazoles represent a novel scaffold for kinase inhibitors of CLK family members. Biochemistry, 55, 608–617. https://doi.org/10.1021/acs.biochem.5b01128  
+
+Rabinow, L. (2018). Clk. In L. Rabinow (Ed.), Encyclopedia of Signaling Molecules (pp. 1161–1172). https://doi.org/10.1007/978-3-319-67199-4_277  
+
+Song, M., Pang, L., Zhang, M., Qu, Y., Laster, K. V., & Dong, Z. (2023). CDC2-like kinases: Structure, biological function and therapeutic targets for diseases. Signal Transduction and Targeted Therapy. https://doi.org/10.1038/s41392-023-01409-4  
+
+Walter, A., Chaikuad, A., Helmer, R., Loaëc, N., Preu, L., Ott, I., … Kunick, C. (2018). Molecular structures of CDC2-like kinases in complex with a new inhibitor chemotype. PLOS ONE, 13, e0196761. https://doi.org/10.1371/journal.pone.0196761

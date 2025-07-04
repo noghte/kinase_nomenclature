@@ -1,0 +1,58 @@
+## Phylogeny  
+Casein kinase 1 δ (CK1δ) belongs to the CK1 clade of the eukaryotic protein-kinase superfamily and forms a distinct branch that clusters close to tau-tubulin and vaccinia-related kinases in kinome trees (Fulcher & Sapkota, 2020; Cheong & Virshup, 2011). The catalytic domain shares > 96 % sequence identity with human CK1ε (Francisco & Virshup, 2022). Orthologous enzymes are experimentally verified in fungi (S. cerevisiae Hrr25), insects (D. melanogaster Doubletime), vertebrates (M. musculus Csnk1d variants TV1–TV3; D. rerio ck1δ) and several protozoa, underscoring deep evolutionary conservation. Yeast Hrr25 and fly Doubletime conserve regulatory motifs and localisation patterns observed for human CK1δ (Fulcher & Sapkota, 2020).  
+
+## Reaction Catalyzed  
+ATP + [protein] Ser/Thr → ADP + [protein]-phospho-Ser/Thr (Xu et al., 2019).  
+
+## Cofactor Requirements  
+Catalysis requires a divalent Mg²⁺ ion that is coordinated by the DFG149-151 motif of the activation loop (Xu et al., 2019).  
+
+## Substrate Specificity  
+• Strong preference for “primed” motifs pSer/pThr-X-X-Ser/Thr that carry a phospho- or acidic residue three positions N-terminal to the target site (Cheong & Virshup, 2011).  
+• Executes highly processive phosphorylation on the circadian PER2 sequence pSxx(S/T)xx(S/T) (Francisco & Virshup, 2022).  
+• Initiation on unprimed but acidic motifs (e.g., β-catenin Ser-Leu-Ser, NFAT) is markedly slower (Xu et al., 2019).  
+• Ionic complementarity is provided by Arg178 and Lys224 within the catalytic cleft, favouring acidic or phosphorylated substrates (Xu et al., 2019).  
+
+## Structure  
+CK1δ contains an N-terminal kinase domain (aa 9–277) with the canonical Lys38-Asp128-DFG149 catalytic triad and a ~124-aa intrinsically disordered C-terminal tail that mediates autoinhibition (Xu et al., 2019; Francisco & Virshup, 2022). Crystal structures of constructs truncated at residue 318 define the ATP-binding pocket and hydrophobic spine (Fulcher & Sapkota, 2020). Gatekeeper Met82 controls access to the selectivity pocket; mutation alters inhibitor binding without abolishing activity (Xu et al., 2019). The activation loop toggles between “loop-down” and “loop-up” conformations that bias the enzyme toward primed or unprimed substrates (Francisco & Virshup, 2022). Tail phosphoserines dock into anion pockets of the kinase domain, acting as intramolecular pseudosubstrates, and an α-helix from one protomer can insert Arg13 into the partner’s adenine pocket to form an inhibitory dimer (Xu et al., 2019).  
+
+## Regulation  
+• Autophosphorylation at Ser318, Thr323, Ser328, Thr329, Ser331 and Thr337 creates pseudosubstrate sequences that suppress activity (Xu et al., 2019).  
+• PKA/Akt and CLK2 phosphorylate Ser370, affecting Wnt/β-catenin signalling (Eng et al., 2017).  
+• Additional kinases: PKCα (Ser53, Ser328), Chk1 (Ser181, Thr347), CDK2/E and CDK5/p35 (multiple C-tail sites) fine-tune catalytic output (Eng et al., 2017; Xu et al., 2019).  
+• Protein phosphatase 1 removes inhibitory tail phosphates, accelerating the PER phosphorylation cycle (Francisco & Virshup, 2022).  
+• SCF-β-TRCP–dependent ubiquitination regulates CK1δ stability and couples PER and YAP1 phosphorylation to proteasomal degradation (Cheong & Virshup, 2011).  
+• Heparin binding, C-terminal truncation or disruption of the dimer interface relieve autoinhibition (Xu et al., 2019).  
+• Scaffold interactions with PER1/2, Axin, FAM83 proteins, DDX3X and AKAP450 localise the kinase to specific cellular compartments (Cheong & Virshup, 2011; Xu et al., 2019).  
+
+## Function  
+CK1δ is ubiquitously expressed, shuttles between cytoplasm and nucleus and accumulates at peri-Golgi membranes, centrosomes and nuclear speckles through discrete NLS and CLS motifs (Cheong & Virshup, 2011; Xu et al., 2019).  
+• Circadian clock: hierarchical PER1/2 phosphorylation controls period length, nuclear entry and β-TRCP-mediated turnover (Eng et al., 2017; Cheong & Virshup, 2011).  
+• Wnt pathway: primes β-catenin at Ser45 and phosphorylates LRP5/6 and Dishevelled to promote β-catenin degradation (Cheong & Virshup, 2011).  
+• DNA-damage response: modifies p53 and MDM2, influencing stability and apoptosis (Cheong & Virshup, 2011).  
+• Hippo signalling: phosphorylates YAP1 to generate a β-TRCP degron (Cheong & Virshup, 2011).  
+• Additional substrates include Connexin-43, MAP1A, SNAPIN, TAU, TOP2A, DNMT1, ESR1, AIB1, HIF-1α, NFAT1, DARPP-32 and PGC-1α, linking CK1δ to cell communication, cytoskeletal dynamics, transcription and metabolism (Cheong & Virshup, 2011; Xu et al., 2019).  
+• Regulates centrosome integrity, ciliogenesis, spindle checkpoint control, neurite outgrowth and dopaminergic signalling (Xu et al., 2019).  
+
+## Inhibitors  
+PF-670462 (low-nanomolar, ATP-competitive), D4476 (micromolar), IC261 (nanomolar), difluoro-dioxolo-benzimidazol-benzamides (nanomolar), newly developed CK1-specific inhibitors, and brain-penetrant PF-5006739 all potently inhibit CK1δ/ε and are widely used to interrogate circadian, oncogenic and metabolic functions (Fulcher & Sapkota, 2020; Richter et al., 2014; Liu et al., 2019; Roth et al., 2021; Xu et al., 2019).  
+
+## Other Comments  
+Heterozygous T44A diminishes activity and underlies familial advanced sleep-phase syndrome and familial migraine (Francisco & Virshup, 2022). Hyperactive T67S enhances Wnt signalling and shows oncogenic potential in colorectal cancer; N172D and T176I impair catalysis (Xu et al., 2019). CK1δ overexpression or activating mutations drive tumour progression in several cancers, and pharmacological inhibition induces apoptosis independently of Wnt status (Xu et al., 2019). Elevated CK1δ levels in Alzheimer’s disease correlate with phosphorylation of TAU, α-synuclein and TDP-43 (Xu et al., 2019).  
+
+## References  
+Cheong, J. K., & Virshup, D. M. (2011). Casein kinase 1: complexity in the family. The International Journal of Biochemistry & Cell Biology, 43, 465–469. https://doi.org/10.1016/j.biocel.2010.12.004  
+
+Eng, G., Edison, D., & Virshup, D. (2017). Site-specific phosphorylation of casein kinase 1 δ (CK1δ) regulates its activity towards the circadian regulator PER2. PLoS ONE. https://doi.org/10.1371/journal.pone.0177834  
+
+Francisco, J. C., & Virshup, D. M. (2022). Casein kinase 1 and human disease: insights from the circadian phosphoswitch. Frontiers in Molecular Biosciences. https://doi.org/10.3389/fmolb.2022.911764  
+
+Fulcher, L. J., & Sapkota, G. P. (2020). Functions and regulation of the serine/threonine protein kinase CK1 family: moving beyond promiscuity. Biochemical Journal, 477, 4603–4621. https://doi.org/10.1042/BCJ20200506  
+
+Liu, C., Witt, L., Ianes, C., Bischof, J., Bammert, M., Baier, J., … Knippschild, U. (2019). Newly developed CK1-specific inhibitors show specifically stronger effects on CK1 mutants and colon cancer cell lines. International Journal of Molecular Sciences, 20, 6184. https://doi.org/10.3390/ijms20246184  
+
+Richter, J., Bischof, J., Zaja, M., Kohlhof, H., Othersen, O. G., Vitt, D., … Knippschild, U. (2014). Difluoro-dioxolo-benzimidazol-benzamides as potent inhibitors of CK1δ and ε with nanomolar inhibitory activity on cancer cell proliferation. Journal of Medicinal Chemistry, 57, 7933–7946. https://doi.org/10.1021/jm500600b  
+
+Roth, A., Gihring, A., Göser, F., Peifer, C., Knippschild, U., & Bischof, J. (2021). Assessing the inhibitory potential of kinase inhibitors in vitro: major pitfalls and suggestions for improving comparability of data using CK1 inhibitors as an example. Molecules, 26, 4898. https://doi.org/10.3390/molecules26164898  
+
+Xu, P., Ianes, C., Gärtner, F., Liu, C., Burster, T., Bakulev, V., … Bischof, J. (2019). Structure, regulation and (patho-)physiological functions of the stress-induced protein kinase CK1 δ (CSNK1D). Gene, 715, 144005. https://doi.org/10.1016/j.gene.2019.144005

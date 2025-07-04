@@ -1,0 +1,51 @@
+## Phylogeny  
+Human SIK1B is a recent duplicate of SIK1 on chromosome 21 and differs by only one amino-acid residue, placing it in the salt-inducible kinase (SIK) subfamily of the AMP-activated protein kinase–related (ARK) branch of the SNF1/AMPK kinome (Darling & Cohen, 2021). Orthologues are present in mouse (Sik1), zebrafish (sik1), Caenorhabditis elegans (KIN-29) and Drosophila melanogaster (SIK2/SIK3), indicating deep metazoan conservation (Darling & Cohen, 2021). Within the ARKs, SIKs share evolutionary relationships and a common domain layout with MARK and MELK kinases (Öster et al., 2024).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr → ADP + [protein]-O-phospho-Ser/Thr (Darling & Cohen, 2021).  
+
+## Cofactor Requirements  
+Catalytic turnover requires divalent metal ions, typically Mg²⁺ or Mn²⁺, to coordinate ATP (Sun et al., 2020).  
+
+## Substrate Specificity  
+SIK1B preferentially phosphorylates substrates bearing the consensus motif LX(R/K/H)(S/T)XSXXXL or the phosphoproteomic variant LxB(S/T)xS*xxxL (Sun et al., 2020; Wein et al., 2018). Many target sites contain an S*-x-P sequence that recruits 14-3-3 adaptors once phosphorylated (Darling & Cohen, 2021). Validated cellular substrates include CRTC1-3 (e.g., CRTC2 Ser171), class IIa HDACs 4/5/7/9, and PDE4D (Unknown Authors, 2017; Öster et al., 2024).  
+
+## Structure  
+The protein comprises an N-terminal kinase domain (KD), a ubiquitin-associated (UBA) module and a proline-rich C-terminal tail (Öster et al., 2024; Shi, 2024). Catalytic hallmarks include activation-loop Thr182, an ordered C-helix and an intact hydrophobic spine consistent with an active ARK fold (Darling & Cohen, 2021; Öster et al., 2024). An autophosphorylation hotspot at Ser186 lies adjacent to the activation loop (Darling & Cohen, 2021). The distal C-terminus contains an autoinhibitory/nuclear-localisation segment (Shi, 2024). AlphaFold provides high-confidence models for SIK1B, while crystal structures of the paralogue SIK3 (PDB 8R4Q/8R4O/8R4U) demonstrate a UBA-stabilised active state that is conserved across SIK isoforms (Öster et al., 2024).  
+
+## Regulation  
+• Activation: LKB1 phosphorylates Thr182 (Darling & Cohen, 2021).  
+• Positive modulation: autophosphorylation at Ser186 (Darling & Cohen, 2021).  
+• Inhibition: PKA phosphorylates C-terminal sites such as Thr473 and Ser575, promoting 14-3-3-mediated cytoplasmic sequestration (Darling & Cohen, 2021; Wein et al., 2018).  
+• Ca²⁺-responsive inhibition: CaMK1/4 add additional inhibitory phosphorylations during Ca²⁺ influx (Darling & Cohen, 2021).  
+• Transcriptional control: cAMP signalling acutely induces SIK1B mRNA expression (Darling & Cohen, 2021).  
+
+## Function  
+Expression is inducible by high dietary salt, ACTH, glucagon, neuronal depolarisation and circadian cues; basal transcripts are detected in adrenal cortex, adipose tissue, brain and developing myocardium (Darling & Cohen, 2021; Sun et al., 2020; Shi, 2024).  
+Key roles include:  
+• Metabolic regulation – phosphorylation of CRTC2 represses CREB-driven gluconeogenic genes in liver (Unknown Authors, 2017).  
+• Transcriptional repression – phosphorylation-dependent cytoplasmic retention of class IIa HDACs limits MEF2 programmes (Wein et al., 2018).  
+• Ion transport – regulation of Na⁺/K⁺-ATPase via PME-1 phosphorylation in renal proximal tubules (Sun et al., 2020).  
+• Cardiac development – modulation of cell-cycle inhibitors during cardiomyogenesis (Shi, 2024).  
+• Additional reported functions include adipocyte glucose uptake, neuronal survival, macrophage polarisation and sleep-need signalling, mediated through interactions with CRTCs, HDACs, CREB, MEF2 and 14-3-3 proteins (Darling & Cohen, 2021; Öster et al., 2024).  
+
+## Inhibitors  
+Pan-SIK chemical probes HG-9-91-01 and YKL-05-099 are widely used (Öster et al., 2024). Pyrido[2,3-d]pyrimidin-7(8H)-one derivatives (e.g., compound 219) exhibit emerging isoform selectivity (Öster et al., 2024). Broad-spectrum tyrosine kinase inhibitors dasatinib and bosutinib inhibit SIKs off-target and have co-crystal structures with SIK3 (Öster et al., 2024). Orally active bone-anabolic inhibitors with measurable SIK1 potency have also been reported (Sato et al., 2022).  
+
+## Other Comments  
+Pathogenic missense and truncation variants in SIK1 cause “SIK1 syndrome” with developmental epilepsy; the high sequence identity of SIK1B suggests potential relevance to similar phenotypes (Darling & Cohen, 2021). Aberrant SIK signalling has been implicated in pulmonary arterial hypertension, inflammatory disorders and broader cardiometabolic disease (Öster et al., 2024; Shi, 2024).  
+
+## 9. References  
+Darling, N. J., & Cohen, P. (2021). Nuts and bolts of the salt-inducible kinases (SIKs). Biochemical Journal, 478, 1377–1397. https://doi.org/10.1042/BCJ20200502  
+
+Öster, L., Castaldo, M., de Vries, E., Edfeldt, F., Pemberton, N., Gordon, E., Cederblad, L., & Käck, H. (2024). The structures of salt-inducible kinase 3 in complex with inhibitors reveal determinants for binding and selectivity. The Journal of Biological Chemistry. https://doi.org/10.1016/j.jbc.2024.107201  
+
+Sun, Z., Jiang, Q., Li, J., & Guo, J.-P. (2020). The potent roles of salt-inducible kinases (SIKs) in metabolic homeostasis and tumorigenesis. Signal Transduction and Targeted Therapy. https://doi.org/10.1038/s41392-020-00265-w  
+
+Wein, M. N., Foretz, M., Fisher, D. E., Xavier, R. J., & Kronenberg, H. M. (2018). Salt-inducible kinases: Physiology, regulation by cAMP, and therapeutic potential. Trends in Endocrinology & Metabolism, 29, 723–735. https://doi.org/10.1016/j.tem.2018.08.004  
+
+Unknown Authors. (2017). Insights into the therapeutic potential of salt inducible kinase 1: A novel mechanism of metabolic control.  
+
+Shi, F. (2024). Understanding the roles of salt-inducible kinases in cardiometabolic disease. Frontiers in Physiology. https://doi.org/10.3389/fphys.2024.1426244  
+
+Sato, T., Castro Andrade, C. D., Yoon, S.-H., Zhao, Y., Greenlee, W. J., Weber, P. C., Viswanathan, U., Kulp, J., Brooks, D. J., Demay, M. B., Bouxsein, M. L., Mitlak, B., Lanske, B., & Wein, M. N. (2022). Structure-based design of selective, orally available salt-inducible kinase inhibitors that stimulate bone formation in mice. Proceedings of the National Academy of Sciences. https://doi.org/10.1073/pnas.2214396119

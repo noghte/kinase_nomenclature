@@ -1,0 +1,60 @@
+## Proposed EC/sub-subclass:  
+Not assigned – STK40 is a catalytically inactive pseudokinase (Durzynska et al., 2017).
+
+## Accepted name:  
+Serine/threonine kinase 40
+
+## Synonyms:  
+STK40; serine/threonine kinase 40
+
+## Phylogeny:  
+STK40 is classified within the human kinome as a pseudokinase of the CAMK group and CAMK family (Johnson et al., 2023). It is a distant homolog of the Tribbles-family pseudokinases, sharing ~19–21 % sequence identity with Trib1, Trib2 and Trib3 (Durzynska et al., 2017). Although an early survey placed STK40 among active kinases (Manning et al., 2002), multiple structural and biochemical studies confirm loss of catalytic function, a feature conserved in vertebrate and amphibian orthologs (Durzynska et al., 2017; Tao et al., 2024).
+
+## Reaction catalysed:  
+Canonical Ser/Thr kinase reaction:  
+ATP + protein → ADP + phosphoprotein (Durzynska et al., 2017)
+
+STK40 itself does not catalyse this reaction; ATP-binding and phosphotransfer activities are undetectable in biochemical assays (Durzynska et al., 2017; Tao et al., 2024).
+
+## Cofactor requirements:  
+None – the Asp of the DFG metal-binding motif is replaced by NFC, eliminating Mg²⁺ coordination and catalytic activity (Durzynska et al., 2017).
+
+## Specificity:  
+No substrate consensus motif has been identified; lack of ATP binding and catalytic activity is consistent with an absence of defined substrate specificity (Durzynska et al., 2017; Johnson et al., 2023).
+
+## Structure:  
+X-ray crystal structure of the kinase homology domain resolved to 2.5 Å (Durzynska et al., 2017). The protein retains the canonical bilobal kinase fold.  
+• N-lobe adopts an “active-like” αC helix position stabilised by Lys66–Glu93 salt bridge, yet the ATP pocket is occluded by Gln64 and a divergent P-loop.  
+• Activation segment contains an NFC sequence in place of the catalytic DFG.  
+• Hydrophobic spine is disrupted, locking the enzyme in a stable but inactive conformation.  
+• Unique features include (i) an extended β4–β5 loop harbouring a predicted nuclear localisation signal and (ii) a 10-residue hinge insertion that buttresses the lobes.  
+• A C-terminal VPD/E motif follows the kinase domain and mediates binding to the E3 ubiquitin ligase COP1 (Durzynska et al., 2017).
+
+## Regulation:  
+Activity is governed by protein–protein interactions rather than catalytic modulation.  
+• The C-terminal VPD/E motif binds COP1 (Durzynska et al., 2017; Tao et al., 2024).  
+• A β4–β5 loop insertion containing an NLS may be controlled by phosphorylation of nearby serines (Durzynska et al., 2017).  
+No allosteric activators or post-translational modifications of the kinase domain that restore catalysis have been reported.
+
+## Function:  
+Acts as a non-catalytic adaptor/scaffold.  
+• Interacts with COP1 (RFWD2) to promote K48-linked polyubiquitination and proteasomal degradation of FOXO1, FOXO4 and other substrates (Durzynska et al., 2017; Tao et al., 2024).  
+• Immune system: Enhances differentiation of CD4⁺ T cells into TH1 and TH17 lineages by facilitating FOXO1/4 turnover (Tao et al., 2024). T-cell-specific deletion mitigates experimental autoimmune encephalomyelitis and colitis.  
+• Muscle: Up-regulated during skeletal muscle differentiation in C2C12 cells and fetal mouse muscle; positively regulates the HDAC5–MEF2 axis (He et al., 2017).  
+• Stem cells: Over-expression in embryonic stem cells drives differentiation and links Oct4 to Erk/MAPK signalling (Durzynska et al., 2017).  
+• Transcriptional control: Negatively modulates NF-κB and p53-dependent transcription (Durzynska et al., 2017; Tao et al., 2024).  
+• Adipogenesis: Knock-down enhances adipocyte differentiation via altered C/EBPβ/δ levels (Durzynska et al., 2017).
+
+## Other comments:  
+STK40 loss in mice causes perinatal lethality due to lung epithelial maturation defects (Durzynska et al., 2017). Over-expression is linked to psoriasis and to oesophageal squamous cell carcinoma through miR-31 regulation (Durzynska et al., 2017). Its role in immune cell differentiation positions STK40 as a potential therapeutic target in autoimmune diseases (Tao et al., 2024).
+
+## References  
+Durzynska, I., Xu, X., Adelmant, G., Ficarro, S. B., Marto, J. A., Sliz, P., Uljon, S., & Blacklow, S. C. (2017). STK40 is a pseudokinase that binds the E3 ubiquitin ligase COP1. Structure, 25(2), 287-294. https://doi.org/10.1016/j.str.2016.12.008  
+
+He, K., Hu, J., Yu, H., Wang, L., Tang, F., Gu, J., Ge, L., Wang, H., Li, S., Hu, P., & Jin, Y. (2017). Serine/threonine kinase 40 (STK40) functions as a novel regulator of skeletal muscle differentiation. Journal of Biological Chemistry, 292, 351-360. https://doi.org/10.1074/jbc.M116.719849  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759-766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912-1934. https://doi.org/10.1126/science.1075762  
+
+Tao, Y., Jiang, Z., Wang, H., Li, J., Li, X., Ni, J., … Wu, X. (2024). Pseudokinase STK40 promotes TH1 and TH17 cell differentiation by targeting FOXO transcription factors. Science Advances. https://doi.org/10.1126/sciadv.adp2919

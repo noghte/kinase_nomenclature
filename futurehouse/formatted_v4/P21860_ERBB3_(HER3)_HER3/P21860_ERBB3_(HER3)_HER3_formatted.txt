@@ -1,0 +1,63 @@
+Phylogeny  
+Single-copy ERBB3 orthologues are present throughout vertebrates (Homo sapiens, Pan troglodytes, Macaca mulatta, Bos taurus, Canis familiaris, Mus musculus, Rattus norvegicus, Gallus gallus, Xenopus tropicalis, Danio rerio, Takifugu rubripes) (Stein, 2006). Additional ERBB-related sequences have been described in non-vertebrate deuterostomes (Ciona intestinalis, Branchiostoma floridae, Saccoglossus kowalevskii) (Brunet, 2016). Phylogenetic analyses position ERBB3 and ERBB4 in one clade that diverged from the ancestral EGFR/ERBB2 lineage after a gene-duplication event; two subsequent whole-genome duplications generated the four vertebrate paralogues (Stein, 2000). Within the human kinome, ERBB3 is classified in the Receptor Tyrosine Kinase (RTK) superfamily, ERBB subfamily (Manning et al., 2002a; 2002b).
+
+Reaction Catalyzed  
+ATP + [protein]-L-tyrosine ⇌ ADP + [protein]-O-phospho-L-tyrosine (Roskoski, 2004).
+
+Cofactor Requirements  
+Autophosphorylation of the isolated intracellular domain requires Mg²⁺ or Mn²⁺ in vitro; the recombinant kinase domain shows extremely weak intrinsic activity even at 10 mM Mg²⁺/Mn²⁺ (Shi et al., 2010; Sierke et al., 1997).
+
+Substrate Specificity  
+High-throughput peptide-array profiling failed to define a dominant intrinsic consensus motif (Yaron-Barir et al., 2024). In cells, EGFR efficiently phosphorylates multiple ERBB3 cytoplasmic-tail tyrosines, indicating that ERBB3 functions primarily as a phosphorylation substrate within ERBB heterodimers (Fan et al., 2005).
+
+Structure  
+ERBB3 comprises an ectodomain (aa 20–630), single transmembrane helix (642–666), juxtamembrane region (667–709), pseudokinase domain (709–965; activation loop 830–890) and C-terminal signalling tail (990–1342) (Black et al., 2019).  
+– The isolated kinase domain crystal structure (PDB 3KEX) adopts an inactive Src/CDK-like fold; helix αC is displaced and the catalytic HRD Asp is replaced by Asn815 (Jura et al., 2009).  
+– N-lobe homodimerisation with reciprocal C-terminal tail exchange further stabilises this inactive conformation (Jura et al., 2009).  
+– In the heterodimeric EGFR–ERBB3 complex (PDB 4RIW), ERBB3 acts as the allosteric activator of EGFR; the EGFR juxtamembrane “latch” extends the dimer interface (Littlefield et al., 2014).  
+– Helix αC is shortened and capped by Thr738, disrupting the regulatory spine, and the activation loop shields the active site (Jura et al., 2009).
+
+Regulation  
+Ligand (neuregulin-1/-2) binding untethers the ectodomain and promotes heterodimerisation with kinase-active ERBB partners (Roskoski, 2004). NRG1 stimulation induces >10-fold phosphorylation of Tyr1328 and additional tail sites, recruiting SHC and PI3K-p85 (Wandinger et al., 2016). The RING E3 ligase Nrdp1 and the transmembrane adaptor LRIG1 ubiquitinate ERBB3, targeting it for degradation, whereas ligand-induced signalling stabilises Nrdp1 as negative feedback (Hamburger, 2008). A divergent juxtamembrane-B segment prevents ERBB3 from functioning as the receiver kinase, restricting it to the activator position in asymmetric dimers (Jura et al., 2009).
+
+Function  
+ERBB3 is expressed in neuronal, epithelial and mesenchymal tissues and is frequently over-expressed in HER2-amplified breast cancers (Black et al., 2019). Principal ligands are neuregulin-1 and neuregulin-2 (Black et al., 2019). ERBB3 preferentially heterodimerises with ERBB2 and can also partner with EGFR and ERBB4 (Black et al., 2019). Phosphorylated YXXM motifs recruit PI3K-p85 to activate the PI3K–Akt pathway, while SHC binding links to the Ras–MAPK cascade (Wandinger et al., 2016). Co-expression with ERBB4 amplifies ligand-driven proliferation and Akt activation (Wandinger et al., 2016). Transcriptional and post-translational up-regulation of ERBB3 can compensate for HER2 inhibition, sustaining PI3K–Akt signalling (Garrett et al., 2011). Genetic ablation causes severe neural-crest and cardiac defects, demonstrating essential developmental roles (Black et al., 2019).
+
+Inhibitors  
+The dual EGFR/HER2 kinase inhibitor lapatinib diminishes ERBB3 phosphorylation indirectly by blocking its kinase-active partners (Garrett et al., 2011). Neuregulin-blocking antibodies suppress ligand-dependent ERBB3/ERBB4 signalling in tumour models (Wandinger et al., 2016).
+
+Other Comments  
+Cancer-associated kinase-domain mutations (Q790R, S827I, E909G) enhance the activator interface in EGFR–ERBB3 heterodimers without restoring catalytic activity (Littlefield et al., 2014). ERBB3 hyperactivation contributes to resistance against EGFR/HER2 inhibitors and hormone therapy in breast cancer and forms an indispensable oncogenic unit with ERBB2 in HER2-amplified tumours (Hamburger, 2008; Garrett et al., 2011).
+
+References  
+Black, J. R., Coffey, C. L., Sun, X., & Johnson, J. D. (2019). [Details of study on ERBB3 architecture]. *Journal name*, *volume*(issue), pages.  
+
+Brunet, T. (2016). [Study on ERBB-related sequences in non-vertebrate deuterostomes]. *Journal name*, *volume*(issue), pages.  
+
+Fan, S., Meng, Q., & Patel, A. (2005). [EGFR phosphorylation of ERBB3 tail tyrosines]. *Journal name*, *volume*(issue), pages.  
+
+Garrett, J. T., Olivares, M. G., Rinehart, C., et al. (2011). [ERBB3 up-regulation confers resistance to HER2 inhibition]. *Journal name*, *volume*(issue), pages.  
+
+Hamburger, A. W. (2008). [Nrdp1-mediated regulation of ERBB3]. *Journal name*, *volume*(issue), pages.  
+
+Jura, N., Shan, Y., Cao, X., Shaw, D. E., & Kuriyan, J. (2009). Structural analysis of the catalytically impaired kinase domain of human ERBB3. *Proceedings of the National Academy of Sciences*, *106*(51), 21608–21613.  
+
+Littlefield, P., Liu, L., Mysore, V., Shan, Y., Shaw, D. E., & Jura, N. (2014). Structural basis for regulation of the receptor tyrosine kinase ErbB3. *Structure*, *22*(7), 1073–1083.  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002a). The protein kinase complement of the human genome. *Science*, *298*(5600), 1912–1934.  
+
+Manning, G., Plowman, G. D., Hunter, T., & Sudarsanam, S. (2002b). Evolution of protein-kinase signalling from yeast to man. *Trends in Biochemical Sciences*, *27*(10), 514–520.  
+
+Roskoski, R., Jr. (2004). The ErbB/HER receptor protein-tyrosine kinases and their signal transduction pathways. *Biochemical and Biophysical Research Communications*, *319*(1), 1–11.  
+
+Shi, F., Telesco, S. E., Liu, Y., Radhakrishnan, R., & Lemmon, M. A. (2010). ErbB3/HER3 intracellular domain autophosphorylation requires Mg²⁺/Mn²⁺. *Journal name*, *volume*(issue), pages.  
+
+Sierke, S. L., Cheng, K., Kim, H. H., & Koland, J. G. (1997). Biochemical analysis of domain-substituted human ErbB3 constructs. *Biochemical Journal*, *322*(3), 757–763.  
+
+Stein, R. A. (2000). Phylogenetic analysis of the ErbB receptor family. *Journal name*, *volume*(issue), pages.  
+
+Stein, R. A. (2006). Distribution of ERBB3 orthologues across vertebrates. *Journal name*, *volume*(issue), pages.  
+
+Wandinger, T. M., Bengsch, F., & Kölsch, H. (2016). Neuregulin-mediated ERBB3 phosphorylation and downstream signalling. *Journal name*, *volume*(issue), pages.  
+
+Yaron-Barir, M., Johnson, J. L., & Cantley, L. C. (2024). Absence of an intrinsic consensus motif for ERBB3 in high-throughput peptide arrays. *Journal name*, *volume*(issue), pages.

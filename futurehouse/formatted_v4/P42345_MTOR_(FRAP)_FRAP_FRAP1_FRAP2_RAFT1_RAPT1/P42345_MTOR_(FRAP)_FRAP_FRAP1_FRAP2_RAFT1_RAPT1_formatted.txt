@@ -1,0 +1,76 @@
+## Phylogeny  
+Mechanistic Target of Rapamycin (mTOR) is an atypical serine/threonine protein kinase belonging to the phosphatidylinositol-3-kinase-related kinase (PIKK) family, together with ATM, ATR, DNA-PK, SMG1 and TRRAP (Chao & Avruch, 2019). Single TOR orthologues are present throughout eukaryotes—TOR1/TOR2 (Saccharomyces cerevisiae), dTOR (Drosophila melanogaster) and LET-363 (Caenorhabditis elegans)—whereas higher vertebrates carry two nearly identical paralogues (> 95 % identity in human, mouse and rat) (The mammalian target…, 2005; The role of phosphorylation…, 2004).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr → ADP + [protein]-Ser/Thr-phosphate (mTOR kinase structure…, 2013).  
+
+## Cofactor Requirements  
+Requires two Mg²⁺ ions that coordinate ATP within the active site (mTOR kinase structure…, 2013).  
+
+## Substrate Specificity  
+• Catalytic domain prefers Ser/Thr followed by Pro within a hydrophobic Φ-Φ-[ST]-P motif (Chao & Avruch, 2019).  
+• mTORC1 substrates additionally contain an N-terminal TOR-signalling (TOS) motif (Φ-Φ-x-x-Φ) that docks on RAPTOR (Tafur et al., 2020).  
+• Verified mTORC1 targets: S6K1, 4E-BP1 and PRAS40.  
+• Verified mTORC2 targets: Akt Ser473, SGK1 and multiple conventional/novel PKC isoforms (Scaiola et al., 2020; Chao & Avruch, 2019).  
+
+## Structure  
+mTOR polypeptide: N-HEAT (≈ 32 repeats) → M-HEAT → FAT solenoid → FRB insertion → PI3K-like kinase domain with LBE insertion binding mLST8 → C-terminal FATC tail (Chao & Avruch, 2019; mTOR kinase structure…, 2013).  
+mTORC1: lozenge-shaped dimer of mTOR–RAPTOR–mLST8 heterotrimers (PDB 6BCU); RAPTOR’s caspase-like domain abuts the FRB gate for substrate docking (Aylett et al., 2016).  
+mTORC2: compact rhomboid dimer in which RICTOR and SIN1 encircle the catalytic cores, explaining rapamycin resistance (Scaiola et al., 2020).  
+The FAT domain clamps kinase lobes, widening the active site; Rheb-GTP binding realigns these elements and activates catalysis (Chao & Avruch, 2019).  
+Activation loop is pre-ordered and phosphorylation-independent; FRB helix forms the rapamycin-binding steric gate (mTOR kinase structure…, 2013).  
+
+## Regulation  
+Post-translational modifications  
+• Ser2448 (S6K1 feedback or Akt—conflicting data) (Bai & Jiang, 2010; Figueiredo et al., 2017).  
+• Thr2446 phosphorylated by AMPK under energy stress (Bai & Jiang, 2010).  
+• Ser2481 autophosphorylation reports intrinsic activity (Bai & Jiang, 2010).  
+• Ser2159 and Ser1261 phosphorylation enhance mTORC1 output (Tchevkina & Komelkov, 2012).  
+• Lys1218 acetylation may affect complex stability (Chao & Avruch, 2019).  
+
+Allosteric and contextual control  
+• Rheb-GTP engagement removes FAT clamp and increases k_cat (Chao & Avruch, 2019).  
+• Rag GTPases loaded with amino acids recruit mTORC1 to lysosomes for Rheb-dependent activation (Chao & Avruch, 2019).  
+• Inhibitory partners PRAS40, FKBP38 and DEPTOR block FRB/RAPTOR interfaces (Chao & Avruch, 2019; Wälchli et al., 2021).  
+• AMPK phosphorylates RAPTOR to suppress mTORC1 in low-energy states (Bai & Jiang, 2010).  
+• FKBP12-rapamycin complex binds FRB and sterically excludes substrates without complex disassembly (Bai & Jiang, 2010).  
+
+## Function  
+GTEx data show ubiquitous MTOR expression, highest in muscle, liver and brain (Chao & Avruch, 2019).  
+mTORC1 promotes anabolic growth—stimulates protein and lipid synthesis (S6K1, 4E-BP1, ULK1, TFEB) and represses autophagy (Bai & Jiang, 2010; Chao & Avruch, 2019).  
+mTORC2 phosphorylates Akt, SGK1 and PKCs to control survival, ion transport and cytoskeleton (Scaiola et al., 2020).  
+Upstream PI3K-Akt signalling inhibits TSC1/2, elevating Rheb-GTP and activating mTORC1; AMPK counteracts under ATP depletion (Inoki et al., 2005).  
+Active complexes localise mainly to lysosomal membranes, with additional cytoplasmic/nuclear pools (Chao & Avruch, 2019; The role of phosphorylation…, 2004).  
+
+## Inhibitors  
+• Allosteric macrolides: rapamycin and rapalogs (temsirolimus, everolimus, AP23573) form FKBP12–drug complexes that bind FRB and selectively inhibit mTORC1 (The mammalian target…, 2005; Bai & Jiang, 2010).  
+• ATP-competitive inhibitors: Torin1/2, PP242, MLN0128, PI-103 occupy the catalytic cleft and suppress both complexes; stacking against Trp2239 underlies selectivity (mTOR kinase structure…, 2013; Tafur et al., 2020).  
+
+## Other Comments  
+Hyperactive MTOR signalling drives cancers, metabolic and neurological disorders (Scaiola et al., 2020; Wälchli et al., 2021).  
+Recurrent activating (E1799K, S2215Y, F2415I) or drug-resistant (S2035F/I) mutations cluster in functional domains (Tafur et al., 2020; Chao & Avruch, 2019; The role of phosphorylation…, 2004).  
+
+## References  
+Aylett, C. H. S., Sauer, E., Imseng, S., Boehringer, D., Hall, M. N., Ban, N., & Maier, T. (2016). Architecture of human mTOR complex 1. Science, 351(6268), 48–52. https://doi.org/10.1126/science.aaa3870  
+
+Bai, X., & Jiang, Y. (2010). Key factors in mTOR regulation. Cellular and Molecular Life Sciences, 67, 239–253. https://doi.org/10.1007/s00018-009-0163-7  
+
+Chao, L., & Avruch, J. (2019). Cryo-EM insight into the structure of mTOR complex 1 and its interactions with Rheb and substrates. F1000Research. https://doi.org/10.12688/f1000research.16109.1  
+
+Figueiredo, V. C., Markworth, J. F., & Cameron-Smith, D. (2017). Considerations on mTOR regulation at serine 2448: Implications for muscle metabolism studies. Cellular and Molecular Life Sciences, 74, 2537–2545. https://doi.org/10.1007/s00018-017-2481-5  
+
+Inoki, K., Ouyang, H., Li, Y., & Guan, K. L. (2005). Signaling by target of rapamycin proteins in cell growth control. Microbiology and Molecular Biology Reviews, 69(1), 79–100. https://doi.org/10.1128/MMBR.69.1.79-100.2005  
+
+Scaiola, A., Mangia, F., Imseng, S., Boehringer, D., Berneiser, K., Shimobayashi, M., Stuttfeld, E., Hall, M. N., Ban, N., & Maier, T. (2020). The 3.2 Å resolution structure of human mTORC2. Science Advances, 6(48), eabc1251. https://doi.org/10.1126/sciadv.abc1251  
+
+Tafur, L., Kefauver, J., & Loewith, R. (2020). Structural insights into TOR signaling. Genes, 11(8), 885. https://doi.org/10.3390/genes11080885  
+
+Tchevkina, E., & Komelkov, A. (2012). Protein phosphorylation as a key mechanism of mTORC1/2 signaling pathways. In Protein Phosphorylation in Human Health. https://doi.org/10.5772/48274  
+
+Wälchli, M., Berneiser, K., Mangia, F., Imseng, S., Craigie, L. M., Stuttfeld, E., Hall, M. N., & Maier, T. (2021). Regulation of human mTOR complexes by DEPTOR. eLife, 10, e70871. https://doi.org/10.7554/eLife.70871  
+
+mTOR kinase structure, mechanism and regulation. (2013). [Reference details not provided].  
+
+The mammalian target of the rapamycin (mTOR) kinase pathway: Its role in tumourigenesis and targeted antitumour therapy. (2005). [Reference details not provided].  
+
+The role of phosphorylation in the regulation of the mammalian target of rapamycin. (2004). [Reference details not provided].

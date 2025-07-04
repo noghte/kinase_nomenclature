@@ -1,0 +1,44 @@
+## Phylogeny  
+CDK19 belongs to the CMGC protein-kinase superfamily and is placed within the transcriptional CDK subgroup (CDK7–CDK13), which is evolutionarily distinct from the canonical cell-cycle CDKs (Kaveh et al., 2024; Wood & Endicott, 2018). Its closest human paralogue is CDK8, and both kinases associate with cyclin C in the Mediator kinase module (Wood & Endicott, 2018). Non-mammalian orthologues were not reported in the cited sources.
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + protein-phospho-Ser/Thr (Peyressatre et al., 2015).
+
+## Cofactor Requirements  
+Requires Mg²⁺ for catalytic activity (Peyressatre et al., 2015).
+
+## Substrate Specificity  
+• Positional-scanning peptide libraries reveal a strict requirement for Pro at +1 relative to the phosphorylated Ser/Thr (consensus S/T-P) (Johnson et al., 2023).  
+• The extended motif S/T-P-X-K/R is tolerated; the +3 Lys/Arg is less critical for transcriptional CDKs (Errico et al., 2010).  
+• High-confidence cellular targets include the RNA-polymerase II subunit POLR2A at Ser1616 and Ser1619, at which CDK19 ranks in the 89.9th and 98.4th percentiles, respectively, among 303 kinases (Johnson et al., 2023).
+
+## Structure  
+CDK19 encodes an N-terminal bilobal Ser/Thr kinase domain containing the canonical catalytic Lys (β3 strand), αC-helix Glu, HRD and DFG motifs that coordinate Mg²⁺–ATP (Wood & Endicott, 2018). The activation loop harbours a Thr equivalent to CDK2 Thr160 that is phosphorylated for full activity (Wood & Endicott, 2018). An extended C-terminal region mediates cyclin C binding and incorporation into the Mediator kinase module (Wood & Endicott, 2018). No experimental CDK19 crystal structure is available; current models are inferred from CDK8 homology and AlphaFold predictions (Pellarin et al., 2025).
+
+## Regulation  
+• Kinase activity requires binding to cyclin C, which re-positions the αC-helix and orders the activation loop (Wood & Endicott, 2018).  
+• Activation-loop Thr is phosphorylated by the CDK7–cyclin H–MAT1 CAK complex (Wood & Endicott, 2018).  
+• Inhibitory phosphorylation of residues equivalent to CDK2 Thr14/Tyr15 by Wee1/Myt1 is a conserved mechanism, although the precise CDK19 sites remain unmapped (Peyressatre et al., 2015).  
+• Transient docking of the CDK19–cyclin C module onto core Mediator provides an additional layer of allosteric control (Wood & Endicott, 2018).
+
+## Function  
+CDK19 partners with cyclin C in the Mediator kinase module to regulate RNA-polymerase II transcription (Wood & Endicott, 2018). It directly phosphorylates the POLR2A C-terminal domain at Ser1616 and Ser1619, influencing transcription-elongation dynamics (Johnson et al., 2023). CDK19 shares substrate overlap and partial functional redundancy with CDK8 and is classified among transcription-regulating CDKs (Johnson et al., 2023; Kaveh et al., 2024).
+
+## Inhibitors  
+Flavopiridol, a broad-spectrum ATP-competitive inhibitor, suppresses multiple CDKs including transcriptional family members; no CDK19-selective inhibitors were reported in the cited corpus (Peyressatre et al., 2015).
+
+## Other Comments  
+Dysregulation of CDK19 has been implicated in cancer, highlighting the kinase as a potential therapeutic target (Pellarin et al., 2025).
+
+## 9. References  
+Errico, A., Deshmukh, K., Tanaka, Y., Pozniakovsky, A., & Hunt, T. (2010). Identification of substrates for cyclin dependent kinases. Advances in Enzyme Regulation, 50(1), 375–399. https://doi.org/10.1016/j.advenzreg.2009.12.001  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Kaveh, S., Mani-varnosfaderani, A., & Neiband, M. S. (2024). Deriving general structure–activity/selectivity relationship patterns for different subfamilies of cyclin-dependent kinase inhibitors using machine learning methods. Scientific Reports. https://doi.org/10.1038/s41598-024-66173-z  
+
+Pellarin, I., Dall'Acqua, A., Favero, A., Segatto, I., Rossi, V., Crestan, N., … Baldassarre, G. (2025). Cyclin-dependent protein kinases and cell cycle regulation in biology and disease. Signal Transduction and Targeted Therapy. https://doi.org/10.1038/s41392-024-02080-z  
+
+Peyressatre, M., Prével, C., Pellerano, M., & Morris, M. (2015). Targeting cyclin-dependent kinases in human cancers: from small molecules to peptide inhibitors. Cancers, 7(1), 179–237. https://doi.org/10.3390/cancers7010179  
+
+Wood, D. J., & Endicott, J. A. (2018). Structural insights into the functional diversity of the CDK–cyclin family. Open Biology. https://doi.org/10.1098/rsob.180112

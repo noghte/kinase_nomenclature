@@ -1,0 +1,79 @@
+## Phylogeny  
+Phosphoinositide-dependent protein kinase-1 (PDK1; gene PDPK1) is the single member of the PDK1 sub-family within the AGC group of the human kinome (Mora et al., 2004; Biondi, 2004). Orthologues with highly conserved catalytic and pleckstrin-homology (PH) domains are present in Mus musculus, Rattus norvegicus, Xenopus laevis and Drosophila melanogaster (Alessi et al., 1997; Calleja et al., 2014; Falasca & Fyffe, 2013). Like other AGC kinases, PDK1 possesses the conserved bilobal kinase core but uniquely lacks a C-terminal hydrophobic motif, leaving its PIF pocket available for docking partner kinases in trans (Biondi, 2004).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (Biondi, 2004).  
+
+## Cofactor Requirements  
+Catalysis requires millimolar Mg²⁺; Mn²⁺ can substitute in vitro with lower efficiency (Gao & Harris, 2006; Hindie et al., 2009).  
+
+## Substrate Specificity  
+PDK1 phosphorylates activation-loop Ser/Thr residues within the basic consensus R-x-R-x-x-S/T (Reinhardt & Leonard, 2023). High-affinity phosphorylation of many AGC kinases additionally depends on a C-terminal Φ-x-x-Φ hydrophobic motif whose phosphorylated form docks into the PIF pocket to align the activation loop (Mora et al., 2004; Biondi, 2004).  
+
+## Structure  
+• N-terminal kinase domain (~residues 70-359) containing an exposed PIF pocket between β4/β5 and αB/αC (Mora et al., 2004).  
+• Linker (~360-407) harbouring the regulatory autophosphorylation site Thr513 (Calleja et al., 2014).  
+• C-terminal PH domain (~408-556) with an additional two-β-strand/α-helix bud and a spacious phosphoinositide-binding pocket (Gao & Harris, 2006).  
+
+Crystal structures (e.g., PDB 1H1W, 3HRF) show an active kinase core with an assembled hydrophobic spine, an “in” C-helix, and an empty PIF pocket (Mora et al., 2004; Hindie et al., 2009). Full-length models reveal PH-domain homodimerisation that buries Ser241 and occludes the PIF pocket; binding of PtdIns(3,4,5)P₃ or phosphorylation of Thr513 disrupts this interface (Calleja et al., 2014). Membrane-anchored kinase domains can further dimerise via their αG helices to enable trans-autophosphorylation (Reinhardt & Leonard, 2023).  
+
+## Regulation  
+Post-translational modifications  
+• Ser241 – constitutive autophosphorylation, essential for activity (Gao & Harris, 2006).  
+• Thr513 – autophosphorylation; disrupts PH–PH dimer and increases activity (Calleja et al., 2014).  
+• Ser160 – PI3K-dependent phosphorylation that stabilises the active conformation (Calleja et al., 2014).  
+• Tyr9, Tyr373, Tyr376 – Src-family phosphorylation, enhancing activity and modulating localisation (Calleja et al., 2014).  
+• Ser504, Ser532 – PKCθ-mediated phosphorylation, inhibiting PDK1 under palmitate stress (Calleja et al., 2014).  
+• Ser394, Ser398, Thr354 – ASK1/MPK38 phosphorylation, promoting 14-3-3 binding and inhibition (Calleja et al., 2014).  
+• Ser549 – S6K1 phosphorylation, strengthening 14-3-3 binding, diminishing PIP₃ affinity and dampening AKT activation (Jiang et al., 2022).  
+
+Allosteric inputs  
+PtdIns(3,4,5)P₃ or PtdIns(3,4)P₂ binding to the PH domain relieves autoinhibition and recruits PDK1 to membranes; occupation of the PIF pocket by a phosphorylated hydrophobic motif accelerates catalysis; HSP90 binding stabilises the kinase (Alessi et al., 1997; Falasca & Fyffe, 2013; Biondi, 2004; Calleja et al., 2014).  
+
+## Function  
+Expression is ubiquitous, with notable levels in heart and skeletal muscle (Alessi et al., 1997; Garcia-Viloca et al., 2022). PH-domain engagement with 3-phosphorylated phosphoinositides targets PDK1 to the plasma membrane (Falasca & Fyffe, 2013).  
+
+Upstream regulators include class I PI3-kinase lipid products, Src kinases, feedback phosphorylation by S6K1, and inhibitory inputs from PKCθ and ASK1/MPK38 (Calleja et al., 2014; Jiang et al., 2022).  
+
+PDK1 phosphorylates at least 23 AGC kinases—such as AKT1-3, S6K1, RSK1-3, SGK1-3, conventional/atypical PKCs, PKN1/2 and PAK1—thereby integrating PI3K, mTOR and MAPK signalling pathways that control metabolism, growth, survival and migration; additional substrates (MRCKα, ROCK1, PLCγ1, β3-integrin) link PDK1 to cytoskeletal regulation and motility (Biondi, 2004; di Blasio et al., 2017).  
+
+## Inhibitors  
+• GSK2334470 – ATP-competitive; IC₅₀ ≈ 10 nM; >100-fold selective; blocks SGK and S6K phosphorylation in cells (Najafov et al., 2011; Emmanouilidi & Falasca, 2017).  
+• BX-912 – reduces AKT Thr308 phosphorylation (Peifer & Alessi, 2008).  
+• BX-795 and BX-320 – indolyl azaindoles; BX-795 IC₅₀ ≈ 0.3 µM (Peifer & Alessi, 2008).  
+• OSU-03012 – celecoxib derivative with reported cellular activity (Peifer & Alessi, 2008).  
+• 2-O-Bn-InsP₅ – PH-domain ligand that prevents membrane recruitment (Emmanouilidi & Falasca, 2017).  
+
+## Other Comments  
+PDK1 over-expression or hyperactivation is linked to oncogenic transformation, EMT, metastasis and therapy resistance in multiple cancers (di Blasio et al., 2017). A PIF-pocket knock-in mutant (L155E) is embryonically lethal, whereas PH-domain lipid-binding mutants (K465E or “LLL”) cause growth retardation and insulin resistance in mice (Bayascas, 2008). Patient variants that diminish Ser549 phosphorylation or 14-3-3 binding hyperactivate AKT and enhance tumourigenicity (Jiang et al., 2022).  
+
+## 9. References  
+Alessi, D. R., Deák, M., Casamayor, A., Caudwell, F. B., Morrice, N., Norman, D. G., Gaffney, P., Reese, C., MacDougall, C. N., Harbison, D., Ashworth, A., & Bownes, M. (1997). 3-Phosphoinositide-dependent protein kinase-1 (PDK1): structural and functional homology with the Drosophila DSTPK61 kinase. Current Biology, 7, 776–789. https://doi.org/10.1016/S0960-9822(06)00336-8  
+
+Biondi, R. M. (2004). Phosphoinositide-dependent protein kinase-1, a sensor of protein conformation. Trends in Biochemical Sciences, 29(3), 136–142. https://doi.org/10.1016/j.tibs.2004.01.005  
+
+Calleja, V., Laguerre, M., de las Heras-Martínez, G., Parker, P., Requejo-Isidro, J., & Larijani, B. (2014). Acute regulation of PDK1 by a complex interplay of molecular switches. Biochemical Society Transactions, 42(5), 1435–1440. https://doi.org/10.1042/BST20140222  
+
+di Blasio, L., Gagliardi, P. A., Puliafito, A., & Primo, L. (2017). Serine/threonine kinase 3-phosphoinositide-dependent protein kinase-1 (PDK1) as a key regulator of cell migration and cancer dissemination. Cancers, 9(3), 25. https://doi.org/10.3390/cancers9030025  
+
+Emmanouilidi, A., & Falasca, M. (2017). Targeting PDK1 for chemosensitization of cancer cells. Cancers, 9(10), 140. https://doi.org/10.3390/cancers9100140  
+
+Falasca, M., & Fyffe, C. A. (2013). 3-Phosphoinositide-dependent protein kinase-1 as an emerging target in the management of breast cancer. Cancer Management and Research, 5, 271–280. https://doi.org/10.2147/CMAR.S35026  
+
+Gao, X., & Harris, T. K. (2006). Role of the PH domain in regulating in vitro autophosphorylation events required for reconstitution of PDK1 catalytic activity. Bioorganic Chemistry, 34(4), 200–223. https://doi.org/10.1016/j.bioorg.2006.05.002  
+
+Garcia-Viloca, M., Bayascas, J. R., Lluch, J. M., & González-Lafont, À. (2022). Molecular insights into the regulation of 3-phosphoinositide-dependent protein kinase 1: modelling the interaction between the kinase and the pleckstrin homology domains. ACS Omega, 7, 25186–25199. https://doi.org/10.1021/acsomega.2c02020  
+
+Hindie, V., Stroba, A., Zhang, H., Lopez-Garcia, L. A., Idrissova, L., Zeuzem, S., Hirschberg, D., Schaeffer, F., Jørgensen, T. J., Engel, M., Alzari, P. M., & Biondi, R. M. (2009). Structure and allosteric effects of low-molecular-weight activators on the protein kinase PDK1. Nature Chemical Biology, 5(10), 758–764. https://doi.org/10.1038/nchembio.208  
+
+Jiang, Q., Zhang, X., Dai, X., Han, S., Wu, X., Wang, L., Wei, W., Zhang, N., Xie, W., & Guo, J.-P. (2022). S6K1-mediated phosphorylation of PDK1 impairs AKT kinase activity and oncogenic functions. Nature Communications, 13, 1409. https://doi.org/10.1038/s41467-022-28910-8  
+
+Mora, A., Komander, D., van Aalten, D. M. F., & Alessi, D. R. (2004). PDK1: the master regulator of AGC kinase signal transduction. Seminars in Cell & Developmental Biology, 15(2), 161–170. https://doi.org/10.1016/j.semcdb.2003.12.022  
+
+Najafov, A., Sommer, E. M., Axten, J. M., DeYoung, M. P., & Alessi, D. R. (2011). Characterization of GSK2334470, a novel and highly specific inhibitor of PDK1. The Biochemical Journal, 433(2), 357–369. https://doi.org/10.1042/BJ20101732  
+
+Peifer, C., & Alessi, D. R. (2008). Small-molecule inhibitors of PDK1. ChemMedChem, 3(11), 1810–1838. https://doi.org/10.1002/cmdc.200800195  
+
+Reinhardt, R., & Leonard, T. A. (2023). A critical evaluation of protein kinase regulation by activation loop autophosphorylation. eLife, 12, e88210. https://doi.org/10.7554/eLife.88210  
+
+Bayascas, J. R. (2008). Dissecting the role of the 3-phosphoinositide-dependent protein kinase-1 (PDK1) signalling pathways. Cell Cycle, 7(19), 2978–2982. https://doi.org/10.4161/cc.7.19.6810

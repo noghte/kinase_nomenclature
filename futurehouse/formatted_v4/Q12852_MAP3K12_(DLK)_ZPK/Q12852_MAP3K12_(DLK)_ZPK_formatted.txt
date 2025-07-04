@@ -1,0 +1,65 @@
+## Phylogeny  
+MAP3K12 (also called dual leucine-zipper kinase, DLK) is a serine/threonine protein kinase of the mixed lineage kinase (MLK) family, itself a subgroup of the mitogen-activated protein kinase kinase kinase (MAP3K) group within the STE20 kinase super-family (Köster et al., 2024; Larhammar et al., 2017; Rana et al., 2013).  MAP3K12 and MAP3K13 (leucine-zipper kinase, LZK) form a distinct MLK sub-branch, sharing ~90 % amino-acid identity across their kinase and dual leucine-zipper regions (Köster et al., 2024).  ZAK/MAP3K20 is another MLK family member (Köster et al., 2024).  Orthologues are present in Drosophila and Caenorhabditis elegans (DLK-1) (Gallo & Johnson, 2002; Yan & Jin, 2012).
+
+## Reaction Catalyzed  
+ATP + [a protein]-L-serine ⇌ ADP + [a protein]-L-serine-phosphate  
+ATP + [a protein]-L-threonine ⇌ ADP + [a protein]-L-threonine-phosphate (Köster et al., 2024; Gallo & Johnson, 2002).
+
+## Cofactor Requirements  
+Mg²⁺ is required for catalytic activity (Köster et al., 2024; Stalheim & Johnson, 2007; Chen et al., 2016; Hébert et al., 2000).
+
+## Substrate Specificity  
+Positional scanning peptide arrays identified an optimal phospho-acceptor motif for MAP3K12; preferred residues at positions −3 to +3 flank the Ser/Thr target, and the kinase clusters with other MAP3Ks (cluster 9) in substrate preference hierarchies (Johnson et al., 2023).  Exact residue preferences were reported in supplementary data but are not specified in the cited text.
+
+## Structure  
+Most studies describe an N-terminal dual leucine-zipper region followed by a C-terminal kinase domain; a minority place the domains in reverse order (Köster et al., 2024; Gallo & Johnson, 2002; Mooney & Whitmarsh, 2004; Hébert et al., 2000).  
+• Dual leucine zippers mediate homodimerisation and binding to scaffold proteins such as JIP1/3 (Köster et al., 2024; Gallo & Johnson, 2002).  
+• The kinase domain is a typical bilobal Ser/Thr kinase with a flexible activation loop; AlphaFold models reveal a conserved C-helix and hydrophobic spine stabilising the active conformation (Köster et al., 2024).  
+• Additional elements include a proline-rich segment, bipartite NLS, NES, a φLxVP motif (aa 362-365) for calcineurin binding, and reported/absent SH3 and CRIB motifs depending on source (Köster et al., 2024; Rana et al., 2013).
+
+## Regulation  
+• Autophosphorylation: Homodimerisation triggers trans-autophosphorylation on Ser302 within the activation loop; PKA can also phosphorylate this residue (Köster et al., 2024).  
+• Additional phosphorylation: JNK and MAP4K family kinases phosphorylate Thr43 and Ser535, stabilising DLK against PHR1-mediated degradation; Src-dependent tyrosine phosphorylation also activates DLK (Köster et al., 2024).  
+• Dephosphorylation: PP2A and calcineurin (PP2B) negatively regulate activity (Köster et al., 2024).  
+• Ubiquitination: The E3 ligase PHR/Highwire/RPM-1 targets DLK for proteasomal degradation; USP9X antagonises this, while FKBPL/FKBP8 promote degradation (Köster et al., 2024).  
+• Palmitoylation: Cys127 palmitoylation by ZDHHC17 targets DLK to vesicles and promotes JIP3-dependent signalling (Köster et al., 2024).  
+• Other modifications: SUMOylation and transglutaminase-mediated cross-linking modulate activity (Köster et al., 2024; Hébert et al., 2000).  
+• Protein interactions: Binding to JIP proteins maintains an inactive state; dissociation permits dimerisation and activation (Nihalani et al., 2001; Köster et al., 2024).  
+• Expression control: Transcriptional regulation via Sp3 and PPARγ; post-transcriptional repression by miR-130a, miR-191-5p and miR-150-5p (Köster et al., 2024).
+
+## Function  
+Expression: Highly expressed in neurons and pancreatic β-cells; also detected in keratinocytes and regenerating liver (Köster et al., 2024; Gallo & Johnson, 2002).  
+Signalling: Acts upstream of the JNK/SAPK pathway.  Stress or MAP4K4/MINK1/TNIK activation of DLK leads to phosphorylation of MAP2Ks MKK4/7 (preference for MKK7), which in turn activate JNK that phosphorylates c-Jun; JNK activity feeds back positively on DLK (Stalheim & Johnson, 2007; Mooney & Whitmarsh, 2004; Köster et al., 2024).  
+Biological roles: Essential for neuronal development, axonal growth, retrograde injury signalling, axon regeneration or degeneration, neuronal apoptosis, β-cell proliferation, and regulation of cell migration/invasion and the cell cycle (Köster et al., 2024; Larhammar et al., 2017).  
+Interacting partners: Scaffold proteins JIP1/3; ubiquitin enzymes PHR1, USP9X; kinases PKA, Src, MAP4Ks; phosphatases PP2A, calcineurin (Köster et al., 2024; Nihalani et al., 2001).
+
+## Inhibitors  
+Selective inhibitors GDC-0134 and IACS-52825, pan-MLK inhibitors CEP-1347 and CEP-11004, and multi-kinase inhibitors sunitinib and tozasertib have been reported to suppress DLK activity (Köster et al., 2024; Rana et al., 2013).
+
+## Other Comments  
+DLK dysregulation is implicated in neurodegenerative diseases (Alzheimer’s, Parkinson’s, ALS), glaucoma, peripheral neuropathies, early brain injury, type 2 diabetes and cancer; pharmacological inhibition shows neuroprotective effects in disease models (Köster et al., 2024; Mooney & Whitmarsh, 2004; Rana et al., 2013).
+
+## References  
+Adib, E. A., Smithson, L. J., & Collins, C. A. (2018). An axonal stress response pathway: degenerative and regenerative signaling by DLK. Current Opinion in Neurobiology, 53, 110–119. https://doi.org/10.1016/j.conb.2018.07.002  
+
+Chen, M., Geoffroy, C. G., Wong, H. N., Tress, O., Nguyen, M. T., Holzman, L. B., Jin, Y., & Zheng, B. (2016). Leucine zipper-bearing kinase promotes axon growth in mammalian central nervous system neurons. Scientific Reports. https://doi.org/10.1038/srep31482  
+
+Gallo, K. A., & Johnson, G. L. (2002). Mixed-lineage kinase control of JNK and p38 MAPK pathways. Nature Reviews Molecular Cell Biology, 3, 663–672. https://doi.org/10.1038/nrm906  
+
+Hébert, S. S., Daviau, A., Grondin, G., Latreille, M., Aubin, R. A., & Blouin, R. (2000). The mixed lineage kinase DLK is oligomerized by tissue transglutaminase during apoptosis. Journal of Biological Chemistry, 275, 32482–32490. https://doi.org/10.1074/jbc.M006528200  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., et al. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Köster, K.-A., Dethlefs, M., Duque Escobar, J., & Oetjen, E. (2024). Regulation of the activity of the dual leucine zipper kinase by distinct mechanisms. Cells, 13, 333. https://doi.org/10.3390/cells13040333  
+
+Larhammar, M., Huntwork-Rodriguez, S., Rudhard, Y., Sengupta-Ghosh, A., & Lewcock, J. W. (2017). The STE20 family kinases MAP4K4, MINK1, and TNIK converge to regulate stress-induced JNK signaling in neurons. Journal of Neuroscience, 37, 11074–11084. https://doi.org/10.1523/JNEUROSCI.0905-17.2017  
+
+Mooney, L. M., & Whitmarsh, A. J. (2004). Docking interactions in the c-Jun N-terminal kinase pathway. Journal of Biological Chemistry, 279, 11843–11852. https://doi.org/10.1074/jbc.M311841200  
+
+Nihalani, D., Meyer, D., Pajni, S., & Holzman, L. (2001). Mixed lineage kinase-dependent JNK activation is governed by interactions of scaffold protein JIP with MAPK module components. EMBO Journal, 20, 3447–3458. https://doi.org/10.1093/emboj/20.13.3447  
+
+Rana, A., Rana, B., Mishra, R., Sondarva, G., Rangasamy, V., Das, S., Viswakarma, N., & Kanthasamy, A. (2013). Mixed lineage kinase–c-Jun N-terminal kinase axis: A potential therapeutic target in cancer. Genes & Cancer, 4, 334–341. https://doi.org/10.1177/1947601913485415  
+
+Stalheim, L., & Johnson, G. L. (2007). MAPK kinase kinase regulation of SAPK/JNK pathways. Topics in Current Genetics, 1–15. https://doi.org/10.1007/4735_2007_0238  
+
+Yan, D., & Jin, Y. (2012). Regulation of DLK-1 kinase activity by calcium-mediated dissociation from an inhibitory isoform. Neuron, 76, 534–548. https://doi.org/10.1016/j.neuron.2012.08.043

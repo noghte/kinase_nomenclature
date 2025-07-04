@@ -1,0 +1,59 @@
+## Phylogeny  
+CDK16 belongs to the CMGC kinase group, PCTAIRE sub-family (CDK16-18) (Malumbres et al., 2009). Its catalytic domain contains the signature PCTAIRE motif in place of the classical CDK PSTAIRE sequence (Amrhein et al., 2022). The kinase shares 52-58 % sequence identity with CDK5 and 42-46 % with the PFTAIRE family members CDK14/15 (Karimbayli et al., 2024). Orthologues are present throughout vertebrates and in the nematode PCT-1, whereas true PCTAIRE kinases are absent from Drosophila, indicating appearance in early eumetazoans (Mikolcevic et al., 2012). Cyclin Y co-activators co-evolved with PCTAIRE kinases and display conserved N-myristoylation and binding motifs (Mikolcevic et al., 2012).  
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Amrhein et al., 2022).  
+
+## Cofactor Requirements  
+Mg²⁺ is required for catalysis (Dixon-Clarke et al., 2017).  
+
+## Substrate Specificity  
+CDK16 prefers Ser/Thr followed by Pro (S/T-P) but displays a motif distinct from canonical CDKs (Dixon-Clarke et al., 2017). Confirmed cellular sites include p27 Ser10, p53 Ser315, PRC1 Thr481 and CCNY Ser336 (Karimbayli et al., 2024; Unknown authors, 2022).  
+
+## Structure  
+• N-terminal regulatory extension (residues 1-≈161) containing Ser153 and cyclin-binding elements.  
+• Bilobal kinase domain (Met162-Ala474) bearing the VAIK (Lys194), HRD (His292-Arg293-Asp294) and DFG (Asp304-Phe305-Gly306) motifs.  
+• Short C-terminal tail (Dixon-Clarke et al., 2017).  
+
+Crystal structures 3MTL (indirubin E804, 2.4 Å) and 5G6V (rebastinib, 2.2 Å) show a flexible αC helix that carries the PCTAIRE motif and an activation segment (Asp304-Val323) able to adopt DFG-in or DFG-out conformations. A CDK/MAPK insert forms an αGH1 helix that creates a unique interaction surface. Cyclin-free structures display partial αC unfolding, highlighting marked conformational plasticity (Dixon-Clarke et al., 2017).  
+
+## Regulation  
+• Ser153 phosphorylation by PKA blocks cyclin Y binding and inhibits activation (Karimbayli et al., 2024).  
+• Ser95 phosphorylation by the CDK5/p35 complex enhances activity (Karimbayli et al., 2024).  
+• AMPK phosphorylates cyclin Y at Ser100 and Ser326, promoting assembly of the CDK16–cyclin Y–14-3-3 complex and stimulating autophagy (Dohmen et al., 2020).  
+• Autophosphorylation on Ser336 within the activation segment follows complex formation (Amrhein et al., 2022).  
+• 14-3-3 proteins bind the phosphorylated complex and stabilise the active state (Dixon-Clarke et al., 2017).  
+
+## Function  
+CDK16 is highly expressed in brain (Purkinje and pyramidal neurons) and testis (post-meiotic spermatids) but absent in mature spermatozoa (Amrhein et al., 2022). The kinase regulates vesicle trafficking and neurite outgrowth, partly via phosphorylation of NSF and modulation of CDK5 pathways (Karimbayli et al., 2024). It is essential for spermatogenesis through complexes with cyclin Y-like 1; loss results in male infertility in mice (Karimbayli et al., 2024).  
+
+Downstream phosphorylation events include:  
+– p27 Ser10 (accelerates degradation and facilitates G2/M progression) (Amrhein et al., 2022).  
+– p53 Ser315 (promotes cytoplasmic retention and radio-resistance in lung cancer) (Karimbayli et al., 2024).  
+The AMPK–cyclin Y–CDK16 axis activates ULK1/Beclin1-dependent autophagy under energy stress (Dohmen et al., 2020).  
+
+Reported interactors: cyclin Y, cyclin Y-like 1, 14-3-3, NSF, p27, p53, PRC1, COPII Sec23A and RIPK1 (Karimbayli et al., 2024; Unknown authors, 2022).  
+
+## Inhibitors  
+• Rebastinib – type II (DFG-out), IC₅₀ ≈ 32 nM, PDB 5G6V (Dixon-Clarke et al., 2017).  
+• Dabrafenib – type I (αC-out), IC₅₀ ≈ 35 nM; disrupts cyclin Y binding (Dixon-Clarke et al., 2017).  
+• Indirubin E804 – type I hinge binder, IC₅₀ ≈ 83 nM, PDB 3MTL (Dixon-Clarke et al., 2017).  
+• 3-Amino-1H-pyrazole derivatives – sub-100 nM cellular potency across PCTAIRE kinases (Amrhein et al., 2022).  
+
+## Other Comments  
+CDK16 overexpression correlates with aggressive breast, prostate, cervical and lung cancers; knock-down induces apoptosis and G2/M arrest (Karimbayli et al., 2024; Amrhein et al., 2022). Tumour-derived missense mutations are scattered without clear hotspots (Karimbayli et al., 2024). Reduced CDK16 activity impairs insulin secretion and general vesicle exocytosis in pancreatic β-cells (Amrhein et al., 2022).  
+
+## References  
+Amrhein, J. A., Berger, L. M., Tjaden, A., Krämer, A., Elson, L., Tolvanen, T., … Hanke, T. (2022). Discovery of 3-amino-1H-pyrazole-based kinase inhibitors to illuminate the understudied PCTAIRE family. International Journal of Molecular Sciences, 23, 14834. https://doi.org/10.3390/ijms232314834  
+
+Dixon-Clarke, S. E., Shehata, S. N., Krojer, T., Sharpe, T. D., von Delft, F., Sakamoto, K., & Bullock, A. N. (2017). Structure and inhibitor specificity of the PCTAIRE-family kinase CDK16. Biochemical Journal, 474, 699-713. https://doi.org/10.1042/BCJ20160941  
+
+Dohmen, M., Krieg, S., Agalaridis, G., Zhu, X., Shehata, S. N., Pfeiffenberger, E., … Vervoorts, J. (2020). AMPK-dependent activation of the cyclin Y/CDK16 complex controls autophagy. Nature Communications. https://doi.org/10.1038/s41467-020-14812-0  
+
+Karimbayli, J., Pellarin, I., Belletti, B., & Baldassarre, G. (2024). Insights into the structural and functional activities of forgotten kinases: PCTAIREs CDKs. Molecular Cancer. https://doi.org/10.1186/s12943-024-02043-6  
+
+Malumbres, M., Harlow, E., Hunt, T., Hunter, T., Lahti, J. M., Manning, G., … Wolgemuth, D. J. (2009). Cyclin-dependent kinases: A family portrait. Nature Cell Biology, 11, 1275-1276. https://doi.org/10.1038/ncb1109-1275  
+
+Mikolcevic, P., Rainer, J., & Geley, S. (2012). Orphan kinases turn eccentric. Cell Cycle, 11, 3758-3768. https://doi.org/10.4161/cc.21592  
+
+Unknown authors. (2022). Dissecting the role of CDK17 in epithelial ovarian cancer. [Details unavailable].

@@ -1,0 +1,48 @@
+## Phylogeny  
+Human RIOK3 is an atypical Ser/Thr kinase of the RIO family (Rio3 sub-family) that sits outside the conventional eukaryotic protein kinase (ePK) groups in the Manning kinome tree (Manning et al., 2002). Rio3 orthologues are confined to multicellular animals (e.g., Drosophila, Caenorhabditis, Strongyloides, Xenopus, Danio rerio, Mus musculus); unicellular eukaryotes contain only Rio1/Rio2 paralogues (Baumas et al., 2012; Yuan et al., 2014). A distinctive N-terminal α-helical extension defines the Rio3 lineage and separates it from Rio1/2 within the RIO superfamily (LaRonde-LeBlanc & Wlodawer, 2005).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (LaRonde-LeBlanc & Wlodawer, 2005).
+
+## Cofactor Requirements  
+Catalysis is strictly divalent-cation dependent: Mg²⁺ is essential, while Mn²⁺ can substitute (Baumas et al., 2012; Ferreira-Cerca et al., 2014).
+
+## Substrate Specificity  
+No consensus phosphorylation motif or positional scoring matrix has been defined, and large-scale peptide profiling failed to detect clear preferences for RIOK3 (Johnson et al., 2023).
+
+## Structure  
+• N-terminal Rio3-specific α-helical domain (~200 aa).  
+• Central RIO kinase core: reduced ePK fold (β-sheet N-lobe, short αC, minimal C-lobe with three α-helices and β-hairpin) lacking a classical activation loop (LaRonde-LeBlanc & Wlodawer, 2005).  
+• C-terminal lysine-rich tail corresponding to truncated ePK sub-domains X–XI.  
+Conserved catalytic signatures include an STGKES P-loop, catalytic Asp/Asn residues, and a metal-binding Asp that forms a transient phosphoaspartate (Ferreira-Cerca et al., 2014). Two Mg²⁺ ions coordinate ATP in a P-loop ATPase-like active site.  
+A flexible β3-αC loop is sub-family specific and presumed to modulate substrate or particle binding (LaRonde-LeBlanc & Wlodawer, 2005). No crystal structure is available; homology models based on Rio1/2 reveal “active” and “inactive” conformations (Ferreira-Cerca et al., 2014).
+
+## Regulation  
+Autophosphorylation of the catalytic Asp generates a phosphoaspartate intermediate that couples ATP hydrolysis to conformational cycling (Ferreira-Cerca et al., 2014). Metal-ion occupancy and hinge/β-hairpin movements toggle active and inactive states, as inferred from other RIO kinases (Ferreira-Cerca et al., 2014). Additional post-translational modifications remain undefined, but RIOK3 promotes TRIM40-mediated K27/K48 ubiquitination of RIG-I and MDA5, thereby modulating antiviral signalling (Shen et al., 2021).
+
+## Function  
+Expression: highly expressed in erythroid, lymphoid and myeloid lineages; associates with cytoplasmic pre-40S ribosomal particles (Baumas et al., 2012; Feng et al., 2014).  
+Ribosome biogenesis: participates in late cytoplasmic maturation of pre-40S subunits and 21S → 18S rRNA processing (Baumas et al., 2012).  
+Innate immunity: acts downstream of TBK1 and upstream of IRF3 to facilitate IRF3 phosphorylation and type I IFN-β transcription (Feng et al., 2014). Phosphorylates MDA5 (Ser828) to limit filament assembly; promotes TRIM40-dependent degradation of RIG-I/MDA5 as negative feedback (Shen et al., 2021).  
+Interacting partners: TBK1, IRF3, IFIH1/MDA5, RIG-I, TRIM40 and multiple pre-40S assembly factors (Baumas et al., 2012; Feng et al., 2014; Shen et al., 2021).  
+Additional signalling links include inhibition of CASP10 isoform-7-driven NF-κB and modulation of Hedgehog pathway components (information contained in the provided context).
+
+## Other Comments  
+Genetic loss-of-function enhances resistance to RNA virus infection in mice, underscoring therapeutic interest in antiviral modulation (Shen et al., 2021). No selective small-molecule inhibitors have been reported in the material provided.
+
+## 9. References  
+Baumas, K., Soudet, J., Caizergues-Ferrer, M., Faubladier, M., Henry, Y., & Mougin, A. (2012). Human RIOK3 is a novel component of cytoplasmic pre-40S pre-ribosomal particles. RNA Biology, 9, 162–174. https://doi.org/10.4161/rna.18810  
+
+Feng, J., De Jesus, P. D., Su, V., Han, S., Gong, D., Wu, N. C., … Sun, R. (2014). RIOK3 is an adaptor protein required for IRF3-mediated antiviral type I interferon production. Journal of Virology, 88, 7987–7997. https://doi.org/10.1128/JVI.00643-14  
+
+Ferreira-Cerca, S., Kiburu, I., Thomson, E., LaRonde, N., & Hurt, E. (2014). Dominant RIO1 kinase/ATPase catalytic mutant induces trapping of late pre-40S biogenesis factors in 80S-like ribosomes. Nucleic Acids Research, 42, 8635–8647. https://doi.org/10.1093/nar/gku542  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+LaRonde-LeBlanc, N., & Wlodawer, A. (2005). The RIO kinases: an atypical protein kinase family required for ribosome biogenesis and cell cycle progression. Biochimica et Biophysica Acta, 1754, 14–24. https://doi.org/10.1016/j.bbapap.2005.07.037  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Shen, Y., Tang, K., Chen, D., Hong, M., Sun, F., Wang, S., … Du, Y. (2021). RIOK3 inhibits the antiviral immune response by facilitating TRIM40-mediated RIG-I and MDA5 degradation. Cell Reports, 35, 109272. https://doi.org/10.1016/j.celrep.2021.109272  
+
+Yuan, W., Liu, Y., Lok, J. B., Stoltzfus, J. D., Gasser, R. B., Lei, W., … Hu, M. (2014). Exploring features and function of Ss-RIOK-3, an enigmatic kinase gene from Strongyloides stercoralis. Parasites & Vectors. https://doi.org/10.1186/s13071-014-0561-z

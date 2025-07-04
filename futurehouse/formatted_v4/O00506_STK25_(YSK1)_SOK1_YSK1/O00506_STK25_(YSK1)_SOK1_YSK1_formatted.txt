@@ -1,0 +1,70 @@
+## Phylogeny  
+STK25 belongs to the STE20‐type germinal-centre kinase III (GCKIII) subfamily together with MST3/STK24 and MST4/STK26 (Manning et al., 2002). Orthologues are present in mouse (Stk25), zebrafish, Drosophila misshapen, Caenorhabditis elegans GCK-1 and the budding-yeast kinase SOK1/YSK1, underscoring deep evolutionary conservation (Delpire, 2009; Cansby et al., 2024). Motif-based clustering of 303 human Ser/Thr kinases confirms STK25’s placement within the STE/GCKIII clade (Johnson et al., 2023).
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (Role of STE20-Type Kinases…, 2024).
+
+## Cofactor Requirements  
+Catalytic activity requires a divalent cation; coordination by Mg²⁺/Mn²⁺, established for the close homolog MST3, is conserved in STK25 (Sugden et al., 2013).
+
+## Substrate Specificity  
+Kinome-wide peptide profiling assigns STK25 to a basophilic class that prefers Arg/Lys at positions –2/–5 and disfavors Pro at +1 relative to the phospho-acceptor residue (Johnson et al., 2023). Structural analyses of STE/GCK kinases reveal paired acidic residues that enforce this upstream basic preference (Sugden et al., 2013).
+
+## Structure  
+• Residues 1–≈300 form a canonical bilobal kinase domain; residues ≈301–426 constitute a largely disordered regulatory tail containing a bipartite nuclear-localisation signal and partner-binding motifs (Role of STE20-Type Kinases…, 2024).  
+• Key catalytic elements: Lys49 (β3), HRD165 catalytic loop, DFG184 magnesium-binding motif and Thr174 within the activation segment (Role of STE20-Type Kinases…, 2024; Mu et al., 2022).  
+• No experimental structure is available; an AlphaFold model (AF-O00506-F1) superposes closely with the MST3 crystal structure (PDB 2HF6) (Weingartner et al., 2023).  
+• The proximal tail (residues 270–302) mediates homodimerisation and binds the Golgi scaffold GM130 and the activator MO25 (Role of STE20-Type Kinases…, 2024).
+
+## Regulation  
+• Activating autophosphorylation on Thr174 is essential for activity (Rice et al., 2023; Role of STE20-Type Kinases…, 2024).  
+• PP2A within STRIPAK complexes dephosphorylates Thr174, attenuating kinase activity (Role of STE20-Type Kinases…, 2024).  
+• Oxidative stress (H₂O₂, menadione) or elevated cytosolic Ca²⁺ increase Thr174 phosphorylation (Regulation of Metabolism and Inflammation…, 2014; Role of STE20-Type Kinases…, 2024).  
+• MO25 binds a four-site interface on the N-lobe and stabilises the active conformation (Role of STE20-Type Kinases…, 2024).  
+• GM130 recruits STK25 to the cis-Golgi and promotes autophosphorylation (Role of STE20-Type Kinases…, 2024).  
+• Within STRIPAK, STK25 phosphorylates SAV1, weakening SAV1–PP2A interaction and modulating MST1/2 signalling (Bae et al., 2020).
+
+## Function  
+Expression is ubiquitous, with higher levels in brain, testis and liver (Regulation of Metabolism and Inflammation…, 2014; Role of STE20-Type Kinases…, 2024).  
+Subcellular localisation includes the cis-Golgi (via GM130) and lipid droplets in hepatocytes; Thr174 phosphorylation rises after TLR7/8/9 stimulation in monocytes (Role of STE20-Type Kinases…, 2024; Rice et al., 2023).  
+Signalling roles:  
+• Hippo pathway activation branch – directly phosphorylates the LATS1/2 activation loop, inhibiting YAP/TAZ and enforcing contact inhibition (Lim et al., 2018; Lim et al., 2019).  
+• Hippo suppression branch – SAV1 phosphorylation within STRIPAK restrains MST1/2 activation (Bae et al., 2020).  
+• Metabolic control – limits β-oxidation, enhances triacylglycerol synthesis and reduces VLDL secretion, promoting hepatic lipid accumulation (Role of STE20-Type Kinases…, 2024; Nerstedt et al., 2020).  
+• Innate immunity – phosphorylates IRF5 at Thr265 downstream of TLR7/8/9, driving pro-inflammatory cytokine production (Rice et al., 2023).  
+Interaction partners include STRIPAK components (striatins, STRIP1/2, PDCD10), MOB proteins and MO25, linking STK25 to cytoskeletal organisation and Golgi polarity (Role of STE20-Type Kinases…, 2024).
+
+## Inhibitors  
+STK25 is inhibited in vitro by broad-spectrum staurosporine and newly described p-N-pyrrolidinosulphonamide derivatives; antisense oligonucleotides achieve target-specific suppression in vivo (Role of STE20-Type Kinases…, 2024).
+
+## Other Comments  
+Elevated hepatic STK25 aggravates metabolic-dysfunction-associated steatohepatitis and promotes hepatocellular carcinoma, whereas genetic deletion or antisense knock-down is protective (Role of STE20-Type Kinases…, 2024). Single-nucleotide polymorphisms in STK25 correlate with altered liver fat in human cohorts (Role of STE20-Type Kinases…, 2024). Focal STK25 deletions occur in multiple cancers and associate with poor patient survival, supporting a tumour-suppressor role via Hippo signalling (Lim et al., 2019). Peripheral blood mononuclear cells from systemic lupus erythematosus patients show elevated basal Thr174 phosphorylation, linking STK25 hyperactivation to autoimmune inflammation (Rice et al., 2023).
+
+## References  
+Bae, S. J., Ni, L., & Luo, X. (2020). Stk25 suppresses Hippo signaling by regulating Sav1-Stripak antagonism. eLife, 9, e54863. https://doi.org/10.7554/eLife.54863  
+
+Cansby, E., Caputo, M., Andersson, E., Saghaleyni, R., Henricsson, M., Xia, Y., … Mahlapuu, M. (2024). GCKIII kinases control hepatocellular lipid homeostasis via shared mode of action. Journal of Lipid Research, 100669. https://doi.org/10.1016/j.jlr.2024.100669  
+
+Delpire, E. (2009). The mammalian family of sterile 20-like protein kinases. Pflügers Archiv – European Journal of Physiology, 458, 953–967. https://doi.org/10.1007/s00424-009-0674-y  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Lim, S., Hermance, N., Mudianto, T., Mustaly, H. M., Mauricio, I. P. M., Vittoria, M. A., … Ganem, N. J. (2018). Stk25 directly activates Lats1/2 independent of MST/MAP4Ks. bioRxiv. https://doi.org/10.1101/354233  
+
+Lim, S., Hermance, N., Mudianto, T., Mustaly, H. M., Mauricio, I. P. M., Vittoria, M. A., … Ganem, N. J. (2019). Identification of the kinase STK25 as an upstream activator of LATS signaling. Nature Communications, 10, 5716. https://doi.org/10.1038/s41467-019-09597-w  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Mu, J., Zhou, J., Gong, Q., & Xu, Q. (2022). An allosteric regulation mechanism of Arabidopsis serine/threonine kinase 1 (SIK1) through phosphorylation. Computational and Structural Biotechnology Journal, 20, 368–379. https://doi.org/10.1016/j.csbj.2021.12.033  
+
+Nerstedt, A., Kurhe, Y., Cansby, E., Caputo, M., Gao, L., Vorontsov, E., … Mahlapuu, M. (2020). Lipid droplet-associated kinase STK25 regulates peroxisomal activity and metabolic stress response in steatotic liver. Journal of Lipid Research, 61, 178–191. https://doi.org/10.1194/jlr.RA119000316  
+
+Rice, M. R., Matta, B., Wang, L., Indukuri, S., & Barnes, B. J. (2023). STK25 is an IRF5 kinase that promotes TLR7/8-mediated inflammation. bioRxiv. https://doi.org/10.1101/2023.09.26.559637  
+
+Regulation of metabolism and inflammation by two protein kinases-AMPK and STK25. (2014).  
+
+Role of STE20-Type Kinases in Liver Lipid Metabolism and Hepatocarcinogenesis: Insights from In Vitro and In Vivo Studies. (2024).  
+
+Sugden, P., McGuffin, L., & Clerk, A. (2013). SOCK, MISTS, MASK and STICKS: The GCKIII kinases and their heterologous protein–protein interactions. Biochemical Journal, 454, 13–30. https://doi.org/10.1042/BJ20130219  
+
+Weingartner, K. A., Tran, T., Tripp, K. W., & Kavran, J. M. (2023). Dimerization and autophosphorylation of the MST family of kinases are controlled by the same set of residues. bioRxiv. https://doi.org/10.1101/2023.03.09.531926

@@ -1,0 +1,61 @@
+## Phylogeny  
+PIK3CB (p110β) is a Class IA phosphoinositide-3-kinase catalytic subunit that clusters with the other Class I isoforms PIK3CA (p110α) and PIK3CG (p110γ) (Brown & Auger, 2011). Well-conserved orthologues occur throughout vertebrates (Homo sapiens, Mus musculus, Rattus norvegicus, Danio rerio, Tetraodon nigroviridis) and more distantly in Deuterostomia, Tunicata and Cephalochordata, indicating broad conservation across chordates (Brown & Auger, 2011). PI3Ks are placed outside conventional eukaryotic protein-kinase groups and are sometimes referred to as “atypical” kinases (Nakanishi et al., 2016; Burke, 2018).
+
+## Reaction Catalyzed  
+ATP + phosphatidylinositol-4,5-bisphosphate (PtdIns(4,5)P₂) ⇌ ADP + phosphatidylinositol-3,4,5-trisphosphate (PtdIns(3,4,5)P₃) (Burke, 2018; Dbouk et al., 2013; Flanagan & Shepherd, 2014; Whale et al., 2017).
+
+## Cofactor Requirements  
+Requires a divalent metal ion; Mg²⁺ is preferred, although Mn²⁺ can substitute (Flanagan & Shepherd, 2014; Ilić & Roberts, 2010; Miller et al., 2019).  
+
+## Substrate Specificity  
+Acts primarily as a lipid kinase that most efficiently phosphorylates PtdIns(4,5)P₂. Lower activity toward phosphatidylinositol and phosphatidylinositol-4-phosphate has been reported (Miller et al., 2019). Suggested serine protein-kinase activity is controversial; comprehensive profiling detected no intrinsic protein-kinase activity (Johnson et al., 2023, cited in Brown & Auger, 2011; Burke, 2018).
+
+## Structure  
+p110β comprises an N-terminal adaptor-binding domain (ABD), Ras-binding domain, C2 domain (containing a nuclear-localization signal), helical domain and C-terminal bilobed kinase domain (Backer, 2011; Rathinaswamy & Burke, 2020). Crystal structure of murine p110β bound to p85β (PDB 2Y3A) reveals a C-terminal helix (Kα12) that folds over the catalytic loop; inhibition is reinforced by the p85 cSH2 domain (Zhang et al., 2011; Miller et al., 2019). An AlphaFold model for human PIK3CB is available (Miller et al., 2019).
+
+## Regulation  
+Basal activity is inhibited by association with p85 regulatory subunits through contacts from nSH2 to the helical/C2/kinase domains and from cSH2 to the p110β C-terminus (Rathinaswamy & Burke, 2020; Zhang et al., 2011). Activation occurs when p85 SH2 domains bind phosphotyrosine motifs of activated receptor tyrosine kinases, or when p110β directly engages Gβγ subunits or RAC GTPase (Backer, 2011; Burke, 2018). Autophosphorylation on Ser1070 is inhibitory, whereas phosphorylation of p85α on Tyr688 (e.g., by Src or Abl) stimulates activity (Backer, 2011).  
+
+## Function  
+Ubiquitously expressed and localised to cytoplasm and nucleus (Mazloumi Gavgani et al., 2018). Downstream of GPCRs and RTKs, p110β-generated PtdIns(3,4,5)P₃ recruits PH-domain effectors such as AKT and PDK1, driving PI3K/AKT/mTOR signalling involved in cell growth, survival, proliferation and metabolism (Mazloumi Gavgani et al., 2018; Nakanishi et al., 2016). PTEN counteracts this signal (Burke, 2018). Interacting partners include p85, Gβγ, Rab5 and CRKL; the p110β–Rab5 interaction supports a kinase-independent scaffolding role in endocytosis (Backer, 2011). Nuclear pools contribute to DNA replication, cell-cycle progression and DNA repair (Mazloumi Gavgani et al., 2018). Homozygous Pik3cb deletion is embryonic-lethal in mice (Ilić & Roberts, 2010).
+
+## Inhibitors  
+Isoform-selective inhibitors: GSK2636771, AZD6482, TGX221, KIN-193 (Burke, 2018; Dbouk & Backer, 2013; Miller et al., 2019). Pan-PI3K inhibitors: GDC-0941 (pictilisib) and other dual PI3K/mTOR inhibitors such as BEZ235 (Nakanishi et al., 2016; Pridham et al., 2017).
+
+## Other Comments  
+p110β is crucial for tumour maintenance in PTEN-deficient cancers; over-expression of wild-type enzyme is oncogenic (Mazloumi Gavgani et al., 2018; Zhao & Vogt, 2008). Activating mutations include E633K (helical) and kinase-domain substitutions D1067Y/V/A, E1051K, L1049R and A1048V, which enhance basal activity and can confer resistance to PI3K inhibitors (Nakanishi et al., 2016; Mazloumi Gavgani et al., 2018). Germline PIK3R1 mutations underlying APDS2 disrupt regulatory control and may indirectly activate p110β (Dornan et al., 2017).
+
+## 9. References  
+Backer, J. M. (2011). The regulation of class IA PI 3-kinases by inter-subunit interactions. Current Topics in Microbiology and Immunology, 346, 87–114. https://doi.org/10.1007/82_2010_52  
+
+Brown, J. R., & Auger, K. R. (2011). Phylogenomics of phosphoinositide lipid kinases: Perspectives on the evolution of second messenger signaling and drug discovery. BMC Evolutionary Biology, 11, 4. https://doi.org/10.1186/1471-2148-11-4  
+
+Burke, J. E. (2018). Structural basis for regulation of phosphoinositide kinases and their involvement in human disease. Molecular Cell, 71, 653–673. https://doi.org/10.1016/j.molcel.2018.08.005  
+
+Dbouk, H. A., & Backer, J. (2013). Novel approaches to inhibitor design for the p110β phosphoinositide 3-kinase. Trends in Pharmacological Sciences, 34(3), 149–153. https://doi.org/10.1016/j.tips.2012.12.004  
+
+Dbouk, H. A., Khalil, B. D., Wu, H., Shymanets, A., Nürnberg, B., & Backer, J. (2013). Characterization of a tumor-associated activating mutation of the p110β PI 3-kinase. PLoS ONE, 8(5), e63833. https://doi.org/10.1371/journal.pone.0063833  
+
+Dornan, G. L., Siempelkamp, B. D., Jenkins, M. L., Vadas, O., Lucas, C. L., & Burke, J. E. (2017). Conformational disruption of PI3Kδ regulation by immunodeficiency mutations in PIK3CD and PIK3R1. Proceedings of the National Academy of Sciences, 114(7), 1982–1987. https://doi.org/10.1073/pnas.1617244114  
+
+Flanagan, J., & Shepherd, P. (2014). Structure, function and inhibition of the phosphoinositide 3-kinase p110α enzyme. Biochemical Society Transactions, 42(1), 120–124. https://doi.org/10.1042/bst20130255  
+
+Ilić, N., & Roberts, T. M. (2010). Comparing the roles of the p110α and p110β isoforms of PI3K in signaling and cancer. Current Topics in Microbiology and Immunology, 347, 55–77. https://doi.org/10.1007/82_2010_63  
+
+Li, H., Wen, X., Ren, Y., Fan, Z., Zhang, J., He, G., & Fu, L. (2024). Targeting PI3K family with small-molecule inhibitors in cancer therapy: Current clinical status and future directions. Molecular Cancer, 23, Article 20 072-1. https://doi.org/10.1186/s12943-024-02072-1  
+
+Mazloumi Gavgani, F., Smith Arnesen, V., Jacobsen, R. G., Krakstad, C., Hoivik, E., & Lewis, A. E. (2018). Class I phosphoinositide 3-kinase PIK3CA/p110α and PIK3CB/p110β isoforms in endometrial cancer. International Journal of Molecular Sciences, 19(12), 3931. https://doi.org/10.3390/ijms19123931  
+
+Miller, M. S., Thompson, P., & Gabelli, S. (2019). Structural determinants of isoform selectivity in PI3K inhibitors. Biomolecules, 9(3), 82. https://doi.org/10.3390/biom9030082  
+
+Nakanishi, Y., Walter, K., Spoerke, J., O’Brien, C., Huw, L., Hampton, G., & Lackner, M. (2016). Activating mutations in PIK3CB confer resistance to PI3K inhibition and define a novel oncogenic role for p110β. Cancer Research, 76(5), 1193–1203. https://doi.org/10.1158/0008-5472.CAN-15-2201  
+
+Pridham, K. J., Varghese, R. T., & Sheng, Z. (2017). The role of class IA phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunits in glioblastoma. Frontiers in Oncology, 7, 312. https://doi.org/10.3389/fonc.2017.00312  
+
+Rathinaswamy, M. K., & Burke, J. E. (2020). Class I phosphoinositide 3-kinase (PI3K) regulatory subunits and their roles in signaling and disease. Advances in Biological Regulation, 75, 100657. https://doi.org/10.1016/j.jbior.2019.100657  
+
+Whale, A., Colman, L. M., Lensun, L., Rogers, H. L., & Shuttleworth, S. (2017). Functional characterization of a novel somatic oncogenic mutation of PIK3CB. Signal Transduction and Targeted Therapy, 2, e63. https://doi.org/10.1038/sigtrans.2017.63  
+
+Zhang, X., Vadas, O., Perisic, O., Anderson, K., Clark, J., Hawkins, P., Stephens, L., & Williams, R. L. (2011). Structure of lipid kinase p110β/p85β elucidates an unusual SH2-domain-mediated inhibitory mechanism. Molecular Cell, 41(5), 567–578. https://doi.org/10.1016/j.molcel.2011.01.026  
+
+Zhao, L., & Vogt, P. (2008). Class I PI3K in oncogenic cellular transformation. Oncogene, 27(41), 5486–5496. https://doi.org/10.1038/onc.2008.244

@@ -1,0 +1,53 @@
+## Phylogeny  
+Orthologues are present in mouse Trpm7 and zebrafish trpm7 (meltdown mutant), indicating conservation throughout vertebrates (Duan et al., 2018; Unknown Authors, 2023). The closest human paralogue is TRPM6, and TRPM6/TRPM7 heteromer formation reflects a recent duplication within the TRPM6/7 branch (Cai et al., 2017). The C-terminal catalytic region belongs to the atypical α-kinase clade, distantly related to elongation factor-2 kinase and classified in the “Other/α-kinase” family of the human kinome (Cai et al., 2017).
+
+## Reaction Catalyzed  
+ATP + [protein]-L-Ser/Thr ⇄ ADP + [protein]-O-phospho-L-Ser/Thr (Cai et al., 2017).
+
+## Cofactor Requirements  
+Maximal turnover is supported by Mn²⁺·ATP, whereas Mg²⁺·ATP functions both as a cofactor and as an inhibitor of the channel (Cai et al., 2017; Visser et al., 2014).
+
+## Substrate Specificity  
+The kinase phosphorylates Ser/Thr residues embedded within α-helical elements rather than a strict linear consensus. Documented cellular substrates include non-muscle myosin heavy chain IIA, annexin I, phospholipase C γ2 and core histones (Cai et al., 2017).
+
+## Structure  
+TRPM7 is a tetrameric channel-kinase composed of an N-terminal melastatin/ankyrin repeat region, a six-transmembrane pore (S1–S6) with intracellular TRP helix, a coiled-coil tetramerisation module, a Ser/Thr-rich autophosphorylation segment and a C-terminal α-kinase domain (Unknown Authors, 2019; Cai et al., 2017). Cryo-EM structures at 3.3–4.1 Å reveal a closed pore stabilised by a Cys1056–Cys1066 disulfide bond (Duan et al., 2018). The lower gate is formed by N1097/N1098, residues also required for Mg²⁺-dependent inhibition (Schmidt et al., 2022). A Zn²⁺ ion coordinates within the kinase core, enhancing stability (Duan et al., 2018). Kinase domains dimerise through β-strand exchange, which is obligatory for catalysis (Cai et al., 2017). An inhibitor-bound human structure (PDB 8W2L) shows CCT128930 occupying a vanilloid-like pocket; F924 is critical for binding (Nadezhdin et al., 2024).
+
+## Regulation  
+More than 20 autophosphorylation sites have been identified; key residues include S1777 in the catalytic loop (phosphorylation diminishes activity) and S1565 in the exchange segment (restricts substrate access) (Cai et al., 2017). TRPM6 can trans-phosphorylate TRPM7 within heteromers (Cai et al., 2017). Intracellular Mg²⁺ and Mg·ATP bind near N1097/N1098 to synergistically inhibit the channel (Schmidt et al., 2022). Depletion or hydrolysis of membrane PIP₂ via PLC pathways rapidly inactivates current (Chubanov et al., 2018; Zhelay et al., 2018). Proteolytic cleavage can release the kinase domain, which subsequently relocalises to the nucleus (Nadezhdin et al., 2023).
+
+## Function  
+TRPM7 is ubiquitously expressed, with highest levels in heart, kidney and brain; expression begins in early embryogenesis (Unknown Authors, 2010; Hu et al., 2021). Global knockout causes embryonic lethality and organogenesis defects (Duan et al., 2018). As a constitutively active channel, TRPM7 conducts Mg²⁺, Ca²⁺ and Zn²⁺, contributing to intracellular divalent cation homeostasis and vesicular Zn²⁺ release (Sun et al., 2015; Unknown Authors, 2023). The kinase phosphorylates cytoskeletal and trafficking proteins (myosin IIA, annexin I, PLC γ2, snapin) and interacts with TRPM6, snapin, synapsin I, synaptotagmin I and PLC γ2, integrating magnesium-sensitive Socs3a signalling and epithelial proliferation (Cai et al., 2017; Unknown Authors, 2010; Visser et al., 2014).
+
+## Inhibitors  
+CCT128930 (sub-µM, binds vanilloid-like pocket), NS8593 (pore blocker), VER155008 (identified in screens) and waixenicin A (Mg²⁺-dependent inhibitor) reduce TRPM7 channel activity (Nadezhdin et al., 2024; Visser et al., 2014).
+
+## Other Comments  
+Dysregulation of TRPM7 is linked to cardiac fibrosis, cancer progression and immune dysfunction (Hu et al., 2021; Nadezhdin et al., 2024). Mutations D922E, F924W/A alter inhibitor sensitivity; E1047Q reduces conductance, and N1097Q/N1098Q abolish Mg²⁺-dependent inhibition (Duan et al., 2018; Schmidt et al., 2022; Nadezhdin et al., 2024).
+
+## References  
+Cai, N., Bai, Z., Nanda, V., & Runnels, L. W. (2017). Mass spectrometric analysis of TRPM6 and TRPM7 phosphorylation reveals regulatory mechanisms of the channel-kinases. Scientific Reports, 7, 42739. https://doi.org/10.1038/srep42739  
+
+Chubanov, V., Mittermeier, L., & Gudermann, T. (2018). TRPM7 reflected in cryo-EM mirror. Cell Calcium, 76, 129–131. https://doi.org/10.1016/j.ceca.2018.11.004  
+
+Duan, J., Li, Z., Li, J., Hulse, R. E., Santa-Cruz, A., Valinsky, W. C., Abiria, S. A., Krapivinsky, G., Zhang, J., & Clapham, D. E. (2018). Structure of the mammalian TRPM7, a magnesium channel required during embryonic development. Proceedings of the National Academy of Sciences, 115, E8201–E8210. https://doi.org/10.1073/pnas.1810719115  
+
+Hu, F., Li, M., Han, F. Q., Zhang, Q., Zeng, Y., Zhang, W., & Cheng, X. (2021). Role of TRPM7 in cardiac fibrosis: A potential therapeutic target (Review). Experimental and Therapeutic Medicine, 22, 9604. https://doi.org/10.3892/etm.2020.9604  
+
+Nadezhdin, K. D., Correia, L., Shalygin, A., Aktolun, M., Neuberger, A., Gudermann, T., Kurnikova, M. G., Chubanov, V., & Sobolevsky, A. I. (2024). Structural basis of selective TRPM7 inhibition by the anticancer agent CCT128930. Cell Reports, 43, 114108. https://doi.org/10.1016/j.celrep.2024.114108  
+
+Nadezhdin, K. D., Correia, L., Narangoda, C., Patel, D. S., Neuberger, A., Gudermann, T., Kurnikova, M. G., Chubanov, V., & Sobolevsky, A. I. (2023). Structural mechanisms of TRPM7 activation and inhibition. Nature Communications, 14, 38362. https://doi.org/10.1038/s41467-023-38362-3  
+
+Schmidt, E., Narangoda, C., Nörenberg, W., Egawa, M., Rössig, A., Leonhardt, M., Schaefer, M., Zierler, S., Kurnikova, M. G., Gudermann, T., & Chubanov, V. (2022). Structural mechanism of TRPM7 channel regulation by intracellular magnesium. Cellular and Molecular Life Sciences, 79, 199. https://doi.org/10.1007/s00018-022-04192-7  
+
+Sun, Y., Sukumaran, P., Schaar, A., & Singh, B. B. (2015). TRPM7 and its role in neurodegenerative diseases. Channels, 9, 253–261. https://doi.org/10.1080/19336950.2015.1075675  
+
+Unknown Authors. (2010). The protein interactions and functions of Transient Receptor Potential Melastatin 7 (TRPM7) ion channel.  
+
+Unknown Authors. (2019). Domain-specific role of the channel-kinase TRPM7 in cell signaling.  
+
+Unknown Authors. (2023). Roles of Transient Receptor Potential (TRP) cation channels in primary pulmonary fibroblasts.  
+
+Visser, D., Middelbeek, J., van Leeuwen, F. N., & Jalink, K. (2014). Function and regulation of the channel-kinase TRPM7 in health and disease. European Journal of Cell Biology, 93, 455–465. https://doi.org/10.1016/j.ejcb.2014.07.001  
+
+Zhelay, T., Wieczerzak, K. B., Beesetty, P., Alter, G. M., Matsushita, M., & Kozak, J. A. (2018). Depletion of plasma membrane–associated phosphoinositides mimics inhibition of TRPM7 channels by cytosolic Mg²⁺, spermine, and pH. Journal of Biological Chemistry, 293, 18151–18167. https://doi.org/10.1074/jbc.RA118.004066

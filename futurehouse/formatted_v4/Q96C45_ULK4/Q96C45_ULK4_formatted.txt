@@ -1,0 +1,44 @@
+Phylogeny  
+ULK4 belongs to a five-member human Unc-51-like kinase family (ULK1-4, STK36) that forms a distinct branch within the CAMK group of the human kinome (Preuss et al., 2020). Orthologues are present throughout metazoans (mouse, rat, zebrafish, Drosophila) and extend to plants and protists such as Arabidopsis, where the canonical catalytic residues are still retained (Preuss et al., 2020). Within the family, ULK4 clusters most closely with STK36 but diverges functionally as a pseudokinase after losing the VAIK, HRD and DFG motifs and acquiring an extended activation segment unique to this lineage (Khamrui et al., 2019; Preuss et al., 2020).
+
+Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + protein-Ser/Thr-P  
+
+(Phosphotransferase activity has not been detected in vitro) (Khamrui et al., 2019; Preuss et al., 2020).
+
+Cofactor Requirements  
+ATP binding is magnesium-independent; Mg²⁺ destabilises the nucleotide complex (Preuss et al., 2020).
+
+Substrate Specificity  
+No consensus phosphorylation motif or measurable activity has been reported; the 2023 kinome-wide specificity atlas lists ULK4 as inactive (Preuss et al., 2020).
+
+Structure  
+• Domain organisation: N-terminal pseudokinase domain (~1–288) followed by five C-terminal HEAT/armadillo repeats (Khamrui et al., 2019; Luo et al., 2022).  
+• 3D structures: Crystal structures with ATPγS (PDB 6TSZ) and a fragment inhibitor (PDB 6U5L) reveal a canonical bilobal kinase fold with an αC-in conformation (Khamrui et al., 2019; Preuss et al., 2020).  
+• Catalytic features: VAIK Lys→Leu (L33) with an alternative Lys39 coordinating phosphates; HRD→FCD and DFG→NFC substitutions abolish catalysis (Preuss et al., 2020).  
+• Regulatory elements: An extended helical activation segment (L150–E161) packs against αC and occludes the substrate pocket, stabilising the domain (Preuss et al., 2020).  
+• Unique aspect: High-affinity, metal-free nucleotide binding confers structural stability; Mg²⁺ disrupts this interaction (Preuss et al., 2020).
+
+Regulation  
+No post-translational modifications have been reported. High-affinity ATP binding stabilises the fold; N139L abolishes nucleotide binding and destabilises ULK4, whereas the common K39R polymorphism tightens ADP binding without altering ATP affinity (Preuss et al., 2020).
+
+Function  
+• Expression: Highly expressed in embryonic ventricular and subventricular zones; expression persists in cortical layers and adult neural stem cells (Luo et al., 2022).  
+• Subcellular localisation: Cytoplasmic with enrichment at centrosomes and microtubules (Preuss et al., 2020).  
+• Interacting partners: Phosphatases PP2A and PP1α; microtubule-associated proteins (CAMSAP1/3, HAUS2/8, CCP110, CEP97, CSPP1, OFD1); motor proteins (kinesins); kinases STK36, ROCK1/2 and phosphatase PTPN14 (Preuss et al., 2020; Luo et al., 2022).  
+• Biological roles: Regulates α-tubulin acetylation, influencing neurite branching, elongation and neuronal migration; required for corticogenesis, neural stem-cell proliferation, ciliogenesis, oligodendrocyte maturation and white-matter integrity. Knockdown perturbs Wnt, PKC, p38 MAPK, ERK1/2 and JNK pathways (Luo et al., 2022; UnknownAuthors, 2017).
+
+Inhibitors  
+A fragment-like small molecule co-crystallised in the ATP pocket demonstrates chemical tractability (Khamrui et al., 2019).
+
+Other Comments  
+Genetic variants are associated with schizophrenia, autism spectrum disorder, bipolar disorder, depression, hypertension and sporadic thoracic aortic dissection (Khamrui et al., 2019; Luo et al., 2022; Preuss et al., 2020). Loss-of-function in mice causes hydrocephalus, hypomyelination and anxiety-like behaviour (Luo et al., 2022). Notable mutations include K39R (increases ADP affinity) and N139L (abolishes nucleotide binding) (Preuss et al., 2020).
+
+9. References  
+Khamrui, S., Ung, P. M. U., Secor, C., Schlessinger, A., & Lazarus, M. B. (2019). High-resolution structure and inhibition of the schizophrenia-linked pseudokinase ULK4. Journal of the American Chemical Society, 142, 33–37. https://doi.org/10.1021/jacs.9b10458  
+
+Luo, S., Zheng, N., & Lang, B. (2022). ULK4 in neurodevelopmental and neuropsychiatric disorders. Frontiers in Cell and Developmental Biology. https://doi.org/10.3389/fcell.2022.873706  
+
+Preuss, F., Chatterjee, D., Mathea, S., Shrestha, S., St-Germain, J. R., Saha, M., Kannan, N., Raught, B., Rottapel, R., & Knapp, S. (2020). Nucleotide binding, evolutionary insights and interaction partners of the pseudokinase UNC-51-like kinase 4. bioRxiv. https://doi.org/10.1101/2020.06.18.159293  
+
+UnknownAuthors. (2017). Regulation of the autophagy pro-survival mechanism by ULK1.

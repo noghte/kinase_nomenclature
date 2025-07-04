@@ -1,0 +1,73 @@
+## Proposed EC/sub-subclass:
+2.7.11.– (protein-serine/threonine kinase)
+
+## Accepted name:
+Transforming growth factor-β receptor type I (TGFBR1)
+
+## Synonyms:
+Activin-like kinase 5 (ALK5); type I TGF-β receptor
+
+## Phylogeny  
+Member of the type I ALK branch of the TGF-β receptor family, sharing 60–79 % sequence identity with ALK4 and ALK7 but only ~40 % with type II receptors, defining a distinct serine/threonine-kinase sub-clade (Goebel et al., 2019; Massagué & Sheppard, 2023). The ligand/type I/type II receptor signalling module is conserved throughout metazoans, indicating an early evolutionary origin (Massagué & Sheppard, 2023).
+
+## Reaction catalysed
+ATP + [protein-Ser/Thr] ⇌ ADP + [protein-phospho-Ser/Thr] (Massagué & Sheppard, 2023).
+
+## Cofactor requirements 
+Mg²⁺ is required for catalytic activity (Inman et al., 2002).
+
+## Specificity  
+Displays high specificity for the C-terminal S-X-S motif of receptor-regulated SMADs, generating a pSer-X-pSer signature; no broader consensus beyond the SXS core has been reported (Goebel et al., 2019; Massagué & Sheppard, 2023).
+
+## Structure
+Extracellular cysteine-rich ligand-binding ectodomain → single-pass transmembrane helix → ~30-residue glycine/serine-rich (GS) regulatory domain → bilobal intracellular kinase domain (Unknown Authors, 2023a).  
+The N-lobe contains a five-stranded β-sheet and αC helix; the C-lobe is predominantly α-helical (Goebel et al., 2019).  
+The L45 loop (β4–β5) dictates SMAD docking selectivity (Goebel et al., 2019).  
+An active-state Lys232(β3)–Glu245(αC) salt bridge forms when the GS domain is phosphorylated; binding of FKBP12 disrupts this bridge and blocks the ATP pocket (Goebel et al., 2019).  
+Activation is driven by GS-domain phosphorylation–induced realignment of αC and assembly of the hydrophobic regulatory spine; activation-loop phosphorylation is dispensable (Goebel et al., 2019).  
+Crystal structures of apo and inhibitor-bound kinase domains are available (e.g., PDB 3KCF, 3TZM) (Unknown Authors, 2023b).
+
+## Regulation  
+Post-translational modifications  
+• Phosphorylation of Ser/Thr residues within the GS domain by constitutively active TGFBR2 converts the receptor to an active conformation and creates a SMAD-binding site (Hinck & O’Connor-McCourt, 2011).  
+• Additional autophosphorylation events occur in the kinase domain (Unknown Authors, 2023a).
+
+Protein–protein interactions and allostery  
+• FKBP12 binds the unphosphorylated GS domain, stabilising an inactive state; GS-domain phosphorylation releases FKBP12 (Goebel et al., 2019; Massagué & Sheppard, 2023).  
+• The pseudoreceptor BAMBI associates with the receptor complex and limits SMAD3 phosphorylation, providing negative feedback (Unknown Authors, 2023a).
+
+## Function  
+Upon TGFB1-3 binding, two TGFBR2 and two TGFBR1 subunits form a heterotetramer; TGFBR2 phosphorylates and activates TGFBR1 (Hinck & O’Connor-McCourt, 2011).  
+Activated ALK5 phosphorylates SMAD2/3, which complex with SMAD4 and translocate to the nucleus to regulate transcription (Massagué & Sheppard, 2023).  
+Controls epithelial–mesenchymal transition, extracellular matrix production, immune suppression, and fibrotic and oncogenic processes (Inman et al., 2002).  
+Expression is broadly ubiquitous across human tissues (Unknown Authors, 2023a).
+
+## Inhibitors  
+• SB-431542: ATP-competitive; IC₅₀ ≈ 94 nM; blocks ALK4/5/7 and SMAD2 phosphorylation (Inman et al., 2002).  
+• SB-505124: 3–5 fold more potent than SB-431542 with similar selectivity (Byfield et al., 2004).  
+• Additional co-crystallised inhibitors include pyrazolone (PDB 3KCF) and indolinone scaffolds (Unknown Authors, 2023b).  
+Key binding interactions involve a hinge hydrogen bond to His283 and contacts with Lys232, Glu245, Tyr249 and Asp351 (Jiang et al., 2018).
+
+## Other comments  
+Gain-of-function mutation T204D disrupts FKBP12 binding and confers ligand-independent signalling, linked to ovarian sex-cord stromal tumours (Goebel et al., 2019).  
+GS-domain mutation R206H causes constitutive activity and underlies fibrodysplasia ossificans progressiva (Goebel et al., 2019).  
+Somatic loss-of-function mutations are observed in diverse cancers; inherited pathway variants predispose to connective-tissue disorders (Massagué & Sheppard, 2023).
+
+## References  
+Byfield, S. D. C., Major, C., Laping, N. J., & Roberts, A. B. (2004). SB-505124 is a selective inhibitor of transforming growth factor-β type I receptors ALK4, ALK5, and ALK7. Molecular Pharmacology, 65, 744–752. https://doi.org/10.1124/mol.65.3.744  
+
+Goebel, E. J., Hart, K. N., McCoy, J. C., & Thompson, T. B. (2019). Structural biology of the TGF-β family. Experimental Biology and Medicine, 244, 1530–1546. https://doi.org/10.1177/1535370219880894  
+
+Hinck, A., & O’Connor-McCourt, M. (2011). Structures of TGF-β receptor complexes: Implications for function and therapeutic intervention using ligand traps. Current Pharmaceutical Biotechnology, 12(12), 2081–2098. https://doi.org/10.2174/138920111798808383  
+
+Inman, G. J., Nicolás, F. J., Callahan, J. F., Harling, J. D., Gaster, L. M., Reith, A. D., Laping, N. J., & Hill, C. S. (2002). SB-431542 is a potent and specific inhibitor of transforming growth factor-β superfamily type I activin receptor-like kinase receptors ALK4, ALK5, and ALK7. Molecular Pharmacology, 62, 65–74. https://doi.org/10.1124/mol.62.1.65  
+
+Jiang, M.-N., Zhou, X.-P., Sun, D.-R., Gao, H., Zheng, Q.-C., Zhang, H.-X., & Liang, D. (2018). 2D-QSAR study, molecular docking, and molecular dynamics simulation studies of interaction mechanism between inhibitors and transforming growth factor-beta receptor I (ALK5). Journal of Biomolecular Structure and Dynamics, 36, 3705–3717. https://doi.org/10.1080/07391102.2017.1396256  
+
+Massagué, J., & Sheppard, D. (2023). TGF-β signaling in health and disease. Cell, 186, 4007–4037. https://doi.org/10.1016/j.cell.2023.07.036  
+
+Unknown Authors. (2023a). Molecular insights into signalling mechanisms within TGF-β superfamily (pp. 26–31).  
+
+Unknown Authors. (2023b). Molecular insights into signalling mechanisms within TGF-β superfamily (pp. 272–275).  
+
+Unknown Authors. (2023c). Engineered antibodies for Igsf8 and Tgfbr1 modulate TGF-β signals in melanoma (pp. 20–24).

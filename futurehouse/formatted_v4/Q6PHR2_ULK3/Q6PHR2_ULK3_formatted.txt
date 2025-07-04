@@ -1,0 +1,43 @@
+## Phylogeny  
+ULK3 is a member of the Unc-51-like kinase (ULK) family within the serine/threonine protein kinase group of the human kinome (Preuss et al., 2020). Phylogenetic analyses cluster ULK3 together with the STK36/Fused sub-family, sharing ~38 % catalytic-domain identity with human STK36 and ~37 % with Drosophila fused kinase (Maloverjan et al., 2010a). Within the ULK family, ULK3 forms a branch distinct from ULK1/2/4, linking it to Hedgehog rather than canonical autophagy signalling (Karmacharya & Jung, 2023).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr ⇌ ADP + [protein]-O-phospho-Ser/Thr (Maloverjan et al., 2010a).  
+
+## Cofactor Requirements  
+Catalytic activity requires divalent cations; Mg²⁺ or Mn²⁺ support activity in vitro (Kasak et al., 2018).  
+
+## Substrate Specificity  
+ULK3 phosphorylates GLI transcription factors, showing highest activity toward GLI2 and lower activity toward GLI1 and GLI3 (Maloverjan et al., 2010a). On GLI1, phosphorylation is confined to residues 1–426 (N-terminus) and the C-terminal region, with the central segment (426–754) unmodified (Maloverjan et al., 2010a). No global consensus phosphorylation motif has been reported.  
+
+## Structure  
+The 472-residue protein contains an N-terminal kinase domain (residues 14–270), a microtubule-interacting and trafficking (MIT) domain (279–353) and a C-terminal regulatory tail (354–472) (Maloverjan et al., 2010a). Canonical VAIK (Lys44), HRD and DFG motifs constitute the catalytic core; a second essential lysine (Lys139) is also required—mutation K139R abrogates activity (Kasak et al., 2018; Maloverjan et al., 2010a). Homology modelling indicates at least six surface-exposed autophosphorylated serines near the active site (Kasak et al., 2018). No crystal or cryo-EM structure is currently available; structural insights rely on homology models (Kasak et al., 2018).  
+
+## Regulation  
+• Autophosphorylation occurs at Ser22, Ser55 (kinase domain) and Ser300, Ser350, Ser384, Ser464 (C-terminal tail) (Kasak et al., 2018; Maloverjan et al., 2010b).  
+• Ser22/Ser55 autophosphorylation is dispensable for catalysis, whereas phosphorylation by an unidentified kinase at Ser176 and Ser467/468 abolishes activity (Kasak et al., 2018).  
+• In the absence of Sonic Hedgehog (SHH), Suppressor of Fused (SUFU) binds the kinase domain and blocks both auto- and substrate phosphorylation; SHH stimulation dissociates the SUFU–ULK3 complex, permitting activation and GLI2 phosphorylation (Maloverjan et al., 2010b).  
+• SUFU-bound ULK3 also recruits PKA, GSK3β and CK1 to promote GLI2 repressor processing in a kinase-independent scaffolding role (Maloverjan et al., 2010b).  
+• The small molecule SU6668 binds the ATP pocket and inhibits ULK3 in a mixed-type manner, increasing Km and decreasing Vmax for ATP (Kasak et al., 2018).  
+
+## Function  
+Highest ULK3 mRNA levels are detected in fetal brain and in adult hippocampus, cerebellum, olfactory bulb and optic nerve (Maloverjan et al., 2010a). Active ULK3 enhances GLI1/GLI2 transcriptional activity and promotes nuclear localisation of GLI1, positively regulating Hedgehog signalling (Maloverjan et al., 2010a). Partial knock-down paradoxically augments SHH-induced GLI1, indicating dual positive/negative pathway modulation (Maloverjan et al., 2010b). ULK3 is up-regulated in cancer-associated fibroblasts under metabolic stress, where it is essential for autophagy-driven pro-tumorigenic conversion (Karmacharya & Jung, 2023). Verified interactors include SUFU (kinase domain) and GLI1-3 (kinase and MIT regions) (Maloverjan et al., 2010a; Maloverjan et al., 2010b).  
+
+## Inhibitors  
+SU6668 photo-crosslinks to Ile43 in the ATP pocket and inhibits ULK3 activity; a photoreactive analogue (SUX) covalently binds the same site. SU6668 suppresses SHH-induced GLI expression in cells (Kasak et al., 2018; Montagnani & Stecca, 2019).  
+
+## Other Comments  
+Elevated ULK3 activity in cancer-associated fibroblasts highlights the kinase as a potential therapeutic target; no recurrent disease-linked mutations have been reported (Karmacharya & Jung, 2023; Maloverjan et al., 2010a).  
+
+## 9. References  
+Kasak, L., Näks, M., Eek, P., Piirsoo, A., Bhadoria, R., Starkov, P., Saarma, M., Kasvandik, S., & Piirsoo, M. (2018). Characterization of protein kinase ULK3 regulation by phosphorylation and inhibition by small molecule SU6668. Biochemistry, 57, 5456–5465. https://doi.org/10.1021/acs.biochem.8b00356  
+
+Karmacharya, U., & Jung, J. (2023). Small molecule inhibitors for unc-51-like autophagy-activating kinase targeting autophagy in cancer. International Journal of Molecular Sciences, 24, Article 953. https://doi.org/10.3390/ijms24020953  
+
+Maloverjan, A., Piirsoo, M., Michelson, P., Kogerman, P., & Østerlund, T. (2010a). Identification of a novel serine/threonine kinase ULK3 as a positive regulator of Hedgehog pathway. Experimental Cell Research, 316(4), 627–637. https://doi.org/10.1016/j.yexcr.2009.10.018  
+
+Maloverjan, A., Piirsoo, M., Kasak, L., Peil, L., Østerlund, T., & Kogerman, P. (2010b). Dual function of unc-51-like kinase 3 (ULK3) in the Sonic Hedgehog signaling pathway. Journal of Biological Chemistry, 285, 30079–30090. https://doi.org/10.1074/jbc.M110.133991  
+
+Montagnani, V., & Stecca, B. (2019). Role of protein kinases in Hedgehog pathway control and implications for cancer therapy. Cancers, 11, Article 449. https://doi.org/10.3390/cancers11040449  
+
+Preuss, F., Chatterjee, D., Mathea, S., Shrestha, S., St-Germain, J., Saha, M., Kannan, N., Raught, B., Rottapel, R., & Knapp, S. (2020). Nucleotide binding, evolutionary insights, and interaction partners of the pseudokinase unc-51-like kinase 4. Structure, 28, 1184–1196.e6. https://doi.org/10.1016/j.str.2020.07.016

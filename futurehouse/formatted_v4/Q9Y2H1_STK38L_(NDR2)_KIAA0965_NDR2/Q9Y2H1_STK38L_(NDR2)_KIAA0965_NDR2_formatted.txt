@@ -1,0 +1,78 @@
+## Proposed EC/sub-subclass  
+2.7.11.–  
+
+## Accepted name  
+Serine/threonine-protein kinase STK38L (NDR2)  
+
+## Synonyms  
+NDR2; STK38L; Nuclear Dbf2-related protein kinase 2; LATS-related kinase 2  
+
+## Phylogeny  
+Member of the NDR (nuclear Dbf2-related) subgroup of the AGC serine/threonine kinase family, highly conserved from yeast to humans (Bichsel et al., 2004; Cornils, 2010). The human NDR branch comprises NDR1 (STK38), NDR2 (STK38L), LATS1 and LATS2 (Cornils, 2010). Orthologues include S. cerevisiae Dbf2p/Dbf20p/Cbk1p, S. pombe Sid2p/Orb6p, C. elegans SAX-1/LATS, and D. melanogaster Tricornered/Warts (Bichsel et al., 2004; Cornils, 2010; Martin & Camonis, 2021). Upstream Ste20-like kinases MST1/2/3 are closely related and act as activators (Stegert et al., 2005).  
+
+## Reaction catalyzed  
+ATP + [a protein] ⇌ ADP + [a phosphoprotein] (Cornils, 2010; Hergovich et al., 2008).  
+
+## Cofactor requirements  
+Requires Mg²⁺ for ATP binding and phosphoryl transfer; 10 mM MgCl₂ is used in vitro (Bichsel et al., 2004; Hergovich et al., 2008; Stegert et al., 2005).  
+
+## Specificity  
+Prefers basophilic motifs with basic residues N-terminal to the phospho-acceptor. Consensus sequences reported include H-X-R-R-X-S/T, H-R-x-x-S/T, HXRXXS/T, and [R/K]-X-[pS/pT]-[L/V] (Johnson et al., 2023; Hergovich, 2016). A synthetic peptide, KKRNRRLSVA, is efficiently phosphorylated in vitro (Stegert, 2005; Köhler, 2012).  
+
+## Structure  
+Composed of:  
+• N-terminal regulatory (NTR) domain that binds MOB proteins and S100B (Cornils, 2010).  
+• Central catalytic kinase domain with 12 conserved subdomains (Cornils, 2010).  
+• C-terminal hydrophobic motif (HM) containing Thr442 (Cornils, 2010; Martin, 2020).  
+A 30–60 aa insertion between subdomains VII and VIII harbours an auto-inhibitory sequence rich in basic residues (Bichsel et al., 2004; Cornils, 2010). Crystal structures of the paralog STK38 show an elongated activation segment and an auto-inhibitory αC helix (Martin & Camonis, 2021). AlphaFold models recapitulate these features (Martin, 2020).  
+
+## Regulation  
+Phosphorylation-dependent activation:  
+• Ser282 (activation loop) – autophosphorylation, essential for activity (Cornils, 2010).  
+• Thr442 (HM) – phosphorylated by MST1/2/3; MST3 enhances activity ~10-fold (Stegert et al., 2005).  
+• Thr74/Thr75 (NTR) – required for full activity (Martin, 2020; Martin & Camonis, 2021).  
+
+Dephosphorylation: PP2A inactivates STK38L (Martin, 2020; Martin & Camonis, 2021).  
+
+Regulatory proteins:  
+• MOB1A/B act as co-activators by binding the NTR and relieving auto-inhibition, whereas MOB2 is inhibitory (Cornils, 2010; Hergovich et al., 2008; Köhler, 2012).  
+• S100B binds the NTR and can stimulate activity in vitro (Bichsel et al., 2004).  
+
+Other post-translational modifications: ISGylation, ubiquitination and acetylation have been reported (Hergovich, 2016).  
+
+## Function  
+Participates in cell-cycle progression, centrosome duplication, cell morphology, spreading, neurite outgrowth and mitotic chromosome alignment (Bichsel et al., 2004; Stegert, 2005; Hergovich, 2013). Localises predominantly in the cytoplasm (Stegert, 2005). Highly expressed in rapidly proliferating tissues such as stomach and intestine (Stegert, 2005).  
+
+Signalling context:  
+Upstream kinases – MST1-5, MAP4K family (Cornils, 2010; Martin, 2020).  
+Downstream substrates – YAP (Ser127), TAZ, Rabin8, HP1α, XPO1 (Hergovich, 2016; Martin & Camonis, 2021).  
+Pathway – Acts within the Hippo pathway to restrain YAP/TAZ activity (Bichsel et al., 2004; Hergovich, 2016).  
+
+## Inhibitors  
+No direct small-molecule inhibitors reported; selective nuclear export inhibitors such as Selinexor target the substrate XPO1 (Martin, 2020).  
+
+## Other comments  
+STK38L lies in the cancer-associated 12p11 amplicon. Up-regulation is observed in aggressive breast cancers, melanomas and metastatic lung cancer lines (Bichsel et al., 2004; Stegert, 2005). Intestinal Ndr1/2 knockout mice display hyperplasia and increased tumour incidence (Hergovich, 2016). An exonic SINE insertion in canine STK38L causes early retinal degeneration (Hergovich, 2013).  
+
+## References  
+Bichsel, S. J., Tamaskovic, R., Stegert, M. R., & Hemmings, B. A. (2004). Mechanism of activation of NDR (nuclear Dbf2-related) protein kinase by the hMOB1 protein. Journal of Biological Chemistry, 279, 35228-35235. https://doi.org/10.1074/jbc.M404542200  
+
+Cornils, H. (2010). Functional characterization of mammalian NDR kinase deficiency: novel functions and insights into downstream signaling mechanisms (Doctoral dissertation). University of Basel.  
+
+Hergovich, A., Cornils, H., & Hemmings, B. A. (2008). Mammalian NDR protein kinases: from regulation to a role in centrosome duplication. Biochimica et Biophysica Acta – Proteins and Proteomics, 1784, 3-15. https://doi.org/10.1016/j.bbapap.2007.07.017  
+
+Hergovich, A. (2013). Regulation and functions of mammalian LATS/NDR kinases: looking beyond canonical Hippo signalling. Cell & Bioscience, 3, 32. https://doi.org/10.1186/2045-3701-3-32  
+
+Hergovich, A. (2016). The roles of NDR protein kinases in Hippo signalling. Genes, 7, 21. https://doi.org/10.3390/genes7050021  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759-766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Köhler, R. (2012). Functional characterization of human NDR kinases: novel regulatory mechanisms and a path towards direct substrates (Doctoral dissertation). University of Basel.  
+
+Martin, A. P. J., & Camonis, J. H. (2021). The STK38–XPO1 axis, a new actor in physiology and cancer. Cellular and Molecular Life Sciences, 78, 1943-1955. https://doi.org/10.1007/s00018-020-03690-w  
+
+Martin, A. P. J., & Camonis, J. H. (2020). The Hippo kinase STK38 ensures functionality of XPO1. Cell Cycle, 19, 2982-2995. https://doi.org/10.1080/15384101.2020.1826619  
+
+Stegert, M. R., Hergovich, A., Tamaskovic, R., Bichsel, S. J., & Hemmings, B. A. (2005). Regulation of NDR protein kinase by hydrophobic motif phosphorylation mediated by the mammalian Ste20-like kinase MST3. Molecular and Cellular Biology, 25, 11019-11029. https://doi.org/10.1128/MCB.25.24.11019-11029.2005  
+
+Stegert, M. (2005). Functional characterisation of the mammalian NDR1 and NDR2 protein kinases and their regulation by the mammalian Ste20-like kinase MST3 (Doctoral dissertation). University of Basel.

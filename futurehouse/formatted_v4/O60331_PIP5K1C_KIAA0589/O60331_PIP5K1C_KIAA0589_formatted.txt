@@ -1,0 +1,51 @@
+## Phylogeny  
+PIP5K1C is one of three vertebrate Type I phosphatidylinositol-4-phosphate 5-kinase (PIP5K) isoforms (1A, 1B, 1C) that arose from early vertebrate-specific gene duplications (Brown & Auger, 2011). Type I PIP5Ks, together with Type II PIP4Ks, form the PIP kinase family within the larger phosphoinositide kinase (PIK) superfamily and are phylogenetically distinct from PI3K and PI4K families (Brown & Auger, 2011; van den Bout & Divecha, 2009). Mammalian Type I/II PIPKs are homologous to yeast Mss4p (Brown & Auger, 2011). Invertebrates and non-vertebrate chordates generally possess a single PIP5K1 gene (Brown & Auger, 2011). Under the Manning et al. (2002) kinase classification, PIP5K1C is placed in the “other” lipid kinase group, while an alternative scheme assigns PIP kinases to the AGC group (van den Bout & Divecha, 2009; Xia, 2011).
+
+## Reaction Catalyzed  
+ATP + phosphatidylinositol-4-phosphate (PtdIns4P) ⇌ ADP + phosphatidylinositol-4,5-bisphosphate (PtdIns(4,5)P₂) (van den Bout & Divecha, 2009; Transcriptome Alterations…, n.d.).
+
+## Cofactor Requirements  
+Catalysis requires divalent metal ions, with Mg²⁺ as the principal cofactor; Mn²⁺ can substitute (Brown & Auger, 2011; Xia, 2011; van den Bout & Divecha, 2009). Asp398 in the kinase domain coordinates the metal ion (Xia, 2011).
+
+## Substrate Specificity  
+The primary substrate is PtdIns4P. The activation-loop subdomain dictates selectivity for PtdIns4P over PtdIns5P, the substrate of PIP4Ks (van den Bout & Divecha, 2009). Enzyme efficiency is influenced by acyl-chain composition of both substrate and activating lipids (Shulga et al., 2012). PIP5K1C can also phosphorylate minor substrates such as PtdIns(3,4)P₂ and PtdIns(3)P, albeit less efficiently (van den Bout & Divecha, 2009).
+
+## Structure  
+PIP5K1C contains a ~340-aa conserved kinase domain flanked by disordered N- and C-terminal regions (Transcriptome Alterations…, n.d.; Unknown authors, 2018). The N-terminus binds Rac GTPase, whereas alternatively spliced C-terminal tails mediate interactions (e.g., talin) and can act autoinhibitively (Xia, 2011). No human crystal structure is available; the zebrafish PIP5K1α structure (PDB 4TZ7) serves as a homologous model (Transcriptome Alterations…, n.d.). Key residues include Lys188 (ATP binding), Asp316 (catalysis), and Asp398 (metal binding) (Xia, 2011). The activation loop is flexible until lipid binding induces ordering (Transcriptome Alterations…, n.d.).
+
+## Regulation  
+• Phosphorylation  
+ – Activating: dephosphorylation by PP1, recruitment to AP-2, phosphorylation by FAK or WASP-Arp2/3 (van den Bout & Divecha, 2009; Xia, 2011).  
+ – Inhibiting: autophosphorylation (∼10-fold reduction), PKA-dependent phosphorylation (Xia, 2011).  
+ – Site-specific: Src/Cdk5-mediated phosphorylation of Y649/S650 regulates talin binding (van den Bout & Divecha, 2009).  
+
+• Other modifications: ubiquitination by NEDD4 reduces stability; caspase-dependent cleavage reported (Jin & Xue, 2023; van den Bout & Divecha, 2009).
+
+• Protein interactions/allostery:  
+ – C-terminal autoinhibition relieved by talin binding (Xia, 2011).  
+ – Small GTPases (Rac1, RhoA, Cdc42, ARF family) modulate activity/localization; Rac1 enhances PtdIns(4,5)P₂ synthesis (Xia, 2011).  
+ – Interaction with retinoblastoma protein (pRB) increases activity (van den Bout & Divecha, 2009).
+
+## Function  
+Highly expressed in brain tissue (van den Bout & Divecha, 2009). By producing PtdIns(4,5)P₂, PIP5K1C feeds into PI3K/Akt and PLC signaling and contributes to NF-κB and p38 MAPK pathway activation (Jin & Xue, 2023; van den Bout & Divecha, 2009). Reported interactors include talin, pRB, EGFR, Src, clathrin adaptor complexes, and small GTPases (van den Bout & Divecha, 2009; Xia, 2011). Cellular roles encompass cytoskeletal organization, clathrin-mediated endocytosis, phagocytosis, synaptic vesicle recycling, cell adhesion, neurite outgrowth, and cell-cycle progression (van den Bout & Divecha, 2009). Dysregulated expression in cancers—e.g., breast cancer—promotes migration, invasion, and proliferation (Jin & Xue, 2023).
+
+## Inhibitors  
+UNC3230 is a competitive ATP-site inhibitor of PIP5K1C, with higher potency toward PIP4Kγ and limited by poor solubility and a narrow efficacy window (Jin & Xue, 2023).
+
+## Other Comments  
+Altered PIP5K1C activity/PtdIns(4,5)P₂ metabolism is linked to cancer and neurological disorders (van den Bout & Divecha, 2009). In triple-negative breast cancer, PIP5K1C up-regulates PD-L1 transcription (Jin & Xue, 2023). A G757A missense mutation causes lethal congenital contractural syndrome 3 (van den Bout & Divecha, 2009). Mouse knockouts show embryonic or perinatal lethality, underscoring essential neural functions (van den Bout & Divecha, 2009).
+
+## 9. References  
+Brown, J. R., & Auger, K. R. (2011). Phylogenomics of phosphoinositide lipid kinases: perspectives on the evolution of second messenger signaling and drug discovery. BMC Evolutionary Biology, 11, 4. https://doi.org/10.1186/1471-2148-11-4  
+
+Jin, Y., & Xue, J. (2023). Lipid kinases PIP5Ks and PIP4Ks: potential drug targets for breast cancer. Frontiers in Oncology. https://doi.org/10.3389/fonc.2023.1323897  
+
+Shulga, Y. V., Anderson, R. A., Topham, M. K., & Epand, R. M. (2012). Phosphatidylinositol-4-phosphate 5-kinase isoforms exhibit acyl chain selectivity for both substrate and lipid activator. The Journal of Biological Chemistry, 287, 35953–35963. https://doi.org/10.1074/jbc.M112.370155  
+
+Transcriptome Alterations Following Loss of PIP5K1α Function in Prostate Cancer Cells. (n.d.). (pp. 46–80).  
+
+Unknown authors. (2018). The role of phosphatidylinositol 4-phosphate 5-kinase type I alpha (PIP5K1α) and utility of its inhibitor for targeting metastatic cancer (pp. 25–29).  
+
+van den Bout, I., & Divecha, N. (2009). PIP5K-driven PtdIns(4,5)P₂ synthesis: regulation and cellular functions. Journal of Cell Science, 122, 3837–3850. https://doi.org/10.1242/jcs.056127  
+
+Xia, Y. (2011). The localisation and regulation of phosphatidylinositol-4-phosphate 5-kinase gamma splice variants and the discovery of a new mammalian splice variant, PIP5KIγ_v6 (Doctoral dissertation, University of Cambridge). https://doi.org/10.17863/cam.15898

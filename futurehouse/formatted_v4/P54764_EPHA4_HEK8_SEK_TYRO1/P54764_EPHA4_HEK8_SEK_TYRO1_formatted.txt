@@ -1,0 +1,72 @@
+## Phylogeny  
+EPHA4 belongs to the tyrosine kinase (TK) group, Eph receptor family, EphA subclass, and has orthologs from sponges and choanoflagellates through vertebrates, including Homo sapiens, Mus musculus, Rattus norvegicus, Branchiostoma floridae, Ciona intestinalis, Nematostella vectensis, Caenorhabditis elegans (VAB-1), and Drosophila melanogaster (Eph), illustrating deep evolutionary conservation (Bowden et al., 2009; Bush, 2022; Linden et al., 2012; Mellott & Burke, 2008).  
+
+## Reaction Catalyzed  
+ATP + protein-L-tyrosine ⇌ ADP + protein-L-tyrosyl phosphate + H⁺ (Binns et al., 2000).  
+
+## Cofactor Requirements  
+Catalysis requires 10–20 mM Mg²⁺; Mn²⁺ further supports activity in vitro (Binns et al., 2000; Dionne et al., 2018; Identification de nouvelles protéines effectrices, 2021).  
+
+## Substrate Specificity  
+• Autophosphorylation on Y596/Y602 (juxtamembrane), Y779 (activation loop), and Y928 (SAM domain) (Binns et al., 2000; Gaitanos et al., 2015).  
+• Peptide arrays show efficient phosphorylation of tyrosines within C-terminal SH3 segments of NCK1/2 and Par3 peptides; preferred motif pY-Φ/Pro-X-Φ (Φ = bulky hydrophobe) (Dionne et al., 2018; Identification de nouvelles protéines effectrices, 2021).  
+• A full kinome-wide consensus for EPHA4 has not yet been published (Dionne et al., 2018).  
+
+## Structure  
+Extracellular ligand-binding domain (jelly-roll β-sandwich), cysteine-rich linker, two fibronectin type III repeats, single transmembrane helix, juxtamembrane segment, kinase domain, SAM domain, and C-terminal PDZ-binding motif (Gaitanos et al., 2015; Qin et al., 2008).  
+Kinase domain crystal structures (apo PDB 2Y6M, inhibitor-bound PDB 2XYU) adopt an active αC-in/DFG-in conformation; key motifs include K653 (VAIK), HRD (H766-R767-D768), DFG (D784-F785-G786), and activation-loop Y779 (Linden et al., 2012).  
+Ligand-binding domain structures (e.g., PDB 3CKH) reveal flexible D-E and J-K loops that generate a promiscuous ephrin-binding channel (Bowden et al., 2009; Qin et al., 2008).  
+Ectodomain head-to-tail interfaces mediate higher-order clustering (Nikolov et al., 2013).  
+An AlphaFold model (AF-P54764-F1) covers regions lacking crystallographic data (Linden et al., 2012).  
+
+## Regulation  
+Phosphorylation  
+– Autophosphorylation of Y596/Y602 releases juxtamembrane autoinhibition; Y779 phosphorylation enhances catalytic turnover (Binns et al., 2000; Gaitanos et al., 2015).  
+– Phospho-Y602 recruits Src-family kinases such as Fyn (Gaitanos et al., 2015).  
+– EPHA4 and FGFR1 engage in reciprocal trans-phosphorylation (Yokote et al., 2005).  
+
+Proteolysis  
+Sequential metalloprotease and γ-secretase cleavage down-regulates surface EPHA4 and remodels dendritic spines (Gaitanos et al., 2015).  
+
+Clustering  
+Ligand binding induces ephrin-EPHA4 heterotetramers that polymerise into signalling lattices (Gaitanos et al., 2015; Nikolov et al., 2013).  
+
+## Function  
+Expression: Highly expressed in the developing central nervous system—hindbrain, corticospinal tract, thalamocortical projections—and in adult hippocampus, thyroid, kidney, lung, skeletal muscle, thymus, and vascular smooth muscle (Gaitanos et al., 2015).  
+
+Upstream ligands: Binds ephrin-A1, ‑A2, ‑A3, ‑A4, ‑A5 and ephrin-B2, ‑B3 (Gaitanos et al., 2015).  
+
+Downstream signalling: Activates RhoA while suppressing Rac1, Rap1, and Rap2, thereby modulating integrin-dependent adhesion; phosphorylates NCK1/2 SH3 domains; coordinates with SRC kinases and PLCG1 during growth-cone collapse (Dionne et al., 2018; Gaitanos et al., 2015; Identification de nouvelles protéines effectrices, 2021).  
+
+Physiology: Directs corticospinal and thalamocortical axon guidance, segregates motor and sensory projections, and supports synaptic plasticity (Binns et al., 2000; Gaitanos et al., 2015).  
+
+## Inhibitors  
+Kinase domain: 6,7,8,9-Tetrahydro-3H-pyrazolo[3,4-c]isoquinolin-1-amine (compound 73) IC₅₀ ≈ 2 µM; dasatinib co-crystallised with EPHA4 (Linden et al., 2012).  
+Ligand-binding domain: Small-molecule antagonists targeting the ephrin-binding channel (K_d 20–26 µM) (Qin et al., 2008).  
+Peptides: Blocking peptides reduce astrogliosis and enhance axon regeneration (Linden et al., 2012).  
+
+## Other Comments  
+EPHA4 is over-expressed in colorectal, prostate, and pancreatic cancers and modulates disease progression in amyotrophic lateral sclerosis; receptor deletion improves axonal regeneration in mouse models (Gaitanos et al., 2015; Linden et al., 2012).  
+
+## 9. References  
+Binns, K. L., Taylor, P. P., Sicheri, F., Pawson, T., & Holland, S. J. (2000). Phosphorylation of tyrosine residues in the kinase domain and juxtamembrane region regulates the biological and catalytic activities of Eph receptors. Molecular and Cellular Biology, 20(13), 4791-4805. https://doi.org/10.1128/MCB.20.13.4791-4805.2000  
+
+Bowden, T., Aricescu, A., Nettleship, J., Siebold, C., Rahman-Huq, N., Owens, R., Stuart, D. I., & Jones, E. (2009). Structural plasticity of Eph receptor A4 facilitates cross-class ephrin signalling. Structure, 17(10), 1386-1397. https://doi.org/10.1016/j.str.2009.07.018  
+
+Bush, J. O. (2022). Cellular and molecular mechanisms of Eph/ephrin signaling in evolution and development. Current Topics in Developmental Biology, 149, 153-201. https://doi.org/10.1016/bs.ctdb.2022.02.005  
+
+Dionne, U., Chartier, F. J. M., López de los Santos, Y., Lavoie, N., Bernard, D. N., Banerjee, S. L., … Bisson, N. (2018). Direct phosphorylation of Src homology 3 domains by tyrosine kinase receptors disassembles ligand-induced signaling networks. Molecular Cell, 70(6), 995-1007.e11. https://doi.org/10.1016/j.molcel.2018.05.013  
+
+Gaitanos, T., Dudanova, I., Sakkou, M., Klein, R., & Paixão, S. (2015). The Eph receptor family. In Receptor Tyrosine Kinases: Family and Subfamilies (pp. 165-264). Springer. https://doi.org/10.1007/978-3-319-11888-8\_5  
+
+Identification de nouvelles protéines effectrices dans la signalisation des récepteurs Eph. (2021).  
+
+Linden, O. P. J. van, Farenc, C., Zoutman, W., Hameetman, L., Wijtmans, M., Leurs, R., Tensen, C., Siegal, G., & de Esch, I. D. (2012). Fragment-based lead discovery of small-molecule inhibitors for the EphA4 receptor tyrosine kinase. European Journal of Medicinal Chemistry, 47(1), 493-500. https://doi.org/10.1016/j.ejmech.2011.11.020  
+
+Mellott, D. O., & Burke, R. D. (2008). The molecular phylogeny of Eph receptors and ephrin ligands. BMC Cell Biology, 9, 27. https://doi.org/10.1186/1471-2121-9-27  
+
+Nikolov, D. B., Xu, K., & Himanen, J. P. (2013). Eph/ephrin recognition and the role of Eph/ephrin clusters in signaling initiation. Biochimica et Biophysica Acta, 1834(10), 2160-2165. https://doi.org/10.1016/j.bbapap.2013.04.020  
+
+Qin, H., Shi, J., Noberini, R., Pasquale, E., & Song, J. (2008). Crystal structure and NMR binding reveal that two small-molecule antagonists target the high-affinity ephrin-binding channel of the EphA4 receptor. Journal of Biological Chemistry, 283(43), 29473-29484. https://doi.org/10.1074/jbc.M804114200  
+
+Yokote, H., Fujita, K., Jing, X., Sawada, T., Liang, S., Yao, L., … Sakaguchi, K. (2005). Trans-activation of EphA4 and FGF receptors mediated by direct interactions between their cytoplasmic domains. Proceedings of the National Academy of Sciences, 102(52), 18866-18871. https://doi.org/10.1073/pnas.0509741102

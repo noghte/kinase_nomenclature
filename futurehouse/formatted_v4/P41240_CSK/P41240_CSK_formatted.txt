@@ -1,0 +1,54 @@
+## Phylogeny  
+Orthologous genes are present in rat and mouse with high sequence identity to human CSK, and the full-length rat enzyme has been crystallised, underscoring functional conservation (Ogawa et al., 2002; Chong et al., 2005). Sequence conservation extends from Metazoa to unicellular choanoflagellates, indicating an ancient role in Src-family kinase (SFK) regulation (Okada, 2012). Within the human kinome, CSK belongs to the Tyrosine Kinase (TK) group and forms the CSK family together with its closest paralogue CHK/MATK (Cole et al., 2003; Chong et al., 2005).  
+
+## Reaction Catalyzed  
+ATP + [SFK]-L-tyrosine ⇌ ADP + [SFK]-O-phospho-L-tyrosine (Chong et al., 2005).  
+
+## Cofactor Requirements  
+Catalysis requires Mg²⁺; a second divalent cation further enhances activity in vitro (Sun & Ayrapetov, 2023).  
+
+## Substrate Specificity  
+CSK is highly selective for the conserved C-terminal regulatory tyrosine of SFKs (e.g., SRC Y530, LCK Y505) (Chong et al., 2005). Isolated tail peptides are inefficient substrates; productive phosphorylation depends on a substrate-docking surface centred on helix D of the kinase domain rather than a simple linear consensus motif (Lee et al., 2006). Generic tyrosine peptides are phosphorylated only marginally, in contrast to the broad specificity of SFKs themselves (Cole et al., 2003).  
+
+## Structure  
+The protein comprises an N-terminal SH3 domain, a central SH2 domain and a C-terminal kinase domain, with SH3/SH2 positioned on the kinase N-lobe (Ogawa et al., 2002).  
+Active state: a Lys222–Glu236 salt bridge aligns the αC helix; catalytic residues Lys222, Asp314, Asn319 and Asp332 are correctly oriented, and the SH2 domain stabilises αC and the regulatory spine (Ogawa et al., 2002).  
+Inactive state: ~60° rotation of the SH2 domain disrupts the Lys222–Glu236 ion pair and displaces αC (Ogawa et al., 2002).  
+Additional features: activation loop is four residues shorter than in Src and lacks an autophosphorylation site; a conserved αBC helix in the SH3–SH2 linker docks on the C-lobe, providing unique allosteric communication; a dedicated substrate-docking cleft on helix D explains SFK-tail selectivity (Ogawa et al., 2002; Lee et al., 2006). The kinase domain has been crystallised with the pan-inhibitor staurosporine, confirming a canonical bilobal fold and ATP-binding geometry (Cole et al., 2003).  
+
+## Regulation  
+Post-translational modifications  
+• Ser364 phosphorylation by PKA increases catalytic efficiency (Chong et al., 2005).  
+• Tyr18 phosphorylation by ACK1 modulates activity and membrane localisation (Zhu et al., 2023).  
+• SUMO-1 conjugation via PIAS3 suppresses tumour-suppressor function (Sun & Ayrapetov, 2023).  
+
+Conformational / allosteric control  
+• SH2 binding to phospho-CBP/PAG1, caveolin-1 or Dok-1/2 recruits CSK to lipid rafts and relieves intrinsic suppression (Zhu et al., 2023; Sun & Ayrapetov, 2023).  
+• Homodimerisation through the SH3 domain has been reported to influence activity (Zhu et al., 2023).  
+• CSK shows negligible autophosphorylation; activation relies largely on ligand-induced domain rearrangements (Sun & Ayrapetov, 2023).  
+
+## Function  
+CSK is ubiquitously expressed, with high levels in haematopoietic and neural tissues (Zhu et al., 2023). It phosphorylates the C-terminal inhibitory tyrosine of SRC, LCK, FYN, HCK, LYN, BLK and YES1, forcing an intramolecular SH2-tail interaction that inactivates these kinases (Chong et al., 2005). Through this action CSK modulates TCR, BCR, integrin and multiple growth-factor receptor pathways. In mast cells it restrains LYN/SHP-1/STAT5 signalling and degranulation, dampens Toll-like receptor signalling via the LYN–MyD88 axis and phosphorylates MITA during antiviral responses (Zhu et al., 2023). Csk-null mice die in utero with neural-tube defects, a phenotype rescued by concurrent Src deletion, demonstrating the enzyme’s essential negative regulation of SFKs in vivo (Cole et al., 2003).  
+
+## Inhibitors  
+Staurosporine, a broad-spectrum ATP-competitive inhibitor, binds the CSK catalytic cleft; no CSK-selective small-molecule inhibitors have been reported (Cole et al., 2003).  
+
+## Other Comments  
+Reduced CSK activity or defective membrane recruitment correlates with elevated Src signalling in colorectal and non-small-cell lung cancers (Okada, 2012; Sun & Ayrapetov, 2023). Mutations in the N-terminal regulatory region decrease catalytic activity without impairing Src recognition (Levinson et al., 2008). SUMOylation-driven attenuation further links CSK loss of function to oncogenic signalling (Sun & Ayrapetov, 2023).  
+
+## References  
+Chong, Y.-P., Mulhern, T. D., & Cheng, H.-C. (2005). C-terminal Src kinase (CSK) and CSK-homologous kinase (CHK)—endogenous negative regulators of Src-family protein kinases. *Growth Factors, 23*, 233–244. https://doi.org/10.1080/08977190500178877  
+
+Cole, P., Shen, K., Qiao, Y., & Wang, D. (2003). Protein tyrosine kinases Src and CSK: A tail’s tale. *Current Opinion in Chemical Biology, 7*(5), 580–585. https://doi.org/10.1016/j.cbpa.2003.08.009  
+
+Lee, S., Ayrapetov, M. K., Kemble, D. J., Parang, K., & Sun, G. (2006). Docking-based substrate recognition by the catalytic domain of a protein tyrosine kinase, C-terminal Src kinase (CSK). *Journal of Biological Chemistry, 281*, 8183–8189. https://doi.org/10.1074/jbc.M508120200  
+
+Levinson, N., Seeliger, M., Cole, P., & Kuriyan, J. (2008). Structural basis for the recognition of c-Src by its inactivator CSK. *Cell, 134*, 124–134. https://doi.org/10.1016/j.cell.2008.05.051  
+
+Ogawa, A., Takayama, Y., Sakai, H., Chong, K. T., Takeuchi, S., Nakagawa, A., … Tsukihara, T. (2002). Structure of the carboxyl-terminal Src kinase, CSK. *Journal of Biological Chemistry, 277*, 14351–14354. https://doi.org/10.1074/jbc.C200086200  
+
+Okada, M. (2012). Regulation of the Src family kinases by CSK. *International Journal of Biological Sciences, 8*, 1385–1397. https://doi.org/10.7150/ijbs.5141  
+
+Sun, G., & Ayrapetov, M. K. (2023). Dissection of the catalytic and regulatory structure-function relationships of CSK protein tyrosine kinase. *Frontiers in Cell and Developmental Biology*. https://doi.org/10.3389/fcell.2023.1148352  
+
+Zhu, S., Wang, H., Ranjan, K., & Zhang, D. (2023). Regulation, targets and functions of CSK. *Frontiers in Cell and Developmental Biology*. https://doi.org/10.3389/fcell.2023.1206539

@@ -1,0 +1,63 @@
+## Phylogeny  
+CDK11A belongs to the eukaryotic protein kinase (ePK) superfamily, CMGC group, and Cyclin-Dependent Kinase (CDK) family (Manning et al., 2002a, 2002b). It is the closest vertebrate paralogue of CDK8, sharing ~91 % sequence identity, created by a vertebrate-specific gene duplication of an ancestral CDK8/CDK11 gene (Manning et al., 2002a). Single CDK8/CDK11 orthologues exist in Drosophila, C. elegans and yeast, while vertebrates possess both CDK8 and CDK11A/B; murine orthologues are present (Manning et al., 2002a, 2002b).  
+
+## Reaction Catalyzed  
+ATP + protein → ADP + phosphoprotein (Johnson et al., 2023).  
+
+## Cofactor Requirements  
+Catalysis requires a divalent metal, typically Mg²⁺ or Mn²⁺, to coordinate ATP in the active site (Karimbayli et al., 2024; Wood & Endicott, 2018).  
+
+## Substrate Specificity  
+CDK11A is a Ser/Thr, proline-directed kinase that preferentially phosphorylates motifs containing S/T-P; flanking sequence preferences differ from classical cell-cycle CDKs and were mapped by peptide-library/PSSM analyses (Johnson et al., 2023).  
+
+## Structure  
+The kinase domain displays the canonical bi-lobed fold: an N-terminal β-sheet-rich lobe (housing the glycine-rich loop and αC-helix) and a C-terminal α-helical lobe containing the activation (T)-loop; the ATP pocket lies in the inter-lobe cleft (Karimbayli et al., 2024; Wood & Endicott, 2018). A crystal structure of CDK11 bound to the inhibitor OTS964 adopts an active-like configuration and highlights a unique Gly at the xDFG position (Gly223) critical for inhibitor binding (Kelso et al., 2022).  
+
+## Regulation  
+• Cyclin binding: activity depends on association with Cyclin L1 or L2 (Loyer & Trembley, 2020).  
+• Phosphorylation: activation requires phosphorylation of Thr229 within the activation segment; CHK2 and CK2 have been reported as upstream kinases (Kelso et al., 2022; unknown authors, 2020).  
+• Isoforms: full-length CDK11p110 is constitutive; CDK11p58 is translated from an IRES during G₂/M; apoptotic cleavage generates the active p46 and mitochondrial p60 fragments (Loyer & Trembley, 2020).  
+
+## Function  
+A ubiquitously expressed nuclear kinase that:  
+1. Couples transcription and pre-mRNA splicing by associating with hyper-phosphorylated RNA polymerase II and phosphorylating its CTD, as well as splicing factors SF3B1 and SFRS7 (Blazek, 2023; Loyer & Trembley, 2020). Interactors include RNPS1, RNAPII, TFIIF, TFIIS and ELL2 (Loyer & Trembley, 2020).  
+2. Promotes G₂/M progression; depletion causes G₂/M arrest, while the p58 isoform contributes to sister-chromatid cohesion, spindle formation and cytokinesis (Li et al., 2022; unknown authors, 2023).  
+3. Participates in apoptosis: caspase-generated p46 inhibits translation via eIF3, whereas p60 relocates to mitochondria (Loyer & Trembley, 2020).  
+4. Has reported roles in autophagy (Blazek, 2023).  
+
+## Inhibitors  
+• OTS964: ATP-competitive inhibitor; KD ≈ 40 nM for CDK11B, >10-fold selectivity over other CDKs; disrupts spliceosome assembly (Blazek, 2023; Kelso et al., 2022; Lin et al., 2019).  
+• ZNL-05-044: diaminothiazole scaffold, less potent than OTS964 (Kelso et al., 2022; Li et al., 2022).  
+• Resistance mutations include G223S/A, E89G and M160F, which impair OTS964 binding (Kelso et al., 2022).  
+
+## Other Comments  
+CDK11A is overexpressed in numerous cancers (osteosarcoma, breast, multiple myeloma, ovarian, liposarcoma, colon, melanoma, oesophageal SCC) and high expression correlates with poor prognosis; many tumour cell lines are CDK11-dependent (Blazek, 2023; Kelso et al., 2022). FBXW7-deficient cells display synthetic lethality upon CDK11 inhibition (Kelso et al., 2022). CDK11 has also been linked to neuroblastoma, AIDS and Alzheimer’s disease (unknown authors, 2020).  
+
+## 9. References  
+Blazek, D. (2023). Therapeutic potential of CDK11 in cancer. Clinical and Translational Medicine, 13, e1201. https://doi.org/10.1002/ctm2.1201  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., et al. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Karimbayli, J., Pellarin, I., Belletti, B., & Baldassarre, G. (2024). Insights into the structural and functional activities of forgotten kinases: PCTAIREs CDKs. Molecular Cancer, 23, Article ??? https://doi.org/10.1186/s12943-024-02043-6  
+
+Kelso, S., O’Brien, S., Kurinov, I., Angers, S., & Sicheri, F. (2022). Crystal structure of the CDK11 kinase domain bound to the small-molecule inhibitor OTS964. Structure, 30, ???–???. https://doi.org/10.1016/j.str.2022.10.003  
+
+Li, Z., Ishida, R., Liu, Y., et al. (2022). Synthesis and structure-activity relationships of cyclin-dependent kinase 11 inhibitors based on a diaminothiazole scaffold. European Journal of Medicinal Chemistry, 238, 114433. https://doi.org/10.1016/j.ejmech.2022.114433  
+
+Lin, A., Giuliano, C. J., Palladino, A., et al. (2019). Off-target toxicity is a common mechanism of action of cancer drugs undergoing clinical trials. Science Translational Medicine, 11, eaaw8412. https://doi.org/10.1126/scitranslmed.aaw8412  
+
+Loyer, P., & Trembley, J. H. (2020). Roles of CDK/cyclin complexes in transcription and pre-mRNA splicing: Cyclins L and CDK11 at the crossroads of cell cycle and regulation of gene expression. Seminars in Cell & Developmental Biology, 107, 36–45. https://doi.org/10.1016/j.semcdb.2020.04.016  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002a). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Manning, G., Plowman, G. D., Hunter, T., & Sudarsanam, S. (2002b). Evolution of protein kinase signaling from yeast to man. Trends in Biochemical Sciences, 27, 514–520. https://doi.org/10.1016/S0968-0004(02)02179-5  
+
+Wood, D. J., & Endicott, J. A. (2018). Structural insights into the functional diversity of the CDK–cyclin family. Open Biology, 8, 180112. https://doi.org/10.1098/rsob.180112  
+
+Unknown authors. (2011). Molecular modelling and bioinformatics studies of CDK4 and related proteins.  
+
+Unknown authors. (2020). Investigating the role of CDK11 in animal cytokinesis.  
+
+Unknown authors. (2021). Biochemical characterization of the human cyclin-dependent kinases CDK7 and CDK10.  
+
+Unknown authors. (2023). Genome-wide CRISPR screening in FBXW7-mutant cells uncovers multiple druggable synthetic lethal interactions involving cell cycle control.

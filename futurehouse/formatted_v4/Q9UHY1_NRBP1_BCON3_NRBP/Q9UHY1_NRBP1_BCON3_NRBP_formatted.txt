@@ -1,0 +1,55 @@
+Phylogeny  
+• Member of the group G branch of the human kinome; classified as a class 1 pseudokinase because the kinase‐like domain lacks the canonical VAIK, HRD and DFG motifs (Kerr & Wilson, 2013; Murphy et al., 2014).  
+• Forms a distinct NRBP1/NRBP2 clade within the “other/atypical” sector of the kinome (Yang W. et al., 2024).  
+• Orthologue conservation: Homo sapiens vs Mus musculus 98.3 % identity; Caenorhabditis elegans 60.7 %; Drosophila melanogaster 53.8 % (Kerr & Wilson, 2013).  
+
+Reaction Catalyzed  
+No protein-serine/threonine kinase activity is detected; NRBP1 does not catalyse ATP-dependent phosphoryl transfer (Murphy et al., 2014).  
+
+Cofactor Requirements  
+No requirement for Mg²⁺, Mn²⁺ or other divalent cations has been observed (Murphy et al., 2014).  
+
+Substrate Specificity  
+A phosphorylation consensus motif is undefined because NRBP1 is catalytically inactive (Murphy et al., 2014).  
+
+Structure  
+• Modular organisation: SH2-interaction segment (aa 1–70), NES (aa 121–129), pseudokinase domain (aa 73–327), NLS (aa 163–181), BC-box for Elongin B/C binding (aa 332–341), LisH/Cullin region, MLF1-binding segment (aa 406–479), two LXXLL motifs (aa 462–466; 507–511) and a TSC22-binding module (Kerr & Wilson, 2013; Yang X. et al., 2023).  
+• AlphaFold models retain the bilobal kinase scaffold but confirm loss of the β3 catalytic lysine, HRD aspartate and DFG motif, abolishing the regulatory spine and the C-helix salt bridge (Yang X. et al., 2023).  
+• Thermal-shift assays show no binding to ATP, ADP or divalent cations, corroborating structural incompetence for catalysis (Murphy et al., 2014).  
+• The exposed BC-box provides a docking surface for CRL5 E3 ligase assembly, a feature absent from active kinases (Kerr & Wilson, 2013).  
+
+Regulation  
+• Phosphorylation: multiple sites reported by phospho-proteomics; individual sites and upstream kinases remain unmapped (Yang X. et al., 2023).  
+• Ubiquitination: the BC-box recruits Elongin B/C and CUL5, positioning NRBP1 as a substrate-recognition module of CRL5; CRL2 and CRL4A complexes contribute to NRBP1 turnover (Kerr & Wilson, 2013; Magaña-Ávila et al., 2024).  
+• Osmotic stress: binding to WNK kinases modulates CRL5 association during osmotic adaptation (Amnekar et al., 2024).  
+• Nucleocytoplasmic shuttling is directed by intrinsic NES and NLS signals (Kerr & Wilson, 2013).  
+
+Function  
+• Expression: ubiquitous across mammalian tissues (Kerr & Wilson, 2013).  
+• Development: Nrbp1-null mice die at embryonic day 7.5, indicating an essential embryonic role (Kerr & Wilson, 2013).  
+• Intestine: conditional knockout causes crypt elongation, increased progenitor proliferation and elevated Wnt-responsive gene expression (Kerr & Wilson, 2013).  
+• Ubiquitination adaptor: acts as the substrate selector in CRL5 complexes (Kerr & Wilson, 2013).  
+• Trafficking: binds activated Rac3 to influence ER-to-Golgi transport (Kerr & Wilson, 2013).  
+• Oncogenic signalling: scaffolds P-Rex1 with Rac1/Cdc42, enhancing ROS production, migration and metastasis in triple-negative breast cancer (Yang X. et al., 2023); promotes PI3K/AKT-dependent malignancy in glioblastoma (Zhang et al., 2024).  
+• Osmoregulation: associates with WNK kinases to modulate distal convoluted tubule signalling (Amnekar et al., 2024; Magaña-Ávila et al., 2024).  
+• Viral replication: interacts with dengue virus NS3, altering intracellular membrane architecture (Yang X. et al., 2023).  
+• Transcription: binds JAB1 to repress AP-1 activity (Kerr & Wilson, 2013).  
+
+Other Comments  
+• Tumour context-dependence: down-regulation correlates with poor survival in lung and colorectal adenocarcinomas and cooperates with oncogenic KRAS, whereas over-expression drives proliferation and invasion in triple-negative breast, bladder and prostate cancers (Kerr & Wilson, 2013; Yang X. et al., 2023).  
+• Functional interplay with the paralogue NRBP2 regulates LINE-1 retrotransposition, accounting for tissue-specific phenotypes (Yang W. et al., 2024).  
+
+References  
+Amnekar, R. V., Dite, T., Lis, P., Bell, S., Brown, F., Johnson, C., … Alessi, D. R. (2024). Nrbp1 pseudokinase binds to and activates the WNK pathway in response to osmotic stress. bioRxiv. https://doi.org/10.1101/2024.12.12.628181  
+
+Kerr, J. S., & Wilson, C. H. (2013). Nuclear receptor-binding protein 1: a novel tumour suppressor and pseudokinase. Biochemical Society Transactions, 41(4), 1055–1060. https://doi.org/10.1042/BST20130069  
+
+Magaña-Ávila, G., Carbajal-Contreras, H., Amnekar, R., Dite, T., Téllez-Sutterlin, M., García-Ávila, K., … Castañeda-Bueno, M. (2024). Nrbp1 and Tsc22d proteins impact distal convoluted tubule physiology through modulation of the WNK pathway. bioRxiv. https://doi.org/10.1101/2024.12.12.628222  
+
+Murphy, J. M., Zhang, Q., Young, S. N., Reese, M. L., Bailey, F. P., Eyers, P. A., … Lucet, I. S. (2014). A robust methodology to subclassify pseudokinases based on their nucleotide-binding properties. Biochemical Journal, 457(2), 323–334. https://doi.org/10.1042/BJ20131174  
+
+Yang, W., Cong, S., Schwarz, J., Schulze, T., Ullrich, S., Falkenstein, K., … Qi, W. (2024). Targeting the paralog protein for degradation accounts for the opposite roles of NRBP1 and NRBP2 in regulating LINE-1 retrotransposition. bioRxiv. https://doi.org/10.1101/2024.06.14.598964  
+
+Yang, X., Cruz, M. I., Nguyen, E. V., Huang, C., Schittenhelm, R., Luu, J., … Daly, R. J. (2023). The pseudokinase NRBP1 activates Rac1/Cdc42 via P-Rex1 to drive oncogenic signalling in triple-negative breast cancer. Oncogene, 42, 833–847. https://doi.org/10.1038/s41388-023-02594-w  
+
+Zhang, A., Peng, S., Sun, S., Ye, S., Zhao, Y., & Wu, Q. (2024). NRBP1 promotes malignant phenotypes of glioblastoma by regulating PI3K/AKT activation. Cancer Medicine. https://doi.org/10.1002/cam4.70100

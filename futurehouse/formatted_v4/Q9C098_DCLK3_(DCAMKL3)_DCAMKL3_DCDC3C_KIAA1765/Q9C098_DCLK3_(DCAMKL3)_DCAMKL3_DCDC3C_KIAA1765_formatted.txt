@@ -1,0 +1,52 @@
+## Phylogeny  
+DCLK3 is a member of the doublecortin-like kinase (DCLK) family. Reports differ on its kinome placement: one study assigns it to the CMGC group within the dual-specificity tyrosine-phosphorylation-regulated kinase (DYRK) family (Ohmae et al., 2006), whereas several others place it in the Ca²⁺/calmodulin-dependent protein kinase (CAMK) group, CAMK-like subfamily (Anonymous, 2014; Anonymous, 2018; Venkat et al., 2023). The catalytic domain shares ~56 % amino-acid identity with DCLK1 and ~53 % with DCLK2 (Anonymous, 2018). Outside the kinase region, sequence similarity to DCLK1/2 is limited, making DCLK3 an atypical DCX-family member (Song et al., 2021). Orthologues are present across vertebrates, deuterostomes, protostomes and several invertebrates (Venkat et al., 2023).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Dijkmans et al., 2010; Anonymous, 2014; Ohmae et al., 2006).
+
+## Cofactor Requirements  
+Catalytic activity requires a divalent metal ion cofactor, typically Mg²⁺ or Mn²⁺, that coordinates ATP during phosphoryl transfer (Ohmae et al., 2006; Dijkmans et al., 2010; Anonymous, 2014).
+
+## Substrate Specificity  
+A dedicated DCLK3 consensus motif has not been reported (Johnson et al., 2023). For the broader DCLK family, a proposed recognition sequence is Hyd-Arg-X-X-Ser*/Thr*-Hyd (Dijkmans et al., 2010). Family members phosphorylate peptide substrates that mimic established CaMK targets such as myelin basic protein, autocamtide-2 and syntide (Dijkmans et al., 2010).
+
+## Structure  
+The protein contains two N-terminal, truncated doublecortin (DCX) domains that confer limited microtubule binding, followed by a C-terminal Ser/Thr kinase domain (Dijkmans et al., 2010; Galvan et al., 2018). AlphaFold models show conserved catalytic elements, including the C-helix, activation loop and hydrophobic spine (Dijkmans et al., 2010; Galvan et al., 2018; Anonymous, 2014). A lysine essential for catalysis (K543 in mouse DCLK3) lies in the β3 strand of the kinase core (Galvan et al., 2018).
+
+## Regulation  
+• Autophosphorylation modulates microtubule affinity (Dijkmans et al., 2010).  
+• Phosphorylation of the activation-loop threonine (T286; isoform-specific T457 in L-DCLK3 and T289 in S-DCLK3) is required for kinase activation and neuroprotective function (Galvan et al., 2018; Dijkmans et al., 2010; Anonymous, 2014).  
+• Calpain cleavage yields fragments that retain catalytic activity (Anonymous, 2014).  
+• Unlike DCLK1/2, DCLK3 escapes KLHL15-mediated ubiquitination owing to loss of the C-terminal FRY degron (Song et al., 2021).
+
+## Function  
+DCLK3 is a neuronal kinase enriched in striatal medium spiny neurons, the dentate gyrus and cortical pyramidal neurons (Anonymous, 2014; Anonymous, 2025a). It localises to both cytoplasm and nucleus (Anonymous, 2014). Reported interaction partners include TADA3 of the SAGA co-activator complex, several zinc-finger proteins, and transcription factors such as CREB1 and CLOCK, linking DCLK3 to histone acetylation and BDNF-responsive transcription (Anonymous, 2025a; Galvan et al., 2018). Biological roles encompass regulation of synaptic plasticity, memory, neuronal survival and GABAergic neurotransmission (Anonymous, 2025a, 2025b).
+
+## Inhibitors  
+No selective small-molecule inhibitors are known. A kinase-dead mutant (K543M) is widely used as an experimental loss-of-function tool (Galvan et al., 2018; Anonymous, 2014).
+
+## Other Comments  
+DCLK3 expression is markedly reduced in Huntington’s disease (HD) brains and mouse HD models; restoring DCLK3 levels affords neuroprotection and motor improvement (Anonymous, 2014; Galvan et al., 2018). Lower expression or polymorphisms in DCLK3 are associated with increased risk of schizophrenia, bipolar disorder, obsessive–compulsive disorder and major depression (Anonymous, 2025b; Anonymous, 2025c). Genetic ablation in mice produces anxiety-like behaviour and memory deficits (Anonymous, 2025a).
+
+## 9. References  
+Anonymous. (2014). A study of striatal markers as disease modifiers in Huntington’s disease (pp. 153–159, 161–164, 204–207).  
+
+Anonymous. (2018). Étude du rôle de la protéine kinase DCLK3 dans les mécanismes de neurodégénérescence dans la maladie de Huntington (pp. 59–63).  
+
+Anonymous. (2025a). Loss of the neuronal kinase DCLK3 leads to anxiety-like behaviour and memory deficits (pp. 3–4, 20).  
+
+Anonymous. (2025b). Loss of the neuronal kinase DCLK3 leads to anxiety-like behaviour and memory deficits (pp. 20–21).  
+
+Anonymous. (2025c). Loss of the neuronal kinase DCLK3 leads to anxiety-like behaviour and memory deficits (pp. 20).  
+
+Dijkmans, T., van Hooijdonk, L. W. A., Fitzsimons, C., & Vreugdenhil, E. (2010). The doublecortin gene family and disorders of neuronal structure. Central Nervous System Agents in Medicinal Chemistry, 10, 32–46. https://doi.org/10.2174/187152410790780118  
+
+Galvan, L., Francelle, L., Gaillard, M., de Longprez, L., Carrillo-de Sauvage, M., Liot, G., … Brouillet, E. (2018). The striatal kinase DCLK3 produces neuroprotection against mutant huntingtin. Brain, 141, 1434–1454. https://doi.org/10.1093/brain/awy057  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Ohmae, S., Takemoto-Kimura, S., Okamura, M., Adachi-Morishima, A., Nonaka, M., Fuse, T., … Bito, H. (2006). Molecular identification and characterization of a family of kinases with homology to Ca²⁺/calmodulin-dependent protein kinases I/IV. Journal of Biological Chemistry, 281, 20427–20439. https://doi.org/10.1074/jbc.M513212200  
+
+Song, J., Merrill, R. A., Usachev, A. Y., & Strack, S. (2021). The X-linked intellectual disability gene product and E3 ubiquitin ligase KLHL15 degrades doublecortin proteins to constrain neuronal dendritogenesis. bioRxiv. https://doi.org/10.1101/2020.10.02.324285  
+
+Venkat, A., Watterson, G., Byrne, D., O’Boyle, B., Shrestha, S., Gravel, N., … Kannan, N. (2023). Mechanistic and evolutionary insights into isoform-specific ‘supercharging’ in DCLK family kinases. eLife. https://doi.org/10.7554/eLife.87958

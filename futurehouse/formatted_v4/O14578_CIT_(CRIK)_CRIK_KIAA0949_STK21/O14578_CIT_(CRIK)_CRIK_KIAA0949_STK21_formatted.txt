@@ -1,0 +1,66 @@
+## Proposed EC/sub-subclass  
+Not yet assigned  
+
+## Accepted name  
+Citron kinase  
+
+## Synonyms  
+STK21; CIT; CIT-K (full-length isoform); CIT-N (truncated isoform lacking the kinase domain)  
+
+## Phylogeny  
+Citron kinase is a member of the AGC group of the human kinome and is placed in the DMPK (myotonic dystrophy protein kinase) family (Capra et al., 2006; Manning et al., 2002, cited in Pallavicini et al., 2019). It clusters phylogenetically with Rho-associated coiled-coil kinases ROCK1, ROCK2 and the MRCKs (Capra et al., 2006; Pallavicini et al., 2019). A functional orthologue exists in Drosophila melanogaster (Sticky) (Citron kinase–renaissance of a neglected mitotic kinase, 2017).  
+
+## Reaction catalysed  
+ATP + [protein]-L-serine ⇌ ADP + [protein]-O-phospho-L-serine  
+ATP + [protein]-L-threonine ⇌ ADP + [protein]-O-phospho-L-threonine  
+(Citron kinase–renaissance of a neglected mitotic kinase, 2017; Li et al., 2016)  
+
+## Cofactor requirements  
+Activity requires a divalent cation, typically Mg²⁺ or Mn²⁺ (Citron kinase–renaissance of a neglected mitotic kinase, 2017; Pallavicini et al., 2019).  
+
+## Substrate Specificity  
+CIT preferentially phosphorylates serine/threonine residues followed by proline (S/T-P motif). Johnson et al. (2023) report an extended specificity defined by flanking residues that confers high-fidelity targeting (Citron kinase–renaissance of a neglected mitotic kinase, 2017; Johnson et al., 2023).  
+
+## Structure  
+A large multidomain protein of 183–230 kDa. Domain organisation: N-terminal Ser/Thr kinase domain; two central coiled-coil regions (CC1, CC2); a Rho/Rac-binding domain within CC2; cysteine-rich C1 motif; pleckstrin homology (PH) domain; C-terminal Citron-Nik1 homology (CNH) domain (Citron kinase–renaissance of a neglected mitotic kinase, 2017; Li et al., 2016; Pallavicini et al., 2019). AlphaFold modelling for UniProt O14578 indicates a conserved catalytic core with canonical C-helix and activation loop (Citron kinase–renaissance of a neglected mitotic kinase, 2017).  
+
+## Regulation  
+• Phosphorylation by mitotic kinases Aurora B, Cdk1 and Plk1 (Citron kinase–renaissance of a neglected mitotic kinase, 2017).  
+• Aurora B phosphorylates multiple sites (e.g., S699) within CC1/C1, preventing premature spindle-midzone accumulation by blocking interaction with KIF23/MKLP1 (McKenzie et al., 2016).  
+• Ephrin/EphB2 signalling activates Src, which phosphorylates CIT-K and enhances binding to active RhoA (Citron kinase–renaissance of a neglected mitotic kinase, 2017).  
+• Direct binding to GTP-loaded Rho and Rac via the RBD (Li et al., 2016).  
+• Reciprocal feedback: CIT phosphorylates CPC subunit INCENP to stimulate Aurora B, while Aurora B phosphorylates CIT to govern localisation and partner interactions (Citron kinase–renaissance of a neglected mitotic kinase, 2017; McKenzie et al., 2016).  
+
+## Function  
+Expressed in proliferating cells with highest levels in G2/M (Pallavicini et al., 2019). Localisation: cytoplasm (interphase) → spindle poles (metaphase) → cleavage furrow (anaphase) → midbody ring (telophase) (Citron kinase–renaissance of a neglected mitotic kinase, 2017).  
+
+Principal roles  
+• Midbody organisation and abscission during cytokinesis (Li et al., 2016; Pallavicini et al., 2019).  
+• Mitotic spindle orientation via interaction with ASPM and astral microtubule regulation (Gai & Di Cunto, 2017; Pallavicini et al., 2019).  
+• DNA damage response by facilitating RAD51 recruitment (Pallavicini et al., 2019).  
+
+Partners and substrates  
+Interacts with RhoA, Rac, KIF14, KIF23/MKLP1, anillin, MYL9, CPC components and ASPM (Citron kinase–renaissance of a neglected mitotic kinase, 2017; Li et al., 2016; Pallavicini et al., 2019). Known phosphorylation targets include INCENP and MYL9; CIT also recruits CK2α to modulate TUBB3 phosphorylation (Citron kinase–renaissance of a neglected mitotic kinase, 2017; Pallavicini et al., 2019).  
+
+## Inhibitors  
+(No specific small-molecule inhibitors reported in the provided sources.)  
+
+## Other Comments  
+Biallelic missense mutations in the CIT kinase domain cause autosomal-recessive primary microcephaly (MCPH17), leading to defective cytokinesis, spindle abnormalities and apoptosis in neural progenitors (Li et al., 2016; Gai & Di Cunto, 2017). CIT is over-expressed in several tumours (e.g., medulloblastoma); RNAi-mediated knock-down induces cytokinesis failure and restricts tumour growth (Pallavicini et al., 2019; Capra et al., 2006).  
+
+## References  
+Capra, M., Nuciforo, P. G., Confalonieri, S., Quarto, M., Bianchi, M., Nebuloni, M., Boldorini, R., Pallotti, F., Viale, G., Gishizky, M. L., Draetta, G. F., & Di Fiore, P. P. (2006). Frequent alterations in the expression of serine/threonine kinases in human cancers. Cancer Research, 66, 8147–8154. https://doi.org/10.1158/0008-5472.CAN-05-3489  
+
+Citron kinase–renaissance of a neglected mitotic kinase. (2017).  
+
+Gai, M., & Di Cunto, F. (2017). Citron kinase in spindle orientation and primary microcephaly. Cell Cycle, 16, 245–246. https://doi.org/10.1080/15384101.2016.1252584  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Li, H., Bielas, S. L., Zaki, M. S., Ismail, S., Farfara, D., Um, K., … Gleeson, J. G. (2016). Biallelic mutations in citron kinase link mitotic cytokinesis to human primary microcephaly. American Journal of Human Genetics, 99, 501–510. https://doi.org/10.1016/j.ajhg.2016.07.004  
+
+McKenzie, C., Bassi, Z. I., Debski, J., Gottardo, M., Callaini, G., Dadlez, M., & D'Avino, P. P. (2016). Cross-regulation between Aurora B and citron kinase controls midbody architecture in cytokinesis. Open Biology, 6, 160019. https://doi.org/10.1098/rsob.160019  
+
+Pallavicini, G., Berto, G. E., & Di Cunto, F. (2019). Precision revisited: Targeting microcephaly kinases in brain tumours. International Journal of Molecular Sciences, 20, 2098. https://doi.org/10.3390/ijms20092098  
+
+Park, G., Servin, J. A., Turner, G. E., Altamirano, L., Colot, H. V., Collopy, P., … Borkovich, K. A. (2011). Global analysis of serine-threonine protein kinase genes in Neurospora crassa. Eukaryotic Cell, 10, 1553–1564. https://doi.org/10.1128/EC.05140-11

@@ -1,0 +1,62 @@
+Phylogeny  
+CaMKK2 is a member of the Ca2+/calmodulin-dependent protein kinase (CAMK) group, CaMKK family, and is most closely related to CaMKK1 (O’Byrne et al., 2020). Orthologues are found in Homo sapiens (Q96RR4), Mus musculus (Q3UFV3), Rattus norvegicus (Q63537), Danio rerio (Q7SXW4) and Drosophila melanogaster (CG1491) (Najar et al., 2021; Racioppi & Means, 2012). Mammalian sequences share >90 % identity across the kinase core, whereas invertebrate homologues retain catalytic motifs but diverge in regulatory regions (Santiago et al., 2018).
+
+Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (Najar et al., 2021; Marcelo et al., 2016).
+
+Cofactor Requirements  
+• Ca2+/calmodulin binding is essential for activation (Najar et al., 2021).  
+• Catalysis requires divalent Mg2+ or Mn2+ (Langendorf et al., 2020; Profeta et al., 2019).
+
+Substrate Specificity  
+Preferred consensus: [R/K]-X-[R/K]-X-S/T*-Φ, favouring basic residues at −3/−2 and a hydrophobic residue at +1 (Langendorf et al., 2020). Verified phosphorylation targets include CaMKI Thr177, CaMKIV Thr200, AMPKα Thr172 and CaMK1D Thr180 (Racioppi & Means, 2012; Fujiwara et al., 2016).
+
+Structure  
+The protein comprises an N-terminal regulatory segment (~1–125), a bilobal kinase domain (~125–400) and a C-terminal autoinhibitory/CaM-binding region (~400–505) (Najar et al., 2021). Crystal structures 6BKS and 6BYH show the active kinase core bound to ATP-competitive inhibitors with an ordered activation loop (Profeta et al., 2019; Marcelo et al., 2016). Key catalytic motifs are VAIK Lys157 (ATP anchoring), HRD His301-Asp303 (catalysis) and DFG Asp319 (Mg2+ coordination) (Racioppi & Means, 2012). Activation depends on a Lys157–Glu175 salt bridge and a completed hydrophobic spine; the C-terminal tail blocks the substrate groove until displaced by Ca2+/CaM (Santiago et al., 2018).
+
+Regulation  
+Post-translational modifications  
+– Thr85 autophosphorylation confers Ca2+-independent activity (Langendorf et al., 2020).  
+– Thr200 autophosphorylation in the activation loop is required for full activity (Santiago et al., 2018).  
+– PKA phosphorylates Ser495 and Ser511, generating 14-3-3 docking sites and suppressing activity (Langendorf et al., 2020).  
+– Ser129 (by CDK5) and Thr287 (by GSK3) phosphorylation are inhibitory (Racioppi & Means, 2012; Santiago et al., 2018).
+
+Allosteric control  
+Ca2+/calmodulin removes the autoinhibitory tail and aligns αC for catalysis (Najar et al., 2021). Phospho-Ser495/Ser511 recruit 14-3-3 proteins, stabilising an inactive state; fusicoccins further tighten this complex (Santo et al., 2020). cAMP-PKA signalling enhances 14-3-3 binding, linking Ca2+ and cAMP pathways (Langendorf et al., 2020).
+
+Function  
+Expression is enriched in brain (arcuate nucleus, hippocampus), heart, liver and osteoblast lineage cells (Najar et al., 2021; Beghi et al., 2022). Activation follows intracellular Ca2+ elevation that enables Ca2+/CaM binding (Marcelo et al., 2016). Downstream:  
+– AMPK activation regulates glucose uptake, fatty-acid oxidation, autophagy and cardioprotection (Beghi et al., 2022; Fujiwara et al., 2016).  
+– CaMKI/IV phosphorylation promotes CREB-dependent transcription supporting neurite outgrowth and synaptic plasticity (Marcelo et al., 2016; Racioppi & Means, 2012).  
+– Facilitates GLUT4 translocation during cardiac ischaemic stress (Beghi et al., 2022).
+
+Inhibitors  
+STO-609 is an ATP-competitive inhibitor (IC50 ≈ 80 nM) but is limited by poor solubility and CYP1A2 metabolism (Langendorf et al., 2020; York et al., 2017). Kinase-focused library screens yielded additional nanomolar scaffolds with supporting structural data (Profeta et al., 2019). SGC-CaMKK2-1 has been released as a selective cellular probe (Wells et al., 2023).
+
+Other Comments  
+CaMKK2 promotes prostate cancer growth and metastasis via AMPK-dependent metabolic reprogramming (Marcelo et al., 2016; O’Byrne et al., 2020). Pharmacological or genetic inhibition alleviates non-alcoholic fatty liver disease in mouse models (York et al., 2017). Cardiac-specific knockout exacerbates pressure-induced hypertrophy and mortality, highlighting a cardioprotective role (Beghi et al., 2022).
+
+References  
+Beghi, S., Furmanik, M., Jaminon, A., Veltrop, R., Rapp, N., Wichapong, K., … Schurgers, L. J. (2022). Calcium signalling in heart and vessels: role of calmodulin and downstream calmodulin-dependent protein kinases. International Journal of Molecular Sciences, 23, 16139. https://doi.org/10.3390/ijms232416139
+
+Fujiwara, Y., Kawaguchi, Y., Fujimoto, T., Kanayama, N., Magari, M., & Tokumitsu, H. (2016). Differential AMP-activated protein kinase (AMPK) recognition mechanism of Ca2+/calmodulin-dependent protein kinase kinase isoforms. Journal of Biological Chemistry, 291, 13802-13808. https://doi.org/10.1074/jbc.M116.727867
+
+Langendorf, C., O’Brien, M. T., Ngoei, K., McAloon, L. M., Dhagat, U., Hoque, A., … Scott, J. (2020). CaMKK2 is inactivated by cAMP-PKA signaling and 14-3-3 adaptor proteins. Journal of Biological Chemistry, 295, 16239-16250. https://doi.org/10.1074/jbc.ra120.013756
+
+Marcelo, K. L., Means, A. R., & York, B. (2016). The Ca2+/calmodulin/CaMKK2 axis: nature’s metabolic camshaft. Trends in Endocrinology & Metabolism, 27, 706-718. https://doi.org/10.1016/j.tem.2016.06.001
+
+Najar, M. A., Rex, D. A. B., Modi, P. K., Agarwal, N., Dagamajalu, S., Karthikkeyan, G., … Prasad, T. S. K. (2021). A complete map of the calcium/calmodulin-dependent protein kinase kinase 2 (CaMKK2) signaling pathway. Journal of Cell Communication and Signaling, 15, 283-290. https://doi.org/10.1007/s12079-020-00592-1
+
+O’Byrne, S. N., Scott, J. W., Pilotte, J. R., de S. Santiago, A., Langendorf, C. G., Oakhill, J. S., … Drewry, D. H. (2020). In depth analysis of kinase cross screening data to identify CaMKK2 inhibitory scaffolds. BioRxiv. https://doi.org/10.1101/2020.01.08.883009
+
+Profeta, G. S., dos Reis, C. V., de S. Santiago, A., Godoi, P. H. C., Fala, A. M., Wells, C. I., … Couñago, R. M. (2019). Binding and structural analyses of potent inhibitors of the human Ca2+/calmodulin-dependent protein kinase kinase 2 (CaMKK2). Scientific Reports. https://doi.org/10.1038/s41598-019-52795-1
+
+Racioppi, L., & Means, A. R. (2012). Calcium/calmodulin-dependent protein kinase kinase 2: roles in signaling and pathophysiology. Journal of Biological Chemistry, 287, 31658-31665. https://doi.org/10.1074/jbc.R112.356485
+
+Santiago, A. S., Couñago, R., Ramos, P. Z., Godoi, P. H. C., Massirer, K. B., Gileadi, O., & Elkins, J. (2018). Structural analysis of inhibitor binding to CaMKK1 identifies features necessary for design of specific inhibitors. Scientific Reports. https://doi.org/10.1038/s41598-018-33043-4
+
+Santo, D. L., Petrvalska, O., Obsilova, V., Ottmann, C., & Obsil, T. (2020). Stabilization of protein–protein interactions between CaMKK2 and 14-3-3 by fusicoccins. ACS Chemical Biology, 15, 3060-3071. https://doi.org/10.1021/acschembio.0c00821
+
+Wells, C., Liang, Y., Pulliam, T. L., Lin, C., Awad, D., Eduful, B. J., … Drewry, D. (2023). SGC-CaMKK2-1: a chemical probe for CaMKK2. Cells, 12, 20287. https://doi.org/10.3390/cells12020287
+
+York, B., Li, F., Lin, F., Marcelo, K. L., Mao, J., Dean, A., … Means, A. R. (2017). Pharmacological inhibition of CaMKK2 with the selective antagonist STO-609 regresses NAFLD. Scientific Reports. https://doi.org/10.1038/s41598-017-12139-3

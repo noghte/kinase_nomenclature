@@ -1,0 +1,90 @@
+## Phylogeny  
+CSNK1A1 (CK1α) belongs to the Casein Kinase 1 (CK1) group, a distinct branch of the human kinome that is separate from the AGC, CAMK, CMGC, STE, TK and TKL groups (Manning et al., 2002).  
+Within the CK1 clade it clusters with tau-tubulin (TTBK) and vaccinia-related (VRK) kinases, reflecting an ancient serine/threonine lineage (Venerando et al., 2014).  
+Orthologs are present in fungi (Saccharomyces cerevisiae HRR25, YCK1-3; Schizosaccharomyces pombe Cki1/2, Hhp1/2), indicating an early eukaryotic origin (Gross & Anderson, 1998).  
+Lineage-specific expansion is evident: Dictyostelium discoideum encodes two CK1 genes, Caenorhabditis elegans ~85, and Drosophila melanogaster ~10 (Goldberg et al., 2006; Manning et al., 2002).  
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr ⇌ ADP + protein-L-Ser/Thr-phosphate (Cullati et al., 2024).  
+
+## Cofactor Requirements  
+Catalysis is Mg²⁺-dependent; GTP is not used as an alternative phosphate donor (Venerando et al., 2014).  
+
+## Substrate Specificity  
+CK1α prefers Ser/Thr residues located three to four positions C-terminal to a pre-existing phospho-Ser/Thr or an acidic residue, yielding the consensus pS/pT-X-X-S/T with a strong Asp/Glu bias at −3 (Xu et al., 2019).  
+High-density peptide arrays confirm maximal activity when Asp or phospho-Ser occupies the −3 position (Cullati et al., 2024).  
+An SLS (Ser-Leu-Ser) motif followed by acidic residues, as in β-catenin and NFAT, is a recognised variant (Xu et al., 2019).  
+
+## Structure  
+CK1α contains an N-terminal ~300-residue kinase domain followed by a variable autoinhibitory C-terminal tail (Venerando et al., 2014).  
+Paralog structures CK1δ (PDB 1CKI) and CK1γ (PDB 2CMW) reveal the canonical bilobal fold and serve as templates for CK1α modelling (Xu et al., 2019).  
+Key catalytic residues: Lys46 (ATP anchoring), Asp133 (HRD motif catalytic base) and Asp149 (DFG motif, Mg²⁺ coordination) (Xu et al., 2019).  
+Subdomain VIII carries the CK1-signature SIN triad replacing the usual APE sequence (Venerando et al., 2014).  
+Met82 functions as the gatekeeper residue controlling inhibitor access (Xu et al., 2019).  
+The activation loop adopts an open conformation for catalysis, whereas a multi-phosphorylated C-tail can fold across the active site to impose autoinhibition (Knippschild et al., 2014; Cullati et al., 2024).  
+
+## Regulation  
+• Autophosphorylation at Ser318/321/326 creates a pseudo-substrate segment that suppresses activity (Jiang et al., 2018).  
+• PKA phosphorylation at Ser370 further reduces catalytic efficiency (Knippschild et al., 2014).  
+• SCF^FBXW7-mediated ubiquitination targets the kinase for proteasomal degradation, while SUMOylation affects localisation (Knippschild et al., 2014).  
+• Proteolytic trimming or substrate-induced displacement of the C-tail relieves autoinhibition (Venerando et al., 2014; Cullati et al., 2024).  
+• A dimer interface observed in CK1δ structures can occlude the ATP site, suggesting a transient inhibitory assembly for CK1α (Xu et al., 2019).  
+• Phosphatidylinositol-4,5-bisphosphate binding diminishes activity in certain cell types (Venerando et al., 2014).  
+
+## Function  
+CK1α is ubiquitously expressed with high levels in intestinal epithelium, melanomas, multiple myeloma, lung and breast cancers, and hematopoietic progenitors (Jiang et al., 2018).  
+Major roles include:  
+– Initiation of β-catenin turnover in canonical Wnt signalling via phosphorylation at Ser45 (Janovská et al., 2020).  
+– Regulation of the circadian clock through PER1/2 phosphorylation (Jiang et al., 2018).  
+– Activation of mTORC1/2 by phosphorylating DEPTOR at Ser286/287/291 under nutrient-rich conditions (Jiang et al., 2018).  
+– Support of mitotic spindle dynamics and chromosome segregation (Gross & Anderson, 1998).  
+– Modulation of cytoskeletal remodelling through keratin filament phosphorylation, aiding epithelial migration (Unknown Authors, 2020).  
+– Restriction of NLRP3 inflammasome activation via direct phosphorylation (Knippschild et al., 2014).  
+
+## Inhibitors  
+• D4476: ATP-competitive; IC₅₀ ≈ 0.2–0.3 µM for CK1 isoforms; >20-fold selectivity over unrelated kinases (Pérez et al., 2011).  
+• PF-670462: Imidazol-pyrazol-pyrimidine; IC₅₀ ≈ 0.013 µM for CK1δ with partial cross-activity on CK1α (Cozza & Pinna, 2016).  
+• SR-3029: Nanomolar inhibitor, selective for CK1δ yet active on CK1α (Knippschild et al., 2014).  
+• IC261: Indolinone; IC₅₀ ≈ 1 µM for CK1δ/ε and ~10 µM for CK1α; also binds tubulin (Cozza & Pinna, 2016).  
+• CK1α shows relative resistance to staurosporine, requiring ≥100 µM for inhibition (Venerando et al., 2014).  
+
+## Other Comments  
+Haploinsufficiency of CSNK1A1 due to chromosome 5q deletion activates β-catenin and expands hematopoietic stem cells in myelodysplastic syndrome (Unknown Authors, 2017).  
+Missense mutations E98K, H134L and D140A occur in ~5–7 % of del(5q) MDS cases and impair kinase function (Bello et al., 2015).  
+Combined CSNK1A1 haploinsufficiency and mutant TP53 elevate MYC expression and accelerate leukemic transformation (Fuchs et al., 2024).  
+Low CK1α expression correlates with poor prognosis in colorectal cancer (Jiang et al., 2018).  
+CK1α activity modulates resistance to EGFR inhibitors and chemotherapeutics in solid tumours and multiple myeloma (Jiang et al., 2018).  
+Phosphorylation of tau and α-synuclein by CK1 family members links the kinase to Alzheimer-related pathology (Qiao et al., 2019).  
+
+## 9. References  
+Bello, E., Pellagatti, A., Shaw, J., Mecucci, C., Kušec, R., Killick, S., … Boultwood, J. (2015). CSNK1A1 mutations and gene expression analysis in myelodysplastic syndromes with del(5q). British Journal of Haematology, 171, 210–214. https://doi.org/10.1111/bjh.13563  
+
+Cullati, S. N., Akizuki, K., Chen, J.-S., Johnson, J. L., Yaron-Barir, T. M., Cantley, L. C., & Gould, K. L. (2024). Substrate displacement of CK1 C-termini regulates kinase specificity. Science Advances. https://doi.org/10.1126/sciadv.adj5185  
+
+Cozza, G., & Pinna, L. A. (2016). Casein kinases as potential therapeutic targets. Expert Opinion on Therapeutic Targets, 20, 319–340. https://doi.org/10.1517/14728222.2016.1091883  
+
+Fuchs, S. N. R., Stalmann, U. S. A., Snoeren, I. A. M., Bindels, E., Schmitz, S., Banjanin, B., … Schneider, R. K. (2024). Collaborative effect of CSNK1A1 haploinsufficiency and mutant p53 in MYC induction can promote leukemic transformation. Blood Advances, 8, 766–779. https://doi.org/10.1182/bloodadvances.2022008926  
+
+Goldberg, J. M., Manning, G., Liu, A., Fey, P., Pilcher, K. E., Xu, Y., & Smith, J. L. (2006). The Dictyostelium kinome—analysis of the protein kinases from a simple model organism. PLOS Genetics, 2, e38. https://doi.org/10.1371/journal.pgen.0020038  
+
+Gross, S. D., & Anderson, R. (1998). Casein kinase I: spatial organization and positioning of a multifunctional protein kinase family. Cellular Signalling, 10, 699–711. https://doi.org/10.1016/S0898-6568(98)00042-4  
+
+Janovská, P., Normant, E., Miskin, H., & Bryja, V. (2020). Targeting casein kinase 1 (CK1) in hematological cancers. International Journal of Molecular Sciences, 21, 9026. https://doi.org/10.3390/ijms21239026  
+
+Jiang, S., Zhang, M., Sun, J., & Yang, X. (2018). Casein kinase 1α: biological mechanisms and theranostic potential. Cell Communication and Signaling. https://doi.org/10.1186/s12964-018-0236-z  
+
+Knippschild, U., Krüger, M., Richter, J., Xu, P., García-Reyes, B., Peifer, C., … Bischof, J. (2014). The CK1 family: contribution to cellular stress response and its role in carcinogenesis. Frontiers in Oncology, 4, 96. https://doi.org/10.3389/fonc.2014.00096  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Pérez, D. I., Gil, C., & Martínez, A. (2011). Protein kinases CK1 and CK2 as new targets for neurodegenerative diseases. Medicinal Research Reviews. https://doi.org/10.1002/med.20207  
+
+Qiao, Y., Chen, T., Yang, H., Chen, Y., Lin, H., Qu, W., … Sun, H. (2019). Small molecule modulators targeting protein kinase CK1 and CK2. European Journal of Medicinal Chemistry, 181, 111581. https://doi.org/10.1016/j.ejmech.2019.111581  
+
+Unknown Authors. (2017). Pathophysiology and treatment of myelodysplasia with del(5q).  
+
+Unknown Authors. (2020). Effects of CK1 specific inhibitors on wild type and mutant CK1δ in vitro and their ability to inhibit growth of tumor cell lines.  
+
+Venerando, A., Ruzzene, M., & Pinna, L. A. (2014). Casein kinase: the triple meaning of a misnomer. Biochemical Journal, 460, 141–156. https://doi.org/10.1042/BJ20140178  
+
+Xu, P., Ianes, C., Gärtner, F., Liu, C., Burster, T., Bakulev, V., … Bischof, J. (2019). Structure, regulation, and (patho-)physiological functions of the stress-induced protein kinase CK1δ (CSNK1D). Gene, 715, 144005. https://doi.org/10.1016/j.gene.2019.144005

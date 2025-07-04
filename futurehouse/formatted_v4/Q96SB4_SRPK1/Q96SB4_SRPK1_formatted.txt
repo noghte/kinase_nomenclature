@@ -1,0 +1,65 @@
+## Phylogeny  
+Serine/arginine-protein kinase 1 (SRPK1) belongs to the CMGC group of the human kinome and, more specifically, to the SRPK family (Manning et al., 2002; Pastor et al., 2021). Orthologues are present throughout eukaryotes—from yeast and Drosophila to plants and vertebrates—highlighting deep evolutionary conservation (Zhou & Fu, 2013; Hogg & Findlay, 2023). In mammals, three paralogues exist: SRPK1 (ubiquitously expressed), SRPK2 (brain-enriched) and SRPK3 (skeletal and cardiac muscle-specific) (Nikas et al., 2019; Pastor et al., 2021).
+
+## Reaction Catalyzed  
+ATP + protein-Ser → ADP + protein-phospho-Ser (Aubol et al., 2013; Hogg & Findlay, 2023).
+
+## Cofactor Requirements  
+Catalysis requires Mg²⁺ for ATP coordination (Aubol et al., 2018) and ATP as phosphate donor (Hatcher et al., 2018; Pastor et al., 2021).
+
+## Substrate Specificity  
+SRPK1 selectively phosphorylates serine residues within arginine/serine-rich (RS) domains. Preferred motifs include Arg-Ser dipeptide repeats typified by RxxRSRS or RxxSPxR, favouring Arg at the −3/−2 positions and Arg or Pro at +1 (Aubol et al., 2013; Hogg & Findlay, 2023). A separate docking sequence, R-x-R/K-x(3)-R, engages an acidic groove on the kinase surface to orient substrates (Lesgidou et al., 2025). SRPK1 shows little activity toward Ser-Pro dipeptides (Aubol et al., 2013). High-throughput peptide array data exist, but detailed PSSM values were not provided (Johnson et al., 2023).
+
+## Structure  
+SRPK1 adopts the canonical bilobal protein-kinase fold. A large intrinsically disordered spacer-insert domain (SID) splits the N- and C-lobes and mediates cytoplasmic anchoring via chaperones (Plocinik et al., 2011; Zheng et al., 2023). Key catalytic features include the C-helix and activation loop, which is pre-configured for activity (Aubol et al., 2013). A distinctive deep electronegative groove on the C-lobe serves as the RS-domain docking site, guiding directional, processive phosphorylation (Aubol et al., 2021; Hogg & Findlay, 2023). Disulfide bonds contribute to structural stability and nuclear localisation (Koutroumani et al., 2017).
+
+## Regulation  
+SRPK1 is constitutively active; no activation-loop phosphorylation is required (Hogg & Findlay, 2023). Regulation occurs through:  
+• Autophosphorylation at Thr326 and Ser587 downstream of EGF–AKT signalling, influencing localisation (Hogg & Findlay, 2023).  
+• Redox-dependent disulfide bond formation (Koutroumani et al., 2017).  
+• Cytoplasmic sequestration by Hsp70/Hsp90 binding to the SID and growth-factor-induced nuclear import (Pastor et al., 2021; Zheng et al., 2023).  
+• Nuclear inhibition via binding to SAFB1/2, TAF15 and PIM-1L (Aubol et al., 2021; Lesgidou et al., 2025).  
+Catalytic mechanism varies with substrate length: semi-processive for long RS repeats (rate-limited by ADP release) and distributive for shorter repeats (Aubol et al., 2013).
+
+## Function  
+SRPK1 phosphorylates SR-proteins (e.g., SRSF1, SRSF2) and SR-like proteins (LBR, PRM1), thereby controlling their nuclear import, speckle dynamics and spliceosome assembly; consequently, it is a central regulator of alternative pre-mRNA splicing (Duggan et al., 2022; Zheng et al., 2023). Upstream, PI3K/AKT drives SRPK1 activation (Nikas et al., 2019); downstream, SRPK1 cooperates with the nuclear kinase CLK1 to enhance SR-protein phosphorylation (Aubol et al., 2018). The kinase participates in broader PI3K/AKT, MAPK, Wnt and NF-κB signalling pathways (Nikas et al., 2019). Expression: SRPK1 is ubiquitous, whereas paralogues show tissue-restricted patterns (Nikas et al., 2019).
+
+## Inhibitors  
+Experimental ATP-competitive or covalent inhibitors include SRPIN340, SPHINX, SPHINX31 and the irreversible compound SRPKIN-1; these agents modulate VEGF splicing from pro-angiogenic to anti-angiogenic isoforms (Hatcher et al., 2018; Duggan et al., 2022; Nikas et al., 2019).
+
+## Other Comments  
+SRPK1 is frequently overexpressed in colorectal, prostate, breast, lung, pancreatic and gastric cancers. High levels correlate with advanced stage, poor prognosis and resistance to therapy (Duggan et al., 2022; Nikas et al., 2019). Oncogenic effects stem from altered splicing of VEGF, MCL-1, insulin receptor and other genes that promote proliferation, migration and angiogenesis. Dysregulation is also linked to certain human developmental disorders (Hogg & Findlay, 2023).
+
+## 9. References  
+
+Aubol, B. E., Jamros, M. A., McGlone, M., & Adams, J. A. (2013). Splicing kinase SRPK1 conforms to the landscape of its SR protein substrate. Biochemistry, 52(43), 7595–7605. https://doi.org/10.1021/bi4010864  
+
+Aubol, B. E., Keshwani, M. M., Fattet, L., & Adams, J. A. (2018). Mobilization of a splicing factor through a nuclear kinase–kinase complex. Biochemical Journal, 475, 677–690. https://doi.org/10.1042/BCJ20170672  
+
+Aubol, B. E., Fattet, L., & Adams, J. A. (2021). A conserved sequence motif bridges two protein kinases for enhanced phosphorylation and nuclear function of a splicing factor. The FEBS Journal, 288, 566–581. https://doi.org/10.1111/febs.15351  
+
+Aubol, B. E., Plocinik, R. M., Hagopian, J., Ma, C.-T., McGlone, M., Bandyopadhyay, R., Fu, X.-D., & Adams, J. A. (2013). Partitioning RS domain phosphorylation in an SR protein through the CLK and SRPK protein kinases. Journal of Molecular Biology, 425(16), 2894–2909. https://doi.org/10.1016/j.jmb.2013.05.013  
+
+Duggan, W. P., O’Connell, E., Prehn, J. H. M., & Burke, J. P. (2022). Serine-arginine protein kinase 1 (SRPK1): A systematic review of its multimodal role in oncogenesis. Molecular and Cellular Biochemistry, 477, 2451–2467. https://doi.org/10.1007/s11010-022-04456-7  
+
+Hatcher, J. M., Wu, G., Zeng, C., Zhu, J., Meng, F., Patel, S., Wang, W., Ficarro, S. B., Leggett, A. L., Powell, C. E., Marto, J. A., Zhang, K., Ngo, J. C. K., Fu, X.-D., Zhang, T., & Gray, N. S. (2018). SRPKIN-1: A covalent SRPK1/2 inhibitor that potently converts VEGF from pro-angiogenic to anti-angiogenic isoform. Cell Chemical Biology, 25(4), 460–470.e6. https://doi.org/10.1016/j.chembiol.2018.01.013  
+
+Hogg, E. K. J., & Findlay, G. M. (2023). Functions of SRPK, CLK and DYRK kinases in stem cells, development and human developmental disorders. FEBS Letters, 597, 2375–2415. https://doi.org/10.1002/1873-3468.14723  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Koutroumani, M., Papadopoulos, G. E., Vlassi, M., Nikolakaki, E., & Giannakouros, T. (2017). Evidence for disulfide bonds in SR protein kinase 1 (SRPK1) that are required for activity and nuclear localization. PLoS ONE, 12(2), e0171328. https://doi.org/10.1371/journal.pone.0171328  
+
+Lesgidou, N., Koukiali, A., Nikolakaki, E., Giannakouros, T., & Vlassi, M. (2025). PIM-1L kinase binds to and inactivates SRPK1: A biochemical and molecular dynamics study. Proteins, 93, 629–653. https://doi.org/10.1002/prot.26757  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298(5600), 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Nikas, I., Themistocleous, S. C., Paschou, S., Tsamis, K., & Ryu, H. (2019). Serine-arginine protein kinase 1 (SRPK1) as a prognostic factor and potential therapeutic target in cancer: Current evidence and future perspectives. Cells, 9(1), 19. https://doi.org/10.3390/cells9010019  
+
+Pastor, F., Shkreta, L., Chabot, B., Durantel, D., & Salvetti, A. (2021). Interplay between CMGC kinases targeting SR proteins and viral replication: Splicing and beyond. Frontiers in Microbiology, 12, 658721. https://doi.org/10.3389/fmicb.2021.658721  
+
+Plocinik, R. M., Li, S., Liu, T., Hailey, K. L., Whitesides, J., Ma, C.-T., … Adams, J. A. (2011). Regulating SR protein phosphorylation through regions outside the kinase domain of SRPK1. Journal of Molecular Biology, 410(1), 131–145. https://doi.org/10.1016/j.jmb.2011.04.077  
+
+Zheng, K., Ren, Z., & Wang, Y. (2023). Serine-arginine protein kinases and their targets in viral infection and their inhibition. Cellular and Molecular Life Sciences, 80, 117. https://doi.org/10.1007/s00018-023-04808-6  
+
+Zhou, Z., & Fu, X.-D. (2013). Regulation of splicing by SR proteins and SR protein-specific kinases. Chromosoma, 122, 191–207. https://doi.org/10.1007/s00412-013-0407-z

@@ -1,0 +1,61 @@
+## Phylogeny  
+STK17A (also called DRAK1) is evolutionarily conserved from invertebrates (Drosophila melanogaster Drak; Caenorhabditis elegans) to vertebrates including Mus musculus, Rattus norvegicus and Danio rerio (Capra et al., 2006; Chen et al., 2019). Within the human kinome it clusters with its paralogue STK17B in the DRAK sub-family of the Death-Associated Protein Kinase (DAPK) family, itself a member of the Ca²⁺/calmodulin-dependent kinase (CAMK) group (Serafim et al., 2021; Picado et al., 2020). The catalytic domains of STK17A and STK17B share 67 % identity, whereas STK17A is ≈48 % identical to prototypic DAPK1, indicating considerable divergence inside the family (Farag & Roh, 2019; Kögel et al., 2001). Phylogenetic analyses of the DMT branch position DRAK1 separately from MLCK and TRIO kinases, underscoring a distinct evolutionary path within CAMK (Temmerman et al., 2013).  
+
+## Reaction Catalyzed  
+ATP + protein-L-Ser/Thr ⇌ ADP + protein-L-Ser/Thr-phosphate (Sanjo et al., 1998).  
+
+## Cofactor Requirements  
+Catalytic activity is Mg²⁺-dependent; biochemical assays typically use 10 mM magnesium acetate (Picado et al., 2020).  
+
+## Substrate Specificity  
+A kinome-wide peptide array did not identify a consensus phosphorylation motif for STK17A (Unknown authors, 2019). Experimentally validated substrates are: non-muscle myosin regulatory light chain (MRLC) and its Drosophila orthologue Spaghetti Squash (Sqh), myosin light chain in human colorectal cancer cells, and β-catenin (Chen et al., 2019; Short et al., 2019; Chaudhry et al., 2024). STK17A also undergoes Ser/Thr auto-phosphorylation, a characteristic shared with other DAPK family members (Sanjo et al., 1998).  
+
+## Structure  
+The full-length protein comprises 414 amino acids (≈46 kDa) with an N-terminal catalytic domain (~261 aa) and a C-terminal tail lacking recognizable motifs (Sanjo et al., 1998; Farag & Roh, 2019). Crystal structures of the isolated kinase domain (e.g., bound to inhibitor CKJB68) reveal the canonical bilobed fold; Lys90 of the VAIK motif forms the conserved salt bridge with Glu108 in helix αC, and hinge contacts involve Ala141 and Glu139 (Liu et al., 2022). The activation loop (Asn216–Ser241) and C-terminal segment Ile260–Leu290 are flexible (Liu et al., 2022). Homology modelling using STK17B template 6Y6H highlights an Arg16 substitution at the ATP-site entrance and absence of an Arg69-mediated contact, distinguishing STK17A from STK17B (Picado et al., 2020). Core catalytic motifs VAIK, HRD and DFG are intact. No full-length structure has yet been reported.  
+
+## Regulation  
+•  Ser/Thr auto-phosphorylation together with the intact C-terminal region is required for apoptosis induction (Sanjo et al., 1998).  
+•  Transcription is directly up-regulated by p53 following DNA damage (Chaudhry et al., 2024).  
+•  Predominant nuclear localisation differentiates STK17A from cytoskeletal DAPK1 (Kögel et al., 2001).  
+•  A Ca²⁺/calmodulin-regulated autoregulatory domain is present (Temmerman et al., 2013).  
+•  P-loop conformational switching governed by Arg16 modulates nucleotide and inhibitor binding (Picado et al., 2020).  
+•  Activation-loop mobility provides an intrinsic allosteric element influencing catalytic competence (Liu et al., 2022).  
+
+## Function  
+STK17A positively regulates apoptosis (Sanjo et al., 1998) and limits reactive oxygen species while enhancing cisplatin sensitivity in testicular carcinoma models (Chaudhry et al., 2024). It drives neoplastic glial proliferation by phosphorylating MRLC downstream of EGFR/PI3K signalling, thereby controlling cytokinesis and actin dynamics (Chen et al., 2019). In colorectal cancer cells, STK17A maintains an epithelial phenotype; knock-down induces EMT-like changes, reduces E-cadherin/α-catenin and heightens invasion (Short et al., 2019). Phosphorylation of β-catenin links the kinase to cancer stemness and proliferation (Chaudhry et al., 2024).  
+
+Expression pattern: ubiquitous with highest mRNA levels in placenta (Sanjo et al., 1998). It is down-regulated in colorectal cancer and non-Hodgkin lymphoma (Capra et al., 2006; Short et al., 2019) but shows copy-number gain and over-expression in low-grade glioma and glioblastoma (Chen et al., 2019).  
+
+Upstream regulators: p53, EGFR, PI3K (Chaudhry et al., 2024; Chen et al., 2019).  
+Downstream substrates/interactors: MRLC, β-catenin, E-cadherin, α-catenin (Chen et al., 2019; Chaudhry et al., 2024; Short et al., 2019).  
+
+## Inhibitors  
+Nanomolar quinazoline-based dual STK17A/17B inhibitors with oral bioavailability have been reported (Chaudhry et al., 2024). PKIS43 is an ATP-competitive compound that anchors to the hinge via Ala141 and Glu139 (Liu et al., 2022). CKJB68 co-crystallises with the kinase domain defining key pocket interactions (Liu et al., 2022). The highly selective STK17B probe 11s provides a structural template for STK17A modelling (Picado et al., 2020).  
+
+## Other Comments  
+Copy-number gain of STK17A on chromosome 7 is common in glioma and correlates with tumour proliferation (Chen et al., 2019). Conversely, reduced STK17A expression associates with metastatic progression in colorectal cancer and adverse outcome in non-Hodgkin lymphoma (Short et al., 2019; Capra et al., 2006).  
+
+## 9. References  
+Capra, M., Nuciforo, P. G., Confalonieri, S., Quarto, M., Bianchi, M., Nebuloni, M., … Di Fiore, P. P. (2006). Frequent alterations in the expression of serine/threonine kinases in human cancers. Cancer Research, 66, 8147–8154. https://doi.org/10.1158/0008-5472.can-05-3489  
+
+Chaudhry, S., Castro, J. R., Totiger, T. M., Afaghani, J., Khurshid, R., Nicholls, M., … Feng, Y. (2024). Potent, selective, and orally bioavailable quinazoline-based STK17A/B dual inhibitors. ACS Medicinal Chemistry Letters, 15, 945–949. https://doi.org/10.1021/acsmedchemlett.4c00125  
+
+Chen, A. S., Wardwell-Ozgo, J., Shah, N. N., Wright, D., Appin, C. L., Vigneswaran, K., … Read, R. D. (2019). DRAK/STK17A drives neoplastic glial proliferation through modulation of MRLC signaling. Cancer Research, 79, 1085–1097. https://doi.org/10.1158/0008-5472.can-18-0482  
+
+Farag, A. K., & Roh, E. J. (2019). Death-associated protein kinase (DAPK) family modulators: current and future therapeutic outcomes. Medicinal Research Reviews, 39, 349–385. https://doi.org/10.1002/med.21518  
+
+Kögel, D., Prehn, J. H. M., & Scheidtmann, K. H. (2001). The DAP kinase family of pro-apoptotic proteins: novel players in the apoptotic game. BioEssays. https://doi.org/10.1002/bies.1050  
+
+Liu, C., Zhang, Y., Zhang, Y., Liu, Z., Mao, F., & Chai, Z. (2022). Mechanistic insights into inhibitor selectivity toward the dark kinase STK17B against its high homology STK17A. Molecules, 27, 14655. https://doi.org/10.3390/molecules27144655  
+
+Picado, A., Chaikuad, A., Wells, C. I., Shrestha, S., Zuercher, W. J., Pickett, J. E., … Willson, T. M. (2020). A chemical probe for dark kinase STK17B derives its potency and high selectivity through a unique P-loop conformation. Journal of Medicinal Chemistry, 63, 14626–14646. https://doi.org/10.1021/acs.jmedchem.0c01174  
+
+Sanjo, H., Kawai, T., & Akira, S. (1998). DRAKs, novel serine/threonine kinases related to death-associated protein kinase that trigger apoptosis. Journal of Biological Chemistry, 273, 29066–29071. https://doi.org/10.1074/jbc.273.44.29066  
+
+Serafim, R. A. M., Elkins, J. M., Zuercher, W. J., Laufer, S. A., & Gehringer, M. (2021). Chemical probes for understudied kinases: challenges and opportunities. Journal of Medicinal Chemistry, 65, 1132–1170. https://doi.org/10.1021/acs.jmedchem.1c00980  
+
+Short, S. P., Thompson, J. J., Bilotta, A., Chen, X., Revetta, F. L., Washington, M., & Williams, C. S. (2019). Serine/threonine kinase 17A maintains the epithelial state in colorectal cancer cells. Molecular Cancer Research, 17, 882–894. https://doi.org/10.1158/1541-7786.MCR-18-0990  
+
+Temmerman, K., Simon, B., & Wilmanns, M. (2013). Structural and functional diversity in the activity and regulation of DAPK-related protein kinases. The FEBS Journal. https://doi.org/10.1111/febs.12384  
+
+Unknown authors. (2019). Substrate identification of an oncogenic kinase: elucidating the pathogenesis of a rare liver cancer. (pp. 37–42).

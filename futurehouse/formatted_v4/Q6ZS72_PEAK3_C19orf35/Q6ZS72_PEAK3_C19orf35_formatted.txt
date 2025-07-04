@@ -1,0 +1,53 @@
+## Phylogeny  
+PEAK3 orthologues are present in a wide range of vertebrates—Homo sapiens, Mus musculus, Rattus norvegicus, Gallus gallus, Danio rerio and Xenopus laevis—and additional homologues are detected in Monodelphis domestica, Alligator mississippiensis and Taeniopygia guttata (Hou et al., 2021, pp. 1-3; López et al., 2019, pp. 2-3). The gene has been independently lost in several Squamata lineages (López et al., 2019, pp. 2-3). A RefSeq survey identified 251 PEAK3-like sequences that cluster separately from paralogues PEAK1 and PEAK2, confirming formation of a distinct clade within the atypical New Kinase Family 3 (NKF3) branch of the human kinome (Torosyan et al., 2023, pp. 14-15; López et al., 2019, p. 9).
+
+## Reaction Catalyzed  
+Protein-L-tyrosine + ATP ⇌ Protein-L-tyrosine-phosphate + ADP.  
+No measurable phosphotransfer activity has been detected; an inhibitory triad blocks nucleotide entry and essential catalytic residues are substituted (López et al., 2019, p. 4; Torosyan et al., 2023, pp. 1-2).
+
+## Cofactor Requirements  
+None observed; the protein is catalytically inactive and does not require divalent cations (López et al., 2019, p. 4).
+
+## Substrate Specificity  
+Kinase assays have failed to identify catalytic activity or define peptide specificity (Unknown Authors, 2019, pp. 36-41).
+
+## Structure  
+• Modular organisation: N-terminal intrinsically disordered segment (~130 aa) containing a high-affinity CrkII SH3N motif (PPPLPK) and a 14-3-3 docking site centred on Ser69 (Roy et al., 2023, pp. 1-3).  
+• Split Helical Dimerisation (SHED) module (helices αN, αJ, αK, αL) that mediates obligate homodimerisation and heterodimerisation with PEAK1/2 (López et al., 2019, pp. 2-3).  
+• C-terminal pseudokinase domain retains an intact DFG motif but carries an HRD→LxE substitution; residues D184/Y187/L201/Q231/L311 occlude the nucleotide pocket (López et al., 2019, p. 4).  
+
+Cryo-EM structures of a PEAK3 homodimer bound to an endogenous 14-3-3 heterodimer (PDB 6GN0, 6GNK, 6GNJ, 6GN8, 6GNN) reveal asymmetric 14-3-3 engagement across the SHED and pseudokinase lobes and a fully ordered, unphosphorylated activation loop (Torosyan et al., 2023, pp. 1-2, 14-15). Homology modelling based on the Pragmin SHED/pseudokinase crystal structure (PDB 5VE6) delineated the inhibitory triad and dimer interface (López et al., 2019, p. 4). A secondary PEAK3-specific contact reinforces the canonical phospho-Ser69/14-3-3 interaction (Torosyan et al., 2023, pp. 1-2).
+
+## Regulation  
+Post-translational modifications  
+• Ser69 phosphorylation by PKD family kinases creates a high-affinity 14-3-3 binding site, driving cytoplasmic sequestration and reduced nuclear localisation (Torosyan et al., 2023, pp. 10-11).  
+• Tyr24 phosphorylation by Src family kinases after EGF stimulation generates SH2 docking sites for Grb2 and ASAP1; PTPN12 rapidly removes this phosphotyrosine (Hou et al., 2021, pp. 1-3).  
+• Ubiquitination by the E3 ligase SIAH1 modulates protein stability (López et al., 2019, p. 9).  
+
+Conformational/allosteric control  
+SHED-dependent homodimerisation is essential for high-affinity CrkII binding; mutations in the DFG aspartate or SHED helices disrupt both dimer formation and adaptor engagement (Unknown Authors, 2019, pp. 47-53). 14-3-3 binding sterically competes with CrkII and PP2A, rewiring interactors and altering localisation (Torosyan et al., 2023, pp. 10-11).
+
+## Function  
+Expression patterns  
+Predominant expression in granulocytes, monocytes and other lymphoid-lineage cells; low expression in most other tissues (Ounoughene et al., 2021, pp. 2-4; Roy et al., 2023, pp. 1-3).  
+
+Interacting partners and pathway context  
+Confirmed partners: CrkII, CrkL, multiple 14-3-3 isoforms, Grb2, ASAP1/2, Cbl, PYK2 and EGFR (López et al., 2019, p. 4; Hou et al., 2021, pp. 3-5; Torosyan et al., 2023, pp. 1-2).  
+Upstream regulators: Src (Tyr24) and PKD (Ser69).  
+Downstream signalling: inhibition of CrkII-dependent membrane ruffling and activation of a PEAK3-PYK2-AKT axis promoting cell motility and invasion (Ounoughene et al., 2021, pp. 2-4; Hou et al., 2021, pp. 1-3). Over-expression in MCF-10A cells induces elongation, migration and invasive 3-D acinar growth, requiring SHED-mediated dimerisation and Tyr24 phosphorylation (Hou et al., 2021, pp. 1-3).
+
+## Other Comments  
+PEAK3 mRNA is up-regulated in acute myeloid leukaemia, especially M4/M5 subtypes, and the protein interacts with SIAH1, an E3 ligase involved in FLT3-ITD turnover (Ounoughene et al., 2021, pp. 8-12; Unknown Authors, 2019, pp. 57-61; López et al., 2019, p. 9). Mutation D330N within the DFG motif disrupts dimerisation, CrkII binding and suppression of membrane ruffling, underscoring the importance of the pseudoactive site for scaffold integrity (Unknown Authors, 2019, pp. 47-53).
+
+## References  
+Hou, J., Nguyen, E. V., Surudoi, M., Roy, M. J., Patel, O., Lucet, I. S., Ma, X., & Daly, R. J. (2021). PEAK3 pseudokinase represents a pro-migratory and ‑invasive signalling scaffold. bioRxiv. https://doi.org/10.1101/2021.02.17.431740  
+
+López, M. L., Lo, M., Kung, J. E., Dudkiewicz, M., Jang, G. M., Von Dollen, J., Johnson, J. R., Krogan, N. J., Pawłowski, K., & Jura, N. (2019). PEAK3/C19orf35 pseudokinase, a new NKF3 kinase family member, inhibits CrkII through dimerization. Proceedings of the National Academy of Sciences, 116, 15495-15504. https://doi.org/10.1073/pnas.1906360116  
+
+Ounoughene, Y., Fourgous, E., Boublik, Y., Saland, E., Guiraud, N., Récher, C., Urbach, S., Fort, P., Sarry, J., Fesquet, D., & Roche, S. (2021). SHED-dependent oncogenic signalling of the PEAK3 pseudo-kinase. Cancers, 13, 264-? https://doi.org/10.3390/cancers13246344  
+
+Roy, M., Surudoi, M. G., Kropp, A., Hou, J., Dai, W., Hardy, J., Liang, L.-Y., Cotton, T., Lechtenberg, B. C., Dite, T. A., Ma, X., Daly, R., Patel, O., & Lucet, I. (2023). Structural mapping of PEAK pseudokinase interactions identifies 14-3-3 as a molecular switch for PEAK3 signalling. Nature Communications. https://doi.org/10.1038/s41467-023-38869-9  
+
+Torosyan, H., Paul, M. D., Forget, A., Lo, M., Diwanji, D., Pawłowski, K., Krogan, N., Jura, N., & Verba, K. (2023). Structural insights into regulation of the PEAK3 pseudokinase scaffold by 14-3-3. Nature Communications. https://doi.org/10.1038/s41467-023-38864-0  
+
+Unknown Authors. (2019). Functional characterization of PEAK3/C19orf35 pseudokinase and its role in regulation of CrkII-dependent signaling (pp. 36-61).

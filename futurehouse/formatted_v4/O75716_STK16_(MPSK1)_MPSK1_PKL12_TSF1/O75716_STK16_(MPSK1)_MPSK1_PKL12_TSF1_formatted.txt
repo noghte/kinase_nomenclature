@@ -1,0 +1,53 @@
+## Phylogeny  
+STK16 is a member of the Numb-associated kinase (NAK) family—together with AAK1, BIKE/BMP2K and GAK—and is conserved in all examined eukaryotic lineages (Wang et al., 2019a; Wang et al., 2019b). In the priority kinome classification it is placed in the “Other” kinase group (Liu et al., 2017; Tanaka et al., 2022; Wang et al., 2019a), although other authors have assigned it to the CAMK or AGC groups (Tanaka et al., 2022; Johnson et al., 2023). STK16 shares ~25 % amino-acid identity with Aurora kinase A (Rangwala et al., 2022).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Al-Fahad et al., 2024; Wang et al., 2019a).  
+The enzyme also autophosphorylates, including on Tyr198, and is therefore described as dual-specificity (Rangwala et al., 2022; Wang et al., 2019b).
+
+## Cofactor Requirements  
+Mg²⁺ or Mn²⁺ ions are required for catalytic activity (Al-Fahad et al., 2024; Eswaran et al., 2008; Wang et al., 2019a; Tanaka et al., 2022).
+
+## Substrate Specificity  
+Positional-scanning peptide library screens defined a preferred consensus motif  
+X-X-P/V/I-Φ-H/Y-T*-N/G-X-X-X (Φ = aliphatic; T* = phospho-acceptor) (Eswaran et al., 2008; Wang et al., 2019a). STK16 primarily phosphorylates threonine but can also target serine, and its global specificity profile was confirmed by PSPA analysis (Johnson et al., 2023).
+
+## Structure  
+The 305-residue protein contains an N-terminal region, the protein kinase catalytic domain and a short C-terminus (Wang et al., 2019a). The crystal structure (PDB 2BUJ) reveals an atypical activation segment with a β-sheet and a large α-helical insertion (activation-segment C-terminal helix, ASCH) that stabilises a constitutively active conformation without activation-loop phosphorylation (Eswaran et al., 2008; Wang et al., 2019a). Arg147 in the HRD motif helps anchor this arrangement (Wang et al., 2019a). A flexible loop (residues 98–106) is important for ligand binding (Al-Fahad et al., 2024). Some reports describe a canonical activation loop typical of protein kinases (Al-Fahad et al., 2024; Liu et al., 2017).
+
+## Regulation  
+• N-terminal myristoylation at Gly2 is required for subsequent palmitoylation that anchors the kinase to Golgi membranes; reported palmitoyl-cysteines include Cys6/Cys8 or Cys13-15 (Eswaran et al., 2008; Wang et al., 2019a; Rangwala et al., 2022).  
+• Autophosphorylation at Thr185, Ser197 and, critically, Tyr198 maintains constitutive activity and governs Golgi and plasma-membrane localisation as well as cell-cycle progression (Wang et al., 2019a; Wang et al., 2019b).  
+• Protein abundance is controlled by KCTD17-mediated ubiquitin-proteasome degradation (Tanaka et al., 2022).
+
+## Function  
+STK16 is ubiquitously expressed with highest levels in liver, kidney, testis, thymus, spleen and heart (Eswaran et al., 2008; Wang et al., 2019a; Guinea et al., 2006). It resides mainly at the Golgi apparatus but translocates to the nucleus when the Golgi is disrupted (Eswaran et al., 2008; Guinea et al., 2006). Reported interactors include DRG1, ENO1, MAL2, actin, GlcNAcK and WDR1 (Al-Fahad et al., 2024; Eswaran et al., 2008; Wang et al., 2019a). Verified substrates are DRG1 (Thr100) and 4EBP1 (Eswaran et al., 2008; Wang et al., 2019b). Functionally, STK16 contributes to TGF-β signalling, Golgi assembly, TGN secretion/sorting, regulation of actin dynamics and progression through G2/M, prometaphase and cytokinesis (Al-Fahad et al., 2024; Liu et al., 2017; Wang et al., 2019a). Direct binding to actin regulates polymerisation in a kinase-activity- and concentration-dependent manner (Liu et al., 2017).
+
+## Inhibitors  
+• Neratinib: predicted binding free energy −36.6 kcal mol⁻¹ (Al-Fahad et al., 2024).  
+• Natural products NPC132329 and NPC160898 show in-silico inhibitory potential (Al-Fahad et al., 2024).  
+• STK16-IN-1 is an experimental, selective inhibitor that suppresses kinase activity and cancer-cell proliferation (Liu et al., 2017; Wang et al., 2019a; Wang et al., 2019b).
+
+## Other Comments  
+Elevated STK16 activity has been linked to cancer progression, and its inhibition is proposed to enhance the effectiveness of anti-mitotic chemotherapies (Al-Fahad et al., 2024; Unknown authors, 2016; Wang et al., 2019a).
+
+## 9. References  
+Al-Fahad, D., Ropón-Palacios, G., Omoboyowa, D. A., Singh, G., & Patil, R. B. (2024). Virtual screening and molecular dynamics simulation of natural compounds as potential inhibitors of serine/threonine kinase 16 for anticancer drug discovery. Molecular Diversity, 29, 1525–1539. https://doi.org/10.1007/s11030-024-10931-8  
+
+Eswaran, J., Bernad, A., Ligos, J. M., Guinea, B., Debreczeni, J. É., Sobott, F., Parker, S. A., Najmanovich, R., Turk, B. E., & Knapp, S. (2008). Structure of the human protein kinase Mpsk1 reveals an atypical activation loop architecture. Structure, 16, 115–124. https://doi.org/10.1016/j.str.2007.10.026  
+
+Guinea, B., Ligos, J., Laín de Lera, T., Martín-Caballero, J., Flores, J., González de la Peña, M. A., García-Castro, J., & Bernad, A. (2006). Nucleocytoplasmic shuttling of STK16 (PKL12), a Golgi-resident serine/threonine kinase involved in VEGF expression regulation. Experimental Cell Research, 312, 135–144. https://doi.org/10.1016/j.yexcr.2005.10.010  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Liu, J., Yang, X., Li, B., Wang, J., Wang, W.-C., Liu, J., Liu, Q., & Zhang, X. (2017). STK16 regulates actin dynamics to control Golgi organization and cell cycle. Scientific Reports, 7, 44607. https://doi.org/10.1038/srep44607  
+
+Rangwala, A. M., Mingione, V. R., Georghiou, G., & Seeliger, M. A. (2022). Kinases on double duty: A review of UniProtKB-annotated bifunctionality within the kinome. Biomolecules, 12, 685. https://doi.org/10.3390/biom12050685  
+
+Tanaka, S., Honda, Y., Sawachika, M., Futani, K., Yoshida, N., & Kodama, T. (2022). Degradation of STK16 via KCTD17 with ubiquitin–proteasome system in relation to sleep–wake cycle. Kinases and Phosphatases, 1, 14–22. https://doi.org/10.3390/kinasesphosphatases1010003  
+
+Unknown authors. (2016). Blocking mitotic exit as a potential target for combination therapy with anti-mitotic drugs. [Details unavailable].  
+
+Wang, J., Ji, X., Liu, J., & Zhang, X. (2019a). Serine/threonine protein kinase STK16. International Journal of Molecular Sciences, 20, 1760. https://doi.org/10.3390/ijms20071760  
+
+Wang, J., Liu, J., Ji, X., & Zhang, X. (2019b). Tyr198 is the essential autophosphorylation site for STK16 localization and kinase activity. International Journal of Molecular Sciences, 20, 4852. https://doi.org/10.3390/ijms20194852

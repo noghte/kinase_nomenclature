@@ -1,0 +1,57 @@
+## Phylogeny  
+Homeodomain-interacting protein kinase 1 (HIPK1) is a serine/threonine kinase of the HIPK family situated within the CMGC group of protein kinases (Kaltheuner et al., 2021; Schmitz et al., 2014; Manning et al., 2002). The family is evolutionarily related to the DYRK kinases, sharing the yeast kinase Yak1 as a common ancestor (Schmitz et al., 2014). Vertebrates encode HIPK1-3, and mammals possess an additional paralogue, HIPK4 (Kaltheuner et al., 2021). The kinase domains of HIPK1 and HIPK2 are ~93 % identical, and HIPK3 is ~87 % identical to HIPK1 (Kaltheuner et al., 2021). Orthologues occur in mouse, Drosophila, Caenorhabditis, and Xenopus, underscoring conserved biological roles (Manning et al., 2002; Isono et al., 2006).
+
+## Reaction Catalyzed  
+Protein-Ser/Thr + ATP ⇌ Protein-Ser/Thr-P + ADP (Agnew et al., 2019).
+
+## Cofactor Requirements  
+Catalysis requires a divalent cation (Mg²⁺) coordinated by the conserved DFG motif in the activation loop (Laden et al., 2015).
+
+## Substrate Specificity  
+Kinome-wide peptide profiling defined the HIPK1 consensus motif as R-x-x-S/T-P, characterised by a strong Arg at −3 and Pro at +1 relative to the phosphoacceptor residue (Johnson et al., 2023). The kinase therefore displays both basophilic and proline-directed preferences, with additional negative selection against certain residues flanking the site (Johnson et al., 2023). HIPK1 also phosphorylates Ser2 and Ser5 within the C-terminal domain heptad repeats of RNA polymerase II (Kaltheuner et al., 2021).
+
+## Structure  
+HIPK1 contains:  
+• N-terminal catalytic (kinase) domain  
+• Homeoprotein-interaction domain (HID)  
+• PEST-rich segment implicated in proteolytic turnover  
+• Speckle retention sequence (SRS) for nuclear localisation  
+• C-terminal autoinhibitory domain (AID) and SQA repeats (Agnew et al., 2019; Kaltheuner et al., 2021).
+
+No experimental HIPK1 structure is yet available, but high sequence identity with crystallised HIPK2 allows inference (Agnew et al., 2019). HIPK kinases harbour a distinctive CMGC-insert in the C-lobe and an extended αC-β4 loop (Agnew et al., 2019). The activation loop contains an invariant SxY motif; Tyr361 in HIPK1 undergoes regulatory autophosphorylation (Agnew et al., 2019).
+
+## Regulation  
+Activity is governed mainly by post-translational modification.  
+• Cis-autophosphorylation of Tyr361 in the activation loop is essential for full catalytic competence and affects localisation (Agnew et al., 2019; Laden et al., 2015).  
+• Additional regulation occurs through ubiquitination, acetylation and SUMOylation (Kaltheuner et al., 2021).  
+• A C-terminal AID further modulates kinase output (Kaltheuner et al., 2021).  
+Autophosphorylation renders HIPK1 constitutively active once synthesised (Kaltheuner et al., 2021).
+
+## Function  
+HIPK1 is a nuclear signalling kinase integrating developmental, stress and genotoxic cues to control gene expression, proliferation, differentiation and apoptosis (Kaltheuner et al., 2021; Laden et al., 2015). Reported substrates include c-Myc, SPT5 and the RNA polymerase II CTD (Kaltheuner et al., 2021). HIPK1 and HIPK2 show functional redundancy: single-gene knockout mice are viable whereas double knockout causes embryonic lethality, implicating both kinases in hematopoiesis and angiogenesis (Isono et al., 2006; Agnew et al., 2019). HIPK1 contributes to p53 activation and restricts colorectal cancer cell growth (Ritter & Schmitz, 2019).
+
+## Inhibitors  
+• Abemaciclib, a marketed CDK4/6 inhibitor, potently inhibits HIPK2 and HIPK3 and is suggested to inhibit HIPK1 (Kaltheuner et al., 2021).  
+• CX-4945 (silmitasertib), an ATP-competitive CK2α inhibitor, also targets HIPK family members (Agnew et al., 2019).
+
+## Other Comments  
+The HIPK family is implicated in cancer, fibrosis, diabetes and neurodegenerative disorders such as Alzheimer’s and Huntington’s disease (Kaltheuner et al., 2021). HIPK1 specifically has tumour-suppressive roles in colorectal cancer (Ritter & Schmitz, 2019).
+
+## References  
+Agnew, C., Liu, L., Liu, S., Xu, W., You, L., Yeung, W., … Jura, N. (2019). The crystal structure of the protein kinase HIPK2 reveals a unique architecture of its CMGC-insert region. Journal of Biological Chemistry, 294, 13545–13559. https://doi.org/10.1074/jbc.RA119.009725  
+
+Boucher, M., Simoneau, M., & Edlund, H. (2009). The homeodomain-interacting protein kinase 2 regulates insulin promoter factor-1/pancreatic duodenal homeobox-1 transcriptional activity. Endocrinology, 150(1), 87–97. https://doi.org/10.1210/en.2007-0865  
+
+Isono, K., Nemoto, K., Li, Y., Takada, Y., Suzuki, R., Katsuki, M., … Koseki, H. (2006). Overlapping roles for homeodomain-interacting protein kinases HIPK1 and HIPK2 in the mediation of cell growth in response to morphogenetic and genotoxic signals. Molecular and Cellular Biology, 26, 2758–2771. https://doi.org/10.1128/MCB.26.7.2758-2771.2006  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Kaltheuner, I. H., Anand, K., Moecking, J., Düster, R., Wang, J., Gray, N. S., & Geyer, M. (2021). Abemaciclib is a potent inhibitor of DYRK1A and HIP kinases involved in transcriptional regulation. Nature Communications, 12, 6602. https://doi.org/10.1038/s41467-021-26935-z  
+
+Laden, J. van der, Soppa, U., & Becker, W. (2015). Effect of tyrosine autophosphorylation on catalytic activity and subcellular localisation of homeodomain-interacting protein kinases (HIPK). Cell Communication and Signaling, 13, 27. https://doi.org/10.1186/s12964-014-0082-6  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Ritter, O., & Schmitz, M. (2019). Differential intracellular localization and dynamic nucleocytoplasmic shuttling of homeodomain-interacting protein kinase family members. Biochimica et Biophysica Acta (Molecular Cell Research), 1866, 118533. https://doi.org/10.1016/j.bbamcr.2019.04.009  
+
+Schmitz, M. L., Rodriguez-Gil, A., & Hornung, J. (2014). Integration of stress signals by homeodomain interacting protein kinases. Biological Chemistry, 395(4), 375–386. https://doi.org/10.1515/hsz-2013-0264

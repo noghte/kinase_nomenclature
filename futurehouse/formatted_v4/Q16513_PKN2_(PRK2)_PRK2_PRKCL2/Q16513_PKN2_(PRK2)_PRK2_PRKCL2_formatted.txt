@@ -1,0 +1,48 @@
+## Phylogeny  
+Member of the AGC kinase group, classified within the PRK/PKN subfamily (Sophocleous et al., 2021). The enzyme sits in the kinase dendrogram established by Manning et al. (2002). Human paralogues PKN1 and PKN3 share ~83 % catalytic‐domain identity with PKN2 (Sophocleous et al., 2021). Vertebrate orthologues include Mus musculus Prk2, Rattus norvegicus Prk2 and Danio rerio prk2, whereas Drosophila melanogaster dPkn and Caenorhabditis elegans pkn-1 represent invertebrate counterparts (Sophocleous et al., 2021). dPkn is required for asymmetric neuroblast division, indicating functional conservation (Sophocleous et al., 2021).
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-O-phospho-Ser/Thr (Annunziata et al., 2020).
+
+## Cofactor Requirements  
+• Catalysis requires Mg²⁺ for ATP coordination (Sophocleous et al., 2021).  
+• Arachidonic acid and PtdIns(3,4,5)P₃/PtdIns(3,4)P₂ act as lipid activators that relieve autoinhibition and promote membrane recruitment, respectively (Annunziata et al., 2020; Unknown authors, 2011).
+
+## Substrate Specificity  
+Peptide-array profiling yielded a basophilic consensus, R/K-R/K-x-S/T-Φ, with basic residues at –3/–2, the phosphoacceptor Ser/Thr, and a hydrophobic residue at +1 (Johnson et al., 2023, cited in Sophocleous et al., 2021). Validated substrates cortactin and class IIa HDACs (HDAC5/7/9) conform to this motif (Sophocleous et al., 2021).
+
+## Structure  
+Modular organisation: HR1a-c (Rho-binding) → C2-like lipid-binding domain → proline-rich SH3-binding segment → PKL pseudosubstrate → bilobal kinase domain → C-terminal hydrophobic/turn-motif tail (Sophocleous et al., 2021). HR1 crystal structures form antiparallel coiled coils that contact RhoA (Sophocleous et al., 2021). The kinase domain displays the canonical Glu–Lys salt bridge and a druggable PIF pocket (Gross et al., 2024). Key regulatory residues include Thr816 in the activation loop and Thr958 in the turn motif; the latter sits within a hydrophobic motif that contains a unique phosphomimetic Asp (Annunziata et al., 2020; Unknown authors, 2011). Residues 464–500 mediate oligomerisation and trans-autoinhibition (Sophocleous et al., 2021).
+
+## Regulation  
+• PDK1 phosphorylates Thr816, initiating activation (Annunziata et al., 2020).  
+• mTORC2 and CDK1 target Thr958 to stabilise the active state (Sophocleous et al., 2021).  
+• CDK10/Cyclin M phosphorylates HR1 loop threonines, enhancing RhoA affinity (Sophocleous et al., 2021).  
+• RhoA-GTP binding displaces the PKL pseudosubstrate (Sophocleous et al., 2021).  
+• Arachidonic acid and PtdIns(3,4,5)P₃ act synergistically to activate the kinase (Sophocleous et al., 2021).  
+• Caspase-3 cleavage at Asp117 and Asp700 yields a 36 kDa fragment that binds PDK1 and inhibits Akt (Unknown authors, 2011).  
+• Elevated cAMP down-regulates kinase activity (Unknown authors, 2011).
+
+## Function  
+Widely expressed; Prk2-knock-out mice exhibit cardiovascular and neural defects and embryonic lethality (Sophocleous et al., 2021). The kinase localises to the cleavage furrow/midbody, phosphorylating Cdc25B to promote G2/M progression and ECT2-dependent abscission (Unknown authors, 2019). Acting downstream of RhoA, it organises actin stress fibres and focal adhesions (Annunziata et al., 2020) and governs rear retraction during epithelial migration (Sophocleous et al., 2021). Documented substrates include cortactin (modulating astrocyte migration), PI3KC2-β (triggering 14-3-3 sequestration and mTORC1 activation), class IIa HDACs, vimentin, GFAP, tau and HCV NS5B polymerase (Sophocleous et al., 2021; Unknown authors, 2011). It also forms a Cdo–APPL1 complex to activate Akt during myoblast differentiation (Sophocleous et al., 2021).
+
+## Inhibitors  
+• Y-27632 and HA1077 (fasudil) inhibit PRK2 and suppress HCV replication (Unknown authors, 2011).  
+• PIF-pocket ligands PS541, PS436 and PS428 allosterically modulate activity (Gross et al., 2024).  
+• ATP-competitive inhibitors lestaurtinib and tofacitinib bind the catalytic domain (Sophocleous et al., 2021).
+
+## Other Comments  
+Hyperactivation drives invasion in prostate, triple-negative breast, bladder and colon cancers and is required for cigarette smoke-induced oral epithelial transformation (Sophocleous et al., 2021). Helicobacter pylori CagA exploits PRK2 to disrupt epithelial adhesion (Sophocleous et al., 2021). A Thr958Ala mutant is catalytically inactive, underscoring the importance of turn-motif phosphorylation (Annunziata et al., 2020).
+
+## 9. References  
+Annunziata, M. C., Parisi, M., Esposito, G., Fabbrocini, G., Ammendola, R., & Cattaneo, F. (2020). Phosphorylation sites in protein kinases and phosphatases regulated by formyl peptide receptor 2 signaling. International Journal of Molecular Sciences, 21, 3818. https://doi.org/10.3390/ijms21113818  
+
+Gross, L. Z. F., Winkel, A. F., Galceran, F., Schulze, J., Fröhner, W., Cämmerer, S., Zeuzem, S., Engel, M., Leroux, A. E., & Biondi, R. (2024). Molecular insights into the regulatory landscape of PKC-related kinase-2 (PRK2/PKN2) using targeted small compounds. The Journal of Biological Chemistry. https://doi.org/10.1016/j.jbc.2024.107550  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Sophocleous, G., Owen, D., & Mott, H. (2021). The structure and function of protein kinase C-related kinases (PRKs). Biochemical Society Transactions, 49, 217–235. https://doi.org/10.1042/BST20200466  
+
+Unknown authors. (2011). …/turn motif and of the N-terminus of PRK2 in the regulation of the interaction between protein kinase C-related protein kinase 2 (PRK2) and 3-phosphoinositide … [Details not provided].  
+
+Unknown authors. (2019). Exploring the roles of the Protein Kinase N family in breast cancer [Details not provided].

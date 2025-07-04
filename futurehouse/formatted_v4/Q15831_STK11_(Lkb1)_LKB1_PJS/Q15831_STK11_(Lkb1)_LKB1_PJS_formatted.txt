@@ -1,0 +1,65 @@
+## Phylogeny  
+STK11/LKB1 belongs to the Ca²⁺/calmodulin-dependent protein kinase-like (CAMK) group and defines the LKB1/CaMKK subfamily of the human kinome. Orthologs are conserved in Mus musculus (Lkb1), Xenopus laevis (XEEK1), Drosophila melanogaster (Lkb1) and Caenorhabditis elegans (par-4); the human enzyme shares ≥ 92 % overall sequence identity with the murine ortholog, with near-complete conservation in the catalytic core (Fan et al., 2009).
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr ⇌ ADP + protein-Ser/Thr-P (Fan et al., 2009).
+
+## Cofactor Requirements  
+Activity is Mg²⁺-dependent; mutation of the Mg²⁺-binding residue Asp194 to Ala abolishes catalysis (Zeqiraj et al., 2009).
+
+## Substrate Specificity  
+LKB1 phosphorylates the invariant activation-loop threonine of 13 AMP-activated protein kinase (AMPK)-related kinases, including PRKAA1/2, MARK1-4, NUAK1/2, SIK1-3, BRSK1/2 and SNRK. No broader linear consensus beyond this residue was defined (Fan et al., 2009; Hawley et al., 2003).
+
+## Structure  
+The 433-residue enzyme contains:  
+• N-terminal nuclear localisation signal (residues 38–43)  
+• Bilobal kinase domain (49–309)  
+• C-terminal regulatory tail (310–433) ending in a CAAX farnesylation motif at Cys430 (Fan et al., 2009)  
+
+A 2.65 Å crystal structure of the LKB1–STRADα–MO25α heterotrimer reveals (Zeqiraj et al., 2009):  
+– STRADα adopts a closed, pseudo-active conformation and orients the Lys78–Glu98 salt bridge in LKB1.  
+– MO25α stabilises the ordered activation loop; Glu199 mimics the negative charge of activation-loop phosphorylation.  
+– The proline-rich C-terminal tail of LKB1 contacts STRADα; its deletion destabilises the complex and lowers turnover.  
+– Asp194 coordinates Mg²⁺; mutation disrupts catalysis without affecting heterotrimer assembly.
+
+## Regulation  
+Catalytic activity requires formation of a heterotrimer with STRAD (α or β) and MO25 (α or β), which promotes cytoplasmic localisation and allosteric activation (Baas et al., 2003; Fan et al., 2009; Hawley et al., 2003).
+
+Post-translational modifications  
+– Autophosphorylation: Thr185, Thr336, Thr363, Thr402 (Baas et al., 2003).  
+– Additional phosphorylation: Ser31, Ser325, Thr336, Thr366 (Sapkota et al., 2002).  
+– Ser428 phosphorylation by PKA, p90RSK and PKCζ (Unknown Authors, 2017).  
+– SUMOylation: Lys96, Lys178, Lys235 (Lys178 needed for AMPK engagement) (Trelford & Shepherd, 2024).  
+– Farnesylation at Cys430 drives membrane association; S-nitrosylation of the same residue triggers degradation (Trelford & Shepherd, 2024).  
+– Reversible acetylation by SIRT1-3 modulates localisation and stability (Trelford & Shepherd, 2024).  
+– Polyubiquitination by Skp2-SCF and RNF146 promotes proteasomal turnover (Trelford & Shepherd, 2024).
+
+## Function  
+LKB1 is the master upstream kinase of the AMPK pathway, enforcing an energy-stress checkpoint that inhibits mTORC1 through AMPK-dependent phosphorylation of TSC2 and raptor (Shackelford & Shaw, 2009). Activation of MARK/PAR-1 kinases regulates epithelial polarity and microtubule dynamics (Hawley et al., 2003). During metabolic stress, LKB1-AMPK signalling enhances NADPH production, limits reactive oxygen species and stimulates autophagy and mitophagy (Pons-Tostivint et al., 2021). Expression is ubiquitous but enriched in cerebral cortex, ovary, salivary glands, skeletal muscle, testis and tonsil (Unknown Authors, 2017). Upstream kinases PKA, PKCζ and ATM phosphorylate LKB1 at defined sites (Unknown Authors, 2017; Sapkota et al., 2002).
+
+## Inhibitors  
+No selective small-molecule inhibitors have been reported; the tumour-suppressor role and complex regulation of LKB1 have hampered direct inhibitor development (Trelford & Shepherd, 2024).
+
+## Other Comments  
+Germline loss-of-function mutations cause Peutz–Jeghers syndrome, while somatic inactivation is frequent in lung, pancreatic and cervical cancers (Fan et al., 2009). Recurrent missense variants (e.g., W308C, L67P, L182P, G242V, R297S) disrupt folding and abolish activity (Trelford & Shepherd, 2024). Tumour-derived mutants such as R87K, Y49D, G135R and D194Y show variable effects on activity, motility and localisation (Granado-Martínez et al., 2020). LKB1 loss synergises with oncogenic KRAS to accelerate lung tumourigenesis and is associated with immune-cold tumour microenvironments (Shackelford & Shaw, 2009; Pons-Tostivint et al., 2021).
+
+## References  
+Baas, A. F., Boudeau, J., Sapkota, G. P., Smit, L., Medema, R., Morrice, N., Alessi, D. R., & Clevers, H. (2003). Activation of the tumour suppressor kinase LKB1 by the STE20-like pseudokinase STRAD. The EMBO Journal, 22, 3062–3072. https://doi.org/10.1093/emboj/cdg292  
+
+Fan, D., Ma, C., & Zhang, H. (2009). The molecular mechanisms that underlie the tumor suppressor function of LKB1. Acta Biochimica et Biophysica Sinica, 41, 97–107. https://doi.org/10.1093/abbs/gmn011  
+
+Granado-Martínez, P., Garcia-Ortega, S., González-Sánchez, E., McGrail, K., Selgas, R., Grueso, J., … Recio, J. A. (2020). STK11 (LKB1) missense somatic mutant isoforms promote tumor growth, motility and inflammation. Communications Biology. https://doi.org/10.1038/s42003-020-1092-0  
+
+Hawley, S. A., Boudeau, J., Reid, J. L., Mustard, K. J., Udd, L., Mäkelä, T. P., Alessi, D. R., & Hardie, D. G. (2003). Complexes between the LKB1 tumor suppressor, STRADα/β and MO25α/β are upstream kinases in the AMP-activated protein kinase cascade. Journal of Biology, 2, 28. https://doi.org/10.1186/1475-4924-2-28  
+
+Pons-Tostivint, E., Lugat, A., Fontenau, J.-F., Denis, M. G., & Bennouna, J. (2021). STK11/LKB1 modulation of the immune response in lung cancer: From biology to therapeutic impact. Cells, 10, 3129. https://doi.org/10.3390/cells10113129  
+
+Sapkota, G. P., Boudeau, J., Deak, M., Kieloch, A., Morrice, N., & Alessi, D. R. (2002). Identification and characterization of four novel phosphorylation sites on LKB1/STK11, the protein kinase mutated in Peutz–Jeghers cancer syndrome. Biochemical Journal, 362, 481–490. https://doi.org/10.1042/bj3620481  
+
+Shackelford, D. B., & Shaw, R. J. (2009). The LKB1–AMPK pathway: Metabolism and growth control in tumour suppression. Nature Reviews Cancer, 9, 563–575. https://doi.org/10.1038/nrc2676  
+
+Trelford, C. B., & Shepherd, T. G. (2024). LKB1 biology: Assessing the therapeutic relevancy of LKB1 inhibitors. Cell Communication and Signaling. https://doi.org/10.1186/s12964-024-01689-5  
+
+Unknown Authors. (2017). The role of LKB1 (STK11) in non-small cell lung cancer. [Report].  
+
+Zeqiraj, E., Filippi, B. M., Deak, M., Alessi, D. R., & van Aalten, D. M. F. (2009). Structure of the LKB1–STRAD–MO25 complex reveals an allosteric mechanism of kinase activation. Science, 326, 1707–1711. https://doi.org/10.1126/science.1178377

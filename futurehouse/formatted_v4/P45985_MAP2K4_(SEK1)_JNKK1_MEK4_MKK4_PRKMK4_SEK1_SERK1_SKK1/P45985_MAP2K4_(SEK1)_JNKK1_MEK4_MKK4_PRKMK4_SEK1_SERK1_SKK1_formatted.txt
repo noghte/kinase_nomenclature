@@ -1,0 +1,49 @@
+## Phylogeny  
+MAP2K4 belongs to the STE group, MAP2K (STE7) family of the human kinome (Roskoski, 2012). It shares ≈50 % amino-acid identity with its paralogue MAP2K7 (Katzengruber, Sander, & Laufer, 2023). Verified orthologues are found in mouse (Map2k4), zebrafish (map2k4), fruit-fly (hemipterous) and nematode (mek-1), indicating broad conservation across metazoans (Krishna et al., 2013).
+
+## Reaction Catalyzed  
+ATP + [substrate]-L-threonine → ADP + [substrate]-O-phospho-L-threonine  
+ATP + [substrate]-L-tyrosine → ADP + [substrate]-O-phospho-L-tyrosine (Avruch, 2007)
+
+## Cofactor Requirements  
+Catalytic activity requires Mg²⁺ or Mn²⁺ (Katzengruber et al., 2023).
+
+## Substrate Specificity  
+• Dual-specificity kinase that phosphorylates the TXY activation loops of MAPK8/JNK1 (Thr183/Tyr185), MAPK9/JNK2, MAPK10/JNK3 and MAPK14/p38α (Thr180/Tyr182) (Katzengruber et al., 2023).  
+• Classified among proline-directed Ser/Thr kinases preferring SP/TP motifs with basic residues at positions −3 to −5 (Raman, Chen, & Cobb, 2007).  
+• Displays higher catalytic efficiency toward Tyr185 of the JNK TPY motif than toward the corresponding Thr site (Katzengruber et al., 2023).
+
+## Structure  
+The 399-residue protein contains (i) an N-terminal JNK-binding D-domain, (ii) a bilobal kinase core (~residues 80–360) and (iii) a C-terminal DVD domain for MAP3K docking (Katzengruber et al., 2023). Crystal structure 3ALN reveals the canonical five-β-strand N-lobe and α-helical C-lobe surrounding the ATP-binding cleft. Key motifs include the glycine-rich loop, HRD catalytic triad and DFG sequence; Cys246 (immediately N-terminal to DFG) is the nucleophile targeted by covalent inhibitors (Katzengruber et al., 2023). The activation loop (Ser257, Thr261) is flexible until dual phosphorylation (Hudson et al., 2018). Unphosphorylated MAP2K4 forms a symmetric dimer that dissociates upon activation-loop phosphorylation (Katzengruber et al., 2023).
+
+## Regulation  
+Full activation requires phosphorylation of Ser257 and Thr261 by upstream MAP3Ks such as MEKK1, MLK, ASK1 and TAK1 (Avruch, 2007). Poly-ubiquitination by the E3 ligase Itch targets MAP2K4 for proteasomal degradation, while substrate-peptide engagement can stabilise an autoinhibited conformation (Katzengruber et al., 2023).
+
+## Function  
+MAP2K4 is ubiquitously expressed in adult tissues and is enriched in the central nervous system and liver during embryogenesis (Katzengruber et al., 2023). Upstream activators include ASK, MEKK1-4, MLK family members and TAK1 (Avruch, 2007). Direct substrates are MAPK8/9/10 (JNKs) and MAPK14/p38α (Nakayama, 2012). High-affinity binding of the N-terminal D-site to JNK1/2 confers signalling specificity (Ho et al., 2003). The kinase operates within stress-activated JNK and p38 cascades controlling cell proliferation, differentiation and apoptosis (Katzengruber et al., 2023).
+
+## Inhibitors  
+• Electrophilic covalent inhibitors targeting Cys246 achieve nanomolar potency against MAP2K4/7 (Katzengruber et al., 2023).  
+• 9-H-pyrimido[4,5-b]ind-6-ol scaffold: IC₅₀ < 1 µM (Katzengruber et al., 2023).  
+• Natural product 7,3′,4′-trihydroxyisoflavone inhibits MAP2K4 at ~1 µM in UVB-responsive assays (Katzengruber et al., 2023).  
+• Genistein: IC₅₀ ≈ 0.4 µM, suppresses metastatic prostate cancer cell invasion (Krishna et al., 2013).
+
+## Other Comments  
+Cancer-associated alterations include missense variant G265D in the activation segment (Hudson et al., 2018), catalytic-domain mutation R134W (Katzengruber et al., 2023) and clustered loss-of-function mutations/deletions in colorectal, lung, melanoma and ovarian tumours (Nakayama, 2012). Over-expression correlates with aggressive prostate, ovarian and triple-negative breast cancers (Katzengruber et al., 2023).
+
+## References  
+Avruch, J. (2007). Map kinase pathways: The first twenty years. Biochimica et Biophysica Acta (BBA) – Molecular Cell Research, 1773, 1150–1160. https://doi.org/10.1016/j.bbamcr.2006.11.006  
+
+Ho, D. T., Bardwell, A., Abdollahi, M., & Bardwell, L. (2003). A docking site in MKK4 mediates high-affinity binding to JNK MAPKs and competes with similar docking sites in JNK substrates. Journal of Biological Chemistry, 278, 32662–32672. https://doi.org/10.1074/jbc.M304229200  
+
+Hudson, A. M., Stephenson, N. L., Li, C., Trotter, E., Fletcher, A. J., Katona, G., … Brognard, J. (2018). Truncation- and motif-based pan-cancer analysis reveals tumor-suppressing kinases. Science Signaling. https://doi.org/10.1126/scisignal.aan6776  
+
+Katzengruber, L., Sander, P., & Laufer, S. A. (2023). MKK4 inhibitors—recent development status and therapeutic potential. International Journal of Molecular Sciences, 24, 7495. https://doi.org/10.3390/ijms24087495  
+
+Krishna, S. N., Luan, C.-H., Mishra, R. K., Xu, L., Scheidt, K. A., Anderson, W. F., & Bergan, R. C. (2013). A fluorescence-based thermal shift assay identifies inhibitors of mitogen-activated protein kinase kinase 4. PLoS ONE, 8, e81504. https://doi.org/10.1371/journal.pone.0081504  
+
+Nakayama, (2012). MAP2K4 (mitogen-activated protein kinase kinase 4).  
+
+Raman, M., Chen, W., & Cobb, M. (2007). Differential regulation and properties of MAPKs. Oncogene, 26, 3100–3112. https://doi.org/10.1038/sj.onc.1210392  
+
+Roskoski, R. (2012). ERK1/2 MAP kinases: Structure, function, and regulation. Pharmacological Research, 66, 105–143. https://doi.org/10.1016/j.phrs.2012.04.005

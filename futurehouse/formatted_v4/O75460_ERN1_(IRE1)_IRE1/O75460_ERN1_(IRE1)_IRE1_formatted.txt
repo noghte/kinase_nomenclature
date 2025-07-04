@@ -1,0 +1,68 @@
+## Phylogeny  
+Orthologs of the enzyme occur in yeasts (Saccharomyces cerevisiae Ire1p; Schizosaccharomyces pombe Ire1), invertebrates (Caenorhabditis elegans IRE-1; Drosophila melanogaster Ire1), plants (Arabidopsis thaliana IRE1A/B) and all vertebrates (IRE1α/IRE1β) (Goupil et al., 2024). Vertebrates have two paralogs: the ubiquitously expressed IRE1α (ERN1) and the mucosa-restricted IRE1β (ERN2) (Goupil et al., 2024). The kinase domain belongs to the tyrosine-kinase-like (TKL) group, BCK1/IRE1 subfamily of the human kinome (Riaz et al., 2020).
+
+## Reaction Catalyzed  
+ATP + [protein]-L-Ser/Thr ⇌ ADP + [protein]-O-phospho-L-Ser/Thr (Ferri et al., 2020).
+
+## Cofactor Requirements  
+Mg²⁺ is required for phosphotransfer; Mn²⁺ can substitute in vitro (Mendez et al., 2015).
+
+## Substrate Specificity  
+No strict Ser/Thr consensus motif has been defined. Cellular kinase substrates reported include BCL-2 (S70), FMRP, filamin A, pumilio (PUM1) and sphingosine-1-phosphate lyase (Goupil et al., 2024). The C-terminal RNase domain recognizes a CUGCAG stem-loop present in XBP1 mRNA and multiple RIDD targets (Goupil et al., 2024).
+
+## Structure  
+Domain organisation: N-terminal ER-luminal sensor (S24–V390) → single-pass transmembrane helix → cytosolic Ser/Thr kinase (571–832) → C-terminal RNase (835–963) (Siwecka et al., 2021).  
+Luminal domains dimerize via an MHC-like groove; higher-order oligomerization follows BiP release or direct peptide binding (Siwecka et al., 2021). Crystal studies show (i) face-to-face kinase dimers competent for trans-autophosphorylation (Ali et al., 2011) and (ii) back-to-back kinase dimers that juxtapose the RNase active sites for RNA cleavage (Ferri et al., 2020). Key catalytic motifs are VAIK, HRD and DFG (711-713); phosphorylation of S724/S726/S729 stabilises the active DFG-in/αC-in state (Ferri et al., 2020). The kinase front pocket is conformationally plastic, and ATP-competitive ligands can remodel it to allosterically modulate RNase activity (Ferri et al., 2020). The RNase catalytic Lys907 resides in a β-sheet-rich fold and can be covalently modified by salicylaldehyde inhibitors (Siwecka et al., 2021).
+
+## Regulation  
+Post-translational modifications  
+• Autophosphorylation on S724, S726 and S729 is required for full RNase activation (Ferri et al., 2020).  
+• Additional phosphorylation at S840, S841, T844 and S850 fine-tunes signal amplitude (Read & Schröder, 2021).  
+• Ubiquitination by MITOL/MARCHF5, CHIP, RNF13 and Synoviolin targets the protein for proteasomal degradation (Goupil et al., 2024).  
+• Caspase-mediated cleavage of the cytosolic tail biases signalling toward apoptosis (Siwecka et al., 2021).
+
+Allosteric and conformational control  
+• BiP binding maintains an inactive monomer; BiP release allows luminal dimerization and cytosolic oligomerization (Siwecka et al., 2021).  
+• Lipid bilayer stress or direct misfolded-protein binding can activate the enzyme independently of phosphorylation (Siwecka et al., 2021).  
+• IRE1β can hetero-oligomerize with IRE1α to dampen RNase output in mucosal epithelia (Goupil et al., 2024).  
+• Type I ligands (DFG-in) may paradoxically activate the RNase, whereas type II ligands (DFG-out) inhibit both kinase and RNase activities (Mendez et al., 2015).
+
+## Function  
+IRE1α is expressed in virtually all tissues; IRE1β expression is limited to intestinal and airway epithelia (Goupil et al., 2024). As the principal ER-stress sensor, the RNase excises a 26-nt intron from XBP1 mRNA, yielding transcription factor XBP1s that induces chaperones and ERAD components (Ali et al., 2011). The enzyme also promotes regulated IRE1-dependent decay (RIDD) of selected ER-associated mRNAs to lower folding load (Ferri et al., 2020). Through TRAF2 recruitment it activates the ASK1-JNK and p38 MAPK cascades (Siwecka et al., 2021). Direct kinase substrates link ER stress to apoptosis (BCL-2), lipid metabolism (FMRP), cytoskeletal dynamics (filamin A), RNA stability (pumilio) and mitochondrial stress responses (SPL) (Goupil et al., 2024). IRE1 interacts with STIM1 and IP₃ receptors to influence ER-to-cytosol Ca²⁺ flux (Goupil et al., 2024). Sustained XBP1s signalling supports plasma-cell and pancreatic β-cell differentiation, and its overactivation favours survival of secretory cancers such as multiple myeloma (Ali et al., 2011).
+
+## Inhibitors  
+Kinase-directed  
+• Type I ATP-competitive: staurosporine, sunitinib (Ali et al., 2011); APY29 (Mendez et al., 2015).  
+• Type II (DFG-out): KIRA6, KIRA7, KIRA8 (Siwecka et al., 2021).  
+• Front-pocket modulator: G-1749 (Ferri et al., 2020).
+
+RNase-directed  
+• Salicylaldehydes (4µ8C) (Cross et al., 2012).  
+• MKC-8866, MKC-3946, STF-083010, HNA (Siwecka et al., 2021).  
+• Toyocamycin (Jiang et al., 2015).
+
+Allosteric activators  
+• Quercetin, ADP analogues (Jiang et al., 2015).  
+• IXA1/4/6 (Siwecka et al., 2021).
+
+## Other Comments  
+Aberrant IRE1 signalling is implicated in cancer, metabolic syndrome, inflammation and neurodegeneration (Riaz et al., 2020). No recurrent oncogenic point mutations have been firmly established (Goupil et al., 2024).
+
+## References  
+Ali, M. M. U., Bagratuni, T., Davenport, E., Nowak, P. R., Silva-Santisteban, M. C., Hardcastle, A., McAndrews, C., Rowlands, M. G., Morgan, G. J., Aherne, W., Collins, I., Davies, F. E., & Pearl, L. H. (2011). Structure of the IRE1 autophosphorylation complex and implications for the unfolded protein response. *The EMBO Journal, 30*, 894-905. https://doi.org/10.1038/emboj.2011.18  
+
+Cross, B. C. S., Bond, P. J., Sadowski, P. G., Jha, B. K., Zak, J., Goodman, J. M., Silverman, R. H., Neubert, T. A., Baxendale, I. R., Ron, D., & Harding, H. P. (2012). The molecular basis for selective inhibition of unconventional mRNA splicing by an IRE1-binding small molecule. *Proceedings of the National Academy of Sciences, 109*, E869-E878. https://doi.org/10.1073/pnas.1115623109  
+
+Ferri, E., Le Thomas, A., Ackerly Wallweber, H., Day, E. S., Walters, B. T., Kaufman, S. E., Braun, M.-G., Clark, K. R., Beresini, M. H., Mortara, K., Chen, Y.-C. A., Canter, B., Phung, W., Liu, P. S., Lammens, A., Ashkenazi, A., Rudolph, J., & Wang, W. (2020). Activation of the IRE1 RNase through remodeling of the kinase front pocket by ATP-competitive ligands. *Nature Communications*. https://doi.org/10.1038/s41467-020-19974-5  
+
+Goupil, S. L., Laprade, H., Aubry, M., & Chevet, E. (2024). Exploring the IRE1 interactome: From canonical signaling functions to unexpected roles. *Journal of Biological Chemistry, 300*, 107169. https://doi.org/10.1016/j.jbc.2024.107169  
+
+Jiang, D., Niwa, M., & Koong, A. C. (2015). Targeting the IRE1α–XBP1 branch of the unfolded protein response in human diseases. *Seminars in Cancer Biology, 33*, 48-56. https://doi.org/10.1016/j.semcancer.2015.04.010  
+
+Mendez, A. S., Alfaro, J., Morales-Soto, M. A., Dar, A. C., McCullagh, E., Gotthardt, K., Li, H., Acosta-Alvear, D., Sidrauski, C., Korennykh, A. V., Bernales, S., Shokat, K. M., & Walter, P. (2015). Endoplasmic reticulum stress-independent activation of unfolded protein response kinases by a small molecule ATP-mimic. *eLife*. https://doi.org/10.7554/eLife.05434  
+
+Read, A., & Schröder, M. (2021). The unfolded protein response: An overview. *Biology, 10*, 384. https://doi.org/10.3390/biology10050384  
+
+Riaz, T. A., Junjappa, R., Handigund, M., Ferdous, J., Kim, H.-R., & Chae, H. (2020). Role of endoplasmic reticulum stress sensor IRE1α in cellular physiology, calcium, ROS signaling, and metaflammation. *Cells, 9*, 1160. https://doi.org/10.3390/cells9051160  
+
+Siwecka, N., Rozpędek-Kamińska, W., Wawrzynkiewicz, A., Pytel, D., Diehl, J., & Majsterek, I. (2021). The structure, activation and signaling of IRE1 and its role in determining cell fate. *Biomedicines, 9*, 156. https://doi.org/10.3390/biomedicines9020156

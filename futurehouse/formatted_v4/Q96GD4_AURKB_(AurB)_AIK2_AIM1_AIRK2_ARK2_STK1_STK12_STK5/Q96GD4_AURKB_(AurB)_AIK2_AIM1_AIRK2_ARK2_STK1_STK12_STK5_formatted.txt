@@ -1,0 +1,75 @@
+## Proposed EC/sub-subclass:
+Not specified in the provided sources  
+
+## Accepted name:
+Aurora kinase B  
+
+## Synonyms:
+AURKB; Aurora B  
+
+## Phylogeny  
+Aurora kinases constitute a conserved serine/threonine-protein kinase family that arose from the yeast gene Ipl1 in Saccharomyces cerevisiae (Durlacher et al., 2016; Vats et al., 2025; Sarı & Özsoy, 2024). Gene duplications yielded single orthologues in invertebrates (e.g., Drosophila melanogaster, Caenorhabditis elegans) and three paralogues in mammals: AURKA, AURKB and AURKC (Vats et al., 2025; Durlacher et al., 2016). Phylogenetic analyses place the family within the eukaryotic protein kinase superfamily, although reports differ on whether it belongs to the AGC or CMGC group (Borah & Reddy, 2021; Azeez et al., 2019; Zhao et al., 2022; Sarı & Özsoy, 2024). Human AURKB shares 71 % catalytic-domain identity with AURKA and 75–84 % with AURKC, with an ATP-binding site that is completely conserved among the paralogues (Sarı & Özsoy, 2024; Azeez et al., 2019).  
+
+## Reaction catalyzed  
+ATP + [protein]-L-Ser/Thr ⇌ ADP + [protein]-L-O-phospho-Ser/Thr (Ashraf et al., 2021; Sarı & Özsoy, 2024; Zhao et al., 2022)  
+
+## Cofactor requirements  
+Mg²⁺ is required for phosphoryl transfer; ATP supplies the γ-phosphate. Full activation further depends on interaction with the co-factor protein INCENP within the Chromosomal Passenger Complex (Mou et al., 2021; Vats et al., 2025; Sarı & Özsoy, 2024).  
+
+## Substrate Specificity  
+AURKB phosphorylates Ser/Thr residues within basic, hydrophobic-enriched motifs. Reported preferences include:  
+• Arg at −2 and hydrophobic residues (Leu) at +1/+2 (Azeez et al., 2019).  
+• R-X-[ST]-X-K/R with basic residues at +1 and +3 (Zhao et al., 2022).  
+• Arg/Lys enrichment at −2/−3 (Souza & Kawano, 2020) or −2/+2 (Unknown authors, 2017).  
+
+## Structure  
+AURKB is a 345-residue, ~39 kDa kinase comprising an N-terminal regulatory segment (~75 aa), a central bilobal catalytic domain (~251 aa) and a short C-terminal tail (Borah & Reddy, 2021; Vats et al., 2025). The catalytic core contains:  
+• A glycine-rich β-sheet N-lobe and α-helical C-lobe joined by a hinge (Borah & Reddy, 2021).  
+• An activation (T-) loop bearing the critical Thr232 autophosphorylation site (Borah & Reddy, 2021; Sarı & Özsoy, 2024).  
+• The αC-helix that packs against the core and binds INCENP to stabilise the active conformation (Azeez et al., 2019).  
+• A conserved hydrophobic spine connecting key regulatory motifs (Sarı & Özsoy, 2024).  
+
+## Regulation  
+• Autophosphorylation on Thr232 activates the enzyme (Borah & Reddy, 2021).  
+• Dephosphorylation by PP1 and PP2A inactivates it; PP1 is the principal Thr232 phosphatase (Azeez et al., 2019; Sarı & Özsoy, 2024).  
+• Binding of the INCENP IN-box within the CPC produces full activity and forms a positive feedback loop in which AURKB phosphorylates an INCENP TSS motif (Azeez et al., 2019; Vats et al., 2025). Survivin and borealin support CPC localisation and activation (Vats et al., 2025).  
+• Proteolysis: a KEN box and D-boxes target AURKB for APC/C-mediated ubiquitination during mitotic exit/G1 (Borah & Reddy, 2021; Vats et al., 2025).  
+• Transcription: expression is driven by E2F1/4, FoxM1, DP-2 and oncogenic factors including c-Myc, MDM2, MYCN and cyclin K (Borah & Reddy, 2021).  
+
+## Function  
+AURKB is a core CPC kinase whose expression and activity peak from G2 to mitosis (Sarı & Özsoy, 2024). It relocalises from chromosomes (prophase) to centromeres/kinetochores (metaphase) and then to the central spindle/midbody (anaphase–cytokinesis) (Durlacher et al., 2016; Vats et al., 2025). Principal roles include:  
+• Chromosome condensation via phosphorylation of histone H3 Ser10/Ser28 and CENP-A (Borah & Reddy, 2021).  
+• Correction of kinetochore–microtubule attachments (Durlacher et al., 2016).  
+• Regulation of the spindle assembly checkpoint upstream of Bub1/BubR1 (Vats et al., 2025).  
+• Control of cytokinesis through targets such as vimentin and MgcRacGAP-1 (Sarı & Özsoy, 2024).  
+• Dual influence on cell fate: pro-apoptotic phosphorylation of p53 or pro-survival activation of STAT3 (Vats et al., 2025).  
+
+## Inhibitors  
+ATP-competitive inhibitors developed against AURKB include:  
+Barasertib (AZD1152), GSK1070916, VX-680 (MK-0457), ZM447439, AT9283, AMG-900, CS2164, JNJ-7706621, and natural flavonoids such as hesperidin and quercetin (Borah & Reddy, 2021; Tang et al., 2017; Vats et al., 2025).  
+
+## Other Comments  
+AURKB is frequently over-expressed in diverse cancers (lung, breast, colon, pancreas, stomach, ovary, prostate, glioma, AML), where its activity drives chromosomal instability, aneuploidy, invasion, metastasis and therapy resistance; high levels associate with poor prognosis (Durlacher et al., 2016; Tang et al., 2017; Borah & Reddy, 2021).  
+
+## References  
+Abdul Azeez, K. R., Chatterjee, S., Yu, C., Golub, T. R., Sobott, F., & Elkins, J. M. (2019). Structural mechanism of synergistic activation of Aurora kinase B/C by phosphorylated INCENP. Nature Communications. https://doi.org/10.1038/s41467-019-11085-0  
+
+Ashraf, S., Ranaghan, K. E., Woods, C. J., Mulholland, A. J., & Ul-Haq, Z. (2021). Exploration of the structural requirements of Aurora kinase B inhibitors by a combined QSAR, modelling and molecular simulation approach. Scientific Reports. https://doi.org/10.1038/s41598-021-97368-3  
+
+Borah, N. A., & Reddy, M. M. (2021). Aurora kinase B inhibition: A potential therapeutic strategy for cancer. Molecules, 26, 1981. https://doi.org/10.3390/molecules26071981  
+
+Durlacher, C. T., Li, Z.-l., Chen, X.-w., He, Z.-x., & Zhou, S. (2016). An update on the pharmacokinetics and pharmacodynamics of alisertib, a selective Aurora kinase A inhibitor. Clinical and Experimental Pharmacology and Physiology. https://doi.org/10.1111/1440-1681.12571  
+
+Mou, P. K., Yang, E. J., Shi, C., Ren, G., Tao, S., & Shim, J. S. (2021). Aurora kinase A, a synthetic lethal target for precision cancer medicine. Experimental & Molecular Medicine, 53, 835–847. https://doi.org/10.1038/s12276-021-00635-6  
+
+Sarı, S., & Özsoy, E. R. (2024). Aurora kinases: Their role in cancer and cellular processes. Türk Doğa ve Fen Dergisi, 13, 128–139. https://doi.org/10.46810/tdfd.1476374  
+
+Souza, V. B. de, & Kawano, D. F. (2020). Structural basis for the design of allosteric inhibitors of the Aurora kinase A enzyme in cancer chemotherapy. Biochimica et Biophysica Acta (BBA) – General Subjects, 1864, 129448. https://doi.org/10.1016/j.bbagen.2019.129448  
+
+Tang, A., Gao, K., Chu, L., Zhang, R., Yang, J., & Zheng, J. (2017). Aurora kinases: Novel therapy targets in cancers. Oncotarget, 8, 23937–23954. https://doi.org/10.18632/oncotarget.14893  
+
+Unknown authors. (2017). In-silico investigation of Coenzyme A selectivity for Aurora A kinase and development of an Aurora A kinase-selective inhibitor as a potential anticancer agent.  
+
+Vats, P., Saini, C., Baweja, B., Srivastava, S. K., Kumar, A., Kushwah, A. S., & Nema, R. (2025). Aurora kinases signaling in cancer: From molecular perception to targeted therapies. Molecular Cancer. https://doi.org/10.1186/s12943-025-02353-3  
+
+Zhao, D., Kovacs, A. H., Campbell, M., Floriano, W., & Hou, J. (2022). Exploring the structural basis of a subtype selective inhibitor for Aurora kinase B over Aurora kinase A by molecular dynamics simulations. Preprint. https://doi.org/10.21203/rs.3.rs-1942448/v1

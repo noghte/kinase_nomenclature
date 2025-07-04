@@ -1,0 +1,57 @@
+## Phylogeny  
+Cyclin-dependent kinase 12 (CDK12; UniProt Q9NYV4) belongs to the transcription-associated CDK/Ctk1 branch of the CMGC protein-kinase group (Emadi et al., 2020; Lui et al., 2018). A vertebrate-specific duplication produced the close paralogue CDK13, which shares ≈ 89–92 % identity across the catalytic domain (Chilà et al., 2016; Greenleaf, 2019). Orthologues are found in human, mouse, zebrafish, Drosophila (CG7597), C. elegans (B0285), budding yeast (Ctk1) and fission yeast (Lsk1) (Bösken et al., 2014; Greenleaf, 2019). The more distantly related CTD kinase CDK9 acts earlier during transcription elongation (Chilà et al., 2016).
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr ⇌ ADP + [protein]-O-phospho-Ser/Thr + H⁺ (Bösken et al., 2014).
+
+## Cofactor Requirements  
+Activity is Mg²⁺-dependent as shown in CDK12·cyclin K crystal structures (Bösken et al., 2014).
+
+## Substrate Specificity  
+• Principal substrate is the heptad repeat Y₁S₂P₃T₄S₅P₆S₇ of the RNA-pol II CTD. CDK12 preferentially phosphorylates Ser5 or Ser2 only when Ser7 in the same repeat is pre-phosphorylated; replacement of Ser7 with Lys disrupts recognition (Bösken et al., 2014).  
+• Sequence bias: general preference for Ser/Thr followed by Pro at +1, consistent with a Ser/Thr-Pro motif (Emadi et al., 2020).  
+• Documented non-CTD substrates include 4E-BP1 (Thr37/Thr46/Ser65/Thr70), cyclin E1 (Ser366) and the nuclear-pore proteins TPR and NUP214 (Emadi et al., 2020; Lui et al., 2018).
+
+## Structure  
+The protein comprises (i) an N-terminal RS-rich segment that targets nuclear speckles and interacts with splicing factors (Lui et al., 2018); (ii) a central bilobal kinase domain (residues ≈ 719–984) harbouring the characteristic PITAIRE αC helix and DFG motif (Choi et al., 2020); and (iii) a C-terminal extension bearing helix αK, an HE motif, a poly-basic patch (1045 KKRRRQR) and reactive Cys1039 (Bösken et al., 2014; Choi et al., 2020; Emadi et al., 2020).  
+The crystal structure of human CDK12·cyclin K (PDB 6B3E) shows αK bridging the N- and C-lobes and contacting the ATP ribose, thereby enhancing nucleotide affinity (Bösken et al., 2014). Thr893 within the activation loop is phosphorylated, stabilising the DFG-in active conformation (Emadi et al., 2020). Cyclin K binding completes the hydrophobic spine, and Cys1039 forms an auxiliary pocket exploited by covalent inhibitors (Choi et al., 2020). AlphaFold modelling indicates flexible N- and C-terminal arms (Emadi et al., 2020).
+
+## Regulation  
+• Phosphorylation: CDK7–cyclin H–MAT1 (CAK) phosphorylates Thr893, enabling full catalytic activity; CDK7 and CDK9 also modulate autophosphorylation (Emadi et al., 2020; Yamakawa et al., 2024).  
+• Protein interaction: Stable association with cyclin K is obligatory for folding, activity and protein stability; loss of cyclin K destabilises CDK12 (Greenleaf, 2019).  
+• Allosteric control: Prior Ser7 phosphorylation on CTD repeats markedly stimulates catalysis (Bösken et al., 2014).  
+• No confirmed ubiquitination or SUMOylation sites have been reported (Greenleaf, 2019).
+
+## Function  
+Expression is ubiquitous but elevated in ovary, testis, bone marrow, spleen, lymph nodes and proliferative or cancer cells (Lui et al., 2018; Choi et al., 2020).  
+Major roles:  
+– Transcription elongation: phosphorylates RNAP II CTD Ser2/Ser5 to coordinate co-transcriptional splicing, 3′-end processing and termination, with strongest effects on long, exon-rich genes (Paculová & Kohoutek, 2017; Greenleaf, 2019).  
+– DNA-damage response: sustains expression of homologous-recombination genes (ATM, ATR, FANCI, RAD51C, MDC1) and suppresses intronic polyadenylation (Chilà et al., 2016; Emadi et al., 2020).  
+– RNA processing: associates with U2/U5 snRNPs, exon-junction complex and 5′-cap/3′-end factors (Greenleaf, 2019).  
+– DNA replication: phosphorylates cyclin E1 Ser366 to regulate pre-replicative-complex assembly (Lui et al., 2018).  
+– Translation control: phosphorylates 4E-BP1, linking transcriptional stress to mTORC1-regulated translation (Emadi et al., 2020).  
+Upstream regulators: CDK7 (CAK), CDK9, Ser7-phosphorylated RNAP II CTD.  
+Downstream/interacting partners: SETD2, SRSF1, 4E-BP1, cyclin E1 and DDR gene transcripts (Greenleaf, 2019; Emadi et al., 2020).
+
+## Inhibitors  
+THZ531 (covalent, Cys1039; IC₅₀ ≈ 0.1 µM), SR-4835 (ATP-competitive), dinaciclib (multi-CDK; IC₅₀ ≈ 0.05 µM), flavopiridol (nanomolar but less selective), THZ1 (primarily CDK7; engages CDK12 at higher doses), E9 (non-covalent scaffold) and CR8 (molecular glue that depletes cyclin K) (Bösken et al., 2014; Chilà et al., 2016; Choi et al., 2020; Emadi et al., 2020; Greenleaf, 2019; Yamakawa et al., 2024).
+
+## Other Comments  
+Loss-of-function mutations cluster in the kinase domain and occur in ~ 3 % of high-grade serous ovarian cancers and a subset of metastatic castration-resistant prostate cancers (Chilà et al., 2016; Greenleaf, 2019). CDK12-deficient tumours show a distinctive tandem-duplication genomic-instability signature and display hypersensitivity to platinum agents, PARP and CHK1 inhibitors (Emadi et al., 2020). In HER2-amplified breast cancer, CDK12 amplification promotes invasion via alternative last-exon splicing of DNAJB6 (Lui et al., 2018). Synthetic-lethal dependencies have been reported in MYC-driven tumours and EWS/FLI-positive Ewing sarcoma (Emadi et al., 2020).
+
+## References  
+Bösken, C. A., Farnung, L., Hintermair, C., Merzel Schachter, M., Vogel-Bachmayr, K., Blazek, D., … Geyer, M. (2014). The structure and substrate specificity of human CDK12/cyclin K. Nature Communications, 5, 3505. https://doi.org/10.1038/ncomms4505  
+
+Chilà, R., Guffanti, F., & Damia, G. (2016). Role and therapeutic potential of CDK12 in human cancers. Cancer Treatment Reviews, 50, 83–88. https://doi.org/10.1016/j.ctrv.2016.09.003  
+
+Choi, S., Kim, S., & Jones, K. (2020). Gene expression regulation by CDK12: a versatile kinase in cancer with functions beyond CTD phosphorylation. Experimental & Molecular Medicine, 52, 762–771. https://doi.org/10.1038/s12276-020-0442-9  
+
+Emadi, F., Teo, T., Rahaman, M. H., & Wang, S. (2020). CDK12: a potential therapeutic target in cancer. Drug Discovery Today, 25, 2257–2267. https://doi.org/10.1016/j.drudis.2020.09.035  
+
+Greenleaf, A. L. (2019). Human CDK12 and CDK13, multi-tasking CTD kinases for the new millennium. Transcription, 10, 91–110. https://doi.org/10.1080/21541264.2018.1535211  
+
+Lui, G. Y. L., Grandori, C., & Kemp, C. J. (2018). CDK12: an emerging therapeutic target for cancer. Journal of Clinical Pathology, 71, 957–962. https://doi.org/10.1136/jclinpath-2018-205356  
+
+Paculová, H., & Kohoutek, J. (2017). The emerging roles of CDK12 in tumorigenesis. Cell Division, 12, 15. https://doi.org/10.1186/s13008-017-0033-x  
+
+Yamakawa, H., Ebara, S., Yoshida, M., Yamamoto, K., Hayashi, K., Shimokawa, K., … Morishita, D. (2024). Phosphorylation dynamics and kinase interaction in mRNA transcription-associated kinases: autophosphorylation of CDK12 and its modulation by CDK7 and CDK9. BPB Reports, 7(5), 170–178. https://doi.org/10.1248/bpbreports.7.5_170

@@ -1,0 +1,41 @@
+Phylogeny  
+STK36 is the mammalian orthologue of Drosophila Fused and belongs to the ‘Fused/Other’ kinase sub-family of the Manning kinome classification (Edelbusch et al., 2017; Park et al., 2011). Orthologues are present in plants, flagellated unicellular eukaryotes, Chlamydomonas reinhardtii, Drosophila, zebrafish and planarian, and the human protein shares 66 % identity / 83 % similarity with the C. reinhardtii enzyme (Edelbusch et al., 2017; Zhou et al., 2023).  
+
+Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Johnson et al., 2023; Zhou et al., 2023).  
+
+Cofactor Requirements  
+Mg²⁺ and ATP are required for catalytic activity (Edelbusch et al., 2017; Johnson et al., 2023; Zhou et al., 2023).  
+
+Substrate Specificity  
+Direct motif information is not included in the supplied text. The kinase is described as serine/threonine-specific with a possible preference for proline-directed motifs (Johnson et al., 2023).  
+
+Structure  
+The protein contains an N-terminal kinase domain (aa 1–260) followed by a less-conserved C-terminal regulatory region (Unknown Authors, 2014; Zhou et al., 2023). AlphaFold models predict a canonical bilobal kinase fold with conserved catalytic residues and an activation loop bearing T158/S159 (Edelbusch et al., 2017; Johnson et al., 2023). The kinase domain binds the pseudokinase ULK4 and the transcription factor GLI2 (Zhou et al., 2023).  
+
+Regulation  
+• Autophosphorylation of the activation loop at T158/S159 is stimulated by Sonic Hedgehog (Shh) signalling; nearby S151 and T154 also modulate activity (Edelbusch et al., 2017; Zhou et al., 2023).  
+• Forms a constitutive complex with ULK4 and GLI2; ULK4 acts as a scaffold without altering intrinsic kinase activity (Zhou et al., 2023).  
+• Mutual dependency of STK36 and ULK4 for accumulation at the ciliary tip; STK36 phosphorylates ULK4 at T1021/T1023 to control ULK4 ciliary localisation (Zhou et al., 2023).  
+
+Function  
+Highly expressed in motile ciliated tissues (respiratory epithelium, brain ependyma, oviduct, testis) and in brain, kidney and pancreas (Edelbusch et al., 2017; Unknown Authors, 2014).  
+• Ciliogenesis: localises to the ciliary axoneme, is required for correct construction/orientation of the central pair (Edelbusch et al., 2017).  
+• Shh pathway: accumulates at primary cilia tips and phosphorylates GLI2 (e.g., S230/S232) to promote GLI2 activation (Zhou et al., 2023).  
+• Binding partners: SUFU, GLI proteins, ULK4, SPAG16, PCDP1 and KIF27 (Edelbusch et al., 2017; Zhou et al., 2023).  
+In mice, Shh signalling can proceed in the absence of STK36, possibly due to redundancy with ULK3 (Edelbusch et al., 2017).  
+
+Other Comments  
+Homozygous loss-of-function mutations in STK36 cause primary ciliary dyskinesia with central pair defects but usually without laterality defects (Edelbusch et al., 2017). STK36 loss is also linked to congenital hydrocephalus in mouse models and implicated in pancreatic adenocarcinoma and melanoma (Unknown Authors, 2014; Zhou et al., 2023).  
+
+9. References  
+
+Edelbusch, C., Cindrić, S., Dougherty, G. W., Loges, N. T., Olbrich, H., Rivlin, J., … Omran, H. (2017). Mutation of serine/threonine protein kinase 36 (STK36) causes primary ciliary dyskinesia with a central pair defect. Human Mutation, 38, 964–969. https://doi.org/10.1002/humu.23261  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Park, G., Servin, J. A., Turner, G. E., Altamirano, L., Colot, H. V., Collopy, P., … Borkovich, K. A. (2011). Global analysis of serine-threonine protein kinase genes in Neurospora crassa. Eukaryotic Cell, 10, 1553–1564. https://doi.org/10.1128/EC.05140-11  
+
+Zhou, M., Han, Y., & Jiang, J. (2023). Ulk4 promotes Shh signalling by regulating STK36 ciliary localisation and Gli2 phosphorylation. eLife. https://doi.org/10.1101/2023.04.20.537618  
+
+Unknown Authors. (2014). Die Rolle der Serin-Threonin-Kinase 36 im duktalen Pankreasadenokarzinom und malignen Melanom.

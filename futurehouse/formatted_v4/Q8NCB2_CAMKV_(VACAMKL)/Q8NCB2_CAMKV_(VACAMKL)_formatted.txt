@@ -1,0 +1,66 @@
+## Phylogeny  
+CAMKV (Q8NCB2) belongs to the Ca²⁺/calmodulin-dependent protein kinase (CAMK) group of the human serine/threonine kinome (Manning et al., 2002; Johnson et al., 2023; Simon et al., 2015). It is regarded as an atypical CAMK that has diverged from canonical CAMK1/2 members (Yu et al., 2024). Conservation of key Lys/Arg residues within its calmodulin-binding domain and the presence of orthologues from yeast to humans further support its evolutionary placement (Manning et al., 2002; Yu et al., 2024).
+
+## Reaction Catalyzed  
+ATP + [a protein] ⇌ ADP + [a phosphoprotein] (Yu et al., 2024).  
+(Note: Several studies report absent or very low intrinsic catalytic activity, describing CAMKV as a pseudokinase; others detect kinase activity in specific settings.)
+
+## Cofactor Requirements  
+• Initial activation requires binding of Ca²⁺/calmodulin to a C-terminal calmodulin-binding domain; calmodulin is dispensable once activity is initiated (Yu et al., 2024).  
+• A canonical DFG motif that normally coordinates Mg²⁺ is altered, potentially impairing Mg²⁺ binding in the inactive/pseudokinase state (Yu et al., 2024).
+
+## Substrate Specificity  
+No consensus phosphorylation motif has been defined. Experimentally identified substrates include:  
+– CREB Ser133 (Yu et al., 2024)  
+– GATA2 Ser182/Ser192 (Yu et al., 2024)  
+Phosphoproteomics also links CAMKV to regulation of STK10 and RIOK1 phosphorylation (Yu et al., 2024). Clustering by motif selectivity places CAMKV within the broader CAMK group (Johnson et al., 2023).
+
+## Structure  
+CAMKV contains an N-terminal kinase-like domain and an intrinsically disordered ~200-residue C-terminal region that harbours a calmodulin-binding domain and seven tandem octapeptide repeats (D-X-X-X-T-P-A-T) critical for protein stability (Rozen et al., 2024). AlphaFold2 predicts a conventional bilobal kinase fold despite conflicting reports on catalytic competence (Yu et al., 2024).  
+Key residues/features:  
+– Lys53 essential for ATP binding in active models (Yu et al., 2024)  
+– Thr183 autophosphorylation site required for activation (Yu et al., 2024)  
+– Altered DFG motif, mis-positioned C-helix and locked activation loop cited as causes of pseudokinase behaviour (Rozen et al., 2024; Yu et al., 2024).
+
+## Regulation  
+• Phosphorylation:  
+  – DYRK3 directly phosphorylates CAMKV at Thr387 and Thr427 within the C-terminal repeats, controlling liquid–liquid phase separation (Rozen et al., 2024).  
+  – Autophosphorylation on Thr183 activates CAMKV; T183E is constitutively active (Yu et al., 2024).  
+
+• Allosteric/conformational control:  
+  – Calmodulin binding is required for initial activation (Yu et al., 2024).  
+  – The C-terminal tail exerts autoinhibition; a splice isoform lacking 31 C-terminal residues (CAMKV-S) is more active than full-length CAMKV (Yu et al., 2024).  
+
+• Protein stability:  
+  – Seven tandem octapeptide repeats are necessary for steady-state expression (Rozen et al., 2024).
+
+## Function  
+Expression/Localization: Highly expressed in neuroblastoma cells, embryonic neuroblasts and brain tissue (Rozen et al., 2023; Yu et al., 2024). Predominantly cytosolic; localizes to the mitotic spindle during division and forms aggregates when DYRK3 is inhibited (Rozen et al., 2023).  
+
+Signaling roles:  
+– Direct transcriptional target of MYCN/MYC oncogenes (Yu et al., 2024).  
+– In neuroblastoma, the DYRK3–CAMKV module regulates mitotic spindle dynamics and tumour cell proliferation (Rozen et al., 2023).  
+– CAMKV phosphorylates CREB Ser133 and GATA2 Ser182/192, promoting proliferation (Yu et al., 2024).  
+– Knockdown reduces proliferation and alters genes linked to neuronal function, translation and apoptosis (Yu et al., 2024).  
+– Additional roles in dendritic spine maintenance and activity-dependent bulk endocytosis have been reported (Yu et al., 2024).  
+
+Interacting partners: DYRK3 (upstream kinase) and CREB (substrate) interact directly with CAMKV (Rozen et al., 2023; Yu et al., 2024).
+
+## Inhibitors  
+ATP-competitive compounds, including K-252a and OTSSP167, dock into the CAMKV ATP-binding pocket and suppress neuroblastoma xenograft growth (Yu et al., 2024).
+
+## Other Comments  
+High CAMKV expression correlates with advanced stage, high-risk disease and poor survival in neuroblastoma, and serves as a prognostic biomarker in endometrial carcinoma (Rozen et al., 2023; Yu et al., 2024). Two splice isoforms exist: full-length (501 aa) and CAMKV-S (Δ31 C-terminal aa), the latter displaying higher kinase activity and pro-proliferative capacity (Yu et al., 2024).
+
+## References  
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298(5600), 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Rozen, E. J., Wigglesworth, K., & Shohet, J. M. (2023). A novel druggable DYRK3/CAMKV signaling module for neuroblastoma tumor growth inhibition. bioRxiv. https://doi.org/10.1101/2023.11.30.569438  
+
+Rozen, E. J., Wigglesworth, K., & Shohet, J. M. (2024). A novel druggable dual-specificity tyrosine-regulated kinase3/calmodulin kinase-like vesicle-associated signaling module with therapeutic implications in neuroblastoma. Biomedicines, 12(1), 197. https://doi.org/10.3390/biomedicines12010197  
+
+Simon, B., Huart, A.-S., & Wilmanns, M. (2015). Molecular mechanisms of protein kinase regulation by calcium/calmodulin. Bioorganic & Medicinal Chemistry, 23(12), 2749–2760. https://doi.org/10.1016/j.bmc.2015.04.051  
+
+Yu, Y., Zhao, Y., Shi, Z., Cheng, F., Wang, L. L., Choi, J. M., … Yang, J. (2024). CAMKV kinase signaling is a novel therapeutic avenue with prognostic relevance in neuroblastoma. bioRxiv. https://doi.org/10.1101/2024.02.19.581040

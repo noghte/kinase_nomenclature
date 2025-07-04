@@ -1,0 +1,36 @@
+## Phylogeny  
+PRKY is a Y-chromosome-encoded serine/threonine kinase that belongs to the AGC kinase group and clusters most closely with the cAMP-dependent protein kinase (PKA) family (Huang et al., 2016; Johnson et al., 2023). It arose from a gene-duplication event followed by primate chromosome rearrangements and is a paralogue of the X-linked kinase PRKX, sharing ~94 % amino-acid identity (Huang et al., 2016; Li et al., 2011; Schiebel et al., 1997).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Johnson et al., 2023).
+
+## Cofactor Requirements  
+Mg²⁺ is required for catalytic activity (Johnson et al., 2023; UnknownAuthors, 2021).
+
+## Substrate Specificity  
+A kinome-wide peptide library study generated position-specific scoring matrices that define PRKY (annotated as “PRPK” in the dataset) substrate preferences (Johnson et al., 2023). Prior to this, substrates were unknown, but homology with PRKX and other PKA-family members suggested a preference for basic motifs such as R-R-X-S/T (Huang et al., 2016; Li et al., 2011).
+
+## Structure  
+The gene encodes an intact open reading frame with conserved ATP-binding and catalytic motifs, although the protein is 81 amino acids shorter than PRKX because one exon is missing (Huang et al., 2016; Schiebel et al., 1997). An AlphaFold model was reported in 2025 (Ekhator et al., 2025), whereas earlier sources stated that no experimental or predicted 3-D structure was available (Huang et al., 2016; Li et al., 2011).
+
+## Regulation  
+Activity and substrate selection are modulated by post-translational modifications, notably phosphorylation, in line with common kinase regulatory mechanisms (Johnson et al., 2023; UnknownAuthors, 2021).
+
+## Function  
+PRKY transcripts are detected predominantly in testis, indicating a role in male germ-cell development and reproduction (Huang et al., 2016; Li et al., 2011). Lower-level expression has been reported in fetal brain and bone-marrow cDNA libraries (Schiebel et al., 1997). Specific signalling partners have not been detailed in the cited studies (Johnson et al., 2023).
+
+## Other Comments  
+Several reports classify PRKY as a pseudogene owing to rearrangements or loss of canonical kinase activity (Ekhator et al., 2025; Huang et al., 2016; Li et al., 2011). In contrast, the original cloning study showed an intact coding sequence and distinguished PRKY from the true pseudogene PRKXP1 (Schiebel et al., 1997). Recombination between PRKY and PRKX underlies ~33 % of sex-reversal cases, producing (Y⁺)XX males and (Y⁻)XY females (Schiebel et al., 1997; Ekhator et al., 2025; Huang et al., 2016).
+
+## 9. References  
+Ekhator, E. S., Fazzari, M., & Newman, R. H. (2025). Redox regulation of cAMP-dependent protein kinase and its role in health and disease. Life, 15, 655. https://doi.org/10.3390/life15040655  
+
+Huang, S., Li, Q., Alberts, I., & Li, X. (2016). PRKX, a novel cAMP-dependent protein kinase member, plays an important role in development. Journal of Cellular Biochemistry. https://doi.org/10.1002/jcb.25304  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Li, X., Iomini, C., Hyink, D., & Wilson, P. D. (2011). PRKX critically regulates endothelial cell proliferation, migration, and vascular-like structure formation. Developmental Biology, 356(2), 475–485. https://doi.org/10.1016/j.ydbio.2011.05.673  
+
+Schiebel, K., Winkelmann, M., Mertz, A., Xu, X., Page, D., Weil, D., Petit, C., & Rappold, G. (1997). Abnormal XY interchange between a novel isolated protein kinase gene, PRKY, and its homologue, PRKX, accounts for one third of all (Y⁺)XX males and (Y⁻)XY females. Human Molecular Genetics, 6, 1985–1989. https://doi.org/10.1093/hmg/6.11.1985  
+
+UnknownAuthors. (2021). Illuminating understudied kinases and facilitating drug discovery through integrative protein kinase resources and machine learning methods.

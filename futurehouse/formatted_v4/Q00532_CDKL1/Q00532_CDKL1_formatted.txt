@@ -1,0 +1,45 @@
+## Phylogeny  
+CDKL1 belongs to the CDK-like (CDKL) subfamily of the CMGC kinase group (Canning et al., 2018). Orthologs are present in mammals (Homo sapiens, Mus musculus, Bos taurus, Panthera tigris), birds (Gallus gallus) and teleost fish (Danio rerio, Tetraodon nigroviridis); the zebrafish and human kinase domains share 77 % sequence identity, while teleost paralogs exceed 90 % identity (Hsu et al., 2011; Rout et al., 2018). Single-copy orthologs occur in Caenorhabditis elegans (cdkl-1) and Drosophila melanogaster (CG7236); in Diptera, CDKL2/3/5 were lost (Martín-Carrascosa et al., 2025). Budding and fission yeasts lack CDKL1 homologs (Martín-Carrascosa et al., 2025). Phylogenetically, CDKL1 separates from classical cell-cycle CDKs yet retains the MAPK-type TDY activation-loop motif (Rout et al., 2018).
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr → ADP + [protein]-O-phospho-Ser/Thr (Hsu et al., 2011).
+
+## Cofactor Requirements  
+Divalent-cation usage has not been reported; in-vitro assays did not specify Mg²⁺ or Mn²⁺ (Hsu et al., 2011).
+
+## Substrate Specificity  
+• Zebrafish CDKL1 phosphorylates serine in the proline-directed motif X-Ser-Pro-X; substrates include myelin basic protein and histone H1 (Hsu et al., 2011).  
+• Human CDKL1 shows very weak phosphorylation of RPXSA motifs on MAP1S Ser900 and CEP131 Ser35 in HEK293 cells (Muñoz et al., 2018).  
+• Kinome-wide substrate profiling is not yet available (Karimbayli et al., 2024).
+
+## Structure  
+CDKL1 consists of an N-terminal kinase domain (residues 1–308) followed by a short C-terminal tail (Endicott & Noble, 2013). Crystal structures (PDB 4AGU, 4AAA, 4BBM) reveal a canonical bilobed fold with a distinctive C-terminal αJ helix occupying the MAPK common-docking groove (Canning et al., 2018). Conserved catalytic motifs include VAIK (Lys33), HRD, DFG and the TDY activation loop (Rout et al., 2018). The C-helix carries the CDKL-signature KKIALRE sequence in place of the PSTAIRE motif of classical CDKs (Endicott & Noble, 2013). Molecular-dynamics simulations show an ATP-binding pocket closely superposable with human CDK2 (Rout et al., 2018).
+
+## Regulation  
+No experimentally validated post-translational modifications have been reported; phosphorylation of the TDY motif or other regulatory events remains unconfirmed (Rout et al., 2018).
+
+## Function  
+CDKL1 transcripts are enriched in brain, lung, kidney and ovary (Rout et al., 2018). The protein localises to the neuronal ciliary transition zone and contributes to cilium length control (Canning et al., 2018). In zebrafish, cdkl1 is required for floor-plate formation, brain and eye morphogenesis, and anterior–posterior axis patterning within the Sonic Hedgehog pathway (Hsu et al., 2011). Comparative analyses suggest broader roles in Hedgehog signalling and ciliogenesis across metazoans (Martín-Carrascosa et al., 2025). Elevated CDKL1 expression correlates with poor prognosis in colorectal cancer (Chowdhury et al., 2023).
+
+## Inhibitors  
+Crystal structures capture unidentified ATP-competitive inhibitors bound in the active site (Canning et al., 2018).
+
+## Other Comments  
+CDKL1 is classified as an understudied “dark kinase,” underscoring limited biochemical and pharmacological characterisation (Karimbayli et al., 2024).
+
+## 9. References  
+Canning, P., Park, K., Gonçalves, J., Li, C., Howard, C. J., Sharpe, T., Holt, L., Pelletier, L., Bullock, A., & Leroux, M. (2018). CDKL family kinases have evolved distinct structural features and ciliary function. Cell Reports, 22, 885–894. https://doi.org/10.1016/j.celrep.2017.12.083  
+
+Chowdhury, I., Dashi, G., & Keskitalo, S. (2023). CMGC kinases in health and cancer. Cancers, 15, 3838. https://doi.org/10.3390/cancers15153838  
+
+Endicott, J. A., & Noble, M. E. M. (2013). Structural characterization of the cyclin-dependent protein kinase family. Biochemical Society Transactions, 41(4), 1008–1016. https://doi.org/10.1042/bst20130097  
+
+Hsu, L.-S., Liang, C.-J., Tseng, C.-Y., Yeh, C.-W., & Tsai, J.-N. (2011). Zebrafish cyclin-dependent protein kinase-like 1 (zcdkl1): Identification and functional characterization. International Journal of Molecular Sciences, 12, 3606–3617. https://doi.org/10.3390/ijms12063606  
+
+Karimbayli, J., Pellarin, I., Belletti, B., & Baldassarre, G. (2024). Insights into the structural and functional activities of forgotten kinases: PCTAIREs CDKs. Molecular Cancer. https://doi.org/10.1186/s12943-024-02043-6  
+
+Martín-Carrascosa, M. del C., Palacios-Martínez, C., & Galindo, M. I. (2025). A phylogenetic analysis of the CDKL protein family unravels its evolutionary history and supports the Drosophila model of CDKL5 deficiency disorder. Frontiers in Cell and Developmental Biology. https://doi.org/10.3389/fcell.2025.1582684  
+
+Muñoz, I. M., Morgan, M. E., Peltier, J., Weiland, F., Gregorczyk, M., Brown, F. C. M., Macartney, T., Toth, R., Trost, M., & Rouse, J. (2018). Phosphoproteomic screening identifies physiological substrates of the CDKL5 kinase. The EMBO Journal. https://doi.org/10.15252/embj.201899559  
+
+Rout, A. K., Dehury, B., Maharana, J., Nayak, C., Baisvar, V., Behera, B., & Das, B. (2018). Deep insights into the mode of ATP-binding mechanism in zebrafish cyclin-dependent protein kinase-like 1 (zcdkl1): A molecular dynamics approach. Journal of Molecular Graphics & Modelling, 81, 175–183. https://doi.org/10.1016/j.jmgm.2018.02.002

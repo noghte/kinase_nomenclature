@@ -1,0 +1,40 @@
+## Phylogeny  
+Assigned to the NKF1 subgroup within the “Other” clade of the human kinome (Manning et al., 2002). The paralogue cluster contains SBK1, SBK2 and SBK3, indicating a close evolutionary relationship inside NKF1 (Hanks, 2003). Comparative kinome surveys report SBK2 orthologues in mouse, rat, zebrafish and Drosophila, although specific gene identifiers were not detailed (Manning et al., 2002).
+
+## Reaction Catalyzed  
+ATP + [protein]-L-Ser/Thr ⇌ ADP + [protein]-O-phospho-L-Ser/Thr (Hanks, 2003).
+
+## Cofactor Requirements  
+Divalent-metal dependence has not been experimentally determined (Essegian et al., 2020).
+
+## Substrate Specificity  
+A global consensus motif has not yet been defined (Johnson et al., 2023). In peptide-array profiling, SBK2 ranked 8th for phosphorylation of PDHA1 Ser293 within RYHGHSMSDP (98.48 percentile), suggesting possible recognition of a basic sequence context (Johnson et al., 2023).
+
+## Structure  
+The protein comprises a single bilobal serine/threonine kinase domain (~250 aa) with canonical Lys in subdomain II, HRD in subdomain VIB and DFG at the activation-loop N-terminus (Unknown Authors, 2014). No experimental structures are available; an AlphaFold model provides full-length coordinates with pLDDT > 70 across the catalytic core (Tunyasuvunakool et al., 2021). Regulatory elements such as activation-loop phosphorylation status, hydrophobic-spine integrity and C-helix orientation remain unverified (Unknown Authors, 2022).
+
+## Regulation  
+No post-translational modifications, allosteric regulators or conformational control mechanisms have been reported (Essegian et al., 2020; Johnson et al., 2023; Unknown Authors, 2022).
+
+## Function  
+SBK2 is categorised as a “Tdark” kinase with limited expression information; GTEx or Human Protein Atlas data were not cited (Essegian et al., 2020). Protein–protein interactors and pathway assignments are currently undocumented (Unknown Authors, 2022). Genomic analyses show focal copy-number amplification in ~3 % of breast-cancer cases, and increased SBK2 dosage correlates with reduced overall and progression-free survival in TCGA datasets (Unknown Authors, 2022). The Clinical Kinase Index identifies SBK2 as prognostic in multiple tumour types (Essegian et al., 2020).
+
+## Other Comments  
+SBK2 has not been included in large-scale biochemical inhibitor panels; inhibitor sensitivity therefore remains unknown (Gehringer, 2021). The scarcity of structural, biochemical and regulatory data positions SBK2 as a high-priority target for foundational kinase research (Essegian et al., 2020).
+
+## References  
+Essegian, D., Khurana, R., Stathias, V., & Schürer, S. C. (2020). The clinical kinase index: A method to prioritize understudied kinases as drug targets for the treatment of cancer. Cell Reports Medicine. https://doi.org/10.1016/j.xcrm.2020.100128  
+
+Gehringer, M. (2021). Covalent kinase inhibitors: An overview. Topics in Medicinal Chemistry, 43–94. https://doi.org/10.1007/7355_2020_103  
+
+Hanks, S. K. (2003). Genomic analysis of the eukaryotic protein kinase superfamily: A perspective. Genome Biology, 4, 111. https://doi.org/10.1186/gb-2003-4-5-111  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Tunyasuvunakool, K., Adler, J., Wu, Z., … Hassabis, D. (2021). Highly accurate protein structure prediction for the human proteome. Nature, 596, 590–596. https://doi.org/10.1038/s41586-021-03828-1  
+
+Unknown Authors. (2014). Creation and characterization of a sensitized, inhibitable stress-activated protein kinase.  
+
+Unknown Authors. (2022). Data driven computational discovery of novel small-molecule cancer therapeutics.

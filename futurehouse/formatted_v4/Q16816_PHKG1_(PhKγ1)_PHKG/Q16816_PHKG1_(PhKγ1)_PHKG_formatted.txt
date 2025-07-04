@@ -1,0 +1,47 @@
+## Phylogeny  
+PHKG1 encodes the catalytic γ-subunit of phosphorylase kinase and belongs to the calcium/calmodulin-dependent protein kinase (CAMK) group of the human kinome (Manning et al., 2002; Burwinkel et al., 2003). Orthologues are conserved in mouse, rat, rabbit, dog, chicken, yeast, worm and fly, indicating an ancient origin and fundamental role in glycogen metabolism (Manning et al., 2002; Burwinkel et al., 2003). Expansion of CAMK family members occurred during early vertebrate evolution (Manning et al., 2002).
+
+## Reaction Catalyzed  
+ATP + [glycogen phosphorylase]-L-serine ⇌ ADP + [glycogen phosphorylase]-L-serine phosphate (Ma et al., 2025).
+
+## Cofactor Requirements  
+Catalysis requires Mg²⁺, while full activation of the holoenzyme additionally depends on Ca²⁺ bound to the integral calmodulin (δ) subunit (Ma et al., 2025; Winchester et al., 2007).
+
+## Substrate Specificity  
+PHKG1 is a basophilic Ser/Thr kinase. Phosphoproteomic profiling defined a consensus motif featuring Arg/Lys at –3 and –5 positions relative to the phosphoacceptor site and a hydrophobic residue (Leu/Ile/Val) at +1 (Johnson et al., 2023). This signature distinguishes PHKG1 targets from those of other kinases.
+
+## Structure  
+The γ-subunit (~45 kDa) forms part of the 1.3 MDa (αβγδ)₄ phosphorylase kinase holoenzyme (Ma et al., 2025). It contains:  
+• N-terminal catalytic kinase domain (residues 1–298) with the canonical bilobed fold.  
+• C-terminal autoregulatory domain comprising an autoinhibitory segment (302–312) and two calmodulin-binding regions (302–326, 342–366) (Ma et al., 2025).  
+Key regulatory elements include the activation loop, C-helix and hydrophobic spine (Ma et al., 2025). Cryo-EM structures of human PhK have been deposited (PDB: 8Z5Q, 8Z5P, 8Z5M, 8Z5T).
+
+## Regulation  
+Basally, the autoinhibitory segment occupies the active site (Ma et al., 2025). Activation is synergistically achieved by:  
+1. Phosphorylation of α- and β-subunits by PKA.  
+2. Ca²⁺ binding to the δ (calmodulin) subunit.  
+These events induce conformational changes that relieve γ-subunit autoinhibition (Ma et al., 2025). Additional regulation involves phosphorylation sites within PHKG1 itself, farnesylation of α/β subunits, and modulation by pH, ATP and ADP (Unknown Authors, 2009).
+
+## Function  
+PHKG1 is predominantly expressed in muscle and liver but is present in many tissues (Unknown Authors, 2009). Located in the cytoplasm, T-tubules and sarcoplasmic reticulum, it activates muscle glycogen phosphorylase (PYGM) to stimulate glycogenolysis (Ma et al., 2025). Upstream, PKA phosphorylates the PhK complex; downstream, PYGM and additional in-vitro substrates such as myelin basic protein and troponin are phosphorylated (Unknown Authors, 2009). The holoenzyme also interacts with protein phosphatase 1 and participates in insulin and glucagon signalling pathways (Migocka-Patrzałek & Elias, 2021). A truncated brain-specific variant (γ181) retains catalytic activity (Unknown Authors, 2009).
+
+## Inhibitors  
+Peptides derived from the C-terminal autoinhibitory region (residues 302–312) inhibit PHKG1 activity in vitro (Unknown Authors, 2009).
+
+## Other Comments  
+Loss-of-function mutations in PHKG1 cause glycogen storage disease type IXa, characterised by reduced PhK activity, glycogen accumulation and muscle weakness (Ma et al., 2025; Unknown Authors, 2009). Dysregulated PHKG1 expression has also been linked to tumorigenesis (Ma et al., 2025).
+
+## 9. References  
+Burwinkel, B., Hu, B., Schroers, A., Clemens, P. R., Moses, S. W., Shin, Y. S., Pongratz, D., Vorgerd, M., & Kilimann, M. W. (2003). Muscle glycogenosis with low phosphorylase kinase activity: Mutations in PHKA1, PHKG1 or six other candidate genes explain only a minority of cases. European Journal of Human Genetics, 11, 516–526. https://doi.org/10.1038/sj.ejhg.5200996  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Ma, R., Du, B., Shi, C., Wang, L., Zeng, F., Han, J., Guan, H., Wang, Y., & Yan, K. (2025). Molecular basis for the regulation of human phosphorylase kinase by phosphorylation and Ca²⁺. Nature Communications. https://doi.org/10.1038/s41467-025-58363-8  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Migocka-Patrzałek, M., & Elias, M. (2021). Muscle glycogen phosphorylase and its functional partners in health and disease. Cells. https://doi.org/10.3390/cells10040883  
+
+Unknown Authors. (2009). Searching for the binding partners for the novel PHKG1 variant γ181. [Unpublished manuscript].  
+
+Winchester, J. S., Rouchka, E. C., Rowland, N. S., & Rice, N. A. (2007). In silico characterization of phosphorylase kinase: Evidence for an alternate intronic polyadenylation site in PHKG1. Molecular Genetics and Metabolism, 92, 234–242. https://doi.org/10.1016/j.ymgme.2007.06.015

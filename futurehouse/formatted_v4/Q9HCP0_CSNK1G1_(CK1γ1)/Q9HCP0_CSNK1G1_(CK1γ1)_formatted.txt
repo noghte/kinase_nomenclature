@@ -1,0 +1,45 @@
+## Phylogeny  
+CSNK1G1 encodes a serine/threonine protein kinase that belongs to the Casein Kinase 1 (CK1) family and is classified within the CK1γ subgroup together with CSNK1G2 and CSNK1G3 (Agajanian et al., 2022; Manning et al., 2002, as cited in “Kinase Regulation of WNT Signaling,” 2021). The vertebrate CK1 family comprises seven isoforms (α, β, γ1, γ2, γ3, δ, ε). Orthologues include the Drosophila kinase “gish,” while mammalian CK1γ isoforms show evolutionary relationships to yeast YCK1/YCK2 (Gold et al., 2020; Kusuda et al., 2000).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Agajanian et al., 2022; Schittek & Sinnberg, 2014).
+
+## Cofactor Requirements  
+Activity requires a divalent cation, typically Mg²⁺ or Mn²⁺ (Agajanian et al., 2022; Hu et al., 2023; “Kinase Regulation of WNT Signaling,” 2021).
+
+## Substrate Specificity  
+CSNK1G1 is an acidophilic kinase (motif cluster 3) that favors substrates bearing a phosphorylated Ser/Thr (pS/pT) or an acidic residue (Asp/Glu) at the –3 position and additional acidic residues at +1 and/or +2. The common consensus motif is pS/pT-X-X-S/T (Johnson et al., 2023; “Kinase Regulation of WNT Signaling,” 2021).
+
+## Structure  
+The protein displays the conserved CK1 architecture: an N-terminal bilobal kinase domain and a variable C-terminal regulatory tail (Gold et al., 2020; Kusuda et al., 2000). An AlphaFold model (Q9HCP0) confirms canonical kinase features, including the C-helix, activation loop, and hydrophobic spine (Johnson et al., 2023). The C-terminus contains palmitoylation sites required for membrane anchoring (“Kinase Regulation of WNT Signaling,” 2021). Conserved residues R183 and K222 line the substrate-binding cleft, and the activation loop threonine (equivalent to T166 in yeast Cki1) is a regulatory phosphosite (unknownauthors, 2004). Two splice variants—long (hCK1γ1L) and short (hCK1γ1S)—differ in their C-terminal sequences (Kusuda et al., 2000).
+
+## Regulation  
+Regulation occurs via C-terminal palmitoylation, mediated in part by the palmitoyl-transferase ZDHHC8, which targets the kinase to the plasma membrane (Agajanian et al., 2022; Hu et al., 2023). Extensive autophosphorylation within the C-terminal region can impose auto-inhibition, consistent with other CK1 isoforms (Schittek & Sinnberg, 2014; “Kinase Regulation of WNT Signaling,” 2021).
+
+## Function  
+CSNK1G1 is ubiquitously expressed but is enriched in the brain; the short splice form is predominant in testis (Gold et al., 2020; Kusuda et al., 2000).  
+• Wnt signaling: localizes to the plasma-membrane-associated Wnt signalosome and phosphorylates LRP6 at Thr1479 to initiate canonical Wnt pathway activation (Agajanian et al., 2022; “Kinase Regulation of WNT Signaling,” 2021). Functional redundancy exists among CK1γ isoforms; combined depletion of γ1/γ2/γ3 suppresses signaling. Interacting partners include DVL, LRP6, AXIN1, β-catenin, and CELSR2.  
+• Other pathways: modulates oxidative stress via interaction with DUOXA2 (Hu et al., 2023), inhibits RIG-I signaling through phosphorylation of NF-κB p65, promotes TNFα-induced necroptosis, regulates NOTCH signaling (Schittek & Sinnberg, 2014; “Kinase Regulation of WNT Signaling,” 2021). In neurons, it phosphorylates NMDA receptors, influencing fast synaptic transmission (Gold et al., 2020).
+
+## Inhibitors  
+Highly potent ATP-competitive inhibitors include AKI00000062a (IC₅₀ ≈ 5.2 nM) and a related compound with IC₅₀ ≈ 5.29 nM (Agajanian et al., 2022; “Kinase Regulation of WNT Signaling,” 2021). The broad-spectrum CK1 inhibitor D4476 also suppresses CSNK1G activity (Hu et al., 2023). Current CK1 inhibitors generally lack isoform selectivity (“Kinase Regulation of WNT Signaling,” 2021).
+
+## Other Comments  
+Heterozygous de novo variants in CSNK1G1 cause syndromic developmental delay and autism spectrum disorder, often accompanied by dysmorphic features, epilepsy, and motor delays; the gene is intolerant to loss-of-function mutations (Gold et al., 2020). Dysregulated CSNK1G1 activity, especially within Wnt signaling, has been linked to tumorigenesis (Schittek & Sinnberg, 2014; “Kinase Regulation of WNT Signaling,” 2021). The gene maps to chromosome 15q22.1–q22.31 (Kusuda et al., 2000).
+
+## References  
+Agajanian, M. J., Potjewyd, F. M., Bowman, B. M., Solomon, S., LaPak, K. M., Bhatt, D. P., … Major, M. B. (2022). Protein proximity networks and functional evaluation of the casein kinase 1 gamma family reveal unique roles for CK1γ3 in Wnt signaling. Journal of Biological Chemistry, 298, 101986. https://doi.org/10.1016/j.jbc.2022.101986  
+
+Gold, N. B., Li, D., Chassevent, A., Kaiser, F., Parenti, I., Strom, T., … Bhoj, E. (2020). Heterozygous de novo variants in CSNK1G1 are associated with syndromic developmental delay and autism spectrum disorder. Clinical Genetics, 98, 571–576. https://doi.org/10.1111/cge.13851  
+
+Hu, Y., Xu, Z., Pan, Q., & Ma, L. (2023). Casein kinase 1 gamma regulates oxidative stress response via interacting with the NADPH dual oxidase complex. PLOS Genetics, 19, e1010740. https://doi.org/10.1371/journal.pgen.1010740  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Kusuda, J., Hirai, M., Tanuma, R., & Hashimoto, K. (2000). Cloning, expression analysis and chromosome mapping of human casein kinase 1 γ1 (CSNK1G1): Identification of two types of cDNA encoding the kinase protein associated with heterologous carboxy-terminal sequences. Cytogenetic and Genome Research, 90, 298–302. https://doi.org/10.1159/000056792  
+
+Schittek, B., & Sinnberg, T. (2014). Biological functions of casein kinase 1 isoforms and putative roles in tumorigenesis. Molecular Cancer, 13, 231. https://doi.org/10.1186/1476-4598-13-231  
+
+Unknownauthors. (2004). Casein kinase 1 isoforms in degenerative disorders (pp. 88–101).  
+
+Unknownauthors. (2021). Kinase regulation of WNT signaling (pp. 28–109).

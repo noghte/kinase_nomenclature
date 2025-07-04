@@ -1,0 +1,51 @@
+## Phylogeny  
+TRRAP/Tra1 is universally conserved in eukaryotes; orthologues are found in Saccharomyces cerevisiae (Tra1), Schizosaccharomyces pombe (Tra1) and Mus musculus (Trrap), and no surveyed genome lacks a TRRAP gene (Unknown Authors, 2018, pp. 164-167; Unknown Authors, 2021, pp. 20-22, 36-40).  
+Within the kinome it belongs to the phosphatidylinositol-3-kinase-related kinase (PIKK) family and forms the sole, conserved pseudoPIKK branch (Elías-Villalobos et al., 2019, pp. 6-9).  DNA-PKcs is its closest paralogue, reflecting an ancient gene-duplication event that preceded divergence of the catalytically active ATM/ATR/mTOR/DNA-PKcs/SMG1 clades (Elías-Villalobos et al., 2019, pp. 12-17).  Loss of the canonical VAIK, HRD and DFG motifs underlies its catalytic inactivation (Elías-Villalobos et al., 2019, pp. 6-9).
+
+## Reaction Catalyzed  
+Protein-OH + ATP → Protein-O-P + ADP  
+No phosphoryl-transfer is detected because all essential catalytic residues are missing (Elías-Villalobos et al., 2019, pp. 25-30).
+
+## Cofactor Requirements  
+Neither Mg²⁺/Mn²⁺ nor ATP binding has been observed; the protein is catalytically inactive (Elías-Villalobos et al., 2019, pp. 25-30; Unknown Authors, 2021, pp. 131-135).
+
+## Substrate Specificity  
+No phosphorylation consensus motif or enzymatic substrate specificity has been assigned owing to the absence of kinase activity (Unknown Authors, 2021, pp. 131-135).
+
+## Structure  
+• N-terminal α-solenoid containing ~60–70 HEAT/TPR repeats that form Finger, Ring and Clasp sub-domains for partner binding (Elías-Villalobos et al., 2019, pp. 25-30; Unknown Authors, 2021, pp. 36-40).  
+• Central FAT domain (~15 TPR repeats) supports the C-terminal head (Unknown Authors, 2021, pp. 22-26).  
+• C-terminal PI3K-like pseudokinase domain with FRB, LBE and PRD insertions; adopts the two-lobe kinase fold but lacks the catalytic Lys, Asp and DFG triad and has a partially occluded cleft (Unknown Authors, 2021, pp. 131-135; Wang et al., 2018, pp. 6-7).  
+• FATC tail folds into a hydrophobic pocket of the kinase lobe, stabilising the structure (Unknown Authors, 2021, pp. 131-135).  
+• Cryo-EM and AlphaFold models reveal a “diamond-ring” topology in which the HEAT solenoid encircles a compact FAT-KIN head, creating a rigid scaffold (Elías-Villalobos et al., 2019, pp. 25-30; Unknown Authors, 2021, pp. 40-43).  
+• Regulatory elements: an extended, stabilised activation loop and a displaced PRD keep the active-site non-productive (Wang et al., 2018, pp. 6-7).
+
+## Regulation  
+• Folding and nuclear stability depend on the HSP90–R2TP–TTT chaperone system; depletion of TELO2, TTI1 or TTI2 destabilises TRRAP and reduces its transcriptional output (Unknown Authors, 2018, pp. 76-79, 167-170).  
+• Complex selection: Spt20 mediates incorporation into SAGA, whereas Eaf5/Eaf1 promote mutually exclusive engagement with NuA4/TIP60 (Elías-Villalobos et al., 2019, pp. 9-12; Unknown Authors, 2021, pp. 143-147).  
+• Limited hinge motions between HEAT solenoid and FAT domain accommodate partner subunits without activating the pseudokinase (Unknown Authors, 2021, pp. 135-139).  
+• Post-translational modifications of TRRAP itself have not been mapped (Elías-Villalobos et al., 2019, pp. 17-21).
+
+## Function  
+• Serves as a scaffold subunit of SAGA/STAGA, PCAF and NuA4/TIP60 histone acetyltransferase complexes, nucleating HAT and deubiquitinase modules (Knutson & Hahn, 2011, pp. 1-2; Elías-Villalobos et al., 2019, pp. 1-6).  
+• Acts as a co-activator for DNA-bound transcription factors such as c-MYC, E2F1, p53, Sp1 and adenoviral E1A, enhancing histone H4/H2A acetylation at target promoters (Yin & Wang, 2021, pp. 1-3; Elías-Villalobos et al., 2019, pp. 17-21).  
+• Supports oncogenic MYC programmes; depletion in colorectal cancer cells down-regulates MYC targets and de-represses interferon-stimulated genes (Unknown Authors, 2018, pp. 164-170).  
+• Contributes to DNA-damage response and telomere maintenance through its role in TIP60 (Unknown Authors, 2021, pp. 20-22).  
+• Expression: nuclear, ubiquitous and essential; complete loss is embryonic lethal in mice (Unknown Authors, 2021, pp. 36-40).  
+• Key partners include the TTT chaperone triad, Spt20 (SAGA), Eaf1/Eaf5 (NuA4) and multiple transcription activators (Knutson & Hahn, 2011, pp. 12-13; Unknown Authors, 2021, pp. 135-139).
+
+## Other Comments  
+Somatic missense mutations cluster on HEAT and FAT surfaces that mediate complex assembly, potentially compromising co-activator integrity (Wang et al., 2018, pp. 6-7; Unknown Authors, 2021, pp. 131-135).  TRRAP overexpression or activity is required in several tumour types (colorectal, breast and others), highlighting its value as a non-enzymatic therapeutic target (Unknown Authors, 2018, pp. 167-170; Wang et al., 2018, pp. 6-7).
+
+## 9. References  
+Elías-Villalobos, A., Fort, P., & Helmlinger, D. (2019). New insights into the evolutionary conservation of the sole PIKK pseudokinase Tra1/TRRAP. Biochemical Society Transactions, 47, 1597–1608. https://doi.org/10.1042/bst20180496  
+
+Knutson, B. A., & Hahn, S. (2011). Domains of Tra1 important for activator recruitment and transcription co-activator functions of SAGA and NuA4 complexes. Molecular and Cellular Biology, 31, 818–831. https://doi.org/10.1128/MCB.00687-10  
+
+Unknown Authors. (2018). Functional characterization of the TRRAP pseudokinase and its chaperone TTT during transcriptional regulation in colorectal cancer.  
+
+Unknown Authors. (2021). Cryo-EM studies of phosphatidylinositol-3-kinase related kinase (PIKK) structures from yeast: Transcription-associated protein 1 (Tra1) and mitosis-entry checkpoint 1.  
+
+Wang, X., Ahmad, S., Zhang, Z., Côté, J., & Cai, G. (2018). Architecture of the Saccharomyces cerevisiae NuA4/TIP60 complex. Nature Communications. https://doi.org/10.1038/s41467-018-03504-5  
+
+Yin, B-K., & Wang, Z-Q. (2021). Beyond HAT adaptor: TRRAP liaisons with Sp1-mediated transcription. International Journal of Molecular Sciences, 22, 12445. https://doi.org/10.3390/ijms222212445

@@ -1,0 +1,60 @@
+## Phylogeny  
+PAK3 is one of the three Group I/Group A p21-activated kinases (PAK1-3) within the STE20 family; its kinase domain is highly similar to that of PAK1 and PAK2 and it shares the conserved Group I regulatory architecture (Eswaran et al., 2008; Rane & Minden, 2014). Orthologues are found in Mus musculus (Pak3 knockout characterised), Drosophila melanogaster (Pak3 regulates memory) and the amoebozoan Dictyostelium discoideum, indicating conservation from amoeba to mammals (Gul et al., 2019; Kumar et al., 2017; Wang & Guo, 2022). In the human kinome dendrogram, PAK3 clusters with PAK1/2 and is clearly separated from Group II PAK4-6 (Eswaran et al., 2008).  
+
+## Reaction Catalyzed  
+ATP + [protein]-Ser/Thr → ADP + [protein]-O-phospho-Ser/Thr (Gul et al., 2019).  
+
+## Cofactor Requirements  
+Biochemical studies have not identified an obligate divalent metal cofactor for Group I PAKs, including PAK3 (Gul et al., 2019).  
+
+## Substrate Specificity  
+No consensus phosphorylation motif has yet been defined for PAK3 (Kumar et al., 2017).  
+
+## Structure  
+PAK3 contains an N-terminal CRIB (Cdc42/Rac-interactive binding)–autoinhibitory domain (AID), followed by proline-rich SH3-binding motifs and a C-terminal bilobal kinase domain (Combeau et al., 2012). The isolated kinase domain (PDB 6FD3) displays the canonical β-sheet N-lobe and α-helical C-lobe; catalytic elements include the Lys-Glu salt bridge, DFG motif and activation-loop Thr421 (Gul et al., 2019; Duarte et al., 2020). Phosphorylation of Thr421 stabilises the regulatory spine and aligns the αC-helix for catalysis (Wang & Guo, 2022). Pathogenic residues Ala365, Lys389 and Gly424 lie on the C-lobe surface outside the catalytic cleft (Duarte et al., 2020). Autoinhibition is mediated by trans-dimer insertion of the AID helix; PAK3 can form heterodimers with PAK1 through the same interface (Combeau et al., 2012; Rane & Minden, 2014).  
+
+## Regulation  
+• GTP-loaded CDC42 or RAC1 binding to the CRIB domain disengages the AID and initiates activation (Zhao & Manser, 2012).  
+• Autophosphorylation on Ser139 and Thr421 accompanies activation; additional Ser/Thr autophosphorylations further enhance activity (Sells & Chernoff, 1997; Wang & Guo, 2022).  
+• PAK3-PAK1 heterodimerisation enforces trans-inhibition that is relieved upon dimer dissociation; splice variants with AID insertions reduce dimerisation and increase basal activity (Combeau et al., 2012).  
+• Filamin A binding, αPIX/ARHGEF6 interaction and membrane recruitment promote activation (Duarte et al., 2020; Unknown Authors, 2010).  
+• POPX phosphatases down-regulate Group I PAKs, though PAK3 sites were not specified (Eswaran et al., 2008).  
+• No non-phosphorylation post-translational modifications have been reported (Gul et al., 2019).  
+
+## Function  
+PAK3 is highly enriched in neurons and localises to dendritic spines and postsynaptic densities (Boda et al., 2006). Pak3-deficient mice show impaired late-phase hippocampal long-term potentiation, reduced CREB phosphorylation, and defective myelination; combined Pak1/Pak3 loss further diminishes brain size and dendritic complexity (Wang & Guo, 2022). PAK3 phosphorylates myosin VI (Ser406), filamin A, stathmin/Op18 (Ser16) and MAPK4/6, thereby regulating actin dynamics, membrane ruffling, microtubule stability and MAPK signalling (Unknown Authors, 2010). Pathogenic variants (e.g., K389N, G424R) perturb adhesion dynamics and neuronal migration, contributing to corpus callosum development defects (Duarte et al., 2020).  
+
+## Inhibitors  
+FRAX486 is a nanomolar ATP-competitive inhibitor active against Group I PAKs, including PAK3 (Wang & Guo, 2022). PF-3758309 is a pan-PAK aminopyrazole evaluated clinically but discontinued (Rudolph et al., 2015). Pyrido[2,3-d]pyrimidin-7-one derivatives show Group I selectivity, while additional patented series lack detailed PAK3 profiling (Crawford et al., 2012; Rudolph et al., 2015).  
+
+## Other Comments  
+Hemizygous PAK3 mutations cause X-linked intellectual disability with variable brain anomalies (Unknown Authors, 2010). Missense variants Ala365Glu, Lys389Asn, Gly424Arg and Trp446Ser abolish kinase activity (Duarte et al., 2020). Arg67Cys within the CRIB domain alters GTPase preference and leads to immature spine morphology (Dobrigna et al., 2023). Severe intellectual-disability variants Lys389Asn and Gly424Arg enhance αPIX binding and markedly impair cell migration while maintaining protein stability (Duarte et al., 2020).  
+
+## References  
+Boda, B., Nikonenko, I., Alberi, S., & Muller, D. (2006). Central nervous system functions of PAK protein family. Molecular Neurobiology, 34, 67–80. https://doi.org/10.1385/mn:34:1:67  
+
+Combeau, G., Kreis, P., Domenichini, F., Amar, M., Fossier, P., Rousseau, V., & Barnier, J. V. (2012). The p21-activated kinase PAK3 forms heterodimers with PAK1 in brain implementing trans-regulation of PAK3 activity. Journal of Biological Chemistry, 287, 30084–30096. https://doi.org/10.1074/jbc.m112.355073  
+
+Crawford, J. J., Hoeflich, K. P., & Rudolph, J. (2012). P21-activated kinase inhibitors: A patent review. Expert Opinion on Therapeutic Patents, 22, 293–310. https://doi.org/10.1517/13543776.2012.668758  
+
+Dobrigna, M., Poëa-Guyon, S., Rousseau, V., Vincent, A., Toutain, A., & Barnier, J. V. (2023). The molecular basis of p21-activated kinase-associated neurodevelopmental disorders: From genotype to phenotype. Frontiers in Neuroscience. https://doi.org/10.3389/fnins.2023.1123784  
+
+Duarte, K., Heide, S., Poëa-Guyon, S., Rousseau, V., Depienne, C., Rastetter, A., … Barnier, J. V. (2020). Pak3 mutations responsible for severe intellectual disability and callosal agenesis inhibit cell migration. Neurobiology of Disease, 136, 104709. https://doi.org/10.1016/j.nbd.2019.104709  
+
+Eswaran, J., Soundararajan, M., Kumar, R., & Knapp, S. (2008). Unpaking the class differences among p21-activated kinases. Trends in Biochemical Sciences, 33, 394–403. https://doi.org/10.1016/j.tibs.2008.06.002  
+
+Gul, M., Fakhar, M., Najumuddin, & Rashid, S. (2019). Phosphorylation-dependent activity-based conformational changes in p21-activated kinase family members and screening of novel ATP competitive inhibitors. PLOS ONE, 14, e0225132. https://doi.org/10.1371/journal.pone.0225132  
+
+Kumar, R., Sanawar, R., Li, X., & Li, F. (2017). Structure, biochemistry, and biology of PAK kinases. Gene, 605, 20–31. https://doi.org/10.1016/j.gene.2016.12.014  
+
+Rane, C. K., & Minden, A. (2014). P21 activated kinases. Small GTPases, 5, e28003. https://doi.org/10.4161/sgtp.28003  
+
+Rudolph, J., Crawford, J. J., Hoeflich, K. P., & Wang, W. (2015). Inhibitors of p21-activated kinases (PAKs). Journal of Medicinal Chemistry, 58(1), 111–129. https://doi.org/10.1021/jm501613q  
+
+Sells, M. A., & Chernoff, J. (1997). Emerging from the PAK: The p21-activated protein kinase family. Trends in Cell Biology, 7(4), 162–167. https://doi.org/10.1016/S0962-8924(97)01003-9  
+
+Unknown Authors. (2010). PAKs 1 & 3 control postnatal brain development and cognitive behaviour through regulation of axonal and dendritic arborizations (pp. 49–55).  
+
+Wang, Y., & Guo, F. (2022). Group I PAKs in myelin formation and repair of the central nervous system: What, when, and how. Biological Reviews, 97, 615–639. https://doi.org/10.1111/brv.12815  
+
+Zhao, Z.-S., & Manser, E. (2012). PAK family kinases. Cellular Logistics, 2, 59–68. https://doi.org/10.4161/cl.21912

@@ -1,0 +1,61 @@
+## Phylogeny  
+CSF1R is a member of the tyrosine kinase (TK) group, specifically within the platelet-derived growth factor receptor (PDGFR) / type III receptor tyrosine kinase family that also comprises c-Kit, Flt-3, PDGFRα and PDGFRβ (Achkova & Maher, 2016; Hume & MacDonald, 2012). The protein is highly conserved between human and mouse, and its expression is driven by the functionally conserved Fms-intronic regulatory element (FIRE) across amniotes (Mun et al., 2020; Rojo et al., 2017). Receptor–ligand pairs have co-evolved but retain cross-species conservation extending to birds and fishes (Rojo et al., 2017).
+
+## Reaction Catalyzed  
+ATP + [protein]-L-tyrosine ⇌ ADP + [protein]-L-tyrosine phosphate (Achkova & Maher, 2016; El-Gamal et al., 2013; Rojo et al., 2017).
+
+## Cofactor Requirements  
+Catalytic activity requires divalent metal ions, Mg²⁺ and/or Mn²⁺, which coordinate ATP in the active site (Achkova & Maher, 2016; El-Gamal et al., 2013; Mun et al., 2020).
+
+## Substrate Specificity  
+No experimentally defined peptide or protein substrate motif is provided in the cited sources.
+
+## Structure  
+CSF1R is an integral membrane glycoprotein consisting of:  
+• Extracellular domain with five Ig-like subdomains (D1–D5); D1–D3 mediate ligand binding, D4–D5 stabilize the complex (El-Gamal et al., 2013; Rojo et al., 2017).  
+• Single-pass transmembrane helix.  
+• Cytoplasmic region comprising a juxtamembrane domain (residues 538–581), a split kinase domain interrupted by a kinase insert (residues 680–751) and a C-terminal tail (El-Gamal et al., 2013; Mun et al., 2020).  
+
+The kinase domain adopts the canonical two-lobe architecture joined by a hinge (El-Gamal et al., 2013). Crystal structures include the autoinhibited kinase domain (PDB 2OGV) and macrophage colony-stimulating factor bound to the receptor (PDB 3EJJ) (Rojo et al., 2017). The activation loop (residues 796–825) starts with the conserved DFG motif that toggles between DFG-in and DFG-out states; in the inactive conformation, the juxtamembrane segment occupies the ATP pocket to lock the activation loop (El-Gamal et al., 2013).
+
+## Regulation  
+Ligand binding (CSF-1 or IL-34) induces receptor dimerization, conformational change in the juxtamembrane domain, and trans-autophosphorylation (Achkova & Maher, 2016; Mun et al., 2020). Key autophosphorylation sites include Y544, Y559 (UniProt Y561), Y697, Y706, Y721 (UniProt Y723), Y807 and Y974 (Achkova & Maher, 2016; Rojo et al., 2017).  
+• Y561 phosphorylation recruits Src family kinases and the E3 ligase c-Cbl.  
+• Y723 creates a PI3K docking site; Y697 links to MAPK signalling.  
+• Y807 within the activation loop is essential for full catalytic activation (El-Gamal et al., 2013).  
+
+Negative regulation is mediated by c-Cbl-dependent multi-ubiquitination, promoting internalization and degradation (El-Gamal et al., 2013; Mun et al., 2020).
+
+## Function  
+Expression: predominantly on myeloid-lineage cells—monocytes, macrophages, dendritic cells, microglia, osteoclasts, Langerhans cells (El-Gamal et al., 2013; Mun et al., 2020).  
+Ligands: CSF-1 and IL-34 (Achkova & Maher, 2016).  
+Downstream partners: Src family kinases, PI3K-p85, PLCγ2, Grb2, Shc, Sos1 (Achkova & Maher, 2016; Rojo et al., 2017).  
+Pathways: PI3K/Akt, ERK1/2, Raf, MAPK cascades.  
+
+Physiological roles include survival, proliferation, differentiation and motility of mononuclear phagocytes; regulation of osteoclast development and normal bone homeostasis (Achkova & Maher, 2016; Mun et al., 2020). In cancer, CSF1R signalling supports tumour cell survival/invasion and conditions an immunosuppressive tumour microenvironment via tumour-associated macrophages (Achkova & Maher, 2016; El-Gamal et al., 2013).
+
+## Inhibitors  
+Therapeutic agents encompass monoclonal antibodies and small-molecule kinase inhibitors such as pexidartinib (PLX3397; FDA-approved), GW2580, imatinib, dasatinib, sunitinib, Ki20227, linifanib, axitinib and CEP-701 (El-Gamal et al., 2013; Mashkani et al., 2010; Ries et al., 2015).
+
+## Other Comments  
+CSF1R is encoded by the c-fms proto-oncogene. Over-activation of the CSF-1/CSF1R axis is documented in breast, prostate, ovarian, colorectal cancer and classical Hodgkin lymphoma, generally correlating with poor prognosis (Achkova & Maher, 2016). The pathway is also implicated in rheumatoid arthritis, Crohn’s disease and bone osteolysis (El-Gamal et al., 2013).  
+Human disease mutations: monoallelic variants cause adult-onset leuko­dystrophy with axonal spheroids and pigmented glia; biallelic variants produce skeletal disorders such as osteosclerosis (Mun et al., 2020). Loss-of-function in animal models leads to osteopetrosis, macrophage deficiency, growth retardation and infertility (Hume & MacDonald, 2012).
+
+## References  
+Achkova, D., & Maher, J. (2016). Role of the colony-stimulating factor (CSF)/CSF-1 receptor axis in cancer. Biochemical Society Transactions, 44(2), 333–341. https://doi.org/10.1042/BST20150245  
+
+El-Gamal, M. I., Anbar, H. S., Yoo, K. H., & Oh, C.-H. (2013). Fms kinase inhibitors: Current status and future prospects. Medicinal Research Reviews. https://doi.org/10.1002/med.21258  
+
+Hume, D. A., & MacDonald, K. P. A. (2012). Therapeutic applications of macrophage colony-stimulating factor-1 (CSF-1) and antagonists of CSF-1 receptor (CSF-1R) signaling. Blood, 119, 1810–1820. https://doi.org/10.1182/blood-2011-09-379214  
+
+Mashkani, B., Griffith, R., & Ashman, L. (2010). Colony stimulating factor-1 receptor as a target for small molecule inhibitors. Bioorganic & Medicinal Chemistry, 18(5), 1789–1797. https://doi.org/10.1016/j.bmc.2010.01.056  
+
+Mun, S., Park, P. S. U., & Park-Min, K.-H. (2020). The M-CSF receptor in osteoclasts and beyond. Experimental & Molecular Medicine, 52, 1239–1254. https://doi.org/10.1038/s12276-020-0484-z  
+
+Ries, C. H., Hoves, S., Cannarile, M., & Rüttinger, D. (2015). CSF-1/CSF-1R targeting agents in clinical development for cancer therapy. Current Opinion in Pharmacology, 23, 45–51. https://doi.org/10.1016/j.coph.2015.05.008  
+
+Rojo, R., Pridans, C., Langlais, D., & Hume, D. (2017). Transcriptional mechanisms that control expression of the macrophage colony-stimulating factor receptor locus. Clinical Science, 131(16), 2161–2182. https://doi.org/10.1042/CS20170238  
+
+Ross, F. (2006). M-CSF, c-Fms, and signaling in osteoclasts and their precursors. Annals of the New York Academy of Sciences. https://doi.org/10.1196/annals.1346.014  
+
+Unknown authors. (2023). Challenges and prospects of CSF1R targeting for advanced malignancies. [Details unavailable].

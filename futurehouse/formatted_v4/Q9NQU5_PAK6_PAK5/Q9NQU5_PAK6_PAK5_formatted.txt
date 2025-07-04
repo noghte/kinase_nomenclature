@@ -1,0 +1,48 @@
+## Phylogeny  
+PAK6 is a member of the STE20 protein-kinase family, belonging to the Group II p21-activated kinase (PAK) sub-family together with PAK4 and PAK5. Group II enzymes share ~75 % amino-acid identity throughout the catalytic domain and differ from Group I PAKs by the absence of the canonical autoinhibitory domain (Eswaran et al., 2008; Jaffer & Chernoff, 2002). Functional conservation is supported by the mouse orthologue: Pak6-null mice show learning and locomotor defects (Goyette et al., 2019).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Jha & Strauss, 2012).
+
+## Cofactor Requirements  
+Catalysis requires divalent cations; in vitro assays typically use 10 mM MgCl₂ plus 1 mM MnCl₂ (Gao et al., 2013).
+
+## Substrate Specificity  
+Positional-scanning peptide libraries indicate preference for basic residues at positions −3/−2 and a hydrophobic residue at +1 relative to the phospho-acceptor, a pattern shared with other Group II PAKs (Gao et al., 2013). Verified cellular substrates include the androgen-receptor DNA-binding domain, ESR1, PACSIN1, 14-3-3γ and BAD (Schrantz et al., 2004; Gao et al., 2013; Iannotta et al., 2024; Kaur et al., 2008).
+
+## Structure  
+• Modular organisation: N-terminal CRIB domain (~aa 10–47), central proline-rich segment containing a pseudosubstrate motif centred on Pro52, and a C-terminal kinase domain (aa 383–674) (Jaffer & Chernoff, 2002; Gao et al., 2013).  
+• Crystal structures of the isolated kinase domain with PF-3758309 (1.4 Å) and sunitinib (1.95 Å) show an active DFG-in conformation (Gao et al., 2013).  
+• A phosphorylated kinase-domain structure (PDB 2C305) displays an ordered activation loop and intact regulatory spine (<0.2 Å RMSD among phosphorylated forms) (Jha & Strauss, 2012).  
+• CRIB–Cdc42 co-crystal defines the small-GTPase interaction surface (Jha & Strauss, 2012).  
+• An unusual serine replaces the conserved catalytic-loop asparagine; substituting Ser→Asn constitutively activates the enzyme (Jaffer & Chernoff, 2002).  
+• Cancer-associated mutation P52L in the pseudosubstrate segment disrupts autoinhibition and increases activity (Gao et al., 2013).
+
+## Regulation  
+Intramolecular pseudosubstrate binding maintains basal inhibition; the P52L mutation relieves this control (Gao et al., 2013). GTP-bound Cdc42 or Rac1 interacts with the CRIB domain, promoting relocalisation without major catalytic enhancement (Jaffer & Chernoff, 2002; Eswaran et al., 2008). Phosphorylation by the MAP2K6–p38 MAPK cascade activates PAK6 (Goyette et al., 2019; Kaur et al., 2008). Dephosphorylation by PP1B and POPX1/POPX2 provides negative regulation (Kaur et al., 2008). Recombinant protein displays constitutive autophosphorylation (Gao et al., 2013).
+
+## Function  
+PAK6 is enriched in brain, testis, prostate, kidney and placenta, and localises to both cytoplasm and nucleus in prostate cells (Jaffer & Chernoff, 2002; Kaur et al., 2008). It accumulates at centrosomes and the primary cilium where it is required for ciliogenesis and centrosomal cohesion (Iannotta et al., 2024). Direct binding to the androgen receptor (AR) via an FXXFF motif and subsequent phosphorylation of the AR DNA-binding domain suppress AR-dependent transcription (Kaur et al., 2008; Schrantz et al., 2004). PAK6 also inhibits ESR1-mediated transcription (Goyette et al., 2019), associates with IQGAP1 at cell–cell junctions to regulate adhesion dynamics (Goyette et al., 2019), phosphorylates 14-3-3γ to down-regulate LRRK2 activity and rescue G2019S LRRK2-linked ciliogenesis defects (Iannotta et al., 2024), and phosphorylates BAD, contributing to apoptosis resistance (Kaur et al., 2008). Over-expression enhances motility and confers 5-fluorouracil resistance in colorectal cancer cells (Goyette et al., 2019).
+
+## Inhibitors  
+PF-3758309 is a nanomolar ATP-competitive inhibitor (originally developed for PAK4) that co-crystallises with PAK6 (Gao et al., 2013). Sunitinib, a multi-target tyrosine-kinase inhibitor, also binds the active site and has been co-crystallised (Gao et al., 2013).
+
+## Other Comments  
+PAK6 is up-regulated in primary, metastatic and androgen-independent prostate cancers (Kaur et al., 2008). High tumour expression predicts poor response to 5-fluorouracil chemotherapy in colon cancer (Goyette et al., 2019). Pak6-knockout mice display learning and locomotor deficits (Goyette et al., 2019). The melanoma-associated P52L mutation increases catalytic activity by weakening pseudosubstrate autoinhibition (Gao et al., 2013).
+
+## 9. References  
+Eswaran, J., Soundararajan, M., Kumar, R., & Knapp, S. (2008). Unpaking the class differences among p21-activated kinases. Trends in Biochemical Sciences, 33, 394–403. https://doi.org/10.1016/j.tibs.2008.06.002  
+
+Gao, J., Ha, B., Lou, H., Morse, E. M., Zhang, R., Calderwood, D., Turk, B., & Boggon, T. (2013). Substrate and inhibitor specificity of the type II p21-activated kinase, PAK6. PLoS ONE, 8(10), e77818. https://doi.org/10.1371/journal.pone.0077818  
+
+Goyette, S., Schott, E., Uwimana, A., Nelson, D. W., & Boganski, J. (2019). Detection of the steroid receptor interacting protein, PAK6, in a neuronal cell line. Heliyon, 5(3), e01294. https://doi.org/10.1016/j.heliyon.2019.e01294  
+
+Iannotta, L., Fasiczka, R., Favetta, G., Zhao, Y., Giusto, E., Dall’Ara, E., Wei, J., Ho, F. Y., Ciriani, C., Cogo, S., Tessari, I., Iaccarino, C., Liberelle, M., Bubacco, L., Taymans, J., Manzoni, C., Kortholt, A., Civiero, L., Hilfiker, S., Lu, M., & Greggio, E. (2024). PAK6 rescues pathogenic LRRK2-mediated ciliogenesis and centrosomal cohesion defects in a mutation-specific manner. Cell Death & Disease, 15, Article 71. https://doi.org/10.1038/s41419-024-07124-4  
+
+Jaffer, Z. M., & Chernoff, J. (2002). P21-activated kinases: three more join the PAK. The International Journal of Biochemistry & Cell Biology, 34, 713–717. https://doi.org/10.1016/S1357-2725(01)00158-3  
+
+Jha, R. K., & Strauss, C. E. M. (2012). 3D structure analysis of PAKs. Cellular Logistics, 2, 69–77. https://doi.org/10.4161/cl.21883  
+
+Kaur, R., Yuan, X., Lu, M. L., & Balk, S. P. (2008). Increased PAK6 expression in prostate cancer and identification of PAK6-associated proteins. The Prostate, 68, 1510–1516. https://doi.org/10.1002/pros.20787  
+
+Schrantz, N., Correia, J. S., Fowler, B., Ge, Q., Sun, Z., & Bokoch, G. (2004). Mechanism of p21-activated kinase-6-mediated inhibition of androgen receptor signaling. Journal of Biological Chemistry, 279, 1922–1931. https://doi.org/10.1074/jbc.M311145200

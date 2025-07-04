@@ -1,0 +1,44 @@
+## Phylogeny  
+Tyrosine-protein kinase Fyn is a cytoplasmic, non-receptor tyrosine kinase belonging to the Src family kinases (SFKs) within the tyrosine kinase super-family and is classified in the SRC group of nRTKs according to Manning et al. (Boubeva, 2011; Yaron-Barir et al., 2024). Orthologs are documented in mouse, rat, chicken (UniProt Q90Y79) and zebrafish (UniProt Q7ZUM2), and the intrinsic substrate preferences of SFKs appear evolutionarily conserved from nematodes to humans (Yaron-Barir et al., 2024).  
+
+## Reaction Catalyzed  
+ATP + L-tyrosyl-[protein] ⇌ ADP + O-phospho-L-tyrosyl-[protein] (Mannekumar et al., 2011; Yaron-Barir et al., 2024).  
+
+## Cofactor Requirements  
+Catalysis requires divalent metal ions (Mg²⁺ or Mn²⁺) to support ATP binding and phosphoryl transfer (Yaron-Barir et al., 2024).  
+
+## Substrate Specificity  
+• Recognises motifs defined by residues −1 to +3 surrounding the target Tyr (Unknown Authors, 2021; Yaron-Barir et al., 2024).  
+• Favours Glu at +1; hydrophobic Ile/other aliphatic residues at −1 and +3; basophilic residues nearby; and is enriched for Pro adjacent to the phospho-Tyr (Yaron-Barir et al., 2024).  
+• Exhibits “phospho-priming”: optimal when a phospho-Tyr is present at −1, +1, or +2, whereas a phospho-residue at +3 is inhibitory (“phospho-obstruction”) (Yaron-Barir et al., 2024).  
+• SH2 domain binds phosphotyrosine sequences with a preferred pY-E-E-I motif, aiding substrate recruitment (Unknown Authors, 2021).  
+
+## Structure  
+Modular SFK architecture: SH4 (N-terminal myristoylated Gly for membrane attachment) → unique domain → SH3 (binds PxxP motifs) → SH2 (binds pTyr motifs) → SH1 kinase domain → C-terminal regulatory tail (Unknown Authors, 2021).  
+• Crystallographic data for the human kinase domain: PDB 2DQ7, 2DQ8, 2DQ9; full-length AlphaFold model for UniProt P06241 (Unknown Authors, 2007; Mannekumar et al., 2011).  
+• Kinase domain is bilobal; ATP pocket lies between lobes. Key residues include Leu-17, Gly-18, Lys-39 and Asp-148 (Mannekumar et al., 2011).  
+• Regulatory elements: Gly-rich P-loop, αC-helix, and activation loop (A-loop) containing a DFG motif that toggles between “DFG-in” (active) and “DFG-out” (inactive) conformations; αC-helix–Lys/Glu salt bridge stabilises the active state (Boubeva, 2011; Unknown Authors, 2021).  
+
+## Regulation  
+• Inhibitory phosphorylation of Tyr531 in the C-terminal tail by C-terminal Src kinase (Csk) drives intramolecular SH2/SH3 interactions, producing a compact, autoinhibited conformation that displaces the αC-helix and blocks the active site (Boubeva, 2011; Unknown Authors, 2021).  
+• Activation occurs after dephosphorylation of Tyr531 or competitive ligand binding to SH2/SH3 domains, allowing autophosphorylation of the activation-loop Tyr (analogous to Tyr416 in c-Src) and adoption of the “DFG-in” state (Boubeva, 2011; Unknown Authors, 2021).  
+
+## Function  
+Highly expressed in platelets, neurons and osteoclasts (Unknown Authors, 2021). Fyn supports cell growth, survival, differentiation, adhesion and motility, and operates in integrin, T-cell receptor, Fc εRI, axon-guidance and broader immune signalling pathways (Mannekumar et al., 2011). Localises to focal adhesions and adherens junctions, regulates cytoskeletal dynamics, and is essential for CNS myelination and brain development (Mannekumar et al., 2011). Reported substrates/partners include FAK, paxillin, SHP-2, PLCγ2, SHC, WAS, MAP2, MAPT, ELMO1, CRKL, and receptors MET and FLT3 (Mannekumar et al., 2011; Yaron-Barir et al., 2024).  
+
+## Inhibitors  
+Broad- or multi-SFK inhibitors: staurosporine, dasatinib, bosutinib and masitinib (Mannekumar et al., 2011; Unknown Authors, 2021; Yaron-Barir et al., 2024). Additional agents: rosmarinic acid, Si308 and its pyrazolo[3,4-d]pyrimidines, nordihydroguaiaretic acid (NDGA) and phyllodulcin identified by virtual screening (Mannekumar et al., 2011).  
+
+## Other Comments  
+Dysregulated Fyn activity is linked to cancer (neuroblastoma, melanoma, lung squamous cell carcinoma, breast cancer, glioblastoma, lymphomas) and neurological disorders such as epilepsy and Alzheimer’s disease (Mannekumar et al., 2011; Unknown Authors, 2021; Yaron-Barir et al., 2024). Disease-associated mutations include V137L (lung squamous cell carcinoma) and the activating Y531H (peripheral T-cell lymphoma) (Mannekumar et al., 2011; Unknown Authors, 2021).  
+
+## 9. References  
+Boubeva, R. (2011). Understanding tyrosine kinase domain plasticity through identification of protein residues involved in the control of the conformational transition. https://doi.org/10.13097/archive-ouverte/unige:17314  
+
+Mannekumar, M., Lakshmi, P. S., Priyadarshini, I. V., Pradhan, D., & Umamaheswari, A. (2011). Virtual screening to design drug molecules for human proto-oncogene Fyn kinase. Nature Precedings, 1, 1–23. https://doi.org/10.1038/npre.2011.6108.1  
+
+Unknown Authors. (2007). Exploring structure and plasticity of tyrosine kinase domains for drug discovery. [Details unavailable].  
+
+Unknown Authors. (2021). Application of computational methods for the design and optimization of Src family kinase inhibitors. [Details unavailable].  
+
+Yaron-Barir, T. M., Joughin, B. A., Huntsman, E. M., Kerelsky, A., Cizin, D. M., Cohen, B. M., … Johnson, J. L. (2024). The intrinsic substrate specificity of the human tyrosine kinome. Nature, 629, 1174–1181. https://doi.org/10.1038/s41586-024-07407-y

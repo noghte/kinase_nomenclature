@@ -1,0 +1,64 @@
+## Phylogeny  
+DYRK2 belongs to the CMGC protein-kinase group, DYRK family, class II branch (Correa-Sáez et al., 2020). Orthologues are detected from yeast to mammals; Caenorhabditis elegans MBK-2 and Drosophila melanogaster dDyrk3 represent invertebrate counterparts of mammalian DYRK2 (DeBoever et al., 2022). Further conservation is evident in plants, unicellular algae and several parasites (Lindberg & Meijer, 2021). The catalytic domain shares > 90 % sequence identity with DYRK3, indicating recent divergence within class II DYRKs (Tandon et al., 2021).  
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + O-phospho-L-seryl/threonyl-[protein] (Chowdhury et al., 2023).  
+
+## Cofactor Requirements  
+Activity depends on divalent Mg²⁺ or Mn²⁺ ions (Becker et al., 1998).  
+
+## Substrate Specificity  
+• Preferred motif: R-x(0-2)-S/T-P with an arginine at −2/−3 and a proline at +1 (Correa-Sáez et al., 2020).  
+• Kinome-wide profiling refines the consensus to Rx(x)S/TP for DYRK2 (Correa-Sáez et al., 2020).  
+• Frequently primes substrates for subsequent GSK3β phosphorylation (Chowdhury et al., 2023).  
+• Peptide-library studies report reduced tolerance for a +1 proline in selected contexts (Soundararajan et al., 2013).  
+
+## Structure  
+The polypeptide contains NAPA1/2 autophosphorylation regions, an NLS (aa 189-191), a DYRK-homology (DH) box (aa 200-210), the catalytic domain (aa 222-535) with the YxY activation loop, and a CMGC-specific insert (Correa-Sáez et al., 2020). Crystal structures are available for the apo form (PDB 3KL2), a curcumin complex (5ZTN) and an inhibitor complex (6K0J); all display the canonical bilobal fold with phosphorylated Tyr382 stabilising the activation loop (Correa-Sáez et al., 2020). Key active-site residues include Lys251 (VAIK motif) for ATP anchoring, HRD-His as catalytic base, DFG-Asp for Mg²⁺ coordination and pTyr382 completing the regulatory spine (Unknown Authors, 2022).  
+
+## Regulation  
+• Autophosphorylation of Tyr382 is essential for full catalytic activity (Correa-Sáez et al., 2020).  
+• ATM phosphorylates Thr33 and Ser369 after DNA damage, preventing MDM2-mediated degradation and promoting nuclear retention (Unknown Authors, 2022).  
+• MAP3K10 phosphorylates Thr308 and Ser376, linking Hedgehog signalling to DYRK2 (Correa-Sáez et al., 2020).  
+• Prolyl-4-hydroxylation at Pro441 facilitates subsequent Tyr382 autophosphorylation (Lindberg & Meijer, 2021).  
+• Ubiquitination by SIAH2 and by the EDVP (EDD–DDB1–VprBP) E3 ligase targets DYRK2 for proteasomal turnover; ATM-dependent phosphorylation counteracts this process (Tandon et al., 2021; Unknown Authors, 2022).  
+• Cep78 influences EDVP complex assembly, thereby modulating DYRK2 stability (Unknown Authors, 2022).  
+
+## Function  
+Highest mRNA levels are found in small intestine and heart (Correa-Sáez et al., 2020); the protein is enriched in neuronal tissue and contributes to neurodevelopment (Santos-Durán & Barreiro-Iglesias, 2022). ATM acts upstream of DYRK2 during DNA-damage responses (Chowdhury et al., 2023). Reported substrates and roles include:  
+– p53 Ser46 phosphorylation to trigger apoptosis (Chowdhury et al., 2023).  
+– NFATC1 phosphorylation limiting nuclear accumulation (Chowdhury et al., 2023).  
+– EIF2B5 Ser544 priming for GSK3β-mediated inhibition (Chowdhury et al., 2023).  
+– CRMP2/4 priming during neuronal morphogenesis (Correa-Sáez et al., 2020).  
+– Glycogen synthase (GYS1) Ser641 inactivation (Correa-Sáez et al., 2020).  
+– Sequential phosphorylation of c-Myc, c-Jun and GLI2, promoting their degradation (Chowdhury et al., 2023).  
+– Scaffold function within the EDVP E3 ligase complex directing TERT turnover (Correa-Sáez et al., 2020).  
+– Modulation of 26S proteasome activity and maintenance of proteostasis (Tandon et al., 2021).  
+– Control of G2/M progression and spindle dynamics (Unknown Authors, 2022).  
+
+## Inhibitors  
+LDN-192960 (IC₅₀ ≈ 13 nM), harmine (IC₅₀ ≈ 0.8 µM), curcumin (nanomolar potency, co-crystal PDB 5ZTN) and the compounds AZ191, 7BIO and ID-8 (micromolar activity) inhibit DYRK2 in biochemical assays (Correa-Sáez et al., 2020; Tandon et al., 2021).  
+
+## Other Comments  
+Low DYRK2 expression correlates with poor prognosis in colorectal, bladder and ovarian cancers, whereas over-expression can promote tumour progression in certain breast and lung carcinomas (Boni et al., 2020). Cancer-specific mutations at the EDVP-interaction surface may switch DYRK2 from tumour-suppressive to oncogenic functions (Tandon et al., 2021).  
+
+## References  
+Becker, W., Weber, Y., Wetzel, K., Eirmbter, K., Tejedor, F., & Joost, H. (1998). Sequence characteristics, subcellular localization, and substrate specificity of DYRK-related kinases, a novel family of dual-specificity protein kinases. Journal of Biological Chemistry, 273, 25893–25902. https://doi.org/10.1074/jbc.273.40.25893  
+
+Boni, J., Rubio-Perez, C., López-Bigas, N., Fillat, C., & de la Luna, S. (2020). The DYRK family of kinases in cancer: Molecular functions and therapeutic opportunities. Cancers, 12, 2106. https://doi.org/10.3390/cancers12082106  
+
+Chowdhury, I., Dashi, G., & Keskitalo, S. (2023). CMGC kinases in health and cancer. Cancers, 15. https://doi.org/10.3390/cancers15153838  
+
+Correa-Sáez, A., Jiménez-Izquierdo, R., Garrido-Rodríguez, M., Morrugares, R., Muñoz, E., & Calzado, M. A. (2020). Updating dual-specificity tyrosine-phosphorylation-regulated kinase 2 (DYRK2): Molecular basis, functions and role in diseases. Cellular and Molecular Life Sciences, 77, 4747–4763. https://doi.org/10.1007/s00018-020-03556-1  
+
+DeBoever, E., Fistrovich, A., Hulme, C., & Dunckley, T. (2022). The omnipresence of DYRK1A in human diseases. International Journal of Molecular Sciences, 23, 9355. https://doi.org/10.3390/ijms23169355  
+
+Lindberg, M. F., & Meijer, L. (2021). Dual-specificity, tyrosine phosphorylation-regulated kinases (DYRKs) and CDC2-like kinases (CLKs) in human disease: An overview. International Journal of Molecular Sciences, 22, 6047. https://doi.org/10.3390/ijms22116047  
+
+Santos-Durán, G. N., & Barreiro-Iglesias, A. (2022). Roles of dual specificity tyrosine-phosphorylation-regulated kinase 2 in nervous system development and disease. Frontiers in Neuroscience, 16, 994256. https://doi.org/10.3389/fnins.2022.994256  
+
+Soundararajan, M., Roos, A., Savitsky, P., Filippakopoulos, P., Kettenbach, A., Olsen, J., Gerber, S., Eswaran, J., Knapp, S., & Elkins, J. (2013). Structures of Down syndrome kinases, DYRKs, reveal mechanisms of kinase activation and substrate recognition. Structure, 21, 986–996. https://doi.org/10.1016/j.str.2013.03.012  
+
+Tandon, V., de la Vega, L., & Banerjee, S. (2021). Emerging roles of DYRK2 in cancer. Journal of Biological Chemistry, 296, 100386. https://doi.org/10.1074/jbc.REV120.015217  
+
+Unknown Authors. (2022). Determination of new DYRK2 functions in response to genotoxic stress.

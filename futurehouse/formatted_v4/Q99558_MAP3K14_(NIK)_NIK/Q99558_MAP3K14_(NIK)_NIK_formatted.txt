@@ -1,0 +1,45 @@
+## Phylogeny  
+Mitogen-activated protein kinase kinase kinase 14 (MAP3K14), also called NF-κB-inducing kinase (NIK), is a serine/threonine kinase of the MAP3K family that is placed in the STE group of the human kinome (Manning et al., 2002). Some authors group it within the SET branch that also contains MEK1/2 and ASK1 (Cheng et al., 2021). The catalytic domain is highly conserved; human and murine NIK share ≈87 % amino-acid identity (Cheng et al., 2021).
+
+## Reaction Catalyzed  
+Substrate-OH + ATP ⇌ Substrate-O-PO₃²⁻ + ADP (Hazelager & Eldering, 2022; Pflug & Sitcheran, 2020).
+
+## Cofactor Requirements  
+ATP and Mg²⁺ are required; the conserved DFG motif supplies the Mg²⁺-binding site (Cheng et al., 2021).
+
+## Substrate Specificity  
+NIK phosphorylates serine/threonine residues. A large-scale phosphoproteomic study reported two partially conflicting motifs:  
+• Basophilic cluster with strong Arg preference at +1 and additional basic residues at –3/–2, summarized as R-x-x-S/T (Johnson et al., 2023).  
+• An acidic motif that favors Asp/Glu at +1 (Johnson et al., 2023).  
+
+## Structure  
+NIK is a multidomain protein comprising an N-terminal TRAF-binding domain, a negative regulatory region with leucine-zipper and proline-rich motifs, a central bi-lobed kinase domain, and a C-terminal region that binds IKKα and p100; a nuclear-localization segment is also present (Pflug & Sitcheran, 2020). Crystal structures of the human (PDB 4G3D) and murine (PDB 4G3C) kinase domains show an active “DFG-in” conformation (Cheng et al., 2021). NIK lacks the canonical catalytic-loop arginine and is therefore classified as a non-RD kinase. Gatekeeper, hinge, catalytic base, DFG motif, activation loop, and αC-helix are conserved (Cheng et al., 2021).
+
+## Regulation  
+In resting cells, TRAF2/TRAF3 together with cIAP1/2 poly-ubiquitinate NIK, targeting it for proteasomal degradation and keeping basal levels low (Cheng et al., 2021; Haselager & Eldering, 2022). Ligand engagement of BAFFR, CD40, LTβR or RANK triggers TRAF3 degradation, stabilizing NIK, which then autophosphorylates Thr559 for activation (Pflug & Sitcheran, 2020). Additional negative regulation involves TBK1 phosphorylation at Ser862, IKKα phosphorylation at Ser809/812/815, and ubiquitination by CHIP, DCAF2, or Peli1; OTUD7B counteracts ubiquitination, and caspase-8 cleavage can create a constitutively active fragment (Valiño-Rivas et al., 2019; Yu et al., 2020).
+
+## Function  
+NIK is the obligate activator of the non-canonical NF-κB pathway, which governs B-cell maturation, lymphoid organogenesis, and immune homeostasis (Haselager & Eldering, 2022). Stabilized NIK phosphorylates IKKα (Ser176), enabling IKKα to phosphorylate p100 (Ser866/870); p100 is then partially degraded to p52, and p52–RelB dimers enter the nucleus to drive gene expression (Cheng et al., 2021). NIK also phosphorylates CREB, RIPK1, and Drp1, indicating NF-κB-independent roles (Pflug & Sitcheran, 2020). Over-expression or hyperactivation is reported in pancreatic cancer, melanoma, and basal-like breast cancer (Thu & Richmond, 2010).
+
+## Inhibitors  
+Several ATP-competitive small-molecule series (e.g., pyrimidinamine A, substituted indoline B, tricyclic C, inhibitor D) have been described (Valiño-Rivas et al., 2019). TRC-694 shows antitumour efficacy in xenograft models (Cheng et al., 2021). The natural product mangiferin and LTβR-derived decoy peptides (e.g., nciLT) suppress NIK activity, whereas verteporfin can activate NIK (Valiño-Rivas et al., 2019).
+
+## Other Comments  
+Gain-of-function mutations or over-expression of NIK are linked to B-cell malignancies, solid tumours, and inflammatory disorders; conversely, loss-of-function variants cause immunodeficiency (Cheng et al., 2021). Reported pathogenic mutations include V345M, P565R, and G855R; the aly mouse carries G855R, disrupting NIK–IKKα interaction (Thu & Richmond, 2010). A kinase-dead double mutant (KK429/430AA) acts as a dominant-negative inhibitor of non-canonical signalling (Pflug & Sitcheran, 2020).
+
+## 9. References  
+Cheng, J., Feng, X., Li, Z., Zhou, F., Yang, J.-M., & Zhao, Y. (2021). Pharmacological inhibition of NF-κB-inducing kinase (NIK) with small molecules for the treatment of human diseases. RSC Medicinal Chemistry, 12(4), 552–565. https://doi.org/10.1039/d0md00361a  
+
+Haselager, M., & Eldering, E. (2022). The therapeutic potential of targeting NIK in B-cell malignancies. Frontiers in Immunology, 13, 930986. https://doi.org/10.3389/fimmu.2022.930986  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945), 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. Science, 298(5600), 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Pflug, K. M., & Sitcheran, R. (2020). Targeting NF-κB-inducing kinase (NIK) in immunity, inflammation, and cancer. International Journal of Molecular Sciences, 21(22), 8470. https://doi.org/10.3390/ijms21228470  
+
+Thu, Y. M., & Richmond, A. (2010). NF-κB-inducing kinase: A key regulator in the immune system and in cancer. Cytokine & Growth Factor Reviews, 21(4), 213–226. https://doi.org/10.1016/j.cytogfr.2010.06.002  
+
+Valiño-Rivas, L., Vaquero, J. J., Sucunza, D., Gutierrez, S., Sanz, A. B., Fresno, M., … Sanchez-Niño, M. D. (2019). NIK as a druggable mediator of tissue injury. Trends in Molecular Medicine, 25(4), 341–360. https://doi.org/10.1016/j.molmed.2019.02.005  
+
+Yu, H., Lin, L., Zhang, Z., Zhang, H., & Hu, H. (2020). Targeting NF-κB pathway for the therapy of diseases: Mechanism and clinical study. Signal Transduction and Targeted Therapy, 5, 209. https://doi.org/10.1038/s41392-020-00312-6

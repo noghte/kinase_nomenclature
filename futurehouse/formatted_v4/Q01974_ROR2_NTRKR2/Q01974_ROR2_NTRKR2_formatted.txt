@@ -1,0 +1,46 @@
+## Phylogeny  
+ROR2 is a member of the ROR sub-family within the NTRK superfamily of receptor tyrosine kinases, a branch that diverged early from MuSK, Nrk, Ddr and Trk lineages (Green et al., 2008). Orthologs occur in Caenorhabditis elegans (cam-1), Drosophila melanogaster (Ror), Xenopus laevis (Xror2) and Mus musculus (Ror2), with related sequences already present in basal metazoans such as sea anemones (Minami et al., 2010; Green et al., 2008). In vertebrates, ROR2 is partially redundant with the closely related paralog ROR1 (Yoda et al., 2003). Kinase-domain clustering places ROR2 nearest to MuSK and Discoidin Domain Receptors (Debebe & Rathmell, 2015).
+
+## Reaction Catalyzed  
+ATP + [protein]-L-tyrosine ⇌ ADP + [protein]-O-phospho-L-tyrosine (Minami et al., 2010).
+
+## Cofactor Requirements  
+A specific divalent-cation requirement has not been reported (Minami et al., 2010).
+
+## Substrate Specificity  
+• Verified substrate: scaffold protein 14-3-3β (YWHAB) becomes tyrosine-phosphorylated following WNT5A-dependent receptor activation (Minami et al., 2010; Green et al., 2008).  
+• Autophosphorylation sites: Y645 and Y755 within the intracellular domain (Debebe & Rathmell, 2015).  
+• No consensus phosphorylation motif for exogenous substrates has been defined (Debebe & Rathmell, 2015).
+
+## Structure  
+ROR2 is a single-pass membrane protein organised as Ig-like domain – Frizzled-type cysteine-rich domain – Kringle domain – transmembrane helix – intracellular tyrosine-kinase-like domain – proline-rich segment bordered by Ser/Thr-rich regions (Green et al., 2008; Debebe & Rathmell, 2015).  
+The isolated kinase domain structure (PDB 5DN3) adopts an autoinhibited fold: the activation loop occludes the ATP pocket, a Tyr side chain occupies the adenine site, and an Asp→Gly substitution in the DFG motif disrupts Mg²⁺ binding (Debebe & Rathmell, 2015). The HRD catalytic triad is followed by a non-canonical YXXDYY segment; the hydrophobic spine is incomplete and the αC-helix is displaced, features consistent with pseudokinase architecture. Despite these deviations, the overall fold resembles that of the insulin receptor kinase (Debebe & Rathmell, 2015).
+
+## Regulation  
+• WNT5A binding promotes receptor homodimerisation and elevates tyrosine phosphorylation (Liu et al., 2008).  
+• Forced dimerisation or over-expression elicits a similar phosphorylation response (Minami et al., 2010).  
+• Casein kinase Iε and GSK3α/β phosphorylate Ser/Thr sites in the cytoplasmic tail, influencing cell migration (Green et al., 2008).  
+• Src family kinases are activated downstream of WNT5A/ROR2 and further phosphorylate the receptor, facilitating internalisation (Green et al., 2008).  
+• Autophosphorylation at Y645 and Y755 generates additional signalling sites (Debebe & Rathmell, 2015).  
+• Occlusion of the ATP pocket by the activation loop provides intrinsic autoinhibition; reports disagree on whether the domain retains low catalytic activity or functions as a pseudokinase (Minami et al., 2010; Debebe & Rathmell, 2015).
+
+## Function  
+Developmental expression is high in forebrain, midbrain, presomitic mesoderm, neural-crest derivatives, craniofacial mesenchyme, limb buds, heart, lung, kidney, gut and nervous system, while adult expression is largely confined to uterus and osteoblasts (Minami et al., 2010; Debebe & Rathmell, 2015).  
+ROR2 acts as a receptor/co-receptor for WNT5A (and context-dependently WNT3A), mediating non-canonical WNT/JNK signalling that governs planar cell polarity and convergent extension, and modulating canonical β-catenin signalling in a context-dependent manner (Green et al., 2008). Interacting partners include FZD2/5, Cthrc1, filamin-A, CKIε, GSK3β, Src and 14-3-3β (Green et al., 2008; Debebe & Rathmell, 2015). Biological roles encompass chondrocyte differentiation, growth-plate organisation, skeletal morphogenesis, neurite outgrowth, cytoskeletal remodelling and osteogenesis (Green et al., 2008; Yoda et al., 2003). In cancer, ROR2 is up-regulated in renal cell carcinoma, osteosarcoma, melanoma, breast cancer and head-and-neck squamous carcinoma, where it enhances migration, invasion and epithelial–mesenchymal transition; in renal carcinoma, transcription is driven by HIF-1α/HIF-2α (Debebe & Rathmell, 2015).
+
+## Inhibitors  
+No selective small-molecule inhibitors have been described. Current therapeutic strategies centre on monoclonal or bispecific antibodies, antibody-drug conjugates and CAR-engineered immune cells targeting the extracellular domain. Experimental bivalent antibodies or ROR2-Fc fusion proteins can induce receptor dimerisation and phosphorylation but have not been optimised for inhibition (Debebe & Rathmell, 2015; Green et al., 2008).
+
+## Other Comments  
+Loss-of-function variants in ROR2 cause autosomal recessive Robinow syndrome and autosomal dominant brachydactyly type B, both characterised by skeletal and craniofacial malformations (Green et al., 2008; Yoda et al., 2003). Pathogenic kinase-domain truncations such as p.Trp749* and p.Gly666fs abolish receptor function (Debebe & Rathmell, 2015). Combined deletion of Ror1 and Ror2 in mice yields more severe skeletal and cardiac defects than single knockouts, underscoring functional redundancy (Yoda et al., 2003).
+
+## References  
+Debebe, Z., & Rathmell, W. (2015). Ror2 as a therapeutic target in cancer. Pharmacology & Therapeutics, 150, 143–148. https://doi.org/10.1016/j.pharmthera.2015.01.010  
+
+Green, J. L., Kuntz, S. G., & Sternberg, P. W. (2008). Ror receptor tyrosine kinases: Orphans no more. Trends in Cell Biology, 18(11), 536–544. https://doi.org/10.1016/j.tcb.2008.08.006  
+
+Liu, Y., Rubin, B., Bodine, P. V. N., & Billiard, J. (2008). Wnt5a induces homodimerization and activation of Ror2 receptor tyrosine kinase. Journal of Cellular Biochemistry. https://doi.org/10.1002/jcb.21848  
+
+Minami, Y., Oishi, I., Endo, M., & Nishita, M. (2010). Ror-family receptor tyrosine kinases in noncanonical Wnt signaling: Their implications in developmental morphogenesis and human diseases. Developmental Dynamics, 239, 1–15. https://doi.org/10.1002/dvdy.21991  
+
+Yoda, A., Oishi, I., & Minami, Y. (2003). Expression and function of the Ror-family receptor tyrosine kinases during development: Lessons from genetic analyses of nematodes, mice, and humans. Journal of Receptors and Signal Transduction, 23, 1–15. https://doi.org/10.1081/RRS-120018757

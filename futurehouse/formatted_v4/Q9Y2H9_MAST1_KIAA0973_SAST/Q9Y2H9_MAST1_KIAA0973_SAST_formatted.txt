@@ -1,0 +1,46 @@
+## Phylogeny  
+Human MAST1 (UniProt Q9Y2H9) belongs to the AGC serine/threonine kinase group, MAST subfamily, and is distinct from the Greatwall/MASTL branch (Lemke et al., 2025, pp. 1-2). Orthologs that retain the DUF1908–kinase–PDZ architecture occur in Caenorhabditis elegans kin-4, Drosophila melanogaster drop-out, and Hydra vulgaris MAST-like proteins, indicating deep conservation across Metazoa (Lemke et al., 2025, pp. 2-4). Phylogenetic analyses position the MAST lineage as an early-diverging branch that precedes PDZ-lacking plant/protist paralogs and predates the elongated-loop MASTL clade (Lemke et al., 2025, pp. 4-6).  
+
+## Reaction Catalyzed  
+ATP + protein-Ser/Thr → ADP + protein-Ser/Thr-phosphate (Rumpf et al., 2023, pp. 1-2).  
+
+## Cofactor Requirements  
+Catalytic activity requires divalent Mg²⁺ ions (Rumpf et al., 2023, pp. 1-2).  
+
+## Substrate Specificity  
+• Kinome-wide screening did not reveal a clear consensus phosphorylation motif (Lemke et al., 2025, pp. 2-4).  
+• Direct substrate: MEK1, phosphorylated on Ser221 (Rumpf et al., 2023, pp. 8-10).  
+• The C-terminal PDZ domain binds class-I motifs of the form X-S/T-X-V/I/L, facilitating substrate recruitment (Rumpf et al., 2023, pp. 2-5).  
+
+## Structure  
+MAST1 is a 1 316-residue protein with three ordered regions:  
+1. N-terminal DUF1908 (~1–275) containing an intrinsically disordered Ser/Tyr/Thr-rich stretch followed by an eight-helix α-barrel (Rumpf et al., 2023, pp. 2-5).  
+2. Central AGC kinase domain (~276–543) harboring canonical VAIK, HRD, DFG, and APE motifs; uniquely, the first glycine of the GXGXXG loop is substituted by serine, a putative regulatory site (Rumpf et al., 2023, pp. 5-7). The activation segment (~37 aa) toggles between DFG-in and DFG-out states (Lemke et al., 2025, pp. 4-6).  
+3. C-terminal PDZ domain (~948–1212); its isolated structure is available (PDB 3PS4) and a full-length AlphaFold model is deposited (AF-Q9Y2H9-F1) (Lemke et al., 2025, pp. 1-2).  
+
+## Regulation  
+• Phosphorylation of Ser161 within DUF1908 creates a 14-3-3β docking site that stabilizes the protein (Lemke et al., 2025, pp. 8-11).  
+• CHIP ubiquitinates Lys317 and Lys545, targeting MAST1 for degradation; USP1 removes these ubiquitin marks, and Hsp90β binding shields the same lysines, extending half-life (Rumpf et al., 2023, pp. 8-10).  
+• Glucocorticoid receptor signaling up-regulates MAST1 transcription during cisplatin treatment (Rumpf et al., 2023, pp. 8-10).  
+• Pathogenic substitutions L232P (DUF1908) and G522E (near DFG motif) destabilize folding and impair activation (Lemke et al., 2025, pp. 11-12).  
+
+## Function  
+• Expression: highest in brain; additional expression in heart, lung, liver, skeletal muscle, kidney, and testis (Lemke et al., 2025, pp. 6-8).  
+• Subcellular localization: cytoplasmic, co-localizing with microtubules in HeLa and HEK-293 cells (Ben-Mahmoud et al., 2020, pp. 1-2).  
+• Interaction network: binds β2-syntrophin via its PDZ domain, linking the dystrophin/utrophin complex to microtubules; verified partners include DMD, UTRN, SNTB2, MEK1, c-Raf, PTEN, 14-3-3β, Hsp90β, CHIP, and USP1 (Rumpf et al., 2023, pp. 5-8).  
+• Signaling: phosphorylation of MEK1-Ser221 activates ERK signaling and mediates cisplatin resistance in tumor models (Rumpf et al., 2023, pp. 8-10).  
+• Additional role: contributes to PP2A regulation through ARPP-16 phosphorylation, a conserved MAST family function (Lemke et al., 2025, pp. 15-17).  
+
+## Other Comments  
+• A de novo c.3539T>G missense variant is associated with developmental delay and intellectual disability (Ben-Mahmoud et al., 2020, pp. 4-6).  
+• Variants L232P, G522E, S93L, and P500L cause mega-corpus-callosum syndrome with cerebellar hypoplasia and cortical malformations (Lemke et al., 2025, pp. 11-12).  
+• MAST1 over-expression, promoter hypomethylation, or gene fusions are reported in breast, non-small-cell lung, hepatocellular, and uterine corpus endometrial carcinomas (Rumpf et al., 2023, pp. 11-13).  
+• Stabilization of MAST1 by USP1 and Hsp90β contributes to cisplatin resistance; disrupting these interactions restores drug sensitivity (Rumpf et al., 2023, pp. 8-10).  
+• No direct small-molecule inhibitors have been described to date (Lemke et al., 2025, pp. 15-17).  
+
+## 9. References  
+Ben-Mahmoud, A., Al-Shamsi, A. M., Ali, B. R., & Al-Gazali, L. (2020). Evaluating the role of MAST1 as an intellectual disability disease gene: Identification of a novel de novo variant in a patient with developmental disabilities. Journal of Molecular Neuroscience, 70, 320-327. https://doi.org/10.1007/s12031-019-01415-8  
+
+Lemke, M. C., Avala, N. R., Rader, M. T., Hargett, S. R., Lank, D. S., Seltzer, B. D., & Harris, T. E. (2025). MAST kinases’ function and regulation: Insights from structural modeling and disease mutations. Biomedicines, 13, 925. https://doi.org/10.3390/biomedicines13040925  
+
+Rumpf, M., Pautz, S., Drebes, B., Herberg, F. W., & Müller, H.-A. J. (2023). Microtubule-associated serine/threonine (MAST) kinases in development and disease. International Journal of Molecular Sciences, 24, 11913. https://doi.org/10.3390/ijms241511913

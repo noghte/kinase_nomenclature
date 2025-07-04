@@ -1,0 +1,57 @@
+## Phylogeny  
+MAP3K13 (also called LZK) is an evolutionarily conserved mixed-lineage kinase (MLK). It is the functional ortholog of the *C. elegans* DLK-1 and is >95 % identical in the kinase domain to human MAP3K12 (DLK) (Yan & Jin, 2012). In the kinome classification of Manning et al. (2002), the enzyme belongs to the mitogen-activated protein kinase kinase kinase (MAP3K/Ste11) family and, more specifically, to the MLK subfamily that includes the dual-leucine-zipper kinases (Gallo & Johnson, 2002; Bensen & Brognard, 2021). Higher-order grouping is inconsistent, with assignments to either the STE or the TKL branch of the kinome (Manning et al., 2002; Johnson et al., 2023).
+
+## Reaction Catalyzed  
+ATP + protein substrate ⇌ ADP + phospho-protein substrate  
+(Bensen & Brognard, 2021; Gallo & Johnson, 2002; Craig et al., 2008)
+
+## Cofactor Requirements  
+Mg²⁺ or Mn²⁺ is required for catalytic activity (Bensen & Brognard, 2021; Gallo & Johnson, 2002).
+
+## Substrate Specificity  
+Kinome-wide profiling places MAP3K13 among kinases that prefer threonine acceptors, a bias linked to an alanine at the DFG+1 position (Johnson et al., 2023). Other studies report preferential phosphorylation of motifs containing hydrophobic leucines near the target residue (Jin & Zheng, 2019) or recognition of canonical S/T-P motifs, as seen for related MLKs (Gallo & Johnson, 2002). Contradictory motif data (+1 glutamine vs. +1 proline preferences) have been noted across different analyses (Johnson et al., 2023; Gallo & Johnson, 2002).
+
+## Structure  
+The protein comprises an N-terminal kinase domain, two sequential leucine-zipper (LZ) motifs, and a long C-terminal tail (Jin & Zheng, 2019). LZ-mediated homodimerization is essential for activation. The kinase domain contains subdomains I–VII typical of Ser/Thr kinases and VIII–XI characteristic of Tyr kinases (Jin & Zheng, 2019). A structural model (based on DLK) reveals a canonical bilobal fold but a distorted α-helix C caused by a non-consensus Asp, altering an ATP-coordinating salt bridge (Jin & Zheng, 2019). The activation loop harbors regulatory Ser residues, and the extended C-terminus is required for downstream signaling (Jin & Zheng, 2019).
+
+## Regulation  
+• Activation requires LZ-driven homodimerization and trans-autophosphorylation of the activation loop (Jin & Zheng, 2019; Gallo & Johnson, 2002).  
+• Phosphorylation by PKA and AKT further modulates activity (Jin & Zheng, 2019).  
+• The E3 ubiquitin ligase RPM-1 negatively regulates the kinase (Chen et al., 2016).  
+• An SH3-domain–proline-rich autoinhibitory interaction described for other MLKs is probably retained (Gallo & Johnson, 2002).  
+• Rho-family GTPases Rac and Cdc42 can allosterically activate the enzyme (Gallo & Johnson, 2002).
+
+## Function  
+MAP3K13 is broadly expressed, with prominent levels in brain regions (cerebellar granule and hippocampal neurons) and pancreas (Gallo & Johnson, 2002; Chen et al., 2016; Unknown Authors, 2001). Neuronal activity deprivation can trigger its activation (Chen et al., 2016).  
+Downstream: directly phosphorylates MKK4/7 to activate the JNK MAPK cascade (Bensen & Brognard, 2021) and stimulates the IKK complex to modulate NF-κB signaling (Bensen & Brognard, 2021).  
+Interacting partners include the scaffold JIP-1, which enhances JNK signaling (Unknown Authors, 2001), and mitochondrial AOP-1, which promotes NF-κB activation (Jin & Zheng, 2019).  
+Biological roles encompass cellular stress responses, axon growth and branching, and oncogenic processes (Chen et al., 2016; Bensen & Brognard, 2021).
+
+## Inhibitors  
+Experimental ATP-competitive inhibitors include:  
+• CEP-1347 – pan-MLK inhibitor (Jin & Zheng, 2019).  
+• GNE-3511 and GNE-495 – developed for DLK but inhibit MAP3K13 owing to high kinase-domain homology and are brain-penetrant in mice (Jin & Zheng, 2019).
+
+## Other Comments  
+MAP3K13 dysregulation is linked to neurodegeneration, multiple cancers, and responses to herpes simplex virus infection (Jin & Zheng, 2019). Pharmacological inhibition shows therapeutic benefit in mouse neurological disease models (Jin & Zheng, 2019). High MAP3K13 expression correlates with improved survival in bladder and lung squamous carcinomas but with poorer survival in pancreatic ductal adenocarcinoma and sarcoma (Nguyen et al., 2022). A Map3k13tm1a mutant mouse line is available for in vivo studies (Chen et al., 2016).
+
+## References  
+Bensen, R. C., & Brognard, J. (2021). New therapeutic opportunities for the treatment of squamous cell carcinomas: A focus on novel driver kinases. *International Journal of Molecular Sciences, 22*, 2831. https://doi.org/10.3390/ijms22062831  
+
+Chen, M., Geoffroy, C. G., Wong, H. N., Tress, O., Nguyen, M. T., Holzman, L. B., Jin, Y., & Zheng, B. (2016). Leucine zipper-bearing kinase promotes axon growth in mammalian central nervous system neurons. *Scientific Reports*, 6, 31482. https://doi.org/10.1038/srep31482  
+
+Craig, E. A., Stevens, M. V., Vaillancourt, R. R., & Camenisch, T. D. (2008). MAP3Ks as central regulators of cell fate during development. *Developmental Dynamics*, 237(11), 3102–3114. https://doi.org/10.1002/dvdy.21750  
+
+Gallo, K. A., & Johnson, G. L. (2002). Mixed-lineage kinase control of JNK and p38 MAPK pathways. *Nature Reviews Molecular Cell Biology, 3*, 663–672. https://doi.org/10.1038/nrm906  
+
+Jin, Y., & Zheng, B. (2019). Multitasking: Dual leucine zipper–bearing kinases in neuronal development and stress management. *Annual Review of Cell and Developmental Biology, 35*, 501–521. https://doi.org/10.1146/annurev-cellbio-100617-062644  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. *Nature, 613*, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Manning, G., Whyte, D. B., Martinez, R., Hunter, T., & Sudarsanam, S. (2002). The protein kinase complement of the human genome. *Science, 298*, 1912–1934. https://doi.org/10.1126/science.1075762  
+
+Nguyen, K., Tran, M. N., Rivera, A., Cheng, T., Windsor, G. O., Chabot, A. B., … Burow, M. E. (2022). MAP3K family review and correlations with patient survival outcomes in various cancer types. *Frontiers in Bioscience–Landmark, 27*, 167. https://doi.org/10.31083/j.fbl2705167  
+
+Unknown Authors. (2001). Mixed lineage kinase LZK forms a functional signaling complex with JIP-1, a scaffold protein of the c-Jun NH2-terminal kinase pathway. *[Journal information not provided]*.  
+
+Yan, D., & Jin, Y. (2012). Regulation of DLK-1 kinase activity by calcium-mediated dissociation from an inhibitory isoform. *Neuron, 76*, 534–548. https://doi.org/10.1016/j.neuron.2012.08.043

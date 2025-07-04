@@ -1,0 +1,64 @@
+## Phylogeny  
+Activin receptor type IIB (ACVR2B) is a member of the Tyrosine-Kinase-Like (TKL) group, TGF-β receptor type-II subfamily of the human kinome (Trumpp et al., 2023). Vertebrate paralogs ACVR2A and BMPR2 form a closely related cluster within the type-II branch (Hart et al., 2020). Orthologs are conserved from vertebrates (e.g., Mus musculus, Danio rerio) to invertebrates (Drosophila melanogaster, Caenorhabditis elegans), indicating deep metazoan conservation (Vishnu et al., 2019; Wodziński, 2019).  
+
+## Reaction Catalyzed  
+ATP + [protein] → ADP + [protein]-O-Ser/Thr-phosphate (Han et al., 2007).  
+
+## Cofactor Requirements  
+Requires Mg²⁺, as shown by Mg-ADP coordination in homologous type-II receptor structures (Chaikuad et al., 2019).  
+
+## Substrate Specificity  
+• Phosphorylates Ser/Thr residues within the GS domain of cognate type-I receptors; no independent linear consensus motif has been defined (Sako et al., 2010).  
+• Intrinsic peptide specificity remains undetermined because ACVR2B was not included in recent kinome-wide substrate profiling.  
+
+## Structure  
+Signal peptide (1–24) → extracellular three-finger toxin–fold ligand-binding domain (27–117) → single transmembrane helix (138–160) → intracellular serine/threonine kinase domain (190–479) (Vishnu et al., 2019; Han et al., 2007).  
+Crystal structure (PDB 2QLU) shows a canonical bilobal kinase fold with VAIK Lys217, HRD catalytic triad, DFG motif, gatekeeper Thr265, and a hydrophobic back pocket shaped by Phe247 (Han et al., 2007). The activation loop adopts an active-like conformation despite absence of the Lys-Glu (β3–αC) salt bridge, a feature stabilized by three conserved prolines and shorter than that of BMPR2 (Han et al., 2007; Chaikuad et al., 2019). The extracellular domain engages ligands through a conserved hydrophobic hotspot common to ACVR2A and BMPR2 (Chu et al., 2022).  
+
+## Regulation  
+• Kinase is constitutively active; activation-loop phosphorylation is not required (Chaikuad et al., 2019).  
+• Ligand binding promotes heterotetramer formation with type-I receptors, enabling GS-domain phosphorylation (Sako et al., 2010).  
+• N-linked glycosylation of the extracellular domain is dispensable for high-affinity ligand binding (Sako et al., 2010).  
+• SMURF2-mediated ubiquitination targets receptor complexes for degradation, dampening signalling (Unknown Authors, 2012).  
+• ACVR2B forms distinct homo-oligomers relative to ACVR2A; these stoichiometries modulate aberrant activation of the ALK2-R206H mutant implicated in fibrodysplasia ossificans progressiva (Szilágyi et al., 2024).  
+• Soluble ACVR2B-Fc sequesters circulating ligands, lowering basal SMAD2 phosphorylation and altering downstream responses (Goh et al., 2017).  
+
+## Function  
+Expression – Highly expressed in skeletal muscle; lower levels in osteoblasts and osteocytes (Goh et al., 2017). Transcripts are present in neurogenic zones, vasculature, and developing muscle of medaka, suggesting conserved neural and muscular roles (Trumpp et al., 2023).  
+
+Ligands & partners – Binds activin A/B, myostatin (GDF-8), GDF-11, BMP-2 and BMP-7 with variable affinity (Sako et al., 2010). Recruits type-I receptors ACVR1 (ALK2), ACVR1B (ALK4) and ACVR1C (ALK7) (Valer et al., 2019). Activin/GDF engagement activates SMAD2/3, whereas BMP ligands redirect signalling to SMAD1/5/8 (Sako et al., 2010).  
+
+Physiological roles – Acts as a negative regulator of skeletal muscle mass; ACVR2B-Fc treatment enlarges multiple hind-limb muscles in mice and nearly triples trabecular bone volume, indicating indirect anabolic effects on bone (Goh et al., 2017). Contributes to activin-dependent hyperactivation of ALK2-R206H in fibrodysplasia ossificans progressiva (Valer et al., 2019).  
+
+## Inhibitors  
+ACVR2B-Fc (ACE-031): soluble extracellular domain–IgG1 fusion that traps myostatin/activins, improves survival and muscle mass in cachectic models, and increases bone mass (Nissinen et al., 2018; Goh et al., 2017).  
+
+## Other Comments  
+Distinct ACVR2B versus ACVR2A receptor stoichiometry influences ALK2-R206H signalling and may modify fibrodysplasia ossificans progressiva severity (Szilágyi et al., 2024).  
+
+## References  
+Chaikuad, A., Thangaratnarajah, C., von Delft, F., & Bullock, A. N. (2019). Structural consequences of BMPR2 kinase domain mutations causing pulmonary arterial hypertension. Scientific Reports. https://doi.org/10.1101/786756  
+
+Chu, K.-Y., Malik, A., Thamilselvan, V., & Martinez-Hackert, E. (2022). Type II BMP and activin receptors BMPR2 and ACVR2A share a conserved mode of growth factor recognition. Journal of Biological Chemistry, 298, 102076. https://doi.org/10.1016/j.jbc.2022.102076  
+
+Goh, B., Singhal, V., Herrera, A. J., Tomlinson, R., Kim, S. P., Faugere, M., ... Digirolamo, D. (2017). Activin receptor type 2A functions directly in osteoblasts as a negative regulator of bone mass. Journal of Biological Chemistry, 292, 13809–13822. https://doi.org/10.1074/jbc.M117.782128  
+
+Han, S., Loulakis, P., Griffor, M., & Xie, Z. (2007). Crystal structure of activin receptor type IIB kinase domain from human at 2.0 Å resolution. Protein Science, 16, 2272–2277. https://doi.org/10.1110/ps.073068407  
+
+Hart, K. N., Pépin, D., Czepnik, M., Donahoe, P. K., & Thompson, T. B. (2020). Mutational analysis of the putative anti-Müllerian hormone binding interface on its type II receptor, AMHR2. Endocrinology. https://doi.org/10.1210/endocr/bqaa066  
+
+Nissinen, T. A., Hentilä, J., Penna, F., Lampinen, A., Lautaoja, J. H., Fachada, V., ... Hulmi, J. J. (2018). Treating cachexia using soluble ACVR2B improves survival, alters mTOR localization, and attenuates liver and spleen responses. Journal of Cachexia, Sarcopenia and Muscle, 9, 514–529. https://doi.org/10.1002/jcsm.12310  
+
+Sako, D., Grinberg, A. V., Liu, J., Davies, M. V., Castonguay, R., Maniatis, S., ... Kumar, R. (2010). Characterization of the ligand binding functionality of the extracellular domain of activin receptor type IIB. Journal of Biological Chemistry, 285, 21037–21048. https://doi.org/10.1074/jbc.M110.114959  
+
+Szilágyi, S., Burdzinski, W., Jatzlau, J., Ehrlich, M., Knaus, P., & Henis, Y. (2024). The activation of the fibrodysplasia ossificans progressiva-inducing ALK2-R206H mutant depends on the distinct homo-oligomerization patterns of ACVR2B and ACVR2A. Cells, 13, 30221. https://doi.org/10.3390/cells13030221  
+
+Trumpp, M., Tan, W. H., Burdzinski, W., Basler, Y., Jatzlau, J., Knaus, P., & Winkler, C. (2023). Characterization of fibrodysplasia ossificans progressiva relevant ACVR1/ACVR2 activin receptors in medaka (Oryzias latipes). PLOS ONE. https://doi.org/10.1371/journal.pone.0291379  
+
+Valer, J. A., Sánchez-de-Diego, C., Pimenta-Lopes, C., Rosa, J. L., & Ventura, F. (2019). ACVR1 function in health and disease. Cells, 8, 1366. https://doi.org/10.3390/cells8111366  
+
+Vishnu, P. G., Bhattacharya, T. K., Bhushan, B., Kumar, P., Chatterjee, R. N., Paswan, C., ... Dushyanth, K. (2019). Molecular characterization and computational structure prediction of activin receptor type IIB in Aseel and broiler chicken. Research in Veterinary Science, 126, 139–149. https://doi.org/10.1016/j.rvsc.2019.08.025  
+
+Unknown Authors. (2012). Activin receptors in gonadotrope cells: new tricks for old dogs. *Pages 200–205*.  
+
+Wodziński, A. (2019). Does the expression… *[Details not provided in source]*.

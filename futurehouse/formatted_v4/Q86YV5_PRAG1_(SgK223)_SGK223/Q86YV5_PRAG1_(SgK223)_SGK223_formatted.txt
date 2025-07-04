@@ -1,0 +1,65 @@
+## Phylogeny  
+PRAG1 (also called SGK223) is one of three members of the “New Kinase Family 3” (NKF3) pseudokinase branch together with PEAK1/SGK269 and PEAK3/C19orf35 (Ha & Boggon, 2018; López et al., 2019). The PRAG1 and PEAK1 kinase-fold domains share >45 % sequence identity, yet overall identity to catalytically competent protein kinases is low (~13–25 %) (Ha & Boggon, 2018; Lecointre et al., 2018). Because it lacks multiple catalytic motifs, PRAG1 is classified as a pseudokinase within the human kinome (Lecointre et al., 2018; López et al., 2019). The Glu-Pro-Ile-Tyr-Ala (EPIYA) motif is conserved in mammalian orthologues (Safari et al., 2011).  
+NOTE: One high-throughput phospho-profiling study grouped PRAG1 with Ca2+/calmodulin-dependent kinases (CAMK) (Johnson et al., 2023); this assignment conflicts with structural/biochemical data designating PRAG1 as catalytically inactive.
+
+## Reaction catalysed  
+No phosphotransferase activity has been detected. Thermal-shift, ATP-binding and in-vitro kinase assays show that PRAG1 neither binds ATP nor transfers phosphate (Lecointre et al., 2018; Tactacan et al., 2015).  
+Contrasting evidence: Johnson et al. (2023) reported low-level serine/threonine phosphorylation activity in an array format.
+
+## Cofactor requirements  
+None detected. The protein lacks the DFG motif needed for Mg²⁺ coordination, does not bind Mg²⁺ or ATP, and shows no cofactor dependence in biochemical assays (Lecointre et al., 2018; Senda et al., 2016).  
+Contrasting evidence: Johnson et al. (2023) inferred ATP usage as phosphate donor.
+
+## Substrate specificity  
+Because PRAG1 is catalytically inert, intrinsic substrate specificity has not been demonstrated; signalling effects arise through binding to active kinases such as C-terminal Src kinase (Csk) (Lecointre et al., 2018).  
+Contrasting evidence: peptide-array profiling placed PRAG1 within a CAMK-like, basophilic preference class (Johnson et al., 2023).
+
+## Structure  
+Multi-domain architecture:  
+• N-terminal segment (1–216) of unknown fold.  
+• Central PEST-rich, largely disordered linker (217–931) harbouring multiple phosphorylation sites.  
+• C-terminal pseudokinase (PsK) domain (950–1292) flanked by helical extensions that form an “XL/SHED” four-helix dimerisation module (906–949 and 1293–1368) (Patel et al., 2017; Ha & Boggon, 2018; Lecointre et al., 2018).
+
+PsK domain features: canonical bilobal kinase fold locked in a closed, inactive conformation; degenerate glycine-rich loop, absent DFG motif, truncated αC helix lacking the Glu that pairs with β3 Lys; Lys997 is sequestered by an inhibitory triad (Asp978, Tyr981, Gln1021) blocking ATP access (Patel et al., 2017; Lecointre et al., 2018).
+
+## Regulation  
+1. Tyrosine phosphorylation within the central linker—major site Tyr391 (EPIYA), plus Tyr238, Tyr343, Tyr411—by Src-family kinases, Csk, HER2, Lyn and DDR1 (Senda et al., 2016; Patel et al., 2017; Lecointre et al., 2018).  
+   • pTyr391/411 recruits the SH2 domain of Csk, establishing a feed-forward loop in which Csk further phosphorylates PRAG1 (Senda et al., 2016).  
+   • Phospho-PRAG1 also binds Grb2, Shc and other SH2/PTB proteins (Patel et al., 2017).  
+2. Homodimerisation via the SHED module is essential for high-affinity Csk binding and stimulation of Csk catalytic activity; dimer-defective mutants fail to activate Csk (Patel et al., 2017; Lecointre et al., 2018).
+
+## Function  
+Catalytically inactive scaffold that modulates signalling through protein–protein interactions (Lecointre et al., 2018).  
+• Tissue expression: brain (cortex, hippocampus), kidney, spleen, colon, small intestine (Tanaka et al., 2006; O’Rourke & Daly, 2018).  
+• Subcellular localisation: plasma membrane, cytosol, focal adhesions (O’Rourke & Daly, 2018).  
+• Interactors and pathways:  
+  – Binds Rnd2 GTPase to enhance RhoA activity, regulating actomyosin contractility and neurite outgrowth (Tanaka et al., 2006).  
+  – Dimerises with and activates Csk, indirectly modulating Src-family kinase activity (Lecointre et al., 2018).  
+  – Associates with AMPK and components of the Notch transcriptional complex (Lecointre et al., 2018).  
+Consequently, PRAG1 participates in Rnd2/RhoA, SFK, Notch and JAK/STAT signalling networks (O’Rourke & Daly, 2018; Tactacan et al., 2015).
+
+## Other comments  
+PRAG1 is frequently over-expressed in pancreatic, oesophageal, lung and colon adenocarcinomas, correlating with poor prognosis in non-small-cell lung cancer; it promotes tumour cell proliferation, migration and invasion (O’Rourke & Daly, 2018; Tactacan et al., 2015). Global knockout in mice is embryonic lethal (O’Rourke & Daly, 2018). Mutations disrupting either the SHED dimer interface or the Tyr391 phosphorylation site abolish Csk activation and downstream protein tyrosine phosphorylation (Lecointre et al., 2018).
+
+## References  
+Ha, B. H., & Boggon, T. J. (2018). The crystal structure of pseudokinase PEAK1 (Sugen kinase 269) reveals an unusual catalytic cleft and a novel mode of kinase fold dimerization. Journal of Biological Chemistry, 293, 1642–1650. https://doi.org/10.1074/jbc.ra117.000751  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., Kerelsky, A., Song, J., Regev, A., … Cantley, L. C. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Lecointre, C., Simon, V., Kerneur, C., Allemand, F., Fournet, A., Montarras, I., … Roche, S. (2018). Dimerization of the Pragmin pseudo-kinase regulates protein tyrosine phosphorylation. bioRxiv. https://doi.org/10.1101/218669  
+
+López, M. L., Lo, M., Kung, J. E., Dudkiewicz, M., Jang, G. M., Von Dollen, J., … Jura, N. (2019). PEAK3/C19orf35 pseudokinase, a new NKF3 kinase family member, inhibits CK2 through dimerization. Proceedings of the National Academy of Sciences, 116, 15495–15504. https://doi.org/10.1073/pnas.1906360116  
+
+O’Rourke, R. L., & Daly, R. J. (2018). The pseudokinases SGK269 and SGK223: A novel oncogenic alliance in human cancer. Cell Adhesion & Migration, 12, 524–528. https://doi.org/10.1080/19336918.2017.1394570  
+
+Patel, O., Griffin, M. D. W., Panjikar, S., Dai, W., Ma, X., Chan, H., … Lucet, I. S. (2017). Structure of SGK223 pseudokinase reveals novel mechanisms of homotypic and heterotypic association. Nature Communications, 8, 1508. https://doi.org/10.1038/s41467-017-01279-9  
+
+Patel, O., Roy, M. J., Murphy, J. M., & Lucet, I. S. (2020). The PEAK family of pseudokinases, their role in cell signalling and cancer. The FEBS Journal, 287, 4175–4198. https://doi.org/10.1111/febs.15087  
+
+Safari, F., Murata-Kamiya, N., Saito, Y., & Hatakeyama, M. (2011). Mammalian Pragmin regulates Src family kinases via the Glu-Pro-Ile-Tyr-Ala (EPIYA) motif that is exploited by bacterial effectors. Proceedings of the National Academy of Sciences, 108, 14938–14943. https://doi.org/10.1073/pnas.1107740108  
+
+Senda, Y., Murata-Kamiya, N., & Hatakeyama, M. (2016). C-terminal Src kinase-mediated EPIYA phosphorylation of Pragmin creates a feed-forward C-terminal Src kinase activation loop that promotes cell motility. Cancer Science, 107, 972–980. https://doi.org/10.1111/cas.12962  
+
+Tanaka, H., Katoh, H., & Negishi, M. (2006). Pragmin, a novel effector of Rnd2 GTPase, stimulates RhoA activity. Journal of Biological Chemistry, 281, 10355–10364. https://doi.org/10.1074/jbc.M511314200  
+
+Tactacan, C. M., Phua, Y. W., Liu, L., Zhang, L., Humphrey, E. S., Cowley, M., … Daly, R. J. (2015). The pseudokinase SGK223 promotes invasion of pancreatic ductal epithelial cells through JAK1/STAT3 signaling. Molecular Cancer, 14, 1–14. https://doi.org/10.1186/s12943-015-0412-3

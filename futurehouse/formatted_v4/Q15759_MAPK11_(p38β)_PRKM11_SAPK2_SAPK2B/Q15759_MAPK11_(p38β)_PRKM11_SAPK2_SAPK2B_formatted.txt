@@ -1,0 +1,55 @@
+## Phylogeny  
+MAPK11 (p38β) belongs to the p38 mitogen-activated protein kinase family within the CMGC group of the human kinome (Cánovas & Nebreda, 2021; Cuadrado & Nebreda, 2010; Li et al., 2011). Four vertebrate p38 isoforms arose through gene duplication: p38α (MAPK14), p38β (MAPK11), p38γ (MAPK12) and p38δ (MAPK13) (O’Callaghan et al., 2014). p38β is most closely related to p38α, sharing ~75 % amino-acid identity (Roche et al., 2020; Cuenda & Rousseau, 2007). Orthologues are reported in mammals (*Homo sapiens*, *Macaca mulatta*, *Mus musculus*, *Rattus norvegicus*), zebrafish and *C. elegans* (Li et al., 2011; Cuadrado & Nebreda, 2010; Shabardina et al., 2023).
+
+## Reaction Catalyzed  
+ATP + L-seryl/threonyl-[protein] ⇌ ADP + H⁺ + O-phospho-L-seryl/threonyl-[protein] (Cánovas & Nebreda, 2021; Roche et al., 2020; O’Callaghan et al., 2014).
+
+## Cofactor Requirements  
+Requires Mg²⁺ for ATP binding and phosphotransferase activity (Cánovas & Nebreda, 2021; Maik-Rachline et al., 2020; O’Callaghan et al., 2014; Roche et al., 2020).
+
+## Substrate Specificity  
+• Proline-directed Ser/Thr kinase with minimal consensus Ser/Thr-Pro (SP/TP) (Roche et al., 2020; Madkour et al., 2021; Maik-Rachline et al., 2020; Burton et al., 2021).  
+• Phosphoproteomics indicates additional preferences: Pro at P-3, Lys/Arg at P-2, hydrophobic residue at P-1, and a small/polar residue at P + 1 (Cuadrado & Nebreda, 2010).  
+• Docking interactions through substrate D-domains (Arg/Lys₂-X₂-₆-Φ-X-Φ) and DEF motifs (FxF) enhance recognition (Maik-Rachline et al., 2020).
+
+## Structure  
+Canonical bilobal kinase fold: a β-sheet-rich N-lobe (residues 1–105), α-helical C-lobe (114–316) and a flexible hinge (106–113) forming the ATP-binding cleft (Cánovas & Nebreda, 2021; Roche et al., 2020). Conserved hydrophobic spine and C-helix maintain the active conformation (Cuadrado & Nebreda, 2010; Li et al., 2011). The activation loop contains the Thr-Gly-Tyr (TGY) motif (Cánovas & Nebreda, 2021). Compared with p38α, p38β has a slightly smaller ATP-binding pocket due to altered N-/C-lobe orientation (Roche et al., 2020; Cuadrado & Nebreda, 2010). High-homology structures of p38α (PDB: 5ETC, 1A9U, 3GCU) serve as models for p38β (Cánovas & Nebreda, 2021; Roche et al., 2020).
+
+## Regulation  
+Full activation requires dual phosphorylation of Thr180 and Tyr182 within the TGY motif by the MAP2Ks MKK3 and, more efficiently, MKK6 (Cánovas & Nebreda, 2021; Maik-Rachline et al., 2020; Zarubin & Han, 2005). MKK6 shows strong selectivity for p38β; MKK3 acts less efficiently (Roche et al., 2020; Zarubin & Han, 2005). Thr180 can also undergo autophosphorylation, modulating basal activity (Roche et al., 2020). Dephosphorylation and inactivation are mediated by MAP kinase phosphatases (Zarubin & Han, 2005).
+
+## Function  
+Ubiquitously expressed but lower than p38α, with higher levels in endothelial cells, brain, heart and lung; absent in macrophages and monocytes (Roche et al., 2020; Burton et al., 2021). Activated by pro-inflammatory cytokines (e.g., IL-1β, TNF) and environmental stresses (UV, osmotic shock) and regulates gene expression, mRNA stability, cell-cycle progression and apoptosis (Cánovas & Nebreda, 2021; Roche et al., 2020). Shares many substrates with p38α, including downstream kinases MK2/3, MSK1/2, MNK1/2 and transcription factors ATF family, c-Myc, c-Fos, STAT1 and p53 (Cánovas & Nebreda, 2021; Roche et al., 2020). Unique reported substrates are glycogen synthase and Raptor, linking p38β to metabolism and mTORC1 signalling (Roche et al., 2020). Displays functional redundancy with MAPK14/p38α (Cánovas & Nebreda, 2021; Li et al., 2011).
+
+## Inhibitors  
+Pyridinyl-imidazoles SB203580 and SB202190 are potent ATP-competitive inhibitors of p38α/β; sensitivity depends on Thr106 in the binding pocket (Cánovas & Nebreda, 2021; O’Callaghan et al., 2014; Cuenda & Rousseau, 2007). Losmapimod also targets both isoforms (Romero-Becerra et al., 2020). No inhibitors discriminate specifically between p38β and p38α (Roche et al., 2020).
+
+## Other Comments  
+Implicated in inflammatory diseases, cancers, neurodegeneration, cardiac hypertrophy, Huntington’s disease and viral infections such as SARS-CoV-2 (Cánovas & Nebreda, 2021; Maik-Rachline et al., 2020; O’Callaghan et al., 2014; Roche et al., 2020). In cancer, p38β can act as tumour suppressor or promoter depending on context (Maik-Rachline et al., 2020; Roche et al., 2020). Mouse knockouts show p38α is embryonic lethal, whereas p38β knockout mice are viable, indicating non-redundant developmental functions (Roche et al., 2020; Kumar et al., 2003).
+
+## 9. References  
+Burton, J. C., Antoniades, W., Okáľová, J., Roos, M. M., & Grimsey, N. J. (2021). Atypical p38 signaling, activation, and implications for disease. International Journal of Molecular Sciences, 22, 4183. https://doi.org/10.3390/ijms22084183  
+
+Cánovas, B., & Nebreda, A. R. (2021). Diversity and versatility of p38 kinase signalling in health and disease. Nature Reviews Molecular Cell Biology, 22, 346–366. https://doi.org/10.1038/s41580-020-00322-w  
+
+Cuadrado, A., & Nebreda, A. R. (2010). Mechanisms and functions of p38 MAPK signalling. Biochemical Journal, 429, 403–417. https://doi.org/10.1042/BJ20100323  
+
+Cuenda, A., & Rousseau, S. (2007). p38 MAP-kinases pathway regulation, function and role in human diseases. Biochimica et Biophysica Acta – Molecular Cell Research, 1773, 1358–1375. https://doi.org/10.1016/j.bbamcr.2007.03.010  
+
+Kumar, S., Boehm, J., & Lee, J. C. (2003). p38 MAP kinases: key signalling molecules as therapeutic targets for inflammatory diseases. Nature Reviews Drug Discovery, 2, 717–726. https://doi.org/10.1038/nrd1177  
+
+Li, M., Liu, J., & Zhang, C. (2011). Evolutionary history of the vertebrate mitogen activated protein kinases family. PLoS ONE, 6, e26999. https://doi.org/10.1371/journal.pone.0026999  
+
+Madkour, M. M., Anbar, H. S., & El-Gamal, M. (2021). Current status and future prospects of p38α/MAPK14 kinase and its inhibitors. European Journal of Medicinal Chemistry, 213, 113216. https://doi.org/10.1016/j.ejmech.2021.113216  
+
+Maik-Rachline, G., Lifshits, L., & Seger, R. (2020). Nuclear p38: roles in physiological and pathological processes and regulation of nuclear translocation. International Journal of Molecular Sciences, 21, 6102. https://doi.org/10.3390/ijms21176102  
+
+O’Callaghan, C., Fanning, L., & Barry, Ó. (2014). p38δ MAPK: emerging roles of a neglected isoform. International Journal of Cell Biology, 2014, 272689. https://doi.org/10.1155/2014/272689  
+
+Roche, O., Fernández-Aroca, D., Arconada-Luque, E., García-Flores, N., Mellor, L. F., Ruiz-Hidalgo, M., & Sánchez-Prieto, R. (2020). p38β and cancer: the beginning of the road. International Journal of Molecular Sciences, 21, 7524. https://doi.org/10.3390/ijms21207524  
+
+Romero-Becerra, R., Santamans, A. M., Folgueira, C., & Sabio, G. (2020). The p38 MAPK pathway in the heart: new insights in health and disease. International Journal of Molecular Sciences, 21, 7412. https://doi.org/10.3390/ijms21197412  
+
+Shabardina, V., Romero Charria, P., Bercedo Saborido, G., Diaz-Mora, E., Cuenda, A., Ruiz-Trillo, I., & Sanz-Ezquerro, J. J. (2023). Evolutionary analysis of p38 stress-activated kinases in unicellular relatives of animals suggests an ancestral function in osmotic stress. Open Biology, 13, 220314. https://doi.org/10.1098/rsob.220314  
+
+Zarubin, T., & Han, J. (2005). Activation and signaling of the p38 MAP kinase pathway. Cell Research, 15, 11–18. https://doi.org/10.1038/sj.cr.7290257

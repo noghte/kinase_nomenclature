@@ -1,0 +1,74 @@
+## Phylogeny  
+WNK3 is a member of the atypical serine/threonine WNK kinase family in which the catalytic lysine is repositioned from β-strand 3 to β-strand 2, forming a clade distinct from conventional AGC, CAMK, CK1, CMGC, STE and TK groups (Min et al., 2004). Validated vertebrate orthologs are present in human, mouse, Xenopus tropicalis, Xenopus laevis and zebrafish (wnk3a, wnk3b); no ortholog is detectable in Drosophila melanogaster or Caenorhabditis elegans, which each encode only a single ancestral WNK isoform (McCormick & Ellison, 2011). Among the four human paralogs (WNK1-4) the kinase domains share ~80 % sequence identity, placing WNK3 within a closely related subfamily (Jonniya et al., 2022).  
+
+## Reaction Catalyzed  
+ATP + [protein] ⇌ ADP + [protein]-O-Ser/Thr (Rinehart et al., 2005).  
+
+## Cofactor Requirements  
+Mg²⁺ is required; mutation of the Mg²⁺-binding Asp294 to Ala abolishes autophosphorylation (Rinehart et al., 2005).  
+
+## Substrate Specificity  
+A global phospho-acceptor consensus has not been resolved (Taylor et al., 2024). WNK3 itself contains an internal RFXV docking motif that engages the C-terminal domains of SPAK and OSR1; the central Val/Ile is essential for this interaction (Taylor et al., 2024).  
+
+## Structure  
+• Domain organisation: (1) N-terminal kinase domain (~aa 1-360) with a six-stranded N-lobe β-sheet; the catalytic Lys lies in the GXGXXKXV loop (Min et al., 2004). (2) A PF2-like autoinhibitory segment immediately C-terminal to the kinase domain that mediates SPAK/OSR1 docking (Murillo-de-Ozores et al., 2020). (3) A long C-terminus rich in coiled-coil and intrinsically disordered regions that provides scaffold functions (Dbouk et al., 2016).  
+• 3D data: Crystal structures of the isolated kinase domain in apo, Cl⁻-bound and inhibitor-bound states (e.g., PDB 8EDH, 8EDI; 3.3–2.0 Å) show an αC-out inactive conformation stabilised by a bound chloride ion and structured water network (Teixeira et al., 2024). Catalytic motifs HRDLKQ and DFG adopt canonical positions within the atypical Lys-in-β2 framework (Min et al., 2004). Key regulatory elements include activation-loop Ser308, the chloride-binding cavity lined by Leu295/Leu297 and hydrogen-bonding links to helix αC (Murillo-de-Ozores et al., 2020; Teixeira et al., 2024).  
+
+## Regulation  
+Post-translational control  
+• Autophosphorylation on Ser308 is required for full activity (Teixeira et al., 2024).  
+• CUL3–KLHL3-mediated ubiquitination targets WNK3 for proteasomal degradation; KLHL3 loss increases WNK3 abundance (Hadchouel et al., 2016).  
+
+Allosteric and ionic modulation  
+• Direct binding of intracellular Cl⁻ to the Leu295/Leu297 cavity locks the kinase in an inactive state and blocks Ser308 phosphorylation (Murillo-de-Ozores et al., 2020).  
+• Hyperosmotic cell shrinkage drives liquid–liquid phase separation that concentrates WNK3 with SPAK/OSR1 and enhances trans-autophosphorylation (information in Nomenclature).  
+• Elevated extracellular K⁺ suppresses WNK3 autophosphorylation (Lin et al., 2022).  
+
+## Function  
+Expression pattern: WNK3 mRNA is enriched in brain, liver and small intestine; protein localises along all nephron segments at intercellular junctions (Rinehart et al., 2005; Unknown authors, 2017).  
+
+Signalling pathway  
+• Upstream stimuli: low intracellular Cl⁻ or osmotic compression activate WNK3 (Murillo-de-Ozores et al., 2020).  
+• Immediate substrates: SPAK (STK39) and OSR1 are activated via T-loop phosphorylation (Information section).  
+• Downstream effectors: SPAK/OSR1 phosphorylate SLC12 cotransporters NKCC1, NKCC2 and NCC (activation) and KCC1-4 (inhibition), thereby controlling Na⁺/K⁺/Cl⁻ flux (Pacheco-Alvarez & Gamba, 2011; Rinehart et al., 2005).  
+
+Physiological roles: supports regulatory volume increase, renal NaCl reabsorption, neuronal Cl⁻ gradient establishment and systemic blood-pressure control (Alessi et al., 2014; Pacheco-Alvarez & Gamba, 2011).  
+
+## Inhibitors  
+• WNK463 – ATP-competitive pan-WNK inhibitor; IC₅₀ = 6 nM for WNK3; selective against most kinases; lowers blood pressure in hypertensive rats (Brown et al., 2021).  
+• SW120619 – quinoline derivative with preferential binding to phosphorylated WNK3 (ΔT_m ≈ 14 °C); IC₅₀ not reported (Chlebowicz et al., 2023).  
+• PP121 – allosteric inhibitor; IC₅₀ = 215 nM (Brown et al., 2021).  
+
+## Other Comments  
+Defective CUL3–KLHL3-dependent degradation or hyperactive WNK3–SPAK/OSR1 signalling contribute to pseudohypoaldosteronism type II and salt-sensitive hypertension (Hadchouel et al., 2016; Alessi et al., 2014). WNK3 knockout lessens cerebral oedema after stroke, whereas neuronal over-expression is associated with epileptogenesis (Chlebowicz et al., 2023).  
+
+## 9. References  
+Alessi, D. R., Zhang, J., Khanna, A., Hochdörfer, T., Shang, Y., & Kahle, K. T. (2014). The WNK-SPAK/OSR1 pathway: master regulator of cation-chloride cotransporters. Science Signaling, 7, re3. https://doi.org/10.1126/scisignal.2005365  
+
+Brown, A., Meor Azlan, N. F., Wu, Z., & Zhang, J. (2021). WNK-SPAK/OSR1-NCC kinase signaling pathway as a novel target for the treatment of salt-sensitive hypertension. Acta Pharmacologica Sinica, 42, 508–517. https://doi.org/10.1038/s41401-020-0474-7  
+
+Chlebowicz, J., Akella, R., Humphreys, J. M., He, H., Kannangara, A. R., Wei, S., Posner, B., & Goldsmith, E. J. (2023). Identification of a class of WNK isoform-specific inhibitors through high-throughput screening. Drug Design, Development and Therapy, 17, 93–105. https://doi.org/10.2147/DDDT.S389461  
+
+Dbouk, H. A., Huang, C.-L., & Cobb, M. H. (2016). Hypertension: the missing WNKs. American Journal of Physiology-Renal Physiology, 311, F16–F27. https://doi.org/10.1152/ajprenal.00358.2015  
+
+Hadchouel, J., Ellison, D. H., & Gamba, G. (2016). Regulation of renal electrolyte transport by WNK and SPAK-OSR1 kinases. Annual Review of Physiology, 78, 367–389. https://doi.org/10.1146/annurev-physiol-021115-105431  
+
+Jonniya, N. A., Sk, M. F., & Kar, P. (2022). A comparative study of structural and conformational properties of WNK kinase isoforms bound to an inhibitor. Journal of Biomolecular Structure and Dynamics, 40, 1400–1415. https://doi.org/10.1080/07391102.2020.1827035  
+
+Lin, S.-C., Ma, C., Chang, K.-J., Cheong, H.-P., Lee, M.-C., Lan, Y.-T., … Yang, Y.-P. (2022). The post-translational modification networking in WNK-centric hypertension regulation and electrolyte homeostasis. Biomedicines, 10, 2169. https://doi.org/10.3390/biomedicines10092169  
+
+McCormick, J. A., & Ellison, D. H. (2011). The WNKs: atypical protein kinases with pleiotropic actions. Physiological Reviews, 91, 177–219. https://doi.org/10.1152/physrev.00017.2010  
+
+Min, X., Lee, B.-H., Cobb, M. H., & Goldsmith, E. J. (2004). Crystal structure of the kinase domain of WNK1. Structure, 12, 1303–1311. https://doi.org/10.1016/j.str.2004.04.014  
+
+Murillo-de-Ozores, A. R., Chávez-Canales, M., de los Heros, P., Gamba, G., & Castañeda-Bueno, M. (2020). Physiological processes modulated by the chloride-sensitive WNK-SPAK/OSR1 kinase signalling pathway. Frontiers in Physiology, 11, 585907. https://doi.org/10.3389/fphys.2020.585907  
+
+Pacheco-Alvarez, D., & Gamba, G. (2011). WNK3 is a putative chloride-sensing kinase. Cellular Physiology and Biochemistry, 28, 1123–1134. https://doi.org/10.1159/000335848  
+
+Rinehart, J., Kahle, K. T., de los Heros, P., Vázquez, N., Meade, P., Wilson, F. H., … Lifton, R. P. (2005). WNK3 kinase is a positive regulator of NKCC2 and NCC. Proceedings of the National Academy of Sciences, 102, 16777–16782. https://doi.org/10.1073/pnas.0508303102  
+
+Taylor, C. A., Jung, J.-U., Gallolu Kankanamalage, S., Li, J., Grzemska, M. G., Jaykumar, A. B., … Cobb, M. H. (2024). Predictive and experimental motif interaction analysis identifies functions of the WNK-OSR1/SPAK pathway. bioRxiv. https://doi.org/10.1101/2024.06.26.600905  
+
+Teixeira, L. R., Akella, R., Humphreys, J. M., He, H., & Goldsmith, E. J. (2024). Water and chloride as allosteric inhibitors in WNK kinase osmosensing. eLife. https://doi.org/10.1101/2023.08.29.555411  
+
+Unknown authors. (2017). Identifying novel functions of the WNK pathway (pp. 22-27).

@@ -1,0 +1,63 @@
+## Phylogeny  
+EIF2AK2 (protein kinase R, PKR) is one of four eIF2α kinases (with HRI, PERK, GCN2) and is placed in the CMGC branch of the protein-kinase superfamily (Dar et al., 2005; Donnelly et al., 2013). It appears only in vertebrates and probably arose from a gene-duplication event of an ancestral eIF2α kinase such as GCN2/HRI (Rothenburg et al., 2016). A phylogenetic link between the C-lobe of its catalytic domain and the baculovirus protein PK2 suggests past horizontal gene transfer (Li et al., 2015).
+
+## Reaction Catalyzed  
+ATP + [protein] ⇄ ADP + [phosphoprotein]  
+Best-characterised reaction: ATP + eIF2α → ADP + phospho-eIF2α (Dar et al., 2005; Dey et al., 2014).
+
+## Cofactor Requirements  
+Requires Mg²⁺ for ATP binding and phosphotransfer (Dar et al., 2005; Dey et al., 2014).
+
+## Substrate Specificity  
+• Major substrate: eIF2α, Ser51 (Dar et al., 2005).  
+• Efficient phosphorylation needs the intact eIF2α fold; Ser51 peptides alone are poor substrates, indicating extended docking contacts that include the kinase αG-helix (Dar et al., 2005; Taylor et al., 2005).  
+• Positional-scanning peptide libraries define preferences at −5 to +5 around Ser/Thr (Johnson et al., 2023).  
+• Primarily a Ser/Thr kinase but can also phosphorylate Tyr residues (Cesaro et al., 2021; Unknown Author, 2006).
+
+## Structure  
+A 551-residue protein with two N-terminal dsRNA-binding motifs followed by a C-terminal kinase domain (residues 258–551) that exhibits the canonical bilobal fold (Dabo & Meurs, 2012).  
+• Homodimerises “back-to-back” via N-lobes of the kinase (Unknown Author, 2006; Dey et al., 2014).  
+• C-lobe houses the ATP site and an extended eIF2α docking surface formed by a distinctive αG-helix (Taylor et al., 2005).  
+• Activation segment (432–458) contains the autophosphorylation site Thr446; phosphorylation here and coordination with helix αC stabilise the active state (Unknown Author, 2006; Dey et al., 2014).
+
+## Regulation  
+• Trigger: binding of dsRNA ≥ 30–35 bp promotes dimerisation and cis-autophosphorylation on Thr446/Thr451 (Rothenburg et al., 2016; Dey et al., 2014).  
+• Positive PTMs: ISGylation or SUMOylation at Lys60, 69, 150, 159, 440 produce constitutive activity (Bou-Nader et al., 2019).  
+• Negative PTMs: phosphorylation of Ser6 and Ser97 dampens activity (Cesaro et al., 2021).  
+• Protein partners: PACT/RAX activates; TRBP, ADAR1 and hDus2 inhibit; NF90 can act either way (Barber, 2005; Bou-Nader et al., 2019).
+
+## Function  
+Interferon-inducible cytosolic/nuclear kinase that senses viral dsRNA, oxidative/ER stress and cytokines (Barber, 2005; Donnelly et al., 2013). Phosphorylation of eIF2α Ser51 converts eIF2α into an inhibitor of eIF2B, reducing global translation, promoting stress-granule formation and apoptosis, thereby limiting viral replication (Barber, 2005; Dabo & Meurs, 2012). Additional substrates include p53, and PKR serves as an adaptor in NF-κB, p38 MAPK and STAT pathways (Dabo & Meurs, 2012).  
+
+## Inhibitors  
+Viral RNAs (adenovirus VA, EBV EBER1/2) bind PKR and block activation; viral proteins NS1 (influenza), E3L and K3L (vaccinia) antagonise via dsRNA sequestration or eIF2α mimicry (Bou-Nader et al., 2019; Rothenburg et al., 2016; Dar et al., 2005). Cellular inhibitors include TRBP, hDus2 and ADAR1 (Bou-Nader et al., 2019).
+
+## Other Comments  
+PKR dysregulation is associated with metabolic disease, cancer and neurodegeneration; phosphorylated PKR co-localises with Alzheimer’s aggregates (Bou-Nader et al., 2019; Dabo & Meurs, 2012). Loss-of-function mutation K296R abolishes catalytic activity; mutations that disrupt dimerisation or phosphomimetic Ser6/Ser97 substitutions also impair activation (Dey et al., 2014; Cesaro et al., 2021).
+
+## References  
+Barber, G. (2005). The dsRNA-dependent protein kinase, PKR and cell death. Cell Death and Differentiation, 12, 563–570. https://doi.org/10.1038/sj.cdd.4401643  
+
+Bou-Nader, C., Gordon, J. M., Henderson, F. E., & Zhang, J. (2019). The search for a PKR code—differential regulation of protein kinase R activity by diverse RNA and protein regulators. RNA, 25, 539–556. https://doi.org/10.1261/rna.070169.118  
+
+Cesaro, T., Hayashi, Y., Borghese, F., Vertommen, D., Wavreil, F., & Michiels, T. (2021). PKR activity modulation by phosphomimetic mutations of serine residues located three amino acids upstream of double-stranded RNA binding motifs. Scientific Reports. https://doi.org/10.1038/s41598-021-88610-z  
+
+Dabo, S., & Meurs, E. F. (2012). dsRNA-dependent protein kinase PKR and its role in stress, signaling and HCV infection. Viruses, 4, 2598–2635. https://doi.org/10.3390/v4112598  
+
+Dar, A. C., Dever, T. E., & Sicheri, F. (2005). Higher-order substrate recognition of eIF2α by the RNA-dependent protein kinase PKR. Cell, 122, 887–900. https://doi.org/10.1016/j.cell.2005.06.044  
+
+Dey, M., Mann, B. R., Anshu, A., & Mannan, M. A.-u. (2014). Activation of protein kinase PKR requires dimerization-induced cis-phosphorylation within the activation loop. Journal of Biological Chemistry, 289, 5747–5757. https://doi.org/10.1074/jbc.m113.527796  
+
+Donnelly, N., Gorman, A. M., Gupta, S., & Samali, A. (2013). The eIF2α kinases: their structures and functions. Cellular and Molecular Life Sciences, 70, 3493–3511. https://doi.org/10.1007/s00018-012-1252-6  
+
+Johnson, J. L., Yaron, T. M., Huntsman, E. M., et al. (2023). An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613, 759–766. https://doi.org/10.1038/s41586-022-05575-3  
+
+Li, J. J., Cao, C., Fixsen, S. M., et al. (2015). Baculovirus protein PK2 subverts eIF2α kinase function by mimicry of its kinase domain C-lobe. Proceedings of the National Academy of Sciences, 112, E4364–E4373. https://doi.org/10.1073/pnas.1505481112  
+
+Rothenburg, S., Georgiadis, M. M., & Wek, R. C. (2016). Evolution of eIF2α kinases: adapting translational control to diverse stresses. In Evolution of the Protein Synthesis Machinery and Its Regulation (pp. 235–260). https://doi.org/10.1007/978-3-319-39468-8_11  
+
+Taylor, S. S., Haste, N. M., & Ghosh, G. (2005). PKR and eIF2α: integration of kinase dimerization, activation, and substrate docking. Cell, 122, 823–825. https://doi.org/10.1016/j.cell.2005.09.007  
+
+Unknown Author. (2006). Catalytic switching and substrate recognition mechanisms of the RNA dependent protein kinase PKR. [Details unavailable].  
+
+Unknown Author. (2008). The activation and substrate binding regulation of the double-strand RNA protein kinase, PKR. [Details unavailable].
